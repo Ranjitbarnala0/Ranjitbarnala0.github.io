@@ -61,6 +61,12 @@
       toast('<span>Añadido al carrito: <b>' + d.t.replace(/</g, '&lt;') + '</b> · ' + q + ' uds.</span><a href="/carrito/">Ver carrito</a>')
       return
     }
+    var pic = e.target.closest('[data-pic]')
+    if (pic) {
+      document.getElementById('main-pic').src = pic.getAttribute('data-pic')
+      pic.parentNode.querySelectorAll('[data-pic]').forEach(function (b) { b.classList.toggle('on', b === pic) })
+      return
+    }
     var step = e.target.closest('[data-step]')
     if (step) {
       var input = step.parentNode.querySelector('input')

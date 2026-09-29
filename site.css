@@ -35,7 +35,7 @@ button { font: inherit; }
 .topbar .wrap { display: flex; justify-content: space-between; gap: 16px; min-height: 34px; align-items: center; }
 .topbar strong { color: var(--ink); font-weight: 600; letter-spacing: .02em; text-transform: uppercase; font-size: 11.5px; }
 .topbar nav { display: flex; gap: 18px; }
-@media (max-width: 700px) { .topbar nav { display: none; } }
+@media (max-width: 700px) { .topbar nav { display: none; } .topbar strong { font-size: 10.5px; letter-spacing: 0; } }
 
 /* header */
 .header { border-bottom: 1px solid var(--line); background: #fff; }
@@ -112,7 +112,7 @@ button { font: inherit; }
 .hero-facts div { background: rgb(255 255 255 / .1); border: 1px solid rgb(255 255 255 / .25); border-radius: var(--r); padding: 16px; }
 .hero-facts b { display: block; font-size: 28px; line-height: 1.1; }
 .hero-facts span { font-size: 13px; color: #d7ecf9; }
-@media (max-width: 900px) { .hero .wrap { grid-template-columns: 1fr; padding-top: 28px; padding-bottom: 28px; } .hero h1 { font-size: 28px; } }
+@media (max-width: 900px) { .hero .wrap { grid-template-columns: 1fr; padding-top: 28px; padding-bottom: 28px; } .hero h1 { font-size: 28px; } .hero-facts b { font-size: 21px; } .hero-facts div { padding: 12px; } }
 
 /* sections */
 .section { padding: 36px 0 8px; }
@@ -274,3 +274,12 @@ textarea.paste { width: 100%; min-height: 220px; border: 1.5px solid #c9d1d9; bo
 .prose h2 { margin: 26px 0 10px; font-size: 20px; }
 .prose table { border-collapse: collapse; width: 100%; margin: 12px 0; }
 .prose th, .prose td { border: 1px solid var(--line); padding: 8px 10px; text-align: left; font-size: 14px; }
+
+/* product gallery: clean photo + the exact model drawing */
+.pic { position: relative; }
+.pic-label { position: absolute; left: 12px; bottom: 12px; font-size: 11.5px; color: var(--muted); background: #fff; border: 1px solid var(--line); border-radius: var(--r-sm); padding: 2px 8px; }
+.thumbs { display: flex; gap: 10px; align-items: center; margin-top: 12px; }
+.thumbs button { width: 76px; height: 76px; padding: 6px; border: 1.5px solid var(--line); border-radius: var(--r); background: #fff; cursor: pointer; }
+.thumbs button.on, .thumbs button:hover { border-color: var(--blue); }
+.thumbs img { width: 100%; height: 100%; object-fit: contain; }
+.thumbs small { color: var(--muted); font-size: 12.5px; }
