@@ -1,0 +1,23 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+GI-ME-PAN-COM;Gigaset;ME;Pantalla;Compatible;15,15;14,70;14,24;6
+GI-ME-BAT-COM;Gigaset;ME;Batería;Compatible;9,65;;;6
+GI-ME-CON-COM;Gigaset;ME;Conector de carga;Compatible;4,60;;;6
+GI-ME-TAP-COM;Gigaset;ME;Tapa trasera;Compatible;5,40;;;6
+GI-ME-CTR-COM;Gigaset;ME;Cámara trasera;Compatible;7,59;;;6
+GI-ME-CFR-COM;Gigaset;ME;Cámara frontal;Compatible;4,99;;;6
+GI-ME-LEN-COM;Gigaset;ME;Lente de cámara;Compatible;2,19;;;6
+GI-ME-ALT-COM;Gigaset;ME;Altavoz;Compatible;3,65;;;6
+GI-ME-AUR-COM;Gigaset;ME;Auricular de llamada;Compatible;2,65;;;6
+GI-ME-FLX-COM;Gigaset;ME;Flex de encendido y volumen;Compatible;2,49;;;6
+GI-ME-SIM-COM;Gigaset;ME;Bandeja SIM;Compatible;2,55;;;6
+GI-ME-PRO-NA;Gigaset;ME;Cristal templado;Estándar;1,30;;;
+GI-ME-PRO-PRI;Gigaset;ME;Cristal templado;Privacidad;4,00;;;
+GI-ME-FUN-SIL;Gigaset;ME;Funda;Silicona;2,50;;;
+GI-ME-FUN-TPU;Gigaset;ME;Funda;Transparente;2,95;;;
+GI-ME-FUN-LIB;Gigaset;ME;Funda;Libro;3,70;;;
+GI-ME-FUN-ANT;Gigaset;ME;Funda;Antigolpes;3,10;;;
+GI-ME-MAR-COM;Gigaset;ME;Marco / chasis;Compatible;5,75;;;6
+GI-ME-BOT-COM;Gigaset;ME;Botones laterales;Compatible;2,95;;;6
+GI-ME-CRI-COM;Gigaset;ME;Cristal de pantalla;Compatible;2,95;;;6
+GI-ME-ANT-COM;Gigaset;ME;Antena / coaxial;Compatible;2,55;;;6
+GI-ME-HUE-COM;Gigaset;ME;Botón home / huella;Compatible;4,25;;;6

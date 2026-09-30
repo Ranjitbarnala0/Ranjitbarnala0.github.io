@@ -1,0 +1,2634 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+SO-XACEIII-PAN-COM;Sony;Xperia Ace III;Pantalla;Compatible;16,10;15,62;15,13;6
+SO-XACEIII-BAT-COM;Sony;Xperia Ace III;Batería;Compatible;8,25;;;6
+SO-XACEIII-CON-COM;Sony;Xperia Ace III;Conector de carga;Compatible;4,40;;;6
+SO-XACEIII-TAP-COM;Sony;Xperia Ace III;Tapa trasera;Compatible;5,55;;;6
+SO-XACEIII-CTR-COM;Sony;Xperia Ace III;Cámara trasera;Compatible;6,19;;;6
+SO-XACEIII-CFR-COM;Sony;Xperia Ace III;Cámara frontal;Compatible;3,65;;;6
+SO-XACEIII-LEN-COM;Sony;Xperia Ace III;Lente de cámara;Compatible;2,20;;;6
+SO-XACEIII-ALT-COM;Sony;Xperia Ace III;Altavoz;Compatible;3,35;;;6
+SO-XACEIII-AUR-COM;Sony;Xperia Ace III;Auricular de llamada;Compatible;2,40;;;6
+SO-XACEIII-FLX-COM;Sony;Xperia Ace III;Flex de encendido y volumen;Compatible;2,29;;;6
+SO-XACEIII-SIM-COM;Sony;Xperia Ace III;Bandeja SIM;Compatible;2,60;;;6
+SO-X10IIIL-PAN-INC;Sony;Xperia 10 III Lite;Pantalla;Incell;18,79;18,23;17,66;6
+SO-X10IIIL-BAT-COM;Sony;Xperia 10 III Lite;Batería;Compatible;8,25;;;6
+SO-X10IIIL-CON-COM;Sony;Xperia 10 III Lite;Conector de carga;Compatible;4,40;;;6
+SO-X10IIIL-TAP-COM;Sony;Xperia 10 III Lite;Tapa trasera;Compatible;5,55;;;6
+SO-X10IIIL-CTR-COM;Sony;Xperia 10 III Lite;Cámara trasera;Compatible;6,19;;;6
+SO-X10IIIL-CFR-COM;Sony;Xperia 10 III Lite;Cámara frontal;Compatible;3,65;;;6
+SO-X10IIIL-LEN-COM;Sony;Xperia 10 III Lite;Lente de cámara;Compatible;2,20;;;6
+SO-X10IIIL-ALT-COM;Sony;Xperia 10 III Lite;Altavoz;Compatible;3,35;;;6
+SO-X10IIIL-AUR-COM;Sony;Xperia 10 III Lite;Auricular de llamada;Compatible;2,40;;;6
+SO-X10IIIL-FLX-COM;Sony;Xperia 10 III Lite;Flex de encendido y volumen;Compatible;2,29;;;6
+SO-X10IIIL-SIM-COM;Sony;Xperia 10 III Lite;Bandeja SIM;Compatible;2,60;;;6
+SO-XACEII-PAN-COM;Sony;Xperia Ace II;Pantalla;Compatible;16,10;15,62;15,13;6
+SO-XACEII-BAT-COM;Sony;Xperia Ace II;Batería;Compatible;8,25;;;6
+SO-XACEII-CON-COM;Sony;Xperia Ace II;Conector de carga;Compatible;4,40;;;6
+SO-XACEII-TAP-COM;Sony;Xperia Ace II;Tapa trasera;Compatible;5,55;;;6
+SO-XACEII-CTR-COM;Sony;Xperia Ace II;Cámara trasera;Compatible;6,19;;;6
+SO-XACEII-CFR-COM;Sony;Xperia Ace II;Cámara frontal;Compatible;3,65;;;6
+SO-XACEII-LEN-COM;Sony;Xperia Ace II;Lente de cámara;Compatible;2,20;;;6
+SO-XACEII-ALT-COM;Sony;Xperia Ace II;Altavoz;Compatible;3,35;;;6
+SO-XACEII-AUR-COM;Sony;Xperia Ace II;Auricular de llamada;Compatible;2,40;;;6
+SO-XACEII-FLX-COM;Sony;Xperia Ace II;Flex de encendido y volumen;Compatible;2,29;;;6
+SO-XACEII-SIM-COM;Sony;Xperia Ace II;Bandeja SIM;Compatible;2,60;;;6
+SO-XPERIAPR-PAN-INC;Sony;Xperia PRO;Pantalla;Incell;18,79;18,23;17,66;6
+SO-XPERIAPR-BAT-COM;Sony;Xperia PRO;Batería;Compatible;8,25;;;6
+SO-XPERIAPR-CON-COM;Sony;Xperia PRO;Conector de carga;Compatible;4,40;;;6
+SO-XPERIAPR-TAP-COM;Sony;Xperia PRO;Tapa trasera;Compatible;5,55;;;6
+SO-XPERIAPR-CTR-COM;Sony;Xperia PRO;Cámara trasera;Compatible;6,19;;;6
+SO-XPERIAPR-CFR-COM;Sony;Xperia PRO;Cámara frontal;Compatible;3,65;;;6
+SO-XPERIAPR-LEN-COM;Sony;Xperia PRO;Lente de cámara;Compatible;2,20;;;6
+SO-XPERIAPR-ALT-COM;Sony;Xperia PRO;Altavoz;Compatible;3,35;;;6
+SO-XPERIAPR-AUR-COM;Sony;Xperia PRO;Auricular de llamada;Compatible;2,40;;;6
+SO-XPERIAPR-FLX-COM;Sony;Xperia PRO;Flex de encendido y volumen;Compatible;2,29;;;6
+SO-XPERIAPR-SIM-COM;Sony;Xperia PRO;Bandeja SIM;Compatible;2,60;;;6
+SO-X8L-PAN-COM;Sony;Xperia 8 Lite;Pantalla;Compatible;16,10;15,62;15,13;6
+SO-X8L-BAT-COM;Sony;Xperia 8 Lite;Batería;Compatible;8,25;;;6
+SO-X8L-CON-COM;Sony;Xperia 8 Lite;Conector de carga;Compatible;4,40;;;6
+SO-X8L-TAP-COM;Sony;Xperia 8 Lite;Tapa trasera;Compatible;5,55;;;6
+SO-X8L-CTR-COM;Sony;Xperia 8 Lite;Cámara trasera;Compatible;6,19;;;6
+SO-X8L-CFR-COM;Sony;Xperia 8 Lite;Cámara frontal;Compatible;3,65;;;6
+SO-X8L-LEN-COM;Sony;Xperia 8 Lite;Lente de cámara;Compatible;2,20;;;6
+SO-X8L-ALT-COM;Sony;Xperia 8 Lite;Altavoz;Compatible;3,35;;;6
+SO-X8L-AUR-COM;Sony;Xperia 8 Lite;Auricular de llamada;Compatible;2,40;;;6
+SO-X8L-FLX-COM;Sony;Xperia 8 Lite;Flex de encendido y volumen;Compatible;2,29;;;6
+SO-X8L-SIM-COM;Sony;Xperia 8 Lite;Bandeja SIM;Compatible;2,60;;;6
+SO-X8-PAN-COM;Sony;Xperia 8;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-X8-BAT-COM;Sony;Xperia 8;Batería;Compatible;9,65;;;6
+SO-X8-CON-COM;Sony;Xperia 8;Conector de carga;Compatible;4,60;;;6
+SO-X8-TAP-COM;Sony;Xperia 8;Tapa trasera;Compatible;5,40;;;6
+SO-X8-CTR-COM;Sony;Xperia 8;Cámara trasera;Compatible;7,59;;;6
+SO-X8-CFR-COM;Sony;Xperia 8;Cámara frontal;Compatible;4,99;;;6
+SO-X8-LEN-COM;Sony;Xperia 8;Lente de cámara;Compatible;2,19;;;6
+SO-X8-ALT-COM;Sony;Xperia 8;Altavoz;Compatible;3,65;;;6
+SO-X8-AUR-COM;Sony;Xperia 8;Auricular de llamada;Compatible;2,65;;;6
+SO-X8-FLX-COM;Sony;Xperia 8;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-X8-SIM-COM;Sony;Xperia 8;Bandeja SIM;Compatible;2,55;;;6
+SO-XACE-PAN-COM;Sony;Xperia Ace;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XACE-BAT-COM;Sony;Xperia Ace;Batería;Compatible;9,65;;;6
+SO-XACE-CON-COM;Sony;Xperia Ace;Conector de carga;Compatible;4,60;;;6
+SO-XACE-TAP-COM;Sony;Xperia Ace;Tapa trasera;Compatible;5,40;;;6
+SO-XACE-CTR-COM;Sony;Xperia Ace;Cámara trasera;Compatible;7,59;;;6
+SO-XACE-CFR-COM;Sony;Xperia Ace;Cámara frontal;Compatible;4,99;;;6
+SO-XACE-LEN-COM;Sony;Xperia Ace;Lente de cámara;Compatible;2,19;;;6
+SO-XACE-ALT-COM;Sony;Xperia Ace;Altavoz;Compatible;3,65;;;6
+SO-XACE-AUR-COM;Sony;Xperia Ace;Auricular de llamada;Compatible;2,65;;;6
+SO-XACE-FLX-COM;Sony;Xperia Ace;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XACE-SIM-COM;Sony;Xperia Ace;Bandeja SIM;Compatible;2,55;;;6
+SO-XR1-PAN-COM;Sony;Xperia R1;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XR1-BAT-COM;Sony;Xperia R1;Batería;Compatible;9,65;;;6
+SO-XR1-CON-COM;Sony;Xperia R1;Conector de carga;Compatible;4,60;;;6
+SO-XR1-TAP-COM;Sony;Xperia R1;Tapa trasera;Compatible;5,40;;;6
+SO-XR1-CTR-COM;Sony;Xperia R1;Cámara trasera;Compatible;7,59;;;6
+SO-XR1-CFR-COM;Sony;Xperia R1;Cámara frontal;Compatible;4,99;;;6
+SO-XR1-LEN-COM;Sony;Xperia R1;Lente de cámara;Compatible;2,19;;;6
+SO-XR1-ALT-COM;Sony;Xperia R1;Altavoz;Compatible;3,65;;;6
+SO-XR1-AUR-COM;Sony;Xperia R1;Auricular de llamada;Compatible;2,65;;;6
+SO-XR1-FLX-COM;Sony;Xperia R1;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XR1-SIM-COM;Sony;Xperia R1;Bandeja SIM;Compatible;2,55;;;6
+SO-XR1PL-PAN-COM;Sony;Xperia R1 Plus;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XR1PL-BAT-COM;Sony;Xperia R1 Plus;Batería;Compatible;9,65;;;6
+SO-XR1PL-CON-COM;Sony;Xperia R1 Plus;Conector de carga;Compatible;4,60;;;6
+SO-XR1PL-TAP-COM;Sony;Xperia R1 Plus;Tapa trasera;Compatible;5,40;;;6
+SO-XR1PL-CTR-COM;Sony;Xperia R1 Plus;Cámara trasera;Compatible;7,59;;;6
+SO-XR1PL-CFR-COM;Sony;Xperia R1 Plus;Cámara frontal;Compatible;4,99;;;6
+SO-XR1PL-LEN-COM;Sony;Xperia R1 Plus;Lente de cámara;Compatible;2,19;;;6
+SO-XR1PL-ALT-COM;Sony;Xperia R1 Plus;Altavoz;Compatible;3,65;;;6
+SO-XR1PL-AUR-COM;Sony;Xperia R1 Plus;Auricular de llamada;Compatible;2,65;;;6
+SO-XR1PL-FLX-COM;Sony;Xperia R1 Plus;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XR1PL-SIM-COM;Sony;Xperia R1 Plus;Bandeja SIM;Compatible;2,55;;;6
+SO-XXZSP-PAN-COM;Sony;Xperia XZs Premium;Pantalla;Compatible;21,80;21,15;20,49;6
+SO-XXZSP-BAT-COM;Sony;Xperia XZs Premium;Batería;Compatible;9,95;;;6
+SO-XXZSP-CON-COM;Sony;Xperia XZs Premium;Conector de carga;Compatible;5,79;;;6
+SO-XXZSP-TAP-COM;Sony;Xperia XZs Premium;Tapa trasera;Compatible;6,75;;;6
+SO-XXZSP-CTR-COM;Sony;Xperia XZs Premium;Cámara trasera;Compatible;11,55;11,20;10,86;6
+SO-XXZSP-CFR-COM;Sony;Xperia XZs Premium;Cámara frontal;Compatible;6,59;;;6
+SO-XXZSP-LEN-COM;Sony;Xperia XZs Premium;Lente de cámara;Compatible;3,05;;;6
+SO-XXZSP-ALT-COM;Sony;Xperia XZs Premium;Altavoz;Compatible;4,60;;;6
+SO-XXZSP-AUR-COM;Sony;Xperia XZs Premium;Auricular de llamada;Compatible;3,60;;;6
+SO-XXZSP-FLX-COM;Sony;Xperia XZs Premium;Flex de encendido y volumen;Compatible;3,50;;;6
+SO-XXZSP-SIM-COM;Sony;Xperia XZs Premium;Bandeja SIM;Compatible;3,15;;;6
+SO-XM5-PAN-COM;Sony;Xperia M5;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XM5-BAT-COM;Sony;Xperia M5;Batería;Compatible;9,65;;;6
+SO-XM5-CON-COM;Sony;Xperia M5;Conector de carga;Compatible;4,60;;;6
+SO-XM5-TAP-COM;Sony;Xperia M5;Tapa trasera;Compatible;5,40;;;6
+SO-XM5-CTR-COM;Sony;Xperia M5;Cámara trasera;Compatible;7,59;;;6
+SO-XM5-CFR-COM;Sony;Xperia M5;Cámara frontal;Compatible;4,99;;;6
+SO-XM5-LEN-COM;Sony;Xperia M5;Lente de cámara;Compatible;2,19;;;6
+SO-XM5-ALT-COM;Sony;Xperia M5;Altavoz;Compatible;3,65;;;6
+SO-XM5-AUR-COM;Sony;Xperia M5;Auricular de llamada;Compatible;2,65;;;6
+SO-XM5-FLX-COM;Sony;Xperia M5;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XM5-SIM-COM;Sony;Xperia M5;Bandeja SIM;Compatible;2,55;;;6
+SO-XC5U-PAN-COM;Sony;Xperia C5 Ultra;Pantalla;Compatible;16,69;16,19;15,69;6
+SO-XC5U-BAT-COM;Sony;Xperia C5 Ultra;Batería;Compatible;9,65;;;6
+SO-XC5U-CON-COM;Sony;Xperia C5 Ultra;Conector de carga;Compatible;4,60;;;6
+SO-XC5U-TAP-COM;Sony;Xperia C5 Ultra;Tapa trasera;Compatible;5,40;;;6
+SO-XC5U-CTR-COM;Sony;Xperia C5 Ultra;Cámara trasera;Compatible;7,59;;;6
+SO-XC5U-CFR-COM;Sony;Xperia C5 Ultra;Cámara frontal;Compatible;4,99;;;6
+SO-XC5U-LEN-COM;Sony;Xperia C5 Ultra;Lente de cámara;Compatible;2,19;;;6
+SO-XC5U-ALT-COM;Sony;Xperia C5 Ultra;Altavoz;Compatible;3,65;;;6
+SO-XC5U-AUR-COM;Sony;Xperia C5 Ultra;Auricular de llamada;Compatible;2,65;;;6
+SO-XC5U-FLX-COM;Sony;Xperia C5 Ultra;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XC5U-SIM-COM;Sony;Xperia C5 Ultra;Bandeja SIM;Compatible;2,55;;;6
+SO-XA4-PAN-COM;Sony;Xperia A4;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XA4-BAT-COM;Sony;Xperia A4;Batería;Compatible;9,65;;;6
+SO-XA4-CON-COM;Sony;Xperia A4;Conector de carga;Compatible;4,60;;;6
+SO-XA4-TAP-COM;Sony;Xperia A4;Tapa trasera;Compatible;5,40;;;6
+SO-XA4-CTR-COM;Sony;Xperia A4;Cámara trasera;Compatible;7,59;;;6
+SO-XA4-CFR-COM;Sony;Xperia A4;Cámara frontal;Compatible;4,99;;;6
+SO-XA4-LEN-COM;Sony;Xperia A4;Lente de cámara;Compatible;2,19;;;6
+SO-XA4-ALT-COM;Sony;Xperia A4;Altavoz;Compatible;3,65;;;6
+SO-XA4-AUR-COM;Sony;Xperia A4;Auricular de llamada;Compatible;2,65;;;6
+SO-XA4-FLX-COM;Sony;Xperia A4;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XA4-SIM-COM;Sony;Xperia A4;Bandeja SIM;Compatible;2,55;;;6
+SO-XZ4-PAN-COM;Sony;Xperia Z4;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XZ4-BAT-COM;Sony;Xperia Z4;Batería;Compatible;9,65;;;6
+SO-XZ4-CON-COM;Sony;Xperia Z4;Conector de carga;Compatible;4,60;;;6
+SO-XZ4-TAP-COM;Sony;Xperia Z4;Tapa trasera;Compatible;5,40;;;6
+SO-XZ4-CTR-COM;Sony;Xperia Z4;Cámara trasera;Compatible;7,59;;;6
+SO-XZ4-CFR-COM;Sony;Xperia Z4;Cámara frontal;Compatible;4,99;;;6
+SO-XZ4-LEN-COM;Sony;Xperia Z4;Lente de cámara;Compatible;2,19;;;6
+SO-XZ4-ALT-COM;Sony;Xperia Z4;Altavoz;Compatible;3,65;;;6
+SO-XZ4-AUR-COM;Sony;Xperia Z4;Auricular de llamada;Compatible;2,65;;;6
+SO-XZ4-FLX-COM;Sony;Xperia Z4;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XZ4-SIM-COM;Sony;Xperia Z4;Bandeja SIM;Compatible;2,55;;;6
+SO-XZ4V-PAN-COM;Sony;Xperia Z4v;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XZ4V-BAT-COM;Sony;Xperia Z4v;Batería;Compatible;9,65;;;6
+SO-XZ4V-CON-COM;Sony;Xperia Z4v;Conector de carga;Compatible;4,60;;;6
+SO-XZ4V-TAP-COM;Sony;Xperia Z4v;Tapa trasera;Compatible;5,40;;;6
+SO-XZ4V-CTR-COM;Sony;Xperia Z4v;Cámara trasera;Compatible;7,59;;;6
+SO-XZ4V-CFR-COM;Sony;Xperia Z4v;Cámara frontal;Compatible;4,99;;;6
+SO-XZ4V-LEN-COM;Sony;Xperia Z4v;Lente de cámara;Compatible;2,19;;;6
+SO-XZ4V-ALT-COM;Sony;Xperia Z4v;Altavoz;Compatible;3,65;;;6
+SO-XZ4V-AUR-COM;Sony;Xperia Z4v;Auricular de llamada;Compatible;2,65;;;6
+SO-XZ4V-FLX-COM;Sony;Xperia Z4v;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XZ4V-SIM-COM;Sony;Xperia Z4v;Bandeja SIM;Compatible;2,55;;;6
+SO-XC4-PAN-COM;Sony;Xperia C4;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XC4-BAT-COM;Sony;Xperia C4;Batería;Compatible;9,65;;;6
+SO-XC4-CON-COM;Sony;Xperia C4;Conector de carga;Compatible;4,60;;;6
+SO-XC4-TAP-COM;Sony;Xperia C4;Tapa trasera;Compatible;5,40;;;6
+SO-XC4-CTR-COM;Sony;Xperia C4;Cámara trasera;Compatible;7,59;;;6
+SO-XC4-CFR-COM;Sony;Xperia C4;Cámara frontal;Compatible;4,99;;;6
+SO-XC4-LEN-COM;Sony;Xperia C4;Lente de cámara;Compatible;2,19;;;6
+SO-XC4-ALT-COM;Sony;Xperia C4;Altavoz;Compatible;3,65;;;6
+SO-XC4-AUR-COM;Sony;Xperia C4;Auricular de llamada;Compatible;2,65;;;6
+SO-XC4-FLX-COM;Sony;Xperia C4;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XC4-SIM-COM;Sony;Xperia C4;Bandeja SIM;Compatible;2,55;;;6
+SO-XZ3PL-PAN-COM;Sony;Xperia Z3+;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XZ3PL-BAT-COM;Sony;Xperia Z3+;Batería;Compatible;9,65;;;6
+SO-XZ3PL-CON-COM;Sony;Xperia Z3+;Conector de carga;Compatible;4,60;;;6
+SO-XZ3PL-TAP-COM;Sony;Xperia Z3+;Tapa trasera;Compatible;5,40;;;6
+SO-XZ3PL-CTR-COM;Sony;Xperia Z3+;Cámara trasera;Compatible;7,59;;;6
+SO-XZ3PL-CFR-COM;Sony;Xperia Z3+;Cámara frontal;Compatible;4,99;;;6
+SO-XZ3PL-LEN-COM;Sony;Xperia Z3+;Lente de cámara;Compatible;2,19;;;6
+SO-XZ3PL-ALT-COM;Sony;Xperia Z3+;Altavoz;Compatible;3,65;;;6
+SO-XZ3PL-AUR-COM;Sony;Xperia Z3+;Auricular de llamada;Compatible;2,65;;;6
+SO-XZ3PL-FLX-COM;Sony;Xperia Z3+;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XZ3PL-SIM-COM;Sony;Xperia Z3+;Bandeja SIM;Compatible;2,55;;;6
+SO-XE4-PAN-COM;Sony;Xperia E4;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XE4-BAT-COM;Sony;Xperia E4;Batería;Compatible;9,65;;;6
+SO-XE4-CON-COM;Sony;Xperia E4;Conector de carga;Compatible;4,60;;;6
+SO-XE4-TAP-COM;Sony;Xperia E4;Tapa trasera;Compatible;5,40;;;6
+SO-XE4-CTR-COM;Sony;Xperia E4;Cámara trasera;Compatible;7,59;;;6
+SO-XE4-CFR-COM;Sony;Xperia E4;Cámara frontal;Compatible;4,99;;;6
+SO-XE4-LEN-COM;Sony;Xperia E4;Lente de cámara;Compatible;2,19;;;6
+SO-XE4-ALT-COM;Sony;Xperia E4;Altavoz;Compatible;3,65;;;6
+SO-XE4-AUR-COM;Sony;Xperia E4;Auricular de llamada;Compatible;2,65;;;6
+SO-XE4-FLX-COM;Sony;Xperia E4;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XE4-SIM-COM;Sony;Xperia E4;Bandeja SIM;Compatible;2,55;;;6
+SO-XE4G-PAN-COM;Sony;Xperia E4g;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XE4G-BAT-COM;Sony;Xperia E4g;Batería;Compatible;9,65;;;6
+SO-XE4G-CON-COM;Sony;Xperia E4g;Conector de carga;Compatible;4,60;;;6
+SO-XE4G-TAP-COM;Sony;Xperia E4g;Tapa trasera;Compatible;5,40;;;6
+SO-XE4G-CTR-COM;Sony;Xperia E4g;Cámara trasera;Compatible;7,59;;;6
+SO-XE4G-CFR-COM;Sony;Xperia E4g;Cámara frontal;Compatible;4,99;;;6
+SO-XE4G-LEN-COM;Sony;Xperia E4g;Lente de cámara;Compatible;2,19;;;6
+SO-XE4G-ALT-COM;Sony;Xperia E4g;Altavoz;Compatible;3,65;;;6
+SO-XE4G-AUR-COM;Sony;Xperia E4g;Auricular de llamada;Compatible;2,65;;;6
+SO-XE4G-FLX-COM;Sony;Xperia E4g;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XE4G-SIM-COM;Sony;Xperia E4g;Bandeja SIM;Compatible;2,55;;;6
+SO-XM4A-PAN-COM;Sony;Xperia M4 Aqua;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XM4A-BAT-COM;Sony;Xperia M4 Aqua;Batería;Compatible;9,65;;;6
+SO-XM4A-CON-COM;Sony;Xperia M4 Aqua;Conector de carga;Compatible;4,60;;;6
+SO-XM4A-TAP-COM;Sony;Xperia M4 Aqua;Tapa trasera;Compatible;5,40;;;6
+SO-XM4A-CTR-COM;Sony;Xperia M4 Aqua;Cámara trasera;Compatible;7,59;;;6
+SO-XM4A-CFR-COM;Sony;Xperia M4 Aqua;Cámara frontal;Compatible;4,99;;;6
+SO-XM4A-LEN-COM;Sony;Xperia M4 Aqua;Lente de cámara;Compatible;2,19;;;6
+SO-XM4A-ALT-COM;Sony;Xperia M4 Aqua;Altavoz;Compatible;3,65;;;6
+SO-XM4A-AUR-COM;Sony;Xperia M4 Aqua;Auricular de llamada;Compatible;2,65;;;6
+SO-XM4A-FLX-COM;Sony;Xperia M4 Aqua;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XM4A-SIM-COM;Sony;Xperia M4 Aqua;Bandeja SIM;Compatible;2,55;;;6
+SO-XZ3-PAN-COM;Sony;Xperia Z3;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XZ3-BAT-COM;Sony;Xperia Z3;Batería;Compatible;9,65;;;6
+SO-XZ3-CON-COM;Sony;Xperia Z3;Conector de carga;Compatible;4,60;;;6
+SO-XZ3-TAP-COM;Sony;Xperia Z3;Tapa trasera;Compatible;5,40;;;6
+SO-XZ3-CTR-COM;Sony;Xperia Z3;Cámara trasera;Compatible;7,59;;;6
+SO-XZ3-CFR-COM;Sony;Xperia Z3;Cámara frontal;Compatible;4,99;;;6
+SO-XZ3-LEN-COM;Sony;Xperia Z3;Lente de cámara;Compatible;2,19;;;6
+SO-XZ3-ALT-COM;Sony;Xperia Z3;Altavoz;Compatible;3,65;;;6
+SO-XZ3-AUR-COM;Sony;Xperia Z3;Auricular de llamada;Compatible;2,65;;;6
+SO-XZ3-FLX-COM;Sony;Xperia Z3;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XZ3-SIM-COM;Sony;Xperia Z3;Bandeja SIM;Compatible;2,55;;;6
+SO-XZ3C-PAN-COM;Sony;Xperia Z3 Compact;Pantalla;Compatible;15,55;15,08;14,62;6
+SO-XZ3C-BAT-COM;Sony;Xperia Z3 Compact;Batería;Compatible;10,40;10,09;9,78;6
+SO-XZ3C-CON-COM;Sony;Xperia Z3 Compact;Conector de carga;Compatible;4,30;;;6
+SO-XZ3C-TAP-COM;Sony;Xperia Z3 Compact;Tapa trasera;Compatible;5,49;;;6
+SO-XZ3C-CTR-COM;Sony;Xperia Z3 Compact;Cámara trasera;Compatible;9,20;;;6
+SO-XZ3C-CFR-COM;Sony;Xperia Z3 Compact;Cámara frontal;Compatible;5,25;;;6
+SO-XZ3C-LEN-COM;Sony;Xperia Z3 Compact;Lente de cámara;Compatible;2,60;;;6
+SO-XZ3C-ALT-COM;Sony;Xperia Z3 Compact;Altavoz;Compatible;4,05;;;6
+SO-XZ3C-AUR-COM;Sony;Xperia Z3 Compact;Auricular de llamada;Compatible;3,30;;;6
+SO-XZ3C-FLX-COM;Sony;Xperia Z3 Compact;Flex de encendido y volumen;Compatible;3,25;;;6
+SO-XZ3C-SIM-COM;Sony;Xperia Z3 Compact;Bandeja SIM;Compatible;2,90;;;6
+SO-XE3-PAN-COM;Sony;Xperia E3;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XE3-BAT-COM;Sony;Xperia E3;Batería;Compatible;9,65;;;6
+SO-XE3-CON-COM;Sony;Xperia E3;Conector de carga;Compatible;4,60;;;6
+SO-XE3-TAP-COM;Sony;Xperia E3;Tapa trasera;Compatible;5,40;;;6
+SO-XE3-CTR-COM;Sony;Xperia E3;Cámara trasera;Compatible;7,59;;;6
+SO-XE3-CFR-COM;Sony;Xperia E3;Cámara frontal;Compatible;4,99;;;6
+SO-XE3-LEN-COM;Sony;Xperia E3;Lente de cámara;Compatible;2,19;;;6
+SO-XE3-ALT-COM;Sony;Xperia E3;Altavoz;Compatible;3,65;;;6
+SO-XE3-AUR-COM;Sony;Xperia E3;Auricular de llamada;Compatible;2,65;;;6
+SO-XE3-FLX-COM;Sony;Xperia E3;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XE3-SIM-COM;Sony;Xperia E3;Bandeja SIM;Compatible;2,55;;;6
+SO-XC3-PAN-COM;Sony;Xperia C3;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XC3-BAT-COM;Sony;Xperia C3;Batería;Compatible;9,65;;;6
+SO-XC3-CON-COM;Sony;Xperia C3;Conector de carga;Compatible;4,60;;;6
+SO-XC3-TAP-COM;Sony;Xperia C3;Tapa trasera;Compatible;5,40;;;6
+SO-XC3-CTR-COM;Sony;Xperia C3;Cámara trasera;Compatible;7,59;;;6
+SO-XC3-CFR-COM;Sony;Xperia C3;Cámara frontal;Compatible;4,99;;;6
+SO-XC3-LEN-COM;Sony;Xperia C3;Lente de cámara;Compatible;2,19;;;6
+SO-XC3-ALT-COM;Sony;Xperia C3;Altavoz;Compatible;3,65;;;6
+SO-XC3-AUR-COM;Sony;Xperia C3;Auricular de llamada;Compatible;2,65;;;6
+SO-XC3-FLX-COM;Sony;Xperia C3;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XC3-SIM-COM;Sony;Xperia C3;Bandeja SIM;Compatible;2,55;;;6
+SO-XT3-PAN-COM;Sony;Xperia T3;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XT3-BAT-COM;Sony;Xperia T3;Batería;Compatible;9,65;;;6
+SO-XT3-CON-COM;Sony;Xperia T3;Conector de carga;Compatible;4,60;;;6
+SO-XT3-TAP-COM;Sony;Xperia T3;Tapa trasera;Compatible;5,40;;;6
+SO-XT3-CTR-COM;Sony;Xperia T3;Cámara trasera;Compatible;7,59;;;6
+SO-XT3-CFR-COM;Sony;Xperia T3;Cámara frontal;Compatible;4,99;;;6
+SO-XT3-LEN-COM;Sony;Xperia T3;Lente de cámara;Compatible;2,19;;;6
+SO-XT3-ALT-COM;Sony;Xperia T3;Altavoz;Compatible;3,65;;;6
+SO-XT3-AUR-COM;Sony;Xperia T3;Auricular de llamada;Compatible;2,65;;;6
+SO-XT3-FLX-COM;Sony;Xperia T3;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XT3-SIM-COM;Sony;Xperia T3;Bandeja SIM;Compatible;2,55;;;6
+SO-XA2-PAN-COM;Sony;Xperia A2;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XA2-BAT-COM;Sony;Xperia A2;Batería;Compatible;9,65;;;6
+SO-XA2-CON-COM;Sony;Xperia A2;Conector de carga;Compatible;4,60;;;6
+SO-XA2-TAP-COM;Sony;Xperia A2;Tapa trasera;Compatible;5,40;;;6
+SO-XA2-CTR-COM;Sony;Xperia A2;Cámara trasera;Compatible;7,59;;;6
+SO-XA2-CFR-COM;Sony;Xperia A2;Cámara frontal;Compatible;4,99;;;6
+SO-XA2-LEN-COM;Sony;Xperia A2;Lente de cámara;Compatible;2,19;;;6
+SO-XA2-ALT-COM;Sony;Xperia A2;Altavoz;Compatible;3,65;;;6
+SO-XA2-AUR-COM;Sony;Xperia A2;Auricular de llamada;Compatible;2,65;;;6
+SO-XA2-FLX-COM;Sony;Xperia A2;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XA2-SIM-COM;Sony;Xperia A2;Bandeja SIM;Compatible;2,55;;;6
+SO-XJ1C-PAN-COM;Sony;Xperia J1 Compact;Pantalla;Compatible;15,55;15,08;14,62;6
+SO-XJ1C-BAT-COM;Sony;Xperia J1 Compact;Batería;Compatible;10,40;10,09;9,78;6
+SO-XJ1C-CON-COM;Sony;Xperia J1 Compact;Conector de carga;Compatible;4,30;;;6
+SO-XJ1C-TAP-COM;Sony;Xperia J1 Compact;Tapa trasera;Compatible;5,49;;;6
+SO-XJ1C-CTR-COM;Sony;Xperia J1 Compact;Cámara trasera;Compatible;9,20;;;6
+SO-XJ1C-CFR-COM;Sony;Xperia J1 Compact;Cámara frontal;Compatible;5,25;;;6
+SO-XJ1C-LEN-COM;Sony;Xperia J1 Compact;Lente de cámara;Compatible;2,60;;;6
+SO-XJ1C-ALT-COM;Sony;Xperia J1 Compact;Altavoz;Compatible;4,05;;;6
+SO-XJ1C-AUR-COM;Sony;Xperia J1 Compact;Auricular de llamada;Compatible;3,30;;;6
+SO-XJ1C-FLX-COM;Sony;Xperia J1 Compact;Flex de encendido y volumen;Compatible;3,25;;;6
+SO-XJ1C-SIM-COM;Sony;Xperia J1 Compact;Bandeja SIM;Compatible;2,90;;;6
+SO-XZ2A-PAN-COM;Sony;Xperia Z2a;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XZ2A-BAT-COM;Sony;Xperia Z2a;Batería;Compatible;9,65;;;6
+SO-XZ2A-CON-COM;Sony;Xperia Z2a;Conector de carga;Compatible;4,60;;;6
+SO-XZ2A-TAP-COM;Sony;Xperia Z2a;Tapa trasera;Compatible;5,40;;;6
+SO-XZ2A-CTR-COM;Sony;Xperia Z2a;Cámara trasera;Compatible;7,59;;;6
+SO-XZ2A-CFR-COM;Sony;Xperia Z2a;Cámara frontal;Compatible;4,99;;;6
+SO-XZ2A-LEN-COM;Sony;Xperia Z2a;Lente de cámara;Compatible;2,19;;;6
+SO-XZ2A-ALT-COM;Sony;Xperia Z2a;Altavoz;Compatible;3,65;;;6
+SO-XZ2A-AUR-COM;Sony;Xperia Z2a;Auricular de llamada;Compatible;2,65;;;6
+SO-XZ2A-FLX-COM;Sony;Xperia Z2a;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XZ2A-SIM-COM;Sony;Xperia Z2a;Bandeja SIM;Compatible;2,55;;;6
+SO-XZL2-PAN-COM;Sony;Xperia ZL2;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XZL2-BAT-COM;Sony;Xperia ZL2;Batería;Compatible;9,65;;;6
+SO-XZL2-CON-COM;Sony;Xperia ZL2;Conector de carga;Compatible;4,60;;;6
+SO-XZL2-TAP-COM;Sony;Xperia ZL2;Tapa trasera;Compatible;5,40;;;6
+SO-XZL2-CTR-COM;Sony;Xperia ZL2;Cámara trasera;Compatible;7,59;;;6
+SO-XZL2-CFR-COM;Sony;Xperia ZL2;Cámara frontal;Compatible;4,99;;;6
+SO-XZL2-LEN-COM;Sony;Xperia ZL2;Lente de cámara;Compatible;2,19;;;6
+SO-XZL2-ALT-COM;Sony;Xperia ZL2;Altavoz;Compatible;3,65;;;6
+SO-XZL2-AUR-COM;Sony;Xperia ZL2;Auricular de llamada;Compatible;2,65;;;6
+SO-XZL2-FLX-COM;Sony;Xperia ZL2;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XZL2-SIM-COM;Sony;Xperia ZL2;Bandeja SIM;Compatible;2,55;;;6
+SO-XM2-PAN-COM;Sony;Xperia M2;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XM2-BAT-COM;Sony;Xperia M2;Batería;Compatible;9,65;;;6
+SO-XM2-CON-COM;Sony;Xperia M2;Conector de carga;Compatible;4,60;;;6
+SO-XM2-TAP-COM;Sony;Xperia M2;Tapa trasera;Compatible;5,40;;;6
+SO-XM2-CTR-COM;Sony;Xperia M2;Cámara trasera;Compatible;7,59;;;6
+SO-XM2-CFR-COM;Sony;Xperia M2;Cámara frontal;Compatible;4,99;;;6
+SO-XM2-LEN-COM;Sony;Xperia M2;Lente de cámara;Compatible;2,19;;;6
+SO-XM2-ALT-COM;Sony;Xperia M2;Altavoz;Compatible;3,65;;;6
+SO-XM2-AUR-COM;Sony;Xperia M2;Auricular de llamada;Compatible;2,65;;;6
+SO-XM2-FLX-COM;Sony;Xperia M2;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XM2-SIM-COM;Sony;Xperia M2;Bandeja SIM;Compatible;2,55;;;6
+SO-XT2U-PAN-COM;Sony;Xperia T2 Ultra;Pantalla;Compatible;16,69;16,19;15,69;6
+SO-XT2U-BAT-COM;Sony;Xperia T2 Ultra;Batería;Compatible;9,65;;;6
+SO-XT2U-CON-COM;Sony;Xperia T2 Ultra;Conector de carga;Compatible;4,60;;;6
+SO-XT2U-TAP-COM;Sony;Xperia T2 Ultra;Tapa trasera;Compatible;5,40;;;6
+SO-XT2U-CTR-COM;Sony;Xperia T2 Ultra;Cámara trasera;Compatible;7,59;;;6
+SO-XT2U-CFR-COM;Sony;Xperia T2 Ultra;Cámara frontal;Compatible;4,99;;;6
+SO-XT2U-LEN-COM;Sony;Xperia T2 Ultra;Lente de cámara;Compatible;2,19;;;6
+SO-XT2U-ALT-COM;Sony;Xperia T2 Ultra;Altavoz;Compatible;3,65;;;6
+SO-XT2U-AUR-COM;Sony;Xperia T2 Ultra;Auricular de llamada;Compatible;2,65;;;6
+SO-XT2U-FLX-COM;Sony;Xperia T2 Ultra;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XT2U-SIM-COM;Sony;Xperia T2 Ultra;Bandeja SIM;Compatible;2,55;;;6
+SO-XZ2-PAN-COM;Sony;Xperia Z2;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XZ2-BAT-COM;Sony;Xperia Z2;Batería;Compatible;9,65;;;6
+SO-XZ2-CON-COM;Sony;Xperia Z2;Conector de carga;Compatible;4,60;;;6
+SO-XZ2-TAP-COM;Sony;Xperia Z2;Tapa trasera;Compatible;5,40;;;6
+SO-XZ2-CTR-COM;Sony;Xperia Z2;Cámara trasera;Compatible;7,59;;;6
+SO-XZ2-CFR-COM;Sony;Xperia Z2;Cámara frontal;Compatible;4,99;;;6
+SO-XZ2-LEN-COM;Sony;Xperia Z2;Lente de cámara;Compatible;2,19;;;6
+SO-XZ2-ALT-COM;Sony;Xperia Z2;Altavoz;Compatible;3,65;;;6
+SO-XZ2-AUR-COM;Sony;Xperia Z2;Auricular de llamada;Compatible;2,65;;;6
+SO-XZ2-FLX-COM;Sony;Xperia Z2;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XZ2-SIM-COM;Sony;Xperia Z2;Bandeja SIM;Compatible;2,55;;;6
+SO-XE1-PAN-COM;Sony;Xperia E1;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XE1-BAT-COM;Sony;Xperia E1;Batería;Compatible;9,65;;;6
+SO-XE1-CON-COM;Sony;Xperia E1;Conector de carga;Compatible;4,60;;;6
+SO-XE1-TAP-COM;Sony;Xperia E1;Tapa trasera;Compatible;5,40;;;6
+SO-XE1-CTR-COM;Sony;Xperia E1;Cámara trasera;Compatible;7,59;;;6
+SO-XE1-CFR-COM;Sony;Xperia E1;Cámara frontal;Compatible;4,99;;;6
+SO-XE1-LEN-COM;Sony;Xperia E1;Lente de cámara;Compatible;2,19;;;6
+SO-XE1-ALT-COM;Sony;Xperia E1;Altavoz;Compatible;3,65;;;6
+SO-XE1-AUR-COM;Sony;Xperia E1;Auricular de llamada;Compatible;2,65;;;6
+SO-XE1-FLX-COM;Sony;Xperia E1;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XE1-SIM-COM;Sony;Xperia E1;Bandeja SIM;Compatible;2,55;;;6
+SO-XZ1C-PAN-COM;Sony;Xperia Z1 Compact;Pantalla;Compatible;15,55;15,08;14,62;6
+SO-XZ1C-BAT-COM;Sony;Xperia Z1 Compact;Batería;Compatible;10,40;10,09;9,78;6
+SO-XZ1C-CON-COM;Sony;Xperia Z1 Compact;Conector de carga;Compatible;4,30;;;6
+SO-XZ1C-TAP-COM;Sony;Xperia Z1 Compact;Tapa trasera;Compatible;5,49;;;6
+SO-XZ1C-CTR-COM;Sony;Xperia Z1 Compact;Cámara trasera;Compatible;9,20;;;6
+SO-XZ1C-CFR-COM;Sony;Xperia Z1 Compact;Cámara frontal;Compatible;5,25;;;6
+SO-XZ1C-LEN-COM;Sony;Xperia Z1 Compact;Lente de cámara;Compatible;2,60;;;6
+SO-XZ1C-ALT-COM;Sony;Xperia Z1 Compact;Altavoz;Compatible;4,05;;;6
+SO-XZ1C-AUR-COM;Sony;Xperia Z1 Compact;Auricular de llamada;Compatible;3,30;;;6
+SO-XZ1C-FLX-COM;Sony;Xperia Z1 Compact;Flex de encendido y volumen;Compatible;3,25;;;6
+SO-XZ1C-SIM-COM;Sony;Xperia Z1 Compact;Bandeja SIM;Compatible;2,90;;;6
+SO-XZ1-PAN-COM;Sony;Xperia Z1;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XZ1-BAT-COM;Sony;Xperia Z1;Batería;Compatible;9,65;;;6
+SO-XZ1-CON-COM;Sony;Xperia Z1;Conector de carga;Compatible;4,60;;;6
+SO-XZ1-TAP-COM;Sony;Xperia Z1;Tapa trasera;Compatible;5,40;;;6
+SO-XZ1-CTR-COM;Sony;Xperia Z1;Cámara trasera;Compatible;7,59;;;6
+SO-XZ1-CFR-COM;Sony;Xperia Z1;Cámara frontal;Compatible;4,99;;;6
+SO-XZ1-LEN-COM;Sony;Xperia Z1;Lente de cámara;Compatible;2,19;;;6
+SO-XZ1-ALT-COM;Sony;Xperia Z1;Altavoz;Compatible;3,65;;;6
+SO-XZ1-AUR-COM;Sony;Xperia Z1;Auricular de llamada;Compatible;2,65;;;6
+SO-XZ1-FLX-COM;Sony;Xperia Z1;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XZ1-SIM-COM;Sony;Xperia Z1;Bandeja SIM;Compatible;2,55;;;6
+SO-XZ1S-PAN-COM;Sony;Xperia Z1s;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XZ1S-BAT-COM;Sony;Xperia Z1s;Batería;Compatible;9,65;;;6
+SO-XZ1S-CON-COM;Sony;Xperia Z1s;Conector de carga;Compatible;4,60;;;6
+SO-XZ1S-TAP-COM;Sony;Xperia Z1s;Tapa trasera;Compatible;5,40;;;6
+SO-XZ1S-CTR-COM;Sony;Xperia Z1s;Cámara trasera;Compatible;7,59;;;6
+SO-XZ1S-CFR-COM;Sony;Xperia Z1s;Cámara frontal;Compatible;4,99;;;6
+SO-XZ1S-LEN-COM;Sony;Xperia Z1s;Lente de cámara;Compatible;2,19;;;6
+SO-XZ1S-ALT-COM;Sony;Xperia Z1s;Altavoz;Compatible;3,65;;;6
+SO-XZ1S-AUR-COM;Sony;Xperia Z1s;Auricular de llamada;Compatible;2,65;;;6
+SO-XZ1S-FLX-COM;Sony;Xperia Z1s;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XZ1S-SIM-COM;Sony;Xperia Z1s;Bandeja SIM;Compatible;2,55;;;6
+SO-XMD-PAN-COM;Sony;Xperia M dual;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XMD-BAT-COM;Sony;Xperia M dual;Batería;Compatible;9,65;;;6
+SO-XMD-CON-COM;Sony;Xperia M dual;Conector de carga;Compatible;4,60;;;6
+SO-XMD-TAP-COM;Sony;Xperia M dual;Tapa trasera;Compatible;5,40;;;6
+SO-XMD-CTR-COM;Sony;Xperia M dual;Cámara trasera;Compatible;7,59;;;6
+SO-XMD-CFR-COM;Sony;Xperia M dual;Cámara frontal;Compatible;4,99;;;6
+SO-XMD-LEN-COM;Sony;Xperia M dual;Lente de cámara;Compatible;2,19;;;6
+SO-XMD-ALT-COM;Sony;Xperia M dual;Altavoz;Compatible;3,65;;;6
+SO-XMD-AUR-COM;Sony;Xperia M dual;Auricular de llamada;Compatible;2,65;;;6
+SO-XMD-FLX-COM;Sony;Xperia M dual;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XMD-SIM-COM;Sony;Xperia M dual;Bandeja SIM;Compatible;2,55;;;6
+SO-XC-PAN-COM;Sony;Xperia C;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XC-BAT-COM;Sony;Xperia C;Batería;Compatible;9,65;;;6
+SO-XC-CON-COM;Sony;Xperia C;Conector de carga;Compatible;4,60;;;6
+SO-XC-TAP-COM;Sony;Xperia C;Tapa trasera;Compatible;5,40;;;6
+SO-XC-CTR-COM;Sony;Xperia C;Cámara trasera;Compatible;7,59;;;6
+SO-XC-CFR-COM;Sony;Xperia C;Cámara frontal;Compatible;4,99;;;6
+SO-XC-LEN-COM;Sony;Xperia C;Lente de cámara;Compatible;2,19;;;6
+SO-XC-ALT-COM;Sony;Xperia C;Altavoz;Compatible;3,65;;;6
+SO-XC-AUR-COM;Sony;Xperia C;Auricular de llamada;Compatible;2,65;;;6
+SO-XC-FLX-COM;Sony;Xperia C;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XC-SIM-COM;Sony;Xperia C;Bandeja SIM;Compatible;2,55;;;6
+SO-XZU-PAN-COM;Sony;Xperia Z Ultra;Pantalla;Compatible;16,69;16,19;15,69;6
+SO-XZU-BAT-COM;Sony;Xperia Z Ultra;Batería;Compatible;9,65;;;6
+SO-XZU-CON-COM;Sony;Xperia Z Ultra;Conector de carga;Compatible;4,60;;;6
+SO-XZU-TAP-COM;Sony;Xperia Z Ultra;Tapa trasera;Compatible;5,40;;;6
+SO-XZU-CTR-COM;Sony;Xperia Z Ultra;Cámara trasera;Compatible;7,59;;;6
+SO-XZU-CFR-COM;Sony;Xperia Z Ultra;Cámara frontal;Compatible;4,99;;;6
+SO-XZU-LEN-COM;Sony;Xperia Z Ultra;Lente de cámara;Compatible;2,19;;;6
+SO-XZU-ALT-COM;Sony;Xperia Z Ultra;Altavoz;Compatible;3,65;;;6
+SO-XZU-AUR-COM;Sony;Xperia Z Ultra;Auricular de llamada;Compatible;2,65;;;6
+SO-XZU-FLX-COM;Sony;Xperia Z Ultra;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XZU-SIM-COM;Sony;Xperia Z Ultra;Bandeja SIM;Compatible;2,55;;;6
+SO-XPERIAM-PAN-COM;Sony;Xperia M;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XPERIAM-BAT-COM;Sony;Xperia M;Batería;Compatible;9,65;;;6
+SO-XPERIAM-CON-COM;Sony;Xperia M;Conector de carga;Compatible;4,60;;;6
+SO-XPERIAM-TAP-COM;Sony;Xperia M;Tapa trasera;Compatible;5,40;;;6
+SO-XPERIAM-CTR-COM;Sony;Xperia M;Cámara trasera;Compatible;7,59;;;6
+SO-XPERIAM-CFR-COM;Sony;Xperia M;Cámara frontal;Compatible;4,99;;;6
+SO-XPERIAM-LEN-COM;Sony;Xperia M;Lente de cámara;Compatible;2,19;;;6
+SO-XPERIAM-ALT-COM;Sony;Xperia M;Altavoz;Compatible;3,65;;;6
+SO-XPERIAM-AUR-COM;Sony;Xperia M;Auricular de llamada;Compatible;2,65;;;6
+SO-XPERIAM-FLX-COM;Sony;Xperia M;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XPERIAM-SIM-COM;Sony;Xperia M;Bandeja SIM;Compatible;2,55;;;6
+SO-XUL-PAN-COM;Sony;Xperia UL;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XUL-BAT-COM;Sony;Xperia UL;Batería;Compatible;9,65;;;6
+SO-XUL-CON-COM;Sony;Xperia UL;Conector de carga;Compatible;4,60;;;6
+SO-XUL-TAP-COM;Sony;Xperia UL;Tapa trasera;Compatible;5,40;;;6
+SO-XUL-CTR-COM;Sony;Xperia UL;Cámara trasera;Compatible;7,59;;;6
+SO-XUL-CFR-COM;Sony;Xperia UL;Cámara frontal;Compatible;4,99;;;6
+SO-XUL-LEN-COM;Sony;Xperia UL;Lente de cámara;Compatible;2,19;;;6
+SO-XUL-ALT-COM;Sony;Xperia UL;Altavoz;Compatible;3,65;;;6
+SO-XUL-AUR-COM;Sony;Xperia UL;Auricular de llamada;Compatible;2,65;;;6
+SO-XUL-FLX-COM;Sony;Xperia UL;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XUL-SIM-COM;Sony;Xperia UL;Bandeja SIM;Compatible;2,55;;;6
+SO-XZR-PAN-COM;Sony;Xperia ZR;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XZR-BAT-COM;Sony;Xperia ZR;Batería;Compatible;9,65;;;6
+SO-XZR-CON-COM;Sony;Xperia ZR;Conector de carga;Compatible;4,60;;;6
+SO-XZR-TAP-COM;Sony;Xperia ZR;Tapa trasera;Compatible;5,40;;;6
+SO-XZR-CTR-COM;Sony;Xperia ZR;Cámara trasera;Compatible;7,59;;;6
+SO-XZR-CFR-COM;Sony;Xperia ZR;Cámara frontal;Compatible;4,99;;;6
+SO-XZR-LEN-COM;Sony;Xperia ZR;Lente de cámara;Compatible;2,19;;;6
+SO-XZR-ALT-COM;Sony;Xperia ZR;Altavoz;Compatible;3,65;;;6
+SO-XZR-AUR-COM;Sony;Xperia ZR;Auricular de llamada;Compatible;2,65;;;6
+SO-XZR-FLX-COM;Sony;Xperia ZR;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XZR-SIM-COM;Sony;Xperia ZR;Bandeja SIM;Compatible;2,55;;;6
+SO-XE-PAN-COM;Sony;Xperia E;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XE-BAT-COM;Sony;Xperia E;Batería;Compatible;9,65;;;6
+SO-XE-CON-COM;Sony;Xperia E;Conector de carga;Compatible;4,60;;;6
+SO-XE-TAP-COM;Sony;Xperia E;Tapa trasera;Compatible;5,40;;;6
+SO-XE-CTR-COM;Sony;Xperia E;Cámara trasera;Compatible;7,59;;;6
+SO-XE-CFR-COM;Sony;Xperia E;Cámara frontal;Compatible;4,99;;;6
+SO-XE-LEN-COM;Sony;Xperia E;Lente de cámara;Compatible;2,19;;;6
+SO-XE-ALT-COM;Sony;Xperia E;Altavoz;Compatible;3,65;;;6
+SO-XE-AUR-COM;Sony;Xperia E;Auricular de llamada;Compatible;2,65;;;6
+SO-XE-FLX-COM;Sony;Xperia E;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XE-SIM-COM;Sony;Xperia E;Bandeja SIM;Compatible;2,55;;;6
+SO-XED-PAN-COM;Sony;Xperia E dual;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XED-BAT-COM;Sony;Xperia E dual;Batería;Compatible;9,65;;;6
+SO-XED-CON-COM;Sony;Xperia E dual;Conector de carga;Compatible;4,60;;;6
+SO-XED-TAP-COM;Sony;Xperia E dual;Tapa trasera;Compatible;5,40;;;6
+SO-XED-CTR-COM;Sony;Xperia E dual;Cámara trasera;Compatible;7,59;;;6
+SO-XED-CFR-COM;Sony;Xperia E dual;Cámara frontal;Compatible;4,99;;;6
+SO-XED-LEN-COM;Sony;Xperia E dual;Lente de cámara;Compatible;2,19;;;6
+SO-XED-ALT-COM;Sony;Xperia E dual;Altavoz;Compatible;3,65;;;6
+SO-XED-AUR-COM;Sony;Xperia E dual;Auricular de llamada;Compatible;2,65;;;6
+SO-XED-FLX-COM;Sony;Xperia E dual;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XED-SIM-COM;Sony;Xperia E dual;Bandeja SIM;Compatible;2,55;;;6
+SO-XL-PAN-COM;Sony;Xperia L;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XL-BAT-COM;Sony;Xperia L;Batería;Compatible;9,65;;;6
+SO-XL-CON-COM;Sony;Xperia L;Conector de carga;Compatible;4,60;;;6
+SO-XL-TAP-COM;Sony;Xperia L;Tapa trasera;Compatible;5,40;;;6
+SO-XL-CTR-COM;Sony;Xperia L;Cámara trasera;Compatible;7,59;;;6
+SO-XL-CFR-COM;Sony;Xperia L;Cámara frontal;Compatible;4,99;;;6
+SO-XL-LEN-COM;Sony;Xperia L;Lente de cámara;Compatible;2,19;;;6
+SO-XL-ALT-COM;Sony;Xperia L;Altavoz;Compatible;3,65;;;6
+SO-XL-AUR-COM;Sony;Xperia L;Auricular de llamada;Compatible;2,65;;;6
+SO-XL-FLX-COM;Sony;Xperia L;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XL-SIM-COM;Sony;Xperia L;Bandeja SIM;Compatible;2,55;;;6
+SO-XSP-PAN-COM;Sony;Xperia SP;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XSP-BAT-COM;Sony;Xperia SP;Batería;Compatible;9,65;;;6
+SO-XSP-CON-COM;Sony;Xperia SP;Conector de carga;Compatible;4,60;;;6
+SO-XSP-TAP-COM;Sony;Xperia SP;Tapa trasera;Compatible;5,40;;;6
+SO-XSP-CTR-COM;Sony;Xperia SP;Cámara trasera;Compatible;7,59;;;6
+SO-XSP-CFR-COM;Sony;Xperia SP;Cámara frontal;Compatible;4,99;;;6
+SO-XSP-LEN-COM;Sony;Xperia SP;Lente de cámara;Compatible;2,19;;;6
+SO-XSP-ALT-COM;Sony;Xperia SP;Altavoz;Compatible;3,65;;;6
+SO-XSP-AUR-COM;Sony;Xperia SP;Auricular de llamada;Compatible;2,65;;;6
+SO-XSP-FLX-COM;Sony;Xperia SP;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XSP-SIM-COM;Sony;Xperia SP;Bandeja SIM;Compatible;2,55;;;6
+SO-XZL-PAN-COM;Sony;Xperia ZL;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XZL-BAT-COM;Sony;Xperia ZL;Batería;Compatible;9,65;;;6
+SO-XZL-CON-COM;Sony;Xperia ZL;Conector de carga;Compatible;4,60;;;6
+SO-XZL-TAP-COM;Sony;Xperia ZL;Tapa trasera;Compatible;5,40;;;6
+SO-XZL-CTR-COM;Sony;Xperia ZL;Cámara trasera;Compatible;7,59;;;6
+SO-XZL-CFR-COM;Sony;Xperia ZL;Cámara frontal;Compatible;4,99;;;6
+SO-XZL-LEN-COM;Sony;Xperia ZL;Lente de cámara;Compatible;2,19;;;6
+SO-XZL-ALT-COM;Sony;Xperia ZL;Altavoz;Compatible;3,65;;;6
+SO-XZL-AUR-COM;Sony;Xperia ZL;Auricular de llamada;Compatible;2,65;;;6
+SO-XZL-FLX-COM;Sony;Xperia ZL;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XZL-SIM-COM;Sony;Xperia ZL;Bandeja SIM;Compatible;2,55;;;6
+SO-XZ-PAN-COM;Sony;Xperia Z;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XZ-BAT-COM;Sony;Xperia Z;Batería;Compatible;9,65;;;6
+SO-XZ-CON-COM;Sony;Xperia Z;Conector de carga;Compatible;4,60;;;6
+SO-XZ-TAP-COM;Sony;Xperia Z;Tapa trasera;Compatible;5,40;;;6
+SO-XZ-CTR-COM;Sony;Xperia Z;Cámara trasera;Compatible;7,59;;;6
+SO-XZ-CFR-COM;Sony;Xperia Z;Cámara frontal;Compatible;4,99;;;6
+SO-XZ-LEN-COM;Sony;Xperia Z;Lente de cámara;Compatible;2,19;;;6
+SO-XZ-ALT-COM;Sony;Xperia Z;Altavoz;Compatible;3,65;;;6
+SO-XZ-AUR-COM;Sony;Xperia Z;Auricular de llamada;Compatible;2,65;;;6
+SO-XZ-FLX-COM;Sony;Xperia Z;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XZ-SIM-COM;Sony;Xperia Z;Bandeja SIM;Compatible;2,55;;;6
+SO-XV-PAN-COM;Sony;Xperia V;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XV-BAT-COM;Sony;Xperia V;Batería;Compatible;9,65;;;6
+SO-XV-CON-COM;Sony;Xperia V;Conector de carga;Compatible;4,60;;;6
+SO-XV-TAP-COM;Sony;Xperia V;Tapa trasera;Compatible;5,40;;;6
+SO-XV-CTR-COM;Sony;Xperia V;Cámara trasera;Compatible;7,59;;;6
+SO-XV-CFR-COM;Sony;Xperia V;Cámara frontal;Compatible;4,99;;;6
+SO-XV-LEN-COM;Sony;Xperia V;Lente de cámara;Compatible;2,19;;;6
+SO-XV-ALT-COM;Sony;Xperia V;Altavoz;Compatible;3,65;;;6
+SO-XV-AUR-COM;Sony;Xperia V;Auricular de llamada;Compatible;2,65;;;6
+SO-XV-FLX-COM;Sony;Xperia V;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XV-SIM-COM;Sony;Xperia V;Bandeja SIM;Compatible;2,55;;;6
+SO-XPERIAT-PAN-COM;Sony;Xperia T;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XPERIAT-BAT-COM;Sony;Xperia T;Batería;Compatible;9,65;;;6
+SO-XPERIAT-CON-COM;Sony;Xperia T;Conector de carga;Compatible;4,60;;;6
+SO-XPERIAT-TAP-COM;Sony;Xperia T;Tapa trasera;Compatible;5,40;;;6
+SO-XPERIAT-CTR-COM;Sony;Xperia T;Cámara trasera;Compatible;7,59;;;6
+SO-XPERIAT-CFR-COM;Sony;Xperia T;Cámara frontal;Compatible;4,99;;;6
+SO-XPERIAT-LEN-COM;Sony;Xperia T;Lente de cámara;Compatible;2,19;;;6
+SO-XPERIAT-ALT-COM;Sony;Xperia T;Altavoz;Compatible;3,65;;;6
+SO-XPERIAT-AUR-COM;Sony;Xperia T;Auricular de llamada;Compatible;2,65;;;6
+SO-XPERIAT-FLX-COM;Sony;Xperia T;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XPERIAT-SIM-COM;Sony;Xperia T;Bandeja SIM;Compatible;2,55;;;6
+SO-XTX-PAN-COM;Sony;Xperia TX;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XTX-BAT-COM;Sony;Xperia TX;Batería;Compatible;9,65;;;6
+SO-XTX-CON-COM;Sony;Xperia TX;Conector de carga;Compatible;4,60;;;6
+SO-XTX-TAP-COM;Sony;Xperia TX;Tapa trasera;Compatible;5,40;;;6
+SO-XTX-CTR-COM;Sony;Xperia TX;Cámara trasera;Compatible;7,59;;;6
+SO-XTX-CFR-COM;Sony;Xperia TX;Cámara frontal;Compatible;4,99;;;6
+SO-XTX-LEN-COM;Sony;Xperia TX;Lente de cámara;Compatible;2,19;;;6
+SO-XTX-ALT-COM;Sony;Xperia TX;Altavoz;Compatible;3,65;;;6
+SO-XTX-AUR-COM;Sony;Xperia TX;Auricular de llamada;Compatible;2,65;;;6
+SO-XTX-FLX-COM;Sony;Xperia TX;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XTX-SIM-COM;Sony;Xperia TX;Bandeja SIM;Compatible;2,55;;;6
+SO-XM-PAN-COM;Sony;Xperia miro;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XM-BAT-COM;Sony;Xperia miro;Batería;Compatible;9,65;;;6
+SO-XM-CON-COM;Sony;Xperia miro;Conector de carga;Compatible;4,60;;;6
+SO-XM-TAP-COM;Sony;Xperia miro;Tapa trasera;Compatible;5,40;;;6
+SO-XM-CTR-COM;Sony;Xperia miro;Cámara trasera;Compatible;7,59;;;6
+SO-XM-CFR-COM;Sony;Xperia miro;Cámara frontal;Compatible;4,99;;;6
+SO-XM-LEN-COM;Sony;Xperia miro;Lente de cámara;Compatible;2,19;;;6
+SO-XM-ALT-COM;Sony;Xperia miro;Altavoz;Compatible;3,65;;;6
+SO-XM-AUR-COM;Sony;Xperia miro;Auricular de llamada;Compatible;2,65;;;6
+SO-XM-FLX-COM;Sony;Xperia miro;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XM-SIM-COM;Sony;Xperia miro;Bandeja SIM;Compatible;2,55;;;6
+SO-XSL-PAN-COM;Sony;Xperia SL;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XSL-BAT-COM;Sony;Xperia SL;Batería;Compatible;9,65;;;6
+SO-XSL-CON-COM;Sony;Xperia SL;Conector de carga;Compatible;4,60;;;6
+SO-XSL-TAP-COM;Sony;Xperia SL;Tapa trasera;Compatible;5,40;;;6
+SO-XSL-CTR-COM;Sony;Xperia SL;Cámara trasera;Compatible;7,59;;;6
+SO-XSL-CFR-COM;Sony;Xperia SL;Cámara frontal;Compatible;4,99;;;6
+SO-XSL-LEN-COM;Sony;Xperia SL;Lente de cámara;Compatible;2,19;;;6
+SO-XSL-ALT-COM;Sony;Xperia SL;Altavoz;Compatible;3,65;;;6
+SO-XSL-AUR-COM;Sony;Xperia SL;Auricular de llamada;Compatible;2,65;;;6
+SO-XSL-FLX-COM;Sony;Xperia SL;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XSL-SIM-COM;Sony;Xperia SL;Bandeja SIM;Compatible;2,55;;;6
+SO-XJ-PAN-COM;Sony;Xperia J;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XJ-BAT-COM;Sony;Xperia J;Batería;Compatible;9,65;;;6
+SO-XJ-CON-COM;Sony;Xperia J;Conector de carga;Compatible;4,60;;;6
+SO-XJ-TAP-COM;Sony;Xperia J;Tapa trasera;Compatible;5,40;;;6
+SO-XJ-CTR-COM;Sony;Xperia J;Cámara trasera;Compatible;7,59;;;6
+SO-XJ-CFR-COM;Sony;Xperia J;Cámara frontal;Compatible;4,99;;;6
+SO-XJ-LEN-COM;Sony;Xperia J;Lente de cámara;Compatible;2,19;;;6
+SO-XJ-ALT-COM;Sony;Xperia J;Altavoz;Compatible;3,65;;;6
+SO-XJ-AUR-COM;Sony;Xperia J;Auricular de llamada;Compatible;2,65;;;6
+SO-XJ-FLX-COM;Sony;Xperia J;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XJ-SIM-COM;Sony;Xperia J;Bandeja SIM;Compatible;2,55;;;6
+SO-XSX-PAN-COM;Sony;Xperia SX;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XSX-BAT-COM;Sony;Xperia SX;Batería;Compatible;9,65;;;6
+SO-XSX-CON-COM;Sony;Xperia SX;Conector de carga;Compatible;4,60;;;6
+SO-XSX-TAP-COM;Sony;Xperia SX;Tapa trasera;Compatible;5,40;;;6
+SO-XSX-CTR-COM;Sony;Xperia SX;Cámara trasera;Compatible;7,59;;;6
+SO-XSX-CFR-COM;Sony;Xperia SX;Cámara frontal;Compatible;4,99;;;6
+SO-XSX-LEN-COM;Sony;Xperia SX;Lente de cámara;Compatible;2,19;;;6
+SO-XSX-ALT-COM;Sony;Xperia SX;Altavoz;Compatible;3,65;;;6
+SO-XSX-AUR-COM;Sony;Xperia SX;Auricular de llamada;Compatible;2,65;;;6
+SO-XSX-FLX-COM;Sony;Xperia SX;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XSX-SIM-COM;Sony;Xperia SX;Bandeja SIM;Compatible;2,55;;;6
+SO-XT-PAN-COM;Sony;Xperia Tipo;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XT-BAT-COM;Sony;Xperia Tipo;Batería;Compatible;9,65;;;6
+SO-XT-CON-COM;Sony;Xperia Tipo;Conector de carga;Compatible;4,60;;;6
+SO-XT-TAP-COM;Sony;Xperia Tipo;Tapa trasera;Compatible;5,40;;;6
+SO-XT-CTR-COM;Sony;Xperia Tipo;Cámara trasera;Compatible;7,59;;;6
+SO-XT-CFR-COM;Sony;Xperia Tipo;Cámara frontal;Compatible;4,99;;;6
+SO-XT-LEN-COM;Sony;Xperia Tipo;Lente de cámara;Compatible;2,19;;;6
+SO-XT-ALT-COM;Sony;Xperia Tipo;Altavoz;Compatible;3,65;;;6
+SO-XT-AUR-COM;Sony;Xperia Tipo;Auricular de llamada;Compatible;2,65;;;6
+SO-XT-FLX-COM;Sony;Xperia Tipo;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XT-SIM-COM;Sony;Xperia Tipo;Bandeja SIM;Compatible;2,55;;;6
+SO-XTD-PAN-COM;Sony;Xperia tipo dual;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XTD-BAT-COM;Sony;Xperia tipo dual;Batería;Compatible;9,65;;;6
+SO-XTD-CON-COM;Sony;Xperia tipo dual;Conector de carga;Compatible;4,60;;;6
+SO-XTD-TAP-COM;Sony;Xperia tipo dual;Tapa trasera;Compatible;5,40;;;6
+SO-XTD-CTR-COM;Sony;Xperia tipo dual;Cámara trasera;Compatible;7,59;;;6
+SO-XTD-CFR-COM;Sony;Xperia tipo dual;Cámara frontal;Compatible;4,99;;;6
+SO-XTD-LEN-COM;Sony;Xperia tipo dual;Lente de cámara;Compatible;2,19;;;6
+SO-XTD-ALT-COM;Sony;Xperia tipo dual;Altavoz;Compatible;3,65;;;6
+SO-XTD-AUR-COM;Sony;Xperia tipo dual;Auricular de llamada;Compatible;2,65;;;6
+SO-XTD-FLX-COM;Sony;Xperia tipo dual;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XTD-SIM-COM;Sony;Xperia tipo dual;Bandeja SIM;Compatible;2,55;;;6
+SO-XA-PAN-COM;Sony;Xperia advance;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XA-BAT-COM;Sony;Xperia advance;Batería;Compatible;9,65;;;6
+SO-XA-CON-COM;Sony;Xperia advance;Conector de carga;Compatible;4,60;;;6
+SO-XA-TAP-COM;Sony;Xperia advance;Tapa trasera;Compatible;5,40;;;6
+SO-XA-CTR-COM;Sony;Xperia advance;Cámara trasera;Compatible;7,59;;;6
+SO-XA-CFR-COM;Sony;Xperia advance;Cámara frontal;Compatible;4,99;;;6
+SO-XA-LEN-COM;Sony;Xperia advance;Lente de cámara;Compatible;2,19;;;6
+SO-XA-ALT-COM;Sony;Xperia advance;Altavoz;Compatible;3,65;;;6
+SO-XA-AUR-COM;Sony;Xperia advance;Auricular de llamada;Compatible;2,65;;;6
+SO-XA-FLX-COM;Sony;Xperia advance;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XA-SIM-COM;Sony;Xperia advance;Bandeja SIM;Compatible;2,55;;;6
+SO-XAGO-PAN-COM;Sony;Xperia advance go;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XAGO-BAT-COM;Sony;Xperia advance go;Batería;Compatible;9,65;;;6
+SO-XAGO-CON-COM;Sony;Xperia advance go;Conector de carga;Compatible;4,60;;;6
+SO-XAGO-TAP-COM;Sony;Xperia advance go;Tapa trasera;Compatible;5,40;;;6
+SO-XAGO-CTR-COM;Sony;Xperia advance go;Cámara trasera;Compatible;7,59;;;6
+SO-XAGO-CFR-COM;Sony;Xperia advance go;Cámara frontal;Compatible;4,99;;;6
+SO-XAGO-LEN-COM;Sony;Xperia advance go;Lente de cámara;Compatible;2,19;;;6
+SO-XAGO-ALT-COM;Sony;Xperia advance go;Altavoz;Compatible;3,65;;;6
+SO-XAGO-AUR-COM;Sony;Xperia advance go;Auricular de llamada;Compatible;2,65;;;6
+SO-XAGO-FLX-COM;Sony;Xperia advance go;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XAGO-SIM-COM;Sony;Xperia advance go;Bandeja SIM;Compatible;2,55;;;6
+SO-XNEOL-PAN-COM;Sony;Xperia neo L;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XNEOL-BAT-COM;Sony;Xperia neo L;Batería;Compatible;9,65;;;6
+SO-XNEOL-CON-COM;Sony;Xperia neo L;Conector de carga;Compatible;4,60;;;6
+SO-XNEOL-TAP-COM;Sony;Xperia neo L;Tapa trasera;Compatible;5,40;;;6
+SO-XNEOL-CTR-COM;Sony;Xperia neo L;Cámara trasera;Compatible;7,59;;;6
+SO-XNEOL-CFR-COM;Sony;Xperia neo L;Cámara frontal;Compatible;4,99;;;6
+SO-XNEOL-LEN-COM;Sony;Xperia neo L;Lente de cámara;Compatible;2,19;;;6
+SO-XNEOL-ALT-COM;Sony;Xperia neo L;Altavoz;Compatible;3,65;;;6
+SO-XNEOL-AUR-COM;Sony;Xperia neo L;Auricular de llamada;Compatible;2,65;;;6
+SO-XNEOL-FLX-COM;Sony;Xperia neo L;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XNEOL-SIM-COM;Sony;Xperia neo L;Bandeja SIM;Compatible;2,55;;;6
+SO-XPERIASO-PAN-COM;Sony;Xperia Sola;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XPERIASO-BAT-COM;Sony;Xperia Sola;Batería;Compatible;9,65;;;6
+SO-XPERIASO-CON-COM;Sony;Xperia Sola;Conector de carga;Compatible;4,60;;;6
+SO-XPERIASO-TAP-COM;Sony;Xperia Sola;Tapa trasera;Compatible;5,40;;;6
+SO-XPERIASO-CTR-COM;Sony;Xperia Sola;Cámara trasera;Compatible;7,59;;;6
+SO-XPERIASO-CFR-COM;Sony;Xperia Sola;Cámara frontal;Compatible;4,99;;;6
+SO-XPERIASO-LEN-COM;Sony;Xperia Sola;Lente de cámara;Compatible;2,19;;;6
+SO-XPERIASO-ALT-COM;Sony;Xperia Sola;Altavoz;Compatible;3,65;;;6
+SO-XPERIASO-AUR-COM;Sony;Xperia Sola;Auricular de llamada;Compatible;2,65;;;6
+SO-XPERIASO-FLX-COM;Sony;Xperia Sola;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XPERIASO-SIM-COM;Sony;Xperia Sola;Bandeja SIM;Compatible;2,55;;;6
+SO-XU-PAN-COM;Sony;Xperia U;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XU-BAT-COM;Sony;Xperia U;Batería;Compatible;9,65;;;6
+SO-XU-CON-COM;Sony;Xperia U;Conector de carga;Compatible;4,60;;;6
+SO-XU-TAP-COM;Sony;Xperia U;Tapa trasera;Compatible;5,40;;;6
+SO-XU-CTR-COM;Sony;Xperia U;Cámara trasera;Compatible;7,59;;;6
+SO-XU-CFR-COM;Sony;Xperia U;Cámara frontal;Compatible;4,99;;;6
+SO-XU-LEN-COM;Sony;Xperia U;Lente de cámara;Compatible;2,19;;;6
+SO-XU-ALT-COM;Sony;Xperia U;Altavoz;Compatible;3,65;;;6
+SO-XU-AUR-COM;Sony;Xperia U;Auricular de llamada;Compatible;2,65;;;6
+SO-XU-FLX-COM;Sony;Xperia U;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XU-SIM-COM;Sony;Xperia U;Bandeja SIM;Compatible;2,55;;;6
+SO-XP-PAN-COM;Sony;Xperia P;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XP-BAT-COM;Sony;Xperia P;Batería;Compatible;9,65;;;6
+SO-XP-CON-COM;Sony;Xperia P;Conector de carga;Compatible;4,60;;;6
+SO-XP-TAP-COM;Sony;Xperia P;Tapa trasera;Compatible;5,40;;;6
+SO-XP-CTR-COM;Sony;Xperia P;Cámara trasera;Compatible;7,59;;;6
+SO-XP-CFR-COM;Sony;Xperia P;Cámara frontal;Compatible;4,99;;;6
+SO-XP-LEN-COM;Sony;Xperia P;Lente de cámara;Compatible;2,19;;;6
+SO-XP-ALT-COM;Sony;Xperia P;Altavoz;Compatible;3,65;;;6
+SO-XP-AUR-COM;Sony;Xperia P;Auricular de llamada;Compatible;2,65;;;6
+SO-XP-FLX-COM;Sony;Xperia P;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XP-SIM-COM;Sony;Xperia P;Bandeja SIM;Compatible;2,55;;;6
+SO-XAHD-PAN-COM;Sony;Xperia acro HD;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XAHD-BAT-COM;Sony;Xperia acro HD;Batería;Compatible;9,65;;;6
+SO-XAHD-CON-COM;Sony;Xperia acro HD;Conector de carga;Compatible;4,60;;;6
+SO-XAHD-TAP-COM;Sony;Xperia acro HD;Tapa trasera;Compatible;5,40;;;6
+SO-XAHD-CTR-COM;Sony;Xperia acro HD;Cámara trasera;Compatible;7,59;;;6
+SO-XAHD-CFR-COM;Sony;Xperia acro HD;Cámara frontal;Compatible;4,99;;;6
+SO-XAHD-LEN-COM;Sony;Xperia acro HD;Lente de cámara;Compatible;2,19;;;6
+SO-XAHD-ALT-COM;Sony;Xperia acro HD;Altavoz;Compatible;3,65;;;6
+SO-XAHD-AUR-COM;Sony;Xperia acro HD;Auricular de llamada;Compatible;2,65;;;6
+SO-XAHD-FLX-COM;Sony;Xperia acro HD;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XAHD-SIM-COM;Sony;Xperia acro HD;Bandeja SIM;Compatible;2,55;;;6
+SO-XAHDIS12-PAN-COM;Sony;Xperia acro HD IS12S;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XAHDIS12-BAT-COM;Sony;Xperia acro HD IS12S;Batería;Compatible;9,65;;;6
+SO-XAHDIS12-CON-COM;Sony;Xperia acro HD IS12S;Conector de carga;Compatible;4,60;;;6
+SO-XAHDIS12-TAP-COM;Sony;Xperia acro HD IS12S;Tapa trasera;Compatible;5,40;;;6
+SO-XAHDIS12-CTR-COM;Sony;Xperia acro HD IS12S;Cámara trasera;Compatible;7,59;;;6
+SO-XAHDIS12-CFR-COM;Sony;Xperia acro HD IS12S;Cámara frontal;Compatible;4,99;;;6
+SO-XAHDIS12-LEN-COM;Sony;Xperia acro HD IS12S;Lente de cámara;Compatible;2,19;;;6
+SO-XAHDIS12-ALT-COM;Sony;Xperia acro HD IS12S;Altavoz;Compatible;3,65;;;6
+SO-XAHDIS12-AUR-COM;Sony;Xperia acro HD IS12S;Auricular de llamada;Compatible;2,65;;;6
+SO-XAHDIS12-FLX-COM;Sony;Xperia acro HD IS12S;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XAHDIS12-SIM-COM;Sony;Xperia acro HD IS12S;Bandeja SIM;Compatible;2,55;;;6
+SO-XION-PAN-COM;Sony;Xperia Ion;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XION-BAT-COM;Sony;Xperia Ion;Batería;Compatible;9,65;;;6
+SO-XION-CON-COM;Sony;Xperia Ion;Conector de carga;Compatible;4,60;;;6
+SO-XION-TAP-COM;Sony;Xperia Ion;Tapa trasera;Compatible;5,40;;;6
+SO-XION-CTR-COM;Sony;Xperia Ion;Cámara trasera;Compatible;7,59;;;6
+SO-XION-CFR-COM;Sony;Xperia Ion;Cámara frontal;Compatible;4,99;;;6
+SO-XION-LEN-COM;Sony;Xperia Ion;Lente de cámara;Compatible;2,19;;;6
+SO-XION-ALT-COM;Sony;Xperia Ion;Altavoz;Compatible;3,65;;;6
+SO-XION-AUR-COM;Sony;Xperia Ion;Auricular de llamada;Compatible;2,65;;;6
+SO-XION-FLX-COM;Sony;Xperia Ion;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XION-SIM-COM;Sony;Xperia Ion;Bandeja SIM;Compatible;2,55;;;6
+SO-XS-PAN-COM;Sony;Xperia S;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XS-BAT-COM;Sony;Xperia S;Batería;Compatible;9,65;;;6
+SO-XS-CON-COM;Sony;Xperia S;Conector de carga;Compatible;4,60;;;6
+SO-XS-TAP-COM;Sony;Xperia S;Tapa trasera;Compatible;5,40;;;6
+SO-XS-CTR-COM;Sony;Xperia S;Cámara trasera;Compatible;7,59;;;6
+SO-XS-CFR-COM;Sony;Xperia S;Cámara frontal;Compatible;4,99;;;6
+SO-XS-LEN-COM;Sony;Xperia S;Lente de cámara;Compatible;2,19;;;6
+SO-XS-ALT-COM;Sony;Xperia S;Altavoz;Compatible;3,65;;;6
+SO-XS-AUR-COM;Sony;Xperia S;Auricular de llamada;Compatible;2,65;;;6
+SO-XS-FLX-COM;Sony;Xperia S;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XS-SIM-COM;Sony;Xperia S;Bandeja SIM;Compatible;2,55;;;6
+SO-XAS-PAN-COM;Sony;Xperia acro S;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XAS-BAT-COM;Sony;Xperia acro S;Batería;Compatible;9,65;;;6
+SO-XAS-CON-COM;Sony;Xperia acro S;Conector de carga;Compatible;4,60;;;6
+SO-XAS-TAP-COM;Sony;Xperia acro S;Tapa trasera;Compatible;5,40;;;6
+SO-XAS-CTR-COM;Sony;Xperia acro S;Cámara trasera;Compatible;7,59;;;6
+SO-XAS-CFR-COM;Sony;Xperia acro S;Cámara frontal;Compatible;4,99;;;6
+SO-XAS-LEN-COM;Sony;Xperia acro S;Lente de cámara;Compatible;2,19;;;6
+SO-XAS-ALT-COM;Sony;Xperia acro S;Altavoz;Compatible;3,65;;;6
+SO-XAS-AUR-COM;Sony;Xperia acro S;Auricular de llamada;Compatible;2,65;;;6
+SO-XAS-FLX-COM;Sony;Xperia acro S;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XAS-SIM-COM;Sony;Xperia acro S;Bandeja SIM;Compatible;2,55;;;6
+SO-XGO-PAN-COM;Sony;Xperia Go;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XGO-BAT-COM;Sony;Xperia Go;Batería;Compatible;9,65;;;6
+SO-XGO-CON-COM;Sony;Xperia Go;Conector de carga;Compatible;4,60;;;6
+SO-XGO-TAP-COM;Sony;Xperia Go;Tapa trasera;Compatible;5,40;;;6
+SO-XGO-CTR-COM;Sony;Xperia Go;Cámara trasera;Compatible;7,59;;;6
+SO-XGO-CFR-COM;Sony;Xperia Go;Cámara frontal;Compatible;4,99;;;6
+SO-XGO-LEN-COM;Sony;Xperia Go;Lente de cámara;Compatible;2,19;;;6
+SO-XGO-ALT-COM;Sony;Xperia Go;Altavoz;Compatible;3,65;;;6
+SO-XGO-AUR-COM;Sony;Xperia Go;Auricular de llamada;Compatible;2,65;;;6
+SO-XGO-FLX-COM;Sony;Xperia Go;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XGO-SIM-COM;Sony;Xperia Go;Bandeja SIM;Compatible;2,55;;;6
+SO-XZ5-PAN-COM;Sony;Xperia Z5;Pantalla;Compatible;21,80;21,15;20,49;6
+SO-XZ5-BAT-COM;Sony;Xperia Z5;Batería;Compatible;9,95;;;6
+SO-XZ5-CON-COM;Sony;Xperia Z5;Conector de carga;Compatible;5,79;;;6
+SO-XZ5-TAP-COM-NEG;Sony;Xperia Z5;Tapa trasera;Negro grafito;6,75;;;6
+SO-XZ5-TAP-COM-BLA;Sony;Xperia Z5;Tapa trasera;Blanco;6,75;;;6
+SO-XZ5-TAP-COM-ORO;Sony;Xperia Z5;Tapa trasera;Oro;6,75;;;6
+SO-XZ5-TAP-COM-VER;Sony;Xperia Z5;Tapa trasera;Verde;6,75;;;6
+SO-XZ5-CTR-COM;Sony;Xperia Z5;Cámara trasera;Compatible;11,55;11,20;10,86;6
+SO-XZ5-CFR-COM;Sony;Xperia Z5;Cámara frontal;Compatible;6,59;;;6
+SO-XZ5-LEN-COM;Sony;Xperia Z5;Lente de cámara;Compatible;3,05;;;6
+SO-XZ5-ALT-COM;Sony;Xperia Z5;Altavoz;Compatible;4,60;;;6
+SO-XZ5-AUR-COM;Sony;Xperia Z5;Auricular de llamada;Compatible;3,60;;;6
+SO-XZ5-FLX-COM;Sony;Xperia Z5;Flex de encendido y volumen;Compatible;3,50;;;6
+SO-XZ5-SIM-COM;Sony;Xperia Z5;Bandeja SIM;Compatible;3,15;;;6
+SO-XZ5C-PAN-COM;Sony;Xperia Z5 Compact;Pantalla;Compatible;15,55;15,08;14,62;6
+SO-XZ5C-BAT-COM;Sony;Xperia Z5 Compact;Batería;Compatible;10,40;10,09;9,78;6
+SO-XZ5C-CON-COM;Sony;Xperia Z5 Compact;Conector de carga;Compatible;4,30;;;6
+SO-XZ5C-TAP-COM-NEG;Sony;Xperia Z5 Compact;Tapa trasera;Negro grafito;5,49;;;6
+SO-XZ5C-TAP-COM-BLA;Sony;Xperia Z5 Compact;Tapa trasera;Blanco;5,49;;;6
+SO-XZ5C-TAP-COM-AMA;Sony;Xperia Z5 Compact;Tapa trasera;Amarillo;5,49;;;6
+SO-XZ5C-TAP-COM-COR;Sony;Xperia Z5 Compact;Tapa trasera;Coral;5,49;;;6
+SO-XZ5C-CTR-COM;Sony;Xperia Z5 Compact;Cámara trasera;Compatible;9,20;;;6
+SO-XZ5C-CFR-COM;Sony;Xperia Z5 Compact;Cámara frontal;Compatible;5,25;;;6
+SO-XZ5C-LEN-COM;Sony;Xperia Z5 Compact;Lente de cámara;Compatible;2,60;;;6
+SO-XZ5C-ALT-COM;Sony;Xperia Z5 Compact;Altavoz;Compatible;4,05;;;6
+SO-XZ5C-AUR-COM;Sony;Xperia Z5 Compact;Auricular de llamada;Compatible;3,30;;;6
+SO-XZ5C-FLX-COM;Sony;Xperia Z5 Compact;Flex de encendido y volumen;Compatible;3,25;;;6
+SO-XZ5C-SIM-COM;Sony;Xperia Z5 Compact;Bandeja SIM;Compatible;2,90;;;6
+SO-XZ5P-PAN-COM;Sony;Xperia Z5 Premium;Pantalla;Compatible;21,80;21,15;20,49;6
+SO-XZ5P-BAT-COM;Sony;Xperia Z5 Premium;Batería;Compatible;9,95;;;6
+SO-XZ5P-CON-COM;Sony;Xperia Z5 Premium;Conector de carga;Compatible;5,79;;;6
+SO-XZ5P-TAP-COM-CRO;Sony;Xperia Z5 Premium;Tapa trasera;Cromo;6,75;;;6
+SO-XZ5P-TAP-COM-NEG;Sony;Xperia Z5 Premium;Tapa trasera;Negro;6,75;;;6
+SO-XZ5P-TAP-COM-ORO;Sony;Xperia Z5 Premium;Tapa trasera;Oro;6,75;;;6
+SO-XZ5P-CTR-COM;Sony;Xperia Z5 Premium;Cámara trasera;Compatible;11,55;11,20;10,86;6
+SO-XZ5P-CFR-COM;Sony;Xperia Z5 Premium;Cámara frontal;Compatible;6,59;;;6
+SO-XZ5P-LEN-COM;Sony;Xperia Z5 Premium;Lente de cámara;Compatible;3,05;;;6
+SO-XZ5P-ALT-COM;Sony;Xperia Z5 Premium;Altavoz;Compatible;4,60;;;6
+SO-XZ5P-AUR-COM;Sony;Xperia Z5 Premium;Auricular de llamada;Compatible;3,60;;;6
+SO-XZ5P-FLX-COM;Sony;Xperia Z5 Premium;Flex de encendido y volumen;Compatible;3,50;;;6
+SO-XZ5P-SIM-COM;Sony;Xperia Z5 Premium;Bandeja SIM;Compatible;3,15;;;6
+SO-XXP-PAN-COM;Sony;Xperia X Performance;Pantalla;Compatible;15,55;15,08;14,62;6
+SO-XXP-BAT-COM;Sony;Xperia X Performance;Batería;Compatible;10,40;10,09;9,78;6
+SO-XXP-CON-COM;Sony;Xperia X Performance;Conector de carga;Compatible;4,30;;;6
+SO-XXP-TAP-COM-BLA;Sony;Xperia X Performance;Tapa trasera;Blanco;5,49;;;6
+SO-XXP-TAP-COM-NEG;Sony;Xperia X Performance;Tapa trasera;Negro grafito;5,49;;;6
+SO-XXP-TAP-COM-VER;Sony;Xperia X Performance;Tapa trasera;Verde oro;5,49;;;6
+SO-XXP-TAP-COM-ORO;Sony;Xperia X Performance;Tapa trasera;Oro rosado;5,49;;;6
+SO-XXP-CTR-COM;Sony;Xperia X Performance;Cámara trasera;Compatible;9,20;;;6
+SO-XXP-CFR-COM;Sony;Xperia X Performance;Cámara frontal;Compatible;5,25;;;6
+SO-XXP-LEN-COM;Sony;Xperia X Performance;Lente de cámara;Compatible;2,60;;;6
+SO-XXP-ALT-COM;Sony;Xperia X Performance;Altavoz;Compatible;4,05;;;6
+SO-XXP-AUR-COM;Sony;Xperia X Performance;Auricular de llamada;Compatible;3,30;;;6
+SO-XXP-FLX-COM;Sony;Xperia X Performance;Flex de encendido y volumen;Compatible;3,25;;;6
+SO-XXP-SIM-COM;Sony;Xperia X Performance;Bandeja SIM;Compatible;2,90;;;6
+SO-XE5-PAN-COM;Sony;Xperia E5;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XE5-BAT-COM;Sony;Xperia E5;Batería;Compatible;9,65;;;6
+SO-XE5-CON-COM;Sony;Xperia E5;Conector de carga;Compatible;4,60;;;6
+SO-XE5-TAP-COM-NEG;Sony;Xperia E5;Tapa trasera;Negro grafito;5,40;;;6
+SO-XE5-TAP-COM-BLA;Sony;Xperia E5;Tapa trasera;Blanco;5,40;;;6
+SO-XE5-CTR-COM;Sony;Xperia E5;Cámara trasera;Compatible;7,59;;;6
+SO-XE5-CFR-COM;Sony;Xperia E5;Cámara frontal;Compatible;4,99;;;6
+SO-XE5-LEN-COM;Sony;Xperia E5;Lente de cámara;Compatible;2,19;;;6
+SO-XE5-ALT-COM;Sony;Xperia E5;Altavoz;Compatible;3,65;;;6
+SO-XE5-AUR-COM;Sony;Xperia E5;Auricular de llamada;Compatible;2,65;;;6
+SO-XE5-FLX-COM;Sony;Xperia E5;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XE5-SIM-COM;Sony;Xperia E5;Bandeja SIM;Compatible;2,55;;;6
+SO-XX-PAN-COM;Sony;Xperia X;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XX-BAT-COM;Sony;Xperia X;Batería;Compatible;9,65;;;6
+SO-XX-CON-COM;Sony;Xperia X;Conector de carga;Compatible;4,60;;;6
+SO-XX-TAP-COM-BLA;Sony;Xperia X;Tapa trasera;Blanco;5,40;;;6
+SO-XX-TAP-COM-NEG;Sony;Xperia X;Tapa trasera;Negro grafito;5,40;;;6
+SO-XX-TAP-COM-LIM;Sony;Xperia X;Tapa trasera;Lima oro;5,40;;;6
+SO-XX-TAP-COM-ROS;Sony;Xperia X;Tapa trasera;Rosa oro;5,40;;;6
+SO-XX-CTR-COM;Sony;Xperia X;Cámara trasera;Compatible;7,59;;;6
+SO-XX-CFR-COM;Sony;Xperia X;Cámara frontal;Compatible;4,99;;;6
+SO-XX-LEN-COM;Sony;Xperia X;Lente de cámara;Compatible;2,19;;;6
+SO-XX-ALT-COM;Sony;Xperia X;Altavoz;Compatible;3,65;;;6
+SO-XX-AUR-COM;Sony;Xperia X;Auricular de llamada;Compatible;2,65;;;6
+SO-XX-FLX-COM;Sony;Xperia X;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XX-SIM-COM;Sony;Xperia X;Bandeja SIM;Compatible;2,55;;;6
+SO-XXA-PAN-COM;Sony;Xperia XA;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XXA-BAT-COM;Sony;Xperia XA;Batería;Compatible;9,65;;;6
+SO-XXA-CON-COM;Sony;Xperia XA;Conector de carga;Compatible;4,60;;;6
+SO-XXA-TAP-COM-BLA;Sony;Xperia XA;Tapa trasera;Blanco;5,40;;;6
+SO-XXA-TAP-COM-NEG;Sony;Xperia XA;Tapa trasera;Negro grafito;5,40;;;6
+SO-XXA-TAP-COM-VER;Sony;Xperia XA;Tapa trasera;Verde oro;5,40;;;6
+SO-XXA-TAP-COM-ORO;Sony;Xperia XA;Tapa trasera;Oro rosado;5,40;;;6
+SO-XXA-CTR-COM;Sony;Xperia XA;Cámara trasera;Compatible;7,59;;;6
+SO-XXA-CFR-COM;Sony;Xperia XA;Cámara frontal;Compatible;4,99;;;6
+SO-XXA-LEN-COM;Sony;Xperia XA;Lente de cámara;Compatible;2,19;;;6
+SO-XXA-ALT-COM;Sony;Xperia XA;Altavoz;Compatible;3,65;;;6
+SO-XXA-AUR-COM;Sony;Xperia XA;Auricular de llamada;Compatible;2,65;;;6
+SO-XXA-FLX-COM;Sony;Xperia XA;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XXA-SIM-COM;Sony;Xperia XA;Bandeja SIM;Compatible;2,55;;;6
+SO-XXAU-PAN-COM;Sony;Xperia XA Ultra;Pantalla;Compatible;16,69;16,19;15,69;6
+SO-XXAU-BAT-COM;Sony;Xperia XA Ultra;Batería;Compatible;9,65;;;6
+SO-XXAU-CON-COM;Sony;Xperia XA Ultra;Conector de carga;Compatible;4,60;;;6
+SO-XXAU-TAP-COM-BLA;Sony;Xperia XA Ultra;Tapa trasera;Blanco;5,40;;;6
+SO-XXAU-TAP-COM-NEG;Sony;Xperia XA Ultra;Tapa trasera;Negro (Graphite Black);5,40;;;6
+SO-XXAU-TAP-COM-DOR;Sony;Xperia XA Ultra;Tapa trasera;Dorado (Lime Gold);5,40;;;6
+SO-XXAU-CTR-COM;Sony;Xperia XA Ultra;Cámara trasera;Compatible;7,59;;;6
+SO-XXAU-CFR-COM;Sony;Xperia XA Ultra;Cámara frontal;Compatible;4,99;;;6
+SO-XXAU-LEN-COM;Sony;Xperia XA Ultra;Lente de cámara;Compatible;2,19;;;6
+SO-XXAU-ALT-COM;Sony;Xperia XA Ultra;Altavoz;Compatible;3,65;;;6
+SO-XXAU-AUR-COM;Sony;Xperia XA Ultra;Auricular de llamada;Compatible;2,65;;;6
+SO-XXAU-FLX-COM;Sony;Xperia XA Ultra;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XXAU-SIM-COM;Sony;Xperia XA Ultra;Bandeja SIM;Compatible;2,55;;;6
+SO-XXC-PAN-COM;Sony;Xperia X Compact;Pantalla;Compatible;15,55;15,08;14,62;6
+SO-XXC-BAT-COM;Sony;Xperia X Compact;Batería;Compatible;10,40;10,09;9,78;6
+SO-XXC-CON-COM;Sony;Xperia X Compact;Conector de carga;Compatible;4,30;;;6
+SO-XXC-TAP-COM-AZU;Sony;Xperia X Compact;Tapa trasera;Azul (Mist Blue);5,49;;;6
+SO-XXC-TAP-COM-NEG;Sony;Xperia X Compact;Tapa trasera;Negro (Universe Black);5,49;;;6
+SO-XXC-TAP-COM-BLA;Sony;Xperia X Compact;Tapa trasera;Blanco;5,49;;;6
+SO-XXC-CTR-COM;Sony;Xperia X Compact;Cámara trasera;Compatible;9,20;;;6
+SO-XXC-CFR-COM;Sony;Xperia X Compact;Cámara frontal;Compatible;5,25;;;6
+SO-XXC-LEN-COM;Sony;Xperia X Compact;Lente de cámara;Compatible;2,60;;;6
+SO-XXC-ALT-COM;Sony;Xperia X Compact;Altavoz;Compatible;4,05;;;6
+SO-XXC-AUR-COM;Sony;Xperia X Compact;Auricular de llamada;Compatible;3,30;;;6
+SO-XXC-FLX-COM;Sony;Xperia X Compact;Flex de encendido y volumen;Compatible;3,25;;;6
+SO-XXC-SIM-COM;Sony;Xperia X Compact;Bandeja SIM;Compatible;2,90;;;6
+SO-XXZ-PAN-COM;Sony;Xperia XZ;Pantalla;Compatible;21,80;21,15;20,49;6
+SO-XXZ-BAT-COM;Sony;Xperia XZ;Batería;Compatible;9,95;;;6
+SO-XXZ-CON-COM;Sony;Xperia XZ;Conector de carga;Compatible;5,79;;;6
+SO-XXZ-TAP-COM-AZU;Sony;Xperia XZ;Tapa trasera;Azul bosque;6,75;;;6
+SO-XXZ-TAP-COM-NEG;Sony;Xperia XZ;Tapa trasera;Negro (Mineral Black);6,75;;;6
+SO-XXZ-TAP-COM-PLA;Sony;Xperia XZ;Tapa trasera;Platinum;6,75;;;6
+SO-XXZ-CTR-COM;Sony;Xperia XZ;Cámara trasera;Compatible;11,55;11,20;10,86;6
+SO-XXZ-CFR-COM;Sony;Xperia XZ;Cámara frontal;Compatible;6,59;;;6
+SO-XXZ-LEN-COM;Sony;Xperia XZ;Lente de cámara;Compatible;3,05;;;6
+SO-XXZ-ALT-COM;Sony;Xperia XZ;Altavoz;Compatible;4,60;;;6
+SO-XXZ-AUR-COM;Sony;Xperia XZ;Auricular de llamada;Compatible;3,60;;;6
+SO-XXZ-FLX-COM;Sony;Xperia XZ;Flex de encendido y volumen;Compatible;3,50;;;6
+SO-XXZ-SIM-COM;Sony;Xperia XZ;Bandeja SIM;Compatible;3,15;;;6
+SO-XXA1-PAN-COM;Sony;Xperia XA1;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XXA1-BAT-COM;Sony;Xperia XA1;Batería;Compatible;9,65;;;6
+SO-XXA1-CON-COM;Sony;Xperia XA1;Conector de carga;Compatible;4,60;;;6
+SO-XXA1-TAP-COM-BLA;Sony;Xperia XA1;Tapa trasera;Blanco;5,40;;;6
+SO-XXA1-TAP-COM-NEG;Sony;Xperia XA1;Tapa trasera;Negro;5,40;;;6
+SO-XXA1-TAP-COM-ORO;Sony;Xperia XA1;Tapa trasera;Oro;5,40;;;6
+SO-XXA1-TAP-COM-ROS;Sony;Xperia XA1;Tapa trasera;Rosa;5,40;;;6
+SO-XXA1-CTR-COM;Sony;Xperia XA1;Cámara trasera;Compatible;7,59;;;6
+SO-XXA1-CFR-COM;Sony;Xperia XA1;Cámara frontal;Compatible;4,99;;;6
+SO-XXA1-LEN-COM;Sony;Xperia XA1;Lente de cámara;Compatible;2,19;;;6
+SO-XXA1-ALT-COM;Sony;Xperia XA1;Altavoz;Compatible;3,65;;;6
+SO-XXA1-AUR-COM;Sony;Xperia XA1;Auricular de llamada;Compatible;2,65;;;6
+SO-XXA1-FLX-COM;Sony;Xperia XA1;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XXA1-SIM-COM;Sony;Xperia XA1;Bandeja SIM;Compatible;2,55;;;6
+SO-XXZS-PAN-COM;Sony;Xperia XZs;Pantalla;Compatible;21,80;21,15;20,49;6
+SO-XXZS-BAT-COM;Sony;Xperia XZs;Batería;Compatible;9,95;;;6
+SO-XXZS-CON-COM;Sony;Xperia XZs;Conector de carga;Compatible;5,79;;;6
+SO-XXZS-TAP-COM-AZU;Sony;Xperia XZs;Tapa trasera;Azul hielo;6,75;;;6
+SO-XXZS-TAP-COM-NEG;Sony;Xperia XZs;Tapa trasera;Negro;6,75;;;6
+SO-XXZS-TAP-COM-PLA;Sony;Xperia XZs;Tapa trasera;Plata (Warm Silver);6,75;;;6
+SO-XXZS-CTR-COM;Sony;Xperia XZs;Cámara trasera;Compatible;11,55;11,20;10,86;6
+SO-XXZS-CFR-COM;Sony;Xperia XZs;Cámara frontal;Compatible;6,59;;;6
+SO-XXZS-LEN-COM;Sony;Xperia XZs;Lente de cámara;Compatible;3,05;;;6
+SO-XXZS-ALT-COM;Sony;Xperia XZs;Altavoz;Compatible;4,60;;;6
+SO-XXZS-AUR-COM;Sony;Xperia XZs;Auricular de llamada;Compatible;3,60;;;6
+SO-XXZS-FLX-COM;Sony;Xperia XZs;Flex de encendido y volumen;Compatible;3,50;;;6
+SO-XXZS-SIM-COM;Sony;Xperia XZs;Bandeja SIM;Compatible;3,15;;;6
+SO-XXA1U-PAN-COM;Sony;Xperia XA1 Ultra;Pantalla;Compatible;16,69;16,19;15,69;6
+SO-XXA1U-BAT-COM;Sony;Xperia XA1 Ultra;Batería;Compatible;9,65;;;6
+SO-XXA1U-CON-COM;Sony;Xperia XA1 Ultra;Conector de carga;Compatible;4,60;;;6
+SO-XXA1U-TAP-COM-DOR;Sony;Xperia XA1 Ultra;Tapa trasera;Dorado;5,40;;;6
+SO-XXA1U-TAP-COM-BLA;Sony;Xperia XA1 Ultra;Tapa trasera;Blanco;5,40;;;6
+SO-XXA1U-TAP-COM-NEG;Sony;Xperia XA1 Ultra;Tapa trasera;Negro;5,40;;;6
+SO-XXA1U-TAP-COM-ROS;Sony;Xperia XA1 Ultra;Tapa trasera;Rosa;5,40;;;6
+SO-XXA1U-CTR-COM;Sony;Xperia XA1 Ultra;Cámara trasera;Compatible;7,59;;;6
+SO-XXA1U-CFR-COM;Sony;Xperia XA1 Ultra;Cámara frontal;Compatible;4,99;;;6
+SO-XXA1U-LEN-COM;Sony;Xperia XA1 Ultra;Lente de cámara;Compatible;2,19;;;6
+SO-XXA1U-ALT-COM;Sony;Xperia XA1 Ultra;Altavoz;Compatible;3,65;;;6
+SO-XXA1U-AUR-COM;Sony;Xperia XA1 Ultra;Auricular de llamada;Compatible;2,65;;;6
+SO-XXA1U-FLX-COM;Sony;Xperia XA1 Ultra;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XXA1U-SIM-COM;Sony;Xperia XA1 Ultra;Bandeja SIM;Compatible;2,55;;;6
+SO-XL1-PAN-COM;Sony;Xperia L1;Pantalla;Compatible;13,00;12,61;12,22;6
+SO-XL1-BAT-COM;Sony;Xperia L1;Batería;Compatible;8,90;;;6
+SO-XL1-CON-COM;Sony;Xperia L1;Conector de carga;Compatible;3,70;;;6
+SO-XL1-TAP-COM-BLA;Sony;Xperia L1;Tapa trasera;Blanco;4,80;;;6
+SO-XL1-TAP-COM-NEG;Sony;Xperia L1;Tapa trasera;Negro;4,80;;;6
+SO-XL1-TAP-COM-ROS;Sony;Xperia L1;Tapa trasera;Rosa;4,80;;;6
+SO-XL1-CTR-COM;Sony;Xperia L1;Cámara trasera;Compatible;6,65;;;6
+SO-XL1-CFR-COM;Sony;Xperia L1;Cámara frontal;Compatible;4,65;;;6
+SO-XL1-LEN-COM;Sony;Xperia L1;Lente de cámara;Compatible;2,25;;;6
+SO-XL1-ALT-COM;Sony;Xperia L1;Altavoz;Compatible;3,59;;;6
+SO-XL1-AUR-COM;Sony;Xperia L1;Auricular de llamada;Compatible;2,69;;;6
+SO-XL1-FLX-COM;Sony;Xperia L1;Flex de encendido y volumen;Compatible;2,55;;;6
+SO-XL1-SIM-COM;Sony;Xperia L1;Bandeja SIM;Compatible;2,65;;;6
+SO-XXZP-PAN-COM;Sony;Xperia XZ Premium;Pantalla;Compatible;21,80;21,15;20,49;6
+SO-XXZP-BAT-COM;Sony;Xperia XZ Premium;Batería;Compatible;9,95;;;6
+SO-XXZP-CON-COM;Sony;Xperia XZ Premium;Conector de carga;Compatible;5,79;;;6
+SO-XXZP-TAP-COM-CRO;Sony;Xperia XZ Premium;Tapa trasera;Cromo luminoso;6,75;;;6
+SO-XXZP-TAP-COM-NEG;Sony;Xperia XZ Premium;Tapa trasera;Negro marino;6,75;;;6
+SO-XXZP-TAP-COM-ROS;Sony;Xperia XZ Premium;Tapa trasera;Rosa (Bronze Pink);6,75;;;6
+SO-XXZP-CTR-COM;Sony;Xperia XZ Premium;Cámara trasera;Compatible;11,55;11,20;10,86;6
+SO-XXZP-CFR-COM;Sony;Xperia XZ Premium;Cámara frontal;Compatible;6,59;;;6
+SO-XXZP-LEN-COM;Sony;Xperia XZ Premium;Lente de cámara;Compatible;3,05;;;6
+SO-XXZP-ALT-COM;Sony;Xperia XZ Premium;Altavoz;Compatible;4,60;;;6
+SO-XXZP-AUR-COM;Sony;Xperia XZ Premium;Auricular de llamada;Compatible;3,60;;;6
+SO-XXZP-FLX-COM;Sony;Xperia XZ Premium;Flex de encendido y volumen;Compatible;3,50;;;6
+SO-XXZP-SIM-COM;Sony;Xperia XZ Premium;Bandeja SIM;Compatible;3,15;;;6
+SO-XXZ1-PAN-COM;Sony;Xperia XZ1;Pantalla;Compatible;21,80;21,15;20,49;6
+SO-XXZ1-BAT-COM;Sony;Xperia XZ1;Batería;Compatible;9,95;;;6
+SO-XXZ1-CON-COM;Sony;Xperia XZ1;Conector de carga;Compatible;5,79;;;6
+SO-XXZ1-TAP-COM-AZU;Sony;Xperia XZ1;Tapa trasera;Azul;6,75;;;6
+SO-XXZ1-TAP-COM-NEG;Sony;Xperia XZ1;Tapa trasera;Negro;6,75;;;6
+SO-XXZ1-TAP-COM-PLA;Sony;Xperia XZ1;Tapa trasera;Plata;6,75;;;6
+SO-XXZ1-TAP-COM-ROS;Sony;Xperia XZ1;Tapa trasera;Rosa;6,75;;;6
+SO-XXZ1-CTR-COM;Sony;Xperia XZ1;Cámara trasera;Compatible;11,55;11,20;10,86;6
+SO-XXZ1-CFR-COM;Sony;Xperia XZ1;Cámara frontal;Compatible;6,59;;;6
+SO-XXZ1-LEN-COM;Sony;Xperia XZ1;Lente de cámara;Compatible;3,05;;;6
+SO-XXZ1-ALT-COM;Sony;Xperia XZ1;Altavoz;Compatible;4,60;;;6
+SO-XXZ1-AUR-COM;Sony;Xperia XZ1;Auricular de llamada;Compatible;3,60;;;6
+SO-XXZ1-FLX-COM;Sony;Xperia XZ1;Flex de encendido y volumen;Compatible;3,50;;;6
+SO-XXZ1-SIM-COM;Sony;Xperia XZ1;Bandeja SIM;Compatible;3,15;;;6
+SO-XXZ1C-PAN-COM;Sony;Xperia XZ1 Compact;Pantalla;Compatible;15,55;15,08;14,62;6
+SO-XXZ1C-BAT-COM;Sony;Xperia XZ1 Compact;Batería;Compatible;10,40;10,09;9,78;6
+SO-XXZ1C-CON-COM;Sony;Xperia XZ1 Compact;Conector de carga;Compatible;4,30;;;6
+SO-XXZ1C-TAP-COM-PLA;Sony;Xperia XZ1 Compact;Tapa trasera;Plata;5,49;;;6
+SO-XXZ1C-TAP-COM-NEG;Sony;Xperia XZ1 Compact;Tapa trasera;Negro;5,49;;;6
+SO-XXZ1C-TAP-COM-AZU;Sony;Xperia XZ1 Compact;Tapa trasera;Azul;5,49;;;6
+SO-XXZ1C-TAP-COM-ROS;Sony;Xperia XZ1 Compact;Tapa trasera;Rosa;5,49;;;6
+SO-XXZ1C-CTR-COM;Sony;Xperia XZ1 Compact;Cámara trasera;Compatible;9,20;;;6
+SO-XXZ1C-CFR-COM;Sony;Xperia XZ1 Compact;Cámara frontal;Compatible;5,25;;;6
+SO-XXZ1C-LEN-COM;Sony;Xperia XZ1 Compact;Lente de cámara;Compatible;2,60;;;6
+SO-XXZ1C-ALT-COM;Sony;Xperia XZ1 Compact;Altavoz;Compatible;4,05;;;6
+SO-XXZ1C-AUR-COM;Sony;Xperia XZ1 Compact;Auricular de llamada;Compatible;3,30;;;6
+SO-XXZ1C-FLX-COM;Sony;Xperia XZ1 Compact;Flex de encendido y volumen;Compatible;3,25;;;6
+SO-XXZ1C-SIM-COM;Sony;Xperia XZ1 Compact;Bandeja SIM;Compatible;2,90;;;6
+SO-XXA1PL-PAN-COM;Sony;Xperia XA1 Plus;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XXA1PL-BAT-COM;Sony;Xperia XA1 Plus;Batería;Compatible;9,65;;;6
+SO-XXA1PL-CON-COM;Sony;Xperia XA1 Plus;Conector de carga;Compatible;4,60;;;6
+SO-XXA1PL-TAP-COM-DOR;Sony;Xperia XA1 Plus;Tapa trasera;Dorado;5,40;;;6
+SO-XXA1PL-TAP-COM-NEG;Sony;Xperia XA1 Plus;Tapa trasera;Negro;5,40;;;6
+SO-XXA1PL-TAP-COM-AZU;Sony;Xperia XA1 Plus;Tapa trasera;Azul;5,40;;;6
+SO-XXA1PL-CTR-COM;Sony;Xperia XA1 Plus;Cámara trasera;Compatible;7,59;;;6
+SO-XXA1PL-CFR-COM;Sony;Xperia XA1 Plus;Cámara frontal;Compatible;4,99;;;6
+SO-XXA1PL-LEN-COM;Sony;Xperia XA1 Plus;Lente de cámara;Compatible;2,19;;;6
+SO-XXA1PL-ALT-COM;Sony;Xperia XA1 Plus;Altavoz;Compatible;3,65;;;6
+SO-XXA1PL-AUR-COM;Sony;Xperia XA1 Plus;Auricular de llamada;Compatible;2,65;;;6
+SO-XXA1PL-FLX-COM;Sony;Xperia XA1 Plus;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XXA1PL-SIM-COM;Sony;Xperia XA1 Plus;Bandeja SIM;Compatible;2,55;;;6
+SO-XL2-PAN-COM;Sony;Xperia L2;Pantalla;Compatible;13,00;12,61;12,22;6
+SO-XL2-BAT-COM;Sony;Xperia L2;Batería;Compatible;8,90;;;6
+SO-XL2-CON-COM;Sony;Xperia L2;Conector de carga;Compatible;3,70;;;6
+SO-XL2-TAP-COM-NEG;Sony;Xperia L2;Tapa trasera;Negro;4,80;;;6
+SO-XL2-TAP-COM-ROS;Sony;Xperia L2;Tapa trasera;Rosa;4,80;;;6
+SO-XL2-TAP-COM-DOR;Sony;Xperia L2;Tapa trasera;Dorado;4,80;;;6
+SO-XL2-CTR-COM;Sony;Xperia L2;Cámara trasera;Compatible;6,65;;;6
+SO-XL2-CFR-COM;Sony;Xperia L2;Cámara frontal;Compatible;4,65;;;6
+SO-XL2-LEN-COM;Sony;Xperia L2;Lente de cámara;Compatible;2,25;;;6
+SO-XL2-ALT-COM;Sony;Xperia L2;Altavoz;Compatible;3,59;;;6
+SO-XL2-AUR-COM;Sony;Xperia L2;Auricular de llamada;Compatible;2,69;;;6
+SO-XL2-FLX-COM;Sony;Xperia L2;Flex de encendido y volumen;Compatible;2,55;;;6
+SO-XL2-SIM-COM;Sony;Xperia L2;Bandeja SIM;Compatible;2,65;;;6
+SO-XXA2-PAN-COM;Sony;Xperia XA2;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XXA2-BAT-COM;Sony;Xperia XA2;Batería;Compatible;9,65;;;6
+SO-XXA2-CON-COM;Sony;Xperia XA2;Conector de carga;Compatible;4,60;;;6
+SO-XXA2-TAP-COM-PLA;Sony;Xperia XA2;Tapa trasera;Plata;5,40;;;6
+SO-XXA2-TAP-COM-NEG;Sony;Xperia XA2;Tapa trasera;Negro;5,40;;;6
+SO-XXA2-TAP-COM-AZU;Sony;Xperia XA2;Tapa trasera;Azul;5,40;;;6
+SO-XXA2-TAP-COM-ROS;Sony;Xperia XA2;Tapa trasera;Rosa;5,40;;;6
+SO-XXA2-CTR-COM;Sony;Xperia XA2;Cámara trasera;Compatible;7,59;;;6
+SO-XXA2-CFR-COM;Sony;Xperia XA2;Cámara frontal;Compatible;4,99;;;6
+SO-XXA2-LEN-COM;Sony;Xperia XA2;Lente de cámara;Compatible;2,19;;;6
+SO-XXA2-ALT-COM;Sony;Xperia XA2;Altavoz;Compatible;3,65;;;6
+SO-XXA2-AUR-COM;Sony;Xperia XA2;Auricular de llamada;Compatible;2,65;;;6
+SO-XXA2-FLX-COM;Sony;Xperia XA2;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XXA2-SIM-COM;Sony;Xperia XA2;Bandeja SIM;Compatible;2,55;;;6
+SO-XXA2U-PAN-COM;Sony;Xperia XA2 Ultra;Pantalla;Compatible;16,69;16,19;15,69;6
+SO-XXA2U-BAT-COM;Sony;Xperia XA2 Ultra;Batería;Compatible;9,65;;;6
+SO-XXA2U-CON-COM;Sony;Xperia XA2 Ultra;Conector de carga;Compatible;4,60;;;6
+SO-XXA2U-TAP-COM-PLA;Sony;Xperia XA2 Ultra;Tapa trasera;Plata;5,40;;;6
+SO-XXA2U-TAP-COM-NEG;Sony;Xperia XA2 Ultra;Tapa trasera;Negro;5,40;;;6
+SO-XXA2U-TAP-COM-AZU;Sony;Xperia XA2 Ultra;Tapa trasera;Azul;5,40;;;6
+SO-XXA2U-TAP-COM-DOR;Sony;Xperia XA2 Ultra;Tapa trasera;Dorado;5,40;;;6
+SO-XXA2U-CTR-COM;Sony;Xperia XA2 Ultra;Cámara trasera;Compatible;7,59;;;6
+SO-XXA2U-CFR-COM;Sony;Xperia XA2 Ultra;Cámara frontal;Compatible;4,99;;;6
+SO-XXA2U-LEN-COM;Sony;Xperia XA2 Ultra;Lente de cámara;Compatible;2,19;;;6
+SO-XXA2U-ALT-COM;Sony;Xperia XA2 Ultra;Altavoz;Compatible;3,65;;;6
+SO-XXA2U-AUR-COM;Sony;Xperia XA2 Ultra;Auricular de llamada;Compatible;2,65;;;6
+SO-XXA2U-FLX-COM;Sony;Xperia XA2 Ultra;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XXA2U-SIM-COM;Sony;Xperia XA2 Ultra;Bandeja SIM;Compatible;2,55;;;6
+SO-XXZ2-PAN-COM;Sony;Xperia XZ2;Pantalla;Compatible;21,80;21,15;20,49;6
+SO-XXZ2-BAT-COM;Sony;Xperia XZ2;Batería;Compatible;9,95;;;6
+SO-XXZ2-CON-COM;Sony;Xperia XZ2;Conector de carga;Compatible;5,79;;;6
+SO-XXZ2-TAP-COM-NEG;Sony;Xperia XZ2;Tapa trasera;Negro líquido;6,75;;;6
+SO-XXZ2-TAP-COM-PLA;Sony;Xperia XZ2;Tapa trasera;Plata líquida;6,75;;;6
+SO-XXZ2-TAP-COM-VER;Sony;Xperia XZ2;Tapa trasera;Verde profundo;6,75;;;6
+SO-XXZ2-TAP-COM-ROS;Sony;Xperia XZ2;Tapa trasera;Rosa ceniza;6,75;;;6
+SO-XXZ2-CTR-COM;Sony;Xperia XZ2;Cámara trasera;Compatible;11,55;11,20;10,86;6
+SO-XXZ2-CFR-COM;Sony;Xperia XZ2;Cámara frontal;Compatible;6,59;;;6
+SO-XXZ2-LEN-COM;Sony;Xperia XZ2;Lente de cámara;Compatible;3,05;;;6
+SO-XXZ2-ALT-COM;Sony;Xperia XZ2;Altavoz;Compatible;4,60;;;6
+SO-XXZ2-AUR-COM;Sony;Xperia XZ2;Auricular de llamada;Compatible;3,60;;;6
+SO-XXZ2-FLX-COM;Sony;Xperia XZ2;Flex de encendido y volumen;Compatible;3,50;;;6
+SO-XXZ2-SIM-COM;Sony;Xperia XZ2;Bandeja SIM;Compatible;3,15;;;6
+SO-XXZ2C-PAN-COM;Sony;Xperia XZ2 Compact;Pantalla;Compatible;15,55;15,08;14,62;6
+SO-XXZ2C-BAT-COM;Sony;Xperia XZ2 Compact;Batería;Compatible;10,40;10,09;9,78;6
+SO-XXZ2C-CON-COM;Sony;Xperia XZ2 Compact;Conector de carga;Compatible;4,30;;;6
+SO-XXZ2C-TAP-COM-NEG;Sony;Xperia XZ2 Compact;Tapa trasera;Negro;5,49;;;6
+SO-XXZ2C-TAP-COM-BLA;Sony;Xperia XZ2 Compact;Tapa trasera;Blanco plateado;5,49;;;6
+SO-XXZ2C-TAP-COM-VER;Sony;Xperia XZ2 Compact;Tapa trasera;Verde musgo;5,49;;;6
+SO-XXZ2C-TAP-COM-ROS;Sony;Xperia XZ2 Compact;Tapa trasera;Rosa coral;5,49;;;6
+SO-XXZ2C-CTR-COM;Sony;Xperia XZ2 Compact;Cámara trasera;Compatible;9,20;;;6
+SO-XXZ2C-CFR-COM;Sony;Xperia XZ2 Compact;Cámara frontal;Compatible;5,25;;;6
+SO-XXZ2C-LEN-COM;Sony;Xperia XZ2 Compact;Lente de cámara;Compatible;2,60;;;6
+SO-XXZ2C-ALT-COM;Sony;Xperia XZ2 Compact;Altavoz;Compatible;4,05;;;6
+SO-XXZ2C-AUR-COM;Sony;Xperia XZ2 Compact;Auricular de llamada;Compatible;3,30;;;6
+SO-XXZ2C-FLX-COM;Sony;Xperia XZ2 Compact;Flex de encendido y volumen;Compatible;3,25;;;6
+SO-XXZ2C-SIM-COM;Sony;Xperia XZ2 Compact;Bandeja SIM;Compatible;2,90;;;6
+SO-XXA2PL-PAN-COM;Sony;Xperia XA2 Plus;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-XXA2PL-BAT-COM;Sony;Xperia XA2 Plus;Batería;Compatible;9,65;;;6
+SO-XXA2PL-CON-COM;Sony;Xperia XA2 Plus;Conector de carga;Compatible;4,60;;;6
+SO-XXA2PL-TAP-COM-PLA;Sony;Xperia XA2 Plus;Tapa trasera;Plata;5,40;;;6
+SO-XXA2PL-TAP-COM-NEG;Sony;Xperia XA2 Plus;Tapa trasera;Negro;5,40;;;6
+SO-XXA2PL-TAP-COM-DOR;Sony;Xperia XA2 Plus;Tapa trasera;Dorado;5,40;;;6
+SO-XXA2PL-TAP-COM-VER;Sony;Xperia XA2 Plus;Tapa trasera;Verde;5,40;;;6
+SO-XXA2PL-CTR-COM;Sony;Xperia XA2 Plus;Cámara trasera;Compatible;7,59;;;6
+SO-XXA2PL-CFR-COM;Sony;Xperia XA2 Plus;Cámara frontal;Compatible;4,99;;;6
+SO-XXA2PL-LEN-COM;Sony;Xperia XA2 Plus;Lente de cámara;Compatible;2,19;;;6
+SO-XXA2PL-ALT-COM;Sony;Xperia XA2 Plus;Altavoz;Compatible;3,65;;;6
+SO-XXA2PL-AUR-COM;Sony;Xperia XA2 Plus;Auricular de llamada;Compatible;2,65;;;6
+SO-XXA2PL-FLX-COM;Sony;Xperia XA2 Plus;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-XXA2PL-SIM-COM;Sony;Xperia XA2 Plus;Bandeja SIM;Compatible;2,55;;;6
+SO-XXZ2P-PAN-COM;Sony;Xperia XZ2 Premium;Pantalla;Compatible;21,80;21,15;20,49;6
+SO-XXZ2P-BAT-COM;Sony;Xperia XZ2 Premium;Batería;Compatible;9,95;;;6
+SO-XXZ2P-CON-COM;Sony;Xperia XZ2 Premium;Conector de carga;Compatible;5,79;;;6
+SO-XXZ2P-TAP-COM-NEG;Sony;Xperia XZ2 Premium;Tapa trasera;Negro cromado;6,75;;;6
+SO-XXZ2P-TAP-COM-PLA;Sony;Xperia XZ2 Premium;Tapa trasera;Plata cromada;6,75;;;6
+SO-XXZ2P-CTR-COM;Sony;Xperia XZ2 Premium;Cámara trasera;Compatible;11,55;11,20;10,86;6
+SO-XXZ2P-CFR-COM;Sony;Xperia XZ2 Premium;Cámara frontal;Compatible;6,59;;;6
+SO-XXZ2P-LEN-COM;Sony;Xperia XZ2 Premium;Lente de cámara;Compatible;3,05;;;6
+SO-XXZ2P-ALT-COM;Sony;Xperia XZ2 Premium;Altavoz;Compatible;4,60;;;6
+SO-XXZ2P-AUR-COM;Sony;Xperia XZ2 Premium;Auricular de llamada;Compatible;3,60;;;6
+SO-XXZ2P-FLX-COM;Sony;Xperia XZ2 Premium;Flex de encendido y volumen;Compatible;3,50;;;6
+SO-XXZ2P-SIM-COM;Sony;Xperia XZ2 Premium;Bandeja SIM;Compatible;3,15;;;6
+SO-XXZ3-PAN-INC;Sony;Xperia XZ3;Pantalla;Incell;25,45;24,69;23,92;6
+SO-XXZ3-BAT-COM;Sony;Xperia XZ3;Batería;Compatible;9,95;;;6
+SO-XXZ3-CON-COM;Sony;Xperia XZ3;Conector de carga;Compatible;5,79;;;6
+SO-XXZ3-TAP-COM-NEG;Sony;Xperia XZ3;Tapa trasera;Negro;6,75;;;6
+SO-XXZ3-TAP-COM-BLA;Sony;Xperia XZ3;Tapa trasera;Blanco plateado;6,75;;;6
+SO-XXZ3-TAP-COM-VER;Sony;Xperia XZ3;Tapa trasera;Verde bosque;6,75;;;6
+SO-XXZ3-TAP-COM-ROJ;Sony;Xperia XZ3;Tapa trasera;Rojo burdeos;6,75;;;6
+SO-XXZ3-CTR-COM;Sony;Xperia XZ3;Cámara trasera;Compatible;11,55;11,20;10,86;6
+SO-XXZ3-CFR-COM;Sony;Xperia XZ3;Cámara frontal;Compatible;6,59;;;6
+SO-XXZ3-LEN-COM;Sony;Xperia XZ3;Lente de cámara;Compatible;3,05;;;6
+SO-XXZ3-ALT-COM;Sony;Xperia XZ3;Altavoz;Compatible;4,60;;;6
+SO-XXZ3-AUR-COM;Sony;Xperia XZ3;Auricular de llamada;Compatible;3,60;;;6
+SO-XXZ3-FLX-COM;Sony;Xperia XZ3;Flex de encendido y volumen;Compatible;3,50;;;6
+SO-XXZ3-SIM-COM;Sony;Xperia XZ3;Bandeja SIM;Compatible;3,15;;;6
+SO-X10-PAN-COM;Sony;Xperia 10;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-X10-BAT-COM;Sony;Xperia 10;Batería;Compatible;9,65;;;6
+SO-X10-CON-COM;Sony;Xperia 10;Conector de carga;Compatible;4,60;;;6
+SO-X10-TAP-COM-AZU;Sony;Xperia 10;Tapa trasera;Azul marino;5,40;;;6
+SO-X10-TAP-COM-NEG;Sony;Xperia 10;Tapa trasera;Negro;5,40;;;6
+SO-X10-TAP-COM-PLA;Sony;Xperia 10;Tapa trasera;Plata;5,40;;;6
+SO-X10-TAP-COM-ROS;Sony;Xperia 10;Tapa trasera;Rosa;5,40;;;6
+SO-X10-CTR-COM;Sony;Xperia 10;Cámara trasera;Compatible;7,59;;;6
+SO-X10-CFR-COM;Sony;Xperia 10;Cámara frontal;Compatible;4,99;;;6
+SO-X10-LEN-COM;Sony;Xperia 10;Lente de cámara;Compatible;2,19;;;6
+SO-X10-ALT-COM;Sony;Xperia 10;Altavoz;Compatible;3,65;;;6
+SO-X10-AUR-COM;Sony;Xperia 10;Auricular de llamada;Compatible;2,65;;;6
+SO-X10-FLX-COM;Sony;Xperia 10;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-X10-SIM-COM;Sony;Xperia 10;Bandeja SIM;Compatible;2,55;;;6
+SO-X10PL-PAN-COM;Sony;Xperia 10 Plus;Pantalla;Compatible;15,15;14,70;14,24;6
+SO-X10PL-BAT-COM;Sony;Xperia 10 Plus;Batería;Compatible;9,65;;;6
+SO-X10PL-CON-COM;Sony;Xperia 10 Plus;Conector de carga;Compatible;4,60;;;6
+SO-X10PL-TAP-COM-AZU;Sony;Xperia 10 Plus;Tapa trasera;Azul marino;5,40;;;6
+SO-X10PL-TAP-COM-NEG;Sony;Xperia 10 Plus;Tapa trasera;Negro;5,40;;;6
+SO-X10PL-TAP-COM-PLA;Sony;Xperia 10 Plus;Tapa trasera;Plata;5,40;;;6
+SO-X10PL-TAP-COM-ORO;Sony;Xperia 10 Plus;Tapa trasera;Oro;5,40;;;6
+SO-X10PL-CTR-COM;Sony;Xperia 10 Plus;Cámara trasera;Compatible;7,59;;;6
+SO-X10PL-CFR-COM;Sony;Xperia 10 Plus;Cámara frontal;Compatible;4,99;;;6
+SO-X10PL-LEN-COM;Sony;Xperia 10 Plus;Lente de cámara;Compatible;2,19;;;6
+SO-X10PL-ALT-COM;Sony;Xperia 10 Plus;Altavoz;Compatible;3,65;;;6
+SO-X10PL-AUR-COM;Sony;Xperia 10 Plus;Auricular de llamada;Compatible;2,65;;;6
+SO-X10PL-FLX-COM;Sony;Xperia 10 Plus;Flex de encendido y volumen;Compatible;2,49;;;6
+SO-X10PL-SIM-COM;Sony;Xperia 10 Plus;Bandeja SIM;Compatible;2,55;;;6
+SO-XL3-PAN-COM;Sony;Xperia L3;Pantalla;Compatible;13,00;12,61;12,22;6
+SO-XL3-BAT-COM;Sony;Xperia L3;Batería;Compatible;8,90;;;6
+SO-XL3-CON-COM;Sony;Xperia L3;Conector de carga;Compatible;3,70;;;6
+SO-XL3-TAP-COM-PLA;Sony;Xperia L3;Tapa trasera;Plata;4,80;;;6
+SO-XL3-TAP-COM-NEG;Sony;Xperia L3;Tapa trasera;Negro;4,80;;;6
+SO-XL3-TAP-COM-DOR;Sony;Xperia L3;Tapa trasera;Dorado;4,80;;;6
+SO-XL3-CTR-COM;Sony;Xperia L3;Cámara trasera;Compatible;6,65;;;6
+SO-XL3-CFR-COM;Sony;Xperia L3;Cámara frontal;Compatible;4,65;;;6
+SO-XL3-LEN-COM;Sony;Xperia L3;Lente de cámara;Compatible;2,25;;;6
+SO-XL3-ALT-COM;Sony;Xperia L3;Altavoz;Compatible;3,59;;;6
+SO-XL3-AUR-COM;Sony;Xperia L3;Auricular de llamada;Compatible;2,69;;;6
+SO-XL3-FLX-COM;Sony;Xperia L3;Flex de encendido y volumen;Compatible;2,55;;;6
+SO-XL3-SIM-COM;Sony;Xperia L3;Bandeja SIM;Compatible;2,65;;;6
+SO-X1-PAN-INC;Sony;Xperia 1;Pantalla;Incell;25,45;24,69;23,92;6
+SO-X1-BAT-COM;Sony;Xperia 1;Batería;Compatible;9,95;;;6
+SO-X1-CON-COM;Sony;Xperia 1;Conector de carga;Compatible;5,79;;;6
+SO-X1-TAP-COM-NEG;Sony;Xperia 1;Tapa trasera;Negro;6,75;;;6
+SO-X1-TAP-COM-MOR;Sony;Xperia 1;Tapa trasera;Morado;6,75;;;6
+SO-X1-TAP-COM-BLA;Sony;Xperia 1;Tapa trasera;Blanco;6,75;;;6
+SO-X1-TAP-COM-GRI;Sony;Xperia 1;Tapa trasera;Gris;6,75;;;6
+SO-X1-CTR-COM;Sony;Xperia 1;Cámara trasera;Compatible;11,55;11,20;10,86;6
+SO-X1-CFR-COM;Sony;Xperia 1;Cámara frontal;Compatible;6,59;;;6
+SO-X1-LEN-COM;Sony;Xperia 1;Lente de cámara;Compatible;3,05;;;6
+SO-X1-ALT-COM;Sony;Xperia 1;Altavoz;Compatible;4,60;;;6
+SO-X1-AUR-COM;Sony;Xperia 1;Auricular de llamada;Compatible;3,60;;;6
+SO-X1-FLX-COM;Sony;Xperia 1;Flex de encendido y volumen;Compatible;3,50;;;6
+SO-X1-SIM-COM;Sony;Xperia 1;Bandeja SIM;Compatible;3,15;;;6
+SO-X5-PAN-INC;Sony;Xperia 5;Pantalla;Incell;25,45;24,69;23,92;6
+SO-X5-BAT-COM;Sony;Xperia 5;Batería;Compatible;9,95;;;6
+SO-X5-CON-COM;Sony;Xperia 5;Conector de carga;Compatible;5,79;;;6
+SO-X5-TAP-COM-NEG;Sony;Xperia 5;Tapa trasera;Negro;6,75;;;6
+SO-X5-TAP-COM-AZU;Sony;Xperia 5;Tapa trasera;Azul;6,75;;;6
+SO-X5-TAP-COM-GRI;Sony;Xperia 5;Tapa trasera;Gris;6,75;;;6
+SO-X5-TAP-COM-ROJ;Sony;Xperia 5;Tapa trasera;Rojo;6,75;;;6
+SO-X5-CTR-COM;Sony;Xperia 5;Cámara trasera;Compatible;11,55;11,20;10,86;6
+SO-X5-CFR-COM;Sony;Xperia 5;Cámara frontal;Compatible;6,59;;;6
+SO-X5-LEN-COM;Sony;Xperia 5;Lente de cámara;Compatible;3,05;;;6
+SO-X5-ALT-COM;Sony;Xperia 5;Altavoz;Compatible;4,60;;;6
+SO-X5-AUR-COM;Sony;Xperia 5;Auricular de llamada;Compatible;3,60;;;6
+SO-X5-FLX-COM;Sony;Xperia 5;Flex de encendido y volumen;Compatible;3,50;;;6
+SO-X5-SIM-COM;Sony;Xperia 5;Bandeja SIM;Compatible;3,15;;;6
+SO-XL4-PAN-COM;Sony;Xperia L4;Pantalla;Compatible;13,80;13,39;12,97;6
+SO-XL4-BAT-COM;Sony;Xperia L4;Batería;Compatible;7,60;;;6
+SO-XL4-CON-COM;Sony;Xperia L4;Conector de carga;Compatible;3,55;;;6
+SO-XL4-TAP-COM-AZU;Sony;Xperia L4;Tapa trasera;Azul;4,95;;;6
+SO-XL4-TAP-COM-NEG;Sony;Xperia L4;Tapa trasera;Negro;4,95;;;6
+SO-XL4-CTR-COM;Sony;Xperia L4;Cámara trasera;Compatible;5,45;;;6
+SO-XL4-CFR-COM;Sony;Xperia L4;Cámara frontal;Compatible;3,45;;;6
+SO-XL4-LEN-COM;Sony;Xperia L4;Lente de cámara;Compatible;2,25;;;6
+SO-XL4-ALT-COM;Sony;Xperia L4;Altavoz;Compatible;3,29;;;6
+SO-XL4-AUR-COM;Sony;Xperia L4;Auricular de llamada;Compatible;2,45;;;6
+SO-XL4-FLX-COM;Sony;Xperia L4;Flex de encendido y volumen;Compatible;2,35;;;6
+SO-XL4-SIM-COM;Sony;Xperia L4;Bandeja SIM;Compatible;2,75;;;6
+SO-X10II-PAN-INC;Sony;Xperia 10 II;Pantalla;Incell;18,79;18,23;17,66;6
+SO-X10II-BAT-COM;Sony;Xperia 10 II;Batería;Compatible;8,25;;;6
+SO-X10II-CON-COM;Sony;Xperia 10 II;Conector de carga;Compatible;4,40;;;6
+SO-X10II-TAP-COM;Sony;Xperia 10 II;Tapa trasera;Compatible;5,55;;;6
+SO-X10II-CTR-COM;Sony;Xperia 10 II;Cámara trasera;Compatible;6,19;;;6
+SO-X10II-CFR-COM;Sony;Xperia 10 II;Cámara frontal;Compatible;3,65;;;6
+SO-X10II-LEN-COM;Sony;Xperia 10 II;Lente de cámara;Compatible;2,20;;;6
+SO-X10II-ALT-COM;Sony;Xperia 10 II;Altavoz;Compatible;3,35;;;6
+SO-X10II-AUR-COM;Sony;Xperia 10 II;Auricular de llamada;Compatible;2,40;;;6
+SO-X10II-FLX-COM;Sony;Xperia 10 II;Flex de encendido y volumen;Compatible;2,29;;;6
+SO-X10II-SIM-COM;Sony;Xperia 10 II;Bandeja SIM;Compatible;2,60;;;6
+SO-X1II-PAN-INC;Sony;Xperia 1 II;Pantalla;Incell;27,00;26,19;25,38;6
+SO-X1II-BAT-COM;Sony;Xperia 1 II;Batería;Compatible;8,50;;;6
+SO-X1II-CON-COM;Sony;Xperia 1 II;Conector de carga;Compatible;5,55;;;6
+SO-X1II-TAP-COM;Sony;Xperia 1 II;Tapa trasera;Compatible;6,89;;;6
+SO-X1II-CTR-COM;Sony;Xperia 1 II;Cámara trasera;Compatible;9,40;;;6
+SO-X1II-CFR-COM;Sony;Xperia 1 II;Cámara frontal;Compatible;4,85;;;6
+SO-X1II-LEN-COM;Sony;Xperia 1 II;Lente de cámara;Compatible;3,05;;;6
+SO-X1II-ALT-COM;Sony;Xperia 1 II;Altavoz;Compatible;4,25;;;6
+SO-X1II-AUR-COM;Sony;Xperia 1 II;Auricular de llamada;Compatible;3,25;;;6
+SO-X1II-FLX-COM;Sony;Xperia 1 II;Flex de encendido y volumen;Compatible;3,25;;;6
+SO-X1II-SIM-COM;Sony;Xperia 1 II;Bandeja SIM;Compatible;3,25;;;6
+SO-X5II-PAN-INC;Sony;Xperia 5 II;Pantalla;Incell;27,00;26,19;25,38;6
+SO-X5II-BAT-COM;Sony;Xperia 5 II;Batería;Compatible;8,50;;;6
+SO-X5II-CON-COM;Sony;Xperia 5 II;Conector de carga;Compatible;5,55;;;6
+SO-X5II-TAP-COM;Sony;Xperia 5 II;Tapa trasera;Compatible;6,89;;;6
+SO-X5II-CTR-COM;Sony;Xperia 5 II;Cámara trasera;Compatible;9,40;;;6
+SO-X5II-CFR-COM;Sony;Xperia 5 II;Cámara frontal;Compatible;4,85;;;6
+SO-X5II-LEN-COM;Sony;Xperia 5 II;Lente de cámara;Compatible;3,05;;;6
+SO-X5II-ALT-COM;Sony;Xperia 5 II;Altavoz;Compatible;4,25;;;6
+SO-X5II-AUR-COM;Sony;Xperia 5 II;Auricular de llamada;Compatible;3,25;;;6
+SO-X5II-FLX-COM;Sony;Xperia 5 II;Flex de encendido y volumen;Compatible;3,25;;;6
+SO-X5II-SIM-COM;Sony;Xperia 5 II;Bandeja SIM;Compatible;3,25;;;6
+SO-X10III-PAN-INC;Sony;Xperia 10 III;Pantalla;Incell;18,79;18,23;17,66;6
+SO-X10III-BAT-COM;Sony;Xperia 10 III;Batería;Compatible;8,25;;;6
+SO-X10III-CON-COM;Sony;Xperia 10 III;Conector de carga;Compatible;4,40;;;6
+SO-X10III-TAP-COM;Sony;Xperia 10 III;Tapa trasera;Compatible;5,55;;;6
+SO-X10III-CTR-COM;Sony;Xperia 10 III;Cámara trasera;Compatible;6,19;;;6
+SO-X10III-CFR-COM;Sony;Xperia 10 III;Cámara frontal;Compatible;3,65;;;6
+SO-X10III-LEN-COM;Sony;Xperia 10 III;Lente de cámara;Compatible;2,20;;;6
+SO-X10III-ALT-COM;Sony;Xperia 10 III;Altavoz;Compatible;3,35;;;6
+SO-X10III-AUR-COM;Sony;Xperia 10 III;Auricular de llamada;Compatible;2,40;;;6
+SO-X10III-FLX-COM;Sony;Xperia 10 III;Flex de encendido y volumen;Compatible;2,29;;;6
+SO-X10III-SIM-COM;Sony;Xperia 10 III;Bandeja SIM;Compatible;2,60;;;6
+SO-X1III-PAN-INC;Sony;Xperia 1 III;Pantalla;Incell;27,00;26,19;25,38;6
+SO-X1III-BAT-COM;Sony;Xperia 1 III;Batería;Compatible;8,50;;;6
+SO-X1III-CON-COM;Sony;Xperia 1 III;Conector de carga;Compatible;5,55;;;6
+SO-X1III-TAP-COM;Sony;Xperia 1 III;Tapa trasera;Compatible;6,89;;;6
+SO-X1III-CTR-COM;Sony;Xperia 1 III;Cámara trasera;Compatible;9,40;;;6
+SO-X1III-CFR-COM;Sony;Xperia 1 III;Cámara frontal;Compatible;4,85;;;6
+SO-X1III-LEN-COM;Sony;Xperia 1 III;Lente de cámara;Compatible;3,05;;;6
+SO-X1III-ALT-COM;Sony;Xperia 1 III;Altavoz;Compatible;4,25;;;6
+SO-X1III-AUR-COM;Sony;Xperia 1 III;Auricular de llamada;Compatible;3,25;;;6
+SO-X1III-FLX-COM;Sony;Xperia 1 III;Flex de encendido y volumen;Compatible;3,25;;;6
+SO-X1III-SIM-COM;Sony;Xperia 1 III;Bandeja SIM;Compatible;3,25;;;6
+SO-X5III-PAN-INC;Sony;Xperia 5 III;Pantalla;Incell;27,00;26,19;25,38;6
+SO-X5III-BAT-COM;Sony;Xperia 5 III;Batería;Compatible;8,50;;;6
+SO-X5III-CON-COM;Sony;Xperia 5 III;Conector de carga;Compatible;5,55;;;6
+SO-X5III-TAP-COM;Sony;Xperia 5 III;Tapa trasera;Compatible;6,89;;;6
+SO-X5III-CTR-COM;Sony;Xperia 5 III;Cámara trasera;Compatible;9,40;;;6
+SO-X5III-CFR-COM;Sony;Xperia 5 III;Cámara frontal;Compatible;4,85;;;6
+SO-X5III-LEN-COM;Sony;Xperia 5 III;Lente de cámara;Compatible;3,05;;;6
+SO-X5III-ALT-COM;Sony;Xperia 5 III;Altavoz;Compatible;4,25;;;6
+SO-X5III-AUR-COM;Sony;Xperia 5 III;Auricular de llamada;Compatible;3,25;;;6
+SO-X5III-FLX-COM;Sony;Xperia 5 III;Flex de encendido y volumen;Compatible;3,25;;;6
+SO-X5III-SIM-COM;Sony;Xperia 5 III;Bandeja SIM;Compatible;3,25;;;6
+SO-XPI-PAN-INC;Sony;Xperia PRO-I;Pantalla;Incell;18,79;18,23;17,66;6
+SO-XPI-BAT-COM;Sony;Xperia PRO-I;Batería;Compatible;8,25;;;6
+SO-XPI-CON-COM;Sony;Xperia PRO-I;Conector de carga;Compatible;4,40;;;6
+SO-XPI-TAP-COM;Sony;Xperia PRO-I;Tapa trasera;Compatible;5,55;;;6
+SO-XPI-CTR-COM;Sony;Xperia PRO-I;Cámara trasera;Compatible;6,19;;;6
+SO-XPI-CFR-COM;Sony;Xperia PRO-I;Cámara frontal;Compatible;3,65;;;6
+SO-XPI-LEN-COM;Sony;Xperia PRO-I;Lente de cámara;Compatible;2,20;;;6
+SO-XPI-ALT-COM;Sony;Xperia PRO-I;Altavoz;Compatible;3,35;;;6
+SO-XPI-AUR-COM;Sony;Xperia PRO-I;Auricular de llamada;Compatible;2,40;;;6
+SO-XPI-FLX-COM;Sony;Xperia PRO-I;Flex de encendido y volumen;Compatible;2,29;;;6
+SO-XPI-SIM-COM;Sony;Xperia PRO-I;Bandeja SIM;Compatible;2,60;;;6
+SO-X1IV-PAN-INC;Sony;Xperia 1 IV;Pantalla;Incell;27,00;26,19;25,38;6
+SO-X1IV-BAT-COM;Sony;Xperia 1 IV;Batería;Compatible;8,50;;;6
+SO-X1IV-CON-COM;Sony;Xperia 1 IV;Conector de carga;Compatible;5,55;;;6
+SO-X1IV-TAP-COM;Sony;Xperia 1 IV;Tapa trasera;Compatible;6,89;;;6
+SO-X1IV-CTR-COM;Sony;Xperia 1 IV;Cámara trasera;Compatible;9,40;;;6
+SO-X1IV-CFR-COM;Sony;Xperia 1 IV;Cámara frontal;Compatible;4,85;;;6
+SO-X1IV-LEN-COM;Sony;Xperia 1 IV;Lente de cámara;Compatible;3,05;;;6
+SO-X1IV-ALT-COM;Sony;Xperia 1 IV;Altavoz;Compatible;4,25;;;6
+SO-X1IV-AUR-COM;Sony;Xperia 1 IV;Auricular de llamada;Compatible;3,25;;;6
+SO-X1IV-FLX-COM;Sony;Xperia 1 IV;Flex de encendido y volumen;Compatible;3,25;;;6
+SO-X1IV-SIM-COM;Sony;Xperia 1 IV;Bandeja SIM;Compatible;3,25;;;6
+SO-X10IV-PAN-INC;Sony;Xperia 10 IV;Pantalla;Incell;18,79;18,23;17,66;6
+SO-X10IV-BAT-COM;Sony;Xperia 10 IV;Batería;Compatible;8,25;;;6
+SO-X10IV-CON-COM;Sony;Xperia 10 IV;Conector de carga;Compatible;4,40;;;6
+SO-X10IV-TAP-COM;Sony;Xperia 10 IV;Tapa trasera;Compatible;5,55;;;6
+SO-X10IV-CTR-COM;Sony;Xperia 10 IV;Cámara trasera;Compatible;6,19;;;6
+SO-X10IV-CFR-COM;Sony;Xperia 10 IV;Cámara frontal;Compatible;3,65;;;6
+SO-X10IV-LEN-COM;Sony;Xperia 10 IV;Lente de cámara;Compatible;2,20;;;6
+SO-X10IV-ALT-COM;Sony;Xperia 10 IV;Altavoz;Compatible;3,35;;;6
+SO-X10IV-AUR-COM;Sony;Xperia 10 IV;Auricular de llamada;Compatible;2,40;;;6
+SO-X10IV-FLX-COM;Sony;Xperia 10 IV;Flex de encendido y volumen;Compatible;2,29;;;6
+SO-X10IV-SIM-COM;Sony;Xperia 10 IV;Bandeja SIM;Compatible;2,60;;;6
+SO-X5IV-PAN-INC;Sony;Xperia 5 IV;Pantalla;Incell;27,00;26,19;25,38;6
+SO-X5IV-BAT-COM;Sony;Xperia 5 IV;Batería;Compatible;8,50;;;6
+SO-X5IV-CON-COM;Sony;Xperia 5 IV;Conector de carga;Compatible;5,55;;;6
+SO-X5IV-TAP-COM;Sony;Xperia 5 IV;Tapa trasera;Compatible;6,89;;;6
+SO-X5IV-CTR-COM;Sony;Xperia 5 IV;Cámara trasera;Compatible;9,40;;;6
+SO-X5IV-CFR-COM;Sony;Xperia 5 IV;Cámara frontal;Compatible;4,85;;;6
+SO-X5IV-LEN-COM;Sony;Xperia 5 IV;Lente de cámara;Compatible;3,05;;;6
+SO-X5IV-ALT-COM;Sony;Xperia 5 IV;Altavoz;Compatible;4,25;;;6
+SO-X5IV-AUR-COM;Sony;Xperia 5 IV;Auricular de llamada;Compatible;3,25;;;6
+SO-X5IV-FLX-COM;Sony;Xperia 5 IV;Flex de encendido y volumen;Compatible;3,25;;;6
+SO-X5IV-SIM-COM;Sony;Xperia 5 IV;Bandeja SIM;Compatible;3,25;;;6
+SO-X1V-PAN-INC;Sony;Xperia 1 V;Pantalla;Incell;28,75;27,89;27,03;6
+SO-X1V-BAT-COM;Sony;Xperia 1 V;Batería;Compatible;9,70;;;6
+SO-X1V-CON-COM;Sony;Xperia 1 V;Conector de carga;Compatible;6,30;;;6
+SO-X1V-TAP-COM;Sony;Xperia 1 V;Tapa trasera;Compatible;7,75;;;6
+SO-X1V-CTR-COM;Sony;Xperia 1 V;Cámara trasera;Compatible;13,19;12,79;12,40;6
+SO-X1V-CFR-COM;Sony;Xperia 1 V;Cámara frontal;Compatible;7,10;;;6
+SO-X1V-LEN-COM;Sony;Xperia 1 V;Lente de cámara;Compatible;3,20;;;6
+SO-X1V-ALT-COM;Sony;Xperia 1 V;Altavoz;Compatible;4,55;;;6
+SO-X1V-AUR-COM;Sony;Xperia 1 V;Auricular de llamada;Compatible;3,59;;;6
+SO-X1V-FLX-COM;Sony;Xperia 1 V;Flex de encendido y volumen;Compatible;3,95;;;6
+SO-X1V-SIM-COM;Sony;Xperia 1 V;Bandeja SIM;Compatible;3,15;;;6
+SO-X10V-PAN-INC;Sony;Xperia 10 V;Pantalla;Incell;19,99;19,39;18,79;6
+SO-X10V-BAT-COM;Sony;Xperia 10 V;Batería;Compatible;9,40;;;6
+SO-X10V-CON-COM;Sony;Xperia 10 V;Conector de carga;Compatible;5,05;;;6
+SO-X10V-TAP-COM;Sony;Xperia 10 V;Tapa trasera;Compatible;6,20;;;6
+SO-X10V-CTR-COM;Sony;Xperia 10 V;Cámara trasera;Compatible;8,65;;;6
+SO-X10V-CFR-COM;Sony;Xperia 10 V;Cámara frontal;Compatible;5,35;;;6
+SO-X10V-LEN-COM;Sony;Xperia 10 V;Lente de cámara;Compatible;2,30;;;6
+SO-X10V-ALT-COM;Sony;Xperia 10 V;Altavoz;Compatible;3,60;;;6
+SO-X10V-AUR-COM;Sony;Xperia 10 V;Auricular de llamada;Compatible;2,65;;;6
+SO-X10V-FLX-COM;Sony;Xperia 10 V;Flex de encendido y volumen;Compatible;2,79;;;6
+SO-X10V-SIM-COM;Sony;Xperia 10 V;Bandeja SIM;Compatible;2,55;;;6
+SO-X5V-PAN-INC;Sony;Xperia 5 V;Pantalla;Incell;28,75;27,89;27,03;6
+SO-X5V-BAT-COM;Sony;Xperia 5 V;Batería;Compatible;9,70;;;6
+SO-X5V-CON-COM;Sony;Xperia 5 V;Conector de carga;Compatible;6,30;;;6
+SO-X5V-TAP-COM;Sony;Xperia 5 V;Tapa trasera;Compatible;7,75;;;6
+SO-X5V-CTR-COM;Sony;Xperia 5 V;Cámara trasera;Compatible;13,19;12,79;12,40;6
+SO-X5V-CFR-COM;Sony;Xperia 5 V;Cámara frontal;Compatible;7,10;;;6
+SO-X5V-LEN-COM;Sony;Xperia 5 V;Lente de cámara;Compatible;3,20;;;6
+SO-X5V-ALT-COM;Sony;Xperia 5 V;Altavoz;Compatible;4,55;;;6
+SO-X5V-AUR-COM;Sony;Xperia 5 V;Auricular de llamada;Compatible;3,59;;;6
+SO-X5V-FLX-COM;Sony;Xperia 5 V;Flex de encendido y volumen;Compatible;3,95;;;6
+SO-X5V-SIM-COM;Sony;Xperia 5 V;Bandeja SIM;Compatible;3,15;;;6
+SO-X1VI-PAN-INC;Sony;Xperia 1 VI;Pantalla;Incell;28,75;27,89;27,03;6
+SO-X1VI-BAT-COM;Sony;Xperia 1 VI;Batería;Compatible;9,70;;;6
+SO-X1VI-CON-COM;Sony;Xperia 1 VI;Conector de carga;Compatible;6,30;;;6
+SO-X1VI-TAP-COM;Sony;Xperia 1 VI;Tapa trasera;Compatible;7,75;;;6
+SO-X1VI-CTR-COM;Sony;Xperia 1 VI;Cámara trasera;Compatible;13,19;12,79;12,40;6
+SO-X1VI-CFR-COM;Sony;Xperia 1 VI;Cámara frontal;Compatible;7,10;;;6
+SO-X1VI-LEN-COM;Sony;Xperia 1 VI;Lente de cámara;Compatible;3,20;;;6
+SO-X1VI-ALT-COM;Sony;Xperia 1 VI;Altavoz;Compatible;4,55;;;6
+SO-X1VI-AUR-COM;Sony;Xperia 1 VI;Auricular de llamada;Compatible;3,59;;;6
+SO-X1VI-FLX-COM;Sony;Xperia 1 VI;Flex de encendido y volumen;Compatible;3,95;;;6
+SO-X1VI-SIM-COM;Sony;Xperia 1 VI;Bandeja SIM;Compatible;3,15;;;6
+SO-X10VI-PAN-INC;Sony;Xperia 10 VI;Pantalla;Incell;19,99;19,39;18,79;6
+SO-X10VI-BAT-COM;Sony;Xperia 10 VI;Batería;Compatible;9,40;;;6
+SO-X10VI-CON-COM;Sony;Xperia 10 VI;Conector de carga;Compatible;5,05;;;6
+SO-X10VI-TAP-COM;Sony;Xperia 10 VI;Tapa trasera;Compatible;6,20;;;6
+SO-X10VI-CTR-COM;Sony;Xperia 10 VI;Cámara trasera;Compatible;8,65;;;6
+SO-X10VI-CFR-COM;Sony;Xperia 10 VI;Cámara frontal;Compatible;5,35;;;6
+SO-X10VI-LEN-COM;Sony;Xperia 10 VI;Lente de cámara;Compatible;2,30;;;6
+SO-X10VI-ALT-COM;Sony;Xperia 10 VI;Altavoz;Compatible;3,60;;;6
+SO-X10VI-AUR-COM;Sony;Xperia 10 VI;Auricular de llamada;Compatible;2,65;;;6
+SO-X10VI-FLX-COM;Sony;Xperia 10 VI;Flex de encendido y volumen;Compatible;2,79;;;6
+SO-X10VI-SIM-COM;Sony;Xperia 10 VI;Bandeja SIM;Compatible;2,55;;;6
+SO-X1VII-PAN-INC;Sony;Xperia 1 VII;Pantalla;Incell;30,25;29,34;28,44;6
+SO-X1VII-BAT-COM;Sony;Xperia 1 VII;Batería;Compatible;9,15;;;6
+SO-X1VII-CON-COM;Sony;Xperia 1 VII;Conector de carga;Compatible;7,55;;;6
+SO-X1VII-TAP-COM;Sony;Xperia 1 VII;Tapa trasera;Compatible;8,29;;;6
+SO-X1VII-CTR-COM;Sony;Xperia 1 VII;Cámara trasera;Compatible;18,05;17,51;16,97;6
+SO-X1VII-CFR-COM;Sony;Xperia 1 VII;Cámara frontal;Compatible;9,90;;;6
+SO-X1VII-LEN-COM;Sony;Xperia 1 VII;Lente de cámara;Compatible;4,10;;;6
+SO-X1VII-ALT-COM;Sony;Xperia 1 VII;Altavoz;Compatible;6,00;;;6
+SO-X1VII-AUR-COM;Sony;Xperia 1 VII;Auricular de llamada;Compatible;5,05;;;6
+SO-X1VII-FLX-COM;Sony;Xperia 1 VII;Flex de encendido y volumen;Compatible;4,29;;;6
+SO-X1VII-SIM-COM;Sony;Xperia 1 VII;Bandeja SIM;Compatible;3,75;;;6
+SO-X10VII-PAN-INC;Sony;Xperia 10 VII;Pantalla;Incell;21,05;20,42;19,79;6
+SO-X10VII-BAT-COM;Sony;Xperia 10 VII;Batería;Compatible;8,89;;;6
+SO-X10VII-CON-COM;Sony;Xperia 10 VII;Conector de carga;Compatible;6,00;;;6
+SO-X10VII-TAP-COM;Sony;Xperia 10 VII;Tapa trasera;Compatible;6,65;;;6
+SO-X10VII-CTR-COM;Sony;Xperia 10 VII;Cámara trasera;Compatible;11,85;11,49;11,14;6
+SO-X10VII-CFR-COM;Sony;Xperia 10 VII;Cámara frontal;Compatible;7,49;;;6
+SO-X10VII-LEN-COM;Sony;Xperia 10 VII;Lente de cámara;Compatible;2,95;;;6
+SO-X10VII-ALT-COM;Sony;Xperia 10 VII;Altavoz;Compatible;4,75;;;6
+SO-X10VII-AUR-COM;Sony;Xperia 10 VII;Auricular de llamada;Compatible;3,70;;;6
+SO-X10VII-FLX-COM;Sony;Xperia 10 VII;Flex de encendido y volumen;Compatible;3,05;;;6
+SO-X10VII-SIM-COM;Sony;Xperia 10 VII;Bandeja SIM;Compatible;3,00;;;6
+SO-XPERIA1V-PAN-INC;Sony;Xperia 1 VIII;Pantalla;Incell;30,25;29,34;28,44;6
+SO-XPERIA1V-BAT-COM;Sony;Xperia 1 VIII;Batería;Compatible;9,15;;;6
+SO-XPERIA1V-CON-COM;Sony;Xperia 1 VIII;Conector de carga;Compatible;7,55;;;6
+SO-XPERIA1V-TAP-COM;Sony;Xperia 1 VIII;Tapa trasera;Compatible;8,29;;;6
+SO-XPERIA1V-CTR-COM;Sony;Xperia 1 VIII;Cámara trasera;Compatible;18,05;17,51;16,97;6
+SO-XPERIA1V-CFR-COM;Sony;Xperia 1 VIII;Cámara frontal;Compatible;9,90;;;6
+SO-XPERIA1V-LEN-COM;Sony;Xperia 1 VIII;Lente de cámara;Compatible;4,10;;;6
+SO-XPERIA1V-ALT-COM;Sony;Xperia 1 VIII;Altavoz;Compatible;6,00;;;6
+SO-XPERIA1V-AUR-COM;Sony;Xperia 1 VIII;Auricular de llamada;Compatible;5,05;;;6
+SO-XPERIA1V-FLX-COM;Sony;Xperia 1 VIII;Flex de encendido y volumen;Compatible;4,29;;;6
+SO-XPERIA1V-SIM-COM;Sony;Xperia 1 VIII;Bandeja SIM;Compatible;3,75;;;6
+SO-XPERIA10-PAN-INC;Sony;Xperia 10 VIII;Pantalla;Incell;21,05;20,42;19,79;6
+SO-XPERIA10-BAT-COM;Sony;Xperia 10 VIII;Batería;Compatible;8,89;;;6
+SO-XPERIA10-CON-COM;Sony;Xperia 10 VIII;Conector de carga;Compatible;6,00;;;6
+SO-XPERIA10-TAP-COM;Sony;Xperia 10 VIII;Tapa trasera;Compatible;6,65;;;6
+SO-XPERIA10-CTR-COM;Sony;Xperia 10 VIII;Cámara trasera;Compatible;11,85;11,49;11,14;6
+SO-XPERIA10-CFR-COM;Sony;Xperia 10 VIII;Cámara frontal;Compatible;7,49;;;6
+SO-XPERIA10-LEN-COM;Sony;Xperia 10 VIII;Lente de cámara;Compatible;2,95;;;6
+SO-XPERIA10-ALT-COM;Sony;Xperia 10 VIII;Altavoz;Compatible;4,75;;;6
+SO-XPERIA10-AUR-COM;Sony;Xperia 10 VIII;Auricular de llamada;Compatible;3,70;;;6
+SO-XPERIA10-FLX-COM;Sony;Xperia 10 VIII;Flex de encendido y volumen;Compatible;3,05;;;6
+SO-XPERIA10-SIM-COM;Sony;Xperia 10 VIII;Bandeja SIM;Compatible;3,00;;;6
+SO-XACEIII-PRO-NA;Sony;Xperia Ace III;Cristal templado;Estándar;1,30;;;
+SO-XACEIII-PRO-PRI;Sony;Xperia Ace III;Cristal templado;Privacidad;4,00;;;
+SO-XACEIII-FUN-SIL;Sony;Xperia Ace III;Funda;Silicona;2,50;;;
+SO-XACEIII-FUN-TPU;Sony;Xperia Ace III;Funda;Transparente;2,95;;;
+SO-XACEIII-FUN-LIB;Sony;Xperia Ace III;Funda;Libro;3,70;;;
+SO-XACEIII-FUN-ANT;Sony;Xperia Ace III;Funda;Antigolpes;3,10;;;
+SO-X10IIIL-PRO-NA;Sony;Xperia 10 III Lite;Cristal templado;Estándar;1,30;;;
+SO-X10IIIL-PRO-PRI;Sony;Xperia 10 III Lite;Cristal templado;Privacidad;4,00;;;
+SO-X10IIIL-FUN-SIL;Sony;Xperia 10 III Lite;Funda;Silicona;2,50;;;
+SO-X10IIIL-FUN-TPU;Sony;Xperia 10 III Lite;Funda;Transparente;2,95;;;
+SO-X10IIIL-FUN-LIB;Sony;Xperia 10 III Lite;Funda;Libro;3,70;;;
+SO-X10IIIL-FUN-ANT;Sony;Xperia 10 III Lite;Funda;Antigolpes;3,10;;;
+SO-X10IIIL-PCA-NA;Sony;Xperia 10 III Lite;Protector de cámara;Cristal;2,90;;;
+SO-XACEII-PRO-NA;Sony;Xperia Ace II;Cristal templado;Estándar;1,30;;;
+SO-XACEII-PRO-PRI;Sony;Xperia Ace II;Cristal templado;Privacidad;4,00;;;
+SO-XACEII-FUN-SIL;Sony;Xperia Ace II;Funda;Silicona;2,50;;;
+SO-XACEII-FUN-TPU;Sony;Xperia Ace II;Funda;Transparente;2,95;;;
+SO-XACEII-FUN-LIB;Sony;Xperia Ace II;Funda;Libro;3,70;;;
+SO-XACEII-FUN-ANT;Sony;Xperia Ace II;Funda;Antigolpes;3,10;;;
+SO-XACEII-PCA-NA;Sony;Xperia Ace II;Protector de cámara;Cristal;2,90;;;
+SO-XPERIAPR-PRO-NA;Sony;Xperia PRO;Cristal templado;Estándar;1,30;;;
+SO-XPERIAPR-PRO-PRI;Sony;Xperia PRO;Cristal templado;Privacidad;4,00;;;
+SO-XPERIAPR-FUN-SIL;Sony;Xperia PRO;Funda;Silicona;2,50;;;
+SO-XPERIAPR-FUN-TPU;Sony;Xperia PRO;Funda;Transparente;2,95;;;
+SO-XPERIAPR-FUN-LIB;Sony;Xperia PRO;Funda;Libro;3,70;;;
+SO-XPERIAPR-FUN-ANT;Sony;Xperia PRO;Funda;Antigolpes;3,10;;;
+SO-XPERIAPR-PCA-NA;Sony;Xperia PRO;Protector de cámara;Cristal;2,90;;;
+SO-X8L-PRO-NA;Sony;Xperia 8 Lite;Cristal templado;Estándar;1,30;;;
+SO-X8L-PRO-PRI;Sony;Xperia 8 Lite;Cristal templado;Privacidad;4,00;;;
+SO-X8L-FUN-SIL;Sony;Xperia 8 Lite;Funda;Silicona;2,50;;;
+SO-X8L-FUN-TPU;Sony;Xperia 8 Lite;Funda;Transparente;2,95;;;
+SO-X8L-FUN-LIB;Sony;Xperia 8 Lite;Funda;Libro;3,70;;;
+SO-X8L-FUN-ANT;Sony;Xperia 8 Lite;Funda;Antigolpes;3,10;;;
+SO-X8L-PCA-NA;Sony;Xperia 8 Lite;Protector de cámara;Cristal;2,90;;;
+SO-X8-PRO-NA;Sony;Xperia 8;Cristal templado;Estándar;1,30;;;
+SO-X8-PRO-PRI;Sony;Xperia 8;Cristal templado;Privacidad;4,00;;;
+SO-X8-FUN-SIL;Sony;Xperia 8;Funda;Silicona;2,50;;;
+SO-X8-FUN-TPU;Sony;Xperia 8;Funda;Transparente;2,95;;;
+SO-X8-FUN-LIB;Sony;Xperia 8;Funda;Libro;3,70;;;
+SO-X8-FUN-ANT;Sony;Xperia 8;Funda;Antigolpes;3,10;;;
+SO-X8-PCA-NA;Sony;Xperia 8;Protector de cámara;Cristal;2,90;;;
+SO-XACE-PRO-NA;Sony;Xperia Ace;Cristal templado;Estándar;1,30;;;
+SO-XACE-PRO-PRI;Sony;Xperia Ace;Cristal templado;Privacidad;4,00;;;
+SO-XACE-FUN-SIL;Sony;Xperia Ace;Funda;Silicona;2,50;;;
+SO-XACE-FUN-TPU;Sony;Xperia Ace;Funda;Transparente;2,95;;;
+SO-XACE-FUN-LIB;Sony;Xperia Ace;Funda;Libro;3,70;;;
+SO-XACE-FUN-ANT;Sony;Xperia Ace;Funda;Antigolpes;3,10;;;
+SO-XR1-PRO-NA;Sony;Xperia R1;Cristal templado;Estándar;1,30;;;
+SO-XR1-PRO-PRI;Sony;Xperia R1;Cristal templado;Privacidad;4,00;;;
+SO-XR1-FUN-SIL;Sony;Xperia R1;Funda;Silicona;2,50;;;
+SO-XR1-FUN-TPU;Sony;Xperia R1;Funda;Transparente;2,95;;;
+SO-XR1-FUN-LIB;Sony;Xperia R1;Funda;Libro;3,70;;;
+SO-XR1-FUN-ANT;Sony;Xperia R1;Funda;Antigolpes;3,10;;;
+SO-XR1PL-PRO-NA;Sony;Xperia R1 Plus;Cristal templado;Estándar;1,30;;;
+SO-XR1PL-PRO-PRI;Sony;Xperia R1 Plus;Cristal templado;Privacidad;4,00;;;
+SO-XR1PL-FUN-SIL;Sony;Xperia R1 Plus;Funda;Silicona;2,50;;;
+SO-XR1PL-FUN-TPU;Sony;Xperia R1 Plus;Funda;Transparente;2,95;;;
+SO-XR1PL-FUN-LIB;Sony;Xperia R1 Plus;Funda;Libro;3,70;;;
+SO-XR1PL-FUN-ANT;Sony;Xperia R1 Plus;Funda;Antigolpes;3,10;;;
+SO-XXZSP-PRO-NA;Sony;Xperia XZs Premium;Cristal templado;Estándar;1,30;;;
+SO-XXZSP-PRO-NA-FG;Sony;Xperia XZs Premium;Cristal templado;UV full glue;4,15;;;
+SO-XXZSP-PRO-PRI;Sony;Xperia XZs Premium;Cristal templado;Privacidad;4,00;;;
+SO-XXZSP-FUN-SIL;Sony;Xperia XZs Premium;Funda;Silicona;2,50;;;
+SO-XXZSP-FUN-TPU;Sony;Xperia XZs Premium;Funda;Transparente;2,95;;;
+SO-XXZSP-FUN-LIB;Sony;Xperia XZs Premium;Funda;Libro;3,70;;;
+SO-XXZSP-FUN-ANT;Sony;Xperia XZs Premium;Funda;Antigolpes;3,10;;;
+SO-XM5-PRO-NA;Sony;Xperia M5;Cristal templado;Estándar;1,30;;;
+SO-XM5-PRO-PRI;Sony;Xperia M5;Cristal templado;Privacidad;4,00;;;
+SO-XM5-FUN-SIL;Sony;Xperia M5;Funda;Silicona;2,50;;;
+SO-XM5-FUN-TPU;Sony;Xperia M5;Funda;Transparente;2,95;;;
+SO-XM5-FUN-LIB;Sony;Xperia M5;Funda;Libro;3,70;;;
+SO-XM5-FUN-ANT;Sony;Xperia M5;Funda;Antigolpes;3,10;;;
+SO-XC5U-PRO-NA;Sony;Xperia C5 Ultra;Cristal templado;Estándar;1,30;;;
+SO-XC5U-PRO-PRI;Sony;Xperia C5 Ultra;Cristal templado;Privacidad;4,00;;;
+SO-XC5U-FUN-SIL;Sony;Xperia C5 Ultra;Funda;Silicona;2,50;;;
+SO-XC5U-FUN-TPU;Sony;Xperia C5 Ultra;Funda;Transparente;2,95;;;
+SO-XC5U-FUN-LIB;Sony;Xperia C5 Ultra;Funda;Libro;3,70;;;
+SO-XC5U-FUN-ANT;Sony;Xperia C5 Ultra;Funda;Antigolpes;3,10;;;
+SO-XA4-PRO-NA;Sony;Xperia A4;Cristal templado;Estándar;1,30;;;
+SO-XA4-PRO-PRI;Sony;Xperia A4;Cristal templado;Privacidad;4,00;;;
+SO-XA4-FUN-SIL;Sony;Xperia A4;Funda;Silicona;2,50;;;
+SO-XA4-FUN-TPU;Sony;Xperia A4;Funda;Transparente;2,95;;;
+SO-XA4-FUN-LIB;Sony;Xperia A4;Funda;Libro;3,70;;;
+SO-XA4-FUN-ANT;Sony;Xperia A4;Funda;Antigolpes;3,10;;;
+SO-XZ4-PRO-NA;Sony;Xperia Z4;Cristal templado;Estándar;1,30;;;
+SO-XZ4-PRO-PRI;Sony;Xperia Z4;Cristal templado;Privacidad;4,00;;;
+SO-XZ4-FUN-SIL;Sony;Xperia Z4;Funda;Silicona;2,50;;;
+SO-XZ4-FUN-TPU;Sony;Xperia Z4;Funda;Transparente;2,95;;;
+SO-XZ4-FUN-LIB;Sony;Xperia Z4;Funda;Libro;3,70;;;
+SO-XZ4-FUN-ANT;Sony;Xperia Z4;Funda;Antigolpes;3,10;;;
+SO-XZ4V-PRO-NA;Sony;Xperia Z4v;Cristal templado;Estándar;1,30;;;
+SO-XZ4V-PRO-PRI;Sony;Xperia Z4v;Cristal templado;Privacidad;4,00;;;
+SO-XZ4V-FUN-SIL;Sony;Xperia Z4v;Funda;Silicona;2,50;;;
+SO-XZ4V-FUN-TPU;Sony;Xperia Z4v;Funda;Transparente;2,95;;;
+SO-XZ4V-FUN-LIB;Sony;Xperia Z4v;Funda;Libro;3,70;;;
+SO-XZ4V-FUN-ANT;Sony;Xperia Z4v;Funda;Antigolpes;3,10;;;
+SO-XC4-PRO-NA;Sony;Xperia C4;Cristal templado;Estándar;1,30;;;
+SO-XC4-PRO-PRI;Sony;Xperia C4;Cristal templado;Privacidad;4,00;;;
+SO-XC4-FUN-SIL;Sony;Xperia C4;Funda;Silicona;2,50;;;
+SO-XC4-FUN-TPU;Sony;Xperia C4;Funda;Transparente;2,95;;;
+SO-XC4-FUN-LIB;Sony;Xperia C4;Funda;Libro;3,70;;;
+SO-XC4-FUN-ANT;Sony;Xperia C4;Funda;Antigolpes;3,10;;;
+SO-XZ3PL-PRO-NA;Sony;Xperia Z3+;Cristal templado;Estándar;1,30;;;
+SO-XZ3PL-PRO-PRI;Sony;Xperia Z3+;Cristal templado;Privacidad;4,00;;;
+SO-XZ3PL-FUN-SIL;Sony;Xperia Z3+;Funda;Silicona;2,50;;;
+SO-XZ3PL-FUN-TPU;Sony;Xperia Z3+;Funda;Transparente;2,95;;;
+SO-XZ3PL-FUN-LIB;Sony;Xperia Z3+;Funda;Libro;3,70;;;
+SO-XZ3PL-FUN-ANT;Sony;Xperia Z3+;Funda;Antigolpes;3,10;;;
+SO-XE4-PRO-NA;Sony;Xperia E4;Cristal templado;Estándar;1,30;;;
+SO-XE4-PRO-PRI;Sony;Xperia E4;Cristal templado;Privacidad;4,00;;;
+SO-XE4-FUN-SIL;Sony;Xperia E4;Funda;Silicona;2,50;;;
+SO-XE4-FUN-TPU;Sony;Xperia E4;Funda;Transparente;2,95;;;
+SO-XE4-FUN-LIB;Sony;Xperia E4;Funda;Libro;3,70;;;
+SO-XE4-FUN-ANT;Sony;Xperia E4;Funda;Antigolpes;3,10;;;
+SO-XE4G-PRO-NA;Sony;Xperia E4g;Cristal templado;Estándar;1,30;;;
+SO-XE4G-PRO-PRI;Sony;Xperia E4g;Cristal templado;Privacidad;4,00;;;
+SO-XE4G-FUN-SIL;Sony;Xperia E4g;Funda;Silicona;2,50;;;
+SO-XE4G-FUN-TPU;Sony;Xperia E4g;Funda;Transparente;2,95;;;
+SO-XE4G-FUN-LIB;Sony;Xperia E4g;Funda;Libro;3,70;;;
+SO-XE4G-FUN-ANT;Sony;Xperia E4g;Funda;Antigolpes;3,10;;;
+SO-XM4A-PRO-NA;Sony;Xperia M4 Aqua;Cristal templado;Estándar;1,30;;;
+SO-XM4A-PRO-PRI;Sony;Xperia M4 Aqua;Cristal templado;Privacidad;4,00;;;
+SO-XM4A-FUN-SIL;Sony;Xperia M4 Aqua;Funda;Silicona;2,50;;;
+SO-XM4A-FUN-TPU;Sony;Xperia M4 Aqua;Funda;Transparente;2,95;;;
+SO-XM4A-FUN-LIB;Sony;Xperia M4 Aqua;Funda;Libro;3,70;;;
+SO-XM4A-FUN-ANT;Sony;Xperia M4 Aqua;Funda;Antigolpes;3,10;;;
+SO-XZ3-PRO-NA;Sony;Xperia Z3;Cristal templado;Estándar;1,30;;;
+SO-XZ3-PRO-PRI;Sony;Xperia Z3;Cristal templado;Privacidad;4,00;;;
+SO-XZ3-FUN-SIL;Sony;Xperia Z3;Funda;Silicona;2,50;;;
+SO-XZ3-FUN-TPU;Sony;Xperia Z3;Funda;Transparente;2,95;;;
+SO-XZ3-FUN-LIB;Sony;Xperia Z3;Funda;Libro;3,70;;;
+SO-XZ3-FUN-ANT;Sony;Xperia Z3;Funda;Antigolpes;3,10;;;
+SO-XZ3C-PRO-NA;Sony;Xperia Z3 Compact;Cristal templado;Estándar;1,30;;;
+SO-XZ3C-PRO-PRI;Sony;Xperia Z3 Compact;Cristal templado;Privacidad;4,00;;;
+SO-XZ3C-FUN-SIL;Sony;Xperia Z3 Compact;Funda;Silicona;2,50;;;
+SO-XZ3C-FUN-TPU;Sony;Xperia Z3 Compact;Funda;Transparente;2,95;;;
+SO-XZ3C-FUN-LIB;Sony;Xperia Z3 Compact;Funda;Libro;3,70;;;
+SO-XZ3C-FUN-ANT;Sony;Xperia Z3 Compact;Funda;Antigolpes;3,10;;;
+SO-XE3-PRO-NA;Sony;Xperia E3;Cristal templado;Estándar;1,30;;;
+SO-XE3-PRO-PRI;Sony;Xperia E3;Cristal templado;Privacidad;4,00;;;
+SO-XE3-FUN-SIL;Sony;Xperia E3;Funda;Silicona;2,50;;;
+SO-XE3-FUN-TPU;Sony;Xperia E3;Funda;Transparente;2,95;;;
+SO-XE3-FUN-LIB;Sony;Xperia E3;Funda;Libro;3,70;;;
+SO-XE3-FUN-ANT;Sony;Xperia E3;Funda;Antigolpes;3,10;;;
+SO-XC3-PRO-NA;Sony;Xperia C3;Cristal templado;Estándar;1,30;;;
+SO-XC3-PRO-PRI;Sony;Xperia C3;Cristal templado;Privacidad;4,00;;;
+SO-XC3-FUN-SIL;Sony;Xperia C3;Funda;Silicona;2,50;;;
+SO-XC3-FUN-TPU;Sony;Xperia C3;Funda;Transparente;2,95;;;
+SO-XC3-FUN-LIB;Sony;Xperia C3;Funda;Libro;3,70;;;
+SO-XC3-FUN-ANT;Sony;Xperia C3;Funda;Antigolpes;3,10;;;
+SO-XT3-PRO-NA;Sony;Xperia T3;Cristal templado;Estándar;1,30;;;
+SO-XT3-PRO-PRI;Sony;Xperia T3;Cristal templado;Privacidad;4,00;;;
+SO-XT3-FUN-SIL;Sony;Xperia T3;Funda;Silicona;2,50;;;
+SO-XT3-FUN-TPU;Sony;Xperia T3;Funda;Transparente;2,95;;;
+SO-XT3-FUN-LIB;Sony;Xperia T3;Funda;Libro;3,70;;;
+SO-XT3-FUN-ANT;Sony;Xperia T3;Funda;Antigolpes;3,10;;;
+SO-XA2-PRO-NA;Sony;Xperia A2;Cristal templado;Estándar;1,30;;;
+SO-XA2-PRO-PRI;Sony;Xperia A2;Cristal templado;Privacidad;4,00;;;
+SO-XA2-FUN-SIL;Sony;Xperia A2;Funda;Silicona;2,50;;;
+SO-XA2-FUN-TPU;Sony;Xperia A2;Funda;Transparente;2,95;;;
+SO-XA2-FUN-LIB;Sony;Xperia A2;Funda;Libro;3,70;;;
+SO-XA2-FUN-ANT;Sony;Xperia A2;Funda;Antigolpes;3,10;;;
+SO-XJ1C-PRO-NA;Sony;Xperia J1 Compact;Cristal templado;Estándar;1,30;;;
+SO-XJ1C-PRO-PRI;Sony;Xperia J1 Compact;Cristal templado;Privacidad;4,00;;;
+SO-XJ1C-FUN-SIL;Sony;Xperia J1 Compact;Funda;Silicona;2,50;;;
+SO-XJ1C-FUN-TPU;Sony;Xperia J1 Compact;Funda;Transparente;2,95;;;
+SO-XJ1C-FUN-LIB;Sony;Xperia J1 Compact;Funda;Libro;3,70;;;
+SO-XJ1C-FUN-ANT;Sony;Xperia J1 Compact;Funda;Antigolpes;3,10;;;
+SO-XZ2A-PRO-NA;Sony;Xperia Z2a;Cristal templado;Estándar;1,30;;;
+SO-XZ2A-PRO-PRI;Sony;Xperia Z2a;Cristal templado;Privacidad;4,00;;;
+SO-XZ2A-FUN-SIL;Sony;Xperia Z2a;Funda;Silicona;2,50;;;
+SO-XZ2A-FUN-TPU;Sony;Xperia Z2a;Funda;Transparente;2,95;;;
+SO-XZ2A-FUN-LIB;Sony;Xperia Z2a;Funda;Libro;3,70;;;
+SO-XZ2A-FUN-ANT;Sony;Xperia Z2a;Funda;Antigolpes;3,10;;;
+SO-XZL2-PRO-NA;Sony;Xperia ZL2;Cristal templado;Estándar;1,30;;;
+SO-XZL2-PRO-PRI;Sony;Xperia ZL2;Cristal templado;Privacidad;4,00;;;
+SO-XZL2-FUN-SIL;Sony;Xperia ZL2;Funda;Silicona;2,50;;;
+SO-XZL2-FUN-TPU;Sony;Xperia ZL2;Funda;Transparente;2,95;;;
+SO-XZL2-FUN-LIB;Sony;Xperia ZL2;Funda;Libro;3,70;;;
+SO-XZL2-FUN-ANT;Sony;Xperia ZL2;Funda;Antigolpes;3,10;;;
+SO-XM2-PRO-NA;Sony;Xperia M2;Cristal templado;Estándar;1,30;;;
+SO-XM2-PRO-PRI;Sony;Xperia M2;Cristal templado;Privacidad;4,00;;;
+SO-XM2-FUN-SIL;Sony;Xperia M2;Funda;Silicona;2,50;;;
+SO-XM2-FUN-TPU;Sony;Xperia M2;Funda;Transparente;2,95;;;
+SO-XM2-FUN-LIB;Sony;Xperia M2;Funda;Libro;3,70;;;
+SO-XM2-FUN-ANT;Sony;Xperia M2;Funda;Antigolpes;3,10;;;
+SO-XT2U-PRO-NA;Sony;Xperia T2 Ultra;Cristal templado;Estándar;1,30;;;
+SO-XT2U-PRO-PRI;Sony;Xperia T2 Ultra;Cristal templado;Privacidad;4,00;;;
+SO-XT2U-FUN-SIL;Sony;Xperia T2 Ultra;Funda;Silicona;2,50;;;
+SO-XT2U-FUN-TPU;Sony;Xperia T2 Ultra;Funda;Transparente;2,95;;;
+SO-XT2U-FUN-LIB;Sony;Xperia T2 Ultra;Funda;Libro;3,70;;;
+SO-XT2U-FUN-ANT;Sony;Xperia T2 Ultra;Funda;Antigolpes;3,10;;;
+SO-XZ2-PRO-NA;Sony;Xperia Z2;Cristal templado;Estándar;1,30;;;
+SO-XZ2-PRO-PRI;Sony;Xperia Z2;Cristal templado;Privacidad;4,00;;;
+SO-XZ2-FUN-SIL;Sony;Xperia Z2;Funda;Silicona;2,50;;;
+SO-XZ2-FUN-TPU;Sony;Xperia Z2;Funda;Transparente;2,95;;;
+SO-XZ2-FUN-LIB;Sony;Xperia Z2;Funda;Libro;3,70;;;
+SO-XZ2-FUN-ANT;Sony;Xperia Z2;Funda;Antigolpes;3,10;;;
+SO-XE1-PRO-NA;Sony;Xperia E1;Cristal templado;Estándar;1,30;;;
+SO-XE1-PRO-PRI;Sony;Xperia E1;Cristal templado;Privacidad;4,00;;;
+SO-XE1-FUN-SIL;Sony;Xperia E1;Funda;Silicona;2,50;;;
+SO-XE1-FUN-TPU;Sony;Xperia E1;Funda;Transparente;2,95;;;
+SO-XE1-FUN-LIB;Sony;Xperia E1;Funda;Libro;3,70;;;
+SO-XE1-FUN-ANT;Sony;Xperia E1;Funda;Antigolpes;3,10;;;
+SO-XZ1C-PRO-NA;Sony;Xperia Z1 Compact;Cristal templado;Estándar;1,30;;;
+SO-XZ1C-PRO-PRI;Sony;Xperia Z1 Compact;Cristal templado;Privacidad;4,00;;;
+SO-XZ1C-FUN-SIL;Sony;Xperia Z1 Compact;Funda;Silicona;2,50;;;
+SO-XZ1C-FUN-TPU;Sony;Xperia Z1 Compact;Funda;Transparente;2,95;;;
+SO-XZ1C-FUN-LIB;Sony;Xperia Z1 Compact;Funda;Libro;3,70;;;
+SO-XZ1C-FUN-ANT;Sony;Xperia Z1 Compact;Funda;Antigolpes;3,10;;;
+SO-XZ1-PRO-NA;Sony;Xperia Z1;Cristal templado;Estándar;1,30;;;
+SO-XZ1-PRO-PRI;Sony;Xperia Z1;Cristal templado;Privacidad;4,00;;;
+SO-XZ1-FUN-SIL;Sony;Xperia Z1;Funda;Silicona;2,50;;;
+SO-XZ1-FUN-TPU;Sony;Xperia Z1;Funda;Transparente;2,95;;;
+SO-XZ1-FUN-LIB;Sony;Xperia Z1;Funda;Libro;3,70;;;
+SO-XZ1-FUN-ANT;Sony;Xperia Z1;Funda;Antigolpes;3,10;;;
+SO-XZ1S-PRO-NA;Sony;Xperia Z1s;Cristal templado;Estándar;1,30;;;
+SO-XZ1S-PRO-PRI;Sony;Xperia Z1s;Cristal templado;Privacidad;4,00;;;
+SO-XZ1S-FUN-SIL;Sony;Xperia Z1s;Funda;Silicona;2,50;;;
+SO-XZ1S-FUN-TPU;Sony;Xperia Z1s;Funda;Transparente;2,95;;;
+SO-XZ1S-FUN-LIB;Sony;Xperia Z1s;Funda;Libro;3,70;;;
+SO-XZ1S-FUN-ANT;Sony;Xperia Z1s;Funda;Antigolpes;3,10;;;
+SO-XMD-PRO-NA;Sony;Xperia M dual;Cristal templado;Estándar;1,30;;;
+SO-XMD-PRO-PRI;Sony;Xperia M dual;Cristal templado;Privacidad;4,00;;;
+SO-XMD-FUN-SIL;Sony;Xperia M dual;Funda;Silicona;2,50;;;
+SO-XMD-FUN-TPU;Sony;Xperia M dual;Funda;Transparente;2,95;;;
+SO-XMD-FUN-LIB;Sony;Xperia M dual;Funda;Libro;3,70;;;
+SO-XMD-FUN-ANT;Sony;Xperia M dual;Funda;Antigolpes;3,10;;;
+SO-XC-PRO-NA;Sony;Xperia C;Cristal templado;Estándar;1,30;;;
+SO-XC-PRO-PRI;Sony;Xperia C;Cristal templado;Privacidad;4,00;;;
+SO-XC-FUN-SIL;Sony;Xperia C;Funda;Silicona;2,50;;;
+SO-XC-FUN-TPU;Sony;Xperia C;Funda;Transparente;2,95;;;
+SO-XC-FUN-LIB;Sony;Xperia C;Funda;Libro;3,70;;;
+SO-XC-FUN-ANT;Sony;Xperia C;Funda;Antigolpes;3,10;;;
+SO-XZU-PRO-NA;Sony;Xperia Z Ultra;Cristal templado;Estándar;1,30;;;
+SO-XZU-PRO-PRI;Sony;Xperia Z Ultra;Cristal templado;Privacidad;4,00;;;
+SO-XZU-FUN-SIL;Sony;Xperia Z Ultra;Funda;Silicona;2,50;;;
+SO-XZU-FUN-TPU;Sony;Xperia Z Ultra;Funda;Transparente;2,95;;;
+SO-XZU-FUN-LIB;Sony;Xperia Z Ultra;Funda;Libro;3,70;;;
+SO-XZU-FUN-ANT;Sony;Xperia Z Ultra;Funda;Antigolpes;3,10;;;
+SO-XPERIAM-PRO-NA;Sony;Xperia M;Cristal templado;Estándar;1,30;;;
+SO-XPERIAM-PRO-PRI;Sony;Xperia M;Cristal templado;Privacidad;4,00;;;
+SO-XPERIAM-FUN-SIL;Sony;Xperia M;Funda;Silicona;2,50;;;
+SO-XPERIAM-FUN-TPU;Sony;Xperia M;Funda;Transparente;2,95;;;
+SO-XPERIAM-FUN-LIB;Sony;Xperia M;Funda;Libro;3,70;;;
+SO-XPERIAM-FUN-ANT;Sony;Xperia M;Funda;Antigolpes;3,10;;;
+SO-XUL-PRO-NA;Sony;Xperia UL;Cristal templado;Estándar;1,30;;;
+SO-XUL-PRO-PRI;Sony;Xperia UL;Cristal templado;Privacidad;4,00;;;
+SO-XUL-FUN-SIL;Sony;Xperia UL;Funda;Silicona;2,50;;;
+SO-XUL-FUN-TPU;Sony;Xperia UL;Funda;Transparente;2,95;;;
+SO-XUL-FUN-LIB;Sony;Xperia UL;Funda;Libro;3,70;;;
+SO-XUL-FUN-ANT;Sony;Xperia UL;Funda;Antigolpes;3,10;;;
+SO-XZR-PRO-NA;Sony;Xperia ZR;Cristal templado;Estándar;1,30;;;
+SO-XZR-PRO-PRI;Sony;Xperia ZR;Cristal templado;Privacidad;4,00;;;
+SO-XZR-FUN-SIL;Sony;Xperia ZR;Funda;Silicona;2,50;;;
+SO-XZR-FUN-TPU;Sony;Xperia ZR;Funda;Transparente;2,95;;;
+SO-XZR-FUN-LIB;Sony;Xperia ZR;Funda;Libro;3,70;;;
+SO-XZR-FUN-ANT;Sony;Xperia ZR;Funda;Antigolpes;3,10;;;
+SO-XE-PRO-NA;Sony;Xperia E;Cristal templado;Estándar;1,30;;;
+SO-XE-PRO-PRI;Sony;Xperia E;Cristal templado;Privacidad;4,00;;;
+SO-XE-FUN-SIL;Sony;Xperia E;Funda;Silicona;2,50;;;
+SO-XE-FUN-TPU;Sony;Xperia E;Funda;Transparente;2,95;;;
+SO-XE-FUN-LIB;Sony;Xperia E;Funda;Libro;3,70;;;
+SO-XE-FUN-ANT;Sony;Xperia E;Funda;Antigolpes;3,10;;;
+SO-XED-PRO-NA;Sony;Xperia E dual;Cristal templado;Estándar;1,30;;;
+SO-XED-PRO-PRI;Sony;Xperia E dual;Cristal templado;Privacidad;4,00;;;
+SO-XED-FUN-SIL;Sony;Xperia E dual;Funda;Silicona;2,50;;;
+SO-XED-FUN-TPU;Sony;Xperia E dual;Funda;Transparente;2,95;;;
+SO-XED-FUN-LIB;Sony;Xperia E dual;Funda;Libro;3,70;;;
+SO-XED-FUN-ANT;Sony;Xperia E dual;Funda;Antigolpes;3,10;;;
+SO-XL-PRO-NA;Sony;Xperia L;Cristal templado;Estándar;1,30;;;
+SO-XL-PRO-PRI;Sony;Xperia L;Cristal templado;Privacidad;4,00;;;
+SO-XL-FUN-SIL;Sony;Xperia L;Funda;Silicona;2,50;;;
+SO-XL-FUN-TPU;Sony;Xperia L;Funda;Transparente;2,95;;;
+SO-XL-FUN-LIB;Sony;Xperia L;Funda;Libro;3,70;;;
+SO-XL-FUN-ANT;Sony;Xperia L;Funda;Antigolpes;3,10;;;
+SO-XSP-PRO-NA;Sony;Xperia SP;Cristal templado;Estándar;1,30;;;
+SO-XSP-PRO-PRI;Sony;Xperia SP;Cristal templado;Privacidad;4,00;;;
+SO-XSP-FUN-SIL;Sony;Xperia SP;Funda;Silicona;2,50;;;
+SO-XSP-FUN-TPU;Sony;Xperia SP;Funda;Transparente;2,95;;;
+SO-XSP-FUN-LIB;Sony;Xperia SP;Funda;Libro;3,70;;;
+SO-XSP-FUN-ANT;Sony;Xperia SP;Funda;Antigolpes;3,10;;;
+SO-XZL-PRO-NA;Sony;Xperia ZL;Cristal templado;Estándar;1,30;;;
+SO-XZL-PRO-PRI;Sony;Xperia ZL;Cristal templado;Privacidad;4,00;;;
+SO-XZL-FUN-SIL;Sony;Xperia ZL;Funda;Silicona;2,50;;;
+SO-XZL-FUN-TPU;Sony;Xperia ZL;Funda;Transparente;2,95;;;
+SO-XZL-FUN-LIB;Sony;Xperia ZL;Funda;Libro;3,70;;;
+SO-XZL-FUN-ANT;Sony;Xperia ZL;Funda;Antigolpes;3,10;;;
+SO-XZ-PRO-NA;Sony;Xperia Z;Cristal templado;Estándar;1,30;;;
+SO-XZ-PRO-PRI;Sony;Xperia Z;Cristal templado;Privacidad;4,00;;;
+SO-XZ-FUN-SIL;Sony;Xperia Z;Funda;Silicona;2,50;;;
+SO-XZ-FUN-TPU;Sony;Xperia Z;Funda;Transparente;2,95;;;
+SO-XZ-FUN-LIB;Sony;Xperia Z;Funda;Libro;3,70;;;
+SO-XZ-FUN-ANT;Sony;Xperia Z;Funda;Antigolpes;3,10;;;
+SO-XV-PRO-NA;Sony;Xperia V;Cristal templado;Estándar;1,30;;;
+SO-XV-PRO-PRI;Sony;Xperia V;Cristal templado;Privacidad;4,00;;;
+SO-XV-FUN-SIL;Sony;Xperia V;Funda;Silicona;2,50;;;
+SO-XV-FUN-TPU;Sony;Xperia V;Funda;Transparente;2,95;;;
+SO-XV-FUN-LIB;Sony;Xperia V;Funda;Libro;3,70;;;
+SO-XV-FUN-ANT;Sony;Xperia V;Funda;Antigolpes;3,10;;;
+SO-XPERIAT-PRO-NA;Sony;Xperia T;Cristal templado;Estándar;1,30;;;
+SO-XPERIAT-PRO-PRI;Sony;Xperia T;Cristal templado;Privacidad;4,00;;;
+SO-XPERIAT-FUN-SIL;Sony;Xperia T;Funda;Silicona;2,50;;;
+SO-XPERIAT-FUN-TPU;Sony;Xperia T;Funda;Transparente;2,95;;;
+SO-XPERIAT-FUN-LIB;Sony;Xperia T;Funda;Libro;3,70;;;
+SO-XPERIAT-FUN-ANT;Sony;Xperia T;Funda;Antigolpes;3,10;;;
+SO-XTX-PRO-NA;Sony;Xperia TX;Cristal templado;Estándar;1,30;;;
+SO-XTX-PRO-PRI;Sony;Xperia TX;Cristal templado;Privacidad;4,00;;;
+SO-XTX-FUN-SIL;Sony;Xperia TX;Funda;Silicona;2,50;;;
+SO-XTX-FUN-TPU;Sony;Xperia TX;Funda;Transparente;2,95;;;
+SO-XTX-FUN-LIB;Sony;Xperia TX;Funda;Libro;3,70;;;
+SO-XTX-FUN-ANT;Sony;Xperia TX;Funda;Antigolpes;3,10;;;
+SO-XM-PRO-NA;Sony;Xperia miro;Cristal templado;Estándar;1,30;;;
+SO-XM-PRO-PRI;Sony;Xperia miro;Cristal templado;Privacidad;4,00;;;
+SO-XM-FUN-SIL;Sony;Xperia miro;Funda;Silicona;2,50;;;
+SO-XM-FUN-TPU;Sony;Xperia miro;Funda;Transparente;2,95;;;
+SO-XM-FUN-LIB;Sony;Xperia miro;Funda;Libro;3,70;;;
+SO-XM-FUN-ANT;Sony;Xperia miro;Funda;Antigolpes;3,10;;;
+SO-XSL-PRO-NA;Sony;Xperia SL;Cristal templado;Estándar;1,30;;;
+SO-XSL-PRO-PRI;Sony;Xperia SL;Cristal templado;Privacidad;4,00;;;
+SO-XSL-FUN-SIL;Sony;Xperia SL;Funda;Silicona;2,50;;;
+SO-XSL-FUN-TPU;Sony;Xperia SL;Funda;Transparente;2,95;;;
+SO-XSL-FUN-LIB;Sony;Xperia SL;Funda;Libro;3,70;;;
+SO-XSL-FUN-ANT;Sony;Xperia SL;Funda;Antigolpes;3,10;;;
+SO-XJ-PRO-NA;Sony;Xperia J;Cristal templado;Estándar;1,30;;;
+SO-XJ-PRO-PRI;Sony;Xperia J;Cristal templado;Privacidad;4,00;;;
+SO-XJ-FUN-SIL;Sony;Xperia J;Funda;Silicona;2,50;;;
+SO-XJ-FUN-TPU;Sony;Xperia J;Funda;Transparente;2,95;;;
+SO-XJ-FUN-LIB;Sony;Xperia J;Funda;Libro;3,70;;;
+SO-XJ-FUN-ANT;Sony;Xperia J;Funda;Antigolpes;3,10;;;
+SO-XSX-PRO-NA;Sony;Xperia SX;Cristal templado;Estándar;1,30;;;
+SO-XSX-PRO-PRI;Sony;Xperia SX;Cristal templado;Privacidad;4,00;;;
+SO-XSX-FUN-SIL;Sony;Xperia SX;Funda;Silicona;2,50;;;
+SO-XSX-FUN-TPU;Sony;Xperia SX;Funda;Transparente;2,95;;;
+SO-XSX-FUN-LIB;Sony;Xperia SX;Funda;Libro;3,70;;;
+SO-XSX-FUN-ANT;Sony;Xperia SX;Funda;Antigolpes;3,10;;;
+SO-XT-PRO-NA;Sony;Xperia Tipo;Cristal templado;Estándar;1,30;;;
+SO-XT-PRO-PRI;Sony;Xperia Tipo;Cristal templado;Privacidad;4,00;;;
+SO-XT-FUN-SIL;Sony;Xperia Tipo;Funda;Silicona;2,50;;;
+SO-XT-FUN-TPU;Sony;Xperia Tipo;Funda;Transparente;2,95;;;
+SO-XT-FUN-LIB;Sony;Xperia Tipo;Funda;Libro;3,70;;;
+SO-XT-FUN-ANT;Sony;Xperia Tipo;Funda;Antigolpes;3,10;;;
+SO-XTD-PRO-NA;Sony;Xperia tipo dual;Cristal templado;Estándar;1,30;;;
+SO-XTD-PRO-PRI;Sony;Xperia tipo dual;Cristal templado;Privacidad;4,00;;;
+SO-XTD-FUN-SIL;Sony;Xperia tipo dual;Funda;Silicona;2,50;;;
+SO-XTD-FUN-TPU;Sony;Xperia tipo dual;Funda;Transparente;2,95;;;
+SO-XTD-FUN-LIB;Sony;Xperia tipo dual;Funda;Libro;3,70;;;
+SO-XTD-FUN-ANT;Sony;Xperia tipo dual;Funda;Antigolpes;3,10;;;
+SO-XA-PRO-NA;Sony;Xperia advance;Cristal templado;Estándar;1,30;;;
+SO-XA-PRO-PRI;Sony;Xperia advance;Cristal templado;Privacidad;4,00;;;
+SO-XA-FUN-SIL;Sony;Xperia advance;Funda;Silicona;2,50;;;
+SO-XA-FUN-TPU;Sony;Xperia advance;Funda;Transparente;2,95;;;
+SO-XA-FUN-LIB;Sony;Xperia advance;Funda;Libro;3,70;;;
+SO-XA-FUN-ANT;Sony;Xperia advance;Funda;Antigolpes;3,10;;;
+SO-XAGO-PRO-NA;Sony;Xperia advance go;Cristal templado;Estándar;1,30;;;
+SO-XAGO-PRO-PRI;Sony;Xperia advance go;Cristal templado;Privacidad;4,00;;;
+SO-XAGO-FUN-SIL;Sony;Xperia advance go;Funda;Silicona;2,50;;;
+SO-XAGO-FUN-TPU;Sony;Xperia advance go;Funda;Transparente;2,95;;;
+SO-XAGO-FUN-LIB;Sony;Xperia advance go;Funda;Libro;3,70;;;
+SO-XAGO-FUN-ANT;Sony;Xperia advance go;Funda;Antigolpes;3,10;;;
+SO-XNEOL-PRO-NA;Sony;Xperia neo L;Cristal templado;Estándar;1,30;;;
+SO-XNEOL-PRO-PRI;Sony;Xperia neo L;Cristal templado;Privacidad;4,00;;;
+SO-XNEOL-FUN-SIL;Sony;Xperia neo L;Funda;Silicona;2,50;;;
+SO-XNEOL-FUN-TPU;Sony;Xperia neo L;Funda;Transparente;2,95;;;
+SO-XNEOL-FUN-LIB;Sony;Xperia neo L;Funda;Libro;3,70;;;
+SO-XNEOL-FUN-ANT;Sony;Xperia neo L;Funda;Antigolpes;3,10;;;
+SO-XPERIASO-PRO-NA;Sony;Xperia Sola;Cristal templado;Estándar;1,30;;;
+SO-XPERIASO-PRO-PRI;Sony;Xperia Sola;Cristal templado;Privacidad;4,00;;;
+SO-XPERIASO-FUN-SIL;Sony;Xperia Sola;Funda;Silicona;2,50;;;
+SO-XPERIASO-FUN-TPU;Sony;Xperia Sola;Funda;Transparente;2,95;;;
+SO-XPERIASO-FUN-LIB;Sony;Xperia Sola;Funda;Libro;3,70;;;
+SO-XPERIASO-FUN-ANT;Sony;Xperia Sola;Funda;Antigolpes;3,10;;;
+SO-XU-PRO-NA;Sony;Xperia U;Cristal templado;Estándar;1,30;;;
+SO-XU-PRO-PRI;Sony;Xperia U;Cristal templado;Privacidad;4,00;;;
+SO-XU-FUN-SIL;Sony;Xperia U;Funda;Silicona;2,50;;;
+SO-XU-FUN-TPU;Sony;Xperia U;Funda;Transparente;2,95;;;
+SO-XU-FUN-LIB;Sony;Xperia U;Funda;Libro;3,70;;;
+SO-XU-FUN-ANT;Sony;Xperia U;Funda;Antigolpes;3,10;;;
+SO-XP-PRO-NA;Sony;Xperia P;Cristal templado;Estándar;1,30;;;
+SO-XP-PRO-PRI;Sony;Xperia P;Cristal templado;Privacidad;4,00;;;
+SO-XP-FUN-SIL;Sony;Xperia P;Funda;Silicona;2,50;;;
+SO-XP-FUN-TPU;Sony;Xperia P;Funda;Transparente;2,95;;;
+SO-XP-FUN-LIB;Sony;Xperia P;Funda;Libro;3,70;;;
+SO-XP-FUN-ANT;Sony;Xperia P;Funda;Antigolpes;3,10;;;
+SO-XAHD-PRO-NA;Sony;Xperia acro HD;Cristal templado;Estándar;1,30;;;
+SO-XAHD-PRO-PRI;Sony;Xperia acro HD;Cristal templado;Privacidad;4,00;;;
+SO-XAHD-FUN-SIL;Sony;Xperia acro HD;Funda;Silicona;2,50;;;
+SO-XAHD-FUN-TPU;Sony;Xperia acro HD;Funda;Transparente;2,95;;;
+SO-XAHD-FUN-LIB;Sony;Xperia acro HD;Funda;Libro;3,70;;;
+SO-XAHD-FUN-ANT;Sony;Xperia acro HD;Funda;Antigolpes;3,10;;;
+SO-XAHDIS12-PRO-NA;Sony;Xperia acro HD IS12S;Cristal templado;Estándar;1,30;;;
+SO-XAHDIS12-PRO-PRI;Sony;Xperia acro HD IS12S;Cristal templado;Privacidad;4,00;;;
+SO-XAHDIS12-FUN-SIL;Sony;Xperia acro HD IS12S;Funda;Silicona;2,50;;;
+SO-XAHDIS12-FUN-TPU;Sony;Xperia acro HD IS12S;Funda;Transparente;2,95;;;
+SO-XAHDIS12-FUN-LIB;Sony;Xperia acro HD IS12S;Funda;Libro;3,70;;;
+SO-XAHDIS12-FUN-ANT;Sony;Xperia acro HD IS12S;Funda;Antigolpes;3,10;;;
+SO-XION-PRO-NA;Sony;Xperia Ion;Cristal templado;Estándar;1,30;;;
+SO-XION-PRO-PRI;Sony;Xperia Ion;Cristal templado;Privacidad;4,00;;;
+SO-XION-FUN-SIL;Sony;Xperia Ion;Funda;Silicona;2,50;;;
+SO-XION-FUN-TPU;Sony;Xperia Ion;Funda;Transparente;2,95;;;
+SO-XION-FUN-LIB;Sony;Xperia Ion;Funda;Libro;3,70;;;
+SO-XION-FUN-ANT;Sony;Xperia Ion;Funda;Antigolpes;3,10;;;
+SO-XS-PRO-NA;Sony;Xperia S;Cristal templado;Estándar;1,30;;;
+SO-XS-PRO-PRI;Sony;Xperia S;Cristal templado;Privacidad;4,00;;;
+SO-XS-FUN-SIL;Sony;Xperia S;Funda;Silicona;2,50;;;
+SO-XS-FUN-TPU;Sony;Xperia S;Funda;Transparente;2,95;;;
+SO-XS-FUN-LIB;Sony;Xperia S;Funda;Libro;3,70;;;
+SO-XS-FUN-ANT;Sony;Xperia S;Funda;Antigolpes;3,10;;;
+SO-XAS-PRO-NA;Sony;Xperia acro S;Cristal templado;Estándar;1,30;;;
+SO-XAS-PRO-PRI;Sony;Xperia acro S;Cristal templado;Privacidad;4,00;;;
+SO-XAS-FUN-SIL;Sony;Xperia acro S;Funda;Silicona;2,50;;;
+SO-XAS-FUN-TPU;Sony;Xperia acro S;Funda;Transparente;2,95;;;
+SO-XAS-FUN-LIB;Sony;Xperia acro S;Funda;Libro;3,70;;;
+SO-XAS-FUN-ANT;Sony;Xperia acro S;Funda;Antigolpes;3,10;;;
+SO-XGO-PRO-NA;Sony;Xperia Go;Cristal templado;Estándar;1,30;;;
+SO-XGO-PRO-PRI;Sony;Xperia Go;Cristal templado;Privacidad;4,00;;;
+SO-XGO-FUN-SIL;Sony;Xperia Go;Funda;Silicona;2,50;;;
+SO-XGO-FUN-TPU;Sony;Xperia Go;Funda;Transparente;2,95;;;
+SO-XGO-FUN-LIB;Sony;Xperia Go;Funda;Libro;3,70;;;
+SO-XGO-FUN-ANT;Sony;Xperia Go;Funda;Antigolpes;3,10;;;
+SO-XZ5-PRO-NA;Sony;Xperia Z5;Cristal templado;Estándar;1,30;;;
+SO-XZ5-PRO-NA-FG;Sony;Xperia Z5;Cristal templado;UV full glue;4,15;;;
+SO-XZ5-PRO-PRI;Sony;Xperia Z5;Cristal templado;Privacidad;4,00;;;
+SO-XZ5-FUN-SIL;Sony;Xperia Z5;Funda;Silicona;2,50;;;
+SO-XZ5-FUN-TPU;Sony;Xperia Z5;Funda;Transparente;2,95;;;
+SO-XZ5-FUN-LIB;Sony;Xperia Z5;Funda;Libro;3,70;;;
+SO-XZ5-FUN-ANT;Sony;Xperia Z5;Funda;Antigolpes;3,10;;;
+SO-XZ5C-PRO-NA;Sony;Xperia Z5 Compact;Cristal templado;Estándar;1,30;;;
+SO-XZ5C-PRO-PRI;Sony;Xperia Z5 Compact;Cristal templado;Privacidad;4,00;;;
+SO-XZ5C-FUN-SIL;Sony;Xperia Z5 Compact;Funda;Silicona;2,50;;;
+SO-XZ5C-FUN-TPU;Sony;Xperia Z5 Compact;Funda;Transparente;2,95;;;
+SO-XZ5C-FUN-LIB;Sony;Xperia Z5 Compact;Funda;Libro;3,70;;;
+SO-XZ5C-FUN-ANT;Sony;Xperia Z5 Compact;Funda;Antigolpes;3,10;;;
+SO-XZ5P-PRO-NA;Sony;Xperia Z5 Premium;Cristal templado;Estándar;1,30;;;
+SO-XZ5P-PRO-NA-FG;Sony;Xperia Z5 Premium;Cristal templado;UV full glue;4,15;;;
+SO-XZ5P-PRO-PRI;Sony;Xperia Z5 Premium;Cristal templado;Privacidad;4,00;;;
+SO-XZ5P-FUN-SIL;Sony;Xperia Z5 Premium;Funda;Silicona;2,50;;;
+SO-XZ5P-FUN-TPU;Sony;Xperia Z5 Premium;Funda;Transparente;2,95;;;
+SO-XZ5P-FUN-LIB;Sony;Xperia Z5 Premium;Funda;Libro;3,70;;;
+SO-XZ5P-FUN-ANT;Sony;Xperia Z5 Premium;Funda;Antigolpes;3,10;;;
+SO-XXP-PRO-NA;Sony;Xperia X Performance;Cristal templado;Estándar;1,30;;;
+SO-XXP-PRO-PRI;Sony;Xperia X Performance;Cristal templado;Privacidad;4,00;;;
+SO-XXP-FUN-SIL;Sony;Xperia X Performance;Funda;Silicona;2,50;;;
+SO-XXP-FUN-TPU;Sony;Xperia X Performance;Funda;Transparente;2,95;;;
+SO-XXP-FUN-LIB;Sony;Xperia X Performance;Funda;Libro;3,70;;;
+SO-XXP-FUN-ANT;Sony;Xperia X Performance;Funda;Antigolpes;3,10;;;
+SO-XE5-PRO-NA;Sony;Xperia E5;Cristal templado;Estándar;1,30;;;
+SO-XE5-PRO-PRI;Sony;Xperia E5;Cristal templado;Privacidad;4,00;;;
+SO-XE5-FUN-SIL;Sony;Xperia E5;Funda;Silicona;2,50;;;
+SO-XE5-FUN-TPU;Sony;Xperia E5;Funda;Transparente;2,95;;;
+SO-XE5-FUN-LIB;Sony;Xperia E5;Funda;Libro;3,70;;;
+SO-XE5-FUN-ANT;Sony;Xperia E5;Funda;Antigolpes;3,10;;;
+SO-XX-PRO-NA;Sony;Xperia X;Cristal templado;Estándar;1,30;;;
+SO-XX-PRO-PRI;Sony;Xperia X;Cristal templado;Privacidad;4,00;;;
+SO-XX-FUN-SIL;Sony;Xperia X;Funda;Silicona;2,50;;;
+SO-XX-FUN-TPU;Sony;Xperia X;Funda;Transparente;2,95;;;
+SO-XX-FUN-LIB;Sony;Xperia X;Funda;Libro;3,70;;;
+SO-XX-FUN-ANT;Sony;Xperia X;Funda;Antigolpes;3,10;;;
+SO-XXA-PRO-NA;Sony;Xperia XA;Cristal templado;Estándar;1,30;;;
+SO-XXA-PRO-PRI;Sony;Xperia XA;Cristal templado;Privacidad;4,00;;;
+SO-XXA-FUN-SIL;Sony;Xperia XA;Funda;Silicona;2,50;;;
+SO-XXA-FUN-TPU;Sony;Xperia XA;Funda;Transparente;2,95;;;
+SO-XXA-FUN-LIB;Sony;Xperia XA;Funda;Libro;3,70;;;
+SO-XXA-FUN-ANT;Sony;Xperia XA;Funda;Antigolpes;3,10;;;
+SO-XXAU-PRO-NA;Sony;Xperia XA Ultra;Cristal templado;Estándar;1,30;;;
+SO-XXAU-PRO-PRI;Sony;Xperia XA Ultra;Cristal templado;Privacidad;4,00;;;
+SO-XXAU-FUN-SIL;Sony;Xperia XA Ultra;Funda;Silicona;2,50;;;
+SO-XXAU-FUN-TPU;Sony;Xperia XA Ultra;Funda;Transparente;2,95;;;
+SO-XXAU-FUN-LIB;Sony;Xperia XA Ultra;Funda;Libro;3,70;;;
+SO-XXAU-FUN-ANT;Sony;Xperia XA Ultra;Funda;Antigolpes;3,10;;;
+SO-XXC-PRO-NA;Sony;Xperia X Compact;Cristal templado;Estándar;1,30;;;
+SO-XXC-PRO-PRI;Sony;Xperia X Compact;Cristal templado;Privacidad;4,00;;;
+SO-XXC-FUN-SIL;Sony;Xperia X Compact;Funda;Silicona;2,50;;;
+SO-XXC-FUN-TPU;Sony;Xperia X Compact;Funda;Transparente;2,95;;;
+SO-XXC-FUN-LIB;Sony;Xperia X Compact;Funda;Libro;3,70;;;
+SO-XXC-FUN-ANT;Sony;Xperia X Compact;Funda;Antigolpes;3,10;;;
+SO-XXZ-PRO-NA;Sony;Xperia XZ;Cristal templado;Estándar;1,30;;;
+SO-XXZ-PRO-NA-FG;Sony;Xperia XZ;Cristal templado;UV full glue;4,15;;;
+SO-XXZ-PRO-PRI;Sony;Xperia XZ;Cristal templado;Privacidad;4,00;;;
+SO-XXZ-FUN-SIL;Sony;Xperia XZ;Funda;Silicona;2,50;;;
+SO-XXZ-FUN-TPU;Sony;Xperia XZ;Funda;Transparente;2,95;;;
+SO-XXZ-FUN-LIB;Sony;Xperia XZ;Funda;Libro;3,70;;;
+SO-XXZ-FUN-ANT;Sony;Xperia XZ;Funda;Antigolpes;3,10;;;
+SO-XXA1-PRO-NA;Sony;Xperia XA1;Cristal templado;Estándar;1,30;;;
+SO-XXA1-PRO-PRI;Sony;Xperia XA1;Cristal templado;Privacidad;4,00;;;
+SO-XXA1-FUN-SIL;Sony;Xperia XA1;Funda;Silicona;2,50;;;
+SO-XXA1-FUN-TPU;Sony;Xperia XA1;Funda;Transparente;2,95;;;
+SO-XXA1-FUN-LIB;Sony;Xperia XA1;Funda;Libro;3,70;;;
+SO-XXA1-FUN-ANT;Sony;Xperia XA1;Funda;Antigolpes;3,10;;;
+SO-XXZS-PRO-NA;Sony;Xperia XZs;Cristal templado;Estándar;1,30;;;
+SO-XXZS-PRO-NA-FG;Sony;Xperia XZs;Cristal templado;UV full glue;4,15;;;
+SO-XXZS-PRO-PRI;Sony;Xperia XZs;Cristal templado;Privacidad;4,00;;;
+SO-XXZS-FUN-SIL;Sony;Xperia XZs;Funda;Silicona;2,50;;;
+SO-XXZS-FUN-TPU;Sony;Xperia XZs;Funda;Transparente;2,95;;;
+SO-XXZS-FUN-LIB;Sony;Xperia XZs;Funda;Libro;3,70;;;
+SO-XXZS-FUN-ANT;Sony;Xperia XZs;Funda;Antigolpes;3,10;;;
+SO-XXA1U-PRO-NA;Sony;Xperia XA1 Ultra;Cristal templado;Estándar;1,30;;;
+SO-XXA1U-PRO-PRI;Sony;Xperia XA1 Ultra;Cristal templado;Privacidad;4,00;;;
+SO-XXA1U-FUN-SIL;Sony;Xperia XA1 Ultra;Funda;Silicona;2,50;;;
+SO-XXA1U-FUN-TPU;Sony;Xperia XA1 Ultra;Funda;Transparente;2,95;;;
+SO-XXA1U-FUN-LIB;Sony;Xperia XA1 Ultra;Funda;Libro;3,70;;;
+SO-XXA1U-FUN-ANT;Sony;Xperia XA1 Ultra;Funda;Antigolpes;3,10;;;
+SO-XL1-PRO-NA;Sony;Xperia L1;Cristal templado;Estándar;1,30;;;
+SO-XL1-PRO-PRI;Sony;Xperia L1;Cristal templado;Privacidad;4,00;;;
+SO-XL1-FUN-SIL;Sony;Xperia L1;Funda;Silicona;2,50;;;
+SO-XL1-FUN-TPU;Sony;Xperia L1;Funda;Transparente;2,95;;;
+SO-XL1-FUN-LIB;Sony;Xperia L1;Funda;Libro;3,70;;;
+SO-XL1-FUN-ANT;Sony;Xperia L1;Funda;Antigolpes;3,10;;;
+SO-XXZP-PRO-NA;Sony;Xperia XZ Premium;Cristal templado;Estándar;1,30;;;
+SO-XXZP-PRO-NA-FG;Sony;Xperia XZ Premium;Cristal templado;UV full glue;4,15;;;
+SO-XXZP-PRO-PRI;Sony;Xperia XZ Premium;Cristal templado;Privacidad;4,00;;;
+SO-XXZP-FUN-SIL;Sony;Xperia XZ Premium;Funda;Silicona;2,50;;;
+SO-XXZP-FUN-TPU;Sony;Xperia XZ Premium;Funda;Transparente;2,95;;;
+SO-XXZP-FUN-LIB;Sony;Xperia XZ Premium;Funda;Libro;3,70;;;
+SO-XXZP-FUN-ANT;Sony;Xperia XZ Premium;Funda;Antigolpes;3,10;;;
+SO-XXZ1-PRO-NA;Sony;Xperia XZ1;Cristal templado;Estándar;1,30;;;
+SO-XXZ1-PRO-NA-FG;Sony;Xperia XZ1;Cristal templado;UV full glue;4,15;;;
+SO-XXZ1-PRO-PRI;Sony;Xperia XZ1;Cristal templado;Privacidad;4,00;;;
+SO-XXZ1-FUN-SIL;Sony;Xperia XZ1;Funda;Silicona;2,50;;;
+SO-XXZ1-FUN-TPU;Sony;Xperia XZ1;Funda;Transparente;2,95;;;
+SO-XXZ1-FUN-LIB;Sony;Xperia XZ1;Funda;Libro;3,70;;;
+SO-XXZ1-FUN-ANT;Sony;Xperia XZ1;Funda;Antigolpes;3,10;;;
+SO-XXZ1C-PRO-NA;Sony;Xperia XZ1 Compact;Cristal templado;Estándar;1,30;;;
+SO-XXZ1C-PRO-PRI;Sony;Xperia XZ1 Compact;Cristal templado;Privacidad;4,00;;;
+SO-XXZ1C-FUN-SIL;Sony;Xperia XZ1 Compact;Funda;Silicona;2,50;;;
+SO-XXZ1C-FUN-TPU;Sony;Xperia XZ1 Compact;Funda;Transparente;2,95;;;
+SO-XXZ1C-FUN-LIB;Sony;Xperia XZ1 Compact;Funda;Libro;3,70;;;
+SO-XXZ1C-FUN-ANT;Sony;Xperia XZ1 Compact;Funda;Antigolpes;3,10;;;
+SO-XXA1PL-PRO-NA;Sony;Xperia XA1 Plus;Cristal templado;Estándar;1,30;;;
+SO-XXA1PL-PRO-PRI;Sony;Xperia XA1 Plus;Cristal templado;Privacidad;4,00;;;
+SO-XXA1PL-FUN-SIL;Sony;Xperia XA1 Plus;Funda;Silicona;2,50;;;
+SO-XXA1PL-FUN-TPU;Sony;Xperia XA1 Plus;Funda;Transparente;2,95;;;
+SO-XXA1PL-FUN-LIB;Sony;Xperia XA1 Plus;Funda;Libro;3,70;;;
+SO-XXA1PL-FUN-ANT;Sony;Xperia XA1 Plus;Funda;Antigolpes;3,10;;;
+SO-XL2-PRO-NA;Sony;Xperia L2;Cristal templado;Estándar;1,30;;;
+SO-XL2-PRO-PRI;Sony;Xperia L2;Cristal templado;Privacidad;4,00;;;
+SO-XL2-FUN-SIL;Sony;Xperia L2;Funda;Silicona;2,50;;;
+SO-XL2-FUN-TPU;Sony;Xperia L2;Funda;Transparente;2,95;;;
+SO-XL2-FUN-LIB;Sony;Xperia L2;Funda;Libro;3,70;;;
+SO-XL2-FUN-ANT;Sony;Xperia L2;Funda;Antigolpes;3,10;;;
+SO-XXA2-PRO-NA;Sony;Xperia XA2;Cristal templado;Estándar;1,30;;;
+SO-XXA2-PRO-PRI;Sony;Xperia XA2;Cristal templado;Privacidad;4,00;;;
+SO-XXA2-FUN-SIL;Sony;Xperia XA2;Funda;Silicona;2,50;;;
+SO-XXA2-FUN-TPU;Sony;Xperia XA2;Funda;Transparente;2,95;;;
+SO-XXA2-FUN-LIB;Sony;Xperia XA2;Funda;Libro;3,70;;;
+SO-XXA2-FUN-ANT;Sony;Xperia XA2;Funda;Antigolpes;3,10;;;
+SO-XXA2U-PRO-NA;Sony;Xperia XA2 Ultra;Cristal templado;Estándar;1,30;;;
+SO-XXA2U-PRO-PRI;Sony;Xperia XA2 Ultra;Cristal templado;Privacidad;4,00;;;
+SO-XXA2U-FUN-SIL;Sony;Xperia XA2 Ultra;Funda;Silicona;2,50;;;
+SO-XXA2U-FUN-TPU;Sony;Xperia XA2 Ultra;Funda;Transparente;2,95;;;
+SO-XXA2U-FUN-LIB;Sony;Xperia XA2 Ultra;Funda;Libro;3,70;;;
+SO-XXA2U-FUN-ANT;Sony;Xperia XA2 Ultra;Funda;Antigolpes;3,10;;;
+SO-XXZ2-PRO-NA;Sony;Xperia XZ2;Cristal templado;Estándar;1,30;;;
+SO-XXZ2-PRO-NA-FG;Sony;Xperia XZ2;Cristal templado;UV full glue;4,15;;;
+SO-XXZ2-PRO-PRI;Sony;Xperia XZ2;Cristal templado;Privacidad;4,00;;;
+SO-XXZ2-FUN-SIL;Sony;Xperia XZ2;Funda;Silicona;2,50;;;
+SO-XXZ2-FUN-TPU;Sony;Xperia XZ2;Funda;Transparente;2,95;;;
+SO-XXZ2-FUN-LIB;Sony;Xperia XZ2;Funda;Libro;3,70;;;
+SO-XXZ2-FUN-ANT;Sony;Xperia XZ2;Funda;Antigolpes;3,10;;;
+SO-XXZ2C-PRO-NA;Sony;Xperia XZ2 Compact;Cristal templado;Estándar;1,30;;;
+SO-XXZ2C-PRO-PRI;Sony;Xperia XZ2 Compact;Cristal templado;Privacidad;4,00;;;
+SO-XXZ2C-FUN-SIL;Sony;Xperia XZ2 Compact;Funda;Silicona;2,50;;;
+SO-XXZ2C-FUN-TPU;Sony;Xperia XZ2 Compact;Funda;Transparente;2,95;;;
+SO-XXZ2C-FUN-LIB;Sony;Xperia XZ2 Compact;Funda;Libro;3,70;;;
+SO-XXZ2C-FUN-ANT;Sony;Xperia XZ2 Compact;Funda;Antigolpes;3,10;;;
+SO-XXA2PL-PRO-NA;Sony;Xperia XA2 Plus;Cristal templado;Estándar;1,30;;;
+SO-XXA2PL-PRO-PRI;Sony;Xperia XA2 Plus;Cristal templado;Privacidad;4,00;;;
+SO-XXA2PL-FUN-SIL;Sony;Xperia XA2 Plus;Funda;Silicona;2,50;;;
+SO-XXA2PL-FUN-TPU;Sony;Xperia XA2 Plus;Funda;Transparente;2,95;;;
+SO-XXA2PL-FUN-LIB;Sony;Xperia XA2 Plus;Funda;Libro;3,70;;;
+SO-XXA2PL-FUN-ANT;Sony;Xperia XA2 Plus;Funda;Antigolpes;3,10;;;
+SO-XXZ2P-PRO-NA;Sony;Xperia XZ2 Premium;Cristal templado;Estándar;1,30;;;
+SO-XXZ2P-PRO-NA-FG;Sony;Xperia XZ2 Premium;Cristal templado;UV full glue;4,15;;;
+SO-XXZ2P-PRO-PRI;Sony;Xperia XZ2 Premium;Cristal templado;Privacidad;4,00;;;
+SO-XXZ2P-FUN-SIL;Sony;Xperia XZ2 Premium;Funda;Silicona;2,50;;;
+SO-XXZ2P-FUN-TPU;Sony;Xperia XZ2 Premium;Funda;Transparente;2,95;;;
+SO-XXZ2P-FUN-LIB;Sony;Xperia XZ2 Premium;Funda;Libro;3,70;;;
+SO-XXZ2P-FUN-ANT;Sony;Xperia XZ2 Premium;Funda;Antigolpes;3,10;;;
+SO-XXZ3-PRO-NA;Sony;Xperia XZ3;Cristal templado;Estándar;1,30;;;
+SO-XXZ3-PRO-NA-FG;Sony;Xperia XZ3;Cristal templado;UV full glue;4,15;;;
+SO-XXZ3-PRO-PRI;Sony;Xperia XZ3;Cristal templado;Privacidad;4,00;;;
+SO-XXZ3-FUN-SIL;Sony;Xperia XZ3;Funda;Silicona;2,50;;;
+SO-XXZ3-FUN-TPU;Sony;Xperia XZ3;Funda;Transparente;2,95;;;
+SO-XXZ3-FUN-LIB;Sony;Xperia XZ3;Funda;Libro;3,70;;;
+SO-XXZ3-FUN-ANT;Sony;Xperia XZ3;Funda;Antigolpes;3,10;;;
+SO-X10-PRO-NA;Sony;Xperia 10;Cristal templado;Estándar;1,30;;;
+SO-X10-PRO-PRI;Sony;Xperia 10;Cristal templado;Privacidad;4,00;;;
+SO-X10-FUN-SIL;Sony;Xperia 10;Funda;Silicona;2,50;;;
+SO-X10-FUN-TPU;Sony;Xperia 10;Funda;Transparente;2,95;;;
+SO-X10-FUN-LIB;Sony;Xperia 10;Funda;Libro;3,70;;;
+SO-X10-FUN-ANT;Sony;Xperia 10;Funda;Antigolpes;3,10;;;
+SO-X10-PCA-NA;Sony;Xperia 10;Protector de cámara;Cristal;2,90;;;
+SO-X10PL-PRO-NA;Sony;Xperia 10 Plus;Cristal templado;Estándar;1,30;;;
+SO-X10PL-PRO-PRI;Sony;Xperia 10 Plus;Cristal templado;Privacidad;4,00;;;
+SO-X10PL-FUN-SIL;Sony;Xperia 10 Plus;Funda;Silicona;2,50;;;
+SO-X10PL-FUN-TPU;Sony;Xperia 10 Plus;Funda;Transparente;2,95;;;
+SO-X10PL-FUN-LIB;Sony;Xperia 10 Plus;Funda;Libro;3,70;;;
+SO-X10PL-FUN-ANT;Sony;Xperia 10 Plus;Funda;Antigolpes;3,10;;;
+SO-X10PL-PCA-NA;Sony;Xperia 10 Plus;Protector de cámara;Cristal;2,90;;;
+SO-XL3-PRO-NA;Sony;Xperia L3;Cristal templado;Estándar;1,30;;;
+SO-XL3-PRO-PRI;Sony;Xperia L3;Cristal templado;Privacidad;4,00;;;
+SO-XL3-FUN-SIL;Sony;Xperia L3;Funda;Silicona;2,50;;;
+SO-XL3-FUN-TPU;Sony;Xperia L3;Funda;Transparente;2,95;;;
+SO-XL3-FUN-LIB;Sony;Xperia L3;Funda;Libro;3,70;;;
+SO-XL3-FUN-ANT;Sony;Xperia L3;Funda;Antigolpes;3,10;;;
+SO-XL3-PCA-NA;Sony;Xperia L3;Protector de cámara;Cristal;2,90;;;
+SO-X1-PRO-NA;Sony;Xperia 1;Cristal templado;Estándar;1,30;;;
+SO-X1-PRO-NA-FG;Sony;Xperia 1;Cristal templado;UV full glue;4,15;;;
+SO-X1-PRO-PRI;Sony;Xperia 1;Cristal templado;Privacidad;4,00;;;
+SO-X1-FUN-SIL;Sony;Xperia 1;Funda;Silicona;2,50;;;
+SO-X1-FUN-TPU;Sony;Xperia 1;Funda;Transparente;2,95;;;
+SO-X1-FUN-LIB;Sony;Xperia 1;Funda;Libro;3,70;;;
+SO-X1-FUN-ANT;Sony;Xperia 1;Funda;Antigolpes;3,10;;;
+SO-X1-PCA-NA;Sony;Xperia 1;Protector de cámara;Cristal;2,90;;;
+SO-X5-PRO-NA;Sony;Xperia 5;Cristal templado;Estándar;1,30;;;
+SO-X5-PRO-NA-FG;Sony;Xperia 5;Cristal templado;UV full glue;4,15;;;
+SO-X5-PRO-PRI;Sony;Xperia 5;Cristal templado;Privacidad;4,00;;;
+SO-X5-FUN-SIL;Sony;Xperia 5;Funda;Silicona;2,50;;;
+SO-X5-FUN-TPU;Sony;Xperia 5;Funda;Transparente;2,95;;;
+SO-X5-FUN-LIB;Sony;Xperia 5;Funda;Libro;3,70;;;
+SO-X5-FUN-ANT;Sony;Xperia 5;Funda;Antigolpes;3,10;;;
+SO-X5-PCA-NA;Sony;Xperia 5;Protector de cámara;Cristal;2,90;;;
+SO-XL4-PRO-NA;Sony;Xperia L4;Cristal templado;Estándar;1,30;;;
+SO-XL4-PRO-PRI;Sony;Xperia L4;Cristal templado;Privacidad;4,00;;;
+SO-XL4-FUN-SIL;Sony;Xperia L4;Funda;Silicona;2,50;;;
+SO-XL4-FUN-TPU;Sony;Xperia L4;Funda;Transparente;2,95;;;
+SO-XL4-FUN-LIB;Sony;Xperia L4;Funda;Libro;3,70;;;
+SO-XL4-FUN-ANT;Sony;Xperia L4;Funda;Antigolpes;3,10;;;
+SO-XL4-PCA-NA;Sony;Xperia L4;Protector de cámara;Cristal;2,90;;;
+SO-X10II-PRO-NA;Sony;Xperia 10 II;Cristal templado;Estándar;1,30;;;
+SO-X10II-PRO-PRI;Sony;Xperia 10 II;Cristal templado;Privacidad;4,00;;;
+SO-X10II-FUN-SIL;Sony;Xperia 10 II;Funda;Silicona;2,50;;;
+SO-X10II-FUN-TPU;Sony;Xperia 10 II;Funda;Transparente;2,95;;;
+SO-X10II-FUN-LIB;Sony;Xperia 10 II;Funda;Libro;3,70;;;
+SO-X10II-FUN-ANT;Sony;Xperia 10 II;Funda;Antigolpes;3,10;;;
+SO-X10II-PCA-NA;Sony;Xperia 10 II;Protector de cámara;Cristal;2,90;;;
+SO-X1II-PRO-NA;Sony;Xperia 1 II;Cristal templado;Estándar;1,30;;;
+SO-X1II-PRO-NA-FG;Sony;Xperia 1 II;Cristal templado;UV full glue;4,15;;;
+SO-X1II-PRO-PRI;Sony;Xperia 1 II;Cristal templado;Privacidad;4,00;;;
+SO-X1II-FUN-SIL;Sony;Xperia 1 II;Funda;Silicona;2,50;;;
+SO-X1II-FUN-TPU;Sony;Xperia 1 II;Funda;Transparente;2,95;;;
+SO-X1II-FUN-LIB;Sony;Xperia 1 II;Funda;Libro;3,70;;;
+SO-X1II-FUN-ANT;Sony;Xperia 1 II;Funda;Antigolpes;3,10;;;
+SO-X1II-PCA-NA;Sony;Xperia 1 II;Protector de cámara;Cristal;2,90;;;
+SO-X5II-PRO-NA;Sony;Xperia 5 II;Cristal templado;Estándar;1,30;;;
+SO-X5II-PRO-NA-FG;Sony;Xperia 5 II;Cristal templado;UV full glue;4,15;;;
+SO-X5II-PRO-PRI;Sony;Xperia 5 II;Cristal templado;Privacidad;4,00;;;
+SO-X5II-FUN-SIL;Sony;Xperia 5 II;Funda;Silicona;2,50;;;
+SO-X5II-FUN-TPU;Sony;Xperia 5 II;Funda;Transparente;2,95;;;
+SO-X5II-FUN-LIB;Sony;Xperia 5 II;Funda;Libro;3,70;;;
+SO-X5II-FUN-ANT;Sony;Xperia 5 II;Funda;Antigolpes;3,10;;;
+SO-X5II-PCA-NA;Sony;Xperia 5 II;Protector de cámara;Cristal;2,90;;;
+SO-X10III-PRO-NA;Sony;Xperia 10 III;Cristal templado;Estándar;1,30;;;
+SO-X10III-PRO-PRI;Sony;Xperia 10 III;Cristal templado;Privacidad;4,00;;;
+SO-X10III-FUN-SIL;Sony;Xperia 10 III;Funda;Silicona;2,50;;;
+SO-X10III-FUN-TPU;Sony;Xperia 10 III;Funda;Transparente;2,95;;;
+SO-X10III-FUN-LIB;Sony;Xperia 10 III;Funda;Libro;3,70;;;
+SO-X10III-FUN-ANT;Sony;Xperia 10 III;Funda;Antigolpes;3,10;;;
+SO-X10III-PCA-NA;Sony;Xperia 10 III;Protector de cámara;Cristal;2,90;;;
+SO-X1III-PRO-NA;Sony;Xperia 1 III;Cristal templado;Estándar;1,30;;;
+SO-X1III-PRO-NA-FG;Sony;Xperia 1 III;Cristal templado;UV full glue;4,15;;;
+SO-X1III-PRO-PRI;Sony;Xperia 1 III;Cristal templado;Privacidad;4,00;;;
+SO-X1III-FUN-SIL;Sony;Xperia 1 III;Funda;Silicona;2,50;;;
+SO-X1III-FUN-TPU;Sony;Xperia 1 III;Funda;Transparente;2,95;;;
+SO-X1III-FUN-LIB;Sony;Xperia 1 III;Funda;Libro;3,70;;;
+SO-X1III-FUN-ANT;Sony;Xperia 1 III;Funda;Antigolpes;3,10;;;
+SO-X1III-PCA-NA;Sony;Xperia 1 III;Protector de cámara;Cristal;2,90;;;
+SO-X5III-PRO-NA;Sony;Xperia 5 III;Cristal templado;Estándar;1,30;;;
+SO-X5III-PRO-NA-FG;Sony;Xperia 5 III;Cristal templado;UV full glue;4,15;;;
+SO-X5III-PRO-PRI;Sony;Xperia 5 III;Cristal templado;Privacidad;4,00;;;
+SO-X5III-FUN-SIL;Sony;Xperia 5 III;Funda;Silicona;2,50;;;
+SO-X5III-FUN-TPU;Sony;Xperia 5 III;Funda;Transparente;2,95;;;
+SO-X5III-FUN-LIB;Sony;Xperia 5 III;Funda;Libro;3,70;;;
+SO-X5III-FUN-ANT;Sony;Xperia 5 III;Funda;Antigolpes;3,10;;;
+SO-X5III-PCA-NA;Sony;Xperia 5 III;Protector de cámara;Cristal;2,90;;;
+SO-XPI-PRO-NA;Sony;Xperia PRO-I;Cristal templado;Estándar;1,30;;;
+SO-XPI-PRO-PRI;Sony;Xperia PRO-I;Cristal templado;Privacidad;4,00;;;
+SO-XPI-FUN-SIL;Sony;Xperia PRO-I;Funda;Silicona;2,50;;;
+SO-XPI-FUN-TPU;Sony;Xperia PRO-I;Funda;Transparente;2,95;;;
+SO-XPI-FUN-LIB;Sony;Xperia PRO-I;Funda;Libro;3,70;;;
+SO-XPI-FUN-ANT;Sony;Xperia PRO-I;Funda;Antigolpes;3,10;;;
+SO-XPI-PCA-NA;Sony;Xperia PRO-I;Protector de cámara;Cristal;2,90;;;
+SO-X1IV-PRO-NA;Sony;Xperia 1 IV;Cristal templado;Estándar;1,30;;;
+SO-X1IV-PRO-NA-FG;Sony;Xperia 1 IV;Cristal templado;UV full glue;4,15;;;
+SO-X1IV-PRO-PRI;Sony;Xperia 1 IV;Cristal templado;Privacidad;4,00;;;
+SO-X1IV-FUN-SIL;Sony;Xperia 1 IV;Funda;Silicona;2,50;;;
+SO-X1IV-FUN-TPU;Sony;Xperia 1 IV;Funda;Transparente;2,95;;;
+SO-X1IV-FUN-LIB;Sony;Xperia 1 IV;Funda;Libro;3,70;;;
+SO-X1IV-FUN-ANT;Sony;Xperia 1 IV;Funda;Antigolpes;3,10;;;
+SO-X1IV-PCA-NA;Sony;Xperia 1 IV;Protector de cámara;Cristal;2,90;;;
+SO-X10IV-PRO-NA;Sony;Xperia 10 IV;Cristal templado;Estándar;1,30;;;
+SO-X10IV-PRO-PRI;Sony;Xperia 10 IV;Cristal templado;Privacidad;4,00;;;
+SO-X10IV-FUN-SIL;Sony;Xperia 10 IV;Funda;Silicona;2,50;;;
+SO-X10IV-FUN-TPU;Sony;Xperia 10 IV;Funda;Transparente;2,95;;;
+SO-X10IV-FUN-LIB;Sony;Xperia 10 IV;Funda;Libro;3,70;;;
+SO-X10IV-FUN-ANT;Sony;Xperia 10 IV;Funda;Antigolpes;3,10;;;
+SO-X10IV-PCA-NA;Sony;Xperia 10 IV;Protector de cámara;Cristal;2,90;;;
+SO-X5IV-PRO-NA;Sony;Xperia 5 IV;Cristal templado;Estándar;1,30;;;
+SO-X5IV-PRO-NA-FG;Sony;Xperia 5 IV;Cristal templado;UV full glue;4,15;;;
+SO-X5IV-PRO-PRI;Sony;Xperia 5 IV;Cristal templado;Privacidad;4,00;;;
+SO-X5IV-FUN-SIL;Sony;Xperia 5 IV;Funda;Silicona;2,50;;;
+SO-X5IV-FUN-TPU;Sony;Xperia 5 IV;Funda;Transparente;2,95;;;
+SO-X5IV-FUN-LIB;Sony;Xperia 5 IV;Funda;Libro;3,70;;;
+SO-X5IV-FUN-ANT;Sony;Xperia 5 IV;Funda;Antigolpes;3,10;;;
+SO-X5IV-PCA-NA;Sony;Xperia 5 IV;Protector de cámara;Cristal;2,90;;;
+SO-X1V-PRO-NA;Sony;Xperia 1 V;Cristal templado;Estándar;1,30;;;
+SO-X1V-PRO-NA-FG;Sony;Xperia 1 V;Cristal templado;UV full glue;4,15;;;
+SO-X1V-PRO-PRI;Sony;Xperia 1 V;Cristal templado;Privacidad;4,00;;;
+SO-X1V-FUN-SIL;Sony;Xperia 1 V;Funda;Silicona;2,50;;;
+SO-X1V-FUN-TPU;Sony;Xperia 1 V;Funda;Transparente;2,95;;;
+SO-X1V-FUN-LIB;Sony;Xperia 1 V;Funda;Libro;3,70;;;
+SO-X1V-FUN-ANT;Sony;Xperia 1 V;Funda;Antigolpes;3,10;;;
+SO-X1V-PCA-NA;Sony;Xperia 1 V;Protector de cámara;Cristal;2,90;;;
+SO-X10V-PRO-NA;Sony;Xperia 10 V;Cristal templado;Estándar;1,30;;;
+SO-X10V-PRO-PRI;Sony;Xperia 10 V;Cristal templado;Privacidad;4,00;;;
+SO-X10V-FUN-SIL;Sony;Xperia 10 V;Funda;Silicona;2,50;;;
+SO-X10V-FUN-TPU;Sony;Xperia 10 V;Funda;Transparente;2,95;;;
+SO-X10V-FUN-LIB;Sony;Xperia 10 V;Funda;Libro;3,70;;;
+SO-X10V-FUN-ANT;Sony;Xperia 10 V;Funda;Antigolpes;3,10;;;
+SO-X10V-PCA-NA;Sony;Xperia 10 V;Protector de cámara;Cristal;2,90;;;
+SO-X5V-PRO-NA;Sony;Xperia 5 V;Cristal templado;Estándar;1,30;;;
+SO-X5V-PRO-NA-FG;Sony;Xperia 5 V;Cristal templado;UV full glue;4,15;;;
+SO-X5V-PRO-PRI;Sony;Xperia 5 V;Cristal templado;Privacidad;4,00;;;
+SO-X5V-FUN-SIL;Sony;Xperia 5 V;Funda;Silicona;2,50;;;
+SO-X5V-FUN-TPU;Sony;Xperia 5 V;Funda;Transparente;2,95;;;
+SO-X5V-FUN-LIB;Sony;Xperia 5 V;Funda;Libro;3,70;;;
+SO-X5V-FUN-ANT;Sony;Xperia 5 V;Funda;Antigolpes;3,10;;;
+SO-X5V-PCA-NA;Sony;Xperia 5 V;Protector de cámara;Cristal;2,90;;;
+SO-X1VI-PRO-NA;Sony;Xperia 1 VI;Cristal templado;Estándar;1,30;;;
+SO-X1VI-PRO-NA-FG;Sony;Xperia 1 VI;Cristal templado;UV full glue;4,15;;;
+SO-X1VI-PRO-PRI;Sony;Xperia 1 VI;Cristal templado;Privacidad;4,00;;;
+SO-X1VI-FUN-SIL;Sony;Xperia 1 VI;Funda;Silicona;2,50;;;
+SO-X1VI-FUN-TPU;Sony;Xperia 1 VI;Funda;Transparente;2,95;;;
+SO-X1VI-FUN-LIB;Sony;Xperia 1 VI;Funda;Libro;3,70;;;
+SO-X1VI-FUN-ANT;Sony;Xperia 1 VI;Funda;Antigolpes;3,10;;;
+SO-X1VI-PCA-NA;Sony;Xperia 1 VI;Protector de cámara;Cristal;2,90;;;
+SO-X10VI-PRO-NA;Sony;Xperia 10 VI;Cristal templado;Estándar;1,30;;;
+SO-X10VI-PRO-PRI;Sony;Xperia 10 VI;Cristal templado;Privacidad;4,00;;;
+SO-X10VI-FUN-SIL;Sony;Xperia 10 VI;Funda;Silicona;2,50;;;
+SO-X10VI-FUN-TPU;Sony;Xperia 10 VI;Funda;Transparente;2,95;;;
+SO-X10VI-FUN-LIB;Sony;Xperia 10 VI;Funda;Libro;3,70;;;
+SO-X10VI-FUN-ANT;Sony;Xperia 10 VI;Funda;Antigolpes;3,10;;;
+SO-X10VI-PCA-NA;Sony;Xperia 10 VI;Protector de cámara;Cristal;2,90;;;
+SO-X1VII-PRO-NA;Sony;Xperia 1 VII;Cristal templado;Estándar;1,30;;;
+SO-X1VII-PRO-NA-FG;Sony;Xperia 1 VII;Cristal templado;UV full glue;4,15;;;
+SO-X1VII-PRO-PRI;Sony;Xperia 1 VII;Cristal templado;Privacidad;4,00;;;
+SO-X1VII-FUN-SIL;Sony;Xperia 1 VII;Funda;Silicona;2,50;;;
+SO-X1VII-FUN-TPU;Sony;Xperia 1 VII;Funda;Transparente;2,95;;;
+SO-X1VII-FUN-LIB;Sony;Xperia 1 VII;Funda;Libro;3,70;;;
+SO-X1VII-FUN-ANT;Sony;Xperia 1 VII;Funda;Antigolpes;3,10;;;
+SO-X1VII-PCA-NA;Sony;Xperia 1 VII;Protector de cámara;Cristal;2,90;;;
+SO-X10VII-PRO-NA;Sony;Xperia 10 VII;Cristal templado;Estándar;1,30;;;
+SO-X10VII-PRO-PRI;Sony;Xperia 10 VII;Cristal templado;Privacidad;4,00;;;
+SO-X10VII-FUN-SIL;Sony;Xperia 10 VII;Funda;Silicona;2,50;;;
+SO-X10VII-FUN-TPU;Sony;Xperia 10 VII;Funda;Transparente;2,95;;;
+SO-X10VII-FUN-LIB;Sony;Xperia 10 VII;Funda;Libro;3,70;;;
+SO-X10VII-FUN-ANT;Sony;Xperia 10 VII;Funda;Antigolpes;3,10;;;
+SO-X10VII-PCA-NA;Sony;Xperia 10 VII;Protector de cámara;Cristal;2,90;;;
+SO-XPERIA1V-PRO-NA;Sony;Xperia 1 VIII;Cristal templado;Estándar;1,30;;;
+SO-XPERIA1V-PRO-NA-FG;Sony;Xperia 1 VIII;Cristal templado;UV full glue;4,15;;;
+SO-XPERIA1V-PRO-PRI;Sony;Xperia 1 VIII;Cristal templado;Privacidad;4,00;;;
+SO-XPERIA1V-FUN-SIL;Sony;Xperia 1 VIII;Funda;Silicona;2,50;;;
+SO-XPERIA1V-FUN-TPU;Sony;Xperia 1 VIII;Funda;Transparente;2,95;;;
+SO-XPERIA1V-FUN-LIB;Sony;Xperia 1 VIII;Funda;Libro;3,70;;;
+SO-XPERIA1V-FUN-ANT;Sony;Xperia 1 VIII;Funda;Antigolpes;3,10;;;
+SO-XPERIA1V-PCA-NA;Sony;Xperia 1 VIII;Protector de cámara;Cristal;2,90;;;
+SO-XPERIA10-PRO-NA;Sony;Xperia 10 VIII;Cristal templado;Estándar;1,30;;;
+SO-XPERIA10-PRO-PRI;Sony;Xperia 10 VIII;Cristal templado;Privacidad;4,00;;;
+SO-XPERIA10-FUN-SIL;Sony;Xperia 10 VIII;Funda;Silicona;2,50;;;
+SO-XPERIA10-FUN-TPU;Sony;Xperia 10 VIII;Funda;Transparente;2,95;;;
+SO-XPERIA10-FUN-LIB;Sony;Xperia 10 VIII;Funda;Libro;3,70;;;
+SO-XPERIA10-FUN-ANT;Sony;Xperia 10 VIII;Funda;Antigolpes;3,10;;;
+SO-XPERIA10-PCA-NA;Sony;Xperia 10 VIII;Protector de cámara;Cristal;2,90;;;
+SO-XACEIII-MAR-COM;Sony;Xperia Ace III;Marco / chasis;Compatible;7,20;;;6
+SO-XACEIII-BOT-COM;Sony;Xperia Ace III;Botones laterales;Compatible;3,70;;;6
+SO-XACEIII-CRI-COM;Sony;Xperia Ace III;Cristal de pantalla;Compatible;3,69;;;6
+SO-XACEIII-ANT-COM;Sony;Xperia Ace III;Antena / coaxial;Compatible;3,20;;;6
+SO-XACEIII-HUE-COM;Sony;Xperia Ace III;Botón home / huella;Compatible;5,30;;;6
+SO-X10IIIL-MAR-COM;Sony;Xperia 10 III Lite;Marco / chasis;Compatible;7,20;;;6
+SO-X10IIIL-BOT-COM;Sony;Xperia 10 III Lite;Botones laterales;Compatible;3,70;;;6
+SO-X10IIIL-CRI-COM;Sony;Xperia 10 III Lite;Cristal de pantalla;Compatible;3,69;;;6
+SO-X10IIIL-ANT-COM;Sony;Xperia 10 III Lite;Antena / coaxial;Compatible;3,20;;;6
+SO-X10IIIL-HUE-COM;Sony;Xperia 10 III Lite;Botón home / huella;Compatible;5,30;;;6
+SO-XACEII-MAR-COM;Sony;Xperia Ace II;Marco / chasis;Compatible;7,20;;;6
+SO-XACEII-BOT-COM;Sony;Xperia Ace II;Botones laterales;Compatible;3,70;;;6
+SO-XACEII-CRI-COM;Sony;Xperia Ace II;Cristal de pantalla;Compatible;3,69;;;6
+SO-XACEII-ANT-COM;Sony;Xperia Ace II;Antena / coaxial;Compatible;3,20;;;6
+SO-XACEII-HUE-COM;Sony;Xperia Ace II;Botón home / huella;Compatible;5,30;;;6
+SO-XPERIAPR-MAR-COM;Sony;Xperia PRO;Marco / chasis;Compatible;7,20;;;6
+SO-XPERIAPR-BOT-COM;Sony;Xperia PRO;Botones laterales;Compatible;3,70;;;6
+SO-XPERIAPR-CRI-COM;Sony;Xperia PRO;Cristal de pantalla;Compatible;3,69;;;6
+SO-XPERIAPR-ANT-COM;Sony;Xperia PRO;Antena / coaxial;Compatible;3,20;;;6
+SO-XPERIAPR-HUE-COM;Sony;Xperia PRO;Botón home / huella;Compatible;5,30;;;6
+SO-X8L-MAR-COM;Sony;Xperia 8 Lite;Marco / chasis;Compatible;7,20;;;6
+SO-X8L-BOT-COM;Sony;Xperia 8 Lite;Botones laterales;Compatible;3,70;;;6
+SO-X8L-CRI-COM;Sony;Xperia 8 Lite;Cristal de pantalla;Compatible;3,69;;;6
+SO-X8L-ANT-COM;Sony;Xperia 8 Lite;Antena / coaxial;Compatible;3,20;;;6
+SO-X8L-HUE-COM;Sony;Xperia 8 Lite;Botón home / huella;Compatible;5,30;;;6
+SO-X8-MAR-COM;Sony;Xperia 8;Marco / chasis;Compatible;6,49;;;6
+SO-X8-BOT-COM;Sony;Xperia 8;Botones laterales;Compatible;3,35;;;6
+SO-X8-CRI-COM;Sony;Xperia 8;Cristal de pantalla;Compatible;3,30;;;6
+SO-X8-ANT-COM;Sony;Xperia 8;Antena / coaxial;Compatible;2,89;;;6
+SO-X8-HUE-COM;Sony;Xperia 8;Botón home / huella;Compatible;4,79;;;6
+SO-XACE-MAR-COM;Sony;Xperia Ace;Marco / chasis;Compatible;6,49;;;6
+SO-XACE-BOT-COM;Sony;Xperia Ace;Botones laterales;Compatible;3,35;;;6
+SO-XACE-CRI-COM;Sony;Xperia Ace;Cristal de pantalla;Compatible;3,30;;;6
+SO-XACE-ANT-COM;Sony;Xperia Ace;Antena / coaxial;Compatible;2,89;;;6
+SO-XACE-HUE-COM;Sony;Xperia Ace;Botón home / huella;Compatible;4,79;;;6
+SO-XR1-MAR-COM;Sony;Xperia R1;Marco / chasis;Compatible;6,49;;;6
+SO-XR1-BOT-COM;Sony;Xperia R1;Botones laterales;Compatible;3,35;;;6
+SO-XR1-CRI-COM;Sony;Xperia R1;Cristal de pantalla;Compatible;3,30;;;6
+SO-XR1-ANT-COM;Sony;Xperia R1;Antena / coaxial;Compatible;2,89;;;6
+SO-XR1-HUE-COM;Sony;Xperia R1;Botón home / huella;Compatible;4,79;;;6
+SO-XR1PL-MAR-COM;Sony;Xperia R1 Plus;Marco / chasis;Compatible;6,49;;;6
+SO-XR1PL-BOT-COM;Sony;Xperia R1 Plus;Botones laterales;Compatible;3,35;;;6
+SO-XR1PL-CRI-COM;Sony;Xperia R1 Plus;Cristal de pantalla;Compatible;3,30;;;6
+SO-XR1PL-ANT-COM;Sony;Xperia R1 Plus;Antena / coaxial;Compatible;2,89;;;6
+SO-XR1PL-HUE-COM;Sony;Xperia R1 Plus;Botón home / huella;Compatible;4,79;;;6
+SO-XXZSP-MAR-COM;Sony;Xperia XZs Premium;Marco / chasis;Compatible;8,80;;;6
+SO-XXZSP-BOT-COM;Sony;Xperia XZs Premium;Botones laterales;Compatible;4,50;;;6
+SO-XXZSP-CRI-COM;Sony;Xperia XZs Premium;Cristal de pantalla;Compatible;4,50;;;6
+SO-XXZSP-ANT-COM;Sony;Xperia XZs Premium;Antena / coaxial;Compatible;3,90;;;6
+SO-XXZSP-HUE-COM;Sony;Xperia XZs Premium;Botón home / huella;Compatible;6,50;;;6
+SO-XM5-MAR-COM;Sony;Xperia M5;Marco / chasis;Compatible;5,75;;;6
+SO-XM5-BOT-COM;Sony;Xperia M5;Botones laterales;Compatible;2,95;;;6
+SO-XM5-CRI-COM;Sony;Xperia M5;Cristal de pantalla;Compatible;2,95;;;6
+SO-XM5-ANT-COM;Sony;Xperia M5;Antena / coaxial;Compatible;2,55;;;6
+SO-XC5U-MAR-COM;Sony;Xperia C5 Ultra;Marco / chasis;Compatible;5,75;;;6
+SO-XC5U-BOT-COM;Sony;Xperia C5 Ultra;Botones laterales;Compatible;2,95;;;6
+SO-XC5U-CRI-COM;Sony;Xperia C5 Ultra;Cristal de pantalla;Compatible;2,95;;;6
+SO-XC5U-ANT-COM;Sony;Xperia C5 Ultra;Antena / coaxial;Compatible;2,55;;;6
+SO-XA4-MAR-COM;Sony;Xperia A4;Marco / chasis;Compatible;5,75;;;6
+SO-XA4-BOT-COM;Sony;Xperia A4;Botones laterales;Compatible;2,95;;;6
+SO-XA4-CRI-COM;Sony;Xperia A4;Cristal de pantalla;Compatible;2,95;;;6
+SO-XA4-ANT-COM;Sony;Xperia A4;Antena / coaxial;Compatible;2,55;;;6
+SO-XZ4-MAR-COM;Sony;Xperia Z4;Marco / chasis;Compatible;5,75;;;6
+SO-XZ4-BOT-COM;Sony;Xperia Z4;Botones laterales;Compatible;2,95;;;6
+SO-XZ4-CRI-COM;Sony;Xperia Z4;Cristal de pantalla;Compatible;2,95;;;6
+SO-XZ4-ANT-COM;Sony;Xperia Z4;Antena / coaxial;Compatible;2,55;;;6
+SO-XZ4V-MAR-COM;Sony;Xperia Z4v;Marco / chasis;Compatible;5,75;;;6
+SO-XZ4V-BOT-COM;Sony;Xperia Z4v;Botones laterales;Compatible;2,95;;;6
+SO-XZ4V-CRI-COM;Sony;Xperia Z4v;Cristal de pantalla;Compatible;2,95;;;6
+SO-XZ4V-ANT-COM;Sony;Xperia Z4v;Antena / coaxial;Compatible;2,55;;;6
+SO-XC4-MAR-COM;Sony;Xperia C4;Marco / chasis;Compatible;5,75;;;6
+SO-XC4-BOT-COM;Sony;Xperia C4;Botones laterales;Compatible;2,95;;;6
+SO-XC4-CRI-COM;Sony;Xperia C4;Cristal de pantalla;Compatible;2,95;;;6
+SO-XC4-ANT-COM;Sony;Xperia C4;Antena / coaxial;Compatible;2,55;;;6
+SO-XZ3PL-MAR-COM;Sony;Xperia Z3+;Marco / chasis;Compatible;5,75;;;6
+SO-XZ3PL-BOT-COM;Sony;Xperia Z3+;Botones laterales;Compatible;2,95;;;6
+SO-XZ3PL-CRI-COM;Sony;Xperia Z3+;Cristal de pantalla;Compatible;2,95;;;6
+SO-XZ3PL-ANT-COM;Sony;Xperia Z3+;Antena / coaxial;Compatible;2,55;;;6
+SO-XE4-MAR-COM;Sony;Xperia E4;Marco / chasis;Compatible;5,75;;;6
+SO-XE4-BOT-COM;Sony;Xperia E4;Botones laterales;Compatible;2,95;;;6
+SO-XE4-CRI-COM;Sony;Xperia E4;Cristal de pantalla;Compatible;2,95;;;6
+SO-XE4-ANT-COM;Sony;Xperia E4;Antena / coaxial;Compatible;2,55;;;6
+SO-XE4G-MAR-COM;Sony;Xperia E4g;Marco / chasis;Compatible;5,75;;;6
+SO-XE4G-BOT-COM;Sony;Xperia E4g;Botones laterales;Compatible;2,95;;;6
+SO-XE4G-CRI-COM;Sony;Xperia E4g;Cristal de pantalla;Compatible;2,95;;;6
+SO-XE4G-ANT-COM;Sony;Xperia E4g;Antena / coaxial;Compatible;2,55;;;6
+SO-XM4A-MAR-COM;Sony;Xperia M4 Aqua;Marco / chasis;Compatible;5,75;;;6
+SO-XM4A-BOT-COM;Sony;Xperia M4 Aqua;Botones laterales;Compatible;2,95;;;6
+SO-XM4A-CRI-COM;Sony;Xperia M4 Aqua;Cristal de pantalla;Compatible;2,95;;;6
+SO-XM4A-ANT-COM;Sony;Xperia M4 Aqua;Antena / coaxial;Compatible;2,55;;;6
+SO-XZ3-MAR-COM;Sony;Xperia Z3;Marco / chasis;Compatible;5,75;;;6
+SO-XZ3-BOT-COM;Sony;Xperia Z3;Botones laterales;Compatible;2,95;;;6
+SO-XZ3-ANT-COM;Sony;Xperia Z3;Antena / coaxial;Compatible;2,55;;;6
+SO-XZ3C-MAR-COM;Sony;Xperia Z3 Compact;Marco / chasis;Compatible;6,59;;;6
+SO-XZ3C-BOT-COM;Sony;Xperia Z3 Compact;Botones laterales;Compatible;3,39;;;6
+SO-XZ3C-ANT-COM;Sony;Xperia Z3 Compact;Antena / coaxial;Compatible;2,90;;;6
+SO-XE3-MAR-COM;Sony;Xperia E3;Marco / chasis;Compatible;5,75;;;6
+SO-XE3-BOT-COM;Sony;Xperia E3;Botones laterales;Compatible;2,95;;;6
+SO-XE3-ANT-COM;Sony;Xperia E3;Antena / coaxial;Compatible;2,55;;;6
+SO-XC3-MAR-COM;Sony;Xperia C3;Marco / chasis;Compatible;5,75;;;6
+SO-XC3-BOT-COM;Sony;Xperia C3;Botones laterales;Compatible;2,95;;;6
+SO-XC3-ANT-COM;Sony;Xperia C3;Antena / coaxial;Compatible;2,55;;;6
+SO-XT3-MAR-COM;Sony;Xperia T3;Marco / chasis;Compatible;5,75;;;6
+SO-XT3-BOT-COM;Sony;Xperia T3;Botones laterales;Compatible;2,95;;;6
+SO-XT3-ANT-COM;Sony;Xperia T3;Antena / coaxial;Compatible;2,55;;;6
+SO-XA2-MAR-COM;Sony;Xperia A2;Marco / chasis;Compatible;5,75;;;6
+SO-XA2-BOT-COM;Sony;Xperia A2;Botones laterales;Compatible;2,95;;;6
+SO-XA2-ANT-COM;Sony;Xperia A2;Antena / coaxial;Compatible;2,55;;;6
+SO-XJ1C-MAR-COM;Sony;Xperia J1 Compact;Marco / chasis;Compatible;6,59;;;6
+SO-XJ1C-BOT-COM;Sony;Xperia J1 Compact;Botones laterales;Compatible;3,39;;;6
+SO-XJ1C-ANT-COM;Sony;Xperia J1 Compact;Antena / coaxial;Compatible;2,90;;;6
+SO-XZ2A-MAR-COM;Sony;Xperia Z2a;Marco / chasis;Compatible;5,75;;;6
+SO-XZ2A-BOT-COM;Sony;Xperia Z2a;Botones laterales;Compatible;2,95;;;6
+SO-XZ2A-ANT-COM;Sony;Xperia Z2a;Antena / coaxial;Compatible;2,55;;;6
+SO-XZL2-MAR-COM;Sony;Xperia ZL2;Marco / chasis;Compatible;5,75;;;6
+SO-XZL2-BOT-COM;Sony;Xperia ZL2;Botones laterales;Compatible;2,95;;;6
+SO-XZL2-ANT-COM;Sony;Xperia ZL2;Antena / coaxial;Compatible;2,55;;;6
+SO-XM2-MAR-COM;Sony;Xperia M2;Marco / chasis;Compatible;5,75;;;6
+SO-XM2-BOT-COM;Sony;Xperia M2;Botones laterales;Compatible;2,95;;;6
+SO-XM2-ANT-COM;Sony;Xperia M2;Antena / coaxial;Compatible;2,55;;;6
+SO-XT2U-MAR-COM;Sony;Xperia T2 Ultra;Marco / chasis;Compatible;5,75;;;6
+SO-XT2U-BOT-COM;Sony;Xperia T2 Ultra;Botones laterales;Compatible;2,95;;;6
+SO-XT2U-ANT-COM;Sony;Xperia T2 Ultra;Antena / coaxial;Compatible;2,55;;;6
+SO-XZ2-MAR-COM;Sony;Xperia Z2;Marco / chasis;Compatible;5,75;;;6
+SO-XZ2-BOT-COM;Sony;Xperia Z2;Botones laterales;Compatible;2,95;;;6
+SO-XZ2-ANT-COM;Sony;Xperia Z2;Antena / coaxial;Compatible;2,55;;;6
+SO-XE1-MAR-COM;Sony;Xperia E1;Marco / chasis;Compatible;5,75;;;6
+SO-XE1-BOT-COM;Sony;Xperia E1;Botones laterales;Compatible;2,95;;;6
+SO-XE1-ANT-COM;Sony;Xperia E1;Antena / coaxial;Compatible;2,55;;;6
+SO-XZ1C-MAR-COM;Sony;Xperia Z1 Compact;Marco / chasis;Compatible;6,59;;;6
+SO-XZ1C-BOT-COM;Sony;Xperia Z1 Compact;Botones laterales;Compatible;3,39;;;6
+SO-XZ1C-ANT-COM;Sony;Xperia Z1 Compact;Antena / coaxial;Compatible;2,90;;;6
+SO-XZ1-MAR-COM;Sony;Xperia Z1;Marco / chasis;Compatible;5,75;;;6
+SO-XZ1-BOT-COM;Sony;Xperia Z1;Botones laterales;Compatible;2,95;;;6
+SO-XZ1-ANT-COM;Sony;Xperia Z1;Antena / coaxial;Compatible;2,55;;;6
+SO-XZ1S-MAR-COM;Sony;Xperia Z1s;Marco / chasis;Compatible;5,75;;;6
+SO-XZ1S-BOT-COM;Sony;Xperia Z1s;Botones laterales;Compatible;2,95;;;6
+SO-XZ1S-ANT-COM;Sony;Xperia Z1s;Antena / coaxial;Compatible;2,55;;;6
+SO-XMD-MAR-COM;Sony;Xperia M dual;Marco / chasis;Compatible;5,75;;;6
+SO-XMD-BOT-COM;Sony;Xperia M dual;Botones laterales;Compatible;2,95;;;6
+SO-XMD-ANT-COM;Sony;Xperia M dual;Antena / coaxial;Compatible;2,55;;;6
+SO-XC-MAR-COM;Sony;Xperia C;Marco / chasis;Compatible;5,75;;;6
+SO-XC-BOT-COM;Sony;Xperia C;Botones laterales;Compatible;2,95;;;6
+SO-XC-ANT-COM;Sony;Xperia C;Antena / coaxial;Compatible;2,55;;;6
+SO-XZU-MAR-COM;Sony;Xperia Z Ultra;Marco / chasis;Compatible;5,75;;;6
+SO-XZU-BOT-COM;Sony;Xperia Z Ultra;Botones laterales;Compatible;2,95;;;6
+SO-XZU-ANT-COM;Sony;Xperia Z Ultra;Antena / coaxial;Compatible;2,55;;;6
+SO-XPERIAM-MAR-COM;Sony;Xperia M;Marco / chasis;Compatible;5,75;;;6
+SO-XPERIAM-BOT-COM;Sony;Xperia M;Botones laterales;Compatible;2,95;;;6
+SO-XPERIAM-ANT-COM;Sony;Xperia M;Antena / coaxial;Compatible;2,55;;;6
+SO-XUL-MAR-COM;Sony;Xperia UL;Marco / chasis;Compatible;5,75;;;6
+SO-XUL-BOT-COM;Sony;Xperia UL;Botones laterales;Compatible;2,95;;;6
+SO-XUL-ANT-COM;Sony;Xperia UL;Antena / coaxial;Compatible;2,55;;;6
+SO-XZR-MAR-COM;Sony;Xperia ZR;Marco / chasis;Compatible;5,75;;;6
+SO-XZR-BOT-COM;Sony;Xperia ZR;Botones laterales;Compatible;2,95;;;6
+SO-XZR-ANT-COM;Sony;Xperia ZR;Antena / coaxial;Compatible;2,55;;;6
+SO-XE-MAR-COM;Sony;Xperia E;Marco / chasis;Compatible;5,75;;;6
+SO-XE-BOT-COM;Sony;Xperia E;Botones laterales;Compatible;2,95;;;6
+SO-XE-ANT-COM;Sony;Xperia E;Antena / coaxial;Compatible;2,55;;;6
+SO-XED-MAR-COM;Sony;Xperia E dual;Marco / chasis;Compatible;5,75;;;6
+SO-XED-BOT-COM;Sony;Xperia E dual;Botones laterales;Compatible;2,95;;;6
+SO-XED-ANT-COM;Sony;Xperia E dual;Antena / coaxial;Compatible;2,55;;;6
+SO-XL-MAR-COM;Sony;Xperia L;Marco / chasis;Compatible;5,75;;;6
+SO-XL-BOT-COM;Sony;Xperia L;Botones laterales;Compatible;2,95;;;6
+SO-XL-ANT-COM;Sony;Xperia L;Antena / coaxial;Compatible;2,55;;;6
+SO-XSP-MAR-COM;Sony;Xperia SP;Marco / chasis;Compatible;5,75;;;6
+SO-XSP-BOT-COM;Sony;Xperia SP;Botones laterales;Compatible;2,95;;;6
+SO-XSP-ANT-COM;Sony;Xperia SP;Antena / coaxial;Compatible;2,55;;;6
+SO-XZL-MAR-COM;Sony;Xperia ZL;Marco / chasis;Compatible;5,75;;;6
+SO-XZL-BOT-COM;Sony;Xperia ZL;Botones laterales;Compatible;2,95;;;6
+SO-XZL-ANT-COM;Sony;Xperia ZL;Antena / coaxial;Compatible;2,55;;;6
+SO-XZ-MAR-COM;Sony;Xperia Z;Marco / chasis;Compatible;5,75;;;6
+SO-XZ-BOT-COM;Sony;Xperia Z;Botones laterales;Compatible;2,95;;;6
+SO-XZ-ANT-COM;Sony;Xperia Z;Antena / coaxial;Compatible;2,55;;;6
+SO-XV-ANT-COM;Sony;Xperia V;Antena / coaxial;Compatible;2,55;;;6
+SO-XPERIAT-ANT-COM;Sony;Xperia T;Antena / coaxial;Compatible;2,55;;;6
+SO-XTX-ANT-COM;Sony;Xperia TX;Antena / coaxial;Compatible;2,55;;;6
+SO-XM-ANT-COM;Sony;Xperia miro;Antena / coaxial;Compatible;2,55;;;6
+SO-XSL-ANT-COM;Sony;Xperia SL;Antena / coaxial;Compatible;2,55;;;6
+SO-XJ-ANT-COM;Sony;Xperia J;Antena / coaxial;Compatible;2,55;;;6
+SO-XSX-ANT-COM;Sony;Xperia SX;Antena / coaxial;Compatible;2,55;;;6
+SO-XT-ANT-COM;Sony;Xperia Tipo;Antena / coaxial;Compatible;2,55;;;6
+SO-XTD-ANT-COM;Sony;Xperia tipo dual;Antena / coaxial;Compatible;2,55;;;6
+SO-XA-ANT-COM;Sony;Xperia advance;Antena / coaxial;Compatible;2,55;;;6
+SO-XAGO-ANT-COM;Sony;Xperia advance go;Antena / coaxial;Compatible;2,55;;;6
+SO-XNEOL-ANT-COM;Sony;Xperia neo L;Antena / coaxial;Compatible;2,55;;;6
+SO-XPERIASO-ANT-COM;Sony;Xperia Sola;Antena / coaxial;Compatible;2,55;;;6
+SO-XU-ANT-COM;Sony;Xperia U;Antena / coaxial;Compatible;2,55;;;6
+SO-XP-ANT-COM;Sony;Xperia P;Antena / coaxial;Compatible;2,55;;;6
+SO-XAHD-ANT-COM;Sony;Xperia acro HD;Antena / coaxial;Compatible;2,55;;;6
+SO-XAHDIS12-ANT-COM;Sony;Xperia acro HD IS12S;Antena / coaxial;Compatible;2,55;;;6
+SO-XION-ANT-COM;Sony;Xperia Ion;Antena / coaxial;Compatible;2,55;;;6
+SO-XS-ANT-COM;Sony;Xperia S;Antena / coaxial;Compatible;2,55;;;6
+SO-XAS-ANT-COM;Sony;Xperia acro S;Antena / coaxial;Compatible;2,55;;;6
+SO-XGO-ANT-COM;Sony;Xperia Go;Antena / coaxial;Compatible;2,55;;;6
+SO-XZ5-MAR-COM;Sony;Xperia Z5;Marco / chasis;Compatible;7,85;;;6
+SO-XZ5-BOT-COM;Sony;Xperia Z5;Botones laterales;Compatible;4,00;;;6
+SO-XZ5-CRI-COM;Sony;Xperia Z5;Cristal de pantalla;Compatible;4,00;;;6
+SO-XZ5-ANT-COM;Sony;Xperia Z5;Antena / coaxial;Compatible;3,49;;;6
+SO-XZ5C-MAR-COM;Sony;Xperia Z5 Compact;Marco / chasis;Compatible;6,59;;;6
+SO-XZ5C-BOT-COM;Sony;Xperia Z5 Compact;Botones laterales;Compatible;3,39;;;6
+SO-XZ5C-CRI-COM;Sony;Xperia Z5 Compact;Cristal de pantalla;Compatible;3,35;;;6
+SO-XZ5C-ANT-COM;Sony;Xperia Z5 Compact;Antena / coaxial;Compatible;2,90;;;6
+SO-XZ5P-MAR-COM;Sony;Xperia Z5 Premium;Marco / chasis;Compatible;7,85;;;6
+SO-XZ5P-BOT-COM;Sony;Xperia Z5 Premium;Botones laterales;Compatible;4,00;;;6
+SO-XZ5P-CRI-COM;Sony;Xperia Z5 Premium;Cristal de pantalla;Compatible;4,00;;;6
+SO-XZ5P-ANT-COM;Sony;Xperia Z5 Premium;Antena / coaxial;Compatible;3,49;;;6
+SO-XXP-MAR-COM;Sony;Xperia X Performance;Marco / chasis;Compatible;6,59;;;6
+SO-XXP-BOT-COM;Sony;Xperia X Performance;Botones laterales;Compatible;3,39;;;6
+SO-XXP-CRI-COM;Sony;Xperia X Performance;Cristal de pantalla;Compatible;3,35;;;6
+SO-XXP-ANT-COM;Sony;Xperia X Performance;Antena / coaxial;Compatible;2,90;;;6
+SO-XXP-HUE-COM;Sony;Xperia X Performance;Botón home / huella;Compatible;4,85;;;6
+SO-XE5-MAR-COM;Sony;Xperia E5;Marco / chasis;Compatible;5,75;;;6
+SO-XE5-BOT-COM;Sony;Xperia E5;Botones laterales;Compatible;2,95;;;6
+SO-XE5-CRI-COM;Sony;Xperia E5;Cristal de pantalla;Compatible;2,95;;;6
+SO-XE5-ANT-COM;Sony;Xperia E5;Antena / coaxial;Compatible;2,55;;;6
+SO-XE5-HUE-COM;Sony;Xperia E5;Botón home / huella;Compatible;4,25;;;6
+SO-XX-MAR-COM;Sony;Xperia X;Marco / chasis;Compatible;5,75;;;6
+SO-XX-BOT-COM;Sony;Xperia X;Botones laterales;Compatible;2,95;;;6
+SO-XX-CRI-COM;Sony;Xperia X;Cristal de pantalla;Compatible;2,95;;;6
+SO-XX-ANT-COM;Sony;Xperia X;Antena / coaxial;Compatible;2,55;;;6
+SO-XX-HUE-COM;Sony;Xperia X;Botón home / huella;Compatible;4,25;;;6
+SO-XXA-MAR-COM;Sony;Xperia XA;Marco / chasis;Compatible;5,75;;;6
+SO-XXA-BOT-COM;Sony;Xperia XA;Botones laterales;Compatible;2,95;;;6
+SO-XXA-CRI-COM;Sony;Xperia XA;Cristal de pantalla;Compatible;2,95;;;6
+SO-XXA-ANT-COM;Sony;Xperia XA;Antena / coaxial;Compatible;2,55;;;6
+SO-XXA-HUE-COM;Sony;Xperia XA;Botón home / huella;Compatible;4,25;;;6
+SO-XXAU-MAR-COM;Sony;Xperia XA Ultra;Marco / chasis;Compatible;5,75;;;6
+SO-XXAU-BOT-COM;Sony;Xperia XA Ultra;Botones laterales;Compatible;2,95;;;6
+SO-XXAU-CRI-COM;Sony;Xperia XA Ultra;Cristal de pantalla;Compatible;2,95;;;6
+SO-XXAU-ANT-COM;Sony;Xperia XA Ultra;Antena / coaxial;Compatible;2,55;;;6
+SO-XXAU-HUE-COM;Sony;Xperia XA Ultra;Botón home / huella;Compatible;4,25;;;6
+SO-XXC-MAR-COM;Sony;Xperia X Compact;Marco / chasis;Compatible;6,59;;;6
+SO-XXC-BOT-COM;Sony;Xperia X Compact;Botones laterales;Compatible;3,39;;;6
+SO-XXC-CRI-COM;Sony;Xperia X Compact;Cristal de pantalla;Compatible;3,35;;;6
+SO-XXC-ANT-COM;Sony;Xperia X Compact;Antena / coaxial;Compatible;2,90;;;6
+SO-XXC-HUE-COM;Sony;Xperia X Compact;Botón home / huella;Compatible;4,85;;;6
+SO-XXZ-MAR-COM;Sony;Xperia XZ;Marco / chasis;Compatible;7,85;;;6
+SO-XXZ-BOT-COM;Sony;Xperia XZ;Botones laterales;Compatible;4,00;;;6
+SO-XXZ-CRI-COM;Sony;Xperia XZ;Cristal de pantalla;Compatible;4,00;;;6
+SO-XXZ-ANT-COM;Sony;Xperia XZ;Antena / coaxial;Compatible;3,49;;;6
+SO-XXZ-HUE-COM;Sony;Xperia XZ;Botón home / huella;Compatible;5,79;;;6
+SO-XXA1-MAR-COM;Sony;Xperia XA1;Marco / chasis;Compatible;6,49;;;6
+SO-XXA1-BOT-COM;Sony;Xperia XA1;Botones laterales;Compatible;3,35;;;6
+SO-XXA1-CRI-COM;Sony;Xperia XA1;Cristal de pantalla;Compatible;3,30;;;6
+SO-XXA1-ANT-COM;Sony;Xperia XA1;Antena / coaxial;Compatible;2,89;;;6
+SO-XXA1-HUE-COM;Sony;Xperia XA1;Botón home / huella;Compatible;4,79;;;6
+SO-XXZS-MAR-COM;Sony;Xperia XZs;Marco / chasis;Compatible;8,80;;;6
+SO-XXZS-BOT-COM;Sony;Xperia XZs;Botones laterales;Compatible;4,50;;;6
+SO-XXZS-CRI-COM;Sony;Xperia XZs;Cristal de pantalla;Compatible;4,50;;;6
+SO-XXZS-ANT-COM;Sony;Xperia XZs;Antena / coaxial;Compatible;3,90;;;6
+SO-XXZS-HUE-COM;Sony;Xperia XZs;Botón home / huella;Compatible;6,50;;;6
+SO-XXA1U-MAR-COM;Sony;Xperia XA1 Ultra;Marco / chasis;Compatible;6,49;;;6
+SO-XXA1U-BOT-COM;Sony;Xperia XA1 Ultra;Botones laterales;Compatible;3,35;;;6
+SO-XXA1U-CRI-COM;Sony;Xperia XA1 Ultra;Cristal de pantalla;Compatible;3,30;;;6
+SO-XXA1U-ANT-COM;Sony;Xperia XA1 Ultra;Antena / coaxial;Compatible;2,89;;;6
+SO-XXA1U-HUE-COM;Sony;Xperia XA1 Ultra;Botón home / huella;Compatible;4,79;;;6
+SO-XL1-MAR-COM;Sony;Xperia L1;Marco / chasis;Compatible;5,65;;;6
+SO-XL1-BOT-COM;Sony;Xperia L1;Botones laterales;Compatible;2,89;;;6
+SO-XL1-CRI-COM;Sony;Xperia L1;Cristal de pantalla;Compatible;2,89;;;6
+SO-XL1-ANT-COM;Sony;Xperia L1;Antena / coaxial;Compatible;2,50;;;6
+SO-XL1-HUE-COM;Sony;Xperia L1;Botón home / huella;Compatible;4,15;;;6
+SO-XXZP-MAR-COM;Sony;Xperia XZ Premium;Marco / chasis;Compatible;8,80;;;6
+SO-XXZP-BOT-COM;Sony;Xperia XZ Premium;Botones laterales;Compatible;4,50;;;6
+SO-XXZP-CRI-COM;Sony;Xperia XZ Premium;Cristal de pantalla;Compatible;4,50;;;6
+SO-XXZP-ANT-COM;Sony;Xperia XZ Premium;Antena / coaxial;Compatible;3,90;;;6
+SO-XXZP-HUE-COM;Sony;Xperia XZ Premium;Botón home / huella;Compatible;6,50;;;6
+SO-XXZ1-MAR-COM;Sony;Xperia XZ1;Marco / chasis;Compatible;8,80;;;6
+SO-XXZ1-BOT-COM;Sony;Xperia XZ1;Botones laterales;Compatible;4,50;;;6
+SO-XXZ1-CRI-COM;Sony;Xperia XZ1;Cristal de pantalla;Compatible;4,50;;;6
+SO-XXZ1-ANT-COM;Sony;Xperia XZ1;Antena / coaxial;Compatible;3,90;;;6
+SO-XXZ1-HUE-COM;Sony;Xperia XZ1;Botón home / huella;Compatible;6,50;;;6
+SO-XXZ1C-MAR-COM;Sony;Xperia XZ1 Compact;Marco / chasis;Compatible;7,40;;;6
+SO-XXZ1C-BOT-COM;Sony;Xperia XZ1 Compact;Botones laterales;Compatible;3,80;;;6
+SO-XXZ1C-CRI-COM;Sony;Xperia XZ1 Compact;Cristal de pantalla;Compatible;3,79;;;6
+SO-XXZ1C-ANT-COM;Sony;Xperia XZ1 Compact;Antena / coaxial;Compatible;3,29;;;6
+SO-XXZ1C-HUE-COM;Sony;Xperia XZ1 Compact;Botón home / huella;Compatible;5,45;;;6
+SO-XXA1PL-MAR-COM;Sony;Xperia XA1 Plus;Marco / chasis;Compatible;6,49;;;6
+SO-XXA1PL-BOT-COM;Sony;Xperia XA1 Plus;Botones laterales;Compatible;3,35;;;6
+SO-XXA1PL-CRI-COM;Sony;Xperia XA1 Plus;Cristal de pantalla;Compatible;3,30;;;6
+SO-XXA1PL-ANT-COM;Sony;Xperia XA1 Plus;Antena / coaxial;Compatible;2,89;;;6
+SO-XXA1PL-HUE-COM;Sony;Xperia XA1 Plus;Botón home / huella;Compatible;4,79;;;6
+SO-XL2-MAR-COM;Sony;Xperia L2;Marco / chasis;Compatible;5,65;;;6
+SO-XL2-BOT-COM;Sony;Xperia L2;Botones laterales;Compatible;2,89;;;6
+SO-XL2-CRI-COM;Sony;Xperia L2;Cristal de pantalla;Compatible;2,89;;;6
+SO-XL2-ANT-COM;Sony;Xperia L2;Antena / coaxial;Compatible;2,50;;;6
+SO-XL2-HUE-COM;Sony;Xperia L2;Botón home / huella;Compatible;4,15;;;6
+SO-XXA2-MAR-COM;Sony;Xperia XA2;Marco / chasis;Compatible;6,49;;;6
+SO-XXA2-BOT-COM;Sony;Xperia XA2;Botones laterales;Compatible;3,35;;;6
+SO-XXA2-CRI-COM;Sony;Xperia XA2;Cristal de pantalla;Compatible;3,30;;;6
+SO-XXA2-ANT-COM;Sony;Xperia XA2;Antena / coaxial;Compatible;2,89;;;6
+SO-XXA2-HUE-COM;Sony;Xperia XA2;Botón home / huella;Compatible;4,79;;;6
+SO-XXA2U-MAR-COM;Sony;Xperia XA2 Ultra;Marco / chasis;Compatible;6,49;;;6
+SO-XXA2U-BOT-COM;Sony;Xperia XA2 Ultra;Botones laterales;Compatible;3,35;;;6
+SO-XXA2U-CRI-COM;Sony;Xperia XA2 Ultra;Cristal de pantalla;Compatible;3,30;;;6
+SO-XXA2U-ANT-COM;Sony;Xperia XA2 Ultra;Antena / coaxial;Compatible;2,89;;;6
+SO-XXA2U-HUE-COM;Sony;Xperia XA2 Ultra;Botón home / huella;Compatible;4,79;;;6
+SO-XXZ2-MAR-COM;Sony;Xperia XZ2;Marco / chasis;Compatible;8,80;;;6
+SO-XXZ2-BOT-COM;Sony;Xperia XZ2;Botones laterales;Compatible;4,50;;;6
+SO-XXZ2-CRI-COM;Sony;Xperia XZ2;Cristal de pantalla;Compatible;4,50;;;6
+SO-XXZ2-ANT-COM;Sony;Xperia XZ2;Antena / coaxial;Compatible;3,90;;;6
+SO-XXZ2-HUE-COM;Sony;Xperia XZ2;Botón home / huella;Compatible;6,50;;;6
+SO-XXZ2C-MAR-COM;Sony;Xperia XZ2 Compact;Marco / chasis;Compatible;7,40;;;6
+SO-XXZ2C-BOT-COM;Sony;Xperia XZ2 Compact;Botones laterales;Compatible;3,80;;;6
+SO-XXZ2C-CRI-COM;Sony;Xperia XZ2 Compact;Cristal de pantalla;Compatible;3,79;;;6
+SO-XXZ2C-ANT-COM;Sony;Xperia XZ2 Compact;Antena / coaxial;Compatible;3,29;;;6
+SO-XXZ2C-HUE-COM;Sony;Xperia XZ2 Compact;Botón home / huella;Compatible;5,45;;;6
+SO-XXA2PL-MAR-COM;Sony;Xperia XA2 Plus;Marco / chasis;Compatible;6,49;;;6
+SO-XXA2PL-BOT-COM;Sony;Xperia XA2 Plus;Botones laterales;Compatible;3,35;;;6
+SO-XXA2PL-CRI-COM;Sony;Xperia XA2 Plus;Cristal de pantalla;Compatible;3,30;;;6
+SO-XXA2PL-ANT-COM;Sony;Xperia XA2 Plus;Antena / coaxial;Compatible;2,89;;;6
+SO-XXA2PL-HUE-COM;Sony;Xperia XA2 Plus;Botón home / huella;Compatible;4,79;;;6
+SO-XXZ2P-MAR-COM;Sony;Xperia XZ2 Premium;Marco / chasis;Compatible;8,80;;;6
+SO-XXZ2P-BOT-COM;Sony;Xperia XZ2 Premium;Botones laterales;Compatible;4,50;;;6
+SO-XXZ2P-CRI-COM;Sony;Xperia XZ2 Premium;Cristal de pantalla;Compatible;4,50;;;6
+SO-XXZ2P-ANT-COM;Sony;Xperia XZ2 Premium;Antena / coaxial;Compatible;3,90;;;6
+SO-XXZ2P-HUE-COM;Sony;Xperia XZ2 Premium;Botón home / huella;Compatible;6,50;;;6
+SO-XXZ3-MAR-COM;Sony;Xperia XZ3;Marco / chasis;Compatible;8,80;;;6
+SO-XXZ3-BOT-COM;Sony;Xperia XZ3;Botones laterales;Compatible;4,50;;;6
+SO-XXZ3-CRI-COM;Sony;Xperia XZ3;Cristal de pantalla;Compatible;4,50;;;6
+SO-XXZ3-ANT-COM;Sony;Xperia XZ3;Antena / coaxial;Compatible;3,90;;;6
+SO-XXZ3-HUE-COM;Sony;Xperia XZ3;Botón home / huella;Compatible;6,50;;;6
+SO-X10-MAR-COM;Sony;Xperia 10;Marco / chasis;Compatible;6,49;;;6
+SO-X10-BOT-COM;Sony;Xperia 10;Botones laterales;Compatible;3,35;;;6
+SO-X10-CRI-COM;Sony;Xperia 10;Cristal de pantalla;Compatible;3,30;;;6
+SO-X10-ANT-COM;Sony;Xperia 10;Antena / coaxial;Compatible;2,89;;;6
+SO-X10-HUE-COM;Sony;Xperia 10;Botón home / huella;Compatible;4,79;;;6
+SO-X10PL-MAR-COM;Sony;Xperia 10 Plus;Marco / chasis;Compatible;6,49;;;6
+SO-X10PL-BOT-COM;Sony;Xperia 10 Plus;Botones laterales;Compatible;3,35;;;6
+SO-X10PL-CRI-COM;Sony;Xperia 10 Plus;Cristal de pantalla;Compatible;3,30;;;6
+SO-X10PL-ANT-COM;Sony;Xperia 10 Plus;Antena / coaxial;Compatible;2,89;;;6
+SO-X10PL-HUE-COM;Sony;Xperia 10 Plus;Botón home / huella;Compatible;4,79;;;6
+SO-XL3-MAR-COM;Sony;Xperia L3;Marco / chasis;Compatible;5,65;;;6
+SO-XL3-BOT-COM;Sony;Xperia L3;Botones laterales;Compatible;2,89;;;6
+SO-XL3-CRI-COM;Sony;Xperia L3;Cristal de pantalla;Compatible;2,89;;;6
+SO-XL3-ANT-COM;Sony;Xperia L3;Antena / coaxial;Compatible;2,50;;;6
+SO-XL3-HUE-COM;Sony;Xperia L3;Botón home / huella;Compatible;4,15;;;6
+SO-X1-MAR-COM;Sony;Xperia 1;Marco / chasis;Compatible;8,80;;;6
+SO-X1-BOT-COM;Sony;Xperia 1;Botones laterales;Compatible;4,50;;;6
+SO-X1-CRI-COM;Sony;Xperia 1;Cristal de pantalla;Compatible;4,50;;;6
+SO-X1-ANT-COM;Sony;Xperia 1;Antena / coaxial;Compatible;3,90;;;6
+SO-X1-HUE-COM;Sony;Xperia 1;Botón home / huella;Compatible;6,50;;;6
+SO-X1-NFC-COM;Sony;Xperia 1;NFC y carga inalámbrica;Compatible;8,75;;;6
+SO-X5-MAR-COM;Sony;Xperia 5;Marco / chasis;Compatible;8,80;;;6
+SO-X5-BOT-COM;Sony;Xperia 5;Botones laterales;Compatible;4,50;;;6
+SO-X5-CRI-COM;Sony;Xperia 5;Cristal de pantalla;Compatible;4,50;;;6
+SO-X5-ANT-COM;Sony;Xperia 5;Antena / coaxial;Compatible;3,90;;;6
+SO-X5-HUE-COM;Sony;Xperia 5;Botón home / huella;Compatible;6,50;;;6
+SO-X5-NFC-COM;Sony;Xperia 5;NFC y carga inalámbrica;Compatible;8,75;;;6
+SO-XL4-MAR-COM;Sony;Xperia L4;Marco / chasis;Compatible;6,25;;;6
+SO-XL4-BOT-COM;Sony;Xperia L4;Botones laterales;Compatible;3,20;;;6
+SO-XL4-CRI-COM;Sony;Xperia L4;Cristal de pantalla;Compatible;3,20;;;6
+SO-XL4-ANT-COM;Sony;Xperia L4;Antena / coaxial;Compatible;2,79;;;6
+SO-XL4-HUE-COM;Sony;Xperia L4;Botón home / huella;Compatible;4,60;;;6
+SO-X10II-MAR-COM;Sony;Xperia 10 II;Marco / chasis;Compatible;7,20;;;6
+SO-X10II-BOT-COM;Sony;Xperia 10 II;Botones laterales;Compatible;3,70;;;6
+SO-X10II-CRI-COM;Sony;Xperia 10 II;Cristal de pantalla;Compatible;3,69;;;6
+SO-X10II-ANT-COM;Sony;Xperia 10 II;Antena / coaxial;Compatible;3,20;;;6
+SO-X10II-HUE-COM;Sony;Xperia 10 II;Botón home / huella;Compatible;5,30;;;6
+SO-X1II-MAR-COM;Sony;Xperia 1 II;Marco / chasis;Compatible;9,79;;;6
+SO-X1II-BOT-COM;Sony;Xperia 1 II;Botones laterales;Compatible;5,00;;;6
+SO-X1II-CRI-COM;Sony;Xperia 1 II;Cristal de pantalla;Compatible;5,00;;;6
+SO-X1II-ANT-COM;Sony;Xperia 1 II;Antena / coaxial;Compatible;4,35;;;6
+SO-X1II-HUE-COM;Sony;Xperia 1 II;Botón home / huella;Compatible;7,25;;;6
+SO-X1II-NFC-COM;Sony;Xperia 1 II;NFC y carga inalámbrica;Compatible;9,70;;;6
+SO-X5II-MAR-COM;Sony;Xperia 5 II;Marco / chasis;Compatible;9,79;;;6
+SO-X5II-BOT-COM;Sony;Xperia 5 II;Botones laterales;Compatible;5,00;;;6
+SO-X5II-CRI-COM;Sony;Xperia 5 II;Cristal de pantalla;Compatible;5,00;;;6
+SO-X5II-ANT-COM;Sony;Xperia 5 II;Antena / coaxial;Compatible;4,35;;;6
+SO-X5II-HUE-COM;Sony;Xperia 5 II;Botón home / huella;Compatible;7,25;;;6
+SO-X5II-NFC-COM;Sony;Xperia 5 II;NFC y carga inalámbrica;Compatible;9,70;;;6
+SO-X10III-MAR-COM;Sony;Xperia 10 III;Marco / chasis;Compatible;7,20;;;6
+SO-X10III-BOT-COM;Sony;Xperia 10 III;Botones laterales;Compatible;3,70;;;6
+SO-X10III-CRI-COM;Sony;Xperia 10 III;Cristal de pantalla;Compatible;3,69;;;6
+SO-X10III-ANT-COM;Sony;Xperia 10 III;Antena / coaxial;Compatible;3,20;;;6
+SO-X10III-HUE-COM;Sony;Xperia 10 III;Botón home / huella;Compatible;5,30;;;6
+SO-X1III-MAR-COM;Sony;Xperia 1 III;Marco / chasis;Compatible;9,79;;;6
+SO-X1III-BOT-COM;Sony;Xperia 1 III;Botones laterales;Compatible;5,00;;;6
+SO-X1III-CRI-COM;Sony;Xperia 1 III;Cristal de pantalla;Compatible;5,00;;;6
+SO-X1III-ANT-COM;Sony;Xperia 1 III;Antena / coaxial;Compatible;4,35;;;6
+SO-X1III-HUE-COM;Sony;Xperia 1 III;Botón home / huella;Compatible;7,25;;;6
+SO-X1III-NFC-COM;Sony;Xperia 1 III;NFC y carga inalámbrica;Compatible;9,70;;;6
+SO-X5III-MAR-COM;Sony;Xperia 5 III;Marco / chasis;Compatible;9,79;;;6
+SO-X5III-BOT-COM;Sony;Xperia 5 III;Botones laterales;Compatible;5,00;;;6
+SO-X5III-CRI-COM;Sony;Xperia 5 III;Cristal de pantalla;Compatible;5,00;;;6
+SO-X5III-ANT-COM;Sony;Xperia 5 III;Antena / coaxial;Compatible;4,35;;;6
+SO-X5III-HUE-COM;Sony;Xperia 5 III;Botón home / huella;Compatible;7,25;;;6
+SO-X5III-NFC-COM;Sony;Xperia 5 III;NFC y carga inalámbrica;Compatible;9,70;;;6
+SO-XPI-MAR-COM;Sony;Xperia PRO-I;Marco / chasis;Compatible;7,20;;;6
+SO-XPI-BOT-COM;Sony;Xperia PRO-I;Botones laterales;Compatible;3,70;;;6
+SO-XPI-CRI-COM;Sony;Xperia PRO-I;Cristal de pantalla;Compatible;3,69;;;6
+SO-XPI-ANT-COM;Sony;Xperia PRO-I;Antena / coaxial;Compatible;3,20;;;6
+SO-XPI-HUE-COM;Sony;Xperia PRO-I;Botón home / huella;Compatible;5,30;;;6
+SO-X1IV-MAR-COM;Sony;Xperia 1 IV;Marco / chasis;Compatible;9,79;;;6
+SO-X1IV-BOT-COM;Sony;Xperia 1 IV;Botones laterales;Compatible;5,00;;;6
+SO-X1IV-CRI-COM;Sony;Xperia 1 IV;Cristal de pantalla;Compatible;5,00;;;6
+SO-X1IV-ANT-COM;Sony;Xperia 1 IV;Antena / coaxial;Compatible;4,35;;;6
+SO-X1IV-HUE-COM;Sony;Xperia 1 IV;Botón home / huella;Compatible;7,25;;;6
+SO-X1IV-NFC-COM;Sony;Xperia 1 IV;NFC y carga inalámbrica;Compatible;9,70;;;6
+SO-X10IV-MAR-COM;Sony;Xperia 10 IV;Marco / chasis;Compatible;7,20;;;6
+SO-X10IV-BOT-COM;Sony;Xperia 10 IV;Botones laterales;Compatible;3,70;;;6
+SO-X10IV-CRI-COM;Sony;Xperia 10 IV;Cristal de pantalla;Compatible;3,69;;;6
+SO-X10IV-ANT-COM;Sony;Xperia 10 IV;Antena / coaxial;Compatible;3,20;;;6
+SO-X10IV-HUE-COM;Sony;Xperia 10 IV;Botón home / huella;Compatible;5,30;;;6
+SO-X5IV-MAR-COM;Sony;Xperia 5 IV;Marco / chasis;Compatible;9,79;;;6
+SO-X5IV-BOT-COM;Sony;Xperia 5 IV;Botones laterales;Compatible;5,00;;;6
+SO-X5IV-CRI-COM;Sony;Xperia 5 IV;Cristal de pantalla;Compatible;5,00;;;6
+SO-X5IV-ANT-COM;Sony;Xperia 5 IV;Antena / coaxial;Compatible;4,35;;;6
+SO-X5IV-HUE-COM;Sony;Xperia 5 IV;Botón home / huella;Compatible;7,25;;;6
+SO-X5IV-NFC-COM;Sony;Xperia 5 IV;NFC y carga inalámbrica;Compatible;9,70;;;6
+SO-X1V-MAR-COM;Sony;Xperia 1 V;Marco / chasis;Compatible;9,79;;;6
+SO-X1V-BOT-COM;Sony;Xperia 1 V;Botones laterales;Compatible;5,00;;;6
+SO-X1V-CRI-COM;Sony;Xperia 1 V;Cristal de pantalla;Compatible;5,00;;;6
+SO-X1V-ANT-COM;Sony;Xperia 1 V;Antena / coaxial;Compatible;4,35;;;6
+SO-X1V-HUE-COM;Sony;Xperia 1 V;Botón home / huella;Compatible;7,25;;;6
+SO-X1V-NFC-COM;Sony;Xperia 1 V;NFC y carga inalámbrica;Compatible;9,70;;;6
+SO-X10V-MAR-COM;Sony;Xperia 10 V;Marco / chasis;Compatible;7,20;;;6
+SO-X10V-BOT-COM;Sony;Xperia 10 V;Botones laterales;Compatible;3,70;;;6
+SO-X10V-CRI-COM;Sony;Xperia 10 V;Cristal de pantalla;Compatible;3,69;;;6
+SO-X10V-ANT-COM;Sony;Xperia 10 V;Antena / coaxial;Compatible;3,20;;;6
+SO-X10V-HUE-COM;Sony;Xperia 10 V;Botón home / huella;Compatible;5,30;;;6
+SO-X5V-MAR-COM;Sony;Xperia 5 V;Marco / chasis;Compatible;9,79;;;6
+SO-X5V-BOT-COM;Sony;Xperia 5 V;Botones laterales;Compatible;5,00;;;6
+SO-X5V-CRI-COM;Sony;Xperia 5 V;Cristal de pantalla;Compatible;5,00;;;6
+SO-X5V-ANT-COM;Sony;Xperia 5 V;Antena / coaxial;Compatible;4,35;;;6
+SO-X5V-HUE-COM;Sony;Xperia 5 V;Botón home / huella;Compatible;7,25;;;6
+SO-X5V-NFC-COM;Sony;Xperia 5 V;NFC y carga inalámbrica;Compatible;9,70;;;6
+SO-X1VI-MAR-COM;Sony;Xperia 1 VI;Marco / chasis;Compatible;10,75;10,43;10,10;6
+SO-X1VI-BOT-COM;Sony;Xperia 1 VI;Botones laterales;Compatible;5,55;;;6
+SO-X1VI-CRI-COM;Sony;Xperia 1 VI;Cristal de pantalla;Compatible;5,50;;;6
+SO-X1VI-ANT-COM;Sony;Xperia 1 VI;Antena / coaxial;Compatible;4,79;;;6
+SO-X1VI-HUE-COM;Sony;Xperia 1 VI;Botón home / huella;Compatible;7,95;;;6
+SO-X1VI-NFC-COM;Sony;Xperia 1 VI;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+SO-X10VI-MAR-COM;Sony;Xperia 10 VI;Marco / chasis;Compatible;7,90;;;6
+SO-X10VI-BOT-COM;Sony;Xperia 10 VI;Botones laterales;Compatible;4,05;;;6
+SO-X10VI-CRI-COM;Sony;Xperia 10 VI;Cristal de pantalla;Compatible;4,05;;;6
+SO-X10VI-ANT-COM;Sony;Xperia 10 VI;Antena / coaxial;Compatible;3,50;;;6
+SO-X10VI-HUE-COM;Sony;Xperia 10 VI;Botón home / huella;Compatible;5,85;;;6
+SO-X1VII-MAR-COM;Sony;Xperia 1 VII;Marco / chasis;Compatible;10,75;10,43;10,10;6
+SO-X1VII-BOT-COM;Sony;Xperia 1 VII;Botones laterales;Compatible;5,55;;;6
+SO-X1VII-CRI-COM;Sony;Xperia 1 VII;Cristal de pantalla;Compatible;5,50;;;6
+SO-X1VII-ANT-COM;Sony;Xperia 1 VII;Antena / coaxial;Compatible;4,79;;;6
+SO-X1VII-HUE-COM;Sony;Xperia 1 VII;Botón home / huella;Compatible;7,95;;;6
+SO-X1VII-NFC-COM;Sony;Xperia 1 VII;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+SO-X10VII-MAR-COM;Sony;Xperia 10 VII;Marco / chasis;Compatible;7,90;;;6
+SO-X10VII-BOT-COM;Sony;Xperia 10 VII;Botones laterales;Compatible;4,05;;;6
+SO-X10VII-CRI-COM;Sony;Xperia 10 VII;Cristal de pantalla;Compatible;4,05;;;6
+SO-X10VII-ANT-COM;Sony;Xperia 10 VII;Antena / coaxial;Compatible;3,50;;;6
+SO-X10VII-HUE-COM;Sony;Xperia 10 VII;Botón home / huella;Compatible;5,85;;;6
+SO-XPERIA1V-MAR-COM;Sony;Xperia 1 VIII;Marco / chasis;Compatible;10,75;10,43;10,10;6
+SO-XPERIA1V-BOT-COM;Sony;Xperia 1 VIII;Botones laterales;Compatible;5,55;;;6
+SO-XPERIA1V-CRI-COM;Sony;Xperia 1 VIII;Cristal de pantalla;Compatible;5,50;;;6
+SO-XPERIA1V-ANT-COM;Sony;Xperia 1 VIII;Antena / coaxial;Compatible;4,79;;;6
+SO-XPERIA1V-HUE-COM;Sony;Xperia 1 VIII;Botón home / huella;Compatible;7,95;;;6
+SO-XPERIA1V-NFC-COM;Sony;Xperia 1 VIII;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+SO-XPERIA10-MAR-COM;Sony;Xperia 10 VIII;Marco / chasis;Compatible;7,90;;;6
+SO-XPERIA10-BOT-COM;Sony;Xperia 10 VIII;Botones laterales;Compatible;4,05;;;6
+SO-XPERIA10-CRI-COM;Sony;Xperia 10 VIII;Cristal de pantalla;Compatible;4,05;;;6
+SO-XPERIA10-ANT-COM;Sony;Xperia 10 VIII;Antena / coaxial;Compatible;3,50;;;6
+SO-XPERIA10-HUE-COM;Sony;Xperia 10 VIII;Botón home / huella;Compatible;5,85;;;6

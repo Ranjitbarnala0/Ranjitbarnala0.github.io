@@ -1,0 +1,499 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+BL-KEY2LE-PAN-COM;BlackBerry;Key2 LE;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-KEY2LE-BAT-COM;BlackBerry;Key2 LE;Batería;Compatible;9,65;;;6
+BL-KEY2LE-CON-COM;BlackBerry;Key2 LE;Conector de carga;Compatible;4,60;;;6
+BL-KEY2LE-TAP-COM;BlackBerry;Key2 LE;Tapa trasera;Compatible;5,40;;;6
+BL-KEY2LE-CTR-COM;BlackBerry;Key2 LE;Cámara trasera;Compatible;7,59;;;6
+BL-KEY2LE-CFR-COM;BlackBerry;Key2 LE;Cámara frontal;Compatible;4,99;;;6
+BL-KEY2LE-LEN-COM;BlackBerry;Key2 LE;Lente de cámara;Compatible;2,19;;;6
+BL-KEY2LE-ALT-COM;BlackBerry;Key2 LE;Altavoz;Compatible;3,65;;;6
+BL-KEY2LE-AUR-COM;BlackBerry;Key2 LE;Auricular de llamada;Compatible;2,65;;;6
+BL-KEY2LE-FLX-COM;BlackBerry;Key2 LE;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-KEY2LE-SIM-COM;BlackBerry;Key2 LE;Bandeja SIM;Compatible;2,55;;;6
+BL-E-PAN-COM;BlackBerry;Evolve;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-E-BAT-COM;BlackBerry;Evolve;Batería;Compatible;9,65;;;6
+BL-E-CON-COM;BlackBerry;Evolve;Conector de carga;Compatible;4,60;;;6
+BL-E-TAP-COM;BlackBerry;Evolve;Tapa trasera;Compatible;5,40;;;6
+BL-E-CTR-COM;BlackBerry;Evolve;Cámara trasera;Compatible;7,59;;;6
+BL-E-CFR-COM;BlackBerry;Evolve;Cámara frontal;Compatible;4,99;;;6
+BL-E-LEN-COM;BlackBerry;Evolve;Lente de cámara;Compatible;2,19;;;6
+BL-E-ALT-COM;BlackBerry;Evolve;Altavoz;Compatible;3,65;;;6
+BL-E-AUR-COM;BlackBerry;Evolve;Auricular de llamada;Compatible;2,65;;;6
+BL-E-FLX-COM;BlackBerry;Evolve;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-E-SIM-COM;BlackBerry;Evolve;Bandeja SIM;Compatible;2,55;;;6
+BL-EX-PAN-COM;BlackBerry;Evolve X;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-EX-BAT-COM;BlackBerry;Evolve X;Batería;Compatible;9,65;;;6
+BL-EX-CON-COM;BlackBerry;Evolve X;Conector de carga;Compatible;4,60;;;6
+BL-EX-TAP-COM;BlackBerry;Evolve X;Tapa trasera;Compatible;5,40;;;6
+BL-EX-CTR-COM;BlackBerry;Evolve X;Cámara trasera;Compatible;7,59;;;6
+BL-EX-CFR-COM;BlackBerry;Evolve X;Cámara frontal;Compatible;4,99;;;6
+BL-EX-LEN-COM;BlackBerry;Evolve X;Lente de cámara;Compatible;2,19;;;6
+BL-EX-ALT-COM;BlackBerry;Evolve X;Altavoz;Compatible;3,65;;;6
+BL-EX-AUR-COM;BlackBerry;Evolve X;Auricular de llamada;Compatible;2,65;;;6
+BL-EX-FLX-COM;BlackBerry;Evolve X;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-EX-SIM-COM;BlackBerry;Evolve X;Bandeja SIM;Compatible;2,55;;;6
+BL-KEY2-PAN-COM;BlackBerry;Key2;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-KEY2-BAT-COM;BlackBerry;Key2;Batería;Compatible;9,65;;;6
+BL-KEY2-CON-COM;BlackBerry;Key2;Conector de carga;Compatible;4,60;;;6
+BL-KEY2-TAP-COM;BlackBerry;Key2;Tapa trasera;Compatible;5,40;;;6
+BL-KEY2-CTR-COM;BlackBerry;Key2;Cámara trasera;Compatible;7,59;;;6
+BL-KEY2-CFR-COM;BlackBerry;Key2;Cámara frontal;Compatible;4,99;;;6
+BL-KEY2-LEN-COM;BlackBerry;Key2;Lente de cámara;Compatible;2,19;;;6
+BL-KEY2-ALT-COM;BlackBerry;Key2;Altavoz;Compatible;3,65;;;6
+BL-KEY2-AUR-COM;BlackBerry;Key2;Auricular de llamada;Compatible;2,65;;;6
+BL-KEY2-FLX-COM;BlackBerry;Key2;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-KEY2-SIM-COM;BlackBerry;Key2;Bandeja SIM;Compatible;2,55;;;6
+BL-M-PAN-COM;BlackBerry;Motion;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-M-BAT-COM;BlackBerry;Motion;Batería;Compatible;9,65;;;6
+BL-M-CON-COM;BlackBerry;Motion;Conector de carga;Compatible;4,60;;;6
+BL-M-TAP-COM;BlackBerry;Motion;Tapa trasera;Compatible;5,40;;;6
+BL-M-CTR-COM;BlackBerry;Motion;Cámara trasera;Compatible;7,59;;;6
+BL-M-CFR-COM;BlackBerry;Motion;Cámara frontal;Compatible;4,99;;;6
+BL-M-LEN-COM;BlackBerry;Motion;Lente de cámara;Compatible;2,19;;;6
+BL-M-ALT-COM;BlackBerry;Motion;Altavoz;Compatible;3,65;;;6
+BL-M-AUR-COM;BlackBerry;Motion;Auricular de llamada;Compatible;2,65;;;6
+BL-M-FLX-COM;BlackBerry;Motion;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-M-SIM-COM;BlackBerry;Motion;Bandeja SIM;Compatible;2,55;;;6
+BL-K-PAN-COM;BlackBerry;KeyOne;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-K-BAT-COM;BlackBerry;KeyOne;Batería;Compatible;9,65;;;6
+BL-K-CON-COM;BlackBerry;KeyOne;Conector de carga;Compatible;4,60;;;6
+BL-K-TAP-COM;BlackBerry;KeyOne;Tapa trasera;Compatible;5,40;;;6
+BL-K-CTR-COM;BlackBerry;KeyOne;Cámara trasera;Compatible;7,59;;;6
+BL-K-CFR-COM;BlackBerry;KeyOne;Cámara frontal;Compatible;4,99;;;6
+BL-K-LEN-COM;BlackBerry;KeyOne;Lente de cámara;Compatible;2,19;;;6
+BL-K-ALT-COM;BlackBerry;KeyOne;Altavoz;Compatible;3,65;;;6
+BL-K-AUR-COM;BlackBerry;KeyOne;Auricular de llamada;Compatible;2,65;;;6
+BL-K-FLX-COM;BlackBerry;KeyOne;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-K-SIM-COM;BlackBerry;KeyOne;Bandeja SIM;Compatible;2,55;;;6
+BL-A-PAN-COM;BlackBerry;Aurora;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-A-BAT-COM;BlackBerry;Aurora;Batería;Compatible;9,65;;;6
+BL-A-CON-COM;BlackBerry;Aurora;Conector de carga;Compatible;4,60;;;6
+BL-A-TAP-COM;BlackBerry;Aurora;Tapa trasera;Compatible;5,40;;;6
+BL-A-CTR-COM;BlackBerry;Aurora;Cámara trasera;Compatible;7,59;;;6
+BL-A-CFR-COM;BlackBerry;Aurora;Cámara frontal;Compatible;4,99;;;6
+BL-A-LEN-COM;BlackBerry;Aurora;Lente de cámara;Compatible;2,19;;;6
+BL-A-ALT-COM;BlackBerry;Aurora;Altavoz;Compatible;3,65;;;6
+BL-A-AUR-COM;BlackBerry;Aurora;Auricular de llamada;Compatible;2,65;;;6
+BL-A-FLX-COM;BlackBerry;Aurora;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-A-SIM-COM;BlackBerry;Aurora;Bandeja SIM;Compatible;2,55;;;6
+BL-D60-PAN-COM;BlackBerry;DTEK60;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-D60-BAT-COM;BlackBerry;DTEK60;Batería;Compatible;9,65;;;6
+BL-D60-CON-COM;BlackBerry;DTEK60;Conector de carga;Compatible;4,60;;;6
+BL-D60-TAP-COM;BlackBerry;DTEK60;Tapa trasera;Compatible;5,40;;;6
+BL-D60-CTR-COM;BlackBerry;DTEK60;Cámara trasera;Compatible;7,59;;;6
+BL-D60-CFR-COM;BlackBerry;DTEK60;Cámara frontal;Compatible;4,99;;;6
+BL-D60-LEN-COM;BlackBerry;DTEK60;Lente de cámara;Compatible;2,19;;;6
+BL-D60-ALT-COM;BlackBerry;DTEK60;Altavoz;Compatible;3,65;;;6
+BL-D60-AUR-COM;BlackBerry;DTEK60;Auricular de llamada;Compatible;2,65;;;6
+BL-D60-FLX-COM;BlackBerry;DTEK60;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-D60-SIM-COM;BlackBerry;DTEK60;Bandeja SIM;Compatible;2,55;;;6
+BL-D50-PAN-COM;BlackBerry;DTEK50;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-D50-BAT-COM;BlackBerry;DTEK50;Batería;Compatible;9,65;;;6
+BL-D50-CON-COM;BlackBerry;DTEK50;Conector de carga;Compatible;4,60;;;6
+BL-D50-TAP-COM;BlackBerry;DTEK50;Tapa trasera;Compatible;5,40;;;6
+BL-D50-CTR-COM;BlackBerry;DTEK50;Cámara trasera;Compatible;7,59;;;6
+BL-D50-CFR-COM;BlackBerry;DTEK50;Cámara frontal;Compatible;4,99;;;6
+BL-D50-LEN-COM;BlackBerry;DTEK50;Lente de cámara;Compatible;2,19;;;6
+BL-D50-ALT-COM;BlackBerry;DTEK50;Altavoz;Compatible;3,65;;;6
+BL-D50-AUR-COM;BlackBerry;DTEK50;Auricular de llamada;Compatible;2,65;;;6
+BL-D50-FLX-COM;BlackBerry;DTEK50;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-D50-SIM-COM;BlackBerry;DTEK50;Bandeja SIM;Compatible;2,55;;;6
+BL-PRIV-PAN-INC;BlackBerry;Priv;Pantalla;Incell;17,69;17,16;16,63;6
+BL-PRIV-BAT-COM;BlackBerry;Priv;Batería;Compatible;9,65;;;6
+BL-PRIV-CON-COM;BlackBerry;Priv;Conector de carga;Compatible;4,60;;;6
+BL-PRIV-TAP-COM;BlackBerry;Priv;Tapa trasera;Compatible;5,40;;;6
+BL-PRIV-CTR-COM;BlackBerry;Priv;Cámara trasera;Compatible;7,59;;;6
+BL-PRIV-CFR-COM;BlackBerry;Priv;Cámara frontal;Compatible;4,99;;;6
+BL-PRIV-LEN-COM;BlackBerry;Priv;Lente de cámara;Compatible;2,19;;;6
+BL-PRIV-ALT-COM;BlackBerry;Priv;Altavoz;Compatible;3,65;;;6
+BL-PRIV-AUR-COM;BlackBerry;Priv;Auricular de llamada;Compatible;2,65;;;6
+BL-PRIV-FLX-COM;BlackBerry;Priv;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-PRIV-SIM-COM;BlackBerry;Priv;Bandeja SIM;Compatible;2,55;;;6
+BL-L-PAN-COM;BlackBerry;Leap;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-L-BAT-COM;BlackBerry;Leap;Batería;Compatible;9,65;;;6
+BL-L-CON-COM;BlackBerry;Leap;Conector de carga;Compatible;4,60;;;6
+BL-L-TAP-COM;BlackBerry;Leap;Tapa trasera;Compatible;5,40;;;6
+BL-L-CTR-COM;BlackBerry;Leap;Cámara trasera;Compatible;7,59;;;6
+BL-L-CFR-COM;BlackBerry;Leap;Cámara frontal;Compatible;4,99;;;6
+BL-L-LEN-COM;BlackBerry;Leap;Lente de cámara;Compatible;2,19;;;6
+BL-L-ALT-COM;BlackBerry;Leap;Altavoz;Compatible;3,65;;;6
+BL-L-AUR-COM;BlackBerry;Leap;Auricular de llamada;Compatible;2,65;;;6
+BL-L-FLX-COM;BlackBerry;Leap;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-L-SIM-COM;BlackBerry;Leap;Bandeja SIM;Compatible;2,55;;;6
+BL-C-PAN-COM;BlackBerry;Classic;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-C-BAT-COM;BlackBerry;Classic;Batería;Compatible;9,65;;;6
+BL-C-CON-COM;BlackBerry;Classic;Conector de carga;Compatible;4,60;;;6
+BL-C-TAP-COM;BlackBerry;Classic;Tapa trasera;Compatible;5,40;;;6
+BL-C-CTR-COM;BlackBerry;Classic;Cámara trasera;Compatible;7,59;;;6
+BL-C-CFR-COM;BlackBerry;Classic;Cámara frontal;Compatible;4,99;;;6
+BL-C-LEN-COM;BlackBerry;Classic;Lente de cámara;Compatible;2,19;;;6
+BL-C-ALT-COM;BlackBerry;Classic;Altavoz;Compatible;3,65;;;6
+BL-C-AUR-COM;BlackBerry;Classic;Auricular de llamada;Compatible;2,65;;;6
+BL-C-FLX-COM;BlackBerry;Classic;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-C-SIM-COM;BlackBerry;Classic;Bandeja SIM;Compatible;2,55;;;6
+BL-PDP9983-PAN-COM;BlackBerry;Porsche Design P'9983;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-PDP9983-BAT-COM;BlackBerry;Porsche Design P'9983;Batería;Compatible;9,65;;;6
+BL-PDP9983-CON-COM;BlackBerry;Porsche Design P'9983;Conector de carga;Compatible;4,60;;;6
+BL-PDP9983-TAP-COM;BlackBerry;Porsche Design P'9983;Tapa trasera;Compatible;5,40;;;6
+BL-PDP9983-CTR-COM;BlackBerry;Porsche Design P'9983;Cámara trasera;Compatible;7,59;;;6
+BL-PDP9983-CFR-COM;BlackBerry;Porsche Design P'9983;Cámara frontal;Compatible;4,99;;;6
+BL-PDP9983-LEN-COM;BlackBerry;Porsche Design P'9983;Lente de cámara;Compatible;2,19;;;6
+BL-PDP9983-ALT-COM;BlackBerry;Porsche Design P'9983;Altavoz;Compatible;3,65;;;6
+BL-PDP9983-AUR-COM;BlackBerry;Porsche Design P'9983;Auricular de llamada;Compatible;2,65;;;6
+BL-PDP9983-FLX-COM;BlackBerry;Porsche Design P'9983;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-PDP9983-SIM-COM;BlackBerry;Porsche Design P'9983;Bandeja SIM;Compatible;2,55;;;6
+BL-P9983-PAN-COM;BlackBerry;P'9983;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-P9983-BAT-COM;BlackBerry;P'9983;Batería;Compatible;9,65;;;6
+BL-P9983-CON-COM;BlackBerry;P'9983;Conector de carga;Compatible;4,60;;;6
+BL-P9983-TAP-COM;BlackBerry;P'9983;Tapa trasera;Compatible;5,40;;;6
+BL-P9983-CTR-COM;BlackBerry;P'9983;Cámara trasera;Compatible;7,59;;;6
+BL-P9983-CFR-COM;BlackBerry;P'9983;Cámara frontal;Compatible;4,99;;;6
+BL-P9983-LEN-COM;BlackBerry;P'9983;Lente de cámara;Compatible;2,19;;;6
+BL-P9983-ALT-COM;BlackBerry;P'9983;Altavoz;Compatible;3,65;;;6
+BL-P9983-AUR-COM;BlackBerry;P'9983;Auricular de llamada;Compatible;2,65;;;6
+BL-P9983-FLX-COM;BlackBerry;P'9983;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-P9983-SIM-COM;BlackBerry;P'9983;Bandeja SIM;Compatible;2,55;;;6
+BL-P-PAN-COM;BlackBerry;Passport;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-P-BAT-COM;BlackBerry;Passport;Batería;Compatible;9,65;;;6
+BL-P-CON-COM;BlackBerry;Passport;Conector de carga;Compatible;4,60;;;6
+BL-P-TAP-COM;BlackBerry;Passport;Tapa trasera;Compatible;5,40;;;6
+BL-P-CTR-COM;BlackBerry;Passport;Cámara trasera;Compatible;7,59;;;6
+BL-P-CFR-COM;BlackBerry;Passport;Cámara frontal;Compatible;4,99;;;6
+BL-P-LEN-COM;BlackBerry;Passport;Lente de cámara;Compatible;2,19;;;6
+BL-P-ALT-COM;BlackBerry;Passport;Altavoz;Compatible;3,65;;;6
+BL-P-AUR-COM;BlackBerry;Passport;Auricular de llamada;Compatible;2,65;;;6
+BL-P-FLX-COM;BlackBerry;Passport;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-P-SIM-COM;BlackBerry;Passport;Bandeja SIM;Compatible;2,55;;;6
+BL-Z3-PAN-COM;BlackBerry;Z3;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-Z3-BAT-COM;BlackBerry;Z3;Batería;Compatible;9,65;;;6
+BL-Z3-CON-COM;BlackBerry;Z3;Conector de carga;Compatible;4,60;;;6
+BL-Z3-TAP-COM;BlackBerry;Z3;Tapa trasera;Compatible;5,40;;;6
+BL-Z3-CTR-COM;BlackBerry;Z3;Cámara trasera;Compatible;7,59;;;6
+BL-Z3-CFR-COM;BlackBerry;Z3;Cámara frontal;Compatible;4,99;;;6
+BL-Z3-LEN-COM;BlackBerry;Z3;Lente de cámara;Compatible;2,19;;;6
+BL-Z3-ALT-COM;BlackBerry;Z3;Altavoz;Compatible;3,65;;;6
+BL-Z3-AUR-COM;BlackBerry;Z3;Auricular de llamada;Compatible;2,65;;;6
+BL-Z3-FLX-COM;BlackBerry;Z3;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-Z3-SIM-COM;BlackBerry;Z3;Bandeja SIM;Compatible;2,55;;;6
+BL-PDP9982-PAN-COM;BlackBerry;Porsche Design P'9982;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-PDP9982-BAT-COM;BlackBerry;Porsche Design P'9982;Batería;Compatible;9,65;;;6
+BL-PDP9982-CON-COM;BlackBerry;Porsche Design P'9982;Conector de carga;Compatible;4,60;;;6
+BL-PDP9982-TAP-COM;BlackBerry;Porsche Design P'9982;Tapa trasera;Compatible;5,40;;;6
+BL-PDP9982-CTR-COM;BlackBerry;Porsche Design P'9982;Cámara trasera;Compatible;7,59;;;6
+BL-PDP9982-CFR-COM;BlackBerry;Porsche Design P'9982;Cámara frontal;Compatible;4,99;;;6
+BL-PDP9982-LEN-COM;BlackBerry;Porsche Design P'9982;Lente de cámara;Compatible;2,19;;;6
+BL-PDP9982-ALT-COM;BlackBerry;Porsche Design P'9982;Altavoz;Compatible;3,65;;;6
+BL-PDP9982-AUR-COM;BlackBerry;Porsche Design P'9982;Auricular de llamada;Compatible;2,65;;;6
+BL-PDP9982-FLX-COM;BlackBerry;Porsche Design P'9982;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-PDP9982-SIM-COM;BlackBerry;Porsche Design P'9982;Bandeja SIM;Compatible;2,55;;;6
+BL-P9982-PAN-COM;BlackBerry;P'9982;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-P9982-BAT-COM;BlackBerry;P'9982;Batería;Compatible;9,65;;;6
+BL-P9982-CON-COM;BlackBerry;P'9982;Conector de carga;Compatible;4,60;;;6
+BL-P9982-TAP-COM;BlackBerry;P'9982;Tapa trasera;Compatible;5,40;;;6
+BL-P9982-CTR-COM;BlackBerry;P'9982;Cámara trasera;Compatible;7,59;;;6
+BL-P9982-CFR-COM;BlackBerry;P'9982;Cámara frontal;Compatible;4,99;;;6
+BL-P9982-LEN-COM;BlackBerry;P'9982;Lente de cámara;Compatible;2,19;;;6
+BL-P9982-ALT-COM;BlackBerry;P'9982;Altavoz;Compatible;3,65;;;6
+BL-P9982-AUR-COM;BlackBerry;P'9982;Auricular de llamada;Compatible;2,65;;;6
+BL-P9982-FLX-COM;BlackBerry;P'9982;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-P9982-SIM-COM;BlackBerry;P'9982;Bandeja SIM;Compatible;2,55;;;6
+BL-Z30-PAN-COM;BlackBerry;Z30;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-Z30-BAT-COM;BlackBerry;Z30;Batería;Compatible;9,65;;;6
+BL-Z30-CON-COM;BlackBerry;Z30;Conector de carga;Compatible;4,60;;;6
+BL-Z30-TAP-COM;BlackBerry;Z30;Tapa trasera;Compatible;5,40;;;6
+BL-Z30-CTR-COM;BlackBerry;Z30;Cámara trasera;Compatible;7,59;;;6
+BL-Z30-CFR-COM;BlackBerry;Z30;Cámara frontal;Compatible;4,99;;;6
+BL-Z30-LEN-COM;BlackBerry;Z30;Lente de cámara;Compatible;2,19;;;6
+BL-Z30-ALT-COM;BlackBerry;Z30;Altavoz;Compatible;3,65;;;6
+BL-Z30-AUR-COM;BlackBerry;Z30;Auricular de llamada;Compatible;2,65;;;6
+BL-Z30-FLX-COM;BlackBerry;Z30;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-Z30-SIM-COM;BlackBerry;Z30;Bandeja SIM;Compatible;2,55;;;6
+BL-9720-PAN-COM;BlackBerry;9720;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-9720-BAT-COM;BlackBerry;9720;Batería;Compatible;9,65;;;6
+BL-9720-CON-COM;BlackBerry;9720;Conector de carga;Compatible;4,60;;;6
+BL-9720-TAP-COM;BlackBerry;9720;Tapa trasera;Compatible;5,40;;;6
+BL-9720-CTR-COM;BlackBerry;9720;Cámara trasera;Compatible;7,59;;;6
+BL-9720-CFR-COM;BlackBerry;9720;Cámara frontal;Compatible;4,99;;;6
+BL-9720-LEN-COM;BlackBerry;9720;Lente de cámara;Compatible;2,19;;;6
+BL-9720-ALT-COM;BlackBerry;9720;Altavoz;Compatible;3,65;;;6
+BL-9720-AUR-COM;BlackBerry;9720;Auricular de llamada;Compatible;2,65;;;6
+BL-9720-FLX-COM;BlackBerry;9720;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-9720-SIM-COM;BlackBerry;9720;Bandeja SIM;Compatible;2,55;;;6
+BL-Q5-PAN-COM;BlackBerry;Q5;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-Q5-BAT-COM;BlackBerry;Q5;Batería;Compatible;9,65;;;6
+BL-Q5-CON-COM;BlackBerry;Q5;Conector de carga;Compatible;4,60;;;6
+BL-Q5-TAP-COM;BlackBerry;Q5;Tapa trasera;Compatible;5,40;;;6
+BL-Q5-CTR-COM;BlackBerry;Q5;Cámara trasera;Compatible;7,59;;;6
+BL-Q5-CFR-COM;BlackBerry;Q5;Cámara frontal;Compatible;4,99;;;6
+BL-Q5-LEN-COM;BlackBerry;Q5;Lente de cámara;Compatible;2,19;;;6
+BL-Q5-ALT-COM;BlackBerry;Q5;Altavoz;Compatible;3,65;;;6
+BL-Q5-AUR-COM;BlackBerry;Q5;Auricular de llamada;Compatible;2,65;;;6
+BL-Q5-FLX-COM;BlackBerry;Q5;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-Q5-SIM-COM;BlackBerry;Q5;Bandeja SIM;Compatible;2,55;;;6
+BL-Q10-PAN-INC;BlackBerry;Q10;Pantalla;Incell;17,69;17,16;16,63;6
+BL-Q10-BAT-COM;BlackBerry;Q10;Batería;Compatible;9,65;;;6
+BL-Q10-CON-COM;BlackBerry;Q10;Conector de carga;Compatible;4,60;;;6
+BL-Q10-TAP-COM;BlackBerry;Q10;Tapa trasera;Compatible;5,40;;;6
+BL-Q10-CTR-COM;BlackBerry;Q10;Cámara trasera;Compatible;7,59;;;6
+BL-Q10-CFR-COM;BlackBerry;Q10;Cámara frontal;Compatible;4,99;;;6
+BL-Q10-LEN-COM;BlackBerry;Q10;Lente de cámara;Compatible;2,19;;;6
+BL-Q10-ALT-COM;BlackBerry;Q10;Altavoz;Compatible;3,65;;;6
+BL-Q10-AUR-COM;BlackBerry;Q10;Auricular de llamada;Compatible;2,65;;;6
+BL-Q10-FLX-COM;BlackBerry;Q10;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-Q10-SIM-COM;BlackBerry;Q10;Bandeja SIM;Compatible;2,55;;;6
+BL-Z10-PAN-COM;BlackBerry;Z10;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-Z10-BAT-COM;BlackBerry;Z10;Batería;Compatible;9,65;;;6
+BL-Z10-CON-COM;BlackBerry;Z10;Conector de carga;Compatible;4,60;;;6
+BL-Z10-TAP-COM;BlackBerry;Z10;Tapa trasera;Compatible;5,40;;;6
+BL-Z10-CTR-COM;BlackBerry;Z10;Cámara trasera;Compatible;7,59;;;6
+BL-Z10-CFR-COM;BlackBerry;Z10;Cámara frontal;Compatible;4,99;;;6
+BL-Z10-LEN-COM;BlackBerry;Z10;Lente de cámara;Compatible;2,19;;;6
+BL-Z10-ALT-COM;BlackBerry;Z10;Altavoz;Compatible;3,65;;;6
+BL-Z10-AUR-COM;BlackBerry;Z10;Auricular de llamada;Compatible;2,65;;;6
+BL-Z10-FLX-COM;BlackBerry;Z10;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-Z10-SIM-COM;BlackBerry;Z10;Bandeja SIM;Compatible;2,55;;;6
+BL-P9981-PAN-COM;BlackBerry;P'9981;Pantalla;Compatible;15,15;14,70;14,24;6
+BL-P9981-BAT-COM;BlackBerry;P'9981;Batería;Compatible;9,65;;;6
+BL-P9981-CON-COM;BlackBerry;P'9981;Conector de carga;Compatible;4,60;;;6
+BL-P9981-TAP-COM;BlackBerry;P'9981;Tapa trasera;Compatible;5,40;;;6
+BL-P9981-CTR-COM;BlackBerry;P'9981;Cámara trasera;Compatible;7,59;;;6
+BL-P9981-CFR-COM;BlackBerry;P'9981;Cámara frontal;Compatible;4,99;;;6
+BL-P9981-LEN-COM;BlackBerry;P'9981;Lente de cámara;Compatible;2,19;;;6
+BL-P9981-ALT-COM;BlackBerry;P'9981;Altavoz;Compatible;3,65;;;6
+BL-P9981-AUR-COM;BlackBerry;P'9981;Auricular de llamada;Compatible;2,65;;;6
+BL-P9981-FLX-COM;BlackBerry;P'9981;Flex de encendido y volumen;Compatible;2,49;;;6
+BL-P9981-SIM-COM;BlackBerry;P'9981;Bandeja SIM;Compatible;2,55;;;6
+BL-KEY2LE-PRO-NA;BlackBerry;Key2 LE;Cristal templado;Estándar;1,30;;;
+BL-KEY2LE-PRO-PRI;BlackBerry;Key2 LE;Cristal templado;Privacidad;4,00;;;
+BL-KEY2LE-FUN-SIL;BlackBerry;Key2 LE;Funda;Silicona;2,50;;;
+BL-KEY2LE-FUN-TPU;BlackBerry;Key2 LE;Funda;Transparente;2,95;;;
+BL-KEY2LE-FUN-LIB;BlackBerry;Key2 LE;Funda;Libro;3,70;;;
+BL-KEY2LE-FUN-ANT;BlackBerry;Key2 LE;Funda;Antigolpes;3,10;;;
+BL-E-PRO-NA;BlackBerry;Evolve;Cristal templado;Estándar;1,30;;;
+BL-E-PRO-PRI;BlackBerry;Evolve;Cristal templado;Privacidad;4,00;;;
+BL-E-FUN-SIL;BlackBerry;Evolve;Funda;Silicona;2,50;;;
+BL-E-FUN-TPU;BlackBerry;Evolve;Funda;Transparente;2,95;;;
+BL-E-FUN-LIB;BlackBerry;Evolve;Funda;Libro;3,70;;;
+BL-E-FUN-ANT;BlackBerry;Evolve;Funda;Antigolpes;3,10;;;
+BL-EX-PRO-NA;BlackBerry;Evolve X;Cristal templado;Estándar;1,30;;;
+BL-EX-PRO-PRI;BlackBerry;Evolve X;Cristal templado;Privacidad;4,00;;;
+BL-EX-FUN-SIL;BlackBerry;Evolve X;Funda;Silicona;2,50;;;
+BL-EX-FUN-TPU;BlackBerry;Evolve X;Funda;Transparente;2,95;;;
+BL-EX-FUN-LIB;BlackBerry;Evolve X;Funda;Libro;3,70;;;
+BL-EX-FUN-ANT;BlackBerry;Evolve X;Funda;Antigolpes;3,10;;;
+BL-KEY2-PRO-NA;BlackBerry;Key2;Cristal templado;Estándar;1,30;;;
+BL-KEY2-PRO-PRI;BlackBerry;Key2;Cristal templado;Privacidad;4,00;;;
+BL-KEY2-FUN-SIL;BlackBerry;Key2;Funda;Silicona;2,50;;;
+BL-KEY2-FUN-TPU;BlackBerry;Key2;Funda;Transparente;2,95;;;
+BL-KEY2-FUN-LIB;BlackBerry;Key2;Funda;Libro;3,70;;;
+BL-KEY2-FUN-ANT;BlackBerry;Key2;Funda;Antigolpes;3,10;;;
+BL-M-PRO-NA;BlackBerry;Motion;Cristal templado;Estándar;1,30;;;
+BL-M-PRO-PRI;BlackBerry;Motion;Cristal templado;Privacidad;4,00;;;
+BL-M-FUN-SIL;BlackBerry;Motion;Funda;Silicona;2,50;;;
+BL-M-FUN-TPU;BlackBerry;Motion;Funda;Transparente;2,95;;;
+BL-M-FUN-LIB;BlackBerry;Motion;Funda;Libro;3,70;;;
+BL-M-FUN-ANT;BlackBerry;Motion;Funda;Antigolpes;3,10;;;
+BL-K-PRO-NA;BlackBerry;KeyOne;Cristal templado;Estándar;1,30;;;
+BL-K-PRO-PRI;BlackBerry;KeyOne;Cristal templado;Privacidad;4,00;;;
+BL-K-FUN-SIL;BlackBerry;KeyOne;Funda;Silicona;2,50;;;
+BL-K-FUN-TPU;BlackBerry;KeyOne;Funda;Transparente;2,95;;;
+BL-K-FUN-LIB;BlackBerry;KeyOne;Funda;Libro;3,70;;;
+BL-K-FUN-ANT;BlackBerry;KeyOne;Funda;Antigolpes;3,10;;;
+BL-A-PRO-NA;BlackBerry;Aurora;Cristal templado;Estándar;1,30;;;
+BL-A-PRO-PRI;BlackBerry;Aurora;Cristal templado;Privacidad;4,00;;;
+BL-A-FUN-SIL;BlackBerry;Aurora;Funda;Silicona;2,50;;;
+BL-A-FUN-TPU;BlackBerry;Aurora;Funda;Transparente;2,95;;;
+BL-A-FUN-LIB;BlackBerry;Aurora;Funda;Libro;3,70;;;
+BL-A-FUN-ANT;BlackBerry;Aurora;Funda;Antigolpes;3,10;;;
+BL-D60-PRO-NA;BlackBerry;DTEK60;Cristal templado;Estándar;1,30;;;
+BL-D60-PRO-PRI;BlackBerry;DTEK60;Cristal templado;Privacidad;4,00;;;
+BL-D60-FUN-SIL;BlackBerry;DTEK60;Funda;Silicona;2,50;;;
+BL-D60-FUN-TPU;BlackBerry;DTEK60;Funda;Transparente;2,95;;;
+BL-D60-FUN-LIB;BlackBerry;DTEK60;Funda;Libro;3,70;;;
+BL-D60-FUN-ANT;BlackBerry;DTEK60;Funda;Antigolpes;3,10;;;
+BL-D50-PRO-NA;BlackBerry;DTEK50;Cristal templado;Estándar;1,30;;;
+BL-D50-PRO-PRI;BlackBerry;DTEK50;Cristal templado;Privacidad;4,00;;;
+BL-D50-FUN-SIL;BlackBerry;DTEK50;Funda;Silicona;2,50;;;
+BL-D50-FUN-TPU;BlackBerry;DTEK50;Funda;Transparente;2,95;;;
+BL-D50-FUN-LIB;BlackBerry;DTEK50;Funda;Libro;3,70;;;
+BL-D50-FUN-ANT;BlackBerry;DTEK50;Funda;Antigolpes;3,10;;;
+BL-PRIV-PRO-NA;BlackBerry;Priv;Cristal templado;Estándar;1,30;;;
+BL-PRIV-PRO-PRI;BlackBerry;Priv;Cristal templado;Privacidad;4,00;;;
+BL-PRIV-FUN-SIL;BlackBerry;Priv;Funda;Silicona;2,50;;;
+BL-PRIV-FUN-TPU;BlackBerry;Priv;Funda;Transparente;2,95;;;
+BL-PRIV-FUN-LIB;BlackBerry;Priv;Funda;Libro;3,70;;;
+BL-PRIV-FUN-ANT;BlackBerry;Priv;Funda;Antigolpes;3,10;;;
+BL-L-PRO-NA;BlackBerry;Leap;Cristal templado;Estándar;1,30;;;
+BL-L-PRO-PRI;BlackBerry;Leap;Cristal templado;Privacidad;4,00;;;
+BL-L-FUN-SIL;BlackBerry;Leap;Funda;Silicona;2,50;;;
+BL-L-FUN-TPU;BlackBerry;Leap;Funda;Transparente;2,95;;;
+BL-L-FUN-LIB;BlackBerry;Leap;Funda;Libro;3,70;;;
+BL-L-FUN-ANT;BlackBerry;Leap;Funda;Antigolpes;3,10;;;
+BL-C-PRO-NA;BlackBerry;Classic;Cristal templado;Estándar;1,30;;;
+BL-C-PRO-PRI;BlackBerry;Classic;Cristal templado;Privacidad;4,00;;;
+BL-C-FUN-SIL;BlackBerry;Classic;Funda;Silicona;2,50;;;
+BL-C-FUN-TPU;BlackBerry;Classic;Funda;Transparente;2,95;;;
+BL-C-FUN-LIB;BlackBerry;Classic;Funda;Libro;3,70;;;
+BL-C-FUN-ANT;BlackBerry;Classic;Funda;Antigolpes;3,10;;;
+BL-PDP9983-PRO-NA;BlackBerry;Porsche Design P'9983;Cristal templado;Estándar;1,30;;;
+BL-PDP9983-PRO-PRI;BlackBerry;Porsche Design P'9983;Cristal templado;Privacidad;4,00;;;
+BL-PDP9983-FUN-SIL;BlackBerry;Porsche Design P'9983;Funda;Silicona;2,50;;;
+BL-PDP9983-FUN-TPU;BlackBerry;Porsche Design P'9983;Funda;Transparente;2,95;;;
+BL-PDP9983-FUN-LIB;BlackBerry;Porsche Design P'9983;Funda;Libro;3,70;;;
+BL-PDP9983-FUN-ANT;BlackBerry;Porsche Design P'9983;Funda;Antigolpes;3,10;;;
+BL-P9983-PRO-NA;BlackBerry;P'9983;Cristal templado;Estándar;1,30;;;
+BL-P9983-PRO-PRI;BlackBerry;P'9983;Cristal templado;Privacidad;4,00;;;
+BL-P9983-FUN-SIL;BlackBerry;P'9983;Funda;Silicona;2,50;;;
+BL-P9983-FUN-TPU;BlackBerry;P'9983;Funda;Transparente;2,95;;;
+BL-P9983-FUN-LIB;BlackBerry;P'9983;Funda;Libro;3,70;;;
+BL-P9983-FUN-ANT;BlackBerry;P'9983;Funda;Antigolpes;3,10;;;
+BL-P-PRO-NA;BlackBerry;Passport;Cristal templado;Estándar;1,30;;;
+BL-P-PRO-PRI;BlackBerry;Passport;Cristal templado;Privacidad;4,00;;;
+BL-P-FUN-SIL;BlackBerry;Passport;Funda;Silicona;2,50;;;
+BL-P-FUN-TPU;BlackBerry;Passport;Funda;Transparente;2,95;;;
+BL-P-FUN-LIB;BlackBerry;Passport;Funda;Libro;3,70;;;
+BL-P-FUN-ANT;BlackBerry;Passport;Funda;Antigolpes;3,10;;;
+BL-Z3-PRO-NA;BlackBerry;Z3;Cristal templado;Estándar;1,30;;;
+BL-Z3-PRO-PRI;BlackBerry;Z3;Cristal templado;Privacidad;4,00;;;
+BL-Z3-FUN-SIL;BlackBerry;Z3;Funda;Silicona;2,50;;;
+BL-Z3-FUN-TPU;BlackBerry;Z3;Funda;Transparente;2,95;;;
+BL-Z3-FUN-LIB;BlackBerry;Z3;Funda;Libro;3,70;;;
+BL-Z3-FUN-ANT;BlackBerry;Z3;Funda;Antigolpes;3,10;;;
+BL-PDP9982-PRO-NA;BlackBerry;Porsche Design P'9982;Cristal templado;Estándar;1,30;;;
+BL-PDP9982-PRO-PRI;BlackBerry;Porsche Design P'9982;Cristal templado;Privacidad;4,00;;;
+BL-PDP9982-FUN-SIL;BlackBerry;Porsche Design P'9982;Funda;Silicona;2,50;;;
+BL-PDP9982-FUN-TPU;BlackBerry;Porsche Design P'9982;Funda;Transparente;2,95;;;
+BL-PDP9982-FUN-LIB;BlackBerry;Porsche Design P'9982;Funda;Libro;3,70;;;
+BL-PDP9982-FUN-ANT;BlackBerry;Porsche Design P'9982;Funda;Antigolpes;3,10;;;
+BL-P9982-PRO-NA;BlackBerry;P'9982;Cristal templado;Estándar;1,30;;;
+BL-P9982-PRO-PRI;BlackBerry;P'9982;Cristal templado;Privacidad;4,00;;;
+BL-P9982-FUN-SIL;BlackBerry;P'9982;Funda;Silicona;2,50;;;
+BL-P9982-FUN-TPU;BlackBerry;P'9982;Funda;Transparente;2,95;;;
+BL-P9982-FUN-LIB;BlackBerry;P'9982;Funda;Libro;3,70;;;
+BL-P9982-FUN-ANT;BlackBerry;P'9982;Funda;Antigolpes;3,10;;;
+BL-Z30-PRO-NA;BlackBerry;Z30;Cristal templado;Estándar;1,30;;;
+BL-Z30-PRO-PRI;BlackBerry;Z30;Cristal templado;Privacidad;4,00;;;
+BL-Z30-FUN-SIL;BlackBerry;Z30;Funda;Silicona;2,50;;;
+BL-Z30-FUN-TPU;BlackBerry;Z30;Funda;Transparente;2,95;;;
+BL-Z30-FUN-LIB;BlackBerry;Z30;Funda;Libro;3,70;;;
+BL-Z30-FUN-ANT;BlackBerry;Z30;Funda;Antigolpes;3,10;;;
+BL-9720-PRO-NA;BlackBerry;9720;Cristal templado;Estándar;1,30;;;
+BL-9720-PRO-PRI;BlackBerry;9720;Cristal templado;Privacidad;4,00;;;
+BL-9720-FUN-SIL;BlackBerry;9720;Funda;Silicona;2,50;;;
+BL-9720-FUN-TPU;BlackBerry;9720;Funda;Transparente;2,95;;;
+BL-9720-FUN-LIB;BlackBerry;9720;Funda;Libro;3,70;;;
+BL-9720-FUN-ANT;BlackBerry;9720;Funda;Antigolpes;3,10;;;
+BL-Q5-PRO-NA;BlackBerry;Q5;Cristal templado;Estándar;1,30;;;
+BL-Q5-PRO-PRI;BlackBerry;Q5;Cristal templado;Privacidad;4,00;;;
+BL-Q5-FUN-SIL;BlackBerry;Q5;Funda;Silicona;2,50;;;
+BL-Q5-FUN-TPU;BlackBerry;Q5;Funda;Transparente;2,95;;;
+BL-Q5-FUN-LIB;BlackBerry;Q5;Funda;Libro;3,70;;;
+BL-Q5-FUN-ANT;BlackBerry;Q5;Funda;Antigolpes;3,10;;;
+BL-Q10-PRO-NA;BlackBerry;Q10;Cristal templado;Estándar;1,30;;;
+BL-Q10-PRO-PRI;BlackBerry;Q10;Cristal templado;Privacidad;4,00;;;
+BL-Q10-FUN-SIL;BlackBerry;Q10;Funda;Silicona;2,50;;;
+BL-Q10-FUN-TPU;BlackBerry;Q10;Funda;Transparente;2,95;;;
+BL-Q10-FUN-LIB;BlackBerry;Q10;Funda;Libro;3,70;;;
+BL-Q10-FUN-ANT;BlackBerry;Q10;Funda;Antigolpes;3,10;;;
+BL-Z10-PRO-NA;BlackBerry;Z10;Cristal templado;Estándar;1,30;;;
+BL-Z10-PRO-PRI;BlackBerry;Z10;Cristal templado;Privacidad;4,00;;;
+BL-Z10-FUN-SIL;BlackBerry;Z10;Funda;Silicona;2,50;;;
+BL-Z10-FUN-TPU;BlackBerry;Z10;Funda;Transparente;2,95;;;
+BL-Z10-FUN-LIB;BlackBerry;Z10;Funda;Libro;3,70;;;
+BL-Z10-FUN-ANT;BlackBerry;Z10;Funda;Antigolpes;3,10;;;
+BL-P9981-PRO-NA;BlackBerry;P'9981;Cristal templado;Estándar;1,30;;;
+BL-P9981-PRO-PRI;BlackBerry;P'9981;Cristal templado;Privacidad;4,00;;;
+BL-P9981-FUN-SIL;BlackBerry;P'9981;Funda;Silicona;2,50;;;
+BL-P9981-FUN-TPU;BlackBerry;P'9981;Funda;Transparente;2,95;;;
+BL-P9981-FUN-LIB;BlackBerry;P'9981;Funda;Libro;3,70;;;
+BL-P9981-FUN-ANT;BlackBerry;P'9981;Funda;Antigolpes;3,10;;;
+BL-KEY2LE-MAR-COM;BlackBerry;Key2 LE;Marco / chasis;Compatible;6,49;;;6
+BL-KEY2LE-BOT-COM;BlackBerry;Key2 LE;Botones laterales;Compatible;3,35;;;6
+BL-KEY2LE-CRI-COM;BlackBerry;Key2 LE;Cristal de pantalla;Compatible;3,30;;;6
+BL-KEY2LE-ANT-COM;BlackBerry;Key2 LE;Antena / coaxial;Compatible;2,89;;;6
+BL-KEY2LE-HUE-COM;BlackBerry;Key2 LE;Botón home / huella;Compatible;4,79;;;6
+BL-E-MAR-COM;BlackBerry;Evolve;Marco / chasis;Compatible;6,49;;;6
+BL-E-BOT-COM;BlackBerry;Evolve;Botones laterales;Compatible;3,35;;;6
+BL-E-CRI-COM;BlackBerry;Evolve;Cristal de pantalla;Compatible;3,30;;;6
+BL-E-ANT-COM;BlackBerry;Evolve;Antena / coaxial;Compatible;2,89;;;6
+BL-E-HUE-COM;BlackBerry;Evolve;Botón home / huella;Compatible;4,79;;;6
+BL-EX-MAR-COM;BlackBerry;Evolve X;Marco / chasis;Compatible;6,49;;;6
+BL-EX-BOT-COM;BlackBerry;Evolve X;Botones laterales;Compatible;3,35;;;6
+BL-EX-CRI-COM;BlackBerry;Evolve X;Cristal de pantalla;Compatible;3,30;;;6
+BL-EX-ANT-COM;BlackBerry;Evolve X;Antena / coaxial;Compatible;2,89;;;6
+BL-EX-HUE-COM;BlackBerry;Evolve X;Botón home / huella;Compatible;4,79;;;6
+BL-KEY2-MAR-COM;BlackBerry;Key2;Marco / chasis;Compatible;6,49;;;6
+BL-KEY2-BOT-COM;BlackBerry;Key2;Botones laterales;Compatible;3,35;;;6
+BL-KEY2-CRI-COM;BlackBerry;Key2;Cristal de pantalla;Compatible;3,30;;;6
+BL-KEY2-ANT-COM;BlackBerry;Key2;Antena / coaxial;Compatible;2,89;;;6
+BL-KEY2-HUE-COM;BlackBerry;Key2;Botón home / huella;Compatible;4,79;;;6
+BL-M-MAR-COM;BlackBerry;Motion;Marco / chasis;Compatible;6,49;;;6
+BL-M-BOT-COM;BlackBerry;Motion;Botones laterales;Compatible;3,35;;;6
+BL-M-CRI-COM;BlackBerry;Motion;Cristal de pantalla;Compatible;3,30;;;6
+BL-M-ANT-COM;BlackBerry;Motion;Antena / coaxial;Compatible;2,89;;;6
+BL-M-HUE-COM;BlackBerry;Motion;Botón home / huella;Compatible;4,79;;;6
+BL-K-MAR-COM;BlackBerry;KeyOne;Marco / chasis;Compatible;6,49;;;6
+BL-K-BOT-COM;BlackBerry;KeyOne;Botones laterales;Compatible;3,35;;;6
+BL-K-CRI-COM;BlackBerry;KeyOne;Cristal de pantalla;Compatible;3,30;;;6
+BL-K-ANT-COM;BlackBerry;KeyOne;Antena / coaxial;Compatible;2,89;;;6
+BL-K-HUE-COM;BlackBerry;KeyOne;Botón home / huella;Compatible;4,79;;;6
+BL-A-MAR-COM;BlackBerry;Aurora;Marco / chasis;Compatible;6,49;;;6
+BL-A-BOT-COM;BlackBerry;Aurora;Botones laterales;Compatible;3,35;;;6
+BL-A-CRI-COM;BlackBerry;Aurora;Cristal de pantalla;Compatible;3,30;;;6
+BL-A-ANT-COM;BlackBerry;Aurora;Antena / coaxial;Compatible;2,89;;;6
+BL-A-HUE-COM;BlackBerry;Aurora;Botón home / huella;Compatible;4,79;;;6
+BL-D60-MAR-COM;BlackBerry;DTEK60;Marco / chasis;Compatible;5,75;;;6
+BL-D60-BOT-COM;BlackBerry;DTEK60;Botones laterales;Compatible;2,95;;;6
+BL-D60-CRI-COM;BlackBerry;DTEK60;Cristal de pantalla;Compatible;2,95;;;6
+BL-D60-ANT-COM;BlackBerry;DTEK60;Antena / coaxial;Compatible;2,55;;;6
+BL-D60-HUE-COM;BlackBerry;DTEK60;Botón home / huella;Compatible;4,25;;;6
+BL-D50-MAR-COM;BlackBerry;DTEK50;Marco / chasis;Compatible;5,75;;;6
+BL-D50-BOT-COM;BlackBerry;DTEK50;Botones laterales;Compatible;2,95;;;6
+BL-D50-CRI-COM;BlackBerry;DTEK50;Cristal de pantalla;Compatible;2,95;;;6
+BL-D50-ANT-COM;BlackBerry;DTEK50;Antena / coaxial;Compatible;2,55;;;6
+BL-D50-HUE-COM;BlackBerry;DTEK50;Botón home / huella;Compatible;4,25;;;6
+BL-PRIV-MAR-COM;BlackBerry;Priv;Marco / chasis;Compatible;5,75;;;6
+BL-PRIV-BOT-COM;BlackBerry;Priv;Botones laterales;Compatible;2,95;;;6
+BL-PRIV-CRI-COM;BlackBerry;Priv;Cristal de pantalla;Compatible;2,95;;;6
+BL-PRIV-ANT-COM;BlackBerry;Priv;Antena / coaxial;Compatible;2,55;;;6
+BL-L-MAR-COM;BlackBerry;Leap;Marco / chasis;Compatible;5,75;;;6
+BL-L-BOT-COM;BlackBerry;Leap;Botones laterales;Compatible;2,95;;;6
+BL-L-CRI-COM;BlackBerry;Leap;Cristal de pantalla;Compatible;2,95;;;6
+BL-L-ANT-COM;BlackBerry;Leap;Antena / coaxial;Compatible;2,55;;;6
+BL-C-MAR-COM;BlackBerry;Classic;Marco / chasis;Compatible;5,75;;;6
+BL-C-BOT-COM;BlackBerry;Classic;Botones laterales;Compatible;2,95;;;6
+BL-C-ANT-COM;BlackBerry;Classic;Antena / coaxial;Compatible;2,55;;;6
+BL-PDP9983-MAR-COM;BlackBerry;Porsche Design P'9983;Marco / chasis;Compatible;5,75;;;6
+BL-PDP9983-BOT-COM;BlackBerry;Porsche Design P'9983;Botones laterales;Compatible;2,95;;;6
+BL-PDP9983-ANT-COM;BlackBerry;Porsche Design P'9983;Antena / coaxial;Compatible;2,55;;;6
+BL-P9983-MAR-COM;BlackBerry;P'9983;Marco / chasis;Compatible;5,75;;;6
+BL-P9983-BOT-COM;BlackBerry;P'9983;Botones laterales;Compatible;2,95;;;6
+BL-P9983-ANT-COM;BlackBerry;P'9983;Antena / coaxial;Compatible;2,55;;;6
+BL-P-MAR-COM;BlackBerry;Passport;Marco / chasis;Compatible;5,75;;;6
+BL-P-BOT-COM;BlackBerry;Passport;Botones laterales;Compatible;2,95;;;6
+BL-P-ANT-COM;BlackBerry;Passport;Antena / coaxial;Compatible;2,55;;;6
+BL-Z3-MAR-COM;BlackBerry;Z3;Marco / chasis;Compatible;5,75;;;6
+BL-Z3-BOT-COM;BlackBerry;Z3;Botones laterales;Compatible;2,95;;;6
+BL-Z3-ANT-COM;BlackBerry;Z3;Antena / coaxial;Compatible;2,55;;;6
+BL-PDP9982-MAR-COM;BlackBerry;Porsche Design P'9982;Marco / chasis;Compatible;5,75;;;6
+BL-PDP9982-BOT-COM;BlackBerry;Porsche Design P'9982;Botones laterales;Compatible;2,95;;;6
+BL-PDP9982-ANT-COM;BlackBerry;Porsche Design P'9982;Antena / coaxial;Compatible;2,55;;;6
+BL-P9982-MAR-COM;BlackBerry;P'9982;Marco / chasis;Compatible;5,75;;;6
+BL-P9982-BOT-COM;BlackBerry;P'9982;Botones laterales;Compatible;2,95;;;6
+BL-P9982-ANT-COM;BlackBerry;P'9982;Antena / coaxial;Compatible;2,55;;;6
+BL-Z30-MAR-COM;BlackBerry;Z30;Marco / chasis;Compatible;5,75;;;6
+BL-Z30-BOT-COM;BlackBerry;Z30;Botones laterales;Compatible;2,95;;;6
+BL-Z30-ANT-COM;BlackBerry;Z30;Antena / coaxial;Compatible;2,55;;;6
+BL-9720-MAR-COM;BlackBerry;9720;Marco / chasis;Compatible;5,75;;;6
+BL-9720-BOT-COM;BlackBerry;9720;Botones laterales;Compatible;2,95;;;6
+BL-9720-ANT-COM;BlackBerry;9720;Antena / coaxial;Compatible;2,55;;;6
+BL-Q5-MAR-COM;BlackBerry;Q5;Marco / chasis;Compatible;5,75;;;6
+BL-Q5-BOT-COM;BlackBerry;Q5;Botones laterales;Compatible;2,95;;;6
+BL-Q5-ANT-COM;BlackBerry;Q5;Antena / coaxial;Compatible;2,55;;;6
+BL-Q10-MAR-COM;BlackBerry;Q10;Marco / chasis;Compatible;5,75;;;6
+BL-Q10-BOT-COM;BlackBerry;Q10;Botones laterales;Compatible;2,95;;;6
+BL-Q10-ANT-COM;BlackBerry;Q10;Antena / coaxial;Compatible;2,55;;;6
+BL-Z10-MAR-COM;BlackBerry;Z10;Marco / chasis;Compatible;5,75;;;6
+BL-Z10-BOT-COM;BlackBerry;Z10;Botones laterales;Compatible;2,95;;;6
+BL-Z10-ANT-COM;BlackBerry;Z10;Antena / coaxial;Compatible;2,55;;;6
+BL-P9981-ANT-COM;BlackBerry;P'9981;Antena / coaxial;Compatible;2,55;;;6

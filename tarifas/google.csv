@@ -1,0 +1,1432 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+GO-P3A-PAN-ORI;Google;Pixel 3a;Pantalla;Original;64,59;62,65;60,71;12
+GO-P3A-PAN-OLS;Google;Pixel 3a;Pantalla;OLED Soft;49,05;47,58;46,11;6
+GO-P3A-PAN-OLH;Google;Pixel 3a;Pantalla;OLED Hard;36,70;35,60;34,50;6
+GO-P3A-PAN-INC;Google;Pixel 3a;Pantalla;Incell;22,10;21,44;20,77;6
+GO-P3A-BAT-COM;Google;Pixel 3a;Batería;Compatible;10,29;9,98;9,67;6
+GO-P3A-CON-COM;Google;Pixel 3a;Conector de carga;Compatible;4,20;;;6
+GO-P3A-TAP-COM-NEG;Google;Pixel 3a;Tapa trasera;Negro (Just Black);6,89;;;6
+GO-P3A-TAP-COM-BLA;Google;Pixel 3a;Tapa trasera;Blanco (Clearly White);6,89;;;6
+GO-P3A-TAP-COM-PUR;Google;Pixel 3a;Tapa trasera;Purple-ish;6,89;;;6
+GO-P3A-CTR-COM;Google;Pixel 3a;Cámara trasera;Compatible;9,90;;;6
+GO-P3A-CFR-COM;Google;Pixel 3a;Cámara frontal;Compatible;7,35;;;6
+GO-P3A-LEN-COM;Google;Pixel 3a;Lente de cámara;Compatible;2,59;;;6
+GO-P3A-ALT-COM;Google;Pixel 3a;Altavoz;Compatible;3,80;;;6
+GO-P3A-AUR-COM;Google;Pixel 3a;Auricular de llamada;Compatible;3,39;;;6
+GO-P3A-FLX-COM;Google;Pixel 3a;Flex de encendido y volumen;Compatible;3,20;;;6
+GO-P3A-SIM-COM-NEG;Google;Pixel 3a;Bandeja SIM;Negro (Just Black);2,85;;;6
+GO-P3A-SIM-COM-BLA;Google;Pixel 3a;Bandeja SIM;Blanco (Clearly White);2,85;;;6
+GO-P3A-SIM-COM-PUR;Google;Pixel 3a;Bandeja SIM;Purple-ish;2,85;;;6
+GO-P3AXL-PAN-ORI;Google;Pixel 3a XL;Pantalla;Original;70,85;68,72;66,60;12
+GO-P3AXL-PAN-OLS;Google;Pixel 3a XL;Pantalla;OLED Soft;49,05;47,58;46,11;6
+GO-P3AXL-PAN-OLH;Google;Pixel 3a XL;Pantalla;OLED Hard;41,95;40,69;39,43;6
+GO-P3AXL-PAN-INC;Google;Pixel 3a XL;Pantalla;Incell;22,10;21,44;20,77;6
+GO-P3AXL-BAT-COM;Google;Pixel 3a XL;Batería;Compatible;10,29;9,98;9,67;6
+GO-P3AXL-CON-COM;Google;Pixel 3a XL;Conector de carga;Compatible;4,20;;;6
+GO-P3AXL-TAP-COM-NEG;Google;Pixel 3a XL;Tapa trasera;Negro (Just Black);6,89;;;6
+GO-P3AXL-TAP-COM-BLA;Google;Pixel 3a XL;Tapa trasera;Blanco (Clearly White);6,89;;;6
+GO-P3AXL-TAP-COM-PUR;Google;Pixel 3a XL;Tapa trasera;Purple-ish;6,89;;;6
+GO-P3AXL-CTR-COM;Google;Pixel 3a XL;Cámara trasera;Compatible;9,90;;;6
+GO-P3AXL-CFR-COM;Google;Pixel 3a XL;Cámara frontal;Compatible;7,35;;;6
+GO-P3AXL-LEN-COM;Google;Pixel 3a XL;Lente de cámara;Compatible;2,59;;;6
+GO-P3AXL-ALT-COM;Google;Pixel 3a XL;Altavoz;Compatible;3,80;;;6
+GO-P3AXL-AUR-COM;Google;Pixel 3a XL;Auricular de llamada;Compatible;3,39;;;6
+GO-P3AXL-FLX-COM;Google;Pixel 3a XL;Flex de encendido y volumen;Compatible;3,20;;;6
+GO-P3AXL-SIM-COM-NEG;Google;Pixel 3a XL;Bandeja SIM;Negro (Just Black);2,85;;;6
+GO-P3AXL-SIM-COM-BLA;Google;Pixel 3a XL;Bandeja SIM;Blanco (Clearly White);2,85;;;6
+GO-P3AXL-SIM-COM-PUR;Google;Pixel 3a XL;Bandeja SIM;Purple-ish;2,85;;;6
+GO-P4-PAN-ORI;Google;Pixel 4;Pantalla;Original;88,09;85,45;82,80;12
+GO-P4-PAN-OLS;Google;Pixel 4;Pantalla;OLED Soft;53,59;51,98;50,37;6
+GO-P4-PAN-OLH;Google;Pixel 4;Pantalla;OLED Hard;45,85;44,47;43,10;6
+GO-P4-PAN-INC;Google;Pixel 4;Pantalla;Incell;24,15;23,43;22,70;6
+GO-P4-BAT-COM;Google;Pixel 4;Batería;Compatible;11,09;10,76;10,42;6
+GO-P4-CON-COM;Google;Pixel 4;Conector de carga;Compatible;3,90;;;6
+GO-P4-TAP-COM-NEG;Google;Pixel 4;Tapa trasera;Negro (Just Black);6,99;;;6
+GO-P4-TAP-COM-BLA;Google;Pixel 4;Tapa trasera;Blanco (Clearly White);6,99;;;6
+GO-P4-TAP-COM-NAR;Google;Pixel 4;Tapa trasera;Naranja (Oh So Orange);6,99;;;6
+GO-P4-CTR-COM;Google;Pixel 4;Cámara trasera;Compatible;12,05;11,69;11,33;6
+GO-P4-CFR-COM;Google;Pixel 4;Cámara frontal;Compatible;7,79;;;6
+GO-P4-LEN-COM;Google;Pixel 4;Lente de cámara;Compatible;3,09;;;6
+GO-P4-ALT-COM;Google;Pixel 4;Altavoz;Compatible;4,20;;;6
+GO-P4-AUR-COM;Google;Pixel 4;Auricular de llamada;Compatible;4,20;;;6
+GO-P4-FLX-COM;Google;Pixel 4;Flex de encendido y volumen;Compatible;4,15;;;6
+GO-P4-SIM-COM-NEG;Google;Pixel 4;Bandeja SIM;Negro (Just Black);3,25;;;6
+GO-P4-SIM-COM-BLA;Google;Pixel 4;Bandeja SIM;Blanco (Clearly White);3,25;;;6
+GO-P4-SIM-COM-NAR;Google;Pixel 4;Bandeja SIM;Naranja (Oh So Orange);3,25;;;6
+GO-P4XL-PAN-ORI;Google;Pixel 4 XL;Pantalla;Original;125,15;121,40;117,64;12
+GO-P4XL-PAN-OLS;Google;Pixel 4 XL;Pantalla;OLED Soft;70,05;67,95;65,85;6
+GO-P4XL-PAN-OLH;Google;Pixel 4 XL;Pantalla;OLED Hard;59,95;58,15;56,35;6
+GO-P4XL-PAN-INC;Google;Pixel 4 XL;Pantalla;Incell;31,59;30,64;29,69;6
+GO-P4XL-BAT-COM;Google;Pixel 4 XL;Batería;Compatible;10,60;10,28;9,96;6
+GO-P4XL-CON-COM;Google;Pixel 4 XL;Conector de carga;Compatible;5,25;;;6
+GO-P4XL-TAP-COM-NEG;Google;Pixel 4 XL;Tapa trasera;Negro (Just Black);8,55;;;6
+GO-P4XL-TAP-COM-BLA;Google;Pixel 4 XL;Tapa trasera;Blanco (Clearly White);8,55;;;6
+GO-P4XL-TAP-COM-NAR;Google;Pixel 4 XL;Tapa trasera;Naranja (Oh So Orange);8,55;;;6
+GO-P4XL-CTR-COM;Google;Pixel 4 XL;Cámara trasera;Compatible;15,09;14,64;14,18;6
+GO-P4XL-CFR-COM;Google;Pixel 4 XL;Cámara frontal;Compatible;9,75;;;6
+GO-P4XL-LEN-COM;Google;Pixel 4 XL;Lente de cámara;Compatible;3,59;;;6
+GO-P4XL-ALT-COM;Google;Pixel 4 XL;Altavoz;Compatible;4,80;;;6
+GO-P4XL-AUR-COM;Google;Pixel 4 XL;Auricular de llamada;Compatible;4,59;;;6
+GO-P4XL-FLX-COM;Google;Pixel 4 XL;Flex de encendido y volumen;Compatible;4,50;;;6
+GO-P4XL-SIM-COM-NEG;Google;Pixel 4 XL;Bandeja SIM;Negro (Just Black);3,55;;;6
+GO-P4XL-SIM-COM-BLA;Google;Pixel 4 XL;Bandeja SIM;Blanco (Clearly White);3,55;;;6
+GO-P4XL-SIM-COM-NAR;Google;Pixel 4 XL;Bandeja SIM;Naranja (Oh So Orange);3,55;;;6
+GO-P4A-PAN-ORI;Google;Pixel 4a;Pantalla;Original;64,59;62,65;60,71;12
+GO-P4A-PAN-OLS;Google;Pixel 4a;Pantalla;OLED Soft;52,05;50,49;48,93;6
+GO-P4A-PAN-OLH;Google;Pixel 4a;Pantalla;OLED Hard;36,70;35,60;34,50;6
+GO-P4A-PAN-INC;Google;Pixel 4a;Pantalla;Incell;23,45;22,75;22,04;6
+GO-P4A-BAT-COM;Google;Pixel 4a;Batería;Compatible;8,79;;;6
+GO-P4A-CON-COM;Google;Pixel 4a;Conector de carga;Compatible;4,00;;;6
+GO-P4A-TAP-COM-NEG;Google;Pixel 4a;Tapa trasera;Negro (Just Black);7,05;;;6
+GO-P4A-TAP-COM-AZU;Google;Pixel 4a;Tapa trasera;Azul (Barely Blue);7,05;;;6
+GO-P4A-CTR-COM;Google;Pixel 4a;Cámara trasera;Compatible;8,09;;;6
+GO-P4A-CFR-COM;Google;Pixel 4a;Cámara frontal;Compatible;5,40;;;6
+GO-P4A-LEN-COM;Google;Pixel 4a;Lente de cámara;Compatible;2,60;;;6
+GO-P4A-ALT-COM;Google;Pixel 4a;Altavoz;Compatible;3,49;;;6
+GO-P4A-AUR-COM;Google;Pixel 4a;Auricular de llamada;Compatible;3,05;;;6
+GO-P4A-FLX-COM;Google;Pixel 4a;Flex de encendido y volumen;Compatible;2,95;;;6
+GO-P4A-SIM-COM-NEG;Google;Pixel 4a;Bandeja SIM;Negro (Just Black);2,90;;;6
+GO-P4A-SIM-COM-AZU;Google;Pixel 4a;Bandeja SIM;Azul (Barely Blue);2,90;;;6
+GO-P4A5-PAN-ORI;Google;Pixel 4a 5G;Pantalla;Original;64,59;62,65;60,71;12
+GO-P4A5-PAN-OLS;Google;Pixel 4a 5G;Pantalla;OLED Soft;52,05;50,49;48,93;6
+GO-P4A5-PAN-OLH;Google;Pixel 4a 5G;Pantalla;OLED Hard;36,70;35,60;34,50;6
+GO-P4A5-PAN-INC;Google;Pixel 4a 5G;Pantalla;Incell;23,45;22,75;22,04;6
+GO-P4A5-BAT-COM;Google;Pixel 4a 5G;Batería;Compatible;8,79;;;6
+GO-P4A5-CON-COM;Google;Pixel 4a 5G;Conector de carga;Compatible;4,00;;;6
+GO-P4A5-TAP-COM-NEG;Google;Pixel 4a 5G;Tapa trasera;Negro (Just Black);7,05;;;6
+GO-P4A5-TAP-COM-BLA;Google;Pixel 4a 5G;Tapa trasera;Blanco (Clearly White);7,05;;;6
+GO-P4A5-CTR-COM;Google;Pixel 4a 5G;Cámara trasera;Compatible;8,09;;;6
+GO-P4A5-CFR-COM;Google;Pixel 4a 5G;Cámara frontal;Compatible;5,40;;;6
+GO-P4A5-LEN-COM;Google;Pixel 4a 5G;Lente de cámara;Compatible;2,60;;;6
+GO-P4A5-ALT-COM;Google;Pixel 4a 5G;Altavoz;Compatible;3,49;;;6
+GO-P4A5-AUR-COM;Google;Pixel 4a 5G;Auricular de llamada;Compatible;3,05;;;6
+GO-P4A5-FLX-COM;Google;Pixel 4a 5G;Flex de encendido y volumen;Compatible;2,95;;;6
+GO-P4A5-SIM-COM-NEG;Google;Pixel 4a 5G;Bandeja SIM;Negro (Just Black);2,90;;;6
+GO-P4A5-SIM-COM-BLA;Google;Pixel 4a 5G;Bandeja SIM;Blanco (Clearly White);2,90;;;6
+GO-P5-PAN-ORI;Google;Pixel 5;Pantalla;Original;96,90;93,99;91,09;12
+GO-P5-PAN-OLS;Google;Pixel 5;Pantalla;OLED Soft;56,89;55,18;53,48;6
+GO-P5-PAN-OLH;Google;Pixel 5;Pantalla;OLED Hard;48,69;47,23;45,77;6
+GO-P5-PAN-INC;Google;Pixel 5;Pantalla;Incell;25,65;24,88;24,11;6
+GO-P5-BAT-COM;Google;Pixel 5;Batería;Compatible;9,45;;;6
+GO-P5-CON-COM;Google;Pixel 5;Conector de carga;Compatible;3,75;;;6
+GO-P5-TAP-COM-NEG;Google;Pixel 5;Tapa trasera;Negro (Just Black);7,15;;;6
+GO-P5-TAP-COM-SAL;Google;Pixel 5;Tapa trasera;Salvia (Sorta Sage);7,15;;;6
+GO-P5-CTR-COM;Google;Pixel 5;Cámara trasera;Compatible;9,80;;;6
+GO-P5-CFR-COM;Google;Pixel 5;Cámara frontal;Compatible;5,75;;;6
+GO-P5-LEN-COM;Google;Pixel 5;Lente de cámara;Compatible;3,10;;;6
+GO-P5-ALT-COM;Google;Pixel 5;Altavoz;Compatible;3,85;;;6
+GO-P5-AUR-COM;Google;Pixel 5;Auricular de llamada;Compatible;3,80;;;6
+GO-P5-FLX-COM;Google;Pixel 5;Flex de encendido y volumen;Compatible;3,80;;;6
+GO-P5-SIM-COM-NEG;Google;Pixel 5;Bandeja SIM;Negro (Just Black);3,35;;;6
+GO-P5-SIM-COM-SAL;Google;Pixel 5;Bandeja SIM;Salvia (Sorta Sage);3,35;;;6
+GO-P6-PAN-ORI;Google;Pixel 6;Pantalla;Original;96,90;93,99;91,09;12
+GO-P6-PAN-OLS;Google;Pixel 6;Pantalla;OLED Soft;56,89;55,18;53,48;6
+GO-P6-PAN-OLH;Google;Pixel 6;Pantalla;OLED Hard;48,69;47,23;45,77;6
+GO-P6-PAN-INC;Google;Pixel 6;Pantalla;Incell;25,65;24,88;24,11;6
+GO-P6-BAT-COM;Google;Pixel 6;Batería;Compatible;9,25;;;6
+GO-P6-CON-COM;Google;Pixel 6;Conector de carga;Compatible;3,75;;;6
+GO-P6-TAP-COM-NEG;Google;Pixel 6;Tapa trasera;Negro (Stormy Black);7,15;;;6
+GO-P6-TAP-COM-SOR;Google;Pixel 6;Tapa trasera;Sorta Seafoam;7,15;;;6
+GO-P6-TAP-COM-COR;Google;Pixel 6;Tapa trasera;Coral (Kinda Coral);7,15;;;6
+GO-P6-CTR-COM;Google;Pixel 6;Cámara trasera;Compatible;9,80;;;6
+GO-P6-CFR-COM;Google;Pixel 6;Cámara frontal;Compatible;5,75;;;6
+GO-P6-LEN-COM;Google;Pixel 6;Lente de cámara;Compatible;3,10;;;6
+GO-P6-ALT-COM;Google;Pixel 6;Altavoz;Compatible;3,85;;;6
+GO-P6-AUR-COM;Google;Pixel 6;Auricular de llamada;Compatible;3,80;;;6
+GO-P6-FLX-COM;Google;Pixel 6;Flex de encendido y volumen;Compatible;3,80;;;6
+GO-P6-SIM-COM-NEG;Google;Pixel 6;Bandeja SIM;Negro (Stormy Black);3,35;;;6
+GO-P6-SIM-COM-SOR;Google;Pixel 6;Bandeja SIM;Sorta Seafoam;3,35;;;6
+GO-P6-SIM-COM-COR;Google;Pixel 6;Bandeja SIM;Coral (Kinda Coral);3,35;;;6
+GO-P6P-PAN-ORI;Google;Pixel 6 Pro;Pantalla;Original;137,70;133,57;129,44;12
+GO-P6P-PAN-OLS;Google;Pixel 6 Pro;Pantalla;OLED Soft;61,55;59,70;57,86;6
+GO-P6P-PAN-OLH;Google;Pixel 6 Pro;Pantalla;OLED Hard;58,60;56,84;55,08;6
+GO-P6P-PAN-INC;Google;Pixel 6 Pro;Pantalla;Incell;33,55;32,54;31,54;6
+GO-P6P-BAT-COM;Google;Pixel 6 Pro;Batería;Compatible;9,25;;;6
+GO-P6P-CON-COM;Google;Pixel 6 Pro;Conector de carga;Compatible;5,05;;;6
+GO-P6P-TAP-COM-NEG;Google;Pixel 6 Pro;Tapa trasera;Negro (Stormy Black);8,79;;;6
+GO-P6P-TAP-COM-BLA;Google;Pixel 6 Pro;Tapa trasera;Blanco (Cloudy White);8,79;;;6
+GO-P6P-TAP-COM-SOR;Google;Pixel 6 Pro;Tapa trasera;Sorta Sunny;8,79;;;6
+GO-P6P-CTR-COM;Google;Pixel 6 Pro;Cámara trasera;Compatible;12,29;11,92;11,55;6
+GO-P6P-CFR-COM;Google;Pixel 6 Pro;Cámara frontal;Compatible;7,15;;;6
+GO-P6P-LEN-COM;Google;Pixel 6 Pro;Lente de cámara;Compatible;3,60;;;6
+GO-P6P-ALT-COM;Google;Pixel 6 Pro;Altavoz;Compatible;4,40;;;6
+GO-P6P-AUR-COM;Google;Pixel 6 Pro;Auricular de llamada;Compatible;4,15;;;6
+GO-P6P-FLX-COM;Google;Pixel 6 Pro;Flex de encendido y volumen;Compatible;4,15;;;6
+GO-P6P-SIM-COM-NEG;Google;Pixel 6 Pro;Bandeja SIM;Negro (Stormy Black);3,60;;;6
+GO-P6P-SIM-COM-BLA;Google;Pixel 6 Pro;Bandeja SIM;Blanco (Cloudy White);3,60;;;6
+GO-P6P-SIM-COM-SOR;Google;Pixel 6 Pro;Bandeja SIM;Sorta Sunny;3,60;;;6
+GO-P6A-PAN-ORI;Google;Pixel 6a;Pantalla;Original;64,55;62,61;60,68;12
+GO-P6A-PAN-OLS;Google;Pixel 6a;Pantalla;OLED Soft;50,65;49,13;47,61;6
+GO-P6A-PAN-OLH;Google;Pixel 6a;Pantalla;OLED Hard;36,69;35,59;34,49;6
+GO-P6A-PAN-INC;Google;Pixel 6a;Pantalla;Incell;23,79;23,08;22,36;6
+GO-P6A-BAT-COM;Google;Pixel 6a;Batería;Compatible;9,50;;;6
+GO-P6A-CON-COM;Google;Pixel 6a;Conector de carga;Compatible;4,55;;;6
+GO-P6A-TAP-COM-GRI;Google;Pixel 6a;Tapa trasera;Gris carbón;7,05;;;6
+GO-P6A-TAP-COM-CHA;Google;Pixel 6a;Tapa trasera;Chalk;7,05;;;6
+GO-P6A-TAP-COM-SAL;Google;Pixel 6a;Tapa trasera;Salvia;7,05;;;6
+GO-P6A-CTR-COM;Google;Pixel 6a;Cámara trasera;Compatible;8,09;;;6
+GO-P6A-CFR-COM;Google;Pixel 6a;Cámara frontal;Compatible;7,39;;;6
+GO-P6A-LEN-COM;Google;Pixel 6a;Lente de cámara;Compatible;3,90;;;6
+GO-P6A-ALT-COM;Google;Pixel 6a;Altavoz;Compatible;5,45;;;6
+GO-P6A-AUR-COM;Google;Pixel 6a;Auricular de llamada;Compatible;3,90;;;6
+GO-P6A-FLX-COM;Google;Pixel 6a;Flex de encendido y volumen;Compatible;2,95;;;6
+GO-P6A-SIM-COM-GRI;Google;Pixel 6a;Bandeja SIM;Gris carbón;4,19;;;6
+GO-P6A-SIM-COM-CHA;Google;Pixel 6a;Bandeja SIM;Chalk;4,19;;;6
+GO-P6A-SIM-COM-SAL;Google;Pixel 6a;Bandeja SIM;Salvia;4,19;;;6
+GO-P7-PAN-ORI;Google;Pixel 7;Pantalla;Original;97,85;94,91;91,98;12
+GO-P7-PAN-OLS;Google;Pixel 7;Pantalla;OLED Soft;61,20;59,36;57,53;6
+GO-P7-PAN-OLH;Google;Pixel 7;Pantalla;OLED Hard;50,95;49,42;47,89;6
+GO-P7-PAN-INC;Google;Pixel 7;Pantalla;Incell;26,85;26,04;25,24;6
+GO-P7-BAT-COM;Google;Pixel 7;Batería;Compatible;9,25;;;6
+GO-P7-CON-COM;Google;Pixel 7;Conector de carga;Compatible;3,75;;;6
+GO-P7-TAP-COM-LEM;Google;Pixel 7;Tapa trasera;Lemongrass;7,15;;;6
+GO-P7-TAP-COM-SNO;Google;Pixel 7;Tapa trasera;Snow;7,15;;;6
+GO-P7-TAP-COM-OBS;Google;Pixel 7;Tapa trasera;Obsidian;7,15;;;6
+GO-P7-CTR-COM;Google;Pixel 7;Cámara trasera;Compatible;11,70;11,35;11,00;6
+GO-P7-CFR-COM;Google;Pixel 7;Cámara frontal;Compatible;5,05;;;6
+GO-P7-LEN-COM;Google;Pixel 7;Lente de cámara;Compatible;3,10;;;6
+GO-P7-ALT-COM;Google;Pixel 7;Altavoz;Compatible;3,85;;;6
+GO-P7-AUR-COM;Google;Pixel 7;Auricular de llamada;Compatible;3,80;;;6
+GO-P7-FLX-COM;Google;Pixel 7;Flex de encendido y volumen;Compatible;3,80;;;6
+GO-P7-SIM-COM-LEM;Google;Pixel 7;Bandeja SIM;Lemongrass;3,35;;;6
+GO-P7-SIM-COM-SNO;Google;Pixel 7;Bandeja SIM;Snow;3,35;;;6
+GO-P7-SIM-COM-OBS;Google;Pixel 7;Bandeja SIM;Obsidian;3,35;;;6
+GO-P7P-PAN-ORI;Google;Pixel 7 Pro;Pantalla;Original;137,70;133,57;129,44;12
+GO-P7P-PAN-OLS;Google;Pixel 7 Pro;Pantalla;OLED Soft;61,55;59,70;57,86;6
+GO-P7P-PAN-OLH;Google;Pixel 7 Pro;Pantalla;OLED Hard;58,60;56,84;55,08;6
+GO-P7P-PAN-INC;Google;Pixel 7 Pro;Pantalla;Incell;33,55;32,54;31,54;6
+GO-P7P-BAT-COM;Google;Pixel 7 Pro;Batería;Compatible;9,25;;;6
+GO-P7P-CON-COM;Google;Pixel 7 Pro;Conector de carga;Compatible;5,05;;;6
+GO-P7P-TAP-COM-HAZ;Google;Pixel 7 Pro;Tapa trasera;Hazel;8,79;;;6
+GO-P7P-TAP-COM-SNO;Google;Pixel 7 Pro;Tapa trasera;Snow;8,79;;;6
+GO-P7P-TAP-COM-OBS;Google;Pixel 7 Pro;Tapa trasera;Obsidian;8,79;;;6
+GO-P7P-CTR-COM;Google;Pixel 7 Pro;Cámara trasera;Compatible;12,29;11,92;11,55;6
+GO-P7P-CFR-COM;Google;Pixel 7 Pro;Cámara frontal;Compatible;7,15;;;6
+GO-P7P-LEN-COM;Google;Pixel 7 Pro;Lente de cámara;Compatible;3,60;;;6
+GO-P7P-ALT-COM;Google;Pixel 7 Pro;Altavoz;Compatible;4,40;;;6
+GO-P7P-AUR-COM;Google;Pixel 7 Pro;Auricular de llamada;Compatible;4,15;;;6
+GO-P7P-FLX-COM;Google;Pixel 7 Pro;Flex de encendido y volumen;Compatible;4,15;;;6
+GO-P7P-SIM-COM-HAZ;Google;Pixel 7 Pro;Bandeja SIM;Hazel;3,60;;;6
+GO-P7P-SIM-COM-SNO;Google;Pixel 7 Pro;Bandeja SIM;Snow;3,60;;;6
+GO-P7P-SIM-COM-OBS;Google;Pixel 7 Pro;Bandeja SIM;Obsidian;3,60;;;6
+GO-P7A-PAN-ORI;Google;Pixel 7a;Pantalla;Original;80,50;78,08;75,67;12
+GO-P7A-PAN-OLS;Google;Pixel 7a;Pantalla;OLED Soft;65,09;63,14;61,18;6
+GO-P7A-PAN-OLH;Google;Pixel 7a;Pantalla;OLED Hard;58,50;56,75;54,99;6
+GO-P7A-PAN-INC;Google;Pixel 7a;Pantalla;Incell;27,79;26,96;26,12;6
+GO-P7A-BAT-COM;Google;Pixel 7a;Batería;Compatible;10,95;10,62;10,29;6
+GO-P7A-CON-COM;Google;Pixel 7a;Conector de carga;Compatible;4,59;;;6
+GO-P7A-TAP-COM-COR;Google;Pixel 7a;Tapa trasera;Coral;7,90;;;6
+GO-P7A-TAP-COM-SEA;Google;Pixel 7a;Tapa trasera;Sea;7,90;;;6
+GO-P7A-TAP-COM-GRI;Google;Pixel 7a;Tapa trasera;Gris carbón;7,90;;;6
+GO-P7A-TAP-COM-SNO;Google;Pixel 7a;Tapa trasera;Snow;7,90;;;6
+GO-P7A-CTR-COM;Google;Pixel 7a;Cámara trasera;Compatible;11,19;10,85;10,52;6
+GO-P7A-CFR-COM;Google;Pixel 7a;Cámara frontal;Compatible;9,75;;;6
+GO-P7A-LEN-COM;Google;Pixel 7a;Lente de cámara;Compatible;2,99;;;6
+GO-P7A-ALT-COM;Google;Pixel 7a;Altavoz;Compatible;4,19;;;6
+GO-P7A-AUR-COM;Google;Pixel 7a;Auricular de llamada;Compatible;4,69;;;6
+GO-P7A-FLX-COM;Google;Pixel 7a;Flex de encendido y volumen;Compatible;6,15;;;6
+GO-P7A-SIM-COM-COR;Google;Pixel 7a;Bandeja SIM;Coral;2,95;;;6
+GO-P7A-SIM-COM-SEA;Google;Pixel 7a;Bandeja SIM;Sea;2,95;;;6
+GO-P7A-SIM-COM-GRI;Google;Pixel 7a;Bandeja SIM;Gris carbón;2,95;;;6
+GO-P7A-SIM-COM-SNO;Google;Pixel 7a;Bandeja SIM;Snow;2,95;;;6
+GO-PF-PAN-ORI;Google;Pixel Fold;Pantalla;Original;389,39;377,71;366,03;12
+GO-PF-PAN-COM;Google;Pixel Fold;Pantalla;Compatible;185,60;180,03;174,46;6
+GO-PF-PAN-ORI-EXT;Google;Pixel Fold;Pantalla exterior;Original;116,15;112,67;109,18;12
+GO-PF-PAN-COM-EXT;Google;Pixel Fold;Pantalla exterior;Compatible;30,79;29,87;28,94;6
+GO-PF-BAT-COM;Google;Pixel Fold;Batería;Compatible;10,35;10,04;9,73;6
+GO-PF-CON-COM;Google;Pixel Fold;Conector de carga;Compatible;8,80;;;6
+GO-PF-TAP-COM-POR;Google;Pixel Fold;Tapa trasera;Porcelain;14,05;13,63;13,21;6
+GO-PF-TAP-COM-OBS;Google;Pixel Fold;Tapa trasera;Obsidian;14,05;13,63;13,21;6
+GO-PF-CTR-COM;Google;Pixel Fold;Cámara trasera;Compatible;26,19;25,40;24,62;6
+GO-PF-CFR-COM;Google;Pixel Fold;Cámara frontal;Compatible;14,00;13,58;13,16;6
+GO-PF-LEN-COM;Google;Pixel Fold;Lente de cámara;Compatible;5,55;;;6
+GO-PF-ALT-COM;Google;Pixel Fold;Altavoz;Compatible;7,30;;;6
+GO-PF-AUR-COM;Google;Pixel Fold;Auricular de llamada;Compatible;6,69;;;6
+GO-PF-FLX-COM;Google;Pixel Fold;Flex de encendido y volumen;Compatible;7,40;;;6
+GO-PF-SIM-COM-POR;Google;Pixel Fold;Bandeja SIM;Porcelain;5,29;;;6
+GO-PF-SIM-COM-OBS;Google;Pixel Fold;Bandeja SIM;Obsidian;5,29;;;6
+GO-P8-PAN-ORI;Google;Pixel 8;Pantalla;Original;101,45;98,41;95,36;12
+GO-P8-PAN-OLS;Google;Pixel 8;Pantalla;OLED Soft;61,20;59,36;57,53;6
+GO-P8-PAN-OLH;Google;Pixel 8;Pantalla;OLED Hard;53,45;51,85;50,24;6
+GO-P8-PAN-INC;Google;Pixel 8;Pantalla;Incell;26,15;25,37;24,58;6
+GO-P8-BAT-COM;Google;Pixel 8;Batería;Compatible;9,19;;;6
+GO-P8-CON-COM;Google;Pixel 8;Conector de carga;Compatible;3,90;;;6
+GO-P8-TAP-COM-HAZ;Google;Pixel 8;Tapa trasera;Hazel;8,00;;;6
+GO-P8-TAP-COM-MEN;Google;Pixel 8;Tapa trasera;Menta;8,00;;;6
+GO-P8-TAP-COM-OBS;Google;Pixel 8;Tapa trasera;Obsidian;8,00;;;6
+GO-P8-TAP-COM-ROS;Google;Pixel 8;Tapa trasera;Rose;8,00;;;6
+GO-P8-CTR-COM;Google;Pixel 8;Cámara trasera;Compatible;25,50;24,74;23,97;6
+GO-P8-CFR-COM;Google;Pixel 8;Cámara frontal;Compatible;11,95;11,59;11,23;6
+GO-P8-LEN-COM;Google;Pixel 8;Lente de cámara;Compatible;3,25;;;6
+GO-P8-ALT-COM;Google;Pixel 8;Altavoz;Compatible;4,95;;;6
+GO-P8-AUR-COM;Google;Pixel 8;Auricular de llamada;Compatible;5,89;;;6
+GO-P8-FLX-COM;Google;Pixel 8;Flex de encendido y volumen;Compatible;4,65;;;6
+GO-P8-SIM-COM-HAZ;Google;Pixel 8;Bandeja SIM;Hazel;4,60;;;6
+GO-P8-SIM-COM-MEN;Google;Pixel 8;Bandeja SIM;Menta;4,60;;;6
+GO-P8-SIM-COM-OBS;Google;Pixel 8;Bandeja SIM;Obsidian;4,60;;;6
+GO-P8-SIM-COM-ROS;Google;Pixel 8;Bandeja SIM;Rose;4,60;;;6
+GO-P8P-PAN-ORI;Google;Pixel 8 Pro;Pantalla;Original;161,10;156,27;151,43;12
+GO-P8P-PAN-OLS;Google;Pixel 8 Pro;Pantalla;OLED Soft;61,50;59,66;57,81;6
+GO-P8P-PAN-OLH;Google;Pixel 8 Pro;Pantalla;OLED Hard;58,60;56,84;55,08;6
+GO-P8P-PAN-INC;Google;Pixel 8 Pro;Pantalla;Incell;32,75;31,77;30,78;6
+GO-P8P-BAT-COM;Google;Pixel 8 Pro;Batería;Compatible;9,19;;;6
+GO-P8P-CON-COM;Google;Pixel 8 Pro;Conector de carga;Compatible;5,75;;;6
+GO-P8P-TAP-COM-BAY;Google;Pixel 8 Pro;Tapa trasera;Bay;9,85;;;6
+GO-P8P-TAP-COM-MEN;Google;Pixel 8 Pro;Tapa trasera;Menta;9,85;;;6
+GO-P8P-TAP-COM-OBS;Google;Pixel 8 Pro;Tapa trasera;Obsidian;9,85;;;6
+GO-P8P-TAP-COM-POR;Google;Pixel 8 Pro;Tapa trasera;Porcelain;9,85;;;6
+GO-P8P-CTR-COM;Google;Pixel 8 Pro;Cámara trasera;Compatible;25,49;24,73;23,96;6
+GO-P8P-CFR-COM;Google;Pixel 8 Pro;Cámara frontal;Compatible;10,50;10,19;9,87;6
+GO-P8P-LEN-COM;Google;Pixel 8 Pro;Lente de cámara;Compatible;3,79;;;6
+GO-P8P-ALT-COM;Google;Pixel 8 Pro;Altavoz;Compatible;3,29;;;6
+GO-P8P-AUR-COM;Google;Pixel 8 Pro;Auricular de llamada;Compatible;4,55;;;6
+GO-P8P-FLX-COM;Google;Pixel 8 Pro;Flex de encendido y volumen;Compatible;5,05;;;6
+GO-P8P-SIM-COM-BAY;Google;Pixel 8 Pro;Bandeja SIM;Bay;2,95;;;6
+GO-P8P-SIM-COM-MEN;Google;Pixel 8 Pro;Bandeja SIM;Menta;2,95;;;6
+GO-P8P-SIM-COM-OBS;Google;Pixel 8 Pro;Bandeja SIM;Obsidian;2,95;;;6
+GO-P8P-SIM-COM-POR;Google;Pixel 8 Pro;Bandeja SIM;Porcelain;2,95;;;6
+GO-P8A-PAN-ORI;Google;Pixel 8a;Pantalla;Original;80,45;78,04;75,62;12
+GO-P8A-PAN-OLS;Google;Pixel 8a;Pantalla;OLED Soft;65,05;63,10;61,15;6
+GO-P8A-PAN-OLH;Google;Pixel 8a;Pantalla;OLED Hard;58,49;56,74;54,98;6
+GO-P8A-PAN-INC;Google;Pixel 8a;Pantalla;Incell;27,79;26,96;26,12;6
+GO-P8A-BAT-COM;Google;Pixel 8a;Batería;Compatible;10,00;9,70;9,40;6
+GO-P8A-CON-COM;Google;Pixel 8a;Conector de carga;Compatible;4,59;;;6
+GO-P8A-TAP-COM-ALO;Google;Pixel 8a;Tapa trasera;Aloe;7,90;;;6
+GO-P8A-TAP-COM-BAY;Google;Pixel 8a;Tapa trasera;Bay;7,90;;;6
+GO-P8A-TAP-COM-POR;Google;Pixel 8a;Tapa trasera;Porcelain;7,90;;;6
+GO-P8A-TAP-COM-OBS;Google;Pixel 8a;Tapa trasera;Obsidian;7,90;;;6
+GO-P8A-CTR-COM;Google;Pixel 8a;Cámara trasera;Compatible;11,35;11,01;10,67;6
+GO-P8A-CFR-COM;Google;Pixel 8a;Cámara frontal;Compatible;7,95;;;6
+GO-P8A-LEN-COM;Google;Pixel 8a;Lente de cámara;Compatible;2,70;;;6
+GO-P8A-ALT-COM;Google;Pixel 8a;Altavoz;Compatible;3,75;;;6
+GO-P8A-AUR-COM;Google;Pixel 8a;Auricular de llamada;Compatible;3,35;;;6
+GO-P8A-FLX-COM;Google;Pixel 8a;Flex de encendido y volumen;Compatible;3,59;;;6
+GO-P8A-SIM-COM-ALO;Google;Pixel 8a;Bandeja SIM;Aloe;2,85;;;6
+GO-P8A-SIM-COM-BAY;Google;Pixel 8a;Bandeja SIM;Bay;2,85;;;6
+GO-P8A-SIM-COM-POR;Google;Pixel 8a;Bandeja SIM;Porcelain;2,85;;;6
+GO-P8A-SIM-COM-OBS;Google;Pixel 8a;Bandeja SIM;Obsidian;2,85;;;6
+GO-P9-PAN-ORI;Google;Pixel 9;Pantalla;Original;100,05;97,05;94,05;12
+GO-P9-PAN-OLS;Google;Pixel 9;Pantalla;OLED Soft;63,75;61,84;59,93;6
+GO-P9-PAN-OLH;Google;Pixel 9;Pantalla;OLED Hard;54,55;52,91;51,28;6
+GO-P9-PAN-INC;Google;Pixel 9;Pantalla;Incell;28,75;27,89;27,03;6
+GO-P9-BAT-COM;Google;Pixel 9;Batería;Compatible;13,65;13,24;12,83;6
+GO-P9-CON-COM;Google;Pixel 9;Conector de carga;Compatible;3,95;;;6
+GO-P9-TAP-COM-PEO;Google;Pixel 9;Tapa trasera;Peony;8,00;;;6
+GO-P9-TAP-COM-WIN;Google;Pixel 9;Tapa trasera;Wintergreen;8,00;;;6
+GO-P9-TAP-COM-POR;Google;Pixel 9;Tapa trasera;Porcelain;8,00;;;6
+GO-P9-TAP-COM-OBS;Google;Pixel 9;Tapa trasera;Obsidian;8,00;;;6
+GO-P9-CTR-COM;Google;Pixel 9;Cámara trasera;Compatible;11,79;11,44;11,08;6
+GO-P9-CFR-COM;Google;Pixel 9;Cámara frontal;Compatible;8,45;;;6
+GO-P9-LEN-COM;Google;Pixel 9;Lente de cámara;Compatible;3,65;;;6
+GO-P9-ALT-COM;Google;Pixel 9;Altavoz;Compatible;4,15;;;6
+GO-P9-AUR-COM;Google;Pixel 9;Auricular de llamada;Compatible;4,19;;;6
+GO-P9-FLX-COM;Google;Pixel 9;Flex de encendido y volumen;Compatible;4,65;;;6
+GO-P9-SIM-COM-PEO;Google;Pixel 9;Bandeja SIM;Peony;3,29;;;6
+GO-P9-SIM-COM-WIN;Google;Pixel 9;Bandeja SIM;Wintergreen;3,29;;;6
+GO-P9-SIM-COM-POR;Google;Pixel 9;Bandeja SIM;Porcelain;3,29;;;6
+GO-P9-SIM-COM-OBS;Google;Pixel 9;Bandeja SIM;Obsidian;3,29;;;6
+GO-P9P-PAN-ORI;Google;Pixel 9 Pro;Pantalla;Original;161,05;156,22;151,39;12
+GO-P9P-PAN-OLS;Google;Pixel 9 Pro;Pantalla;OLED Soft;79,15;76,78;74,40;6
+GO-P9P-PAN-OLH;Google;Pixel 9 Pro;Pantalla;OLED Hard;67,75;65,72;63,68;6
+GO-P9P-PAN-INC;Google;Pixel 9 Pro;Pantalla;Incell;35,70;34,63;33,56;6
+GO-P9P-BAT-COM;Google;Pixel 9 Pro;Batería;Compatible;13,65;13,24;12,83;6
+GO-P9P-CON-COM;Google;Pixel 9 Pro;Conector de carga;Compatible;5,75;;;6
+GO-P9P-TAP-COM-POR;Google;Pixel 9 Pro;Tapa trasera;Porcelain;9,85;;;6
+GO-P9P-TAP-COM-ROS;Google;Pixel 9 Pro;Tapa trasera;Rose Quartz;9,85;;;6
+GO-P9P-TAP-COM-HAZ;Google;Pixel 9 Pro;Tapa trasera;Hazel;9,85;;;6
+GO-P9P-TAP-COM-OBS;Google;Pixel 9 Pro;Tapa trasera;Obsidian;9,85;;;6
+GO-P9P-CTR-COM;Google;Pixel 9 Pro;Cámara trasera;Compatible;17,25;16,73;16,22;6
+GO-P9P-CFR-COM;Google;Pixel 9 Pro;Cámara frontal;Compatible;10,50;10,19;9,87;6
+GO-P9P-LEN-COM;Google;Pixel 9 Pro;Lente de cámara;Compatible;3,79;;;6
+GO-P9P-ALT-COM;Google;Pixel 9 Pro;Altavoz;Compatible;4,75;;;6
+GO-P9P-AUR-COM;Google;Pixel 9 Pro;Auricular de llamada;Compatible;4,55;;;6
+GO-P9P-FLX-COM;Google;Pixel 9 Pro;Flex de encendido y volumen;Compatible;5,05;;;6
+GO-P9P-SIM-COM-POR;Google;Pixel 9 Pro;Bandeja SIM;Porcelain;3,55;;;6
+GO-P9P-SIM-COM-ROS;Google;Pixel 9 Pro;Bandeja SIM;Rose Quartz;3,55;;;6
+GO-P9P-SIM-COM-HAZ;Google;Pixel 9 Pro;Bandeja SIM;Hazel;3,55;;;6
+GO-P9P-SIM-COM-OBS;Google;Pixel 9 Pro;Bandeja SIM;Obsidian;3,55;;;6
+GO-P9PXL-PAN-ORI;Google;Pixel 9 Pro XL;Pantalla;Original;161,05;156,22;151,39;12
+GO-P9PXL-PAN-OLS;Google;Pixel 9 Pro XL;Pantalla;OLED Soft;79,15;76,78;74,40;6
+GO-P9PXL-PAN-OLH;Google;Pixel 9 Pro XL;Pantalla;OLED Hard;67,75;65,72;63,68;6
+GO-P9PXL-PAN-INC;Google;Pixel 9 Pro XL;Pantalla;Incell;35,70;34,63;33,56;6
+GO-P9PXL-BAT-COM;Google;Pixel 9 Pro XL;Batería;Compatible;13,65;13,24;12,83;6
+GO-P9PXL-CON-COM;Google;Pixel 9 Pro XL;Conector de carga;Compatible;5,75;;;6
+GO-P9PXL-TAP-COM-POR;Google;Pixel 9 Pro XL;Tapa trasera;Porcelain;9,85;;;6
+GO-P9PXL-TAP-COM-ROS;Google;Pixel 9 Pro XL;Tapa trasera;Rose Quartz;9,85;;;6
+GO-P9PXL-TAP-COM-HAZ;Google;Pixel 9 Pro XL;Tapa trasera;Hazel;9,85;;;6
+GO-P9PXL-TAP-COM-OBS;Google;Pixel 9 Pro XL;Tapa trasera;Obsidian;9,85;;;6
+GO-P9PXL-CTR-COM;Google;Pixel 9 Pro XL;Cámara trasera;Compatible;17,25;16,73;16,22;6
+GO-P9PXL-CFR-COM;Google;Pixel 9 Pro XL;Cámara frontal;Compatible;10,50;10,19;9,87;6
+GO-P9PXL-LEN-COM;Google;Pixel 9 Pro XL;Lente de cámara;Compatible;3,79;;;6
+GO-P9PXL-ALT-COM;Google;Pixel 9 Pro XL;Altavoz;Compatible;4,75;;;6
+GO-P9PXL-AUR-COM;Google;Pixel 9 Pro XL;Auricular de llamada;Compatible;4,55;;;6
+GO-P9PXL-FLX-COM;Google;Pixel 9 Pro XL;Flex de encendido y volumen;Compatible;5,05;;;6
+GO-P9PXL-SIM-COM-POR;Google;Pixel 9 Pro XL;Bandeja SIM;Porcelain;3,55;;;6
+GO-P9PXL-SIM-COM-ROS;Google;Pixel 9 Pro XL;Bandeja SIM;Rose Quartz;3,55;;;6
+GO-P9PXL-SIM-COM-HAZ;Google;Pixel 9 Pro XL;Bandeja SIM;Hazel;3,55;;;6
+GO-P9PXL-SIM-COM-OBS;Google;Pixel 9 Pro XL;Bandeja SIM;Obsidian;3,55;;;6
+GO-P9PF-PAN-ORI;Google;Pixel 9 Pro Fold;Pantalla;Original;389,39;377,71;366,03;12
+GO-P9PF-PAN-COM;Google;Pixel 9 Pro Fold;Pantalla;Compatible;185,60;180,03;174,46;6
+GO-P9PF-PAN-ORI-EXT;Google;Pixel 9 Pro Fold;Pantalla exterior;Original;116,15;112,67;109,18;12
+GO-P9PF-PAN-COM-EXT;Google;Pixel 9 Pro Fold;Pantalla exterior;Compatible;30,79;29,87;28,94;6
+GO-P9PF-BAT-COM;Google;Pixel 9 Pro Fold;Batería;Compatible;10,35;10,04;9,73;6
+GO-P9PF-CON-COM;Google;Pixel 9 Pro Fold;Conector de carga;Compatible;8,80;;;6
+GO-P9PF-TAP-COM-POR;Google;Pixel 9 Pro Fold;Tapa trasera;Porcelain;14,05;13,63;13,21;6
+GO-P9PF-TAP-COM-OBS;Google;Pixel 9 Pro Fold;Tapa trasera;Obsidian;14,05;13,63;13,21;6
+GO-P9PF-CTR-COM;Google;Pixel 9 Pro Fold;Cámara trasera;Compatible;26,19;25,40;24,62;6
+GO-P9PF-CFR-COM;Google;Pixel 9 Pro Fold;Cámara frontal;Compatible;14,00;13,58;13,16;6
+GO-P9PF-LEN-COM;Google;Pixel 9 Pro Fold;Lente de cámara;Compatible;5,55;;;6
+GO-P9PF-ALT-COM;Google;Pixel 9 Pro Fold;Altavoz;Compatible;7,30;;;6
+GO-P9PF-AUR-COM;Google;Pixel 9 Pro Fold;Auricular de llamada;Compatible;6,69;;;6
+GO-P9PF-FLX-COM;Google;Pixel 9 Pro Fold;Flex de encendido y volumen;Compatible;7,40;;;6
+GO-P9PF-SIM-COM-POR;Google;Pixel 9 Pro Fold;Bandeja SIM;Porcelain;5,29;;;6
+GO-P9PF-SIM-COM-OBS;Google;Pixel 9 Pro Fold;Bandeja SIM;Obsidian;5,29;;;6
+GO-P9A-PAN-ORI;Google;Pixel 9a;Pantalla;Original;83,65;81,14;78,63;12
+GO-P9A-PAN-OLS;Google;Pixel 9a;Pantalla;OLED Soft;65,05;63,10;61,15;6
+GO-P9A-PAN-OLH;Google;Pixel 9a;Pantalla;OLED Hard;58,49;56,74;54,98;6
+GO-P9A-PAN-INC;Google;Pixel 9a;Pantalla;Incell;27,79;26,96;26,12;6
+GO-P9A-BAT-COM;Google;Pixel 9a;Batería;Compatible;9,45;;;6
+GO-P9A-CON-COM;Google;Pixel 9a;Conector de carga;Compatible;5,49;;;6
+GO-P9A-TAP-COM-OBS;Google;Pixel 9a;Tapa trasera;Obsidian;8,45;;;6
+GO-P9A-TAP-COM-POR;Google;Pixel 9a;Tapa trasera;Porcelain;8,45;;;6
+GO-P9A-TAP-COM-IRI;Google;Pixel 9a;Tapa trasera;Iris;8,45;;;6
+GO-P9A-TAP-COM-PEO;Google;Pixel 9a;Tapa trasera;Peony;8,45;;;6
+GO-P9A-CTR-COM;Google;Pixel 9a;Cámara trasera;Compatible;15,50;15,04;14,57;6
+GO-P9A-CFR-COM;Google;Pixel 9a;Cámara frontal;Compatible;11,05;10,72;10,39;6
+GO-P9A-LEN-COM;Google;Pixel 9a;Lente de cámara;Compatible;3,50;;;6
+GO-P9A-ALT-COM;Google;Pixel 9a;Altavoz;Compatible;4,95;;;6
+GO-P9A-AUR-COM;Google;Pixel 9a;Auricular de llamada;Compatible;4,75;;;6
+GO-P9A-FLX-COM;Google;Pixel 9a;Flex de encendido y volumen;Compatible;3,90;;;6
+GO-P9A-SIM-COM-OBS;Google;Pixel 9a;Bandeja SIM;Obsidian;3,39;;;6
+GO-P9A-SIM-COM-POR;Google;Pixel 9a;Bandeja SIM;Porcelain;3,39;;;6
+GO-P9A-SIM-COM-IRI;Google;Pixel 9a;Bandeja SIM;Iris;3,39;;;6
+GO-P9A-SIM-COM-PEO;Google;Pixel 9a;Bandeja SIM;Peony;3,39;;;6
+GO-P10-PAN-ORI;Google;Pixel 10;Pantalla;Original;104,00;100,88;97,76;12
+GO-P10-PAN-OLS;Google;Pixel 10;Pantalla;OLED Soft;63,79;61,88;59,96;6
+GO-P10-PAN-OLH;Google;Pixel 10;Pantalla;OLED Hard;54,59;52,95;51,31;6
+GO-P10-PAN-INC;Google;Pixel 10;Pantalla;Incell;28,75;27,89;27,03;6
+GO-P10-BAT-COM;Google;Pixel 10;Batería;Compatible;9,89;;;6
+GO-P10-CON-COM;Google;Pixel 10;Conector de carga;Compatible;5,10;;;6
+GO-P10-TAP-COM-IND;Google;Pixel 10;Tapa trasera;Índigo;8,59;;;6
+GO-P10-TAP-COM-FRO;Google;Pixel 10;Tapa trasera;Frost;8,59;;;6
+GO-P10-TAP-COM-LEM;Google;Pixel 10;Tapa trasera;Lemongrass;8,59;;;6
+GO-P10-TAP-COM-OBS;Google;Pixel 10;Tapa trasera;Obsidian;8,59;;;6
+GO-P10-CTR-COM;Google;Pixel 10;Cámara trasera;Compatible;18,85;18,28;17,72;6
+GO-P10-CFR-COM;Google;Pixel 10;Cámara frontal;Compatible;11,70;11,35;11,00;6
+GO-P10-LEN-COM;Google;Pixel 10;Lente de cámara;Compatible;4,19;;;6
+GO-P10-ALT-COM;Google;Pixel 10;Altavoz;Compatible;5,45;;;6
+GO-P10-AUR-COM;Google;Pixel 10;Auricular de llamada;Compatible;5,89;;;6
+GO-P10-FLX-COM;Google;Pixel 10;Flex de encendido y volumen;Compatible;5,09;;;6
+GO-P10-SIM-COM-IND;Google;Pixel 10;Bandeja SIM;Índigo;3,89;;;6
+GO-P10-SIM-COM-FRO;Google;Pixel 10;Bandeja SIM;Frost;3,89;;;6
+GO-P10-SIM-COM-LEM;Google;Pixel 10;Bandeja SIM;Lemongrass;3,89;;;6
+GO-P10-SIM-COM-OBS;Google;Pixel 10;Bandeja SIM;Obsidian;3,89;;;6
+GO-P10P-PAN-ORI;Google;Pixel 10 Pro;Pantalla;Original;161,05;156,22;151,39;12
+GO-P10P-PAN-OLS;Google;Pixel 10 Pro;Pantalla;OLED Soft;83,39;80,89;78,39;6
+GO-P10P-PAN-OLH;Google;Pixel 10 Pro;Pantalla;OLED Hard;71,35;69,21;67,07;6
+GO-P10P-PAN-INC;Google;Pixel 10 Pro;Pantalla;Incell;37,60;36,47;35,34;6
+GO-P10P-BAT-COM;Google;Pixel 10 Pro;Batería;Compatible;9,89;;;6
+GO-P10P-CON-COM;Google;Pixel 10 Pro;Conector de carga;Compatible;6,85;;;6
+GO-P10P-TAP-COM-MOO;Google;Pixel 10 Pro;Tapa trasera;Moonstone;10,55;10,23;9,92;6
+GO-P10P-TAP-COM-JAD;Google;Pixel 10 Pro;Tapa trasera;Jade;10,55;10,23;9,92;6
+GO-P10P-TAP-COM-POR;Google;Pixel 10 Pro;Tapa trasera;Porcelain;10,55;10,23;9,92;6
+GO-P10P-TAP-COM-OBS;Google;Pixel 10 Pro;Tapa trasera;Obsidian;10,55;10,23;9,92;6
+GO-P10P-CTR-COM;Google;Pixel 10 Pro;Cámara trasera;Compatible;23,59;22,88;22,17;6
+GO-P10P-CFR-COM;Google;Pixel 10 Pro;Cámara frontal;Compatible;14,65;14,21;13,77;6
+GO-P10P-LEN-COM;Google;Pixel 10 Pro;Lente de cámara;Compatible;4,85;;;6
+GO-P10P-ALT-COM;Google;Pixel 10 Pro;Altavoz;Compatible;6,25;;;6
+GO-P10P-AUR-COM;Google;Pixel 10 Pro;Auricular de llamada;Compatible;6,45;;;6
+GO-P10P-FLX-COM;Google;Pixel 10 Pro;Flex de encendido y volumen;Compatible;5,50;;;6
+GO-P10P-SIM-COM-MOO;Google;Pixel 10 Pro;Bandeja SIM;Moonstone;4,20;;;6
+GO-P10P-SIM-COM-JAD;Google;Pixel 10 Pro;Bandeja SIM;Jade;4,20;;;6
+GO-P10P-SIM-COM-POR;Google;Pixel 10 Pro;Bandeja SIM;Porcelain;4,20;;;6
+GO-P10P-SIM-COM-OBS;Google;Pixel 10 Pro;Bandeja SIM;Obsidian;4,20;;;6
+GO-P10PXL-PAN-ORI;Google;Pixel 10 Pro XL;Pantalla;Original;161,05;156,22;151,39;12
+GO-P10PXL-PAN-OLS;Google;Pixel 10 Pro XL;Pantalla;OLED Soft;83,39;80,89;78,39;6
+GO-P10PXL-PAN-OLH;Google;Pixel 10 Pro XL;Pantalla;OLED Hard;71,35;69,21;67,07;6
+GO-P10PXL-PAN-INC;Google;Pixel 10 Pro XL;Pantalla;Incell;37,60;36,47;35,34;6
+GO-P10PXL-BAT-COM;Google;Pixel 10 Pro XL;Batería;Compatible;9,89;;;6
+GO-P10PXL-CON-COM;Google;Pixel 10 Pro XL;Conector de carga;Compatible;6,85;;;6
+GO-P10PXL-TAP-COM-MOO;Google;Pixel 10 Pro XL;Tapa trasera;Moonstone;10,55;10,23;9,92;6
+GO-P10PXL-TAP-COM-JAD;Google;Pixel 10 Pro XL;Tapa trasera;Jade;10,55;10,23;9,92;6
+GO-P10PXL-TAP-COM-POR;Google;Pixel 10 Pro XL;Tapa trasera;Porcelain;10,55;10,23;9,92;6
+GO-P10PXL-TAP-COM-OBS;Google;Pixel 10 Pro XL;Tapa trasera;Obsidian;10,55;10,23;9,92;6
+GO-P10PXL-CTR-COM;Google;Pixel 10 Pro XL;Cámara trasera;Compatible;23,59;22,88;22,17;6
+GO-P10PXL-CFR-COM;Google;Pixel 10 Pro XL;Cámara frontal;Compatible;14,65;14,21;13,77;6
+GO-P10PXL-LEN-COM;Google;Pixel 10 Pro XL;Lente de cámara;Compatible;4,85;;;6
+GO-P10PXL-ALT-COM;Google;Pixel 10 Pro XL;Altavoz;Compatible;6,25;;;6
+GO-P10PXL-AUR-COM;Google;Pixel 10 Pro XL;Auricular de llamada;Compatible;6,45;;;6
+GO-P10PXL-FLX-COM;Google;Pixel 10 Pro XL;Flex de encendido y volumen;Compatible;5,50;;;6
+GO-P10PXL-SIM-COM-MOO;Google;Pixel 10 Pro XL;Bandeja SIM;Moonstone;4,20;;;6
+GO-P10PXL-SIM-COM-JAD;Google;Pixel 10 Pro XL;Bandeja SIM;Jade;4,20;;;6
+GO-P10PXL-SIM-COM-POR;Google;Pixel 10 Pro XL;Bandeja SIM;Porcelain;4,20;;;6
+GO-P10PXL-SIM-COM-OBS;Google;Pixel 10 Pro XL;Bandeja SIM;Obsidian;4,20;;;6
+GO-P10PF-PAN-ORI;Google;Pixel 10 Pro Fold;Pantalla;Original;404,80;392,66;380,51;12
+GO-P10PF-PAN-COM;Google;Pixel 10 Pro Fold;Pantalla;Compatible;195,50;189,64;183,77;6
+GO-P10PF-PAN-ORI-EXT;Google;Pixel 10 Pro Fold;Pantalla exterior;Original;120,75;117,13;113,51;12
+GO-P10PF-PAN-COM-EXT;Google;Pixel 10 Pro Fold;Pantalla exterior;Compatible;32,40;31,43;30,46;6
+GO-P10PF-BAT-COM;Google;Pixel 10 Pro Fold;Batería;Compatible;9,75;;;6
+GO-P10PF-CON-COM;Google;Pixel 10 Pro Fold;Conector de carga;Compatible;10,50;10,19;9,87;6
+GO-P10PF-TAP-COM-MOO;Google;Pixel 10 Pro Fold;Tapa trasera;Moonstone;15,05;14,60;14,15;6
+GO-P10PF-TAP-COM-JAD;Google;Pixel 10 Pro Fold;Tapa trasera;Jade;15,05;14,60;14,15;6
+GO-P10PF-CTR-COM;Google;Pixel 10 Pro Fold;Cámara trasera;Compatible;35,85;34,77;33,70;6
+GO-P10PF-CFR-COM;Google;Pixel 10 Pro Fold;Cámara frontal;Compatible;19,55;18,96;18,38;6
+GO-P10PF-LEN-COM;Google;Pixel 10 Pro Fold;Lente de cámara;Compatible;7,15;;;6
+GO-P10PF-ALT-COM;Google;Pixel 10 Pro Fold;Altavoz;Compatible;9,65;;;6
+GO-P10PF-AUR-COM;Google;Pixel 10 Pro Fold;Auricular de llamada;Compatible;9,40;;;6
+GO-P10PF-FLX-COM;Google;Pixel 10 Pro Fold;Flex de encendido y volumen;Compatible;8,09;;;6
+GO-P10PF-SIM-COM-MOO;Google;Pixel 10 Pro Fold;Bandeja SIM;Moonstone;6,25;;;6
+GO-P10PF-SIM-COM-JAD;Google;Pixel 10 Pro Fold;Bandeja SIM;Jade;6,25;;;6
+GO-P10A-PAN-ORI;Google;Pixel 10a;Pantalla;Original;83,65;81,14;78,63;12
+GO-P10A-PAN-OLS;Google;Pixel 10a;Pantalla;OLED Soft;65,05;63,10;61,15;6
+GO-P10A-PAN-OLH;Google;Pixel 10a;Pantalla;OLED Hard;58,49;56,74;54,98;6
+GO-P10A-PAN-INC;Google;Pixel 10a;Pantalla;Incell;27,79;26,96;26,12;6
+GO-P10A-BAT-COM;Google;Pixel 10a;Batería;Compatible;9,45;;;6
+GO-P10A-CON-COM;Google;Pixel 10a;Conector de carga;Compatible;5,49;;;6
+GO-P10A-TAP-COM-LAV;Google;Pixel 10a;Tapa trasera;Lavanda;8,45;;;6
+GO-P10A-TAP-COM-BER;Google;Pixel 10a;Tapa trasera;Berry;8,45;;;6
+GO-P10A-TAP-COM-FOG;Google;Pixel 10a;Tapa trasera;Fog;8,45;;;6
+GO-P10A-TAP-COM-OBS;Google;Pixel 10a;Tapa trasera;Obsidian;8,45;;;6
+GO-P10A-CTR-COM;Google;Pixel 10a;Cámara trasera;Compatible;15,50;15,04;14,57;6
+GO-P10A-CFR-COM;Google;Pixel 10a;Cámara frontal;Compatible;11,05;10,72;10,39;6
+GO-P10A-LEN-COM;Google;Pixel 10a;Lente de cámara;Compatible;3,50;;;6
+GO-P10A-ALT-COM;Google;Pixel 10a;Altavoz;Compatible;4,95;;;6
+GO-P10A-AUR-COM;Google;Pixel 10a;Auricular de llamada;Compatible;4,75;;;6
+GO-P10A-FLX-COM;Google;Pixel 10a;Flex de encendido y volumen;Compatible;3,90;;;6
+GO-P10A-SIM-COM-LAV;Google;Pixel 10a;Bandeja SIM;Lavanda;3,39;;;6
+GO-P10A-SIM-COM-BER;Google;Pixel 10a;Bandeja SIM;Berry;3,39;;;6
+GO-P10A-SIM-COM-FOG;Google;Pixel 10a;Bandeja SIM;Fog;3,39;;;6
+GO-P10A-SIM-COM-OBS;Google;Pixel 10a;Bandeja SIM;Obsidian;3,39;;;6
+GO-P11-PAN-ORI;Google;Pixel 11;Pantalla;Original;104,00;100,88;97,76;12
+GO-P11-PAN-OLS;Google;Pixel 11;Pantalla;OLED Soft;63,79;61,88;59,96;6
+GO-P11-PAN-OLH;Google;Pixel 11;Pantalla;OLED Hard;54,59;52,95;51,31;6
+GO-P11-PAN-INC;Google;Pixel 11;Pantalla;Incell;28,75;27,89;27,03;6
+GO-P11-BAT-COM;Google;Pixel 11;Batería;Compatible;9,89;;;6
+GO-P11-CON-COM;Google;Pixel 11;Conector de carga;Compatible;5,10;;;6
+GO-P11-TAP-COM-FRO;Google;Pixel 11;Tapa trasera;Frost;8,59;;;6
+GO-P11-TAP-COM-HIB;Google;Pixel 11;Tapa trasera;Hibiscus;8,59;;;6
+GO-P11-TAP-COM-PIS;Google;Pixel 11;Tapa trasera;Pistacho;8,59;;;6
+GO-P11-TAP-COM-OBS;Google;Pixel 11;Tapa trasera;Obsidian;8,59;;;6
+GO-P11-CTR-COM;Google;Pixel 11;Cámara trasera;Compatible;18,85;18,28;17,72;6
+GO-P11-CFR-COM;Google;Pixel 11;Cámara frontal;Compatible;11,70;11,35;11,00;6
+GO-P11-LEN-COM;Google;Pixel 11;Lente de cámara;Compatible;4,19;;;6
+GO-P11-ALT-COM;Google;Pixel 11;Altavoz;Compatible;5,45;;;6
+GO-P11-AUR-COM;Google;Pixel 11;Auricular de llamada;Compatible;5,89;;;6
+GO-P11-FLX-COM;Google;Pixel 11;Flex de encendido y volumen;Compatible;5,09;;;6
+GO-P11-SIM-COM-FRO;Google;Pixel 11;Bandeja SIM;Frost;3,89;;;6
+GO-P11-SIM-COM-HIB;Google;Pixel 11;Bandeja SIM;Hibiscus;3,89;;;6
+GO-P11-SIM-COM-PIS;Google;Pixel 11;Bandeja SIM;Pistacho;3,89;;;6
+GO-P11-SIM-COM-OBS;Google;Pixel 11;Bandeja SIM;Obsidian;3,89;;;6
+GO-P11P-PAN-ORI;Google;Pixel 11 Pro;Pantalla;Original;161,05;156,22;151,39;12
+GO-P11P-PAN-OLS;Google;Pixel 11 Pro;Pantalla;OLED Soft;83,39;80,89;78,39;6
+GO-P11P-PAN-OLH;Google;Pixel 11 Pro;Pantalla;OLED Hard;71,35;69,21;67,07;6
+GO-P11P-PAN-INC;Google;Pixel 11 Pro;Pantalla;Incell;37,60;36,47;35,34;6
+GO-P11P-BAT-COM;Google;Pixel 11 Pro;Batería;Compatible;9,89;;;6
+GO-P11P-CON-COM;Google;Pixel 11 Pro;Conector de carga;Compatible;6,85;;;6
+GO-P11P-TAP-COM-CAN;Google;Pixel 11 Pro;Tapa trasera;Canyon;10,55;10,23;9,92;6
+GO-P11P-TAP-COM-OLI;Google;Pixel 11 Pro;Tapa trasera;Oliva;10,55;10,23;9,92;6
+GO-P11P-TAP-COM-FOG;Google;Pixel 11 Pro;Tapa trasera;Fog;10,55;10,23;9,92;6
+GO-P11P-TAP-COM-OBS;Google;Pixel 11 Pro;Tapa trasera;Obsidian;10,55;10,23;9,92;6
+GO-P11P-CTR-COM;Google;Pixel 11 Pro;Cámara trasera;Compatible;23,59;22,88;22,17;6
+GO-P11P-CFR-COM;Google;Pixel 11 Pro;Cámara frontal;Compatible;14,65;14,21;13,77;6
+GO-P11P-LEN-COM;Google;Pixel 11 Pro;Lente de cámara;Compatible;4,85;;;6
+GO-P11P-ALT-COM;Google;Pixel 11 Pro;Altavoz;Compatible;6,25;;;6
+GO-P11P-AUR-COM;Google;Pixel 11 Pro;Auricular de llamada;Compatible;6,45;;;6
+GO-P11P-FLX-COM;Google;Pixel 11 Pro;Flex de encendido y volumen;Compatible;5,50;;;6
+GO-P11P-SIM-COM-CAN;Google;Pixel 11 Pro;Bandeja SIM;Canyon;4,20;;;6
+GO-P11P-SIM-COM-OLI;Google;Pixel 11 Pro;Bandeja SIM;Oliva;4,20;;;6
+GO-P11P-SIM-COM-FOG;Google;Pixel 11 Pro;Bandeja SIM;Fog;4,20;;;6
+GO-P11P-SIM-COM-OBS;Google;Pixel 11 Pro;Bandeja SIM;Obsidian;4,20;;;6
+GO-P11PXL-PAN-ORI;Google;Pixel 11 Pro XL;Pantalla;Original;161,05;156,22;151,39;12
+GO-P11PXL-PAN-OLS;Google;Pixel 11 Pro XL;Pantalla;OLED Soft;83,39;80,89;78,39;6
+GO-P11PXL-PAN-OLH;Google;Pixel 11 Pro XL;Pantalla;OLED Hard;71,35;69,21;67,07;6
+GO-P11PXL-PAN-INC;Google;Pixel 11 Pro XL;Pantalla;Incell;37,60;36,47;35,34;6
+GO-P11PXL-BAT-COM;Google;Pixel 11 Pro XL;Batería;Compatible;9,89;;;6
+GO-P11PXL-CON-COM;Google;Pixel 11 Pro XL;Conector de carga;Compatible;6,85;;;6
+GO-P11PXL-TAP-COM-CAN;Google;Pixel 11 Pro XL;Tapa trasera;Canyon;10,55;10,23;9,92;6
+GO-P11PXL-TAP-COM-OLI;Google;Pixel 11 Pro XL;Tapa trasera;Oliva;10,55;10,23;9,92;6
+GO-P11PXL-TAP-COM-FOG;Google;Pixel 11 Pro XL;Tapa trasera;Fog;10,55;10,23;9,92;6
+GO-P11PXL-TAP-COM-OBS;Google;Pixel 11 Pro XL;Tapa trasera;Obsidian;10,55;10,23;9,92;6
+GO-P11PXL-CTR-COM;Google;Pixel 11 Pro XL;Cámara trasera;Compatible;23,59;22,88;22,17;6
+GO-P11PXL-CFR-COM;Google;Pixel 11 Pro XL;Cámara frontal;Compatible;14,65;14,21;13,77;6
+GO-P11PXL-LEN-COM;Google;Pixel 11 Pro XL;Lente de cámara;Compatible;4,85;;;6
+GO-P11PXL-ALT-COM;Google;Pixel 11 Pro XL;Altavoz;Compatible;6,25;;;6
+GO-P11PXL-AUR-COM;Google;Pixel 11 Pro XL;Auricular de llamada;Compatible;6,45;;;6
+GO-P11PXL-FLX-COM;Google;Pixel 11 Pro XL;Flex de encendido y volumen;Compatible;5,50;;;6
+GO-P11PXL-SIM-COM-CAN;Google;Pixel 11 Pro XL;Bandeja SIM;Canyon;4,20;;;6
+GO-P11PXL-SIM-COM-OLI;Google;Pixel 11 Pro XL;Bandeja SIM;Oliva;4,20;;;6
+GO-P11PXL-SIM-COM-FOG;Google;Pixel 11 Pro XL;Bandeja SIM;Fog;4,20;;;6
+GO-P11PXL-SIM-COM-OBS;Google;Pixel 11 Pro XL;Bandeja SIM;Obsidian;4,20;;;6
+GO-P11PF-PAN-ORI;Google;Pixel 11 Pro Fold;Pantalla;Original;404,80;392,66;380,51;12
+GO-P11PF-PAN-COM;Google;Pixel 11 Pro Fold;Pantalla;Compatible;195,50;189,64;183,77;6
+GO-P11PF-PAN-ORI-EXT;Google;Pixel 11 Pro Fold;Pantalla exterior;Original;120,75;117,13;113,51;12
+GO-P11PF-PAN-COM-EXT;Google;Pixel 11 Pro Fold;Pantalla exterior;Compatible;32,40;31,43;30,46;6
+GO-P11PF-BAT-COM;Google;Pixel 11 Pro Fold;Batería;Compatible;9,75;;;6
+GO-P11PF-CON-COM;Google;Pixel 11 Pro Fold;Conector de carga;Compatible;10,50;10,19;9,87;6
+GO-P11PF-TAP-COM-OLI;Google;Pixel 11 Pro Fold;Tapa trasera;Oliva;15,05;14,60;14,15;6
+GO-P11PF-TAP-COM-OBS;Google;Pixel 11 Pro Fold;Tapa trasera;Obsidian;15,05;14,60;14,15;6
+GO-P11PF-CTR-COM;Google;Pixel 11 Pro Fold;Cámara trasera;Compatible;35,85;34,77;33,70;6
+GO-P11PF-CFR-COM;Google;Pixel 11 Pro Fold;Cámara frontal;Compatible;19,55;18,96;18,38;6
+GO-P11PF-LEN-COM;Google;Pixel 11 Pro Fold;Lente de cámara;Compatible;7,15;;;6
+GO-P11PF-ALT-COM;Google;Pixel 11 Pro Fold;Altavoz;Compatible;9,65;;;6
+GO-P11PF-AUR-COM;Google;Pixel 11 Pro Fold;Auricular de llamada;Compatible;9,40;;;6
+GO-P11PF-FLX-COM;Google;Pixel 11 Pro Fold;Flex de encendido y volumen;Compatible;8,09;;;6
+GO-P11PF-SIM-COM-OLI;Google;Pixel 11 Pro Fold;Bandeja SIM;Oliva;6,25;;;6
+GO-P11PF-SIM-COM-OBS;Google;Pixel 11 Pro Fold;Bandeja SIM;Obsidian;6,25;;;6
+GO-P5A-PAN-ORI;Google;Pixel 5a;Pantalla;Original;64,59;62,65;60,71;12
+GO-P5A-PAN-OLS;Google;Pixel 5a;Pantalla;OLED Soft;50,65;49,13;47,61;6
+GO-P5A-PAN-OLH;Google;Pixel 5a;Pantalla;OLED Hard;36,70;35,60;34,50;6
+GO-P5A-PAN-INC;Google;Pixel 5a;Pantalla;Incell;23,45;22,75;22,04;6
+GO-P5A-BAT-COM;Google;Pixel 5a;Batería;Compatible;8,79;;;6
+GO-P5A-CON-COM;Google;Pixel 5a;Conector de carga;Compatible;4,00;;;6
+GO-P5A-TAP-COM;Google;Pixel 5a;Tapa trasera;Compatible;7,05;;;6
+GO-P5A-CTR-COM;Google;Pixel 5a;Cámara trasera;Compatible;8,09;;;6
+GO-P5A-CFR-COM;Google;Pixel 5a;Cámara frontal;Compatible;5,40;;;6
+GO-P5A-LEN-COM;Google;Pixel 5a;Lente de cámara;Compatible;2,60;;;6
+GO-P5A-ALT-COM;Google;Pixel 5a;Altavoz;Compatible;3,49;;;6
+GO-P5A-AUR-COM;Google;Pixel 5a;Auricular de llamada;Compatible;3,05;;;6
+GO-P5A-FLX-COM;Google;Pixel 5a;Flex de encendido y volumen;Compatible;2,95;;;6
+GO-P5A-SIM-COM;Google;Pixel 5a;Bandeja SIM;Compatible;2,90;;;6
+GO-N5X-PAN-ORI;Google;Nexus 5X;Pantalla;Original;44,95;43,60;42,25;12
+GO-N5X-PAN-COM;Google;Nexus 5X;Pantalla;Compatible;20,45;19,84;19,22;6
+GO-N5X-BAT-COM;Google;Nexus 5X;Batería;Compatible;11,39;11,05;10,71;6
+GO-N5X-CON-COM;Google;Nexus 5X;Conector de carga;Compatible;4,39;;;6
+GO-N5X-TAP-COM;Google;Nexus 5X;Tapa trasera;Compatible;6,99;;;6
+GO-N5X-CTR-COM;Google;Nexus 5X;Cámara trasera;Compatible;11,55;11,20;10,86;6
+GO-N5X-CFR-COM;Google;Nexus 5X;Cámara frontal;Compatible;7,25;;;6
+GO-N5X-LEN-COM;Google;Nexus 5X;Lente de cámara;Compatible;3,09;;;6
+GO-N5X-ALT-COM;Google;Nexus 5X;Altavoz;Compatible;4,45;;;6
+GO-N5X-AUR-COM;Google;Nexus 5X;Auricular de llamada;Compatible;4,09;;;6
+GO-N5X-FLX-COM;Google;Nexus 5X;Flex de encendido y volumen;Compatible;4,00;;;6
+GO-N5X-SIM-COM;Google;Nexus 5X;Bandeja SIM;Compatible;3,35;;;6
+GO-N6P-PAN-ORI;Google;Nexus 6P;Pantalla;Original;82,70;80,22;77,74;12
+GO-N6P-PAN-OLS;Google;Nexus 6P;Pantalla;OLED Soft;53,10;51,51;49,91;6
+GO-N6P-PAN-OLH;Google;Nexus 6P;Pantalla;OLED Hard;45,45;44,09;42,72;6
+GO-N6P-PAN-INC;Google;Nexus 6P;Pantalla;Incell;23,95;23,23;22,51;6
+GO-N6P-BAT-COM;Google;Nexus 6P;Batería;Compatible;11,39;11,05;10,71;6
+GO-N6P-CON-COM;Google;Nexus 6P;Conector de carga;Compatible;4,39;;;6
+GO-N6P-TAP-COM;Google;Nexus 6P;Tapa trasera;Compatible;6,99;;;6
+GO-N6P-CTR-COM;Google;Nexus 6P;Cámara trasera;Compatible;11,55;11,20;10,86;6
+GO-N6P-CFR-COM;Google;Nexus 6P;Cámara frontal;Compatible;7,25;;;6
+GO-N6P-LEN-COM;Google;Nexus 6P;Lente de cámara;Compatible;3,09;;;6
+GO-N6P-ALT-COM;Google;Nexus 6P;Altavoz;Compatible;4,45;;;6
+GO-N6P-AUR-COM;Google;Nexus 6P;Auricular de llamada;Compatible;4,09;;;6
+GO-N6P-FLX-COM;Google;Nexus 6P;Flex de encendido y volumen;Compatible;4,00;;;6
+GO-N6P-SIM-COM;Google;Nexus 6P;Bandeja SIM;Compatible;3,35;;;6
+GO-PV1-PAN-ORI;Google;Pixel V1;Pantalla;Original;47,89;46,45;45,02;12
+GO-PV1-PAN-COM;Google;Pixel V1;Pantalla;Compatible;20,65;20,03;19,41;6
+GO-PV1-BAT-COM;Google;Pixel V1;Batería;Compatible;11,09;10,76;10,42;6
+GO-PV1-CON-COM;Google;Pixel V1;Conector de carga;Compatible;3,90;;;6
+GO-PV1-TAP-COM;Google;Pixel V1;Tapa trasera;Compatible;6,99;;;6
+GO-PV1-CTR-COM;Google;Pixel V1;Cámara trasera;Compatible;12,05;11,69;11,33;6
+GO-PV1-CFR-COM;Google;Pixel V1;Cámara frontal;Compatible;7,79;;;6
+GO-PV1-LEN-COM;Google;Pixel V1;Lente de cámara;Compatible;3,09;;;6
+GO-PV1-ALT-COM;Google;Pixel V1;Altavoz;Compatible;4,20;;;6
+GO-PV1-AUR-COM;Google;Pixel V1;Auricular de llamada;Compatible;4,20;;;6
+GO-PV1-FLX-COM;Google;Pixel V1;Flex de encendido y volumen;Compatible;4,15;;;6
+GO-PV1-SIM-COM;Google;Pixel V1;Bandeja SIM;Compatible;3,25;;;6
+GO-N6-PAN-ORI;Google;Nexus 6;Pantalla;Original;82,70;80,22;77,74;12
+GO-N6-PAN-OLS;Google;Nexus 6;Pantalla;OLED Soft;53,10;51,51;49,91;6
+GO-N6-PAN-OLH;Google;Nexus 6;Pantalla;OLED Hard;45,45;44,09;42,72;6
+GO-N6-PAN-INC;Google;Nexus 6;Pantalla;Incell;23,95;23,23;22,51;6
+GO-N6-BAT-COM;Google;Nexus 6;Batería;Compatible;11,39;11,05;10,71;6
+GO-N6-CON-COM;Google;Nexus 6;Conector de carga;Compatible;4,39;;;6
+GO-N6-TAP-COM;Google;Nexus 6;Tapa trasera;Compatible;6,99;;;6
+GO-N6-CTR-COM;Google;Nexus 6;Cámara trasera;Compatible;11,55;11,20;10,86;6
+GO-N6-CFR-COM;Google;Nexus 6;Cámara frontal;Compatible;7,25;;;6
+GO-N6-LEN-COM;Google;Nexus 6;Lente de cámara;Compatible;3,09;;;6
+GO-N6-ALT-COM;Google;Nexus 6;Altavoz;Compatible;4,45;;;6
+GO-N6-AUR-COM;Google;Nexus 6;Auricular de llamada;Compatible;4,09;;;6
+GO-N6-FLX-COM;Google;Nexus 6;Flex de encendido y volumen;Compatible;4,00;;;6
+GO-N6-SIM-COM;Google;Nexus 6;Bandeja SIM;Compatible;3,35;;;6
+GO-N5-PAN-ORI;Google;Nexus 5;Pantalla;Original;44,95;43,60;42,25;12
+GO-N5-PAN-COM;Google;Nexus 5;Pantalla;Compatible;20,45;19,84;19,22;6
+GO-N5-BAT-COM;Google;Nexus 5;Batería;Compatible;11,39;11,05;10,71;6
+GO-N5-CON-COM;Google;Nexus 5;Conector de carga;Compatible;4,39;;;6
+GO-N5-TAP-COM;Google;Nexus 5;Tapa trasera;Compatible;6,99;;;6
+GO-N5-CTR-COM;Google;Nexus 5;Cámara trasera;Compatible;11,55;11,20;10,86;6
+GO-N5-CFR-COM;Google;Nexus 5;Cámara frontal;Compatible;7,25;;;6
+GO-N5-LEN-COM;Google;Nexus 5;Lente de cámara;Compatible;3,09;;;6
+GO-N5-ALT-COM;Google;Nexus 5;Altavoz;Compatible;4,45;;;6
+GO-N5-AUR-COM;Google;Nexus 5;Auricular de llamada;Compatible;4,09;;;6
+GO-N5-FLX-COM;Google;Nexus 5;Flex de encendido y volumen;Compatible;4,00;;;6
+GO-N5-SIM-COM;Google;Nexus 5;Bandeja SIM;Compatible;3,35;;;6
+GO-N4-PAN-ORI;Google;Nexus 4;Pantalla;Original;44,95;43,60;42,25;12
+GO-N4-PAN-COM;Google;Nexus 4;Pantalla;Compatible;20,45;19,84;19,22;6
+GO-N4-BAT-COM;Google;Nexus 4;Batería;Compatible;11,39;11,05;10,71;6
+GO-N4-CON-COM;Google;Nexus 4;Conector de carga;Compatible;4,39;;;6
+GO-N4-TAP-COM;Google;Nexus 4;Tapa trasera;Compatible;6,99;;;6
+GO-N4-CTR-COM;Google;Nexus 4;Cámara trasera;Compatible;11,55;11,20;10,86;6
+GO-N4-CFR-COM;Google;Nexus 4;Cámara frontal;Compatible;7,25;;;6
+GO-N4-LEN-COM;Google;Nexus 4;Lente de cámara;Compatible;3,09;;;6
+GO-N4-ALT-COM;Google;Nexus 4;Altavoz;Compatible;4,45;;;6
+GO-N4-AUR-COM;Google;Nexus 4;Auricular de llamada;Compatible;4,09;;;6
+GO-N4-FLX-COM;Google;Nexus 4;Flex de encendido y volumen;Compatible;4,00;;;6
+GO-N4-SIM-COM;Google;Nexus 4;Bandeja SIM;Compatible;3,35;;;6
+GO-P-PAN-ORI;Google;Pixel;Pantalla;Original;88,09;85,45;82,80;12
+GO-P-PAN-OLS;Google;Pixel;Pantalla;OLED Soft;53,59;51,98;50,37;6
+GO-P-PAN-OLH;Google;Pixel;Pantalla;OLED Hard;45,85;44,47;43,10;6
+GO-P-PAN-INC;Google;Pixel;Pantalla;Incell;24,15;23,43;22,70;6
+GO-P-BAT-COM;Google;Pixel;Batería;Compatible;11,09;10,76;10,42;6
+GO-P-CON-COM;Google;Pixel;Conector de carga;Compatible;3,90;;;6
+GO-P-TAP-COM-GRI;Google;Pixel;Tapa trasera;Gris plata oscuro;6,99;;;6
+GO-P-TAP-COM-NEG;Google;Pixel;Tapa trasera;Negro oscuro;6,99;;;6
+GO-P-TAP-COM-AZU;Google;Pixel;Tapa trasera;Azul;6,99;;;6
+GO-P-CTR-COM;Google;Pixel;Cámara trasera;Compatible;12,05;11,69;11,33;6
+GO-P-CFR-COM;Google;Pixel;Cámara frontal;Compatible;7,79;;;6
+GO-P-LEN-COM;Google;Pixel;Lente de cámara;Compatible;3,09;;;6
+GO-P-ALT-COM;Google;Pixel;Altavoz;Compatible;4,20;;;6
+GO-P-AUR-COM;Google;Pixel;Auricular de llamada;Compatible;4,20;;;6
+GO-P-FLX-COM;Google;Pixel;Flex de encendido y volumen;Compatible;4,15;;;6
+GO-P-SIM-COM-GRI;Google;Pixel;Bandeja SIM;Gris plata oscuro;3,25;;;6
+GO-P-SIM-COM-NEG;Google;Pixel;Bandeja SIM;Negro oscuro;3,25;;;6
+GO-P-SIM-COM-AZU;Google;Pixel;Bandeja SIM;Azul;3,25;;;6
+GO-PXL-PAN-ORI;Google;Pixel XL;Pantalla;Original;125,15;121,40;117,64;12
+GO-PXL-PAN-OLS;Google;Pixel XL;Pantalla;OLED Soft;70,05;67,95;65,85;6
+GO-PXL-PAN-OLH;Google;Pixel XL;Pantalla;OLED Hard;59,95;58,15;56,35;6
+GO-PXL-PAN-INC;Google;Pixel XL;Pantalla;Incell;31,59;30,64;29,69;6
+GO-PXL-BAT-COM;Google;Pixel XL;Batería;Compatible;10,60;10,28;9,96;6
+GO-PXL-CON-COM;Google;Pixel XL;Conector de carga;Compatible;5,25;;;6
+GO-PXL-TAP-COM-GRI;Google;Pixel XL;Tapa trasera;Gris plata oscuro;8,55;;;6
+GO-PXL-TAP-COM-NEG;Google;Pixel XL;Tapa trasera;Negro oscuro;8,55;;;6
+GO-PXL-TAP-COM-AZU;Google;Pixel XL;Tapa trasera;Azul;8,55;;;6
+GO-PXL-CTR-COM;Google;Pixel XL;Cámara trasera;Compatible;15,09;14,64;14,18;6
+GO-PXL-CFR-COM;Google;Pixel XL;Cámara frontal;Compatible;9,75;;;6
+GO-PXL-LEN-COM;Google;Pixel XL;Lente de cámara;Compatible;3,59;;;6
+GO-PXL-ALT-COM;Google;Pixel XL;Altavoz;Compatible;4,80;;;6
+GO-PXL-AUR-COM;Google;Pixel XL;Auricular de llamada;Compatible;4,59;;;6
+GO-PXL-FLX-COM;Google;Pixel XL;Flex de encendido y volumen;Compatible;4,50;;;6
+GO-PXL-SIM-COM-GRI;Google;Pixel XL;Bandeja SIM;Gris plata oscuro;3,55;;;6
+GO-PXL-SIM-COM-NEG;Google;Pixel XL;Bandeja SIM;Negro oscuro;3,55;;;6
+GO-PXL-SIM-COM-AZU;Google;Pixel XL;Bandeja SIM;Azul;3,55;;;6
+GO-P2-PAN-ORI;Google;Pixel 2;Pantalla;Original;88,09;85,45;82,80;12
+GO-P2-PAN-OLS;Google;Pixel 2;Pantalla;OLED Soft;53,59;51,98;50,37;6
+GO-P2-PAN-OLH;Google;Pixel 2;Pantalla;OLED Hard;45,85;44,47;43,10;6
+GO-P2-PAN-INC;Google;Pixel 2;Pantalla;Incell;24,15;23,43;22,70;6
+GO-P2-BAT-COM;Google;Pixel 2;Batería;Compatible;11,09;10,76;10,42;6
+GO-P2-CON-COM;Google;Pixel 2;Conector de carga;Compatible;3,90;;;6
+GO-P2-TAP-COM-NEG;Google;Pixel 2;Tapa trasera;Negro;6,99;;;6
+GO-P2-TAP-COM-BLA;Google;Pixel 2;Tapa trasera;Blanco;6,99;;;6
+GO-P2-TAP-COM-AZU;Google;Pixel 2;Tapa trasera;Azul;6,99;;;6
+GO-P2-CTR-COM;Google;Pixel 2;Cámara trasera;Compatible;12,05;11,69;11,33;6
+GO-P2-CFR-COM;Google;Pixel 2;Cámara frontal;Compatible;7,79;;;6
+GO-P2-LEN-COM;Google;Pixel 2;Lente de cámara;Compatible;3,09;;;6
+GO-P2-ALT-COM;Google;Pixel 2;Altavoz;Compatible;4,20;;;6
+GO-P2-AUR-COM;Google;Pixel 2;Auricular de llamada;Compatible;4,20;;;6
+GO-P2-FLX-COM;Google;Pixel 2;Flex de encendido y volumen;Compatible;4,15;;;6
+GO-P2-SIM-COM-NEG;Google;Pixel 2;Bandeja SIM;Negro;3,25;;;6
+GO-P2-SIM-COM-BLA;Google;Pixel 2;Bandeja SIM;Blanco;3,25;;;6
+GO-P2-SIM-COM-AZU;Google;Pixel 2;Bandeja SIM;Azul;3,25;;;6
+GO-P2XL-PAN-ORI;Google;Pixel 2 XL;Pantalla;Original;125,15;121,40;117,64;12
+GO-P2XL-PAN-OLS;Google;Pixel 2 XL;Pantalla;OLED Soft;70,05;67,95;65,85;6
+GO-P2XL-PAN-OLH;Google;Pixel 2 XL;Pantalla;OLED Hard;59,95;58,15;56,35;6
+GO-P2XL-PAN-INC;Google;Pixel 2 XL;Pantalla;Incell;31,59;30,64;29,69;6
+GO-P2XL-BAT-COM;Google;Pixel 2 XL;Batería;Compatible;10,60;10,28;9,96;6
+GO-P2XL-CON-COM;Google;Pixel 2 XL;Conector de carga;Compatible;5,25;;;6
+GO-P2XL-TAP-COM-NEG;Google;Pixel 2 XL;Tapa trasera;Negro;8,55;;;6
+GO-P2XL-TAP-COM-BLA;Google;Pixel 2 XL;Tapa trasera;Blanco y negro;8,55;;;6
+GO-P2XL-CTR-COM;Google;Pixel 2 XL;Cámara trasera;Compatible;15,09;14,64;14,18;6
+GO-P2XL-CFR-COM;Google;Pixel 2 XL;Cámara frontal;Compatible;9,75;;;6
+GO-P2XL-LEN-COM;Google;Pixel 2 XL;Lente de cámara;Compatible;3,59;;;6
+GO-P2XL-ALT-COM;Google;Pixel 2 XL;Altavoz;Compatible;4,80;;;6
+GO-P2XL-AUR-COM;Google;Pixel 2 XL;Auricular de llamada;Compatible;4,59;;;6
+GO-P2XL-FLX-COM;Google;Pixel 2 XL;Flex de encendido y volumen;Compatible;4,50;;;6
+GO-P2XL-SIM-COM-NEG;Google;Pixel 2 XL;Bandeja SIM;Negro;3,55;;;6
+GO-P2XL-SIM-COM-BLA;Google;Pixel 2 XL;Bandeja SIM;Blanco y negro;3,55;;;6
+GO-P3-PAN-ORI;Google;Pixel 3;Pantalla;Original;88,09;85,45;82,80;12
+GO-P3-PAN-OLS;Google;Pixel 3;Pantalla;OLED Soft;53,59;51,98;50,37;6
+GO-P3-PAN-OLH;Google;Pixel 3;Pantalla;OLED Hard;45,85;44,47;43,10;6
+GO-P3-PAN-INC;Google;Pixel 3;Pantalla;Incell;24,15;23,43;22,70;6
+GO-P3-BAT-COM;Google;Pixel 3;Batería;Compatible;11,09;10,76;10,42;6
+GO-P3-CON-COM;Google;Pixel 3;Conector de carga;Compatible;3,90;;;6
+GO-P3-TAP-COM-NEG;Google;Pixel 3;Tapa trasera;Negro;6,99;;;6
+GO-P3-TAP-COM-BLA;Google;Pixel 3;Tapa trasera;Blanco;6,99;;;6
+GO-P3-TAP-COM-ROS;Google;Pixel 3;Tapa trasera;Rosa (Not Pink);6,99;;;6
+GO-P3-CTR-COM;Google;Pixel 3;Cámara trasera;Compatible;12,05;11,69;11,33;6
+GO-P3-CFR-COM;Google;Pixel 3;Cámara frontal;Compatible;7,79;;;6
+GO-P3-LEN-COM;Google;Pixel 3;Lente de cámara;Compatible;3,09;;;6
+GO-P3-ALT-COM;Google;Pixel 3;Altavoz;Compatible;4,20;;;6
+GO-P3-AUR-COM;Google;Pixel 3;Auricular de llamada;Compatible;4,20;;;6
+GO-P3-FLX-COM;Google;Pixel 3;Flex de encendido y volumen;Compatible;4,15;;;6
+GO-P3-SIM-COM-NEG;Google;Pixel 3;Bandeja SIM;Negro;3,25;;;6
+GO-P3-SIM-COM-BLA;Google;Pixel 3;Bandeja SIM;Blanco;3,25;;;6
+GO-P3-SIM-COM-ROS;Google;Pixel 3;Bandeja SIM;Rosa (Not Pink);3,25;;;6
+GO-P3XL-PAN-ORI;Google;Pixel 3 XL;Pantalla;Original;125,15;121,40;117,64;12
+GO-P3XL-PAN-OLS;Google;Pixel 3 XL;Pantalla;OLED Soft;70,05;67,95;65,85;6
+GO-P3XL-PAN-OLH;Google;Pixel 3 XL;Pantalla;OLED Hard;59,95;58,15;56,35;6
+GO-P3XL-PAN-INC;Google;Pixel 3 XL;Pantalla;Incell;31,59;30,64;29,69;6
+GO-P3XL-BAT-COM;Google;Pixel 3 XL;Batería;Compatible;10,60;10,28;9,96;6
+GO-P3XL-CON-COM;Google;Pixel 3 XL;Conector de carga;Compatible;5,25;;;6
+GO-P3XL-TAP-COM-NEG;Google;Pixel 3 XL;Tapa trasera;Negro;8,55;;;6
+GO-P3XL-TAP-COM-BLA;Google;Pixel 3 XL;Tapa trasera;Blanco;8,55;;;6
+GO-P3XL-TAP-COM-ROS;Google;Pixel 3 XL;Tapa trasera;Rosa (Not Pink);8,55;;;6
+GO-P3XL-CTR-COM;Google;Pixel 3 XL;Cámara trasera;Compatible;15,09;14,64;14,18;6
+GO-P3XL-CFR-COM;Google;Pixel 3 XL;Cámara frontal;Compatible;9,75;;;6
+GO-P3XL-LEN-COM;Google;Pixel 3 XL;Lente de cámara;Compatible;3,59;;;6
+GO-P3XL-ALT-COM;Google;Pixel 3 XL;Altavoz;Compatible;4,80;;;6
+GO-P3XL-AUR-COM;Google;Pixel 3 XL;Auricular de llamada;Compatible;4,59;;;6
+GO-P3XL-FLX-COM;Google;Pixel 3 XL;Flex de encendido y volumen;Compatible;4,50;;;6
+GO-P3XL-SIM-COM-NEG;Google;Pixel 3 XL;Bandeja SIM;Negro;3,55;;;6
+GO-P3XL-SIM-COM-BLA;Google;Pixel 3 XL;Bandeja SIM;Blanco;3,55;;;6
+GO-P3XL-SIM-COM-ROS;Google;Pixel 3 XL;Bandeja SIM;Rosa (Not Pink);3,55;;;6
+GO-P3A-PRO-NA;Google;Pixel 3a;Cristal templado;Estándar;1,30;;;
+GO-P3A-PRO-PRI;Google;Pixel 3a;Cristal templado;Privacidad;4,00;;;
+GO-P3A-OTR-ADP;Google;Pixel 3a;Adhesivo de pantalla;;3,75;;;
+GO-P3A-FUN-SIL;Google;Pixel 3a;Funda;Silicona;2,50;;;
+GO-P3A-FUN-TPU;Google;Pixel 3a;Funda;Transparente;2,95;;;
+GO-P3A-FUN-LIB;Google;Pixel 3a;Funda;Libro;3,70;;;
+GO-P3A-FUN-ANT;Google;Pixel 3a;Funda;Antigolpes;3,10;;;
+GO-P3A-PCA-NA;Google;Pixel 3a;Protector de cámara;Cristal;2,90;;;
+GO-P3AXL-PRO-NA;Google;Pixel 3a XL;Cristal templado;Estándar;1,30;;;
+GO-P3AXL-PRO-PRI;Google;Pixel 3a XL;Cristal templado;Privacidad;4,00;;;
+GO-P3AXL-OTR-ADP;Google;Pixel 3a XL;Adhesivo de pantalla;;3,75;;;
+GO-P3AXL-FUN-SIL;Google;Pixel 3a XL;Funda;Silicona;2,50;;;
+GO-P3AXL-FUN-TPU;Google;Pixel 3a XL;Funda;Transparente;2,95;;;
+GO-P3AXL-FUN-LIB;Google;Pixel 3a XL;Funda;Libro;3,70;;;
+GO-P3AXL-FUN-ANT;Google;Pixel 3a XL;Funda;Antigolpes;3,10;;;
+GO-P3AXL-PCA-NA;Google;Pixel 3a XL;Protector de cámara;Cristal;2,90;;;
+GO-P4-PRO-NA;Google;Pixel 4;Cristal templado;Estándar;1,30;;;
+GO-P4-PRO-PRI;Google;Pixel 4;Cristal templado;Privacidad;4,00;;;
+GO-P4-OTR-ADT;Google;Pixel 4;Adhesivo de tapa;;2,80;;;
+GO-P4-OTR-ADP;Google;Pixel 4;Adhesivo de pantalla;;3,75;;;
+GO-P4-FUN-SIL;Google;Pixel 4;Funda;Silicona;2,50;;;
+GO-P4-FUN-TPU;Google;Pixel 4;Funda;Transparente;2,95;;;
+GO-P4-FUN-LIB;Google;Pixel 4;Funda;Libro;3,70;;;
+GO-P4-FUN-ANT;Google;Pixel 4;Funda;Antigolpes;3,10;;;
+GO-P4-PCA-NA;Google;Pixel 4;Protector de cámara;Cristal;2,90;;;
+GO-P4XL-PRO-NA;Google;Pixel 4 XL;Cristal templado;Estándar;1,30;;;
+GO-P4XL-PRO-NA-FG;Google;Pixel 4 XL;Cristal templado;UV full glue;4,15;;;
+GO-P4XL-PRO-PRI;Google;Pixel 4 XL;Cristal templado;Privacidad;4,00;;;
+GO-P4XL-OTR-ADT;Google;Pixel 4 XL;Adhesivo de tapa;;2,80;;;
+GO-P4XL-OTR-ADP;Google;Pixel 4 XL;Adhesivo de pantalla;;3,75;;;
+GO-P4XL-FUN-SIL;Google;Pixel 4 XL;Funda;Silicona;2,50;;;
+GO-P4XL-FUN-TPU;Google;Pixel 4 XL;Funda;Transparente;2,95;;;
+GO-P4XL-FUN-LIB;Google;Pixel 4 XL;Funda;Libro;3,70;;;
+GO-P4XL-FUN-ANT;Google;Pixel 4 XL;Funda;Antigolpes;3,10;;;
+GO-P4XL-PCA-NA;Google;Pixel 4 XL;Protector de cámara;Cristal;2,90;;;
+GO-P4A-PRO-NA;Google;Pixel 4a;Cristal templado;Estándar;1,30;;;
+GO-P4A-PRO-PRI;Google;Pixel 4a;Cristal templado;Privacidad;4,00;;;
+GO-P4A-OTR-ADP;Google;Pixel 4a;Adhesivo de pantalla;;3,75;;;
+GO-P4A-FUN-SIL;Google;Pixel 4a;Funda;Silicona;2,50;;;
+GO-P4A-FUN-TPU;Google;Pixel 4a;Funda;Transparente;2,95;;;
+GO-P4A-FUN-LIB;Google;Pixel 4a;Funda;Libro;3,70;;;
+GO-P4A-FUN-ANT;Google;Pixel 4a;Funda;Antigolpes;3,10;;;
+GO-P4A-PCA-NA;Google;Pixel 4a;Protector de cámara;Cristal;2,90;;;
+GO-P4A5-PRO-NA;Google;Pixel 4a 5G;Cristal templado;Estándar;1,30;;;
+GO-P4A5-PRO-PRI;Google;Pixel 4a 5G;Cristal templado;Privacidad;4,00;;;
+GO-P4A5-OTR-ADP;Google;Pixel 4a 5G;Adhesivo de pantalla;;3,75;;;
+GO-P4A5-FUN-SIL;Google;Pixel 4a 5G;Funda;Silicona;2,50;;;
+GO-P4A5-FUN-TPU;Google;Pixel 4a 5G;Funda;Transparente;2,95;;;
+GO-P4A5-FUN-LIB;Google;Pixel 4a 5G;Funda;Libro;3,70;;;
+GO-P4A5-FUN-ANT;Google;Pixel 4a 5G;Funda;Antigolpes;3,10;;;
+GO-P4A5-PCA-NA;Google;Pixel 4a 5G;Protector de cámara;Cristal;2,90;;;
+GO-P5-PRO-NA;Google;Pixel 5;Cristal templado;Estándar;1,30;;;
+GO-P5-PRO-PRI;Google;Pixel 5;Cristal templado;Privacidad;4,00;;;
+GO-P5-OTR-ADP;Google;Pixel 5;Adhesivo de pantalla;;3,75;;;
+GO-P5-FUN-SIL;Google;Pixel 5;Funda;Silicona;2,50;;;
+GO-P5-FUN-TPU;Google;Pixel 5;Funda;Transparente;2,95;;;
+GO-P5-FUN-LIB;Google;Pixel 5;Funda;Libro;3,70;;;
+GO-P5-FUN-ANT;Google;Pixel 5;Funda;Antigolpes;3,10;;;
+GO-P5-PCA-NA;Google;Pixel 5;Protector de cámara;Cristal;2,90;;;
+GO-P6-PRO-NA;Google;Pixel 6;Cristal templado;Estándar;1,30;;;
+GO-P6-PRO-PRI;Google;Pixel 6;Cristal templado;Privacidad;4,00;;;
+GO-P6-OTR-ADT;Google;Pixel 6;Adhesivo de tapa;;2,80;;;
+GO-P6-OTR-ADP;Google;Pixel 6;Adhesivo de pantalla;;3,75;;;
+GO-P6-FUN-SIL;Google;Pixel 6;Funda;Silicona;2,50;;;
+GO-P6-FUN-TPU;Google;Pixel 6;Funda;Transparente;2,95;;;
+GO-P6-FUN-LIB;Google;Pixel 6;Funda;Libro;3,70;;;
+GO-P6-FUN-ANT;Google;Pixel 6;Funda;Antigolpes;3,10;;;
+GO-P6-PCA-NA;Google;Pixel 6;Protector de cámara;Cristal;2,90;;;
+GO-P6P-PRO-NA;Google;Pixel 6 Pro;Cristal templado;Estándar;1,30;;;
+GO-P6P-PRO-NA-FG;Google;Pixel 6 Pro;Cristal templado;UV full glue;4,15;;;
+GO-P6P-PRO-PRI;Google;Pixel 6 Pro;Cristal templado;Privacidad;4,00;;;
+GO-P6P-OTR-ADT;Google;Pixel 6 Pro;Adhesivo de tapa;;2,80;;;
+GO-P6P-OTR-ADP;Google;Pixel 6 Pro;Adhesivo de pantalla;;3,75;;;
+GO-P6P-FUN-SIL;Google;Pixel 6 Pro;Funda;Silicona;2,50;;;
+GO-P6P-FUN-TPU;Google;Pixel 6 Pro;Funda;Transparente;2,95;;;
+GO-P6P-FUN-LIB;Google;Pixel 6 Pro;Funda;Libro;3,70;;;
+GO-P6P-FUN-ANT;Google;Pixel 6 Pro;Funda;Antigolpes;3,10;;;
+GO-P6P-PCA-NA;Google;Pixel 6 Pro;Protector de cámara;Cristal;2,90;;;
+GO-P6A-PRO-NA;Google;Pixel 6a;Cristal templado;Estándar;2,15;;;
+GO-P6A-PRO-PRI;Google;Pixel 6a;Cristal templado;Privacidad;4,00;;;
+GO-P6A-OTR-ADP;Google;Pixel 6a;Adhesivo de pantalla;;3,75;;;
+GO-P6A-FUN-SIL;Google;Pixel 6a;Funda;Silicona;2,50;;;
+GO-P6A-FUN-TPU;Google;Pixel 6a;Funda;Transparente;2,95;;;
+GO-P6A-FUN-LIB;Google;Pixel 6a;Funda;Libro;3,70;;;
+GO-P6A-FUN-ANT;Google;Pixel 6a;Funda;Antigolpes;3,10;;;
+GO-P6A-PCA-NA;Google;Pixel 6a;Protector de cámara;Cristal;2,90;;;
+GO-P7-PRO-NA;Google;Pixel 7;Cristal templado;Estándar;1,30;;;
+GO-P7-PRO-PRI;Google;Pixel 7;Cristal templado;Privacidad;4,00;;;
+GO-P7-OTR-ADT;Google;Pixel 7;Adhesivo de tapa;;2,80;;;
+GO-P7-OTR-ADP;Google;Pixel 7;Adhesivo de pantalla;;3,75;;;
+GO-P7-FUN-SIL;Google;Pixel 7;Funda;Silicona;2,50;;;
+GO-P7-FUN-TPU;Google;Pixel 7;Funda;Transparente;2,95;;;
+GO-P7-FUN-LIB;Google;Pixel 7;Funda;Libro;3,70;;;
+GO-P7-FUN-ANT;Google;Pixel 7;Funda;Antigolpes;3,10;;;
+GO-P7-PCA-NA;Google;Pixel 7;Protector de cámara;Cristal;2,90;;;
+GO-P7P-PRO-NA;Google;Pixel 7 Pro;Cristal templado;Estándar;1,30;;;
+GO-P7P-PRO-NA-FG;Google;Pixel 7 Pro;Cristal templado;UV full glue;4,15;;;
+GO-P7P-PRO-PRI;Google;Pixel 7 Pro;Cristal templado;Privacidad;4,00;;;
+GO-P7P-OTR-ADT;Google;Pixel 7 Pro;Adhesivo de tapa;;2,80;;;
+GO-P7P-OTR-ADP;Google;Pixel 7 Pro;Adhesivo de pantalla;;3,75;;;
+GO-P7P-FUN-SIL;Google;Pixel 7 Pro;Funda;Silicona;2,50;;;
+GO-P7P-FUN-TPU;Google;Pixel 7 Pro;Funda;Transparente;2,95;;;
+GO-P7P-FUN-LIB;Google;Pixel 7 Pro;Funda;Libro;3,70;;;
+GO-P7P-FUN-ANT;Google;Pixel 7 Pro;Funda;Antigolpes;3,10;;;
+GO-P7P-PCA-NA;Google;Pixel 7 Pro;Protector de cámara;Cristal;2,90;;;
+GO-P7A-PRO-NA;Google;Pixel 7a;Cristal templado;Estándar;1,30;;;
+GO-P7A-PRO-PRI;Google;Pixel 7a;Cristal templado;Privacidad;4,00;;;
+GO-P7A-OTR-ADT;Google;Pixel 7a;Adhesivo de tapa;;2,80;;;
+GO-P7A-OTR-ADP;Google;Pixel 7a;Adhesivo de pantalla;;4,60;;;
+GO-P7A-FUN-SIL;Google;Pixel 7a;Funda;Silicona;2,50;;;
+GO-P7A-FUN-TPU;Google;Pixel 7a;Funda;Transparente;2,95;;;
+GO-P7A-FUN-LIB;Google;Pixel 7a;Funda;Libro;3,70;;;
+GO-P7A-FUN-ANT;Google;Pixel 7a;Funda;Antigolpes;3,10;;;
+GO-P7A-PCA-NA;Google;Pixel 7a;Protector de cámara;Cristal;2,90;;;
+GO-PF-PRO-NA;Google;Pixel Fold;Cristal templado;Estándar;1,30;;;
+GO-PF-FUN-SIL;Google;Pixel Fold;Funda;Silicona;2,50;;;
+GO-PF-FUN-TPU;Google;Pixel Fold;Funda;Transparente;2,95;;;
+GO-PF-PCA-NA;Google;Pixel Fold;Protector de cámara;Cristal;2,90;;;
+GO-P8-PRO-NA;Google;Pixel 8;Cristal templado;Estándar;1,30;;;
+GO-P8-PRO-PRI;Google;Pixel 8;Cristal templado;Privacidad;4,00;;;
+GO-P8-OTR-ADT;Google;Pixel 8;Adhesivo de tapa;;2,80;;;
+GO-P8-OTR-ADP;Google;Pixel 8;Adhesivo de pantalla;;2,85;;;
+GO-P8-FUN-SIL;Google;Pixel 8;Funda;Silicona;2,50;;;
+GO-P8-FUN-TPU;Google;Pixel 8;Funda;Transparente;2,95;;;
+GO-P8-FUN-LIB;Google;Pixel 8;Funda;Libro;3,70;;;
+GO-P8-FUN-ANT;Google;Pixel 8;Funda;Antigolpes;3,10;;;
+GO-P8-PCA-NA;Google;Pixel 8;Protector de cámara;Cristal;2,90;;;
+GO-P8P-PRO-NA;Google;Pixel 8 Pro;Cristal templado;Estándar;1,30;;;
+GO-P8P-PRO-NA-FG;Google;Pixel 8 Pro;Cristal templado;UV full glue;4,15;;;
+GO-P8P-PRO-PRI;Google;Pixel 8 Pro;Cristal templado;Privacidad;4,00;;;
+GO-P8P-OTR-ADT;Google;Pixel 8 Pro;Adhesivo de tapa;;2,80;;;
+GO-P8P-OTR-ADP;Google;Pixel 8 Pro;Adhesivo de pantalla;;3,75;;;
+GO-P8P-FUN-SIL;Google;Pixel 8 Pro;Funda;Silicona;2,50;;;
+GO-P8P-FUN-TPU;Google;Pixel 8 Pro;Funda;Transparente;2,95;;;
+GO-P8P-FUN-LIB;Google;Pixel 8 Pro;Funda;Libro;3,70;;;
+GO-P8P-FUN-ANT;Google;Pixel 8 Pro;Funda;Antigolpes;3,10;;;
+GO-P8P-PCA-NA;Google;Pixel 8 Pro;Protector de cámara;Cristal;2,90;;;
+GO-P8A-PRO-NA;Google;Pixel 8a;Cristal templado;Estándar;1,30;;;
+GO-P8A-PRO-PRI;Google;Pixel 8a;Cristal templado;Privacidad;4,00;;;
+GO-P8A-OTR-ADP;Google;Pixel 8a;Adhesivo de pantalla;;3,75;;;
+GO-P8A-FUN-SIL;Google;Pixel 8a;Funda;Silicona;2,50;;;
+GO-P8A-FUN-TPU;Google;Pixel 8a;Funda;Transparente;2,95;;;
+GO-P8A-FUN-LIB;Google;Pixel 8a;Funda;Libro;3,70;;;
+GO-P8A-FUN-ANT;Google;Pixel 8a;Funda;Antigolpes;3,10;;;
+GO-P8A-PCA-NA;Google;Pixel 8a;Protector de cámara;Cristal;2,90;;;
+GO-P9-PRO-NA;Google;Pixel 9;Cristal templado;Estándar;1,30;;;
+GO-P9-PRO-PRI;Google;Pixel 9;Cristal templado;Privacidad;4,00;;;
+GO-P9-OTR-ADT;Google;Pixel 9;Adhesivo de tapa;;2,80;;;
+GO-P9-OTR-ADP;Google;Pixel 9;Adhesivo de pantalla;;3,75;;;
+GO-P9-FUN-SIL;Google;Pixel 9;Funda;Silicona;2,50;;;
+GO-P9-FUN-TPU;Google;Pixel 9;Funda;Transparente;2,95;;;
+GO-P9-FUN-LIB;Google;Pixel 9;Funda;Libro;3,70;;;
+GO-P9-FUN-ANT;Google;Pixel 9;Funda;Antigolpes;3,10;;;
+GO-P9-PCA-NA;Google;Pixel 9;Protector de cámara;Cristal;2,90;;;
+GO-P9P-PRO-NA;Google;Pixel 9 Pro;Cristal templado;Estándar;1,30;;;
+GO-P9P-PRO-NA-FG;Google;Pixel 9 Pro;Cristal templado;UV full glue;4,15;;;
+GO-P9P-PRO-PRI;Google;Pixel 9 Pro;Cristal templado;Privacidad;4,00;;;
+GO-P9P-OTR-ADT;Google;Pixel 9 Pro;Adhesivo de tapa;;2,80;;;
+GO-P9P-OTR-ADP;Google;Pixel 9 Pro;Adhesivo de pantalla;;3,75;;;
+GO-P9P-FUN-SIL;Google;Pixel 9 Pro;Funda;Silicona;2,50;;;
+GO-P9P-FUN-TPU;Google;Pixel 9 Pro;Funda;Transparente;2,95;;;
+GO-P9P-FUN-LIB;Google;Pixel 9 Pro;Funda;Libro;3,70;;;
+GO-P9P-FUN-ANT;Google;Pixel 9 Pro;Funda;Antigolpes;3,10;;;
+GO-P9P-PCA-NA;Google;Pixel 9 Pro;Protector de cámara;Cristal;2,90;;;
+GO-P9PXL-PRO-NA;Google;Pixel 9 Pro XL;Cristal templado;Estándar;1,30;;;
+GO-P9PXL-PRO-NA-FG;Google;Pixel 9 Pro XL;Cristal templado;UV full glue;4,15;;;
+GO-P9PXL-PRO-PRI;Google;Pixel 9 Pro XL;Cristal templado;Privacidad;4,00;;;
+GO-P9PXL-OTR-ADT;Google;Pixel 9 Pro XL;Adhesivo de tapa;;2,80;;;
+GO-P9PXL-OTR-ADP;Google;Pixel 9 Pro XL;Adhesivo de pantalla;;3,75;;;
+GO-P9PXL-FUN-SIL;Google;Pixel 9 Pro XL;Funda;Silicona;2,50;;;
+GO-P9PXL-FUN-TPU;Google;Pixel 9 Pro XL;Funda;Transparente;2,95;;;
+GO-P9PXL-FUN-LIB;Google;Pixel 9 Pro XL;Funda;Libro;3,70;;;
+GO-P9PXL-FUN-ANT;Google;Pixel 9 Pro XL;Funda;Antigolpes;3,10;;;
+GO-P9PXL-PCA-NA;Google;Pixel 9 Pro XL;Protector de cámara;Cristal;2,90;;;
+GO-P9PF-PRO-NA;Google;Pixel 9 Pro Fold;Cristal templado;Estándar;1,30;;;
+GO-P9PF-OTR-ADT;Google;Pixel 9 Pro Fold;Adhesivo de tapa;;2,80;;;
+GO-P9PF-FUN-SIL;Google;Pixel 9 Pro Fold;Funda;Silicona;2,50;;;
+GO-P9PF-FUN-TPU;Google;Pixel 9 Pro Fold;Funda;Transparente;2,95;;;
+GO-P9PF-PCA-NA;Google;Pixel 9 Pro Fold;Protector de cámara;Cristal;2,90;;;
+GO-P9A-PRO-NA;Google;Pixel 9a;Cristal templado;Estándar;1,30;;;
+GO-P9A-PRO-PRI;Google;Pixel 9a;Cristal templado;Privacidad;4,00;;;
+GO-P9A-OTR-ADP;Google;Pixel 9a;Adhesivo de pantalla;;3,75;;;
+GO-P9A-FUN-SIL;Google;Pixel 9a;Funda;Silicona;2,50;;;
+GO-P9A-FUN-TPU;Google;Pixel 9a;Funda;Transparente;2,95;;;
+GO-P9A-FUN-LIB;Google;Pixel 9a;Funda;Libro;3,70;;;
+GO-P9A-FUN-ANT;Google;Pixel 9a;Funda;Antigolpes;3,10;;;
+GO-P9A-PCA-NA;Google;Pixel 9a;Protector de cámara;Cristal;2,90;;;
+GO-P10-PRO-NA;Google;Pixel 10;Cristal templado;Estándar;1,30;;;
+GO-P10-PRO-PRI;Google;Pixel 10;Cristal templado;Privacidad;4,00;;;
+GO-P10-OTR-ADT;Google;Pixel 10;Adhesivo de tapa;;2,80;;;
+GO-P10-OTR-ADP;Google;Pixel 10;Adhesivo de pantalla;;3,75;;;
+GO-P10-FUN-SIL;Google;Pixel 10;Funda;Silicona;2,50;;;
+GO-P10-FUN-TPU;Google;Pixel 10;Funda;Transparente;2,95;;;
+GO-P10-FUN-LIB;Google;Pixel 10;Funda;Libro;3,70;;;
+GO-P10-FUN-ANT;Google;Pixel 10;Funda;Antigolpes;3,10;;;
+GO-P10-PCA-NA;Google;Pixel 10;Protector de cámara;Cristal;2,90;;;
+GO-P10P-PRO-NA;Google;Pixel 10 Pro;Cristal templado;Estándar;1,30;;;
+GO-P10P-PRO-NA-FG;Google;Pixel 10 Pro;Cristal templado;UV full glue;4,15;;;
+GO-P10P-PRO-PRI;Google;Pixel 10 Pro;Cristal templado;Privacidad;4,00;;;
+GO-P10P-OTR-ADT;Google;Pixel 10 Pro;Adhesivo de tapa;;2,80;;;
+GO-P10P-OTR-ADP;Google;Pixel 10 Pro;Adhesivo de pantalla;;3,75;;;
+GO-P10P-FUN-SIL;Google;Pixel 10 Pro;Funda;Silicona;2,50;;;
+GO-P10P-FUN-TPU;Google;Pixel 10 Pro;Funda;Transparente;2,95;;;
+GO-P10P-FUN-LIB;Google;Pixel 10 Pro;Funda;Libro;3,70;;;
+GO-P10P-FUN-ANT;Google;Pixel 10 Pro;Funda;Antigolpes;3,10;;;
+GO-P10P-PCA-NA;Google;Pixel 10 Pro;Protector de cámara;Cristal;2,90;;;
+GO-P10PXL-PRO-NA;Google;Pixel 10 Pro XL;Cristal templado;Estándar;1,30;;;
+GO-P10PXL-PRO-NA-FG;Google;Pixel 10 Pro XL;Cristal templado;UV full glue;4,15;;;
+GO-P10PXL-PRO-PRI;Google;Pixel 10 Pro XL;Cristal templado;Privacidad;4,00;;;
+GO-P10PXL-OTR-ADT;Google;Pixel 10 Pro XL;Adhesivo de tapa;;2,80;;;
+GO-P10PXL-OTR-ADP;Google;Pixel 10 Pro XL;Adhesivo de pantalla;;3,75;;;
+GO-P10PXL-FUN-SIL;Google;Pixel 10 Pro XL;Funda;Silicona;2,50;;;
+GO-P10PXL-FUN-TPU;Google;Pixel 10 Pro XL;Funda;Transparente;2,95;;;
+GO-P10PXL-FUN-LIB;Google;Pixel 10 Pro XL;Funda;Libro;3,70;;;
+GO-P10PXL-FUN-ANT;Google;Pixel 10 Pro XL;Funda;Antigolpes;3,10;;;
+GO-P10PXL-PCA-NA;Google;Pixel 10 Pro XL;Protector de cámara;Cristal;2,90;;;
+GO-P10PF-PRO-NA;Google;Pixel 10 Pro Fold;Cristal templado;Estándar;1,30;;;
+GO-P10PF-OTR-ADT;Google;Pixel 10 Pro Fold;Adhesivo de tapa;;2,80;;;
+GO-P10PF-FUN-SIL;Google;Pixel 10 Pro Fold;Funda;Silicona;2,50;;;
+GO-P10PF-FUN-TPU;Google;Pixel 10 Pro Fold;Funda;Transparente;2,95;;;
+GO-P10PF-PCA-NA;Google;Pixel 10 Pro Fold;Protector de cámara;Cristal;2,90;;;
+GO-P10A-PRO-NA;Google;Pixel 10a;Cristal templado;Estándar;1,30;;;
+GO-P10A-PRO-PRI;Google;Pixel 10a;Cristal templado;Privacidad;4,00;;;
+GO-P10A-OTR-ADP;Google;Pixel 10a;Adhesivo de pantalla;;3,75;;;
+GO-P10A-FUN-SIL;Google;Pixel 10a;Funda;Silicona;2,50;;;
+GO-P10A-FUN-TPU;Google;Pixel 10a;Funda;Transparente;2,95;;;
+GO-P10A-FUN-LIB;Google;Pixel 10a;Funda;Libro;3,70;;;
+GO-P10A-FUN-ANT;Google;Pixel 10a;Funda;Antigolpes;3,10;;;
+GO-P10A-PCA-NA;Google;Pixel 10a;Protector de cámara;Cristal;2,90;;;
+GO-P11-PRO-NA;Google;Pixel 11;Cristal templado;Estándar;1,30;;;
+GO-P11-PRO-PRI;Google;Pixel 11;Cristal templado;Privacidad;4,00;;;
+GO-P11-OTR-ADT;Google;Pixel 11;Adhesivo de tapa;;2,80;;;
+GO-P11-OTR-ADP;Google;Pixel 11;Adhesivo de pantalla;;3,75;;;
+GO-P11-FUN-SIL;Google;Pixel 11;Funda;Silicona;2,50;;;
+GO-P11-FUN-TPU;Google;Pixel 11;Funda;Transparente;2,95;;;
+GO-P11-FUN-LIB;Google;Pixel 11;Funda;Libro;3,70;;;
+GO-P11-FUN-ANT;Google;Pixel 11;Funda;Antigolpes;3,10;;;
+GO-P11-PCA-NA;Google;Pixel 11;Protector de cámara;Cristal;2,90;;;
+GO-P11P-PRO-NA;Google;Pixel 11 Pro;Cristal templado;Estándar;1,30;;;
+GO-P11P-PRO-NA-FG;Google;Pixel 11 Pro;Cristal templado;UV full glue;4,15;;;
+GO-P11P-PRO-PRI;Google;Pixel 11 Pro;Cristal templado;Privacidad;4,00;;;
+GO-P11P-OTR-ADT;Google;Pixel 11 Pro;Adhesivo de tapa;;2,80;;;
+GO-P11P-OTR-ADP;Google;Pixel 11 Pro;Adhesivo de pantalla;;3,75;;;
+GO-P11P-FUN-SIL;Google;Pixel 11 Pro;Funda;Silicona;2,50;;;
+GO-P11P-FUN-TPU;Google;Pixel 11 Pro;Funda;Transparente;2,95;;;
+GO-P11P-FUN-LIB;Google;Pixel 11 Pro;Funda;Libro;3,70;;;
+GO-P11P-FUN-ANT;Google;Pixel 11 Pro;Funda;Antigolpes;3,10;;;
+GO-P11P-PCA-NA;Google;Pixel 11 Pro;Protector de cámara;Cristal;2,90;;;
+GO-P11PXL-PRO-NA;Google;Pixel 11 Pro XL;Cristal templado;Estándar;1,30;;;
+GO-P11PXL-PRO-NA-FG;Google;Pixel 11 Pro XL;Cristal templado;UV full glue;4,15;;;
+GO-P11PXL-PRO-PRI;Google;Pixel 11 Pro XL;Cristal templado;Privacidad;4,00;;;
+GO-P11PXL-OTR-ADT;Google;Pixel 11 Pro XL;Adhesivo de tapa;;2,80;;;
+GO-P11PXL-OTR-ADP;Google;Pixel 11 Pro XL;Adhesivo de pantalla;;3,75;;;
+GO-P11PXL-FUN-SIL;Google;Pixel 11 Pro XL;Funda;Silicona;2,50;;;
+GO-P11PXL-FUN-TPU;Google;Pixel 11 Pro XL;Funda;Transparente;2,95;;;
+GO-P11PXL-FUN-LIB;Google;Pixel 11 Pro XL;Funda;Libro;3,70;;;
+GO-P11PXL-FUN-ANT;Google;Pixel 11 Pro XL;Funda;Antigolpes;3,10;;;
+GO-P11PXL-PCA-NA;Google;Pixel 11 Pro XL;Protector de cámara;Cristal;2,90;;;
+GO-P11PF-PRO-NA;Google;Pixel 11 Pro Fold;Cristal templado;Estándar;1,30;;;
+GO-P11PF-OTR-ADT;Google;Pixel 11 Pro Fold;Adhesivo de tapa;;2,80;;;
+GO-P11PF-FUN-SIL;Google;Pixel 11 Pro Fold;Funda;Silicona;2,50;;;
+GO-P11PF-FUN-TPU;Google;Pixel 11 Pro Fold;Funda;Transparente;2,95;;;
+GO-P11PF-PCA-NA;Google;Pixel 11 Pro Fold;Protector de cámara;Cristal;2,90;;;
+GO-P5A-PRO-NA;Google;Pixel 5a;Cristal templado;Estándar;1,30;;;
+GO-P5A-PRO-PRI;Google;Pixel 5a;Cristal templado;Privacidad;4,00;;;
+GO-P5A-OTR-ADP;Google;Pixel 5a;Adhesivo de pantalla;;3,75;;;
+GO-P5A-FUN-SIL;Google;Pixel 5a;Funda;Silicona;2,50;;;
+GO-P5A-FUN-TPU;Google;Pixel 5a;Funda;Transparente;2,95;;;
+GO-P5A-FUN-LIB;Google;Pixel 5a;Funda;Libro;3,70;;;
+GO-P5A-FUN-ANT;Google;Pixel 5a;Funda;Antigolpes;3,10;;;
+GO-P5A-PCA-NA;Google;Pixel 5a;Protector de cámara;Cristal;2,90;;;
+GO-N5X-PRO-NA;Google;Nexus 5X;Cristal templado;Estándar;1,30;;;
+GO-N5X-PRO-PRI;Google;Nexus 5X;Cristal templado;Privacidad;4,00;;;
+GO-N5X-OTR-ADP;Google;Nexus 5X;Adhesivo de pantalla;;3,75;;;
+GO-N5X-FUN-SIL;Google;Nexus 5X;Funda;Silicona;2,50;;;
+GO-N5X-FUN-TPU;Google;Nexus 5X;Funda;Transparente;2,95;;;
+GO-N5X-FUN-LIB;Google;Nexus 5X;Funda;Libro;3,70;;;
+GO-N5X-FUN-ANT;Google;Nexus 5X;Funda;Antigolpes;3,10;;;
+GO-N6P-PRO-NA;Google;Nexus 6P;Cristal templado;Estándar;1,30;;;
+GO-N6P-PRO-PRI;Google;Nexus 6P;Cristal templado;Privacidad;4,00;;;
+GO-N6P-OTR-ADP;Google;Nexus 6P;Adhesivo de pantalla;;3,75;;;
+GO-N6P-FUN-SIL;Google;Nexus 6P;Funda;Silicona;2,50;;;
+GO-N6P-FUN-TPU;Google;Nexus 6P;Funda;Transparente;2,95;;;
+GO-N6P-FUN-LIB;Google;Nexus 6P;Funda;Libro;3,70;;;
+GO-N6P-FUN-ANT;Google;Nexus 6P;Funda;Antigolpes;3,10;;;
+GO-PV1-PRO-NA;Google;Pixel V1;Cristal templado;Estándar;1,30;;;
+GO-PV1-PRO-PRI;Google;Pixel V1;Cristal templado;Privacidad;4,00;;;
+GO-PV1-OTR-ADP;Google;Pixel V1;Adhesivo de pantalla;;3,75;;;
+GO-PV1-FUN-SIL;Google;Pixel V1;Funda;Silicona;2,50;;;
+GO-PV1-FUN-TPU;Google;Pixel V1;Funda;Transparente;2,95;;;
+GO-PV1-FUN-LIB;Google;Pixel V1;Funda;Libro;3,70;;;
+GO-PV1-FUN-ANT;Google;Pixel V1;Funda;Antigolpes;3,10;;;
+GO-N6-PRO-NA;Google;Nexus 6;Cristal templado;Estándar;1,30;;;
+GO-N6-PRO-PRI;Google;Nexus 6;Cristal templado;Privacidad;4,00;;;
+GO-N6-OTR-ADP;Google;Nexus 6;Adhesivo de pantalla;;3,75;;;
+GO-N6-FUN-SIL;Google;Nexus 6;Funda;Silicona;2,50;;;
+GO-N6-FUN-TPU;Google;Nexus 6;Funda;Transparente;2,95;;;
+GO-N6-FUN-LIB;Google;Nexus 6;Funda;Libro;3,70;;;
+GO-N6-FUN-ANT;Google;Nexus 6;Funda;Antigolpes;3,10;;;
+GO-N5-PRO-NA;Google;Nexus 5;Cristal templado;Estándar;1,30;;;
+GO-N5-PRO-PRI;Google;Nexus 5;Cristal templado;Privacidad;4,00;;;
+GO-N5-OTR-ADP;Google;Nexus 5;Adhesivo de pantalla;;3,75;;;
+GO-N5-FUN-SIL;Google;Nexus 5;Funda;Silicona;2,50;;;
+GO-N5-FUN-TPU;Google;Nexus 5;Funda;Transparente;2,95;;;
+GO-N5-FUN-LIB;Google;Nexus 5;Funda;Libro;3,70;;;
+GO-N5-FUN-ANT;Google;Nexus 5;Funda;Antigolpes;3,10;;;
+GO-N4-PRO-NA;Google;Nexus 4;Cristal templado;Estándar;1,30;;;
+GO-N4-PRO-PRI;Google;Nexus 4;Cristal templado;Privacidad;4,00;;;
+GO-N4-OTR-ADP;Google;Nexus 4;Adhesivo de pantalla;;3,75;;;
+GO-N4-FUN-SIL;Google;Nexus 4;Funda;Silicona;2,50;;;
+GO-N4-FUN-TPU;Google;Nexus 4;Funda;Transparente;2,95;;;
+GO-N4-FUN-LIB;Google;Nexus 4;Funda;Libro;3,70;;;
+GO-N4-FUN-ANT;Google;Nexus 4;Funda;Antigolpes;3,10;;;
+GO-P-PRO-NA;Google;Pixel;Cristal templado;Estándar;1,30;;;
+GO-P-PRO-PRI;Google;Pixel;Cristal templado;Privacidad;4,00;;;
+GO-P-OTR-ADP;Google;Pixel;Adhesivo de pantalla;;3,75;;;
+GO-P-FUN-SIL;Google;Pixel;Funda;Silicona;2,50;;;
+GO-P-FUN-TPU;Google;Pixel;Funda;Transparente;2,95;;;
+GO-P-FUN-LIB;Google;Pixel;Funda;Libro;3,70;;;
+GO-P-FUN-ANT;Google;Pixel;Funda;Antigolpes;3,10;;;
+GO-PXL-PRO-NA;Google;Pixel XL;Cristal templado;Estándar;1,30;;;
+GO-PXL-PRO-NA-FG;Google;Pixel XL;Cristal templado;UV full glue;4,15;;;
+GO-PXL-PRO-PRI;Google;Pixel XL;Cristal templado;Privacidad;4,00;;;
+GO-PXL-OTR-ADP;Google;Pixel XL;Adhesivo de pantalla;;3,75;;;
+GO-PXL-FUN-SIL;Google;Pixel XL;Funda;Silicona;2,50;;;
+GO-PXL-FUN-TPU;Google;Pixel XL;Funda;Transparente;2,95;;;
+GO-PXL-FUN-LIB;Google;Pixel XL;Funda;Libro;3,70;;;
+GO-PXL-FUN-ANT;Google;Pixel XL;Funda;Antigolpes;3,10;;;
+GO-P2-PRO-NA;Google;Pixel 2;Cristal templado;Estándar;1,30;;;
+GO-P2-PRO-PRI;Google;Pixel 2;Cristal templado;Privacidad;4,00;;;
+GO-P2-OTR-ADP;Google;Pixel 2;Adhesivo de pantalla;;3,75;;;
+GO-P2-FUN-SIL;Google;Pixel 2;Funda;Silicona;2,50;;;
+GO-P2-FUN-TPU;Google;Pixel 2;Funda;Transparente;2,95;;;
+GO-P2-FUN-LIB;Google;Pixel 2;Funda;Libro;3,70;;;
+GO-P2-FUN-ANT;Google;Pixel 2;Funda;Antigolpes;3,10;;;
+GO-P2XL-PRO-NA;Google;Pixel 2 XL;Cristal templado;Estándar;1,30;;;
+GO-P2XL-PRO-NA-FG;Google;Pixel 2 XL;Cristal templado;UV full glue;4,15;;;
+GO-P2XL-PRO-PRI;Google;Pixel 2 XL;Cristal templado;Privacidad;4,00;;;
+GO-P2XL-OTR-ADP;Google;Pixel 2 XL;Adhesivo de pantalla;;3,75;;;
+GO-P2XL-FUN-SIL;Google;Pixel 2 XL;Funda;Silicona;2,50;;;
+GO-P2XL-FUN-TPU;Google;Pixel 2 XL;Funda;Transparente;2,95;;;
+GO-P2XL-FUN-LIB;Google;Pixel 2 XL;Funda;Libro;3,70;;;
+GO-P2XL-FUN-ANT;Google;Pixel 2 XL;Funda;Antigolpes;3,10;;;
+GO-P3-PRO-NA;Google;Pixel 3;Cristal templado;Estándar;1,30;;;
+GO-P3-PRO-PRI;Google;Pixel 3;Cristal templado;Privacidad;4,00;;;
+GO-P3-OTR-ADP;Google;Pixel 3;Adhesivo de pantalla;;3,75;;;
+GO-P3-FUN-SIL;Google;Pixel 3;Funda;Silicona;2,50;;;
+GO-P3-FUN-TPU;Google;Pixel 3;Funda;Transparente;2,95;;;
+GO-P3-FUN-LIB;Google;Pixel 3;Funda;Libro;3,70;;;
+GO-P3-FUN-ANT;Google;Pixel 3;Funda;Antigolpes;3,10;;;
+GO-P3XL-PRO-NA;Google;Pixel 3 XL;Cristal templado;Estándar;1,30;;;
+GO-P3XL-PRO-NA-FG;Google;Pixel 3 XL;Cristal templado;UV full glue;4,15;;;
+GO-P3XL-PRO-PRI;Google;Pixel 3 XL;Cristal templado;Privacidad;4,00;;;
+GO-P3XL-OTR-ADP;Google;Pixel 3 XL;Adhesivo de pantalla;;3,75;;;
+GO-P3XL-FUN-SIL;Google;Pixel 3 XL;Funda;Silicona;2,50;;;
+GO-P3XL-FUN-TPU;Google;Pixel 3 XL;Funda;Transparente;2,95;;;
+GO-P3XL-FUN-LIB;Google;Pixel 3 XL;Funda;Libro;3,70;;;
+GO-P3XL-FUN-ANT;Google;Pixel 3 XL;Funda;Antigolpes;3,10;;;
+GO-P3A-MAR-COM;Google;Pixel 3a;Marco / chasis;Compatible;6,49;;;6
+GO-P3A-BOT-COM;Google;Pixel 3a;Botones laterales;Compatible;3,35;;;6
+GO-P3A-CRI-COM;Google;Pixel 3a;Cristal de pantalla;Compatible;3,30;;;6
+GO-P3A-FPR-COM;Google;Pixel 3a;Flex principal;Compatible;2,75;;;6
+GO-P3A-VIB-COM;Google;Pixel 3a;Vibrador;Compatible;3,20;;;6
+GO-P3A-ANT-COM;Google;Pixel 3a;Antena / coaxial;Compatible;2,89;;;6
+GO-P3A-HUE-COM;Google;Pixel 3a;Botón home / huella;Compatible;4,79;;;6
+GO-P3AXL-MAR-COM;Google;Pixel 3a XL;Marco / chasis;Compatible;6,49;;;6
+GO-P3AXL-BOT-COM;Google;Pixel 3a XL;Botones laterales;Compatible;3,35;;;6
+GO-P3AXL-CRI-COM;Google;Pixel 3a XL;Cristal de pantalla;Compatible;3,30;;;6
+GO-P3AXL-FPR-COM;Google;Pixel 3a XL;Flex principal;Compatible;2,75;;;6
+GO-P3AXL-VIB-COM;Google;Pixel 3a XL;Vibrador;Compatible;3,20;;;6
+GO-P3AXL-ANT-COM;Google;Pixel 3a XL;Antena / coaxial;Compatible;2,89;;;6
+GO-P3AXL-HUE-COM;Google;Pixel 3a XL;Botón home / huella;Compatible;4,79;;;6
+GO-P4-MAR-COM;Google;Pixel 4;Marco / chasis;Compatible;7,40;;;6
+GO-P4-BOT-COM;Google;Pixel 4;Botones laterales;Compatible;3,80;;;6
+GO-P4-CRI-COM;Google;Pixel 4;Cristal de pantalla;Compatible;3,79;;;6
+GO-P4-FPR-COM;Google;Pixel 4;Flex principal;Compatible;3,10;;;6
+GO-P4-VIB-COM;Google;Pixel 4;Vibrador;Compatible;3,65;;;6
+GO-P4-ANT-COM;Google;Pixel 4;Antena / coaxial;Compatible;3,29;;;6
+GO-P4-HUE-COM;Google;Pixel 4;Botón home / huella;Compatible;5,45;;;6
+GO-P4-NFC-COM;Google;Pixel 4;NFC y carga inalámbrica;Compatible;7,35;;;6
+GO-P4XL-MAR-COM;Google;Pixel 4 XL;Marco / chasis;Compatible;8,80;;;6
+GO-P4XL-BOT-COM;Google;Pixel 4 XL;Botones laterales;Compatible;4,50;;;6
+GO-P4XL-CRI-COM;Google;Pixel 4 XL;Cristal de pantalla;Compatible;4,50;;;6
+GO-P4XL-FPR-COM;Google;Pixel 4 XL;Flex principal;Compatible;3,70;;;6
+GO-P4XL-VIB-COM;Google;Pixel 4 XL;Vibrador;Compatible;4,35;;;6
+GO-P4XL-ANT-COM;Google;Pixel 4 XL;Antena / coaxial;Compatible;3,90;;;6
+GO-P4XL-HUE-COM;Google;Pixel 4 XL;Botón home / huella;Compatible;6,50;;;6
+GO-P4XL-NFC-COM;Google;Pixel 4 XL;NFC y carga inalámbrica;Compatible;8,75;;;6
+GO-P4A-MAR-COM;Google;Pixel 4a;Marco / chasis;Compatible;7,20;;;6
+GO-P4A-BOT-COM;Google;Pixel 4a;Botones laterales;Compatible;3,70;;;6
+GO-P4A-CRI-COM;Google;Pixel 4a;Cristal de pantalla;Compatible;3,69;;;6
+GO-P4A-FPR-COM;Google;Pixel 4a;Flex principal;Compatible;3,05;;;6
+GO-P4A-VIB-COM;Google;Pixel 4a;Vibrador;Compatible;3,55;;;6
+GO-P4A-ANT-COM;Google;Pixel 4a;Antena / coaxial;Compatible;3,20;;;6
+GO-P4A-HUE-COM;Google;Pixel 4a;Botón home / huella;Compatible;5,30;;;6
+GO-P4A5-MAR-COM;Google;Pixel 4a 5G;Marco / chasis;Compatible;7,20;;;6
+GO-P4A5-BOT-COM;Google;Pixel 4a 5G;Botones laterales;Compatible;3,70;;;6
+GO-P4A5-CRI-COM;Google;Pixel 4a 5G;Cristal de pantalla;Compatible;3,69;;;6
+GO-P4A5-FPR-COM;Google;Pixel 4a 5G;Flex principal;Compatible;3,05;;;6
+GO-P4A5-VIB-COM;Google;Pixel 4a 5G;Vibrador;Compatible;3,55;;;6
+GO-P4A5-ANT-COM;Google;Pixel 4a 5G;Antena / coaxial;Compatible;3,20;;;6
+GO-P4A5-HUE-COM;Google;Pixel 4a 5G;Botón home / huella;Compatible;5,30;;;6
+GO-P5-MAR-COM;Google;Pixel 5;Marco / chasis;Compatible;8,20;;;6
+GO-P5-BOT-COM;Google;Pixel 5;Botones laterales;Compatible;4,20;;;6
+GO-P5-CRI-COM;Google;Pixel 5;Cristal de pantalla;Compatible;4,20;;;6
+GO-P5-FPR-COM;Google;Pixel 5;Flex principal;Compatible;3,45;;;6
+GO-P5-VIB-COM;Google;Pixel 5;Vibrador;Compatible;4,05;;;6
+GO-P5-ANT-COM;Google;Pixel 5;Antena / coaxial;Compatible;3,65;;;6
+GO-P5-HUE-COM;Google;Pixel 5;Botón home / huella;Compatible;6,05;;;6
+GO-P5-NFC-COM;Google;Pixel 5;NFC y carga inalámbrica;Compatible;8,15;;;6
+GO-P6-MAR-COM;Google;Pixel 6;Marco / chasis;Compatible;8,20;;;6
+GO-P6-BOT-COM;Google;Pixel 6;Botones laterales;Compatible;4,20;;;6
+GO-P6-CRI-COM;Google;Pixel 6;Cristal de pantalla;Compatible;4,20;;;6
+GO-P6-FPR-COM;Google;Pixel 6;Flex principal;Compatible;3,45;;;6
+GO-P6-VIB-COM;Google;Pixel 6;Vibrador;Compatible;4,05;;;6
+GO-P6-ANT-COM;Google;Pixel 6;Antena / coaxial;Compatible;3,65;;;6
+GO-P6-HUE-COM;Google;Pixel 6;Botón home / huella;Compatible;6,05;;;6
+GO-P6-NFC-COM;Google;Pixel 6;NFC y carga inalámbrica;Compatible;8,15;;;6
+GO-P6P-MAR-COM;Google;Pixel 6 Pro;Marco / chasis;Compatible;9,79;;;6
+GO-P6P-BOT-COM;Google;Pixel 6 Pro;Botones laterales;Compatible;5,00;;;6
+GO-P6P-CRI-COM;Google;Pixel 6 Pro;Cristal de pantalla;Compatible;5,00;;;6
+GO-P6P-FPR-COM;Google;Pixel 6 Pro;Flex principal;Compatible;4,15;;;6
+GO-P6P-VIB-COM;Google;Pixel 6 Pro;Vibrador;Compatible;4,85;;;6
+GO-P6P-ANT-COM;Google;Pixel 6 Pro;Antena / coaxial;Compatible;4,35;;;6
+GO-P6P-HUE-COM;Google;Pixel 6 Pro;Botón home / huella;Compatible;7,25;;;6
+GO-P6P-NFC-COM;Google;Pixel 6 Pro;NFC y carga inalámbrica;Compatible;9,70;;;6
+GO-P6A-MAR-COM;Google;Pixel 6a;Marco / chasis;Compatible;7,20;;;6
+GO-P6A-BOT-COM;Google;Pixel 6a;Botones laterales;Compatible;3,70;;;6
+GO-P6A-CRI-COM;Google;Pixel 6a;Cristal de pantalla;Compatible;3,69;;;6
+GO-P6A-FPR-COM;Google;Pixel 6a;Flex principal;Compatible;3,05;;;6
+GO-P6A-VIB-COM;Google;Pixel 6a;Vibrador;Compatible;3,55;;;6
+GO-P6A-ANT-COM;Google;Pixel 6a;Antena / coaxial;Compatible;3,20;;;6
+GO-P6A-HUE-COM;Google;Pixel 6a;Botón home / huella;Compatible;5,30;;;6
+GO-P7-MAR-COM;Google;Pixel 7;Marco / chasis;Compatible;8,20;;;6
+GO-P7-BOT-COM;Google;Pixel 7;Botones laterales;Compatible;4,20;;;6
+GO-P7-CRI-COM;Google;Pixel 7;Cristal de pantalla;Compatible;4,20;;;6
+GO-P7-FPR-COM;Google;Pixel 7;Flex principal;Compatible;3,45;;;6
+GO-P7-VIB-COM;Google;Pixel 7;Vibrador;Compatible;4,05;;;6
+GO-P7-ANT-COM;Google;Pixel 7;Antena / coaxial;Compatible;3,65;;;6
+GO-P7-HUE-COM;Google;Pixel 7;Botón home / huella;Compatible;6,05;;;6
+GO-P7-NFC-COM;Google;Pixel 7;NFC y carga inalámbrica;Compatible;8,15;;;6
+GO-P7P-MAR-COM;Google;Pixel 7 Pro;Marco / chasis;Compatible;9,79;;;6
+GO-P7P-BOT-COM;Google;Pixel 7 Pro;Botones laterales;Compatible;5,00;;;6
+GO-P7P-CRI-COM;Google;Pixel 7 Pro;Cristal de pantalla;Compatible;5,00;;;6
+GO-P7P-FPR-COM;Google;Pixel 7 Pro;Flex principal;Compatible;4,15;;;6
+GO-P7P-VIB-COM;Google;Pixel 7 Pro;Vibrador;Compatible;4,85;;;6
+GO-P7P-ANT-COM;Google;Pixel 7 Pro;Antena / coaxial;Compatible;4,35;;;6
+GO-P7P-HUE-COM;Google;Pixel 7 Pro;Botón home / huella;Compatible;7,25;;;6
+GO-P7P-NFC-COM;Google;Pixel 7 Pro;NFC y carga inalámbrica;Compatible;9,70;;;6
+GO-P7A-MAR-COM;Google;Pixel 7a;Marco / chasis;Compatible;7,20;;;6
+GO-P7A-BOT-COM;Google;Pixel 7a;Botones laterales;Compatible;3,70;;;6
+GO-P7A-CRI-COM;Google;Pixel 7a;Cristal de pantalla;Compatible;3,69;;;6
+GO-P7A-FPR-COM;Google;Pixel 7a;Flex principal;Compatible;3,05;;;6
+GO-P7A-VIB-COM;Google;Pixel 7a;Vibrador;Compatible;3,55;;;6
+GO-P7A-ANT-COM;Google;Pixel 7a;Antena / coaxial;Compatible;3,20;;;6
+GO-P7A-HUE-COM;Google;Pixel 7a;Botón home / huella;Compatible;5,30;;;6
+GO-P7A-NFC-COM;Google;Pixel 7a;NFC y carga inalámbrica;Compatible;7,15;;;6
+GO-PF-FPR-COM;Google;Pixel Fold;Flex principal;Compatible;7,45;;;6
+GO-PF-VIB-COM;Google;Pixel Fold;Vibrador;Compatible;8,75;;;6
+GO-PF-ANT-COM;Google;Pixel Fold;Antena / coaxial;Compatible;7,85;;;6
+GO-PF-HUE-COM;Google;Pixel Fold;Botón home / huella;Compatible;13,00;12,61;12,22;6
+GO-P8-MAR-COM;Google;Pixel 8;Marco / chasis;Compatible;8,20;;;6
+GO-P8-BOT-COM;Google;Pixel 8;Botones laterales;Compatible;4,20;;;6
+GO-P8-CRI-COM;Google;Pixel 8;Cristal de pantalla;Compatible;4,20;;;6
+GO-P8-FPR-COM;Google;Pixel 8;Flex principal;Compatible;3,45;;;6
+GO-P8-VIB-COM;Google;Pixel 8;Vibrador;Compatible;4,05;;;6
+GO-P8-ANT-COM;Google;Pixel 8;Antena / coaxial;Compatible;3,65;;;6
+GO-P8-HUE-COM;Google;Pixel 8;Botón home / huella;Compatible;6,05;;;6
+GO-P8-NFC-COM;Google;Pixel 8;NFC y carga inalámbrica;Compatible;8,15;;;6
+GO-P8P-MAR-COM;Google;Pixel 8 Pro;Marco / chasis;Compatible;9,79;;;6
+GO-P8P-BOT-COM;Google;Pixel 8 Pro;Botones laterales;Compatible;5,00;;;6
+GO-P8P-CRI-COM;Google;Pixel 8 Pro;Cristal de pantalla;Compatible;5,00;;;6
+GO-P8P-FPR-COM;Google;Pixel 8 Pro;Flex principal;Compatible;4,15;;;6
+GO-P8P-VIB-COM;Google;Pixel 8 Pro;Vibrador;Compatible;4,85;;;6
+GO-P8P-ANT-COM;Google;Pixel 8 Pro;Antena / coaxial;Compatible;4,35;;;6
+GO-P8P-HUE-COM;Google;Pixel 8 Pro;Botón home / huella;Compatible;7,25;;;6
+GO-P8P-NFC-COM;Google;Pixel 8 Pro;NFC y carga inalámbrica;Compatible;9,70;;;6
+GO-P8A-MAR-COM;Google;Pixel 8a;Marco / chasis;Compatible;7,90;;;6
+GO-P8A-BOT-COM;Google;Pixel 8a;Botones laterales;Compatible;4,05;;;6
+GO-P8A-CRI-COM;Google;Pixel 8a;Cristal de pantalla;Compatible;4,05;;;6
+GO-P8A-FPR-COM;Google;Pixel 8a;Flex principal;Compatible;3,35;;;6
+GO-P8A-VIB-COM;Google;Pixel 8a;Vibrador;Compatible;3,95;;;6
+GO-P8A-ANT-COM;Google;Pixel 8a;Antena / coaxial;Compatible;3,50;;;6
+GO-P8A-HUE-COM;Google;Pixel 8a;Botón home / huella;Compatible;5,85;;;6
+GO-P8A-NFC-COM;Google;Pixel 8a;NFC y carga inalámbrica;Compatible;7,85;;;6
+GO-P9-MAR-COM;Google;Pixel 9;Marco / chasis;Compatible;9,05;;;6
+GO-P9-BOT-COM;Google;Pixel 9;Botones laterales;Compatible;4,65;;;6
+GO-P9-CRI-COM;Google;Pixel 9;Cristal de pantalla;Compatible;4,60;;;6
+GO-P9-FPR-COM;Google;Pixel 9;Flex principal;Compatible;3,80;;;6
+GO-P9-VIB-COM;Google;Pixel 9;Vibrador;Compatible;4,49;;;6
+GO-P9-ANT-COM;Google;Pixel 9;Antena / coaxial;Compatible;4,00;;;6
+GO-P9-HUE-COM;Google;Pixel 9;Botón home / huella;Compatible;6,69;;;6
+GO-P9-NFC-COM;Google;Pixel 9;NFC y carga inalámbrica;Compatible;8,95;;;6
+GO-P9P-MAR-COM;Google;Pixel 9 Pro;Marco / chasis;Compatible;10,75;10,43;10,10;6
+GO-P9P-BOT-COM;Google;Pixel 9 Pro;Botones laterales;Compatible;5,55;;;6
+GO-P9P-CRI-COM;Google;Pixel 9 Pro;Cristal de pantalla;Compatible;5,50;;;6
+GO-P9P-FPR-COM;Google;Pixel 9 Pro;Flex principal;Compatible;4,55;;;6
+GO-P9P-VIB-COM;Google;Pixel 9 Pro;Vibrador;Compatible;5,35;;;6
+GO-P9P-ANT-COM;Google;Pixel 9 Pro;Antena / coaxial;Compatible;4,79;;;6
+GO-P9P-HUE-COM;Google;Pixel 9 Pro;Botón home / huella;Compatible;7,95;;;6
+GO-P9P-NFC-COM;Google;Pixel 9 Pro;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+GO-P9PXL-MAR-COM;Google;Pixel 9 Pro XL;Marco / chasis;Compatible;10,75;10,43;10,10;6
+GO-P9PXL-BOT-COM;Google;Pixel 9 Pro XL;Botones laterales;Compatible;5,55;;;6
+GO-P9PXL-CRI-COM;Google;Pixel 9 Pro XL;Cristal de pantalla;Compatible;5,50;;;6
+GO-P9PXL-FPR-COM;Google;Pixel 9 Pro XL;Flex principal;Compatible;4,55;;;6
+GO-P9PXL-VIB-COM;Google;Pixel 9 Pro XL;Vibrador;Compatible;5,35;;;6
+GO-P9PXL-ANT-COM;Google;Pixel 9 Pro XL;Antena / coaxial;Compatible;4,79;;;6
+GO-P9PXL-HUE-COM;Google;Pixel 9 Pro XL;Botón home / huella;Compatible;7,95;;;6
+GO-P9PXL-NFC-COM;Google;Pixel 9 Pro XL;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+GO-P9PF-FPR-COM;Google;Pixel 9 Pro Fold;Flex principal;Compatible;8,15;;;6
+GO-P9PF-VIB-COM;Google;Pixel 9 Pro Fold;Vibrador;Compatible;9,60;;;6
+GO-P9PF-ANT-COM;Google;Pixel 9 Pro Fold;Antena / coaxial;Compatible;8,60;;;6
+GO-P9PF-HUE-COM;Google;Pixel 9 Pro Fold;Botón home / huella;Compatible;14,30;13,87;13,44;6
+GO-P9PF-NFC-COM;Google;Pixel 9 Pro Fold;NFC y carga inalámbrica;Compatible;19,25;18,67;18,10;6
+GO-P9A-MAR-COM;Google;Pixel 9a;Marco / chasis;Compatible;7,90;;;6
+GO-P9A-BOT-COM;Google;Pixel 9a;Botones laterales;Compatible;4,05;;;6
+GO-P9A-CRI-COM;Google;Pixel 9a;Cristal de pantalla;Compatible;4,05;;;6
+GO-P9A-FPR-COM;Google;Pixel 9a;Flex principal;Compatible;3,35;;;6
+GO-P9A-VIB-COM;Google;Pixel 9a;Vibrador;Compatible;3,95;;;6
+GO-P9A-ANT-COM;Google;Pixel 9a;Antena / coaxial;Compatible;3,50;;;6
+GO-P9A-HUE-COM;Google;Pixel 9a;Botón home / huella;Compatible;5,85;;;6
+GO-P9A-NFC-COM;Google;Pixel 9a;NFC y carga inalámbrica;Compatible;7,85;;;6
+GO-P10-MAR-COM;Google;Pixel 10;Marco / chasis;Compatible;9,05;;;6
+GO-P10-BOT-COM;Google;Pixel 10;Botones laterales;Compatible;4,65;;;6
+GO-P10-CRI-COM;Google;Pixel 10;Cristal de pantalla;Compatible;4,60;;;6
+GO-P10-FPR-COM;Google;Pixel 10;Flex principal;Compatible;3,80;;;6
+GO-P10-VIB-COM;Google;Pixel 10;Vibrador;Compatible;4,49;;;6
+GO-P10-ANT-COM;Google;Pixel 10;Antena / coaxial;Compatible;4,00;;;6
+GO-P10-HUE-COM;Google;Pixel 10;Botón home / huella;Compatible;6,69;;;6
+GO-P10-NFC-COM;Google;Pixel 10;NFC y carga inalámbrica;Compatible;8,95;;;6
+GO-P10P-MAR-COM;Google;Pixel 10 Pro;Marco / chasis;Compatible;10,75;10,43;10,10;6
+GO-P10P-BOT-COM;Google;Pixel 10 Pro;Botones laterales;Compatible;5,55;;;6
+GO-P10P-CRI-COM;Google;Pixel 10 Pro;Cristal de pantalla;Compatible;5,50;;;6
+GO-P10P-FPR-COM;Google;Pixel 10 Pro;Flex principal;Compatible;4,55;;;6
+GO-P10P-VIB-COM;Google;Pixel 10 Pro;Vibrador;Compatible;5,35;;;6
+GO-P10P-ANT-COM;Google;Pixel 10 Pro;Antena / coaxial;Compatible;4,79;;;6
+GO-P10P-HUE-COM;Google;Pixel 10 Pro;Botón home / huella;Compatible;7,95;;;6
+GO-P10P-NFC-COM;Google;Pixel 10 Pro;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+GO-P10PXL-MAR-COM;Google;Pixel 10 Pro XL;Marco / chasis;Compatible;10,75;10,43;10,10;6
+GO-P10PXL-BOT-COM;Google;Pixel 10 Pro XL;Botones laterales;Compatible;5,55;;;6
+GO-P10PXL-CRI-COM;Google;Pixel 10 Pro XL;Cristal de pantalla;Compatible;5,50;;;6
+GO-P10PXL-FPR-COM;Google;Pixel 10 Pro XL;Flex principal;Compatible;4,55;;;6
+GO-P10PXL-VIB-COM;Google;Pixel 10 Pro XL;Vibrador;Compatible;5,35;;;6
+GO-P10PXL-ANT-COM;Google;Pixel 10 Pro XL;Antena / coaxial;Compatible;4,79;;;6
+GO-P10PXL-HUE-COM;Google;Pixel 10 Pro XL;Botón home / huella;Compatible;7,95;;;6
+GO-P10PXL-NFC-COM;Google;Pixel 10 Pro XL;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+GO-P10PF-FPR-COM;Google;Pixel 10 Pro Fold;Flex principal;Compatible;8,15;;;6
+GO-P10PF-VIB-COM;Google;Pixel 10 Pro Fold;Vibrador;Compatible;9,60;;;6
+GO-P10PF-ANT-COM;Google;Pixel 10 Pro Fold;Antena / coaxial;Compatible;8,60;;;6
+GO-P10PF-HUE-COM;Google;Pixel 10 Pro Fold;Botón home / huella;Compatible;14,30;13,87;13,44;6
+GO-P10PF-NFC-COM;Google;Pixel 10 Pro Fold;NFC y carga inalámbrica;Compatible;19,25;18,67;18,10;6
+GO-P10A-MAR-COM;Google;Pixel 10a;Marco / chasis;Compatible;7,90;;;6
+GO-P10A-BOT-COM;Google;Pixel 10a;Botones laterales;Compatible;4,05;;;6
+GO-P10A-CRI-COM;Google;Pixel 10a;Cristal de pantalla;Compatible;4,05;;;6
+GO-P10A-FPR-COM;Google;Pixel 10a;Flex principal;Compatible;3,35;;;6
+GO-P10A-VIB-COM;Google;Pixel 10a;Vibrador;Compatible;3,95;;;6
+GO-P10A-ANT-COM;Google;Pixel 10a;Antena / coaxial;Compatible;3,50;;;6
+GO-P10A-HUE-COM;Google;Pixel 10a;Botón home / huella;Compatible;5,85;;;6
+GO-P10A-NFC-COM;Google;Pixel 10a;NFC y carga inalámbrica;Compatible;7,85;;;6
+GO-P11-MAR-COM;Google;Pixel 11;Marco / chasis;Compatible;9,05;;;6
+GO-P11-BOT-COM;Google;Pixel 11;Botones laterales;Compatible;4,65;;;6
+GO-P11-CRI-COM;Google;Pixel 11;Cristal de pantalla;Compatible;4,60;;;6
+GO-P11-FPR-COM;Google;Pixel 11;Flex principal;Compatible;3,80;;;6
+GO-P11-VIB-COM;Google;Pixel 11;Vibrador;Compatible;4,49;;;6
+GO-P11-ANT-COM;Google;Pixel 11;Antena / coaxial;Compatible;4,00;;;6
+GO-P11-HUE-COM;Google;Pixel 11;Botón home / huella;Compatible;6,69;;;6
+GO-P11-NFC-COM;Google;Pixel 11;NFC y carga inalámbrica;Compatible;8,95;;;6
+GO-P11P-MAR-COM;Google;Pixel 11 Pro;Marco / chasis;Compatible;10,75;10,43;10,10;6
+GO-P11P-BOT-COM;Google;Pixel 11 Pro;Botones laterales;Compatible;5,55;;;6
+GO-P11P-CRI-COM;Google;Pixel 11 Pro;Cristal de pantalla;Compatible;5,50;;;6
+GO-P11P-FPR-COM;Google;Pixel 11 Pro;Flex principal;Compatible;4,55;;;6
+GO-P11P-VIB-COM;Google;Pixel 11 Pro;Vibrador;Compatible;5,35;;;6
+GO-P11P-ANT-COM;Google;Pixel 11 Pro;Antena / coaxial;Compatible;4,79;;;6
+GO-P11P-HUE-COM;Google;Pixel 11 Pro;Botón home / huella;Compatible;7,95;;;6
+GO-P11P-NFC-COM;Google;Pixel 11 Pro;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+GO-P11PXL-MAR-COM;Google;Pixel 11 Pro XL;Marco / chasis;Compatible;10,75;10,43;10,10;6
+GO-P11PXL-BOT-COM;Google;Pixel 11 Pro XL;Botones laterales;Compatible;5,55;;;6
+GO-P11PXL-CRI-COM;Google;Pixel 11 Pro XL;Cristal de pantalla;Compatible;5,50;;;6
+GO-P11PXL-FPR-COM;Google;Pixel 11 Pro XL;Flex principal;Compatible;4,55;;;6
+GO-P11PXL-VIB-COM;Google;Pixel 11 Pro XL;Vibrador;Compatible;5,35;;;6
+GO-P11PXL-ANT-COM;Google;Pixel 11 Pro XL;Antena / coaxial;Compatible;4,79;;;6
+GO-P11PXL-HUE-COM;Google;Pixel 11 Pro XL;Botón home / huella;Compatible;7,95;;;6
+GO-P11PXL-NFC-COM;Google;Pixel 11 Pro XL;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+GO-P11PF-FPR-COM;Google;Pixel 11 Pro Fold;Flex principal;Compatible;8,15;;;6
+GO-P11PF-VIB-COM;Google;Pixel 11 Pro Fold;Vibrador;Compatible;9,60;;;6
+GO-P11PF-ANT-COM;Google;Pixel 11 Pro Fold;Antena / coaxial;Compatible;8,60;;;6
+GO-P11PF-HUE-COM;Google;Pixel 11 Pro Fold;Botón home / huella;Compatible;14,30;13,87;13,44;6
+GO-P11PF-NFC-COM;Google;Pixel 11 Pro Fold;NFC y carga inalámbrica;Compatible;19,25;18,67;18,10;6
+GO-P5A-MAR-COM;Google;Pixel 5a;Marco / chasis;Compatible;7,20;;;6
+GO-P5A-BOT-COM;Google;Pixel 5a;Botones laterales;Compatible;3,70;;;6
+GO-P5A-CRI-COM;Google;Pixel 5a;Cristal de pantalla;Compatible;3,69;;;6
+GO-P5A-FPR-COM;Google;Pixel 5a;Flex principal;Compatible;3,05;;;6
+GO-P5A-VIB-COM;Google;Pixel 5a;Vibrador;Compatible;3,55;;;6
+GO-P5A-ANT-COM;Google;Pixel 5a;Antena / coaxial;Compatible;3,20;;;6
+GO-P5A-HUE-COM;Google;Pixel 5a;Botón home / huella;Compatible;5,30;;;6
+GO-N5X-MAR-COM;Google;Nexus 5X;Marco / chasis;Compatible;6,59;;;6
+GO-N5X-BOT-COM;Google;Nexus 5X;Botones laterales;Compatible;3,39;;;6
+GO-N5X-CRI-COM;Google;Nexus 5X;Cristal de pantalla;Compatible;3,35;;;6
+GO-N5X-VIB-COM;Google;Nexus 5X;Vibrador;Compatible;3,25;;;6
+GO-N5X-ANT-COM;Google;Nexus 5X;Antena / coaxial;Compatible;2,90;;;6
+GO-N6P-MAR-COM;Google;Nexus 6P;Marco / chasis;Compatible;6,59;;;6
+GO-N6P-BOT-COM;Google;Nexus 6P;Botones laterales;Compatible;3,39;;;6
+GO-N6P-CRI-COM;Google;Nexus 6P;Cristal de pantalla;Compatible;3,35;;;6
+GO-N6P-VIB-COM;Google;Nexus 6P;Vibrador;Compatible;3,25;;;6
+GO-N6P-ANT-COM;Google;Nexus 6P;Antena / coaxial;Compatible;2,90;;;6
+GO-PV1-MAR-COM;Google;Pixel V1;Marco / chasis;Compatible;6,59;;;6
+GO-PV1-BOT-COM;Google;Pixel V1;Botones laterales;Compatible;3,39;;;6
+GO-PV1-CRI-COM;Google;Pixel V1;Cristal de pantalla;Compatible;3,35;;;6
+GO-PV1-VIB-COM;Google;Pixel V1;Vibrador;Compatible;3,25;;;6
+GO-PV1-ANT-COM;Google;Pixel V1;Antena / coaxial;Compatible;2,90;;;6
+GO-N6-MAR-COM;Google;Nexus 6;Marco / chasis;Compatible;6,59;;;6
+GO-N6-BOT-COM;Google;Nexus 6;Botones laterales;Compatible;3,39;;;6
+GO-N6-ANT-COM;Google;Nexus 6;Antena / coaxial;Compatible;2,90;;;6
+GO-N5-MAR-COM;Google;Nexus 5;Marco / chasis;Compatible;6,59;;;6
+GO-N5-BOT-COM;Google;Nexus 5;Botones laterales;Compatible;3,39;;;6
+GO-N5-ANT-COM;Google;Nexus 5;Antena / coaxial;Compatible;2,90;;;6
+GO-N4-ANT-COM;Google;Nexus 4;Antena / coaxial;Compatible;2,90;;;6
+GO-P-MAR-COM;Google;Pixel;Marco / chasis;Compatible;6,59;;;6
+GO-P-BOT-COM;Google;Pixel;Botones laterales;Compatible;3,39;;;6
+GO-P-CRI-COM;Google;Pixel;Cristal de pantalla;Compatible;3,35;;;6
+GO-P-FPR-COM;Google;Pixel;Flex principal;Compatible;2,75;;;6
+GO-P-VIB-COM;Google;Pixel;Vibrador;Compatible;3,25;;;6
+GO-P-ANT-COM;Google;Pixel;Antena / coaxial;Compatible;2,90;;;6
+GO-P-HUE-COM;Google;Pixel;Botón home / huella;Compatible;4,85;;;6
+GO-PXL-MAR-COM;Google;Pixel XL;Marco / chasis;Compatible;7,85;;;6
+GO-PXL-BOT-COM;Google;Pixel XL;Botones laterales;Compatible;4,00;;;6
+GO-PXL-CRI-COM;Google;Pixel XL;Cristal de pantalla;Compatible;4,00;;;6
+GO-PXL-FPR-COM;Google;Pixel XL;Flex principal;Compatible;3,30;;;6
+GO-PXL-VIB-COM;Google;Pixel XL;Vibrador;Compatible;3,89;;;6
+GO-PXL-ANT-COM;Google;Pixel XL;Antena / coaxial;Compatible;3,49;;;6
+GO-PXL-HUE-COM;Google;Pixel XL;Botón home / huella;Compatible;5,79;;;6
+GO-P2-MAR-COM;Google;Pixel 2;Marco / chasis;Compatible;7,40;;;6
+GO-P2-BOT-COM;Google;Pixel 2;Botones laterales;Compatible;3,80;;;6
+GO-P2-CRI-COM;Google;Pixel 2;Cristal de pantalla;Compatible;3,79;;;6
+GO-P2-FPR-COM;Google;Pixel 2;Flex principal;Compatible;3,10;;;6
+GO-P2-VIB-COM;Google;Pixel 2;Vibrador;Compatible;3,65;;;6
+GO-P2-ANT-COM;Google;Pixel 2;Antena / coaxial;Compatible;3,29;;;6
+GO-P2-HUE-COM;Google;Pixel 2;Botón home / huella;Compatible;5,45;;;6
+GO-P2XL-MAR-COM;Google;Pixel 2 XL;Marco / chasis;Compatible;8,80;;;6
+GO-P2XL-BOT-COM;Google;Pixel 2 XL;Botones laterales;Compatible;4,50;;;6
+GO-P2XL-CRI-COM;Google;Pixel 2 XL;Cristal de pantalla;Compatible;4,50;;;6
+GO-P2XL-FPR-COM;Google;Pixel 2 XL;Flex principal;Compatible;3,70;;;6
+GO-P2XL-VIB-COM;Google;Pixel 2 XL;Vibrador;Compatible;4,35;;;6
+GO-P2XL-ANT-COM;Google;Pixel 2 XL;Antena / coaxial;Compatible;3,90;;;6
+GO-P2XL-HUE-COM;Google;Pixel 2 XL;Botón home / huella;Compatible;6,50;;;6
+GO-P3-MAR-COM;Google;Pixel 3;Marco / chasis;Compatible;7,40;;;6
+GO-P3-BOT-COM;Google;Pixel 3;Botones laterales;Compatible;3,80;;;6
+GO-P3-CRI-COM;Google;Pixel 3;Cristal de pantalla;Compatible;3,79;;;6
+GO-P3-FPR-COM;Google;Pixel 3;Flex principal;Compatible;3,10;;;6
+GO-P3-VIB-COM;Google;Pixel 3;Vibrador;Compatible;3,65;;;6
+GO-P3-ANT-COM;Google;Pixel 3;Antena / coaxial;Compatible;3,29;;;6
+GO-P3-HUE-COM;Google;Pixel 3;Botón home / huella;Compatible;5,45;;;6
+GO-P3-NFC-COM;Google;Pixel 3;NFC y carga inalámbrica;Compatible;7,35;;;6
+GO-P3XL-MAR-COM;Google;Pixel 3 XL;Marco / chasis;Compatible;8,80;;;6
+GO-P3XL-BOT-COM;Google;Pixel 3 XL;Botones laterales;Compatible;4,50;;;6
+GO-P3XL-CRI-COM;Google;Pixel 3 XL;Cristal de pantalla;Compatible;4,50;;;6
+GO-P3XL-FPR-COM;Google;Pixel 3 XL;Flex principal;Compatible;3,70;;;6
+GO-P3XL-VIB-COM;Google;Pixel 3 XL;Vibrador;Compatible;4,35;;;6
+GO-P3XL-ANT-COM;Google;Pixel 3 XL;Antena / coaxial;Compatible;3,90;;;6
+GO-P3XL-HUE-COM;Google;Pixel 3 XL;Botón home / huella;Compatible;6,50;;;6
+GO-P3XL-NFC-COM;Google;Pixel 3 XL;NFC y carga inalámbrica;Compatible;8,75;;;6

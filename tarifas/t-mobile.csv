@@ -1,0 +1,23 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+TM-R75-PAN-COM;T-Mobile;REVVL 7 5G;Pantalla;Compatible;17,15;16,64;16,12;6
+TM-R75-BAT-COM;T-Mobile;REVVL 7 5G;Batería;Compatible;9,40;;;6
+TM-R75-CON-COM;T-Mobile;REVVL 7 5G;Conector de carga;Compatible;5,05;;;6
+TM-R75-TAP-COM;T-Mobile;REVVL 7 5G;Tapa trasera;Compatible;6,20;;;6
+TM-R75-CTR-COM;T-Mobile;REVVL 7 5G;Cámara trasera;Compatible;8,65;;;6
+TM-R75-CFR-COM;T-Mobile;REVVL 7 5G;Cámara frontal;Compatible;5,35;;;6
+TM-R75-LEN-COM;T-Mobile;REVVL 7 5G;Lente de cámara;Compatible;2,30;;;6
+TM-R75-ALT-COM;T-Mobile;REVVL 7 5G;Altavoz;Compatible;3,60;;;6
+TM-R75-AUR-COM;T-Mobile;REVVL 7 5G;Auricular de llamada;Compatible;2,65;;;6
+TM-R75-FLX-COM;T-Mobile;REVVL 7 5G;Flex de encendido y volumen;Compatible;2,79;;;6
+TM-R75-SIM-COM;T-Mobile;REVVL 7 5G;Bandeja SIM;Compatible;2,55;;;6
+TM-R75-PRO-NA;T-Mobile;REVVL 7 5G;Cristal templado;Estándar;1,30;;;
+TM-R75-PRO-PRI;T-Mobile;REVVL 7 5G;Cristal templado;Privacidad;4,00;;;
+TM-R75-FUN-SIL;T-Mobile;REVVL 7 5G;Funda;Silicona;2,50;;;
+TM-R75-FUN-TPU;T-Mobile;REVVL 7 5G;Funda;Transparente;2,95;;;
+TM-R75-FUN-LIB;T-Mobile;REVVL 7 5G;Funda;Libro;3,70;;;
+TM-R75-FUN-ANT;T-Mobile;REVVL 7 5G;Funda;Antigolpes;3,10;;;
+TM-R75-MAR-COM;T-Mobile;REVVL 7 5G;Marco / chasis;Compatible;7,90;;;6
+TM-R75-BOT-COM;T-Mobile;REVVL 7 5G;Botones laterales;Compatible;4,05;;;6
+TM-R75-CRI-COM;T-Mobile;REVVL 7 5G;Cristal de pantalla;Compatible;4,05;;;6
+TM-R75-ANT-COM;T-Mobile;REVVL 7 5G;Antena / coaxial;Compatible;3,50;;;6
+TM-R75-HUE-COM;T-Mobile;REVVL 7 5G;Botón home / huella;Compatible;5,85;;;6

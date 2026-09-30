@@ -1,0 +1,81 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+CT-S22FL-PAN-COM;Cat;S22 Flip;Pantalla;Compatible;58,49;56,74;54,98;6
+CT-S22FL-BAT-COM;Cat;S22 Flip;Batería;Compatible;8,45;;;6
+CT-S22FL-CON-COM;Cat;S22 Flip;Conector de carga;Compatible;4,05;;;6
+CT-S22FL-TAP-COM;Cat;S22 Flip;Tapa trasera;Compatible;5,15;;;6
+CT-S22FL-CTR-COM;Cat;S22 Flip;Cámara trasera;Compatible;5,55;;;6
+CT-S22FL-CFR-COM;Cat;S22 Flip;Cámara frontal;Compatible;3,45;;;6
+CT-S22FL-LEN-COM;Cat;S22 Flip;Lente de cámara;Compatible;2,09;;;6
+CT-S22FL-ALT-COM;Cat;S22 Flip;Altavoz;Compatible;3,09;;;6
+CT-S22FL-AUR-COM;Cat;S22 Flip;Auricular de llamada;Compatible;2,25;;;6
+CT-S22FL-FLX-COM;Cat;S22 Flip;Flex de encendido y volumen;Compatible;2,09;;;6
+CT-S22FL-SIM-COM;Cat;S22 Flip;Bandeja SIM;Compatible;2,49;;;6
+CT-S62P-PAN-COM;Cat;S62 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+CT-S62P-BAT-COM;Cat;S62 Pro;Batería;Compatible;8,25;;;6
+CT-S62P-CON-COM;Cat;S62 Pro;Conector de carga;Compatible;4,40;;;6
+CT-S62P-TAP-COM;Cat;S62 Pro;Tapa trasera;Compatible;5,55;;;6
+CT-S62P-CTR-COM;Cat;S62 Pro;Cámara trasera;Compatible;6,19;;;6
+CT-S62P-CFR-COM;Cat;S62 Pro;Cámara frontal;Compatible;3,65;;;6
+CT-S62P-LEN-COM;Cat;S62 Pro;Lente de cámara;Compatible;2,20;;;6
+CT-S62P-ALT-COM;Cat;S62 Pro;Altavoz;Compatible;3,35;;;6
+CT-S62P-AUR-COM;Cat;S62 Pro;Auricular de llamada;Compatible;2,40;;;6
+CT-S62P-FLX-COM;Cat;S62 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+CT-S62P-SIM-COM;Cat;S62 Pro;Bandeja SIM;Compatible;2,60;;;6
+CT-S60-PAN-COM;Cat;S60;Pantalla;Compatible;15,15;14,70;14,24;6
+CT-S60-BAT-COM;Cat;S60;Batería;Compatible;9,65;;;6
+CT-S60-CON-COM;Cat;S60;Conector de carga;Compatible;4,60;;;6
+CT-S60-TAP-COM;Cat;S60;Tapa trasera;Compatible;5,40;;;6
+CT-S60-CTR-COM;Cat;S60;Cámara trasera;Compatible;7,59;;;6
+CT-S60-CFR-COM;Cat;S60;Cámara frontal;Compatible;4,99;;;6
+CT-S60-LEN-COM;Cat;S60;Lente de cámara;Compatible;2,19;;;6
+CT-S60-ALT-COM;Cat;S60;Altavoz;Compatible;3,65;;;6
+CT-S60-AUR-COM;Cat;S60;Auricular de llamada;Compatible;2,65;;;6
+CT-S60-FLX-COM;Cat;S60;Flex de encendido y volumen;Compatible;2,49;;;6
+CT-S60-SIM-COM;Cat;S60;Bandeja SIM;Compatible;2,55;;;6
+CT-B25-PAN-COM;Cat;B25;Pantalla;Compatible;15,15;14,70;14,24;6
+CT-B25-BAT-COM;Cat;B25;Batería;Compatible;9,65;;;6
+CT-B25-CON-COM;Cat;B25;Conector de carga;Compatible;4,60;;;6
+CT-B25-TAP-COM;Cat;B25;Tapa trasera;Compatible;5,40;;;6
+CT-B25-CTR-COM;Cat;B25;Cámara trasera;Compatible;7,59;;;6
+CT-B25-CFR-COM;Cat;B25;Cámara frontal;Compatible;4,99;;;6
+CT-B25-LEN-COM;Cat;B25;Lente de cámara;Compatible;2,19;;;6
+CT-B25-ALT-COM;Cat;B25;Altavoz;Compatible;3,65;;;6
+CT-B25-AUR-COM;Cat;B25;Auricular de llamada;Compatible;2,65;;;6
+CT-B25-FLX-COM;Cat;B25;Flex de encendido y volumen;Compatible;2,49;;;6
+CT-B25-SIM-COM;Cat;B25;Bandeja SIM;Compatible;2,55;;;6
+CT-S22FL-PRO-NA;Cat;S22 Flip;Cristal templado;Estándar;1,30;;;
+CT-S22FL-FUN-SIL;Cat;S22 Flip;Funda;Silicona;2,50;;;
+CT-S22FL-FUN-TPU;Cat;S22 Flip;Funda;Transparente;2,95;;;
+CT-S62P-PRO-NA;Cat;S62 Pro;Cristal templado;Estándar;1,30;;;
+CT-S62P-PRO-PRI;Cat;S62 Pro;Cristal templado;Privacidad;4,00;;;
+CT-S62P-FUN-SIL;Cat;S62 Pro;Funda;Silicona;2,50;;;
+CT-S62P-FUN-TPU;Cat;S62 Pro;Funda;Transparente;2,95;;;
+CT-S62P-FUN-LIB;Cat;S62 Pro;Funda;Libro;3,70;;;
+CT-S62P-FUN-ANT;Cat;S62 Pro;Funda;Antigolpes;3,10;;;
+CT-S60-PRO-NA;Cat;S60;Cristal templado;Estándar;1,30;;;
+CT-S60-PRO-PRI;Cat;S60;Cristal templado;Privacidad;4,00;;;
+CT-S60-FUN-SIL;Cat;S60;Funda;Silicona;2,50;;;
+CT-S60-FUN-TPU;Cat;S60;Funda;Transparente;2,95;;;
+CT-S60-FUN-LIB;Cat;S60;Funda;Libro;3,70;;;
+CT-S60-FUN-ANT;Cat;S60;Funda;Antigolpes;3,10;;;
+CT-B25-PRO-NA;Cat;B25;Cristal templado;Estándar;1,30;;;
+CT-B25-PRO-PRI;Cat;B25;Cristal templado;Privacidad;4,00;;;
+CT-B25-FUN-SIL;Cat;B25;Funda;Silicona;2,50;;;
+CT-B25-FUN-TPU;Cat;B25;Funda;Transparente;2,95;;;
+CT-B25-FUN-LIB;Cat;B25;Funda;Libro;3,70;;;
+CT-B25-FUN-ANT;Cat;B25;Funda;Antigolpes;3,10;;;
+CT-S22FL-ANT-COM;Cat;S22 Flip;Antena / coaxial;Compatible;4,49;;;6
+CT-S22FL-HUE-COM;Cat;S22 Flip;Botón home / huella;Compatible;7,45;;;6
+CT-S62P-MAR-COM;Cat;S62 Pro;Marco / chasis;Compatible;7,20;;;6
+CT-S62P-BOT-COM;Cat;S62 Pro;Botones laterales;Compatible;3,70;;;6
+CT-S62P-CRI-COM;Cat;S62 Pro;Cristal de pantalla;Compatible;3,69;;;6
+CT-S62P-ANT-COM;Cat;S62 Pro;Antena / coaxial;Compatible;3,20;;;6
+CT-S62P-HUE-COM;Cat;S62 Pro;Botón home / huella;Compatible;5,30;;;6
+CT-S60-MAR-COM;Cat;S60;Marco / chasis;Compatible;5,75;;;6
+CT-S60-BOT-COM;Cat;S60;Botones laterales;Compatible;2,95;;;6
+CT-S60-CRI-COM;Cat;S60;Cristal de pantalla;Compatible;2,95;;;6
+CT-S60-ANT-COM;Cat;S60;Antena / coaxial;Compatible;2,55;;;6
+CT-S60-HUE-COM;Cat;S60;Botón home / huella;Compatible;4,25;;;6
+CT-B25-MAR-COM;Cat;B25;Marco / chasis;Compatible;5,75;;;6
+CT-B25-BOT-COM;Cat;B25;Botones laterales;Compatible;2,95;;;6
+CT-B25-ANT-COM;Cat;B25;Antena / coaxial;Compatible;2,55;;;6

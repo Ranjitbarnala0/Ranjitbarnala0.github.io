@@ -1,0 +1,23 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+MD-PMP1-PAN-COM;Mode;Phone MP1;Pantalla;Compatible;16,10;15,62;15,13;6
+MD-PMP1-BAT-COM;Mode;Phone MP1;Batería;Compatible;8,25;;;6
+MD-PMP1-CON-COM;Mode;Phone MP1;Conector de carga;Compatible;4,40;;;6
+MD-PMP1-TAP-COM;Mode;Phone MP1;Tapa trasera;Compatible;5,55;;;6
+MD-PMP1-CTR-COM;Mode;Phone MP1;Cámara trasera;Compatible;6,19;;;6
+MD-PMP1-CFR-COM;Mode;Phone MP1;Cámara frontal;Compatible;3,65;;;6
+MD-PMP1-LEN-COM;Mode;Phone MP1;Lente de cámara;Compatible;2,20;;;6
+MD-PMP1-ALT-COM;Mode;Phone MP1;Altavoz;Compatible;3,35;;;6
+MD-PMP1-AUR-COM;Mode;Phone MP1;Auricular de llamada;Compatible;2,40;;;6
+MD-PMP1-FLX-COM;Mode;Phone MP1;Flex de encendido y volumen;Compatible;2,29;;;6
+MD-PMP1-SIM-COM;Mode;Phone MP1;Bandeja SIM;Compatible;2,60;;;6
+MD-PMP1-PRO-NA;Mode;Phone MP1;Cristal templado;Estándar;1,30;;;
+MD-PMP1-PRO-PRI;Mode;Phone MP1;Cristal templado;Privacidad;4,00;;;
+MD-PMP1-FUN-SIL;Mode;Phone MP1;Funda;Silicona;2,50;;;
+MD-PMP1-FUN-TPU;Mode;Phone MP1;Funda;Transparente;2,95;;;
+MD-PMP1-FUN-LIB;Mode;Phone MP1;Funda;Libro;3,70;;;
+MD-PMP1-FUN-ANT;Mode;Phone MP1;Funda;Antigolpes;3,10;;;
+MD-PMP1-MAR-COM;Mode;Phone MP1;Marco / chasis;Compatible;7,20;;;6
+MD-PMP1-BOT-COM;Mode;Phone MP1;Botones laterales;Compatible;3,70;;;6
+MD-PMP1-CRI-COM;Mode;Phone MP1;Cristal de pantalla;Compatible;3,69;;;6
+MD-PMP1-ANT-COM;Mode;Phone MP1;Antena / coaxial;Compatible;3,20;;;6
+MD-PMP1-HUE-COM;Mode;Phone MP1;Botón home / huella;Compatible;5,30;;;6

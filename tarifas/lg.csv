@@ -1,0 +1,2531 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+LG-W41-PAN-COM;LG;W41;Pantalla;Compatible;13,80;13,39;12,97;6
+LG-W41-BAT-COM;LG;W41;Batería;Compatible;7,60;;;6
+LG-W41-CON-COM;LG;W41;Conector de carga;Compatible;3,55;;;6
+LG-W41-TAP-COM;LG;W41;Tapa trasera;Compatible;4,95;;;6
+LG-W41-CTR-COM;LG;W41;Cámara trasera;Compatible;5,45;;;6
+LG-W41-CFR-COM;LG;W41;Cámara frontal;Compatible;3,45;;;6
+LG-W41-LEN-COM;LG;W41;Lente de cámara;Compatible;2,25;;;6
+LG-W41-ALT-COM;LG;W41;Altavoz;Compatible;3,29;;;6
+LG-W41-AUR-COM;LG;W41;Auricular de llamada;Compatible;2,45;;;6
+LG-W41-FLX-COM;LG;W41;Flex de encendido y volumen;Compatible;2,35;;;6
+LG-W41-SIM-COM;LG;W41;Bandeja SIM;Compatible;2,75;;;6
+LG-W41PL-PAN-COM;LG;W41+;Pantalla;Compatible;13,80;13,39;12,97;6
+LG-W41PL-BAT-COM;LG;W41+;Batería;Compatible;7,60;;;6
+LG-W41PL-CON-COM;LG;W41+;Conector de carga;Compatible;3,55;;;6
+LG-W41PL-TAP-COM;LG;W41+;Tapa trasera;Compatible;4,95;;;6
+LG-W41PL-CTR-COM;LG;W41+;Cámara trasera;Compatible;5,45;;;6
+LG-W41PL-CFR-COM;LG;W41+;Cámara frontal;Compatible;3,45;;;6
+LG-W41PL-LEN-COM;LG;W41+;Lente de cámara;Compatible;2,25;;;6
+LG-W41PL-ALT-COM;LG;W41+;Altavoz;Compatible;3,29;;;6
+LG-W41PL-AUR-COM;LG;W41+;Auricular de llamada;Compatible;2,45;;;6
+LG-W41PL-FLX-COM;LG;W41+;Flex de encendido y volumen;Compatible;2,35;;;6
+LG-W41PL-SIM-COM;LG;W41+;Bandeja SIM;Compatible;2,75;;;6
+LG-W41P-PAN-COM;LG;W41 Pro;Pantalla;Compatible;13,80;13,39;12,97;6
+LG-W41P-BAT-COM;LG;W41 Pro;Batería;Compatible;7,60;;;6
+LG-W41P-CON-COM;LG;W41 Pro;Conector de carga;Compatible;3,55;;;6
+LG-W41P-TAP-COM;LG;W41 Pro;Tapa trasera;Compatible;4,95;;;6
+LG-W41P-CTR-COM;LG;W41 Pro;Cámara trasera;Compatible;5,45;;;6
+LG-W41P-CFR-COM;LG;W41 Pro;Cámara frontal;Compatible;3,45;;;6
+LG-W41P-LEN-COM;LG;W41 Pro;Lente de cámara;Compatible;2,25;;;6
+LG-W41P-ALT-COM;LG;W41 Pro;Altavoz;Compatible;3,29;;;6
+LG-W41P-AUR-COM;LG;W41 Pro;Auricular de llamada;Compatible;2,45;;;6
+LG-W41P-FLX-COM;LG;W41 Pro;Flex de encendido y volumen;Compatible;2,35;;;6
+LG-W41P-SIM-COM;LG;W41 Pro;Bandeja SIM;Compatible;2,75;;;6
+LG-W31-PAN-COM;LG;W31;Pantalla;Compatible;13,80;13,39;12,97;6
+LG-W31-BAT-COM;LG;W31;Batería;Compatible;7,60;;;6
+LG-W31-CON-COM;LG;W31;Conector de carga;Compatible;3,55;;;6
+LG-W31-TAP-COM;LG;W31;Tapa trasera;Compatible;4,95;;;6
+LG-W31-CTR-COM;LG;W31;Cámara trasera;Compatible;5,45;;;6
+LG-W31-CFR-COM;LG;W31;Cámara frontal;Compatible;3,45;;;6
+LG-W31-LEN-COM;LG;W31;Lente de cámara;Compatible;2,25;;;6
+LG-W31-ALT-COM;LG;W31;Altavoz;Compatible;3,29;;;6
+LG-W31-AUR-COM;LG;W31;Auricular de llamada;Compatible;2,45;;;6
+LG-W31-FLX-COM;LG;W31;Flex de encendido y volumen;Compatible;2,35;;;6
+LG-W31-SIM-COM;LG;W31;Bandeja SIM;Compatible;2,75;;;6
+LG-W31PL-PAN-COM;LG;W31+;Pantalla;Compatible;13,80;13,39;12,97;6
+LG-W31PL-BAT-COM;LG;W31+;Batería;Compatible;7,60;;;6
+LG-W31PL-CON-COM;LG;W31+;Conector de carga;Compatible;3,55;;;6
+LG-W31PL-TAP-COM;LG;W31+;Tapa trasera;Compatible;4,95;;;6
+LG-W31PL-CTR-COM;LG;W31+;Cámara trasera;Compatible;5,45;;;6
+LG-W31PL-CFR-COM;LG;W31+;Cámara frontal;Compatible;3,45;;;6
+LG-W31PL-LEN-COM;LG;W31+;Lente de cámara;Compatible;2,25;;;6
+LG-W31PL-ALT-COM;LG;W31+;Altavoz;Compatible;3,29;;;6
+LG-W31PL-AUR-COM;LG;W31+;Auricular de llamada;Compatible;2,45;;;6
+LG-W31PL-FLX-COM;LG;W31+;Flex de encendido y volumen;Compatible;2,35;;;6
+LG-W31PL-SIM-COM;LG;W31+;Bandeja SIM;Compatible;2,75;;;6
+LG-K925-PAN-COM;LG;K92 5G;Pantalla;Compatible;13,80;13,39;12,97;6
+LG-K925-BAT-COM;LG;K92 5G;Batería;Compatible;7,60;;;6
+LG-K925-CON-COM;LG;K92 5G;Conector de carga;Compatible;3,55;;;6
+LG-K925-TAP-COM;LG;K92 5G;Tapa trasera;Compatible;4,95;;;6
+LG-K925-CTR-COM;LG;K92 5G;Cámara trasera;Compatible;5,45;;;6
+LG-K925-CFR-COM;LG;K92 5G;Cámara frontal;Compatible;3,45;;;6
+LG-K925-LEN-COM;LG;K92 5G;Lente de cámara;Compatible;2,25;;;6
+LG-K925-ALT-COM;LG;K92 5G;Altavoz;Compatible;3,29;;;6
+LG-K925-AUR-COM;LG;K92 5G;Auricular de llamada;Compatible;2,45;;;6
+LG-K925-FLX-COM;LG;K92 5G;Flex de encendido y volumen;Compatible;2,35;;;6
+LG-K925-SIM-COM;LG;K92 5G;Bandeja SIM;Compatible;2,75;;;6
+LG-Q52-PAN-COM;LG;Q52;Pantalla;Compatible;16,10;15,62;15,13;6
+LG-Q52-BAT-COM;LG;Q52;Batería;Compatible;8,25;;;6
+LG-Q52-CON-COM;LG;Q52;Conector de carga;Compatible;4,40;;;6
+LG-Q52-TAP-COM;LG;Q52;Tapa trasera;Compatible;5,55;;;6
+LG-Q52-CTR-COM;LG;Q52;Cámara trasera;Compatible;6,19;;;6
+LG-Q52-CFR-COM;LG;Q52;Cámara frontal;Compatible;3,65;;;6
+LG-Q52-LEN-COM;LG;Q52;Lente de cámara;Compatible;2,20;;;6
+LG-Q52-ALT-COM;LG;Q52;Altavoz;Compatible;3,35;;;6
+LG-Q52-AUR-COM;LG;Q52;Auricular de llamada;Compatible;2,40;;;6
+LG-Q52-FLX-COM;LG;Q52;Flex de encendido y volumen;Compatible;2,29;;;6
+LG-Q52-SIM-COM;LG;Q52;Bandeja SIM;Compatible;2,60;;;6
+LG-K92-PAN-COM;LG;K92;Pantalla;Compatible;13,80;13,39;12,97;6
+LG-K92-BAT-COM;LG;K92;Batería;Compatible;7,60;;;6
+LG-K92-CON-COM;LG;K92;Conector de carga;Compatible;3,55;;;6
+LG-K92-TAP-COM;LG;K92;Tapa trasera;Compatible;4,95;;;6
+LG-K92-CTR-COM;LG;K92;Cámara trasera;Compatible;5,45;;;6
+LG-K92-CFR-COM;LG;K92;Cámara frontal;Compatible;3,45;;;6
+LG-K92-LEN-COM;LG;K92;Lente de cámara;Compatible;2,25;;;6
+LG-K92-ALT-COM;LG;K92;Altavoz;Compatible;3,29;;;6
+LG-K92-AUR-COM;LG;K92;Auricular de llamada;Compatible;2,45;;;6
+LG-K92-FLX-COM;LG;K92;Flex de encendido y volumen;Compatible;2,35;;;6
+LG-K92-SIM-COM;LG;K92;Bandeja SIM;Compatible;2,75;;;6
+LG-Q31-PAN-COM;LG;Q31;Pantalla;Compatible;16,10;15,62;15,13;6
+LG-Q31-BAT-COM;LG;Q31;Batería;Compatible;8,25;;;6
+LG-Q31-CON-COM;LG;Q31;Conector de carga;Compatible;4,40;;;6
+LG-Q31-TAP-COM;LG;Q31;Tapa trasera;Compatible;5,55;;;6
+LG-Q31-CTR-COM;LG;Q31;Cámara trasera;Compatible;6,19;;;6
+LG-Q31-CFR-COM;LG;Q31;Cámara frontal;Compatible;3,65;;;6
+LG-Q31-LEN-COM;LG;Q31;Lente de cámara;Compatible;2,20;;;6
+LG-Q31-ALT-COM;LG;Q31;Altavoz;Compatible;3,35;;;6
+LG-Q31-AUR-COM;LG;Q31;Auricular de llamada;Compatible;2,40;;;6
+LG-Q31-FLX-COM;LG;Q31;Flex de encendido y volumen;Compatible;2,29;;;6
+LG-Q31-SIM-COM;LG;Q31;Bandeja SIM;Compatible;2,60;;;6
+LG-K31-PAN-COM;LG;K31;Pantalla;Compatible;13,80;13,39;12,97;6
+LG-K31-BAT-COM;LG;K31;Batería;Compatible;7,60;;;6
+LG-K31-CON-COM;LG;K31;Conector de carga;Compatible;3,55;;;6
+LG-K31-TAP-COM;LG;K31;Tapa trasera;Compatible;4,95;;;6
+LG-K31-CTR-COM;LG;K31;Cámara trasera;Compatible;5,45;;;6
+LG-K31-CFR-COM;LG;K31;Cámara frontal;Compatible;3,45;;;6
+LG-K31-LEN-COM;LG;K31;Lente de cámara;Compatible;2,25;;;6
+LG-K31-ALT-COM;LG;K31;Altavoz;Compatible;3,29;;;6
+LG-K31-AUR-COM;LG;K31;Auricular de llamada;Compatible;2,45;;;6
+LG-K31-FLX-COM;LG;K31;Flex de encendido y volumen;Compatible;2,35;;;6
+LG-K31-SIM-COM;LG;K31;Bandeja SIM;Compatible;2,75;;;6
+LG-Q925-PAN-COM;LG;Q92 5G;Pantalla;Compatible;16,10;15,62;15,13;6
+LG-Q925-BAT-COM;LG;Q92 5G;Batería;Compatible;8,25;;;6
+LG-Q925-CON-COM;LG;Q92 5G;Conector de carga;Compatible;4,40;;;6
+LG-Q925-TAP-COM;LG;Q92 5G;Tapa trasera;Compatible;5,55;;;6
+LG-Q925-CTR-COM;LG;Q92 5G;Cámara trasera;Compatible;6,19;;;6
+LG-Q925-CFR-COM;LG;Q92 5G;Cámara frontal;Compatible;3,65;;;6
+LG-Q925-LEN-COM;LG;Q92 5G;Lente de cámara;Compatible;2,20;;;6
+LG-Q925-ALT-COM;LG;Q92 5G;Altavoz;Compatible;3,35;;;6
+LG-Q925-AUR-COM;LG;Q92 5G;Auricular de llamada;Compatible;2,40;;;6
+LG-Q925-FLX-COM;LG;Q92 5G;Flex de encendido y volumen;Compatible;2,29;;;6
+LG-Q925-SIM-COM;LG;Q92 5G;Bandeja SIM;Compatible;2,60;;;6
+LG-S6-PAN-COM;LG;Stylo 6;Pantalla;Compatible;13,80;13,39;12,97;6
+LG-S6-BAT-COM;LG;Stylo 6;Batería;Compatible;7,60;;;6
+LG-S6-CON-COM;LG;Stylo 6;Conector de carga;Compatible;3,55;;;6
+LG-S6-TAP-COM;LG;Stylo 6;Tapa trasera;Compatible;4,95;;;6
+LG-S6-CTR-COM;LG;Stylo 6;Cámara trasera;Compatible;5,45;;;6
+LG-S6-CFR-COM;LG;Stylo 6;Cámara frontal;Compatible;3,45;;;6
+LG-S6-LEN-COM;LG;Stylo 6;Lente de cámara;Compatible;2,25;;;6
+LG-S6-ALT-COM;LG;Stylo 6;Altavoz;Compatible;3,29;;;6
+LG-S6-AUR-COM;LG;Stylo 6;Auricular de llamada;Compatible;2,45;;;6
+LG-S6-FLX-COM;LG;Stylo 6;Flex de encendido y volumen;Compatible;2,35;;;6
+LG-S6-SIM-COM;LG;Stylo 6;Bandeja SIM;Compatible;2,75;;;6
+LG-F2-PAN-COM;LG;Folder 2;Pantalla;Compatible;13,80;13,39;12,97;6
+LG-F2-BAT-COM;LG;Folder 2;Batería;Compatible;7,60;;;6
+LG-F2-CON-COM;LG;Folder 2;Conector de carga;Compatible;3,55;;;6
+LG-F2-TAP-COM;LG;Folder 2;Tapa trasera;Compatible;4,95;;;6
+LG-F2-CTR-COM;LG;Folder 2;Cámara trasera;Compatible;5,45;;;6
+LG-F2-CFR-COM;LG;Folder 2;Cámara frontal;Compatible;3,45;;;6
+LG-F2-LEN-COM;LG;Folder 2;Lente de cámara;Compatible;2,25;;;6
+LG-F2-ALT-COM;LG;Folder 2;Altavoz;Compatible;3,29;;;6
+LG-F2-AUR-COM;LG;Folder 2;Auricular de llamada;Compatible;2,45;;;6
+LG-F2-FLX-COM;LG;Folder 2;Flex de encendido y volumen;Compatible;2,35;;;6
+LG-F2-SIM-COM;LG;Folder 2;Bandeja SIM;Compatible;2,75;;;6
+LG-Q51-PAN-COM;LG;Q51;Pantalla;Compatible;16,10;15,62;15,13;6
+LG-Q51-BAT-COM;LG;Q51;Batería;Compatible;8,25;;;6
+LG-Q51-CON-COM;LG;Q51;Conector de carga;Compatible;4,40;;;6
+LG-Q51-TAP-COM;LG;Q51;Tapa trasera;Compatible;5,55;;;6
+LG-Q51-CTR-COM;LG;Q51;Cámara trasera;Compatible;6,19;;;6
+LG-Q51-CFR-COM;LG;Q51;Cámara frontal;Compatible;3,65;;;6
+LG-Q51-LEN-COM;LG;Q51;Lente de cámara;Compatible;2,20;;;6
+LG-Q51-ALT-COM;LG;Q51;Altavoz;Compatible;3,35;;;6
+LG-Q51-AUR-COM;LG;Q51;Auricular de llamada;Compatible;2,40;;;6
+LG-Q51-FLX-COM;LG;Q51;Flex de encendido y volumen;Compatible;2,29;;;6
+LG-Q51-SIM-COM;LG;Q51;Bandeja SIM;Compatible;2,60;;;6
+LG-W10A-PAN-COM;LG;W10 Alpha;Pantalla;Compatible;13,80;13,39;12,97;6
+LG-W10A-BAT-COM;LG;W10 Alpha;Batería;Compatible;7,60;;;6
+LG-W10A-CON-COM;LG;W10 Alpha;Conector de carga;Compatible;3,55;;;6
+LG-W10A-TAP-COM;LG;W10 Alpha;Tapa trasera;Compatible;4,95;;;6
+LG-W10A-CTR-COM;LG;W10 Alpha;Cámara trasera;Compatible;5,45;;;6
+LG-W10A-CFR-COM;LG;W10 Alpha;Cámara frontal;Compatible;3,45;;;6
+LG-W10A-LEN-COM;LG;W10 Alpha;Lente de cámara;Compatible;2,25;;;6
+LG-W10A-ALT-COM;LG;W10 Alpha;Altavoz;Compatible;3,29;;;6
+LG-W10A-AUR-COM;LG;W10 Alpha;Auricular de llamada;Compatible;2,45;;;6
+LG-W10A-FLX-COM;LG;W10 Alpha;Flex de encendido y volumen;Compatible;2,35;;;6
+LG-W10A-SIM-COM;LG;W10 Alpha;Bandeja SIM;Compatible;2,75;;;6
+LG-W30P-PAN-COM;LG;W30 Pro;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-W30P-BAT-COM;LG;W30 Pro;Batería;Compatible;8,90;;;6
+LG-W30P-CON-COM;LG;W30 Pro;Conector de carga;Compatible;3,70;;;6
+LG-W30P-TAP-COM;LG;W30 Pro;Tapa trasera;Compatible;4,80;;;6
+LG-W30P-CTR-COM;LG;W30 Pro;Cámara trasera;Compatible;6,65;;;6
+LG-W30P-CFR-COM;LG;W30 Pro;Cámara frontal;Compatible;4,65;;;6
+LG-W30P-LEN-COM;LG;W30 Pro;Lente de cámara;Compatible;2,25;;;6
+LG-W30P-ALT-COM;LG;W30 Pro;Altavoz;Compatible;3,59;;;6
+LG-W30P-AUR-COM;LG;W30 Pro;Auricular de llamada;Compatible;2,69;;;6
+LG-W30P-FLX-COM;LG;W30 Pro;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-W30P-SIM-COM;LG;W30 Pro;Bandeja SIM;Compatible;2,65;;;6
+LG-W10-PAN-COM;LG;W10;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-W10-BAT-COM;LG;W10;Batería;Compatible;8,90;;;6
+LG-W10-CON-COM;LG;W10;Conector de carga;Compatible;3,70;;;6
+LG-W10-TAP-COM;LG;W10;Tapa trasera;Compatible;4,80;;;6
+LG-W10-CTR-COM;LG;W10;Cámara trasera;Compatible;6,65;;;6
+LG-W10-CFR-COM;LG;W10;Cámara frontal;Compatible;4,65;;;6
+LG-W10-LEN-COM;LG;W10;Lente de cámara;Compatible;2,25;;;6
+LG-W10-ALT-COM;LG;W10;Altavoz;Compatible;3,59;;;6
+LG-W10-AUR-COM;LG;W10;Auricular de llamada;Compatible;2,69;;;6
+LG-W10-FLX-COM;LG;W10;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-W10-SIM-COM;LG;W10;Bandeja SIM;Compatible;2,65;;;6
+LG-S5-PAN-COM;LG;Stylo 5;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-S5-BAT-COM;LG;Stylo 5;Batería;Compatible;8,90;;;6
+LG-S5-CON-COM;LG;Stylo 5;Conector de carga;Compatible;3,70;;;6
+LG-S5-TAP-COM;LG;Stylo 5;Tapa trasera;Compatible;4,80;;;6
+LG-S5-CTR-COM;LG;Stylo 5;Cámara trasera;Compatible;6,65;;;6
+LG-S5-CFR-COM;LG;Stylo 5;Cámara frontal;Compatible;4,65;;;6
+LG-S5-LEN-COM;LG;Stylo 5;Lente de cámara;Compatible;2,25;;;6
+LG-S5-ALT-COM;LG;Stylo 5;Altavoz;Compatible;3,59;;;6
+LG-S5-AUR-COM;LG;Stylo 5;Auricular de llamada;Compatible;2,69;;;6
+LG-S5-FLX-COM;LG;Stylo 5;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-S5-SIM-COM;LG;Stylo 5;Bandeja SIM;Compatible;2,65;;;6
+LG-G8T-PAN-INC;LG;G8 ThinQ;Pantalla;Incell;25,45;24,69;23,92;6
+LG-G8T-BAT-COM;LG;G8 ThinQ;Batería;Compatible;9,95;;;6
+LG-G8T-CON-COM;LG;G8 ThinQ;Conector de carga;Compatible;5,79;;;6
+LG-G8T-TAP-COM;LG;G8 ThinQ;Tapa trasera;Compatible;6,75;;;6
+LG-G8T-CTR-COM;LG;G8 ThinQ;Cámara trasera;Compatible;11,55;11,20;10,86;6
+LG-G8T-CFR-COM;LG;G8 ThinQ;Cámara frontal;Compatible;6,59;;;6
+LG-G8T-LEN-COM;LG;G8 ThinQ;Lente de cámara;Compatible;3,05;;;6
+LG-G8T-ALT-COM;LG;G8 ThinQ;Altavoz;Compatible;4,60;;;6
+LG-G8T-AUR-COM;LG;G8 ThinQ;Auricular de llamada;Compatible;3,60;;;6
+LG-G8T-FLX-COM;LG;G8 ThinQ;Flex de encendido y volumen;Compatible;3,50;;;6
+LG-G8T-SIM-COM;LG;G8 ThinQ;Bandeja SIM;Compatible;3,15;;;6
+LG-V35T-PAN-COM;LG;V35 ThinQ;Pantalla;Compatible;21,80;21,15;20,49;6
+LG-V35T-BAT-COM;LG;V35 ThinQ;Batería;Compatible;9,95;;;6
+LG-V35T-CON-COM;LG;V35 ThinQ;Conector de carga;Compatible;5,79;;;6
+LG-V35T-TAP-COM;LG;V35 ThinQ;Tapa trasera;Compatible;6,75;;;6
+LG-V35T-CTR-COM;LG;V35 ThinQ;Cámara trasera;Compatible;11,55;11,20;10,86;6
+LG-V35T-CFR-COM;LG;V35 ThinQ;Cámara frontal;Compatible;6,59;;;6
+LG-V35T-LEN-COM;LG;V35 ThinQ;Lente de cámara;Compatible;3,05;;;6
+LG-V35T-ALT-COM;LG;V35 ThinQ;Altavoz;Compatible;4,60;;;6
+LG-V35T-AUR-COM;LG;V35 ThinQ;Auricular de llamada;Compatible;3,60;;;6
+LG-V35T-FLX-COM;LG;V35 ThinQ;Flex de encendido y volumen;Compatible;3,50;;;6
+LG-V35T-SIM-COM;LG;V35 ThinQ;Bandeja SIM;Compatible;3,15;;;6
+LG-IV30PLLG-PAN-INC;LG;Isai V30+ LGV35;Pantalla;Incell;15,15;14,70;14,24;6
+LG-IV30PLLG-BAT-COM;LG;Isai V30+ LGV35;Batería;Compatible;8,90;;;6
+LG-IV30PLLG-CON-COM;LG;Isai V30+ LGV35;Conector de carga;Compatible;3,70;;;6
+LG-IV30PLLG-TAP-COM;LG;Isai V30+ LGV35;Tapa trasera;Compatible;4,80;;;6
+LG-IV30PLLG-CTR-COM;LG;Isai V30+ LGV35;Cámara trasera;Compatible;6,65;;;6
+LG-IV30PLLG-CFR-COM;LG;Isai V30+ LGV35;Cámara frontal;Compatible;4,65;;;6
+LG-IV30PLLG-LEN-COM;LG;Isai V30+ LGV35;Lente de cámara;Compatible;2,25;;;6
+LG-IV30PLLG-ALT-COM;LG;Isai V30+ LGV35;Altavoz;Compatible;3,59;;;6
+LG-IV30PLLG-AUR-COM;LG;Isai V30+ LGV35;Auricular de llamada;Compatible;2,69;;;6
+LG-IV30PLLG-FLX-COM;LG;Isai V30+ LGV35;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-IV30PLLG-SIM-COM;LG;Isai V30+ LGV35;Bandeja SIM;Compatible;2,65;;;6
+LG-F-PAN-COM;LG;Fiesta;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-F-BAT-COM;LG;Fiesta;Batería;Compatible;8,90;;;6
+LG-F-CON-COM;LG;Fiesta;Conector de carga;Compatible;3,70;;;6
+LG-F-TAP-COM;LG;Fiesta;Tapa trasera;Compatible;4,80;;;6
+LG-F-CTR-COM;LG;Fiesta;Cámara trasera;Compatible;6,65;;;6
+LG-F-CFR-COM;LG;Fiesta;Cámara frontal;Compatible;4,65;;;6
+LG-F-LEN-COM;LG;Fiesta;Lente de cámara;Compatible;2,25;;;6
+LG-F-ALT-COM;LG;Fiesta;Altavoz;Compatible;3,59;;;6
+LG-F-AUR-COM;LG;Fiesta;Auricular de llamada;Compatible;2,69;;;6
+LG-F-FLX-COM;LG;Fiesta;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-F-SIM-COM;LG;Fiesta;Bandeja SIM;Compatible;2,65;;;6
+LG-K20PL-PAN-COM;LG;K20+;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-K20PL-BAT-COM;LG;K20+;Batería;Compatible;8,90;;;6
+LG-K20PL-CON-COM;LG;K20+;Conector de carga;Compatible;3,70;;;6
+LG-K20PL-TAP-COM;LG;K20+;Tapa trasera;Compatible;4,80;;;6
+LG-K20PL-CTR-COM;LG;K20+;Cámara trasera;Compatible;6,65;;;6
+LG-K20PL-CFR-COM;LG;K20+;Cámara frontal;Compatible;4,65;;;6
+LG-K20PL-LEN-COM;LG;K20+;Lente de cámara;Compatible;2,25;;;6
+LG-K20PL-ALT-COM;LG;K20+;Altavoz;Compatible;3,59;;;6
+LG-K20PL-AUR-COM;LG;K20+;Auricular de llamada;Compatible;2,69;;;6
+LG-K20PL-FLX-COM;LG;K20+;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-K20PL-SIM-COM;LG;K20+;Bandeja SIM;Compatible;2,65;;;6
+LG-IB-PAN-COM;LG;isai Beat;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-IB-BAT-COM;LG;isai Beat;Batería;Compatible;8,90;;;6
+LG-IB-CON-COM;LG;isai Beat;Conector de carga;Compatible;3,70;;;6
+LG-IB-TAP-COM;LG;isai Beat;Tapa trasera;Compatible;4,80;;;6
+LG-IB-CTR-COM;LG;isai Beat;Cámara trasera;Compatible;6,65;;;6
+LG-IB-CFR-COM;LG;isai Beat;Cámara frontal;Compatible;4,65;;;6
+LG-IB-LEN-COM;LG;isai Beat;Lente de cámara;Compatible;2,25;;;6
+LG-IB-ALT-COM;LG;isai Beat;Altavoz;Compatible;3,59;;;6
+LG-IB-AUR-COM;LG;isai Beat;Auricular de llamada;Compatible;2,69;;;6
+LG-IB-FLX-COM;LG;isai Beat;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-IB-SIM-COM;LG;isai Beat;Bandeja SIM;Compatible;2,65;;;6
+LG-V20-PAN-COM;LG;V20;Pantalla;Compatible;21,80;21,15;20,49;6
+LG-V20-BAT-COM;LG;V20;Batería;Compatible;9,95;;;6
+LG-V20-CON-COM;LG;V20;Conector de carga;Compatible;5,79;;;6
+LG-V20-TAP-COM;LG;V20;Tapa trasera;Compatible;6,75;;;6
+LG-V20-CTR-COM;LG;V20;Cámara trasera;Compatible;11,55;11,20;10,86;6
+LG-V20-CFR-COM;LG;V20;Cámara frontal;Compatible;6,59;;;6
+LG-V20-LEN-COM;LG;V20;Lente de cámara;Compatible;3,05;;;6
+LG-V20-ALT-COM;LG;V20;Altavoz;Compatible;4,60;;;6
+LG-V20-AUR-COM;LG;V20;Auricular de llamada;Compatible;3,60;;;6
+LG-V20-FLX-COM;LG;V20;Flex de encendido y volumen;Compatible;3,50;;;6
+LG-V20-SIM-COM;LG;V20;Bandeja SIM;Compatible;3,15;;;6
+LG-QUAPPX-PAN-COM;LG;Qua phone PX;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-QUAPPX-BAT-COM;LG;Qua phone PX;Batería;Compatible;8,90;;;6
+LG-QUAPPX-CON-COM;LG;Qua phone PX;Conector de carga;Compatible;3,70;;;6
+LG-QUAPPX-TAP-COM;LG;Qua phone PX;Tapa trasera;Compatible;4,80;;;6
+LG-QUAPPX-CTR-COM;LG;Qua phone PX;Cámara trasera;Compatible;6,65;;;6
+LG-QUAPPX-CFR-COM;LG;Qua phone PX;Cámara frontal;Compatible;4,65;;;6
+LG-QUAPPX-LEN-COM;LG;Qua phone PX;Lente de cámara;Compatible;2,25;;;6
+LG-QUAPPX-ALT-COM;LG;Qua phone PX;Altavoz;Compatible;3,59;;;6
+LG-QUAPPX-AUR-COM;LG;Qua phone PX;Auricular de llamada;Compatible;2,69;;;6
+LG-QUAPPX-FLX-COM;LG;Qua phone PX;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-QUAPPX-SIM-COM;LG;Qua phone PX;Bandeja SIM;Compatible;2,65;;;6
+LG-K7-PAN-COM;LG;K7;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-K7-BAT-COM;LG;K7;Batería;Compatible;8,90;;;6
+LG-K7-CON-COM;LG;K7;Conector de carga;Compatible;3,70;;;6
+LG-K7-TAP-COM;LG;K7;Tapa trasera;Compatible;4,80;;;6
+LG-K7-CTR-COM;LG;K7;Cámara trasera;Compatible;6,65;;;6
+LG-K7-CFR-COM;LG;K7;Cámara frontal;Compatible;4,65;;;6
+LG-K7-LEN-COM;LG;K7;Lente de cámara;Compatible;2,25;;;6
+LG-K7-ALT-COM;LG;K7;Altavoz;Compatible;3,59;;;6
+LG-K7-AUR-COM;LG;K7;Auricular de llamada;Compatible;2,69;;;6
+LG-K7-FLX-COM;LG;K7;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-K7-SIM-COM;LG;K7;Bandeja SIM;Compatible;2,65;;;6
+LG-LANCET-PAN-COM;LG;Lancet;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-LANCET-BAT-COM;LG;Lancet;Batería;Compatible;8,90;;;6
+LG-LANCET-CON-COM;LG;Lancet;Conector de carga;Compatible;3,70;;;6
+LG-LANCET-TAP-COM;LG;Lancet;Tapa trasera;Compatible;4,80;;;6
+LG-LANCET-CTR-COM;LG;Lancet;Cámara trasera;Compatible;6,65;;;6
+LG-LANCET-CFR-COM;LG;Lancet;Cámara frontal;Compatible;4,65;;;6
+LG-LANCET-LEN-COM;LG;Lancet;Lente de cámara;Compatible;2,25;;;6
+LG-LANCET-ALT-COM;LG;Lancet;Altavoz;Compatible;3,59;;;6
+LG-LANCET-AUR-COM;LG;Lancet;Auricular de llamada;Compatible;2,69;;;6
+LG-LANCET-FLX-COM;LG;Lancet;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-LANCET-SIM-COM;LG;Lancet;Bandeja SIM;Compatible;2,65;;;6
+LG-GF2-PAN-INC;LG;G Flex 2;Pantalla;Incell;15,15;14,70;14,24;6
+LG-GF2-BAT-COM;LG;G Flex 2;Batería;Compatible;8,90;;;6
+LG-GF2-CON-COM;LG;G Flex 2;Conector de carga;Compatible;3,70;;;6
+LG-GF2-TAP-COM;LG;G Flex 2;Tapa trasera;Compatible;4,80;;;6
+LG-GF2-CTR-COM;LG;G Flex 2;Cámara trasera;Compatible;6,65;;;6
+LG-GF2-CFR-COM;LG;G Flex 2;Cámara frontal;Compatible;4,65;;;6
+LG-GF2-LEN-COM;LG;G Flex 2;Lente de cámara;Compatible;2,25;;;6
+LG-GF2-ALT-COM;LG;G Flex 2;Altavoz;Compatible;3,59;;;6
+LG-GF2-AUR-COM;LG;G Flex 2;Auricular de llamada;Compatible;2,69;;;6
+LG-GF2-FLX-COM;LG;G Flex 2;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-GF2-SIM-COM;LG;G Flex 2;Bandeja SIM;Compatible;2,65;;;6
+LG-IVLLGV31-PAN-COM;LG;Isai VL LGV31;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-IVLLGV31-BAT-COM;LG;Isai VL LGV31;Batería;Compatible;8,90;;;6
+LG-IVLLGV31-CON-COM;LG;Isai VL LGV31;Conector de carga;Compatible;3,70;;;6
+LG-IVLLGV31-TAP-COM;LG;Isai VL LGV31;Tapa trasera;Compatible;4,80;;;6
+LG-IVLLGV31-CTR-COM;LG;Isai VL LGV31;Cámara trasera;Compatible;6,65;;;6
+LG-IVLLGV31-CFR-COM;LG;Isai VL LGV31;Cámara frontal;Compatible;4,65;;;6
+LG-IVLLGV31-LEN-COM;LG;Isai VL LGV31;Lente de cámara;Compatible;2,25;;;6
+LG-IVLLGV31-ALT-COM;LG;Isai VL LGV31;Altavoz;Compatible;3,59;;;6
+LG-IVLLGV31-AUR-COM;LG;Isai VL LGV31;Auricular de llamada;Compatible;2,69;;;6
+LG-IVLLGV31-FLX-COM;LG;Isai VL LGV31;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-IVLLGV31-SIM-COM;LG;Isai VL LGV31;Bandeja SIM;Compatible;2,65;;;6
+LG-L-PAN-COM;LG;Leon;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-L-BAT-COM;LG;Leon;Batería;Compatible;8,90;;;6
+LG-L-CON-COM;LG;Leon;Conector de carga;Compatible;3,70;;;6
+LG-L-TAP-COM;LG;Leon;Tapa trasera;Compatible;4,80;;;6
+LG-L-CTR-COM;LG;Leon;Cámara trasera;Compatible;6,65;;;6
+LG-L-CFR-COM;LG;Leon;Cámara frontal;Compatible;4,65;;;6
+LG-L-LEN-COM;LG;Leon;Lente de cámara;Compatible;2,25;;;6
+LG-L-ALT-COM;LG;Leon;Altavoz;Compatible;3,59;;;6
+LG-L-AUR-COM;LG;Leon;Auricular de llamada;Compatible;2,69;;;6
+LG-L-FLX-COM;LG;Leon;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-L-SIM-COM;LG;Leon;Bandeja SIM;Compatible;2,65;;;6
+LG-F60-PAN-COM;LG;F60;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-F60-BAT-COM;LG;F60;Batería;Compatible;8,90;;;6
+LG-F60-CON-COM;LG;F60;Conector de carga;Compatible;3,70;;;6
+LG-F60-TAP-COM;LG;F60;Tapa trasera;Compatible;4,80;;;6
+LG-F60-CTR-COM;LG;F60;Cámara trasera;Compatible;6,65;;;6
+LG-F60-CFR-COM;LG;F60;Cámara frontal;Compatible;4,65;;;6
+LG-F60-LEN-COM;LG;F60;Lente de cámara;Compatible;2,25;;;6
+LG-F60-ALT-COM;LG;F60;Altavoz;Compatible;3,59;;;6
+LG-F60-AUR-COM;LG;F60;Auricular de llamada;Compatible;2,69;;;6
+LG-F60-FLX-COM;LG;F60;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-F60-SIM-COM;LG;F60;Bandeja SIM;Compatible;2,65;;;6
+LG-G3S-PAN-COM;LG;G3 Stylus;Pantalla;Compatible;21,80;21,15;20,49;6
+LG-G3S-BAT-COM;LG;G3 Stylus;Batería;Compatible;9,95;;;6
+LG-G3S-CON-COM;LG;G3 Stylus;Conector de carga;Compatible;5,79;;;6
+LG-G3S-TAP-COM;LG;G3 Stylus;Tapa trasera;Compatible;6,75;;;6
+LG-G3S-CTR-COM;LG;G3 Stylus;Cámara trasera;Compatible;11,55;11,20;10,86;6
+LG-G3S-CFR-COM;LG;G3 Stylus;Cámara frontal;Compatible;6,59;;;6
+LG-G3S-LEN-COM;LG;G3 Stylus;Lente de cámara;Compatible;3,05;;;6
+LG-G3S-ALT-COM;LG;G3 Stylus;Altavoz;Compatible;4,60;;;6
+LG-G3S-AUR-COM;LG;G3 Stylus;Auricular de llamada;Compatible;3,60;;;6
+LG-G3S-FLX-COM;LG;G3 Stylus;Flex de encendido y volumen;Compatible;3,50;;;6
+LG-G3S-SIM-COM;LG;G3 Stylus;Bandeja SIM;Compatible;3,15;;;6
+LG-G3-PAN-COM;LG;G3;Pantalla;Compatible;21,80;21,15;20,49;6
+LG-G3-BAT-COM;LG;G3;Batería;Compatible;9,95;;;6
+LG-G3-CON-COM;LG;G3;Conector de carga;Compatible;5,79;;;6
+LG-G3-TAP-COM;LG;G3;Tapa trasera;Compatible;6,75;;;6
+LG-G3-CTR-COM;LG;G3;Cámara trasera;Compatible;11,55;11,20;10,86;6
+LG-G3-CFR-COM;LG;G3;Cámara frontal;Compatible;6,59;;;6
+LG-G3-LEN-COM;LG;G3;Lente de cámara;Compatible;3,05;;;6
+LG-G3-ALT-COM;LG;G3;Altavoz;Compatible;4,60;;;6
+LG-G3-AUR-COM;LG;G3;Auricular de llamada;Compatible;3,60;;;6
+LG-G3-FLX-COM;LG;G3;Flex de encendido y volumen;Compatible;3,50;;;6
+LG-G3-SIM-COM;LG;G3;Bandeja SIM;Compatible;3,15;;;6
+LG-G2MN-PAN-COM;LG;G2 Mini;Pantalla;Compatible;21,80;21,15;20,49;6
+LG-G2MN-BAT-COM;LG;G2 Mini;Batería;Compatible;9,95;;;6
+LG-G2MN-CON-COM;LG;G2 Mini;Conector de carga;Compatible;5,79;;;6
+LG-G2MN-TAP-COM;LG;G2 Mini;Tapa trasera;Compatible;6,75;;;6
+LG-G2MN-CTR-COM;LG;G2 Mini;Cámara trasera;Compatible;11,55;11,20;10,86;6
+LG-G2MN-CFR-COM;LG;G2 Mini;Cámara frontal;Compatible;6,59;;;6
+LG-G2MN-LEN-COM;LG;G2 Mini;Lente de cámara;Compatible;3,05;;;6
+LG-G2MN-ALT-COM;LG;G2 Mini;Altavoz;Compatible;4,60;;;6
+LG-G2MN-AUR-COM;LG;G2 Mini;Auricular de llamada;Compatible;3,60;;;6
+LG-G2MN-FLX-COM;LG;G2 Mini;Flex de encendido y volumen;Compatible;3,50;;;6
+LG-G2MN-SIM-COM;LG;G2 Mini;Bandeja SIM;Compatible;3,15;;;6
+LG-GP2-PAN-COM;LG;G Pro 2;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-GP2-BAT-COM;LG;G Pro 2;Batería;Compatible;8,90;;;6
+LG-GP2-CON-COM;LG;G Pro 2;Conector de carga;Compatible;3,70;;;6
+LG-GP2-TAP-COM;LG;G Pro 2;Tapa trasera;Compatible;4,80;;;6
+LG-GP2-CTR-COM;LG;G Pro 2;Cámara trasera;Compatible;6,65;;;6
+LG-GP2-CFR-COM;LG;G Pro 2;Cámara frontal;Compatible;4,65;;;6
+LG-GP2-LEN-COM;LG;G Pro 2;Lente de cámara;Compatible;2,25;;;6
+LG-GP2-ALT-COM;LG;G Pro 2;Altavoz;Compatible;3,59;;;6
+LG-GP2-AUR-COM;LG;G Pro 2;Auricular de llamada;Compatible;2,69;;;6
+LG-GP2-FLX-COM;LG;G Pro 2;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-GP2-SIM-COM;LG;G Pro 2;Bandeja SIM;Compatible;2,65;;;6
+LG-OL70-PAN-COM;LG;Optimus L70;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-OL70-BAT-COM;LG;Optimus L70;Batería;Compatible;8,90;;;6
+LG-OL70-CON-COM;LG;Optimus L70;Conector de carga;Compatible;3,70;;;6
+LG-OL70-TAP-COM;LG;Optimus L70;Tapa trasera;Compatible;4,80;;;6
+LG-OL70-CTR-COM;LG;Optimus L70;Cámara trasera;Compatible;6,65;;;6
+LG-OL70-CFR-COM;LG;Optimus L70;Cámara frontal;Compatible;4,65;;;6
+LG-OL70-LEN-COM;LG;Optimus L70;Lente de cámara;Compatible;2,25;;;6
+LG-OL70-ALT-COM;LG;Optimus L70;Altavoz;Compatible;3,59;;;6
+LG-OL70-AUR-COM;LG;Optimus L70;Auricular de llamada;Compatible;2,69;;;6
+LG-OL70-FLX-COM;LG;Optimus L70;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-OL70-SIM-COM;LG;Optimus L70;Bandeja SIM;Compatible;2,65;;;6
+LG-GX-PAN-COM;LG;Gx;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-GX-BAT-COM;LG;Gx;Batería;Compatible;8,90;;;6
+LG-GX-CON-COM;LG;Gx;Conector de carga;Compatible;3,70;;;6
+LG-GX-TAP-COM;LG;Gx;Tapa trasera;Compatible;4,80;;;6
+LG-GX-CTR-COM;LG;Gx;Cámara trasera;Compatible;6,65;;;6
+LG-GX-CFR-COM;LG;Gx;Cámara frontal;Compatible;4,65;;;6
+LG-GX-LEN-COM;LG;Gx;Lente de cámara;Compatible;2,25;;;6
+LG-GX-ALT-COM;LG;Gx;Altavoz;Compatible;3,59;;;6
+LG-GX-AUR-COM;LG;Gx;Auricular de llamada;Compatible;2,69;;;6
+LG-GX-FLX-COM;LG;Gx;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-GX-SIM-COM;LG;Gx;Bandeja SIM;Compatible;2,65;;;6
+LG-GF-PAN-INC;LG;G Flex;Pantalla;Incell;15,15;14,70;14,24;6
+LG-GF-BAT-COM;LG;G Flex;Batería;Compatible;8,90;;;6
+LG-GF-CON-COM;LG;G Flex;Conector de carga;Compatible;3,70;;;6
+LG-GF-TAP-COM;LG;G Flex;Tapa trasera;Compatible;4,80;;;6
+LG-GF-CTR-COM;LG;G Flex;Cámara trasera;Compatible;6,65;;;6
+LG-GF-CFR-COM;LG;G Flex;Cámara frontal;Compatible;4,65;;;6
+LG-GF-LEN-COM;LG;G Flex;Lente de cámara;Compatible;2,25;;;6
+LG-GF-ALT-COM;LG;G Flex;Altavoz;Compatible;3,59;;;6
+LG-GF-AUR-COM;LG;G Flex;Auricular de llamada;Compatible;2,69;;;6
+LG-GF-FLX-COM;LG;G Flex;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-GF-SIM-COM;LG;G Flex;Bandeja SIM;Compatible;2,65;;;6
+LG-GPL-PAN-COM;LG;G Pro Lite;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-GPL-BAT-COM;LG;G Pro Lite;Batería;Compatible;8,90;;;6
+LG-GPL-CON-COM;LG;G Pro Lite;Conector de carga;Compatible;3,70;;;6
+LG-GPL-TAP-COM;LG;G Pro Lite;Tapa trasera;Compatible;4,80;;;6
+LG-GPL-CTR-COM;LG;G Pro Lite;Cámara trasera;Compatible;6,65;;;6
+LG-GPL-CFR-COM;LG;G Pro Lite;Cámara frontal;Compatible;4,65;;;6
+LG-GPL-LEN-COM;LG;G Pro Lite;Lente de cámara;Compatible;2,25;;;6
+LG-GPL-ALT-COM;LG;G Pro Lite;Altavoz;Compatible;3,59;;;6
+LG-GPL-AUR-COM;LG;G Pro Lite;Auricular de llamada;Compatible;2,69;;;6
+LG-GPL-FLX-COM;LG;G Pro Lite;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-GPL-SIM-COM;LG;G Pro Lite;Bandeja SIM;Compatible;2,65;;;6
+LG-G2-PAN-COM;LG;G2;Pantalla;Compatible;21,80;21,15;20,49;6
+LG-G2-BAT-COM;LG;G2;Batería;Compatible;9,95;;;6
+LG-G2-CON-COM;LG;G2;Conector de carga;Compatible;5,79;;;6
+LG-G2-TAP-COM;LG;G2;Tapa trasera;Compatible;6,75;;;6
+LG-G2-CTR-COM;LG;G2;Cámara trasera;Compatible;11,55;11,20;10,86;6
+LG-G2-CFR-COM;LG;G2;Cámara frontal;Compatible;6,59;;;6
+LG-G2-LEN-COM;LG;G2;Lente de cámara;Compatible;3,05;;;6
+LG-G2-ALT-COM;LG;G2;Altavoz;Compatible;4,60;;;6
+LG-G2-AUR-COM;LG;G2;Auricular de llamada;Compatible;3,60;;;6
+LG-G2-FLX-COM;LG;G2;Flex de encendido y volumen;Compatible;3,50;;;6
+LG-G2-SIM-COM;LG;G2;Bandeja SIM;Compatible;3,15;;;6
+LG-VU3-PAN-COM;LG;Vu 3;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-VU3-BAT-COM;LG;Vu 3;Batería;Compatible;8,90;;;6
+LG-VU3-CON-COM;LG;Vu 3;Conector de carga;Compatible;3,70;;;6
+LG-VU3-TAP-COM;LG;Vu 3;Tapa trasera;Compatible;4,80;;;6
+LG-VU3-CTR-COM;LG;Vu 3;Cámara trasera;Compatible;6,65;;;6
+LG-VU3-CFR-COM;LG;Vu 3;Cámara frontal;Compatible;4,65;;;6
+LG-VU3-LEN-COM;LG;Vu 3;Lente de cámara;Compatible;2,25;;;6
+LG-VU3-ALT-COM;LG;Vu 3;Altavoz;Compatible;3,59;;;6
+LG-VU3-AUR-COM;LG;Vu 3;Auricular de llamada;Compatible;2,69;;;6
+LG-VU3-FLX-COM;LG;Vu 3;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-VU3-SIM-COM;LG;Vu 3;Bandeja SIM;Compatible;2,65;;;6
+LG-EII-PAN-COM;LG;Envoy II;Pantalla;Compatible;47,25;45,83;44,42;6
+LG-EII-PAN-COM-EXT;LG;Envoy II;Pantalla exterior;Compatible;9,35;;;6
+LG-EII-BAT-COM;LG;Envoy II;Batería;Compatible;9,10;;;6
+LG-EII-CON-COM;LG;Envoy II;Conector de carga;Compatible;3,45;;;6
+LG-EII-TAP-COM;LG;Envoy II;Tapa trasera;Compatible;4,49;;;6
+LG-EII-CTR-COM;LG;Envoy II;Cámara trasera;Compatible;6,00;;;6
+LG-EII-CFR-COM;LG;Envoy II;Cámara frontal;Compatible;4,39;;;6
+LG-EII-LEN-COM;LG;Envoy II;Lente de cámara;Compatible;2,15;;;6
+LG-EII-ALT-COM;LG;Envoy II;Altavoz;Compatible;3,30;;;6
+LG-EII-AUR-COM;LG;Envoy II;Auricular de llamada;Compatible;2,50;;;6
+LG-EII-FLX-COM;LG;Envoy II;Flex de encendido y volumen;Compatible;2,30;;;6
+LG-EII-SIM-COM;LG;Envoy II;Bandeja SIM;Compatible;2,55;;;6
+LG-C3-PAN-COM;LG;Cosmos 3;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-C3-BAT-COM;LG;Cosmos 3;Batería;Compatible;8,90;;;6
+LG-C3-CON-COM;LG;Cosmos 3;Conector de carga;Compatible;3,70;;;6
+LG-C3-TAP-COM;LG;Cosmos 3;Tapa trasera;Compatible;4,80;;;6
+LG-C3-CTR-COM;LG;Cosmos 3;Cámara trasera;Compatible;6,65;;;6
+LG-C3-CFR-COM;LG;Cosmos 3;Cámara frontal;Compatible;4,65;;;6
+LG-C3-LEN-COM;LG;Cosmos 3;Lente de cámara;Compatible;2,25;;;6
+LG-C3-ALT-COM;LG;Cosmos 3;Altavoz;Compatible;3,59;;;6
+LG-C3-AUR-COM;LG;Cosmos 3;Auricular de llamada;Compatible;2,69;;;6
+LG-C3-FLX-COM;LG;Cosmos 3;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-C3-SIM-COM;LG;Cosmos 3;Bandeja SIM;Compatible;2,65;;;6
+LG-OGP-PAN-COM;LG;Optimus G Pro;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-OGP-BAT-COM;LG;Optimus G Pro;Batería;Compatible;8,90;;;6
+LG-OGP-CON-COM;LG;Optimus G Pro;Conector de carga;Compatible;3,70;;;6
+LG-OGP-TAP-COM;LG;Optimus G Pro;Tapa trasera;Compatible;4,80;;;6
+LG-OGP-CTR-COM;LG;Optimus G Pro;Cámara trasera;Compatible;6,65;;;6
+LG-OGP-CFR-COM;LG;Optimus G Pro;Cámara frontal;Compatible;4,65;;;6
+LG-OGP-LEN-COM;LG;Optimus G Pro;Lente de cámara;Compatible;2,25;;;6
+LG-OGP-ALT-COM;LG;Optimus G Pro;Altavoz;Compatible;3,59;;;6
+LG-OGP-AUR-COM;LG;Optimus G Pro;Auricular de llamada;Compatible;2,69;;;6
+LG-OGP-FLX-COM;LG;Optimus G Pro;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-OGP-SIM-COM;LG;Optimus G Pro;Bandeja SIM;Compatible;2,65;;;6
+LG-OL5II-PAN-COM;LG;Optimus L5 II;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-OL5II-BAT-COM;LG;Optimus L5 II;Batería;Compatible;8,90;;;6
+LG-OL5II-CON-COM;LG;Optimus L5 II;Conector de carga;Compatible;3,70;;;6
+LG-OL5II-TAP-COM;LG;Optimus L5 II;Tapa trasera;Compatible;4,80;;;6
+LG-OL5II-CTR-COM;LG;Optimus L5 II;Cámara trasera;Compatible;6,65;;;6
+LG-OL5II-CFR-COM;LG;Optimus L5 II;Cámara frontal;Compatible;4,65;;;6
+LG-OL5II-LEN-COM;LG;Optimus L5 II;Lente de cámara;Compatible;2,25;;;6
+LG-OL5II-ALT-COM;LG;Optimus L5 II;Altavoz;Compatible;3,59;;;6
+LG-OL5II-AUR-COM;LG;Optimus L5 II;Auricular de llamada;Compatible;2,69;;;6
+LG-OL5II-FLX-COM;LG;Optimus L5 II;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-OL5II-SIM-COM;LG;Optimus L5 II;Bandeja SIM;Compatible;2,65;;;6
+LG-LF-PAN-COM;LG;L Fino;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-LF-BAT-COM;LG;L Fino;Batería;Compatible;8,90;;;6
+LG-LF-CON-COM;LG;L Fino;Conector de carga;Compatible;3,70;;;6
+LG-LF-TAP-COM;LG;L Fino;Tapa trasera;Compatible;4,80;;;6
+LG-LF-CTR-COM;LG;L Fino;Cámara trasera;Compatible;6,65;;;6
+LG-LF-CFR-COM;LG;L Fino;Cámara frontal;Compatible;4,65;;;6
+LG-LF-LEN-COM;LG;L Fino;Lente de cámara;Compatible;2,25;;;6
+LG-LF-ALT-COM;LG;L Fino;Altavoz;Compatible;3,59;;;6
+LG-LF-AUR-COM;LG;L Fino;Auricular de llamada;Compatible;2,69;;;6
+LG-LF-FLX-COM;LG;L Fino;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-LF-SIM-COM;LG;L Fino;Bandeja SIM;Compatible;2,65;;;6
+LG-OL4II-PAN-COM;LG;Optimus L4 II;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-OL4II-BAT-COM;LG;Optimus L4 II;Batería;Compatible;8,90;;;6
+LG-OL4II-CON-COM;LG;Optimus L4 II;Conector de carga;Compatible;3,70;;;6
+LG-OL4II-TAP-COM;LG;Optimus L4 II;Tapa trasera;Compatible;4,80;;;6
+LG-OL4II-CTR-COM;LG;Optimus L4 II;Cámara trasera;Compatible;6,65;;;6
+LG-OL4II-CFR-COM;LG;Optimus L4 II;Cámara frontal;Compatible;4,65;;;6
+LG-OL4II-LEN-COM;LG;Optimus L4 II;Lente de cámara;Compatible;2,25;;;6
+LG-OL4II-ALT-COM;LG;Optimus L4 II;Altavoz;Compatible;3,59;;;6
+LG-OL4II-AUR-COM;LG;Optimus L4 II;Auricular de llamada;Compatible;2,69;;;6
+LG-OL4II-FLX-COM;LG;Optimus L4 II;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-OL4II-SIM-COM;LG;Optimus L4 II;Bandeja SIM;Compatible;2,65;;;6
+LG-OL9-PAN-COM;LG;Optimus L9;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-OL9-BAT-COM;LG;Optimus L9;Batería;Compatible;8,90;;;6
+LG-OL9-CON-COM;LG;Optimus L9;Conector de carga;Compatible;3,70;;;6
+LG-OL9-TAP-COM;LG;Optimus L9;Tapa trasera;Compatible;4,80;;;6
+LG-OL9-CTR-COM;LG;Optimus L9;Cámara trasera;Compatible;6,65;;;6
+LG-OL9-CFR-COM;LG;Optimus L9;Cámara frontal;Compatible;4,65;;;6
+LG-OL9-LEN-COM;LG;Optimus L9;Lente de cámara;Compatible;2,25;;;6
+LG-OL9-ALT-COM;LG;Optimus L9;Altavoz;Compatible;3,59;;;6
+LG-OL9-AUR-COM;LG;Optimus L9;Auricular de llamada;Compatible;2,69;;;6
+LG-OL9-FLX-COM;LG;Optimus L9;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-OL9-SIM-COM;LG;Optimus L9;Bandeja SIM;Compatible;2,65;;;6
+LG-OG-PAN-COM;LG;Optimus G;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-OG-BAT-COM;LG;Optimus G;Batería;Compatible;8,90;;;6
+LG-OG-CON-COM;LG;Optimus G;Conector de carga;Compatible;3,70;;;6
+LG-OG-TAP-COM;LG;Optimus G;Tapa trasera;Compatible;4,80;;;6
+LG-OG-CTR-COM;LG;Optimus G;Cámara trasera;Compatible;6,65;;;6
+LG-OG-CFR-COM;LG;Optimus G;Cámara frontal;Compatible;4,65;;;6
+LG-OG-LEN-COM;LG;Optimus G;Lente de cámara;Compatible;2,25;;;6
+LG-OG-ALT-COM;LG;Optimus G;Altavoz;Compatible;3,59;;;6
+LG-OG-AUR-COM;LG;Optimus G;Auricular de llamada;Compatible;2,69;;;6
+LG-OG-FLX-COM;LG;Optimus G;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-OG-SIM-COM;LG;Optimus G;Bandeja SIM;Compatible;2,65;;;6
+LG-I-PAN-COM;LG;Intuition;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-I-BAT-COM;LG;Intuition;Batería;Compatible;8,90;;;6
+LG-I-CON-COM;LG;Intuition;Conector de carga;Compatible;3,70;;;6
+LG-I-TAP-COM;LG;Intuition;Tapa trasera;Compatible;4,80;;;6
+LG-I-CTR-COM;LG;Intuition;Cámara trasera;Compatible;6,65;;;6
+LG-I-CFR-COM;LG;Intuition;Cámara frontal;Compatible;4,65;;;6
+LG-I-LEN-COM;LG;Intuition;Lente de cámara;Compatible;2,25;;;6
+LG-I-ALT-COM;LG;Intuition;Altavoz;Compatible;3,59;;;6
+LG-I-AUR-COM;LG;Intuition;Auricular de llamada;Compatible;2,69;;;6
+LG-I-FLX-COM;LG;Intuition;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-I-SIM-COM;LG;Intuition;Bandeja SIM;Compatible;2,65;;;6
+LG-OVUII-PAN-COM;LG;Optimus Vu II;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-OVUII-BAT-COM;LG;Optimus Vu II;Batería;Compatible;8,90;;;6
+LG-OVUII-CON-COM;LG;Optimus Vu II;Conector de carga;Compatible;3,70;;;6
+LG-OVUII-TAP-COM;LG;Optimus Vu II;Tapa trasera;Compatible;4,80;;;6
+LG-OVUII-CTR-COM;LG;Optimus Vu II;Cámara trasera;Compatible;6,65;;;6
+LG-OVUII-CFR-COM;LG;Optimus Vu II;Cámara frontal;Compatible;4,65;;;6
+LG-OVUII-LEN-COM;LG;Optimus Vu II;Lente de cámara;Compatible;2,25;;;6
+LG-OVUII-ALT-COM;LG;Optimus Vu II;Altavoz;Compatible;3,59;;;6
+LG-OVUII-AUR-COM;LG;Optimus Vu II;Auricular de llamada;Compatible;2,69;;;6
+LG-OVUII-FLX-COM;LG;Optimus Vu II;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-OVUII-SIM-COM;LG;Optimus Vu II;Bandeja SIM;Compatible;2,65;;;6
+LG-OL2-PAN-COM;LG;Optimus L2;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-OL2-BAT-COM;LG;Optimus L2;Batería;Compatible;8,90;;;6
+LG-OL2-CON-COM;LG;Optimus L2;Conector de carga;Compatible;3,70;;;6
+LG-OL2-TAP-COM;LG;Optimus L2;Tapa trasera;Compatible;4,80;;;6
+LG-OL2-CTR-COM;LG;Optimus L2;Cámara trasera;Compatible;6,65;;;6
+LG-OL2-CFR-COM;LG;Optimus L2;Cámara frontal;Compatible;4,65;;;6
+LG-OL2-LEN-COM;LG;Optimus L2;Lente de cámara;Compatible;2,25;;;6
+LG-OL2-ALT-COM;LG;Optimus L2;Altavoz;Compatible;3,59;;;6
+LG-OL2-AUR-COM;LG;Optimus L2;Auricular de llamada;Compatible;2,69;;;6
+LG-OL2-FLX-COM;LG;Optimus L2;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-OL2-SIM-COM;LG;Optimus L2;Bandeja SIM;Compatible;2,65;;;6
+LG-OL7-PAN-COM;LG;Optimus L7;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-OL7-BAT-COM;LG;Optimus L7;Batería;Compatible;8,90;;;6
+LG-OL7-CON-COM;LG;Optimus L7;Conector de carga;Compatible;3,70;;;6
+LG-OL7-TAP-COM;LG;Optimus L7;Tapa trasera;Compatible;4,80;;;6
+LG-OL7-CTR-COM;LG;Optimus L7;Cámara trasera;Compatible;6,65;;;6
+LG-OL7-CFR-COM;LG;Optimus L7;Cámara frontal;Compatible;4,65;;;6
+LG-OL7-LEN-COM;LG;Optimus L7;Lente de cámara;Compatible;2,25;;;6
+LG-OL7-ALT-COM;LG;Optimus L7;Altavoz;Compatible;3,59;;;6
+LG-OL7-AUR-COM;LG;Optimus L7;Auricular de llamada;Compatible;2,69;;;6
+LG-OL7-FLX-COM;LG;Optimus L7;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-OL7-SIM-COM;LG;Optimus L7;Bandeja SIM;Compatible;2,65;;;6
+LG-O4XHD-PAN-COM;LG;Optimus 4X HD;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-O4XHD-BAT-COM;LG;Optimus 4X HD;Batería;Compatible;8,90;;;6
+LG-O4XHD-CON-COM;LG;Optimus 4X HD;Conector de carga;Compatible;3,70;;;6
+LG-O4XHD-TAP-COM;LG;Optimus 4X HD;Tapa trasera;Compatible;4,80;;;6
+LG-O4XHD-CTR-COM;LG;Optimus 4X HD;Cámara trasera;Compatible;6,65;;;6
+LG-O4XHD-CFR-COM;LG;Optimus 4X HD;Cámara frontal;Compatible;4,65;;;6
+LG-O4XHD-LEN-COM;LG;Optimus 4X HD;Lente de cámara;Compatible;2,25;;;6
+LG-O4XHD-ALT-COM;LG;Optimus 4X HD;Altavoz;Compatible;3,59;;;6
+LG-O4XHD-AUR-COM;LG;Optimus 4X HD;Auricular de llamada;Compatible;2,69;;;6
+LG-O4XHD-FLX-COM;LG;Optimus 4X HD;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-O4XHD-SIM-COM;LG;Optimus 4X HD;Bandeja SIM;Compatible;2,65;;;6
+LG-OL5-PAN-COM;LG;Optimus L5;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-OL5-BAT-COM;LG;Optimus L5;Batería;Compatible;8,90;;;6
+LG-OL5-CON-COM;LG;Optimus L5;Conector de carga;Compatible;3,70;;;6
+LG-OL5-TAP-COM;LG;Optimus L5;Tapa trasera;Compatible;4,80;;;6
+LG-OL5-CTR-COM;LG;Optimus L5;Cámara trasera;Compatible;6,65;;;6
+LG-OL5-CFR-COM;LG;Optimus L5;Cámara frontal;Compatible;4,65;;;6
+LG-OL5-LEN-COM;LG;Optimus L5;Lente de cámara;Compatible;2,25;;;6
+LG-OL5-ALT-COM;LG;Optimus L5;Altavoz;Compatible;3,59;;;6
+LG-OL5-AUR-COM;LG;Optimus L5;Auricular de llamada;Compatible;2,69;;;6
+LG-OL5-FLX-COM;LG;Optimus L5;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-OL5-SIM-COM;LG;Optimus L5;Bandeja SIM;Compatible;2,65;;;6
+LG-T385-PAN-COM;LG;T385;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-T385-BAT-COM;LG;T385;Batería;Compatible;8,90;;;6
+LG-T385-CON-COM;LG;T385;Conector de carga;Compatible;3,70;;;6
+LG-T385-TAP-COM;LG;T385;Tapa trasera;Compatible;4,80;;;6
+LG-T385-CTR-COM;LG;T385;Cámara trasera;Compatible;6,65;;;6
+LG-T385-CFR-COM;LG;T385;Cámara frontal;Compatible;4,65;;;6
+LG-T385-LEN-COM;LG;T385;Lente de cámara;Compatible;2,25;;;6
+LG-T385-ALT-COM;LG;T385;Altavoz;Compatible;3,59;;;6
+LG-T385-AUR-COM;LG;T385;Auricular de llamada;Compatible;2,69;;;6
+LG-T385-FLX-COM;LG;T385;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-T385-SIM-COM;LG;T385;Bandeja SIM;Compatible;2,65;;;6
+LG-OL3-PAN-COM;LG;Optimus L3;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-OL3-BAT-COM;LG;Optimus L3;Batería;Compatible;8,90;;;6
+LG-OL3-CON-COM;LG;Optimus L3;Conector de carga;Compatible;3,70;;;6
+LG-OL3-TAP-COM;LG;Optimus L3;Tapa trasera;Compatible;4,80;;;6
+LG-OL3-CTR-COM;LG;Optimus L3;Cámara trasera;Compatible;6,65;;;6
+LG-OL3-CFR-COM;LG;Optimus L3;Cámara frontal;Compatible;4,65;;;6
+LG-OL3-LEN-COM;LG;Optimus L3;Lente de cámara;Compatible;2,25;;;6
+LG-OL3-ALT-COM;LG;Optimus L3;Altavoz;Compatible;3,59;;;6
+LG-OL3-AUR-COM;LG;Optimus L3;Auricular de llamada;Compatible;2,69;;;6
+LG-OL3-FLX-COM;LG;Optimus L3;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-OL3-SIM-COM;LG;Optimus L3;Bandeja SIM;Compatible;2,65;;;6
+LG-OLTE-PAN-COM;LG;Optimus LTE;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-OLTE-BAT-COM;LG;Optimus LTE;Batería;Compatible;8,90;;;6
+LG-OLTE-CON-COM;LG;Optimus LTE;Conector de carga;Compatible;3,70;;;6
+LG-OLTE-TAP-COM;LG;Optimus LTE;Tapa trasera;Compatible;4,80;;;6
+LG-OLTE-CTR-COM;LG;Optimus LTE;Cámara trasera;Compatible;6,65;;;6
+LG-OLTE-CFR-COM;LG;Optimus LTE;Cámara frontal;Compatible;4,65;;;6
+LG-OLTE-LEN-COM;LG;Optimus LTE;Lente de cámara;Compatible;2,25;;;6
+LG-OLTE-ALT-COM;LG;Optimus LTE;Altavoz;Compatible;3,59;;;6
+LG-OLTE-AUR-COM;LG;Optimus LTE;Auricular de llamada;Compatible;2,69;;;6
+LG-OLTE-FLX-COM;LG;Optimus LTE;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-OLTE-SIM-COM;LG;Optimus LTE;Bandeja SIM;Compatible;2,65;;;6
+LG-OX-PAN-COM;LG;Optimus X;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-OX-BAT-COM;LG;Optimus X;Batería;Compatible;8,90;;;6
+LG-OX-CON-COM;LG;Optimus X;Conector de carga;Compatible;3,70;;;6
+LG-OX-TAP-COM;LG;Optimus X;Tapa trasera;Compatible;4,80;;;6
+LG-OX-CTR-COM;LG;Optimus X;Cámara trasera;Compatible;6,65;;;6
+LG-OX-CFR-COM;LG;Optimus X;Cámara frontal;Compatible;4,65;;;6
+LG-OX-LEN-COM;LG;Optimus X;Lente de cámara;Compatible;2,25;;;6
+LG-OX-ALT-COM;LG;Optimus X;Altavoz;Compatible;3,59;;;6
+LG-OX-AUR-COM;LG;Optimus X;Auricular de llamada;Compatible;2,69;;;6
+LG-OX-FLX-COM;LG;Optimus X;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-OX-SIM-COM;LG;Optimus X;Bandeja SIM;Compatible;2,65;;;6
+LG-O-PAN-COM;LG;Octane;Pantalla;Compatible;47,25;45,83;44,42;6
+LG-O-PAN-COM-EXT;LG;Octane;Pantalla exterior;Compatible;9,35;;;6
+LG-O-BAT-COM;LG;Octane;Batería;Compatible;9,10;;;6
+LG-O-CON-COM;LG;Octane;Conector de carga;Compatible;3,45;;;6
+LG-O-TAP-COM;LG;Octane;Tapa trasera;Compatible;4,49;;;6
+LG-O-CTR-COM;LG;Octane;Cámara trasera;Compatible;6,00;;;6
+LG-O-CFR-COM;LG;Octane;Cámara frontal;Compatible;4,39;;;6
+LG-O-LEN-COM;LG;Octane;Lente de cámara;Compatible;2,15;;;6
+LG-O-ALT-COM;LG;Octane;Altavoz;Compatible;3,30;;;6
+LG-O-AUR-COM;LG;Octane;Auricular de llamada;Compatible;2,50;;;6
+LG-O-FLX-COM;LG;Octane;Flex de encendido y volumen;Compatible;2,30;;;6
+LG-O-SIM-COM;LG;Octane;Bandeja SIM;Compatible;2,55;;;6
+LG-G3B-PAN-COM;LG;G3 Beat;Pantalla;Compatible;21,80;21,15;20,49;6
+LG-G3B-BAT-COM;LG;G3 Beat;Batería;Compatible;9,95;;;6
+LG-G3B-CON-COM;LG;G3 Beat;Conector de carga;Compatible;5,79;;;6
+LG-G3B-TAP-COM;LG;G3 Beat;Tapa trasera;Compatible;6,75;;;6
+LG-G3B-CTR-COM;LG;G3 Beat;Cámara trasera;Compatible;11,55;11,20;10,86;6
+LG-G3B-CFR-COM;LG;G3 Beat;Cámara frontal;Compatible;6,59;;;6
+LG-G3B-LEN-COM;LG;G3 Beat;Lente de cámara;Compatible;3,05;;;6
+LG-G3B-ALT-COM;LG;G3 Beat;Altavoz;Compatible;4,60;;;6
+LG-G3B-AUR-COM;LG;G3 Beat;Auricular de llamada;Compatible;3,60;;;6
+LG-G3B-FLX-COM;LG;G3 Beat;Flex de encendido y volumen;Compatible;3,50;;;6
+LG-G3B-SIM-COM;LG;G3 Beat;Bandeja SIM;Compatible;3,15;;;6
+LG-G4S-PAN-COM;LG;G4s;Pantalla;Compatible;21,80;21,15;20,49;6
+LG-G4S-BAT-COM;LG;G4s;Batería;Compatible;9,95;;;6
+LG-G4S-CON-COM;LG;G4s;Conector de carga;Compatible;5,79;;;6
+LG-G4S-TAP-COM;LG;G4s;Tapa trasera;Compatible;6,75;;;6
+LG-G4S-CTR-COM;LG;G4s;Cámara trasera;Compatible;11,55;11,20;10,86;6
+LG-G4S-CFR-COM;LG;G4s;Cámara frontal;Compatible;6,59;;;6
+LG-G4S-LEN-COM;LG;G4s;Lente de cámara;Compatible;3,05;;;6
+LG-G4S-ALT-COM;LG;G4s;Altavoz;Compatible;4,60;;;6
+LG-G4S-AUR-COM;LG;G4s;Auricular de llamada;Compatible;3,60;;;6
+LG-G4S-FLX-COM;LG;G4s;Flex de encendido y volumen;Compatible;3,50;;;6
+LG-G4S-SIM-COM;LG;G4s;Bandeja SIM;Compatible;3,15;;;6
+LG-K10PW-PAN-COM;LG;K10 Power;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-K10PW-BAT-COM;LG;K10 Power;Batería;Compatible;8,90;;;6
+LG-K10PW-CON-COM;LG;K10 Power;Conector de carga;Compatible;3,70;;;6
+LG-K10PW-TAP-COM;LG;K10 Power;Tapa trasera;Compatible;4,80;;;6
+LG-K10PW-CTR-COM;LG;K10 Power;Cámara trasera;Compatible;6,65;;;6
+LG-K10PW-CFR-COM;LG;K10 Power;Cámara frontal;Compatible;4,65;;;6
+LG-K10PW-LEN-COM;LG;K10 Power;Lente de cámara;Compatible;2,25;;;6
+LG-K10PW-ALT-COM;LG;K10 Power;Altavoz;Compatible;3,59;;;6
+LG-K10PW-AUR-COM;LG;K10 Power;Auricular de llamada;Compatible;2,69;;;6
+LG-K10PW-FLX-COM;LG;K10 Power;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-K10PW-SIM-COM;LG;K10 Power;Bandeja SIM;Compatible;2,65;;;6
+LG-K11PL-PAN-COM;LG;K11+;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-K11PL-BAT-COM;LG;K11+;Batería;Compatible;8,90;;;6
+LG-K11PL-CON-COM;LG;K11+;Conector de carga;Compatible;3,70;;;6
+LG-K11PL-TAP-COM;LG;K11+;Tapa trasera;Compatible;4,80;;;6
+LG-K11PL-CTR-COM;LG;K11+;Cámara trasera;Compatible;6,65;;;6
+LG-K11PL-CFR-COM;LG;K11+;Cámara frontal;Compatible;4,65;;;6
+LG-K11PL-LEN-COM;LG;K11+;Lente de cámara;Compatible;2,25;;;6
+LG-K11PL-ALT-COM;LG;K11+;Altavoz;Compatible;3,59;;;6
+LG-K11PL-AUR-COM;LG;K11+;Auricular de llamada;Compatible;2,69;;;6
+LG-K11PL-FLX-COM;LG;K11+;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-K11PL-SIM-COM;LG;K11+;Bandeja SIM;Compatible;2,65;;;6
+LG-K62PL-PAN-COM;LG;K62+;Pantalla;Compatible;13,80;13,39;12,97;6
+LG-K62PL-BAT-COM;LG;K62+;Batería;Compatible;7,60;;;6
+LG-K62PL-CON-COM;LG;K62+;Conector de carga;Compatible;3,55;;;6
+LG-K62PL-TAP-COM;LG;K62+;Tapa trasera;Compatible;4,95;;;6
+LG-K62PL-CTR-COM;LG;K62+;Cámara trasera;Compatible;5,45;;;6
+LG-K62PL-CFR-COM;LG;K62+;Cámara frontal;Compatible;3,45;;;6
+LG-K62PL-LEN-COM;LG;K62+;Lente de cámara;Compatible;2,25;;;6
+LG-K62PL-ALT-COM;LG;K62+;Altavoz;Compatible;3,29;;;6
+LG-K62PL-AUR-COM;LG;K62+;Auricular de llamada;Compatible;2,45;;;6
+LG-K62PL-FLX-COM;LG;K62+;Flex de encendido y volumen;Compatible;2,35;;;6
+LG-K62PL-SIM-COM;LG;K62+;Bandeja SIM;Compatible;2,75;;;6
+LG-K8S-PAN-COM;LG;K8s;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-K8S-BAT-COM;LG;K8s;Batería;Compatible;8,90;;;6
+LG-K8S-CON-COM;LG;K8s;Conector de carga;Compatible;3,70;;;6
+LG-K8S-TAP-COM;LG;K8s;Tapa trasera;Compatible;4,80;;;6
+LG-K8S-CTR-COM;LG;K8s;Cámara trasera;Compatible;6,65;;;6
+LG-K8S-CFR-COM;LG;K8s;Cámara frontal;Compatible;4,65;;;6
+LG-K8S-LEN-COM;LG;K8s;Lente de cámara;Compatible;2,25;;;6
+LG-K8S-ALT-COM;LG;K8s;Altavoz;Compatible;3,59;;;6
+LG-K8S-AUR-COM;LG;K8s;Auricular de llamada;Compatible;2,69;;;6
+LG-K8S-FLX-COM;LG;K8s;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-K8S-SIM-COM;LG;K8s;Bandeja SIM;Compatible;2,65;;;6
+LG-S2PL-PAN-COM;LG;Stylus 2 Plus;Pantalla;Compatible;15,15;14,70;14,24;6
+LG-S2PL-BAT-COM;LG;Stylus 2 Plus;Batería;Compatible;9,65;;;6
+LG-S2PL-CON-COM;LG;Stylus 2 Plus;Conector de carga;Compatible;4,60;;;6
+LG-S2PL-TAP-COM;LG;Stylus 2 Plus;Tapa trasera;Compatible;5,40;;;6
+LG-S2PL-CTR-COM;LG;Stylus 2 Plus;Cámara trasera;Compatible;7,59;;;6
+LG-S2PL-CFR-COM;LG;Stylus 2 Plus;Cámara frontal;Compatible;4,99;;;6
+LG-S2PL-LEN-COM;LG;Stylus 2 Plus;Lente de cámara;Compatible;2,19;;;6
+LG-S2PL-ALT-COM;LG;Stylus 2 Plus;Altavoz;Compatible;3,65;;;6
+LG-S2PL-AUR-COM;LG;Stylus 2 Plus;Auricular de llamada;Compatible;2,65;;;6
+LG-S2PL-FLX-COM;LG;Stylus 2 Plus;Flex de encendido y volumen;Compatible;2,49;;;6
+LG-S2PL-SIM-COM;LG;Stylus 2 Plus;Bandeja SIM;Compatible;2,55;;;6
+LG-G4-PAN-COM;LG;G4;Pantalla;Compatible;21,80;21,15;20,49;6
+LG-G4-BAT-COM;LG;G4;Batería;Compatible;9,95;;;6
+LG-G4-CON-COM;LG;G4;Conector de carga;Compatible;5,79;;;6
+LG-G4-TAP-COM-CAM;LG;G4;Tapa trasera;Camel;6,75;;;6
+LG-G4-TAP-COM-NEG;LG;G4;Tapa trasera;Negro;6,75;;;6
+LG-G4-TAP-COM-ORO;LG;G4;Tapa trasera;Oro;6,75;;;6
+LG-G4-TAP-COM-ROJ;LG;G4;Tapa trasera;Rojo;6,75;;;6
+LG-G4-TAP-COM-TIT;LG;G4;Tapa trasera;Titán;6,75;;;6
+LG-G4-CTR-COM;LG;G4;Cámara trasera;Compatible;11,55;11,20;10,86;6
+LG-G4-CFR-COM;LG;G4;Cámara frontal;Compatible;6,59;;;6
+LG-G4-LEN-COM;LG;G4;Lente de cámara;Compatible;3,05;;;6
+LG-G4-ALT-COM;LG;G4;Altavoz;Compatible;4,60;;;6
+LG-G4-AUR-COM;LG;G4;Auricular de llamada;Compatible;3,60;;;6
+LG-G4-FLX-COM;LG;G4;Flex de encendido y volumen;Compatible;3,50;;;6
+LG-G4-SIM-COM;LG;G4;Bandeja SIM;Compatible;3,15;;;6
+LG-K10-PAN-COM;LG;K10;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-K10-BAT-COM;LG;K10;Batería;Compatible;8,90;;;6
+LG-K10-CON-COM;LG;K10;Conector de carga;Compatible;3,70;;;6
+LG-K10-TAP-COM-BLA;LG;K10;Tapa trasera;Blanco;4,80;;;6
+LG-K10-TAP-COM-NEG;LG;K10;Tapa trasera;Negro;4,80;;;6
+LG-K10-CTR-COM;LG;K10;Cámara trasera;Compatible;6,65;;;6
+LG-K10-CFR-COM;LG;K10;Cámara frontal;Compatible;4,65;;;6
+LG-K10-LEN-COM;LG;K10;Lente de cámara;Compatible;2,25;;;6
+LG-K10-ALT-COM;LG;K10;Altavoz;Compatible;3,59;;;6
+LG-K10-AUR-COM;LG;K10;Auricular de llamada;Compatible;2,69;;;6
+LG-K10-FLX-COM;LG;K10;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-K10-SIM-COM;LG;K10;Bandeja SIM;Compatible;2,65;;;6
+LG-K4-PAN-COM;LG;K4;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-K4-BAT-COM;LG;K4;Batería;Compatible;8,90;;;6
+LG-K4-CON-COM;LG;K4;Conector de carga;Compatible;3,70;;;6
+LG-K4-TAP-COM-BLA;LG;K4;Tapa trasera;Blanco;4,80;;;6
+LG-K4-TAP-COM-NEG;LG;K4;Tapa trasera;Negro;4,80;;;6
+LG-K4-CTR-COM;LG;K4;Cámara trasera;Compatible;6,65;;;6
+LG-K4-CFR-COM;LG;K4;Cámara frontal;Compatible;4,65;;;6
+LG-K4-LEN-COM;LG;K4;Lente de cámara;Compatible;2,25;;;6
+LG-K4-ALT-COM;LG;K4;Altavoz;Compatible;3,59;;;6
+LG-K4-AUR-COM;LG;K4;Auricular de llamada;Compatible;2,69;;;6
+LG-K4-FLX-COM;LG;K4;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-K4-SIM-COM;LG;K4;Bandeja SIM;Compatible;2,65;;;6
+LG-S2-PAN-COM;LG;Stylus 2;Pantalla;Compatible;15,15;14,70;14,24;6
+LG-S2-BAT-COM;LG;Stylus 2;Batería;Compatible;9,65;;;6
+LG-S2-CON-COM;LG;Stylus 2;Conector de carga;Compatible;4,60;;;6
+LG-S2-TAP-COM-TIT;LG;Stylus 2;Tapa trasera;Titan;5,40;;;6
+LG-S2-TAP-COM-BLA;LG;Stylus 2;Tapa trasera;Blanco;5,40;;;6
+LG-S2-TAP-COM-MAR;LG;Stylus 2;Tapa trasera;Marrón;5,40;;;6
+LG-S2-CTR-COM;LG;Stylus 2;Cámara trasera;Compatible;7,59;;;6
+LG-S2-CFR-COM;LG;Stylus 2;Cámara frontal;Compatible;4,99;;;6
+LG-S2-LEN-COM;LG;Stylus 2;Lente de cámara;Compatible;2,19;;;6
+LG-S2-ALT-COM;LG;Stylus 2;Altavoz;Compatible;3,65;;;6
+LG-S2-AUR-COM;LG;Stylus 2;Auricular de llamada;Compatible;2,65;;;6
+LG-S2-FLX-COM;LG;Stylus 2;Flex de encendido y volumen;Compatible;2,49;;;6
+LG-S2-SIM-COM;LG;Stylus 2;Bandeja SIM;Compatible;2,55;;;6
+LG-V10-PAN-COM;LG;V10;Pantalla;Compatible;21,80;21,15;20,49;6
+LG-V10-BAT-COM;LG;V10;Batería;Compatible;9,95;;;6
+LG-V10-CON-COM;LG;V10;Conector de carga;Compatible;5,79;;;6
+LG-V10-TAP-COM-NEG;LG;V10;Tapa trasera;Negro espacial;6,75;;;6
+LG-V10-CTR-COM;LG;V10;Cámara trasera;Compatible;11,55;11,20;10,86;6
+LG-V10-CFR-COM;LG;V10;Cámara frontal;Compatible;6,59;;;6
+LG-V10-LEN-COM;LG;V10;Lente de cámara;Compatible;3,05;;;6
+LG-V10-ALT-COM;LG;V10;Altavoz;Compatible;4,60;;;6
+LG-V10-AUR-COM;LG;V10;Auricular de llamada;Compatible;3,60;;;6
+LG-V10-FLX-COM;LG;V10;Flex de encendido y volumen;Compatible;3,50;;;6
+LG-V10-SIM-COM;LG;V10;Bandeja SIM;Compatible;3,15;;;6
+LG-G5-PAN-COM;LG;G5;Pantalla;Compatible;21,80;21,15;20,49;6
+LG-G5-BAT-COM;LG;G5;Batería;Compatible;9,95;;;6
+LG-G5-CON-COM;LG;G5;Conector de carga;Compatible;5,79;;;6
+LG-G5-TAP-COM-PLA;LG;G5;Tapa trasera;Plata;6,75;;;6
+LG-G5-TAP-COM-TIT;LG;G5;Tapa trasera;Titan;6,75;;;6
+LG-G5-TAP-COM-DOR;LG;G5;Tapa trasera;Dorado;6,75;;;6
+LG-G5-TAP-COM-ROS;LG;G5;Tapa trasera;Rosa;6,75;;;6
+LG-G5-CTR-COM;LG;G5;Cámara trasera;Compatible;11,55;11,20;10,86;6
+LG-G5-CFR-COM;LG;G5;Cámara frontal;Compatible;6,59;;;6
+LG-G5-LEN-COM;LG;G5;Lente de cámara;Compatible;3,05;;;6
+LG-G5-ALT-COM;LG;G5;Altavoz;Compatible;4,60;;;6
+LG-G5-AUR-COM;LG;G5;Auricular de llamada;Compatible;3,60;;;6
+LG-G5-FLX-COM;LG;G5;Flex de encendido y volumen;Compatible;3,50;;;6
+LG-G5-SIM-COM;LG;G5;Bandeja SIM;Compatible;3,15;;;6
+LG-K5-PAN-COM;LG;K5;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-K5-BAT-COM;LG;K5;Batería;Compatible;8,90;;;6
+LG-K5-CON-COM;LG;K5;Conector de carga;Compatible;3,70;;;6
+LG-K5-TAP-COM-DOR;LG;K5;Tapa trasera;Dorado;4,80;;;6
+LG-K5-TAP-COM-PLA;LG;K5;Tapa trasera;Plata;4,80;;;6
+LG-K5-TAP-COM-TIT;LG;K5;Tapa trasera;Titan;4,80;;;6
+LG-K5-CTR-COM;LG;K5;Cámara trasera;Compatible;6,65;;;6
+LG-K5-CFR-COM;LG;K5;Cámara frontal;Compatible;4,65;;;6
+LG-K5-LEN-COM;LG;K5;Lente de cámara;Compatible;2,25;;;6
+LG-K5-ALT-COM;LG;K5;Altavoz;Compatible;3,59;;;6
+LG-K5-AUR-COM;LG;K5;Auricular de llamada;Compatible;2,69;;;6
+LG-K5-FLX-COM;LG;K5;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-K5-SIM-COM;LG;K5;Bandeja SIM;Compatible;2,65;;;6
+LG-K8-PAN-COM;LG;K8;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-K8-BAT-COM;LG;K8;Batería;Compatible;8,90;;;6
+LG-K8-CON-COM;LG;K8;Conector de carga;Compatible;3,70;;;6
+LG-K8-TAP-COM-DOR;LG;K8;Tapa trasera;Dorado;4,80;;;6
+LG-K8-TAP-COM-IND;LG;K8;Tapa trasera;Índigo;4,80;;;6
+LG-K8-TAP-COM-BLA;LG;K8;Tapa trasera;Blanco;4,80;;;6
+LG-K8-CTR-COM;LG;K8;Cámara trasera;Compatible;6,65;;;6
+LG-K8-CFR-COM;LG;K8;Cámara frontal;Compatible;4,65;;;6
+LG-K8-LEN-COM;LG;K8;Lente de cámara;Compatible;2,25;;;6
+LG-K8-ALT-COM;LG;K8;Altavoz;Compatible;3,59;;;6
+LG-K8-AUR-COM;LG;K8;Auricular de llamada;Compatible;2,69;;;6
+LG-K8-FLX-COM;LG;K8;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-K8-SIM-COM;LG;K8;Bandeja SIM;Compatible;2,65;;;6
+LG-XCAM-PAN-COM;LG;X Cam;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-XCAM-BAT-COM;LG;X Cam;Batería;Compatible;8,90;;;6
+LG-XCAM-CON-COM;LG;X Cam;Conector de carga;Compatible;3,70;;;6
+LG-XCAM-TAP-COM-DOR;LG;X Cam;Tapa trasera;Dorado;4,80;;;6
+LG-XCAM-TAP-COM-TIT;LG;X Cam;Tapa trasera;Titan;4,80;;;6
+LG-XCAM-CTR-COM;LG;X Cam;Cámara trasera;Compatible;6,65;;;6
+LG-XCAM-CFR-COM;LG;X Cam;Cámara frontal;Compatible;4,65;;;6
+LG-XCAM-LEN-COM;LG;X Cam;Lente de cámara;Compatible;2,25;;;6
+LG-XCAM-ALT-COM;LG;X Cam;Altavoz;Compatible;3,59;;;6
+LG-XCAM-AUR-COM;LG;X Cam;Auricular de llamada;Compatible;2,69;;;6
+LG-XCAM-FLX-COM;LG;X Cam;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-XCAM-SIM-COM;LG;X Cam;Bandeja SIM;Compatible;2,65;;;6
+LG-XS-PAN-COM;LG;X Screen;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-XS-BAT-COM;LG;X Screen;Batería;Compatible;8,90;;;6
+LG-XS-CON-COM;LG;X Screen;Conector de carga;Compatible;3,70;;;6
+LG-XS-TAP-COM-NEG;LG;X Screen;Tapa trasera;Negro;4,80;;;6
+LG-XS-TAP-COM-BLA;LG;X Screen;Tapa trasera;Blanco;4,80;;;6
+LG-XS-CTR-COM;LG;X Screen;Cámara trasera;Compatible;6,65;;;6
+LG-XS-CFR-COM;LG;X Screen;Cámara frontal;Compatible;4,65;;;6
+LG-XS-LEN-COM;LG;X Screen;Lente de cámara;Compatible;2,25;;;6
+LG-XS-ALT-COM;LG;X Screen;Altavoz;Compatible;3,59;;;6
+LG-XS-AUR-COM;LG;X Screen;Auricular de llamada;Compatible;2,69;;;6
+LG-XS-FLX-COM;LG;X Screen;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-XS-SIM-COM;LG;X Screen;Bandeja SIM;Compatible;2,65;;;6
+LG-XPW-PAN-COM;LG;X Power;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-XPW-BAT-COM;LG;X Power;Batería;Compatible;8,90;;;6
+LG-XPW-CON-COM;LG;X Power;Conector de carga;Compatible;3,70;;;6
+LG-XPW-TAP-COM;LG;X Power;Tapa trasera;Compatible;4,80;;;6
+LG-XPW-CTR-COM;LG;X Power;Cámara trasera;Compatible;6,65;;;6
+LG-XPW-CFR-COM;LG;X Power;Cámara frontal;Compatible;4,65;;;6
+LG-XPW-LEN-COM;LG;X Power;Lente de cámara;Compatible;2,25;;;6
+LG-XPW-ALT-COM;LG;X Power;Altavoz;Compatible;3,59;;;6
+LG-XPW-AUR-COM;LG;X Power;Auricular de llamada;Compatible;2,69;;;6
+LG-XPW-FLX-COM;LG;X Power;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-XPW-SIM-COM;LG;X Power;Bandeja SIM;Compatible;2,65;;;6
+LG-K3-PAN-COM;LG;K3;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-K3-BAT-COM;LG;K3;Batería;Compatible;8,90;;;6
+LG-K3-CON-COM;LG;K3;Conector de carga;Compatible;3,70;;;6
+LG-K3-TAP-COM;LG;K3;Tapa trasera;Compatible;4,80;;;6
+LG-K3-CTR-COM;LG;K3;Cámara trasera;Compatible;6,65;;;6
+LG-K3-CFR-COM;LG;K3;Cámara frontal;Compatible;4,65;;;6
+LG-K3-LEN-COM;LG;K3;Lente de cámara;Compatible;2,25;;;6
+LG-K3-ALT-COM;LG;K3;Altavoz;Compatible;3,59;;;6
+LG-K3-AUR-COM;LG;K3;Auricular de llamada;Compatible;2,69;;;6
+LG-K3-FLX-COM;LG;K3;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-K3-SIM-COM;LG;K3;Bandeja SIM;Compatible;2,65;;;6
+LG-K417-PAN-COM;LG;K4 2017;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-K417-BAT-COM;LG;K4 2017;Batería;Compatible;8,90;;;6
+LG-K417-CON-COM;LG;K4 2017;Conector de carga;Compatible;3,70;;;6
+LG-K417-TAP-COM-NEG;LG;K4 2017;Tapa trasera;Negro;4,80;;;6
+LG-K417-TAP-COM-TIT;LG;K4 2017;Tapa trasera;Titan;4,80;;;6
+LG-K417-CTR-COM;LG;K4 2017;Cámara trasera;Compatible;6,65;;;6
+LG-K417-CFR-COM;LG;K4 2017;Cámara frontal;Compatible;4,65;;;6
+LG-K417-LEN-COM;LG;K4 2017;Lente de cámara;Compatible;2,25;;;6
+LG-K417-ALT-COM;LG;K4 2017;Altavoz;Compatible;3,59;;;6
+LG-K417-AUR-COM;LG;K4 2017;Auricular de llamada;Compatible;2,69;;;6
+LG-K417-FLX-COM;LG;K4 2017;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-K417-SIM-COM;LG;K4 2017;Bandeja SIM;Compatible;2,65;;;6
+LG-K817-PAN-COM;LG;K8 2017;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-K817-BAT-COM;LG;K8 2017;Batería;Compatible;8,90;;;6
+LG-K817-CON-COM;LG;K8 2017;Conector de carga;Compatible;3,70;;;6
+LG-K817-TAP-COM-DOR;LG;K8 2017;Tapa trasera;Dorado;4,80;;;6
+LG-K817-TAP-COM-TIT;LG;K8 2017;Tapa trasera;Titan;4,80;;;6
+LG-K817-CTR-COM;LG;K8 2017;Cámara trasera;Compatible;6,65;;;6
+LG-K817-CFR-COM;LG;K8 2017;Cámara frontal;Compatible;4,65;;;6
+LG-K817-LEN-COM;LG;K8 2017;Lente de cámara;Compatible;2,25;;;6
+LG-K817-ALT-COM;LG;K8 2017;Altavoz;Compatible;3,59;;;6
+LG-K817-AUR-COM;LG;K8 2017;Auricular de llamada;Compatible;2,69;;;6
+LG-K817-FLX-COM;LG;K8 2017;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-K817-SIM-COM;LG;K8 2017;Bandeja SIM;Compatible;2,65;;;6
+LG-S3-PAN-COM;LG;Stylus 3;Pantalla;Compatible;15,15;14,70;14,24;6
+LG-S3-BAT-COM;LG;Stylus 3;Batería;Compatible;9,65;;;6
+LG-S3-CON-COM;LG;Stylus 3;Conector de carga;Compatible;4,60;;;6
+LG-S3-TAP-COM-MET;LG;Stylus 3;Tapa trasera;Metallic Titan;5,40;;;6
+LG-S3-TAP-COM-ORO;LG;Stylus 3;Tapa trasera;Oro rosa;5,40;;;6
+LG-S3-CTR-COM;LG;Stylus 3;Cámara trasera;Compatible;7,59;;;6
+LG-S3-CFR-COM;LG;Stylus 3;Cámara frontal;Compatible;4,99;;;6
+LG-S3-LEN-COM;LG;Stylus 3;Lente de cámara;Compatible;2,19;;;6
+LG-S3-ALT-COM;LG;Stylus 3;Altavoz;Compatible;3,65;;;6
+LG-S3-AUR-COM;LG;Stylus 3;Auricular de llamada;Compatible;2,65;;;6
+LG-S3-FLX-COM;LG;Stylus 3;Flex de encendido y volumen;Compatible;2,49;;;6
+LG-S3-SIM-COM;LG;Stylus 3;Bandeja SIM;Compatible;2,55;;;6
+LG-K1017-PAN-COM;LG;K10 2017;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-K1017-BAT-COM;LG;K10 2017;Batería;Compatible;8,90;;;6
+LG-K1017-CON-COM;LG;K10 2017;Conector de carga;Compatible;3,70;;;6
+LG-K1017-TAP-COM-NEG;LG;K10 2017;Tapa trasera;Negro;4,80;;;6
+LG-K1017-TAP-COM-TIT;LG;K10 2017;Tapa trasera;Titan;4,80;;;6
+LG-K1017-TAP-COM-DOR;LG;K10 2017;Tapa trasera;Dorado;4,80;;;6
+LG-K1017-CTR-COM;LG;K10 2017;Cámara trasera;Compatible;6,65;;;6
+LG-K1017-CFR-COM;LG;K10 2017;Cámara frontal;Compatible;4,65;;;6
+LG-K1017-LEN-COM;LG;K10 2017;Lente de cámara;Compatible;2,25;;;6
+LG-K1017-ALT-COM;LG;K10 2017;Altavoz;Compatible;3,59;;;6
+LG-K1017-AUR-COM;LG;K10 2017;Auricular de llamada;Compatible;2,69;;;6
+LG-K1017-FLX-COM;LG;K10 2017;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-K1017-SIM-COM;LG;K10 2017;Bandeja SIM;Compatible;2,65;;;6
+LG-G6-PAN-COM;LG;G6;Pantalla;Compatible;21,80;21,15;20,49;6
+LG-G6-BAT-COM;LG;G6;Batería;Compatible;9,95;;;6
+LG-G6-CON-COM;LG;G6;Conector de carga;Compatible;5,79;;;6
+LG-G6-TAP-COM-NEG;LG;G6;Tapa trasera;Negro (Astro Black);6,75;;;6
+LG-G6-TAP-COM-ICE;LG;G6;Tapa trasera;Ice Platinum;6,75;;;6
+LG-G6-TAP-COM-BLA;LG;G6;Tapa trasera;Blanco (Mystic White);6,75;;;6
+LG-G6-CTR-COM;LG;G6;Cámara trasera;Compatible;11,55;11,20;10,86;6
+LG-G6-CFR-COM;LG;G6;Cámara frontal;Compatible;6,59;;;6
+LG-G6-LEN-COM;LG;G6;Lente de cámara;Compatible;3,05;;;6
+LG-G6-ALT-COM;LG;G6;Altavoz;Compatible;4,60;;;6
+LG-G6-AUR-COM;LG;G6;Auricular de llamada;Compatible;3,60;;;6
+LG-G6-FLX-COM;LG;G6;Flex de encendido y volumen;Compatible;3,50;;;6
+LG-G6-SIM-COM;LG;G6;Bandeja SIM;Compatible;3,15;;;6
+LG-XPW2-PAN-COM;LG;X Power 2;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-XPW2-BAT-COM;LG;X Power 2;Batería;Compatible;8,90;;;6
+LG-XPW2-CON-COM;LG;X Power 2;Conector de carga;Compatible;3,70;;;6
+LG-XPW2-TAP-COM-NEG;LG;X Power 2;Tapa trasera;Negro (Black Titan);4,80;;;6
+LG-XPW2-TAP-COM-SHI;LG;X Power 2;Tapa trasera;Shiny Titan;4,80;;;6
+LG-XPW2-TAP-COM-DOR;LG;X Power 2;Tapa trasera;Dorado (Shiny Gold);4,80;;;6
+LG-XPW2-TAP-COM-AZU;LG;X Power 2;Tapa trasera;Azul (Shiny Blue);4,80;;;6
+LG-XPW2-CTR-COM;LG;X Power 2;Cámara trasera;Compatible;6,65;;;6
+LG-XPW2-CFR-COM;LG;X Power 2;Cámara frontal;Compatible;4,65;;;6
+LG-XPW2-LEN-COM;LG;X Power 2;Lente de cámara;Compatible;2,25;;;6
+LG-XPW2-ALT-COM;LG;X Power 2;Altavoz;Compatible;3,59;;;6
+LG-XPW2-AUR-COM;LG;X Power 2;Auricular de llamada;Compatible;2,69;;;6
+LG-XPW2-FLX-COM;LG;X Power 2;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-XPW2-SIM-COM;LG;X Power 2;Bandeja SIM;Compatible;2,65;;;6
+LG-Q8-PAN-COM;LG;Q8;Pantalla;Compatible;15,15;14,70;14,24;6
+LG-Q8-BAT-COM;LG;Q8;Batería;Compatible;9,65;;;6
+LG-Q8-CON-COM;LG;Q8;Conector de carga;Compatible;4,60;;;6
+LG-Q8-TAP-COM-URB;LG;Q8;Tapa trasera;Urban Titan;5,40;;;6
+LG-Q8-CTR-COM;LG;Q8;Cámara trasera;Compatible;7,59;;;6
+LG-Q8-CFR-COM;LG;Q8;Cámara frontal;Compatible;4,99;;;6
+LG-Q8-LEN-COM;LG;Q8;Lente de cámara;Compatible;2,19;;;6
+LG-Q8-ALT-COM;LG;Q8;Altavoz;Compatible;3,65;;;6
+LG-Q8-AUR-COM;LG;Q8;Auricular de llamada;Compatible;2,65;;;6
+LG-Q8-FLX-COM;LG;Q8;Flex de encendido y volumen;Compatible;2,49;;;6
+LG-Q8-SIM-COM;LG;Q8;Bandeja SIM;Compatible;2,55;;;6
+LG-Q6-PAN-COM;LG;Q6;Pantalla;Compatible;15,15;14,70;14,24;6
+LG-Q6-BAT-COM;LG;Q6;Batería;Compatible;9,65;;;6
+LG-Q6-CON-COM;LG;Q6;Conector de carga;Compatible;4,60;;;6
+LG-Q6-TAP-COM-NEG;LG;Q6;Tapa trasera;Negro (Astro Black);5,40;;;6
+LG-Q6-TAP-COM-ICE;LG;Q6;Tapa trasera;Ice Platinum;5,40;;;6
+LG-Q6-CTR-COM;LG;Q6;Cámara trasera;Compatible;7,59;;;6
+LG-Q6-CFR-COM;LG;Q6;Cámara frontal;Compatible;4,99;;;6
+LG-Q6-LEN-COM;LG;Q6;Lente de cámara;Compatible;2,19;;;6
+LG-Q6-ALT-COM;LG;Q6;Altavoz;Compatible;3,65;;;6
+LG-Q6-AUR-COM;LG;Q6;Auricular de llamada;Compatible;2,65;;;6
+LG-Q6-FLX-COM;LG;Q6;Flex de encendido y volumen;Compatible;2,49;;;6
+LG-Q6-SIM-COM;LG;Q6;Bandeja SIM;Compatible;2,55;;;6
+LG-V30-PAN-INC;LG;V30;Pantalla;Incell;25,45;24,69;23,92;6
+LG-V30-BAT-COM;LG;V30;Batería;Compatible;9,95;;;6
+LG-V30-CON-COM;LG;V30;Conector de carga;Compatible;5,79;;;6
+LG-V30-TAP-COM-NEG;LG;V30;Tapa trasera;Negro (Aurora Black);6,75;;;6
+LG-V30-TAP-COM-PLA;LG;V30;Tapa trasera;Plata (Cloud Silver);6,75;;;6
+LG-V30-TAP-COM-AZU;LG;V30;Tapa trasera;Azul (Moroccan Blue);6,75;;;6
+LG-V30-TAP-COM-VIO;LG;V30;Tapa trasera;Violeta (Lavender Violet);6,75;;;6
+LG-V30-CTR-COM;LG;V30;Cámara trasera;Compatible;11,55;11,20;10,86;6
+LG-V30-CFR-COM;LG;V30;Cámara frontal;Compatible;6,59;;;6
+LG-V30-LEN-COM;LG;V30;Lente de cámara;Compatible;3,05;;;6
+LG-V30-ALT-COM;LG;V30;Altavoz;Compatible;4,60;;;6
+LG-V30-AUR-COM;LG;V30;Auricular de llamada;Compatible;3,60;;;6
+LG-V30-FLX-COM;LG;V30;Flex de encendido y volumen;Compatible;3,50;;;6
+LG-V30-SIM-COM;LG;V30;Bandeja SIM;Compatible;3,15;;;6
+LG-K11-PAN-COM;LG;K11;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-K11-BAT-COM;LG;K11;Batería;Compatible;8,90;;;6
+LG-K11-CON-COM;LG;K11;Conector de carga;Compatible;3,70;;;6
+LG-K11-TAP-COM-AZU;LG;K11;Tapa trasera;Azul;4,80;;;6
+LG-K11-TAP-COM-DOR;LG;K11;Tapa trasera;Dorado;4,80;;;6
+LG-K11-CTR-COM;LG;K11;Cámara trasera;Compatible;6,65;;;6
+LG-K11-CFR-COM;LG;K11;Cámara frontal;Compatible;4,65;;;6
+LG-K11-LEN-COM;LG;K11;Lente de cámara;Compatible;2,25;;;6
+LG-K11-ALT-COM;LG;K11;Altavoz;Compatible;3,59;;;6
+LG-K11-AUR-COM;LG;K11;Auricular de llamada;Compatible;2,69;;;6
+LG-K11-FLX-COM;LG;K11;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-K11-SIM-COM;LG;K11;Bandeja SIM;Compatible;2,65;;;6
+LG-K9-PAN-COM;LG;K9;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-K9-BAT-COM;LG;K9;Batería;Compatible;8,90;;;6
+LG-K9-CON-COM;LG;K9;Conector de carga;Compatible;3,70;;;6
+LG-K9-TAP-COM-NEG;LG;K9;Tapa trasera;Negro;4,80;;;6
+LG-K9-TAP-COM-AZU;LG;K9;Tapa trasera;Azul;4,80;;;6
+LG-K9-CTR-COM;LG;K9;Cámara trasera;Compatible;6,65;;;6
+LG-K9-CFR-COM;LG;K9;Cámara frontal;Compatible;4,65;;;6
+LG-K9-LEN-COM;LG;K9;Lente de cámara;Compatible;2,25;;;6
+LG-K9-ALT-COM;LG;K9;Altavoz;Compatible;3,59;;;6
+LG-K9-AUR-COM;LG;K9;Auricular de llamada;Compatible;2,69;;;6
+LG-K9-FLX-COM;LG;K9;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-K9-SIM-COM;LG;K9;Bandeja SIM;Compatible;2,65;;;6
+LG-G7T-PAN-COM;LG;G7 ThinQ;Pantalla;Compatible;21,80;21,15;20,49;6
+LG-G7T-BAT-COM;LG;G7 ThinQ;Batería;Compatible;9,95;;;6
+LG-G7T-CON-COM;LG;G7 ThinQ;Conector de carga;Compatible;5,79;;;6
+LG-G7T-TAP-COM-NUE;LG;G7 ThinQ;Tapa trasera;Nuevo Gris Platino;6,75;;;6
+LG-G7T-TAP-COM-NMO;LG;G7 ThinQ;Tapa trasera;Nuevo Moroccan Blue;6,75;;;6
+LG-G7T-CTR-COM;LG;G7 ThinQ;Cámara trasera;Compatible;11,55;11,20;10,86;6
+LG-G7T-CFR-COM;LG;G7 ThinQ;Cámara frontal;Compatible;6,59;;;6
+LG-G7T-LEN-COM;LG;G7 ThinQ;Lente de cámara;Compatible;3,05;;;6
+LG-G7T-ALT-COM;LG;G7 ThinQ;Altavoz;Compatible;4,60;;;6
+LG-G7T-AUR-COM;LG;G7 ThinQ;Auricular de llamada;Compatible;3,60;;;6
+LG-G7T-FLX-COM;LG;G7 ThinQ;Flex de encendido y volumen;Compatible;3,50;;;6
+LG-G7T-SIM-COM;LG;G7 ThinQ;Bandeja SIM;Compatible;3,15;;;6
+LG-QS-PAN-COM;LG;Q Stylus;Pantalla;Compatible;15,15;14,70;14,24;6
+LG-QS-BAT-COM;LG;Q Stylus;Batería;Compatible;9,65;;;6
+LG-QS-CON-COM;LG;Q Stylus;Conector de carga;Compatible;4,60;;;6
+LG-QS-TAP-COM-NEG;LG;Q Stylus;Tapa trasera;Negro (Aurora Black);5,40;;;6
+LG-QS-TAP-COM-AZU;LG;Q Stylus;Tapa trasera;Azul (Moroccan Blue);5,40;;;6
+LG-QS-CTR-COM;LG;Q Stylus;Cámara trasera;Compatible;7,59;;;6
+LG-QS-CFR-COM;LG;Q Stylus;Cámara frontal;Compatible;4,99;;;6
+LG-QS-LEN-COM;LG;Q Stylus;Lente de cámara;Compatible;2,19;;;6
+LG-QS-ALT-COM;LG;Q Stylus;Altavoz;Compatible;3,65;;;6
+LG-QS-AUR-COM;LG;Q Stylus;Auricular de llamada;Compatible;2,65;;;6
+LG-QS-FLX-COM;LG;Q Stylus;Flex de encendido y volumen;Compatible;2,49;;;6
+LG-QS-SIM-COM;LG;Q Stylus;Bandeja SIM;Compatible;2,55;;;6
+LG-Q7-PAN-COM;LG;Q7;Pantalla;Compatible;15,15;14,70;14,24;6
+LG-Q7-BAT-COM;LG;Q7;Batería;Compatible;9,65;;;6
+LG-Q7-CON-COM;LG;Q7;Conector de carga;Compatible;4,60;;;6
+LG-Q7-TAP-COM-NEG;LG;Q7;Tapa trasera;Negro (Aurora Black);5,40;;;6
+LG-Q7-TAP-COM-AZU;LG;Q7;Tapa trasera;Azul (Moroccan Blue);5,40;;;6
+LG-Q7-TAP-COM-VIO;LG;Q7;Tapa trasera;Violeta (Lavender Violet);5,40;;;6
+LG-Q7-CTR-COM;LG;Q7;Cámara trasera;Compatible;7,59;;;6
+LG-Q7-CFR-COM;LG;Q7;Cámara frontal;Compatible;4,99;;;6
+LG-Q7-LEN-COM;LG;Q7;Lente de cámara;Compatible;2,19;;;6
+LG-Q7-ALT-COM;LG;Q7;Altavoz;Compatible;3,65;;;6
+LG-Q7-AUR-COM;LG;Q7;Auricular de llamada;Compatible;2,65;;;6
+LG-Q7-FLX-COM;LG;Q7;Flex de encendido y volumen;Compatible;2,49;;;6
+LG-Q7-SIM-COM;LG;Q7;Bandeja SIM;Compatible;2,55;;;6
+LG-V40T-PAN-INC;LG;V40 ThinQ;Pantalla;Incell;25,45;24,69;23,92;6
+LG-V40T-BAT-COM;LG;V40 ThinQ;Batería;Compatible;9,95;;;6
+LG-V40T-CON-COM;LG;V40 ThinQ;Conector de carga;Compatible;5,79;;;6
+LG-V40T-TAP-COM-NEG;LG;V40 ThinQ;Tapa trasera;Negro (New Aurora Black);6,75;;;6
+LG-V40T-TAP-COM-GRI;LG;V40 ThinQ;Tapa trasera;Gris (New Platinum Gray);6,75;;;6
+LG-V40T-TAP-COM-AZU;LG;V40 ThinQ;Tapa trasera;Azul (New Moroccan Blue);6,75;;;6
+LG-V40T-TAP-COM-ROJ;LG;V40 ThinQ;Tapa trasera;Rojo (Carmine Red);6,75;;;6
+LG-V40T-CTR-COM;LG;V40 ThinQ;Cámara trasera;Compatible;11,55;11,20;10,86;6
+LG-V40T-CFR-COM;LG;V40 ThinQ;Cámara frontal;Compatible;6,59;;;6
+LG-V40T-LEN-COM;LG;V40 ThinQ;Lente de cámara;Compatible;3,05;;;6
+LG-V40T-ALT-COM;LG;V40 ThinQ;Altavoz;Compatible;4,60;;;6
+LG-V40T-AUR-COM;LG;V40 ThinQ;Auricular de llamada;Compatible;3,60;;;6
+LG-V40T-FLX-COM;LG;V40 ThinQ;Flex de encendido y volumen;Compatible;3,50;;;6
+LG-V40T-SIM-COM;LG;V40 ThinQ;Bandeja SIM;Compatible;3,15;;;6
+LG-G7FIT-PAN-COM;LG;G7 Fit;Pantalla;Compatible;21,80;21,15;20,49;6
+LG-G7FIT-BAT-COM;LG;G7 Fit;Batería;Compatible;9,95;;;6
+LG-G7FIT-CON-COM;LG;G7 Fit;Conector de carga;Compatible;5,79;;;6
+LG-G7FIT-TAP-COM-NEG;LG;G7 Fit;Tapa trasera;Negro (New Aurora Black);6,75;;;6
+LG-G7FIT-TAP-COM-GRI;LG;G7 Fit;Tapa trasera;Gris (New Platinum Gray);6,75;;;6
+LG-G7FIT-CTR-COM;LG;G7 Fit;Cámara trasera;Compatible;11,55;11,20;10,86;6
+LG-G7FIT-CFR-COM;LG;G7 Fit;Cámara frontal;Compatible;6,59;;;6
+LG-G7FIT-LEN-COM;LG;G7 Fit;Lente de cámara;Compatible;3,05;;;6
+LG-G7FIT-ALT-COM;LG;G7 Fit;Altavoz;Compatible;4,60;;;6
+LG-G7FIT-AUR-COM;LG;G7 Fit;Auricular de llamada;Compatible;3,60;;;6
+LG-G7FIT-FLX-COM;LG;G7 Fit;Flex de encendido y volumen;Compatible;3,50;;;6
+LG-G7FIT-SIM-COM;LG;G7 Fit;Bandeja SIM;Compatible;3,15;;;6
+LG-K30-PAN-COM;LG;K30;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-K30-BAT-COM;LG;K30;Batería;Compatible;8,90;;;6
+LG-K30-CON-COM;LG;K30;Conector de carga;Compatible;3,70;;;6
+LG-K30-TAP-COM-NEG;LG;K30;Tapa trasera;Negro (Aurora Black);4,80;;;6
+LG-K30-CTR-COM;LG;K30;Cámara trasera;Compatible;6,65;;;6
+LG-K30-CFR-COM;LG;K30;Cámara frontal;Compatible;4,65;;;6
+LG-K30-LEN-COM;LG;K30;Lente de cámara;Compatible;2,25;;;6
+LG-K30-ALT-COM;LG;K30;Altavoz;Compatible;3,59;;;6
+LG-K30-AUR-COM;LG;K30;Auricular de llamada;Compatible;2,69;;;6
+LG-K30-FLX-COM;LG;K30;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-K30-SIM-COM;LG;K30;Bandeja SIM;Compatible;2,65;;;6
+LG-K40-PAN-COM;LG;K40;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-K40-BAT-COM;LG;K40;Batería;Compatible;8,90;;;6
+LG-K40-CON-COM;LG;K40;Conector de carga;Compatible;3,70;;;6
+LG-K40-TAP-COM-AZU;LG;K40;Tapa trasera;Azul;4,80;;;6
+LG-K40-TAP-COM-NEG;LG;K40;Tapa trasera;Negro;4,80;;;6
+LG-K40-CTR-COM;LG;K40;Cámara trasera;Compatible;6,65;;;6
+LG-K40-CFR-COM;LG;K40;Cámara frontal;Compatible;4,65;;;6
+LG-K40-LEN-COM;LG;K40;Lente de cámara;Compatible;2,25;;;6
+LG-K40-ALT-COM;LG;K40;Altavoz;Compatible;3,59;;;6
+LG-K40-AUR-COM;LG;K40;Auricular de llamada;Compatible;2,69;;;6
+LG-K40-FLX-COM;LG;K40;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-K40-SIM-COM;LG;K40;Bandeja SIM;Compatible;2,65;;;6
+LG-Q60-PAN-COM;LG;Q60;Pantalla;Compatible;15,15;14,70;14,24;6
+LG-Q60-BAT-COM;LG;Q60;Batería;Compatible;9,65;;;6
+LG-Q60-CON-COM;LG;Q60;Conector de carga;Compatible;4,60;;;6
+LG-Q60-TAP-COM-AZU;LG;Q60;Tapa trasera;Azul (New Moroccan Blue);5,40;;;6
+LG-Q60-TAP-COM-NEG;LG;Q60;Tapa trasera;Negro (New Aurora Black);5,40;;;6
+LG-Q60-CTR-COM;LG;Q60;Cámara trasera;Compatible;7,59;;;6
+LG-Q60-CFR-COM;LG;Q60;Cámara frontal;Compatible;4,99;;;6
+LG-Q60-LEN-COM;LG;Q60;Lente de cámara;Compatible;2,19;;;6
+LG-Q60-ALT-COM;LG;Q60;Altavoz;Compatible;3,65;;;6
+LG-Q60-AUR-COM;LG;Q60;Auricular de llamada;Compatible;2,65;;;6
+LG-Q60-FLX-COM;LG;Q60;Flex de encendido y volumen;Compatible;2,49;;;6
+LG-Q60-SIM-COM;LG;Q60;Bandeja SIM;Compatible;2,55;;;6
+LG-V50T5-PAN-INC;LG;V50 ThinQ 5G;Pantalla;Incell;25,45;24,69;23,92;6
+LG-V50T5-BAT-COM;LG;V50 ThinQ 5G;Batería;Compatible;9,95;;;6
+LG-V50T5-CON-COM;LG;V50 ThinQ 5G;Conector de carga;Compatible;5,79;;;6
+LG-V50T5-TAP-COM-NEG;LG;V50 ThinQ 5G;Tapa trasera;Negro (Astro Black);6,75;;;6
+LG-V50T5-CTR-COM;LG;V50 ThinQ 5G;Cámara trasera;Compatible;11,55;11,20;10,86;6
+LG-V50T5-CFR-COM;LG;V50 ThinQ 5G;Cámara frontal;Compatible;6,59;;;6
+LG-V50T5-LEN-COM;LG;V50 ThinQ 5G;Lente de cámara;Compatible;3,05;;;6
+LG-V50T5-ALT-COM;LG;V50 ThinQ 5G;Altavoz;Compatible;4,60;;;6
+LG-V50T5-AUR-COM;LG;V50 ThinQ 5G;Auricular de llamada;Compatible;3,60;;;6
+LG-V50T5-FLX-COM;LG;V50 ThinQ 5G;Flex de encendido y volumen;Compatible;3,50;;;6
+LG-V50T5-SIM-COM;LG;V50 ThinQ 5G;Bandeja SIM;Compatible;3,15;;;6
+LG-G8ST-PAN-INC;LG;G8s ThinQ;Pantalla;Incell;25,45;24,69;23,92;6
+LG-G8ST-BAT-COM;LG;G8s ThinQ;Batería;Compatible;9,95;;;6
+LG-G8ST-CON-COM;LG;G8s ThinQ;Conector de carga;Compatible;5,79;;;6
+LG-G8ST-TAP-COM-NEG;LG;G8s ThinQ;Tapa trasera;Negro;6,75;;;6
+LG-G8ST-CTR-COM;LG;G8s ThinQ;Cámara trasera;Compatible;11,55;11,20;10,86;6
+LG-G8ST-CFR-COM;LG;G8s ThinQ;Cámara frontal;Compatible;6,59;;;6
+LG-G8ST-LEN-COM;LG;G8s ThinQ;Lente de cámara;Compatible;3,05;;;6
+LG-G8ST-ALT-COM;LG;G8s ThinQ;Altavoz;Compatible;4,60;;;6
+LG-G8ST-AUR-COM;LG;G8s ThinQ;Auricular de llamada;Compatible;3,60;;;6
+LG-G8ST-FLX-COM;LG;G8s ThinQ;Flex de encendido y volumen;Compatible;3,50;;;6
+LG-G8ST-SIM-COM;LG;G8s ThinQ;Bandeja SIM;Compatible;3,15;;;6
+LG-K50-PAN-COM;LG;K50;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-K50-BAT-COM;LG;K50;Batería;Compatible;8,90;;;6
+LG-K50-CON-COM;LG;K50;Conector de carga;Compatible;3,70;;;6
+LG-K50-TAP-COM-AZU;LG;K50;Tapa trasera;Azul (Moroccan Blue);4,80;;;6
+LG-K50-TAP-COM-NEG;LG;K50;Tapa trasera;Negro (Aurora Black);4,80;;;6
+LG-K50-CTR-COM;LG;K50;Cámara trasera;Compatible;6,65;;;6
+LG-K50-CFR-COM;LG;K50;Cámara frontal;Compatible;4,65;;;6
+LG-K50-LEN-COM;LG;K50;Lente de cámara;Compatible;2,25;;;6
+LG-K50-ALT-COM;LG;K50;Altavoz;Compatible;3,59;;;6
+LG-K50-AUR-COM;LG;K50;Auricular de llamada;Compatible;2,69;;;6
+LG-K50-FLX-COM;LG;K50;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-K50-SIM-COM;LG;K50;Bandeja SIM;Compatible;2,65;;;6
+LG-K40S-PAN-COM;LG;K40S;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-K40S-BAT-COM;LG;K40S;Batería;Compatible;8,90;;;6
+LG-K40S-CON-COM;LG;K40S;Conector de carga;Compatible;3,70;;;6
+LG-K40S-TAP-COM-AZU;LG;K40S;Tapa trasera;Azul;4,80;;;6
+LG-K40S-CTR-COM;LG;K40S;Cámara trasera;Compatible;6,65;;;6
+LG-K40S-CFR-COM;LG;K40S;Cámara frontal;Compatible;4,65;;;6
+LG-K40S-LEN-COM;LG;K40S;Lente de cámara;Compatible;2,25;;;6
+LG-K40S-ALT-COM;LG;K40S;Altavoz;Compatible;3,59;;;6
+LG-K40S-AUR-COM;LG;K40S;Auricular de llamada;Compatible;2,69;;;6
+LG-K40S-FLX-COM;LG;K40S;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-K40S-SIM-COM;LG;K40S;Bandeja SIM;Compatible;2,65;;;6
+LG-K50S-PAN-COM;LG;K50S;Pantalla;Compatible;13,00;12,61;12,22;6
+LG-K50S-BAT-COM;LG;K50S;Batería;Compatible;8,90;;;6
+LG-K50S-CON-COM;LG;K50S;Conector de carga;Compatible;3,70;;;6
+LG-K50S-TAP-COM-NEG;LG;K50S;Tapa trasera;Negro (New Aurora Black);4,80;;;6
+LG-K50S-TAP-COM-AZU;LG;K50S;Tapa trasera;Azul (New Moroccan Blue);4,80;;;6
+LG-K50S-CTR-COM;LG;K50S;Cámara trasera;Compatible;6,65;;;6
+LG-K50S-CFR-COM;LG;K50S;Cámara frontal;Compatible;4,65;;;6
+LG-K50S-LEN-COM;LG;K50S;Lente de cámara;Compatible;2,25;;;6
+LG-K50S-ALT-COM;LG;K50S;Altavoz;Compatible;3,59;;;6
+LG-K50S-AUR-COM;LG;K50S;Auricular de llamada;Compatible;2,69;;;6
+LG-K50S-FLX-COM;LG;K50S;Flex de encendido y volumen;Compatible;2,55;;;6
+LG-K50S-SIM-COM;LG;K50S;Bandeja SIM;Compatible;2,65;;;6
+LG-G8XT-PAN-INC;LG;G8X ThinQ;Pantalla;Incell;25,45;24,69;23,92;6
+LG-G8XT-BAT-COM;LG;G8X ThinQ;Batería;Compatible;9,95;;;6
+LG-G8XT-CON-COM;LG;G8X ThinQ;Conector de carga;Compatible;5,79;;;6
+LG-G8XT-TAP-COM-NEG;LG;G8X ThinQ;Tapa trasera;Negro (Aurora Black);6,75;;;6
+LG-G8XT-CTR-COM;LG;G8X ThinQ;Cámara trasera;Compatible;11,55;11,20;10,86;6
+LG-G8XT-CFR-COM;LG;G8X ThinQ;Cámara frontal;Compatible;6,59;;;6
+LG-G8XT-LEN-COM;LG;G8X ThinQ;Lente de cámara;Compatible;3,05;;;6
+LG-G8XT-ALT-COM;LG;G8X ThinQ;Altavoz;Compatible;4,60;;;6
+LG-G8XT-AUR-COM;LG;G8X ThinQ;Auricular de llamada;Compatible;3,60;;;6
+LG-G8XT-FLX-COM;LG;G8X ThinQ;Flex de encendido y volumen;Compatible;3,50;;;6
+LG-G8XT-SIM-COM;LG;G8X ThinQ;Bandeja SIM;Compatible;3,15;;;6
+LG-K51S-PAN-COM;LG;K51S;Pantalla;Compatible;13,80;13,39;12,97;6
+LG-K51S-BAT-COM;LG;K51S;Batería;Compatible;7,60;;;6
+LG-K51S-CON-COM;LG;K51S;Conector de carga;Compatible;3,55;;;6
+LG-K51S-TAP-COM-ROS;LG;K51S;Tapa trasera;Rosa;4,95;;;6
+LG-K51S-TAP-COM-TIT;LG;K51S;Tapa trasera;Titan;4,95;;;6
+LG-K51S-CTR-COM;LG;K51S;Cámara trasera;Compatible;5,45;;;6
+LG-K51S-CFR-COM;LG;K51S;Cámara frontal;Compatible;3,45;;;6
+LG-K51S-LEN-COM;LG;K51S;Lente de cámara;Compatible;2,25;;;6
+LG-K51S-ALT-COM;LG;K51S;Altavoz;Compatible;3,29;;;6
+LG-K51S-AUR-COM;LG;K51S;Auricular de llamada;Compatible;2,45;;;6
+LG-K51S-FLX-COM;LG;K51S;Flex de encendido y volumen;Compatible;2,35;;;6
+LG-K51S-SIM-COM;LG;K51S;Bandeja SIM;Compatible;2,75;;;6
+LG-V60T5-PAN-INC;LG;V60 ThinQ 5G;Pantalla;Incell;27,00;26,19;25,38;6
+LG-V60T5-BAT-COM;LG;V60 ThinQ 5G;Batería;Compatible;8,50;;;6
+LG-V60T5-CON-COM;LG;V60 ThinQ 5G;Conector de carga;Compatible;5,55;;;6
+LG-V60T5-TAP-COM-AZU;LG;V60 ThinQ 5G;Tapa trasera;Azul (Classy Blue);6,89;;;6
+LG-V60T5-TAP-COM-BLA;LG;V60 ThinQ 5G;Tapa trasera;Blanco (Classy White);6,89;;;6
+LG-V60T5-CTR-COM;LG;V60 ThinQ 5G;Cámara trasera;Compatible;9,40;;;6
+LG-V60T5-CFR-COM;LG;V60 ThinQ 5G;Cámara frontal;Compatible;4,85;;;6
+LG-V60T5-LEN-COM;LG;V60 ThinQ 5G;Lente de cámara;Compatible;3,05;;;6
+LG-V60T5-ALT-COM;LG;V60 ThinQ 5G;Altavoz;Compatible;4,25;;;6
+LG-V60T5-AUR-COM;LG;V60 ThinQ 5G;Auricular de llamada;Compatible;3,25;;;6
+LG-V60T5-FLX-COM;LG;V60 ThinQ 5G;Flex de encendido y volumen;Compatible;3,25;;;6
+LG-V60T5-SIM-COM;LG;V60 ThinQ 5G;Bandeja SIM;Compatible;3,25;;;6
+LG-K41S-PAN-COM;LG;K41S;Pantalla;Compatible;13,80;13,39;12,97;6
+LG-K41S-BAT-COM;LG;K41S;Batería;Compatible;7,60;;;6
+LG-K41S-CON-COM;LG;K41S;Conector de carga;Compatible;3,55;;;6
+LG-K41S-TAP-COM-NEG;LG;K41S;Tapa trasera;Negro;4,95;;;6
+LG-K41S-TAP-COM-TIT;LG;K41S;Tapa trasera;Titan;4,95;;;6
+LG-K41S-CTR-COM;LG;K41S;Cámara trasera;Compatible;5,45;;;6
+LG-K41S-CFR-COM;LG;K41S;Cámara frontal;Compatible;3,45;;;6
+LG-K41S-LEN-COM;LG;K41S;Lente de cámara;Compatible;2,25;;;6
+LG-K41S-ALT-COM;LG;K41S;Altavoz;Compatible;3,29;;;6
+LG-K41S-AUR-COM;LG;K41S;Auricular de llamada;Compatible;2,45;;;6
+LG-K41S-FLX-COM;LG;K41S;Flex de encendido y volumen;Compatible;2,35;;;6
+LG-K41S-SIM-COM;LG;K41S;Bandeja SIM;Compatible;2,75;;;6
+LG-K61-PAN-COM;LG;K61;Pantalla;Compatible;13,80;13,39;12,97;6
+LG-K61-BAT-COM;LG;K61;Batería;Compatible;7,60;;;6
+LG-K61-CON-COM;LG;K61;Conector de carga;Compatible;3,55;;;6
+LG-K61-TAP-COM-TIT;LG;K61;Tapa trasera;Titanio;4,95;;;6
+LG-K61-TAP-COM-BLA;LG;K61;Tapa trasera;Blanco;4,95;;;6
+LG-K61-TAP-COM-AZU;LG;K61;Tapa trasera;Azul;4,95;;;6
+LG-K61-CTR-COM;LG;K61;Cámara trasera;Compatible;5,45;;;6
+LG-K61-CFR-COM;LG;K61;Cámara frontal;Compatible;3,45;;;6
+LG-K61-LEN-COM;LG;K61;Lente de cámara;Compatible;2,25;;;6
+LG-K61-ALT-COM;LG;K61;Altavoz;Compatible;3,29;;;6
+LG-K61-AUR-COM;LG;K61;Auricular de llamada;Compatible;2,45;;;6
+LG-K61-FLX-COM;LG;K61;Flex de encendido y volumen;Compatible;2,35;;;6
+LG-K61-SIM-COM;LG;K61;Bandeja SIM;Compatible;2,75;;;6
+LG-V-PAN-INC;LG;Velvet;Pantalla;Incell;19,25;18,67;18,10;6
+LG-V-BAT-COM;LG;Velvet;Batería;Compatible;8,89;;;6
+LG-V-CON-COM;LG;Velvet;Conector de carga;Compatible;4,10;;;6
+LG-V-TAP-COM-GRI;LG;Velvet;Tapa trasera;Gris (Aurora Gray);5,60;;;6
+LG-V-TAP-COM-VER;LG;Velvet;Tapa trasera;Verde (Aurora Green);5,60;;;6
+LG-V-CTR-COM;LG;Velvet;Cámara trasera;Compatible;7,50;;;6
+LG-V-CFR-COM;LG;Velvet;Cámara frontal;Compatible;3,89;;;6
+LG-V-LEN-COM;LG;Velvet;Lente de cámara;Compatible;2,65;;;6
+LG-V-ALT-COM;LG;Velvet;Altavoz;Compatible;3,70;;;6
+LG-V-AUR-COM;LG;Velvet;Auricular de llamada;Compatible;2,99;;;6
+LG-V-FLX-COM;LG;Velvet;Flex de encendido y volumen;Compatible;2,99;;;6
+LG-V-SIM-COM;LG;Velvet;Bandeja SIM;Compatible;2,99;;;6
+LG-K22-PAN-COM;LG;K22;Pantalla;Compatible;13,80;13,39;12,97;6
+LG-K22-BAT-COM;LG;K22;Batería;Compatible;7,60;;;6
+LG-K22-CON-COM;LG;K22;Conector de carga;Compatible;3,55;;;6
+LG-K22-TAP-COM-TIT;LG;K22;Tapa trasera;Titán;4,95;;;6
+LG-K22-CTR-COM;LG;K22;Cámara trasera;Compatible;5,45;;;6
+LG-K22-CFR-COM;LG;K22;Cámara frontal;Compatible;3,45;;;6
+LG-K22-LEN-COM;LG;K22;Lente de cámara;Compatible;2,25;;;6
+LG-K22-ALT-COM;LG;K22;Altavoz;Compatible;3,29;;;6
+LG-K22-AUR-COM;LG;K22;Auricular de llamada;Compatible;2,45;;;6
+LG-K22-FLX-COM;LG;K22;Flex de encendido y volumen;Compatible;2,35;;;6
+LG-K22-SIM-COM;LG;K22;Bandeja SIM;Compatible;2,75;;;6
+LG-K42-PAN-COM;LG;K42;Pantalla;Compatible;13,80;13,39;12,97;6
+LG-K42-BAT-COM;LG;K42;Batería;Compatible;7,60;;;6
+LG-K42-CON-COM;LG;K42;Conector de carga;Compatible;3,55;;;6
+LG-K42-TAP-COM-VER;LG;K42;Tapa trasera;Verde;4,95;;;6
+LG-K42-TAP-COM-GRI;LG;K42;Tapa trasera;Gris (New Platinum Gray);4,95;;;6
+LG-K42-CTR-COM;LG;K42;Cámara trasera;Compatible;5,45;;;6
+LG-K42-CFR-COM;LG;K42;Cámara frontal;Compatible;3,45;;;6
+LG-K42-LEN-COM;LG;K42;Lente de cámara;Compatible;2,25;;;6
+LG-K42-ALT-COM;LG;K42;Altavoz;Compatible;3,29;;;6
+LG-K42-AUR-COM;LG;K42;Auricular de llamada;Compatible;2,45;;;6
+LG-K42-FLX-COM;LG;K42;Flex de encendido y volumen;Compatible;2,35;;;6
+LG-K42-SIM-COM;LG;K42;Bandeja SIM;Compatible;2,75;;;6
+LG-K52-PAN-COM;LG;K52;Pantalla;Compatible;13,80;13,39;12,97;6
+LG-K52-BAT-COM;LG;K52;Batería;Compatible;7,60;;;6
+LG-K52-CON-COM;LG;K52;Conector de carga;Compatible;3,55;;;6
+LG-K52-TAP-COM-BLA;LG;K52;Tapa trasera;Blanco;4,95;;;6
+LG-K52-TAP-COM-AZU;LG;K52;Tapa trasera;Azul;4,95;;;6
+LG-K52-CTR-COM;LG;K52;Cámara trasera;Compatible;5,45;;;6
+LG-K52-CFR-COM;LG;K52;Cámara frontal;Compatible;3,45;;;6
+LG-K52-LEN-COM;LG;K52;Lente de cámara;Compatible;2,25;;;6
+LG-K52-ALT-COM;LG;K52;Altavoz;Compatible;3,29;;;6
+LG-K52-AUR-COM;LG;K52;Auricular de llamada;Compatible;2,45;;;6
+LG-K52-FLX-COM;LG;K52;Flex de encendido y volumen;Compatible;2,35;;;6
+LG-K52-SIM-COM;LG;K52;Bandeja SIM;Compatible;2,75;;;6
+LG-K62-PAN-COM;LG;K62;Pantalla;Compatible;13,80;13,39;12,97;6
+LG-K62-BAT-COM;LG;K62;Batería;Compatible;7,60;;;6
+LG-K62-CON-COM;LG;K62;Conector de carga;Compatible;3,55;;;6
+LG-K62-TAP-COM-BLA;LG;K62;Tapa trasera;Blanco;4,95;;;6
+LG-K62-TAP-COM-AZU;LG;K62;Tapa trasera;Azul cielo;4,95;;;6
+LG-K62-CTR-COM;LG;K62;Cámara trasera;Compatible;5,45;;;6
+LG-K62-CFR-COM;LG;K62;Cámara frontal;Compatible;3,45;;;6
+LG-K62-LEN-COM;LG;K62;Lente de cámara;Compatible;2,25;;;6
+LG-K62-ALT-COM;LG;K62;Altavoz;Compatible;3,29;;;6
+LG-K62-AUR-COM;LG;K62;Auricular de llamada;Compatible;2,45;;;6
+LG-K62-FLX-COM;LG;K62;Flex de encendido y volumen;Compatible;2,35;;;6
+LG-K62-SIM-COM;LG;K62;Bandeja SIM;Compatible;2,75;;;6
+LG-W-PAN-INC;LG;Wing;Pantalla;Incell;27,00;26,19;25,38;6
+LG-W-BAT-COM;LG;Wing;Batería;Compatible;8,50;;;6
+LG-W-CON-COM;LG;Wing;Conector de carga;Compatible;5,55;;;6
+LG-W-TAP-COM-GRI;LG;Wing;Tapa trasera;Gris (Aurora Gray);6,89;;;6
+LG-W-TAP-COM-ILL;LG;Wing;Tapa trasera;Illusion Sky;6,89;;;6
+LG-W-CTR-COM;LG;Wing;Cámara trasera;Compatible;9,40;;;6
+LG-W-CFR-COM;LG;Wing;Cámara frontal;Compatible;4,85;;;6
+LG-W-LEN-COM;LG;Wing;Lente de cámara;Compatible;3,05;;;6
+LG-W-ALT-COM;LG;Wing;Altavoz;Compatible;4,25;;;6
+LG-W-AUR-COM;LG;Wing;Auricular de llamada;Compatible;3,25;;;6
+LG-W-FLX-COM;LG;Wing;Flex de encendido y volumen;Compatible;3,25;;;6
+LG-W-SIM-COM;LG;Wing;Bandeja SIM;Compatible;3,25;;;6
+LG-W41-PRO-NA;LG;W41;Cristal templado;Estándar;1,30;;;
+LG-W41-PRO-PRI;LG;W41;Cristal templado;Privacidad;4,00;;;
+LG-W41-FUN-SIL;LG;W41;Funda;Silicona;2,50;;;
+LG-W41-FUN-TPU;LG;W41;Funda;Transparente;2,95;;;
+LG-W41-FUN-LIB;LG;W41;Funda;Libro;3,70;;;
+LG-W41-FUN-ANT;LG;W41;Funda;Antigolpes;3,10;;;
+LG-W41PL-PRO-NA;LG;W41+;Cristal templado;Estándar;1,30;;;
+LG-W41PL-PRO-PRI;LG;W41+;Cristal templado;Privacidad;4,00;;;
+LG-W41PL-FUN-SIL;LG;W41+;Funda;Silicona;2,50;;;
+LG-W41PL-FUN-TPU;LG;W41+;Funda;Transparente;2,95;;;
+LG-W41PL-FUN-LIB;LG;W41+;Funda;Libro;3,70;;;
+LG-W41PL-FUN-ANT;LG;W41+;Funda;Antigolpes;3,10;;;
+LG-W41P-PRO-NA;LG;W41 Pro;Cristal templado;Estándar;1,30;;;
+LG-W41P-PRO-PRI;LG;W41 Pro;Cristal templado;Privacidad;4,00;;;
+LG-W41P-FUN-SIL;LG;W41 Pro;Funda;Silicona;2,50;;;
+LG-W41P-FUN-TPU;LG;W41 Pro;Funda;Transparente;2,95;;;
+LG-W41P-FUN-LIB;LG;W41 Pro;Funda;Libro;3,70;;;
+LG-W41P-FUN-ANT;LG;W41 Pro;Funda;Antigolpes;3,10;;;
+LG-W31-PRO-NA;LG;W31;Cristal templado;Estándar;1,30;;;
+LG-W31-PRO-PRI;LG;W31;Cristal templado;Privacidad;4,00;;;
+LG-W31-FUN-SIL;LG;W31;Funda;Silicona;2,50;;;
+LG-W31-FUN-TPU;LG;W31;Funda;Transparente;2,95;;;
+LG-W31-FUN-LIB;LG;W31;Funda;Libro;3,70;;;
+LG-W31-FUN-ANT;LG;W31;Funda;Antigolpes;3,10;;;
+LG-W31PL-PRO-NA;LG;W31+;Cristal templado;Estándar;1,30;;;
+LG-W31PL-PRO-PRI;LG;W31+;Cristal templado;Privacidad;4,00;;;
+LG-W31PL-FUN-SIL;LG;W31+;Funda;Silicona;2,50;;;
+LG-W31PL-FUN-TPU;LG;W31+;Funda;Transparente;2,95;;;
+LG-W31PL-FUN-LIB;LG;W31+;Funda;Libro;3,70;;;
+LG-W31PL-FUN-ANT;LG;W31+;Funda;Antigolpes;3,10;;;
+LG-K925-PRO-NA;LG;K92 5G;Cristal templado;Estándar;1,30;;;
+LG-K925-PRO-PRI;LG;K92 5G;Cristal templado;Privacidad;4,00;;;
+LG-K925-FUN-SIL;LG;K92 5G;Funda;Silicona;2,50;;;
+LG-K925-FUN-TPU;LG;K92 5G;Funda;Transparente;2,95;;;
+LG-K925-FUN-LIB;LG;K92 5G;Funda;Libro;3,70;;;
+LG-K925-FUN-ANT;LG;K92 5G;Funda;Antigolpes;3,10;;;
+LG-Q52-PRO-NA;LG;Q52;Cristal templado;Estándar;1,30;;;
+LG-Q52-PRO-PRI;LG;Q52;Cristal templado;Privacidad;4,00;;;
+LG-Q52-FUN-SIL;LG;Q52;Funda;Silicona;2,50;;;
+LG-Q52-FUN-TPU;LG;Q52;Funda;Transparente;2,95;;;
+LG-Q52-FUN-LIB;LG;Q52;Funda;Libro;3,70;;;
+LG-Q52-FUN-ANT;LG;Q52;Funda;Antigolpes;3,10;;;
+LG-K92-PRO-NA;LG;K92;Cristal templado;Estándar;1,30;;;
+LG-K92-PRO-PRI;LG;K92;Cristal templado;Privacidad;4,00;;;
+LG-K92-FUN-SIL;LG;K92;Funda;Silicona;2,50;;;
+LG-K92-FUN-TPU;LG;K92;Funda;Transparente;2,95;;;
+LG-K92-FUN-LIB;LG;K92;Funda;Libro;3,70;;;
+LG-K92-FUN-ANT;LG;K92;Funda;Antigolpes;3,10;;;
+LG-K92-PCA-NA;LG;K92;Protector de cámara;Cristal;2,90;;;
+LG-Q31-PRO-NA;LG;Q31;Cristal templado;Estándar;1,30;;;
+LG-Q31-PRO-PRI;LG;Q31;Cristal templado;Privacidad;4,00;;;
+LG-Q31-FUN-SIL;LG;Q31;Funda;Silicona;2,50;;;
+LG-Q31-FUN-TPU;LG;Q31;Funda;Transparente;2,95;;;
+LG-Q31-FUN-LIB;LG;Q31;Funda;Libro;3,70;;;
+LG-Q31-FUN-ANT;LG;Q31;Funda;Antigolpes;3,10;;;
+LG-K31-PRO-NA;LG;K31;Cristal templado;Estándar;1,30;;;
+LG-K31-PRO-PRI;LG;K31;Cristal templado;Privacidad;4,00;;;
+LG-K31-FUN-SIL;LG;K31;Funda;Silicona;2,50;;;
+LG-K31-FUN-TPU;LG;K31;Funda;Transparente;2,95;;;
+LG-K31-FUN-LIB;LG;K31;Funda;Libro;3,70;;;
+LG-K31-FUN-ANT;LG;K31;Funda;Antigolpes;3,10;;;
+LG-Q925-PRO-NA;LG;Q92 5G;Cristal templado;Estándar;1,30;;;
+LG-Q925-PRO-PRI;LG;Q92 5G;Cristal templado;Privacidad;4,00;;;
+LG-Q925-FUN-SIL;LG;Q92 5G;Funda;Silicona;2,50;;;
+LG-Q925-FUN-TPU;LG;Q92 5G;Funda;Transparente;2,95;;;
+LG-Q925-FUN-LIB;LG;Q92 5G;Funda;Libro;3,70;;;
+LG-Q925-FUN-ANT;LG;Q92 5G;Funda;Antigolpes;3,10;;;
+LG-S6-PRO-NA;LG;Stylo 6;Cristal templado;Estándar;1,30;;;
+LG-S6-PRO-PRI;LG;Stylo 6;Cristal templado;Privacidad;4,00;;;
+LG-S6-FUN-SIL;LG;Stylo 6;Funda;Silicona;2,50;;;
+LG-S6-FUN-TPU;LG;Stylo 6;Funda;Transparente;2,95;;;
+LG-S6-FUN-LIB;LG;Stylo 6;Funda;Libro;3,70;;;
+LG-S6-FUN-ANT;LG;Stylo 6;Funda;Antigolpes;3,10;;;
+LG-F2-PRO-NA;LG;Folder 2;Cristal templado;Estándar;1,30;;;
+LG-F2-PRO-PRI;LG;Folder 2;Cristal templado;Privacidad;4,00;;;
+LG-F2-FUN-SIL;LG;Folder 2;Funda;Silicona;2,50;;;
+LG-F2-FUN-TPU;LG;Folder 2;Funda;Transparente;2,95;;;
+LG-F2-FUN-LIB;LG;Folder 2;Funda;Libro;3,70;;;
+LG-F2-FUN-ANT;LG;Folder 2;Funda;Antigolpes;3,10;;;
+LG-Q51-PRO-NA;LG;Q51;Cristal templado;Estándar;1,30;;;
+LG-Q51-PRO-PRI;LG;Q51;Cristal templado;Privacidad;4,00;;;
+LG-Q51-FUN-SIL;LG;Q51;Funda;Silicona;2,50;;;
+LG-Q51-FUN-TPU;LG;Q51;Funda;Transparente;2,95;;;
+LG-Q51-FUN-LIB;LG;Q51;Funda;Libro;3,70;;;
+LG-Q51-FUN-ANT;LG;Q51;Funda;Antigolpes;3,10;;;
+LG-W10A-PRO-NA;LG;W10 Alpha;Cristal templado;Estándar;1,30;;;
+LG-W10A-PRO-PRI;LG;W10 Alpha;Cristal templado;Privacidad;4,00;;;
+LG-W10A-FUN-SIL;LG;W10 Alpha;Funda;Silicona;2,50;;;
+LG-W10A-FUN-TPU;LG;W10 Alpha;Funda;Transparente;2,95;;;
+LG-W10A-FUN-LIB;LG;W10 Alpha;Funda;Libro;3,70;;;
+LG-W10A-FUN-ANT;LG;W10 Alpha;Funda;Antigolpes;3,10;;;
+LG-W30P-PRO-NA;LG;W30 Pro;Cristal templado;Estándar;1,30;;;
+LG-W30P-PRO-PRI;LG;W30 Pro;Cristal templado;Privacidad;4,00;;;
+LG-W30P-FUN-SIL;LG;W30 Pro;Funda;Silicona;2,50;;;
+LG-W30P-FUN-TPU;LG;W30 Pro;Funda;Transparente;2,95;;;
+LG-W30P-FUN-LIB;LG;W30 Pro;Funda;Libro;3,70;;;
+LG-W30P-FUN-ANT;LG;W30 Pro;Funda;Antigolpes;3,10;;;
+LG-W10-PRO-NA;LG;W10;Cristal templado;Estándar;1,30;;;
+LG-W10-PRO-PRI;LG;W10;Cristal templado;Privacidad;4,00;;;
+LG-W10-FUN-SIL;LG;W10;Funda;Silicona;2,50;;;
+LG-W10-FUN-TPU;LG;W10;Funda;Transparente;2,95;;;
+LG-W10-FUN-LIB;LG;W10;Funda;Libro;3,70;;;
+LG-W10-FUN-ANT;LG;W10;Funda;Antigolpes;3,10;;;
+LG-W10-PCA-NA;LG;W10;Protector de cámara;Cristal;2,90;;;
+LG-S5-PRO-NA;LG;Stylo 5;Cristal templado;Estándar;1,30;;;
+LG-S5-PRO-PRI;LG;Stylo 5;Cristal templado;Privacidad;4,00;;;
+LG-S5-FUN-SIL;LG;Stylo 5;Funda;Silicona;2,50;;;
+LG-S5-FUN-TPU;LG;Stylo 5;Funda;Transparente;2,95;;;
+LG-S5-FUN-LIB;LG;Stylo 5;Funda;Libro;3,70;;;
+LG-S5-FUN-ANT;LG;Stylo 5;Funda;Antigolpes;3,10;;;
+LG-G8T-PRO-NA;LG;G8 ThinQ;Cristal templado;Estándar;1,30;;;
+LG-G8T-PRO-NA-FG;LG;G8 ThinQ;Cristal templado;UV full glue;4,15;;;
+LG-G8T-PRO-PRI;LG;G8 ThinQ;Cristal templado;Privacidad;4,00;;;
+LG-G8T-FUN-SIL;LG;G8 ThinQ;Funda;Silicona;2,50;;;
+LG-G8T-FUN-TPU;LG;G8 ThinQ;Funda;Transparente;2,95;;;
+LG-G8T-FUN-LIB;LG;G8 ThinQ;Funda;Libro;3,70;;;
+LG-G8T-FUN-ANT;LG;G8 ThinQ;Funda;Antigolpes;3,10;;;
+LG-V35T-PRO-NA;LG;V35 ThinQ;Cristal templado;Estándar;1,30;;;
+LG-V35T-PRO-NA-FG;LG;V35 ThinQ;Cristal templado;UV full glue;4,15;;;
+LG-V35T-PRO-PRI;LG;V35 ThinQ;Cristal templado;Privacidad;4,00;;;
+LG-V35T-FUN-SIL;LG;V35 ThinQ;Funda;Silicona;2,50;;;
+LG-V35T-FUN-TPU;LG;V35 ThinQ;Funda;Transparente;2,95;;;
+LG-V35T-FUN-LIB;LG;V35 ThinQ;Funda;Libro;3,70;;;
+LG-V35T-FUN-ANT;LG;V35 ThinQ;Funda;Antigolpes;3,10;;;
+LG-IV30PLLG-PRO-NA;LG;Isai V30+ LGV35;Cristal templado;Estándar;1,30;;;
+LG-IV30PLLG-PRO-PRI;LG;Isai V30+ LGV35;Cristal templado;Privacidad;4,00;;;
+LG-IV30PLLG-FUN-SIL;LG;Isai V30+ LGV35;Funda;Silicona;2,50;;;
+LG-IV30PLLG-FUN-TPU;LG;Isai V30+ LGV35;Funda;Transparente;2,95;;;
+LG-IV30PLLG-FUN-LIB;LG;Isai V30+ LGV35;Funda;Libro;3,70;;;
+LG-IV30PLLG-FUN-ANT;LG;Isai V30+ LGV35;Funda;Antigolpes;3,10;;;
+LG-F-PRO-NA;LG;Fiesta;Cristal templado;Estándar;1,30;;;
+LG-F-PRO-PRI;LG;Fiesta;Cristal templado;Privacidad;4,00;;;
+LG-F-FUN-SIL;LG;Fiesta;Funda;Silicona;2,50;;;
+LG-F-FUN-TPU;LG;Fiesta;Funda;Transparente;2,95;;;
+LG-F-FUN-LIB;LG;Fiesta;Funda;Libro;3,70;;;
+LG-F-FUN-ANT;LG;Fiesta;Funda;Antigolpes;3,10;;;
+LG-K20PL-PRO-NA;LG;K20+;Cristal templado;Estándar;1,30;;;
+LG-K20PL-PRO-PRI;LG;K20+;Cristal templado;Privacidad;4,00;;;
+LG-K20PL-FUN-SIL;LG;K20+;Funda;Silicona;2,50;;;
+LG-K20PL-FUN-TPU;LG;K20+;Funda;Transparente;2,95;;;
+LG-K20PL-FUN-LIB;LG;K20+;Funda;Libro;3,70;;;
+LG-K20PL-FUN-ANT;LG;K20+;Funda;Antigolpes;3,10;;;
+LG-IB-PRO-NA;LG;isai Beat;Cristal templado;Estándar;1,30;;;
+LG-IB-PRO-PRI;LG;isai Beat;Cristal templado;Privacidad;4,00;;;
+LG-IB-FUN-SIL;LG;isai Beat;Funda;Silicona;2,50;;;
+LG-IB-FUN-TPU;LG;isai Beat;Funda;Transparente;2,95;;;
+LG-IB-FUN-LIB;LG;isai Beat;Funda;Libro;3,70;;;
+LG-IB-FUN-ANT;LG;isai Beat;Funda;Antigolpes;3,10;;;
+LG-V20-PRO-NA;LG;V20;Cristal templado;Estándar;1,30;;;
+LG-V20-PRO-NA-FG;LG;V20;Cristal templado;UV full glue;4,15;;;
+LG-V20-PRO-PRI;LG;V20;Cristal templado;Privacidad;4,00;;;
+LG-V20-FUN-SIL;LG;V20;Funda;Silicona;2,50;;;
+LG-V20-FUN-TPU;LG;V20;Funda;Transparente;2,95;;;
+LG-V20-FUN-LIB;LG;V20;Funda;Libro;3,70;;;
+LG-V20-FUN-ANT;LG;V20;Funda;Antigolpes;3,10;;;
+LG-QUAPPX-PRO-NA;LG;Qua phone PX;Cristal templado;Estándar;1,30;;;
+LG-QUAPPX-PRO-PRI;LG;Qua phone PX;Cristal templado;Privacidad;4,00;;;
+LG-QUAPPX-FUN-SIL;LG;Qua phone PX;Funda;Silicona;2,50;;;
+LG-QUAPPX-FUN-TPU;LG;Qua phone PX;Funda;Transparente;2,95;;;
+LG-QUAPPX-FUN-LIB;LG;Qua phone PX;Funda;Libro;3,70;;;
+LG-QUAPPX-FUN-ANT;LG;Qua phone PX;Funda;Antigolpes;3,10;;;
+LG-K7-PRO-NA;LG;K7;Cristal templado;Estándar;1,30;;;
+LG-K7-PRO-PRI;LG;K7;Cristal templado;Privacidad;4,00;;;
+LG-K7-FUN-SIL;LG;K7;Funda;Silicona;2,50;;;
+LG-K7-FUN-TPU;LG;K7;Funda;Transparente;2,95;;;
+LG-K7-FUN-LIB;LG;K7;Funda;Libro;3,70;;;
+LG-K7-FUN-ANT;LG;K7;Funda;Antigolpes;3,10;;;
+LG-LANCET-PRO-NA;LG;Lancet;Cristal templado;Estándar;1,30;;;
+LG-LANCET-PRO-PRI;LG;Lancet;Cristal templado;Privacidad;4,00;;;
+LG-LANCET-FUN-SIL;LG;Lancet;Funda;Silicona;2,50;;;
+LG-LANCET-FUN-TPU;LG;Lancet;Funda;Transparente;2,95;;;
+LG-LANCET-FUN-LIB;LG;Lancet;Funda;Libro;3,70;;;
+LG-LANCET-FUN-ANT;LG;Lancet;Funda;Antigolpes;3,10;;;
+LG-GF2-PRO-NA;LG;G Flex 2;Cristal templado;Estándar;1,30;;;
+LG-GF2-PRO-PRI;LG;G Flex 2;Cristal templado;Privacidad;4,00;;;
+LG-GF2-FUN-SIL;LG;G Flex 2;Funda;Silicona;2,50;;;
+LG-GF2-FUN-TPU;LG;G Flex 2;Funda;Transparente;2,95;;;
+LG-GF2-FUN-LIB;LG;G Flex 2;Funda;Libro;3,70;;;
+LG-GF2-FUN-ANT;LG;G Flex 2;Funda;Antigolpes;3,10;;;
+LG-IVLLGV31-PRO-NA;LG;Isai VL LGV31;Cristal templado;Estándar;1,30;;;
+LG-IVLLGV31-PRO-PRI;LG;Isai VL LGV31;Cristal templado;Privacidad;4,00;;;
+LG-IVLLGV31-FUN-SIL;LG;Isai VL LGV31;Funda;Silicona;2,50;;;
+LG-IVLLGV31-FUN-TPU;LG;Isai VL LGV31;Funda;Transparente;2,95;;;
+LG-IVLLGV31-FUN-LIB;LG;Isai VL LGV31;Funda;Libro;3,70;;;
+LG-IVLLGV31-FUN-ANT;LG;Isai VL LGV31;Funda;Antigolpes;3,10;;;
+LG-L-PRO-NA;LG;Leon;Cristal templado;Estándar;1,30;;;
+LG-L-PRO-PRI;LG;Leon;Cristal templado;Privacidad;4,00;;;
+LG-L-FUN-SIL;LG;Leon;Funda;Silicona;2,50;;;
+LG-L-FUN-TPU;LG;Leon;Funda;Transparente;2,95;;;
+LG-L-FUN-LIB;LG;Leon;Funda;Libro;3,70;;;
+LG-L-FUN-ANT;LG;Leon;Funda;Antigolpes;3,10;;;
+LG-F60-PRO-NA;LG;F60;Cristal templado;Estándar;1,30;;;
+LG-F60-PRO-PRI;LG;F60;Cristal templado;Privacidad;4,00;;;
+LG-F60-FUN-SIL;LG;F60;Funda;Silicona;2,50;;;
+LG-F60-FUN-TPU;LG;F60;Funda;Transparente;2,95;;;
+LG-F60-FUN-LIB;LG;F60;Funda;Libro;3,70;;;
+LG-F60-FUN-ANT;LG;F60;Funda;Antigolpes;3,10;;;
+LG-G3S-PRO-NA;LG;G3 Stylus;Cristal templado;Estándar;1,30;;;
+LG-G3S-PRO-NA-FG;LG;G3 Stylus;Cristal templado;UV full glue;4,15;;;
+LG-G3S-PRO-PRI;LG;G3 Stylus;Cristal templado;Privacidad;4,00;;;
+LG-G3S-FUN-SIL;LG;G3 Stylus;Funda;Silicona;2,50;;;
+LG-G3S-FUN-TPU;LG;G3 Stylus;Funda;Transparente;2,95;;;
+LG-G3S-FUN-LIB;LG;G3 Stylus;Funda;Libro;3,70;;;
+LG-G3S-FUN-ANT;LG;G3 Stylus;Funda;Antigolpes;3,10;;;
+LG-G3-PRO-NA;LG;G3;Cristal templado;Estándar;1,30;;;
+LG-G3-PRO-NA-FG;LG;G3;Cristal templado;UV full glue;4,15;;;
+LG-G3-PRO-PRI;LG;G3;Cristal templado;Privacidad;4,00;;;
+LG-G3-FUN-SIL;LG;G3;Funda;Silicona;2,50;;;
+LG-G3-FUN-TPU;LG;G3;Funda;Transparente;2,95;;;
+LG-G3-FUN-LIB;LG;G3;Funda;Libro;3,70;;;
+LG-G3-FUN-ANT;LG;G3;Funda;Antigolpes;3,10;;;
+LG-G2MN-PRO-NA;LG;G2 Mini;Cristal templado;Estándar;1,30;;;
+LG-G2MN-PRO-NA-FG;LG;G2 Mini;Cristal templado;UV full glue;4,15;;;
+LG-G2MN-PRO-PRI;LG;G2 Mini;Cristal templado;Privacidad;4,00;;;
+LG-G2MN-FUN-SIL;LG;G2 Mini;Funda;Silicona;2,50;;;
+LG-G2MN-FUN-TPU;LG;G2 Mini;Funda;Transparente;2,95;;;
+LG-G2MN-FUN-LIB;LG;G2 Mini;Funda;Libro;3,70;;;
+LG-G2MN-FUN-ANT;LG;G2 Mini;Funda;Antigolpes;3,10;;;
+LG-GP2-PRO-NA;LG;G Pro 2;Cristal templado;Estándar;1,30;;;
+LG-GP2-PRO-PRI;LG;G Pro 2;Cristal templado;Privacidad;4,00;;;
+LG-GP2-FUN-SIL;LG;G Pro 2;Funda;Silicona;2,50;;;
+LG-GP2-FUN-TPU;LG;G Pro 2;Funda;Transparente;2,95;;;
+LG-GP2-FUN-LIB;LG;G Pro 2;Funda;Libro;3,70;;;
+LG-GP2-FUN-ANT;LG;G Pro 2;Funda;Antigolpes;3,10;;;
+LG-OL70-PRO-NA;LG;Optimus L70;Cristal templado;Estándar;1,30;;;
+LG-OL70-PRO-PRI;LG;Optimus L70;Cristal templado;Privacidad;4,00;;;
+LG-OL70-FUN-SIL;LG;Optimus L70;Funda;Silicona;2,50;;;
+LG-OL70-FUN-TPU;LG;Optimus L70;Funda;Transparente;2,95;;;
+LG-OL70-FUN-LIB;LG;Optimus L70;Funda;Libro;3,70;;;
+LG-OL70-FUN-ANT;LG;Optimus L70;Funda;Antigolpes;3,10;;;
+LG-GX-PRO-NA;LG;Gx;Cristal templado;Estándar;1,30;;;
+LG-GX-PRO-PRI;LG;Gx;Cristal templado;Privacidad;4,00;;;
+LG-GX-FUN-SIL;LG;Gx;Funda;Silicona;2,50;;;
+LG-GX-FUN-TPU;LG;Gx;Funda;Transparente;2,95;;;
+LG-GX-FUN-LIB;LG;Gx;Funda;Libro;3,70;;;
+LG-GX-FUN-ANT;LG;Gx;Funda;Antigolpes;3,10;;;
+LG-GF-PRO-NA;LG;G Flex;Cristal templado;Estándar;1,30;;;
+LG-GF-PRO-PRI;LG;G Flex;Cristal templado;Privacidad;4,00;;;
+LG-GF-FUN-SIL;LG;G Flex;Funda;Silicona;2,50;;;
+LG-GF-FUN-TPU;LG;G Flex;Funda;Transparente;2,95;;;
+LG-GF-FUN-LIB;LG;G Flex;Funda;Libro;3,70;;;
+LG-GF-FUN-ANT;LG;G Flex;Funda;Antigolpes;3,10;;;
+LG-GPL-PRO-NA;LG;G Pro Lite;Cristal templado;Estándar;1,30;;;
+LG-GPL-PRO-PRI;LG;G Pro Lite;Cristal templado;Privacidad;4,00;;;
+LG-GPL-FUN-SIL;LG;G Pro Lite;Funda;Silicona;2,50;;;
+LG-GPL-FUN-TPU;LG;G Pro Lite;Funda;Transparente;2,95;;;
+LG-GPL-FUN-LIB;LG;G Pro Lite;Funda;Libro;3,70;;;
+LG-GPL-FUN-ANT;LG;G Pro Lite;Funda;Antigolpes;3,10;;;
+LG-G2-PRO-NA;LG;G2;Cristal templado;Estándar;1,30;;;
+LG-G2-PRO-NA-FG;LG;G2;Cristal templado;UV full glue;4,15;;;
+LG-G2-PRO-PRI;LG;G2;Cristal templado;Privacidad;4,00;;;
+LG-G2-FUN-SIL;LG;G2;Funda;Silicona;2,50;;;
+LG-G2-FUN-TPU;LG;G2;Funda;Transparente;2,95;;;
+LG-G2-FUN-LIB;LG;G2;Funda;Libro;3,70;;;
+LG-G2-FUN-ANT;LG;G2;Funda;Antigolpes;3,10;;;
+LG-VU3-PRO-NA;LG;Vu 3;Cristal templado;Estándar;1,30;;;
+LG-VU3-PRO-PRI;LG;Vu 3;Cristal templado;Privacidad;4,00;;;
+LG-VU3-FUN-SIL;LG;Vu 3;Funda;Silicona;2,50;;;
+LG-VU3-FUN-TPU;LG;Vu 3;Funda;Transparente;2,95;;;
+LG-VU3-FUN-LIB;LG;Vu 3;Funda;Libro;3,70;;;
+LG-VU3-FUN-ANT;LG;Vu 3;Funda;Antigolpes;3,10;;;
+LG-EII-PRO-NA;LG;Envoy II;Cristal templado;Estándar;1,30;;;
+LG-EII-FUN-SIL;LG;Envoy II;Funda;Silicona;2,50;;;
+LG-EII-FUN-TPU;LG;Envoy II;Funda;Transparente;2,95;;;
+LG-C3-PRO-NA;LG;Cosmos 3;Cristal templado;Estándar;1,30;;;
+LG-C3-PRO-PRI;LG;Cosmos 3;Cristal templado;Privacidad;4,00;;;
+LG-C3-FUN-SIL;LG;Cosmos 3;Funda;Silicona;2,50;;;
+LG-C3-FUN-TPU;LG;Cosmos 3;Funda;Transparente;2,95;;;
+LG-C3-FUN-LIB;LG;Cosmos 3;Funda;Libro;3,70;;;
+LG-C3-FUN-ANT;LG;Cosmos 3;Funda;Antigolpes;3,10;;;
+LG-OGP-PRO-NA;LG;Optimus G Pro;Cristal templado;Estándar;1,30;;;
+LG-OGP-PRO-PRI;LG;Optimus G Pro;Cristal templado;Privacidad;4,00;;;
+LG-OGP-FUN-SIL;LG;Optimus G Pro;Funda;Silicona;2,50;;;
+LG-OGP-FUN-TPU;LG;Optimus G Pro;Funda;Transparente;2,95;;;
+LG-OGP-FUN-LIB;LG;Optimus G Pro;Funda;Libro;3,70;;;
+LG-OGP-FUN-ANT;LG;Optimus G Pro;Funda;Antigolpes;3,10;;;
+LG-OL5II-PRO-NA;LG;Optimus L5 II;Cristal templado;Estándar;1,30;;;
+LG-OL5II-PRO-PRI;LG;Optimus L5 II;Cristal templado;Privacidad;4,00;;;
+LG-OL5II-FUN-SIL;LG;Optimus L5 II;Funda;Silicona;2,50;;;
+LG-OL5II-FUN-TPU;LG;Optimus L5 II;Funda;Transparente;2,95;;;
+LG-OL5II-FUN-LIB;LG;Optimus L5 II;Funda;Libro;3,70;;;
+LG-OL5II-FUN-ANT;LG;Optimus L5 II;Funda;Antigolpes;3,10;;;
+LG-LF-PRO-NA;LG;L Fino;Cristal templado;Estándar;1,30;;;
+LG-LF-PRO-PRI;LG;L Fino;Cristal templado;Privacidad;4,00;;;
+LG-LF-FUN-SIL;LG;L Fino;Funda;Silicona;2,50;;;
+LG-LF-FUN-TPU;LG;L Fino;Funda;Transparente;2,95;;;
+LG-LF-FUN-LIB;LG;L Fino;Funda;Libro;3,70;;;
+LG-LF-FUN-ANT;LG;L Fino;Funda;Antigolpes;3,10;;;
+LG-OL4II-PRO-NA;LG;Optimus L4 II;Cristal templado;Estándar;1,30;;;
+LG-OL4II-PRO-PRI;LG;Optimus L4 II;Cristal templado;Privacidad;4,00;;;
+LG-OL4II-FUN-SIL;LG;Optimus L4 II;Funda;Silicona;2,50;;;
+LG-OL4II-FUN-TPU;LG;Optimus L4 II;Funda;Transparente;2,95;;;
+LG-OL4II-FUN-LIB;LG;Optimus L4 II;Funda;Libro;3,70;;;
+LG-OL4II-FUN-ANT;LG;Optimus L4 II;Funda;Antigolpes;3,10;;;
+LG-OL9-PRO-NA;LG;Optimus L9;Cristal templado;Estándar;1,30;;;
+LG-OL9-PRO-PRI;LG;Optimus L9;Cristal templado;Privacidad;4,00;;;
+LG-OL9-FUN-SIL;LG;Optimus L9;Funda;Silicona;2,50;;;
+LG-OL9-FUN-TPU;LG;Optimus L9;Funda;Transparente;2,95;;;
+LG-OL9-FUN-LIB;LG;Optimus L9;Funda;Libro;3,70;;;
+LG-OL9-FUN-ANT;LG;Optimus L9;Funda;Antigolpes;3,10;;;
+LG-OG-PRO-NA;LG;Optimus G;Cristal templado;Estándar;1,30;;;
+LG-OG-PRO-PRI;LG;Optimus G;Cristal templado;Privacidad;4,00;;;
+LG-OG-FUN-SIL;LG;Optimus G;Funda;Silicona;2,50;;;
+LG-OG-FUN-TPU;LG;Optimus G;Funda;Transparente;2,95;;;
+LG-OG-FUN-LIB;LG;Optimus G;Funda;Libro;3,70;;;
+LG-OG-FUN-ANT;LG;Optimus G;Funda;Antigolpes;3,10;;;
+LG-I-PRO-NA;LG;Intuition;Cristal templado;Estándar;1,30;;;
+LG-I-PRO-PRI;LG;Intuition;Cristal templado;Privacidad;4,00;;;
+LG-I-FUN-SIL;LG;Intuition;Funda;Silicona;2,50;;;
+LG-I-FUN-TPU;LG;Intuition;Funda;Transparente;2,95;;;
+LG-I-FUN-LIB;LG;Intuition;Funda;Libro;3,70;;;
+LG-I-FUN-ANT;LG;Intuition;Funda;Antigolpes;3,10;;;
+LG-OVUII-PRO-NA;LG;Optimus Vu II;Cristal templado;Estándar;1,30;;;
+LG-OVUII-PRO-PRI;LG;Optimus Vu II;Cristal templado;Privacidad;4,00;;;
+LG-OVUII-FUN-SIL;LG;Optimus Vu II;Funda;Silicona;2,50;;;
+LG-OVUII-FUN-TPU;LG;Optimus Vu II;Funda;Transparente;2,95;;;
+LG-OVUII-FUN-LIB;LG;Optimus Vu II;Funda;Libro;3,70;;;
+LG-OVUII-FUN-ANT;LG;Optimus Vu II;Funda;Antigolpes;3,10;;;
+LG-OL2-PRO-NA;LG;Optimus L2;Cristal templado;Estándar;1,30;;;
+LG-OL2-PRO-PRI;LG;Optimus L2;Cristal templado;Privacidad;4,00;;;
+LG-OL2-FUN-SIL;LG;Optimus L2;Funda;Silicona;2,50;;;
+LG-OL2-FUN-TPU;LG;Optimus L2;Funda;Transparente;2,95;;;
+LG-OL2-FUN-LIB;LG;Optimus L2;Funda;Libro;3,70;;;
+LG-OL2-FUN-ANT;LG;Optimus L2;Funda;Antigolpes;3,10;;;
+LG-OL7-PRO-NA;LG;Optimus L7;Cristal templado;Estándar;1,30;;;
+LG-OL7-PRO-PRI;LG;Optimus L7;Cristal templado;Privacidad;4,00;;;
+LG-OL7-FUN-SIL;LG;Optimus L7;Funda;Silicona;2,50;;;
+LG-OL7-FUN-TPU;LG;Optimus L7;Funda;Transparente;2,95;;;
+LG-OL7-FUN-LIB;LG;Optimus L7;Funda;Libro;3,70;;;
+LG-OL7-FUN-ANT;LG;Optimus L7;Funda;Antigolpes;3,10;;;
+LG-O4XHD-PRO-NA;LG;Optimus 4X HD;Cristal templado;Estándar;1,30;;;
+LG-O4XHD-PRO-PRI;LG;Optimus 4X HD;Cristal templado;Privacidad;4,00;;;
+LG-O4XHD-FUN-SIL;LG;Optimus 4X HD;Funda;Silicona;2,50;;;
+LG-O4XHD-FUN-TPU;LG;Optimus 4X HD;Funda;Transparente;2,95;;;
+LG-O4XHD-FUN-LIB;LG;Optimus 4X HD;Funda;Libro;3,70;;;
+LG-O4XHD-FUN-ANT;LG;Optimus 4X HD;Funda;Antigolpes;3,10;;;
+LG-OL5-PRO-NA;LG;Optimus L5;Cristal templado;Estándar;1,30;;;
+LG-OL5-PRO-PRI;LG;Optimus L5;Cristal templado;Privacidad;4,00;;;
+LG-OL5-FUN-SIL;LG;Optimus L5;Funda;Silicona;2,50;;;
+LG-OL5-FUN-TPU;LG;Optimus L5;Funda;Transparente;2,95;;;
+LG-OL5-FUN-LIB;LG;Optimus L5;Funda;Libro;3,70;;;
+LG-OL5-FUN-ANT;LG;Optimus L5;Funda;Antigolpes;3,10;;;
+LG-T385-PRO-NA;LG;T385;Cristal templado;Estándar;1,30;;;
+LG-T385-PRO-PRI;LG;T385;Cristal templado;Privacidad;4,00;;;
+LG-T385-FUN-SIL;LG;T385;Funda;Silicona;2,50;;;
+LG-T385-FUN-TPU;LG;T385;Funda;Transparente;2,95;;;
+LG-T385-FUN-LIB;LG;T385;Funda;Libro;3,70;;;
+LG-T385-FUN-ANT;LG;T385;Funda;Antigolpes;3,10;;;
+LG-OL3-PRO-NA;LG;Optimus L3;Cristal templado;Estándar;1,30;;;
+LG-OL3-PRO-PRI;LG;Optimus L3;Cristal templado;Privacidad;4,00;;;
+LG-OL3-FUN-SIL;LG;Optimus L3;Funda;Silicona;2,50;;;
+LG-OL3-FUN-TPU;LG;Optimus L3;Funda;Transparente;2,95;;;
+LG-OL3-FUN-LIB;LG;Optimus L3;Funda;Libro;3,70;;;
+LG-OL3-FUN-ANT;LG;Optimus L3;Funda;Antigolpes;3,10;;;
+LG-OLTE-PRO-NA;LG;Optimus LTE;Cristal templado;Estándar;1,30;;;
+LG-OLTE-PRO-PRI;LG;Optimus LTE;Cristal templado;Privacidad;4,00;;;
+LG-OLTE-FUN-SIL;LG;Optimus LTE;Funda;Silicona;2,50;;;
+LG-OLTE-FUN-TPU;LG;Optimus LTE;Funda;Transparente;2,95;;;
+LG-OLTE-FUN-LIB;LG;Optimus LTE;Funda;Libro;3,70;;;
+LG-OLTE-FUN-ANT;LG;Optimus LTE;Funda;Antigolpes;3,10;;;
+LG-OX-PRO-NA;LG;Optimus X;Cristal templado;Estándar;1,30;;;
+LG-OX-PRO-PRI;LG;Optimus X;Cristal templado;Privacidad;4,00;;;
+LG-OX-FUN-SIL;LG;Optimus X;Funda;Silicona;2,50;;;
+LG-OX-FUN-TPU;LG;Optimus X;Funda;Transparente;2,95;;;
+LG-OX-FUN-LIB;LG;Optimus X;Funda;Libro;3,70;;;
+LG-OX-FUN-ANT;LG;Optimus X;Funda;Antigolpes;3,10;;;
+LG-O-PRO-NA;LG;Octane;Cristal templado;Estándar;1,30;;;
+LG-O-FUN-SIL;LG;Octane;Funda;Silicona;2,50;;;
+LG-O-FUN-TPU;LG;Octane;Funda;Transparente;2,95;;;
+LG-G3B-PRO-NA;LG;G3 Beat;Cristal templado;Estándar;1,30;;;
+LG-G3B-PRO-NA-FG;LG;G3 Beat;Cristal templado;UV full glue;4,15;;;
+LG-G3B-PRO-PRI;LG;G3 Beat;Cristal templado;Privacidad;4,00;;;
+LG-G3B-FUN-SIL;LG;G3 Beat;Funda;Silicona;2,50;;;
+LG-G3B-FUN-TPU;LG;G3 Beat;Funda;Transparente;2,95;;;
+LG-G3B-FUN-LIB;LG;G3 Beat;Funda;Libro;3,70;;;
+LG-G3B-FUN-ANT;LG;G3 Beat;Funda;Antigolpes;3,10;;;
+LG-G4S-PRO-NA;LG;G4s;Cristal templado;Estándar;1,30;;;
+LG-G4S-PRO-NA-FG;LG;G4s;Cristal templado;UV full glue;4,15;;;
+LG-G4S-PRO-PRI;LG;G4s;Cristal templado;Privacidad;4,00;;;
+LG-G4S-FUN-SIL;LG;G4s;Funda;Silicona;2,50;;;
+LG-G4S-FUN-TPU;LG;G4s;Funda;Transparente;2,95;;;
+LG-G4S-FUN-LIB;LG;G4s;Funda;Libro;3,70;;;
+LG-G4S-FUN-ANT;LG;G4s;Funda;Antigolpes;3,10;;;
+LG-K10PW-PRO-NA;LG;K10 Power;Cristal templado;Estándar;1,30;;;
+LG-K10PW-PRO-PRI;LG;K10 Power;Cristal templado;Privacidad;4,00;;;
+LG-K10PW-FUN-SIL;LG;K10 Power;Funda;Silicona;2,50;;;
+LG-K10PW-FUN-TPU;LG;K10 Power;Funda;Transparente;2,95;;;
+LG-K10PW-FUN-LIB;LG;K10 Power;Funda;Libro;3,70;;;
+LG-K10PW-FUN-ANT;LG;K10 Power;Funda;Antigolpes;3,10;;;
+LG-K11PL-PRO-NA;LG;K11+;Cristal templado;Estándar;1,30;;;
+LG-K11PL-PRO-PRI;LG;K11+;Cristal templado;Privacidad;4,00;;;
+LG-K11PL-FUN-SIL;LG;K11+;Funda;Silicona;2,50;;;
+LG-K11PL-FUN-TPU;LG;K11+;Funda;Transparente;2,95;;;
+LG-K11PL-FUN-LIB;LG;K11+;Funda;Libro;3,70;;;
+LG-K11PL-FUN-ANT;LG;K11+;Funda;Antigolpes;3,10;;;
+LG-K62PL-PRO-NA;LG;K62+;Cristal templado;Estándar;1,30;;;
+LG-K62PL-PRO-PRI;LG;K62+;Cristal templado;Privacidad;4,00;;;
+LG-K62PL-FUN-SIL;LG;K62+;Funda;Silicona;2,50;;;
+LG-K62PL-FUN-TPU;LG;K62+;Funda;Transparente;2,95;;;
+LG-K62PL-FUN-LIB;LG;K62+;Funda;Libro;3,70;;;
+LG-K62PL-FUN-ANT;LG;K62+;Funda;Antigolpes;3,10;;;
+LG-K8S-PRO-NA;LG;K8s;Cristal templado;Estándar;1,30;;;
+LG-K8S-PRO-PRI;LG;K8s;Cristal templado;Privacidad;4,00;;;
+LG-K8S-FUN-SIL;LG;K8s;Funda;Silicona;2,50;;;
+LG-K8S-FUN-TPU;LG;K8s;Funda;Transparente;2,95;;;
+LG-K8S-FUN-LIB;LG;K8s;Funda;Libro;3,70;;;
+LG-K8S-FUN-ANT;LG;K8s;Funda;Antigolpes;3,10;;;
+LG-S2PL-PRO-NA;LG;Stylus 2 Plus;Cristal templado;Estándar;1,30;;;
+LG-S2PL-PRO-PRI;LG;Stylus 2 Plus;Cristal templado;Privacidad;4,00;;;
+LG-S2PL-FUN-SIL;LG;Stylus 2 Plus;Funda;Silicona;2,50;;;
+LG-S2PL-FUN-TPU;LG;Stylus 2 Plus;Funda;Transparente;2,95;;;
+LG-S2PL-FUN-LIB;LG;Stylus 2 Plus;Funda;Libro;3,70;;;
+LG-S2PL-FUN-ANT;LG;Stylus 2 Plus;Funda;Antigolpes;3,10;;;
+LG-G4-PRO-NA;LG;G4;Cristal templado;Estándar;1,30;;;
+LG-G4-PRO-NA-FG;LG;G4;Cristal templado;UV full glue;4,15;;;
+LG-G4-PRO-PRI;LG;G4;Cristal templado;Privacidad;4,00;;;
+LG-G4-FUN-SIL;LG;G4;Funda;Silicona;2,50;;;
+LG-G4-FUN-TPU;LG;G4;Funda;Transparente;2,95;;;
+LG-G4-FUN-LIB;LG;G4;Funda;Libro;3,70;;;
+LG-G4-FUN-ANT;LG;G4;Funda;Antigolpes;3,10;;;
+LG-K10-PRO-NA;LG;K10;Cristal templado;Estándar;1,30;;;
+LG-K10-PRO-PRI;LG;K10;Cristal templado;Privacidad;4,00;;;
+LG-K10-FUN-SIL;LG;K10;Funda;Silicona;2,50;;;
+LG-K10-FUN-TPU;LG;K10;Funda;Transparente;2,95;;;
+LG-K10-FUN-LIB;LG;K10;Funda;Libro;3,70;;;
+LG-K10-FUN-ANT;LG;K10;Funda;Antigolpes;3,10;;;
+LG-K4-PRO-NA;LG;K4;Cristal templado;Estándar;1,30;;;
+LG-K4-PRO-PRI;LG;K4;Cristal templado;Privacidad;4,00;;;
+LG-K4-FUN-SIL;LG;K4;Funda;Silicona;2,50;;;
+LG-K4-FUN-TPU;LG;K4;Funda;Transparente;2,95;;;
+LG-K4-FUN-LIB;LG;K4;Funda;Libro;3,70;;;
+LG-K4-FUN-ANT;LG;K4;Funda;Antigolpes;3,10;;;
+LG-S2-PRO-NA;LG;Stylus 2;Cristal templado;Estándar;1,30;;;
+LG-S2-PRO-PRI;LG;Stylus 2;Cristal templado;Privacidad;4,00;;;
+LG-S2-FUN-SIL;LG;Stylus 2;Funda;Silicona;2,50;;;
+LG-S2-FUN-TPU;LG;Stylus 2;Funda;Transparente;2,95;;;
+LG-S2-FUN-LIB;LG;Stylus 2;Funda;Libro;3,70;;;
+LG-S2-FUN-ANT;LG;Stylus 2;Funda;Antigolpes;3,10;;;
+LG-V10-PRO-NA;LG;V10;Cristal templado;Estándar;1,30;;;
+LG-V10-PRO-NA-FG;LG;V10;Cristal templado;UV full glue;4,15;;;
+LG-V10-PRO-PRI;LG;V10;Cristal templado;Privacidad;4,00;;;
+LG-V10-FUN-SIL;LG;V10;Funda;Silicona;2,50;;;
+LG-V10-FUN-TPU;LG;V10;Funda;Transparente;2,95;;;
+LG-V10-FUN-LIB;LG;V10;Funda;Libro;3,70;;;
+LG-V10-FUN-ANT;LG;V10;Funda;Antigolpes;3,10;;;
+LG-G5-PRO-NA;LG;G5;Cristal templado;Estándar;1,30;;;
+LG-G5-PRO-NA-FG;LG;G5;Cristal templado;UV full glue;4,15;;;
+LG-G5-PRO-PRI;LG;G5;Cristal templado;Privacidad;4,00;;;
+LG-G5-FUN-SIL;LG;G5;Funda;Silicona;2,50;;;
+LG-G5-FUN-TPU;LG;G5;Funda;Transparente;2,95;;;
+LG-G5-FUN-LIB;LG;G5;Funda;Libro;3,70;;;
+LG-G5-FUN-ANT;LG;G5;Funda;Antigolpes;3,10;;;
+LG-K5-PRO-NA;LG;K5;Cristal templado;Estándar;1,30;;;
+LG-K5-PRO-PRI;LG;K5;Cristal templado;Privacidad;4,00;;;
+LG-K5-FUN-SIL;LG;K5;Funda;Silicona;2,50;;;
+LG-K5-FUN-TPU;LG;K5;Funda;Transparente;2,95;;;
+LG-K5-FUN-LIB;LG;K5;Funda;Libro;3,70;;;
+LG-K5-FUN-ANT;LG;K5;Funda;Antigolpes;3,10;;;
+LG-K8-PRO-NA;LG;K8;Cristal templado;Estándar;1,30;;;
+LG-K8-PRO-PRI;LG;K8;Cristal templado;Privacidad;4,00;;;
+LG-K8-FUN-SIL;LG;K8;Funda;Silicona;2,50;;;
+LG-K8-FUN-TPU;LG;K8;Funda;Transparente;2,95;;;
+LG-K8-FUN-LIB;LG;K8;Funda;Libro;3,70;;;
+LG-K8-FUN-ANT;LG;K8;Funda;Antigolpes;3,10;;;
+LG-XCAM-PRO-NA;LG;X Cam;Cristal templado;Estándar;1,30;;;
+LG-XCAM-PRO-PRI;LG;X Cam;Cristal templado;Privacidad;4,00;;;
+LG-XCAM-FUN-SIL;LG;X Cam;Funda;Silicona;2,50;;;
+LG-XCAM-FUN-TPU;LG;X Cam;Funda;Transparente;2,95;;;
+LG-XCAM-FUN-LIB;LG;X Cam;Funda;Libro;3,70;;;
+LG-XCAM-FUN-ANT;LG;X Cam;Funda;Antigolpes;3,10;;;
+LG-XS-PRO-NA;LG;X Screen;Cristal templado;Estándar;1,30;;;
+LG-XS-PRO-PRI;LG;X Screen;Cristal templado;Privacidad;4,00;;;
+LG-XS-FUN-SIL;LG;X Screen;Funda;Silicona;2,50;;;
+LG-XS-FUN-TPU;LG;X Screen;Funda;Transparente;2,95;;;
+LG-XS-FUN-LIB;LG;X Screen;Funda;Libro;3,70;;;
+LG-XS-FUN-ANT;LG;X Screen;Funda;Antigolpes;3,10;;;
+LG-XPW-PRO-NA;LG;X Power;Cristal templado;Estándar;1,30;;;
+LG-XPW-PRO-PRI;LG;X Power;Cristal templado;Privacidad;4,00;;;
+LG-XPW-FUN-SIL;LG;X Power;Funda;Silicona;2,50;;;
+LG-XPW-FUN-TPU;LG;X Power;Funda;Transparente;2,95;;;
+LG-XPW-FUN-LIB;LG;X Power;Funda;Libro;3,70;;;
+LG-XPW-FUN-ANT;LG;X Power;Funda;Antigolpes;3,10;;;
+LG-K3-PRO-NA;LG;K3;Cristal templado;Estándar;1,30;;;
+LG-K3-PRO-PRI;LG;K3;Cristal templado;Privacidad;4,00;;;
+LG-K3-FUN-SIL;LG;K3;Funda;Silicona;2,50;;;
+LG-K3-FUN-TPU;LG;K3;Funda;Transparente;2,95;;;
+LG-K3-FUN-LIB;LG;K3;Funda;Libro;3,70;;;
+LG-K3-FUN-ANT;LG;K3;Funda;Antigolpes;3,10;;;
+LG-K417-PRO-NA;LG;K4 2017;Cristal templado;Estándar;1,30;;;
+LG-K417-PRO-PRI;LG;K4 2017;Cristal templado;Privacidad;4,00;;;
+LG-K417-FUN-SIL;LG;K4 2017;Funda;Silicona;2,50;;;
+LG-K417-FUN-TPU;LG;K4 2017;Funda;Transparente;2,95;;;
+LG-K417-FUN-LIB;LG;K4 2017;Funda;Libro;3,70;;;
+LG-K417-FUN-ANT;LG;K4 2017;Funda;Antigolpes;3,10;;;
+LG-K817-PRO-NA;LG;K8 2017;Cristal templado;Estándar;1,30;;;
+LG-K817-PRO-PRI;LG;K8 2017;Cristal templado;Privacidad;4,00;;;
+LG-K817-FUN-SIL;LG;K8 2017;Funda;Silicona;2,50;;;
+LG-K817-FUN-TPU;LG;K8 2017;Funda;Transparente;2,95;;;
+LG-K817-FUN-LIB;LG;K8 2017;Funda;Libro;3,70;;;
+LG-K817-FUN-ANT;LG;K8 2017;Funda;Antigolpes;3,10;;;
+LG-S3-PRO-NA;LG;Stylus 3;Cristal templado;Estándar;1,30;;;
+LG-S3-PRO-PRI;LG;Stylus 3;Cristal templado;Privacidad;4,00;;;
+LG-S3-FUN-SIL;LG;Stylus 3;Funda;Silicona;2,50;;;
+LG-S3-FUN-TPU;LG;Stylus 3;Funda;Transparente;2,95;;;
+LG-S3-FUN-LIB;LG;Stylus 3;Funda;Libro;3,70;;;
+LG-S3-FUN-ANT;LG;Stylus 3;Funda;Antigolpes;3,10;;;
+LG-K1017-PRO-NA;LG;K10 2017;Cristal templado;Estándar;1,30;;;
+LG-K1017-PRO-PRI;LG;K10 2017;Cristal templado;Privacidad;4,00;;;
+LG-K1017-FUN-SIL;LG;K10 2017;Funda;Silicona;2,50;;;
+LG-K1017-FUN-TPU;LG;K10 2017;Funda;Transparente;2,95;;;
+LG-K1017-FUN-LIB;LG;K10 2017;Funda;Libro;3,70;;;
+LG-K1017-FUN-ANT;LG;K10 2017;Funda;Antigolpes;3,10;;;
+LG-G6-PRO-NA;LG;G6;Cristal templado;Estándar;1,30;;;
+LG-G6-PRO-NA-FG;LG;G6;Cristal templado;UV full glue;4,15;;;
+LG-G6-PRO-PRI;LG;G6;Cristal templado;Privacidad;4,00;;;
+LG-G6-FUN-SIL;LG;G6;Funda;Silicona;2,50;;;
+LG-G6-FUN-TPU;LG;G6;Funda;Transparente;2,95;;;
+LG-G6-FUN-LIB;LG;G6;Funda;Libro;3,70;;;
+LG-G6-FUN-ANT;LG;G6;Funda;Antigolpes;3,10;;;
+LG-XPW2-PRO-NA;LG;X Power 2;Cristal templado;Estándar;1,30;;;
+LG-XPW2-PRO-PRI;LG;X Power 2;Cristal templado;Privacidad;4,00;;;
+LG-XPW2-FUN-SIL;LG;X Power 2;Funda;Silicona;2,50;;;
+LG-XPW2-FUN-TPU;LG;X Power 2;Funda;Transparente;2,95;;;
+LG-XPW2-FUN-LIB;LG;X Power 2;Funda;Libro;3,70;;;
+LG-XPW2-FUN-ANT;LG;X Power 2;Funda;Antigolpes;3,10;;;
+LG-Q8-PRO-NA;LG;Q8;Cristal templado;Estándar;1,30;;;
+LG-Q8-PRO-PRI;LG;Q8;Cristal templado;Privacidad;4,00;;;
+LG-Q8-FUN-SIL;LG;Q8;Funda;Silicona;2,50;;;
+LG-Q8-FUN-TPU;LG;Q8;Funda;Transparente;2,95;;;
+LG-Q8-FUN-LIB;LG;Q8;Funda;Libro;3,70;;;
+LG-Q8-FUN-ANT;LG;Q8;Funda;Antigolpes;3,10;;;
+LG-Q6-PRO-NA;LG;Q6;Cristal templado;Estándar;1,30;;;
+LG-Q6-PRO-PRI;LG;Q6;Cristal templado;Privacidad;4,00;;;
+LG-Q6-FUN-SIL;LG;Q6;Funda;Silicona;2,50;;;
+LG-Q6-FUN-TPU;LG;Q6;Funda;Transparente;2,95;;;
+LG-Q6-FUN-LIB;LG;Q6;Funda;Libro;3,70;;;
+LG-Q6-FUN-ANT;LG;Q6;Funda;Antigolpes;3,10;;;
+LG-V30-PRO-NA;LG;V30;Cristal templado;Estándar;1,30;;;
+LG-V30-PRO-NA-FG;LG;V30;Cristal templado;UV full glue;4,15;;;
+LG-V30-PRO-PRI;LG;V30;Cristal templado;Privacidad;4,00;;;
+LG-V30-FUN-SIL;LG;V30;Funda;Silicona;2,50;;;
+LG-V30-FUN-TPU;LG;V30;Funda;Transparente;2,95;;;
+LG-V30-FUN-LIB;LG;V30;Funda;Libro;3,70;;;
+LG-V30-FUN-ANT;LG;V30;Funda;Antigolpes;3,10;;;
+LG-K11-PRO-NA;LG;K11;Cristal templado;Estándar;1,30;;;
+LG-K11-PRO-PRI;LG;K11;Cristal templado;Privacidad;4,00;;;
+LG-K11-FUN-SIL;LG;K11;Funda;Silicona;2,50;;;
+LG-K11-FUN-TPU;LG;K11;Funda;Transparente;2,95;;;
+LG-K11-FUN-LIB;LG;K11;Funda;Libro;3,70;;;
+LG-K11-FUN-ANT;LG;K11;Funda;Antigolpes;3,10;;;
+LG-K9-PRO-NA;LG;K9;Cristal templado;Estándar;1,30;;;
+LG-K9-PRO-PRI;LG;K9;Cristal templado;Privacidad;4,00;;;
+LG-K9-FUN-SIL;LG;K9;Funda;Silicona;2,50;;;
+LG-K9-FUN-TPU;LG;K9;Funda;Transparente;2,95;;;
+LG-K9-FUN-LIB;LG;K9;Funda;Libro;3,70;;;
+LG-K9-FUN-ANT;LG;K9;Funda;Antigolpes;3,10;;;
+LG-G7T-PRO-NA;LG;G7 ThinQ;Cristal templado;Estándar;1,30;;;
+LG-G7T-PRO-NA-FG;LG;G7 ThinQ;Cristal templado;UV full glue;4,15;;;
+LG-G7T-PRO-PRI;LG;G7 ThinQ;Cristal templado;Privacidad;4,00;;;
+LG-G7T-FUN-SIL;LG;G7 ThinQ;Funda;Silicona;2,50;;;
+LG-G7T-FUN-TPU;LG;G7 ThinQ;Funda;Transparente;2,95;;;
+LG-G7T-FUN-LIB;LG;G7 ThinQ;Funda;Libro;3,70;;;
+LG-G7T-FUN-ANT;LG;G7 ThinQ;Funda;Antigolpes;3,10;;;
+LG-QS-PRO-NA;LG;Q Stylus;Cristal templado;Estándar;1,30;;;
+LG-QS-PRO-PRI;LG;Q Stylus;Cristal templado;Privacidad;4,00;;;
+LG-QS-FUN-SIL;LG;Q Stylus;Funda;Silicona;2,50;;;
+LG-QS-FUN-TPU;LG;Q Stylus;Funda;Transparente;2,95;;;
+LG-QS-FUN-LIB;LG;Q Stylus;Funda;Libro;3,70;;;
+LG-QS-FUN-ANT;LG;Q Stylus;Funda;Antigolpes;3,10;;;
+LG-Q7-PRO-NA;LG;Q7;Cristal templado;Estándar;1,30;;;
+LG-Q7-PRO-PRI;LG;Q7;Cristal templado;Privacidad;4,00;;;
+LG-Q7-FUN-SIL;LG;Q7;Funda;Silicona;2,50;;;
+LG-Q7-FUN-TPU;LG;Q7;Funda;Transparente;2,95;;;
+LG-Q7-FUN-LIB;LG;Q7;Funda;Libro;3,70;;;
+LG-Q7-FUN-ANT;LG;Q7;Funda;Antigolpes;3,10;;;
+LG-V40T-PRO-NA;LG;V40 ThinQ;Cristal templado;Estándar;1,30;;;
+LG-V40T-PRO-NA-FG;LG;V40 ThinQ;Cristal templado;UV full glue;4,15;;;
+LG-V40T-PRO-PRI;LG;V40 ThinQ;Cristal templado;Privacidad;4,00;;;
+LG-V40T-FUN-SIL;LG;V40 ThinQ;Funda;Silicona;2,50;;;
+LG-V40T-FUN-TPU;LG;V40 ThinQ;Funda;Transparente;2,95;;;
+LG-V40T-FUN-LIB;LG;V40 ThinQ;Funda;Libro;3,70;;;
+LG-V40T-FUN-ANT;LG;V40 ThinQ;Funda;Antigolpes;3,10;;;
+LG-G7FIT-PRO-NA;LG;G7 Fit;Cristal templado;Estándar;1,30;;;
+LG-G7FIT-PRO-NA-FG;LG;G7 Fit;Cristal templado;UV full glue;4,15;;;
+LG-G7FIT-PRO-PRI;LG;G7 Fit;Cristal templado;Privacidad;4,00;;;
+LG-G7FIT-FUN-SIL;LG;G7 Fit;Funda;Silicona;2,50;;;
+LG-G7FIT-FUN-TPU;LG;G7 Fit;Funda;Transparente;2,95;;;
+LG-G7FIT-FUN-LIB;LG;G7 Fit;Funda;Libro;3,70;;;
+LG-G7FIT-FUN-ANT;LG;G7 Fit;Funda;Antigolpes;3,10;;;
+LG-K30-PRO-NA;LG;K30;Cristal templado;Estándar;1,30;;;
+LG-K30-PRO-PRI;LG;K30;Cristal templado;Privacidad;4,00;;;
+LG-K30-FUN-SIL;LG;K30;Funda;Silicona;2,50;;;
+LG-K30-FUN-TPU;LG;K30;Funda;Transparente;2,95;;;
+LG-K30-FUN-LIB;LG;K30;Funda;Libro;3,70;;;
+LG-K30-FUN-ANT;LG;K30;Funda;Antigolpes;3,10;;;
+LG-K40-PRO-NA;LG;K40;Cristal templado;Estándar;1,30;;;
+LG-K40-PRO-PRI;LG;K40;Cristal templado;Privacidad;4,00;;;
+LG-K40-FUN-SIL;LG;K40;Funda;Silicona;2,50;;;
+LG-K40-FUN-TPU;LG;K40;Funda;Transparente;2,95;;;
+LG-K40-FUN-LIB;LG;K40;Funda;Libro;3,70;;;
+LG-K40-FUN-ANT;LG;K40;Funda;Antigolpes;3,10;;;
+LG-Q60-PRO-NA;LG;Q60;Cristal templado;Estándar;1,30;;;
+LG-Q60-PRO-PRI;LG;Q60;Cristal templado;Privacidad;4,00;;;
+LG-Q60-FUN-SIL;LG;Q60;Funda;Silicona;2,50;;;
+LG-Q60-FUN-TPU;LG;Q60;Funda;Transparente;2,95;;;
+LG-Q60-FUN-LIB;LG;Q60;Funda;Libro;3,70;;;
+LG-Q60-FUN-ANT;LG;Q60;Funda;Antigolpes;3,10;;;
+LG-Q60-PCA-NA;LG;Q60;Protector de cámara;Cristal;2,90;;;
+LG-V50T5-PRO-NA;LG;V50 ThinQ 5G;Cristal templado;Estándar;1,30;;;
+LG-V50T5-PRO-NA-FG;LG;V50 ThinQ 5G;Cristal templado;UV full glue;4,15;;;
+LG-V50T5-PRO-PRI;LG;V50 ThinQ 5G;Cristal templado;Privacidad;4,00;;;
+LG-V50T5-FUN-SIL;LG;V50 ThinQ 5G;Funda;Silicona;2,50;;;
+LG-V50T5-FUN-TPU;LG;V50 ThinQ 5G;Funda;Transparente;2,95;;;
+LG-V50T5-FUN-LIB;LG;V50 ThinQ 5G;Funda;Libro;3,70;;;
+LG-V50T5-FUN-ANT;LG;V50 ThinQ 5G;Funda;Antigolpes;3,10;;;
+LG-V50T5-PCA-NA;LG;V50 ThinQ 5G;Protector de cámara;Cristal;2,90;;;
+LG-G8ST-PRO-NA;LG;G8s ThinQ;Cristal templado;Estándar;1,30;;;
+LG-G8ST-PRO-NA-FG;LG;G8s ThinQ;Cristal templado;UV full glue;4,15;;;
+LG-G8ST-PRO-PRI;LG;G8s ThinQ;Cristal templado;Privacidad;4,00;;;
+LG-G8ST-FUN-SIL;LG;G8s ThinQ;Funda;Silicona;2,50;;;
+LG-G8ST-FUN-TPU;LG;G8s ThinQ;Funda;Transparente;2,95;;;
+LG-G8ST-FUN-LIB;LG;G8s ThinQ;Funda;Libro;3,70;;;
+LG-G8ST-FUN-ANT;LG;G8s ThinQ;Funda;Antigolpes;3,10;;;
+LG-G8ST-PCA-NA;LG;G8s ThinQ;Protector de cámara;Cristal;2,90;;;
+LG-K50-PRO-NA;LG;K50;Cristal templado;Estándar;1,30;;;
+LG-K50-PRO-PRI;LG;K50;Cristal templado;Privacidad;4,00;;;
+LG-K50-FUN-SIL;LG;K50;Funda;Silicona;2,50;;;
+LG-K50-FUN-TPU;LG;K50;Funda;Transparente;2,95;;;
+LG-K50-FUN-LIB;LG;K50;Funda;Libro;3,70;;;
+LG-K50-FUN-ANT;LG;K50;Funda;Antigolpes;3,10;;;
+LG-K50-PCA-NA;LG;K50;Protector de cámara;Cristal;2,90;;;
+LG-K40S-PRO-NA;LG;K40S;Cristal templado;Estándar;1,30;;;
+LG-K40S-PRO-PRI;LG;K40S;Cristal templado;Privacidad;4,00;;;
+LG-K40S-FUN-SIL;LG;K40S;Funda;Silicona;2,50;;;
+LG-K40S-FUN-TPU;LG;K40S;Funda;Transparente;2,95;;;
+LG-K40S-FUN-LIB;LG;K40S;Funda;Libro;3,70;;;
+LG-K40S-FUN-ANT;LG;K40S;Funda;Antigolpes;3,10;;;
+LG-K40S-PCA-NA;LG;K40S;Protector de cámara;Cristal;2,90;;;
+LG-K50S-PRO-NA;LG;K50S;Cristal templado;Estándar;1,30;;;
+LG-K50S-PRO-PRI;LG;K50S;Cristal templado;Privacidad;4,00;;;
+LG-K50S-FUN-SIL;LG;K50S;Funda;Silicona;2,50;;;
+LG-K50S-FUN-TPU;LG;K50S;Funda;Transparente;2,95;;;
+LG-K50S-FUN-LIB;LG;K50S;Funda;Libro;3,70;;;
+LG-K50S-FUN-ANT;LG;K50S;Funda;Antigolpes;3,10;;;
+LG-K50S-PCA-NA;LG;K50S;Protector de cámara;Cristal;2,90;;;
+LG-G8XT-PRO-NA;LG;G8X ThinQ;Cristal templado;Estándar;1,30;;;
+LG-G8XT-PRO-NA-FG;LG;G8X ThinQ;Cristal templado;UV full glue;4,15;;;
+LG-G8XT-PRO-PRI;LG;G8X ThinQ;Cristal templado;Privacidad;4,00;;;
+LG-G8XT-FUN-SIL;LG;G8X ThinQ;Funda;Silicona;2,50;;;
+LG-G8XT-FUN-TPU;LG;G8X ThinQ;Funda;Transparente;2,95;;;
+LG-G8XT-FUN-LIB;LG;G8X ThinQ;Funda;Libro;3,70;;;
+LG-G8XT-FUN-ANT;LG;G8X ThinQ;Funda;Antigolpes;3,10;;;
+LG-G8XT-PCA-NA;LG;G8X ThinQ;Protector de cámara;Cristal;2,90;;;
+LG-K51S-PRO-NA;LG;K51S;Cristal templado;Estándar;1,30;;;
+LG-K51S-PRO-PRI;LG;K51S;Cristal templado;Privacidad;4,00;;;
+LG-K51S-FUN-SIL;LG;K51S;Funda;Silicona;2,50;;;
+LG-K51S-FUN-TPU;LG;K51S;Funda;Transparente;2,95;;;
+LG-K51S-FUN-LIB;LG;K51S;Funda;Libro;3,70;;;
+LG-K51S-FUN-ANT;LG;K51S;Funda;Antigolpes;3,10;;;
+LG-K51S-PCA-NA;LG;K51S;Protector de cámara;Cristal;2,90;;;
+LG-V60T5-PRO-NA;LG;V60 ThinQ 5G;Cristal templado;Estándar;1,30;;;
+LG-V60T5-PRO-NA-FG;LG;V60 ThinQ 5G;Cristal templado;UV full glue;4,15;;;
+LG-V60T5-PRO-PRI;LG;V60 ThinQ 5G;Cristal templado;Privacidad;4,00;;;
+LG-V60T5-FUN-SIL;LG;V60 ThinQ 5G;Funda;Silicona;2,50;;;
+LG-V60T5-FUN-TPU;LG;V60 ThinQ 5G;Funda;Transparente;2,95;;;
+LG-V60T5-FUN-LIB;LG;V60 ThinQ 5G;Funda;Libro;3,70;;;
+LG-V60T5-FUN-ANT;LG;V60 ThinQ 5G;Funda;Antigolpes;3,10;;;
+LG-V60T5-PCA-NA;LG;V60 ThinQ 5G;Protector de cámara;Cristal;2,90;;;
+LG-K41S-PRO-NA;LG;K41S;Cristal templado;Estándar;1,30;;;
+LG-K41S-PRO-PRI;LG;K41S;Cristal templado;Privacidad;4,00;;;
+LG-K41S-FUN-SIL;LG;K41S;Funda;Silicona;2,50;;;
+LG-K41S-FUN-TPU;LG;K41S;Funda;Transparente;2,95;;;
+LG-K41S-FUN-LIB;LG;K41S;Funda;Libro;3,70;;;
+LG-K41S-FUN-ANT;LG;K41S;Funda;Antigolpes;3,10;;;
+LG-K41S-PCA-NA;LG;K41S;Protector de cámara;Cristal;2,90;;;
+LG-K61-PRO-NA;LG;K61;Cristal templado;Estándar;1,30;;;
+LG-K61-PRO-PRI;LG;K61;Cristal templado;Privacidad;4,00;;;
+LG-K61-FUN-SIL;LG;K61;Funda;Silicona;2,50;;;
+LG-K61-FUN-TPU;LG;K61;Funda;Transparente;2,95;;;
+LG-K61-FUN-LIB;LG;K61;Funda;Libro;3,70;;;
+LG-K61-FUN-ANT;LG;K61;Funda;Antigolpes;3,10;;;
+LG-K61-PCA-NA;LG;K61;Protector de cámara;Cristal;2,90;;;
+LG-V-PRO-NA;LG;Velvet;Cristal templado;Estándar;1,30;;;
+LG-V-PRO-PRI;LG;Velvet;Cristal templado;Privacidad;4,00;;;
+LG-V-FUN-SIL;LG;Velvet;Funda;Silicona;2,50;;;
+LG-V-FUN-TPU;LG;Velvet;Funda;Transparente;2,95;;;
+LG-V-FUN-LIB;LG;Velvet;Funda;Libro;3,70;;;
+LG-V-FUN-ANT;LG;Velvet;Funda;Antigolpes;3,10;;;
+LG-V-PCA-NA;LG;Velvet;Protector de cámara;Cristal;2,90;;;
+LG-K22-PRO-NA;LG;K22;Cristal templado;Estándar;1,30;;;
+LG-K22-PRO-PRI;LG;K22;Cristal templado;Privacidad;4,00;;;
+LG-K22-FUN-SIL;LG;K22;Funda;Silicona;2,50;;;
+LG-K22-FUN-TPU;LG;K22;Funda;Transparente;2,95;;;
+LG-K22-FUN-LIB;LG;K22;Funda;Libro;3,70;;;
+LG-K22-FUN-ANT;LG;K22;Funda;Antigolpes;3,10;;;
+LG-K22-PCA-NA;LG;K22;Protector de cámara;Cristal;2,90;;;
+LG-K42-PRO-NA;LG;K42;Cristal templado;Estándar;1,30;;;
+LG-K42-PRO-PRI;LG;K42;Cristal templado;Privacidad;4,00;;;
+LG-K42-FUN-SIL;LG;K42;Funda;Silicona;2,50;;;
+LG-K42-FUN-TPU;LG;K42;Funda;Transparente;2,95;;;
+LG-K42-FUN-LIB;LG;K42;Funda;Libro;3,70;;;
+LG-K42-FUN-ANT;LG;K42;Funda;Antigolpes;3,10;;;
+LG-K42-PCA-NA;LG;K42;Protector de cámara;Cristal;2,90;;;
+LG-K52-PRO-NA;LG;K52;Cristal templado;Estándar;1,30;;;
+LG-K52-PRO-PRI;LG;K52;Cristal templado;Privacidad;4,00;;;
+LG-K52-FUN-SIL;LG;K52;Funda;Silicona;2,50;;;
+LG-K52-FUN-TPU;LG;K52;Funda;Transparente;2,95;;;
+LG-K52-FUN-LIB;LG;K52;Funda;Libro;3,70;;;
+LG-K52-FUN-ANT;LG;K52;Funda;Antigolpes;3,10;;;
+LG-K52-PCA-NA;LG;K52;Protector de cámara;Cristal;2,90;;;
+LG-K62-PRO-NA;LG;K62;Cristal templado;Estándar;1,30;;;
+LG-K62-PRO-PRI;LG;K62;Cristal templado;Privacidad;4,00;;;
+LG-K62-FUN-SIL;LG;K62;Funda;Silicona;2,50;;;
+LG-K62-FUN-TPU;LG;K62;Funda;Transparente;2,95;;;
+LG-K62-FUN-LIB;LG;K62;Funda;Libro;3,70;;;
+LG-K62-FUN-ANT;LG;K62;Funda;Antigolpes;3,10;;;
+LG-K62-PCA-NA;LG;K62;Protector de cámara;Cristal;2,90;;;
+LG-W-PRO-NA;LG;Wing;Cristal templado;Estándar;1,30;;;
+LG-W-PRO-NA-FG;LG;Wing;Cristal templado;UV full glue;4,15;;;
+LG-W-PRO-PRI;LG;Wing;Cristal templado;Privacidad;4,00;;;
+LG-W-FUN-SIL;LG;Wing;Funda;Silicona;2,50;;;
+LG-W-FUN-TPU;LG;Wing;Funda;Transparente;2,95;;;
+LG-W-FUN-LIB;LG;Wing;Funda;Libro;3,70;;;
+LG-W-FUN-ANT;LG;Wing;Funda;Antigolpes;3,10;;;
+LG-W-PCA-NA;LG;Wing;Protector de cámara;Cristal;2,90;;;
+LG-W41-MAR-COM;LG;W41;Marco / chasis;Compatible;6,25;;;6
+LG-W41-BOT-COM;LG;W41;Botones laterales;Compatible;3,20;;;6
+LG-W41-CRI-COM;LG;W41;Cristal de pantalla;Compatible;3,20;;;6
+LG-W41-ANT-COM;LG;W41;Antena / coaxial;Compatible;2,79;;;6
+LG-W41-HUE-COM;LG;W41;Botón home / huella;Compatible;4,60;;;6
+LG-W41PL-MAR-COM;LG;W41+;Marco / chasis;Compatible;6,25;;;6
+LG-W41PL-BOT-COM;LG;W41+;Botones laterales;Compatible;3,20;;;6
+LG-W41PL-CRI-COM;LG;W41+;Cristal de pantalla;Compatible;3,20;;;6
+LG-W41PL-ANT-COM;LG;W41+;Antena / coaxial;Compatible;2,79;;;6
+LG-W41PL-HUE-COM;LG;W41+;Botón home / huella;Compatible;4,60;;;6
+LG-W41P-MAR-COM;LG;W41 Pro;Marco / chasis;Compatible;6,25;;;6
+LG-W41P-BOT-COM;LG;W41 Pro;Botones laterales;Compatible;3,20;;;6
+LG-W41P-CRI-COM;LG;W41 Pro;Cristal de pantalla;Compatible;3,20;;;6
+LG-W41P-ANT-COM;LG;W41 Pro;Antena / coaxial;Compatible;2,79;;;6
+LG-W41P-HUE-COM;LG;W41 Pro;Botón home / huella;Compatible;4,60;;;6
+LG-W31-MAR-COM;LG;W31;Marco / chasis;Compatible;6,25;;;6
+LG-W31-BOT-COM;LG;W31;Botones laterales;Compatible;3,20;;;6
+LG-W31-CRI-COM;LG;W31;Cristal de pantalla;Compatible;3,20;;;6
+LG-W31-ANT-COM;LG;W31;Antena / coaxial;Compatible;2,79;;;6
+LG-W31-HUE-COM;LG;W31;Botón home / huella;Compatible;4,60;;;6
+LG-W31PL-MAR-COM;LG;W31+;Marco / chasis;Compatible;6,25;;;6
+LG-W31PL-BOT-COM;LG;W31+;Botones laterales;Compatible;3,20;;;6
+LG-W31PL-CRI-COM;LG;W31+;Cristal de pantalla;Compatible;3,20;;;6
+LG-W31PL-ANT-COM;LG;W31+;Antena / coaxial;Compatible;2,79;;;6
+LG-W31PL-HUE-COM;LG;W31+;Botón home / huella;Compatible;4,60;;;6
+LG-K925-MAR-COM;LG;K92 5G;Marco / chasis;Compatible;6,25;;;6
+LG-K925-BOT-COM;LG;K92 5G;Botones laterales;Compatible;3,20;;;6
+LG-K925-CRI-COM;LG;K92 5G;Cristal de pantalla;Compatible;3,20;;;6
+LG-K925-ANT-COM;LG;K92 5G;Antena / coaxial;Compatible;2,79;;;6
+LG-K925-HUE-COM;LG;K92 5G;Botón home / huella;Compatible;4,60;;;6
+LG-Q52-MAR-COM;LG;Q52;Marco / chasis;Compatible;7,20;;;6
+LG-Q52-BOT-COM;LG;Q52;Botones laterales;Compatible;3,70;;;6
+LG-Q52-CRI-COM;LG;Q52;Cristal de pantalla;Compatible;3,69;;;6
+LG-Q52-ANT-COM;LG;Q52;Antena / coaxial;Compatible;3,20;;;6
+LG-Q52-HUE-COM;LG;Q52;Botón home / huella;Compatible;5,30;;;6
+LG-K92-MAR-COM;LG;K92;Marco / chasis;Compatible;6,25;;;6
+LG-K92-BOT-COM;LG;K92;Botones laterales;Compatible;3,20;;;6
+LG-K92-CRI-COM;LG;K92;Cristal de pantalla;Compatible;3,20;;;6
+LG-K92-ANT-COM;LG;K92;Antena / coaxial;Compatible;2,79;;;6
+LG-K92-HUE-COM;LG;K92;Botón home / huella;Compatible;4,60;;;6
+LG-Q31-MAR-COM;LG;Q31;Marco / chasis;Compatible;7,20;;;6
+LG-Q31-BOT-COM;LG;Q31;Botones laterales;Compatible;3,70;;;6
+LG-Q31-CRI-COM;LG;Q31;Cristal de pantalla;Compatible;3,69;;;6
+LG-Q31-ANT-COM;LG;Q31;Antena / coaxial;Compatible;3,20;;;6
+LG-Q31-HUE-COM;LG;Q31;Botón home / huella;Compatible;5,30;;;6
+LG-K31-MAR-COM;LG;K31;Marco / chasis;Compatible;6,25;;;6
+LG-K31-BOT-COM;LG;K31;Botones laterales;Compatible;3,20;;;6
+LG-K31-CRI-COM;LG;K31;Cristal de pantalla;Compatible;3,20;;;6
+LG-K31-ANT-COM;LG;K31;Antena / coaxial;Compatible;2,79;;;6
+LG-K31-HUE-COM;LG;K31;Botón home / huella;Compatible;4,60;;;6
+LG-Q925-MAR-COM;LG;Q92 5G;Marco / chasis;Compatible;7,20;;;6
+LG-Q925-BOT-COM;LG;Q92 5G;Botones laterales;Compatible;3,70;;;6
+LG-Q925-CRI-COM;LG;Q92 5G;Cristal de pantalla;Compatible;3,69;;;6
+LG-Q925-ANT-COM;LG;Q92 5G;Antena / coaxial;Compatible;3,20;;;6
+LG-Q925-HUE-COM;LG;Q92 5G;Botón home / huella;Compatible;5,30;;;6
+LG-S6-MAR-COM;LG;Stylo 6;Marco / chasis;Compatible;6,25;;;6
+LG-S6-BOT-COM;LG;Stylo 6;Botones laterales;Compatible;3,20;;;6
+LG-S6-CRI-COM;LG;Stylo 6;Cristal de pantalla;Compatible;3,20;;;6
+LG-S6-ANT-COM;LG;Stylo 6;Antena / coaxial;Compatible;2,79;;;6
+LG-S6-HUE-COM;LG;Stylo 6;Botón home / huella;Compatible;4,60;;;6
+LG-F2-MAR-COM;LG;Folder 2;Marco / chasis;Compatible;6,25;;;6
+LG-F2-BOT-COM;LG;Folder 2;Botones laterales;Compatible;3,20;;;6
+LG-F2-CRI-COM;LG;Folder 2;Cristal de pantalla;Compatible;3,20;;;6
+LG-F2-ANT-COM;LG;Folder 2;Antena / coaxial;Compatible;2,79;;;6
+LG-F2-HUE-COM;LG;Folder 2;Botón home / huella;Compatible;4,60;;;6
+LG-Q51-MAR-COM;LG;Q51;Marco / chasis;Compatible;7,20;;;6
+LG-Q51-BOT-COM;LG;Q51;Botones laterales;Compatible;3,70;;;6
+LG-Q51-CRI-COM;LG;Q51;Cristal de pantalla;Compatible;3,69;;;6
+LG-Q51-ANT-COM;LG;Q51;Antena / coaxial;Compatible;3,20;;;6
+LG-Q51-HUE-COM;LG;Q51;Botón home / huella;Compatible;5,30;;;6
+LG-W10A-MAR-COM;LG;W10 Alpha;Marco / chasis;Compatible;6,25;;;6
+LG-W10A-BOT-COM;LG;W10 Alpha;Botones laterales;Compatible;3,20;;;6
+LG-W10A-CRI-COM;LG;W10 Alpha;Cristal de pantalla;Compatible;3,20;;;6
+LG-W10A-ANT-COM;LG;W10 Alpha;Antena / coaxial;Compatible;2,79;;;6
+LG-W10A-HUE-COM;LG;W10 Alpha;Botón home / huella;Compatible;4,60;;;6
+LG-W30P-MAR-COM;LG;W30 Pro;Marco / chasis;Compatible;5,65;;;6
+LG-W30P-BOT-COM;LG;W30 Pro;Botones laterales;Compatible;2,89;;;6
+LG-W30P-CRI-COM;LG;W30 Pro;Cristal de pantalla;Compatible;2,89;;;6
+LG-W30P-ANT-COM;LG;W30 Pro;Antena / coaxial;Compatible;2,50;;;6
+LG-W30P-HUE-COM;LG;W30 Pro;Botón home / huella;Compatible;4,15;;;6
+LG-W10-MAR-COM;LG;W10;Marco / chasis;Compatible;5,65;;;6
+LG-W10-BOT-COM;LG;W10;Botones laterales;Compatible;2,89;;;6
+LG-W10-CRI-COM;LG;W10;Cristal de pantalla;Compatible;2,89;;;6
+LG-W10-ANT-COM;LG;W10;Antena / coaxial;Compatible;2,50;;;6
+LG-W10-HUE-COM;LG;W10;Botón home / huella;Compatible;4,15;;;6
+LG-S5-MAR-COM;LG;Stylo 5;Marco / chasis;Compatible;5,65;;;6
+LG-S5-BOT-COM;LG;Stylo 5;Botones laterales;Compatible;2,89;;;6
+LG-S5-CRI-COM;LG;Stylo 5;Cristal de pantalla;Compatible;2,89;;;6
+LG-S5-ANT-COM;LG;Stylo 5;Antena / coaxial;Compatible;2,50;;;6
+LG-S5-HUE-COM;LG;Stylo 5;Botón home / huella;Compatible;4,15;;;6
+LG-G8T-MAR-COM;LG;G8 ThinQ;Marco / chasis;Compatible;8,80;;;6
+LG-G8T-BOT-COM;LG;G8 ThinQ;Botones laterales;Compatible;4,50;;;6
+LG-G8T-CRI-COM;LG;G8 ThinQ;Cristal de pantalla;Compatible;4,50;;;6
+LG-G8T-ANT-COM;LG;G8 ThinQ;Antena / coaxial;Compatible;3,90;;;6
+LG-G8T-HUE-COM;LG;G8 ThinQ;Botón home / huella;Compatible;6,50;;;6
+LG-G8T-NFC-COM;LG;G8 ThinQ;NFC y carga inalámbrica;Compatible;8,75;;;6
+LG-V35T-MAR-COM;LG;V35 ThinQ;Marco / chasis;Compatible;8,80;;;6
+LG-V35T-BOT-COM;LG;V35 ThinQ;Botones laterales;Compatible;4,50;;;6
+LG-V35T-CRI-COM;LG;V35 ThinQ;Cristal de pantalla;Compatible;4,50;;;6
+LG-V35T-ANT-COM;LG;V35 ThinQ;Antena / coaxial;Compatible;3,90;;;6
+LG-V35T-HUE-COM;LG;V35 ThinQ;Botón home / huella;Compatible;6,50;;;6
+LG-IV30PLLG-MAR-COM;LG;Isai V30+ LGV35;Marco / chasis;Compatible;5,65;;;6
+LG-IV30PLLG-BOT-COM;LG;Isai V30+ LGV35;Botones laterales;Compatible;2,89;;;6
+LG-IV30PLLG-CRI-COM;LG;Isai V30+ LGV35;Cristal de pantalla;Compatible;2,89;;;6
+LG-IV30PLLG-ANT-COM;LG;Isai V30+ LGV35;Antena / coaxial;Compatible;2,50;;;6
+LG-IV30PLLG-HUE-COM;LG;Isai V30+ LGV35;Botón home / huella;Compatible;4,15;;;6
+LG-F-MAR-COM;LG;Fiesta;Marco / chasis;Compatible;5,65;;;6
+LG-F-BOT-COM;LG;Fiesta;Botones laterales;Compatible;2,89;;;6
+LG-F-CRI-COM;LG;Fiesta;Cristal de pantalla;Compatible;2,89;;;6
+LG-F-ANT-COM;LG;Fiesta;Antena / coaxial;Compatible;2,50;;;6
+LG-F-HUE-COM;LG;Fiesta;Botón home / huella;Compatible;4,15;;;6
+LG-K20PL-MAR-COM;LG;K20+;Marco / chasis;Compatible;5,00;;;6
+LG-K20PL-BOT-COM;LG;K20+;Botones laterales;Compatible;2,55;;;6
+LG-K20PL-CRI-COM;LG;K20+;Cristal de pantalla;Compatible;2,55;;;6
+LG-K20PL-ANT-COM;LG;K20+;Antena / coaxial;Compatible;2,25;;;6
+LG-K20PL-HUE-COM;LG;K20+;Botón home / huella;Compatible;3,70;;;6
+LG-IB-MAR-COM;LG;isai Beat;Marco / chasis;Compatible;5,00;;;6
+LG-IB-BOT-COM;LG;isai Beat;Botones laterales;Compatible;2,55;;;6
+LG-IB-CRI-COM;LG;isai Beat;Cristal de pantalla;Compatible;2,55;;;6
+LG-IB-ANT-COM;LG;isai Beat;Antena / coaxial;Compatible;2,25;;;6
+LG-IB-HUE-COM;LG;isai Beat;Botón home / huella;Compatible;3,70;;;6
+LG-V20-MAR-COM;LG;V20;Marco / chasis;Compatible;7,85;;;6
+LG-V20-BOT-COM;LG;V20;Botones laterales;Compatible;4,00;;;6
+LG-V20-CRI-COM;LG;V20;Cristal de pantalla;Compatible;4,00;;;6
+LG-V20-ANT-COM;LG;V20;Antena / coaxial;Compatible;3,49;;;6
+LG-V20-HUE-COM;LG;V20;Botón home / huella;Compatible;5,79;;;6
+LG-QUAPPX-MAR-COM;LG;Qua phone PX;Marco / chasis;Compatible;5,00;;;6
+LG-QUAPPX-BOT-COM;LG;Qua phone PX;Botones laterales;Compatible;2,55;;;6
+LG-QUAPPX-CRI-COM;LG;Qua phone PX;Cristal de pantalla;Compatible;2,55;;;6
+LG-QUAPPX-ANT-COM;LG;Qua phone PX;Antena / coaxial;Compatible;2,25;;;6
+LG-QUAPPX-HUE-COM;LG;Qua phone PX;Botón home / huella;Compatible;3,70;;;6
+LG-K7-MAR-COM;LG;K7;Marco / chasis;Compatible;5,00;;;6
+LG-K7-BOT-COM;LG;K7;Botones laterales;Compatible;2,55;;;6
+LG-K7-CRI-COM;LG;K7;Cristal de pantalla;Compatible;2,55;;;6
+LG-K7-ANT-COM;LG;K7;Antena / coaxial;Compatible;2,25;;;6
+LG-K7-HUE-COM;LG;K7;Botón home / huella;Compatible;3,70;;;6
+LG-LANCET-MAR-COM;LG;Lancet;Marco / chasis;Compatible;5,00;;;6
+LG-LANCET-BOT-COM;LG;Lancet;Botones laterales;Compatible;2,55;;;6
+LG-LANCET-CRI-COM;LG;Lancet;Cristal de pantalla;Compatible;2,55;;;6
+LG-LANCET-ANT-COM;LG;Lancet;Antena / coaxial;Compatible;2,25;;;6
+LG-GF2-MAR-COM;LG;G Flex 2;Marco / chasis;Compatible;5,00;;;6
+LG-GF2-BOT-COM;LG;G Flex 2;Botones laterales;Compatible;2,55;;;6
+LG-GF2-CRI-COM;LG;G Flex 2;Cristal de pantalla;Compatible;2,55;;;6
+LG-GF2-ANT-COM;LG;G Flex 2;Antena / coaxial;Compatible;2,25;;;6
+LG-IVLLGV31-MAR-COM;LG;Isai VL LGV31;Marco / chasis;Compatible;5,00;;;6
+LG-IVLLGV31-BOT-COM;LG;Isai VL LGV31;Botones laterales;Compatible;2,55;;;6
+LG-IVLLGV31-ANT-COM;LG;Isai VL LGV31;Antena / coaxial;Compatible;2,25;;;6
+LG-L-MAR-COM;LG;Leon;Marco / chasis;Compatible;5,00;;;6
+LG-L-BOT-COM;LG;Leon;Botones laterales;Compatible;2,55;;;6
+LG-L-ANT-COM;LG;Leon;Antena / coaxial;Compatible;2,25;;;6
+LG-F60-MAR-COM;LG;F60;Marco / chasis;Compatible;5,00;;;6
+LG-F60-BOT-COM;LG;F60;Botones laterales;Compatible;2,55;;;6
+LG-F60-ANT-COM;LG;F60;Antena / coaxial;Compatible;2,25;;;6
+LG-G3S-MAR-COM;LG;G3 Stylus;Marco / chasis;Compatible;7,85;;;6
+LG-G3S-BOT-COM;LG;G3 Stylus;Botones laterales;Compatible;4,00;;;6
+LG-G3S-ANT-COM;LG;G3 Stylus;Antena / coaxial;Compatible;3,49;;;6
+LG-G3-MAR-COM;LG;G3;Marco / chasis;Compatible;7,85;;;6
+LG-G3-BOT-COM;LG;G3;Botones laterales;Compatible;4,00;;;6
+LG-G3-ANT-COM;LG;G3;Antena / coaxial;Compatible;3,49;;;6
+LG-G2MN-MAR-COM;LG;G2 Mini;Marco / chasis;Compatible;7,85;;;6
+LG-G2MN-BOT-COM;LG;G2 Mini;Botones laterales;Compatible;4,00;;;6
+LG-G2MN-ANT-COM;LG;G2 Mini;Antena / coaxial;Compatible;3,49;;;6
+LG-GP2-MAR-COM;LG;G Pro 2;Marco / chasis;Compatible;5,00;;;6
+LG-GP2-BOT-COM;LG;G Pro 2;Botones laterales;Compatible;2,55;;;6
+LG-GP2-ANT-COM;LG;G Pro 2;Antena / coaxial;Compatible;2,25;;;6
+LG-OL70-MAR-COM;LG;Optimus L70;Marco / chasis;Compatible;5,00;;;6
+LG-OL70-BOT-COM;LG;Optimus L70;Botones laterales;Compatible;2,55;;;6
+LG-OL70-ANT-COM;LG;Optimus L70;Antena / coaxial;Compatible;2,25;;;6
+LG-GX-MAR-COM;LG;Gx;Marco / chasis;Compatible;5,00;;;6
+LG-GX-BOT-COM;LG;Gx;Botones laterales;Compatible;2,55;;;6
+LG-GX-ANT-COM;LG;Gx;Antena / coaxial;Compatible;2,25;;;6
+LG-GF-MAR-COM;LG;G Flex;Marco / chasis;Compatible;5,00;;;6
+LG-GF-BOT-COM;LG;G Flex;Botones laterales;Compatible;2,55;;;6
+LG-GF-ANT-COM;LG;G Flex;Antena / coaxial;Compatible;2,25;;;6
+LG-GPL-MAR-COM;LG;G Pro Lite;Marco / chasis;Compatible;5,00;;;6
+LG-GPL-BOT-COM;LG;G Pro Lite;Botones laterales;Compatible;2,55;;;6
+LG-GPL-ANT-COM;LG;G Pro Lite;Antena / coaxial;Compatible;2,25;;;6
+LG-G2-MAR-COM;LG;G2;Marco / chasis;Compatible;7,85;;;6
+LG-G2-BOT-COM;LG;G2;Botones laterales;Compatible;4,00;;;6
+LG-G2-ANT-COM;LG;G2;Antena / coaxial;Compatible;3,49;;;6
+LG-VU3-MAR-COM;LG;Vu 3;Marco / chasis;Compatible;5,00;;;6
+LG-VU3-BOT-COM;LG;Vu 3;Botones laterales;Compatible;2,55;;;6
+LG-VU3-ANT-COM;LG;Vu 3;Antena / coaxial;Compatible;2,25;;;6
+LG-EII-ANT-COM;LG;Envoy II;Antena / coaxial;Compatible;3,10;;;6
+LG-C3-MAR-COM;LG;Cosmos 3;Marco / chasis;Compatible;5,00;;;6
+LG-C3-BOT-COM;LG;Cosmos 3;Botones laterales;Compatible;2,55;;;6
+LG-C3-ANT-COM;LG;Cosmos 3;Antena / coaxial;Compatible;2,25;;;6
+LG-OGP-MAR-COM;LG;Optimus G Pro;Marco / chasis;Compatible;5,00;;;6
+LG-OGP-BOT-COM;LG;Optimus G Pro;Botones laterales;Compatible;2,55;;;6
+LG-OGP-ANT-COM;LG;Optimus G Pro;Antena / coaxial;Compatible;2,25;;;6
+LG-OL5II-MAR-COM;LG;Optimus L5 II;Marco / chasis;Compatible;5,00;;;6
+LG-OL5II-BOT-COM;LG;Optimus L5 II;Botones laterales;Compatible;2,55;;;6
+LG-OL5II-ANT-COM;LG;Optimus L5 II;Antena / coaxial;Compatible;2,25;;;6
+LG-LF-MAR-COM;LG;L Fino;Marco / chasis;Compatible;5,00;;;6
+LG-LF-BOT-COM;LG;L Fino;Botones laterales;Compatible;2,55;;;6
+LG-LF-ANT-COM;LG;L Fino;Antena / coaxial;Compatible;2,25;;;6
+LG-OL4II-MAR-COM;LG;Optimus L4 II;Marco / chasis;Compatible;5,00;;;6
+LG-OL4II-BOT-COM;LG;Optimus L4 II;Botones laterales;Compatible;2,55;;;6
+LG-OL4II-ANT-COM;LG;Optimus L4 II;Antena / coaxial;Compatible;2,25;;;6
+LG-OL9-ANT-COM;LG;Optimus L9;Antena / coaxial;Compatible;2,25;;;6
+LG-OG-ANT-COM;LG;Optimus G;Antena / coaxial;Compatible;2,25;;;6
+LG-I-ANT-COM;LG;Intuition;Antena / coaxial;Compatible;2,25;;;6
+LG-OVUII-ANT-COM;LG;Optimus Vu II;Antena / coaxial;Compatible;2,25;;;6
+LG-OL2-ANT-COM;LG;Optimus L2;Antena / coaxial;Compatible;2,25;;;6
+LG-OL7-ANT-COM;LG;Optimus L7;Antena / coaxial;Compatible;2,25;;;6
+LG-O4XHD-ANT-COM;LG;Optimus 4X HD;Antena / coaxial;Compatible;2,25;;;6
+LG-OL5-ANT-COM;LG;Optimus L5;Antena / coaxial;Compatible;2,25;;;6
+LG-T385-ANT-COM;LG;T385;Antena / coaxial;Compatible;2,25;;;6
+LG-OL3-ANT-COM;LG;Optimus L3;Antena / coaxial;Compatible;2,25;;;6
+LG-OLTE-ANT-COM;LG;Optimus LTE;Antena / coaxial;Compatible;2,25;;;6
+LG-OX-ANT-COM;LG;Optimus X;Antena / coaxial;Compatible;2,25;;;6
+LG-O-ANT-COM;LG;Octane;Antena / coaxial;Compatible;3,10;;;6
+LG-G3B-MAR-COM;LG;G3 Beat;Marco / chasis;Compatible;7,85;;;6
+LG-G3B-BOT-COM;LG;G3 Beat;Botones laterales;Compatible;4,00;;;6
+LG-G3B-ANT-COM;LG;G3 Beat;Antena / coaxial;Compatible;3,49;;;6
+LG-G4S-MAR-COM;LG;G4s;Marco / chasis;Compatible;7,85;;;6
+LG-G4S-BOT-COM;LG;G4s;Botones laterales;Compatible;4,00;;;6
+LG-G4S-CRI-COM;LG;G4s;Cristal de pantalla;Compatible;4,00;;;6
+LG-G4S-ANT-COM;LG;G4s;Antena / coaxial;Compatible;3,49;;;6
+LG-K10PW-MAR-COM;LG;K10 Power;Marco / chasis;Compatible;5,00;;;6
+LG-K10PW-BOT-COM;LG;K10 Power;Botones laterales;Compatible;2,55;;;6
+LG-K10PW-CRI-COM;LG;K10 Power;Cristal de pantalla;Compatible;2,55;;;6
+LG-K10PW-ANT-COM;LG;K10 Power;Antena / coaxial;Compatible;2,25;;;6
+LG-K10PW-HUE-COM;LG;K10 Power;Botón home / huella;Compatible;3,70;;;6
+LG-K11PL-MAR-COM;LG;K11+;Marco / chasis;Compatible;5,65;;;6
+LG-K11PL-BOT-COM;LG;K11+;Botones laterales;Compatible;2,89;;;6
+LG-K11PL-CRI-COM;LG;K11+;Cristal de pantalla;Compatible;2,89;;;6
+LG-K11PL-ANT-COM;LG;K11+;Antena / coaxial;Compatible;2,50;;;6
+LG-K11PL-HUE-COM;LG;K11+;Botón home / huella;Compatible;4,15;;;6
+LG-K62PL-MAR-COM;LG;K62+;Marco / chasis;Compatible;6,25;;;6
+LG-K62PL-BOT-COM;LG;K62+;Botones laterales;Compatible;3,20;;;6
+LG-K62PL-CRI-COM;LG;K62+;Cristal de pantalla;Compatible;3,20;;;6
+LG-K62PL-ANT-COM;LG;K62+;Antena / coaxial;Compatible;2,79;;;6
+LG-K62PL-HUE-COM;LG;K62+;Botón home / huella;Compatible;4,60;;;6
+LG-K8S-MAR-COM;LG;K8s;Marco / chasis;Compatible;5,00;;;6
+LG-K8S-BOT-COM;LG;K8s;Botones laterales;Compatible;2,55;;;6
+LG-K8S-CRI-COM;LG;K8s;Cristal de pantalla;Compatible;2,55;;;6
+LG-K8S-ANT-COM;LG;K8s;Antena / coaxial;Compatible;2,25;;;6
+LG-K8S-HUE-COM;LG;K8s;Botón home / huella;Compatible;3,70;;;6
+LG-S2PL-MAR-COM;LG;Stylus 2 Plus;Marco / chasis;Compatible;5,75;;;6
+LG-S2PL-BOT-COM;LG;Stylus 2 Plus;Botones laterales;Compatible;2,95;;;6
+LG-S2PL-CRI-COM;LG;Stylus 2 Plus;Cristal de pantalla;Compatible;2,95;;;6
+LG-S2PL-ANT-COM;LG;Stylus 2 Plus;Antena / coaxial;Compatible;2,55;;;6
+LG-S2PL-HUE-COM;LG;Stylus 2 Plus;Botón home / huella;Compatible;4,25;;;6
+LG-G4-MAR-COM;LG;G4;Marco / chasis;Compatible;7,85;;;6
+LG-G4-BOT-COM;LG;G4;Botones laterales;Compatible;4,00;;;6
+LG-G4-CRI-COM;LG;G4;Cristal de pantalla;Compatible;4,00;;;6
+LG-G4-ANT-COM;LG;G4;Antena / coaxial;Compatible;3,49;;;6
+LG-K10-MAR-COM;LG;K10;Marco / chasis;Compatible;5,00;;;6
+LG-K10-BOT-COM;LG;K10;Botones laterales;Compatible;2,55;;;6
+LG-K10-CRI-COM;LG;K10;Cristal de pantalla;Compatible;2,55;;;6
+LG-K10-ANT-COM;LG;K10;Antena / coaxial;Compatible;2,25;;;6
+LG-K10-HUE-COM;LG;K10;Botón home / huella;Compatible;3,70;;;6
+LG-K4-MAR-COM;LG;K4;Marco / chasis;Compatible;5,00;;;6
+LG-K4-BOT-COM;LG;K4;Botones laterales;Compatible;2,55;;;6
+LG-K4-CRI-COM;LG;K4;Cristal de pantalla;Compatible;2,55;;;6
+LG-K4-ANT-COM;LG;K4;Antena / coaxial;Compatible;2,25;;;6
+LG-K4-HUE-COM;LG;K4;Botón home / huella;Compatible;3,70;;;6
+LG-S2-MAR-COM;LG;Stylus 2;Marco / chasis;Compatible;5,75;;;6
+LG-S2-BOT-COM;LG;Stylus 2;Botones laterales;Compatible;2,95;;;6
+LG-S2-CRI-COM;LG;Stylus 2;Cristal de pantalla;Compatible;2,95;;;6
+LG-S2-ANT-COM;LG;Stylus 2;Antena / coaxial;Compatible;2,55;;;6
+LG-S2-HUE-COM;LG;Stylus 2;Botón home / huella;Compatible;4,25;;;6
+LG-V10-MAR-COM;LG;V10;Marco / chasis;Compatible;7,85;;;6
+LG-V10-BOT-COM;LG;V10;Botones laterales;Compatible;4,00;;;6
+LG-V10-CRI-COM;LG;V10;Cristal de pantalla;Compatible;4,00;;;6
+LG-V10-ANT-COM;LG;V10;Antena / coaxial;Compatible;3,49;;;6
+LG-V10-HUE-COM;LG;V10;Botón home / huella;Compatible;5,79;;;6
+LG-G5-MAR-COM;LG;G5;Marco / chasis;Compatible;7,85;;;6
+LG-G5-BOT-COM;LG;G5;Botones laterales;Compatible;4,00;;;6
+LG-G5-CRI-COM;LG;G5;Cristal de pantalla;Compatible;4,00;;;6
+LG-G5-ANT-COM;LG;G5;Antena / coaxial;Compatible;3,49;;;6
+LG-G5-HUE-COM;LG;G5;Botón home / huella;Compatible;5,79;;;6
+LG-K5-MAR-COM;LG;K5;Marco / chasis;Compatible;5,00;;;6
+LG-K5-BOT-COM;LG;K5;Botones laterales;Compatible;2,55;;;6
+LG-K5-CRI-COM;LG;K5;Cristal de pantalla;Compatible;2,55;;;6
+LG-K5-ANT-COM;LG;K5;Antena / coaxial;Compatible;2,25;;;6
+LG-K5-HUE-COM;LG;K5;Botón home / huella;Compatible;3,70;;;6
+LG-K8-MAR-COM;LG;K8;Marco / chasis;Compatible;5,00;;;6
+LG-K8-BOT-COM;LG;K8;Botones laterales;Compatible;2,55;;;6
+LG-K8-CRI-COM;LG;K8;Cristal de pantalla;Compatible;2,55;;;6
+LG-K8-ANT-COM;LG;K8;Antena / coaxial;Compatible;2,25;;;6
+LG-K8-HUE-COM;LG;K8;Botón home / huella;Compatible;3,70;;;6
+LG-XCAM-MAR-COM;LG;X Cam;Marco / chasis;Compatible;5,00;;;6
+LG-XCAM-BOT-COM;LG;X Cam;Botones laterales;Compatible;2,55;;;6
+LG-XCAM-CRI-COM;LG;X Cam;Cristal de pantalla;Compatible;2,55;;;6
+LG-XCAM-ANT-COM;LG;X Cam;Antena / coaxial;Compatible;2,25;;;6
+LG-XCAM-HUE-COM;LG;X Cam;Botón home / huella;Compatible;3,70;;;6
+LG-XS-MAR-COM;LG;X Screen;Marco / chasis;Compatible;5,00;;;6
+LG-XS-BOT-COM;LG;X Screen;Botones laterales;Compatible;2,55;;;6
+LG-XS-CRI-COM;LG;X Screen;Cristal de pantalla;Compatible;2,55;;;6
+LG-XS-ANT-COM;LG;X Screen;Antena / coaxial;Compatible;2,25;;;6
+LG-XS-HUE-COM;LG;X Screen;Botón home / huella;Compatible;3,70;;;6
+LG-XPW-MAR-COM;LG;X Power;Marco / chasis;Compatible;5,00;;;6
+LG-XPW-BOT-COM;LG;X Power;Botones laterales;Compatible;2,55;;;6
+LG-XPW-CRI-COM;LG;X Power;Cristal de pantalla;Compatible;2,55;;;6
+LG-XPW-ANT-COM;LG;X Power;Antena / coaxial;Compatible;2,25;;;6
+LG-XPW-HUE-COM;LG;X Power;Botón home / huella;Compatible;3,70;;;6
+LG-K3-MAR-COM;LG;K3;Marco / chasis;Compatible;5,00;;;6
+LG-K3-BOT-COM;LG;K3;Botones laterales;Compatible;2,55;;;6
+LG-K3-CRI-COM;LG;K3;Cristal de pantalla;Compatible;2,55;;;6
+LG-K3-ANT-COM;LG;K3;Antena / coaxial;Compatible;2,25;;;6
+LG-K3-HUE-COM;LG;K3;Botón home / huella;Compatible;3,70;;;6
+LG-K417-MAR-COM;LG;K4 2017;Marco / chasis;Compatible;5,65;;;6
+LG-K417-BOT-COM;LG;K4 2017;Botones laterales;Compatible;2,89;;;6
+LG-K417-CRI-COM;LG;K4 2017;Cristal de pantalla;Compatible;2,89;;;6
+LG-K417-ANT-COM;LG;K4 2017;Antena / coaxial;Compatible;2,50;;;6
+LG-K417-HUE-COM;LG;K4 2017;Botón home / huella;Compatible;4,15;;;6
+LG-K817-MAR-COM;LG;K8 2017;Marco / chasis;Compatible;5,65;;;6
+LG-K817-BOT-COM;LG;K8 2017;Botones laterales;Compatible;2,89;;;6
+LG-K817-CRI-COM;LG;K8 2017;Cristal de pantalla;Compatible;2,89;;;6
+LG-K817-ANT-COM;LG;K8 2017;Antena / coaxial;Compatible;2,50;;;6
+LG-K817-HUE-COM;LG;K8 2017;Botón home / huella;Compatible;4,15;;;6
+LG-S3-MAR-COM;LG;Stylus 3;Marco / chasis;Compatible;6,49;;;6
+LG-S3-BOT-COM;LG;Stylus 3;Botones laterales;Compatible;3,35;;;6
+LG-S3-CRI-COM;LG;Stylus 3;Cristal de pantalla;Compatible;3,30;;;6
+LG-S3-ANT-COM;LG;Stylus 3;Antena / coaxial;Compatible;2,89;;;6
+LG-S3-HUE-COM;LG;Stylus 3;Botón home / huella;Compatible;4,79;;;6
+LG-K1017-MAR-COM;LG;K10 2017;Marco / chasis;Compatible;5,65;;;6
+LG-K1017-BOT-COM;LG;K10 2017;Botones laterales;Compatible;2,89;;;6
+LG-K1017-CRI-COM;LG;K10 2017;Cristal de pantalla;Compatible;2,89;;;6
+LG-K1017-ANT-COM;LG;K10 2017;Antena / coaxial;Compatible;2,50;;;6
+LG-K1017-HUE-COM;LG;K10 2017;Botón home / huella;Compatible;4,15;;;6
+LG-G6-MAR-COM;LG;G6;Marco / chasis;Compatible;8,80;;;6
+LG-G6-BOT-COM;LG;G6;Botones laterales;Compatible;4,50;;;6
+LG-G6-CRI-COM;LG;G6;Cristal de pantalla;Compatible;4,50;;;6
+LG-G6-ANT-COM;LG;G6;Antena / coaxial;Compatible;3,90;;;6
+LG-G6-HUE-COM;LG;G6;Botón home / huella;Compatible;6,50;;;6
+LG-XPW2-MAR-COM;LG;X Power 2;Marco / chasis;Compatible;5,65;;;6
+LG-XPW2-BOT-COM;LG;X Power 2;Botones laterales;Compatible;2,89;;;6
+LG-XPW2-CRI-COM;LG;X Power 2;Cristal de pantalla;Compatible;2,89;;;6
+LG-XPW2-ANT-COM;LG;X Power 2;Antena / coaxial;Compatible;2,50;;;6
+LG-XPW2-HUE-COM;LG;X Power 2;Botón home / huella;Compatible;4,15;;;6
+LG-Q8-MAR-COM;LG;Q8;Marco / chasis;Compatible;6,49;;;6
+LG-Q8-BOT-COM;LG;Q8;Botones laterales;Compatible;3,35;;;6
+LG-Q8-CRI-COM;LG;Q8;Cristal de pantalla;Compatible;3,30;;;6
+LG-Q8-ANT-COM;LG;Q8;Antena / coaxial;Compatible;2,89;;;6
+LG-Q8-HUE-COM;LG;Q8;Botón home / huella;Compatible;4,79;;;6
+LG-Q6-MAR-COM;LG;Q6;Marco / chasis;Compatible;6,49;;;6
+LG-Q6-BOT-COM;LG;Q6;Botones laterales;Compatible;3,35;;;6
+LG-Q6-CRI-COM;LG;Q6;Cristal de pantalla;Compatible;3,30;;;6
+LG-Q6-ANT-COM;LG;Q6;Antena / coaxial;Compatible;2,89;;;6
+LG-Q6-HUE-COM;LG;Q6;Botón home / huella;Compatible;4,79;;;6
+LG-V30-MAR-COM;LG;V30;Marco / chasis;Compatible;8,80;;;6
+LG-V30-BOT-COM;LG;V30;Botones laterales;Compatible;4,50;;;6
+LG-V30-CRI-COM;LG;V30;Cristal de pantalla;Compatible;4,50;;;6
+LG-V30-ANT-COM;LG;V30;Antena / coaxial;Compatible;3,90;;;6
+LG-V30-HUE-COM;LG;V30;Botón home / huella;Compatible;6,50;;;6
+LG-K11-MAR-COM;LG;K11;Marco / chasis;Compatible;5,65;;;6
+LG-K11-BOT-COM;LG;K11;Botones laterales;Compatible;2,89;;;6
+LG-K11-CRI-COM;LG;K11;Cristal de pantalla;Compatible;2,89;;;6
+LG-K11-ANT-COM;LG;K11;Antena / coaxial;Compatible;2,50;;;6
+LG-K11-HUE-COM;LG;K11;Botón home / huella;Compatible;4,15;;;6
+LG-K9-MAR-COM;LG;K9;Marco / chasis;Compatible;5,65;;;6
+LG-K9-BOT-COM;LG;K9;Botones laterales;Compatible;2,89;;;6
+LG-K9-CRI-COM;LG;K9;Cristal de pantalla;Compatible;2,89;;;6
+LG-K9-ANT-COM;LG;K9;Antena / coaxial;Compatible;2,50;;;6
+LG-K9-HUE-COM;LG;K9;Botón home / huella;Compatible;4,15;;;6
+LG-G7T-MAR-COM;LG;G7 ThinQ;Marco / chasis;Compatible;8,80;;;6
+LG-G7T-BOT-COM;LG;G7 ThinQ;Botones laterales;Compatible;4,50;;;6
+LG-G7T-CRI-COM;LG;G7 ThinQ;Cristal de pantalla;Compatible;4,50;;;6
+LG-G7T-ANT-COM;LG;G7 ThinQ;Antena / coaxial;Compatible;3,90;;;6
+LG-G7T-HUE-COM;LG;G7 ThinQ;Botón home / huella;Compatible;6,50;;;6
+LG-QS-MAR-COM;LG;Q Stylus;Marco / chasis;Compatible;6,49;;;6
+LG-QS-BOT-COM;LG;Q Stylus;Botones laterales;Compatible;3,35;;;6
+LG-QS-CRI-COM;LG;Q Stylus;Cristal de pantalla;Compatible;3,30;;;6
+LG-QS-ANT-COM;LG;Q Stylus;Antena / coaxial;Compatible;2,89;;;6
+LG-QS-HUE-COM;LG;Q Stylus;Botón home / huella;Compatible;4,79;;;6
+LG-Q7-MAR-COM;LG;Q7;Marco / chasis;Compatible;6,49;;;6
+LG-Q7-BOT-COM;LG;Q7;Botones laterales;Compatible;3,35;;;6
+LG-Q7-CRI-COM;LG;Q7;Cristal de pantalla;Compatible;3,30;;;6
+LG-Q7-ANT-COM;LG;Q7;Antena / coaxial;Compatible;2,89;;;6
+LG-Q7-HUE-COM;LG;Q7;Botón home / huella;Compatible;4,79;;;6
+LG-V40T-MAR-COM;LG;V40 ThinQ;Marco / chasis;Compatible;8,80;;;6
+LG-V40T-BOT-COM;LG;V40 ThinQ;Botones laterales;Compatible;4,50;;;6
+LG-V40T-CRI-COM;LG;V40 ThinQ;Cristal de pantalla;Compatible;4,50;;;6
+LG-V40T-ANT-COM;LG;V40 ThinQ;Antena / coaxial;Compatible;3,90;;;6
+LG-V40T-HUE-COM;LG;V40 ThinQ;Botón home / huella;Compatible;6,50;;;6
+LG-G7FIT-MAR-COM;LG;G7 Fit;Marco / chasis;Compatible;8,80;;;6
+LG-G7FIT-BOT-COM;LG;G7 Fit;Botones laterales;Compatible;4,50;;;6
+LG-G7FIT-CRI-COM;LG;G7 Fit;Cristal de pantalla;Compatible;4,50;;;6
+LG-G7FIT-ANT-COM;LG;G7 Fit;Antena / coaxial;Compatible;3,90;;;6
+LG-G7FIT-HUE-COM;LG;G7 Fit;Botón home / huella;Compatible;6,50;;;6
+LG-K30-MAR-COM;LG;K30;Marco / chasis;Compatible;5,65;;;6
+LG-K30-BOT-COM;LG;K30;Botones laterales;Compatible;2,89;;;6
+LG-K30-CRI-COM;LG;K30;Cristal de pantalla;Compatible;2,89;;;6
+LG-K30-ANT-COM;LG;K30;Antena / coaxial;Compatible;2,50;;;6
+LG-K30-HUE-COM;LG;K30;Botón home / huella;Compatible;4,15;;;6
+LG-K40-MAR-COM;LG;K40;Marco / chasis;Compatible;5,65;;;6
+LG-K40-BOT-COM;LG;K40;Botones laterales;Compatible;2,89;;;6
+LG-K40-CRI-COM;LG;K40;Cristal de pantalla;Compatible;2,89;;;6
+LG-K40-ANT-COM;LG;K40;Antena / coaxial;Compatible;2,50;;;6
+LG-K40-HUE-COM;LG;K40;Botón home / huella;Compatible;4,15;;;6
+LG-Q60-MAR-COM;LG;Q60;Marco / chasis;Compatible;6,49;;;6
+LG-Q60-BOT-COM;LG;Q60;Botones laterales;Compatible;3,35;;;6
+LG-Q60-CRI-COM;LG;Q60;Cristal de pantalla;Compatible;3,30;;;6
+LG-Q60-ANT-COM;LG;Q60;Antena / coaxial;Compatible;2,89;;;6
+LG-Q60-HUE-COM;LG;Q60;Botón home / huella;Compatible;4,79;;;6
+LG-V50T5-MAR-COM;LG;V50 ThinQ 5G;Marco / chasis;Compatible;8,80;;;6
+LG-V50T5-BOT-COM;LG;V50 ThinQ 5G;Botones laterales;Compatible;4,50;;;6
+LG-V50T5-CRI-COM;LG;V50 ThinQ 5G;Cristal de pantalla;Compatible;4,50;;;6
+LG-V50T5-ANT-COM;LG;V50 ThinQ 5G;Antena / coaxial;Compatible;3,90;;;6
+LG-V50T5-HUE-COM;LG;V50 ThinQ 5G;Botón home / huella;Compatible;6,50;;;6
+LG-V50T5-NFC-COM;LG;V50 ThinQ 5G;NFC y carga inalámbrica;Compatible;8,75;;;6
+LG-G8ST-MAR-COM;LG;G8s ThinQ;Marco / chasis;Compatible;8,80;;;6
+LG-G8ST-BOT-COM;LG;G8s ThinQ;Botones laterales;Compatible;4,50;;;6
+LG-G8ST-CRI-COM;LG;G8s ThinQ;Cristal de pantalla;Compatible;4,50;;;6
+LG-G8ST-ANT-COM;LG;G8s ThinQ;Antena / coaxial;Compatible;3,90;;;6
+LG-G8ST-HUE-COM;LG;G8s ThinQ;Botón home / huella;Compatible;6,50;;;6
+LG-G8ST-NFC-COM;LG;G8s ThinQ;NFC y carga inalámbrica;Compatible;8,75;;;6
+LG-K50-MAR-COM;LG;K50;Marco / chasis;Compatible;5,65;;;6
+LG-K50-BOT-COM;LG;K50;Botones laterales;Compatible;2,89;;;6
+LG-K50-CRI-COM;LG;K50;Cristal de pantalla;Compatible;2,89;;;6
+LG-K50-ANT-COM;LG;K50;Antena / coaxial;Compatible;2,50;;;6
+LG-K50-HUE-COM;LG;K50;Botón home / huella;Compatible;4,15;;;6
+LG-K40S-MAR-COM;LG;K40S;Marco / chasis;Compatible;5,65;;;6
+LG-K40S-BOT-COM;LG;K40S;Botones laterales;Compatible;2,89;;;6
+LG-K40S-CRI-COM;LG;K40S;Cristal de pantalla;Compatible;2,89;;;6
+LG-K40S-ANT-COM;LG;K40S;Antena / coaxial;Compatible;2,50;;;6
+LG-K40S-HUE-COM;LG;K40S;Botón home / huella;Compatible;4,15;;;6
+LG-K50S-MAR-COM;LG;K50S;Marco / chasis;Compatible;5,65;;;6
+LG-K50S-BOT-COM;LG;K50S;Botones laterales;Compatible;2,89;;;6
+LG-K50S-CRI-COM;LG;K50S;Cristal de pantalla;Compatible;2,89;;;6
+LG-K50S-ANT-COM;LG;K50S;Antena / coaxial;Compatible;2,50;;;6
+LG-K50S-HUE-COM;LG;K50S;Botón home / huella;Compatible;4,15;;;6
+LG-G8XT-MAR-COM;LG;G8X ThinQ;Marco / chasis;Compatible;8,80;;;6
+LG-G8XT-BOT-COM;LG;G8X ThinQ;Botones laterales;Compatible;4,50;;;6
+LG-G8XT-CRI-COM;LG;G8X ThinQ;Cristal de pantalla;Compatible;4,50;;;6
+LG-G8XT-ANT-COM;LG;G8X ThinQ;Antena / coaxial;Compatible;3,90;;;6
+LG-G8XT-HUE-COM;LG;G8X ThinQ;Botón home / huella;Compatible;6,50;;;6
+LG-G8XT-NFC-COM;LG;G8X ThinQ;NFC y carga inalámbrica;Compatible;8,75;;;6
+LG-K51S-MAR-COM;LG;K51S;Marco / chasis;Compatible;6,25;;;6
+LG-K51S-BOT-COM;LG;K51S;Botones laterales;Compatible;3,20;;;6
+LG-K51S-CRI-COM;LG;K51S;Cristal de pantalla;Compatible;3,20;;;6
+LG-K51S-ANT-COM;LG;K51S;Antena / coaxial;Compatible;2,79;;;6
+LG-K51S-HUE-COM;LG;K51S;Botón home / huella;Compatible;4,60;;;6
+LG-V60T5-MAR-COM;LG;V60 ThinQ 5G;Marco / chasis;Compatible;9,79;;;6
+LG-V60T5-BOT-COM;LG;V60 ThinQ 5G;Botones laterales;Compatible;5,00;;;6
+LG-V60T5-CRI-COM;LG;V60 ThinQ 5G;Cristal de pantalla;Compatible;5,00;;;6
+LG-V60T5-ANT-COM;LG;V60 ThinQ 5G;Antena / coaxial;Compatible;4,35;;;6
+LG-V60T5-HUE-COM;LG;V60 ThinQ 5G;Botón home / huella;Compatible;7,25;;;6
+LG-V60T5-NFC-COM;LG;V60 ThinQ 5G;NFC y carga inalámbrica;Compatible;9,70;;;6
+LG-K41S-MAR-COM;LG;K41S;Marco / chasis;Compatible;6,25;;;6
+LG-K41S-BOT-COM;LG;K41S;Botones laterales;Compatible;3,20;;;6
+LG-K41S-CRI-COM;LG;K41S;Cristal de pantalla;Compatible;3,20;;;6
+LG-K41S-ANT-COM;LG;K41S;Antena / coaxial;Compatible;2,79;;;6
+LG-K41S-HUE-COM;LG;K41S;Botón home / huella;Compatible;4,60;;;6
+LG-K61-MAR-COM;LG;K61;Marco / chasis;Compatible;6,25;;;6
+LG-K61-BOT-COM;LG;K61;Botones laterales;Compatible;3,20;;;6
+LG-K61-CRI-COM;LG;K61;Cristal de pantalla;Compatible;3,20;;;6
+LG-K61-ANT-COM;LG;K61;Antena / coaxial;Compatible;2,79;;;6
+LG-K61-HUE-COM;LG;K61;Botón home / huella;Compatible;4,60;;;6
+LG-V-MAR-COM;LG;Velvet;Marco / chasis;Compatible;8,20;;;6
+LG-V-BOT-COM;LG;Velvet;Botones laterales;Compatible;4,20;;;6
+LG-V-CRI-COM;LG;Velvet;Cristal de pantalla;Compatible;4,20;;;6
+LG-V-ANT-COM;LG;Velvet;Antena / coaxial;Compatible;3,65;;;6
+LG-V-HUE-COM;LG;Velvet;Botón home / huella;Compatible;6,05;;;6
+LG-K22-MAR-COM;LG;K22;Marco / chasis;Compatible;6,25;;;6
+LG-K22-BOT-COM;LG;K22;Botones laterales;Compatible;3,20;;;6
+LG-K22-CRI-COM;LG;K22;Cristal de pantalla;Compatible;3,20;;;6
+LG-K22-ANT-COM;LG;K22;Antena / coaxial;Compatible;2,79;;;6
+LG-K22-HUE-COM;LG;K22;Botón home / huella;Compatible;4,60;;;6
+LG-K42-MAR-COM;LG;K42;Marco / chasis;Compatible;6,25;;;6
+LG-K42-BOT-COM;LG;K42;Botones laterales;Compatible;3,20;;;6
+LG-K42-CRI-COM;LG;K42;Cristal de pantalla;Compatible;3,20;;;6
+LG-K42-ANT-COM;LG;K42;Antena / coaxial;Compatible;2,79;;;6
+LG-K42-HUE-COM;LG;K42;Botón home / huella;Compatible;4,60;;;6
+LG-K52-MAR-COM;LG;K52;Marco / chasis;Compatible;6,25;;;6
+LG-K52-BOT-COM;LG;K52;Botones laterales;Compatible;3,20;;;6
+LG-K52-CRI-COM;LG;K52;Cristal de pantalla;Compatible;3,20;;;6
+LG-K52-ANT-COM;LG;K52;Antena / coaxial;Compatible;2,79;;;6
+LG-K52-HUE-COM;LG;K52;Botón home / huella;Compatible;4,60;;;6
+LG-K62-MAR-COM;LG;K62;Marco / chasis;Compatible;6,25;;;6
+LG-K62-BOT-COM;LG;K62;Botones laterales;Compatible;3,20;;;6
+LG-K62-CRI-COM;LG;K62;Cristal de pantalla;Compatible;3,20;;;6
+LG-K62-ANT-COM;LG;K62;Antena / coaxial;Compatible;2,79;;;6
+LG-K62-HUE-COM;LG;K62;Botón home / huella;Compatible;4,60;;;6
+LG-W-MAR-COM;LG;Wing;Marco / chasis;Compatible;9,79;;;6
+LG-W-BOT-COM;LG;Wing;Botones laterales;Compatible;5,00;;;6
+LG-W-CRI-COM;LG;Wing;Cristal de pantalla;Compatible;5,00;;;6
+LG-W-ANT-COM;LG;Wing;Antena / coaxial;Compatible;4,35;;;6
+LG-W-HUE-COM;LG;Wing;Botón home / huella;Compatible;7,25;;;6
+LG-W-NFC-COM;LG;Wing;NFC y carga inalámbrica;Compatible;9,70;;;6

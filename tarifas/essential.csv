@@ -1,0 +1,45 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+ES-PH1-PAN-COM;Essential;PH-1;Pantalla;Compatible;15,15;14,70;14,24;6
+ES-PH1-BAT-COM;Essential;PH-1;Batería;Compatible;9,65;;;6
+ES-PH1-CON-COM;Essential;PH-1;Conector de carga;Compatible;4,60;;;6
+ES-PH1-TAP-COM;Essential;PH-1;Tapa trasera;Compatible;5,40;;;6
+ES-PH1-CTR-COM;Essential;PH-1;Cámara trasera;Compatible;7,59;;;6
+ES-PH1-CFR-COM;Essential;PH-1;Cámara frontal;Compatible;4,99;;;6
+ES-PH1-LEN-COM;Essential;PH-1;Lente de cámara;Compatible;2,19;;;6
+ES-PH1-ALT-COM;Essential;PH-1;Altavoz;Compatible;3,65;;;6
+ES-PH1-AUR-COM;Essential;PH-1;Auricular de llamada;Compatible;2,65;;;6
+ES-PH1-FLX-COM;Essential;PH-1;Flex de encendido y volumen;Compatible;2,49;;;6
+ES-PH1-SIM-COM;Essential;PH-1;Bandeja SIM;Compatible;2,55;;;6
+ES-P-PAN-COM;Essential;Phone;Pantalla;Compatible;15,15;14,70;14,24;6
+ES-P-BAT-COM;Essential;Phone;Batería;Compatible;9,65;;;6
+ES-P-CON-COM;Essential;Phone;Conector de carga;Compatible;4,60;;;6
+ES-P-TAP-COM;Essential;Phone;Tapa trasera;Compatible;5,40;;;6
+ES-P-CTR-COM;Essential;Phone;Cámara trasera;Compatible;7,59;;;6
+ES-P-CFR-COM;Essential;Phone;Cámara frontal;Compatible;4,99;;;6
+ES-P-LEN-COM;Essential;Phone;Lente de cámara;Compatible;2,19;;;6
+ES-P-ALT-COM;Essential;Phone;Altavoz;Compatible;3,65;;;6
+ES-P-AUR-COM;Essential;Phone;Auricular de llamada;Compatible;2,65;;;6
+ES-P-FLX-COM;Essential;Phone;Flex de encendido y volumen;Compatible;2,49;;;6
+ES-P-SIM-COM;Essential;Phone;Bandeja SIM;Compatible;2,55;;;6
+ES-PH1-PRO-NA;Essential;PH-1;Cristal templado;Estándar;1,30;;;
+ES-PH1-PRO-PRI;Essential;PH-1;Cristal templado;Privacidad;4,00;;;
+ES-PH1-FUN-SIL;Essential;PH-1;Funda;Silicona;2,50;;;
+ES-PH1-FUN-TPU;Essential;PH-1;Funda;Transparente;2,95;;;
+ES-PH1-FUN-LIB;Essential;PH-1;Funda;Libro;3,70;;;
+ES-PH1-FUN-ANT;Essential;PH-1;Funda;Antigolpes;3,10;;;
+ES-P-PRO-NA;Essential;Phone;Cristal templado;Estándar;1,30;;;
+ES-P-PRO-PRI;Essential;Phone;Cristal templado;Privacidad;4,00;;;
+ES-P-FUN-SIL;Essential;Phone;Funda;Silicona;2,50;;;
+ES-P-FUN-TPU;Essential;Phone;Funda;Transparente;2,95;;;
+ES-P-FUN-LIB;Essential;Phone;Funda;Libro;3,70;;;
+ES-P-FUN-ANT;Essential;Phone;Funda;Antigolpes;3,10;;;
+ES-PH1-MAR-COM;Essential;PH-1;Marco / chasis;Compatible;6,49;;;6
+ES-PH1-BOT-COM;Essential;PH-1;Botones laterales;Compatible;3,35;;;6
+ES-PH1-CRI-COM;Essential;PH-1;Cristal de pantalla;Compatible;3,30;;;6
+ES-PH1-ANT-COM;Essential;PH-1;Antena / coaxial;Compatible;2,89;;;6
+ES-PH1-HUE-COM;Essential;PH-1;Botón home / huella;Compatible;4,79;;;6
+ES-P-MAR-COM;Essential;Phone;Marco / chasis;Compatible;6,49;;;6
+ES-P-BOT-COM;Essential;Phone;Botones laterales;Compatible;3,35;;;6
+ES-P-CRI-COM;Essential;Phone;Cristal de pantalla;Compatible;3,30;;;6
+ES-P-ANT-COM;Essential;Phone;Antena / coaxial;Compatible;2,89;;;6
+ES-P-HUE-COM;Essential;Phone;Botón home / huella;Compatible;4,79;;;6

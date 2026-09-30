@@ -1,0 +1,1755 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+IX-ZFL-PAN-COM;Infinix;Zero Flip;Pantalla;Compatible;63,85;61,93;60,02;6
+IX-ZFL-BAT-COM;Infinix;Zero Flip;Batería;Compatible;10,39;10,08;9,77;6
+IX-ZFL-CON-COM;Infinix;Zero Flip;Conector de carga;Compatible;4,35;;;6
+IX-ZFL-TAP-COM;Infinix;Zero Flip;Tapa trasera;Compatible;5,85;;;6
+IX-ZFL-CTR-COM;Infinix;Zero Flip;Cámara trasera;Compatible;9,49;;;6
+IX-ZFL-CFR-COM;Infinix;Zero Flip;Cámara frontal;Compatible;5,35;;;6
+IX-ZFL-LEN-COM;Infinix;Zero Flip;Lente de cámara;Compatible;2,60;;;6
+IX-ZFL-ALT-COM;Infinix;Zero Flip;Altavoz;Compatible;3,69;;;6
+IX-ZFL-AUR-COM;Infinix;Zero Flip;Auricular de llamada;Compatible;3,05;;;6
+IX-ZFL-FLX-COM;Infinix;Zero Flip;Flex de encendido y volumen;Compatible;3,29;;;6
+IX-ZFL-SIM-COM;Infinix;Zero Flip;Bandeja SIM;Compatible;2,80;;;6
+IX-ZU-PAN-COM;Infinix;Zero Ultra;Pantalla;Compatible;18,15;17,61;17,06;6
+IX-ZU-BAT-COM;Infinix;Zero Ultra;Batería;Compatible;8,89;;;6
+IX-ZU-CON-COM;Infinix;Zero Ultra;Conector de carga;Compatible;4,10;;;6
+IX-ZU-TAP-COM;Infinix;Zero Ultra;Tapa trasera;Compatible;5,60;;;6
+IX-ZU-CTR-COM;Infinix;Zero Ultra;Cámara trasera;Compatible;7,50;;;6
+IX-ZU-CFR-COM;Infinix;Zero Ultra;Cámara frontal;Compatible;3,89;;;6
+IX-ZU-LEN-COM;Infinix;Zero Ultra;Lente de cámara;Compatible;2,65;;;6
+IX-ZU-ALT-COM;Infinix;Zero Ultra;Altavoz;Compatible;3,70;;;6
+IX-ZU-AUR-COM;Infinix;Zero Ultra;Auricular de llamada;Compatible;2,99;;;6
+IX-ZU-FLX-COM;Infinix;Zero Ultra;Flex de encendido y volumen;Compatible;2,99;;;6
+IX-ZU-SIM-COM;Infinix;Zero Ultra;Bandeja SIM;Compatible;2,99;;;6
+IX-ZERO8I-PAN-COM;Infinix;Zero 8i;Pantalla;Compatible;16,50;16,01;15,51;6
+IX-ZERO8I-BAT-COM;Infinix;Zero 8i;Batería;Compatible;8,89;;;6
+IX-ZERO8I-CON-COM;Infinix;Zero 8i;Conector de carga;Compatible;4,10;;;6
+IX-ZERO8I-TAP-COM;Infinix;Zero 8i;Tapa trasera;Compatible;5,60;;;6
+IX-ZERO8I-CTR-COM;Infinix;Zero 8i;Cámara trasera;Compatible;7,50;;;6
+IX-ZERO8I-CFR-COM;Infinix;Zero 8i;Cámara frontal;Compatible;3,89;;;6
+IX-ZERO8I-LEN-COM;Infinix;Zero 8i;Lente de cámara;Compatible;2,65;;;6
+IX-ZERO8I-ALT-COM;Infinix;Zero 8i;Altavoz;Compatible;3,70;;;6
+IX-ZERO8I-AUR-COM;Infinix;Zero 8i;Auricular de llamada;Compatible;2,99;;;6
+IX-ZERO8I-FLX-COM;Infinix;Zero 8i;Flex de encendido y volumen;Compatible;2,99;;;6
+IX-ZERO8I-SIM-COM;Infinix;Zero 8i;Bandeja SIM;Compatible;2,99;;;6
+IX-Z8-PAN-COM;Infinix;Zero 8;Pantalla;Compatible;16,50;16,01;15,51;6
+IX-Z8-BAT-COM;Infinix;Zero 8;Batería;Compatible;8,89;;;6
+IX-Z8-CON-COM;Infinix;Zero 8;Conector de carga;Compatible;4,10;;;6
+IX-Z8-TAP-COM;Infinix;Zero 8;Tapa trasera;Compatible;5,60;;;6
+IX-Z8-CTR-COM;Infinix;Zero 8;Cámara trasera;Compatible;7,50;;;6
+IX-Z8-CFR-COM;Infinix;Zero 8;Cámara frontal;Compatible;3,89;;;6
+IX-Z8-LEN-COM;Infinix;Zero 8;Lente de cámara;Compatible;2,65;;;6
+IX-Z8-ALT-COM;Infinix;Zero 8;Altavoz;Compatible;3,70;;;6
+IX-Z8-AUR-COM;Infinix;Zero 8;Auricular de llamada;Compatible;2,99;;;6
+IX-Z8-FLX-COM;Infinix;Zero 8;Flex de encendido y volumen;Compatible;2,99;;;6
+IX-Z8-SIM-COM;Infinix;Zero 8;Bandeja SIM;Compatible;2,99;;;6
+IX-HOT9P-PAN-COM;Infinix;Hot 9 Pro;Pantalla;Compatible;13,80;13,39;12,97;6
+IX-HOT9P-BAT-COM;Infinix;Hot 9 Pro;Batería;Compatible;7,60;;;6
+IX-HOT9P-CON-COM;Infinix;Hot 9 Pro;Conector de carga;Compatible;3,55;;;6
+IX-HOT9P-TAP-COM;Infinix;Hot 9 Pro;Tapa trasera;Compatible;4,95;;;6
+IX-HOT9P-CTR-COM;Infinix;Hot 9 Pro;Cámara trasera;Compatible;5,45;;;6
+IX-HOT9P-CFR-COM;Infinix;Hot 9 Pro;Cámara frontal;Compatible;3,45;;;6
+IX-HOT9P-LEN-COM;Infinix;Hot 9 Pro;Lente de cámara;Compatible;2,25;;;6
+IX-HOT9P-ALT-COM;Infinix;Hot 9 Pro;Altavoz;Compatible;3,29;;;6
+IX-HOT9P-AUR-COM;Infinix;Hot 9 Pro;Auricular de llamada;Compatible;2,45;;;6
+IX-HOT9P-FLX-COM;Infinix;Hot 9 Pro;Flex de encendido y volumen;Compatible;2,35;;;6
+IX-HOT9P-SIM-COM;Infinix;Hot 9 Pro;Bandeja SIM;Compatible;2,75;;;6
+IX-N7-PAN-COM;Infinix;Note 7;Pantalla;Compatible;16,10;15,62;15,13;6
+IX-N7-BAT-COM;Infinix;Note 7;Batería;Compatible;8,25;;;6
+IX-N7-CON-COM;Infinix;Note 7;Conector de carga;Compatible;4,40;;;6
+IX-N7-TAP-COM;Infinix;Note 7;Tapa trasera;Compatible;5,55;;;6
+IX-N7-CTR-COM;Infinix;Note 7;Cámara trasera;Compatible;6,19;;;6
+IX-N7-CFR-COM;Infinix;Note 7;Cámara frontal;Compatible;3,65;;;6
+IX-N7-LEN-COM;Infinix;Note 7;Lente de cámara;Compatible;2,20;;;6
+IX-N7-ALT-COM;Infinix;Note 7;Altavoz;Compatible;3,35;;;6
+IX-N7-AUR-COM;Infinix;Note 7;Auricular de llamada;Compatible;2,40;;;6
+IX-N7-FLX-COM;Infinix;Note 7;Flex de encendido y volumen;Compatible;2,29;;;6
+IX-N7-SIM-COM;Infinix;Note 7;Bandeja SIM;Compatible;2,60;;;6
+IX-S4-PAN-COM;Infinix;S4;Pantalla;Compatible;13,00;12,61;12,22;6
+IX-S4-BAT-COM;Infinix;S4;Batería;Compatible;8,90;;;6
+IX-S4-CON-COM;Infinix;S4;Conector de carga;Compatible;3,70;;;6
+IX-S4-TAP-COM;Infinix;S4;Tapa trasera;Compatible;4,80;;;6
+IX-S4-CTR-COM;Infinix;S4;Cámara trasera;Compatible;6,65;;;6
+IX-S4-CFR-COM;Infinix;S4;Cámara frontal;Compatible;4,65;;;6
+IX-S4-LEN-COM;Infinix;S4;Lente de cámara;Compatible;2,25;;;6
+IX-S4-ALT-COM;Infinix;S4;Altavoz;Compatible;3,59;;;6
+IX-S4-AUR-COM;Infinix;S4;Auricular de llamada;Compatible;2,69;;;6
+IX-S4-FLX-COM;Infinix;S4;Flex de encendido y volumen;Compatible;2,55;;;6
+IX-S4-SIM-COM;Infinix;S4;Bandeja SIM;Compatible;2,65;;;6
+IX-HOT7P-PAN-COM;Infinix;Hot 7 Pro;Pantalla;Compatible;13,00;12,61;12,22;6
+IX-HOT7P-BAT-COM;Infinix;Hot 7 Pro;Batería;Compatible;8,90;;;6
+IX-HOT7P-CON-COM;Infinix;Hot 7 Pro;Conector de carga;Compatible;3,70;;;6
+IX-HOT7P-TAP-COM;Infinix;Hot 7 Pro;Tapa trasera;Compatible;4,80;;;6
+IX-HOT7P-CTR-COM;Infinix;Hot 7 Pro;Cámara trasera;Compatible;6,65;;;6
+IX-HOT7P-CFR-COM;Infinix;Hot 7 Pro;Cámara frontal;Compatible;4,65;;;6
+IX-HOT7P-LEN-COM;Infinix;Hot 7 Pro;Lente de cámara;Compatible;2,25;;;6
+IX-HOT7P-ALT-COM;Infinix;Hot 7 Pro;Altavoz;Compatible;3,59;;;6
+IX-HOT7P-AUR-COM;Infinix;Hot 7 Pro;Auricular de llamada;Compatible;2,69;;;6
+IX-HOT7P-FLX-COM;Infinix;Hot 7 Pro;Flex de encendido y volumen;Compatible;2,55;;;6
+IX-HOT7P-SIM-COM;Infinix;Hot 7 Pro;Bandeja SIM;Compatible;2,65;;;6
+IX-HOT7-PAN-COM;Infinix;Hot 7;Pantalla;Compatible;13,00;12,61;12,22;6
+IX-HOT7-BAT-COM;Infinix;Hot 7;Batería;Compatible;8,90;;;6
+IX-HOT7-CON-COM;Infinix;Hot 7;Conector de carga;Compatible;3,70;;;6
+IX-HOT7-TAP-COM;Infinix;Hot 7;Tapa trasera;Compatible;4,80;;;6
+IX-HOT7-CTR-COM;Infinix;Hot 7;Cámara trasera;Compatible;6,65;;;6
+IX-HOT7-CFR-COM;Infinix;Hot 7;Cámara frontal;Compatible;4,65;;;6
+IX-HOT7-LEN-COM;Infinix;Hot 7;Lente de cámara;Compatible;2,25;;;6
+IX-HOT7-ALT-COM;Infinix;Hot 7;Altavoz;Compatible;3,59;;;6
+IX-HOT7-AUR-COM;Infinix;Hot 7;Auricular de llamada;Compatible;2,69;;;6
+IX-HOT7-FLX-COM;Infinix;Hot 7;Flex de encendido y volumen;Compatible;2,55;;;6
+IX-HOT7-SIM-COM;Infinix;Hot 7;Bandeja SIM;Compatible;2,65;;;6
+IX-HOTS-PAN-COM;Infinix;Hot S;Pantalla;Compatible;13,00;12,61;12,22;6
+IX-HOTS-BAT-COM;Infinix;Hot S;Batería;Compatible;8,90;;;6
+IX-HOTS-CON-COM;Infinix;Hot S;Conector de carga;Compatible;3,70;;;6
+IX-HOTS-TAP-COM;Infinix;Hot S;Tapa trasera;Compatible;4,80;;;6
+IX-HOTS-CTR-COM;Infinix;Hot S;Cámara trasera;Compatible;6,65;;;6
+IX-HOTS-CFR-COM;Infinix;Hot S;Cámara frontal;Compatible;4,65;;;6
+IX-HOTS-LEN-COM;Infinix;Hot S;Lente de cámara;Compatible;2,25;;;6
+IX-HOTS-ALT-COM;Infinix;Hot S;Altavoz;Compatible;3,59;;;6
+IX-HOTS-AUR-COM;Infinix;Hot S;Auricular de llamada;Compatible;2,69;;;6
+IX-HOTS-FLX-COM;Infinix;Hot S;Flex de encendido y volumen;Compatible;2,55;;;6
+IX-HOTS-SIM-COM;Infinix;Hot S;Bandeja SIM;Compatible;2,65;;;6
+IX-HOTS3-PAN-COM;Infinix;Hot S3;Pantalla;Compatible;13,00;12,61;12,22;6
+IX-HOTS3-BAT-COM;Infinix;Hot S3;Batería;Compatible;8,90;;;6
+IX-HOTS3-CON-COM;Infinix;Hot S3;Conector de carga;Compatible;3,70;;;6
+IX-HOTS3-TAP-COM;Infinix;Hot S3;Tapa trasera;Compatible;4,80;;;6
+IX-HOTS3-CTR-COM;Infinix;Hot S3;Cámara trasera;Compatible;6,65;;;6
+IX-HOTS3-CFR-COM;Infinix;Hot S3;Cámara frontal;Compatible;4,65;;;6
+IX-HOTS3-LEN-COM;Infinix;Hot S3;Lente de cámara;Compatible;2,25;;;6
+IX-HOTS3-ALT-COM;Infinix;Hot S3;Altavoz;Compatible;3,59;;;6
+IX-HOTS3-AUR-COM;Infinix;Hot S3;Auricular de llamada;Compatible;2,69;;;6
+IX-HOTS3-FLX-COM;Infinix;Hot S3;Flex de encendido y volumen;Compatible;2,55;;;6
+IX-HOTS3-SIM-COM;Infinix;Hot S3;Bandeja SIM;Compatible;2,65;;;6
+IX-HOT70P5-PAN-COM;Infinix;Hot 70 Pro 5G;Pantalla;Compatible;15,45;14,99;14,52;6
+IX-HOT70P5-BAT-COM;Infinix;Hot 70 Pro 5G;Batería;Compatible;8,20;;;6
+IX-HOT70P5-CON-COM;Infinix;Hot 70 Pro 5G;Conector de carga;Compatible;4,85;;;6
+IX-HOT70P5-TAP-COM;Infinix;Hot 70 Pro 5G;Tapa trasera;Compatible;5,95;;;6
+IX-HOT70P5-CTR-COM;Infinix;Hot 70 Pro 5G;Cámara trasera;Compatible;10,45;10,14;9,82;6
+IX-HOT70P5-CFR-COM;Infinix;Hot 70 Pro 5G;Cámara frontal;Compatible;7,00;;;6
+IX-HOT70P5-LEN-COM;Infinix;Hot 70 Pro 5G;Lente de cámara;Compatible;3,05;;;6
+IX-HOT70P5-ALT-COM;Infinix;Hot 70 Pro 5G;Altavoz;Compatible;4,65;;;6
+IX-HOT70P5-AUR-COM;Infinix;Hot 70 Pro 5G;Auricular de llamada;Compatible;3,75;;;6
+IX-HOT70P5-FLX-COM;Infinix;Hot 70 Pro 5G;Flex de encendido y volumen;Compatible;3,10;;;6
+IX-HOT70P5-SIM-COM;Infinix;Hot 70 Pro 5G;Bandeja SIM;Compatible;3,19;;;6
+IX-HOT9-PAN-COM;Infinix;Hot 9;Pantalla;Compatible;13,80;13,39;12,97;6
+IX-HOT9-BAT-COM;Infinix;Hot 9;Batería;Compatible;7,60;;;6
+IX-HOT9-CON-COM;Infinix;Hot 9;Conector de carga;Compatible;3,55;;;6
+IX-HOT9-TAP-COM;Infinix;Hot 9;Tapa trasera;Compatible;4,95;;;6
+IX-HOT9-CTR-COM;Infinix;Hot 9;Cámara trasera;Compatible;5,45;;;6
+IX-HOT9-CFR-COM;Infinix;Hot 9;Cámara frontal;Compatible;3,45;;;6
+IX-HOT9-LEN-COM;Infinix;Hot 9;Lente de cámara;Compatible;2,25;;;6
+IX-HOT9-ALT-COM;Infinix;Hot 9;Altavoz;Compatible;3,29;;;6
+IX-HOT9-AUR-COM;Infinix;Hot 9;Auricular de llamada;Compatible;2,45;;;6
+IX-HOT9-FLX-COM;Infinix;Hot 9;Flex de encendido y volumen;Compatible;2,35;;;6
+IX-HOT9-SIM-COM;Infinix;Hot 9;Bandeja SIM;Compatible;2,75;;;6
+IX-N30I-PAN-COM;Infinix;Note 30i;Pantalla;Compatible;17,15;16,64;16,12;6
+IX-N30I-BAT-COM;Infinix;Note 30i;Batería;Compatible;9,40;;;6
+IX-N30I-CON-COM;Infinix;Note 30i;Conector de carga;Compatible;5,05;;;6
+IX-N30I-TAP-COM;Infinix;Note 30i;Tapa trasera;Compatible;6,20;;;6
+IX-N30I-CTR-COM;Infinix;Note 30i;Cámara trasera;Compatible;8,65;;;6
+IX-N30I-CFR-COM;Infinix;Note 30i;Cámara frontal;Compatible;5,35;;;6
+IX-N30I-LEN-COM;Infinix;Note 30i;Lente de cámara;Compatible;2,30;;;6
+IX-N30I-ALT-COM;Infinix;Note 30i;Altavoz;Compatible;3,60;;;6
+IX-N30I-AUR-COM;Infinix;Note 30i;Auricular de llamada;Compatible;2,65;;;6
+IX-N30I-FLX-COM;Infinix;Note 30i;Flex de encendido y volumen;Compatible;2,79;;;6
+IX-N30I-SIM-COM;Infinix;Note 30i;Bandeja SIM;Compatible;2,55;;;6
+IX-N40X5-PAN-COM;Infinix;Note 40X 5G;Pantalla;Compatible;17,15;16,64;16,12;6
+IX-N40X5-BAT-COM;Infinix;Note 40X 5G;Batería;Compatible;9,40;;;6
+IX-N40X5-CON-COM;Infinix;Note 40X 5G;Conector de carga;Compatible;5,05;;;6
+IX-N40X5-TAP-COM;Infinix;Note 40X 5G;Tapa trasera;Compatible;6,20;;;6
+IX-N40X5-CTR-COM;Infinix;Note 40X 5G;Cámara trasera;Compatible;8,65;;;6
+IX-N40X5-CFR-COM;Infinix;Note 40X 5G;Cámara frontal;Compatible;5,35;;;6
+IX-N40X5-LEN-COM;Infinix;Note 40X 5G;Lente de cámara;Compatible;2,30;;;6
+IX-N40X5-ALT-COM;Infinix;Note 40X 5G;Altavoz;Compatible;3,60;;;6
+IX-N40X5-AUR-COM;Infinix;Note 40X 5G;Auricular de llamada;Compatible;2,65;;;6
+IX-N40X5-FLX-COM;Infinix;Note 40X 5G;Flex de encendido y volumen;Compatible;2,79;;;6
+IX-N40X5-SIM-COM;Infinix;Note 40X 5G;Bandeja SIM;Compatible;2,55;;;6
+IX-N50S5-PAN-COM;Infinix;Note 50S 5G;Pantalla;Compatible;18,05;17,51;16,97;6
+IX-N50S5-BAT-COM;Infinix;Note 50S 5G;Batería;Compatible;8,89;;;6
+IX-N50S5-CON-COM;Infinix;Note 50S 5G;Conector de carga;Compatible;6,00;;;6
+IX-N50S5-TAP-COM;Infinix;Note 50S 5G;Tapa trasera;Compatible;6,65;;;6
+IX-N50S5-CTR-COM;Infinix;Note 50S 5G;Cámara trasera;Compatible;11,85;11,49;11,14;6
+IX-N50S5-CFR-COM;Infinix;Note 50S 5G;Cámara frontal;Compatible;7,49;;;6
+IX-N50S5-LEN-COM;Infinix;Note 50S 5G;Lente de cámara;Compatible;2,95;;;6
+IX-N50S5-ALT-COM;Infinix;Note 50S 5G;Altavoz;Compatible;4,75;;;6
+IX-N50S5-AUR-COM;Infinix;Note 50S 5G;Auricular de llamada;Compatible;3,70;;;6
+IX-N50S5-FLX-COM;Infinix;Note 50S 5G;Flex de encendido y volumen;Compatible;3,05;;;6
+IX-N50S5-SIM-COM;Infinix;Note 50S 5G;Bandeja SIM;Compatible;3,00;;;6
+IX-N60U-PAN-COM;Infinix;Note 60 Ultra;Pantalla;Compatible;19,85;19,25;18,66;6
+IX-N60U-BAT-COM;Infinix;Note 60 Ultra;Batería;Compatible;8,89;;;6
+IX-N60U-CON-COM;Infinix;Note 60 Ultra;Conector de carga;Compatible;6,00;;;6
+IX-N60U-TAP-COM;Infinix;Note 60 Ultra;Tapa trasera;Compatible;6,65;;;6
+IX-N60U-CTR-COM;Infinix;Note 60 Ultra;Cámara trasera;Compatible;11,85;11,49;11,14;6
+IX-N60U-CFR-COM;Infinix;Note 60 Ultra;Cámara frontal;Compatible;7,49;;;6
+IX-N60U-LEN-COM;Infinix;Note 60 Ultra;Lente de cámara;Compatible;2,95;;;6
+IX-N60U-ALT-COM;Infinix;Note 60 Ultra;Altavoz;Compatible;4,75;;;6
+IX-N60U-AUR-COM;Infinix;Note 60 Ultra;Auricular de llamada;Compatible;3,70;;;6
+IX-N60U-FLX-COM;Infinix;Note 60 Ultra;Flex de encendido y volumen;Compatible;3,05;;;6
+IX-N60U-SIM-COM;Infinix;Note 60 Ultra;Bandeja SIM;Compatible;3,00;;;6
+IX-N7L-PAN-COM;Infinix;Note 7 Lite;Pantalla;Compatible;16,10;15,62;15,13;6
+IX-N7L-BAT-COM;Infinix;Note 7 Lite;Batería;Compatible;8,25;;;6
+IX-N7L-CON-COM;Infinix;Note 7 Lite;Conector de carga;Compatible;4,40;;;6
+IX-N7L-TAP-COM;Infinix;Note 7 Lite;Tapa trasera;Compatible;5,55;;;6
+IX-N7L-CTR-COM;Infinix;Note 7 Lite;Cámara trasera;Compatible;6,19;;;6
+IX-N7L-CFR-COM;Infinix;Note 7 Lite;Cámara frontal;Compatible;3,65;;;6
+IX-N7L-LEN-COM;Infinix;Note 7 Lite;Lente de cámara;Compatible;2,20;;;6
+IX-N7L-ALT-COM;Infinix;Note 7 Lite;Altavoz;Compatible;3,35;;;6
+IX-N7L-AUR-COM;Infinix;Note 7 Lite;Auricular de llamada;Compatible;2,40;;;6
+IX-N7L-FLX-COM;Infinix;Note 7 Lite;Flex de encendido y volumen;Compatible;2,29;;;6
+IX-N7L-SIM-COM;Infinix;Note 7 Lite;Bandeja SIM;Compatible;2,60;;;6
+IX-S7-PAN-COM;Infinix;Smart 7;Pantalla;Compatible;13,80;13,39;12,97;6
+IX-S7-BAT-COM;Infinix;Smart 7;Batería;Compatible;7,60;;;6
+IX-S7-CON-COM;Infinix;Smart 7;Conector de carga;Compatible;3,55;;;6
+IX-S7-TAP-COM-AZU;Infinix;Smart 7;Tapa trasera;Azul (Peacock Blue);4,95;;;6
+IX-S7-TAP-COM-BLA;Infinix;Smart 7;Tapa trasera;Blanco (Iceland White);4,95;;;6
+IX-S7-TAP-COM-NEG;Infinix;Smart 7;Tapa trasera;Negro (Polar Black);4,95;;;6
+IX-S7-TAP-COM-VER;Infinix;Smart 7;Tapa trasera;Verde (Coastal Green);4,95;;;6
+IX-S7-CTR-COM;Infinix;Smart 7;Cámara trasera;Compatible;5,45;;;6
+IX-S7-CFR-COM;Infinix;Smart 7;Cámara frontal;Compatible;3,45;;;6
+IX-S7-LEN-COM;Infinix;Smart 7;Lente de cámara;Compatible;2,25;;;6
+IX-S7-ALT-COM;Infinix;Smart 7;Altavoz;Compatible;3,29;;;6
+IX-S7-AUR-COM;Infinix;Smart 7;Auricular de llamada;Compatible;2,45;;;6
+IX-S7-FLX-COM;Infinix;Smart 7;Flex de encendido y volumen;Compatible;2,35;;;6
+IX-S7-SIM-COM;Infinix;Smart 7;Bandeja SIM;Compatible;2,75;;;6
+IX-HOT30-PAN-COM;Infinix;Hot 30;Pantalla;Compatible;14,69;14,25;13,81;6
+IX-HOT30-BAT-COM;Infinix;Hot 30;Batería;Compatible;8,69;;;6
+IX-HOT30-CON-COM;Infinix;Hot 30;Conector de carga;Compatible;4,05;;;6
+IX-HOT30-TAP-COM-NEG;Infinix;Hot 30;Tapa trasera;Negro (Racing Black);5,55;;;6
+IX-HOT30-TAP-COM-VER;Infinix;Hot 30;Tapa trasera;Verde (Surfing Green);5,55;;;6
+IX-HOT30-TAP-COM-BLA;Infinix;Hot 30;Tapa trasera;Blanco (Sonic White);5,55;;;6
+IX-HOT30-CTR-COM;Infinix;Hot 30;Cámara trasera;Compatible;7,60;;;6
+IX-HOT30-CFR-COM;Infinix;Hot 30;Cámara frontal;Compatible;5,00;;;6
+IX-HOT30-LEN-COM;Infinix;Hot 30;Lente de cámara;Compatible;2,35;;;6
+IX-HOT30-ALT-COM;Infinix;Hot 30;Altavoz;Compatible;3,55;;;6
+IX-HOT30-AUR-COM;Infinix;Hot 30;Auricular de llamada;Compatible;2,65;;;6
+IX-HOT30-FLX-COM;Infinix;Hot 30;Flex de encendido y volumen;Compatible;2,85;;;6
+IX-HOT30-SIM-COM;Infinix;Hot 30;Bandeja SIM;Compatible;2,69;;;6
+IX-HOT30I-PAN-COM;Infinix;Hot 30i;Pantalla;Compatible;14,69;14,25;13,81;6
+IX-HOT30I-BAT-COM;Infinix;Hot 30i;Batería;Compatible;8,69;;;6
+IX-HOT30I-CON-COM;Infinix;Hot 30i;Conector de carga;Compatible;4,05;;;6
+IX-HOT30I-TAP-COM-NEG;Infinix;Hot 30i;Tapa trasera;Negro (Mirror Black);5,55;;;6
+IX-HOT30I-TAP-COM-AZU;Infinix;Hot 30i;Tapa trasera;Azul (Glacier Blue);5,55;;;6
+IX-HOT30I-TAP-COM-BLA;Infinix;Hot 30i;Tapa trasera;Blanco (Diamond White);5,55;;;6
+IX-HOT30I-CTR-COM;Infinix;Hot 30i;Cámara trasera;Compatible;7,60;;;6
+IX-HOT30I-CFR-COM;Infinix;Hot 30i;Cámara frontal;Compatible;5,00;;;6
+IX-HOT30I-LEN-COM;Infinix;Hot 30i;Lente de cámara;Compatible;2,35;;;6
+IX-HOT30I-ALT-COM;Infinix;Hot 30i;Altavoz;Compatible;3,55;;;6
+IX-HOT30I-AUR-COM;Infinix;Hot 30i;Auricular de llamada;Compatible;2,65;;;6
+IX-HOT30I-FLX-COM;Infinix;Hot 30i;Flex de encendido y volumen;Compatible;2,85;;;6
+IX-HOT30I-SIM-COM;Infinix;Hot 30i;Bandeja SIM;Compatible;2,69;;;6
+IX-S7PL-PAN-COM;Infinix;Smart 7 Plus;Pantalla;Compatible;14,69;14,25;13,81;6
+IX-S7PL-BAT-COM;Infinix;Smart 7 Plus;Batería;Compatible;8,69;;;6
+IX-S7PL-CON-COM;Infinix;Smart 7 Plus;Conector de carga;Compatible;4,05;;;6
+IX-S7PL-TAP-COM-NEG;Infinix;Smart 7 Plus;Tapa trasera;Negro (Night Black);5,55;;;6
+IX-S7PL-TAP-COM-AZU;Infinix;Smart 7 Plus;Tapa trasera;Azul (Azure Blue);5,55;;;6
+IX-S7PL-TAP-COM-VER;Infinix;Smart 7 Plus;Tapa trasera;Verde (Emerald Green);5,55;;;6
+IX-S7PL-CTR-COM;Infinix;Smart 7 Plus;Cámara trasera;Compatible;7,60;;;6
+IX-S7PL-CFR-COM;Infinix;Smart 7 Plus;Cámara frontal;Compatible;5,00;;;6
+IX-S7PL-LEN-COM;Infinix;Smart 7 Plus;Lente de cámara;Compatible;2,35;;;6
+IX-S7PL-ALT-COM;Infinix;Smart 7 Plus;Altavoz;Compatible;3,55;;;6
+IX-S7PL-AUR-COM;Infinix;Smart 7 Plus;Auricular de llamada;Compatible;2,65;;;6
+IX-S7PL-FLX-COM;Infinix;Smart 7 Plus;Flex de encendido y volumen;Compatible;2,85;;;6
+IX-S7PL-SIM-COM;Infinix;Smart 7 Plus;Bandeja SIM;Compatible;2,69;;;6
+IX-HOT30PY-PAN-COM;Infinix;Hot 30 Play;Pantalla;Compatible;14,69;14,25;13,81;6
+IX-HOT30PY-BAT-COM;Infinix;Hot 30 Play;Batería;Compatible;8,69;;;6
+IX-HOT30PY-CON-COM;Infinix;Hot 30 Play;Conector de carga;Compatible;4,05;;;6
+IX-HOT30PY-TAP-COM-NEG;Infinix;Hot 30 Play;Tapa trasera;Negro (Mirage Black);5,55;;;6
+IX-HOT30PY-TAP-COM-BLA;Infinix;Hot 30 Play;Tapa trasera;Blanco (Blade White);5,55;;;6
+IX-HOT30PY-TAP-COM-MOR;Infinix;Hot 30 Play;Tapa trasera;Morado (Bora Purple);5,55;;;6
+IX-HOT30PY-CTR-COM;Infinix;Hot 30 Play;Cámara trasera;Compatible;7,60;;;6
+IX-HOT30PY-CFR-COM;Infinix;Hot 30 Play;Cámara frontal;Compatible;5,00;;;6
+IX-HOT30PY-LEN-COM;Infinix;Hot 30 Play;Lente de cámara;Compatible;2,35;;;6
+IX-HOT30PY-ALT-COM;Infinix;Hot 30 Play;Altavoz;Compatible;3,55;;;6
+IX-HOT30PY-AUR-COM;Infinix;Hot 30 Play;Auricular de llamada;Compatible;2,65;;;6
+IX-HOT30PY-FLX-COM;Infinix;Hot 30 Play;Flex de encendido y volumen;Compatible;2,85;;;6
+IX-HOT30PY-SIM-COM;Infinix;Hot 30 Play;Bandeja SIM;Compatible;2,69;;;6
+IX-N30-PAN-COM;Infinix;Note 30;Pantalla;Compatible;17,15;16,64;16,12;6
+IX-N30-BAT-COM;Infinix;Note 30;Batería;Compatible;9,40;;;6
+IX-N30-CON-COM;Infinix;Note 30;Conector de carga;Compatible;5,05;;;6
+IX-N30-TAP-COM-NEG;Infinix;Note 30;Tapa trasera;Negro (Obsidian Black);6,20;;;6
+IX-N30-TAP-COM-AZU;Infinix;Note 30;Tapa trasera;Azul (Interstellar Blue);6,20;;;6
+IX-N30-TAP-COM-SUN;Infinix;Note 30;Tapa trasera;Sunset Golden;6,20;;;6
+IX-N30-CTR-COM;Infinix;Note 30;Cámara trasera;Compatible;8,65;;;6
+IX-N30-CFR-COM;Infinix;Note 30;Cámara frontal;Compatible;5,35;;;6
+IX-N30-LEN-COM;Infinix;Note 30;Lente de cámara;Compatible;2,30;;;6
+IX-N30-ALT-COM;Infinix;Note 30;Altavoz;Compatible;3,60;;;6
+IX-N30-AUR-COM;Infinix;Note 30;Auricular de llamada;Compatible;2,65;;;6
+IX-N30-FLX-COM;Infinix;Note 30;Flex de encendido y volumen;Compatible;2,79;;;6
+IX-N30-SIM-COM;Infinix;Note 30;Bandeja SIM;Compatible;2,55;;;6
+IX-N305-PAN-COM;Infinix;Note 30 5G;Pantalla;Compatible;17,15;16,64;16,12;6
+IX-N305-BAT-COM;Infinix;Note 30 5G;Batería;Compatible;9,40;;;6
+IX-N305-CON-COM;Infinix;Note 30 5G;Conector de carga;Compatible;5,05;;;6
+IX-N305-TAP-COM-NEG;Infinix;Note 30 5G;Tapa trasera;Negro (Magic Black);6,20;;;6
+IX-N305-TAP-COM-AZU;Infinix;Note 30 5G;Tapa trasera;Azul (Interstellar Blue);6,20;;;6
+IX-N305-TAP-COM-SUN;Infinix;Note 30 5G;Tapa trasera;Sunset Golden;6,20;;;6
+IX-N305-CTR-COM;Infinix;Note 30 5G;Cámara trasera;Compatible;8,65;;;6
+IX-N305-CFR-COM;Infinix;Note 30 5G;Cámara frontal;Compatible;5,35;;;6
+IX-N305-LEN-COM;Infinix;Note 30 5G;Lente de cámara;Compatible;2,30;;;6
+IX-N305-ALT-COM;Infinix;Note 30 5G;Altavoz;Compatible;3,60;;;6
+IX-N305-AUR-COM;Infinix;Note 30 5G;Auricular de llamada;Compatible;2,65;;;6
+IX-N305-FLX-COM;Infinix;Note 30 5G;Flex de encendido y volumen;Compatible;2,79;;;6
+IX-N305-SIM-COM;Infinix;Note 30 5G;Bandeja SIM;Compatible;2,55;;;6
+IX-N30P-PAN-INC;Infinix;Note 30 Pro;Pantalla;Incell;19,99;19,39;18,79;6
+IX-N30P-BAT-COM;Infinix;Note 30 Pro;Batería;Compatible;9,40;;;6
+IX-N30P-CON-COM;Infinix;Note 30 Pro;Conector de carga;Compatible;5,05;;;6
+IX-N30P-TAP-COM-DOR;Infinix;Note 30 Pro;Tapa trasera;Dorado (Variable Gold);6,20;;;6
+IX-N30P-TAP-COM-NEG;Infinix;Note 30 Pro;Tapa trasera;Negro (Magic Black);6,20;;;6
+IX-N30P-CTR-COM;Infinix;Note 30 Pro;Cámara trasera;Compatible;8,65;;;6
+IX-N30P-CFR-COM;Infinix;Note 30 Pro;Cámara frontal;Compatible;5,35;;;6
+IX-N30P-LEN-COM;Infinix;Note 30 Pro;Lente de cámara;Compatible;2,30;;;6
+IX-N30P-ALT-COM;Infinix;Note 30 Pro;Altavoz;Compatible;3,60;;;6
+IX-N30P-AUR-COM;Infinix;Note 30 Pro;Auricular de llamada;Compatible;2,65;;;6
+IX-N30P-FLX-COM;Infinix;Note 30 Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+IX-N30P-SIM-COM;Infinix;Note 30 Pro;Bandeja SIM;Compatible;2,55;;;6
+IX-N30VIP-PAN-INC;Infinix;Note 30 VIP;Pantalla;Incell;19,99;19,39;18,79;6
+IX-N30VIP-BAT-COM;Infinix;Note 30 VIP;Batería;Compatible;9,40;;;6
+IX-N30VIP-CON-COM;Infinix;Note 30 VIP;Conector de carga;Compatible;5,05;;;6
+IX-N30VIP-TAP-COM-NEG;Infinix;Note 30 VIP;Tapa trasera;Negro (Magic Black);6,20;;;6
+IX-N30VIP-TAP-COM-BLA;Infinix;Note 30 VIP;Tapa trasera;Blanco (Glacier White);6,20;;;6
+IX-N30VIP-CTR-COM;Infinix;Note 30 VIP;Cámara trasera;Compatible;8,65;;;6
+IX-N30VIP-CFR-COM;Infinix;Note 30 VIP;Cámara frontal;Compatible;5,35;;;6
+IX-N30VIP-LEN-COM;Infinix;Note 30 VIP;Lente de cámara;Compatible;2,30;;;6
+IX-N30VIP-ALT-COM;Infinix;Note 30 VIP;Altavoz;Compatible;3,60;;;6
+IX-N30VIP-AUR-COM;Infinix;Note 30 VIP;Auricular de llamada;Compatible;2,65;;;6
+IX-N30VIP-FLX-COM;Infinix;Note 30 VIP;Flex de encendido y volumen;Compatible;2,79;;;6
+IX-N30VIP-SIM-COM;Infinix;Note 30 VIP;Bandeja SIM;Compatible;2,55;;;6
+IX-N30X6716-PAN-INC;Infinix;Note 30 (X6716B);Pantalla;Incell;19,99;19,39;18,79;6
+IX-N30X6716-BAT-COM;Infinix;Note 30 (X6716B);Batería;Compatible;9,40;;;6
+IX-N30X6716-CON-COM;Infinix;Note 30 (X6716B);Conector de carga;Compatible;5,05;;;6
+IX-N30X6716-TAP-COM-NEG;Infinix;Note 30 (X6716B);Tapa trasera;Negro (Obsidian Black);6,20;;;6
+IX-N30X6716-TAP-COM-DOR;Infinix;Note 30 (X6716B);Tapa trasera;Dorado (Variable Gold);6,20;;;6
+IX-N30X6716-TAP-COM-VER;Infinix;Note 30 (X6716B);Tapa trasera;Verde (Impression Green);6,20;;;6
+IX-N30X6716-CTR-COM;Infinix;Note 30 (X6716B);Cámara trasera;Compatible;8,65;;;6
+IX-N30X6716-CFR-COM;Infinix;Note 30 (X6716B);Cámara frontal;Compatible;5,35;;;6
+IX-N30X6716-LEN-COM;Infinix;Note 30 (X6716B);Lente de cámara;Compatible;2,30;;;6
+IX-N30X6716-ALT-COM;Infinix;Note 30 (X6716B);Altavoz;Compatible;3,60;;;6
+IX-N30X6716-AUR-COM;Infinix;Note 30 (X6716B);Auricular de llamada;Compatible;2,65;;;6
+IX-N30X6716-FLX-COM;Infinix;Note 30 (X6716B);Flex de encendido y volumen;Compatible;2,79;;;6
+IX-N30X6716-SIM-COM;Infinix;Note 30 (X6716B);Bandeja SIM;Compatible;2,55;;;6
+IX-HOT305-PAN-COM;Infinix;Hot 30 5G;Pantalla;Compatible;14,69;14,25;13,81;6
+IX-HOT305-BAT-COM;Infinix;Hot 30 5G;Batería;Compatible;8,69;;;6
+IX-HOT305-CON-COM;Infinix;Hot 30 5G;Conector de carga;Compatible;4,05;;;6
+IX-HOT305-TAP-COM-MIA;Infinix;Hot 30 5G;Tapa trasera;Miami;5,55;;;6
+IX-HOT305-TAP-COM-AZU;Infinix;Hot 30 5G;Tapa trasera;Azul (Aurora Blue);5,55;;;6
+IX-HOT305-TAP-COM-NEG;Infinix;Hot 30 5G;Tapa trasera;Negro (Knight black);5,55;;;6
+IX-HOT305-CTR-COM;Infinix;Hot 30 5G;Cámara trasera;Compatible;7,60;;;6
+IX-HOT305-CFR-COM;Infinix;Hot 30 5G;Cámara frontal;Compatible;5,00;;;6
+IX-HOT305-LEN-COM;Infinix;Hot 30 5G;Lente de cámara;Compatible;2,35;;;6
+IX-HOT305-ALT-COM;Infinix;Hot 30 5G;Altavoz;Compatible;3,55;;;6
+IX-HOT305-AUR-COM;Infinix;Hot 30 5G;Auricular de llamada;Compatible;2,65;;;6
+IX-HOT305-FLX-COM;Infinix;Hot 30 5G;Flex de encendido y volumen;Compatible;2,85;;;6
+IX-HOT305-SIM-COM;Infinix;Hot 30 5G;Bandeja SIM;Compatible;2,69;;;6
+IX-S7HD-PAN-COM;Infinix;Smart 7 HD;Pantalla;Compatible;14,69;14,25;13,81;6
+IX-S7HD-BAT-COM;Infinix;Smart 7 HD;Batería;Compatible;8,69;;;6
+IX-S7HD-CON-COM;Infinix;Smart 7 HD;Conector de carga;Compatible;4,05;;;6
+IX-S7HD-TAP-COM-VER;Infinix;Smart 7 HD;Tapa trasera;Verde (Green Apple);5,55;;;6
+IX-S7HD-TAP-COM-NEG;Infinix;Smart 7 HD;Tapa trasera;Negro (Ink Black);5,55;;;6
+IX-S7HD-TAP-COM-BLA;Infinix;Smart 7 HD;Tapa trasera;Blanco (Jade White);5,55;;;6
+IX-S7HD-TAP-COM-AZU;Infinix;Smart 7 HD;Tapa trasera;Azul (Silk Blue);5,55;;;6
+IX-S7HD-CTR-COM;Infinix;Smart 7 HD;Cámara trasera;Compatible;7,60;;;6
+IX-S7HD-CFR-COM;Infinix;Smart 7 HD;Cámara frontal;Compatible;5,00;;;6
+IX-S7HD-LEN-COM;Infinix;Smart 7 HD;Lente de cámara;Compatible;2,35;;;6
+IX-S7HD-ALT-COM;Infinix;Smart 7 HD;Altavoz;Compatible;3,55;;;6
+IX-S7HD-AUR-COM;Infinix;Smart 7 HD;Auricular de llamada;Compatible;2,65;;;6
+IX-S7HD-FLX-COM;Infinix;Smart 7 HD;Flex de encendido y volumen;Compatible;2,85;;;6
+IX-S7HD-SIM-COM;Infinix;Smart 7 HD;Bandeja SIM;Compatible;2,69;;;6
+IX-Z305-PAN-INC;Infinix;Zero 30 5G;Pantalla;Incell;20,50;19,88;19,27;6
+IX-Z305-BAT-COM;Infinix;Zero 30 5G;Batería;Compatible;10,15;9,85;9,54;6
+IX-Z305-CON-COM;Infinix;Zero 30 5G;Conector de carga;Compatible;4,70;;;6
+IX-Z305-TAP-COM-GOL;Infinix;Zero 30 5G;Tapa trasera;Golden Hour;6,29;;;6
+IX-Z305-TAP-COM-VER;Infinix;Zero 30 5G;Tapa trasera;Verde (Rome Green);6,29;;;6
+IX-Z305-TAP-COM-MOR;Infinix;Zero 30 5G;Tapa trasera;Morado (Fantasy Purple);6,29;;;6
+IX-Z305-CTR-COM;Infinix;Zero 30 5G;Cámara trasera;Compatible;10,55;10,23;9,92;6
+IX-Z305-CFR-COM;Infinix;Zero 30 5G;Cámara frontal;Compatible;5,69;;;6
+IX-Z305-LEN-COM;Infinix;Zero 30 5G;Lente de cámara;Compatible;2,75;;;6
+IX-Z305-ALT-COM;Infinix;Zero 30 5G;Altavoz;Compatible;3,99;;;6
+IX-Z305-AUR-COM;Infinix;Zero 30 5G;Auricular de llamada;Compatible;3,29;;;6
+IX-Z305-FLX-COM;Infinix;Zero 30 5G;Flex de encendido y volumen;Compatible;3,60;;;6
+IX-Z305-SIM-COM;Infinix;Zero 30 5G;Bandeja SIM;Compatible;2,95;;;6
+IX-Z30-PAN-INC;Infinix;Zero 30;Pantalla;Incell;20,50;19,88;19,27;6
+IX-Z30-BAT-COM;Infinix;Zero 30;Batería;Compatible;10,15;9,85;9,54;6
+IX-Z30-CON-COM;Infinix;Zero 30;Conector de carga;Compatible;4,70;;;6
+IX-Z30-TAP-COM-VER;Infinix;Zero 30;Tapa trasera;Verde (Misty Green);6,29;;;6
+IX-Z30-TAP-COM-DOR;Infinix;Zero 30;Tapa trasera;Dorado (Sunset Gold);6,29;;;6
+IX-Z30-TAP-COM-BLA;Infinix;Zero 30;Tapa trasera;Blanco (Pearly White);6,29;;;6
+IX-Z30-CTR-COM;Infinix;Zero 30;Cámara trasera;Compatible;10,55;10,23;9,92;6
+IX-Z30-CFR-COM;Infinix;Zero 30;Cámara frontal;Compatible;5,69;;;6
+IX-Z30-LEN-COM;Infinix;Zero 30;Lente de cámara;Compatible;2,75;;;6
+IX-Z30-ALT-COM;Infinix;Zero 30;Altavoz;Compatible;3,99;;;6
+IX-Z30-AUR-COM;Infinix;Zero 30;Auricular de llamada;Compatible;3,29;;;6
+IX-Z30-FLX-COM;Infinix;Zero 30;Flex de encendido y volumen;Compatible;3,60;;;6
+IX-Z30-SIM-COM;Infinix;Zero 30;Bandeja SIM;Compatible;2,95;;;6
+IX-S8-PAN-COM;Infinix;Smart 8;Pantalla;Compatible;14,69;14,25;13,81;6
+IX-S8-BAT-COM;Infinix;Smart 8;Batería;Compatible;8,69;;;6
+IX-S8-CON-COM;Infinix;Smart 8;Conector de carga;Compatible;4,05;;;6
+IX-S8-TAP-COM-VER;Infinix;Smart 8;Tapa trasera;Verde (Crystal Green);5,55;;;6
+IX-S8-TAP-COM-BLA;Infinix;Smart 8;Tapa trasera;Blanco (Galaxy White);5,55;;;6
+IX-S8-TAP-COM-DOR;Infinix;Smart 8;Tapa trasera;Dorado (Shiny Gold);5,55;;;6
+IX-S8-TAP-COM-NEG;Infinix;Smart 8;Tapa trasera;Negro (Timber Black);5,55;;;6
+IX-S8-CTR-COM;Infinix;Smart 8;Cámara trasera;Compatible;7,60;;;6
+IX-S8-CFR-COM;Infinix;Smart 8;Cámara frontal;Compatible;5,00;;;6
+IX-S8-LEN-COM;Infinix;Smart 8;Lente de cámara;Compatible;2,35;;;6
+IX-S8-ALT-COM;Infinix;Smart 8;Altavoz;Compatible;3,55;;;6
+IX-S8-AUR-COM;Infinix;Smart 8;Auricular de llamada;Compatible;2,65;;;6
+IX-S8-FLX-COM;Infinix;Smart 8;Flex de encendido y volumen;Compatible;2,85;;;6
+IX-S8-SIM-COM;Infinix;Smart 8;Bandeja SIM;Compatible;2,69;;;6
+IX-HOT40-PAN-COM;Infinix;Hot 40;Pantalla;Compatible;14,69;14,25;13,81;6
+IX-HOT40-BAT-COM;Infinix;Hot 40;Batería;Compatible;8,69;;;6
+IX-HOT40-CON-COM;Infinix;Hot 40;Conector de carga;Compatible;4,05;;;6
+IX-HOT40-TAP-COM-DOR;Infinix;Hot 40;Tapa trasera;Dorado (Horizon Gold);5,55;;;6
+IX-HOT40-TAP-COM-AZU;Infinix;Hot 40;Tapa trasera;Azul (Palm Blue);5,55;;;6
+IX-HOT40-TAP-COM-VER;Infinix;Hot 40;Tapa trasera;Verde (Starfall Green);5,55;;;6
+IX-HOT40-TAP-COM-NEG;Infinix;Hot 40;Tapa trasera;Negro (Starlit Black);5,55;;;6
+IX-HOT40-CTR-COM;Infinix;Hot 40;Cámara trasera;Compatible;7,60;;;6
+IX-HOT40-CFR-COM;Infinix;Hot 40;Cámara frontal;Compatible;5,00;;;6
+IX-HOT40-LEN-COM;Infinix;Hot 40;Lente de cámara;Compatible;2,35;;;6
+IX-HOT40-ALT-COM;Infinix;Hot 40;Altavoz;Compatible;3,55;;;6
+IX-HOT40-AUR-COM;Infinix;Hot 40;Auricular de llamada;Compatible;2,65;;;6
+IX-HOT40-FLX-COM;Infinix;Hot 40;Flex de encendido y volumen;Compatible;2,85;;;6
+IX-HOT40-SIM-COM;Infinix;Hot 40;Bandeja SIM;Compatible;2,69;;;6
+IX-HOT40P-PAN-COM;Infinix;Hot 40 Pro;Pantalla;Compatible;14,69;14,25;13,81;6
+IX-HOT40P-BAT-COM;Infinix;Hot 40 Pro;Batería;Compatible;8,69;;;6
+IX-HOT40P-CON-COM;Infinix;Hot 40 Pro;Conector de carga;Compatible;4,05;;;6
+IX-HOT40P-TAP-COM-DOR;Infinix;Hot 40 Pro;Tapa trasera;Dorado (Horizon Gold);5,55;;;6
+IX-HOT40P-TAP-COM-AZU;Infinix;Hot 40 Pro;Tapa trasera;Azul (Palm Blue);5,55;;;6
+IX-HOT40P-TAP-COM-VER;Infinix;Hot 40 Pro;Tapa trasera;Verde (Starfall Green);5,55;;;6
+IX-HOT40P-TAP-COM-NEG;Infinix;Hot 40 Pro;Tapa trasera;Negro (Starlit Black);5,55;;;6
+IX-HOT40P-CTR-COM;Infinix;Hot 40 Pro;Cámara trasera;Compatible;7,60;;;6
+IX-HOT40P-CFR-COM;Infinix;Hot 40 Pro;Cámara frontal;Compatible;5,00;;;6
+IX-HOT40P-LEN-COM;Infinix;Hot 40 Pro;Lente de cámara;Compatible;2,35;;;6
+IX-HOT40P-ALT-COM;Infinix;Hot 40 Pro;Altavoz;Compatible;3,55;;;6
+IX-HOT40P-AUR-COM;Infinix;Hot 40 Pro;Auricular de llamada;Compatible;2,65;;;6
+IX-HOT40P-FLX-COM;Infinix;Hot 40 Pro;Flex de encendido y volumen;Compatible;2,85;;;6
+IX-HOT40P-SIM-COM;Infinix;Hot 40 Pro;Bandeja SIM;Compatible;2,69;;;6
+IX-HOT40I-PAN-COM;Infinix;Hot 40i;Pantalla;Compatible;14,69;14,25;13,81;6
+IX-HOT40I-BAT-COM;Infinix;Hot 40i;Batería;Compatible;8,69;;;6
+IX-HOT40I-CON-COM;Infinix;Hot 40i;Conector de carga;Compatible;4,05;;;6
+IX-HOT40I-TAP-COM-DOR;Infinix;Hot 40i;Tapa trasera;Dorado (Horizon Gold);5,55;;;6
+IX-HOT40I-TAP-COM-AZU;Infinix;Hot 40i;Tapa trasera;Azul (Palm Blue);5,55;;;6
+IX-HOT40I-TAP-COM-VER;Infinix;Hot 40i;Tapa trasera;Verde (Starfall Green);5,55;;;6
+IX-HOT40I-TAP-COM-NEG;Infinix;Hot 40i;Tapa trasera;Negro (Starlit Black);5,55;;;6
+IX-HOT40I-CTR-COM;Infinix;Hot 40i;Cámara trasera;Compatible;7,60;;;6
+IX-HOT40I-CFR-COM;Infinix;Hot 40i;Cámara frontal;Compatible;5,00;;;6
+IX-HOT40I-LEN-COM;Infinix;Hot 40i;Lente de cámara;Compatible;2,35;;;6
+IX-HOT40I-ALT-COM;Infinix;Hot 40i;Altavoz;Compatible;3,55;;;6
+IX-HOT40I-AUR-COM;Infinix;Hot 40i;Auricular de llamada;Compatible;2,65;;;6
+IX-HOT40I-FLX-COM;Infinix;Hot 40i;Flex de encendido y volumen;Compatible;2,85;;;6
+IX-HOT40I-SIM-COM;Infinix;Hot 40i;Bandeja SIM;Compatible;2,69;;;6
+IX-S8PL-PAN-COM;Infinix;Smart 8 Plus;Pantalla;Compatible;14,69;14,25;13,81;6
+IX-S8PL-BAT-COM;Infinix;Smart 8 Plus;Batería;Compatible;8,69;;;6
+IX-S8PL-CON-COM;Infinix;Smart 8 Plus;Conector de carga;Compatible;4,05;;;6
+IX-S8PL-TAP-COM-BLA;Infinix;Smart 8 Plus;Tapa trasera;Blanco (Galaxy White);5,55;;;6
+IX-S8PL-TAP-COM-DOR;Infinix;Smart 8 Plus;Tapa trasera;Dorado (Shiny Gold);5,55;;;6
+IX-S8PL-TAP-COM-NEG;Infinix;Smart 8 Plus;Tapa trasera;Negro (Timber Black);5,55;;;6
+IX-S8PL-CTR-COM;Infinix;Smart 8 Plus;Cámara trasera;Compatible;7,60;;;6
+IX-S8PL-CFR-COM;Infinix;Smart 8 Plus;Cámara frontal;Compatible;5,00;;;6
+IX-S8PL-LEN-COM;Infinix;Smart 8 Plus;Lente de cámara;Compatible;2,35;;;6
+IX-S8PL-ALT-COM;Infinix;Smart 8 Plus;Altavoz;Compatible;3,55;;;6
+IX-S8PL-AUR-COM;Infinix;Smart 8 Plus;Auricular de llamada;Compatible;2,65;;;6
+IX-S8PL-FLX-COM;Infinix;Smart 8 Plus;Flex de encendido y volumen;Compatible;2,85;;;6
+IX-S8PL-SIM-COM;Infinix;Smart 8 Plus;Bandeja SIM;Compatible;2,69;;;6
+IX-S8P-PAN-COM;Infinix;Smart 8 Pro;Pantalla;Compatible;14,69;14,25;13,81;6
+IX-S8P-BAT-COM;Infinix;Smart 8 Pro;Batería;Compatible;8,69;;;6
+IX-S8P-CON-COM;Infinix;Smart 8 Pro;Conector de carga;Compatible;4,05;;;6
+IX-S8P-TAP-COM-NEG;Infinix;Smart 8 Pro;Tapa trasera;Negro (Timber Black);5,55;;;6
+IX-S8P-TAP-COM-DOR;Infinix;Smart 8 Pro;Tapa trasera;Dorado (Shiny Gold);5,55;;;6
+IX-S8P-TAP-COM-BLA;Infinix;Smart 8 Pro;Tapa trasera;Blanco (Galaxy White);5,55;;;6
+IX-S8P-TAP-COM-AZU;Infinix;Smart 8 Pro;Tapa trasera;Azul (Rainbow Blue);5,55;;;6
+IX-S8P-CTR-COM;Infinix;Smart 8 Pro;Cámara trasera;Compatible;7,60;;;6
+IX-S8P-CFR-COM;Infinix;Smart 8 Pro;Cámara frontal;Compatible;5,00;;;6
+IX-S8P-LEN-COM;Infinix;Smart 8 Pro;Lente de cámara;Compatible;2,35;;;6
+IX-S8P-ALT-COM;Infinix;Smart 8 Pro;Altavoz;Compatible;3,55;;;6
+IX-S8P-AUR-COM;Infinix;Smart 8 Pro;Auricular de llamada;Compatible;2,65;;;6
+IX-S8P-FLX-COM;Infinix;Smart 8 Pro;Flex de encendido y volumen;Compatible;2,85;;;6
+IX-S8P-SIM-COM;Infinix;Smart 8 Pro;Bandeja SIM;Compatible;2,69;;;6
+IX-N40-PAN-INC;Infinix;Note 40;Pantalla;Incell;19,99;19,39;18,79;6
+IX-N40-BAT-COM;Infinix;Note 40;Batería;Compatible;9,40;;;6
+IX-N40-CON-COM;Infinix;Note 40;Conector de carga;Compatible;5,05;;;6
+IX-N40-TAP-COM-DOR;Infinix;Note 40;Tapa trasera;Dorado (Titan Gold);6,20;;;6
+IX-N40-TAP-COM-NEG;Infinix;Note 40;Tapa trasera;Negro (Obsidian Black);6,20;;;6
+IX-N40-CTR-COM;Infinix;Note 40;Cámara trasera;Compatible;8,65;;;6
+IX-N40-CFR-COM;Infinix;Note 40;Cámara frontal;Compatible;5,35;;;6
+IX-N40-LEN-COM;Infinix;Note 40;Lente de cámara;Compatible;2,30;;;6
+IX-N40-ALT-COM;Infinix;Note 40;Altavoz;Compatible;3,60;;;6
+IX-N40-AUR-COM;Infinix;Note 40;Auricular de llamada;Compatible;2,65;;;6
+IX-N40-FLX-COM;Infinix;Note 40;Flex de encendido y volumen;Compatible;2,79;;;6
+IX-N40-SIM-COM;Infinix;Note 40;Bandeja SIM;Compatible;2,55;;;6
+IX-N40P-PAN-INC;Infinix;Note 40 Pro;Pantalla;Incell;19,99;19,39;18,79;6
+IX-N40P-BAT-COM;Infinix;Note 40 Pro;Batería;Compatible;9,40;;;6
+IX-N40P-CON-COM;Infinix;Note 40 Pro;Conector de carga;Compatible;5,05;;;6
+IX-N40P-TAP-COM-DOR;Infinix;Note 40 Pro;Tapa trasera;Dorado (Titan Gold);6,20;;;6
+IX-N40P-TAP-COM-VER;Infinix;Note 40 Pro;Tapa trasera;Verde (Vintage Green);6,20;;;6
+IX-N40P-CTR-COM;Infinix;Note 40 Pro;Cámara trasera;Compatible;8,65;;;6
+IX-N40P-CFR-COM;Infinix;Note 40 Pro;Cámara frontal;Compatible;5,35;;;6
+IX-N40P-LEN-COM;Infinix;Note 40 Pro;Lente de cámara;Compatible;2,30;;;6
+IX-N40P-ALT-COM;Infinix;Note 40 Pro;Altavoz;Compatible;3,60;;;6
+IX-N40P-AUR-COM;Infinix;Note 40 Pro;Auricular de llamada;Compatible;2,65;;;6
+IX-N40P-FLX-COM;Infinix;Note 40 Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+IX-N40P-SIM-COM;Infinix;Note 40 Pro;Bandeja SIM;Compatible;2,55;;;6
+IX-N40PPL5-PAN-INC;Infinix;Note 40 Pro+ 5G;Pantalla;Incell;19,99;19,39;18,79;6
+IX-N40PPL5-BAT-COM;Infinix;Note 40 Pro+ 5G;Batería;Compatible;9,40;;;6
+IX-N40PPL5-CON-COM;Infinix;Note 40 Pro+ 5G;Conector de carga;Compatible;5,05;;;6
+IX-N40PPL5-TAP-COM-VER;Infinix;Note 40 Pro+ 5G;Tapa trasera;Verde (Vintage Green);6,20;;;6
+IX-N40PPL5-TAP-COM-NEG;Infinix;Note 40 Pro+ 5G;Tapa trasera;Negro (Obsidian Black);6,20;;;6
+IX-N40PPL5-CTR-COM;Infinix;Note 40 Pro+ 5G;Cámara trasera;Compatible;8,65;;;6
+IX-N40PPL5-CFR-COM;Infinix;Note 40 Pro+ 5G;Cámara frontal;Compatible;5,35;;;6
+IX-N40PPL5-LEN-COM;Infinix;Note 40 Pro+ 5G;Lente de cámara;Compatible;2,30;;;6
+IX-N40PPL5-ALT-COM;Infinix;Note 40 Pro+ 5G;Altavoz;Compatible;3,60;;;6
+IX-N40PPL5-AUR-COM;Infinix;Note 40 Pro+ 5G;Auricular de llamada;Compatible;2,65;;;6
+IX-N40PPL5-FLX-COM;Infinix;Note 40 Pro+ 5G;Flex de encendido y volumen;Compatible;2,79;;;6
+IX-N40PPL5-SIM-COM;Infinix;Note 40 Pro+ 5G;Bandeja SIM;Compatible;2,55;;;6
+IX-GT20P-PAN-INC;Infinix;GT 20 Pro;Pantalla;Incell;20,50;19,88;19,27;6
+IX-GT20P-BAT-COM;Infinix;GT 20 Pro;Batería;Compatible;10,15;9,85;9,54;6
+IX-GT20P-CON-COM;Infinix;GT 20 Pro;Conector de carga;Compatible;4,70;;;6
+IX-GT20P-TAP-COM-AZU;Infinix;GT 20 Pro;Tapa trasera;Azul (Mecha Blue);6,29;;;6
+IX-GT20P-TAP-COM-NAR;Infinix;GT 20 Pro;Tapa trasera;Naranja (Mecha Orange);6,29;;;6
+IX-GT20P-TAP-COM-PLA;Infinix;GT 20 Pro;Tapa trasera;Plata (Mecha Silver);6,29;;;6
+IX-GT20P-CTR-COM;Infinix;GT 20 Pro;Cámara trasera;Compatible;10,55;10,23;9,92;6
+IX-GT20P-CFR-COM;Infinix;GT 20 Pro;Cámara frontal;Compatible;5,69;;;6
+IX-GT20P-LEN-COM;Infinix;GT 20 Pro;Lente de cámara;Compatible;2,75;;;6
+IX-GT20P-ALT-COM;Infinix;GT 20 Pro;Altavoz;Compatible;3,99;;;6
+IX-GT20P-AUR-COM;Infinix;GT 20 Pro;Auricular de llamada;Compatible;3,29;;;6
+IX-GT20P-FLX-COM;Infinix;GT 20 Pro;Flex de encendido y volumen;Compatible;3,60;;;6
+IX-GT20P-SIM-COM;Infinix;GT 20 Pro;Bandeja SIM;Compatible;2,95;;;6
+IX-N405-PAN-INC;Infinix;Note 40 5G;Pantalla;Incell;19,99;19,39;18,79;6
+IX-N405-BAT-COM;Infinix;Note 40 5G;Batería;Compatible;9,40;;;6
+IX-N405-CON-COM;Infinix;Note 40 5G;Conector de carga;Compatible;5,05;;;6
+IX-N405-TAP-COM-DOR;Infinix;Note 40 5G;Tapa trasera;Dorado (Titan Gold);6,20;;;6
+IX-N405-TAP-COM-NEG;Infinix;Note 40 5G;Tapa trasera;Negro (Obsidian Black);6,20;;;6
+IX-N405-CTR-COM;Infinix;Note 40 5G;Cámara trasera;Compatible;8,65;;;6
+IX-N405-CFR-COM;Infinix;Note 40 5G;Cámara frontal;Compatible;5,35;;;6
+IX-N405-LEN-COM;Infinix;Note 40 5G;Lente de cámara;Compatible;2,30;;;6
+IX-N405-ALT-COM;Infinix;Note 40 5G;Altavoz;Compatible;3,60;;;6
+IX-N405-AUR-COM;Infinix;Note 40 5G;Auricular de llamada;Compatible;2,65;;;6
+IX-N405-FLX-COM;Infinix;Note 40 5G;Flex de encendido y volumen;Compatible;2,79;;;6
+IX-N405-SIM-COM;Infinix;Note 40 5G;Bandeja SIM;Compatible;2,55;;;6
+IX-N40S-PAN-INC;Infinix;Note 40S;Pantalla;Incell;19,99;19,39;18,79;6
+IX-N40S-BAT-COM;Infinix;Note 40S;Batería;Compatible;9,40;;;6
+IX-N40S-CON-COM;Infinix;Note 40S;Conector de carga;Compatible;5,05;;;6
+IX-N40S-TAP-COM-NEG;Infinix;Note 40S;Tapa trasera;Negro (Obsidian Black);6,20;;;6
+IX-N40S-TAP-COM-VER;Infinix;Note 40S;Tapa trasera;Verde (Vintage Green);6,20;;;6
+IX-N40S-CTR-COM;Infinix;Note 40S;Cámara trasera;Compatible;8,65;;;6
+IX-N40S-CFR-COM;Infinix;Note 40S;Cámara frontal;Compatible;5,35;;;6
+IX-N40S-LEN-COM;Infinix;Note 40S;Lente de cámara;Compatible;2,30;;;6
+IX-N40S-ALT-COM;Infinix;Note 40S;Altavoz;Compatible;3,60;;;6
+IX-N40S-AUR-COM;Infinix;Note 40S;Auricular de llamada;Compatible;2,65;;;6
+IX-N40S-FLX-COM;Infinix;Note 40S;Flex de encendido y volumen;Compatible;2,79;;;6
+IX-N40S-SIM-COM;Infinix;Note 40S;Bandeja SIM;Compatible;2,55;;;6
+IX-Z40-PAN-INC;Infinix;Zero 40;Pantalla;Incell;20,50;19,88;19,27;6
+IX-Z40-BAT-COM;Infinix;Zero 40;Batería;Compatible;10,15;9,85;9,54;6
+IX-Z40-CON-COM;Infinix;Zero 40;Conector de carga;Compatible;4,70;;;6
+IX-Z40-TAP-COM-MIS;Infinix;Zero 40;Tapa trasera;Misty Aqua;6,29;;;6
+IX-Z40-TAP-COM-NEG;Infinix;Zero 40;Tapa trasera;Negro (Rock Black);6,29;;;6
+IX-Z40-TAP-COM-BLO;Infinix;Zero 40;Tapa trasera;Blossom Glow;6,29;;;6
+IX-Z40-CTR-COM;Infinix;Zero 40;Cámara trasera;Compatible;10,55;10,23;9,92;6
+IX-Z40-CFR-COM;Infinix;Zero 40;Cámara frontal;Compatible;5,69;;;6
+IX-Z40-LEN-COM;Infinix;Zero 40;Lente de cámara;Compatible;2,75;;;6
+IX-Z40-ALT-COM;Infinix;Zero 40;Altavoz;Compatible;3,99;;;6
+IX-Z40-AUR-COM;Infinix;Zero 40;Auricular de llamada;Compatible;3,29;;;6
+IX-Z40-FLX-COM;Infinix;Zero 40;Flex de encendido y volumen;Compatible;3,60;;;6
+IX-Z40-SIM-COM;Infinix;Zero 40;Bandeja SIM;Compatible;2,95;;;6
+IX-Z405-PAN-INC;Infinix;Zero 40 5G;Pantalla;Incell;20,50;19,88;19,27;6
+IX-Z405-BAT-COM;Infinix;Zero 40 5G;Batería;Compatible;10,15;9,85;9,54;6
+IX-Z405-CON-COM;Infinix;Zero 40 5G;Conector de carga;Compatible;4,70;;;6
+IX-Z405-TAP-COM-NEG;Infinix;Zero 40 5G;Tapa trasera;Negro (Rock Black);6,29;;;6
+IX-Z405-TAP-COM-VIO;Infinix;Zero 40 5G;Tapa trasera;Violeta (Violet Garden);6,29;;;6
+IX-Z405-TAP-COM-TIT;Infinix;Zero 40 5G;Tapa trasera;Titanio (Moving Titanium);6,29;;;6
+IX-Z405-CTR-COM;Infinix;Zero 40 5G;Cámara trasera;Compatible;10,55;10,23;9,92;6
+IX-Z405-CFR-COM;Infinix;Zero 40 5G;Cámara frontal;Compatible;5,69;;;6
+IX-Z405-LEN-COM;Infinix;Zero 40 5G;Lente de cámara;Compatible;2,75;;;6
+IX-Z405-ALT-COM;Infinix;Zero 40 5G;Altavoz;Compatible;3,99;;;6
+IX-Z405-AUR-COM;Infinix;Zero 40 5G;Auricular de llamada;Compatible;3,29;;;6
+IX-Z405-FLX-COM;Infinix;Zero 40 5G;Flex de encendido y volumen;Compatible;3,60;;;6
+IX-Z405-SIM-COM;Infinix;Zero 40 5G;Bandeja SIM;Compatible;2,95;;;6
+IX-S9-PAN-COM;Infinix;Smart 9;Pantalla;Compatible;14,69;14,25;13,81;6
+IX-S9-BAT-COM;Infinix;Smart 9;Batería;Compatible;8,69;;;6
+IX-S9-CON-COM;Infinix;Smart 9;Conector de carga;Compatible;4,05;;;6
+IX-S9-TAP-COM-NEG;Infinix;Smart 9;Tapa trasera;Negro (Metallic Black);5,55;;;6
+IX-S9-TAP-COM-VER;Infinix;Smart 9;Tapa trasera;Verde menta;5,55;;;6
+IX-S9-TAP-COM-TIT;Infinix;Smart 9;Tapa trasera;Titanio (Neo Titanium);5,55;;;6
+IX-S9-TAP-COM-DOR;Infinix;Smart 9;Tapa trasera;Dorado (Sandstone Gold);5,55;;;6
+IX-S9-CTR-COM;Infinix;Smart 9;Cámara trasera;Compatible;7,60;;;6
+IX-S9-CFR-COM;Infinix;Smart 9;Cámara frontal;Compatible;5,00;;;6
+IX-S9-LEN-COM;Infinix;Smart 9;Lente de cámara;Compatible;2,35;;;6
+IX-S9-ALT-COM;Infinix;Smart 9;Altavoz;Compatible;3,55;;;6
+IX-S9-AUR-COM;Infinix;Smart 9;Auricular de llamada;Compatible;2,65;;;6
+IX-S9-FLX-COM;Infinix;Smart 9;Flex de encendido y volumen;Compatible;2,85;;;6
+IX-S9-SIM-COM;Infinix;Smart 9;Bandeja SIM;Compatible;2,69;;;6
+IX-HOT50-PAN-COM;Infinix;Hot 50;Pantalla;Compatible;14,69;14,25;13,81;6
+IX-HOT50-BAT-COM;Infinix;Hot 50;Batería;Compatible;8,69;;;6
+IX-HOT50-CON-COM;Infinix;Hot 50;Conector de carga;Compatible;4,05;;;6
+IX-HOT50-TAP-COM-VER;Infinix;Hot 50;Tapa trasera;Verde (Sage Green);5,55;;;6
+IX-HOT50-TAP-COM-NEG;Infinix;Hot 50;Tapa trasera;Negro (Sleek Black);5,55;;;6
+IX-HOT50-TAP-COM-GRI;Infinix;Hot 50;Tapa trasera;Gris (Titanium Grey);5,55;;;6
+IX-HOT50-CTR-COM;Infinix;Hot 50;Cámara trasera;Compatible;7,60;;;6
+IX-HOT50-CFR-COM;Infinix;Hot 50;Cámara frontal;Compatible;5,00;;;6
+IX-HOT50-LEN-COM;Infinix;Hot 50;Lente de cámara;Compatible;2,35;;;6
+IX-HOT50-ALT-COM;Infinix;Hot 50;Altavoz;Compatible;3,55;;;6
+IX-HOT50-AUR-COM;Infinix;Hot 50;Auricular de llamada;Compatible;2,65;;;6
+IX-HOT50-FLX-COM;Infinix;Hot 50;Flex de encendido y volumen;Compatible;2,85;;;6
+IX-HOT50-SIM-COM;Infinix;Hot 50;Bandeja SIM;Compatible;2,69;;;6
+IX-HOT505-PAN-COM;Infinix;Hot 50 5G;Pantalla;Compatible;14,69;14,25;13,81;6
+IX-HOT505-BAT-COM;Infinix;Hot 50 5G;Batería;Compatible;8,69;;;6
+IX-HOT505-CON-COM;Infinix;Hot 50 5G;Conector de carga;Compatible;4,05;;;6
+IX-HOT505-TAP-COM-NEG;Infinix;Hot 50 5G;Tapa trasera;Negro (Sleek Black);5,55;;;6
+IX-HOT505-TAP-COM-VER;Infinix;Hot 50 5G;Tapa trasera;Verde (Sage Green);5,55;;;6
+IX-HOT505-TAP-COM-AZU;Infinix;Hot 50 5G;Tapa trasera;Azul (Vibrant Blue);5,55;;;6
+IX-HOT505-TAP-COM-MOR;Infinix;Hot 50 5G;Tapa trasera;Morado (Dreamy Purple);5,55;;;6
+IX-HOT505-CTR-COM;Infinix;Hot 50 5G;Cámara trasera;Compatible;7,60;;;6
+IX-HOT505-CFR-COM;Infinix;Hot 50 5G;Cámara frontal;Compatible;5,00;;;6
+IX-HOT505-LEN-COM;Infinix;Hot 50 5G;Lente de cámara;Compatible;2,35;;;6
+IX-HOT505-ALT-COM;Infinix;Hot 50 5G;Altavoz;Compatible;3,55;;;6
+IX-HOT505-AUR-COM;Infinix;Hot 50 5G;Auricular de llamada;Compatible;2,65;;;6
+IX-HOT505-FLX-COM;Infinix;Hot 50 5G;Flex de encendido y volumen;Compatible;2,85;;;6
+IX-HOT505-SIM-COM;Infinix;Hot 50 5G;Bandeja SIM;Compatible;2,69;;;6
+IX-HOT50P-PAN-INC;Infinix;Hot 50 Pro;Pantalla;Incell;17,15;16,64;16,12;6
+IX-HOT50P-BAT-COM;Infinix;Hot 50 Pro;Batería;Compatible;8,69;;;6
+IX-HOT50P-CON-COM;Infinix;Hot 50 Pro;Conector de carga;Compatible;4,05;;;6
+IX-HOT50P-TAP-COM-NEG;Infinix;Hot 50 Pro;Tapa trasera;Negro (Sleek Black);5,55;;;6
+IX-HOT50P-TAP-COM-GRI;Infinix;Hot 50 Pro;Tapa trasera;Gris (Titanium Grey);5,55;;;6
+IX-HOT50P-TAP-COM-AZU;Infinix;Hot 50 Pro;Tapa trasera;Azul (Glacier Blue);5,55;;;6
+IX-HOT50P-CTR-COM;Infinix;Hot 50 Pro;Cámara trasera;Compatible;7,60;;;6
+IX-HOT50P-CFR-COM;Infinix;Hot 50 Pro;Cámara frontal;Compatible;5,00;;;6
+IX-HOT50P-LEN-COM;Infinix;Hot 50 Pro;Lente de cámara;Compatible;2,35;;;6
+IX-HOT50P-ALT-COM;Infinix;Hot 50 Pro;Altavoz;Compatible;3,55;;;6
+IX-HOT50P-AUR-COM;Infinix;Hot 50 Pro;Auricular de llamada;Compatible;2,65;;;6
+IX-HOT50P-FLX-COM;Infinix;Hot 50 Pro;Flex de encendido y volumen;Compatible;2,85;;;6
+IX-HOT50P-SIM-COM;Infinix;Hot 50 Pro;Bandeja SIM;Compatible;2,69;;;6
+IX-HOT50PPL-PAN-INC;Infinix;Hot 50 Pro+;Pantalla;Incell;17,15;16,64;16,12;6
+IX-HOT50PPL-BAT-COM;Infinix;Hot 50 Pro+;Batería;Compatible;8,69;;;6
+IX-HOT50PPL-CON-COM;Infinix;Hot 50 Pro+;Conector de carga;Compatible;4,05;;;6
+IX-HOT50PPL-TAP-COM-MOR;Infinix;Hot 50 Pro+;Tapa trasera;Morado (Dreamy Purple);5,55;;;6
+IX-HOT50PPL-TAP-COM-NEG;Infinix;Hot 50 Pro+;Tapa trasera;Negro (Sleek Black);5,55;;;6
+IX-HOT50PPL-TAP-COM-GRI;Infinix;Hot 50 Pro+;Tapa trasera;Gris (Titanium Grey);5,55;;;6
+IX-HOT50PPL-CTR-COM;Infinix;Hot 50 Pro+;Cámara trasera;Compatible;7,60;;;6
+IX-HOT50PPL-CFR-COM;Infinix;Hot 50 Pro+;Cámara frontal;Compatible;5,00;;;6
+IX-HOT50PPL-LEN-COM;Infinix;Hot 50 Pro+;Lente de cámara;Compatible;2,35;;;6
+IX-HOT50PPL-ALT-COM;Infinix;Hot 50 Pro+;Altavoz;Compatible;3,55;;;6
+IX-HOT50PPL-AUR-COM;Infinix;Hot 50 Pro+;Auricular de llamada;Compatible;2,65;;;6
+IX-HOT50PPL-FLX-COM;Infinix;Hot 50 Pro+;Flex de encendido y volumen;Compatible;2,85;;;6
+IX-HOT50PPL-SIM-COM;Infinix;Hot 50 Pro+;Bandeja SIM;Compatible;2,69;;;6
+IX-HOT50I-PAN-COM;Infinix;Hot 50i;Pantalla;Compatible;14,69;14,25;13,81;6
+IX-HOT50I-BAT-COM;Infinix;Hot 50i;Batería;Compatible;8,69;;;6
+IX-HOT50I-CON-COM;Infinix;Hot 50i;Conector de carga;Compatible;4,05;;;6
+IX-HOT50I-TAP-COM-VER;Infinix;Hot 50i;Tapa trasera;Verde (Sage Green);5,55;;;6
+IX-HOT50I-TAP-COM-NEG;Infinix;Hot 50i;Tapa trasera;Negro (Sleek Black);5,55;;;6
+IX-HOT50I-TAP-COM-GRI;Infinix;Hot 50i;Tapa trasera;Gris (Titanium Grey);5,55;;;6
+IX-HOT50I-CTR-COM;Infinix;Hot 50i;Cámara trasera;Compatible;7,60;;;6
+IX-HOT50I-CFR-COM;Infinix;Hot 50i;Cámara frontal;Compatible;5,00;;;6
+IX-HOT50I-LEN-COM;Infinix;Hot 50i;Lente de cámara;Compatible;2,35;;;6
+IX-HOT50I-ALT-COM;Infinix;Hot 50i;Altavoz;Compatible;3,55;;;6
+IX-HOT50I-AUR-COM;Infinix;Hot 50i;Auricular de llamada;Compatible;2,65;;;6
+IX-HOT50I-FLX-COM;Infinix;Hot 50i;Flex de encendido y volumen;Compatible;2,85;;;6
+IX-HOT50I-SIM-COM;Infinix;Hot 50i;Bandeja SIM;Compatible;2,69;;;6
+IX-S9HD-PAN-COM;Infinix;Smart 9 HD;Pantalla;Compatible;14,69;14,25;13,81;6
+IX-S9HD-BAT-COM;Infinix;Smart 9 HD;Batería;Compatible;8,69;;;6
+IX-S9HD-CON-COM;Infinix;Smart 9 HD;Conector de carga;Compatible;4,05;;;6
+IX-S9HD-TAP-COM-DOR;Infinix;Smart 9 HD;Tapa trasera;Dorado (Coral Gold);5,55;;;6
+IX-S9HD-TAP-COM-NEG;Infinix;Smart 9 HD;Tapa trasera;Negro (Metallic Black);5,55;;;6
+IX-S9HD-TAP-COM-VER;Infinix;Smart 9 HD;Tapa trasera;Verde menta;5,55;;;6
+IX-S9HD-TAP-COM-TIT;Infinix;Smart 9 HD;Tapa trasera;Titanio (Neo Titanium);5,55;;;6
+IX-S9HD-CTR-COM;Infinix;Smart 9 HD;Cámara trasera;Compatible;7,60;;;6
+IX-S9HD-CFR-COM;Infinix;Smart 9 HD;Cámara frontal;Compatible;5,00;;;6
+IX-S9HD-LEN-COM;Infinix;Smart 9 HD;Lente de cámara;Compatible;2,35;;;6
+IX-S9HD-ALT-COM;Infinix;Smart 9 HD;Altavoz;Compatible;3,55;;;6
+IX-S9HD-AUR-COM;Infinix;Smart 9 HD;Auricular de llamada;Compatible;2,65;;;6
+IX-S9HD-FLX-COM;Infinix;Smart 9 HD;Flex de encendido y volumen;Compatible;2,85;;;6
+IX-S9HD-SIM-COM;Infinix;Smart 9 HD;Bandeja SIM;Compatible;2,69;;;6
+IX-N50-PAN-INC;Infinix;Note 50;Pantalla;Incell;21,05;20,42;19,79;6
+IX-N50-BAT-COM;Infinix;Note 50;Batería;Compatible;8,89;;;6
+IX-N50-CON-COM;Infinix;Note 50;Conector de carga;Compatible;6,00;;;6
+IX-N50-TAP-COM-MOU;Infinix;Note 50;Tapa trasera;Mountain Shade;6,65;;;6
+IX-N50-TAP-COM-ROJ;Infinix;Note 50;Tapa trasera;Rojo (Ruby Red);6,65;;;6
+IX-N50-TAP-COM-NEG;Infinix;Note 50;Tapa trasera;Negro (Shadow Black);6,65;;;6
+IX-N50-TAP-COM-GRI;Infinix;Note 50;Tapa trasera;Gris (Titanium Grey);6,65;;;6
+IX-N50-CTR-COM;Infinix;Note 50;Cámara trasera;Compatible;11,85;11,49;11,14;6
+IX-N50-CFR-COM;Infinix;Note 50;Cámara frontal;Compatible;7,49;;;6
+IX-N50-LEN-COM;Infinix;Note 50;Lente de cámara;Compatible;2,95;;;6
+IX-N50-ALT-COM;Infinix;Note 50;Altavoz;Compatible;4,75;;;6
+IX-N50-AUR-COM;Infinix;Note 50;Auricular de llamada;Compatible;3,70;;;6
+IX-N50-FLX-COM;Infinix;Note 50;Flex de encendido y volumen;Compatible;3,05;;;6
+IX-N50-SIM-COM;Infinix;Note 50;Bandeja SIM;Compatible;3,00;;;6
+IX-N50P-PAN-INC;Infinix;Note 50 Pro;Pantalla;Incell;21,05;20,42;19,79;6
+IX-N50P-BAT-COM;Infinix;Note 50 Pro;Batería;Compatible;8,89;;;6
+IX-N50P-CON-COM;Infinix;Note 50 Pro;Conector de carga;Compatible;6,00;;;6
+IX-N50P-TAP-COM-MOR;Infinix;Note 50 Pro;Tapa trasera;Morado (Enchanted Purple);6,65;;;6
+IX-N50P-TAP-COM-RAC;Infinix;Note 50 Pro;Tapa trasera;Racing Edition;6,65;;;6
+IX-N50P-TAP-COM-NEG;Infinix;Note 50 Pro;Tapa trasera;Negro (Shadow Black);6,65;;;6
+IX-N50P-TAP-COM-GRI;Infinix;Note 50 Pro;Tapa trasera;Gris (Titanium Grey);6,65;;;6
+IX-N50P-CTR-COM;Infinix;Note 50 Pro;Cámara trasera;Compatible;11,85;11,49;11,14;6
+IX-N50P-CFR-COM;Infinix;Note 50 Pro;Cámara frontal;Compatible;7,49;;;6
+IX-N50P-LEN-COM;Infinix;Note 50 Pro;Lente de cámara;Compatible;2,95;;;6
+IX-N50P-ALT-COM;Infinix;Note 50 Pro;Altavoz;Compatible;4,75;;;6
+IX-N50P-AUR-COM;Infinix;Note 50 Pro;Auricular de llamada;Compatible;3,70;;;6
+IX-N50P-FLX-COM;Infinix;Note 50 Pro;Flex de encendido y volumen;Compatible;3,05;;;6
+IX-N50P-SIM-COM;Infinix;Note 50 Pro;Bandeja SIM;Compatible;3,00;;;6
+IX-N50PPL5-PAN-INC;Infinix;Note 50 Pro+ 5G;Pantalla;Incell;21,05;20,42;19,79;6
+IX-N50PPL5-BAT-COM;Infinix;Note 50 Pro+ 5G;Batería;Compatible;8,89;;;6
+IX-N50PPL5-CON-COM;Infinix;Note 50 Pro+ 5G;Conector de carga;Compatible;6,00;;;6
+IX-N50PPL5-TAP-COM-MOR;Infinix;Note 50 Pro+ 5G;Tapa trasera;Morado (Enchanted Purple);6,65;;;6
+IX-N50PPL5-TAP-COM-RAC;Infinix;Note 50 Pro+ 5G;Tapa trasera;Racing Edition;6,65;;;6
+IX-N50PPL5-TAP-COM-GRI;Infinix;Note 50 Pro+ 5G;Tapa trasera;Gris (Titanium Grey);6,65;;;6
+IX-N50PPL5-CTR-COM;Infinix;Note 50 Pro+ 5G;Cámara trasera;Compatible;11,85;11,49;11,14;6
+IX-N50PPL5-CFR-COM;Infinix;Note 50 Pro+ 5G;Cámara frontal;Compatible;7,49;;;6
+IX-N50PPL5-LEN-COM;Infinix;Note 50 Pro+ 5G;Lente de cámara;Compatible;2,95;;;6
+IX-N50PPL5-ALT-COM;Infinix;Note 50 Pro+ 5G;Altavoz;Compatible;4,75;;;6
+IX-N50PPL5-AUR-COM;Infinix;Note 50 Pro+ 5G;Auricular de llamada;Compatible;3,70;;;6
+IX-N50PPL5-FLX-COM;Infinix;Note 50 Pro+ 5G;Flex de encendido y volumen;Compatible;3,05;;;6
+IX-N50PPL5-SIM-COM;Infinix;Note 50 Pro+ 5G;Bandeja SIM;Compatible;3,00;;;6
+IX-GT30P-PAN-INC;Infinix;GT 30 Pro;Pantalla;Incell;21,59;20,94;20,29;6
+IX-GT30P-BAT-COM;Infinix;GT 30 Pro;Batería;Compatible;9,55;;;6
+IX-GT30P-CON-COM;Infinix;GT 30 Pro;Conector de carga;Compatible;5,60;;;6
+IX-GT30P-TAP-COM-BLA;Infinix;GT 30 Pro;Tapa trasera;Blanco (Blade White);6,75;;;6
+IX-GT30P-TAP-COM-DAR;Infinix;GT 30 Pro;Tapa trasera;Dark Flare;6,75;;;6
+IX-GT30P-TAP-COM-SHA;Infinix;GT 30 Pro;Tapa trasera;Shadow Ash;6,75;;;6
+IX-GT30P-CTR-COM;Infinix;GT 30 Pro;Cámara trasera;Compatible;14,40;13,97;13,54;6
+IX-GT30P-CFR-COM;Infinix;GT 30 Pro;Cámara frontal;Compatible;7,90;;;6
+IX-GT30P-LEN-COM;Infinix;GT 30 Pro;Lente de cámara;Compatible;3,55;;;6
+IX-GT30P-ALT-COM;Infinix;GT 30 Pro;Altavoz;Compatible;5,25;;;6
+IX-GT30P-AUR-COM;Infinix;GT 30 Pro;Auricular de llamada;Compatible;4,60;;;6
+IX-GT30P-FLX-COM;Infinix;GT 30 Pro;Flex de encendido y volumen;Compatible;3,95;;;6
+IX-GT30P-SIM-COM;Infinix;GT 30 Pro;Bandeja SIM;Compatible;3,45;;;6
+IX-S10-PAN-COM;Infinix;Smart 10;Pantalla;Compatible;15,45;14,99;14,52;6
+IX-S10-BAT-COM;Infinix;Smart 10;Batería;Compatible;8,20;;;6
+IX-S10-CON-COM;Infinix;Smart 10;Conector de carga;Compatible;4,85;;;6
+IX-S10-TAP-COM-NEG;Infinix;Smart 10;Tapa trasera;Negro (Sleek Black);5,95;;;6
+IX-S10-TAP-COM-PLA;Infinix;Smart 10;Tapa trasera;Plata (Titanium Silver);5,95;;;6
+IX-S10-TAP-COM-AZU;Infinix;Smart 10;Tapa trasera;Azul (Iris Blue);5,95;;;6
+IX-S10-TAP-COM-DOR;Infinix;Smart 10;Tapa trasera;Dorado (Twilight Gold);5,95;;;6
+IX-S10-CTR-COM;Infinix;Smart 10;Cámara trasera;Compatible;10,45;10,14;9,82;6
+IX-S10-CFR-COM;Infinix;Smart 10;Cámara frontal;Compatible;7,00;;;6
+IX-S10-LEN-COM;Infinix;Smart 10;Lente de cámara;Compatible;3,05;;;6
+IX-S10-ALT-COM;Infinix;Smart 10;Altavoz;Compatible;4,65;;;6
+IX-S10-AUR-COM;Infinix;Smart 10;Auricular de llamada;Compatible;3,75;;;6
+IX-S10-FLX-COM;Infinix;Smart 10;Flex de encendido y volumen;Compatible;3,10;;;6
+IX-S10-SIM-COM;Infinix;Smart 10;Bandeja SIM;Compatible;3,19;;;6
+IX-S10HD-PAN-COM;Infinix;Smart 10 HD;Pantalla;Compatible;15,45;14,99;14,52;6
+IX-S10HD-BAT-COM;Infinix;Smart 10 HD;Batería;Compatible;8,20;;;6
+IX-S10HD-CON-COM;Infinix;Smart 10 HD;Conector de carga;Compatible;4,85;;;6
+IX-S10HD-TAP-COM-NEG;Infinix;Smart 10 HD;Tapa trasera;Negro (Sleek Black);5,95;;;6
+IX-S10HD-TAP-COM-GRI;Infinix;Smart 10 HD;Tapa trasera;Gris (Titanium Grey);5,95;;;6
+IX-S10HD-TAP-COM-VER;Infinix;Smart 10 HD;Tapa trasera;Verde (Jelly Green);5,95;;;6
+IX-S10HD-TAP-COM-DOR;Infinix;Smart 10 HD;Tapa trasera;Dorado (Twilight Gold);5,95;;;6
+IX-S10HD-CTR-COM;Infinix;Smart 10 HD;Cámara trasera;Compatible;10,45;10,14;9,82;6
+IX-S10HD-CFR-COM;Infinix;Smart 10 HD;Cámara frontal;Compatible;7,00;;;6
+IX-S10HD-LEN-COM;Infinix;Smart 10 HD;Lente de cámara;Compatible;3,05;;;6
+IX-S10HD-ALT-COM;Infinix;Smart 10 HD;Altavoz;Compatible;4,65;;;6
+IX-S10HD-AUR-COM;Infinix;Smart 10 HD;Auricular de llamada;Compatible;3,75;;;6
+IX-S10HD-FLX-COM;Infinix;Smart 10 HD;Flex de encendido y volumen;Compatible;3,10;;;6
+IX-S10HD-SIM-COM;Infinix;Smart 10 HD;Bandeja SIM;Compatible;3,19;;;6
+IX-S10PL-PAN-COM;Infinix;Smart 10 Plus;Pantalla;Compatible;15,45;14,99;14,52;6
+IX-S10PL-BAT-COM;Infinix;Smart 10 Plus;Batería;Compatible;8,20;;;6
+IX-S10PL-CON-COM;Infinix;Smart 10 Plus;Conector de carga;Compatible;4,85;;;6
+IX-S10PL-TAP-COM-NEG;Infinix;Smart 10 Plus;Tapa trasera;Negro (Sleek Black);5,95;;;6
+IX-S10PL-TAP-COM-PLA;Infinix;Smart 10 Plus;Tapa trasera;Plata (Titanium Silver);5,95;;;6
+IX-S10PL-TAP-COM-AZU;Infinix;Smart 10 Plus;Tapa trasera;Azul (Iris Blue);5,95;;;6
+IX-S10PL-TAP-COM-ROJ;Infinix;Smart 10 Plus;Tapa trasera;Rojo (Ruby Red);5,95;;;6
+IX-S10PL-CTR-COM;Infinix;Smart 10 Plus;Cámara trasera;Compatible;10,45;10,14;9,82;6
+IX-S10PL-CFR-COM;Infinix;Smart 10 Plus;Cámara frontal;Compatible;7,00;;;6
+IX-S10PL-LEN-COM;Infinix;Smart 10 Plus;Lente de cámara;Compatible;3,05;;;6
+IX-S10PL-ALT-COM;Infinix;Smart 10 Plus;Altavoz;Compatible;4,65;;;6
+IX-S10PL-AUR-COM;Infinix;Smart 10 Plus;Auricular de llamada;Compatible;3,75;;;6
+IX-S10PL-FLX-COM;Infinix;Smart 10 Plus;Flex de encendido y volumen;Compatible;3,10;;;6
+IX-S10PL-SIM-COM;Infinix;Smart 10 Plus;Bandeja SIM;Compatible;3,19;;;6
+IX-HOT605-PAN-COM;Infinix;Hot 60 5G;Pantalla;Compatible;15,45;14,99;14,52;6
+IX-HOT605-BAT-COM;Infinix;Hot 60 5G;Batería;Compatible;8,20;;;6
+IX-HOT605-CON-COM;Infinix;Hot 60 5G;Conector de carga;Compatible;4,85;;;6
+IX-HOT605-TAP-COM-NEG;Infinix;Hot 60 5G;Tapa trasera;Negro (Sleek Black);5,95;;;6
+IX-HOT605-TAP-COM-VER;Infinix;Hot 60 5G;Tapa trasera;Verde (Tundra Green);5,95;;;6
+IX-HOT605-TAP-COM-AZU;Infinix;Hot 60 5G;Tapa trasera;Azul (Shadow Blue);5,95;;;6
+IX-HOT605-TAP-COM-CAR;Infinix;Hot 60 5G;Tapa trasera;Caramel Glow;5,95;;;6
+IX-HOT605-CTR-COM;Infinix;Hot 60 5G;Cámara trasera;Compatible;10,45;10,14;9,82;6
+IX-HOT605-CFR-COM;Infinix;Hot 60 5G;Cámara frontal;Compatible;7,00;;;6
+IX-HOT605-LEN-COM;Infinix;Hot 60 5G;Lente de cámara;Compatible;3,05;;;6
+IX-HOT605-ALT-COM;Infinix;Hot 60 5G;Altavoz;Compatible;4,65;;;6
+IX-HOT605-AUR-COM;Infinix;Hot 60 5G;Auricular de llamada;Compatible;3,75;;;6
+IX-HOT605-FLX-COM;Infinix;Hot 60 5G;Flex de encendido y volumen;Compatible;3,10;;;6
+IX-HOT605-SIM-COM;Infinix;Hot 60 5G;Bandeja SIM;Compatible;3,19;;;6
+IX-HOT60P-PAN-INC;Infinix;Hot 60 Pro;Pantalla;Incell;18,05;17,51;16,97;6
+IX-HOT60P-BAT-COM;Infinix;Hot 60 Pro;Batería;Compatible;8,20;;;6
+IX-HOT60P-CON-COM;Infinix;Hot 60 Pro;Conector de carga;Compatible;4,85;;;6
+IX-HOT60P-TAP-COM-COR;Infinix;Hot 60 Pro;Tapa trasera;Coral (Coral Tides);5,95;;;6
+IX-HOT60P-TAP-COM-JUN;Infinix;Hot 60 Pro;Tapa trasera;Jungle Breath;5,95;;;6
+IX-HOT60P-TAP-COM-NAR;Infinix;Hot 60 Pro;Tapa trasera;Naranja (Orange Rose Valley);5,95;;;6
+IX-HOT60P-TAP-COM-NEG;Infinix;Hot 60 Pro;Tapa trasera;Negro (Sleek Black);5,95;;;6
+IX-HOT60P-TAP-COM-PLA;Infinix;Hot 60 Pro;Tapa trasera;Plata (Titanium Silver);5,95;;;6
+IX-HOT60P-TAP-COM-AZU;Infinix;Hot 60 Pro;Tapa trasera;Azul (Sapphire Blue);5,95;;;6
+IX-HOT60P-CTR-COM;Infinix;Hot 60 Pro;Cámara trasera;Compatible;10,45;10,14;9,82;6
+IX-HOT60P-CFR-COM;Infinix;Hot 60 Pro;Cámara frontal;Compatible;7,00;;;6
+IX-HOT60P-LEN-COM;Infinix;Hot 60 Pro;Lente de cámara;Compatible;3,05;;;6
+IX-HOT60P-ALT-COM;Infinix;Hot 60 Pro;Altavoz;Compatible;4,65;;;6
+IX-HOT60P-AUR-COM;Infinix;Hot 60 Pro;Auricular de llamada;Compatible;3,75;;;6
+IX-HOT60P-FLX-COM;Infinix;Hot 60 Pro;Flex de encendido y volumen;Compatible;3,10;;;6
+IX-HOT60P-SIM-COM;Infinix;Hot 60 Pro;Bandeja SIM;Compatible;3,19;;;6
+IX-HOT60PPL-PAN-INC;Infinix;Hot 60 Pro+;Pantalla;Incell;18,05;17,51;16,97;6
+IX-HOT60PPL-BAT-COM;Infinix;Hot 60 Pro+;Batería;Compatible;8,20;;;6
+IX-HOT60PPL-CON-COM;Infinix;Hot 60 Pro+;Conector de carga;Compatible;4,85;;;6
+IX-HOT60PPL-TAP-COM-NEG;Infinix;Hot 60 Pro+;Tapa trasera;Negro (Sleek Black);5,95;;;6
+IX-HOT60PPL-TAP-COM-PLA;Infinix;Hot 60 Pro+;Tapa trasera;Plata (Titanium Silver);5,95;;;6
+IX-HOT60PPL-TAP-COM-COR;Infinix;Hot 60 Pro+;Tapa trasera;Coral (Coral Tides);5,95;;;6
+IX-HOT60PPL-TAP-COM-VIO;Infinix;Hot 60 Pro+;Tapa trasera;Violeta (Misty Violet);5,95;;;6
+IX-HOT60PPL-TAP-COM-AMA;Infinix;Hot 60 Pro+;Tapa trasera;Amarillo (Sonic Yellow);5,95;;;6
+IX-HOT60PPL-TAP-COM-VER;Infinix;Hot 60 Pro+;Tapa trasera;Verde (Moco Cyber Green);5,95;;;6
+IX-HOT60PPL-CTR-COM;Infinix;Hot 60 Pro+;Cámara trasera;Compatible;10,45;10,14;9,82;6
+IX-HOT60PPL-CFR-COM;Infinix;Hot 60 Pro+;Cámara frontal;Compatible;7,00;;;6
+IX-HOT60PPL-LEN-COM;Infinix;Hot 60 Pro+;Lente de cámara;Compatible;3,05;;;6
+IX-HOT60PPL-ALT-COM;Infinix;Hot 60 Pro+;Altavoz;Compatible;4,65;;;6
+IX-HOT60PPL-AUR-COM;Infinix;Hot 60 Pro+;Auricular de llamada;Compatible;3,75;;;6
+IX-HOT60PPL-FLX-COM;Infinix;Hot 60 Pro+;Flex de encendido y volumen;Compatible;3,10;;;6
+IX-HOT60PPL-SIM-COM;Infinix;Hot 60 Pro+;Bandeja SIM;Compatible;3,19;;;6
+IX-HOT60I-PAN-COM;Infinix;Hot 60i;Pantalla;Compatible;15,45;14,99;14,52;6
+IX-HOT60I-BAT-COM;Infinix;Hot 60i;Batería;Compatible;8,20;;;6
+IX-HOT60I-CON-COM;Infinix;Hot 60i;Conector de carga;Compatible;4,85;;;6
+IX-HOT60I-TAP-COM-VER;Infinix;Hot 60i;Tapa trasera;Verde (Meadow Green);5,95;;;6
+IX-HOT60I-TAP-COM-ROJ;Infinix;Hot 60i;Tapa trasera;Rojo (Neon Red);5,95;;;6
+IX-HOT60I-TAP-COM-AZU;Infinix;Hot 60i;Tapa trasera;Azul (Shadow Blue);5,95;;;6
+IX-HOT60I-TAP-COM-NEG;Infinix;Hot 60i;Tapa trasera;Negro (Sleek Black);5,95;;;6
+IX-HOT60I-TAP-COM-MOR;Infinix;Hot 60i;Tapa trasera;Morado (Soul Eye Purple);5,95;;;6
+IX-HOT60I-TAP-COM-PLA;Infinix;Hot 60i;Tapa trasera;Plata (Titanium Silver);5,95;;;6
+IX-HOT60I-CTR-COM;Infinix;Hot 60i;Cámara trasera;Compatible;10,45;10,14;9,82;6
+IX-HOT60I-CFR-COM;Infinix;Hot 60i;Cámara frontal;Compatible;7,00;;;6
+IX-HOT60I-LEN-COM;Infinix;Hot 60i;Lente de cámara;Compatible;3,05;;;6
+IX-HOT60I-ALT-COM;Infinix;Hot 60i;Altavoz;Compatible;4,65;;;6
+IX-HOT60I-AUR-COM;Infinix;Hot 60i;Auricular de llamada;Compatible;3,75;;;6
+IX-HOT60I-FLX-COM;Infinix;Hot 60i;Flex de encendido y volumen;Compatible;3,10;;;6
+IX-HOT60I-SIM-COM;Infinix;Hot 60i;Bandeja SIM;Compatible;3,19;;;6
+IX-GT30-PAN-INC;Infinix;GT 30;Pantalla;Incell;21,59;20,94;20,29;6
+IX-GT30-BAT-COM;Infinix;GT 30;Batería;Compatible;9,55;;;6
+IX-GT30-CON-COM;Infinix;GT 30;Conector de carga;Compatible;5,60;;;6
+IX-GT30-TAP-COM-AZU;Infinix;GT 30;Tapa trasera;Azul (Cyber Blue);6,75;;;6
+IX-GT30-TAP-COM-VER;Infinix;GT 30;Tapa trasera;Verde (Pulse Green);6,75;;;6
+IX-GT30-TAP-COM-SHA;Infinix;GT 30;Tapa trasera;Shadow Ash;6,75;;;6
+IX-GT30-TAP-COM-BLA;Infinix;GT 30;Tapa trasera;Blanco (Blade White);6,75;;;6
+IX-GT30-CTR-COM;Infinix;GT 30;Cámara trasera;Compatible;14,40;13,97;13,54;6
+IX-GT30-CFR-COM;Infinix;GT 30;Cámara frontal;Compatible;7,90;;;6
+IX-GT30-LEN-COM;Infinix;GT 30;Lente de cámara;Compatible;3,55;;;6
+IX-GT30-ALT-COM;Infinix;GT 30;Altavoz;Compatible;5,25;;;6
+IX-GT30-AUR-COM;Infinix;GT 30;Auricular de llamada;Compatible;4,60;;;6
+IX-GT30-FLX-COM;Infinix;GT 30;Flex de encendido y volumen;Compatible;3,95;;;6
+IX-GT30-SIM-COM;Infinix;GT 30;Bandeja SIM;Compatible;3,45;;;6
+IX-HOT60I5-PAN-COM;Infinix;Hot 60i 5G;Pantalla;Compatible;15,45;14,99;14,52;6
+IX-HOT60I5-BAT-COM;Infinix;Hot 60i 5G;Batería;Compatible;8,20;;;6
+IX-HOT60I5-CON-COM;Infinix;Hot 60i 5G;Conector de carga;Compatible;4,85;;;6
+IX-HOT60I5-TAP-COM-NEG;Infinix;Hot 60i 5G;Tapa trasera;Negro (Sleek Black);5,95;;;6
+IX-HOT60I5-TAP-COM-AZU;Infinix;Hot 60i 5G;Tapa trasera;Azul (Shadow Blue);5,95;;;6
+IX-HOT60I5-TAP-COM-VER;Infinix;Hot 60i 5G;Tapa trasera;Verde (Monsoon Green);5,95;;;6
+IX-HOT60I5-TAP-COM-ROJ;Infinix;Hot 60i 5G;Tapa trasera;Rojo (Plum Red);5,95;;;6
+IX-HOT60I5-CTR-COM;Infinix;Hot 60i 5G;Cámara trasera;Compatible;10,45;10,14;9,82;6
+IX-HOT60I5-CFR-COM;Infinix;Hot 60i 5G;Cámara frontal;Compatible;7,00;;;6
+IX-HOT60I5-LEN-COM;Infinix;Hot 60i 5G;Lente de cámara;Compatible;3,05;;;6
+IX-HOT60I5-ALT-COM;Infinix;Hot 60i 5G;Altavoz;Compatible;4,65;;;6
+IX-HOT60I5-AUR-COM;Infinix;Hot 60i 5G;Auricular de llamada;Compatible;3,75;;;6
+IX-HOT60I5-FLX-COM;Infinix;Hot 60i 5G;Flex de encendido y volumen;Compatible;3,10;;;6
+IX-HOT60I5-SIM-COM;Infinix;Hot 60i 5G;Bandeja SIM;Compatible;3,19;;;6
+IX-NE-PAN-INC;Infinix;Note Edge;Pantalla;Incell;21,05;20,42;19,79;6
+IX-NE-BAT-COM;Infinix;Note Edge;Batería;Compatible;8,89;;;6
+IX-NE-CON-COM;Infinix;Note Edge;Conector de carga;Compatible;6,00;;;6
+IX-NE-TAP-COM-NEG;Infinix;Note Edge;Tapa trasera;Negro (Shadow Black);6,65;;;6
+IX-NE-TAP-COM-AZU;Infinix;Note Edge;Tapa trasera;Azul (Stellar Blue);6,65;;;6
+IX-NE-TAP-COM-VER;Infinix;Note Edge;Tapa trasera;Verde (Silk Green);6,65;;;6
+IX-NE-CTR-COM;Infinix;Note Edge;Cámara trasera;Compatible;11,85;11,49;11,14;6
+IX-NE-CFR-COM;Infinix;Note Edge;Cámara frontal;Compatible;7,49;;;6
+IX-NE-LEN-COM;Infinix;Note Edge;Lente de cámara;Compatible;2,95;;;6
+IX-NE-ALT-COM;Infinix;Note Edge;Altavoz;Compatible;4,75;;;6
+IX-NE-AUR-COM;Infinix;Note Edge;Auricular de llamada;Compatible;3,70;;;6
+IX-NE-FLX-COM;Infinix;Note Edge;Flex de encendido y volumen;Compatible;3,05;;;6
+IX-NE-SIM-COM;Infinix;Note Edge;Bandeja SIM;Compatible;3,00;;;6
+IX-N60-PAN-INC;Infinix;Note 60;Pantalla;Incell;21,05;20,42;19,79;6
+IX-N60-BAT-COM;Infinix;Note 60;Batería;Compatible;8,89;;;6
+IX-N60-CON-COM;Infinix;Note 60;Conector de carga;Compatible;6,00;;;6
+IX-N60-TAP-COM-TIT;Infinix;Note 60;Tapa trasera;Titanio (Mist Titanium);6,65;;;6
+IX-N60-TAP-COM-NEG;Infinix;Note 60;Tapa trasera;Negro (Midnight Black);6,65;;;6
+IX-N60-TAP-COM-AZU;Infinix;Note 60;Tapa trasera;Azul (Fizz Blue);6,65;;;6
+IX-N60-TAP-COM-ORO;Infinix;Note 60;Tapa trasera;Oro rosa;6,65;;;6
+IX-N60-TAP-COM-MAR;Infinix;Note 60;Tapa trasera;Marrón (Mocha Brown);6,65;;;6
+IX-N60-CTR-COM;Infinix;Note 60;Cámara trasera;Compatible;11,85;11,49;11,14;6
+IX-N60-CFR-COM;Infinix;Note 60;Cámara frontal;Compatible;7,49;;;6
+IX-N60-LEN-COM;Infinix;Note 60;Lente de cámara;Compatible;2,95;;;6
+IX-N60-ALT-COM;Infinix;Note 60;Altavoz;Compatible;4,75;;;6
+IX-N60-AUR-COM;Infinix;Note 60;Auricular de llamada;Compatible;3,70;;;6
+IX-N60-FLX-COM;Infinix;Note 60;Flex de encendido y volumen;Compatible;3,05;;;6
+IX-N60-SIM-COM;Infinix;Note 60;Bandeja SIM;Compatible;3,00;;;6
+IX-N60P-PAN-INC;Infinix;Note 60 Pro;Pantalla;Incell;21,05;20,42;19,79;6
+IX-N60P-BAT-COM;Infinix;Note 60 Pro;Batería;Compatible;8,89;;;6
+IX-N60P-CON-COM;Infinix;Note 60 Pro;Conector de carga;Compatible;6,00;;;6
+IX-N60P-TAP-COM-TIT;Infinix;Note 60 Pro;Tapa trasera;Titanio (Mist Titanium);6,65;;;6
+IX-N60P-TAP-COM-AZU;Infinix;Note 60 Pro;Tapa trasera;Azul (Deep Ocean Blue);6,65;;;6
+IX-N60P-TAP-COM-NAR;Infinix;Note 60 Pro;Tapa trasera;Naranja (Solar Orange);6,65;;;6
+IX-N60P-TAP-COM-MAR;Infinix;Note 60 Pro;Tapa trasera;Marrón (Mocha Brown);6,65;;;6
+IX-N60P-TAP-COM-NEG;Infinix;Note 60 Pro;Tapa trasera;Negro (Torino Black);6,65;;;6
+IX-N60P-TAP-COM-PLA;Infinix;Note 60 Pro;Tapa trasera;Plata (Frost Silver);6,65;;;6
+IX-N60P-CTR-COM;Infinix;Note 60 Pro;Cámara trasera;Compatible;11,85;11,49;11,14;6
+IX-N60P-CFR-COM;Infinix;Note 60 Pro;Cámara frontal;Compatible;7,49;;;6
+IX-N60P-LEN-COM;Infinix;Note 60 Pro;Lente de cámara;Compatible;2,95;;;6
+IX-N60P-ALT-COM;Infinix;Note 60 Pro;Altavoz;Compatible;4,75;;;6
+IX-N60P-AUR-COM;Infinix;Note 60 Pro;Auricular de llamada;Compatible;3,70;;;6
+IX-N60P-FLX-COM;Infinix;Note 60 Pro;Flex de encendido y volumen;Compatible;3,05;;;6
+IX-N60P-SIM-COM;Infinix;Note 60 Pro;Bandeja SIM;Compatible;3,00;;;6
+IX-S20-PAN-COM;Infinix;Smart 20;Pantalla;Compatible;15,45;14,99;14,52;6
+IX-S20-BAT-COM;Infinix;Smart 20;Batería;Compatible;8,20;;;6
+IX-S20-CON-COM;Infinix;Smart 20;Conector de carga;Compatible;4,85;;;6
+IX-S20-TAP-COM-NEG;Infinix;Smart 20;Tapa trasera;Negro (Shadow Black);5,95;;;6
+IX-S20-TAP-COM-TIT;Infinix;Smart 20;Tapa trasera;Titanio (Polaris Titanium);5,95;;;6
+IX-S20-TAP-COM-NAR;Infinix;Smart 20;Tapa trasera;Naranja (Sunlike Orange);5,95;;;6
+IX-S20-TAP-COM-AZU;Infinix;Smart 20;Tapa trasera;Azul (Cloudline Blue);5,95;;;6
+IX-S20-CTR-COM;Infinix;Smart 20;Cámara trasera;Compatible;10,45;10,14;9,82;6
+IX-S20-CFR-COM;Infinix;Smart 20;Cámara frontal;Compatible;7,00;;;6
+IX-S20-LEN-COM;Infinix;Smart 20;Lente de cámara;Compatible;3,05;;;6
+IX-S20-ALT-COM;Infinix;Smart 20;Altavoz;Compatible;4,65;;;6
+IX-S20-AUR-COM;Infinix;Smart 20;Auricular de llamada;Compatible;3,75;;;6
+IX-S20-FLX-COM;Infinix;Smart 20;Flex de encendido y volumen;Compatible;3,10;;;6
+IX-S20-SIM-COM;Infinix;Smart 20;Bandeja SIM;Compatible;3,19;;;6
+IX-GT50P-PAN-INC;Infinix;GT 50 Pro;Pantalla;Incell;21,59;20,94;20,29;6
+IX-GT50P-BAT-COM;Infinix;GT 50 Pro;Batería;Compatible;9,55;;;6
+IX-GT50P-CON-COM;Infinix;GT 50 Pro;Conector de carga;Compatible;5,60;;;6
+IX-GT50P-TAP-COM-NEG;Infinix;GT 50 Pro;Tapa trasera;Negro (Black Abyss);6,75;;;6
+IX-GT50P-TAP-COM-ROJ;Infinix;GT 50 Pro;Tapa trasera;Rojo (Red Blaze);6,75;;;6
+IX-GT50P-TAP-COM-PLA;Infinix;GT 50 Pro;Tapa trasera;Plata (Silver Glacier);6,75;;;6
+IX-GT50P-CTR-COM;Infinix;GT 50 Pro;Cámara trasera;Compatible;14,40;13,97;13,54;6
+IX-GT50P-CFR-COM;Infinix;GT 50 Pro;Cámara frontal;Compatible;7,90;;;6
+IX-GT50P-LEN-COM;Infinix;GT 50 Pro;Lente de cámara;Compatible;3,55;;;6
+IX-GT50P-ALT-COM;Infinix;GT 50 Pro;Altavoz;Compatible;5,25;;;6
+IX-GT50P-AUR-COM;Infinix;GT 50 Pro;Auricular de llamada;Compatible;4,60;;;6
+IX-GT50P-FLX-COM;Infinix;GT 50 Pro;Flex de encendido y volumen;Compatible;3,95;;;6
+IX-GT50P-SIM-COM;Infinix;GT 50 Pro;Bandeja SIM;Compatible;3,45;;;6
+IX-HOT70-PAN-COM;Infinix;Hot 70;Pantalla;Compatible;15,45;14,99;14,52;6
+IX-HOT70-BAT-COM;Infinix;Hot 70;Batería;Compatible;8,20;;;6
+IX-HOT70-CON-COM;Infinix;Hot 70;Conector de carga;Compatible;4,85;;;6
+IX-HOT70-TAP-COM-NIG;Infinix;Hot 70;Tapa trasera;Night Pulse;5,95;;;6
+IX-HOT70-TAP-COM-AZU;Infinix;Hot 70;Tapa trasera;Azul (Dive Blue);5,95;;;6
+IX-HOT70-TAP-COM-PLA;Infinix;Hot 70;Tapa trasera;Plata (Silver Dancer);5,95;;;6
+IX-HOT70-TAP-COM-VER;Infinix;Hot 70;Tapa trasera;Verde (Green Texture);5,95;;;6
+IX-HOT70-TAP-COM-VIO;Infinix;Hot 70;Tapa trasera;Violeta (Quiet Violet);5,95;;;6
+IX-HOT70-TAP-COM-NAR;Infinix;Hot 70;Tapa trasera;Naranja (Thermo Orange);5,95;;;6
+IX-HOT70-CTR-COM;Infinix;Hot 70;Cámara trasera;Compatible;10,45;10,14;9,82;6
+IX-HOT70-CFR-COM;Infinix;Hot 70;Cámara frontal;Compatible;7,00;;;6
+IX-HOT70-LEN-COM;Infinix;Hot 70;Lente de cámara;Compatible;3,05;;;6
+IX-HOT70-ALT-COM;Infinix;Hot 70;Altavoz;Compatible;4,65;;;6
+IX-HOT70-AUR-COM;Infinix;Hot 70;Auricular de llamada;Compatible;3,75;;;6
+IX-HOT70-FLX-COM;Infinix;Hot 70;Flex de encendido y volumen;Compatible;3,10;;;6
+IX-HOT70-SIM-COM;Infinix;Hot 70;Bandeja SIM;Compatible;3,19;;;6
+IX-ZFL-PRO-NA;Infinix;Zero Flip;Cristal templado;Estándar;1,30;;;
+IX-ZFL-FUN-SIL;Infinix;Zero Flip;Funda;Silicona;2,50;;;
+IX-ZFL-FUN-TPU;Infinix;Zero Flip;Funda;Transparente;2,95;;;
+IX-ZU-PRO-NA;Infinix;Zero Ultra;Cristal templado;Estándar;1,30;;;
+IX-ZU-PRO-PRI;Infinix;Zero Ultra;Cristal templado;Privacidad;4,00;;;
+IX-ZU-FUN-SIL;Infinix;Zero Ultra;Funda;Silicona;2,50;;;
+IX-ZU-FUN-TPU;Infinix;Zero Ultra;Funda;Transparente;2,95;;;
+IX-ZU-FUN-LIB;Infinix;Zero Ultra;Funda;Libro;3,70;;;
+IX-ZU-FUN-ANT;Infinix;Zero Ultra;Funda;Antigolpes;3,10;;;
+IX-ZERO8I-PRO-NA;Infinix;Zero 8i;Cristal templado;Estándar;1,30;;;
+IX-ZERO8I-PRO-PRI;Infinix;Zero 8i;Cristal templado;Privacidad;4,00;;;
+IX-ZERO8I-FUN-SIL;Infinix;Zero 8i;Funda;Silicona;2,50;;;
+IX-ZERO8I-FUN-TPU;Infinix;Zero 8i;Funda;Transparente;2,95;;;
+IX-ZERO8I-FUN-LIB;Infinix;Zero 8i;Funda;Libro;3,70;;;
+IX-ZERO8I-FUN-ANT;Infinix;Zero 8i;Funda;Antigolpes;3,10;;;
+IX-Z8-PRO-NA;Infinix;Zero 8;Cristal templado;Estándar;1,30;;;
+IX-Z8-PRO-PRI;Infinix;Zero 8;Cristal templado;Privacidad;4,00;;;
+IX-Z8-FUN-SIL;Infinix;Zero 8;Funda;Silicona;2,50;;;
+IX-Z8-FUN-TPU;Infinix;Zero 8;Funda;Transparente;2,95;;;
+IX-Z8-FUN-LIB;Infinix;Zero 8;Funda;Libro;3,70;;;
+IX-Z8-FUN-ANT;Infinix;Zero 8;Funda;Antigolpes;3,10;;;
+IX-HOT9P-PRO-NA;Infinix;Hot 9 Pro;Cristal templado;Estándar;1,30;;;
+IX-HOT9P-PRO-PRI;Infinix;Hot 9 Pro;Cristal templado;Privacidad;4,00;;;
+IX-HOT9P-FUN-SIL;Infinix;Hot 9 Pro;Funda;Silicona;2,50;;;
+IX-HOT9P-FUN-TPU;Infinix;Hot 9 Pro;Funda;Transparente;2,95;;;
+IX-HOT9P-FUN-LIB;Infinix;Hot 9 Pro;Funda;Libro;3,70;;;
+IX-HOT9P-FUN-ANT;Infinix;Hot 9 Pro;Funda;Antigolpes;3,10;;;
+IX-HOT9P-PCA-NA;Infinix;Hot 9 Pro;Protector de cámara;Cristal;2,90;;;
+IX-N7-PRO-NA;Infinix;Note 7;Cristal templado;Estándar;1,30;;;
+IX-N7-PRO-PRI;Infinix;Note 7;Cristal templado;Privacidad;4,00;;;
+IX-N7-FUN-SIL;Infinix;Note 7;Funda;Silicona;2,50;;;
+IX-N7-FUN-TPU;Infinix;Note 7;Funda;Transparente;2,95;;;
+IX-N7-FUN-LIB;Infinix;Note 7;Funda;Libro;3,70;;;
+IX-N7-FUN-ANT;Infinix;Note 7;Funda;Antigolpes;3,10;;;
+IX-N7-PCA-NA;Infinix;Note 7;Protector de cámara;Cristal;2,90;;;
+IX-S4-PRO-NA;Infinix;S4;Cristal templado;Estándar;1,30;;;
+IX-S4-PRO-PRI;Infinix;S4;Cristal templado;Privacidad;4,00;;;
+IX-S4-FUN-SIL;Infinix;S4;Funda;Silicona;2,50;;;
+IX-S4-FUN-TPU;Infinix;S4;Funda;Transparente;2,95;;;
+IX-S4-FUN-LIB;Infinix;S4;Funda;Libro;3,70;;;
+IX-S4-FUN-ANT;Infinix;S4;Funda;Antigolpes;3,10;;;
+IX-HOT7P-PRO-NA;Infinix;Hot 7 Pro;Cristal templado;Estándar;1,30;;;
+IX-HOT7P-PRO-PRI;Infinix;Hot 7 Pro;Cristal templado;Privacidad;4,00;;;
+IX-HOT7P-FUN-SIL;Infinix;Hot 7 Pro;Funda;Silicona;2,50;;;
+IX-HOT7P-FUN-TPU;Infinix;Hot 7 Pro;Funda;Transparente;2,95;;;
+IX-HOT7P-FUN-LIB;Infinix;Hot 7 Pro;Funda;Libro;3,70;;;
+IX-HOT7P-FUN-ANT;Infinix;Hot 7 Pro;Funda;Antigolpes;3,10;;;
+IX-HOT7-PRO-NA;Infinix;Hot 7;Cristal templado;Estándar;1,30;;;
+IX-HOT7-PRO-PRI;Infinix;Hot 7;Cristal templado;Privacidad;4,00;;;
+IX-HOT7-FUN-SIL;Infinix;Hot 7;Funda;Silicona;2,50;;;
+IX-HOT7-FUN-TPU;Infinix;Hot 7;Funda;Transparente;2,95;;;
+IX-HOT7-FUN-LIB;Infinix;Hot 7;Funda;Libro;3,70;;;
+IX-HOT7-FUN-ANT;Infinix;Hot 7;Funda;Antigolpes;3,10;;;
+IX-HOTS-PRO-NA;Infinix;Hot S;Cristal templado;Estándar;1,30;;;
+IX-HOTS-PRO-PRI;Infinix;Hot S;Cristal templado;Privacidad;4,00;;;
+IX-HOTS-FUN-SIL;Infinix;Hot S;Funda;Silicona;2,50;;;
+IX-HOTS-FUN-TPU;Infinix;Hot S;Funda;Transparente;2,95;;;
+IX-HOTS-FUN-LIB;Infinix;Hot S;Funda;Libro;3,70;;;
+IX-HOTS-FUN-ANT;Infinix;Hot S;Funda;Antigolpes;3,10;;;
+IX-HOTS3-PRO-NA;Infinix;Hot S3;Cristal templado;Estándar;1,30;;;
+IX-HOTS3-PRO-PRI;Infinix;Hot S3;Cristal templado;Privacidad;4,00;;;
+IX-HOTS3-FUN-SIL;Infinix;Hot S3;Funda;Silicona;2,50;;;
+IX-HOTS3-FUN-TPU;Infinix;Hot S3;Funda;Transparente;2,95;;;
+IX-HOTS3-FUN-LIB;Infinix;Hot S3;Funda;Libro;3,70;;;
+IX-HOTS3-FUN-ANT;Infinix;Hot S3;Funda;Antigolpes;3,10;;;
+IX-HOT70P5-PRO-NA;Infinix;Hot 70 Pro 5G;Cristal templado;Estándar;1,30;;;
+IX-HOT70P5-PRO-PRI;Infinix;Hot 70 Pro 5G;Cristal templado;Privacidad;4,00;;;
+IX-HOT70P5-FUN-SIL;Infinix;Hot 70 Pro 5G;Funda;Silicona;2,50;;;
+IX-HOT70P5-FUN-TPU;Infinix;Hot 70 Pro 5G;Funda;Transparente;2,95;;;
+IX-HOT70P5-FUN-LIB;Infinix;Hot 70 Pro 5G;Funda;Libro;3,70;;;
+IX-HOT70P5-FUN-ANT;Infinix;Hot 70 Pro 5G;Funda;Antigolpes;3,10;;;
+IX-HOT9-PRO-NA;Infinix;Hot 9;Cristal templado;Estándar;1,30;;;
+IX-HOT9-PRO-PRI;Infinix;Hot 9;Cristal templado;Privacidad;4,00;;;
+IX-HOT9-FUN-SIL;Infinix;Hot 9;Funda;Silicona;2,50;;;
+IX-HOT9-FUN-TPU;Infinix;Hot 9;Funda;Transparente;2,95;;;
+IX-HOT9-FUN-LIB;Infinix;Hot 9;Funda;Libro;3,70;;;
+IX-HOT9-FUN-ANT;Infinix;Hot 9;Funda;Antigolpes;3,10;;;
+IX-N30I-PRO-NA;Infinix;Note 30i;Cristal templado;Estándar;1,30;;;
+IX-N30I-PRO-PRI;Infinix;Note 30i;Cristal templado;Privacidad;4,00;;;
+IX-N30I-FUN-SIL;Infinix;Note 30i;Funda;Silicona;2,50;;;
+IX-N30I-FUN-TPU;Infinix;Note 30i;Funda;Transparente;2,95;;;
+IX-N30I-FUN-LIB;Infinix;Note 30i;Funda;Libro;3,70;;;
+IX-N30I-FUN-ANT;Infinix;Note 30i;Funda;Antigolpes;3,10;;;
+IX-N40X5-PRO-NA;Infinix;Note 40X 5G;Cristal templado;Estándar;1,30;;;
+IX-N40X5-PRO-PRI;Infinix;Note 40X 5G;Cristal templado;Privacidad;4,00;;;
+IX-N40X5-FUN-SIL;Infinix;Note 40X 5G;Funda;Silicona;2,50;;;
+IX-N40X5-FUN-TPU;Infinix;Note 40X 5G;Funda;Transparente;2,95;;;
+IX-N40X5-FUN-LIB;Infinix;Note 40X 5G;Funda;Libro;3,70;;;
+IX-N40X5-FUN-ANT;Infinix;Note 40X 5G;Funda;Antigolpes;3,10;;;
+IX-N50S5-PRO-NA;Infinix;Note 50S 5G;Cristal templado;Estándar;1,30;;;
+IX-N50S5-PRO-PRI;Infinix;Note 50S 5G;Cristal templado;Privacidad;4,00;;;
+IX-N50S5-FUN-SIL;Infinix;Note 50S 5G;Funda;Silicona;2,50;;;
+IX-N50S5-FUN-TPU;Infinix;Note 50S 5G;Funda;Transparente;2,95;;;
+IX-N50S5-FUN-LIB;Infinix;Note 50S 5G;Funda;Libro;3,70;;;
+IX-N50S5-FUN-ANT;Infinix;Note 50S 5G;Funda;Antigolpes;3,10;;;
+IX-N60U-PRO-NA;Infinix;Note 60 Ultra;Cristal templado;Estándar;1,30;;;
+IX-N60U-PRO-PRI;Infinix;Note 60 Ultra;Cristal templado;Privacidad;4,00;;;
+IX-N60U-FUN-SIL;Infinix;Note 60 Ultra;Funda;Silicona;2,50;;;
+IX-N60U-FUN-TPU;Infinix;Note 60 Ultra;Funda;Transparente;2,95;;;
+IX-N60U-FUN-LIB;Infinix;Note 60 Ultra;Funda;Libro;3,70;;;
+IX-N60U-FUN-ANT;Infinix;Note 60 Ultra;Funda;Antigolpes;3,10;;;
+IX-N7L-PRO-NA;Infinix;Note 7 Lite;Cristal templado;Estándar;1,30;;;
+IX-N7L-PRO-PRI;Infinix;Note 7 Lite;Cristal templado;Privacidad;4,00;;;
+IX-N7L-FUN-SIL;Infinix;Note 7 Lite;Funda;Silicona;2,50;;;
+IX-N7L-FUN-TPU;Infinix;Note 7 Lite;Funda;Transparente;2,95;;;
+IX-N7L-FUN-LIB;Infinix;Note 7 Lite;Funda;Libro;3,70;;;
+IX-N7L-FUN-ANT;Infinix;Note 7 Lite;Funda;Antigolpes;3,10;;;
+IX-S7-PRO-NA;Infinix;Smart 7;Cristal templado;Estándar;1,30;;;
+IX-S7-PRO-PRI;Infinix;Smart 7;Cristal templado;Privacidad;4,00;;;
+IX-S7-FUN-SIL;Infinix;Smart 7;Funda;Silicona;2,50;;;
+IX-S7-FUN-TPU;Infinix;Smart 7;Funda;Transparente;2,95;;;
+IX-S7-FUN-LIB;Infinix;Smart 7;Funda;Libro;3,70;;;
+IX-S7-FUN-ANT;Infinix;Smart 7;Funda;Antigolpes;3,10;;;
+IX-S7-PCA-NA;Infinix;Smart 7;Protector de cámara;Cristal;2,90;;;
+IX-HOT30-PRO-NA;Infinix;Hot 30;Cristal templado;Estándar;1,30;;;
+IX-HOT30-PRO-PRI;Infinix;Hot 30;Cristal templado;Privacidad;4,00;;;
+IX-HOT30-FUN-SIL;Infinix;Hot 30;Funda;Silicona;2,50;;;
+IX-HOT30-FUN-TPU;Infinix;Hot 30;Funda;Transparente;2,95;;;
+IX-HOT30-FUN-LIB;Infinix;Hot 30;Funda;Libro;3,70;;;
+IX-HOT30-FUN-ANT;Infinix;Hot 30;Funda;Antigolpes;3,10;;;
+IX-HOT30-PCA-NA;Infinix;Hot 30;Protector de cámara;Cristal;2,90;;;
+IX-HOT30I-PRO-NA;Infinix;Hot 30i;Cristal templado;Estándar;1,30;;;
+IX-HOT30I-PRO-PRI;Infinix;Hot 30i;Cristal templado;Privacidad;4,00;;;
+IX-HOT30I-FUN-SIL;Infinix;Hot 30i;Funda;Silicona;2,50;;;
+IX-HOT30I-FUN-TPU;Infinix;Hot 30i;Funda;Transparente;2,95;;;
+IX-HOT30I-FUN-LIB;Infinix;Hot 30i;Funda;Libro;3,70;;;
+IX-HOT30I-FUN-ANT;Infinix;Hot 30i;Funda;Antigolpes;3,10;;;
+IX-HOT30I-PCA-NA;Infinix;Hot 30i;Protector de cámara;Cristal;2,90;;;
+IX-S7PL-PRO-NA;Infinix;Smart 7 Plus;Cristal templado;Estándar;1,30;;;
+IX-S7PL-PRO-PRI;Infinix;Smart 7 Plus;Cristal templado;Privacidad;4,00;;;
+IX-S7PL-FUN-SIL;Infinix;Smart 7 Plus;Funda;Silicona;2,50;;;
+IX-S7PL-FUN-TPU;Infinix;Smart 7 Plus;Funda;Transparente;2,95;;;
+IX-S7PL-FUN-LIB;Infinix;Smart 7 Plus;Funda;Libro;3,70;;;
+IX-S7PL-FUN-ANT;Infinix;Smart 7 Plus;Funda;Antigolpes;3,10;;;
+IX-S7PL-PCA-NA;Infinix;Smart 7 Plus;Protector de cámara;Cristal;2,90;;;
+IX-HOT30PY-PRO-NA;Infinix;Hot 30 Play;Cristal templado;Estándar;1,30;;;
+IX-HOT30PY-PRO-PRI;Infinix;Hot 30 Play;Cristal templado;Privacidad;4,00;;;
+IX-HOT30PY-FUN-SIL;Infinix;Hot 30 Play;Funda;Silicona;2,50;;;
+IX-HOT30PY-FUN-TPU;Infinix;Hot 30 Play;Funda;Transparente;2,95;;;
+IX-HOT30PY-FUN-LIB;Infinix;Hot 30 Play;Funda;Libro;3,70;;;
+IX-HOT30PY-FUN-ANT;Infinix;Hot 30 Play;Funda;Antigolpes;3,10;;;
+IX-HOT30PY-PCA-NA;Infinix;Hot 30 Play;Protector de cámara;Cristal;2,90;;;
+IX-N30-PRO-NA;Infinix;Note 30;Cristal templado;Estándar;1,30;;;
+IX-N30-PRO-PRI;Infinix;Note 30;Cristal templado;Privacidad;4,00;;;
+IX-N30-FUN-SIL;Infinix;Note 30;Funda;Silicona;2,50;;;
+IX-N30-FUN-TPU;Infinix;Note 30;Funda;Transparente;2,95;;;
+IX-N30-FUN-LIB;Infinix;Note 30;Funda;Libro;3,70;;;
+IX-N30-FUN-ANT;Infinix;Note 30;Funda;Antigolpes;3,10;;;
+IX-N30-PCA-NA;Infinix;Note 30;Protector de cámara;Cristal;2,90;;;
+IX-N305-PRO-NA;Infinix;Note 30 5G;Cristal templado;Estándar;1,30;;;
+IX-N305-PRO-PRI;Infinix;Note 30 5G;Cristal templado;Privacidad;4,00;;;
+IX-N305-FUN-SIL;Infinix;Note 30 5G;Funda;Silicona;2,50;;;
+IX-N305-FUN-TPU;Infinix;Note 30 5G;Funda;Transparente;2,95;;;
+IX-N305-FUN-LIB;Infinix;Note 30 5G;Funda;Libro;3,70;;;
+IX-N305-FUN-ANT;Infinix;Note 30 5G;Funda;Antigolpes;3,10;;;
+IX-N305-PCA-NA;Infinix;Note 30 5G;Protector de cámara;Cristal;2,90;;;
+IX-N30P-PRO-NA;Infinix;Note 30 Pro;Cristal templado;Estándar;1,30;;;
+IX-N30P-PRO-PRI;Infinix;Note 30 Pro;Cristal templado;Privacidad;4,00;;;
+IX-N30P-FUN-SIL;Infinix;Note 30 Pro;Funda;Silicona;2,50;;;
+IX-N30P-FUN-TPU;Infinix;Note 30 Pro;Funda;Transparente;2,95;;;
+IX-N30P-FUN-LIB;Infinix;Note 30 Pro;Funda;Libro;3,70;;;
+IX-N30P-FUN-ANT;Infinix;Note 30 Pro;Funda;Antigolpes;3,10;;;
+IX-N30P-PCA-NA;Infinix;Note 30 Pro;Protector de cámara;Cristal;2,90;;;
+IX-N30VIP-PRO-NA;Infinix;Note 30 VIP;Cristal templado;Estándar;1,30;;;
+IX-N30VIP-PRO-PRI;Infinix;Note 30 VIP;Cristal templado;Privacidad;4,00;;;
+IX-N30VIP-FUN-SIL;Infinix;Note 30 VIP;Funda;Silicona;2,50;;;
+IX-N30VIP-FUN-TPU;Infinix;Note 30 VIP;Funda;Transparente;2,95;;;
+IX-N30VIP-FUN-LIB;Infinix;Note 30 VIP;Funda;Libro;3,70;;;
+IX-N30VIP-FUN-ANT;Infinix;Note 30 VIP;Funda;Antigolpes;3,10;;;
+IX-N30VIP-PCA-NA;Infinix;Note 30 VIP;Protector de cámara;Cristal;2,90;;;
+IX-N30X6716-PRO-NA;Infinix;Note 30 (X6716B);Cristal templado;Estándar;1,30;;;
+IX-N30X6716-PRO-PRI;Infinix;Note 30 (X6716B);Cristal templado;Privacidad;4,00;;;
+IX-N30X6716-FUN-SIL;Infinix;Note 30 (X6716B);Funda;Silicona;2,50;;;
+IX-N30X6716-FUN-TPU;Infinix;Note 30 (X6716B);Funda;Transparente;2,95;;;
+IX-N30X6716-FUN-LIB;Infinix;Note 30 (X6716B);Funda;Libro;3,70;;;
+IX-N30X6716-FUN-ANT;Infinix;Note 30 (X6716B);Funda;Antigolpes;3,10;;;
+IX-N30X6716-PCA-NA;Infinix;Note 30 (X6716B);Protector de cámara;Cristal;2,90;;;
+IX-HOT305-PRO-NA;Infinix;Hot 30 5G;Cristal templado;Estándar;1,30;;;
+IX-HOT305-PRO-PRI;Infinix;Hot 30 5G;Cristal templado;Privacidad;4,00;;;
+IX-HOT305-FUN-SIL;Infinix;Hot 30 5G;Funda;Silicona;2,50;;;
+IX-HOT305-FUN-TPU;Infinix;Hot 30 5G;Funda;Transparente;2,95;;;
+IX-HOT305-FUN-LIB;Infinix;Hot 30 5G;Funda;Libro;3,70;;;
+IX-HOT305-FUN-ANT;Infinix;Hot 30 5G;Funda;Antigolpes;3,10;;;
+IX-HOT305-PCA-NA;Infinix;Hot 30 5G;Protector de cámara;Cristal;2,90;;;
+IX-S7HD-PRO-NA;Infinix;Smart 7 HD;Cristal templado;Estándar;1,30;;;
+IX-S7HD-PRO-PRI;Infinix;Smart 7 HD;Cristal templado;Privacidad;4,00;;;
+IX-S7HD-FUN-SIL;Infinix;Smart 7 HD;Funda;Silicona;2,50;;;
+IX-S7HD-FUN-TPU;Infinix;Smart 7 HD;Funda;Transparente;2,95;;;
+IX-S7HD-FUN-LIB;Infinix;Smart 7 HD;Funda;Libro;3,70;;;
+IX-S7HD-FUN-ANT;Infinix;Smart 7 HD;Funda;Antigolpes;3,10;;;
+IX-S7HD-PCA-NA;Infinix;Smart 7 HD;Protector de cámara;Cristal;2,90;;;
+IX-Z305-PRO-NA;Infinix;Zero 30 5G;Cristal templado;Estándar;1,30;;;
+IX-Z305-PRO-PRI;Infinix;Zero 30 5G;Cristal templado;Privacidad;4,00;;;
+IX-Z305-FUN-SIL;Infinix;Zero 30 5G;Funda;Silicona;2,50;;;
+IX-Z305-FUN-TPU;Infinix;Zero 30 5G;Funda;Transparente;2,95;;;
+IX-Z305-FUN-LIB;Infinix;Zero 30 5G;Funda;Libro;3,70;;;
+IX-Z305-FUN-ANT;Infinix;Zero 30 5G;Funda;Antigolpes;3,10;;;
+IX-Z305-PCA-NA;Infinix;Zero 30 5G;Protector de cámara;Cristal;2,90;;;
+IX-Z30-PRO-NA;Infinix;Zero 30;Cristal templado;Estándar;1,30;;;
+IX-Z30-PRO-PRI;Infinix;Zero 30;Cristal templado;Privacidad;4,00;;;
+IX-Z30-FUN-SIL;Infinix;Zero 30;Funda;Silicona;2,50;;;
+IX-Z30-FUN-TPU;Infinix;Zero 30;Funda;Transparente;2,95;;;
+IX-Z30-FUN-LIB;Infinix;Zero 30;Funda;Libro;3,70;;;
+IX-Z30-FUN-ANT;Infinix;Zero 30;Funda;Antigolpes;3,10;;;
+IX-Z30-PCA-NA;Infinix;Zero 30;Protector de cámara;Cristal;2,90;;;
+IX-S8-PRO-NA;Infinix;Smart 8;Cristal templado;Estándar;1,30;;;
+IX-S8-PRO-PRI;Infinix;Smart 8;Cristal templado;Privacidad;4,00;;;
+IX-S8-FUN-SIL;Infinix;Smart 8;Funda;Silicona;2,50;;;
+IX-S8-FUN-TPU;Infinix;Smart 8;Funda;Transparente;2,95;;;
+IX-S8-FUN-LIB;Infinix;Smart 8;Funda;Libro;3,70;;;
+IX-S8-FUN-ANT;Infinix;Smart 8;Funda;Antigolpes;3,10;;;
+IX-S8-PCA-NA;Infinix;Smart 8;Protector de cámara;Cristal;2,90;;;
+IX-HOT40-PRO-NA;Infinix;Hot 40;Cristal templado;Estándar;1,30;;;
+IX-HOT40-PRO-PRI;Infinix;Hot 40;Cristal templado;Privacidad;4,00;;;
+IX-HOT40-FUN-SIL;Infinix;Hot 40;Funda;Silicona;2,50;;;
+IX-HOT40-FUN-TPU;Infinix;Hot 40;Funda;Transparente;2,95;;;
+IX-HOT40-FUN-LIB;Infinix;Hot 40;Funda;Libro;3,70;;;
+IX-HOT40-FUN-ANT;Infinix;Hot 40;Funda;Antigolpes;3,10;;;
+IX-HOT40-PCA-NA;Infinix;Hot 40;Protector de cámara;Cristal;2,90;;;
+IX-HOT40P-PRO-NA;Infinix;Hot 40 Pro;Cristal templado;Estándar;1,30;;;
+IX-HOT40P-PRO-PRI;Infinix;Hot 40 Pro;Cristal templado;Privacidad;4,00;;;
+IX-HOT40P-FUN-SIL;Infinix;Hot 40 Pro;Funda;Silicona;2,50;;;
+IX-HOT40P-FUN-TPU;Infinix;Hot 40 Pro;Funda;Transparente;2,95;;;
+IX-HOT40P-FUN-LIB;Infinix;Hot 40 Pro;Funda;Libro;3,70;;;
+IX-HOT40P-FUN-ANT;Infinix;Hot 40 Pro;Funda;Antigolpes;3,10;;;
+IX-HOT40P-PCA-NA;Infinix;Hot 40 Pro;Protector de cámara;Cristal;2,90;;;
+IX-HOT40I-PRO-NA;Infinix;Hot 40i;Cristal templado;Estándar;1,30;;;
+IX-HOT40I-PRO-PRI;Infinix;Hot 40i;Cristal templado;Privacidad;4,00;;;
+IX-HOT40I-FUN-SIL;Infinix;Hot 40i;Funda;Silicona;2,50;;;
+IX-HOT40I-FUN-TPU;Infinix;Hot 40i;Funda;Transparente;2,95;;;
+IX-HOT40I-FUN-LIB;Infinix;Hot 40i;Funda;Libro;3,70;;;
+IX-HOT40I-FUN-ANT;Infinix;Hot 40i;Funda;Antigolpes;3,10;;;
+IX-HOT40I-PCA-NA;Infinix;Hot 40i;Protector de cámara;Cristal;2,90;;;
+IX-S8PL-PRO-NA;Infinix;Smart 8 Plus;Cristal templado;Estándar;1,30;;;
+IX-S8PL-PRO-PRI;Infinix;Smart 8 Plus;Cristal templado;Privacidad;4,00;;;
+IX-S8PL-FUN-SIL;Infinix;Smart 8 Plus;Funda;Silicona;2,50;;;
+IX-S8PL-FUN-TPU;Infinix;Smart 8 Plus;Funda;Transparente;2,95;;;
+IX-S8PL-FUN-LIB;Infinix;Smart 8 Plus;Funda;Libro;3,70;;;
+IX-S8PL-FUN-ANT;Infinix;Smart 8 Plus;Funda;Antigolpes;3,10;;;
+IX-S8PL-PCA-NA;Infinix;Smart 8 Plus;Protector de cámara;Cristal;2,90;;;
+IX-S8P-PRO-NA;Infinix;Smart 8 Pro;Cristal templado;Estándar;1,30;;;
+IX-S8P-PRO-PRI;Infinix;Smart 8 Pro;Cristal templado;Privacidad;4,00;;;
+IX-S8P-FUN-SIL;Infinix;Smart 8 Pro;Funda;Silicona;2,50;;;
+IX-S8P-FUN-TPU;Infinix;Smart 8 Pro;Funda;Transparente;2,95;;;
+IX-S8P-FUN-LIB;Infinix;Smart 8 Pro;Funda;Libro;3,70;;;
+IX-S8P-FUN-ANT;Infinix;Smart 8 Pro;Funda;Antigolpes;3,10;;;
+IX-S8P-PCA-NA;Infinix;Smart 8 Pro;Protector de cámara;Cristal;2,90;;;
+IX-N40-PRO-NA;Infinix;Note 40;Cristal templado;Estándar;1,30;;;
+IX-N40-PRO-PRI;Infinix;Note 40;Cristal templado;Privacidad;4,00;;;
+IX-N40-FUN-SIL;Infinix;Note 40;Funda;Silicona;2,50;;;
+IX-N40-FUN-TPU;Infinix;Note 40;Funda;Transparente;2,95;;;
+IX-N40-FUN-LIB;Infinix;Note 40;Funda;Libro;3,70;;;
+IX-N40-FUN-ANT;Infinix;Note 40;Funda;Antigolpes;3,10;;;
+IX-N40P-PRO-NA;Infinix;Note 40 Pro;Cristal templado;Estándar;1,30;;;
+IX-N40P-PRO-PRI;Infinix;Note 40 Pro;Cristal templado;Privacidad;4,00;;;
+IX-N40P-FUN-SIL;Infinix;Note 40 Pro;Funda;Silicona;2,50;;;
+IX-N40P-FUN-TPU;Infinix;Note 40 Pro;Funda;Transparente;2,95;;;
+IX-N40P-FUN-LIB;Infinix;Note 40 Pro;Funda;Libro;3,70;;;
+IX-N40P-FUN-ANT;Infinix;Note 40 Pro;Funda;Antigolpes;3,10;;;
+IX-N40P-PCA-NA;Infinix;Note 40 Pro;Protector de cámara;Cristal;2,90;;;
+IX-N40PPL5-PRO-NA;Infinix;Note 40 Pro+ 5G;Cristal templado;Estándar;1,30;;;
+IX-N40PPL5-PRO-PRI;Infinix;Note 40 Pro+ 5G;Cristal templado;Privacidad;4,00;;;
+IX-N40PPL5-FUN-SIL;Infinix;Note 40 Pro+ 5G;Funda;Silicona;2,50;;;
+IX-N40PPL5-FUN-TPU;Infinix;Note 40 Pro+ 5G;Funda;Transparente;2,95;;;
+IX-N40PPL5-FUN-LIB;Infinix;Note 40 Pro+ 5G;Funda;Libro;3,70;;;
+IX-N40PPL5-FUN-ANT;Infinix;Note 40 Pro+ 5G;Funda;Antigolpes;3,10;;;
+IX-N40PPL5-PCA-NA;Infinix;Note 40 Pro+ 5G;Protector de cámara;Cristal;2,90;;;
+IX-GT20P-PRO-NA;Infinix;GT 20 Pro;Cristal templado;Estándar;1,30;;;
+IX-GT20P-PRO-PRI;Infinix;GT 20 Pro;Cristal templado;Privacidad;4,00;;;
+IX-GT20P-FUN-SIL;Infinix;GT 20 Pro;Funda;Silicona;2,50;;;
+IX-GT20P-FUN-TPU;Infinix;GT 20 Pro;Funda;Transparente;2,95;;;
+IX-GT20P-FUN-LIB;Infinix;GT 20 Pro;Funda;Libro;3,70;;;
+IX-GT20P-FUN-ANT;Infinix;GT 20 Pro;Funda;Antigolpes;3,10;;;
+IX-GT20P-PCA-NA;Infinix;GT 20 Pro;Protector de cámara;Cristal;2,90;;;
+IX-N405-PRO-NA;Infinix;Note 40 5G;Cristal templado;Estándar;1,30;;;
+IX-N405-PRO-PRI;Infinix;Note 40 5G;Cristal templado;Privacidad;4,00;;;
+IX-N405-FUN-SIL;Infinix;Note 40 5G;Funda;Silicona;2,50;;;
+IX-N405-FUN-TPU;Infinix;Note 40 5G;Funda;Transparente;2,95;;;
+IX-N405-FUN-LIB;Infinix;Note 40 5G;Funda;Libro;3,70;;;
+IX-N405-FUN-ANT;Infinix;Note 40 5G;Funda;Antigolpes;3,10;;;
+IX-N40S-PRO-NA;Infinix;Note 40S;Cristal templado;Estándar;1,30;;;
+IX-N40S-PRO-PRI;Infinix;Note 40S;Cristal templado;Privacidad;4,00;;;
+IX-N40S-FUN-SIL;Infinix;Note 40S;Funda;Silicona;2,50;;;
+IX-N40S-FUN-TPU;Infinix;Note 40S;Funda;Transparente;2,95;;;
+IX-N40S-FUN-LIB;Infinix;Note 40S;Funda;Libro;3,70;;;
+IX-N40S-FUN-ANT;Infinix;Note 40S;Funda;Antigolpes;3,10;;;
+IX-N40S-PCA-NA;Infinix;Note 40S;Protector de cámara;Cristal;2,90;;;
+IX-Z40-PRO-NA;Infinix;Zero 40;Cristal templado;Estándar;1,30;;;
+IX-Z40-PRO-PRI;Infinix;Zero 40;Cristal templado;Privacidad;4,00;;;
+IX-Z40-FUN-SIL;Infinix;Zero 40;Funda;Silicona;2,50;;;
+IX-Z40-FUN-TPU;Infinix;Zero 40;Funda;Transparente;2,95;;;
+IX-Z40-FUN-LIB;Infinix;Zero 40;Funda;Libro;3,70;;;
+IX-Z40-FUN-ANT;Infinix;Zero 40;Funda;Antigolpes;3,10;;;
+IX-Z40-PCA-NA;Infinix;Zero 40;Protector de cámara;Cristal;2,90;;;
+IX-Z405-PRO-NA;Infinix;Zero 40 5G;Cristal templado;Estándar;1,30;;;
+IX-Z405-PRO-PRI;Infinix;Zero 40 5G;Cristal templado;Privacidad;4,00;;;
+IX-Z405-FUN-SIL;Infinix;Zero 40 5G;Funda;Silicona;2,50;;;
+IX-Z405-FUN-TPU;Infinix;Zero 40 5G;Funda;Transparente;2,95;;;
+IX-Z405-FUN-LIB;Infinix;Zero 40 5G;Funda;Libro;3,70;;;
+IX-Z405-FUN-ANT;Infinix;Zero 40 5G;Funda;Antigolpes;3,10;;;
+IX-Z405-PCA-NA;Infinix;Zero 40 5G;Protector de cámara;Cristal;2,90;;;
+IX-S9-PRO-NA;Infinix;Smart 9;Cristal templado;Estándar;1,30;;;
+IX-S9-PRO-PRI;Infinix;Smart 9;Cristal templado;Privacidad;4,00;;;
+IX-S9-FUN-SIL;Infinix;Smart 9;Funda;Silicona;2,50;;;
+IX-S9-FUN-TPU;Infinix;Smart 9;Funda;Transparente;2,95;;;
+IX-S9-FUN-LIB;Infinix;Smart 9;Funda;Libro;3,70;;;
+IX-S9-FUN-ANT;Infinix;Smart 9;Funda;Antigolpes;3,10;;;
+IX-HOT50-PRO-NA;Infinix;Hot 50;Cristal templado;Estándar;1,30;;;
+IX-HOT50-PRO-PRI;Infinix;Hot 50;Cristal templado;Privacidad;4,00;;;
+IX-HOT50-FUN-SIL;Infinix;Hot 50;Funda;Silicona;2,50;;;
+IX-HOT50-FUN-TPU;Infinix;Hot 50;Funda;Transparente;2,95;;;
+IX-HOT50-FUN-LIB;Infinix;Hot 50;Funda;Libro;3,70;;;
+IX-HOT50-FUN-ANT;Infinix;Hot 50;Funda;Antigolpes;3,10;;;
+IX-HOT505-PRO-NA;Infinix;Hot 50 5G;Cristal templado;Estándar;1,30;;;
+IX-HOT505-PRO-PRI;Infinix;Hot 50 5G;Cristal templado;Privacidad;4,00;;;
+IX-HOT505-FUN-SIL;Infinix;Hot 50 5G;Funda;Silicona;2,50;;;
+IX-HOT505-FUN-TPU;Infinix;Hot 50 5G;Funda;Transparente;2,95;;;
+IX-HOT505-FUN-LIB;Infinix;Hot 50 5G;Funda;Libro;3,70;;;
+IX-HOT505-FUN-ANT;Infinix;Hot 50 5G;Funda;Antigolpes;3,10;;;
+IX-HOT50P-PRO-NA;Infinix;Hot 50 Pro;Cristal templado;Estándar;1,30;;;
+IX-HOT50P-PRO-PRI;Infinix;Hot 50 Pro;Cristal templado;Privacidad;4,00;;;
+IX-HOT50P-FUN-SIL;Infinix;Hot 50 Pro;Funda;Silicona;2,50;;;
+IX-HOT50P-FUN-TPU;Infinix;Hot 50 Pro;Funda;Transparente;2,95;;;
+IX-HOT50P-FUN-LIB;Infinix;Hot 50 Pro;Funda;Libro;3,70;;;
+IX-HOT50P-FUN-ANT;Infinix;Hot 50 Pro;Funda;Antigolpes;3,10;;;
+IX-HOT50P-PCA-NA;Infinix;Hot 50 Pro;Protector de cámara;Cristal;2,90;;;
+IX-HOT50PPL-PRO-NA;Infinix;Hot 50 Pro+;Cristal templado;Estándar;1,30;;;
+IX-HOT50PPL-PRO-PRI;Infinix;Hot 50 Pro+;Cristal templado;Privacidad;4,00;;;
+IX-HOT50PPL-FUN-SIL;Infinix;Hot 50 Pro+;Funda;Silicona;2,50;;;
+IX-HOT50PPL-FUN-TPU;Infinix;Hot 50 Pro+;Funda;Transparente;2,95;;;
+IX-HOT50PPL-FUN-LIB;Infinix;Hot 50 Pro+;Funda;Libro;3,70;;;
+IX-HOT50PPL-FUN-ANT;Infinix;Hot 50 Pro+;Funda;Antigolpes;3,10;;;
+IX-HOT50PPL-PCA-NA;Infinix;Hot 50 Pro+;Protector de cámara;Cristal;2,90;;;
+IX-HOT50I-PRO-NA;Infinix;Hot 50i;Cristal templado;Estándar;1,30;;;
+IX-HOT50I-PRO-PRI;Infinix;Hot 50i;Cristal templado;Privacidad;4,00;;;
+IX-HOT50I-FUN-SIL;Infinix;Hot 50i;Funda;Silicona;2,50;;;
+IX-HOT50I-FUN-TPU;Infinix;Hot 50i;Funda;Transparente;2,95;;;
+IX-HOT50I-FUN-LIB;Infinix;Hot 50i;Funda;Libro;3,70;;;
+IX-HOT50I-FUN-ANT;Infinix;Hot 50i;Funda;Antigolpes;3,10;;;
+IX-S9HD-PRO-NA;Infinix;Smart 9 HD;Cristal templado;Estándar;1,30;;;
+IX-S9HD-PRO-PRI;Infinix;Smart 9 HD;Cristal templado;Privacidad;4,00;;;
+IX-S9HD-FUN-SIL;Infinix;Smart 9 HD;Funda;Silicona;2,50;;;
+IX-S9HD-FUN-TPU;Infinix;Smart 9 HD;Funda;Transparente;2,95;;;
+IX-S9HD-FUN-LIB;Infinix;Smart 9 HD;Funda;Libro;3,70;;;
+IX-S9HD-FUN-ANT;Infinix;Smart 9 HD;Funda;Antigolpes;3,10;;;
+IX-N50-PRO-NA;Infinix;Note 50;Cristal templado;Estándar;1,30;;;
+IX-N50-PRO-PRI;Infinix;Note 50;Cristal templado;Privacidad;4,00;;;
+IX-N50-FUN-SIL;Infinix;Note 50;Funda;Silicona;2,50;;;
+IX-N50-FUN-TPU;Infinix;Note 50;Funda;Transparente;2,95;;;
+IX-N50-FUN-LIB;Infinix;Note 50;Funda;Libro;3,70;;;
+IX-N50-FUN-ANT;Infinix;Note 50;Funda;Antigolpes;3,10;;;
+IX-N50-PCA-NA;Infinix;Note 50;Protector de cámara;Cristal;2,90;;;
+IX-N50P-PRO-NA;Infinix;Note 50 Pro;Cristal templado;Estándar;1,30;;;
+IX-N50P-PRO-PRI;Infinix;Note 50 Pro;Cristal templado;Privacidad;4,00;;;
+IX-N50P-FUN-SIL;Infinix;Note 50 Pro;Funda;Silicona;2,50;;;
+IX-N50P-FUN-TPU;Infinix;Note 50 Pro;Funda;Transparente;2,95;;;
+IX-N50P-FUN-LIB;Infinix;Note 50 Pro;Funda;Libro;3,70;;;
+IX-N50P-FUN-ANT;Infinix;Note 50 Pro;Funda;Antigolpes;3,10;;;
+IX-N50P-PCA-NA;Infinix;Note 50 Pro;Protector de cámara;Cristal;2,90;;;
+IX-N50PPL5-PRO-NA;Infinix;Note 50 Pro+ 5G;Cristal templado;Estándar;1,30;;;
+IX-N50PPL5-PRO-PRI;Infinix;Note 50 Pro+ 5G;Cristal templado;Privacidad;4,00;;;
+IX-N50PPL5-FUN-SIL;Infinix;Note 50 Pro+ 5G;Funda;Silicona;2,50;;;
+IX-N50PPL5-FUN-TPU;Infinix;Note 50 Pro+ 5G;Funda;Transparente;2,95;;;
+IX-N50PPL5-FUN-LIB;Infinix;Note 50 Pro+ 5G;Funda;Libro;3,70;;;
+IX-N50PPL5-FUN-ANT;Infinix;Note 50 Pro+ 5G;Funda;Antigolpes;3,10;;;
+IX-N50PPL5-PCA-NA;Infinix;Note 50 Pro+ 5G;Protector de cámara;Cristal;2,90;;;
+IX-GT30P-PRO-NA;Infinix;GT 30 Pro;Cristal templado;Estándar;1,30;;;
+IX-GT30P-PRO-PRI;Infinix;GT 30 Pro;Cristal templado;Privacidad;4,00;;;
+IX-GT30P-FUN-SIL;Infinix;GT 30 Pro;Funda;Silicona;2,50;;;
+IX-GT30P-FUN-TPU;Infinix;GT 30 Pro;Funda;Transparente;2,95;;;
+IX-GT30P-FUN-LIB;Infinix;GT 30 Pro;Funda;Libro;3,70;;;
+IX-GT30P-FUN-ANT;Infinix;GT 30 Pro;Funda;Antigolpes;3,10;;;
+IX-GT30P-PCA-NA;Infinix;GT 30 Pro;Protector de cámara;Cristal;2,90;;;
+IX-S10-PRO-NA;Infinix;Smart 10;Cristal templado;Estándar;1,30;;;
+IX-S10-PRO-PRI;Infinix;Smart 10;Cristal templado;Privacidad;4,00;;;
+IX-S10-FUN-SIL;Infinix;Smart 10;Funda;Silicona;2,50;;;
+IX-S10-FUN-TPU;Infinix;Smart 10;Funda;Transparente;2,95;;;
+IX-S10-FUN-LIB;Infinix;Smart 10;Funda;Libro;3,70;;;
+IX-S10-FUN-ANT;Infinix;Smart 10;Funda;Antigolpes;3,10;;;
+IX-S10HD-PRO-NA;Infinix;Smart 10 HD;Cristal templado;Estándar;1,30;;;
+IX-S10HD-PRO-PRI;Infinix;Smart 10 HD;Cristal templado;Privacidad;4,00;;;
+IX-S10HD-FUN-SIL;Infinix;Smart 10 HD;Funda;Silicona;2,50;;;
+IX-S10HD-FUN-TPU;Infinix;Smart 10 HD;Funda;Transparente;2,95;;;
+IX-S10HD-FUN-LIB;Infinix;Smart 10 HD;Funda;Libro;3,70;;;
+IX-S10HD-FUN-ANT;Infinix;Smart 10 HD;Funda;Antigolpes;3,10;;;
+IX-S10HD-PCA-NA;Infinix;Smart 10 HD;Protector de cámara;Cristal;2,90;;;
+IX-S10PL-PRO-NA;Infinix;Smart 10 Plus;Cristal templado;Estándar;1,30;;;
+IX-S10PL-PRO-PRI;Infinix;Smart 10 Plus;Cristal templado;Privacidad;4,00;;;
+IX-S10PL-FUN-SIL;Infinix;Smart 10 Plus;Funda;Silicona;2,50;;;
+IX-S10PL-FUN-TPU;Infinix;Smart 10 Plus;Funda;Transparente;2,95;;;
+IX-S10PL-FUN-LIB;Infinix;Smart 10 Plus;Funda;Libro;3,70;;;
+IX-S10PL-FUN-ANT;Infinix;Smart 10 Plus;Funda;Antigolpes;3,10;;;
+IX-HOT605-PRO-NA;Infinix;Hot 60 5G;Cristal templado;Estándar;1,30;;;
+IX-HOT605-PRO-PRI;Infinix;Hot 60 5G;Cristal templado;Privacidad;4,00;;;
+IX-HOT605-FUN-SIL;Infinix;Hot 60 5G;Funda;Silicona;2,50;;;
+IX-HOT605-FUN-TPU;Infinix;Hot 60 5G;Funda;Transparente;2,95;;;
+IX-HOT605-FUN-LIB;Infinix;Hot 60 5G;Funda;Libro;3,70;;;
+IX-HOT605-FUN-ANT;Infinix;Hot 60 5G;Funda;Antigolpes;3,10;;;
+IX-HOT60P-PRO-NA;Infinix;Hot 60 Pro;Cristal templado;Estándar;1,30;;;
+IX-HOT60P-PRO-PRI;Infinix;Hot 60 Pro;Cristal templado;Privacidad;4,00;;;
+IX-HOT60P-FUN-SIL;Infinix;Hot 60 Pro;Funda;Silicona;2,50;;;
+IX-HOT60P-FUN-TPU;Infinix;Hot 60 Pro;Funda;Transparente;2,95;;;
+IX-HOT60P-FUN-LIB;Infinix;Hot 60 Pro;Funda;Libro;3,70;;;
+IX-HOT60P-FUN-ANT;Infinix;Hot 60 Pro;Funda;Antigolpes;3,10;;;
+IX-HOT60PPL-PRO-NA;Infinix;Hot 60 Pro+;Cristal templado;Estándar;1,30;;;
+IX-HOT60PPL-PRO-PRI;Infinix;Hot 60 Pro+;Cristal templado;Privacidad;4,00;;;
+IX-HOT60PPL-FUN-SIL;Infinix;Hot 60 Pro+;Funda;Silicona;2,50;;;
+IX-HOT60PPL-FUN-TPU;Infinix;Hot 60 Pro+;Funda;Transparente;2,95;;;
+IX-HOT60PPL-FUN-LIB;Infinix;Hot 60 Pro+;Funda;Libro;3,70;;;
+IX-HOT60PPL-FUN-ANT;Infinix;Hot 60 Pro+;Funda;Antigolpes;3,10;;;
+IX-HOT60I-PRO-NA;Infinix;Hot 60i;Cristal templado;Estándar;1,30;;;
+IX-HOT60I-PRO-PRI;Infinix;Hot 60i;Cristal templado;Privacidad;4,00;;;
+IX-HOT60I-FUN-SIL;Infinix;Hot 60i;Funda;Silicona;2,50;;;
+IX-HOT60I-FUN-TPU;Infinix;Hot 60i;Funda;Transparente;2,95;;;
+IX-HOT60I-FUN-LIB;Infinix;Hot 60i;Funda;Libro;3,70;;;
+IX-HOT60I-FUN-ANT;Infinix;Hot 60i;Funda;Antigolpes;3,10;;;
+IX-GT30-PRO-NA;Infinix;GT 30;Cristal templado;Estándar;1,30;;;
+IX-GT30-PRO-PRI;Infinix;GT 30;Cristal templado;Privacidad;4,00;;;
+IX-GT30-FUN-SIL;Infinix;GT 30;Funda;Silicona;2,50;;;
+IX-GT30-FUN-TPU;Infinix;GT 30;Funda;Transparente;2,95;;;
+IX-GT30-FUN-LIB;Infinix;GT 30;Funda;Libro;3,70;;;
+IX-GT30-FUN-ANT;Infinix;GT 30;Funda;Antigolpes;3,10;;;
+IX-GT30-PCA-NA;Infinix;GT 30;Protector de cámara;Cristal;2,90;;;
+IX-HOT60I5-PRO-NA;Infinix;Hot 60i 5G;Cristal templado;Estándar;1,30;;;
+IX-HOT60I5-PRO-PRI;Infinix;Hot 60i 5G;Cristal templado;Privacidad;4,00;;;
+IX-HOT60I5-FUN-SIL;Infinix;Hot 60i 5G;Funda;Silicona;2,50;;;
+IX-HOT60I5-FUN-TPU;Infinix;Hot 60i 5G;Funda;Transparente;2,95;;;
+IX-HOT60I5-FUN-LIB;Infinix;Hot 60i 5G;Funda;Libro;3,70;;;
+IX-HOT60I5-FUN-ANT;Infinix;Hot 60i 5G;Funda;Antigolpes;3,10;;;
+IX-NE-PRO-NA;Infinix;Note Edge;Cristal templado;Estándar;1,30;;;
+IX-NE-PRO-PRI;Infinix;Note Edge;Cristal templado;Privacidad;4,00;;;
+IX-NE-FUN-SIL;Infinix;Note Edge;Funda;Silicona;2,50;;;
+IX-NE-FUN-TPU;Infinix;Note Edge;Funda;Transparente;2,95;;;
+IX-NE-FUN-LIB;Infinix;Note Edge;Funda;Libro;3,70;;;
+IX-NE-FUN-ANT;Infinix;Note Edge;Funda;Antigolpes;3,10;;;
+IX-N60-PRO-NA;Infinix;Note 60;Cristal templado;Estándar;1,30;;;
+IX-N60-PRO-PRI;Infinix;Note 60;Cristal templado;Privacidad;4,00;;;
+IX-N60-FUN-SIL;Infinix;Note 60;Funda;Silicona;2,50;;;
+IX-N60-FUN-TPU;Infinix;Note 60;Funda;Transparente;2,95;;;
+IX-N60-FUN-LIB;Infinix;Note 60;Funda;Libro;3,70;;;
+IX-N60-FUN-ANT;Infinix;Note 60;Funda;Antigolpes;3,10;;;
+IX-N60-PCA-NA;Infinix;Note 60;Protector de cámara;Cristal;2,90;;;
+IX-N60P-PRO-NA;Infinix;Note 60 Pro;Cristal templado;Estándar;1,30;;;
+IX-N60P-PRO-PRI;Infinix;Note 60 Pro;Cristal templado;Privacidad;4,00;;;
+IX-N60P-FUN-SIL;Infinix;Note 60 Pro;Funda;Silicona;2,50;;;
+IX-N60P-FUN-TPU;Infinix;Note 60 Pro;Funda;Transparente;2,95;;;
+IX-N60P-FUN-LIB;Infinix;Note 60 Pro;Funda;Libro;3,70;;;
+IX-N60P-FUN-ANT;Infinix;Note 60 Pro;Funda;Antigolpes;3,10;;;
+IX-N60P-PCA-NA;Infinix;Note 60 Pro;Protector de cámara;Cristal;2,90;;;
+IX-S20-PRO-NA;Infinix;Smart 20;Cristal templado;Estándar;1,30;;;
+IX-S20-PRO-PRI;Infinix;Smart 20;Cristal templado;Privacidad;4,00;;;
+IX-S20-FUN-SIL;Infinix;Smart 20;Funda;Silicona;2,50;;;
+IX-S20-FUN-TPU;Infinix;Smart 20;Funda;Transparente;2,95;;;
+IX-S20-FUN-LIB;Infinix;Smart 20;Funda;Libro;3,70;;;
+IX-S20-FUN-ANT;Infinix;Smart 20;Funda;Antigolpes;3,10;;;
+IX-GT50P-PRO-NA;Infinix;GT 50 Pro;Cristal templado;Estándar;1,30;;;
+IX-GT50P-PRO-PRI;Infinix;GT 50 Pro;Cristal templado;Privacidad;4,00;;;
+IX-GT50P-FUN-SIL;Infinix;GT 50 Pro;Funda;Silicona;2,50;;;
+IX-GT50P-FUN-TPU;Infinix;GT 50 Pro;Funda;Transparente;2,95;;;
+IX-GT50P-FUN-LIB;Infinix;GT 50 Pro;Funda;Libro;3,70;;;
+IX-GT50P-FUN-ANT;Infinix;GT 50 Pro;Funda;Antigolpes;3,10;;;
+IX-GT50P-PCA-NA;Infinix;GT 50 Pro;Protector de cámara;Cristal;2,90;;;
+IX-HOT70-PRO-NA;Infinix;Hot 70;Cristal templado;Estándar;1,30;;;
+IX-HOT70-PRO-PRI;Infinix;Hot 70;Cristal templado;Privacidad;4,00;;;
+IX-HOT70-FUN-SIL;Infinix;Hot 70;Funda;Silicona;2,50;;;
+IX-HOT70-FUN-TPU;Infinix;Hot 70;Funda;Transparente;2,95;;;
+IX-HOT70-FUN-LIB;Infinix;Hot 70;Funda;Libro;3,70;;;
+IX-HOT70-FUN-ANT;Infinix;Hot 70;Funda;Antigolpes;3,10;;;
+IX-ZFL-ANT-COM;Infinix;Zero Flip;Antena / coaxial;Compatible;5,65;;;6
+IX-ZFL-HUE-COM;Infinix;Zero Flip;Botón home / huella;Compatible;9,35;;;6
+IX-ZU-MAR-COM;Infinix;Zero Ultra;Marco / chasis;Compatible;8,20;;;6
+IX-ZU-BOT-COM;Infinix;Zero Ultra;Botones laterales;Compatible;4,20;;;6
+IX-ZU-CRI-COM;Infinix;Zero Ultra;Cristal de pantalla;Compatible;4,20;;;6
+IX-ZU-ANT-COM;Infinix;Zero Ultra;Antena / coaxial;Compatible;3,65;;;6
+IX-ZU-HUE-COM;Infinix;Zero Ultra;Botón home / huella;Compatible;6,05;;;6
+IX-ZERO8I-MAR-COM;Infinix;Zero 8i;Marco / chasis;Compatible;8,20;;;6
+IX-ZERO8I-BOT-COM;Infinix;Zero 8i;Botones laterales;Compatible;4,20;;;6
+IX-ZERO8I-CRI-COM;Infinix;Zero 8i;Cristal de pantalla;Compatible;4,20;;;6
+IX-ZERO8I-ANT-COM;Infinix;Zero 8i;Antena / coaxial;Compatible;3,65;;;6
+IX-ZERO8I-HUE-COM;Infinix;Zero 8i;Botón home / huella;Compatible;6,05;;;6
+IX-Z8-MAR-COM;Infinix;Zero 8;Marco / chasis;Compatible;8,20;;;6
+IX-Z8-BOT-COM;Infinix;Zero 8;Botones laterales;Compatible;4,20;;;6
+IX-Z8-CRI-COM;Infinix;Zero 8;Cristal de pantalla;Compatible;4,20;;;6
+IX-Z8-ANT-COM;Infinix;Zero 8;Antena / coaxial;Compatible;3,65;;;6
+IX-Z8-HUE-COM;Infinix;Zero 8;Botón home / huella;Compatible;6,05;;;6
+IX-HOT9P-MAR-COM;Infinix;Hot 9 Pro;Marco / chasis;Compatible;6,25;;;6
+IX-HOT9P-BOT-COM;Infinix;Hot 9 Pro;Botones laterales;Compatible;3,20;;;6
+IX-HOT9P-CRI-COM;Infinix;Hot 9 Pro;Cristal de pantalla;Compatible;3,20;;;6
+IX-HOT9P-ANT-COM;Infinix;Hot 9 Pro;Antena / coaxial;Compatible;2,79;;;6
+IX-HOT9P-HUE-COM;Infinix;Hot 9 Pro;Botón home / huella;Compatible;4,60;;;6
+IX-N7-MAR-COM;Infinix;Note 7;Marco / chasis;Compatible;7,20;;;6
+IX-N7-BOT-COM;Infinix;Note 7;Botones laterales;Compatible;3,70;;;6
+IX-N7-CRI-COM;Infinix;Note 7;Cristal de pantalla;Compatible;3,69;;;6
+IX-N7-ANT-COM;Infinix;Note 7;Antena / coaxial;Compatible;3,20;;;6
+IX-N7-HUE-COM;Infinix;Note 7;Botón home / huella;Compatible;5,30;;;6
+IX-S4-MAR-COM;Infinix;S4;Marco / chasis;Compatible;5,65;;;6
+IX-S4-BOT-COM;Infinix;S4;Botones laterales;Compatible;2,89;;;6
+IX-S4-CRI-COM;Infinix;S4;Cristal de pantalla;Compatible;2,89;;;6
+IX-S4-ANT-COM;Infinix;S4;Antena / coaxial;Compatible;2,50;;;6
+IX-S4-HUE-COM;Infinix;S4;Botón home / huella;Compatible;4,15;;;6
+IX-HOT7P-MAR-COM;Infinix;Hot 7 Pro;Marco / chasis;Compatible;5,65;;;6
+IX-HOT7P-BOT-COM;Infinix;Hot 7 Pro;Botones laterales;Compatible;2,89;;;6
+IX-HOT7P-CRI-COM;Infinix;Hot 7 Pro;Cristal de pantalla;Compatible;2,89;;;6
+IX-HOT7P-ANT-COM;Infinix;Hot 7 Pro;Antena / coaxial;Compatible;2,50;;;6
+IX-HOT7P-HUE-COM;Infinix;Hot 7 Pro;Botón home / huella;Compatible;4,15;;;6
+IX-HOT7-MAR-COM;Infinix;Hot 7;Marco / chasis;Compatible;5,65;;;6
+IX-HOT7-BOT-COM;Infinix;Hot 7;Botones laterales;Compatible;2,89;;;6
+IX-HOT7-CRI-COM;Infinix;Hot 7;Cristal de pantalla;Compatible;2,89;;;6
+IX-HOT7-ANT-COM;Infinix;Hot 7;Antena / coaxial;Compatible;2,50;;;6
+IX-HOT7-HUE-COM;Infinix;Hot 7;Botón home / huella;Compatible;4,15;;;6
+IX-HOTS-MAR-COM;Infinix;Hot S;Marco / chasis;Compatible;5,00;;;6
+IX-HOTS-BOT-COM;Infinix;Hot S;Botones laterales;Compatible;2,55;;;6
+IX-HOTS-CRI-COM;Infinix;Hot S;Cristal de pantalla;Compatible;2,55;;;6
+IX-HOTS-ANT-COM;Infinix;Hot S;Antena / coaxial;Compatible;2,25;;;6
+IX-HOTS-HUE-COM;Infinix;Hot S;Botón home / huella;Compatible;3,70;;;6
+IX-HOTS3-MAR-COM;Infinix;Hot S3;Marco / chasis;Compatible;5,00;;;6
+IX-HOTS3-BOT-COM;Infinix;Hot S3;Botones laterales;Compatible;2,55;;;6
+IX-HOTS3-CRI-COM;Infinix;Hot S3;Cristal de pantalla;Compatible;2,55;;;6
+IX-HOTS3-ANT-COM;Infinix;Hot S3;Antena / coaxial;Compatible;2,25;;;6
+IX-HOTS3-HUE-COM;Infinix;Hot S3;Botón home / huella;Compatible;3,70;;;6
+IX-HOT70P5-MAR-COM;Infinix;Hot 70 Pro 5G;Marco / chasis;Compatible;6,89;;;6
+IX-HOT70P5-BOT-COM;Infinix;Hot 70 Pro 5G;Botones laterales;Compatible;3,55;;;6
+IX-HOT70P5-CRI-COM;Infinix;Hot 70 Pro 5G;Cristal de pantalla;Compatible;3,50;;;6
+IX-HOT70P5-ANT-COM;Infinix;Hot 70 Pro 5G;Antena / coaxial;Compatible;3,05;;;6
+IX-HOT70P5-HUE-COM;Infinix;Hot 70 Pro 5G;Botón home / huella;Compatible;5,09;;;6
+IX-HOT9-MAR-COM;Infinix;Hot 9;Marco / chasis;Compatible;6,25;;;6
+IX-HOT9-BOT-COM;Infinix;Hot 9;Botones laterales;Compatible;3,20;;;6
+IX-HOT9-CRI-COM;Infinix;Hot 9;Cristal de pantalla;Compatible;3,20;;;6
+IX-HOT9-ANT-COM;Infinix;Hot 9;Antena / coaxial;Compatible;2,79;;;6
+IX-HOT9-HUE-COM;Infinix;Hot 9;Botón home / huella;Compatible;4,60;;;6
+IX-N30I-MAR-COM;Infinix;Note 30i;Marco / chasis;Compatible;7,20;;;6
+IX-N30I-BOT-COM;Infinix;Note 30i;Botones laterales;Compatible;3,70;;;6
+IX-N30I-CRI-COM;Infinix;Note 30i;Cristal de pantalla;Compatible;3,69;;;6
+IX-N30I-ANT-COM;Infinix;Note 30i;Antena / coaxial;Compatible;3,20;;;6
+IX-N30I-HUE-COM;Infinix;Note 30i;Botón home / huella;Compatible;5,30;;;6
+IX-N40X5-MAR-COM;Infinix;Note 40X 5G;Marco / chasis;Compatible;7,90;;;6
+IX-N40X5-BOT-COM;Infinix;Note 40X 5G;Botones laterales;Compatible;4,05;;;6
+IX-N40X5-CRI-COM;Infinix;Note 40X 5G;Cristal de pantalla;Compatible;4,05;;;6
+IX-N40X5-ANT-COM;Infinix;Note 40X 5G;Antena / coaxial;Compatible;3,50;;;6
+IX-N40X5-HUE-COM;Infinix;Note 40X 5G;Botón home / huella;Compatible;5,85;;;6
+IX-N50S5-MAR-COM;Infinix;Note 50S 5G;Marco / chasis;Compatible;7,90;;;6
+IX-N50S5-BOT-COM;Infinix;Note 50S 5G;Botones laterales;Compatible;4,05;;;6
+IX-N50S5-CRI-COM;Infinix;Note 50S 5G;Cristal de pantalla;Compatible;4,05;;;6
+IX-N50S5-ANT-COM;Infinix;Note 50S 5G;Antena / coaxial;Compatible;3,50;;;6
+IX-N50S5-HUE-COM;Infinix;Note 50S 5G;Botón home / huella;Compatible;5,85;;;6
+IX-N60U-MAR-COM;Infinix;Note 60 Ultra;Marco / chasis;Compatible;7,90;;;6
+IX-N60U-BOT-COM;Infinix;Note 60 Ultra;Botones laterales;Compatible;4,05;;;6
+IX-N60U-CRI-COM;Infinix;Note 60 Ultra;Cristal de pantalla;Compatible;4,05;;;6
+IX-N60U-ANT-COM;Infinix;Note 60 Ultra;Antena / coaxial;Compatible;3,50;;;6
+IX-N60U-HUE-COM;Infinix;Note 60 Ultra;Botón home / huella;Compatible;5,85;;;6
+IX-N7L-MAR-COM;Infinix;Note 7 Lite;Marco / chasis;Compatible;7,20;;;6
+IX-N7L-BOT-COM;Infinix;Note 7 Lite;Botones laterales;Compatible;3,70;;;6
+IX-N7L-CRI-COM;Infinix;Note 7 Lite;Cristal de pantalla;Compatible;3,69;;;6
+IX-N7L-ANT-COM;Infinix;Note 7 Lite;Antena / coaxial;Compatible;3,20;;;6
+IX-N7L-HUE-COM;Infinix;Note 7 Lite;Botón home / huella;Compatible;5,30;;;6
+IX-S7-MAR-COM;Infinix;Smart 7;Marco / chasis;Compatible;6,25;;;6
+IX-S7-BOT-COM;Infinix;Smart 7;Botones laterales;Compatible;3,20;;;6
+IX-S7-CRI-COM;Infinix;Smart 7;Cristal de pantalla;Compatible;3,20;;;6
+IX-S7-ANT-COM;Infinix;Smart 7;Antena / coaxial;Compatible;2,79;;;6
+IX-S7-HUE-COM;Infinix;Smart 7;Botón home / huella;Compatible;4,60;;;6
+IX-HOT30-MAR-COM;Infinix;Hot 30;Marco / chasis;Compatible;6,25;;;6
+IX-HOT30-BOT-COM;Infinix;Hot 30;Botones laterales;Compatible;3,20;;;6
+IX-HOT30-CRI-COM;Infinix;Hot 30;Cristal de pantalla;Compatible;3,20;;;6
+IX-HOT30-ANT-COM;Infinix;Hot 30;Antena / coaxial;Compatible;2,79;;;6
+IX-HOT30-HUE-COM;Infinix;Hot 30;Botón home / huella;Compatible;4,60;;;6
+IX-HOT30I-MAR-COM;Infinix;Hot 30i;Marco / chasis;Compatible;6,25;;;6
+IX-HOT30I-BOT-COM;Infinix;Hot 30i;Botones laterales;Compatible;3,20;;;6
+IX-HOT30I-CRI-COM;Infinix;Hot 30i;Cristal de pantalla;Compatible;3,20;;;6
+IX-HOT30I-ANT-COM;Infinix;Hot 30i;Antena / coaxial;Compatible;2,79;;;6
+IX-HOT30I-HUE-COM;Infinix;Hot 30i;Botón home / huella;Compatible;4,60;;;6
+IX-S7PL-MAR-COM;Infinix;Smart 7 Plus;Marco / chasis;Compatible;6,25;;;6
+IX-S7PL-BOT-COM;Infinix;Smart 7 Plus;Botones laterales;Compatible;3,20;;;6
+IX-S7PL-CRI-COM;Infinix;Smart 7 Plus;Cristal de pantalla;Compatible;3,20;;;6
+IX-S7PL-ANT-COM;Infinix;Smart 7 Plus;Antena / coaxial;Compatible;2,79;;;6
+IX-S7PL-HUE-COM;Infinix;Smart 7 Plus;Botón home / huella;Compatible;4,60;;;6
+IX-HOT30PY-MAR-COM;Infinix;Hot 30 Play;Marco / chasis;Compatible;6,25;;;6
+IX-HOT30PY-BOT-COM;Infinix;Hot 30 Play;Botones laterales;Compatible;3,20;;;6
+IX-HOT30PY-CRI-COM;Infinix;Hot 30 Play;Cristal de pantalla;Compatible;3,20;;;6
+IX-HOT30PY-ANT-COM;Infinix;Hot 30 Play;Antena / coaxial;Compatible;2,79;;;6
+IX-HOT30PY-HUE-COM;Infinix;Hot 30 Play;Botón home / huella;Compatible;4,60;;;6
+IX-N30-MAR-COM;Infinix;Note 30;Marco / chasis;Compatible;7,20;;;6
+IX-N30-BOT-COM;Infinix;Note 30;Botones laterales;Compatible;3,70;;;6
+IX-N30-CRI-COM;Infinix;Note 30;Cristal de pantalla;Compatible;3,69;;;6
+IX-N30-ANT-COM;Infinix;Note 30;Antena / coaxial;Compatible;3,20;;;6
+IX-N30-HUE-COM;Infinix;Note 30;Botón home / huella;Compatible;5,30;;;6
+IX-N305-MAR-COM;Infinix;Note 30 5G;Marco / chasis;Compatible;7,20;;;6
+IX-N305-BOT-COM;Infinix;Note 30 5G;Botones laterales;Compatible;3,70;;;6
+IX-N305-CRI-COM;Infinix;Note 30 5G;Cristal de pantalla;Compatible;3,69;;;6
+IX-N305-ANT-COM;Infinix;Note 30 5G;Antena / coaxial;Compatible;3,20;;;6
+IX-N305-HUE-COM;Infinix;Note 30 5G;Botón home / huella;Compatible;5,30;;;6
+IX-N30P-MAR-COM;Infinix;Note 30 Pro;Marco / chasis;Compatible;7,20;;;6
+IX-N30P-BOT-COM;Infinix;Note 30 Pro;Botones laterales;Compatible;3,70;;;6
+IX-N30P-CRI-COM;Infinix;Note 30 Pro;Cristal de pantalla;Compatible;3,69;;;6
+IX-N30P-ANT-COM;Infinix;Note 30 Pro;Antena / coaxial;Compatible;3,20;;;6
+IX-N30P-HUE-COM;Infinix;Note 30 Pro;Botón home / huella;Compatible;5,30;;;6
+IX-N30VIP-MAR-COM;Infinix;Note 30 VIP;Marco / chasis;Compatible;7,20;;;6
+IX-N30VIP-BOT-COM;Infinix;Note 30 VIP;Botones laterales;Compatible;3,70;;;6
+IX-N30VIP-CRI-COM;Infinix;Note 30 VIP;Cristal de pantalla;Compatible;3,69;;;6
+IX-N30VIP-ANT-COM;Infinix;Note 30 VIP;Antena / coaxial;Compatible;3,20;;;6
+IX-N30VIP-HUE-COM;Infinix;Note 30 VIP;Botón home / huella;Compatible;5,30;;;6
+IX-N30X6716-MAR-COM;Infinix;Note 30 (X6716B);Marco / chasis;Compatible;7,20;;;6
+IX-N30X6716-BOT-COM;Infinix;Note 30 (X6716B);Botones laterales;Compatible;3,70;;;6
+IX-N30X6716-CRI-COM;Infinix;Note 30 (X6716B);Cristal de pantalla;Compatible;3,69;;;6
+IX-N30X6716-ANT-COM;Infinix;Note 30 (X6716B);Antena / coaxial;Compatible;3,20;;;6
+IX-N30X6716-HUE-COM;Infinix;Note 30 (X6716B);Botón home / huella;Compatible;5,30;;;6
+IX-HOT305-MAR-COM;Infinix;Hot 30 5G;Marco / chasis;Compatible;6,25;;;6
+IX-HOT305-BOT-COM;Infinix;Hot 30 5G;Botones laterales;Compatible;3,20;;;6
+IX-HOT305-CRI-COM;Infinix;Hot 30 5G;Cristal de pantalla;Compatible;3,20;;;6
+IX-HOT305-ANT-COM;Infinix;Hot 30 5G;Antena / coaxial;Compatible;2,79;;;6
+IX-HOT305-HUE-COM;Infinix;Hot 30 5G;Botón home / huella;Compatible;4,60;;;6
+IX-S7HD-MAR-COM;Infinix;Smart 7 HD;Marco / chasis;Compatible;6,25;;;6
+IX-S7HD-BOT-COM;Infinix;Smart 7 HD;Botones laterales;Compatible;3,20;;;6
+IX-S7HD-CRI-COM;Infinix;Smart 7 HD;Cristal de pantalla;Compatible;3,20;;;6
+IX-S7HD-ANT-COM;Infinix;Smart 7 HD;Antena / coaxial;Compatible;2,79;;;6
+IX-S7HD-HUE-COM;Infinix;Smart 7 HD;Botón home / huella;Compatible;4,60;;;6
+IX-Z305-MAR-COM;Infinix;Zero 30 5G;Marco / chasis;Compatible;8,20;;;6
+IX-Z305-BOT-COM;Infinix;Zero 30 5G;Botones laterales;Compatible;4,20;;;6
+IX-Z305-CRI-COM;Infinix;Zero 30 5G;Cristal de pantalla;Compatible;4,20;;;6
+IX-Z305-ANT-COM;Infinix;Zero 30 5G;Antena / coaxial;Compatible;3,65;;;6
+IX-Z305-HUE-COM;Infinix;Zero 30 5G;Botón home / huella;Compatible;6,05;;;6
+IX-Z30-MAR-COM;Infinix;Zero 30;Marco / chasis;Compatible;8,20;;;6
+IX-Z30-BOT-COM;Infinix;Zero 30;Botones laterales;Compatible;4,20;;;6
+IX-Z30-CRI-COM;Infinix;Zero 30;Cristal de pantalla;Compatible;4,20;;;6
+IX-Z30-ANT-COM;Infinix;Zero 30;Antena / coaxial;Compatible;3,65;;;6
+IX-Z30-HUE-COM;Infinix;Zero 30;Botón home / huella;Compatible;6,05;;;6
+IX-S8-MAR-COM;Infinix;Smart 8;Marco / chasis;Compatible;6,25;;;6
+IX-S8-BOT-COM;Infinix;Smart 8;Botones laterales;Compatible;3,20;;;6
+IX-S8-CRI-COM;Infinix;Smart 8;Cristal de pantalla;Compatible;3,20;;;6
+IX-S8-ANT-COM;Infinix;Smart 8;Antena / coaxial;Compatible;2,79;;;6
+IX-S8-HUE-COM;Infinix;Smart 8;Botón home / huella;Compatible;4,60;;;6
+IX-HOT40-MAR-COM;Infinix;Hot 40;Marco / chasis;Compatible;6,25;;;6
+IX-HOT40-BOT-COM;Infinix;Hot 40;Botones laterales;Compatible;3,20;;;6
+IX-HOT40-CRI-COM;Infinix;Hot 40;Cristal de pantalla;Compatible;3,20;;;6
+IX-HOT40-ANT-COM;Infinix;Hot 40;Antena / coaxial;Compatible;2,79;;;6
+IX-HOT40-HUE-COM;Infinix;Hot 40;Botón home / huella;Compatible;4,60;;;6
+IX-HOT40P-MAR-COM;Infinix;Hot 40 Pro;Marco / chasis;Compatible;6,25;;;6
+IX-HOT40P-BOT-COM;Infinix;Hot 40 Pro;Botones laterales;Compatible;3,20;;;6
+IX-HOT40P-CRI-COM;Infinix;Hot 40 Pro;Cristal de pantalla;Compatible;3,20;;;6
+IX-HOT40P-ANT-COM;Infinix;Hot 40 Pro;Antena / coaxial;Compatible;2,79;;;6
+IX-HOT40P-HUE-COM;Infinix;Hot 40 Pro;Botón home / huella;Compatible;4,60;;;6
+IX-HOT40I-MAR-COM;Infinix;Hot 40i;Marco / chasis;Compatible;6,25;;;6
+IX-HOT40I-BOT-COM;Infinix;Hot 40i;Botones laterales;Compatible;3,20;;;6
+IX-HOT40I-CRI-COM;Infinix;Hot 40i;Cristal de pantalla;Compatible;3,20;;;6
+IX-HOT40I-ANT-COM;Infinix;Hot 40i;Antena / coaxial;Compatible;2,79;;;6
+IX-HOT40I-HUE-COM;Infinix;Hot 40i;Botón home / huella;Compatible;4,60;;;6
+IX-S8PL-MAR-COM;Infinix;Smart 8 Plus;Marco / chasis;Compatible;6,89;;;6
+IX-S8PL-BOT-COM;Infinix;Smart 8 Plus;Botones laterales;Compatible;3,55;;;6
+IX-S8PL-CRI-COM;Infinix;Smart 8 Plus;Cristal de pantalla;Compatible;3,50;;;6
+IX-S8PL-ANT-COM;Infinix;Smart 8 Plus;Antena / coaxial;Compatible;3,05;;;6
+IX-S8PL-HUE-COM;Infinix;Smart 8 Plus;Botón home / huella;Compatible;5,09;;;6
+IX-S8P-MAR-COM;Infinix;Smart 8 Pro;Marco / chasis;Compatible;6,89;;;6
+IX-S8P-BOT-COM;Infinix;Smart 8 Pro;Botones laterales;Compatible;3,55;;;6
+IX-S8P-CRI-COM;Infinix;Smart 8 Pro;Cristal de pantalla;Compatible;3,50;;;6
+IX-S8P-ANT-COM;Infinix;Smart 8 Pro;Antena / coaxial;Compatible;3,05;;;6
+IX-S8P-HUE-COM;Infinix;Smart 8 Pro;Botón home / huella;Compatible;5,09;;;6
+IX-N40-MAR-COM;Infinix;Note 40;Marco / chasis;Compatible;7,90;;;6
+IX-N40-BOT-COM;Infinix;Note 40;Botones laterales;Compatible;4,05;;;6
+IX-N40-CRI-COM;Infinix;Note 40;Cristal de pantalla;Compatible;4,05;;;6
+IX-N40-ANT-COM;Infinix;Note 40;Antena / coaxial;Compatible;3,50;;;6
+IX-N40-HUE-COM;Infinix;Note 40;Botón home / huella;Compatible;5,85;;;6
+IX-N40P-MAR-COM;Infinix;Note 40 Pro;Marco / chasis;Compatible;7,90;;;6
+IX-N40P-BOT-COM;Infinix;Note 40 Pro;Botones laterales;Compatible;4,05;;;6
+IX-N40P-CRI-COM;Infinix;Note 40 Pro;Cristal de pantalla;Compatible;4,05;;;6
+IX-N40P-ANT-COM;Infinix;Note 40 Pro;Antena / coaxial;Compatible;3,50;;;6
+IX-N40P-HUE-COM;Infinix;Note 40 Pro;Botón home / huella;Compatible;5,85;;;6
+IX-N40PPL5-MAR-COM;Infinix;Note 40 Pro+ 5G;Marco / chasis;Compatible;7,90;;;6
+IX-N40PPL5-BOT-COM;Infinix;Note 40 Pro+ 5G;Botones laterales;Compatible;4,05;;;6
+IX-N40PPL5-CRI-COM;Infinix;Note 40 Pro+ 5G;Cristal de pantalla;Compatible;4,05;;;6
+IX-N40PPL5-ANT-COM;Infinix;Note 40 Pro+ 5G;Antena / coaxial;Compatible;3,50;;;6
+IX-N40PPL5-HUE-COM;Infinix;Note 40 Pro+ 5G;Botón home / huella;Compatible;5,85;;;6
+IX-GT20P-MAR-COM;Infinix;GT 20 Pro;Marco / chasis;Compatible;9,05;;;6
+IX-GT20P-BOT-COM;Infinix;GT 20 Pro;Botones laterales;Compatible;4,65;;;6
+IX-GT20P-CRI-COM;Infinix;GT 20 Pro;Cristal de pantalla;Compatible;4,60;;;6
+IX-GT20P-ANT-COM;Infinix;GT 20 Pro;Antena / coaxial;Compatible;4,00;;;6
+IX-GT20P-HUE-COM;Infinix;GT 20 Pro;Botón home / huella;Compatible;6,69;;;6
+IX-N405-MAR-COM;Infinix;Note 40 5G;Marco / chasis;Compatible;7,90;;;6
+IX-N405-BOT-COM;Infinix;Note 40 5G;Botones laterales;Compatible;4,05;;;6
+IX-N405-CRI-COM;Infinix;Note 40 5G;Cristal de pantalla;Compatible;4,05;;;6
+IX-N405-ANT-COM;Infinix;Note 40 5G;Antena / coaxial;Compatible;3,50;;;6
+IX-N405-HUE-COM;Infinix;Note 40 5G;Botón home / huella;Compatible;5,85;;;6
+IX-N40S-MAR-COM;Infinix;Note 40S;Marco / chasis;Compatible;7,90;;;6
+IX-N40S-BOT-COM;Infinix;Note 40S;Botones laterales;Compatible;4,05;;;6
+IX-N40S-CRI-COM;Infinix;Note 40S;Cristal de pantalla;Compatible;4,05;;;6
+IX-N40S-ANT-COM;Infinix;Note 40S;Antena / coaxial;Compatible;3,50;;;6
+IX-N40S-HUE-COM;Infinix;Note 40S;Botón home / huella;Compatible;5,85;;;6
+IX-Z40-MAR-COM;Infinix;Zero 40;Marco / chasis;Compatible;9,05;;;6
+IX-Z40-BOT-COM;Infinix;Zero 40;Botones laterales;Compatible;4,65;;;6
+IX-Z40-CRI-COM;Infinix;Zero 40;Cristal de pantalla;Compatible;4,60;;;6
+IX-Z40-ANT-COM;Infinix;Zero 40;Antena / coaxial;Compatible;4,00;;;6
+IX-Z40-HUE-COM;Infinix;Zero 40;Botón home / huella;Compatible;6,69;;;6
+IX-Z405-MAR-COM;Infinix;Zero 40 5G;Marco / chasis;Compatible;9,05;;;6
+IX-Z405-BOT-COM;Infinix;Zero 40 5G;Botones laterales;Compatible;4,65;;;6
+IX-Z405-CRI-COM;Infinix;Zero 40 5G;Cristal de pantalla;Compatible;4,60;;;6
+IX-Z405-ANT-COM;Infinix;Zero 40 5G;Antena / coaxial;Compatible;4,00;;;6
+IX-Z405-HUE-COM;Infinix;Zero 40 5G;Botón home / huella;Compatible;6,69;;;6
+IX-S9-MAR-COM;Infinix;Smart 9;Marco / chasis;Compatible;6,89;;;6
+IX-S9-BOT-COM;Infinix;Smart 9;Botones laterales;Compatible;3,55;;;6
+IX-S9-CRI-COM;Infinix;Smart 9;Cristal de pantalla;Compatible;3,50;;;6
+IX-S9-ANT-COM;Infinix;Smart 9;Antena / coaxial;Compatible;3,05;;;6
+IX-S9-HUE-COM;Infinix;Smart 9;Botón home / huella;Compatible;5,09;;;6
+IX-HOT50-MAR-COM;Infinix;Hot 50;Marco / chasis;Compatible;6,89;;;6
+IX-HOT50-BOT-COM;Infinix;Hot 50;Botones laterales;Compatible;3,55;;;6
+IX-HOT50-CRI-COM;Infinix;Hot 50;Cristal de pantalla;Compatible;3,50;;;6
+IX-HOT50-ANT-COM;Infinix;Hot 50;Antena / coaxial;Compatible;3,05;;;6
+IX-HOT50-HUE-COM;Infinix;Hot 50;Botón home / huella;Compatible;5,09;;;6
+IX-HOT505-MAR-COM;Infinix;Hot 50 5G;Marco / chasis;Compatible;6,89;;;6
+IX-HOT505-BOT-COM;Infinix;Hot 50 5G;Botones laterales;Compatible;3,55;;;6
+IX-HOT505-CRI-COM;Infinix;Hot 50 5G;Cristal de pantalla;Compatible;3,50;;;6
+IX-HOT505-ANT-COM;Infinix;Hot 50 5G;Antena / coaxial;Compatible;3,05;;;6
+IX-HOT505-HUE-COM;Infinix;Hot 50 5G;Botón home / huella;Compatible;5,09;;;6
+IX-HOT50P-MAR-COM;Infinix;Hot 50 Pro;Marco / chasis;Compatible;6,89;;;6
+IX-HOT50P-BOT-COM;Infinix;Hot 50 Pro;Botones laterales;Compatible;3,55;;;6
+IX-HOT50P-CRI-COM;Infinix;Hot 50 Pro;Cristal de pantalla;Compatible;3,50;;;6
+IX-HOT50P-ANT-COM;Infinix;Hot 50 Pro;Antena / coaxial;Compatible;3,05;;;6
+IX-HOT50P-HUE-COM;Infinix;Hot 50 Pro;Botón home / huella;Compatible;5,09;;;6
+IX-HOT50PPL-MAR-COM;Infinix;Hot 50 Pro+;Marco / chasis;Compatible;6,89;;;6
+IX-HOT50PPL-BOT-COM;Infinix;Hot 50 Pro+;Botones laterales;Compatible;3,55;;;6
+IX-HOT50PPL-CRI-COM;Infinix;Hot 50 Pro+;Cristal de pantalla;Compatible;3,50;;;6
+IX-HOT50PPL-ANT-COM;Infinix;Hot 50 Pro+;Antena / coaxial;Compatible;3,05;;;6
+IX-HOT50PPL-HUE-COM;Infinix;Hot 50 Pro+;Botón home / huella;Compatible;5,09;;;6
+IX-HOT50I-MAR-COM;Infinix;Hot 50i;Marco / chasis;Compatible;6,89;;;6
+IX-HOT50I-BOT-COM;Infinix;Hot 50i;Botones laterales;Compatible;3,55;;;6
+IX-HOT50I-CRI-COM;Infinix;Hot 50i;Cristal de pantalla;Compatible;3,50;;;6
+IX-HOT50I-ANT-COM;Infinix;Hot 50i;Antena / coaxial;Compatible;3,05;;;6
+IX-HOT50I-HUE-COM;Infinix;Hot 50i;Botón home / huella;Compatible;5,09;;;6
+IX-S9HD-MAR-COM;Infinix;Smart 9 HD;Marco / chasis;Compatible;6,89;;;6
+IX-S9HD-BOT-COM;Infinix;Smart 9 HD;Botones laterales;Compatible;3,55;;;6
+IX-S9HD-CRI-COM;Infinix;Smart 9 HD;Cristal de pantalla;Compatible;3,50;;;6
+IX-S9HD-ANT-COM;Infinix;Smart 9 HD;Antena / coaxial;Compatible;3,05;;;6
+IX-S9HD-HUE-COM;Infinix;Smart 9 HD;Botón home / huella;Compatible;5,09;;;6
+IX-N50-MAR-COM;Infinix;Note 50;Marco / chasis;Compatible;7,90;;;6
+IX-N50-BOT-COM;Infinix;Note 50;Botones laterales;Compatible;4,05;;;6
+IX-N50-CRI-COM;Infinix;Note 50;Cristal de pantalla;Compatible;4,05;;;6
+IX-N50-ANT-COM;Infinix;Note 50;Antena / coaxial;Compatible;3,50;;;6
+IX-N50-HUE-COM;Infinix;Note 50;Botón home / huella;Compatible;5,85;;;6
+IX-N50P-MAR-COM;Infinix;Note 50 Pro;Marco / chasis;Compatible;7,90;;;6
+IX-N50P-BOT-COM;Infinix;Note 50 Pro;Botones laterales;Compatible;4,05;;;6
+IX-N50P-CRI-COM;Infinix;Note 50 Pro;Cristal de pantalla;Compatible;4,05;;;6
+IX-N50P-ANT-COM;Infinix;Note 50 Pro;Antena / coaxial;Compatible;3,50;;;6
+IX-N50P-HUE-COM;Infinix;Note 50 Pro;Botón home / huella;Compatible;5,85;;;6
+IX-N50PPL5-MAR-COM;Infinix;Note 50 Pro+ 5G;Marco / chasis;Compatible;7,90;;;6
+IX-N50PPL5-BOT-COM;Infinix;Note 50 Pro+ 5G;Botones laterales;Compatible;4,05;;;6
+IX-N50PPL5-CRI-COM;Infinix;Note 50 Pro+ 5G;Cristal de pantalla;Compatible;4,05;;;6
+IX-N50PPL5-ANT-COM;Infinix;Note 50 Pro+ 5G;Antena / coaxial;Compatible;3,50;;;6
+IX-N50PPL5-HUE-COM;Infinix;Note 50 Pro+ 5G;Botón home / huella;Compatible;5,85;;;6
+IX-GT30P-MAR-COM;Infinix;GT 30 Pro;Marco / chasis;Compatible;9,05;;;6
+IX-GT30P-BOT-COM;Infinix;GT 30 Pro;Botones laterales;Compatible;4,65;;;6
+IX-GT30P-CRI-COM;Infinix;GT 30 Pro;Cristal de pantalla;Compatible;4,60;;;6
+IX-GT30P-ANT-COM;Infinix;GT 30 Pro;Antena / coaxial;Compatible;4,00;;;6
+IX-GT30P-HUE-COM;Infinix;GT 30 Pro;Botón home / huella;Compatible;6,69;;;6
+IX-S10-MAR-COM;Infinix;Smart 10;Marco / chasis;Compatible;6,89;;;6
+IX-S10-BOT-COM;Infinix;Smart 10;Botones laterales;Compatible;3,55;;;6
+IX-S10-CRI-COM;Infinix;Smart 10;Cristal de pantalla;Compatible;3,50;;;6
+IX-S10-ANT-COM;Infinix;Smart 10;Antena / coaxial;Compatible;3,05;;;6
+IX-S10-HUE-COM;Infinix;Smart 10;Botón home / huella;Compatible;5,09;;;6
+IX-S10HD-MAR-COM;Infinix;Smart 10 HD;Marco / chasis;Compatible;6,89;;;6
+IX-S10HD-BOT-COM;Infinix;Smart 10 HD;Botones laterales;Compatible;3,55;;;6
+IX-S10HD-CRI-COM;Infinix;Smart 10 HD;Cristal de pantalla;Compatible;3,50;;;6
+IX-S10HD-ANT-COM;Infinix;Smart 10 HD;Antena / coaxial;Compatible;3,05;;;6
+IX-S10HD-HUE-COM;Infinix;Smart 10 HD;Botón home / huella;Compatible;5,09;;;6
+IX-S10PL-MAR-COM;Infinix;Smart 10 Plus;Marco / chasis;Compatible;6,89;;;6
+IX-S10PL-BOT-COM;Infinix;Smart 10 Plus;Botones laterales;Compatible;3,55;;;6
+IX-S10PL-CRI-COM;Infinix;Smart 10 Plus;Cristal de pantalla;Compatible;3,50;;;6
+IX-S10PL-ANT-COM;Infinix;Smart 10 Plus;Antena / coaxial;Compatible;3,05;;;6
+IX-S10PL-HUE-COM;Infinix;Smart 10 Plus;Botón home / huella;Compatible;5,09;;;6
+IX-HOT605-MAR-COM;Infinix;Hot 60 5G;Marco / chasis;Compatible;6,89;;;6
+IX-HOT605-BOT-COM;Infinix;Hot 60 5G;Botones laterales;Compatible;3,55;;;6
+IX-HOT605-CRI-COM;Infinix;Hot 60 5G;Cristal de pantalla;Compatible;3,50;;;6
+IX-HOT605-ANT-COM;Infinix;Hot 60 5G;Antena / coaxial;Compatible;3,05;;;6
+IX-HOT605-HUE-COM;Infinix;Hot 60 5G;Botón home / huella;Compatible;5,09;;;6
+IX-HOT60P-MAR-COM;Infinix;Hot 60 Pro;Marco / chasis;Compatible;6,89;;;6
+IX-HOT60P-BOT-COM;Infinix;Hot 60 Pro;Botones laterales;Compatible;3,55;;;6
+IX-HOT60P-CRI-COM;Infinix;Hot 60 Pro;Cristal de pantalla;Compatible;3,50;;;6
+IX-HOT60P-ANT-COM;Infinix;Hot 60 Pro;Antena / coaxial;Compatible;3,05;;;6
+IX-HOT60P-HUE-COM;Infinix;Hot 60 Pro;Botón home / huella;Compatible;5,09;;;6
+IX-HOT60PPL-MAR-COM;Infinix;Hot 60 Pro+;Marco / chasis;Compatible;6,89;;;6
+IX-HOT60PPL-BOT-COM;Infinix;Hot 60 Pro+;Botones laterales;Compatible;3,55;;;6
+IX-HOT60PPL-CRI-COM;Infinix;Hot 60 Pro+;Cristal de pantalla;Compatible;3,50;;;6
+IX-HOT60PPL-ANT-COM;Infinix;Hot 60 Pro+;Antena / coaxial;Compatible;3,05;;;6
+IX-HOT60PPL-HUE-COM;Infinix;Hot 60 Pro+;Botón home / huella;Compatible;5,09;;;6
+IX-HOT60I-MAR-COM;Infinix;Hot 60i;Marco / chasis;Compatible;6,89;;;6
+IX-HOT60I-BOT-COM;Infinix;Hot 60i;Botones laterales;Compatible;3,55;;;6
+IX-HOT60I-CRI-COM;Infinix;Hot 60i;Cristal de pantalla;Compatible;3,50;;;6
+IX-HOT60I-ANT-COM;Infinix;Hot 60i;Antena / coaxial;Compatible;3,05;;;6
+IX-HOT60I-HUE-COM;Infinix;Hot 60i;Botón home / huella;Compatible;5,09;;;6
+IX-GT30-MAR-COM;Infinix;GT 30;Marco / chasis;Compatible;9,05;;;6
+IX-GT30-BOT-COM;Infinix;GT 30;Botones laterales;Compatible;4,65;;;6
+IX-GT30-CRI-COM;Infinix;GT 30;Cristal de pantalla;Compatible;4,60;;;6
+IX-GT30-ANT-COM;Infinix;GT 30;Antena / coaxial;Compatible;4,00;;;6
+IX-GT30-HUE-COM;Infinix;GT 30;Botón home / huella;Compatible;6,69;;;6
+IX-HOT60I5-MAR-COM;Infinix;Hot 60i 5G;Marco / chasis;Compatible;6,89;;;6
+IX-HOT60I5-BOT-COM;Infinix;Hot 60i 5G;Botones laterales;Compatible;3,55;;;6
+IX-HOT60I5-CRI-COM;Infinix;Hot 60i 5G;Cristal de pantalla;Compatible;3,50;;;6
+IX-HOT60I5-ANT-COM;Infinix;Hot 60i 5G;Antena / coaxial;Compatible;3,05;;;6
+IX-HOT60I5-HUE-COM;Infinix;Hot 60i 5G;Botón home / huella;Compatible;5,09;;;6
+IX-NE-MAR-COM;Infinix;Note Edge;Marco / chasis;Compatible;7,90;;;6
+IX-NE-BOT-COM;Infinix;Note Edge;Botones laterales;Compatible;4,05;;;6
+IX-NE-CRI-COM;Infinix;Note Edge;Cristal de pantalla;Compatible;4,05;;;6
+IX-NE-ANT-COM;Infinix;Note Edge;Antena / coaxial;Compatible;3,50;;;6
+IX-NE-HUE-COM;Infinix;Note Edge;Botón home / huella;Compatible;5,85;;;6
+IX-N60-MAR-COM;Infinix;Note 60;Marco / chasis;Compatible;7,90;;;6
+IX-N60-BOT-COM;Infinix;Note 60;Botones laterales;Compatible;4,05;;;6
+IX-N60-CRI-COM;Infinix;Note 60;Cristal de pantalla;Compatible;4,05;;;6
+IX-N60-ANT-COM;Infinix;Note 60;Antena / coaxial;Compatible;3,50;;;6
+IX-N60-HUE-COM;Infinix;Note 60;Botón home / huella;Compatible;5,85;;;6
+IX-N60P-MAR-COM;Infinix;Note 60 Pro;Marco / chasis;Compatible;7,90;;;6
+IX-N60P-BOT-COM;Infinix;Note 60 Pro;Botones laterales;Compatible;4,05;;;6
+IX-N60P-CRI-COM;Infinix;Note 60 Pro;Cristal de pantalla;Compatible;4,05;;;6
+IX-N60P-ANT-COM;Infinix;Note 60 Pro;Antena / coaxial;Compatible;3,50;;;6
+IX-N60P-HUE-COM;Infinix;Note 60 Pro;Botón home / huella;Compatible;5,85;;;6
+IX-S20-MAR-COM;Infinix;Smart 20;Marco / chasis;Compatible;6,89;;;6
+IX-S20-BOT-COM;Infinix;Smart 20;Botones laterales;Compatible;3,55;;;6
+IX-S20-CRI-COM;Infinix;Smart 20;Cristal de pantalla;Compatible;3,50;;;6
+IX-S20-ANT-COM;Infinix;Smart 20;Antena / coaxial;Compatible;3,05;;;6
+IX-S20-HUE-COM;Infinix;Smart 20;Botón home / huella;Compatible;5,09;;;6
+IX-GT50P-MAR-COM;Infinix;GT 50 Pro;Marco / chasis;Compatible;9,05;;;6
+IX-GT50P-BOT-COM;Infinix;GT 50 Pro;Botones laterales;Compatible;4,65;;;6
+IX-GT50P-CRI-COM;Infinix;GT 50 Pro;Cristal de pantalla;Compatible;4,60;;;6
+IX-GT50P-ANT-COM;Infinix;GT 50 Pro;Antena / coaxial;Compatible;4,00;;;6
+IX-GT50P-HUE-COM;Infinix;GT 50 Pro;Botón home / huella;Compatible;6,69;;;6
+IX-HOT70-MAR-COM;Infinix;Hot 70;Marco / chasis;Compatible;6,89;;;6
+IX-HOT70-BOT-COM;Infinix;Hot 70;Botones laterales;Compatible;3,55;;;6
+IX-HOT70-CRI-COM;Infinix;Hot 70;Cristal de pantalla;Compatible;3,50;;;6
+IX-HOT70-ANT-COM;Infinix;Hot 70;Antena / coaxial;Compatible;3,05;;;6
+IX-HOT70-HUE-COM;Infinix;Hot 70;Botón home / huella;Compatible;5,09;;;6

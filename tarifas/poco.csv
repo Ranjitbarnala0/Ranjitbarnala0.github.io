@@ -1,0 +1,2034 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+PO-F2P-PAN-ORI;POCO;F2 Pro;Pantalla;Original;103,45;100,35;97,24;12
+PO-F2P-PAN-OLS;POCO;F2 Pro;Pantalla;OLED Soft;57,85;56,11;54,38;6
+PO-F2P-PAN-OLH;POCO;F2 Pro;Pantalla;OLED Hard;52,20;50,63;49,07;6
+PO-F2P-PAN-INC;POCO;F2 Pro;Pantalla;Incell;25,95;25,17;24,39;6
+PO-F2P-BAT-COM;POCO;F2 Pro;Batería;Compatible;9,15;;;6
+PO-F2P-CON-COM;POCO;F2 Pro;Conector de carga;Compatible;4,55;;;6
+PO-F2P-TAP-COM-GRI;POCO;F2 Pro;Tapa trasera;Gris Cibernético;6,85;;;6
+PO-F2P-TAP-COM-MOR;POCO;F2 Pro;Tapa trasera;Morado Eléctrico;6,85;;;6
+PO-F2P-TAP-COM-BLA;POCO;F2 Pro;Tapa trasera;Blanco Fantasma;6,85;;;6
+PO-F2P-TAP-COM-AZU;POCO;F2 Pro;Tapa trasera;Azul Neón;6,85;;;6
+PO-F2P-CTR-COM;POCO;F2 Pro;Cámara trasera;Compatible;8,80;;;6
+PO-F2P-CFR-COM;POCO;F2 Pro;Cámara frontal;Compatible;4,05;;;6
+PO-F2P-LEN-COM;POCO;F2 Pro;Lente de cámara;Compatible;2,65;;;6
+PO-F2P-ALT-COM;POCO;F2 Pro;Altavoz;Compatible;3,95;;;6
+PO-F2P-AUR-COM;POCO;F2 Pro;Auricular de llamada;Compatible;2,95;;;6
+PO-F2P-FLX-COM;POCO;F2 Pro;Flex de encendido y volumen;Compatible;2,95;;;6
+PO-F2P-SIM-COM-GRI;POCO;F2 Pro;Bandeja SIM;Gris Cibernético;2,95;;;6
+PO-F2P-SIM-COM-MOR;POCO;F2 Pro;Bandeja SIM;Morado Eléctrico;2,95;;;6
+PO-F2P-SIM-COM-BLA;POCO;F2 Pro;Bandeja SIM;Blanco Fantasma;2,95;;;6
+PO-F2P-SIM-COM-AZU;POCO;F2 Pro;Bandeja SIM;Azul Neón;2,95;;;6
+PO-X3NFC-PAN-ORI;POCO;X3 NFC;Pantalla;Original;30,15;29,25;28,34;12
+PO-X3NFC-PAN-COM;POCO;X3 NFC;Pantalla;Compatible;15,25;14,79;14,34;6
+PO-X3NFC-BAT-COM;POCO;X3 NFC;Batería;Compatible;8,89;;;6
+PO-X3NFC-CON-COM;POCO;X3 NFC;Conector de carga;Compatible;3,60;;;6
+PO-X3NFC-TAP-COM-GRI;POCO;X3 NFC;Tapa trasera;Gris Sombra;5,65;;;6
+PO-X3NFC-TAP-COM-AZU;POCO;X3 NFC;Tapa trasera;Azul Cobalto;5,65;;;6
+PO-X3NFC-CTR-COM;POCO;X3 NFC;Cámara trasera;Compatible;5,79;;;6
+PO-X3NFC-CFR-COM;POCO;X3 NFC;Cámara frontal;Compatible;3,05;;;6
+PO-X3NFC-LEN-COM;POCO;X3 NFC;Lente de cámara;Compatible;1,90;;;6
+PO-X3NFC-ALT-COM;POCO;X3 NFC;Altavoz;Compatible;3,15;;;6
+PO-X3NFC-AUR-COM;POCO;X3 NFC;Auricular de llamada;Compatible;2,15;;;6
+PO-X3NFC-FLX-COM;POCO;X3 NFC;Flex de encendido y volumen;Compatible;2,10;;;6
+PO-X3NFC-SIM-COM-GRI;POCO;X3 NFC;Bandeja SIM;Gris Sombra;2,35;;;6
+PO-X3NFC-SIM-COM-AZU;POCO;X3 NFC;Bandeja SIM;Azul Cobalto;2,35;;;6
+PO-M3-PAN-ORI;POCO;M3;Pantalla;Original;23,75;23,04;22,33;12
+PO-M3-PAN-COM;POCO;M3;Pantalla;Compatible;12,50;12,13;11,75;6
+PO-M3-BAT-COM;POCO;M3;Batería;Compatible;8,15;;;6
+PO-M3-CON-COM;POCO;M3;Conector de carga;Compatible;2,90;;;6
+PO-M3-TAP-COM-AMA;POCO;M3;Tapa trasera;Amarillo POCO;4,90;;;6
+PO-M3-TAP-COM-AZU;POCO;M3;Tapa trasera;Azul Molón;4,90;;;6
+PO-M3-TAP-COM-NEG;POCO;M3;Tapa trasera;Negro Poderoso;4,90;;;6
+PO-M3-CTR-COM;POCO;M3;Cámara trasera;Compatible;5,09;;;6
+PO-M3-CFR-COM;POCO;M3;Cámara frontal;Compatible;2,89;;;6
+PO-M3-LEN-COM;POCO;M3;Lente de cámara;Compatible;1,95;;;6
+PO-M3-ALT-COM;POCO;M3;Altavoz;Compatible;3,05;;;6
+PO-M3-AUR-COM;POCO;M3;Auricular de llamada;Compatible;2,19;;;6
+PO-M3-FLX-COM;POCO;M3;Flex de encendido y volumen;Compatible;2,15;;;6
+PO-M3-SIM-COM-AMA;POCO;M3;Bandeja SIM;Amarillo POCO;2,49;;;6
+PO-M3-SIM-COM-AZU;POCO;M3;Bandeja SIM;Azul Molón;2,49;;;6
+PO-M3-SIM-COM-NEG;POCO;M3;Bandeja SIM;Negro Poderoso;2,49;;;6
+PO-X3P-PAN-ORI;POCO;X3 Pro;Pantalla;Original;34,65;33,61;32,57;12
+PO-X3P-PAN-COM;POCO;X3 Pro;Pantalla;Compatible;15,40;14,94;14,48;6
+PO-X3P-BAT-COM;POCO;X3 Pro;Batería;Compatible;9,55;;;6
+PO-X3P-CON-COM;POCO;X3 Pro;Conector de carga;Compatible;3,35;;;6
+PO-X3P-TAP-COM-NEG;POCO;X3 Pro;Tapa trasera;Negro Fantasma;5,70;;;6
+PO-X3P-TAP-COM-BRO;POCO;X3 Pro;Tapa trasera;Bronce Metálico;5,70;;;6
+PO-X3P-TAP-COM-AZU;POCO;X3 Pro;Tapa trasera;Azul Helado;5,70;;;6
+PO-X3P-CTR-COM;POCO;X3 Pro;Cámara trasera;Compatible;7,05;;;6
+PO-X3P-CFR-COM;POCO;X3 Pro;Cámara frontal;Compatible;3,20;;;6
+PO-X3P-LEN-COM;POCO;X3 Pro;Lente de cámara;Compatible;2,29;;;6
+PO-X3P-ALT-COM;POCO;X3 Pro;Altavoz;Compatible;3,45;;;6
+PO-X3P-AUR-COM;POCO;X3 Pro;Auricular de llamada;Compatible;2,69;;;6
+PO-X3P-FLX-COM;POCO;X3 Pro;Flex de encendido y volumen;Compatible;2,70;;;6
+PO-X3P-SIM-COM-NEG;POCO;X3 Pro;Bandeja SIM;Negro Fantasma;2,70;;;6
+PO-X3P-SIM-COM-BRO;POCO;X3 Pro;Bandeja SIM;Bronce Metálico;2,70;;;6
+PO-X3P-SIM-COM-AZU;POCO;X3 Pro;Bandeja SIM;Azul Helado;2,70;;;6
+PO-F3-PAN-ORI;POCO;F3;Pantalla;Original;65,20;63,24;61,29;12
+PO-F3-PAN-OLS;POCO;F3;Pantalla;OLED Soft;39,65;38,46;37,27;6
+PO-F3-PAN-OLH;POCO;F3;Pantalla;OLED Hard;35,75;34,68;33,60;6
+PO-F3-PAN-INC;POCO;F3;Pantalla;Incell;17,79;17,26;16,72;6
+PO-F3-BAT-COM;POCO;F3;Batería;Compatible;9,55;;;6
+PO-F3-CON-COM;POCO;F3;Conector de carga;Compatible;3,35;;;6
+PO-F3-TAP-COM-PLA;POCO;F3;Tapa trasera;Plata Lunar;5,59;;;6
+PO-F3-TAP-COM-AZU;POCO;F3;Tapa trasera;Azul océano profundo;5,59;;;6
+PO-F3-TAP-COM-BLA;POCO;F3;Tapa trasera;Blanco ártico;5,59;;;6
+PO-F3-TAP-COM-NEG;POCO;F3;Tapa trasera;Negro nocturno;5,59;;;6
+PO-F3-CTR-COM;POCO;F3;Cámara trasera;Compatible;7,05;;;6
+PO-F3-CFR-COM;POCO;F3;Cámara frontal;Compatible;3,25;;;6
+PO-F3-LEN-COM;POCO;F3;Lente de cámara;Compatible;2,29;;;6
+PO-F3-ALT-COM;POCO;F3;Altavoz;Compatible;3,45;;;6
+PO-F3-AUR-COM;POCO;F3;Auricular de llamada;Compatible;2,69;;;6
+PO-F3-FLX-COM;POCO;F3;Flex de encendido y volumen;Compatible;2,70;;;6
+PO-F3-SIM-COM-PLA;POCO;F3;Bandeja SIM;Plata Lunar;2,70;;;6
+PO-F3-SIM-COM-AZU;POCO;F3;Bandeja SIM;Azul océano profundo;2,70;;;6
+PO-F3-SIM-COM-BLA;POCO;F3;Bandeja SIM;Blanco ártico;2,70;;;6
+PO-F3-SIM-COM-NEG;POCO;F3;Bandeja SIM;Negro nocturno;2,70;;;6
+PO-M3P5-PAN-ORI;POCO;M3 Pro 5G;Pantalla;Original;30,15;29,25;28,34;12
+PO-M3P5-PAN-COM;POCO;M3 Pro 5G;Pantalla;Compatible;15,45;14,99;14,52;6
+PO-M3P5-BAT-COM;POCO;M3 Pro 5G;Batería;Compatible;8,85;;;6
+PO-M3P5-CON-COM;POCO;M3 Pro 5G;Conector de carga;Compatible;3,60;;;6
+PO-M3P5-TAP-COM-NEG;POCO;M3 Pro 5G;Tapa trasera;Negro (Power Black);5,50;;;6
+PO-M3P5-TAP-COM-AMA;POCO;M3 Pro 5G;Tapa trasera;Amarillo (POCO Yellow);5,50;;;6
+PO-M3P5-TAP-COM-AZU;POCO;M3 Pro 5G;Tapa trasera;Azul (Cool Blue);5,50;;;6
+PO-M3P5-CTR-COM;POCO;M3 Pro 5G;Cámara trasera;Compatible;5,79;;;6
+PO-M3P5-CFR-COM;POCO;M3 Pro 5G;Cámara frontal;Compatible;3,05;;;6
+PO-M3P5-LEN-COM;POCO;M3 Pro 5G;Lente de cámara;Compatible;1,90;;;6
+PO-M3P5-ALT-COM;POCO;M3 Pro 5G;Altavoz;Compatible;3,15;;;6
+PO-M3P5-AUR-COM;POCO;M3 Pro 5G;Auricular de llamada;Compatible;2,15;;;6
+PO-M3P5-FLX-COM;POCO;M3 Pro 5G;Flex de encendido y volumen;Compatible;2,10;;;6
+PO-M3P5-SIM-COM-NEG;POCO;M3 Pro 5G;Bandeja SIM;Negro (Power Black);2,35;;;6
+PO-M3P5-SIM-COM-AMA;POCO;M3 Pro 5G;Bandeja SIM;Amarillo (POCO Yellow);2,35;;;6
+PO-M3P5-SIM-COM-AZU;POCO;M3 Pro 5G;Bandeja SIM;Azul (Cool Blue);2,35;;;6
+PO-M4P5-PAN-ORI;POCO;M4 Pro 5G;Pantalla;Original;30,15;29,25;28,34;12
+PO-M4P5-PAN-COM;POCO;M4 Pro 5G;Pantalla;Compatible;15,45;14,99;14,52;6
+PO-M4P5-BAT-COM;POCO;M4 Pro 5G;Batería;Compatible;8,85;;;6
+PO-M4P5-CON-COM;POCO;M4 Pro 5G;Conector de carga;Compatible;3,60;;;6
+PO-M4P5-TAP-COM-AZU;POCO;M4 Pro 5G;Tapa trasera;Azul Molón;5,50;;;6
+PO-M4P5-TAP-COM-NEG;POCO;M4 Pro 5G;Tapa trasera;Negro Asfalto;5,50;;;6
+PO-M4P5-TAP-COM-AMA;POCO;M4 Pro 5G;Tapa trasera;Amarillo POCO;5,50;;;6
+PO-M4P5-CTR-COM;POCO;M4 Pro 5G;Cámara trasera;Compatible;5,79;;;6
+PO-M4P5-CFR-COM;POCO;M4 Pro 5G;Cámara frontal;Compatible;3,05;;;6
+PO-M4P5-LEN-COM;POCO;M4 Pro 5G;Lente de cámara;Compatible;1,90;;;6
+PO-M4P5-ALT-COM;POCO;M4 Pro 5G;Altavoz;Compatible;3,15;;;6
+PO-M4P5-AUR-COM;POCO;M4 Pro 5G;Auricular de llamada;Compatible;2,15;;;6
+PO-M4P5-FLX-COM;POCO;M4 Pro 5G;Flex de encendido y volumen;Compatible;2,10;;;6
+PO-M4P5-SIM-COM-AZU;POCO;M4 Pro 5G;Bandeja SIM;Azul Molón;2,35;;;6
+PO-M4P5-SIM-COM-NEG;POCO;M4 Pro 5G;Bandeja SIM;Negro Asfalto;2,35;;;6
+PO-M4P5-SIM-COM-AMA;POCO;M4 Pro 5G;Bandeja SIM;Amarillo POCO;2,35;;;6
+PO-M4P-PAN-ORI;POCO;M4 Pro;Pantalla;Original;56,75;55,05;53,35;12
+PO-M4P-PAN-OLS;POCO;M4 Pro;Pantalla;OLED Soft;39,20;38,02;36,85;6
+PO-M4P-PAN-OLH;POCO;M4 Pro;Pantalla;OLED Hard;35,39;34,33;33,27;6
+PO-M4P-PAN-INC;POCO;M4 Pro;Pantalla;Incell;17,59;17,06;16,53;6
+PO-M4P-BAT-COM;POCO;M4 Pro;Batería;Compatible;8,85;;;6
+PO-M4P-CON-COM;POCO;M4 Pro;Conector de carga;Compatible;3,60;;;6
+PO-M4P-TAP-COM-AZU;POCO;M4 Pro;Tapa trasera;Azul Neón;5,50;;;6
+PO-M4P-TAP-COM-NEG;POCO;M4 Pro;Tapa trasera;Negro Asfalto;5,50;;;6
+PO-M4P-TAP-COM-AMA;POCO;M4 Pro;Tapa trasera;Amarillo POCO;5,50;;;6
+PO-M4P-CTR-COM;POCO;M4 Pro;Cámara trasera;Compatible;5,79;;;6
+PO-M4P-CFR-COM;POCO;M4 Pro;Cámara frontal;Compatible;3,05;;;6
+PO-M4P-LEN-COM;POCO;M4 Pro;Lente de cámara;Compatible;1,90;;;6
+PO-M4P-ALT-COM;POCO;M4 Pro;Altavoz;Compatible;3,15;;;6
+PO-M4P-AUR-COM;POCO;M4 Pro;Auricular de llamada;Compatible;2,15;;;6
+PO-M4P-FLX-COM;POCO;M4 Pro;Flex de encendido y volumen;Compatible;2,10;;;6
+PO-M4P-SIM-COM-AZU;POCO;M4 Pro;Bandeja SIM;Azul Neón;2,35;;;6
+PO-M4P-SIM-COM-NEG;POCO;M4 Pro;Bandeja SIM;Negro Asfalto;2,35;;;6
+PO-M4P-SIM-COM-AMA;POCO;M4 Pro;Bandeja SIM;Amarillo POCO;2,35;;;6
+PO-X4P5-PAN-ORI;POCO;X4 Pro 5G;Pantalla;Original;65,20;63,24;61,29;12
+PO-X4P5-PAN-OLS;POCO;X4 Pro 5G;Pantalla;OLED Soft;39,15;37,98;36,80;6
+PO-X4P5-PAN-OLH;POCO;X4 Pro 5G;Pantalla;OLED Hard;35,30;34,24;33,18;6
+PO-X4P5-PAN-INC;POCO;X4 Pro 5G;Pantalla;Incell;17,55;17,02;16,50;6
+PO-X4P5-BAT-COM;POCO;X4 Pro 5G;Batería;Compatible;9,55;;;6
+PO-X4P5-CON-COM;POCO;X4 Pro 5G;Conector de carga;Compatible;3,35;;;6
+PO-X4P5-TAP-COM-AZU;POCO;X4 Pro 5G;Tapa trasera;Azul (Laser Blue);5,70;;;6
+PO-X4P5-TAP-COM-NEG;POCO;X4 Pro 5G;Tapa trasera;Negro (Laser Black);5,70;;;6
+PO-X4P5-TAP-COM-AMA;POCO;X4 Pro 5G;Tapa trasera;Amarillo (POCO Yellow);5,70;;;6
+PO-X4P5-CTR-COM;POCO;X4 Pro 5G;Cámara trasera;Compatible;7,05;;;6
+PO-X4P5-CFR-COM;POCO;X4 Pro 5G;Cámara frontal;Compatible;3,20;;;6
+PO-X4P5-LEN-COM;POCO;X4 Pro 5G;Lente de cámara;Compatible;2,29;;;6
+PO-X4P5-ALT-COM;POCO;X4 Pro 5G;Altavoz;Compatible;3,45;;;6
+PO-X4P5-AUR-COM;POCO;X4 Pro 5G;Auricular de llamada;Compatible;2,69;;;6
+PO-X4P5-FLX-COM;POCO;X4 Pro 5G;Flex de encendido y volumen;Compatible;2,70;;;6
+PO-X4P5-SIM-COM-AZU;POCO;X4 Pro 5G;Bandeja SIM;Azul (Laser Blue);2,70;;;6
+PO-X4P5-SIM-COM-NEG;POCO;X4 Pro 5G;Bandeja SIM;Negro (Laser Black);2,70;;;6
+PO-X4P5-SIM-COM-AMA;POCO;X4 Pro 5G;Bandeja SIM;Amarillo (POCO Yellow);2,70;;;6
+PO-F4GT-PAN-ORI;POCO;F4 GT;Pantalla;Original;65,20;63,24;61,29;12
+PO-F4GT-PAN-OLS;POCO;F4 GT;Pantalla;OLED Soft;39,65;38,46;37,27;6
+PO-F4GT-PAN-OLH;POCO;F4 GT;Pantalla;OLED Hard;35,75;34,68;33,60;6
+PO-F4GT-PAN-INC;POCO;F4 GT;Pantalla;Incell;17,79;17,26;16,72;6
+PO-F4GT-BAT-COM;POCO;F4 GT;Batería;Compatible;9,55;;;6
+PO-F4GT-CON-COM;POCO;F4 GT;Conector de carga;Compatible;3,35;;;6
+PO-F4GT-TAP-COM-NEG;POCO;F4 GT;Tapa trasera;Negro Sólido;5,59;;;6
+PO-F4GT-TAP-COM-ACE;POCO;F4 GT;Tapa trasera;Acero Plateado;5,59;;;6
+PO-F4GT-TAP-COM-ELE;POCO;F4 GT;Tapa trasera;Electro Amarillo;5,59;;;6
+PO-F4GT-CTR-COM;POCO;F4 GT;Cámara trasera;Compatible;7,05;;;6
+PO-F4GT-CFR-COM;POCO;F4 GT;Cámara frontal;Compatible;3,25;;;6
+PO-F4GT-LEN-COM;POCO;F4 GT;Lente de cámara;Compatible;2,29;;;6
+PO-F4GT-ALT-COM;POCO;F4 GT;Altavoz;Compatible;3,45;;;6
+PO-F4GT-AUR-COM;POCO;F4 GT;Auricular de llamada;Compatible;2,69;;;6
+PO-F4GT-FLX-COM;POCO;F4 GT;Flex de encendido y volumen;Compatible;2,70;;;6
+PO-F4GT-SIM-COM-NEG;POCO;F4 GT;Bandeja SIM;Negro Sólido;2,70;;;6
+PO-F4GT-SIM-COM-ACE;POCO;F4 GT;Bandeja SIM;Acero Plateado;2,70;;;6
+PO-F4GT-SIM-COM-ELE;POCO;F4 GT;Bandeja SIM;Electro Amarillo;2,70;;;6
+PO-F4-PAN-ORI;POCO;F4;Pantalla;Original;65,20;63,24;61,29;12
+PO-F4-PAN-OLS;POCO;F4;Pantalla;OLED Soft;39,65;38,46;37,27;6
+PO-F4-PAN-OLH;POCO;F4;Pantalla;OLED Hard;35,75;34,68;33,60;6
+PO-F4-PAN-INC;POCO;F4;Pantalla;Incell;17,79;17,26;16,72;6
+PO-F4-BAT-COM;POCO;F4;Batería;Compatible;9,55;;;6
+PO-F4-CON-COM;POCO;F4;Conector de carga;Compatible;3,35;;;6
+PO-F4-TAP-COM-PLA;POCO;F4;Tapa trasera;Plata Lunar;5,59;;;6
+PO-F4-TAP-COM-NEG;POCO;F4;Tapa trasera;Negro Nocturno;5,59;;;6
+PO-F4-TAP-COM-VER;POCO;F4;Tapa trasera;Verde Nebulosa;5,59;;;6
+PO-F4-CTR-COM;POCO;F4;Cámara trasera;Compatible;7,05;;;6
+PO-F4-CFR-COM;POCO;F4;Cámara frontal;Compatible;3,25;;;6
+PO-F4-LEN-COM;POCO;F4;Lente de cámara;Compatible;2,29;;;6
+PO-F4-ALT-COM;POCO;F4;Altavoz;Compatible;3,45;;;6
+PO-F4-AUR-COM;POCO;F4;Auricular de llamada;Compatible;2,69;;;6
+PO-F4-FLX-COM;POCO;F4;Flex de encendido y volumen;Compatible;2,70;;;6
+PO-F4-SIM-COM-PLA;POCO;F4;Bandeja SIM;Plata Lunar;2,70;;;6
+PO-F4-SIM-COM-NEG;POCO;F4;Bandeja SIM;Negro Nocturno;2,70;;;6
+PO-F4-SIM-COM-VER;POCO;F4;Bandeja SIM;Verde Nebulosa;2,70;;;6
+PO-X4GT-PAN-ORI;POCO;X4 GT;Pantalla;Original;30,15;29,25;28,34;12
+PO-X4GT-PAN-COM;POCO;X4 GT;Pantalla;Compatible;15,25;14,79;14,34;6
+PO-X4GT-BAT-COM;POCO;X4 GT;Batería;Compatible;8,89;;;6
+PO-X4GT-CON-COM;POCO;X4 GT;Conector de carga;Compatible;3,60;;;6
+PO-X4GT-TAP-COM-AZU;POCO;X4 GT;Tapa trasera;Azul;5,65;;;6
+PO-X4GT-TAP-COM-NEG;POCO;X4 GT;Tapa trasera;Negro;5,65;;;6
+PO-X4GT-TAP-COM-PLA;POCO;X4 GT;Tapa trasera;Plata;5,65;;;6
+PO-X4GT-CTR-COM;POCO;X4 GT;Cámara trasera;Compatible;5,79;;;6
+PO-X4GT-CFR-COM;POCO;X4 GT;Cámara frontal;Compatible;3,05;;;6
+PO-X4GT-LEN-COM;POCO;X4 GT;Lente de cámara;Compatible;1,90;;;6
+PO-X4GT-ALT-COM;POCO;X4 GT;Altavoz;Compatible;3,15;;;6
+PO-X4GT-AUR-COM;POCO;X4 GT;Auricular de llamada;Compatible;2,15;;;6
+PO-X4GT-FLX-COM;POCO;X4 GT;Flex de encendido y volumen;Compatible;2,10;;;6
+PO-X4GT-SIM-COM-AZU;POCO;X4 GT;Bandeja SIM;Azul;2,35;;;6
+PO-X4GT-SIM-COM-NEG;POCO;X4 GT;Bandeja SIM;Negro;2,35;;;6
+PO-X4GT-SIM-COM-PLA;POCO;X4 GT;Bandeja SIM;Plata;2,35;;;6
+PO-C40-PAN-ORI;POCO;C40;Pantalla;Original;23,75;23,04;22,33;12
+PO-C40-PAN-COM;POCO;C40;Pantalla;Compatible;12,50;12,13;11,75;6
+PO-C40-BAT-COM;POCO;C40;Batería;Compatible;8,15;;;6
+PO-C40-CON-COM;POCO;C40;Conector de carga;Compatible;2,90;;;6
+PO-C40-TAP-COM-NEG;POCO;C40;Tapa trasera;Negro Asfalto;4,90;;;6
+PO-C40-TAP-COM-VER;POCO;C40;Tapa trasera;Verde Coral;4,90;;;6
+PO-C40-TAP-COM-AMA;POCO;C40;Tapa trasera;Amarillo POCO;4,90;;;6
+PO-C40-CTR-COM;POCO;C40;Cámara trasera;Compatible;5,09;;;6
+PO-C40-CFR-COM;POCO;C40;Cámara frontal;Compatible;2,89;;;6
+PO-C40-LEN-COM;POCO;C40;Lente de cámara;Compatible;1,95;;;6
+PO-C40-ALT-COM;POCO;C40;Altavoz;Compatible;3,05;;;6
+PO-C40-AUR-COM;POCO;C40;Auricular de llamada;Compatible;2,19;;;6
+PO-C40-FLX-COM;POCO;C40;Flex de encendido y volumen;Compatible;2,15;;;6
+PO-C40-SIM-COM-NEG;POCO;C40;Bandeja SIM;Negro Asfalto;2,49;;;6
+PO-C40-SIM-COM-VER;POCO;C40;Bandeja SIM;Verde Coral;2,49;;;6
+PO-C40-SIM-COM-AMA;POCO;C40;Bandeja SIM;Amarillo POCO;2,49;;;6
+PO-M45-PAN-ORI;POCO;M4 5G;Pantalla;Original;23,75;23,04;22,33;12
+PO-M45-PAN-COM;POCO;M4 5G;Pantalla;Compatible;12,50;12,13;11,75;6
+PO-M45-BAT-COM;POCO;M4 5G;Batería;Compatible;8,15;;;6
+PO-M45-CON-COM;POCO;M4 5G;Conector de carga;Compatible;2,90;;;6
+PO-M45-TAP-COM-NEG;POCO;M4 5G;Tapa trasera;Negro (Power Black);4,90;;;6
+PO-M45-TAP-COM-AZU;POCO;M4 5G;Tapa trasera;Azul (Cool Blue);4,90;;;6
+PO-M45-TAP-COM-AMA;POCO;M4 5G;Tapa trasera;Amarillo (POCO Yellow);4,90;;;6
+PO-M45-CTR-COM;POCO;M4 5G;Cámara trasera;Compatible;5,09;;;6
+PO-M45-CFR-COM;POCO;M4 5G;Cámara frontal;Compatible;2,89;;;6
+PO-M45-LEN-COM;POCO;M4 5G;Lente de cámara;Compatible;1,95;;;6
+PO-M45-ALT-COM;POCO;M4 5G;Altavoz;Compatible;3,05;;;6
+PO-M45-AUR-COM;POCO;M4 5G;Auricular de llamada;Compatible;2,19;;;6
+PO-M45-FLX-COM;POCO;M4 5G;Flex de encendido y volumen;Compatible;2,15;;;6
+PO-M45-SIM-COM-NEG;POCO;M4 5G;Bandeja SIM;Negro (Power Black);2,49;;;6
+PO-M45-SIM-COM-AZU;POCO;M4 5G;Bandeja SIM;Azul (Cool Blue);2,49;;;6
+PO-M45-SIM-COM-AMA;POCO;M4 5G;Bandeja SIM;Amarillo (POCO Yellow);2,49;;;6
+PO-M5-PAN-ORI;POCO;M5;Pantalla;Original;23,75;23,04;22,33;12
+PO-M5-PAN-COM;POCO;M5;Pantalla;Compatible;12,50;12,13;11,75;6
+PO-M5-BAT-COM;POCO;M5;Batería;Compatible;8,15;;;6
+PO-M5-CON-COM;POCO;M5;Conector de carga;Compatible;2,90;;;6
+PO-M5-TAP-COM-NEG;POCO;M5;Tapa trasera;Negro;4,90;;;6
+PO-M5-TAP-COM-VER;POCO;M5;Tapa trasera;Verde;4,90;;;6
+PO-M5-TAP-COM-AMA;POCO;M5;Tapa trasera;Amarillo;4,90;;;6
+PO-M5-CTR-COM;POCO;M5;Cámara trasera;Compatible;5,09;;;6
+PO-M5-CFR-COM;POCO;M5;Cámara frontal;Compatible;2,89;;;6
+PO-M5-LEN-COM;POCO;M5;Lente de cámara;Compatible;1,95;;;6
+PO-M5-ALT-COM;POCO;M5;Altavoz;Compatible;3,05;;;6
+PO-M5-AUR-COM;POCO;M5;Auricular de llamada;Compatible;2,19;;;6
+PO-M5-FLX-COM;POCO;M5;Flex de encendido y volumen;Compatible;2,15;;;6
+PO-M5-SIM-COM-NEG;POCO;M5;Bandeja SIM;Negro;2,49;;;6
+PO-M5-SIM-COM-VER;POCO;M5;Bandeja SIM;Verde;2,49;;;6
+PO-M5-SIM-COM-AMA;POCO;M5;Bandeja SIM;Amarillo;2,49;;;6
+PO-M5S-PAN-ORI;POCO;M5s;Pantalla;Original;44,75;43,41;42,07;12
+PO-M5S-PAN-OLS;POCO;M5s;Pantalla;OLED Soft;31,75;30,80;29,85;6
+PO-M5S-PAN-OLH;POCO;M5s;Pantalla;OLED Hard;28,65;27,79;26,93;6
+PO-M5S-PAN-INC;POCO;M5s;Pantalla;Incell;14,25;13,82;13,40;6
+PO-M5S-BAT-COM;POCO;M5s;Batería;Compatible;8,15;;;6
+PO-M5S-CON-COM;POCO;M5s;Conector de carga;Compatible;2,90;;;6
+PO-M5S-TAP-COM-GRI;POCO;M5s;Tapa trasera;Gris;4,90;;;6
+PO-M5S-TAP-COM-BLA;POCO;M5s;Tapa trasera;Blanco;4,90;;;6
+PO-M5S-TAP-COM-AZU;POCO;M5s;Tapa trasera;Azul;4,90;;;6
+PO-M5S-TAP-COM-AMA;POCO;M5s;Tapa trasera;Amarillo;4,90;;;6
+PO-M5S-CTR-COM;POCO;M5s;Cámara trasera;Compatible;5,09;;;6
+PO-M5S-CFR-COM;POCO;M5s;Cámara frontal;Compatible;2,89;;;6
+PO-M5S-LEN-COM;POCO;M5s;Lente de cámara;Compatible;1,95;;;6
+PO-M5S-ALT-COM;POCO;M5s;Altavoz;Compatible;3,05;;;6
+PO-M5S-AUR-COM;POCO;M5s;Auricular de llamada;Compatible;2,19;;;6
+PO-M5S-FLX-COM;POCO;M5s;Flex de encendido y volumen;Compatible;2,15;;;6
+PO-M5S-SIM-COM-GRI;POCO;M5s;Bandeja SIM;Gris;2,49;;;6
+PO-M5S-SIM-COM-BLA;POCO;M5s;Bandeja SIM;Blanco;2,49;;;6
+PO-M5S-SIM-COM-AZU;POCO;M5s;Bandeja SIM;Azul;2,49;;;6
+PO-M5S-SIM-COM-AMA;POCO;M5s;Bandeja SIM;Amarillo;2,49;;;6
+PO-X55-PAN-ORI;POCO;X5 5G;Pantalla;Original;58,55;56,79;55,04;12
+PO-X55-PAN-OLS;POCO;X5 5G;Pantalla;OLED Soft;41,20;39,96;38,73;6
+PO-X55-PAN-OLH;POCO;X5 5G;Pantalla;OLED Hard;37,19;36,07;34,96;6
+PO-X55-PAN-INC;POCO;X5 5G;Pantalla;Incell;18,49;17,94;17,38;6
+PO-X55-BAT-COM;POCO;X5 5G;Batería;Compatible;10,15;9,85;9,54;6
+PO-X55-CON-COM;POCO;X5 5G;Conector de carga;Compatible;4,15;;;6
+PO-X55-TAP-COM-NEG;POCO;X5 5G;Tapa trasera;Negro;6,30;;;6
+PO-X55-TAP-COM-VER;POCO;X5 5G;Tapa trasera;Verde;6,30;;;6
+PO-X55-TAP-COM-AZU;POCO;X5 5G;Tapa trasera;Azul;6,30;;;6
+PO-X55-CTR-COM;POCO;X5 5G;Cámara trasera;Compatible;8,10;;;6
+PO-X55-CFR-COM;POCO;X5 5G;Cámara frontal;Compatible;4,45;;;6
+PO-X55-LEN-COM;POCO;X5 5G;Lente de cámara;Compatible;2,00;;;6
+PO-X55-ALT-COM;POCO;X5 5G;Altavoz;Compatible;3,35;;;6
+PO-X55-AUR-COM;POCO;X5 5G;Auricular de llamada;Compatible;2,35;;;6
+PO-X55-FLX-COM;POCO;X5 5G;Flex de encendido y volumen;Compatible;2,55;;;6
+PO-X55-SIM-COM-NEG;POCO;X5 5G;Bandeja SIM;Negro;2,30;;;6
+PO-X55-SIM-COM-VER;POCO;X5 5G;Bandeja SIM;Verde;2,30;;;6
+PO-X55-SIM-COM-AZU;POCO;X5 5G;Bandeja SIM;Azul;2,30;;;6
+PO-X5P5-PAN-ORI;POCO;X5 Pro 5G;Pantalla;Original;67,30;65,28;63,26;12
+PO-X5P5-PAN-OLS;POCO;X5 Pro 5G;Pantalla;OLED Soft;41,65;40,40;39,15;6
+PO-X5P5-PAN-OLH;POCO;X5 Pro 5G;Pantalla;OLED Hard;37,59;36,46;35,33;6
+PO-X5P5-PAN-INC;POCO;X5 Pro 5G;Pantalla;Incell;18,69;18,13;17,57;6
+PO-X5P5-BAT-COM;POCO;X5 Pro 5G;Batería;Compatible;10,90;10,57;10,25;6
+PO-X5P5-CON-COM;POCO;X5 Pro 5G;Conector de carga;Compatible;3,85;;;6
+PO-X5P5-TAP-COM-AMA;POCO;X5 Pro 5G;Tapa trasera;Amarillo;6,40;;;6
+PO-X5P5-TAP-COM-AZU;POCO;X5 Pro 5G;Tapa trasera;Azul;6,40;;;6
+PO-X5P5-TAP-COM-NEG;POCO;X5 Pro 5G;Tapa trasera;Negro;6,40;;;6
+PO-X5P5-CTR-COM;POCO;X5 Pro 5G;Cámara trasera;Compatible;9,85;;;6
+PO-X5P5-CFR-COM;POCO;X5 Pro 5G;Cámara frontal;Compatible;4,70;;;6
+PO-X5P5-LEN-COM;POCO;X5 Pro 5G;Lente de cámara;Compatible;2,39;;;6
+PO-X5P5-ALT-COM;POCO;X5 Pro 5G;Altavoz;Compatible;3,70;;;6
+PO-X5P5-AUR-COM;POCO;X5 Pro 5G;Auricular de llamada;Compatible;2,95;;;6
+PO-X5P5-FLX-COM;POCO;X5 Pro 5G;Flex de encendido y volumen;Compatible;3,30;;;6
+PO-X5P5-SIM-COM-AMA;POCO;X5 Pro 5G;Bandeja SIM;Amarillo;2,65;;;6
+PO-X5P5-SIM-COM-AZU;POCO;X5 Pro 5G;Bandeja SIM;Azul;2,65;;;6
+PO-X5P5-SIM-COM-NEG;POCO;X5 Pro 5G;Bandeja SIM;Negro;2,65;;;6
+PO-F5-PAN-ORI;POCO;F5;Pantalla;Original;67,30;65,28;63,26;12
+PO-F5-PAN-OLS;POCO;F5;Pantalla;OLED Soft;42,19;40,92;39,66;6
+PO-F5-PAN-OLH;POCO;F5;Pantalla;OLED Hard;38,05;36,91;35,77;6
+PO-F5-PAN-INC;POCO;F5;Pantalla;Incell;18,90;18,33;17,77;6
+PO-F5-BAT-COM;POCO;F5;Batería;Compatible;10,65;10,33;10,01;6
+PO-F5-CON-COM;POCO;F5;Conector de carga;Compatible;3,85;;;6
+PO-F5-TAP-COM-NEG;POCO;F5;Tapa trasera;Negro;6,25;;;6
+PO-F5-TAP-COM-BLA;POCO;F5;Tapa trasera;Blanco;6,25;;;6
+PO-F5-TAP-COM-AZU;POCO;F5;Tapa trasera;Azul;6,25;;;6
+PO-F5-CTR-COM;POCO;F5;Cámara trasera;Compatible;9,85;;;6
+PO-F5-CFR-COM;POCO;F5;Cámara frontal;Compatible;4,75;;;6
+PO-F5-LEN-COM;POCO;F5;Lente de cámara;Compatible;2,39;;;6
+PO-F5-ALT-COM;POCO;F5;Altavoz;Compatible;3,70;;;6
+PO-F5-AUR-COM;POCO;F5;Auricular de llamada;Compatible;2,95;;;6
+PO-F5-FLX-COM;POCO;F5;Flex de encendido y volumen;Compatible;3,30;;;6
+PO-F5-SIM-COM-NEG;POCO;F5;Bandeja SIM;Negro;2,65;;;6
+PO-F5-SIM-COM-BLA;POCO;F5;Bandeja SIM;Blanco;2,65;;;6
+PO-F5-SIM-COM-AZU;POCO;F5;Bandeja SIM;Azul;2,65;;;6
+PO-F5P-PAN-ORI;POCO;F5 Pro;Pantalla;Original;106,79;103,59;100,38;12
+PO-F5P-PAN-OLS;POCO;F5 Pro;Pantalla;OLED Soft;61,59;59,74;57,89;6
+PO-F5P-PAN-OLH;POCO;F5 Pro;Pantalla;OLED Hard;55,55;53,88;52,22;6
+PO-F5P-PAN-INC;POCO;F5 Pro;Pantalla;Incell;27,60;26,77;25,94;6
+PO-F5P-BAT-COM;POCO;F5 Pro;Batería;Compatible;10,65;10,33;10,01;6
+PO-F5P-CON-COM;POCO;F5 Pro;Conector de carga;Compatible;5,19;;;6
+PO-F5P-TAP-COM-BLA;POCO;F5 Pro;Tapa trasera;Blanco;7,70;;;6
+PO-F5P-TAP-COM-NEG;POCO;F5 Pro;Tapa trasera;Negro;7,70;;;6
+PO-F5P-CTR-COM;POCO;F5 Pro;Cámara trasera;Compatible;12,35;11,98;11,61;6
+PO-F5P-CFR-COM;POCO;F5 Pro;Cámara frontal;Compatible;5,95;;;6
+PO-F5P-LEN-COM;POCO;F5 Pro;Lente de cámara;Compatible;2,75;;;6
+PO-F5P-ALT-COM;POCO;F5 Pro;Altavoz;Compatible;4,25;;;6
+PO-F5P-AUR-COM;POCO;F5 Pro;Auricular de llamada;Compatible;3,20;;;6
+PO-F5P-FLX-COM;POCO;F5 Pro;Flex de encendido y volumen;Compatible;3,59;;;6
+PO-F5P-SIM-COM-BLA;POCO;F5 Pro;Bandeja SIM;Blanco;2,89;;;6
+PO-F5P-SIM-COM-NEG;POCO;F5 Pro;Bandeja SIM;Negro;2,89;;;6
+PO-C65-PAN-ORI;POCO;C65;Pantalla;Original;24,55;23,81;23,08;12
+PO-C65-PAN-COM;POCO;C65;Pantalla;Compatible;13,30;12,90;12,50;6
+PO-C65-BAT-COM;POCO;C65;Batería;Compatible;9,30;;;6
+PO-C65-CON-COM;POCO;C65;Conector de carga;Compatible;3,35;;;6
+PO-C65-TAP-COM-NEG;POCO;C65;Tapa trasera;Negro;5,50;;;6
+PO-C65-TAP-COM-AZU;POCO;C65;Tapa trasera;Azul;5,50;;;6
+PO-C65-TAP-COM-PUR;POCO;C65;Tapa trasera;Púrpura;5,50;;;6
+PO-C65-CTR-COM;POCO;C65;Cámara trasera;Compatible;7,10;;;6
+PO-C65-CFR-COM;POCO;C65;Cámara frontal;Compatible;4,20;;;6
+PO-C65-LEN-COM;POCO;C65;Lente de cámara;Compatible;2,05;;;6
+PO-C65-ALT-COM;POCO;C65;Altavoz;Compatible;3,30;;;6
+PO-C65-AUR-COM;POCO;C65;Auricular de llamada;Compatible;2,39;;;6
+PO-C65-FLX-COM;POCO;C65;Flex de encendido y volumen;Compatible;2,60;;;6
+PO-C65-SIM-COM-NEG;POCO;C65;Bandeja SIM;Negro;2,45;;;6
+PO-C65-SIM-COM-AZU;POCO;C65;Bandeja SIM;Azul;2,45;;;6
+PO-C65-SIM-COM-PUR;POCO;C65;Bandeja SIM;Púrpura;2,45;;;6
+PO-M6P-PAN-ORI;POCO;M6 Pro;Pantalla;Original;58,55;56,79;55,04;12
+PO-M6P-PAN-OLS;POCO;M6 Pro;Pantalla;OLED Soft;41,75;40,50;39,24;6
+PO-M6P-PAN-OLH;POCO;M6 Pro;Pantalla;OLED Hard;37,65;36,52;35,39;6
+PO-M6P-PAN-INC;POCO;M6 Pro;Pantalla;Incell;18,70;18,14;17,58;6
+PO-M6P-BAT-COM;POCO;M6 Pro;Batería;Compatible;10,09;9,79;9,48;6
+PO-M6P-CON-COM;POCO;M6 Pro;Conector de carga;Compatible;4,15;;;6
+PO-M6P-TAP-COM-NEG;POCO;M6 Pro;Tapa trasera;Negro;6,19;;;6
+PO-M6P-TAP-COM-AZU;POCO;M6 Pro;Tapa trasera;Azul;6,19;;;6
+PO-M6P-TAP-COM-PUR;POCO;M6 Pro;Tapa trasera;Púrpura;6,19;;;6
+PO-M6P-CTR-COM;POCO;M6 Pro;Cámara trasera;Compatible;8,10;;;6
+PO-M6P-CFR-COM;POCO;M6 Pro;Cámara frontal;Compatible;4,50;;;6
+PO-M6P-LEN-COM;POCO;M6 Pro;Lente de cámara;Compatible;2,00;;;6
+PO-M6P-ALT-COM;POCO;M6 Pro;Altavoz;Compatible;3,35;;;6
+PO-M6P-AUR-COM;POCO;M6 Pro;Auricular de llamada;Compatible;2,35;;;6
+PO-M6P-FLX-COM;POCO;M6 Pro;Flex de encendido y volumen;Compatible;2,55;;;6
+PO-M6P-SIM-COM-NEG;POCO;M6 Pro;Bandeja SIM;Negro;2,30;;;6
+PO-M6P-SIM-COM-AZU;POCO;M6 Pro;Bandeja SIM;Azul;2,30;;;6
+PO-M6P-SIM-COM-PUR;POCO;M6 Pro;Bandeja SIM;Púrpura;2,30;;;6
+PO-X65-PAN-ORI;POCO;X6 5G;Pantalla;Original;58,55;56,79;55,04;12
+PO-X65-PAN-OLS;POCO;X6 5G;Pantalla;OLED Soft;41,20;39,96;38,73;6
+PO-X65-PAN-OLH;POCO;X6 5G;Pantalla;OLED Hard;37,19;36,07;34,96;6
+PO-X65-PAN-INC;POCO;X6 5G;Pantalla;Incell;18,49;17,94;17,38;6
+PO-X65-BAT-COM;POCO;X6 5G;Batería;Compatible;10,15;9,85;9,54;6
+PO-X65-CON-COM;POCO;X6 5G;Conector de carga;Compatible;4,15;;;6
+PO-X65-TAP-COM-NEG;POCO;X6 5G;Tapa trasera;Negro;6,30;;;6
+PO-X65-TAP-COM-BLA;POCO;X6 5G;Tapa trasera;Blanco;6,30;;;6
+PO-X65-TAP-COM-AZU;POCO;X6 5G;Tapa trasera;Azul;6,30;;;6
+PO-X65-CTR-COM;POCO;X6 5G;Cámara trasera;Compatible;8,10;;;6
+PO-X65-CFR-COM;POCO;X6 5G;Cámara frontal;Compatible;4,45;;;6
+PO-X65-LEN-COM;POCO;X6 5G;Lente de cámara;Compatible;2,00;;;6
+PO-X65-ALT-COM;POCO;X6 5G;Altavoz;Compatible;3,35;;;6
+PO-X65-AUR-COM;POCO;X6 5G;Auricular de llamada;Compatible;2,35;;;6
+PO-X65-FLX-COM;POCO;X6 5G;Flex de encendido y volumen;Compatible;2,55;;;6
+PO-X65-SIM-COM-NEG;POCO;X6 5G;Bandeja SIM;Negro;2,30;;;6
+PO-X65-SIM-COM-BLA;POCO;X6 5G;Bandeja SIM;Blanco;2,30;;;6
+PO-X65-SIM-COM-AZU;POCO;X6 5G;Bandeja SIM;Azul;2,30;;;6
+PO-X6P5-PAN-ORI;POCO;X6 Pro 5G;Pantalla;Original;67,30;65,28;63,26;12
+PO-X6P5-PAN-OLS;POCO;X6 Pro 5G;Pantalla;OLED Soft;41,65;40,40;39,15;6
+PO-X6P5-PAN-OLH;POCO;X6 Pro 5G;Pantalla;OLED Hard;37,59;36,46;35,33;6
+PO-X6P5-PAN-INC;POCO;X6 Pro 5G;Pantalla;Incell;18,69;18,13;17,57;6
+PO-X6P5-BAT-COM;POCO;X6 Pro 5G;Batería;Compatible;10,90;10,57;10,25;6
+PO-X6P5-CON-COM;POCO;X6 Pro 5G;Conector de carga;Compatible;3,85;;;6
+PO-X6P5-TAP-COM-NEG;POCO;X6 Pro 5G;Tapa trasera;Negro;6,40;;;6
+PO-X6P5-TAP-COM-AMA;POCO;X6 Pro 5G;Tapa trasera;Amarillo;6,40;;;6
+PO-X6P5-TAP-COM-GRI;POCO;X6 Pro 5G;Tapa trasera;Gris;6,40;;;6
+PO-X6P5-CTR-COM;POCO;X6 Pro 5G;Cámara trasera;Compatible;9,85;;;6
+PO-X6P5-CFR-COM;POCO;X6 Pro 5G;Cámara frontal;Compatible;4,70;;;6
+PO-X6P5-LEN-COM;POCO;X6 Pro 5G;Lente de cámara;Compatible;2,39;;;6
+PO-X6P5-ALT-COM;POCO;X6 Pro 5G;Altavoz;Compatible;3,70;;;6
+PO-X6P5-AUR-COM;POCO;X6 Pro 5G;Auricular de llamada;Compatible;2,95;;;6
+PO-X6P5-FLX-COM;POCO;X6 Pro 5G;Flex de encendido y volumen;Compatible;3,30;;;6
+PO-X6P5-SIM-COM-NEG;POCO;X6 Pro 5G;Bandeja SIM;Negro;2,65;;;6
+PO-X6P5-SIM-COM-AMA;POCO;X6 Pro 5G;Bandeja SIM;Amarillo;2,65;;;6
+PO-X6P5-SIM-COM-GRI;POCO;X6 Pro 5G;Bandeja SIM;Gris;2,65;;;6
+PO-F6-PAN-ORI;POCO;F6;Pantalla;Original;67,30;65,28;63,26;12
+PO-F6-PAN-OLS;POCO;F6;Pantalla;OLED Soft;42,19;40,92;39,66;6
+PO-F6-PAN-OLH;POCO;F6;Pantalla;OLED Hard;38,05;36,91;35,77;6
+PO-F6-PAN-INC;POCO;F6;Pantalla;Incell;18,90;18,33;17,77;6
+PO-F6-BAT-COM;POCO;F6;Batería;Compatible;10,65;10,33;10,01;6
+PO-F6-CON-COM;POCO;F6;Conector de carga;Compatible;3,85;;;6
+PO-F6-TAP-COM-NEG;POCO;F6;Tapa trasera;Negro;6,25;;;6
+PO-F6-TAP-COM-VER;POCO;F6;Tapa trasera;Verde;6,25;;;6
+PO-F6-TAP-COM-COL;POCO;F6;Tapa trasera;Color titanio;6,25;;;6
+PO-F6-CTR-COM;POCO;F6;Cámara trasera;Compatible;9,85;;;6
+PO-F6-CFR-COM;POCO;F6;Cámara frontal;Compatible;4,75;;;6
+PO-F6-LEN-COM;POCO;F6;Lente de cámara;Compatible;2,39;;;6
+PO-F6-ALT-COM;POCO;F6;Altavoz;Compatible;3,70;;;6
+PO-F6-AUR-COM;POCO;F6;Auricular de llamada;Compatible;2,95;;;6
+PO-F6-FLX-COM;POCO;F6;Flex de encendido y volumen;Compatible;3,30;;;6
+PO-F6-SIM-COM-NEG;POCO;F6;Bandeja SIM;Negro;2,65;;;6
+PO-F6-SIM-COM-VER;POCO;F6;Bandeja SIM;Verde;2,65;;;6
+PO-F6-SIM-COM-COL;POCO;F6;Bandeja SIM;Color titanio;2,65;;;6
+PO-F6P-PAN-ORI;POCO;F6 Pro;Pantalla;Original;106,79;103,59;100,38;12
+PO-F6P-PAN-OLS;POCO;F6 Pro;Pantalla;OLED Soft;61,59;59,74;57,89;6
+PO-F6P-PAN-OLH;POCO;F6 Pro;Pantalla;OLED Hard;55,55;53,88;52,22;6
+PO-F6P-PAN-INC;POCO;F6 Pro;Pantalla;Incell;27,60;26,77;25,94;6
+PO-F6P-BAT-COM;POCO;F6 Pro;Batería;Compatible;10,65;10,33;10,01;6
+PO-F6P-CON-COM;POCO;F6 Pro;Conector de carga;Compatible;5,19;;;6
+PO-F6P-TAP-COM-BLA;POCO;F6 Pro;Tapa trasera;Blanco;7,70;;;6
+PO-F6P-TAP-COM-NEG;POCO;F6 Pro;Tapa trasera;Negro;7,70;;;6
+PO-F6P-CTR-COM;POCO;F6 Pro;Cámara trasera;Compatible;12,35;11,98;11,61;6
+PO-F6P-CFR-COM;POCO;F6 Pro;Cámara frontal;Compatible;5,95;;;6
+PO-F6P-LEN-COM;POCO;F6 Pro;Lente de cámara;Compatible;2,75;;;6
+PO-F6P-ALT-COM;POCO;F6 Pro;Altavoz;Compatible;4,25;;;6
+PO-F6P-AUR-COM;POCO;F6 Pro;Auricular de llamada;Compatible;3,20;;;6
+PO-F6P-FLX-COM;POCO;F6 Pro;Flex de encendido y volumen;Compatible;3,59;;;6
+PO-F6P-SIM-COM-BLA;POCO;F6 Pro;Bandeja SIM;Blanco;2,89;;;6
+PO-F6P-SIM-COM-NEG;POCO;F6 Pro;Bandeja SIM;Negro;2,89;;;6
+PO-M6-PAN-ORI;POCO;M6;Pantalla;Original;24,55;23,81;23,08;12
+PO-M6-PAN-COM;POCO;M6;Pantalla;Compatible;13,30;12,90;12,50;6
+PO-M6-BAT-COM;POCO;M6;Batería;Compatible;9,30;;;6
+PO-M6-CON-COM;POCO;M6;Conector de carga;Compatible;3,35;;;6
+PO-M6-TAP-COM-NEG;POCO;M6;Tapa trasera;Negro;5,50;;;6
+PO-M6-TAP-COM-PUR;POCO;M6;Tapa trasera;Púrpura;5,50;;;6
+PO-M6-TAP-COM-PLA;POCO;M6;Tapa trasera;Plata;5,50;;;6
+PO-M6-CTR-COM;POCO;M6;Cámara trasera;Compatible;7,10;;;6
+PO-M6-CFR-COM;POCO;M6;Cámara frontal;Compatible;4,20;;;6
+PO-M6-LEN-COM;POCO;M6;Lente de cámara;Compatible;2,05;;;6
+PO-M6-ALT-COM;POCO;M6;Altavoz;Compatible;3,30;;;6
+PO-M6-AUR-COM;POCO;M6;Auricular de llamada;Compatible;2,39;;;6
+PO-M6-FLX-COM;POCO;M6;Flex de encendido y volumen;Compatible;2,60;;;6
+PO-M6-SIM-COM-NEG;POCO;M6;Bandeja SIM;Negro;2,45;;;6
+PO-M6-SIM-COM-PUR;POCO;M6;Bandeja SIM;Púrpura;2,45;;;6
+PO-M6-SIM-COM-PLA;POCO;M6;Bandeja SIM;Plata;2,45;;;6
+PO-C75-PAN-ORI;POCO;C75;Pantalla;Original;24,55;23,81;23,08;12
+PO-C75-PAN-COM;POCO;C75;Pantalla;Compatible;13,30;12,90;12,50;6
+PO-C75-BAT-COM;POCO;C75;Batería;Compatible;9,30;;;6
+PO-C75-CON-COM;POCO;C75;Conector de carga;Compatible;3,35;;;6
+PO-C75-TAP-COM-NEG;POCO;C75;Tapa trasera;Negro;5,50;;;6
+PO-C75-TAP-COM-DOR;POCO;C75;Tapa trasera;Dorado;5,50;;;6
+PO-C75-TAP-COM-VER;POCO;C75;Tapa trasera;Verde;5,50;;;6
+PO-C75-CTR-COM;POCO;C75;Cámara trasera;Compatible;7,10;;;6
+PO-C75-CFR-COM;POCO;C75;Cámara frontal;Compatible;4,20;;;6
+PO-C75-LEN-COM;POCO;C75;Lente de cámara;Compatible;2,05;;;6
+PO-C75-ALT-COM;POCO;C75;Altavoz;Compatible;3,30;;;6
+PO-C75-AUR-COM;POCO;C75;Auricular de llamada;Compatible;2,39;;;6
+PO-C75-FLX-COM;POCO;C75;Flex de encendido y volumen;Compatible;2,60;;;6
+PO-C75-SIM-COM-NEG;POCO;C75;Bandeja SIM;Negro;2,45;;;6
+PO-C75-SIM-COM-DOR;POCO;C75;Bandeja SIM;Dorado;2,45;;;6
+PO-C75-SIM-COM-VER;POCO;C75;Bandeja SIM;Verde;2,45;;;6
+PO-M7P5-PAN-ORI;POCO;M7 Pro 5G;Pantalla;Original;58,55;56,79;55,04;12
+PO-M7P5-PAN-OLS;POCO;M7 Pro 5G;Pantalla;OLED Soft;41,75;40,50;39,24;6
+PO-M7P5-PAN-OLH;POCO;M7 Pro 5G;Pantalla;OLED Hard;37,65;36,52;35,39;6
+PO-M7P5-PAN-INC;POCO;M7 Pro 5G;Pantalla;Incell;18,70;18,14;17,58;6
+PO-M7P5-BAT-COM;POCO;M7 Pro 5G;Batería;Compatible;10,09;9,79;9,48;6
+PO-M7P5-CON-COM;POCO;M7 Pro 5G;Conector de carga;Compatible;4,15;;;6
+PO-M7P5-TAP-COM-NEG;POCO;M7 Pro 5G;Tapa trasera;Negro;6,19;;;6
+PO-M7P5-TAP-COM-MOR;POCO;M7 Pro 5G;Tapa trasera;Morado;6,19;;;6
+PO-M7P5-TAP-COM-PLA;POCO;M7 Pro 5G;Tapa trasera;Plata;6,19;;;6
+PO-M7P5-TAP-COM-VER;POCO;M7 Pro 5G;Tapa trasera;Verde;6,19;;;6
+PO-M7P5-CTR-COM;POCO;M7 Pro 5G;Cámara trasera;Compatible;9,15;;;6
+PO-M7P5-CFR-COM;POCO;M7 Pro 5G;Cámara frontal;Compatible;4,50;;;6
+PO-M7P5-LEN-COM;POCO;M7 Pro 5G;Lente de cámara;Compatible;2,00;;;6
+PO-M7P5-ALT-COM;POCO;M7 Pro 5G;Altavoz;Compatible;3,35;;;6
+PO-M7P5-AUR-COM;POCO;M7 Pro 5G;Auricular de llamada;Compatible;2,35;;;6
+PO-M7P5-FLX-COM;POCO;M7 Pro 5G;Flex de encendido y volumen;Compatible;2,55;;;6
+PO-M7P5-SIM-COM-NEG;POCO;M7 Pro 5G;Bandeja SIM;Negro;2,30;;;6
+PO-M7P5-SIM-COM-MOR;POCO;M7 Pro 5G;Bandeja SIM;Morado;2,30;;;6
+PO-M7P5-SIM-COM-PLA;POCO;M7 Pro 5G;Bandeja SIM;Plata;2,30;;;6
+PO-M7P5-SIM-COM-VER;POCO;M7 Pro 5G;Bandeja SIM;Verde;2,30;;;6
+PO-X7-PAN-ORI;POCO;X7;Pantalla;Original;60,85;59,02;57,20;12
+PO-X7-PAN-OLS;POCO;X7;Pantalla;OLED Soft;42,80;41,52;40,23;6
+PO-X7-PAN-OLH;POCO;X7;Pantalla;OLED Hard;36,10;35,02;33,93;6
+PO-X7-PAN-INC;POCO;X7;Pantalla;Incell;19,20;18,62;18,05;6
+PO-X7-BAT-COM;POCO;X7;Batería;Compatible;9,35;;;6
+PO-X7-CON-COM;POCO;X7;Conector de carga;Compatible;4,95;;;6
+PO-X7-TAP-COM-PLA;POCO;X7;Tapa trasera;Plata;7,40;;;6
+PO-X7-TAP-COM-VER;POCO;X7;Tapa trasera;Verde;7,40;;;6
+PO-X7-TAP-COM-NEG;POCO;X7;Tapa trasera;Negro;7,40;;;6
+PO-X7-CTR-COM;POCO;X7;Cámara trasera;Compatible;11,10;10,77;10,43;6
+PO-X7-CFR-COM;POCO;X7;Cámara frontal;Compatible;5,50;;;6
+PO-X7-LEN-COM;POCO;X7;Lente de cámara;Compatible;2,55;;;6
+PO-X7-ALT-COM;POCO;X7;Altavoz;Compatible;4,45;;;6
+PO-X7-AUR-COM;POCO;X7;Auricular de llamada;Compatible;3,35;;;6
+PO-X7-FLX-COM;POCO;X7;Flex de encendido y volumen;Compatible;2,79;;;6
+PO-X7-SIM-COM-PLA;POCO;X7;Bandeja SIM;Plata;2,75;;;6
+PO-X7-SIM-COM-VER;POCO;X7;Bandeja SIM;Verde;2,75;;;6
+PO-X7-SIM-COM-NEG;POCO;X7;Bandeja SIM;Negro;2,75;;;6
+PO-X7P-PAN-ORI;POCO;X7 Pro;Pantalla;Original;69,99;67,89;65,79;12
+PO-X7P-PAN-OLS;POCO;X7 Pro;Pantalla;OLED Soft;43,89;42,57;41,26;6
+PO-X7P-PAN-OLH;POCO;X7 Pro;Pantalla;OLED Hard;39,59;38,40;37,21;6
+PO-X7P-PAN-INC;POCO;X7 Pro;Pantalla;Incell;19,69;19,10;18,51;6
+PO-X7P-BAT-COM;POCO;X7 Pro;Batería;Compatible;10,30;9,99;9,68;6
+PO-X7P-CON-COM;POCO;X7 Pro;Conector de carga;Compatible;4,60;;;6
+PO-X7P-TAP-COM-NEG;POCO;X7 Pro;Tapa trasera;Negro;7,40;;;6
+PO-X7P-TAP-COM-VER;POCO;X7 Pro;Tapa trasera;Verde;7,40;;;6
+PO-X7P-TAP-COM-AMA;POCO;X7 Pro;Tapa trasera;Amarillo;7,40;;;6
+PO-X7P-CTR-COM;POCO;X7 Pro;Cámara trasera;Compatible;13,49;13,09;12,68;6
+PO-X7P-CFR-COM;POCO;X7 Pro;Cámara frontal;Compatible;6,55;;;6
+PO-X7P-LEN-COM;POCO;X7 Pro;Lente de cámara;Compatible;3,05;;;6
+PO-X7P-ALT-COM;POCO;X7 Pro;Altavoz;Compatible;4,90;;;6
+PO-X7P-AUR-COM;POCO;X7 Pro;Auricular de llamada;Compatible;4,15;;;6
+PO-X7P-FLX-COM;POCO;X7 Pro;Flex de encendido y volumen;Compatible;3,60;;;6
+PO-X7P-SIM-COM-NEG;POCO;X7 Pro;Bandeja SIM;Negro;3,15;;;6
+PO-X7P-SIM-COM-VER;POCO;X7 Pro;Bandeja SIM;Verde;3,15;;;6
+PO-X7P-SIM-COM-AMA;POCO;X7 Pro;Bandeja SIM;Amarillo;3,15;;;6
+PO-F7P-PAN-ORI;POCO;F7 Pro;Pantalla;Original;111,00;107,67;104,34;12
+PO-F7P-PAN-OLS;POCO;F7 Pro;Pantalla;OLED Soft;64,85;62,90;60,96;6
+PO-F7P-PAN-OLH;POCO;F7 Pro;Pantalla;OLED Hard;58,55;56,79;55,04;6
+PO-F7P-PAN-INC;POCO;F7 Pro;Pantalla;Incell;29,09;28,22;27,34;6
+PO-F7P-BAT-COM;POCO;F7 Pro;Batería;Compatible;9,95;;;6
+PO-F7P-CON-COM;POCO;F7 Pro;Conector de carga;Compatible;6,19;;;6
+PO-F7P-TAP-COM-AZU;POCO;F7 Pro;Tapa trasera;Azul;8,25;;;6
+PO-F7P-TAP-COM-PLA;POCO;F7 Pro;Tapa trasera;Plata;8,25;;;6
+PO-F7P-TAP-COM-NEG;POCO;F7 Pro;Tapa trasera;Negro;8,25;;;6
+PO-F7P-CTR-COM;POCO;F7 Pro;Cámara trasera;Compatible;16,89;16,38;15,88;6
+PO-F7P-CFR-COM;POCO;F7 Pro;Cámara frontal;Compatible;8,30;;;6
+PO-F7P-LEN-COM;POCO;F7 Pro;Lente de cámara;Compatible;3,55;;;6
+PO-F7P-ALT-COM;POCO;F7 Pro;Altavoz;Compatible;5,60;;;6
+PO-F7P-AUR-COM;POCO;F7 Pro;Auricular de llamada;Compatible;4,55;;;6
+PO-F7P-FLX-COM;POCO;F7 Pro;Flex de encendido y volumen;Compatible;3,95;;;6
+PO-F7P-SIM-COM-AZU;POCO;F7 Pro;Bandeja SIM;Azul;3,40;;;6
+PO-F7P-SIM-COM-PLA;POCO;F7 Pro;Bandeja SIM;Plata;3,40;;;6
+PO-F7P-SIM-COM-NEG;POCO;F7 Pro;Bandeja SIM;Negro;3,40;;;6
+PO-F7U-PAN-ORI;POCO;F7 Ultra;Pantalla;Original;149,45;144,97;140,48;12
+PO-F7U-PAN-OLS;POCO;F7 Ultra;Pantalla;OLED Soft;71,35;69,21;67,07;6
+PO-F7U-PAN-OLH;POCO;F7 Ultra;Pantalla;OLED Hard;64,39;62,46;60,53;6
+PO-F7U-PAN-INC;POCO;F7 Ultra;Pantalla;Incell;32,00;31,04;30,08;6
+PO-F7U-BAT-COM;POCO;F7 Ultra;Batería;Compatible;9,95;;;6
+PO-F7U-CON-COM;POCO;F7 Ultra;Conector de carga;Compatible;6,19;;;6
+PO-F7U-TAP-COM-NEG;POCO;F7 Ultra;Tapa trasera;Negro;8,25;;;6
+PO-F7U-TAP-COM-AMA;POCO;F7 Ultra;Tapa trasera;Amarillo;8,25;;;6
+PO-F7U-CTR-COM;POCO;F7 Ultra;Cámara trasera;Compatible;16,89;16,38;15,88;6
+PO-F7U-CFR-COM;POCO;F7 Ultra;Cámara frontal;Compatible;8,30;;;6
+PO-F7U-LEN-COM;POCO;F7 Ultra;Lente de cámara;Compatible;3,55;;;6
+PO-F7U-ALT-COM;POCO;F7 Ultra;Altavoz;Compatible;5,60;;;6
+PO-F7U-AUR-COM;POCO;F7 Ultra;Auricular de llamada;Compatible;4,55;;;6
+PO-F7U-FLX-COM;POCO;F7 Ultra;Flex de encendido y volumen;Compatible;3,95;;;6
+PO-F7U-SIM-COM-NEG;POCO;F7 Ultra;Bandeja SIM;Negro;3,40;;;6
+PO-F7U-SIM-COM-AMA;POCO;F7 Ultra;Bandeja SIM;Amarillo;3,40;;;6
+PO-F7-PAN-ORI;POCO;F7;Pantalla;Original;69,99;67,89;65,79;12
+PO-F7-PAN-OLS;POCO;F7;Pantalla;OLED Soft;44,45;43,12;41,78;6
+PO-F7-PAN-OLH;POCO;F7;Pantalla;OLED Hard;40,10;38,90;37,69;6
+PO-F7-PAN-INC;POCO;F7;Pantalla;Incell;19,95;19,35;18,75;6
+PO-F7-BAT-COM;POCO;F7;Batería;Compatible;9,95;;;6
+PO-F7-CON-COM;POCO;F7;Conector de carga;Compatible;4,60;;;6
+PO-F7-TAP-COM-BLA;POCO;F7;Tapa trasera;Blanco;6,70;;;6
+PO-F7-TAP-COM-NEG;POCO;F7;Tapa trasera;Negro;6,70;;;6
+PO-F7-TAP-COM-PLA;POCO;F7;Tapa trasera;Plata;6,70;;;6
+PO-F7-CTR-COM;POCO;F7;Cámara trasera;Compatible;13,49;13,09;12,68;6
+PO-F7-CFR-COM;POCO;F7;Cámara frontal;Compatible;6,65;;;6
+PO-F7-LEN-COM;POCO;F7;Lente de cámara;Compatible;3,05;;;6
+PO-F7-ALT-COM;POCO;F7;Altavoz;Compatible;4,90;;;6
+PO-F7-AUR-COM;POCO;F7;Auricular de llamada;Compatible;4,15;;;6
+PO-F7-FLX-COM;POCO;F7;Flex de encendido y volumen;Compatible;3,60;;;6
+PO-F7-SIM-COM-BLA;POCO;F7;Bandeja SIM;Blanco;3,15;;;6
+PO-F7-SIM-COM-NEG;POCO;F7;Bandeja SIM;Negro;3,15;;;6
+PO-F7-SIM-COM-PLA;POCO;F7;Bandeja SIM;Plata;3,15;;;6
+PO-M7-PAN-ORI;POCO;M7;Pantalla;Original;25,50;24,74;23,97;12
+PO-M7-PAN-COM;POCO;M7;Pantalla;Compatible;14,00;13,58;13,16;6
+PO-M7-BAT-COM;POCO;M7;Batería;Compatible;8,80;;;6
+PO-M7-CON-COM;POCO;M7;Conector de carga;Compatible;3,95;;;6
+PO-M7-TAP-COM-NEG;POCO;M7;Tapa trasera;Negro;5,90;;;6
+PO-M7-TAP-COM-AZU;POCO;M7;Tapa trasera;Azul;5,90;;;6
+PO-M7-TAP-COM-PLA;POCO;M7;Tapa trasera;Plata;5,90;;;6
+PO-M7-CTR-COM;POCO;M7;Cámara trasera;Compatible;9,15;;;6
+PO-M7-CFR-COM;POCO;M7;Cámara frontal;Compatible;5,89;;;6
+PO-M7-LEN-COM;POCO;M7;Lente de cámara;Compatible;2,65;;;6
+PO-M7-ALT-COM;POCO;M7;Altavoz;Compatible;4,35;;;6
+PO-M7-AUR-COM;POCO;M7;Auricular de llamada;Compatible;3,35;;;6
+PO-M7-FLX-COM;POCO;M7;Flex de encendido y volumen;Compatible;2,85;;;6
+PO-M7-SIM-COM-NEG;POCO;M7;Bandeja SIM;Negro;2,89;;;6
+PO-M7-SIM-COM-AZU;POCO;M7;Bandeja SIM;Azul;2,89;;;6
+PO-M7-SIM-COM-PLA;POCO;M7;Bandeja SIM;Plata;2,89;;;6
+PO-C85-PAN-ORI;POCO;C85;Pantalla;Original;25,50;24,74;23,97;12
+PO-C85-PAN-COM;POCO;C85;Pantalla;Compatible;14,00;13,58;13,16;6
+PO-C85-BAT-COM;POCO;C85;Batería;Compatible;8,80;;;6
+PO-C85-CON-COM;POCO;C85;Conector de carga;Compatible;3,95;;;6
+PO-C85-TAP-COM-NEG;POCO;C85;Tapa trasera;Negro;5,90;;;6
+PO-C85-TAP-COM-MOR;POCO;C85;Tapa trasera;Morado;5,90;;;6
+PO-C85-TAP-COM-VER;POCO;C85;Tapa trasera;Verde;5,90;;;6
+PO-C85-CTR-COM;POCO;C85;Cámara trasera;Compatible;9,75;;;6
+PO-C85-CFR-COM;POCO;C85;Cámara frontal;Compatible;5,89;;;6
+PO-C85-LEN-COM;POCO;C85;Lente de cámara;Compatible;2,65;;;6
+PO-C85-ALT-COM;POCO;C85;Altavoz;Compatible;4,35;;;6
+PO-C85-AUR-COM;POCO;C85;Auricular de llamada;Compatible;3,35;;;6
+PO-C85-FLX-COM;POCO;C85;Flex de encendido y volumen;Compatible;2,85;;;6
+PO-C85-SIM-COM-NEG;POCO;C85;Bandeja SIM;Negro;2,89;;;6
+PO-C85-SIM-COM-MOR;POCO;C85;Bandeja SIM;Morado;2,89;;;6
+PO-C85-SIM-COM-VER;POCO;C85;Bandeja SIM;Verde;2,89;;;6
+PO-F8P-PAN-ORI;POCO;F8 Pro;Pantalla;Original;111,00;107,67;104,34;12
+PO-F8P-PAN-OLS;POCO;F8 Pro;Pantalla;OLED Soft;64,85;62,90;60,96;6
+PO-F8P-PAN-OLH;POCO;F8 Pro;Pantalla;OLED Hard;58,55;56,79;55,04;6
+PO-F8P-PAN-INC;POCO;F8 Pro;Pantalla;Incell;29,09;28,22;27,34;6
+PO-F8P-BAT-COM;POCO;F8 Pro;Batería;Compatible;9,80;;;6
+PO-F8P-CON-COM;POCO;F8 Pro;Conector de carga;Compatible;6,19;;;6
+PO-F8P-TAP-COM-NEG;POCO;F8 Pro;Tapa trasera;Negro;8,25;;;6
+PO-F8P-TAP-COM-PLA;POCO;F8 Pro;Tapa trasera;Plateado titanio;8,25;;;6
+PO-F8P-TAP-COM-AZU;POCO;F8 Pro;Tapa trasera;Azul;8,25;;;6
+PO-F8P-CTR-COM;POCO;F8 Pro;Cámara trasera;Compatible;16,89;16,38;15,88;6
+PO-F8P-CFR-COM;POCO;F8 Pro;Cámara frontal;Compatible;8,30;;;6
+PO-F8P-LEN-COM;POCO;F8 Pro;Lente de cámara;Compatible;3,55;;;6
+PO-F8P-ALT-COM;POCO;F8 Pro;Altavoz;Compatible;5,60;;;6
+PO-F8P-AUR-COM;POCO;F8 Pro;Auricular de llamada;Compatible;4,55;;;6
+PO-F8P-FLX-COM;POCO;F8 Pro;Flex de encendido y volumen;Compatible;3,95;;;6
+PO-F8P-SIM-COM-NEG;POCO;F8 Pro;Bandeja SIM;Negro;3,40;;;6
+PO-F8P-SIM-COM-PLA;POCO;F8 Pro;Bandeja SIM;Plateado titanio;3,40;;;6
+PO-F8P-SIM-COM-AZU;POCO;F8 Pro;Bandeja SIM;Azul;3,40;;;6
+PO-F8U-PAN-ORI;POCO;F8 Ultra;Pantalla;Original;149,45;144,97;140,48;12
+PO-F8U-PAN-OLS;POCO;F8 Ultra;Pantalla;OLED Soft;71,35;69,21;67,07;6
+PO-F8U-PAN-OLH;POCO;F8 Ultra;Pantalla;OLED Hard;64,39;62,46;60,53;6
+PO-F8U-PAN-INC;POCO;F8 Ultra;Pantalla;Incell;32,00;31,04;30,08;6
+PO-F8U-BAT-COM;POCO;F8 Ultra;Batería;Compatible;9,80;;;6
+PO-F8U-CON-COM;POCO;F8 Ultra;Conector de carga;Compatible;6,19;;;6
+PO-F8U-TAP-COM-AZU;POCO;F8 Ultra;Tapa trasera;Azul (Denim Blue);8,25;;;6
+PO-F8U-TAP-COM-NEG;POCO;F8 Ultra;Tapa trasera;Negro;8,25;;;6
+PO-F8U-CTR-COM;POCO;F8 Ultra;Cámara trasera;Compatible;16,89;16,38;15,88;6
+PO-F8U-CFR-COM;POCO;F8 Ultra;Cámara frontal;Compatible;8,30;;;6
+PO-F8U-LEN-COM;POCO;F8 Ultra;Lente de cámara;Compatible;3,55;;;6
+PO-F8U-ALT-COM;POCO;F8 Ultra;Altavoz;Compatible;5,60;;;6
+PO-F8U-AUR-COM;POCO;F8 Ultra;Auricular de llamada;Compatible;4,55;;;6
+PO-F8U-FLX-COM;POCO;F8 Ultra;Flex de encendido y volumen;Compatible;3,95;;;6
+PO-F8U-SIM-COM-AZU;POCO;F8 Ultra;Bandeja SIM;Azul (Denim Blue);3,40;;;6
+PO-F8U-SIM-COM-NEG;POCO;F8 Ultra;Bandeja SIM;Negro;3,40;;;6
+PO-M85-PAN-ORI;POCO;M8 5G;Pantalla;Original;48,05;46,61;45,17;12
+PO-M85-PAN-OLS;POCO;M8 5G;Pantalla;OLED Soft;35,60;34,53;33,46;6
+PO-M85-PAN-OLH;POCO;M8 5G;Pantalla;OLED Hard;32,15;31,19;30,22;6
+PO-M85-PAN-INC;POCO;M8 5G;Pantalla;Incell;15,99;15,51;15,03;6
+PO-M85-BAT-COM;POCO;M8 5G;Batería;Compatible;8,80;;;6
+PO-M85-CON-COM;POCO;M8 5G;Conector de carga;Compatible;3,95;;;6
+PO-M85-TAP-COM-NEG;POCO;M8 5G;Tapa trasera;Negro;5,90;;;6
+PO-M85-TAP-COM-PLA;POCO;M8 5G;Tapa trasera;Plata;5,90;;;6
+PO-M85-TAP-COM-VER;POCO;M8 5G;Tapa trasera;Verde;5,90;;;6
+PO-M85-CTR-COM;POCO;M8 5G;Cámara trasera;Compatible;9,75;;;6
+PO-M85-CFR-COM;POCO;M8 5G;Cámara frontal;Compatible;5,89;;;6
+PO-M85-LEN-COM;POCO;M8 5G;Lente de cámara;Compatible;2,65;;;6
+PO-M85-ALT-COM;POCO;M8 5G;Altavoz;Compatible;4,35;;;6
+PO-M85-AUR-COM;POCO;M8 5G;Auricular de llamada;Compatible;3,35;;;6
+PO-M85-FLX-COM;POCO;M8 5G;Flex de encendido y volumen;Compatible;2,85;;;6
+PO-M85-SIM-COM-NEG;POCO;M8 5G;Bandeja SIM;Negro;2,89;;;6
+PO-M85-SIM-COM-PLA;POCO;M8 5G;Bandeja SIM;Plata;2,89;;;6
+PO-M85-SIM-COM-VER;POCO;M8 5G;Bandeja SIM;Verde;2,89;;;6
+PO-M8P5-PAN-ORI;POCO;M8 Pro 5G;Pantalla;Original;60,85;59,02;57,20;12
+PO-M8P5-PAN-OLS;POCO;M8 Pro 5G;Pantalla;OLED Soft;43,95;42,63;41,31;6
+PO-M8P5-PAN-OLH;POCO;M8 Pro 5G;Pantalla;OLED Hard;39,65;38,46;37,27;6
+PO-M8P5-PAN-INC;POCO;M8 Pro 5G;Pantalla;Incell;19,70;19,11;18,52;6
+PO-M8P5-BAT-COM;POCO;M8 Pro 5G;Batería;Compatible;9,50;;;6
+PO-M8P5-CON-COM;POCO;M8 Pro 5G;Conector de carga;Compatible;4,95;;;6
+PO-M8P5-TAP-COM-NEG;POCO;M8 Pro 5G;Tapa trasera;Negro;6,65;;;6
+PO-M8P5-TAP-COM-PLA;POCO;M8 Pro 5G;Tapa trasera;Plata;6,65;;;6
+PO-M8P5-TAP-COM-VER;POCO;M8 Pro 5G;Tapa trasera;Verde;6,65;;;6
+PO-M8P5-CTR-COM;POCO;M8 Pro 5G;Cámara trasera;Compatible;11,10;10,77;10,43;6
+PO-M8P5-CFR-COM;POCO;M8 Pro 5G;Cámara frontal;Compatible;6,29;;;6
+PO-M8P5-LEN-COM;POCO;M8 Pro 5G;Lente de cámara;Compatible;2,55;;;6
+PO-M8P5-ALT-COM;POCO;M8 Pro 5G;Altavoz;Compatible;4,45;;;6
+PO-M8P5-AUR-COM;POCO;M8 Pro 5G;Auricular de llamada;Compatible;3,35;;;6
+PO-M8P5-FLX-COM;POCO;M8 Pro 5G;Flex de encendido y volumen;Compatible;2,79;;;6
+PO-M8P5-SIM-COM-NEG;POCO;M8 Pro 5G;Bandeja SIM;Negro;2,75;;;6
+PO-M8P5-SIM-COM-PLA;POCO;M8 Pro 5G;Bandeja SIM;Plata;2,75;;;6
+PO-M8P5-SIM-COM-VER;POCO;M8 Pro 5G;Bandeja SIM;Verde;2,75;;;6
+PO-X8P-PAN-ORI;POCO;X8 Pro;Pantalla;Original;69,99;67,89;65,79;12
+PO-X8P-PAN-OLS;POCO;X8 Pro;Pantalla;OLED Soft;43,89;42,57;41,26;6
+PO-X8P-PAN-OLH;POCO;X8 Pro;Pantalla;OLED Hard;39,59;38,40;37,21;6
+PO-X8P-PAN-INC;POCO;X8 Pro;Pantalla;Incell;19,69;19,10;18,51;6
+PO-X8P-BAT-COM;POCO;X8 Pro;Batería;Compatible;10,30;9,99;9,68;6
+PO-X8P-CON-COM;POCO;X8 Pro;Conector de carga;Compatible;4,60;;;6
+PO-X8P-TAP-COM-NEG;POCO;X8 Pro;Tapa trasera;Negro;6,85;;;6
+PO-X8P-TAP-COM-VER;POCO;X8 Pro;Tapa trasera;Verde menta;6,85;;;6
+PO-X8P-TAP-COM-BLA;POCO;X8 Pro;Tapa trasera;Blanco;6,85;;;6
+PO-X8P-TAP-COM-AMA;POCO;X8 Pro;Tapa trasera;Amarillo;6,85;;;6
+PO-X8P-CTR-COM;POCO;X8 Pro;Cámara trasera;Compatible;13,49;13,09;12,68;6
+PO-X8P-CFR-COM;POCO;X8 Pro;Cámara frontal;Compatible;6,55;;;6
+PO-X8P-LEN-COM;POCO;X8 Pro;Lente de cámara;Compatible;3,05;;;6
+PO-X8P-ALT-COM;POCO;X8 Pro;Altavoz;Compatible;4,90;;;6
+PO-X8P-AUR-COM;POCO;X8 Pro;Auricular de llamada;Compatible;4,15;;;6
+PO-X8P-FLX-COM;POCO;X8 Pro;Flex de encendido y volumen;Compatible;3,60;;;6
+PO-X8P-SIM-COM-NEG;POCO;X8 Pro;Bandeja SIM;Negro;3,15;;;6
+PO-X8P-SIM-COM-VER;POCO;X8 Pro;Bandeja SIM;Verde menta;3,15;;;6
+PO-X8P-SIM-COM-BLA;POCO;X8 Pro;Bandeja SIM;Blanco;3,15;;;6
+PO-X8P-SIM-COM-AMA;POCO;X8 Pro;Bandeja SIM;Amarillo;3,15;;;6
+PO-X8PM-PAN-ORI;POCO;X8 Pro Max;Pantalla;Original;69,99;67,89;65,79;12
+PO-X8PM-PAN-OLS;POCO;X8 Pro Max;Pantalla;OLED Soft;43,89;42,57;41,26;6
+PO-X8PM-PAN-OLH;POCO;X8 Pro Max;Pantalla;OLED Hard;39,59;38,40;37,21;6
+PO-X8PM-PAN-INC;POCO;X8 Pro Max;Pantalla;Incell;19,69;19,10;18,51;6
+PO-X8PM-BAT-COM;POCO;X8 Pro Max;Batería;Compatible;10,30;9,99;9,68;6
+PO-X8PM-CON-COM;POCO;X8 Pro Max;Conector de carga;Compatible;4,60;;;6
+PO-X8PM-TAP-COM-AZU;POCO;X8 Pro Max;Tapa trasera;Azul;6,85;;;6
+PO-X8PM-TAP-COM-BLA;POCO;X8 Pro Max;Tapa trasera;Blanco;6,85;;;6
+PO-X8PM-TAP-COM-NEG;POCO;X8 Pro Max;Tapa trasera;Negro;6,85;;;6
+PO-X8PM-CTR-COM;POCO;X8 Pro Max;Cámara trasera;Compatible;13,49;13,09;12,68;6
+PO-X8PM-CFR-COM;POCO;X8 Pro Max;Cámara frontal;Compatible;6,55;;;6
+PO-X8PM-LEN-COM;POCO;X8 Pro Max;Lente de cámara;Compatible;3,05;;;6
+PO-X8PM-ALT-COM;POCO;X8 Pro Max;Altavoz;Compatible;4,90;;;6
+PO-X8PM-AUR-COM;POCO;X8 Pro Max;Auricular de llamada;Compatible;4,15;;;6
+PO-X8PM-FLX-COM;POCO;X8 Pro Max;Flex de encendido y volumen;Compatible;3,60;;;6
+PO-X8PM-SIM-COM-AZU;POCO;X8 Pro Max;Bandeja SIM;Azul;3,15;;;6
+PO-X8PM-SIM-COM-BLA;POCO;X8 Pro Max;Bandeja SIM;Blanco;3,15;;;6
+PO-X8PM-SIM-COM-NEG;POCO;X8 Pro Max;Bandeja SIM;Negro;3,15;;;6
+PO-C81P-PAN-ORI;POCO;C81 Pro;Pantalla;Original;25,50;24,74;23,97;12
+PO-C81P-PAN-COM;POCO;C81 Pro;Pantalla;Compatible;14,00;13,58;13,16;6
+PO-C81P-BAT-COM;POCO;C81 Pro;Batería;Compatible;8,80;;;6
+PO-C81P-CON-COM;POCO;C81 Pro;Conector de carga;Compatible;3,95;;;6
+PO-C81P-TAP-COM-NEG;POCO;C81 Pro;Tapa trasera;Negro;5,90;;;6
+PO-C81P-TAP-COM-DOR;POCO;C81 Pro;Tapa trasera;Dorado;5,90;;;6
+PO-C81P-TAP-COM-VER;POCO;C81 Pro;Tapa trasera;Verde;5,90;;;6
+PO-C81P-CTR-COM;POCO;C81 Pro;Cámara trasera;Compatible;9,75;;;6
+PO-C81P-CFR-COM;POCO;C81 Pro;Cámara frontal;Compatible;5,89;;;6
+PO-C81P-LEN-COM;POCO;C81 Pro;Lente de cámara;Compatible;2,65;;;6
+PO-C81P-ALT-COM;POCO;C81 Pro;Altavoz;Compatible;4,35;;;6
+PO-C81P-AUR-COM;POCO;C81 Pro;Auricular de llamada;Compatible;3,35;;;6
+PO-C81P-FLX-COM;POCO;C81 Pro;Flex de encendido y volumen;Compatible;2,85;;;6
+PO-C81P-SIM-COM-NEG;POCO;C81 Pro;Bandeja SIM;Negro;2,89;;;6
+PO-C81P-SIM-COM-DOR;POCO;C81 Pro;Bandeja SIM;Dorado;2,89;;;6
+PO-C81P-SIM-COM-VER;POCO;C81 Pro;Bandeja SIM;Verde;2,89;;;6
+PO-F9P-PAN-ORI;POCO;F9 Pro;Pantalla;Original;111,00;107,67;104,34;12
+PO-F9P-PAN-OLS;POCO;F9 Pro;Pantalla;OLED Soft;64,85;62,90;60,96;6
+PO-F9P-PAN-OLH;POCO;F9 Pro;Pantalla;OLED Hard;58,55;56,79;55,04;6
+PO-F9P-PAN-INC;POCO;F9 Pro;Pantalla;Incell;29,09;28,22;27,34;6
+PO-F9P-BAT-COM;POCO;F9 Pro;Batería;Compatible;9,80;;;6
+PO-F9P-CON-COM;POCO;F9 Pro;Conector de carga;Compatible;6,19;;;6
+PO-F9P-TAP-COM-NEG;POCO;F9 Pro;Tapa trasera;Negro;8,25;;;6
+PO-F9P-TAP-COM-BLA;POCO;F9 Pro;Tapa trasera;Blanco;8,25;;;6
+PO-F9P-TAP-COM-VER;POCO;F9 Pro;Tapa trasera;Verde;8,25;;;6
+PO-F9P-CTR-COM;POCO;F9 Pro;Cámara trasera;Compatible;16,89;16,38;15,88;6
+PO-F9P-CFR-COM;POCO;F9 Pro;Cámara frontal;Compatible;8,30;;;6
+PO-F9P-LEN-COM;POCO;F9 Pro;Lente de cámara;Compatible;3,55;;;6
+PO-F9P-ALT-COM;POCO;F9 Pro;Altavoz;Compatible;5,60;;;6
+PO-F9P-AUR-COM;POCO;F9 Pro;Auricular de llamada;Compatible;4,55;;;6
+PO-F9P-FLX-COM;POCO;F9 Pro;Flex de encendido y volumen;Compatible;3,95;;;6
+PO-F9P-SIM-COM-NEG;POCO;F9 Pro;Bandeja SIM;Negro;3,40;;;6
+PO-F9P-SIM-COM-BLA;POCO;F9 Pro;Bandeja SIM;Blanco;3,40;;;6
+PO-F9P-SIM-COM-VER;POCO;F9 Pro;Bandeja SIM;Verde;3,40;;;6
+PO-F9U-PAN-ORI;POCO;F9 Ultra;Pantalla;Original;149,45;144,97;140,48;12
+PO-F9U-PAN-OLS;POCO;F9 Ultra;Pantalla;OLED Soft;71,35;69,21;67,07;6
+PO-F9U-PAN-OLH;POCO;F9 Ultra;Pantalla;OLED Hard;64,39;62,46;60,53;6
+PO-F9U-PAN-INC;POCO;F9 Ultra;Pantalla;Incell;32,00;31,04;30,08;6
+PO-F9U-BAT-COM;POCO;F9 Ultra;Batería;Compatible;9,80;;;6
+PO-F9U-CON-COM;POCO;F9 Ultra;Conector de carga;Compatible;6,19;;;6
+PO-F9U-TAP-COM-NEG;POCO;F9 Ultra;Tapa trasera;Negro;8,25;;;6
+PO-F9U-TAP-COM-ROJ;POCO;F9 Ultra;Tapa trasera;Rojo;8,25;;;6
+PO-F9U-CTR-COM;POCO;F9 Ultra;Cámara trasera;Compatible;16,89;16,38;15,88;6
+PO-F9U-CFR-COM;POCO;F9 Ultra;Cámara frontal;Compatible;8,30;;;6
+PO-F9U-LEN-COM;POCO;F9 Ultra;Lente de cámara;Compatible;3,55;;;6
+PO-F9U-ALT-COM;POCO;F9 Ultra;Altavoz;Compatible;5,60;;;6
+PO-F9U-AUR-COM;POCO;F9 Ultra;Auricular de llamada;Compatible;4,55;;;6
+PO-F9U-FLX-COM;POCO;F9 Ultra;Flex de encendido y volumen;Compatible;3,95;;;6
+PO-F9U-SIM-COM-NEG;POCO;F9 Ultra;Bandeja SIM;Negro;3,40;;;6
+PO-F9U-SIM-COM-ROJ;POCO;F9 Ultra;Bandeja SIM;Rojo;3,40;;;6
+PO-C855-PAN-ORI;POCO;C85 5G;Pantalla;Original;25,50;24,74;23,97;12
+PO-C855-PAN-COM;POCO;C85 5G;Pantalla;Compatible;14,00;13,58;13,16;6
+PO-C855-BAT-COM;POCO;C85 5G;Batería;Compatible;8,80;;;6
+PO-C855-CON-COM;POCO;C85 5G;Conector de carga;Compatible;3,95;;;6
+PO-C855-TAP-COM;POCO;C85 5G;Tapa trasera;Compatible;5,90;;;6
+PO-C855-CTR-COM;POCO;C85 5G;Cámara trasera;Compatible;9,75;;;6
+PO-C855-CFR-COM;POCO;C85 5G;Cámara frontal;Compatible;5,89;;;6
+PO-C855-LEN-COM;POCO;C85 5G;Lente de cámara;Compatible;2,65;;;6
+PO-C855-ALT-COM;POCO;C85 5G;Altavoz;Compatible;4,35;;;6
+PO-C855-AUR-COM;POCO;C85 5G;Auricular de llamada;Compatible;3,35;;;6
+PO-C855-FLX-COM;POCO;C85 5G;Flex de encendido y volumen;Compatible;2,85;;;6
+PO-C855-SIM-COM;POCO;C85 5G;Bandeja SIM;Compatible;2,89;;;6
+PO-M7PL-PAN-ORI;POCO;M7 Plus;Pantalla;Original;25,50;24,74;23,97;12
+PO-M7PL-PAN-COM;POCO;M7 Plus;Pantalla;Compatible;14,00;13,58;13,16;6
+PO-M7PL-BAT-COM;POCO;M7 Plus;Batería;Compatible;8,80;;;6
+PO-M7PL-CON-COM;POCO;M7 Plus;Conector de carga;Compatible;3,95;;;6
+PO-M7PL-TAP-COM;POCO;M7 Plus;Tapa trasera;Compatible;5,90;;;6
+PO-M7PL-CTR-COM;POCO;M7 Plus;Cámara trasera;Compatible;9,75;;;6
+PO-M7PL-CFR-COM;POCO;M7 Plus;Cámara frontal;Compatible;5,89;;;6
+PO-M7PL-LEN-COM;POCO;M7 Plus;Lente de cámara;Compatible;2,65;;;6
+PO-M7PL-ALT-COM;POCO;M7 Plus;Altavoz;Compatible;4,35;;;6
+PO-M7PL-AUR-COM;POCO;M7 Plus;Auricular de llamada;Compatible;3,35;;;6
+PO-M7PL-FLX-COM;POCO;M7 Plus;Flex de encendido y volumen;Compatible;2,85;;;6
+PO-M7PL-SIM-COM;POCO;M7 Plus;Bandeja SIM;Compatible;2,89;;;6
+PO-M75-PAN-ORI;POCO;M7 5G;Pantalla;Original;25,50;24,74;23,97;12
+PO-M75-PAN-COM;POCO;M7 5G;Pantalla;Compatible;14,00;13,58;13,16;6
+PO-M75-BAT-COM;POCO;M7 5G;Batería;Compatible;8,80;;;6
+PO-M75-CON-COM;POCO;M7 5G;Conector de carga;Compatible;3,95;;;6
+PO-M75-TAP-COM;POCO;M7 5G;Tapa trasera;Compatible;5,90;;;6
+PO-M75-CTR-COM;POCO;M7 5G;Cámara trasera;Compatible;9,15;;;6
+PO-M75-CFR-COM;POCO;M7 5G;Cámara frontal;Compatible;5,89;;;6
+PO-M75-LEN-COM;POCO;M7 5G;Lente de cámara;Compatible;2,65;;;6
+PO-M75-ALT-COM;POCO;M7 5G;Altavoz;Compatible;4,35;;;6
+PO-M75-AUR-COM;POCO;M7 5G;Auricular de llamada;Compatible;3,35;;;6
+PO-M75-FLX-COM;POCO;M7 5G;Flex de encendido y volumen;Compatible;2,85;;;6
+PO-M75-SIM-COM;POCO;M7 5G;Bandeja SIM;Compatible;2,89;;;6
+PO-C755-PAN-ORI;POCO;C75 5G;Pantalla;Original;24,55;23,81;23,08;12
+PO-C755-PAN-COM;POCO;C75 5G;Pantalla;Compatible;13,30;12,90;12,50;6
+PO-C755-BAT-COM;POCO;C75 5G;Batería;Compatible;9,30;;;6
+PO-C755-CON-COM;POCO;C75 5G;Conector de carga;Compatible;3,35;;;6
+PO-C755-TAP-COM;POCO;C75 5G;Tapa trasera;Compatible;5,50;;;6
+PO-C755-CTR-COM;POCO;C75 5G;Cámara trasera;Compatible;7,10;;;6
+PO-C755-CFR-COM;POCO;C75 5G;Cámara frontal;Compatible;4,20;;;6
+PO-C755-LEN-COM;POCO;C75 5G;Lente de cámara;Compatible;2,05;;;6
+PO-C755-ALT-COM;POCO;C75 5G;Altavoz;Compatible;3,30;;;6
+PO-C755-AUR-COM;POCO;C75 5G;Auricular de llamada;Compatible;2,39;;;6
+PO-C755-FLX-COM;POCO;C75 5G;Flex de encendido y volumen;Compatible;2,60;;;6
+PO-C755-SIM-COM;POCO;C75 5G;Bandeja SIM;Compatible;2,45;;;6
+PO-M6PL-PAN-ORI;POCO;M6 Plus;Pantalla;Original;24,55;23,81;23,08;12
+PO-M6PL-PAN-COM;POCO;M6 Plus;Pantalla;Compatible;13,30;12,90;12,50;6
+PO-M6PL-BAT-COM;POCO;M6 Plus;Batería;Compatible;9,30;;;6
+PO-M6PL-CON-COM;POCO;M6 Plus;Conector de carga;Compatible;3,35;;;6
+PO-M6PL-TAP-COM;POCO;M6 Plus;Tapa trasera;Compatible;5,50;;;6
+PO-M6PL-CTR-COM;POCO;M6 Plus;Cámara trasera;Compatible;7,10;;;6
+PO-M6PL-CFR-COM;POCO;M6 Plus;Cámara frontal;Compatible;4,20;;;6
+PO-M6PL-LEN-COM;POCO;M6 Plus;Lente de cámara;Compatible;2,05;;;6
+PO-M6PL-ALT-COM;POCO;M6 Plus;Altavoz;Compatible;3,30;;;6
+PO-M6PL-AUR-COM;POCO;M6 Plus;Auricular de llamada;Compatible;2,39;;;6
+PO-M6PL-FLX-COM;POCO;M6 Plus;Flex de encendido y volumen;Compatible;2,60;;;6
+PO-M6PL-SIM-COM;POCO;M6 Plus;Bandeja SIM;Compatible;2,45;;;6
+PO-C61-PAN-ORI;POCO;C61;Pantalla;Original;24,55;23,81;23,08;12
+PO-C61-PAN-COM;POCO;C61;Pantalla;Compatible;13,30;12,90;12,50;6
+PO-C61-BAT-COM;POCO;C61;Batería;Compatible;9,30;;;6
+PO-C61-CON-COM;POCO;C61;Conector de carga;Compatible;3,35;;;6
+PO-C61-TAP-COM;POCO;C61;Tapa trasera;Compatible;5,50;;;6
+PO-C61-CTR-COM;POCO;C61;Cámara trasera;Compatible;7,10;;;6
+PO-C61-CFR-COM;POCO;C61;Cámara frontal;Compatible;4,20;;;6
+PO-C61-LEN-COM;POCO;C61;Lente de cámara;Compatible;2,05;;;6
+PO-C61-ALT-COM;POCO;C61;Altavoz;Compatible;3,30;;;6
+PO-C61-AUR-COM;POCO;C61;Auricular de llamada;Compatible;2,39;;;6
+PO-C61-FLX-COM;POCO;C61;Flex de encendido y volumen;Compatible;2,60;;;6
+PO-C61-SIM-COM;POCO;C61;Bandeja SIM;Compatible;2,45;;;6
+PO-X6NEO-PAN-ORI;POCO;X6 Neo;Pantalla;Original;58,55;56,79;55,04;12
+PO-X6NEO-PAN-OLS;POCO;X6 Neo;Pantalla;OLED Soft;41,20;39,96;38,73;6
+PO-X6NEO-PAN-OLH;POCO;X6 Neo;Pantalla;OLED Hard;37,19;36,07;34,96;6
+PO-X6NEO-PAN-INC;POCO;X6 Neo;Pantalla;Incell;18,49;17,94;17,38;6
+PO-X6NEO-BAT-COM;POCO;X6 Neo;Batería;Compatible;10,15;9,85;9,54;6
+PO-X6NEO-CON-COM;POCO;X6 Neo;Conector de carga;Compatible;4,15;;;6
+PO-X6NEO-TAP-COM;POCO;X6 Neo;Tapa trasera;Compatible;6,30;;;6
+PO-X6NEO-CTR-COM;POCO;X6 Neo;Cámara trasera;Compatible;8,10;;;6
+PO-X6NEO-CFR-COM;POCO;X6 Neo;Cámara frontal;Compatible;4,45;;;6
+PO-X6NEO-LEN-COM;POCO;X6 Neo;Lente de cámara;Compatible;2,00;;;6
+PO-X6NEO-ALT-COM;POCO;X6 Neo;Altavoz;Compatible;3,35;;;6
+PO-X6NEO-AUR-COM;POCO;X6 Neo;Auricular de llamada;Compatible;2,35;;;6
+PO-X6NEO-FLX-COM;POCO;X6 Neo;Flex de encendido y volumen;Compatible;2,55;;;6
+PO-X6NEO-SIM-COM;POCO;X6 Neo;Bandeja SIM;Compatible;2,30;;;6
+PO-M6P5-PAN-ORI;POCO;M6 Pro 5G;Pantalla;Original;31,09;30,16;29,22;12
+PO-M6P5-PAN-COM;POCO;M6 Pro 5G;Pantalla;Compatible;16,40;15,91;15,42;6
+PO-M6P5-BAT-COM;POCO;M6 Pro 5G;Batería;Compatible;10,09;9,79;9,48;6
+PO-M6P5-CON-COM;POCO;M6 Pro 5G;Conector de carga;Compatible;4,15;;;6
+PO-M6P5-TAP-COM;POCO;M6 Pro 5G;Tapa trasera;Compatible;6,19;;;6
+PO-M6P5-CTR-COM;POCO;M6 Pro 5G;Cámara trasera;Compatible;8,10;;;6
+PO-M6P5-CFR-COM;POCO;M6 Pro 5G;Cámara frontal;Compatible;4,50;;;6
+PO-M6P5-LEN-COM;POCO;M6 Pro 5G;Lente de cámara;Compatible;2,00;;;6
+PO-M6P5-ALT-COM;POCO;M6 Pro 5G;Altavoz;Compatible;3,35;;;6
+PO-M6P5-AUR-COM;POCO;M6 Pro 5G;Auricular de llamada;Compatible;2,35;;;6
+PO-M6P5-FLX-COM;POCO;M6 Pro 5G;Flex de encendido y volumen;Compatible;2,55;;;6
+PO-M6P5-SIM-COM;POCO;M6 Pro 5G;Bandeja SIM;Compatible;2,30;;;6
+PO-C51-PAN-ORI;POCO;C51;Pantalla;Original;24,55;23,81;23,08;12
+PO-C51-PAN-COM;POCO;C51;Pantalla;Compatible;13,30;12,90;12,50;6
+PO-C51-BAT-COM;POCO;C51;Batería;Compatible;9,30;;;6
+PO-C51-CON-COM;POCO;C51;Conector de carga;Compatible;3,35;;;6
+PO-C51-TAP-COM;POCO;C51;Tapa trasera;Compatible;5,50;;;6
+PO-C51-CTR-COM;POCO;C51;Cámara trasera;Compatible;7,10;;;6
+PO-C51-CFR-COM;POCO;C51;Cámara frontal;Compatible;4,20;;;6
+PO-C51-LEN-COM;POCO;C51;Lente de cámara;Compatible;2,05;;;6
+PO-C51-ALT-COM;POCO;C51;Altavoz;Compatible;3,30;;;6
+PO-C51-AUR-COM;POCO;C51;Auricular de llamada;Compatible;2,39;;;6
+PO-C51-FLX-COM;POCO;C51;Flex de encendido y volumen;Compatible;2,60;;;6
+PO-C51-SIM-COM;POCO;C51;Bandeja SIM;Compatible;2,45;;;6
+PO-C55-PAN-ORI;POCO;C55;Pantalla;Original;24,55;23,81;23,08;12
+PO-C55-PAN-COM;POCO;C55;Pantalla;Compatible;13,30;12,90;12,50;6
+PO-C55-BAT-COM;POCO;C55;Batería;Compatible;9,30;;;6
+PO-C55-CON-COM;POCO;C55;Conector de carga;Compatible;3,35;;;6
+PO-C55-TAP-COM;POCO;C55;Tapa trasera;Compatible;5,50;;;6
+PO-C55-CTR-COM;POCO;C55;Cámara trasera;Compatible;7,10;;;6
+PO-C55-CFR-COM;POCO;C55;Cámara frontal;Compatible;4,20;;;6
+PO-C55-LEN-COM;POCO;C55;Lente de cámara;Compatible;2,05;;;6
+PO-C55-ALT-COM;POCO;C55;Altavoz;Compatible;3,30;;;6
+PO-C55-AUR-COM;POCO;C55;Auricular de llamada;Compatible;2,39;;;6
+PO-C55-FLX-COM;POCO;C55;Flex de encendido y volumen;Compatible;2,60;;;6
+PO-C55-SIM-COM;POCO;C55;Bandeja SIM;Compatible;2,45;;;6
+PO-C50-PAN-ORI;POCO;C50;Pantalla;Original;24,55;23,81;23,08;12
+PO-C50-PAN-COM;POCO;C50;Pantalla;Compatible;13,30;12,90;12,50;6
+PO-C50-BAT-COM;POCO;C50;Batería;Compatible;9,30;;;6
+PO-C50-CON-COM;POCO;C50;Conector de carga;Compatible;3,35;;;6
+PO-C50-TAP-COM;POCO;C50;Tapa trasera;Compatible;5,50;;;6
+PO-C50-CTR-COM;POCO;C50;Cámara trasera;Compatible;7,10;;;6
+PO-C50-CFR-COM;POCO;C50;Cámara frontal;Compatible;4,20;;;6
+PO-C50-LEN-COM;POCO;C50;Lente de cámara;Compatible;2,05;;;6
+PO-C50-ALT-COM;POCO;C50;Altavoz;Compatible;3,30;;;6
+PO-C50-AUR-COM;POCO;C50;Auricular de llamada;Compatible;2,39;;;6
+PO-C50-FLX-COM;POCO;C50;Flex de encendido y volumen;Compatible;2,60;;;6
+PO-C50-SIM-COM;POCO;C50;Bandeja SIM;Compatible;2,45;;;6
+PO-C31-PAN-ORI;POCO;C31;Pantalla;Original;23,75;23,04;22,33;12
+PO-C31-PAN-COM;POCO;C31;Pantalla;Compatible;12,50;12,13;11,75;6
+PO-C31-BAT-COM;POCO;C31;Batería;Compatible;8,15;;;6
+PO-C31-CON-COM;POCO;C31;Conector de carga;Compatible;2,90;;;6
+PO-C31-TAP-COM;POCO;C31;Tapa trasera;Compatible;4,90;;;6
+PO-C31-CTR-COM;POCO;C31;Cámara trasera;Compatible;5,09;;;6
+PO-C31-CFR-COM;POCO;C31;Cámara frontal;Compatible;2,89;;;6
+PO-C31-LEN-COM;POCO;C31;Lente de cámara;Compatible;1,95;;;6
+PO-C31-ALT-COM;POCO;C31;Altavoz;Compatible;3,05;;;6
+PO-C31-AUR-COM;POCO;C31;Auricular de llamada;Compatible;2,19;;;6
+PO-C31-FLX-COM;POCO;C31;Flex de encendido y volumen;Compatible;2,15;;;6
+PO-C31-SIM-COM;POCO;C31;Bandeja SIM;Compatible;2,49;;;6
+PO-F3GT-PAN-ORI;POCO;F3 GT;Pantalla;Original;65,20;63,24;61,29;12
+PO-F3GT-PAN-OLS;POCO;F3 GT;Pantalla;OLED Soft;39,65;38,46;37,27;6
+PO-F3GT-PAN-OLH;POCO;F3 GT;Pantalla;OLED Hard;35,75;34,68;33,60;6
+PO-F3GT-PAN-INC;POCO;F3 GT;Pantalla;Incell;17,79;17,26;16,72;6
+PO-F3GT-BAT-COM;POCO;F3 GT;Batería;Compatible;9,55;;;6
+PO-F3GT-CON-COM;POCO;F3 GT;Conector de carga;Compatible;3,35;;;6
+PO-F3GT-TAP-COM;POCO;F3 GT;Tapa trasera;Compatible;5,59;;;6
+PO-F3GT-CTR-COM;POCO;F3 GT;Cámara trasera;Compatible;7,05;;;6
+PO-F3GT-CFR-COM;POCO;F3 GT;Cámara frontal;Compatible;3,25;;;6
+PO-F3GT-LEN-COM;POCO;F3 GT;Lente de cámara;Compatible;2,29;;;6
+PO-F3GT-ALT-COM;POCO;F3 GT;Altavoz;Compatible;3,45;;;6
+PO-F3GT-AUR-COM;POCO;F3 GT;Auricular de llamada;Compatible;2,69;;;6
+PO-F3GT-FLX-COM;POCO;F3 GT;Flex de encendido y volumen;Compatible;2,70;;;6
+PO-F3GT-SIM-COM;POCO;F3 GT;Bandeja SIM;Compatible;2,70;;;6
+PO-M2R-PAN-ORI;POCO;M2 Reloaded;Pantalla;Original;23,75;23,04;22,33;12
+PO-M2R-PAN-COM;POCO;M2 Reloaded;Pantalla;Compatible;12,50;12,13;11,75;6
+PO-M2R-BAT-COM;POCO;M2 Reloaded;Batería;Compatible;8,15;;;6
+PO-M2R-CON-COM;POCO;M2 Reloaded;Conector de carga;Compatible;2,90;;;6
+PO-M2R-TAP-COM;POCO;M2 Reloaded;Tapa trasera;Compatible;4,90;;;6
+PO-M2R-CTR-COM;POCO;M2 Reloaded;Cámara trasera;Compatible;5,09;;;6
+PO-M2R-CFR-COM;POCO;M2 Reloaded;Cámara frontal;Compatible;2,89;;;6
+PO-M2R-LEN-COM;POCO;M2 Reloaded;Lente de cámara;Compatible;1,95;;;6
+PO-M2R-ALT-COM;POCO;M2 Reloaded;Altavoz;Compatible;3,05;;;6
+PO-M2R-AUR-COM;POCO;M2 Reloaded;Auricular de llamada;Compatible;2,19;;;6
+PO-M2R-FLX-COM;POCO;M2 Reloaded;Flex de encendido y volumen;Compatible;2,15;;;6
+PO-M2R-SIM-COM;POCO;M2 Reloaded;Bandeja SIM;Compatible;2,49;;;6
+PO-C3-PAN-ORI;POCO;C3;Pantalla;Original;23,75;23,04;22,33;12
+PO-C3-PAN-COM;POCO;C3;Pantalla;Compatible;12,50;12,13;11,75;6
+PO-C3-BAT-COM;POCO;C3;Batería;Compatible;8,15;;;6
+PO-C3-CON-COM;POCO;C3;Conector de carga;Compatible;2,90;;;6
+PO-C3-TAP-COM;POCO;C3;Tapa trasera;Compatible;4,90;;;6
+PO-C3-CTR-COM;POCO;C3;Cámara trasera;Compatible;5,09;;;6
+PO-C3-CFR-COM;POCO;C3;Cámara frontal;Compatible;2,89;;;6
+PO-C3-LEN-COM;POCO;C3;Lente de cámara;Compatible;1,95;;;6
+PO-C3-ALT-COM;POCO;C3;Altavoz;Compatible;3,05;;;6
+PO-C3-AUR-COM;POCO;C3;Auricular de llamada;Compatible;2,19;;;6
+PO-C3-FLX-COM;POCO;C3;Flex de encendido y volumen;Compatible;2,15;;;6
+PO-C3-SIM-COM;POCO;C3;Bandeja SIM;Compatible;2,49;;;6
+PO-M2-PAN-ORI;POCO;M2;Pantalla;Original;23,75;23,04;22,33;12
+PO-M2-PAN-COM;POCO;M2;Pantalla;Compatible;12,50;12,13;11,75;6
+PO-M2-BAT-COM;POCO;M2;Batería;Compatible;8,15;;;6
+PO-M2-CON-COM;POCO;M2;Conector de carga;Compatible;2,90;;;6
+PO-M2-TAP-COM;POCO;M2;Tapa trasera;Compatible;4,90;;;6
+PO-M2-CTR-COM;POCO;M2;Cámara trasera;Compatible;5,09;;;6
+PO-M2-CFR-COM;POCO;M2;Cámara frontal;Compatible;2,89;;;6
+PO-M2-LEN-COM;POCO;M2;Lente de cámara;Compatible;1,95;;;6
+PO-M2-ALT-COM;POCO;M2;Altavoz;Compatible;3,05;;;6
+PO-M2-AUR-COM;POCO;M2;Auricular de llamada;Compatible;2,19;;;6
+PO-M2-FLX-COM;POCO;M2;Flex de encendido y volumen;Compatible;2,15;;;6
+PO-M2-SIM-COM;POCO;M2;Bandeja SIM;Compatible;2,49;;;6
+PO-X3-PAN-ORI;POCO;X3;Pantalla;Original;30,15;29,25;28,34;12
+PO-X3-PAN-COM;POCO;X3;Pantalla;Compatible;14,50;14,07;13,63;6
+PO-X3-BAT-COM;POCO;X3;Batería;Compatible;8,89;;;6
+PO-X3-CON-COM;POCO;X3;Conector de carga;Compatible;3,60;;;6
+PO-X3-TAP-COM;POCO;X3;Tapa trasera;Compatible;5,65;;;6
+PO-X3-CTR-COM;POCO;X3;Cámara trasera;Compatible;5,79;;;6
+PO-X3-CFR-COM;POCO;X3;Cámara frontal;Compatible;3,05;;;6
+PO-X3-LEN-COM;POCO;X3;Lente de cámara;Compatible;1,90;;;6
+PO-X3-ALT-COM;POCO;X3;Altavoz;Compatible;3,15;;;6
+PO-X3-AUR-COM;POCO;X3;Auricular de llamada;Compatible;2,15;;;6
+PO-X3-FLX-COM;POCO;X3;Flex de encendido y volumen;Compatible;2,10;;;6
+PO-X3-SIM-COM;POCO;X3;Bandeja SIM;Compatible;2,35;;;6
+PO-M2P-PAN-ORI;POCO;M2 Pro;Pantalla;Original;30,15;29,25;28,34;12
+PO-M2P-PAN-COM;POCO;M2 Pro;Pantalla;Compatible;15,45;14,99;14,52;6
+PO-M2P-BAT-COM;POCO;M2 Pro;Batería;Compatible;8,85;;;6
+PO-M2P-CON-COM;POCO;M2 Pro;Conector de carga;Compatible;3,60;;;6
+PO-M2P-TAP-COM;POCO;M2 Pro;Tapa trasera;Compatible;5,50;;;6
+PO-M2P-CTR-COM;POCO;M2 Pro;Cámara trasera;Compatible;5,79;;;6
+PO-M2P-CFR-COM;POCO;M2 Pro;Cámara frontal;Compatible;3,05;;;6
+PO-M2P-LEN-COM;POCO;M2 Pro;Lente de cámara;Compatible;1,90;;;6
+PO-M2P-ALT-COM;POCO;M2 Pro;Altavoz;Compatible;3,15;;;6
+PO-M2P-AUR-COM;POCO;M2 Pro;Auricular de llamada;Compatible;2,15;;;6
+PO-M2P-FLX-COM;POCO;M2 Pro;Flex de encendido y volumen;Compatible;2,10;;;6
+PO-M2P-SIM-COM;POCO;M2 Pro;Bandeja SIM;Compatible;2,35;;;6
+PO-X2-PAN-ORI;POCO;X2;Pantalla;Original;30,15;29,25;28,34;12
+PO-X2-PAN-COM;POCO;X2;Pantalla;Compatible;15,25;14,79;14,34;6
+PO-X2-BAT-COM;POCO;X2;Batería;Compatible;8,89;;;6
+PO-X2-CON-COM;POCO;X2;Conector de carga;Compatible;3,60;;;6
+PO-X2-TAP-COM;POCO;X2;Tapa trasera;Compatible;5,65;;;6
+PO-X2-CTR-COM;POCO;X2;Cámara trasera;Compatible;5,79;;;6
+PO-X2-CFR-COM;POCO;X2;Cámara frontal;Compatible;3,05;;;6
+PO-X2-LEN-COM;POCO;X2;Lente de cámara;Compatible;1,90;;;6
+PO-X2-ALT-COM;POCO;X2;Altavoz;Compatible;3,15;;;6
+PO-X2-AUR-COM;POCO;X2;Auricular de llamada;Compatible;2,15;;;6
+PO-X2-FLX-COM;POCO;X2;Flex de encendido y volumen;Compatible;2,10;;;6
+PO-X2-SIM-COM;POCO;X2;Bandeja SIM;Compatible;2,35;;;6
+PO-C85X5-PAN-COM;POCO;C85x 5G;Pantalla;Compatible;14,00;13,58;13,16;6
+PO-C85X5-BAT-COM;POCO;C85x 5G;Batería;Compatible;8,80;;;6
+PO-C85X5-CON-COM;POCO;C85x 5G;Conector de carga;Compatible;3,95;;;6
+PO-C85X5-TAP-COM;POCO;C85x 5G;Tapa trasera;Compatible;5,90;;;6
+PO-C85X5-CTR-COM;POCO;C85x 5G;Cámara trasera;Compatible;9,75;;;6
+PO-C85X5-CFR-COM;POCO;C85x 5G;Cámara frontal;Compatible;5,89;;;6
+PO-C85X5-LEN-COM;POCO;C85x 5G;Lente de cámara;Compatible;2,65;;;6
+PO-C85X5-ALT-COM;POCO;C85x 5G;Altavoz;Compatible;4,35;;;6
+PO-C85X5-AUR-COM;POCO;C85x 5G;Auricular de llamada;Compatible;3,35;;;6
+PO-C85X5-FLX-COM;POCO;C85x 5G;Flex de encendido y volumen;Compatible;2,85;;;6
+PO-C85X5-SIM-COM;POCO;C85x 5G;Bandeja SIM;Compatible;2,89;;;6
+PO-F1-PAN-ORI;POCO;F1;Pantalla;Original;31,49;30,55;29,60;12
+PO-F1-PAN-COM;POCO;F1;Pantalla;Compatible;14,69;14,25;13,81;6
+PO-F1-BAT-COM;POCO;F1;Batería;Compatible;11,15;10,82;10,48;6
+PO-F1-CON-COM;POCO;F1;Conector de carga;Compatible;3,55;;;6
+PO-F1-TAP-COM-NEG;POCO;F1;Tapa trasera;Negro grafito;5,45;;;6
+PO-F1-TAP-COM-AZU;POCO;F1;Tapa trasera;Azul acero;5,45;;;6
+PO-F1-TAP-COM-ROJ;POCO;F1;Tapa trasera;Rojo;5,45;;;6
+PO-F1-TAP-COM-ARM;POCO;F1;Tapa trasera;Armored Edition;5,45;;;6
+PO-F1-CTR-COM;POCO;F1;Cámara trasera;Compatible;8,60;;;6
+PO-F1-CFR-COM;POCO;F1;Cámara frontal;Compatible;4,40;;;6
+PO-F1-LEN-COM;POCO;F1;Lente de cámara;Compatible;2,25;;;6
+PO-F1-ALT-COM;POCO;F1;Altavoz;Compatible;3,75;;;6
+PO-F1-AUR-COM;POCO;F1;Auricular de llamada;Compatible;2,95;;;6
+PO-F1-FLX-COM;POCO;F1;Flex de encendido y volumen;Compatible;2,95;;;6
+PO-F1-SIM-COM-NEG;POCO;F1;Bandeja SIM;Negro grafito;2,65;;;6
+PO-F1-SIM-COM-AZU;POCO;F1;Bandeja SIM;Azul acero;2,65;;;6
+PO-F1-SIM-COM-ROJ;POCO;F1;Bandeja SIM;Rojo;2,65;;;6
+PO-F1-SIM-COM-ARM;POCO;F1;Bandeja SIM;Armored Edition;2,65;;;6
+PO-X3GT-PAN-ORI;POCO;X3 GT;Pantalla;Original;30,15;29,25;28,34;12
+PO-X3GT-PAN-COM;POCO;X3 GT;Pantalla;Compatible;15,25;14,79;14,34;6
+PO-X3GT-BAT-COM;POCO;X3 GT;Batería;Compatible;8,89;;;6
+PO-X3GT-CON-COM;POCO;X3 GT;Conector de carga;Compatible;3,60;;;6
+PO-X3GT-TAP-COM-BLA;POCO;X3 GT;Tapa trasera;Blanco (Cloud White);5,65;;;6
+PO-X3GT-TAP-COM-AZU;POCO;X3 GT;Tapa trasera;Azul (Wave Blue);5,65;;;6
+PO-X3GT-TAP-COM-NEG;POCO;X3 GT;Tapa trasera;Negro (Stargaze Black);5,65;;;6
+PO-X3GT-CTR-COM;POCO;X3 GT;Cámara trasera;Compatible;5,79;;;6
+PO-X3GT-CFR-COM;POCO;X3 GT;Cámara frontal;Compatible;3,05;;;6
+PO-X3GT-LEN-COM;POCO;X3 GT;Lente de cámara;Compatible;1,90;;;6
+PO-X3GT-ALT-COM;POCO;X3 GT;Altavoz;Compatible;3,15;;;6
+PO-X3GT-AUR-COM;POCO;X3 GT;Auricular de llamada;Compatible;2,15;;;6
+PO-X3GT-FLX-COM;POCO;X3 GT;Flex de encendido y volumen;Compatible;2,10;;;6
+PO-X3GT-SIM-COM-BLA;POCO;X3 GT;Bandeja SIM;Blanco (Cloud White);2,35;;;6
+PO-X3GT-SIM-COM-AZU;POCO;X3 GT;Bandeja SIM;Azul (Wave Blue);2,35;;;6
+PO-X3GT-SIM-COM-NEG;POCO;X3 GT;Bandeja SIM;Negro (Stargaze Black);2,35;;;6
+PO-C71-PAN-COM;POCO;C71;Pantalla;Compatible;14,00;13,58;13,16;6
+PO-C71-BAT-COM;POCO;C71;Batería;Compatible;8,80;;;6
+PO-C71-CON-COM;POCO;C71;Conector de carga;Compatible;3,95;;;6
+PO-C71-TAP-COM-NEG;POCO;C71;Tapa trasera;Negro;5,90;;;6
+PO-C71-TAP-COM-AZU;POCO;C71;Tapa trasera;Azul;5,90;;;6
+PO-C71-TAP-COM-DOR;POCO;C71;Tapa trasera;Dorado;5,90;;;6
+PO-C71-CTR-COM;POCO;C71;Cámara trasera;Compatible;9,75;;;6
+PO-C71-CFR-COM;POCO;C71;Cámara frontal;Compatible;5,89;;;6
+PO-C71-LEN-COM;POCO;C71;Lente de cámara;Compatible;2,65;;;6
+PO-C71-ALT-COM;POCO;C71;Altavoz;Compatible;4,35;;;6
+PO-C71-AUR-COM;POCO;C71;Auricular de llamada;Compatible;3,35;;;6
+PO-C71-FLX-COM;POCO;C71;Flex de encendido y volumen;Compatible;2,85;;;6
+PO-C71-SIM-COM-NEG;POCO;C71;Bandeja SIM;Negro;2,89;;;6
+PO-C71-SIM-COM-AZU;POCO;C71;Bandeja SIM;Azul;2,89;;;6
+PO-C71-SIM-COM-DOR;POCO;C71;Bandeja SIM;Dorado;2,89;;;6
+PO-F2P-PRO-NA;POCO;F2 Pro;Cristal templado;Estándar;1,30;;;
+PO-F2P-PRO-NA-FG;POCO;F2 Pro;Cristal templado;UV full glue;4,15;;;
+PO-F2P-PRO-PRI;POCO;F2 Pro;Cristal templado;Privacidad;4,00;;;
+PO-F2P-FUN-SIL;POCO;F2 Pro;Funda;Silicona;2,50;;;
+PO-F2P-FUN-TPU;POCO;F2 Pro;Funda;Transparente;2,95;;;
+PO-F2P-FUN-LIB;POCO;F2 Pro;Funda;Libro;3,70;;;
+PO-F2P-FUN-ANT;POCO;F2 Pro;Funda;Antigolpes;3,10;;;
+PO-F2P-PCA-NA;POCO;F2 Pro;Protector de cámara;Cristal;2,90;;;
+PO-X3NFC-PRO-NA;POCO;X3 NFC;Cristal templado;Estándar;1,30;;;
+PO-X3NFC-PRO-PRI;POCO;X3 NFC;Cristal templado;Privacidad;4,00;;;
+PO-X3NFC-FUN-SIL;POCO;X3 NFC;Funda;Silicona;2,50;;;
+PO-X3NFC-FUN-TPU;POCO;X3 NFC;Funda;Transparente;2,95;;;
+PO-X3NFC-FUN-LIB;POCO;X3 NFC;Funda;Libro;3,70;;;
+PO-X3NFC-FUN-ANT;POCO;X3 NFC;Funda;Antigolpes;3,10;;;
+PO-X3NFC-PCA-NA;POCO;X3 NFC;Protector de cámara;Cristal;2,90;;;
+PO-M3-PRO-NA;POCO;M3;Cristal templado;Estándar;1,30;;;
+PO-M3-PRO-PRI;POCO;M3;Cristal templado;Privacidad;4,00;;;
+PO-M3-FUN-SIL;POCO;M3;Funda;Silicona;2,50;;;
+PO-M3-FUN-TPU;POCO;M3;Funda;Transparente;2,95;;;
+PO-M3-FUN-LIB;POCO;M3;Funda;Libro;3,70;;;
+PO-M3-FUN-ANT;POCO;M3;Funda;Antigolpes;3,10;;;
+PO-M3-PCA-NA;POCO;M3;Protector de cámara;Cristal;2,90;;;
+PO-X3P-PRO-NA;POCO;X3 Pro;Cristal templado;Estándar;1,30;;;
+PO-X3P-PRO-PRI;POCO;X3 Pro;Cristal templado;Privacidad;4,00;;;
+PO-X3P-FUN-SIL;POCO;X3 Pro;Funda;Silicona;2,50;;;
+PO-X3P-FUN-TPU;POCO;X3 Pro;Funda;Transparente;2,95;;;
+PO-X3P-FUN-LIB;POCO;X3 Pro;Funda;Libro;3,70;;;
+PO-X3P-FUN-ANT;POCO;X3 Pro;Funda;Antigolpes;3,10;;;
+PO-X3P-PCA-NA;POCO;X3 Pro;Protector de cámara;Cristal;2,90;;;
+PO-F3-PRO-NA;POCO;F3;Cristal templado;Estándar;1,30;;;
+PO-F3-PRO-PRI;POCO;F3;Cristal templado;Privacidad;4,00;;;
+PO-F3-FUN-SIL;POCO;F3;Funda;Silicona;2,50;;;
+PO-F3-FUN-TPU;POCO;F3;Funda;Transparente;2,95;;;
+PO-F3-FUN-LIB;POCO;F3;Funda;Libro;3,70;;;
+PO-F3-FUN-ANT;POCO;F3;Funda;Antigolpes;3,10;;;
+PO-F3-PCA-NA;POCO;F3;Protector de cámara;Cristal;2,90;;;
+PO-M3P5-PRO-NA;POCO;M3 Pro 5G;Cristal templado;Estándar;1,30;;;
+PO-M3P5-PRO-PRI;POCO;M3 Pro 5G;Cristal templado;Privacidad;4,00;;;
+PO-M3P5-FUN-SIL;POCO;M3 Pro 5G;Funda;Silicona;2,50;;;
+PO-M3P5-FUN-TPU;POCO;M3 Pro 5G;Funda;Transparente;2,95;;;
+PO-M3P5-FUN-LIB;POCO;M3 Pro 5G;Funda;Libro;3,70;;;
+PO-M3P5-FUN-ANT;POCO;M3 Pro 5G;Funda;Antigolpes;3,10;;;
+PO-M3P5-PCA-NA;POCO;M3 Pro 5G;Protector de cámara;Cristal;2,90;;;
+PO-M4P5-PRO-NA;POCO;M4 Pro 5G;Cristal templado;Estándar;1,30;;;
+PO-M4P5-PRO-PRI;POCO;M4 Pro 5G;Cristal templado;Privacidad;4,00;;;
+PO-M4P5-FUN-SIL;POCO;M4 Pro 5G;Funda;Silicona;2,50;;;
+PO-M4P5-FUN-TPU;POCO;M4 Pro 5G;Funda;Transparente;2,95;;;
+PO-M4P5-FUN-LIB;POCO;M4 Pro 5G;Funda;Libro;3,70;;;
+PO-M4P5-FUN-ANT;POCO;M4 Pro 5G;Funda;Antigolpes;3,10;;;
+PO-M4P5-PCA-NA;POCO;M4 Pro 5G;Protector de cámara;Cristal;2,90;;;
+PO-M4P-PRO-NA;POCO;M4 Pro;Cristal templado;Estándar;1,30;;;
+PO-M4P-PRO-PRI;POCO;M4 Pro;Cristal templado;Privacidad;4,00;;;
+PO-M4P-FUN-SIL;POCO;M4 Pro;Funda;Silicona;2,50;;;
+PO-M4P-FUN-TPU;POCO;M4 Pro;Funda;Transparente;2,95;;;
+PO-M4P-FUN-LIB;POCO;M4 Pro;Funda;Libro;3,70;;;
+PO-M4P-FUN-ANT;POCO;M4 Pro;Funda;Antigolpes;3,10;;;
+PO-M4P-PCA-NA;POCO;M4 Pro;Protector de cámara;Cristal;2,90;;;
+PO-X4P5-PRO-NA;POCO;X4 Pro 5G;Cristal templado;Estándar;1,30;;;
+PO-X4P5-PRO-PRI;POCO;X4 Pro 5G;Cristal templado;Privacidad;4,00;;;
+PO-X4P5-FUN-SIL;POCO;X4 Pro 5G;Funda;Silicona;2,50;;;
+PO-X4P5-FUN-TPU;POCO;X4 Pro 5G;Funda;Transparente;2,95;;;
+PO-X4P5-FUN-LIB;POCO;X4 Pro 5G;Funda;Libro;3,70;;;
+PO-X4P5-FUN-ANT;POCO;X4 Pro 5G;Funda;Antigolpes;3,10;;;
+PO-X4P5-PCA-NA;POCO;X4 Pro 5G;Protector de cámara;Cristal;2,90;;;
+PO-F4GT-PRO-NA;POCO;F4 GT;Cristal templado;Estándar;1,30;;;
+PO-F4GT-PRO-PRI;POCO;F4 GT;Cristal templado;Privacidad;4,00;;;
+PO-F4GT-FUN-SIL;POCO;F4 GT;Funda;Silicona;2,50;;;
+PO-F4GT-FUN-TPU;POCO;F4 GT;Funda;Transparente;2,95;;;
+PO-F4GT-FUN-LIB;POCO;F4 GT;Funda;Libro;3,70;;;
+PO-F4GT-FUN-ANT;POCO;F4 GT;Funda;Antigolpes;3,10;;;
+PO-F4GT-PCA-NA;POCO;F4 GT;Protector de cámara;Cristal;2,90;;;
+PO-F4-PRO-NA;POCO;F4;Cristal templado;Estándar;1,30;;;
+PO-F4-PRO-PRI;POCO;F4;Cristal templado;Privacidad;4,00;;;
+PO-F4-FUN-SIL;POCO;F4;Funda;Silicona;2,50;;;
+PO-F4-FUN-TPU;POCO;F4;Funda;Transparente;2,95;;;
+PO-F4-FUN-LIB;POCO;F4;Funda;Libro;3,70;;;
+PO-F4-FUN-ANT;POCO;F4;Funda;Antigolpes;3,10;;;
+PO-F4-PCA-NA;POCO;F4;Protector de cámara;Cristal;2,90;;;
+PO-X4GT-PRO-NA;POCO;X4 GT;Cristal templado;Estándar;1,30;;;
+PO-X4GT-PRO-PRI;POCO;X4 GT;Cristal templado;Privacidad;4,00;;;
+PO-X4GT-FUN-SIL;POCO;X4 GT;Funda;Silicona;2,50;;;
+PO-X4GT-FUN-TPU;POCO;X4 GT;Funda;Transparente;2,95;;;
+PO-X4GT-FUN-LIB;POCO;X4 GT;Funda;Libro;3,70;;;
+PO-X4GT-FUN-ANT;POCO;X4 GT;Funda;Antigolpes;3,10;;;
+PO-X4GT-PCA-NA;POCO;X4 GT;Protector de cámara;Cristal;2,90;;;
+PO-C40-PRO-NA;POCO;C40;Cristal templado;Estándar;1,30;;;
+PO-C40-PRO-PRI;POCO;C40;Cristal templado;Privacidad;4,00;;;
+PO-C40-FUN-SIL;POCO;C40;Funda;Silicona;2,50;;;
+PO-C40-FUN-TPU;POCO;C40;Funda;Transparente;2,95;;;
+PO-C40-FUN-LIB;POCO;C40;Funda;Libro;3,70;;;
+PO-C40-FUN-ANT;POCO;C40;Funda;Antigolpes;3,10;;;
+PO-C40-PCA-NA;POCO;C40;Protector de cámara;Cristal;2,90;;;
+PO-M45-PRO-NA;POCO;M4 5G;Cristal templado;Estándar;1,30;;;
+PO-M45-PRO-PRI;POCO;M4 5G;Cristal templado;Privacidad;4,00;;;
+PO-M45-FUN-SIL;POCO;M4 5G;Funda;Silicona;2,50;;;
+PO-M45-FUN-TPU;POCO;M4 5G;Funda;Transparente;2,95;;;
+PO-M45-FUN-LIB;POCO;M4 5G;Funda;Libro;3,70;;;
+PO-M45-FUN-ANT;POCO;M4 5G;Funda;Antigolpes;3,10;;;
+PO-M45-PCA-NA;POCO;M4 5G;Protector de cámara;Cristal;2,90;;;
+PO-M5-PRO-NA;POCO;M5;Cristal templado;Estándar;1,30;;;
+PO-M5-PRO-PRI;POCO;M5;Cristal templado;Privacidad;4,00;;;
+PO-M5-FUN-SIL;POCO;M5;Funda;Silicona;2,50;;;
+PO-M5-FUN-TPU;POCO;M5;Funda;Transparente;2,95;;;
+PO-M5-FUN-LIB;POCO;M5;Funda;Libro;3,70;;;
+PO-M5-FUN-ANT;POCO;M5;Funda;Antigolpes;3,10;;;
+PO-M5-PCA-NA;POCO;M5;Protector de cámara;Cristal;2,90;;;
+PO-M5S-PRO-NA;POCO;M5s;Cristal templado;Estándar;1,30;;;
+PO-M5S-PRO-PRI;POCO;M5s;Cristal templado;Privacidad;4,00;;;
+PO-M5S-FUN-SIL;POCO;M5s;Funda;Silicona;2,50;;;
+PO-M5S-FUN-TPU;POCO;M5s;Funda;Transparente;2,95;;;
+PO-M5S-FUN-LIB;POCO;M5s;Funda;Libro;3,70;;;
+PO-M5S-FUN-ANT;POCO;M5s;Funda;Antigolpes;3,10;;;
+PO-M5S-PCA-NA;POCO;M5s;Protector de cámara;Cristal;2,90;;;
+PO-X55-PRO-NA;POCO;X5 5G;Cristal templado;Estándar;1,30;;;
+PO-X55-PRO-PRI;POCO;X5 5G;Cristal templado;Privacidad;4,00;;;
+PO-X55-FUN-SIL;POCO;X5 5G;Funda;Silicona;2,50;;;
+PO-X55-FUN-TPU;POCO;X5 5G;Funda;Transparente;2,95;;;
+PO-X55-FUN-LIB;POCO;X5 5G;Funda;Libro;3,70;;;
+PO-X55-FUN-ANT;POCO;X5 5G;Funda;Antigolpes;3,10;;;
+PO-X55-PCA-NA;POCO;X5 5G;Protector de cámara;Cristal;2,90;;;
+PO-X5P5-PRO-NA;POCO;X5 Pro 5G;Cristal templado;Estándar;1,30;;;
+PO-X5P5-PRO-PRI;POCO;X5 Pro 5G;Cristal templado;Privacidad;4,00;;;
+PO-X5P5-FUN-SIL;POCO;X5 Pro 5G;Funda;Silicona;2,50;;;
+PO-X5P5-FUN-TPU;POCO;X5 Pro 5G;Funda;Transparente;2,95;;;
+PO-X5P5-FUN-LIB;POCO;X5 Pro 5G;Funda;Libro;3,70;;;
+PO-X5P5-FUN-ANT;POCO;X5 Pro 5G;Funda;Antigolpes;3,10;;;
+PO-X5P5-PCA-NA;POCO;X5 Pro 5G;Protector de cámara;Cristal;2,90;;;
+PO-F5-PRO-NA;POCO;F5;Cristal templado;Estándar;1,30;;;
+PO-F5-PRO-PRI;POCO;F5;Cristal templado;Privacidad;4,00;;;
+PO-F5-FUN-SIL;POCO;F5;Funda;Silicona;2,50;;;
+PO-F5-FUN-TPU;POCO;F5;Funda;Transparente;2,95;;;
+PO-F5-FUN-LIB;POCO;F5;Funda;Libro;3,70;;;
+PO-F5-FUN-ANT;POCO;F5;Funda;Antigolpes;3,10;;;
+PO-F5-PCA-NA;POCO;F5;Protector de cámara;Cristal;2,90;;;
+PO-F5P-PRO-NA;POCO;F5 Pro;Cristal templado;Estándar;1,30;;;
+PO-F5P-PRO-NA-FG;POCO;F5 Pro;Cristal templado;UV full glue;4,15;;;
+PO-F5P-PRO-PRI;POCO;F5 Pro;Cristal templado;Privacidad;4,00;;;
+PO-F5P-FUN-SIL;POCO;F5 Pro;Funda;Silicona;2,50;;;
+PO-F5P-FUN-TPU;POCO;F5 Pro;Funda;Transparente;2,95;;;
+PO-F5P-FUN-LIB;POCO;F5 Pro;Funda;Libro;3,70;;;
+PO-F5P-FUN-ANT;POCO;F5 Pro;Funda;Antigolpes;3,10;;;
+PO-F5P-PCA-NA;POCO;F5 Pro;Protector de cámara;Cristal;2,90;;;
+PO-C65-PRO-NA;POCO;C65;Cristal templado;Estándar;1,30;;;
+PO-C65-PRO-PRI;POCO;C65;Cristal templado;Privacidad;4,00;;;
+PO-C65-FUN-SIL;POCO;C65;Funda;Silicona;2,50;;;
+PO-C65-FUN-TPU;POCO;C65;Funda;Transparente;2,95;;;
+PO-C65-FUN-LIB;POCO;C65;Funda;Libro;3,70;;;
+PO-C65-FUN-ANT;POCO;C65;Funda;Antigolpes;3,10;;;
+PO-C65-PCA-NA;POCO;C65;Protector de cámara;Cristal;2,90;;;
+PO-M6P-PRO-NA;POCO;M6 Pro;Cristal templado;Estándar;1,30;;;
+PO-M6P-PRO-PRI;POCO;M6 Pro;Cristal templado;Privacidad;4,00;;;
+PO-M6P-FUN-SIL;POCO;M6 Pro;Funda;Silicona;2,50;;;
+PO-M6P-FUN-TPU;POCO;M6 Pro;Funda;Transparente;2,95;;;
+PO-M6P-FUN-LIB;POCO;M6 Pro;Funda;Libro;3,70;;;
+PO-M6P-FUN-ANT;POCO;M6 Pro;Funda;Antigolpes;3,10;;;
+PO-M6P-PCA-NA;POCO;M6 Pro;Protector de cámara;Cristal;2,90;;;
+PO-X65-PRO-NA;POCO;X6 5G;Cristal templado;Estándar;1,30;;;
+PO-X65-PRO-PRI;POCO;X6 5G;Cristal templado;Privacidad;4,00;;;
+PO-X65-FUN-SIL;POCO;X6 5G;Funda;Silicona;2,50;;;
+PO-X65-FUN-TPU;POCO;X6 5G;Funda;Transparente;2,95;;;
+PO-X65-FUN-LIB;POCO;X6 5G;Funda;Libro;3,70;;;
+PO-X65-FUN-ANT;POCO;X6 5G;Funda;Antigolpes;3,10;;;
+PO-X65-PCA-NA;POCO;X6 5G;Protector de cámara;Cristal;2,90;;;
+PO-X6P5-PRO-NA;POCO;X6 Pro 5G;Cristal templado;Estándar;1,30;;;
+PO-X6P5-PRO-PRI;POCO;X6 Pro 5G;Cristal templado;Privacidad;4,00;;;
+PO-X6P5-FUN-SIL;POCO;X6 Pro 5G;Funda;Silicona;2,50;;;
+PO-X6P5-FUN-TPU;POCO;X6 Pro 5G;Funda;Transparente;2,95;;;
+PO-X6P5-FUN-LIB;POCO;X6 Pro 5G;Funda;Libro;3,70;;;
+PO-X6P5-FUN-ANT;POCO;X6 Pro 5G;Funda;Antigolpes;3,10;;;
+PO-X6P5-PCA-NA;POCO;X6 Pro 5G;Protector de cámara;Cristal;2,90;;;
+PO-F6-PRO-NA;POCO;F6;Cristal templado;Estándar;1,30;;;
+PO-F6-PRO-PRI;POCO;F6;Cristal templado;Privacidad;4,00;;;
+PO-F6-FUN-SIL;POCO;F6;Funda;Silicona;2,50;;;
+PO-F6-FUN-TPU;POCO;F6;Funda;Transparente;2,95;;;
+PO-F6-FUN-LIB;POCO;F6;Funda;Libro;3,70;;;
+PO-F6-FUN-ANT;POCO;F6;Funda;Antigolpes;3,10;;;
+PO-F6-PCA-NA;POCO;F6;Protector de cámara;Cristal;2,90;;;
+PO-F6P-PRO-NA;POCO;F6 Pro;Cristal templado;Estándar;1,30;;;
+PO-F6P-PRO-NA-FG;POCO;F6 Pro;Cristal templado;UV full glue;4,15;;;
+PO-F6P-PRO-PRI;POCO;F6 Pro;Cristal templado;Privacidad;4,00;;;
+PO-F6P-FUN-SIL;POCO;F6 Pro;Funda;Silicona;2,50;;;
+PO-F6P-FUN-TPU;POCO;F6 Pro;Funda;Transparente;2,95;;;
+PO-F6P-FUN-LIB;POCO;F6 Pro;Funda;Libro;3,70;;;
+PO-F6P-FUN-ANT;POCO;F6 Pro;Funda;Antigolpes;3,10;;;
+PO-F6P-PCA-NA;POCO;F6 Pro;Protector de cámara;Cristal;2,90;;;
+PO-M6-PRO-NA;POCO;M6;Cristal templado;Estándar;1,30;;;
+PO-M6-PRO-PRI;POCO;M6;Cristal templado;Privacidad;4,00;;;
+PO-M6-FUN-SIL;POCO;M6;Funda;Silicona;2,50;;;
+PO-M6-FUN-TPU;POCO;M6;Funda;Transparente;2,95;;;
+PO-M6-FUN-LIB;POCO;M6;Funda;Libro;3,70;;;
+PO-M6-FUN-ANT;POCO;M6;Funda;Antigolpes;3,10;;;
+PO-M6-PCA-NA;POCO;M6;Protector de cámara;Cristal;2,90;;;
+PO-C75-PRO-NA;POCO;C75;Cristal templado;Estándar;1,30;;;
+PO-C75-PRO-PRI;POCO;C75;Cristal templado;Privacidad;4,00;;;
+PO-C75-FUN-SIL;POCO;C75;Funda;Silicona;2,50;;;
+PO-C75-FUN-TPU;POCO;C75;Funda;Transparente;2,95;;;
+PO-C75-FUN-LIB;POCO;C75;Funda;Libro;3,70;;;
+PO-C75-FUN-ANT;POCO;C75;Funda;Antigolpes;3,10;;;
+PO-M7P5-PRO-NA;POCO;M7 Pro 5G;Cristal templado;Estándar;1,30;;;
+PO-M7P5-PRO-PRI;POCO;M7 Pro 5G;Cristal templado;Privacidad;4,00;;;
+PO-M7P5-FUN-SIL;POCO;M7 Pro 5G;Funda;Silicona;2,50;;;
+PO-M7P5-FUN-TPU;POCO;M7 Pro 5G;Funda;Transparente;2,95;;;
+PO-M7P5-FUN-LIB;POCO;M7 Pro 5G;Funda;Libro;3,70;;;
+PO-M7P5-FUN-ANT;POCO;M7 Pro 5G;Funda;Antigolpes;3,10;;;
+PO-M7P5-PCA-NA;POCO;M7 Pro 5G;Protector de cámara;Cristal;2,90;;;
+PO-X7-PRO-NA;POCO;X7;Cristal templado;Estándar;1,30;;;
+PO-X7-PRO-PRI;POCO;X7;Cristal templado;Privacidad;4,00;;;
+PO-X7-FUN-SIL;POCO;X7;Funda;Silicona;2,50;;;
+PO-X7-FUN-TPU;POCO;X7;Funda;Transparente;2,95;;;
+PO-X7-FUN-LIB;POCO;X7;Funda;Libro;3,70;;;
+PO-X7-FUN-ANT;POCO;X7;Funda;Antigolpes;3,10;;;
+PO-X7-PCA-NA;POCO;X7;Protector de cámara;Cristal;2,90;;;
+PO-X7P-PRO-NA;POCO;X7 Pro;Cristal templado;Estándar;1,30;;;
+PO-X7P-PRO-PRI;POCO;X7 Pro;Cristal templado;Privacidad;4,00;;;
+PO-X7P-FUN-SIL;POCO;X7 Pro;Funda;Silicona;2,50;;;
+PO-X7P-FUN-TPU;POCO;X7 Pro;Funda;Transparente;2,95;;;
+PO-X7P-FUN-LIB;POCO;X7 Pro;Funda;Libro;3,70;;;
+PO-X7P-FUN-ANT;POCO;X7 Pro;Funda;Antigolpes;3,10;;;
+PO-X7P-PCA-NA;POCO;X7 Pro;Protector de cámara;Cristal;2,90;;;
+PO-F7P-PRO-NA;POCO;F7 Pro;Cristal templado;Estándar;1,30;;;
+PO-F7P-PRO-NA-FG;POCO;F7 Pro;Cristal templado;UV full glue;4,15;;;
+PO-F7P-PRO-PRI;POCO;F7 Pro;Cristal templado;Privacidad;4,00;;;
+PO-F7P-FUN-SIL;POCO;F7 Pro;Funda;Silicona;2,50;;;
+PO-F7P-FUN-TPU;POCO;F7 Pro;Funda;Transparente;2,95;;;
+PO-F7P-FUN-LIB;POCO;F7 Pro;Funda;Libro;3,70;;;
+PO-F7P-FUN-ANT;POCO;F7 Pro;Funda;Antigolpes;3,10;;;
+PO-F7P-PCA-NA;POCO;F7 Pro;Protector de cámara;Cristal;2,90;;;
+PO-F7U-PRO-NA;POCO;F7 Ultra;Cristal templado;Estándar;1,30;;;
+PO-F7U-PRO-NA-FG;POCO;F7 Ultra;Cristal templado;UV full glue;4,15;;;
+PO-F7U-PRO-PRI;POCO;F7 Ultra;Cristal templado;Privacidad;4,00;;;
+PO-F7U-FUN-SIL;POCO;F7 Ultra;Funda;Silicona;2,50;;;
+PO-F7U-FUN-TPU;POCO;F7 Ultra;Funda;Transparente;2,95;;;
+PO-F7U-FUN-LIB;POCO;F7 Ultra;Funda;Libro;3,70;;;
+PO-F7U-FUN-ANT;POCO;F7 Ultra;Funda;Antigolpes;3,10;;;
+PO-F7U-PCA-NA;POCO;F7 Ultra;Protector de cámara;Cristal;2,90;;;
+PO-F7-PRO-NA;POCO;F7;Cristal templado;Estándar;1,30;;;
+PO-F7-PRO-PRI;POCO;F7;Cristal templado;Privacidad;4,00;;;
+PO-F7-FUN-SIL;POCO;F7;Funda;Silicona;2,50;;;
+PO-F7-FUN-TPU;POCO;F7;Funda;Transparente;2,95;;;
+PO-F7-FUN-LIB;POCO;F7;Funda;Libro;3,70;;;
+PO-F7-FUN-ANT;POCO;F7;Funda;Antigolpes;3,10;;;
+PO-F7-PCA-NA;POCO;F7;Protector de cámara;Cristal;2,90;;;
+PO-M7-PRO-NA;POCO;M7;Cristal templado;Estándar;1,30;;;
+PO-M7-PRO-PRI;POCO;M7;Cristal templado;Privacidad;4,00;;;
+PO-M7-FUN-SIL;POCO;M7;Funda;Silicona;2,50;;;
+PO-M7-FUN-TPU;POCO;M7;Funda;Transparente;2,95;;;
+PO-M7-FUN-LIB;POCO;M7;Funda;Libro;3,70;;;
+PO-M7-FUN-ANT;POCO;M7;Funda;Antigolpes;3,10;;;
+PO-C85-PRO-NA;POCO;C85;Cristal templado;Estándar;1,30;;;
+PO-C85-PRO-PRI;POCO;C85;Cristal templado;Privacidad;4,00;;;
+PO-C85-FUN-SIL;POCO;C85;Funda;Silicona;2,50;;;
+PO-C85-FUN-TPU;POCO;C85;Funda;Transparente;2,95;;;
+PO-C85-FUN-LIB;POCO;C85;Funda;Libro;3,70;;;
+PO-C85-FUN-ANT;POCO;C85;Funda;Antigolpes;3,10;;;
+PO-F8P-PRO-NA;POCO;F8 Pro;Cristal templado;Estándar;1,30;;;
+PO-F8P-PRO-NA-FG;POCO;F8 Pro;Cristal templado;UV full glue;4,15;;;
+PO-F8P-PRO-PRI;POCO;F8 Pro;Cristal templado;Privacidad;4,00;;;
+PO-F8P-FUN-SIL;POCO;F8 Pro;Funda;Silicona;2,50;;;
+PO-F8P-FUN-TPU;POCO;F8 Pro;Funda;Transparente;2,95;;;
+PO-F8P-FUN-LIB;POCO;F8 Pro;Funda;Libro;3,70;;;
+PO-F8P-FUN-ANT;POCO;F8 Pro;Funda;Antigolpes;3,10;;;
+PO-F8P-PCA-NA;POCO;F8 Pro;Protector de cámara;Cristal;2,90;;;
+PO-F8U-PRO-NA;POCO;F8 Ultra;Cristal templado;Estándar;1,30;;;
+PO-F8U-PRO-NA-FG;POCO;F8 Ultra;Cristal templado;UV full glue;4,15;;;
+PO-F8U-PRO-PRI;POCO;F8 Ultra;Cristal templado;Privacidad;4,00;;;
+PO-F8U-FUN-SIL;POCO;F8 Ultra;Funda;Silicona;2,50;;;
+PO-F8U-FUN-TPU;POCO;F8 Ultra;Funda;Transparente;2,95;;;
+PO-F8U-FUN-LIB;POCO;F8 Ultra;Funda;Libro;3,70;;;
+PO-F8U-FUN-ANT;POCO;F8 Ultra;Funda;Antigolpes;3,10;;;
+PO-F8U-PCA-NA;POCO;F8 Ultra;Protector de cámara;Cristal;2,90;;;
+PO-M85-PRO-NA;POCO;M8 5G;Cristal templado;Estándar;1,30;;;
+PO-M85-PRO-PRI;POCO;M8 5G;Cristal templado;Privacidad;4,00;;;
+PO-M85-FUN-SIL;POCO;M8 5G;Funda;Silicona;2,50;;;
+PO-M85-FUN-TPU;POCO;M8 5G;Funda;Transparente;2,95;;;
+PO-M85-FUN-LIB;POCO;M8 5G;Funda;Libro;3,70;;;
+PO-M85-FUN-ANT;POCO;M8 5G;Funda;Antigolpes;3,10;;;
+PO-M85-PCA-NA;POCO;M8 5G;Protector de cámara;Cristal;2,90;;;
+PO-M8P5-PRO-NA;POCO;M8 Pro 5G;Cristal templado;Estándar;1,30;;;
+PO-M8P5-PRO-PRI;POCO;M8 Pro 5G;Cristal templado;Privacidad;4,00;;;
+PO-M8P5-FUN-SIL;POCO;M8 Pro 5G;Funda;Silicona;2,50;;;
+PO-M8P5-FUN-TPU;POCO;M8 Pro 5G;Funda;Transparente;2,95;;;
+PO-M8P5-FUN-LIB;POCO;M8 Pro 5G;Funda;Libro;3,70;;;
+PO-M8P5-FUN-ANT;POCO;M8 Pro 5G;Funda;Antigolpes;3,10;;;
+PO-M8P5-PCA-NA;POCO;M8 Pro 5G;Protector de cámara;Cristal;2,90;;;
+PO-X8P-PRO-NA;POCO;X8 Pro;Cristal templado;Estándar;1,30;;;
+PO-X8P-PRO-PRI;POCO;X8 Pro;Cristal templado;Privacidad;4,00;;;
+PO-X8P-FUN-SIL;POCO;X8 Pro;Funda;Silicona;2,50;;;
+PO-X8P-FUN-TPU;POCO;X8 Pro;Funda;Transparente;2,95;;;
+PO-X8P-FUN-LIB;POCO;X8 Pro;Funda;Libro;3,70;;;
+PO-X8P-FUN-ANT;POCO;X8 Pro;Funda;Antigolpes;3,10;;;
+PO-X8P-PCA-NA;POCO;X8 Pro;Protector de cámara;Cristal;2,90;;;
+PO-X8PM-PRO-NA;POCO;X8 Pro Max;Cristal templado;Estándar;1,30;;;
+PO-X8PM-PRO-PRI;POCO;X8 Pro Max;Cristal templado;Privacidad;4,00;;;
+PO-X8PM-FUN-SIL;POCO;X8 Pro Max;Funda;Silicona;2,50;;;
+PO-X8PM-FUN-TPU;POCO;X8 Pro Max;Funda;Transparente;2,95;;;
+PO-X8PM-FUN-LIB;POCO;X8 Pro Max;Funda;Libro;3,70;;;
+PO-X8PM-FUN-ANT;POCO;X8 Pro Max;Funda;Antigolpes;3,10;;;
+PO-X8PM-PCA-NA;POCO;X8 Pro Max;Protector de cámara;Cristal;2,90;;;
+PO-C81P-PRO-NA;POCO;C81 Pro;Cristal templado;Estándar;1,30;;;
+PO-C81P-PRO-PRI;POCO;C81 Pro;Cristal templado;Privacidad;4,00;;;
+PO-C81P-FUN-SIL;POCO;C81 Pro;Funda;Silicona;2,50;;;
+PO-C81P-FUN-TPU;POCO;C81 Pro;Funda;Transparente;2,95;;;
+PO-C81P-FUN-LIB;POCO;C81 Pro;Funda;Libro;3,70;;;
+PO-C81P-FUN-ANT;POCO;C81 Pro;Funda;Antigolpes;3,10;;;
+PO-F9P-PRO-NA;POCO;F9 Pro;Cristal templado;Estándar;1,30;;;
+PO-F9P-PRO-NA-FG;POCO;F9 Pro;Cristal templado;UV full glue;4,15;;;
+PO-F9P-PRO-PRI;POCO;F9 Pro;Cristal templado;Privacidad;4,00;;;
+PO-F9P-FUN-SIL;POCO;F9 Pro;Funda;Silicona;2,50;;;
+PO-F9P-FUN-TPU;POCO;F9 Pro;Funda;Transparente;2,95;;;
+PO-F9P-FUN-LIB;POCO;F9 Pro;Funda;Libro;3,70;;;
+PO-F9P-FUN-ANT;POCO;F9 Pro;Funda;Antigolpes;3,10;;;
+PO-F9P-PCA-NA;POCO;F9 Pro;Protector de cámara;Cristal;2,90;;;
+PO-F9U-PRO-NA;POCO;F9 Ultra;Cristal templado;Estándar;1,30;;;
+PO-F9U-PRO-NA-FG;POCO;F9 Ultra;Cristal templado;UV full glue;4,15;;;
+PO-F9U-PRO-PRI;POCO;F9 Ultra;Cristal templado;Privacidad;4,00;;;
+PO-F9U-FUN-SIL;POCO;F9 Ultra;Funda;Silicona;2,50;;;
+PO-F9U-FUN-TPU;POCO;F9 Ultra;Funda;Transparente;2,95;;;
+PO-F9U-FUN-LIB;POCO;F9 Ultra;Funda;Libro;3,70;;;
+PO-F9U-FUN-ANT;POCO;F9 Ultra;Funda;Antigolpes;3,10;;;
+PO-F9U-PCA-NA;POCO;F9 Ultra;Protector de cámara;Cristal;2,90;;;
+PO-C855-PRO-NA;POCO;C85 5G;Cristal templado;Estándar;1,30;;;
+PO-C855-PRO-PRI;POCO;C85 5G;Cristal templado;Privacidad;4,00;;;
+PO-C855-FUN-SIL;POCO;C85 5G;Funda;Silicona;2,50;;;
+PO-C855-FUN-TPU;POCO;C85 5G;Funda;Transparente;2,95;;;
+PO-C855-FUN-LIB;POCO;C85 5G;Funda;Libro;3,70;;;
+PO-C855-FUN-ANT;POCO;C85 5G;Funda;Antigolpes;3,10;;;
+PO-C855-PCA-NA;POCO;C85 5G;Protector de cámara;Cristal;2,90;;;
+PO-M7PL-PRO-NA;POCO;M7 Plus;Cristal templado;Estándar;1,30;;;
+PO-M7PL-PRO-PRI;POCO;M7 Plus;Cristal templado;Privacidad;4,00;;;
+PO-M7PL-FUN-SIL;POCO;M7 Plus;Funda;Silicona;2,50;;;
+PO-M7PL-FUN-TPU;POCO;M7 Plus;Funda;Transparente;2,95;;;
+PO-M7PL-FUN-LIB;POCO;M7 Plus;Funda;Libro;3,70;;;
+PO-M7PL-FUN-ANT;POCO;M7 Plus;Funda;Antigolpes;3,10;;;
+PO-M75-PRO-NA;POCO;M7 5G;Cristal templado;Estándar;1,30;;;
+PO-M75-PRO-PRI;POCO;M7 5G;Cristal templado;Privacidad;4,00;;;
+PO-M75-FUN-SIL;POCO;M7 5G;Funda;Silicona;2,50;;;
+PO-M75-FUN-TPU;POCO;M7 5G;Funda;Transparente;2,95;;;
+PO-M75-FUN-LIB;POCO;M7 5G;Funda;Libro;3,70;;;
+PO-M75-FUN-ANT;POCO;M7 5G;Funda;Antigolpes;3,10;;;
+PO-M75-PCA-NA;POCO;M7 5G;Protector de cámara;Cristal;2,90;;;
+PO-C755-PRO-NA;POCO;C75 5G;Cristal templado;Estándar;1,30;;;
+PO-C755-PRO-PRI;POCO;C75 5G;Cristal templado;Privacidad;4,00;;;
+PO-C755-FUN-SIL;POCO;C75 5G;Funda;Silicona;2,50;;;
+PO-C755-FUN-TPU;POCO;C75 5G;Funda;Transparente;2,95;;;
+PO-C755-FUN-LIB;POCO;C75 5G;Funda;Libro;3,70;;;
+PO-C755-FUN-ANT;POCO;C75 5G;Funda;Antigolpes;3,10;;;
+PO-C755-PCA-NA;POCO;C75 5G;Protector de cámara;Cristal;2,90;;;
+PO-M6PL-PRO-NA;POCO;M6 Plus;Cristal templado;Estándar;1,30;;;
+PO-M6PL-PRO-PRI;POCO;M6 Plus;Cristal templado;Privacidad;4,00;;;
+PO-M6PL-FUN-SIL;POCO;M6 Plus;Funda;Silicona;2,50;;;
+PO-M6PL-FUN-TPU;POCO;M6 Plus;Funda;Transparente;2,95;;;
+PO-M6PL-FUN-LIB;POCO;M6 Plus;Funda;Libro;3,70;;;
+PO-M6PL-FUN-ANT;POCO;M6 Plus;Funda;Antigolpes;3,10;;;
+PO-M6PL-PCA-NA;POCO;M6 Plus;Protector de cámara;Cristal;2,90;;;
+PO-C61-PRO-NA;POCO;C61;Cristal templado;Estándar;1,30;;;
+PO-C61-PRO-PRI;POCO;C61;Cristal templado;Privacidad;4,00;;;
+PO-C61-FUN-SIL;POCO;C61;Funda;Silicona;2,50;;;
+PO-C61-FUN-TPU;POCO;C61;Funda;Transparente;2,95;;;
+PO-C61-FUN-LIB;POCO;C61;Funda;Libro;3,70;;;
+PO-C61-FUN-ANT;POCO;C61;Funda;Antigolpes;3,10;;;
+PO-C61-PCA-NA;POCO;C61;Protector de cámara;Cristal;2,90;;;
+PO-X6NEO-PRO-NA;POCO;X6 Neo;Cristal templado;Estándar;1,30;;;
+PO-X6NEO-PRO-PRI;POCO;X6 Neo;Cristal templado;Privacidad;4,00;;;
+PO-X6NEO-FUN-SIL;POCO;X6 Neo;Funda;Silicona;2,50;;;
+PO-X6NEO-FUN-TPU;POCO;X6 Neo;Funda;Transparente;2,95;;;
+PO-X6NEO-FUN-LIB;POCO;X6 Neo;Funda;Libro;3,70;;;
+PO-X6NEO-FUN-ANT;POCO;X6 Neo;Funda;Antigolpes;3,10;;;
+PO-X6NEO-PCA-NA;POCO;X6 Neo;Protector de cámara;Cristal;2,90;;;
+PO-M6P5-PRO-NA;POCO;M6 Pro 5G;Cristal templado;Estándar;1,30;;;
+PO-M6P5-PRO-PRI;POCO;M6 Pro 5G;Cristal templado;Privacidad;4,00;;;
+PO-M6P5-FUN-SIL;POCO;M6 Pro 5G;Funda;Silicona;2,50;;;
+PO-M6P5-FUN-TPU;POCO;M6 Pro 5G;Funda;Transparente;2,95;;;
+PO-M6P5-FUN-LIB;POCO;M6 Pro 5G;Funda;Libro;3,70;;;
+PO-M6P5-FUN-ANT;POCO;M6 Pro 5G;Funda;Antigolpes;3,10;;;
+PO-M6P5-PCA-NA;POCO;M6 Pro 5G;Protector de cámara;Cristal;2,90;;;
+PO-C51-PRO-NA;POCO;C51;Cristal templado;Estándar;1,30;;;
+PO-C51-PRO-PRI;POCO;C51;Cristal templado;Privacidad;4,00;;;
+PO-C51-FUN-SIL;POCO;C51;Funda;Silicona;2,50;;;
+PO-C51-FUN-TPU;POCO;C51;Funda;Transparente;2,95;;;
+PO-C51-FUN-LIB;POCO;C51;Funda;Libro;3,70;;;
+PO-C51-FUN-ANT;POCO;C51;Funda;Antigolpes;3,10;;;
+PO-C51-PCA-NA;POCO;C51;Protector de cámara;Cristal;2,90;;;
+PO-C55-PRO-NA;POCO;C55;Cristal templado;Estándar;1,30;;;
+PO-C55-PRO-PRI;POCO;C55;Cristal templado;Privacidad;4,00;;;
+PO-C55-FUN-SIL;POCO;C55;Funda;Silicona;2,50;;;
+PO-C55-FUN-TPU;POCO;C55;Funda;Transparente;2,95;;;
+PO-C55-FUN-LIB;POCO;C55;Funda;Libro;3,70;;;
+PO-C55-FUN-ANT;POCO;C55;Funda;Antigolpes;3,10;;;
+PO-C55-PCA-NA;POCO;C55;Protector de cámara;Cristal;2,90;;;
+PO-C50-PRO-NA;POCO;C50;Cristal templado;Estándar;1,30;;;
+PO-C50-PRO-PRI;POCO;C50;Cristal templado;Privacidad;4,00;;;
+PO-C50-FUN-SIL;POCO;C50;Funda;Silicona;2,50;;;
+PO-C50-FUN-TPU;POCO;C50;Funda;Transparente;2,95;;;
+PO-C50-FUN-LIB;POCO;C50;Funda;Libro;3,70;;;
+PO-C50-FUN-ANT;POCO;C50;Funda;Antigolpes;3,10;;;
+PO-C50-PCA-NA;POCO;C50;Protector de cámara;Cristal;2,90;;;
+PO-C31-PRO-NA;POCO;C31;Cristal templado;Estándar;1,30;;;
+PO-C31-PRO-PRI;POCO;C31;Cristal templado;Privacidad;4,00;;;
+PO-C31-FUN-SIL;POCO;C31;Funda;Silicona;2,50;;;
+PO-C31-FUN-TPU;POCO;C31;Funda;Transparente;2,95;;;
+PO-C31-FUN-LIB;POCO;C31;Funda;Libro;3,70;;;
+PO-C31-FUN-ANT;POCO;C31;Funda;Antigolpes;3,10;;;
+PO-C31-PCA-NA;POCO;C31;Protector de cámara;Cristal;2,90;;;
+PO-F3GT-PRO-NA;POCO;F3 GT;Cristal templado;Estándar;1,30;;;
+PO-F3GT-PRO-PRI;POCO;F3 GT;Cristal templado;Privacidad;4,00;;;
+PO-F3GT-FUN-SIL;POCO;F3 GT;Funda;Silicona;2,50;;;
+PO-F3GT-FUN-TPU;POCO;F3 GT;Funda;Transparente;2,95;;;
+PO-F3GT-FUN-LIB;POCO;F3 GT;Funda;Libro;3,70;;;
+PO-F3GT-FUN-ANT;POCO;F3 GT;Funda;Antigolpes;3,10;;;
+PO-F3GT-PCA-NA;POCO;F3 GT;Protector de cámara;Cristal;2,90;;;
+PO-M2R-PRO-NA;POCO;M2 Reloaded;Cristal templado;Estándar;1,30;;;
+PO-M2R-PRO-PRI;POCO;M2 Reloaded;Cristal templado;Privacidad;4,00;;;
+PO-M2R-FUN-SIL;POCO;M2 Reloaded;Funda;Silicona;2,50;;;
+PO-M2R-FUN-TPU;POCO;M2 Reloaded;Funda;Transparente;2,95;;;
+PO-M2R-FUN-LIB;POCO;M2 Reloaded;Funda;Libro;3,70;;;
+PO-M2R-FUN-ANT;POCO;M2 Reloaded;Funda;Antigolpes;3,10;;;
+PO-M2R-PCA-NA;POCO;M2 Reloaded;Protector de cámara;Cristal;2,90;;;
+PO-C3-PRO-NA;POCO;C3;Cristal templado;Estándar;1,30;;;
+PO-C3-PRO-PRI;POCO;C3;Cristal templado;Privacidad;4,00;;;
+PO-C3-FUN-SIL;POCO;C3;Funda;Silicona;2,50;;;
+PO-C3-FUN-TPU;POCO;C3;Funda;Transparente;2,95;;;
+PO-C3-FUN-LIB;POCO;C3;Funda;Libro;3,70;;;
+PO-C3-FUN-ANT;POCO;C3;Funda;Antigolpes;3,10;;;
+PO-C3-PCA-NA;POCO;C3;Protector de cámara;Cristal;2,90;;;
+PO-M2-PRO-NA;POCO;M2;Cristal templado;Estándar;1,30;;;
+PO-M2-PRO-PRI;POCO;M2;Cristal templado;Privacidad;4,00;;;
+PO-M2-FUN-SIL;POCO;M2;Funda;Silicona;2,50;;;
+PO-M2-FUN-TPU;POCO;M2;Funda;Transparente;2,95;;;
+PO-M2-FUN-LIB;POCO;M2;Funda;Libro;3,70;;;
+PO-M2-FUN-ANT;POCO;M2;Funda;Antigolpes;3,10;;;
+PO-M2-PCA-NA;POCO;M2;Protector de cámara;Cristal;2,90;;;
+PO-X3-PRO-NA;POCO;X3;Cristal templado;Estándar;1,30;;;
+PO-X3-PRO-PRI;POCO;X3;Cristal templado;Privacidad;4,00;;;
+PO-X3-FUN-SIL;POCO;X3;Funda;Silicona;2,50;;;
+PO-X3-FUN-TPU;POCO;X3;Funda;Transparente;2,95;;;
+PO-X3-FUN-LIB;POCO;X3;Funda;Libro;3,70;;;
+PO-X3-FUN-ANT;POCO;X3;Funda;Antigolpes;3,10;;;
+PO-X3-PCA-NA;POCO;X3;Protector de cámara;Cristal;2,90;;;
+PO-M2P-PRO-NA;POCO;M2 Pro;Cristal templado;Estándar;1,30;;;
+PO-M2P-PRO-PRI;POCO;M2 Pro;Cristal templado;Privacidad;4,00;;;
+PO-M2P-FUN-SIL;POCO;M2 Pro;Funda;Silicona;2,50;;;
+PO-M2P-FUN-TPU;POCO;M2 Pro;Funda;Transparente;2,95;;;
+PO-M2P-FUN-LIB;POCO;M2 Pro;Funda;Libro;3,70;;;
+PO-M2P-FUN-ANT;POCO;M2 Pro;Funda;Antigolpes;3,10;;;
+PO-M2P-PCA-NA;POCO;M2 Pro;Protector de cámara;Cristal;2,90;;;
+PO-X2-PRO-NA;POCO;X2;Cristal templado;Estándar;1,30;;;
+PO-X2-PRO-PRI;POCO;X2;Cristal templado;Privacidad;4,00;;;
+PO-X2-FUN-SIL;POCO;X2;Funda;Silicona;2,50;;;
+PO-X2-FUN-TPU;POCO;X2;Funda;Transparente;2,95;;;
+PO-X2-FUN-LIB;POCO;X2;Funda;Libro;3,70;;;
+PO-X2-FUN-ANT;POCO;X2;Funda;Antigolpes;3,10;;;
+PO-X2-PCA-NA;POCO;X2;Protector de cámara;Cristal;2,90;;;
+PO-C85X5-PRO-NA;POCO;C85x 5G;Cristal templado;Estándar;1,30;;;
+PO-C85X5-PRO-PRI;POCO;C85x 5G;Cristal templado;Privacidad;4,00;;;
+PO-C85X5-FUN-SIL;POCO;C85x 5G;Funda;Silicona;2,50;;;
+PO-C85X5-FUN-TPU;POCO;C85x 5G;Funda;Transparente;2,95;;;
+PO-C85X5-FUN-LIB;POCO;C85x 5G;Funda;Libro;3,70;;;
+PO-C85X5-FUN-ANT;POCO;C85x 5G;Funda;Antigolpes;3,10;;;
+PO-F1-PRO-NA;POCO;F1;Cristal templado;Estándar;1,30;;;
+PO-F1-PRO-PRI;POCO;F1;Cristal templado;Privacidad;4,00;;;
+PO-F1-FUN-SIL;POCO;F1;Funda;Silicona;2,50;;;
+PO-F1-FUN-TPU;POCO;F1;Funda;Transparente;2,95;;;
+PO-F1-FUN-LIB;POCO;F1;Funda;Libro;3,70;;;
+PO-F1-FUN-ANT;POCO;F1;Funda;Antigolpes;3,10;;;
+PO-X3GT-PRO-NA;POCO;X3 GT;Cristal templado;Estándar;1,30;;;
+PO-X3GT-PRO-PRI;POCO;X3 GT;Cristal templado;Privacidad;4,00;;;
+PO-X3GT-FUN-SIL;POCO;X3 GT;Funda;Silicona;2,50;;;
+PO-X3GT-FUN-TPU;POCO;X3 GT;Funda;Transparente;2,95;;;
+PO-X3GT-FUN-LIB;POCO;X3 GT;Funda;Libro;3,70;;;
+PO-X3GT-FUN-ANT;POCO;X3 GT;Funda;Antigolpes;3,10;;;
+PO-X3GT-PCA-NA;POCO;X3 GT;Protector de cámara;Cristal;2,90;;;
+PO-C71-PRO-NA;POCO;C71;Cristal templado;Estándar;1,30;;;
+PO-C71-PRO-PRI;POCO;C71;Cristal templado;Privacidad;4,00;;;
+PO-C71-FUN-SIL;POCO;C71;Funda;Silicona;2,50;;;
+PO-C71-FUN-TPU;POCO;C71;Funda;Transparente;2,95;;;
+PO-C71-FUN-LIB;POCO;C71;Funda;Libro;3,70;;;
+PO-C71-FUN-ANT;POCO;C71;Funda;Antigolpes;3,10;;;
+PO-C71-PCA-NA;POCO;C71;Protector de cámara;Cristal;2,90;;;
+PO-F2P-MAR-COM;POCO;F2 Pro;Marco / chasis;Compatible;13,05;12,66;12,27;6
+PO-F2P-BOT-COM;POCO;F2 Pro;Botones laterales;Compatible;3,09;;;6
+PO-F2P-CRI-COM;POCO;F2 Pro;Cristal de pantalla;Compatible;4,95;;;6
+PO-F2P-FPR-COM;POCO;F2 Pro;Flex principal;Compatible;3,95;;;6
+PO-F2P-VIB-COM;POCO;F2 Pro;Vibrador;Compatible;3,09;;;6
+PO-F2P-ANT-COM;POCO;F2 Pro;Antena / coaxial;Compatible;3,60;;;6
+PO-F2P-HUE-COM;POCO;F2 Pro;Botón home / huella;Compatible;8,25;;;6
+PO-F2P-NFC-COM;POCO;F2 Pro;NFC y carga inalámbrica;Compatible;8,29;;;6
+PO-X3NFC-MAR-COM;POCO;X3 NFC;Marco / chasis;Compatible;9,60;;;6
+PO-X3NFC-BOT-COM;POCO;X3 NFC;Botones laterales;Compatible;2,25;;;6
+PO-X3NFC-CRI-COM;POCO;X3 NFC;Cristal de pantalla;Compatible;3,60;;;6
+PO-X3NFC-FPR-COM;POCO;X3 NFC;Flex principal;Compatible;2,89;;;6
+PO-X3NFC-VIB-COM;POCO;X3 NFC;Vibrador;Compatible;2,25;;;6
+PO-X3NFC-ANT-COM;POCO;X3 NFC;Antena / coaxial;Compatible;2,65;;;6
+PO-X3NFC-HUE-COM;POCO;X3 NFC;Botón home / huella;Compatible;6,05;;;6
+PO-M3-MAR-COM;POCO;M3;Marco / chasis;Compatible;8,35;;;6
+PO-M3-BOT-COM;POCO;M3;Botones laterales;Compatible;1,99;;;6
+PO-M3-CRI-COM;POCO;M3;Cristal de pantalla;Compatible;3,15;;;6
+PO-M3-FPR-COM;POCO;M3;Flex principal;Compatible;2,50;;;6
+PO-M3-VIB-COM;POCO;M3;Vibrador;Compatible;1,99;;;6
+PO-M3-ANT-COM;POCO;M3;Antena / coaxial;Compatible;2,30;;;6
+PO-M3-HUE-COM;POCO;M3;Botón home / huella;Compatible;5,29;;;6
+PO-X3P-MAR-COM;POCO;X3 Pro;Marco / chasis;Compatible;10,95;10,62;10,29;6
+PO-X3P-BOT-COM;POCO;X3 Pro;Botones laterales;Compatible;2,59;;;6
+PO-X3P-CRI-COM;POCO;X3 Pro;Cristal de pantalla;Compatible;4,15;;;6
+PO-X3P-FPR-COM;POCO;X3 Pro;Flex principal;Compatible;3,30;;;6
+PO-X3P-VIB-COM;POCO;X3 Pro;Vibrador;Compatible;2,59;;;6
+PO-X3P-ANT-COM;POCO;X3 Pro;Antena / coaxial;Compatible;3,05;;;6
+PO-X3P-HUE-COM;POCO;X3 Pro;Botón home / huella;Compatible;6,95;;;6
+PO-F3-MAR-COM;POCO;F3;Marco / chasis;Compatible;10,95;10,62;10,29;6
+PO-F3-BOT-COM;POCO;F3;Botones laterales;Compatible;2,59;;;6
+PO-F3-CRI-COM;POCO;F3;Cristal de pantalla;Compatible;4,15;;;6
+PO-F3-FPR-COM;POCO;F3;Flex principal;Compatible;3,30;;;6
+PO-F3-VIB-COM;POCO;F3;Vibrador;Compatible;2,59;;;6
+PO-F3-ANT-COM;POCO;F3;Antena / coaxial;Compatible;3,05;;;6
+PO-F3-HUE-COM;POCO;F3;Botón home / huella;Compatible;6,95;;;6
+PO-M3P5-MAR-COM;POCO;M3 Pro 5G;Marco / chasis;Compatible;9,60;;;6
+PO-M3P5-BOT-COM;POCO;M3 Pro 5G;Botones laterales;Compatible;2,25;;;6
+PO-M3P5-CRI-COM;POCO;M3 Pro 5G;Cristal de pantalla;Compatible;3,60;;;6
+PO-M3P5-FPR-COM;POCO;M3 Pro 5G;Flex principal;Compatible;2,89;;;6
+PO-M3P5-VIB-COM;POCO;M3 Pro 5G;Vibrador;Compatible;2,25;;;6
+PO-M3P5-ANT-COM;POCO;M3 Pro 5G;Antena / coaxial;Compatible;2,65;;;6
+PO-M3P5-HUE-COM;POCO;M3 Pro 5G;Botón home / huella;Compatible;6,05;;;6
+PO-M4P5-MAR-COM;POCO;M4 Pro 5G;Marco / chasis;Compatible;9,60;;;6
+PO-M4P5-BOT-COM;POCO;M4 Pro 5G;Botones laterales;Compatible;2,25;;;6
+PO-M4P5-CRI-COM;POCO;M4 Pro 5G;Cristal de pantalla;Compatible;3,60;;;6
+PO-M4P5-FPR-COM;POCO;M4 Pro 5G;Flex principal;Compatible;2,89;;;6
+PO-M4P5-VIB-COM;POCO;M4 Pro 5G;Vibrador;Compatible;2,25;;;6
+PO-M4P5-ANT-COM;POCO;M4 Pro 5G;Antena / coaxial;Compatible;2,65;;;6
+PO-M4P5-HUE-COM;POCO;M4 Pro 5G;Botón home / huella;Compatible;6,05;;;6
+PO-M4P-MAR-COM;POCO;M4 Pro;Marco / chasis;Compatible;9,60;;;6
+PO-M4P-BOT-COM;POCO;M4 Pro;Botones laterales;Compatible;2,25;;;6
+PO-M4P-CRI-COM;POCO;M4 Pro;Cristal de pantalla;Compatible;3,60;;;6
+PO-M4P-FPR-COM;POCO;M4 Pro;Flex principal;Compatible;2,89;;;6
+PO-M4P-VIB-COM;POCO;M4 Pro;Vibrador;Compatible;2,25;;;6
+PO-M4P-ANT-COM;POCO;M4 Pro;Antena / coaxial;Compatible;2,65;;;6
+PO-M4P-HUE-COM;POCO;M4 Pro;Botón home / huella;Compatible;6,05;;;6
+PO-X4P5-MAR-COM;POCO;X4 Pro 5G;Marco / chasis;Compatible;10,95;10,62;10,29;6
+PO-X4P5-BOT-COM;POCO;X4 Pro 5G;Botones laterales;Compatible;2,59;;;6
+PO-X4P5-CRI-COM;POCO;X4 Pro 5G;Cristal de pantalla;Compatible;4,15;;;6
+PO-X4P5-FPR-COM;POCO;X4 Pro 5G;Flex principal;Compatible;3,30;;;6
+PO-X4P5-VIB-COM;POCO;X4 Pro 5G;Vibrador;Compatible;2,59;;;6
+PO-X4P5-ANT-COM;POCO;X4 Pro 5G;Antena / coaxial;Compatible;3,05;;;6
+PO-X4P5-HUE-COM;POCO;X4 Pro 5G;Botón home / huella;Compatible;6,95;;;6
+PO-F4GT-MAR-COM;POCO;F4 GT;Marco / chasis;Compatible;10,95;10,62;10,29;6
+PO-F4GT-BOT-COM;POCO;F4 GT;Botones laterales;Compatible;2,59;;;6
+PO-F4GT-CRI-COM;POCO;F4 GT;Cristal de pantalla;Compatible;4,15;;;6
+PO-F4GT-FPR-COM;POCO;F4 GT;Flex principal;Compatible;3,30;;;6
+PO-F4GT-VIB-COM;POCO;F4 GT;Vibrador;Compatible;2,59;;;6
+PO-F4GT-ANT-COM;POCO;F4 GT;Antena / coaxial;Compatible;3,05;;;6
+PO-F4GT-HUE-COM;POCO;F4 GT;Botón home / huella;Compatible;6,95;;;6
+PO-F4-MAR-COM;POCO;F4;Marco / chasis;Compatible;10,95;10,62;10,29;6
+PO-F4-BOT-COM;POCO;F4;Botones laterales;Compatible;2,59;;;6
+PO-F4-CRI-COM;POCO;F4;Cristal de pantalla;Compatible;4,15;;;6
+PO-F4-FPR-COM;POCO;F4;Flex principal;Compatible;3,30;;;6
+PO-F4-VIB-COM;POCO;F4;Vibrador;Compatible;2,59;;;6
+PO-F4-ANT-COM;POCO;F4;Antena / coaxial;Compatible;3,05;;;6
+PO-F4-HUE-COM;POCO;F4;Botón home / huella;Compatible;6,95;;;6
+PO-X4GT-MAR-COM;POCO;X4 GT;Marco / chasis;Compatible;9,60;;;6
+PO-X4GT-BOT-COM;POCO;X4 GT;Botones laterales;Compatible;2,25;;;6
+PO-X4GT-CRI-COM;POCO;X4 GT;Cristal de pantalla;Compatible;3,60;;;6
+PO-X4GT-FPR-COM;POCO;X4 GT;Flex principal;Compatible;2,89;;;6
+PO-X4GT-VIB-COM;POCO;X4 GT;Vibrador;Compatible;2,25;;;6
+PO-X4GT-ANT-COM;POCO;X4 GT;Antena / coaxial;Compatible;2,65;;;6
+PO-X4GT-HUE-COM;POCO;X4 GT;Botón home / huella;Compatible;6,05;;;6
+PO-C40-MAR-COM;POCO;C40;Marco / chasis;Compatible;8,35;;;6
+PO-C40-BOT-COM;POCO;C40;Botones laterales;Compatible;1,99;;;6
+PO-C40-CRI-COM;POCO;C40;Cristal de pantalla;Compatible;3,15;;;6
+PO-C40-FPR-COM;POCO;C40;Flex principal;Compatible;2,50;;;6
+PO-C40-VIB-COM;POCO;C40;Vibrador;Compatible;1,99;;;6
+PO-C40-ANT-COM;POCO;C40;Antena / coaxial;Compatible;2,30;;;6
+PO-C40-HUE-COM;POCO;C40;Botón home / huella;Compatible;5,29;;;6
+PO-M45-MAR-COM;POCO;M4 5G;Marco / chasis;Compatible;8,35;;;6
+PO-M45-BOT-COM;POCO;M4 5G;Botones laterales;Compatible;1,99;;;6
+PO-M45-CRI-COM;POCO;M4 5G;Cristal de pantalla;Compatible;3,15;;;6
+PO-M45-FPR-COM;POCO;M4 5G;Flex principal;Compatible;2,50;;;6
+PO-M45-VIB-COM;POCO;M4 5G;Vibrador;Compatible;1,99;;;6
+PO-M45-ANT-COM;POCO;M4 5G;Antena / coaxial;Compatible;2,30;;;6
+PO-M45-HUE-COM;POCO;M4 5G;Botón home / huella;Compatible;5,29;;;6
+PO-M5-MAR-COM;POCO;M5;Marco / chasis;Compatible;8,35;;;6
+PO-M5-BOT-COM;POCO;M5;Botones laterales;Compatible;1,99;;;6
+PO-M5-CRI-COM;POCO;M5;Cristal de pantalla;Compatible;3,15;;;6
+PO-M5-FPR-COM;POCO;M5;Flex principal;Compatible;2,50;;;6
+PO-M5-VIB-COM;POCO;M5;Vibrador;Compatible;1,99;;;6
+PO-M5-ANT-COM;POCO;M5;Antena / coaxial;Compatible;2,30;;;6
+PO-M5-HUE-COM;POCO;M5;Botón home / huella;Compatible;5,29;;;6
+PO-M5S-MAR-COM;POCO;M5s;Marco / chasis;Compatible;8,35;;;6
+PO-M5S-BOT-COM;POCO;M5s;Botones laterales;Compatible;1,99;;;6
+PO-M5S-CRI-COM;POCO;M5s;Cristal de pantalla;Compatible;3,15;;;6
+PO-M5S-FPR-COM;POCO;M5s;Flex principal;Compatible;2,50;;;6
+PO-M5S-VIB-COM;POCO;M5s;Vibrador;Compatible;1,99;;;6
+PO-M5S-ANT-COM;POCO;M5s;Antena / coaxial;Compatible;2,30;;;6
+PO-M5S-HUE-COM;POCO;M5s;Botón home / huella;Compatible;5,29;;;6
+PO-X55-MAR-COM;POCO;X5 5G;Marco / chasis;Compatible;9,60;;;6
+PO-X55-BOT-COM;POCO;X5 5G;Botones laterales;Compatible;2,25;;;6
+PO-X55-CRI-COM;POCO;X5 5G;Cristal de pantalla;Compatible;3,60;;;6
+PO-X55-FPR-COM;POCO;X5 5G;Flex principal;Compatible;2,89;;;6
+PO-X55-VIB-COM;POCO;X5 5G;Vibrador;Compatible;2,25;;;6
+PO-X55-ANT-COM;POCO;X5 5G;Antena / coaxial;Compatible;2,65;;;6
+PO-X55-HUE-COM;POCO;X5 5G;Botón home / huella;Compatible;6,05;;;6
+PO-X5P5-MAR-COM;POCO;X5 Pro 5G;Marco / chasis;Compatible;10,95;10,62;10,29;6
+PO-X5P5-BOT-COM;POCO;X5 Pro 5G;Botones laterales;Compatible;2,59;;;6
+PO-X5P5-CRI-COM;POCO;X5 Pro 5G;Cristal de pantalla;Compatible;4,15;;;6
+PO-X5P5-FPR-COM;POCO;X5 Pro 5G;Flex principal;Compatible;3,30;;;6
+PO-X5P5-VIB-COM;POCO;X5 Pro 5G;Vibrador;Compatible;2,59;;;6
+PO-X5P5-ANT-COM;POCO;X5 Pro 5G;Antena / coaxial;Compatible;3,05;;;6
+PO-X5P5-HUE-COM;POCO;X5 Pro 5G;Botón home / huella;Compatible;6,95;;;6
+PO-F5-MAR-COM;POCO;F5;Marco / chasis;Compatible;10,95;10,62;10,29;6
+PO-F5-BOT-COM;POCO;F5;Botones laterales;Compatible;2,59;;;6
+PO-F5-CRI-COM;POCO;F5;Cristal de pantalla;Compatible;4,15;;;6
+PO-F5-FPR-COM;POCO;F5;Flex principal;Compatible;3,30;;;6
+PO-F5-VIB-COM;POCO;F5;Vibrador;Compatible;2,59;;;6
+PO-F5-ANT-COM;POCO;F5;Antena / coaxial;Compatible;3,05;;;6
+PO-F5-HUE-COM;POCO;F5;Botón home / huella;Compatible;6,95;;;6
+PO-F5P-MAR-COM;POCO;F5 Pro;Marco / chasis;Compatible;13,05;12,66;12,27;6
+PO-F5P-BOT-COM;POCO;F5 Pro;Botones laterales;Compatible;3,09;;;6
+PO-F5P-CRI-COM;POCO;F5 Pro;Cristal de pantalla;Compatible;4,95;;;6
+PO-F5P-FPR-COM;POCO;F5 Pro;Flex principal;Compatible;3,95;;;6
+PO-F5P-VIB-COM;POCO;F5 Pro;Vibrador;Compatible;3,09;;;6
+PO-F5P-ANT-COM;POCO;F5 Pro;Antena / coaxial;Compatible;3,60;;;6
+PO-F5P-HUE-COM;POCO;F5 Pro;Botón home / huella;Compatible;8,25;;;6
+PO-F5P-NFC-COM;POCO;F5 Pro;NFC y carga inalámbrica;Compatible;8,29;;;6
+PO-C65-MAR-COM;POCO;C65;Marco / chasis;Compatible;8,35;;;6
+PO-C65-BOT-COM;POCO;C65;Botones laterales;Compatible;1,99;;;6
+PO-C65-CRI-COM;POCO;C65;Cristal de pantalla;Compatible;3,15;;;6
+PO-C65-FPR-COM;POCO;C65;Flex principal;Compatible;2,50;;;6
+PO-C65-VIB-COM;POCO;C65;Vibrador;Compatible;1,99;;;6
+PO-C65-ANT-COM;POCO;C65;Antena / coaxial;Compatible;2,30;;;6
+PO-C65-HUE-COM;POCO;C65;Botón home / huella;Compatible;5,29;;;6
+PO-M6P-MAR-COM;POCO;M6 Pro;Marco / chasis;Compatible;10,59;10,27;9,95;6
+PO-M6P-BOT-COM;POCO;M6 Pro;Botones laterales;Compatible;2,50;;;6
+PO-M6P-CRI-COM;POCO;M6 Pro;Cristal de pantalla;Compatible;3,99;;;6
+PO-M6P-FPR-COM;POCO;M6 Pro;Flex principal;Compatible;3,19;;;6
+PO-M6P-VIB-COM;POCO;M6 Pro;Vibrador;Compatible;2,50;;;6
+PO-M6P-ANT-COM;POCO;M6 Pro;Antena / coaxial;Compatible;2,90;;;6
+PO-M6P-HUE-COM;POCO;M6 Pro;Botón home / huella;Compatible;6,69;;;6
+PO-X65-MAR-COM;POCO;X6 5G;Marco / chasis;Compatible;10,59;10,27;9,95;6
+PO-X65-BOT-COM;POCO;X6 5G;Botones laterales;Compatible;2,50;;;6
+PO-X65-CRI-COM;POCO;X6 5G;Cristal de pantalla;Compatible;3,99;;;6
+PO-X65-FPR-COM;POCO;X6 5G;Flex principal;Compatible;3,19;;;6
+PO-X65-VIB-COM;POCO;X6 5G;Vibrador;Compatible;2,50;;;6
+PO-X65-ANT-COM;POCO;X6 5G;Antena / coaxial;Compatible;2,90;;;6
+PO-X65-HUE-COM;POCO;X6 5G;Botón home / huella;Compatible;6,69;;;6
+PO-X6P5-MAR-COM;POCO;X6 Pro 5G;Marco / chasis;Compatible;12,05;11,69;11,33;6
+PO-X6P5-BOT-COM;POCO;X6 Pro 5G;Botones laterales;Compatible;2,85;;;6
+PO-X6P5-CRI-COM;POCO;X6 Pro 5G;Cristal de pantalla;Compatible;4,55;;;6
+PO-X6P5-FPR-COM;POCO;X6 Pro 5G;Flex principal;Compatible;3,65;;;6
+PO-X6P5-VIB-COM;POCO;X6 Pro 5G;Vibrador;Compatible;2,85;;;6
+PO-X6P5-ANT-COM;POCO;X6 Pro 5G;Antena / coaxial;Compatible;3,35;;;6
+PO-X6P5-HUE-COM;POCO;X6 Pro 5G;Botón home / huella;Compatible;7,60;;;6
+PO-F6-MAR-COM;POCO;F6;Marco / chasis;Compatible;12,05;11,69;11,33;6
+PO-F6-BOT-COM;POCO;F6;Botones laterales;Compatible;2,85;;;6
+PO-F6-CRI-COM;POCO;F6;Cristal de pantalla;Compatible;4,55;;;6
+PO-F6-FPR-COM;POCO;F6;Flex principal;Compatible;3,65;;;6
+PO-F6-VIB-COM;POCO;F6;Vibrador;Compatible;2,85;;;6
+PO-F6-ANT-COM;POCO;F6;Antena / coaxial;Compatible;3,35;;;6
+PO-F6-HUE-COM;POCO;F6;Botón home / huella;Compatible;7,60;;;6
+PO-F6P-MAR-COM;POCO;F6 Pro;Marco / chasis;Compatible;14,35;13,92;13,49;6
+PO-F6P-BOT-COM;POCO;F6 Pro;Botones laterales;Compatible;3,40;;;6
+PO-F6P-CRI-COM;POCO;F6 Pro;Cristal de pantalla;Compatible;5,40;;;6
+PO-F6P-FPR-COM;POCO;F6 Pro;Flex principal;Compatible;4,30;;;6
+PO-F6P-VIB-COM;POCO;F6 Pro;Vibrador;Compatible;3,40;;;6
+PO-F6P-ANT-COM;POCO;F6 Pro;Antena / coaxial;Compatible;3,95;;;6
+PO-F6P-HUE-COM;POCO;F6 Pro;Botón home / huella;Compatible;9,09;;;6
+PO-F6P-NFC-COM;POCO;F6 Pro;NFC y carga inalámbrica;Compatible;9,10;;;6
+PO-M6-MAR-COM;POCO;M6;Marco / chasis;Compatible;9,20;;;6
+PO-M6-BOT-COM;POCO;M6;Botones laterales;Compatible;2,15;;;6
+PO-M6-CRI-COM;POCO;M6;Cristal de pantalla;Compatible;3,45;;;6
+PO-M6-FPR-COM;POCO;M6;Flex principal;Compatible;2,75;;;6
+PO-M6-VIB-COM;POCO;M6;Vibrador;Compatible;2,15;;;6
+PO-M6-ANT-COM;POCO;M6;Antena / coaxial;Compatible;2,55;;;6
+PO-M6-HUE-COM;POCO;M6;Botón home / huella;Compatible;5,80;;;6
+PO-C75-MAR-COM;POCO;C75;Marco / chasis;Compatible;9,20;;;6
+PO-C75-BOT-COM;POCO;C75;Botones laterales;Compatible;2,15;;;6
+PO-C75-CRI-COM;POCO;C75;Cristal de pantalla;Compatible;3,45;;;6
+PO-C75-FPR-COM;POCO;C75;Flex principal;Compatible;2,75;;;6
+PO-C75-VIB-COM;POCO;C75;Vibrador;Compatible;2,15;;;6
+PO-C75-ANT-COM;POCO;C75;Antena / coaxial;Compatible;2,55;;;6
+PO-C75-HUE-COM;POCO;C75;Botón home / huella;Compatible;5,80;;;6
+PO-M7P5-MAR-COM;POCO;M7 Pro 5G;Marco / chasis;Compatible;10,59;10,27;9,95;6
+PO-M7P5-BOT-COM;POCO;M7 Pro 5G;Botones laterales;Compatible;2,50;;;6
+PO-M7P5-CRI-COM;POCO;M7 Pro 5G;Cristal de pantalla;Compatible;3,99;;;6
+PO-M7P5-FPR-COM;POCO;M7 Pro 5G;Flex principal;Compatible;3,19;;;6
+PO-M7P5-VIB-COM;POCO;M7 Pro 5G;Vibrador;Compatible;2,50;;;6
+PO-M7P5-ANT-COM;POCO;M7 Pro 5G;Antena / coaxial;Compatible;2,90;;;6
+PO-M7P5-HUE-COM;POCO;M7 Pro 5G;Botón home / huella;Compatible;6,69;;;6
+PO-X7-MAR-COM;POCO;X7;Marco / chasis;Compatible;10,59;10,27;9,95;6
+PO-X7-BOT-COM;POCO;X7;Botones laterales;Compatible;2,50;;;6
+PO-X7-CRI-COM;POCO;X7;Cristal de pantalla;Compatible;3,99;;;6
+PO-X7-FPR-COM;POCO;X7;Flex principal;Compatible;3,19;;;6
+PO-X7-VIB-COM;POCO;X7;Vibrador;Compatible;2,50;;;6
+PO-X7-ANT-COM;POCO;X7;Antena / coaxial;Compatible;2,90;;;6
+PO-X7-HUE-COM;POCO;X7;Botón home / huella;Compatible;6,69;;;6
+PO-X7P-MAR-COM;POCO;X7 Pro;Marco / chasis;Compatible;12,05;11,69;11,33;6
+PO-X7P-BOT-COM;POCO;X7 Pro;Botones laterales;Compatible;2,85;;;6
+PO-X7P-CRI-COM;POCO;X7 Pro;Cristal de pantalla;Compatible;4,55;;;6
+PO-X7P-FPR-COM;POCO;X7 Pro;Flex principal;Compatible;3,65;;;6
+PO-X7P-VIB-COM;POCO;X7 Pro;Vibrador;Compatible;2,85;;;6
+PO-X7P-ANT-COM;POCO;X7 Pro;Antena / coaxial;Compatible;3,35;;;6
+PO-X7P-HUE-COM;POCO;X7 Pro;Botón home / huella;Compatible;7,60;;;6
+PO-F7P-MAR-COM;POCO;F7 Pro;Marco / chasis;Compatible;14,35;13,92;13,49;6
+PO-F7P-BOT-COM;POCO;F7 Pro;Botones laterales;Compatible;3,40;;;6
+PO-F7P-CRI-COM;POCO;F7 Pro;Cristal de pantalla;Compatible;5,40;;;6
+PO-F7P-FPR-COM;POCO;F7 Pro;Flex principal;Compatible;4,30;;;6
+PO-F7P-VIB-COM;POCO;F7 Pro;Vibrador;Compatible;3,40;;;6
+PO-F7P-ANT-COM;POCO;F7 Pro;Antena / coaxial;Compatible;3,95;;;6
+PO-F7P-HUE-COM;POCO;F7 Pro;Botón home / huella;Compatible;9,09;;;6
+PO-F7P-NFC-COM;POCO;F7 Pro;NFC y carga inalámbrica;Compatible;9,10;;;6
+PO-F7U-MAR-COM;POCO;F7 Ultra;Marco / chasis;Compatible;14,35;13,92;13,49;6
+PO-F7U-BOT-COM;POCO;F7 Ultra;Botones laterales;Compatible;3,40;;;6
+PO-F7U-CRI-COM;POCO;F7 Ultra;Cristal de pantalla;Compatible;5,40;;;6
+PO-F7U-FPR-COM;POCO;F7 Ultra;Flex principal;Compatible;4,30;;;6
+PO-F7U-VIB-COM;POCO;F7 Ultra;Vibrador;Compatible;3,40;;;6
+PO-F7U-ANT-COM;POCO;F7 Ultra;Antena / coaxial;Compatible;3,95;;;6
+PO-F7U-HUE-COM;POCO;F7 Ultra;Botón home / huella;Compatible;9,09;;;6
+PO-F7U-NFC-COM;POCO;F7 Ultra;NFC y carga inalámbrica;Compatible;9,10;;;6
+PO-F7-MAR-COM;POCO;F7;Marco / chasis;Compatible;12,05;11,69;11,33;6
+PO-F7-BOT-COM;POCO;F7;Botones laterales;Compatible;2,85;;;6
+PO-F7-CRI-COM;POCO;F7;Cristal de pantalla;Compatible;4,55;;;6
+PO-F7-FPR-COM;POCO;F7;Flex principal;Compatible;3,65;;;6
+PO-F7-VIB-COM;POCO;F7;Vibrador;Compatible;2,85;;;6
+PO-F7-ANT-COM;POCO;F7;Antena / coaxial;Compatible;3,35;;;6
+PO-F7-HUE-COM;POCO;F7;Botón home / huella;Compatible;7,60;;;6
+PO-M7-MAR-COM;POCO;M7;Marco / chasis;Compatible;9,20;;;6
+PO-M7-BOT-COM;POCO;M7;Botones laterales;Compatible;2,15;;;6
+PO-M7-CRI-COM;POCO;M7;Cristal de pantalla;Compatible;3,45;;;6
+PO-M7-FPR-COM;POCO;M7;Flex principal;Compatible;2,75;;;6
+PO-M7-VIB-COM;POCO;M7;Vibrador;Compatible;2,15;;;6
+PO-M7-ANT-COM;POCO;M7;Antena / coaxial;Compatible;2,55;;;6
+PO-M7-HUE-COM;POCO;M7;Botón home / huella;Compatible;5,80;;;6
+PO-C85-MAR-COM;POCO;C85;Marco / chasis;Compatible;9,20;;;6
+PO-C85-BOT-COM;POCO;C85;Botones laterales;Compatible;2,15;;;6
+PO-C85-CRI-COM;POCO;C85;Cristal de pantalla;Compatible;3,45;;;6
+PO-C85-FPR-COM;POCO;C85;Flex principal;Compatible;2,75;;;6
+PO-C85-VIB-COM;POCO;C85;Vibrador;Compatible;2,15;;;6
+PO-C85-ANT-COM;POCO;C85;Antena / coaxial;Compatible;2,55;;;6
+PO-C85-HUE-COM;POCO;C85;Botón home / huella;Compatible;5,80;;;6
+PO-F8P-MAR-COM;POCO;F8 Pro;Marco / chasis;Compatible;14,35;13,92;13,49;6
+PO-F8P-BOT-COM;POCO;F8 Pro;Botones laterales;Compatible;3,40;;;6
+PO-F8P-CRI-COM;POCO;F8 Pro;Cristal de pantalla;Compatible;5,40;;;6
+PO-F8P-FPR-COM;POCO;F8 Pro;Flex principal;Compatible;4,30;;;6
+PO-F8P-VIB-COM;POCO;F8 Pro;Vibrador;Compatible;3,40;;;6
+PO-F8P-ANT-COM;POCO;F8 Pro;Antena / coaxial;Compatible;3,95;;;6
+PO-F8P-HUE-COM;POCO;F8 Pro;Botón home / huella;Compatible;9,09;;;6
+PO-F8P-NFC-COM;POCO;F8 Pro;NFC y carga inalámbrica;Compatible;9,10;;;6
+PO-F8U-MAR-COM;POCO;F8 Ultra;Marco / chasis;Compatible;14,35;13,92;13,49;6
+PO-F8U-BOT-COM;POCO;F8 Ultra;Botones laterales;Compatible;3,40;;;6
+PO-F8U-CRI-COM;POCO;F8 Ultra;Cristal de pantalla;Compatible;5,40;;;6
+PO-F8U-FPR-COM;POCO;F8 Ultra;Flex principal;Compatible;4,30;;;6
+PO-F8U-VIB-COM;POCO;F8 Ultra;Vibrador;Compatible;3,40;;;6
+PO-F8U-ANT-COM;POCO;F8 Ultra;Antena / coaxial;Compatible;3,95;;;6
+PO-F8U-HUE-COM;POCO;F8 Ultra;Botón home / huella;Compatible;9,09;;;6
+PO-F8U-NFC-COM;POCO;F8 Ultra;NFC y carga inalámbrica;Compatible;9,10;;;6
+PO-M85-MAR-COM;POCO;M8 5G;Marco / chasis;Compatible;9,20;;;6
+PO-M85-BOT-COM;POCO;M8 5G;Botones laterales;Compatible;2,15;;;6
+PO-M85-CRI-COM;POCO;M8 5G;Cristal de pantalla;Compatible;3,45;;;6
+PO-M85-FPR-COM;POCO;M8 5G;Flex principal;Compatible;2,75;;;6
+PO-M85-VIB-COM;POCO;M8 5G;Vibrador;Compatible;2,15;;;6
+PO-M85-ANT-COM;POCO;M8 5G;Antena / coaxial;Compatible;2,55;;;6
+PO-M85-HUE-COM;POCO;M8 5G;Botón home / huella;Compatible;5,80;;;6
+PO-M8P5-MAR-COM;POCO;M8 Pro 5G;Marco / chasis;Compatible;10,59;10,27;9,95;6
+PO-M8P5-BOT-COM;POCO;M8 Pro 5G;Botones laterales;Compatible;2,50;;;6
+PO-M8P5-CRI-COM;POCO;M8 Pro 5G;Cristal de pantalla;Compatible;3,99;;;6
+PO-M8P5-FPR-COM;POCO;M8 Pro 5G;Flex principal;Compatible;3,19;;;6
+PO-M8P5-VIB-COM;POCO;M8 Pro 5G;Vibrador;Compatible;2,50;;;6
+PO-M8P5-ANT-COM;POCO;M8 Pro 5G;Antena / coaxial;Compatible;2,90;;;6
+PO-M8P5-HUE-COM;POCO;M8 Pro 5G;Botón home / huella;Compatible;6,69;;;6
+PO-X8P-MAR-COM;POCO;X8 Pro;Marco / chasis;Compatible;12,05;11,69;11,33;6
+PO-X8P-BOT-COM;POCO;X8 Pro;Botones laterales;Compatible;2,85;;;6
+PO-X8P-CRI-COM;POCO;X8 Pro;Cristal de pantalla;Compatible;4,55;;;6
+PO-X8P-FPR-COM;POCO;X8 Pro;Flex principal;Compatible;3,65;;;6
+PO-X8P-VIB-COM;POCO;X8 Pro;Vibrador;Compatible;2,85;;;6
+PO-X8P-ANT-COM;POCO;X8 Pro;Antena / coaxial;Compatible;3,35;;;6
+PO-X8P-HUE-COM;POCO;X8 Pro;Botón home / huella;Compatible;7,60;;;6
+PO-X8PM-MAR-COM;POCO;X8 Pro Max;Marco / chasis;Compatible;12,05;11,69;11,33;6
+PO-X8PM-BOT-COM;POCO;X8 Pro Max;Botones laterales;Compatible;2,85;;;6
+PO-X8PM-CRI-COM;POCO;X8 Pro Max;Cristal de pantalla;Compatible;4,55;;;6
+PO-X8PM-FPR-COM;POCO;X8 Pro Max;Flex principal;Compatible;3,65;;;6
+PO-X8PM-VIB-COM;POCO;X8 Pro Max;Vibrador;Compatible;2,85;;;6
+PO-X8PM-ANT-COM;POCO;X8 Pro Max;Antena / coaxial;Compatible;3,35;;;6
+PO-X8PM-HUE-COM;POCO;X8 Pro Max;Botón home / huella;Compatible;7,60;;;6
+PO-C81P-MAR-COM;POCO;C81 Pro;Marco / chasis;Compatible;9,20;;;6
+PO-C81P-BOT-COM;POCO;C81 Pro;Botones laterales;Compatible;2,15;;;6
+PO-C81P-CRI-COM;POCO;C81 Pro;Cristal de pantalla;Compatible;3,45;;;6
+PO-C81P-FPR-COM;POCO;C81 Pro;Flex principal;Compatible;2,75;;;6
+PO-C81P-VIB-COM;POCO;C81 Pro;Vibrador;Compatible;2,15;;;6
+PO-C81P-ANT-COM;POCO;C81 Pro;Antena / coaxial;Compatible;2,55;;;6
+PO-C81P-HUE-COM;POCO;C81 Pro;Botón home / huella;Compatible;5,80;;;6
+PO-F9P-MAR-COM;POCO;F9 Pro;Marco / chasis;Compatible;14,35;13,92;13,49;6
+PO-F9P-BOT-COM;POCO;F9 Pro;Botones laterales;Compatible;3,40;;;6
+PO-F9P-CRI-COM;POCO;F9 Pro;Cristal de pantalla;Compatible;5,40;;;6
+PO-F9P-FPR-COM;POCO;F9 Pro;Flex principal;Compatible;4,30;;;6
+PO-F9P-VIB-COM;POCO;F9 Pro;Vibrador;Compatible;3,40;;;6
+PO-F9P-ANT-COM;POCO;F9 Pro;Antena / coaxial;Compatible;3,95;;;6
+PO-F9P-HUE-COM;POCO;F9 Pro;Botón home / huella;Compatible;9,09;;;6
+PO-F9P-NFC-COM;POCO;F9 Pro;NFC y carga inalámbrica;Compatible;9,10;;;6
+PO-F9U-MAR-COM;POCO;F9 Ultra;Marco / chasis;Compatible;14,35;13,92;13,49;6
+PO-F9U-BOT-COM;POCO;F9 Ultra;Botones laterales;Compatible;3,40;;;6
+PO-F9U-CRI-COM;POCO;F9 Ultra;Cristal de pantalla;Compatible;5,40;;;6
+PO-F9U-FPR-COM;POCO;F9 Ultra;Flex principal;Compatible;4,30;;;6
+PO-F9U-VIB-COM;POCO;F9 Ultra;Vibrador;Compatible;3,40;;;6
+PO-F9U-ANT-COM;POCO;F9 Ultra;Antena / coaxial;Compatible;3,95;;;6
+PO-F9U-HUE-COM;POCO;F9 Ultra;Botón home / huella;Compatible;9,09;;;6
+PO-F9U-NFC-COM;POCO;F9 Ultra;NFC y carga inalámbrica;Compatible;9,10;;;6
+PO-C855-MAR-COM;POCO;C85 5G;Marco / chasis;Compatible;9,20;;;6
+PO-C855-BOT-COM;POCO;C85 5G;Botones laterales;Compatible;2,15;;;6
+PO-C855-CRI-COM;POCO;C85 5G;Cristal de pantalla;Compatible;3,45;;;6
+PO-C855-FPR-COM;POCO;C85 5G;Flex principal;Compatible;2,75;;;6
+PO-C855-VIB-COM;POCO;C85 5G;Vibrador;Compatible;2,15;;;6
+PO-C855-ANT-COM;POCO;C85 5G;Antena / coaxial;Compatible;2,55;;;6
+PO-C855-HUE-COM;POCO;C85 5G;Botón home / huella;Compatible;5,80;;;6
+PO-M7PL-MAR-COM;POCO;M7 Plus;Marco / chasis;Compatible;9,20;;;6
+PO-M7PL-BOT-COM;POCO;M7 Plus;Botones laterales;Compatible;2,15;;;6
+PO-M7PL-CRI-COM;POCO;M7 Plus;Cristal de pantalla;Compatible;3,45;;;6
+PO-M7PL-FPR-COM;POCO;M7 Plus;Flex principal;Compatible;2,75;;;6
+PO-M7PL-VIB-COM;POCO;M7 Plus;Vibrador;Compatible;2,15;;;6
+PO-M7PL-ANT-COM;POCO;M7 Plus;Antena / coaxial;Compatible;2,55;;;6
+PO-M7PL-HUE-COM;POCO;M7 Plus;Botón home / huella;Compatible;5,80;;;6
+PO-M75-MAR-COM;POCO;M7 5G;Marco / chasis;Compatible;9,20;;;6
+PO-M75-BOT-COM;POCO;M7 5G;Botones laterales;Compatible;2,15;;;6
+PO-M75-CRI-COM;POCO;M7 5G;Cristal de pantalla;Compatible;3,45;;;6
+PO-M75-FPR-COM;POCO;M7 5G;Flex principal;Compatible;2,75;;;6
+PO-M75-VIB-COM;POCO;M7 5G;Vibrador;Compatible;2,15;;;6
+PO-M75-ANT-COM;POCO;M7 5G;Antena / coaxial;Compatible;2,55;;;6
+PO-M75-HUE-COM;POCO;M7 5G;Botón home / huella;Compatible;5,80;;;6
+PO-C755-MAR-COM;POCO;C75 5G;Marco / chasis;Compatible;9,20;;;6
+PO-C755-BOT-COM;POCO;C75 5G;Botones laterales;Compatible;2,15;;;6
+PO-C755-CRI-COM;POCO;C75 5G;Cristal de pantalla;Compatible;3,45;;;6
+PO-C755-FPR-COM;POCO;C75 5G;Flex principal;Compatible;2,75;;;6
+PO-C755-VIB-COM;POCO;C75 5G;Vibrador;Compatible;2,15;;;6
+PO-C755-ANT-COM;POCO;C75 5G;Antena / coaxial;Compatible;2,55;;;6
+PO-C755-HUE-COM;POCO;C75 5G;Botón home / huella;Compatible;5,80;;;6
+PO-M6PL-MAR-COM;POCO;M6 Plus;Marco / chasis;Compatible;9,20;;;6
+PO-M6PL-BOT-COM;POCO;M6 Plus;Botones laterales;Compatible;2,15;;;6
+PO-M6PL-CRI-COM;POCO;M6 Plus;Cristal de pantalla;Compatible;3,45;;;6
+PO-M6PL-FPR-COM;POCO;M6 Plus;Flex principal;Compatible;2,75;;;6
+PO-M6PL-VIB-COM;POCO;M6 Plus;Vibrador;Compatible;2,15;;;6
+PO-M6PL-ANT-COM;POCO;M6 Plus;Antena / coaxial;Compatible;2,55;;;6
+PO-M6PL-HUE-COM;POCO;M6 Plus;Botón home / huella;Compatible;5,80;;;6
+PO-C61-MAR-COM;POCO;C61;Marco / chasis;Compatible;9,20;;;6
+PO-C61-BOT-COM;POCO;C61;Botones laterales;Compatible;2,15;;;6
+PO-C61-CRI-COM;POCO;C61;Cristal de pantalla;Compatible;3,45;;;6
+PO-C61-FPR-COM;POCO;C61;Flex principal;Compatible;2,75;;;6
+PO-C61-VIB-COM;POCO;C61;Vibrador;Compatible;2,15;;;6
+PO-C61-ANT-COM;POCO;C61;Antena / coaxial;Compatible;2,55;;;6
+PO-C61-HUE-COM;POCO;C61;Botón home / huella;Compatible;5,80;;;6
+PO-X6NEO-MAR-COM;POCO;X6 Neo;Marco / chasis;Compatible;10,59;10,27;9,95;6
+PO-X6NEO-BOT-COM;POCO;X6 Neo;Botones laterales;Compatible;2,50;;;6
+PO-X6NEO-CRI-COM;POCO;X6 Neo;Cristal de pantalla;Compatible;3,99;;;6
+PO-X6NEO-FPR-COM;POCO;X6 Neo;Flex principal;Compatible;3,19;;;6
+PO-X6NEO-VIB-COM;POCO;X6 Neo;Vibrador;Compatible;2,50;;;6
+PO-X6NEO-ANT-COM;POCO;X6 Neo;Antena / coaxial;Compatible;2,90;;;6
+PO-X6NEO-HUE-COM;POCO;X6 Neo;Botón home / huella;Compatible;6,69;;;6
+PO-M6P5-MAR-COM;POCO;M6 Pro 5G;Marco / chasis;Compatible;9,60;;;6
+PO-M6P5-BOT-COM;POCO;M6 Pro 5G;Botones laterales;Compatible;2,25;;;6
+PO-M6P5-CRI-COM;POCO;M6 Pro 5G;Cristal de pantalla;Compatible;3,60;;;6
+PO-M6P5-FPR-COM;POCO;M6 Pro 5G;Flex principal;Compatible;2,89;;;6
+PO-M6P5-VIB-COM;POCO;M6 Pro 5G;Vibrador;Compatible;2,25;;;6
+PO-M6P5-ANT-COM;POCO;M6 Pro 5G;Antena / coaxial;Compatible;2,65;;;6
+PO-M6P5-HUE-COM;POCO;M6 Pro 5G;Botón home / huella;Compatible;6,05;;;6
+PO-C51-MAR-COM;POCO;C51;Marco / chasis;Compatible;8,35;;;6
+PO-C51-BOT-COM;POCO;C51;Botones laterales;Compatible;1,99;;;6
+PO-C51-CRI-COM;POCO;C51;Cristal de pantalla;Compatible;3,15;;;6
+PO-C51-FPR-COM;POCO;C51;Flex principal;Compatible;2,50;;;6
+PO-C51-VIB-COM;POCO;C51;Vibrador;Compatible;1,99;;;6
+PO-C51-ANT-COM;POCO;C51;Antena / coaxial;Compatible;2,30;;;6
+PO-C51-HUE-COM;POCO;C51;Botón home / huella;Compatible;5,29;;;6
+PO-C55-MAR-COM;POCO;C55;Marco / chasis;Compatible;8,35;;;6
+PO-C55-BOT-COM;POCO;C55;Botones laterales;Compatible;1,99;;;6
+PO-C55-CRI-COM;POCO;C55;Cristal de pantalla;Compatible;3,15;;;6
+PO-C55-FPR-COM;POCO;C55;Flex principal;Compatible;2,50;;;6
+PO-C55-VIB-COM;POCO;C55;Vibrador;Compatible;1,99;;;6
+PO-C55-ANT-COM;POCO;C55;Antena / coaxial;Compatible;2,30;;;6
+PO-C55-HUE-COM;POCO;C55;Botón home / huella;Compatible;5,29;;;6
+PO-C50-MAR-COM;POCO;C50;Marco / chasis;Compatible;8,35;;;6
+PO-C50-BOT-COM;POCO;C50;Botones laterales;Compatible;1,99;;;6
+PO-C50-CRI-COM;POCO;C50;Cristal de pantalla;Compatible;3,15;;;6
+PO-C50-FPR-COM;POCO;C50;Flex principal;Compatible;2,50;;;6
+PO-C50-VIB-COM;POCO;C50;Vibrador;Compatible;1,99;;;6
+PO-C50-ANT-COM;POCO;C50;Antena / coaxial;Compatible;2,30;;;6
+PO-C50-HUE-COM;POCO;C50;Botón home / huella;Compatible;5,29;;;6
+PO-C31-MAR-COM;POCO;C31;Marco / chasis;Compatible;8,35;;;6
+PO-C31-BOT-COM;POCO;C31;Botones laterales;Compatible;1,99;;;6
+PO-C31-CRI-COM;POCO;C31;Cristal de pantalla;Compatible;3,15;;;6
+PO-C31-FPR-COM;POCO;C31;Flex principal;Compatible;2,50;;;6
+PO-C31-VIB-COM;POCO;C31;Vibrador;Compatible;1,99;;;6
+PO-C31-ANT-COM;POCO;C31;Antena / coaxial;Compatible;2,30;;;6
+PO-C31-HUE-COM;POCO;C31;Botón home / huella;Compatible;5,29;;;6
+PO-F3GT-MAR-COM;POCO;F3 GT;Marco / chasis;Compatible;10,95;10,62;10,29;6
+PO-F3GT-BOT-COM;POCO;F3 GT;Botones laterales;Compatible;2,59;;;6
+PO-F3GT-CRI-COM;POCO;F3 GT;Cristal de pantalla;Compatible;4,15;;;6
+PO-F3GT-FPR-COM;POCO;F3 GT;Flex principal;Compatible;3,30;;;6
+PO-F3GT-VIB-COM;POCO;F3 GT;Vibrador;Compatible;2,59;;;6
+PO-F3GT-ANT-COM;POCO;F3 GT;Antena / coaxial;Compatible;3,05;;;6
+PO-F3GT-HUE-COM;POCO;F3 GT;Botón home / huella;Compatible;6,95;;;6
+PO-M2R-MAR-COM;POCO;M2 Reloaded;Marco / chasis;Compatible;8,35;;;6
+PO-M2R-BOT-COM;POCO;M2 Reloaded;Botones laterales;Compatible;1,99;;;6
+PO-M2R-CRI-COM;POCO;M2 Reloaded;Cristal de pantalla;Compatible;3,15;;;6
+PO-M2R-FPR-COM;POCO;M2 Reloaded;Flex principal;Compatible;2,50;;;6
+PO-M2R-VIB-COM;POCO;M2 Reloaded;Vibrador;Compatible;1,99;;;6
+PO-M2R-ANT-COM;POCO;M2 Reloaded;Antena / coaxial;Compatible;2,30;;;6
+PO-M2R-HUE-COM;POCO;M2 Reloaded;Botón home / huella;Compatible;5,29;;;6
+PO-C3-MAR-COM;POCO;C3;Marco / chasis;Compatible;8,35;;;6
+PO-C3-BOT-COM;POCO;C3;Botones laterales;Compatible;1,99;;;6
+PO-C3-CRI-COM;POCO;C3;Cristal de pantalla;Compatible;3,15;;;6
+PO-C3-FPR-COM;POCO;C3;Flex principal;Compatible;2,50;;;6
+PO-C3-VIB-COM;POCO;C3;Vibrador;Compatible;1,99;;;6
+PO-C3-ANT-COM;POCO;C3;Antena / coaxial;Compatible;2,30;;;6
+PO-C3-HUE-COM;POCO;C3;Botón home / huella;Compatible;5,29;;;6
+PO-M2-MAR-COM;POCO;M2;Marco / chasis;Compatible;8,35;;;6
+PO-M2-BOT-COM;POCO;M2;Botones laterales;Compatible;1,99;;;6
+PO-M2-CRI-COM;POCO;M2;Cristal de pantalla;Compatible;3,15;;;6
+PO-M2-FPR-COM;POCO;M2;Flex principal;Compatible;2,50;;;6
+PO-M2-VIB-COM;POCO;M2;Vibrador;Compatible;1,99;;;6
+PO-M2-ANT-COM;POCO;M2;Antena / coaxial;Compatible;2,30;;;6
+PO-M2-HUE-COM;POCO;M2;Botón home / huella;Compatible;5,29;;;6
+PO-X3-MAR-COM;POCO;X3;Marco / chasis;Compatible;9,60;;;6
+PO-X3-BOT-COM;POCO;X3;Botones laterales;Compatible;2,25;;;6
+PO-X3-CRI-COM;POCO;X3;Cristal de pantalla;Compatible;3,60;;;6
+PO-X3-FPR-COM;POCO;X3;Flex principal;Compatible;2,89;;;6
+PO-X3-VIB-COM;POCO;X3;Vibrador;Compatible;2,25;;;6
+PO-X3-ANT-COM;POCO;X3;Antena / coaxial;Compatible;2,65;;;6
+PO-X3-HUE-COM;POCO;X3;Botón home / huella;Compatible;6,05;;;6
+PO-M2P-MAR-COM;POCO;M2 Pro;Marco / chasis;Compatible;9,60;;;6
+PO-M2P-BOT-COM;POCO;M2 Pro;Botones laterales;Compatible;2,25;;;6
+PO-M2P-CRI-COM;POCO;M2 Pro;Cristal de pantalla;Compatible;3,60;;;6
+PO-M2P-FPR-COM;POCO;M2 Pro;Flex principal;Compatible;2,89;;;6
+PO-M2P-VIB-COM;POCO;M2 Pro;Vibrador;Compatible;2,25;;;6
+PO-M2P-ANT-COM;POCO;M2 Pro;Antena / coaxial;Compatible;2,65;;;6
+PO-M2P-HUE-COM;POCO;M2 Pro;Botón home / huella;Compatible;6,05;;;6
+PO-X2-MAR-COM;POCO;X2;Marco / chasis;Compatible;9,60;;;6
+PO-X2-BOT-COM;POCO;X2;Botones laterales;Compatible;2,25;;;6
+PO-X2-CRI-COM;POCO;X2;Cristal de pantalla;Compatible;3,60;;;6
+PO-X2-FPR-COM;POCO;X2;Flex principal;Compatible;2,89;;;6
+PO-X2-VIB-COM;POCO;X2;Vibrador;Compatible;2,25;;;6
+PO-X2-ANT-COM;POCO;X2;Antena / coaxial;Compatible;2,65;;;6
+PO-X2-HUE-COM;POCO;X2;Botón home / huella;Compatible;6,05;;;6
+PO-C85X5-MAR-COM;POCO;C85x 5G;Marco / chasis;Compatible;9,20;;;6
+PO-C85X5-BOT-COM;POCO;C85x 5G;Botones laterales;Compatible;2,15;;;6
+PO-C85X5-CRI-COM;POCO;C85x 5G;Cristal de pantalla;Compatible;3,45;;;6
+PO-C85X5-FPR-COM;POCO;C85x 5G;Flex principal;Compatible;2,75;;;6
+PO-C85X5-VIB-COM;POCO;C85x 5G;Vibrador;Compatible;2,15;;;6
+PO-C85X5-ANT-COM;POCO;C85x 5G;Antena / coaxial;Compatible;2,55;;;6
+PO-C85X5-HUE-COM;POCO;C85x 5G;Botón home / huella;Compatible;5,80;;;6
+PO-F1-MAR-COM;POCO;F1;Marco / chasis;Compatible;9,89;;;6
+PO-F1-BOT-COM;POCO;F1;Botones laterales;Compatible;2,35;;;6
+PO-F1-CRI-COM;POCO;F1;Cristal de pantalla;Compatible;3,70;;;6
+PO-F1-FPR-COM;POCO;F1;Flex principal;Compatible;2,95;;;6
+PO-F1-VIB-COM;POCO;F1;Vibrador;Compatible;2,35;;;6
+PO-F1-ANT-COM;POCO;F1;Antena / coaxial;Compatible;2,75;;;6
+PO-F1-HUE-COM;POCO;F1;Botón home / huella;Compatible;6,25;;;6
+PO-X3GT-MAR-COM;POCO;X3 GT;Marco / chasis;Compatible;9,60;;;6
+PO-X3GT-BOT-COM;POCO;X3 GT;Botones laterales;Compatible;2,25;;;6
+PO-X3GT-CRI-COM;POCO;X3 GT;Cristal de pantalla;Compatible;3,60;;;6
+PO-X3GT-FPR-COM;POCO;X3 GT;Flex principal;Compatible;2,89;;;6
+PO-X3GT-VIB-COM;POCO;X3 GT;Vibrador;Compatible;2,25;;;6
+PO-X3GT-ANT-COM;POCO;X3 GT;Antena / coaxial;Compatible;2,65;;;6
+PO-X3GT-HUE-COM;POCO;X3 GT;Botón home / huella;Compatible;6,05;;;6
+PO-C71-MAR-COM;POCO;C71;Marco / chasis;Compatible;9,20;;;6
+PO-C71-BOT-COM;POCO;C71;Botones laterales;Compatible;2,15;;;6
+PO-C71-CRI-COM;POCO;C71;Cristal de pantalla;Compatible;3,45;;;6
+PO-C71-FPR-COM;POCO;C71;Flex principal;Compatible;2,75;;;6
+PO-C71-VIB-COM;POCO;C71;Vibrador;Compatible;2,15;;;6
+PO-C71-ANT-COM;POCO;C71;Antena / coaxial;Compatible;2,55;;;6
+PO-C71-HUE-COM;POCO;C71;Botón home / huella;Compatible;5,80;;;6

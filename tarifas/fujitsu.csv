@@ -1,0 +1,75 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+FU-ANXF01F-PAN-COM;Fujitsu;ARROWS NX F-01F;Pantalla;Compatible;15,15;14,70;14,24;6
+FU-ANXF01F-BAT-COM;Fujitsu;ARROWS NX F-01F;Batería;Compatible;9,65;;;6
+FU-ANXF01F-CON-COM;Fujitsu;ARROWS NX F-01F;Conector de carga;Compatible;4,60;;;6
+FU-ANXF01F-TAP-COM;Fujitsu;ARROWS NX F-01F;Tapa trasera;Compatible;5,40;;;6
+FU-ANXF01F-CTR-COM;Fujitsu;ARROWS NX F-01F;Cámara trasera;Compatible;7,59;;;6
+FU-ANXF01F-CFR-COM;Fujitsu;ARROWS NX F-01F;Cámara frontal;Compatible;4,99;;;6
+FU-ANXF01F-LEN-COM;Fujitsu;ARROWS NX F-01F;Lente de cámara;Compatible;2,19;;;6
+FU-ANXF01F-ALT-COM;Fujitsu;ARROWS NX F-01F;Altavoz;Compatible;3,65;;;6
+FU-ANXF01F-AUR-COM;Fujitsu;ARROWS NX F-01F;Auricular de llamada;Compatible;2,65;;;6
+FU-ANXF01F-FLX-COM;Fujitsu;ARROWS NX F-01F;Flex de encendido y volumen;Compatible;2,49;;;6
+FU-ANXF01F-SIM-COM;Fujitsu;ARROWS NX F-01F;Bandeja SIM;Compatible;2,55;;;6
+FU-AEF-PAN-COM;Fujitsu;ARROWS ef;Pantalla;Compatible;15,15;14,70;14,24;6
+FU-AEF-BAT-COM;Fujitsu;ARROWS ef;Batería;Compatible;9,65;;;6
+FU-AEF-CON-COM;Fujitsu;ARROWS ef;Conector de carga;Compatible;4,60;;;6
+FU-AEF-TAP-COM;Fujitsu;ARROWS ef;Tapa trasera;Compatible;5,40;;;6
+FU-AEF-CTR-COM;Fujitsu;ARROWS ef;Cámara trasera;Compatible;7,59;;;6
+FU-AEF-CFR-COM;Fujitsu;ARROWS ef;Cámara frontal;Compatible;4,99;;;6
+FU-AEF-LEN-COM;Fujitsu;ARROWS ef;Lente de cámara;Compatible;2,19;;;6
+FU-AEF-ALT-COM;Fujitsu;ARROWS ef;Altavoz;Compatible;3,65;;;6
+FU-AEF-AUR-COM;Fujitsu;ARROWS ef;Auricular de llamada;Compatible;2,65;;;6
+FU-AEF-FLX-COM;Fujitsu;ARROWS ef;Flex de encendido y volumen;Compatible;2,49;;;6
+FU-AEF-SIM-COM;Fujitsu;ARROWS ef;Bandeja SIM;Compatible;2,55;;;6
+FU-AA101F-PAN-INC;Fujitsu;ARROWS A 101F;Pantalla;Incell;17,69;17,16;16,63;6
+FU-AA101F-BAT-COM;Fujitsu;ARROWS A 101F;Batería;Compatible;9,65;;;6
+FU-AA101F-CON-COM;Fujitsu;ARROWS A 101F;Conector de carga;Compatible;4,60;;;6
+FU-AA101F-TAP-COM;Fujitsu;ARROWS A 101F;Tapa trasera;Compatible;5,40;;;6
+FU-AA101F-CTR-COM;Fujitsu;ARROWS A 101F;Cámara trasera;Compatible;7,59;;;6
+FU-AA101F-CFR-COM;Fujitsu;ARROWS A 101F;Cámara frontal;Compatible;4,99;;;6
+FU-AA101F-LEN-COM;Fujitsu;ARROWS A 101F;Lente de cámara;Compatible;2,19;;;6
+FU-AA101F-ALT-COM;Fujitsu;ARROWS A 101F;Altavoz;Compatible;3,65;;;6
+FU-AA101F-AUR-COM;Fujitsu;ARROWS A 101F;Auricular de llamada;Compatible;2,65;;;6
+FU-AA101F-FLX-COM;Fujitsu;ARROWS A 101F;Flex de encendido y volumen;Compatible;2,49;;;6
+FU-AA101F-SIM-COM;Fujitsu;ARROWS A 101F;Bandeja SIM;Compatible;2,55;;;6
+FU-AZISW13F-PAN-COM;Fujitsu;Arrows Z ISW13F;Pantalla;Compatible;15,15;14,70;14,24;6
+FU-AZISW13F-BAT-COM;Fujitsu;Arrows Z ISW13F;Batería;Compatible;9,65;;;6
+FU-AZISW13F-CON-COM;Fujitsu;Arrows Z ISW13F;Conector de carga;Compatible;4,60;;;6
+FU-AZISW13F-TAP-COM;Fujitsu;Arrows Z ISW13F;Tapa trasera;Compatible;5,40;;;6
+FU-AZISW13F-CTR-COM;Fujitsu;Arrows Z ISW13F;Cámara trasera;Compatible;7,59;;;6
+FU-AZISW13F-CFR-COM;Fujitsu;Arrows Z ISW13F;Cámara frontal;Compatible;4,99;;;6
+FU-AZISW13F-LEN-COM;Fujitsu;Arrows Z ISW13F;Lente de cámara;Compatible;2,19;;;6
+FU-AZISW13F-ALT-COM;Fujitsu;Arrows Z ISW13F;Altavoz;Compatible;3,65;;;6
+FU-AZISW13F-AUR-COM;Fujitsu;Arrows Z ISW13F;Auricular de llamada;Compatible;2,65;;;6
+FU-AZISW13F-FLX-COM;Fujitsu;Arrows Z ISW13F;Flex de encendido y volumen;Compatible;2,49;;;6
+FU-AZISW13F-SIM-COM;Fujitsu;Arrows Z ISW13F;Bandeja SIM;Compatible;2,55;;;6
+FU-ANXF01F-PRO-NA;Fujitsu;ARROWS NX F-01F;Cristal templado;Estándar;1,30;;;
+FU-ANXF01F-PRO-PRI;Fujitsu;ARROWS NX F-01F;Cristal templado;Privacidad;4,00;;;
+FU-ANXF01F-FUN-SIL;Fujitsu;ARROWS NX F-01F;Funda;Silicona;2,50;;;
+FU-ANXF01F-FUN-TPU;Fujitsu;ARROWS NX F-01F;Funda;Transparente;2,95;;;
+FU-ANXF01F-FUN-LIB;Fujitsu;ARROWS NX F-01F;Funda;Libro;3,70;;;
+FU-ANXF01F-FUN-ANT;Fujitsu;ARROWS NX F-01F;Funda;Antigolpes;3,10;;;
+FU-AEF-PRO-NA;Fujitsu;ARROWS ef;Cristal templado;Estándar;1,30;;;
+FU-AEF-PRO-PRI;Fujitsu;ARROWS ef;Cristal templado;Privacidad;4,00;;;
+FU-AEF-FUN-SIL;Fujitsu;ARROWS ef;Funda;Silicona;2,50;;;
+FU-AEF-FUN-TPU;Fujitsu;ARROWS ef;Funda;Transparente;2,95;;;
+FU-AEF-FUN-LIB;Fujitsu;ARROWS ef;Funda;Libro;3,70;;;
+FU-AEF-FUN-ANT;Fujitsu;ARROWS ef;Funda;Antigolpes;3,10;;;
+FU-AA101F-PRO-NA;Fujitsu;ARROWS A 101F;Cristal templado;Estándar;1,30;;;
+FU-AA101F-PRO-PRI;Fujitsu;ARROWS A 101F;Cristal templado;Privacidad;4,00;;;
+FU-AA101F-FUN-SIL;Fujitsu;ARROWS A 101F;Funda;Silicona;2,50;;;
+FU-AA101F-FUN-TPU;Fujitsu;ARROWS A 101F;Funda;Transparente;2,95;;;
+FU-AA101F-FUN-LIB;Fujitsu;ARROWS A 101F;Funda;Libro;3,70;;;
+FU-AA101F-FUN-ANT;Fujitsu;ARROWS A 101F;Funda;Antigolpes;3,10;;;
+FU-AZISW13F-PRO-NA;Fujitsu;Arrows Z ISW13F;Cristal templado;Estándar;1,30;;;
+FU-AZISW13F-PRO-PRI;Fujitsu;Arrows Z ISW13F;Cristal templado;Privacidad;4,00;;;
+FU-AZISW13F-FUN-SIL;Fujitsu;Arrows Z ISW13F;Funda;Silicona;2,50;;;
+FU-AZISW13F-FUN-TPU;Fujitsu;Arrows Z ISW13F;Funda;Transparente;2,95;;;
+FU-AZISW13F-FUN-LIB;Fujitsu;Arrows Z ISW13F;Funda;Libro;3,70;;;
+FU-AZISW13F-FUN-ANT;Fujitsu;Arrows Z ISW13F;Funda;Antigolpes;3,10;;;
+FU-ANXF01F-MAR-COM;Fujitsu;ARROWS NX F-01F;Marco / chasis;Compatible;5,75;;;6
+FU-ANXF01F-BOT-COM;Fujitsu;ARROWS NX F-01F;Botones laterales;Compatible;2,95;;;6
+FU-ANXF01F-ANT-COM;Fujitsu;ARROWS NX F-01F;Antena / coaxial;Compatible;2,55;;;6
+FU-AEF-ANT-COM;Fujitsu;ARROWS ef;Antena / coaxial;Compatible;2,55;;;6
+FU-AA101F-ANT-COM;Fujitsu;ARROWS A 101F;Antena / coaxial;Compatible;2,55;;;6
+FU-AZISW13F-ANT-COM;Fujitsu;Arrows Z ISW13F;Antena / coaxial;Compatible;2,55;;;6

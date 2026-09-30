@@ -1,0 +1,45 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+RA-P2-PAN-COM;Razer;Phone 2;Pantalla;Compatible;15,15;14,70;14,24;6
+RA-P2-BAT-COM;Razer;Phone 2;Batería;Compatible;9,65;;;6
+RA-P2-CON-COM;Razer;Phone 2;Conector de carga;Compatible;4,60;;;6
+RA-P2-TAP-COM;Razer;Phone 2;Tapa trasera;Compatible;5,40;;;6
+RA-P2-CTR-COM;Razer;Phone 2;Cámara trasera;Compatible;7,59;;;6
+RA-P2-CFR-COM;Razer;Phone 2;Cámara frontal;Compatible;4,99;;;6
+RA-P2-LEN-COM;Razer;Phone 2;Lente de cámara;Compatible;2,19;;;6
+RA-P2-ALT-COM;Razer;Phone 2;Altavoz;Compatible;3,65;;;6
+RA-P2-AUR-COM;Razer;Phone 2;Auricular de llamada;Compatible;2,65;;;6
+RA-P2-FLX-COM;Razer;Phone 2;Flex de encendido y volumen;Compatible;2,49;;;6
+RA-P2-SIM-COM;Razer;Phone 2;Bandeja SIM;Compatible;2,55;;;6
+RA-P-PAN-COM;Razer;Phone;Pantalla;Compatible;15,15;14,70;14,24;6
+RA-P-BAT-COM;Razer;Phone;Batería;Compatible;9,65;;;6
+RA-P-CON-COM;Razer;Phone;Conector de carga;Compatible;4,60;;;6
+RA-P-TAP-COM;Razer;Phone;Tapa trasera;Compatible;5,40;;;6
+RA-P-CTR-COM;Razer;Phone;Cámara trasera;Compatible;7,59;;;6
+RA-P-CFR-COM;Razer;Phone;Cámara frontal;Compatible;4,99;;;6
+RA-P-LEN-COM;Razer;Phone;Lente de cámara;Compatible;2,19;;;6
+RA-P-ALT-COM;Razer;Phone;Altavoz;Compatible;3,65;;;6
+RA-P-AUR-COM;Razer;Phone;Auricular de llamada;Compatible;2,65;;;6
+RA-P-FLX-COM;Razer;Phone;Flex de encendido y volumen;Compatible;2,49;;;6
+RA-P-SIM-COM;Razer;Phone;Bandeja SIM;Compatible;2,55;;;6
+RA-P2-PRO-NA;Razer;Phone 2;Cristal templado;Estándar;1,30;;;
+RA-P2-PRO-PRI;Razer;Phone 2;Cristal templado;Privacidad;4,00;;;
+RA-P2-FUN-SIL;Razer;Phone 2;Funda;Silicona;2,50;;;
+RA-P2-FUN-TPU;Razer;Phone 2;Funda;Transparente;2,95;;;
+RA-P2-FUN-LIB;Razer;Phone 2;Funda;Libro;3,70;;;
+RA-P2-FUN-ANT;Razer;Phone 2;Funda;Antigolpes;3,10;;;
+RA-P-PRO-NA;Razer;Phone;Cristal templado;Estándar;1,30;;;
+RA-P-PRO-PRI;Razer;Phone;Cristal templado;Privacidad;4,00;;;
+RA-P-FUN-SIL;Razer;Phone;Funda;Silicona;2,50;;;
+RA-P-FUN-TPU;Razer;Phone;Funda;Transparente;2,95;;;
+RA-P-FUN-LIB;Razer;Phone;Funda;Libro;3,70;;;
+RA-P-FUN-ANT;Razer;Phone;Funda;Antigolpes;3,10;;;
+RA-P2-MAR-COM;Razer;Phone 2;Marco / chasis;Compatible;6,49;;;6
+RA-P2-BOT-COM;Razer;Phone 2;Botones laterales;Compatible;3,35;;;6
+RA-P2-CRI-COM;Razer;Phone 2;Cristal de pantalla;Compatible;3,30;;;6
+RA-P2-ANT-COM;Razer;Phone 2;Antena / coaxial;Compatible;2,89;;;6
+RA-P2-HUE-COM;Razer;Phone 2;Botón home / huella;Compatible;4,79;;;6
+RA-P-MAR-COM;Razer;Phone;Marco / chasis;Compatible;6,49;;;6
+RA-P-BOT-COM;Razer;Phone;Botones laterales;Compatible;3,35;;;6
+RA-P-CRI-COM;Razer;Phone;Cristal de pantalla;Compatible;3,30;;;6
+RA-P-ANT-COM;Razer;Phone;Antena / coaxial;Compatible;2,89;;;6
+RA-P-HUE-COM;Razer;Phone;Botón home / huella;Compatible;4,79;;;6

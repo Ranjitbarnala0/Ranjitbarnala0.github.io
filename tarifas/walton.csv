@@ -1,0 +1,21 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+WA-PX3-PAN-COM;Walton;Primo X3;Pantalla;Compatible;15,15;14,70;14,24;6
+WA-PX3-BAT-COM;Walton;Primo X3;Batería;Compatible;9,65;;;6
+WA-PX3-CON-COM;Walton;Primo X3;Conector de carga;Compatible;4,60;;;6
+WA-PX3-TAP-COM;Walton;Primo X3;Tapa trasera;Compatible;5,40;;;6
+WA-PX3-CTR-COM;Walton;Primo X3;Cámara trasera;Compatible;7,59;;;6
+WA-PX3-CFR-COM;Walton;Primo X3;Cámara frontal;Compatible;4,99;;;6
+WA-PX3-LEN-COM;Walton;Primo X3;Lente de cámara;Compatible;2,19;;;6
+WA-PX3-ALT-COM;Walton;Primo X3;Altavoz;Compatible;3,65;;;6
+WA-PX3-AUR-COM;Walton;Primo X3;Auricular de llamada;Compatible;2,65;;;6
+WA-PX3-FLX-COM;Walton;Primo X3;Flex de encendido y volumen;Compatible;2,49;;;6
+WA-PX3-SIM-COM;Walton;Primo X3;Bandeja SIM;Compatible;2,55;;;6
+WA-PX3-PRO-NA;Walton;Primo X3;Cristal templado;Estándar;1,30;;;
+WA-PX3-PRO-PRI;Walton;Primo X3;Cristal templado;Privacidad;4,00;;;
+WA-PX3-FUN-SIL;Walton;Primo X3;Funda;Silicona;2,50;;;
+WA-PX3-FUN-TPU;Walton;Primo X3;Funda;Transparente;2,95;;;
+WA-PX3-FUN-LIB;Walton;Primo X3;Funda;Libro;3,70;;;
+WA-PX3-FUN-ANT;Walton;Primo X3;Funda;Antigolpes;3,10;;;
+WA-PX3-MAR-COM;Walton;Primo X3;Marco / chasis;Compatible;5,75;;;6
+WA-PX3-BOT-COM;Walton;Primo X3;Botones laterales;Compatible;2,95;;;6
+WA-PX3-ANT-COM;Walton;Primo X3;Antena / coaxial;Compatible;2,55;;;6

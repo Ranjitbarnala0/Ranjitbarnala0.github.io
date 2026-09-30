@@ -1,0 +1,53 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+NT-CMFP1-PAN-INC;CMF;Phone 1;Pantalla;Incell;17,15;16,64;16,12;6
+NT-CMFP1-BAT-COM;CMF;Phone 1;Batería;Compatible;8,69;;;6
+NT-CMFP1-CON-COM;CMF;Phone 1;Conector de carga;Compatible;4,05;;;6
+NT-CMFP1-TAP-COM-NEG;CMF;Phone 1;Tapa trasera;Negro;5,55;;;6
+NT-CMFP1-TAP-COM-AZU;CMF;Phone 1;Tapa trasera;Azul;5,55;;;6
+NT-CMFP1-TAP-COM-NAR;CMF;Phone 1;Tapa trasera;Naranja;5,55;;;6
+NT-CMFP1-TAP-COM-VER;CMF;Phone 1;Tapa trasera;Verde claro;5,55;;;6
+NT-CMFP1-CTR-COM;CMF;Phone 1;Cámara trasera;Compatible;7,60;;;6
+NT-CMFP1-CFR-COM;CMF;Phone 1;Cámara frontal;Compatible;5,00;;;6
+NT-CMFP1-LEN-COM;CMF;Phone 1;Lente de cámara;Compatible;2,35;;;6
+NT-CMFP1-ALT-COM;CMF;Phone 1;Altavoz;Compatible;3,55;;;6
+NT-CMFP1-AUR-COM;CMF;Phone 1;Auricular de llamada;Compatible;2,65;;;6
+NT-CMFP1-FLX-COM;CMF;Phone 1;Flex de encendido y volumen;Compatible;2,85;;;6
+NT-CMFP1-SIM-COM;CMF;Phone 1;Bandeja SIM;Compatible;2,69;;;6
+NT-CMFP2P-PAN-INC;CMF;Phone 2 Pro;Pantalla;Incell;18,05;17,51;16,97;6
+NT-CMFP2P-BAT-COM;CMF;Phone 2 Pro;Batería;Compatible;8,20;;;6
+NT-CMFP2P-CON-COM;CMF;Phone 2 Pro;Conector de carga;Compatible;4,85;;;6
+NT-CMFP2P-TAP-COM-NEG;CMF;Phone 2 Pro;Tapa trasera;Negro;5,95;;;6
+NT-CMFP2P-TAP-COM-BLA;CMF;Phone 2 Pro;Tapa trasera;Blanco;5,95;;;6
+NT-CMFP2P-TAP-COM-VER;CMF;Phone 2 Pro;Tapa trasera;Verde claro;5,95;;;6
+NT-CMFP2P-TAP-COM-NAR;CMF;Phone 2 Pro;Tapa trasera;Naranja;5,95;;;6
+NT-CMFP2P-CTR-COM;CMF;Phone 2 Pro;Cámara trasera;Compatible;10,45;10,14;9,82;6
+NT-CMFP2P-CFR-COM;CMF;Phone 2 Pro;Cámara frontal;Compatible;7,00;;;6
+NT-CMFP2P-LEN-COM;CMF;Phone 2 Pro;Lente de cámara;Compatible;3,05;;;6
+NT-CMFP2P-ALT-COM;CMF;Phone 2 Pro;Altavoz;Compatible;4,65;;;6
+NT-CMFP2P-AUR-COM;CMF;Phone 2 Pro;Auricular de llamada;Compatible;3,75;;;6
+NT-CMFP2P-FLX-COM;CMF;Phone 2 Pro;Flex de encendido y volumen;Compatible;3,10;;;6
+NT-CMFP2P-SIM-COM;CMF;Phone 2 Pro;Bandeja SIM;Compatible;3,19;;;6
+NT-CMFP1-PRO-NA;CMF;Phone 1;Cristal templado;Estándar;1,30;;;
+NT-CMFP1-PRO-PRI;CMF;Phone 1;Cristal templado;Privacidad;4,00;;;
+NT-CMFP1-FUN-SIL;CMF;Phone 1;Funda;Silicona;2,50;;;
+NT-CMFP1-FUN-TPU;CMF;Phone 1;Funda;Transparente;2,95;;;
+NT-CMFP1-FUN-LIB;CMF;Phone 1;Funda;Libro;3,70;;;
+NT-CMFP1-FUN-ANT;CMF;Phone 1;Funda;Antigolpes;3,10;;;
+NT-CMFP1-PCA-NA;CMF;Phone 1;Protector de cámara;Cristal;2,90;;;
+NT-CMFP2P-PRO-NA;CMF;Phone 2 Pro;Cristal templado;Estándar;1,30;;;
+NT-CMFP2P-PRO-PRI;CMF;Phone 2 Pro;Cristal templado;Privacidad;4,00;;;
+NT-CMFP2P-FUN-SIL;CMF;Phone 2 Pro;Funda;Silicona;2,50;;;
+NT-CMFP2P-FUN-TPU;CMF;Phone 2 Pro;Funda;Transparente;2,95;;;
+NT-CMFP2P-FUN-LIB;CMF;Phone 2 Pro;Funda;Libro;3,70;;;
+NT-CMFP2P-FUN-ANT;CMF;Phone 2 Pro;Funda;Antigolpes;3,10;;;
+NT-CMFP2P-PCA-NA;CMF;Phone 2 Pro;Protector de cámara;Cristal;2,90;;;
+NT-CMFP1-MAR-COM;CMF;Phone 1;Marco / chasis;Compatible;6,89;;;6
+NT-CMFP1-BOT-COM;CMF;Phone 1;Botones laterales;Compatible;3,55;;;6
+NT-CMFP1-CRI-COM;CMF;Phone 1;Cristal de pantalla;Compatible;3,50;;;6
+NT-CMFP1-ANT-COM;CMF;Phone 1;Antena / coaxial;Compatible;3,05;;;6
+NT-CMFP1-HUE-COM;CMF;Phone 1;Botón home / huella;Compatible;5,09;;;6
+NT-CMFP2P-MAR-COM;CMF;Phone 2 Pro;Marco / chasis;Compatible;6,89;;;6
+NT-CMFP2P-BOT-COM;CMF;Phone 2 Pro;Botones laterales;Compatible;3,55;;;6
+NT-CMFP2P-CRI-COM;CMF;Phone 2 Pro;Cristal de pantalla;Compatible;3,50;;;6
+NT-CMFP2P-ANT-COM;CMF;Phone 2 Pro;Antena / coaxial;Compatible;3,05;;;6
+NT-CMFP2P-HUE-COM;CMF;Phone 2 Pro;Botón home / huella;Compatible;5,09;;;6

@@ -1,0 +1,1825 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+TE-C50-PAN-INC;Tecno;Camon 50;Pantalla;Incell;21,05;20,42;19,79;6
+TE-C50-BAT-COM;Tecno;Camon 50;Batería;Compatible;8,89;;;6
+TE-C50-CON-COM;Tecno;Camon 50;Conector de carga;Compatible;6,00;;;6
+TE-C50-TAP-COM;Tecno;Camon 50;Tapa trasera;Compatible;6,65;;;6
+TE-C50-CTR-COM;Tecno;Camon 50;Cámara trasera;Compatible;11,85;11,49;11,14;6
+TE-C50-CFR-COM;Tecno;Camon 50;Cámara frontal;Compatible;7,49;;;6
+TE-C50-LEN-COM;Tecno;Camon 50;Lente de cámara;Compatible;2,95;;;6
+TE-C50-ALT-COM;Tecno;Camon 50;Altavoz;Compatible;4,75;;;6
+TE-C50-AUR-COM;Tecno;Camon 50;Auricular de llamada;Compatible;3,70;;;6
+TE-C50-FLX-COM;Tecno;Camon 50;Flex de encendido y volumen;Compatible;3,05;;;6
+TE-C50-SIM-COM;Tecno;Camon 50;Bandeja SIM;Compatible;3,00;;;6
+TE-S40C-PAN-COM;Tecno;Spark 40C;Pantalla;Compatible;15,45;14,99;14,52;6
+TE-S40C-BAT-COM;Tecno;Spark 40C;Batería;Compatible;8,20;;;6
+TE-S40C-CON-COM;Tecno;Spark 40C;Conector de carga;Compatible;4,85;;;6
+TE-S40C-TAP-COM;Tecno;Spark 40C;Tapa trasera;Compatible;5,95;;;6
+TE-S40C-CTR-COM;Tecno;Spark 40C;Cámara trasera;Compatible;10,45;10,14;9,82;6
+TE-S40C-CFR-COM;Tecno;Spark 40C;Cámara frontal;Compatible;7,00;;;6
+TE-S40C-LEN-COM;Tecno;Spark 40C;Lente de cámara;Compatible;3,05;;;6
+TE-S40C-ALT-COM;Tecno;Spark 40C;Altavoz;Compatible;4,65;;;6
+TE-S40C-AUR-COM;Tecno;Spark 40C;Auricular de llamada;Compatible;3,75;;;6
+TE-S40C-FLX-COM;Tecno;Spark 40C;Flex de encendido y volumen;Compatible;3,10;;;6
+TE-S40C-SIM-COM;Tecno;Spark 40C;Bandeja SIM;Compatible;3,19;;;6
+TE-S40-PAN-COM;Tecno;Spark 40;Pantalla;Compatible;15,45;14,99;14,52;6
+TE-S40-BAT-COM;Tecno;Spark 40;Batería;Compatible;8,20;;;6
+TE-S40-CON-COM;Tecno;Spark 40;Conector de carga;Compatible;4,85;;;6
+TE-S40-TAP-COM;Tecno;Spark 40;Tapa trasera;Compatible;5,95;;;6
+TE-S40-CTR-COM;Tecno;Spark 40;Cámara trasera;Compatible;10,45;10,14;9,82;6
+TE-S40-CFR-COM;Tecno;Spark 40;Cámara frontal;Compatible;7,00;;;6
+TE-S40-LEN-COM;Tecno;Spark 40;Lente de cámara;Compatible;3,05;;;6
+TE-S40-ALT-COM;Tecno;Spark 40;Altavoz;Compatible;4,65;;;6
+TE-S40-AUR-COM;Tecno;Spark 40;Auricular de llamada;Compatible;3,75;;;6
+TE-S40-FLX-COM;Tecno;Spark 40;Flex de encendido y volumen;Compatible;3,10;;;6
+TE-S40-SIM-COM;Tecno;Spark 40;Bandeja SIM;Compatible;3,19;;;6
+TE-S20P5-PAN-COM;Tecno;Spark 20 Pro 5G;Pantalla;Compatible;14,69;14,25;13,81;6
+TE-S20P5-BAT-COM;Tecno;Spark 20 Pro 5G;Batería;Compatible;8,69;;;6
+TE-S20P5-CON-COM;Tecno;Spark 20 Pro 5G;Conector de carga;Compatible;4,05;;;6
+TE-S20P5-TAP-COM;Tecno;Spark 20 Pro 5G;Tapa trasera;Compatible;5,55;;;6
+TE-S20P5-CTR-COM;Tecno;Spark 20 Pro 5G;Cámara trasera;Compatible;7,60;;;6
+TE-S20P5-CFR-COM;Tecno;Spark 20 Pro 5G;Cámara frontal;Compatible;5,00;;;6
+TE-S20P5-LEN-COM;Tecno;Spark 20 Pro 5G;Lente de cámara;Compatible;2,35;;;6
+TE-S20P5-ALT-COM;Tecno;Spark 20 Pro 5G;Altavoz;Compatible;3,55;;;6
+TE-S20P5-AUR-COM;Tecno;Spark 20 Pro 5G;Auricular de llamada;Compatible;2,65;;;6
+TE-S20P5-FLX-COM;Tecno;Spark 20 Pro 5G;Flex de encendido y volumen;Compatible;2,85;;;6
+TE-S20P5-SIM-COM;Tecno;Spark 20 Pro 5G;Bandeja SIM;Compatible;2,69;;;6
+TE-SPARK20P-PAN-COM;Tecno;Spark 20P;Pantalla;Compatible;14,69;14,25;13,81;6
+TE-SPARK20P-BAT-COM;Tecno;Spark 20P;Batería;Compatible;8,69;;;6
+TE-SPARK20P-CON-COM;Tecno;Spark 20P;Conector de carga;Compatible;4,05;;;6
+TE-SPARK20P-TAP-COM;Tecno;Spark 20P;Tapa trasera;Compatible;5,55;;;6
+TE-SPARK20P-CTR-COM;Tecno;Spark 20P;Cámara trasera;Compatible;7,60;;;6
+TE-SPARK20P-CFR-COM;Tecno;Spark 20P;Cámara frontal;Compatible;5,00;;;6
+TE-SPARK20P-LEN-COM;Tecno;Spark 20P;Lente de cámara;Compatible;2,35;;;6
+TE-SPARK20P-ALT-COM;Tecno;Spark 20P;Altavoz;Compatible;3,55;;;6
+TE-SPARK20P-AUR-COM;Tecno;Spark 20P;Auricular de llamada;Compatible;2,65;;;6
+TE-SPARK20P-FLX-COM;Tecno;Spark 20P;Flex de encendido y volumen;Compatible;2,85;;;6
+TE-SPARK20P-SIM-COM;Tecno;Spark 20P;Bandeja SIM;Compatible;2,69;;;6
+TE-P6P-PAN-COM;Tecno;Pova 6 Pro;Pantalla;Compatible;17,15;16,64;16,12;6
+TE-P6P-BAT-COM;Tecno;Pova 6 Pro;Batería;Compatible;9,40;;;6
+TE-P6P-CON-COM;Tecno;Pova 6 Pro;Conector de carga;Compatible;5,05;;;6
+TE-P6P-TAP-COM;Tecno;Pova 6 Pro;Tapa trasera;Compatible;6,20;;;6
+TE-P6P-CTR-COM;Tecno;Pova 6 Pro;Cámara trasera;Compatible;8,65;;;6
+TE-P6P-CFR-COM;Tecno;Pova 6 Pro;Cámara frontal;Compatible;5,35;;;6
+TE-P6P-LEN-COM;Tecno;Pova 6 Pro;Lente de cámara;Compatible;2,30;;;6
+TE-P6P-ALT-COM;Tecno;Pova 6 Pro;Altavoz;Compatible;3,60;;;6
+TE-P6P-AUR-COM;Tecno;Pova 6 Pro;Auricular de llamada;Compatible;2,65;;;6
+TE-P6P-FLX-COM;Tecno;Pova 6 Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+TE-P6P-SIM-COM;Tecno;Pova 6 Pro;Bandeja SIM;Compatible;2,55;;;6
+TE-S20-PAN-COM;Tecno;Spark 20;Pantalla;Compatible;14,69;14,25;13,81;6
+TE-S20-BAT-COM;Tecno;Spark 20;Batería;Compatible;8,69;;;6
+TE-S20-CON-COM;Tecno;Spark 20;Conector de carga;Compatible;4,05;;;6
+TE-S20-TAP-COM;Tecno;Spark 20;Tapa trasera;Compatible;5,55;;;6
+TE-S20-CTR-COM;Tecno;Spark 20;Cámara trasera;Compatible;7,60;;;6
+TE-S20-CFR-COM;Tecno;Spark 20;Cámara frontal;Compatible;5,00;;;6
+TE-S20-LEN-COM;Tecno;Spark 20;Lente de cámara;Compatible;2,35;;;6
+TE-S20-ALT-COM;Tecno;Spark 20;Altavoz;Compatible;3,55;;;6
+TE-S20-AUR-COM;Tecno;Spark 20;Auricular de llamada;Compatible;2,65;;;6
+TE-S20-FLX-COM;Tecno;Spark 20;Flex de encendido y volumen;Compatible;2,85;;;6
+TE-S20-SIM-COM;Tecno;Spark 20;Bandeja SIM;Compatible;2,69;;;6
+TE-S20P-PAN-COM;Tecno;Spark 20 Pro;Pantalla;Compatible;14,69;14,25;13,81;6
+TE-S20P-BAT-COM;Tecno;Spark 20 Pro;Batería;Compatible;8,69;;;6
+TE-S20P-CON-COM;Tecno;Spark 20 Pro;Conector de carga;Compatible;4,05;;;6
+TE-S20P-TAP-COM;Tecno;Spark 20 Pro;Tapa trasera;Compatible;5,55;;;6
+TE-S20P-CTR-COM;Tecno;Spark 20 Pro;Cámara trasera;Compatible;7,60;;;6
+TE-S20P-CFR-COM;Tecno;Spark 20 Pro;Cámara frontal;Compatible;5,00;;;6
+TE-S20P-LEN-COM;Tecno;Spark 20 Pro;Lente de cámara;Compatible;2,35;;;6
+TE-S20P-ALT-COM;Tecno;Spark 20 Pro;Altavoz;Compatible;3,55;;;6
+TE-S20P-AUR-COM;Tecno;Spark 20 Pro;Auricular de llamada;Compatible;2,65;;;6
+TE-S20P-FLX-COM;Tecno;Spark 20 Pro;Flex de encendido y volumen;Compatible;2,85;;;6
+TE-S20P-SIM-COM;Tecno;Spark 20 Pro;Bandeja SIM;Compatible;2,69;;;6
+TE-S20PPL-PAN-COM;Tecno;Spark 20 Pro+;Pantalla;Compatible;14,69;14,25;13,81;6
+TE-S20PPL-BAT-COM;Tecno;Spark 20 Pro+;Batería;Compatible;8,69;;;6
+TE-S20PPL-CON-COM;Tecno;Spark 20 Pro+;Conector de carga;Compatible;4,05;;;6
+TE-S20PPL-TAP-COM;Tecno;Spark 20 Pro+;Tapa trasera;Compatible;5,55;;;6
+TE-S20PPL-CTR-COM;Tecno;Spark 20 Pro+;Cámara trasera;Compatible;7,60;;;6
+TE-S20PPL-CFR-COM;Tecno;Spark 20 Pro+;Cámara frontal;Compatible;5,00;;;6
+TE-S20PPL-LEN-COM;Tecno;Spark 20 Pro+;Lente de cámara;Compatible;2,35;;;6
+TE-S20PPL-ALT-COM;Tecno;Spark 20 Pro+;Altavoz;Compatible;3,55;;;6
+TE-S20PPL-AUR-COM;Tecno;Spark 20 Pro+;Auricular de llamada;Compatible;2,65;;;6
+TE-S20PPL-FLX-COM;Tecno;Spark 20 Pro+;Flex de encendido y volumen;Compatible;2,85;;;6
+TE-S20PPL-SIM-COM;Tecno;Spark 20 Pro+;Bandeja SIM;Compatible;2,69;;;6
+TE-S20C-PAN-COM;Tecno;Spark 20C;Pantalla;Compatible;14,69;14,25;13,81;6
+TE-S20C-BAT-COM;Tecno;Spark 20C;Batería;Compatible;8,69;;;6
+TE-S20C-CON-COM;Tecno;Spark 20C;Conector de carga;Compatible;4,05;;;6
+TE-S20C-TAP-COM;Tecno;Spark 20C;Tapa trasera;Compatible;5,55;;;6
+TE-S20C-CTR-COM;Tecno;Spark 20C;Cámara trasera;Compatible;7,60;;;6
+TE-S20C-CFR-COM;Tecno;Spark 20C;Cámara frontal;Compatible;5,00;;;6
+TE-S20C-LEN-COM;Tecno;Spark 20C;Lente de cámara;Compatible;2,35;;;6
+TE-S20C-ALT-COM;Tecno;Spark 20C;Altavoz;Compatible;3,55;;;6
+TE-S20C-AUR-COM;Tecno;Spark 20C;Auricular de llamada;Compatible;2,65;;;6
+TE-S20C-FLX-COM;Tecno;Spark 20C;Flex de encendido y volumen;Compatible;2,85;;;6
+TE-S20C-SIM-COM;Tecno;Spark 20C;Bandeja SIM;Compatible;2,69;;;6
+TE-PVFL-PAN-COM;Tecno;Phantom V Flip;Pantalla;Compatible;89,50;86,82;84,13;6
+TE-PVFL-PAN-COM-EXT;Tecno;Phantom V Flip;Pantalla exterior;Compatible;17,69;17,16;16,63;6
+TE-PVFL-BAT-COM;Tecno;Phantom V Flip;Batería;Compatible;9,95;;;6
+TE-PVFL-CON-COM;Tecno;Phantom V Flip;Conector de carga;Compatible;5,80;;;6
+TE-PVFL-TAP-COM;Tecno;Phantom V Flip;Tapa trasera;Compatible;7,19;;;6
+TE-PVFL-CTR-COM;Tecno;Phantom V Flip;Cámara trasera;Compatible;11,89;11,53;11,18;6
+TE-PVFL-CFR-COM;Tecno;Phantom V Flip;Cámara frontal;Compatible;6,69;;;6
+TE-PVFL-LEN-COM;Tecno;Phantom V Flip;Lente de cámara;Compatible;3,05;;;6
+TE-PVFL-ALT-COM;Tecno;Phantom V Flip;Altavoz;Compatible;4,20;;;6
+TE-PVFL-AUR-COM;Tecno;Phantom V Flip;Auricular de llamada;Compatible;3,35;;;6
+TE-PVFL-FLX-COM;Tecno;Phantom V Flip;Flex de encendido y volumen;Compatible;3,55;;;6
+TE-PVFL-SIM-COM;Tecno;Phantom V Flip;Bandeja SIM;Compatible;3,05;;;6
+TE-C20-PAN-INC;Tecno;Camon 20;Pantalla;Incell;19,99;19,39;18,79;6
+TE-C20-BAT-COM;Tecno;Camon 20;Batería;Compatible;9,40;;;6
+TE-C20-CON-COM;Tecno;Camon 20;Conector de carga;Compatible;5,05;;;6
+TE-C20-TAP-COM;Tecno;Camon 20;Tapa trasera;Compatible;6,20;;;6
+TE-C20-CTR-COM;Tecno;Camon 20;Cámara trasera;Compatible;8,65;;;6
+TE-C20-CFR-COM;Tecno;Camon 20;Cámara frontal;Compatible;5,35;;;6
+TE-C20-LEN-COM;Tecno;Camon 20;Lente de cámara;Compatible;2,30;;;6
+TE-C20-ALT-COM;Tecno;Camon 20;Altavoz;Compatible;3,60;;;6
+TE-C20-AUR-COM;Tecno;Camon 20;Auricular de llamada;Compatible;2,65;;;6
+TE-C20-FLX-COM;Tecno;Camon 20;Flex de encendido y volumen;Compatible;2,79;;;6
+TE-C20-SIM-COM;Tecno;Camon 20;Bandeja SIM;Compatible;2,55;;;6
+TE-PVF-PAN-COM;Tecno;Phantom V Fold;Pantalla;Compatible;148,75;144,29;139,82;6
+TE-PVF-BAT-COM;Tecno;Phantom V Fold;Batería;Compatible;9,70;;;6
+TE-PVF-CON-COM;Tecno;Phantom V Fold;Conector de carga;Compatible;9,65;;;6
+TE-PVF-TAP-COM;Tecno;Phantom V Fold;Tapa trasera;Compatible;11,05;10,72;10,39;6
+TE-PVF-CTR-COM;Tecno;Phantom V Fold;Cámara trasera;Compatible;20,05;19,45;18,85;6
+TE-PVF-CFR-COM;Tecno;Phantom V Fold;Cámara frontal;Compatible;9,49;;;6
+TE-PVF-LEN-COM;Tecno;Phantom V Fold;Lente de cámara;Compatible;4,69;;;6
+TE-PVF-ALT-COM;Tecno;Phantom V Fold;Altavoz;Compatible;7,05;;;6
+TE-PVF-AUR-COM;Tecno;Phantom V Fold;Auricular de llamada;Compatible;5,25;;;6
+TE-PVF-FLX-COM;Tecno;Phantom V Fold;Flex de encendido y volumen;Compatible;5,75;;;6
+TE-PVF-SIM-COM;Tecno;Phantom V Fold;Bandeja SIM;Compatible;4,70;;;6
+TE-S10-PAN-COM;Tecno;Spark 10;Pantalla;Compatible;14,69;14,25;13,81;6
+TE-S10-BAT-COM;Tecno;Spark 10;Batería;Compatible;8,69;;;6
+TE-S10-CON-COM;Tecno;Spark 10;Conector de carga;Compatible;4,05;;;6
+TE-S10-TAP-COM;Tecno;Spark 10;Tapa trasera;Compatible;5,55;;;6
+TE-S10-CTR-COM;Tecno;Spark 10;Cámara trasera;Compatible;7,60;;;6
+TE-S10-CFR-COM;Tecno;Spark 10;Cámara frontal;Compatible;5,00;;;6
+TE-S10-LEN-COM;Tecno;Spark 10;Lente de cámara;Compatible;2,35;;;6
+TE-S10-ALT-COM;Tecno;Spark 10;Altavoz;Compatible;3,55;;;6
+TE-S10-AUR-COM;Tecno;Spark 10;Auricular de llamada;Compatible;2,65;;;6
+TE-S10-FLX-COM;Tecno;Spark 10;Flex de encendido y volumen;Compatible;2,85;;;6
+TE-S10-SIM-COM;Tecno;Spark 10;Bandeja SIM;Compatible;2,69;;;6
+TE-PX2-PAN-INC;Tecno;Phantom X2;Pantalla;Incell;28,75;27,89;27,03;6
+TE-PX2-BAT-COM;Tecno;Phantom X2;Batería;Compatible;9,70;;;6
+TE-PX2-CON-COM;Tecno;Phantom X2;Conector de carga;Compatible;6,30;;;6
+TE-PX2-TAP-COM;Tecno;Phantom X2;Tapa trasera;Compatible;7,75;;;6
+TE-PX2-CTR-COM;Tecno;Phantom X2;Cámara trasera;Compatible;13,19;12,79;12,40;6
+TE-PX2-CFR-COM;Tecno;Phantom X2;Cámara frontal;Compatible;7,10;;;6
+TE-PX2-LEN-COM;Tecno;Phantom X2;Lente de cámara;Compatible;3,20;;;6
+TE-PX2-ALT-COM;Tecno;Phantom X2;Altavoz;Compatible;4,55;;;6
+TE-PX2-AUR-COM;Tecno;Phantom X2;Auricular de llamada;Compatible;3,59;;;6
+TE-PX2-FLX-COM;Tecno;Phantom X2;Flex de encendido y volumen;Compatible;3,95;;;6
+TE-PX2-SIM-COM;Tecno;Phantom X2;Bandeja SIM;Compatible;3,15;;;6
+TE-C19-PAN-COM;Tecno;Camon 19;Pantalla;Compatible;16,10;15,62;15,13;6
+TE-C19-BAT-COM;Tecno;Camon 19;Batería;Compatible;8,25;;;6
+TE-C19-CON-COM;Tecno;Camon 19;Conector de carga;Compatible;4,40;;;6
+TE-C19-TAP-COM;Tecno;Camon 19;Tapa trasera;Compatible;5,55;;;6
+TE-C19-CTR-COM;Tecno;Camon 19;Cámara trasera;Compatible;6,19;;;6
+TE-C19-CFR-COM;Tecno;Camon 19;Cámara frontal;Compatible;3,65;;;6
+TE-C19-LEN-COM;Tecno;Camon 19;Lente de cámara;Compatible;2,20;;;6
+TE-C19-ALT-COM;Tecno;Camon 19;Altavoz;Compatible;3,35;;;6
+TE-C19-AUR-COM;Tecno;Camon 19;Auricular de llamada;Compatible;2,40;;;6
+TE-C19-FLX-COM;Tecno;Camon 19;Flex de encendido y volumen;Compatible;2,29;;;6
+TE-C19-SIM-COM;Tecno;Camon 19;Bandeja SIM;Compatible;2,60;;;6
+TE-S9-PAN-COM;Tecno;Spark 9;Pantalla;Compatible;13,80;13,39;12,97;6
+TE-S9-BAT-COM;Tecno;Spark 9;Batería;Compatible;7,60;;;6
+TE-S9-CON-COM;Tecno;Spark 9;Conector de carga;Compatible;3,55;;;6
+TE-S9-TAP-COM;Tecno;Spark 9;Tapa trasera;Compatible;4,95;;;6
+TE-S9-CTR-COM;Tecno;Spark 9;Cámara trasera;Compatible;5,45;;;6
+TE-S9-CFR-COM;Tecno;Spark 9;Cámara frontal;Compatible;3,45;;;6
+TE-S9-LEN-COM;Tecno;Spark 9;Lente de cámara;Compatible;2,25;;;6
+TE-S9-ALT-COM;Tecno;Spark 9;Altavoz;Compatible;3,29;;;6
+TE-S9-AUR-COM;Tecno;Spark 9;Auricular de llamada;Compatible;2,45;;;6
+TE-S9-FLX-COM;Tecno;Spark 9;Flex de encendido y volumen;Compatible;2,35;;;6
+TE-S9-SIM-COM;Tecno;Spark 9;Bandeja SIM;Compatible;2,75;;;6
+TE-C18-PAN-COM;Tecno;Camon 18;Pantalla;Compatible;16,10;15,62;15,13;6
+TE-C18-BAT-COM;Tecno;Camon 18;Batería;Compatible;8,25;;;6
+TE-C18-CON-COM;Tecno;Camon 18;Conector de carga;Compatible;4,40;;;6
+TE-C18-TAP-COM;Tecno;Camon 18;Tapa trasera;Compatible;5,55;;;6
+TE-C18-CTR-COM;Tecno;Camon 18;Cámara trasera;Compatible;6,19;;;6
+TE-C18-CFR-COM;Tecno;Camon 18;Cámara frontal;Compatible;3,65;;;6
+TE-C18-LEN-COM;Tecno;Camon 18;Lente de cámara;Compatible;2,20;;;6
+TE-C18-ALT-COM;Tecno;Camon 18;Altavoz;Compatible;3,35;;;6
+TE-C18-AUR-COM;Tecno;Camon 18;Auricular de llamada;Compatible;2,40;;;6
+TE-C18-FLX-COM;Tecno;Camon 18;Flex de encendido y volumen;Compatible;2,29;;;6
+TE-C18-SIM-COM;Tecno;Camon 18;Bandeja SIM;Compatible;2,60;;;6
+TE-S8-PAN-COM;Tecno;Spark 8;Pantalla;Compatible;13,80;13,39;12,97;6
+TE-S8-BAT-COM;Tecno;Spark 8;Batería;Compatible;7,60;;;6
+TE-S8-CON-COM;Tecno;Spark 8;Conector de carga;Compatible;3,55;;;6
+TE-S8-TAP-COM;Tecno;Spark 8;Tapa trasera;Compatible;4,95;;;6
+TE-S8-CTR-COM;Tecno;Spark 8;Cámara trasera;Compatible;5,45;;;6
+TE-S8-CFR-COM;Tecno;Spark 8;Cámara frontal;Compatible;3,45;;;6
+TE-S8-LEN-COM;Tecno;Spark 8;Lente de cámara;Compatible;2,25;;;6
+TE-S8-ALT-COM;Tecno;Spark 8;Altavoz;Compatible;3,29;;;6
+TE-S8-AUR-COM;Tecno;Spark 8;Auricular de llamada;Compatible;2,45;;;6
+TE-S8-FLX-COM;Tecno;Spark 8;Flex de encendido y volumen;Compatible;2,35;;;6
+TE-S8-SIM-COM;Tecno;Spark 8;Bandeja SIM;Compatible;2,75;;;6
+TE-PX-PAN-INC;Tecno;Phantom X;Pantalla;Incell;27,00;26,19;25,38;6
+TE-PX-BAT-COM;Tecno;Phantom X;Batería;Compatible;8,50;;;6
+TE-PX-CON-COM;Tecno;Phantom X;Conector de carga;Compatible;5,55;;;6
+TE-PX-TAP-COM;Tecno;Phantom X;Tapa trasera;Compatible;6,89;;;6
+TE-PX-CTR-COM;Tecno;Phantom X;Cámara trasera;Compatible;9,40;;;6
+TE-PX-CFR-COM;Tecno;Phantom X;Cámara frontal;Compatible;4,85;;;6
+TE-PX-LEN-COM;Tecno;Phantom X;Lente de cámara;Compatible;3,05;;;6
+TE-PX-ALT-COM;Tecno;Phantom X;Altavoz;Compatible;4,25;;;6
+TE-PX-AUR-COM;Tecno;Phantom X;Auricular de llamada;Compatible;3,25;;;6
+TE-PX-FLX-COM;Tecno;Phantom X;Flex de encendido y volumen;Compatible;3,25;;;6
+TE-PX-SIM-COM;Tecno;Phantom X;Bandeja SIM;Compatible;3,25;;;6
+TE-C17-PAN-COM;Tecno;Camon 17;Pantalla;Compatible;16,10;15,62;15,13;6
+TE-C17-BAT-COM;Tecno;Camon 17;Batería;Compatible;8,25;;;6
+TE-C17-CON-COM;Tecno;Camon 17;Conector de carga;Compatible;4,40;;;6
+TE-C17-TAP-COM;Tecno;Camon 17;Tapa trasera;Compatible;5,55;;;6
+TE-C17-CTR-COM;Tecno;Camon 17;Cámara trasera;Compatible;6,19;;;6
+TE-C17-CFR-COM;Tecno;Camon 17;Cámara frontal;Compatible;3,65;;;6
+TE-C17-LEN-COM;Tecno;Camon 17;Lente de cámara;Compatible;2,20;;;6
+TE-C17-ALT-COM;Tecno;Camon 17;Altavoz;Compatible;3,35;;;6
+TE-C17-AUR-COM;Tecno;Camon 17;Auricular de llamada;Compatible;2,40;;;6
+TE-C17-FLX-COM;Tecno;Camon 17;Flex de encendido y volumen;Compatible;2,29;;;6
+TE-C17-SIM-COM;Tecno;Camon 17;Bandeja SIM;Compatible;2,60;;;6
+TE-C16-PAN-COM;Tecno;Camon 16;Pantalla;Compatible;16,10;15,62;15,13;6
+TE-C16-BAT-COM;Tecno;Camon 16;Batería;Compatible;8,25;;;6
+TE-C16-CON-COM;Tecno;Camon 16;Conector de carga;Compatible;4,40;;;6
+TE-C16-TAP-COM;Tecno;Camon 16;Tapa trasera;Compatible;5,55;;;6
+TE-C16-CTR-COM;Tecno;Camon 16;Cámara trasera;Compatible;6,19;;;6
+TE-C16-CFR-COM;Tecno;Camon 16;Cámara frontal;Compatible;3,65;;;6
+TE-C16-LEN-COM;Tecno;Camon 16;Lente de cámara;Compatible;2,20;;;6
+TE-C16-ALT-COM;Tecno;Camon 16;Altavoz;Compatible;3,35;;;6
+TE-C16-AUR-COM;Tecno;Camon 16;Auricular de llamada;Compatible;2,40;;;6
+TE-C16-FLX-COM;Tecno;Camon 16;Flex de encendido y volumen;Compatible;2,29;;;6
+TE-C16-SIM-COM;Tecno;Camon 16;Bandeja SIM;Compatible;2,60;;;6
+TE-P-PAN-COM;Tecno;Pova;Pantalla;Compatible;16,10;15,62;15,13;6
+TE-P-BAT-COM;Tecno;Pova;Batería;Compatible;8,25;;;6
+TE-P-CON-COM;Tecno;Pova;Conector de carga;Compatible;4,40;;;6
+TE-P-TAP-COM;Tecno;Pova;Tapa trasera;Compatible;5,55;;;6
+TE-P-CTR-COM;Tecno;Pova;Cámara trasera;Compatible;6,19;;;6
+TE-P-CFR-COM;Tecno;Pova;Cámara frontal;Compatible;3,65;;;6
+TE-P-LEN-COM;Tecno;Pova;Lente de cámara;Compatible;2,20;;;6
+TE-P-ALT-COM;Tecno;Pova;Altavoz;Compatible;3,35;;;6
+TE-P-AUR-COM;Tecno;Pova;Auricular de llamada;Compatible;2,40;;;6
+TE-P-FLX-COM;Tecno;Pova;Flex de encendido y volumen;Compatible;2,29;;;6
+TE-P-SIM-COM;Tecno;Pova;Bandeja SIM;Compatible;2,60;;;6
+TE-C16P-PAN-COM;Tecno;Camon 16 Premier;Pantalla;Compatible;16,10;15,62;15,13;6
+TE-C16P-BAT-COM;Tecno;Camon 16 Premier;Batería;Compatible;8,25;;;6
+TE-C16P-CON-COM;Tecno;Camon 16 Premier;Conector de carga;Compatible;4,40;;;6
+TE-C16P-TAP-COM;Tecno;Camon 16 Premier;Tapa trasera;Compatible;5,55;;;6
+TE-C16P-CTR-COM;Tecno;Camon 16 Premier;Cámara trasera;Compatible;6,19;;;6
+TE-C16P-CFR-COM;Tecno;Camon 16 Premier;Cámara frontal;Compatible;3,65;;;6
+TE-C16P-LEN-COM;Tecno;Camon 16 Premier;Lente de cámara;Compatible;2,20;;;6
+TE-C16P-ALT-COM;Tecno;Camon 16 Premier;Altavoz;Compatible;3,35;;;6
+TE-C16P-AUR-COM;Tecno;Camon 16 Premier;Auricular de llamada;Compatible;2,40;;;6
+TE-C16P-FLX-COM;Tecno;Camon 16 Premier;Flex de encendido y volumen;Compatible;2,29;;;6
+TE-C16P-SIM-COM;Tecno;Camon 16 Premier;Bandeja SIM;Compatible;2,60;;;6
+TE-S6-PAN-COM;Tecno;Spark 6;Pantalla;Compatible;13,80;13,39;12,97;6
+TE-S6-BAT-COM;Tecno;Spark 6;Batería;Compatible;7,60;;;6
+TE-S6-CON-COM;Tecno;Spark 6;Conector de carga;Compatible;3,55;;;6
+TE-S6-TAP-COM;Tecno;Spark 6;Tapa trasera;Compatible;4,95;;;6
+TE-S6-CTR-COM;Tecno;Spark 6;Cámara trasera;Compatible;5,45;;;6
+TE-S6-CFR-COM;Tecno;Spark 6;Cámara frontal;Compatible;3,45;;;6
+TE-S6-LEN-COM;Tecno;Spark 6;Lente de cámara;Compatible;2,25;;;6
+TE-S6-ALT-COM;Tecno;Spark 6;Altavoz;Compatible;3,29;;;6
+TE-S6-AUR-COM;Tecno;Spark 6;Auricular de llamada;Compatible;2,45;;;6
+TE-S6-FLX-COM;Tecno;Spark 6;Flex de encendido y volumen;Compatible;2,35;;;6
+TE-S6-SIM-COM;Tecno;Spark 6;Bandeja SIM;Compatible;2,75;;;6
+TE-S6AIR-PAN-COM;Tecno;Spark 6 Air;Pantalla;Compatible;13,80;13,39;12,97;6
+TE-S6AIR-BAT-COM;Tecno;Spark 6 Air;Batería;Compatible;7,60;;;6
+TE-S6AIR-CON-COM;Tecno;Spark 6 Air;Conector de carga;Compatible;3,55;;;6
+TE-S6AIR-TAP-COM;Tecno;Spark 6 Air;Tapa trasera;Compatible;4,95;;;6
+TE-S6AIR-CTR-COM;Tecno;Spark 6 Air;Cámara trasera;Compatible;5,45;;;6
+TE-S6AIR-CFR-COM;Tecno;Spark 6 Air;Cámara frontal;Compatible;3,45;;;6
+TE-S6AIR-LEN-COM;Tecno;Spark 6 Air;Lente de cámara;Compatible;2,25;;;6
+TE-S6AIR-ALT-COM;Tecno;Spark 6 Air;Altavoz;Compatible;3,29;;;6
+TE-S6AIR-AUR-COM;Tecno;Spark 6 Air;Auricular de llamada;Compatible;2,45;;;6
+TE-S6AIR-FLX-COM;Tecno;Spark 6 Air;Flex de encendido y volumen;Compatible;2,35;;;6
+TE-S6AIR-SIM-COM;Tecno;Spark 6 Air;Bandeja SIM;Compatible;2,75;;;6
+TE-P4-PAN-COM;Tecno;Pouvoir 4;Pantalla;Compatible;13,80;13,39;12,97;6
+TE-P4-BAT-COM;Tecno;Pouvoir 4;Batería;Compatible;7,60;;;6
+TE-P4-CON-COM;Tecno;Pouvoir 4;Conector de carga;Compatible;3,55;;;6
+TE-P4-TAP-COM;Tecno;Pouvoir 4;Tapa trasera;Compatible;4,95;;;6
+TE-P4-CTR-COM;Tecno;Pouvoir 4;Cámara trasera;Compatible;5,45;;;6
+TE-P4-CFR-COM;Tecno;Pouvoir 4;Cámara frontal;Compatible;3,45;;;6
+TE-P4-LEN-COM;Tecno;Pouvoir 4;Lente de cámara;Compatible;2,25;;;6
+TE-P4-ALT-COM;Tecno;Pouvoir 4;Altavoz;Compatible;3,29;;;6
+TE-P4-AUR-COM;Tecno;Pouvoir 4;Auricular de llamada;Compatible;2,45;;;6
+TE-P4-FLX-COM;Tecno;Pouvoir 4;Flex de encendido y volumen;Compatible;2,35;;;6
+TE-P4-SIM-COM;Tecno;Pouvoir 4;Bandeja SIM;Compatible;2,75;;;6
+TE-P4P-PAN-COM;Tecno;Pouvoir 4 Pro;Pantalla;Compatible;13,80;13,39;12,97;6
+TE-P4P-BAT-COM;Tecno;Pouvoir 4 Pro;Batería;Compatible;7,60;;;6
+TE-P4P-CON-COM;Tecno;Pouvoir 4 Pro;Conector de carga;Compatible;3,55;;;6
+TE-P4P-TAP-COM;Tecno;Pouvoir 4 Pro;Tapa trasera;Compatible;4,95;;;6
+TE-P4P-CTR-COM;Tecno;Pouvoir 4 Pro;Cámara trasera;Compatible;5,45;;;6
+TE-P4P-CFR-COM;Tecno;Pouvoir 4 Pro;Cámara frontal;Compatible;3,45;;;6
+TE-P4P-LEN-COM;Tecno;Pouvoir 4 Pro;Lente de cámara;Compatible;2,25;;;6
+TE-P4P-ALT-COM;Tecno;Pouvoir 4 Pro;Altavoz;Compatible;3,29;;;6
+TE-P4P-AUR-COM;Tecno;Pouvoir 4 Pro;Auricular de llamada;Compatible;2,45;;;6
+TE-P4P-FLX-COM;Tecno;Pouvoir 4 Pro;Flex de encendido y volumen;Compatible;2,35;;;6
+TE-P4P-SIM-COM;Tecno;Pouvoir 4 Pro;Bandeja SIM;Compatible;2,75;;;6
+TE-SPW2-PAN-COM;Tecno;Spark Power 2;Pantalla;Compatible;13,80;13,39;12,97;6
+TE-SPW2-BAT-COM;Tecno;Spark Power 2;Batería;Compatible;7,60;;;6
+TE-SPW2-CON-COM;Tecno;Spark Power 2;Conector de carga;Compatible;3,55;;;6
+TE-SPW2-TAP-COM;Tecno;Spark Power 2;Tapa trasera;Compatible;4,95;;;6
+TE-SPW2-CTR-COM;Tecno;Spark Power 2;Cámara trasera;Compatible;5,45;;;6
+TE-SPW2-CFR-COM;Tecno;Spark Power 2;Cámara frontal;Compatible;3,45;;;6
+TE-SPW2-LEN-COM;Tecno;Spark Power 2;Lente de cámara;Compatible;2,25;;;6
+TE-SPW2-ALT-COM;Tecno;Spark Power 2;Altavoz;Compatible;3,29;;;6
+TE-SPW2-AUR-COM;Tecno;Spark Power 2;Auricular de llamada;Compatible;2,45;;;6
+TE-SPW2-FLX-COM;Tecno;Spark Power 2;Flex de encendido y volumen;Compatible;2,35;;;6
+TE-SPW2-SIM-COM;Tecno;Spark Power 2;Bandeja SIM;Compatible;2,75;;;6
+TE-S5-PAN-COM;Tecno;Spark 5;Pantalla;Compatible;13,80;13,39;12,97;6
+TE-S5-BAT-COM;Tecno;Spark 5;Batería;Compatible;7,60;;;6
+TE-S5-CON-COM;Tecno;Spark 5;Conector de carga;Compatible;3,55;;;6
+TE-S5-TAP-COM;Tecno;Spark 5;Tapa trasera;Compatible;4,95;;;6
+TE-S5-CTR-COM;Tecno;Spark 5;Cámara trasera;Compatible;5,45;;;6
+TE-S5-CFR-COM;Tecno;Spark 5;Cámara frontal;Compatible;3,45;;;6
+TE-S5-LEN-COM;Tecno;Spark 5;Lente de cámara;Compatible;2,25;;;6
+TE-S5-ALT-COM;Tecno;Spark 5;Altavoz;Compatible;3,29;;;6
+TE-S5-AUR-COM;Tecno;Spark 5;Auricular de llamada;Compatible;2,45;;;6
+TE-S5-FLX-COM;Tecno;Spark 5;Flex de encendido y volumen;Compatible;2,35;;;6
+TE-S5-SIM-COM;Tecno;Spark 5;Bandeja SIM;Compatible;2,75;;;6
+TE-S5AIR-PAN-COM;Tecno;Spark 5 Air;Pantalla;Compatible;13,80;13,39;12,97;6
+TE-S5AIR-BAT-COM;Tecno;Spark 5 Air;Batería;Compatible;7,60;;;6
+TE-S5AIR-CON-COM;Tecno;Spark 5 Air;Conector de carga;Compatible;3,55;;;6
+TE-S5AIR-TAP-COM;Tecno;Spark 5 Air;Tapa trasera;Compatible;4,95;;;6
+TE-S5AIR-CTR-COM;Tecno;Spark 5 Air;Cámara trasera;Compatible;5,45;;;6
+TE-S5AIR-CFR-COM;Tecno;Spark 5 Air;Cámara frontal;Compatible;3,45;;;6
+TE-S5AIR-LEN-COM;Tecno;Spark 5 Air;Lente de cámara;Compatible;2,25;;;6
+TE-S5AIR-ALT-COM;Tecno;Spark 5 Air;Altavoz;Compatible;3,29;;;6
+TE-S5AIR-AUR-COM;Tecno;Spark 5 Air;Auricular de llamada;Compatible;2,45;;;6
+TE-S5AIR-FLX-COM;Tecno;Spark 5 Air;Flex de encendido y volumen;Compatible;2,35;;;6
+TE-S5AIR-SIM-COM;Tecno;Spark 5 Air;Bandeja SIM;Compatible;2,75;;;6
+TE-S5P-PAN-COM;Tecno;Spark 5 Pro;Pantalla;Compatible;13,80;13,39;12,97;6
+TE-S5P-BAT-COM;Tecno;Spark 5 Pro;Batería;Compatible;7,60;;;6
+TE-S5P-CON-COM;Tecno;Spark 5 Pro;Conector de carga;Compatible;3,55;;;6
+TE-S5P-TAP-COM;Tecno;Spark 5 Pro;Tapa trasera;Compatible;4,95;;;6
+TE-S5P-CTR-COM;Tecno;Spark 5 Pro;Cámara trasera;Compatible;5,45;;;6
+TE-S5P-CFR-COM;Tecno;Spark 5 Pro;Cámara frontal;Compatible;3,45;;;6
+TE-S5P-LEN-COM;Tecno;Spark 5 Pro;Lente de cámara;Compatible;2,25;;;6
+TE-S5P-ALT-COM;Tecno;Spark 5 Pro;Altavoz;Compatible;3,29;;;6
+TE-S5P-AUR-COM;Tecno;Spark 5 Pro;Auricular de llamada;Compatible;2,45;;;6
+TE-S5P-FLX-COM;Tecno;Spark 5 Pro;Flex de encendido y volumen;Compatible;2,35;;;6
+TE-S5P-SIM-COM;Tecno;Spark 5 Pro;Bandeja SIM;Compatible;2,75;;;6
+TE-C15-PAN-COM;Tecno;Camon 15;Pantalla;Compatible;16,10;15,62;15,13;6
+TE-C15-BAT-COM;Tecno;Camon 15;Batería;Compatible;8,25;;;6
+TE-C15-CON-COM;Tecno;Camon 15;Conector de carga;Compatible;4,40;;;6
+TE-C15-TAP-COM;Tecno;Camon 15;Tapa trasera;Compatible;5,55;;;6
+TE-C15-CTR-COM;Tecno;Camon 15;Cámara trasera;Compatible;6,19;;;6
+TE-C15-CFR-COM;Tecno;Camon 15;Cámara frontal;Compatible;3,65;;;6
+TE-C15-LEN-COM;Tecno;Camon 15;Lente de cámara;Compatible;2,20;;;6
+TE-C15-ALT-COM;Tecno;Camon 15;Altavoz;Compatible;3,35;;;6
+TE-C15-AUR-COM;Tecno;Camon 15;Auricular de llamada;Compatible;2,40;;;6
+TE-C15-FLX-COM;Tecno;Camon 15;Flex de encendido y volumen;Compatible;2,29;;;6
+TE-C15-SIM-COM;Tecno;Camon 15;Bandeja SIM;Compatible;2,60;;;6
+TE-C15AIR-PAN-COM;Tecno;Camon 15 Air;Pantalla;Compatible;16,10;15,62;15,13;6
+TE-C15AIR-BAT-COM;Tecno;Camon 15 Air;Batería;Compatible;8,25;;;6
+TE-C15AIR-CON-COM;Tecno;Camon 15 Air;Conector de carga;Compatible;4,40;;;6
+TE-C15AIR-TAP-COM;Tecno;Camon 15 Air;Tapa trasera;Compatible;5,55;;;6
+TE-C15AIR-CTR-COM;Tecno;Camon 15 Air;Cámara trasera;Compatible;6,19;;;6
+TE-C15AIR-CFR-COM;Tecno;Camon 15 Air;Cámara frontal;Compatible;3,65;;;6
+TE-C15AIR-LEN-COM;Tecno;Camon 15 Air;Lente de cámara;Compatible;2,20;;;6
+TE-C15AIR-ALT-COM;Tecno;Camon 15 Air;Altavoz;Compatible;3,35;;;6
+TE-C15AIR-AUR-COM;Tecno;Camon 15 Air;Auricular de llamada;Compatible;2,40;;;6
+TE-C15AIR-FLX-COM;Tecno;Camon 15 Air;Flex de encendido y volumen;Compatible;2,29;;;6
+TE-C15AIR-SIM-COM;Tecno;Camon 15 Air;Bandeja SIM;Compatible;2,60;;;6
+TE-C15P-PAN-COM;Tecno;Camon 15 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+TE-C15P-BAT-COM;Tecno;Camon 15 Pro;Batería;Compatible;8,25;;;6
+TE-C15P-CON-COM;Tecno;Camon 15 Pro;Conector de carga;Compatible;4,40;;;6
+TE-C15P-TAP-COM;Tecno;Camon 15 Pro;Tapa trasera;Compatible;5,55;;;6
+TE-C15P-CTR-COM;Tecno;Camon 15 Pro;Cámara trasera;Compatible;6,19;;;6
+TE-C15P-CFR-COM;Tecno;Camon 15 Pro;Cámara frontal;Compatible;3,65;;;6
+TE-C15P-LEN-COM;Tecno;Camon 15 Pro;Lente de cámara;Compatible;2,20;;;6
+TE-C15P-ALT-COM;Tecno;Camon 15 Pro;Altavoz;Compatible;3,35;;;6
+TE-C15P-AUR-COM;Tecno;Camon 15 Pro;Auricular de llamada;Compatible;2,40;;;6
+TE-C15P-FLX-COM;Tecno;Camon 15 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+TE-C15P-SIM-COM;Tecno;Camon 15 Pro;Bandeja SIM;Compatible;2,60;;;6
+TE-C12AIR-PAN-COM;Tecno;Camon 12 Air;Pantalla;Compatible;15,15;14,70;14,24;6
+TE-C12AIR-BAT-COM;Tecno;Camon 12 Air;Batería;Compatible;9,65;;;6
+TE-C12AIR-CON-COM;Tecno;Camon 12 Air;Conector de carga;Compatible;4,60;;;6
+TE-C12AIR-TAP-COM;Tecno;Camon 12 Air;Tapa trasera;Compatible;5,40;;;6
+TE-C12AIR-CTR-COM;Tecno;Camon 12 Air;Cámara trasera;Compatible;7,59;;;6
+TE-C12AIR-CFR-COM;Tecno;Camon 12 Air;Cámara frontal;Compatible;4,99;;;6
+TE-C12AIR-LEN-COM;Tecno;Camon 12 Air;Lente de cámara;Compatible;2,19;;;6
+TE-C12AIR-ALT-COM;Tecno;Camon 12 Air;Altavoz;Compatible;3,65;;;6
+TE-C12AIR-AUR-COM;Tecno;Camon 12 Air;Auricular de llamada;Compatible;2,65;;;6
+TE-C12AIR-FLX-COM;Tecno;Camon 12 Air;Flex de encendido y volumen;Compatible;2,49;;;6
+TE-C12AIR-SIM-COM;Tecno;Camon 12 Air;Bandeja SIM;Compatible;2,55;;;6
+TE-C12-PAN-COM;Tecno;Camon 12;Pantalla;Compatible;15,15;14,70;14,24;6
+TE-C12-BAT-COM;Tecno;Camon 12;Batería;Compatible;9,65;;;6
+TE-C12-CON-COM;Tecno;Camon 12;Conector de carga;Compatible;4,60;;;6
+TE-C12-TAP-COM;Tecno;Camon 12;Tapa trasera;Compatible;5,40;;;6
+TE-C12-CTR-COM;Tecno;Camon 12;Cámara trasera;Compatible;7,59;;;6
+TE-C12-CFR-COM;Tecno;Camon 12;Cámara frontal;Compatible;4,99;;;6
+TE-C12-LEN-COM;Tecno;Camon 12;Lente de cámara;Compatible;2,19;;;6
+TE-C12-ALT-COM;Tecno;Camon 12;Altavoz;Compatible;3,65;;;6
+TE-C12-AUR-COM;Tecno;Camon 12;Auricular de llamada;Compatible;2,65;;;6
+TE-C12-FLX-COM;Tecno;Camon 12;Flex de encendido y volumen;Compatible;2,49;;;6
+TE-C12-SIM-COM;Tecno;Camon 12;Bandeja SIM;Compatible;2,55;;;6
+TE-C12P-PAN-COM;Tecno;Camon 12 Pro;Pantalla;Compatible;15,15;14,70;14,24;6
+TE-C12P-BAT-COM;Tecno;Camon 12 Pro;Batería;Compatible;9,65;;;6
+TE-C12P-CON-COM;Tecno;Camon 12 Pro;Conector de carga;Compatible;4,60;;;6
+TE-C12P-TAP-COM;Tecno;Camon 12 Pro;Tapa trasera;Compatible;5,40;;;6
+TE-C12P-CTR-COM;Tecno;Camon 12 Pro;Cámara trasera;Compatible;7,59;;;6
+TE-C12P-CFR-COM;Tecno;Camon 12 Pro;Cámara frontal;Compatible;4,99;;;6
+TE-C12P-LEN-COM;Tecno;Camon 12 Pro;Lente de cámara;Compatible;2,19;;;6
+TE-C12P-ALT-COM;Tecno;Camon 12 Pro;Altavoz;Compatible;3,65;;;6
+TE-C12P-AUR-COM;Tecno;Camon 12 Pro;Auricular de llamada;Compatible;2,65;;;6
+TE-C12P-FLX-COM;Tecno;Camon 12 Pro;Flex de encendido y volumen;Compatible;2,49;;;6
+TE-C12P-SIM-COM;Tecno;Camon 12 Pro;Bandeja SIM;Compatible;2,55;;;6
+TE-S4-PAN-COM;Tecno;Spark 4;Pantalla;Compatible;13,00;12,61;12,22;6
+TE-S4-BAT-COM;Tecno;Spark 4;Batería;Compatible;8,90;;;6
+TE-S4-CON-COM;Tecno;Spark 4;Conector de carga;Compatible;3,70;;;6
+TE-S4-TAP-COM;Tecno;Spark 4;Tapa trasera;Compatible;4,80;;;6
+TE-S4-CTR-COM;Tecno;Spark 4;Cámara trasera;Compatible;6,65;;;6
+TE-S4-CFR-COM;Tecno;Spark 4;Cámara frontal;Compatible;4,65;;;6
+TE-S4-LEN-COM;Tecno;Spark 4;Lente de cámara;Compatible;2,25;;;6
+TE-S4-ALT-COM;Tecno;Spark 4;Altavoz;Compatible;3,59;;;6
+TE-S4-AUR-COM;Tecno;Spark 4;Auricular de llamada;Compatible;2,69;;;6
+TE-S4-FLX-COM;Tecno;Spark 4;Flex de encendido y volumen;Compatible;2,55;;;6
+TE-S4-SIM-COM;Tecno;Spark 4;Bandeja SIM;Compatible;2,65;;;6
+TE-SGO-PAN-COM;Tecno;Spark Go;Pantalla;Compatible;13,00;12,61;12,22;6
+TE-SGO-BAT-COM;Tecno;Spark Go;Batería;Compatible;8,90;;;6
+TE-SGO-CON-COM;Tecno;Spark Go;Conector de carga;Compatible;3,70;;;6
+TE-SGO-TAP-COM;Tecno;Spark Go;Tapa trasera;Compatible;4,80;;;6
+TE-SGO-CTR-COM;Tecno;Spark Go;Cámara trasera;Compatible;6,65;;;6
+TE-SGO-CFR-COM;Tecno;Spark Go;Cámara frontal;Compatible;4,65;;;6
+TE-SGO-LEN-COM;Tecno;Spark Go;Lente de cámara;Compatible;2,25;;;6
+TE-SGO-ALT-COM;Tecno;Spark Go;Altavoz;Compatible;3,59;;;6
+TE-SGO-AUR-COM;Tecno;Spark Go;Auricular de llamada;Compatible;2,69;;;6
+TE-SGO-FLX-COM;Tecno;Spark Go;Flex de encendido y volumen;Compatible;2,55;;;6
+TE-SGO-SIM-COM;Tecno;Spark Go;Bandeja SIM;Compatible;2,65;;;6
+TE-P9-PAN-COM;Tecno;Phantom 9;Pantalla;Compatible;21,80;21,15;20,49;6
+TE-P9-BAT-COM;Tecno;Phantom 9;Batería;Compatible;9,95;;;6
+TE-P9-CON-COM;Tecno;Phantom 9;Conector de carga;Compatible;5,79;;;6
+TE-P9-TAP-COM;Tecno;Phantom 9;Tapa trasera;Compatible;6,75;;;6
+TE-P9-CTR-COM;Tecno;Phantom 9;Cámara trasera;Compatible;11,55;11,20;10,86;6
+TE-P9-CFR-COM;Tecno;Phantom 9;Cámara frontal;Compatible;6,59;;;6
+TE-P9-LEN-COM;Tecno;Phantom 9;Lente de cámara;Compatible;3,05;;;6
+TE-P9-ALT-COM;Tecno;Phantom 9;Altavoz;Compatible;4,60;;;6
+TE-P9-AUR-COM;Tecno;Phantom 9;Auricular de llamada;Compatible;3,60;;;6
+TE-P9-FLX-COM;Tecno;Phantom 9;Flex de encendido y volumen;Compatible;3,50;;;6
+TE-P9-SIM-COM;Tecno;Phantom 9;Bandeja SIM;Compatible;3,15;;;6
+TE-S3-PAN-COM;Tecno;Spark 3;Pantalla;Compatible;13,00;12,61;12,22;6
+TE-S3-BAT-COM;Tecno;Spark 3;Batería;Compatible;8,90;;;6
+TE-S3-CON-COM;Tecno;Spark 3;Conector de carga;Compatible;3,70;;;6
+TE-S3-TAP-COM;Tecno;Spark 3;Tapa trasera;Compatible;4,80;;;6
+TE-S3-CTR-COM;Tecno;Spark 3;Cámara trasera;Compatible;6,65;;;6
+TE-S3-CFR-COM;Tecno;Spark 3;Cámara frontal;Compatible;4,65;;;6
+TE-S3-LEN-COM;Tecno;Spark 3;Lente de cámara;Compatible;2,25;;;6
+TE-S3-ALT-COM;Tecno;Spark 3;Altavoz;Compatible;3,59;;;6
+TE-S3-AUR-COM;Tecno;Spark 3;Auricular de llamada;Compatible;2,69;;;6
+TE-S3-FLX-COM;Tecno;Spark 3;Flex de encendido y volumen;Compatible;2,55;;;6
+TE-S3-SIM-COM;Tecno;Spark 3;Bandeja SIM;Compatible;2,65;;;6
+TE-S3P-PAN-COM;Tecno;Spark 3 Pro;Pantalla;Compatible;13,00;12,61;12,22;6
+TE-S3P-BAT-COM;Tecno;Spark 3 Pro;Batería;Compatible;8,90;;;6
+TE-S3P-CON-COM;Tecno;Spark 3 Pro;Conector de carga;Compatible;3,70;;;6
+TE-S3P-TAP-COM;Tecno;Spark 3 Pro;Tapa trasera;Compatible;4,80;;;6
+TE-S3P-CTR-COM;Tecno;Spark 3 Pro;Cámara trasera;Compatible;6,65;;;6
+TE-S3P-CFR-COM;Tecno;Spark 3 Pro;Cámara frontal;Compatible;4,65;;;6
+TE-S3P-LEN-COM;Tecno;Spark 3 Pro;Lente de cámara;Compatible;2,25;;;6
+TE-S3P-ALT-COM;Tecno;Spark 3 Pro;Altavoz;Compatible;3,59;;;6
+TE-S3P-AUR-COM;Tecno;Spark 3 Pro;Auricular de llamada;Compatible;2,69;;;6
+TE-S3P-FLX-COM;Tecno;Spark 3 Pro;Flex de encendido y volumen;Compatible;2,55;;;6
+TE-S3P-SIM-COM;Tecno;Spark 3 Pro;Bandeja SIM;Compatible;2,65;;;6
+TE-CI2-PAN-COM;Tecno;Camon iACE2;Pantalla;Compatible;15,15;14,70;14,24;6
+TE-CI2-BAT-COM;Tecno;Camon iACE2;Batería;Compatible;9,65;;;6
+TE-CI2-CON-COM;Tecno;Camon iACE2;Conector de carga;Compatible;4,60;;;6
+TE-CI2-TAP-COM;Tecno;Camon iACE2;Tapa trasera;Compatible;5,40;;;6
+TE-CI2-CTR-COM;Tecno;Camon iACE2;Cámara trasera;Compatible;7,59;;;6
+TE-CI2-CFR-COM;Tecno;Camon iACE2;Cámara frontal;Compatible;4,99;;;6
+TE-CI2-LEN-COM;Tecno;Camon iACE2;Lente de cámara;Compatible;2,19;;;6
+TE-CI2-ALT-COM;Tecno;Camon iACE2;Altavoz;Compatible;3,65;;;6
+TE-CI2-AUR-COM;Tecno;Camon iACE2;Auricular de llamada;Compatible;2,65;;;6
+TE-CI2-FLX-COM;Tecno;Camon iACE2;Flex de encendido y volumen;Compatible;2,49;;;6
+TE-CI2-SIM-COM;Tecno;Camon iACE2;Bandeja SIM;Compatible;2,55;;;6
+TE-C11-PAN-COM;Tecno;Camon 11;Pantalla;Compatible;15,15;14,70;14,24;6
+TE-C11-BAT-COM;Tecno;Camon 11;Batería;Compatible;9,65;;;6
+TE-C11-CON-COM;Tecno;Camon 11;Conector de carga;Compatible;4,60;;;6
+TE-C11-TAP-COM;Tecno;Camon 11;Tapa trasera;Compatible;5,40;;;6
+TE-C11-CTR-COM;Tecno;Camon 11;Cámara trasera;Compatible;7,59;;;6
+TE-C11-CFR-COM;Tecno;Camon 11;Cámara frontal;Compatible;4,99;;;6
+TE-C11-LEN-COM;Tecno;Camon 11;Lente de cámara;Compatible;2,19;;;6
+TE-C11-ALT-COM;Tecno;Camon 11;Altavoz;Compatible;3,65;;;6
+TE-C11-AUR-COM;Tecno;Camon 11;Auricular de llamada;Compatible;2,65;;;6
+TE-C11-FLX-COM;Tecno;Camon 11;Flex de encendido y volumen;Compatible;2,49;;;6
+TE-C11-SIM-COM;Tecno;Camon 11;Bandeja SIM;Compatible;2,55;;;6
+TE-C11P-PAN-COM;Tecno;Camon 11 Pro;Pantalla;Compatible;15,15;14,70;14,24;6
+TE-C11P-BAT-COM;Tecno;Camon 11 Pro;Batería;Compatible;9,65;;;6
+TE-C11P-CON-COM;Tecno;Camon 11 Pro;Conector de carga;Compatible;4,60;;;6
+TE-C11P-TAP-COM;Tecno;Camon 11 Pro;Tapa trasera;Compatible;5,40;;;6
+TE-C11P-CTR-COM;Tecno;Camon 11 Pro;Cámara trasera;Compatible;7,59;;;6
+TE-C11P-CFR-COM;Tecno;Camon 11 Pro;Cámara frontal;Compatible;4,99;;;6
+TE-C11P-LEN-COM;Tecno;Camon 11 Pro;Lente de cámara;Compatible;2,19;;;6
+TE-C11P-ALT-COM;Tecno;Camon 11 Pro;Altavoz;Compatible;3,65;;;6
+TE-C11P-AUR-COM;Tecno;Camon 11 Pro;Auricular de llamada;Compatible;2,65;;;6
+TE-C11P-FLX-COM;Tecno;Camon 11 Pro;Flex de encendido y volumen;Compatible;2,49;;;6
+TE-C11P-SIM-COM;Tecno;Camon 11 Pro;Bandeja SIM;Compatible;2,55;;;6
+TE-S2-PAN-COM;Tecno;Spark 2;Pantalla;Compatible;13,00;12,61;12,22;6
+TE-S2-BAT-COM;Tecno;Spark 2;Batería;Compatible;8,90;;;6
+TE-S2-CON-COM;Tecno;Spark 2;Conector de carga;Compatible;3,70;;;6
+TE-S2-TAP-COM;Tecno;Spark 2;Tapa trasera;Compatible;4,80;;;6
+TE-S2-CTR-COM;Tecno;Spark 2;Cámara trasera;Compatible;6,65;;;6
+TE-S2-CFR-COM;Tecno;Spark 2;Cámara frontal;Compatible;4,65;;;6
+TE-S2-LEN-COM;Tecno;Spark 2;Lente de cámara;Compatible;2,25;;;6
+TE-S2-ALT-COM;Tecno;Spark 2;Altavoz;Compatible;3,59;;;6
+TE-S2-AUR-COM;Tecno;Spark 2;Auricular de llamada;Compatible;2,69;;;6
+TE-S2-FLX-COM;Tecno;Spark 2;Flex de encendido y volumen;Compatible;2,55;;;6
+TE-S2-SIM-COM;Tecno;Spark 2;Bandeja SIM;Compatible;2,65;;;6
+TE-CX-PAN-COM;Tecno;Camon X;Pantalla;Compatible;15,15;14,70;14,24;6
+TE-CX-BAT-COM;Tecno;Camon X;Batería;Compatible;9,65;;;6
+TE-CX-CON-COM;Tecno;Camon X;Conector de carga;Compatible;4,60;;;6
+TE-CX-TAP-COM;Tecno;Camon X;Tapa trasera;Compatible;5,40;;;6
+TE-CX-CTR-COM;Tecno;Camon X;Cámara trasera;Compatible;7,59;;;6
+TE-CX-CFR-COM;Tecno;Camon X;Cámara frontal;Compatible;4,99;;;6
+TE-CX-LEN-COM;Tecno;Camon X;Lente de cámara;Compatible;2,19;;;6
+TE-CX-ALT-COM;Tecno;Camon X;Altavoz;Compatible;3,65;;;6
+TE-CX-AUR-COM;Tecno;Camon X;Auricular de llamada;Compatible;2,65;;;6
+TE-CX-FLX-COM;Tecno;Camon X;Flex de encendido y volumen;Compatible;2,49;;;6
+TE-CX-SIM-COM;Tecno;Camon X;Bandeja SIM;Compatible;2,55;;;6
+TE-CXP-PAN-COM;Tecno;Camon X Pro;Pantalla;Compatible;15,15;14,70;14,24;6
+TE-CXP-BAT-COM;Tecno;Camon X Pro;Batería;Compatible;9,65;;;6
+TE-CXP-CON-COM;Tecno;Camon X Pro;Conector de carga;Compatible;4,60;;;6
+TE-CXP-TAP-COM;Tecno;Camon X Pro;Tapa trasera;Compatible;5,40;;;6
+TE-CXP-CTR-COM;Tecno;Camon X Pro;Cámara trasera;Compatible;7,59;;;6
+TE-CXP-CFR-COM;Tecno;Camon X Pro;Cámara frontal;Compatible;4,99;;;6
+TE-CXP-LEN-COM;Tecno;Camon X Pro;Lente de cámara;Compatible;2,19;;;6
+TE-CXP-ALT-COM;Tecno;Camon X Pro;Altavoz;Compatible;3,65;;;6
+TE-CXP-AUR-COM;Tecno;Camon X Pro;Auricular de llamada;Compatible;2,65;;;6
+TE-CXP-FLX-COM;Tecno;Camon X Pro;Flex de encendido y volumen;Compatible;2,49;;;6
+TE-CXP-SIM-COM;Tecno;Camon X Pro;Bandeja SIM;Compatible;2,55;;;6
+TE-CCM-PAN-COM;Tecno;Camon CM;Pantalla;Compatible;15,15;14,70;14,24;6
+TE-CCM-BAT-COM;Tecno;Camon CM;Batería;Compatible;9,65;;;6
+TE-CCM-CON-COM;Tecno;Camon CM;Conector de carga;Compatible;4,60;;;6
+TE-CCM-TAP-COM;Tecno;Camon CM;Tapa trasera;Compatible;5,40;;;6
+TE-CCM-CTR-COM;Tecno;Camon CM;Cámara trasera;Compatible;7,59;;;6
+TE-CCM-CFR-COM;Tecno;Camon CM;Cámara frontal;Compatible;4,99;;;6
+TE-CCM-LEN-COM;Tecno;Camon CM;Lente de cámara;Compatible;2,19;;;6
+TE-CCM-ALT-COM;Tecno;Camon CM;Altavoz;Compatible;3,65;;;6
+TE-CCM-AUR-COM;Tecno;Camon CM;Auricular de llamada;Compatible;2,65;;;6
+TE-CCM-FLX-COM;Tecno;Camon CM;Flex de encendido y volumen;Compatible;2,49;;;6
+TE-CCM-SIM-COM;Tecno;Camon CM;Bandeja SIM;Compatible;2,55;;;6
+TE-SCM-PAN-COM;Tecno;Spark CM;Pantalla;Compatible;13,00;12,61;12,22;6
+TE-SCM-BAT-COM;Tecno;Spark CM;Batería;Compatible;8,90;;;6
+TE-SCM-CON-COM;Tecno;Spark CM;Conector de carga;Compatible;3,70;;;6
+TE-SCM-TAP-COM;Tecno;Spark CM;Tapa trasera;Compatible;4,80;;;6
+TE-SCM-CTR-COM;Tecno;Spark CM;Cámara trasera;Compatible;6,65;;;6
+TE-SCM-CFR-COM;Tecno;Spark CM;Cámara frontal;Compatible;4,65;;;6
+TE-SCM-LEN-COM;Tecno;Spark CM;Lente de cámara;Compatible;2,25;;;6
+TE-SCM-ALT-COM;Tecno;Spark CM;Altavoz;Compatible;3,59;;;6
+TE-SCM-AUR-COM;Tecno;Spark CM;Auricular de llamada;Compatible;2,69;;;6
+TE-SCM-FLX-COM;Tecno;Spark CM;Flex de encendido y volumen;Compatible;2,55;;;6
+TE-SCM-SIM-COM;Tecno;Spark CM;Bandeja SIM;Compatible;2,65;;;6
+TE-SP-PAN-COM;Tecno;Spark Pro;Pantalla;Compatible;13,00;12,61;12,22;6
+TE-SP-BAT-COM;Tecno;Spark Pro;Batería;Compatible;8,90;;;6
+TE-SP-CON-COM;Tecno;Spark Pro;Conector de carga;Compatible;3,70;;;6
+TE-SP-TAP-COM;Tecno;Spark Pro;Tapa trasera;Compatible;4,80;;;6
+TE-SP-CTR-COM;Tecno;Spark Pro;Cámara trasera;Compatible;6,65;;;6
+TE-SP-CFR-COM;Tecno;Spark Pro;Cámara frontal;Compatible;4,65;;;6
+TE-SP-LEN-COM;Tecno;Spark Pro;Lente de cámara;Compatible;2,25;;;6
+TE-SP-ALT-COM;Tecno;Spark Pro;Altavoz;Compatible;3,59;;;6
+TE-SP-AUR-COM;Tecno;Spark Pro;Auricular de llamada;Compatible;2,69;;;6
+TE-SP-FLX-COM;Tecno;Spark Pro;Flex de encendido y volumen;Compatible;2,55;;;6
+TE-SP-SIM-COM;Tecno;Spark Pro;Bandeja SIM;Compatible;2,65;;;6
+TE-P8-PAN-COM;Tecno;Phantom 8;Pantalla;Compatible;21,80;21,15;20,49;6
+TE-P8-BAT-COM;Tecno;Phantom 8;Batería;Compatible;9,95;;;6
+TE-P8-CON-COM;Tecno;Phantom 8;Conector de carga;Compatible;5,79;;;6
+TE-P8-TAP-COM;Tecno;Phantom 8;Tapa trasera;Compatible;6,75;;;6
+TE-P8-CTR-COM;Tecno;Phantom 8;Cámara trasera;Compatible;11,55;11,20;10,86;6
+TE-P8-CFR-COM;Tecno;Phantom 8;Cámara frontal;Compatible;6,59;;;6
+TE-P8-LEN-COM;Tecno;Phantom 8;Lente de cámara;Compatible;3,05;;;6
+TE-P8-ALT-COM;Tecno;Phantom 8;Altavoz;Compatible;4,60;;;6
+TE-P8-AUR-COM;Tecno;Phantom 8;Auricular de llamada;Compatible;3,60;;;6
+TE-P8-FLX-COM;Tecno;Phantom 8;Flex de encendido y volumen;Compatible;3,50;;;6
+TE-P8-SIM-COM;Tecno;Phantom 8;Bandeja SIM;Compatible;3,15;;;6
+TE-SPL-PAN-COM;Tecno;Spark Plus;Pantalla;Compatible;13,00;12,61;12,22;6
+TE-SPL-BAT-COM;Tecno;Spark Plus;Batería;Compatible;8,90;;;6
+TE-SPL-CON-COM;Tecno;Spark Plus;Conector de carga;Compatible;3,70;;;6
+TE-SPL-TAP-COM;Tecno;Spark Plus;Tapa trasera;Compatible;4,80;;;6
+TE-SPL-CTR-COM;Tecno;Spark Plus;Cámara trasera;Compatible;6,65;;;6
+TE-SPL-CFR-COM;Tecno;Spark Plus;Cámara frontal;Compatible;4,65;;;6
+TE-SPL-LEN-COM;Tecno;Spark Plus;Lente de cámara;Compatible;2,25;;;6
+TE-SPL-ALT-COM;Tecno;Spark Plus;Altavoz;Compatible;3,59;;;6
+TE-SPL-AUR-COM;Tecno;Spark Plus;Auricular de llamada;Compatible;2,69;;;6
+TE-SPL-FLX-COM;Tecno;Spark Plus;Flex de encendido y volumen;Compatible;2,55;;;6
+TE-SPL-SIM-COM;Tecno;Spark Plus;Bandeja SIM;Compatible;2,65;;;6
+TE-S-PAN-COM;Tecno;Spark;Pantalla;Compatible;13,00;12,61;12,22;6
+TE-S-BAT-COM;Tecno;Spark;Batería;Compatible;8,90;;;6
+TE-S-CON-COM;Tecno;Spark;Conector de carga;Compatible;3,70;;;6
+TE-S-TAP-COM;Tecno;Spark;Tapa trasera;Compatible;4,80;;;6
+TE-S-CTR-COM;Tecno;Spark;Cámara trasera;Compatible;6,65;;;6
+TE-S-CFR-COM;Tecno;Spark;Cámara frontal;Compatible;4,65;;;6
+TE-S-LEN-COM;Tecno;Spark;Lente de cámara;Compatible;2,25;;;6
+TE-S-ALT-COM;Tecno;Spark;Altavoz;Compatible;3,59;;;6
+TE-S-AUR-COM;Tecno;Spark;Auricular de llamada;Compatible;2,69;;;6
+TE-S-FLX-COM;Tecno;Spark;Flex de encendido y volumen;Compatible;2,55;;;6
+TE-S-SIM-COM;Tecno;Spark;Bandeja SIM;Compatible;2,65;;;6
+TE-CCXAIR-PAN-COM;Tecno;Camon CX Air;Pantalla;Compatible;15,15;14,70;14,24;6
+TE-CCXAIR-BAT-COM;Tecno;Camon CX Air;Batería;Compatible;9,65;;;6
+TE-CCXAIR-CON-COM;Tecno;Camon CX Air;Conector de carga;Compatible;4,60;;;6
+TE-CCXAIR-TAP-COM;Tecno;Camon CX Air;Tapa trasera;Compatible;5,40;;;6
+TE-CCXAIR-CTR-COM;Tecno;Camon CX Air;Cámara trasera;Compatible;7,59;;;6
+TE-CCXAIR-CFR-COM;Tecno;Camon CX Air;Cámara frontal;Compatible;4,99;;;6
+TE-CCXAIR-LEN-COM;Tecno;Camon CX Air;Lente de cámara;Compatible;2,19;;;6
+TE-CCXAIR-ALT-COM;Tecno;Camon CX Air;Altavoz;Compatible;3,65;;;6
+TE-CCXAIR-AUR-COM;Tecno;Camon CX Air;Auricular de llamada;Compatible;2,65;;;6
+TE-CCXAIR-FLX-COM;Tecno;Camon CX Air;Flex de encendido y volumen;Compatible;2,49;;;6
+TE-CCXAIR-SIM-COM;Tecno;Camon CX Air;Bandeja SIM;Compatible;2,55;;;6
+TE-CCX-PAN-COM;Tecno;Camon CX;Pantalla;Compatible;15,15;14,70;14,24;6
+TE-CCX-BAT-COM;Tecno;Camon CX;Batería;Compatible;9,65;;;6
+TE-CCX-CON-COM;Tecno;Camon CX;Conector de carga;Compatible;4,60;;;6
+TE-CCX-TAP-COM;Tecno;Camon CX;Tapa trasera;Compatible;5,40;;;6
+TE-CCX-CTR-COM;Tecno;Camon CX;Cámara trasera;Compatible;7,59;;;6
+TE-CCX-CFR-COM;Tecno;Camon CX;Cámara frontal;Compatible;4,99;;;6
+TE-CCX-LEN-COM;Tecno;Camon CX;Lente de cámara;Compatible;2,19;;;6
+TE-CCX-ALT-COM;Tecno;Camon CX;Altavoz;Compatible;3,65;;;6
+TE-CCX-AUR-COM;Tecno;Camon CX;Auricular de llamada;Compatible;2,65;;;6
+TE-CCX-FLX-COM;Tecno;Camon CX;Flex de encendido y volumen;Compatible;2,49;;;6
+TE-CCX-SIM-COM;Tecno;Camon CX;Bandeja SIM;Compatible;2,55;;;6
+TE-P6-PAN-COM;Tecno;Phantom 6;Pantalla;Compatible;21,80;21,15;20,49;6
+TE-P6-BAT-COM;Tecno;Phantom 6;Batería;Compatible;9,95;;;6
+TE-P6-CON-COM;Tecno;Phantom 6;Conector de carga;Compatible;5,79;;;6
+TE-P6-TAP-COM;Tecno;Phantom 6;Tapa trasera;Compatible;6,75;;;6
+TE-P6-CTR-COM;Tecno;Phantom 6;Cámara trasera;Compatible;11,55;11,20;10,86;6
+TE-P6-CFR-COM;Tecno;Phantom 6;Cámara frontal;Compatible;6,59;;;6
+TE-P6-LEN-COM;Tecno;Phantom 6;Lente de cámara;Compatible;3,05;;;6
+TE-P6-ALT-COM;Tecno;Phantom 6;Altavoz;Compatible;4,60;;;6
+TE-P6-AUR-COM;Tecno;Phantom 6;Auricular de llamada;Compatible;3,60;;;6
+TE-P6-FLX-COM;Tecno;Phantom 6;Flex de encendido y volumen;Compatible;3,50;;;6
+TE-P6-SIM-COM;Tecno;Phantom 6;Bandeja SIM;Compatible;3,15;;;6
+TE-P6PL-PAN-COM;Tecno;Phantom 6 Plus;Pantalla;Compatible;21,80;21,15;20,49;6
+TE-P6PL-BAT-COM;Tecno;Phantom 6 Plus;Batería;Compatible;9,95;;;6
+TE-P6PL-CON-COM;Tecno;Phantom 6 Plus;Conector de carga;Compatible;5,79;;;6
+TE-P6PL-TAP-COM;Tecno;Phantom 6 Plus;Tapa trasera;Compatible;6,75;;;6
+TE-P6PL-CTR-COM;Tecno;Phantom 6 Plus;Cámara trasera;Compatible;11,55;11,20;10,86;6
+TE-P6PL-CFR-COM;Tecno;Phantom 6 Plus;Cámara frontal;Compatible;6,59;;;6
+TE-P6PL-LEN-COM;Tecno;Phantom 6 Plus;Lente de cámara;Compatible;3,05;;;6
+TE-P6PL-ALT-COM;Tecno;Phantom 6 Plus;Altavoz;Compatible;4,60;;;6
+TE-P6PL-AUR-COM;Tecno;Phantom 6 Plus;Auricular de llamada;Compatible;3,60;;;6
+TE-P6PL-FLX-COM;Tecno;Phantom 6 Plus;Flex de encendido y volumen;Compatible;3,50;;;6
+TE-P6PL-SIM-COM;Tecno;Phantom 6 Plus;Bandeja SIM;Compatible;3,15;;;6
+TE-S4AIR-PAN-COM;Tecno;Spark 4 Air;Pantalla;Compatible;13,00;12,61;12,22;6
+TE-S4AIR-BAT-COM;Tecno;Spark 4 Air;Batería;Compatible;8,90;;;6
+TE-S4AIR-CON-COM;Tecno;Spark 4 Air;Conector de carga;Compatible;3,70;;;6
+TE-S4AIR-TAP-COM;Tecno;Spark 4 Air;Tapa trasera;Compatible;4,80;;;6
+TE-S4AIR-CTR-COM;Tecno;Spark 4 Air;Cámara trasera;Compatible;6,65;;;6
+TE-S4AIR-CFR-COM;Tecno;Spark 4 Air;Cámara frontal;Compatible;4,65;;;6
+TE-S4AIR-LEN-COM;Tecno;Spark 4 Air;Lente de cámara;Compatible;2,25;;;6
+TE-S4AIR-ALT-COM;Tecno;Spark 4 Air;Altavoz;Compatible;3,59;;;6
+TE-S4AIR-AUR-COM;Tecno;Spark 4 Air;Auricular de llamada;Compatible;2,69;;;6
+TE-S4AIR-FLX-COM;Tecno;Spark 4 Air;Flex de encendido y volumen;Compatible;2,55;;;6
+TE-S4AIR-SIM-COM;Tecno;Spark 4 Air;Bandeja SIM;Compatible;2,65;;;6
+TE-S4L-PAN-COM;Tecno;Spark 4 Lite;Pantalla;Compatible;13,00;12,61;12,22;6
+TE-S4L-BAT-COM;Tecno;Spark 4 Lite;Batería;Compatible;8,90;;;6
+TE-S4L-CON-COM;Tecno;Spark 4 Lite;Conector de carga;Compatible;3,70;;;6
+TE-S4L-TAP-COM;Tecno;Spark 4 Lite;Tapa trasera;Compatible;4,80;;;6
+TE-S4L-CTR-COM;Tecno;Spark 4 Lite;Cámara trasera;Compatible;6,65;;;6
+TE-S4L-CFR-COM;Tecno;Spark 4 Lite;Cámara frontal;Compatible;4,65;;;6
+TE-S4L-LEN-COM;Tecno;Spark 4 Lite;Lente de cámara;Compatible;2,25;;;6
+TE-S4L-ALT-COM;Tecno;Spark 4 Lite;Altavoz;Compatible;3,59;;;6
+TE-S4L-AUR-COM;Tecno;Spark 4 Lite;Auricular de llamada;Compatible;2,69;;;6
+TE-S4L-FLX-COM;Tecno;Spark 4 Lite;Flex de encendido y volumen;Compatible;2,55;;;6
+TE-S4L-SIM-COM;Tecno;Spark 4 Lite;Bandeja SIM;Compatible;2,65;;;6
+TE-C11S-PAN-COM;Tecno;Camon 11S;Pantalla;Compatible;15,15;14,70;14,24;6
+TE-C11S-BAT-COM;Tecno;Camon 11S;Batería;Compatible;9,65;;;6
+TE-C11S-CON-COM;Tecno;Camon 11S;Conector de carga;Compatible;4,60;;;6
+TE-C11S-TAP-COM;Tecno;Camon 11S;Tapa trasera;Compatible;5,40;;;6
+TE-C11S-CTR-COM;Tecno;Camon 11S;Cámara trasera;Compatible;7,59;;;6
+TE-C11S-CFR-COM;Tecno;Camon 11S;Cámara frontal;Compatible;4,99;;;6
+TE-C11S-LEN-COM;Tecno;Camon 11S;Lente de cámara;Compatible;2,19;;;6
+TE-C11S-ALT-COM;Tecno;Camon 11S;Altavoz;Compatible;3,65;;;6
+TE-C11S-AUR-COM;Tecno;Camon 11S;Auricular de llamada;Compatible;2,65;;;6
+TE-C11S-FLX-COM;Tecno;Camon 11S;Flex de encendido y volumen;Compatible;2,49;;;6
+TE-C11S-SIM-COM;Tecno;Camon 11S;Bandeja SIM;Compatible;2,55;;;6
+TE-CAMON16P-PAN-COM;Tecno;Camon 16 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+TE-CAMON16P-BAT-COM;Tecno;Camon 16 Pro;Batería;Compatible;8,25;;;6
+TE-CAMON16P-CON-COM;Tecno;Camon 16 Pro;Conector de carga;Compatible;4,40;;;6
+TE-CAMON16P-TAP-COM;Tecno;Camon 16 Pro;Tapa trasera;Compatible;5,55;;;6
+TE-CAMON16P-CTR-COM;Tecno;Camon 16 Pro;Cámara trasera;Compatible;6,19;;;6
+TE-CAMON16P-CFR-COM;Tecno;Camon 16 Pro;Cámara frontal;Compatible;3,65;;;6
+TE-CAMON16P-LEN-COM;Tecno;Camon 16 Pro;Lente de cámara;Compatible;2,20;;;6
+TE-CAMON16P-ALT-COM;Tecno;Camon 16 Pro;Altavoz;Compatible;3,35;;;6
+TE-CAMON16P-AUR-COM;Tecno;Camon 16 Pro;Auricular de llamada;Compatible;2,40;;;6
+TE-CAMON16P-FLX-COM;Tecno;Camon 16 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+TE-CAMON16P-SIM-COM;Tecno;Camon 16 Pro;Bandeja SIM;Compatible;2,60;;;6
+TE-C17P-PAN-COM;Tecno;Camon 17 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+TE-C17P-BAT-COM;Tecno;Camon 17 Pro;Batería;Compatible;8,25;;;6
+TE-C17P-CON-COM;Tecno;Camon 17 Pro;Conector de carga;Compatible;4,40;;;6
+TE-C17P-TAP-COM;Tecno;Camon 17 Pro;Tapa trasera;Compatible;5,55;;;6
+TE-C17P-CTR-COM;Tecno;Camon 17 Pro;Cámara trasera;Compatible;6,19;;;6
+TE-C17P-CFR-COM;Tecno;Camon 17 Pro;Cámara frontal;Compatible;3,65;;;6
+TE-C17P-LEN-COM;Tecno;Camon 17 Pro;Lente de cámara;Compatible;2,20;;;6
+TE-C17P-ALT-COM;Tecno;Camon 17 Pro;Altavoz;Compatible;3,35;;;6
+TE-C17P-AUR-COM;Tecno;Camon 17 Pro;Auricular de llamada;Compatible;2,40;;;6
+TE-C17P-FLX-COM;Tecno;Camon 17 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+TE-C17P-SIM-COM;Tecno;Camon 17 Pro;Bandeja SIM;Compatible;2,60;;;6
+TE-C19NEO-PAN-COM;Tecno;Camon 19 Neo;Pantalla;Compatible;16,10;15,62;15,13;6
+TE-C19NEO-BAT-COM;Tecno;Camon 19 Neo;Batería;Compatible;8,25;;;6
+TE-C19NEO-CON-COM;Tecno;Camon 19 Neo;Conector de carga;Compatible;4,40;;;6
+TE-C19NEO-TAP-COM;Tecno;Camon 19 Neo;Tapa trasera;Compatible;5,55;;;6
+TE-C19NEO-CTR-COM;Tecno;Camon 19 Neo;Cámara trasera;Compatible;6,19;;;6
+TE-C19NEO-CFR-COM;Tecno;Camon 19 Neo;Cámara frontal;Compatible;3,65;;;6
+TE-C19NEO-LEN-COM;Tecno;Camon 19 Neo;Lente de cámara;Compatible;2,20;;;6
+TE-C19NEO-ALT-COM;Tecno;Camon 19 Neo;Altavoz;Compatible;3,35;;;6
+TE-C19NEO-AUR-COM;Tecno;Camon 19 Neo;Auricular de llamada;Compatible;2,40;;;6
+TE-C19NEO-FLX-COM;Tecno;Camon 19 Neo;Flex de encendido y volumen;Compatible;2,29;;;6
+TE-C19NEO-SIM-COM;Tecno;Camon 19 Neo;Bandeja SIM;Compatible;2,60;;;6
+TE-C19P-PAN-COM;Tecno;Camon 19 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+TE-C19P-BAT-COM;Tecno;Camon 19 Pro;Batería;Compatible;8,25;;;6
+TE-C19P-CON-COM;Tecno;Camon 19 Pro;Conector de carga;Compatible;4,40;;;6
+TE-C19P-TAP-COM;Tecno;Camon 19 Pro;Tapa trasera;Compatible;5,55;;;6
+TE-C19P-CTR-COM;Tecno;Camon 19 Pro;Cámara trasera;Compatible;6,19;;;6
+TE-C19P-CFR-COM;Tecno;Camon 19 Pro;Cámara frontal;Compatible;3,65;;;6
+TE-C19P-LEN-COM;Tecno;Camon 19 Pro;Lente de cámara;Compatible;2,20;;;6
+TE-C19P-ALT-COM;Tecno;Camon 19 Pro;Altavoz;Compatible;3,35;;;6
+TE-C19P-AUR-COM;Tecno;Camon 19 Pro;Auricular de llamada;Compatible;2,40;;;6
+TE-C19P-FLX-COM;Tecno;Camon 19 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+TE-C19P-SIM-COM;Tecno;Camon 19 Pro;Bandeja SIM;Compatible;2,60;;;6
+TE-C19P5-PAN-COM;Tecno;Camon 19 Pro 5G;Pantalla;Compatible;16,10;15,62;15,13;6
+TE-C19P5-BAT-COM;Tecno;Camon 19 Pro 5G;Batería;Compatible;8,25;;;6
+TE-C19P5-CON-COM;Tecno;Camon 19 Pro 5G;Conector de carga;Compatible;4,40;;;6
+TE-C19P5-TAP-COM;Tecno;Camon 19 Pro 5G;Tapa trasera;Compatible;5,55;;;6
+TE-C19P5-CTR-COM;Tecno;Camon 19 Pro 5G;Cámara trasera;Compatible;6,19;;;6
+TE-C19P5-CFR-COM;Tecno;Camon 19 Pro 5G;Cámara frontal;Compatible;3,65;;;6
+TE-C19P5-LEN-COM;Tecno;Camon 19 Pro 5G;Lente de cámara;Compatible;2,20;;;6
+TE-C19P5-ALT-COM;Tecno;Camon 19 Pro 5G;Altavoz;Compatible;3,35;;;6
+TE-C19P5-AUR-COM;Tecno;Camon 19 Pro 5G;Auricular de llamada;Compatible;2,40;;;6
+TE-C19P5-FLX-COM;Tecno;Camon 19 Pro 5G;Flex de encendido y volumen;Compatible;2,29;;;6
+TE-C19P5-SIM-COM;Tecno;Camon 19 Pro 5G;Bandeja SIM;Compatible;2,60;;;6
+TE-C20P-PAN-COM;Tecno;Camon 20 Pro;Pantalla;Compatible;17,15;16,64;16,12;6
+TE-C20P-BAT-COM;Tecno;Camon 20 Pro;Batería;Compatible;9,40;;;6
+TE-C20P-CON-COM;Tecno;Camon 20 Pro;Conector de carga;Compatible;5,05;;;6
+TE-C20P-TAP-COM;Tecno;Camon 20 Pro;Tapa trasera;Compatible;6,20;;;6
+TE-C20P-CTR-COM;Tecno;Camon 20 Pro;Cámara trasera;Compatible;8,65;;;6
+TE-C20P-CFR-COM;Tecno;Camon 20 Pro;Cámara frontal;Compatible;5,35;;;6
+TE-C20P-LEN-COM;Tecno;Camon 20 Pro;Lente de cámara;Compatible;2,30;;;6
+TE-C20P-ALT-COM;Tecno;Camon 20 Pro;Altavoz;Compatible;3,60;;;6
+TE-C20P-AUR-COM;Tecno;Camon 20 Pro;Auricular de llamada;Compatible;2,65;;;6
+TE-C20P-FLX-COM;Tecno;Camon 20 Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+TE-C20P-SIM-COM;Tecno;Camon 20 Pro;Bandeja SIM;Compatible;2,55;;;6
+TE-C20P5-PAN-COM;Tecno;Camon 20 Pro 5G;Pantalla;Compatible;17,15;16,64;16,12;6
+TE-C20P5-BAT-COM;Tecno;Camon 20 Pro 5G;Batería;Compatible;9,40;;;6
+TE-C20P5-CON-COM;Tecno;Camon 20 Pro 5G;Conector de carga;Compatible;5,05;;;6
+TE-C20P5-TAP-COM;Tecno;Camon 20 Pro 5G;Tapa trasera;Compatible;6,20;;;6
+TE-C20P5-CTR-COM;Tecno;Camon 20 Pro 5G;Cámara trasera;Compatible;8,65;;;6
+TE-C20P5-CFR-COM;Tecno;Camon 20 Pro 5G;Cámara frontal;Compatible;5,35;;;6
+TE-C20P5-LEN-COM;Tecno;Camon 20 Pro 5G;Lente de cámara;Compatible;2,30;;;6
+TE-C20P5-ALT-COM;Tecno;Camon 20 Pro 5G;Altavoz;Compatible;3,60;;;6
+TE-C20P5-AUR-COM;Tecno;Camon 20 Pro 5G;Auricular de llamada;Compatible;2,65;;;6
+TE-C20P5-FLX-COM;Tecno;Camon 20 Pro 5G;Flex de encendido y volumen;Compatible;2,79;;;6
+TE-C20P5-SIM-COM;Tecno;Camon 20 Pro 5G;Bandeja SIM;Compatible;2,55;;;6
+TE-C50P-PAN-COM;Tecno;Camon 50 Pro;Pantalla;Compatible;18,05;17,51;16,97;6
+TE-C50P-BAT-COM;Tecno;Camon 50 Pro;Batería;Compatible;8,89;;;6
+TE-C50P-CON-COM;Tecno;Camon 50 Pro;Conector de carga;Compatible;6,00;;;6
+TE-C50P-TAP-COM;Tecno;Camon 50 Pro;Tapa trasera;Compatible;6,65;;;6
+TE-C50P-CTR-COM;Tecno;Camon 50 Pro;Cámara trasera;Compatible;11,85;11,49;11,14;6
+TE-C50P-CFR-COM;Tecno;Camon 50 Pro;Cámara frontal;Compatible;7,49;;;6
+TE-C50P-LEN-COM;Tecno;Camon 50 Pro;Lente de cámara;Compatible;2,95;;;6
+TE-C50P-ALT-COM;Tecno;Camon 50 Pro;Altavoz;Compatible;4,75;;;6
+TE-C50P-AUR-COM;Tecno;Camon 50 Pro;Auricular de llamada;Compatible;3,70;;;6
+TE-C50P-FLX-COM;Tecno;Camon 50 Pro;Flex de encendido y volumen;Compatible;3,05;;;6
+TE-C50P-SIM-COM;Tecno;Camon 50 Pro;Bandeja SIM;Compatible;3,00;;;6
+TE-C50P5-PAN-COM;Tecno;Camon 50 Pro 5G;Pantalla;Compatible;18,05;17,51;16,97;6
+TE-C50P5-BAT-COM;Tecno;Camon 50 Pro 5G;Batería;Compatible;8,89;;;6
+TE-C50P5-CON-COM;Tecno;Camon 50 Pro 5G;Conector de carga;Compatible;6,00;;;6
+TE-C50P5-TAP-COM;Tecno;Camon 50 Pro 5G;Tapa trasera;Compatible;6,65;;;6
+TE-C50P5-CTR-COM;Tecno;Camon 50 Pro 5G;Cámara trasera;Compatible;11,85;11,49;11,14;6
+TE-C50P5-CFR-COM;Tecno;Camon 50 Pro 5G;Cámara frontal;Compatible;7,49;;;6
+TE-C50P5-LEN-COM;Tecno;Camon 50 Pro 5G;Lente de cámara;Compatible;2,95;;;6
+TE-C50P5-ALT-COM;Tecno;Camon 50 Pro 5G;Altavoz;Compatible;4,75;;;6
+TE-C50P5-AUR-COM;Tecno;Camon 50 Pro 5G;Auricular de llamada;Compatible;3,70;;;6
+TE-C50P5-FLX-COM;Tecno;Camon 50 Pro 5G;Flex de encendido y volumen;Compatible;3,05;;;6
+TE-C50P5-SIM-COM;Tecno;Camon 50 Pro 5G;Bandeja SIM;Compatible;3,00;;;6
+TE-C50U5-PAN-COM;Tecno;Camon 50 Ultra 5G;Pantalla;Compatible;19,85;19,25;18,66;6
+TE-C50U5-BAT-COM;Tecno;Camon 50 Ultra 5G;Batería;Compatible;8,89;;;6
+TE-C50U5-CON-COM;Tecno;Camon 50 Ultra 5G;Conector de carga;Compatible;6,00;;;6
+TE-C50U5-TAP-COM;Tecno;Camon 50 Ultra 5G;Tapa trasera;Compatible;6,65;;;6
+TE-C50U5-CTR-COM;Tecno;Camon 50 Ultra 5G;Cámara trasera;Compatible;11,85;11,49;11,14;6
+TE-C50U5-CFR-COM;Tecno;Camon 50 Ultra 5G;Cámara frontal;Compatible;7,49;;;6
+TE-C50U5-LEN-COM;Tecno;Camon 50 Ultra 5G;Lente de cámara;Compatible;2,95;;;6
+TE-C50U5-ALT-COM;Tecno;Camon 50 Ultra 5G;Altavoz;Compatible;4,75;;;6
+TE-C50U5-AUR-COM;Tecno;Camon 50 Ultra 5G;Auricular de llamada;Compatible;3,70;;;6
+TE-C50U5-FLX-COM;Tecno;Camon 50 Ultra 5G;Flex de encendido y volumen;Compatible;3,05;;;6
+TE-C50U5-SIM-COM;Tecno;Camon 50 Ultra 5G;Bandeja SIM;Compatible;3,00;;;6
+TE-CI2X-PAN-COM;Tecno;Camon iACE 2x;Pantalla;Compatible;15,15;14,70;14,24;6
+TE-CI2X-BAT-COM;Tecno;Camon iACE 2x;Batería;Compatible;9,65;;;6
+TE-CI2X-CON-COM;Tecno;Camon iACE 2x;Conector de carga;Compatible;4,60;;;6
+TE-CI2X-TAP-COM;Tecno;Camon iACE 2x;Tapa trasera;Compatible;5,40;;;6
+TE-CI2X-CTR-COM;Tecno;Camon iACE 2x;Cámara trasera;Compatible;7,59;;;6
+TE-CI2X-CFR-COM;Tecno;Camon iACE 2x;Cámara frontal;Compatible;4,99;;;6
+TE-CI2X-LEN-COM;Tecno;Camon iACE 2x;Lente de cámara;Compatible;2,19;;;6
+TE-CI2X-ALT-COM;Tecno;Camon iACE 2x;Altavoz;Compatible;3,65;;;6
+TE-CI2X-AUR-COM;Tecno;Camon iACE 2x;Auricular de llamada;Compatible;2,65;;;6
+TE-CI2X-FLX-COM;Tecno;Camon iACE 2x;Flex de encendido y volumen;Compatible;2,49;;;6
+TE-CI2X-SIM-COM;Tecno;Camon iACE 2x;Bandeja SIM;Compatible;2,55;;;6
+TE-PX2P5-PAN-COM;Tecno;Phantom X2 Pro 5G;Pantalla;Compatible;24,65;23,91;23,17;6
+TE-PX2P5-BAT-COM;Tecno;Phantom X2 Pro 5G;Batería;Compatible;9,70;;;6
+TE-PX2P5-CON-COM;Tecno;Phantom X2 Pro 5G;Conector de carga;Compatible;6,30;;;6
+TE-PX2P5-TAP-COM;Tecno;Phantom X2 Pro 5G;Tapa trasera;Compatible;7,75;;;6
+TE-PX2P5-CTR-COM;Tecno;Phantom X2 Pro 5G;Cámara trasera;Compatible;13,19;12,79;12,40;6
+TE-PX2P5-CFR-COM;Tecno;Phantom X2 Pro 5G;Cámara frontal;Compatible;7,10;;;6
+TE-PX2P5-LEN-COM;Tecno;Phantom X2 Pro 5G;Lente de cámara;Compatible;3,20;;;6
+TE-PX2P5-ALT-COM;Tecno;Phantom X2 Pro 5G;Altavoz;Compatible;4,55;;;6
+TE-PX2P5-AUR-COM;Tecno;Phantom X2 Pro 5G;Auricular de llamada;Compatible;3,59;;;6
+TE-PX2P5-FLX-COM;Tecno;Phantom X2 Pro 5G;Flex de encendido y volumen;Compatible;3,95;;;6
+TE-PX2P5-SIM-COM;Tecno;Phantom X2 Pro 5G;Bandeja SIM;Compatible;3,15;;;6
+TE-P6S-PAN-COM;Tecno;Phantom6S;Pantalla;Compatible;21,80;21,15;20,49;6
+TE-P6S-BAT-COM;Tecno;Phantom6S;Batería;Compatible;9,95;;;6
+TE-P6S-CON-COM;Tecno;Phantom6S;Conector de carga;Compatible;5,79;;;6
+TE-P6S-TAP-COM;Tecno;Phantom6S;Tapa trasera;Compatible;6,75;;;6
+TE-P6S-CTR-COM;Tecno;Phantom6S;Cámara trasera;Compatible;11,55;11,20;10,86;6
+TE-P6S-CFR-COM;Tecno;Phantom6S;Cámara frontal;Compatible;6,59;;;6
+TE-P6S-LEN-COM;Tecno;Phantom6S;Lente de cámara;Compatible;3,05;;;6
+TE-P6S-ALT-COM;Tecno;Phantom6S;Altavoz;Compatible;4,60;;;6
+TE-P6S-AUR-COM;Tecno;Phantom6S;Auricular de llamada;Compatible;3,60;;;6
+TE-P6S-FLX-COM;Tecno;Phantom6S;Flex de encendido y volumen;Compatible;3,50;;;6
+TE-P6S-SIM-COM;Tecno;Phantom6S;Bandeja SIM;Compatible;3,15;;;6
+TE-P8S-PAN-COM;Tecno;Phantom8S;Pantalla;Compatible;21,80;21,15;20,49;6
+TE-P8S-BAT-COM;Tecno;Phantom8S;Batería;Compatible;9,95;;;6
+TE-P8S-CON-COM;Tecno;Phantom8S;Conector de carga;Compatible;5,79;;;6
+TE-P8S-TAP-COM;Tecno;Phantom8S;Tapa trasera;Compatible;6,75;;;6
+TE-P8S-CTR-COM;Tecno;Phantom8S;Cámara trasera;Compatible;11,55;11,20;10,86;6
+TE-P8S-CFR-COM;Tecno;Phantom8S;Cámara frontal;Compatible;6,59;;;6
+TE-P8S-LEN-COM;Tecno;Phantom8S;Lente de cámara;Compatible;3,05;;;6
+TE-P8S-ALT-COM;Tecno;Phantom8S;Altavoz;Compatible;4,60;;;6
+TE-P8S-AUR-COM;Tecno;Phantom8S;Auricular de llamada;Compatible;3,60;;;6
+TE-P8S-FLX-COM;Tecno;Phantom8S;Flex de encendido y volumen;Compatible;3,50;;;6
+TE-P8S-SIM-COM;Tecno;Phantom8S;Bandeja SIM;Compatible;3,15;;;6
+TE-S10P-PAN-COM;Tecno;Spark 10 Pro;Pantalla;Compatible;14,69;14,25;13,81;6
+TE-S10P-BAT-COM;Tecno;Spark 10 Pro;Batería;Compatible;8,69;;;6
+TE-S10P-CON-COM;Tecno;Spark 10 Pro;Conector de carga;Compatible;4,05;;;6
+TE-S10P-TAP-COM;Tecno;Spark 10 Pro;Tapa trasera;Compatible;5,55;;;6
+TE-S10P-CTR-COM;Tecno;Spark 10 Pro;Cámara trasera;Compatible;7,60;;;6
+TE-S10P-CFR-COM;Tecno;Spark 10 Pro;Cámara frontal;Compatible;5,00;;;6
+TE-S10P-LEN-COM;Tecno;Spark 10 Pro;Lente de cámara;Compatible;2,35;;;6
+TE-S10P-ALT-COM;Tecno;Spark 10 Pro;Altavoz;Compatible;3,55;;;6
+TE-S10P-AUR-COM;Tecno;Spark 10 Pro;Auricular de llamada;Compatible;2,65;;;6
+TE-S10P-FLX-COM;Tecno;Spark 10 Pro;Flex de encendido y volumen;Compatible;2,85;;;6
+TE-S10P-SIM-COM;Tecno;Spark 10 Pro;Bandeja SIM;Compatible;2,69;;;6
+TE-S40P-PAN-COM;Tecno;Spark 40 Pro;Pantalla;Compatible;15,45;14,99;14,52;6
+TE-S40P-BAT-COM;Tecno;Spark 40 Pro;Batería;Compatible;8,20;;;6
+TE-S40P-CON-COM;Tecno;Spark 40 Pro;Conector de carga;Compatible;4,85;;;6
+TE-S40P-TAP-COM;Tecno;Spark 40 Pro;Tapa trasera;Compatible;5,95;;;6
+TE-S40P-CTR-COM;Tecno;Spark 40 Pro;Cámara trasera;Compatible;10,45;10,14;9,82;6
+TE-S40P-CFR-COM;Tecno;Spark 40 Pro;Cámara frontal;Compatible;7,00;;;6
+TE-S40P-LEN-COM;Tecno;Spark 40 Pro;Lente de cámara;Compatible;3,05;;;6
+TE-S40P-ALT-COM;Tecno;Spark 40 Pro;Altavoz;Compatible;4,65;;;6
+TE-S40P-AUR-COM;Tecno;Spark 40 Pro;Auricular de llamada;Compatible;3,75;;;6
+TE-S40P-FLX-COM;Tecno;Spark 40 Pro;Flex de encendido y volumen;Compatible;3,10;;;6
+TE-S40P-SIM-COM;Tecno;Spark 40 Pro;Bandeja SIM;Compatible;3,19;;;6
+TE-S40PPL-PAN-COM;Tecno;Spark 40 Pro+;Pantalla;Compatible;15,45;14,99;14,52;6
+TE-S40PPL-BAT-COM;Tecno;Spark 40 Pro+;Batería;Compatible;8,20;;;6
+TE-S40PPL-CON-COM;Tecno;Spark 40 Pro+;Conector de carga;Compatible;4,85;;;6
+TE-S40PPL-TAP-COM;Tecno;Spark 40 Pro+;Tapa trasera;Compatible;5,95;;;6
+TE-S40PPL-CTR-COM;Tecno;Spark 40 Pro+;Cámara trasera;Compatible;10,45;10,14;9,82;6
+TE-S40PPL-CFR-COM;Tecno;Spark 40 Pro+;Cámara frontal;Compatible;7,00;;;6
+TE-S40PPL-LEN-COM;Tecno;Spark 40 Pro+;Lente de cámara;Compatible;3,05;;;6
+TE-S40PPL-ALT-COM;Tecno;Spark 40 Pro+;Altavoz;Compatible;4,65;;;6
+TE-S40PPL-AUR-COM;Tecno;Spark 40 Pro+;Auricular de llamada;Compatible;3,75;;;6
+TE-S40PPL-FLX-COM;Tecno;Spark 40 Pro+;Flex de encendido y volumen;Compatible;3,10;;;6
+TE-S40PPL-SIM-COM;Tecno;Spark 40 Pro+;Bandeja SIM;Compatible;3,19;;;6
+TE-S6GO-PAN-COM;Tecno;Spark 6 Go;Pantalla;Compatible;13,80;13,39;12,97;6
+TE-S6GO-BAT-COM;Tecno;Spark 6 Go;Batería;Compatible;7,60;;;6
+TE-S6GO-CON-COM;Tecno;Spark 6 Go;Conector de carga;Compatible;3,55;;;6
+TE-S6GO-TAP-COM;Tecno;Spark 6 Go;Tapa trasera;Compatible;4,95;;;6
+TE-S6GO-CTR-COM;Tecno;Spark 6 Go;Cámara trasera;Compatible;5,45;;;6
+TE-S6GO-CFR-COM;Tecno;Spark 6 Go;Cámara frontal;Compatible;3,45;;;6
+TE-S6GO-LEN-COM;Tecno;Spark 6 Go;Lente de cámara;Compatible;2,25;;;6
+TE-S6GO-ALT-COM;Tecno;Spark 6 Go;Altavoz;Compatible;3,29;;;6
+TE-S6GO-AUR-COM;Tecno;Spark 6 Go;Auricular de llamada;Compatible;2,45;;;6
+TE-S6GO-FLX-COM;Tecno;Spark 6 Go;Flex de encendido y volumen;Compatible;2,35;;;6
+TE-S6GO-SIM-COM;Tecno;Spark 6 Go;Bandeja SIM;Compatible;2,75;;;6
+TE-SPARK8PR-PAN-COM;Tecno;Spark 8 Pro;Pantalla;Compatible;13,80;13,39;12,97;6
+TE-SPARK8PR-BAT-COM;Tecno;Spark 8 Pro;Batería;Compatible;7,60;;;6
+TE-SPARK8PR-CON-COM;Tecno;Spark 8 Pro;Conector de carga;Compatible;3,55;;;6
+TE-SPARK8PR-TAP-COM;Tecno;Spark 8 Pro;Tapa trasera;Compatible;4,95;;;6
+TE-SPARK8PR-CTR-COM;Tecno;Spark 8 Pro;Cámara trasera;Compatible;5,45;;;6
+TE-SPARK8PR-CFR-COM;Tecno;Spark 8 Pro;Cámara frontal;Compatible;3,45;;;6
+TE-SPARK8PR-LEN-COM;Tecno;Spark 8 Pro;Lente de cámara;Compatible;2,25;;;6
+TE-SPARK8PR-ALT-COM;Tecno;Spark 8 Pro;Altavoz;Compatible;3,29;;;6
+TE-SPARK8PR-AUR-COM;Tecno;Spark 8 Pro;Auricular de llamada;Compatible;2,45;;;6
+TE-SPARK8PR-FLX-COM;Tecno;Spark 8 Pro;Flex de encendido y volumen;Compatible;2,35;;;6
+TE-SPARK8PR-SIM-COM;Tecno;Spark 8 Pro;Bandeja SIM;Compatible;2,75;;;6
+TE-S9P-PAN-COM;Tecno;Spark 9 Pro;Pantalla;Compatible;13,80;13,39;12,97;6
+TE-S9P-BAT-COM;Tecno;Spark 9 Pro;Batería;Compatible;7,60;;;6
+TE-S9P-CON-COM;Tecno;Spark 9 Pro;Conector de carga;Compatible;3,55;;;6
+TE-S9P-TAP-COM;Tecno;Spark 9 Pro;Tapa trasera;Compatible;4,95;;;6
+TE-S9P-CTR-COM;Tecno;Spark 9 Pro;Cámara trasera;Compatible;5,45;;;6
+TE-S9P-CFR-COM;Tecno;Spark 9 Pro;Cámara frontal;Compatible;3,45;;;6
+TE-S9P-LEN-COM;Tecno;Spark 9 Pro;Lente de cámara;Compatible;2,25;;;6
+TE-S9P-ALT-COM;Tecno;Spark 9 Pro;Altavoz;Compatible;3,29;;;6
+TE-S9P-AUR-COM;Tecno;Spark 9 Pro;Auricular de llamada;Compatible;2,45;;;6
+TE-S9P-FLX-COM;Tecno;Spark 9 Pro;Flex de encendido y volumen;Compatible;2,35;;;6
+TE-S9P-SIM-COM;Tecno;Spark 9 Pro;Bandeja SIM;Compatible;2,75;;;6
+TE-C50-PRO-NA;Tecno;Camon 50;Cristal templado;Estándar;1,30;;;
+TE-C50-PRO-PRI;Tecno;Camon 50;Cristal templado;Privacidad;4,00;;;
+TE-C50-FUN-SIL;Tecno;Camon 50;Funda;Silicona;2,50;;;
+TE-C50-FUN-TPU;Tecno;Camon 50;Funda;Transparente;2,95;;;
+TE-C50-FUN-LIB;Tecno;Camon 50;Funda;Libro;3,70;;;
+TE-C50-FUN-ANT;Tecno;Camon 50;Funda;Antigolpes;3,10;;;
+TE-S40C-PRO-NA;Tecno;Spark 40C;Cristal templado;Estándar;1,30;;;
+TE-S40C-PRO-PRI;Tecno;Spark 40C;Cristal templado;Privacidad;4,00;;;
+TE-S40C-FUN-SIL;Tecno;Spark 40C;Funda;Silicona;2,50;;;
+TE-S40C-FUN-TPU;Tecno;Spark 40C;Funda;Transparente;2,95;;;
+TE-S40C-FUN-LIB;Tecno;Spark 40C;Funda;Libro;3,70;;;
+TE-S40C-FUN-ANT;Tecno;Spark 40C;Funda;Antigolpes;3,10;;;
+TE-S40-PRO-NA;Tecno;Spark 40;Cristal templado;Estándar;1,30;;;
+TE-S40-PRO-PRI;Tecno;Spark 40;Cristal templado;Privacidad;4,00;;;
+TE-S40-FUN-SIL;Tecno;Spark 40;Funda;Silicona;2,50;;;
+TE-S40-FUN-TPU;Tecno;Spark 40;Funda;Transparente;2,95;;;
+TE-S40-FUN-LIB;Tecno;Spark 40;Funda;Libro;3,70;;;
+TE-S40-FUN-ANT;Tecno;Spark 40;Funda;Antigolpes;3,10;;;
+TE-S20P5-PRO-NA;Tecno;Spark 20 Pro 5G;Cristal templado;Estándar;1,30;;;
+TE-S20P5-PRO-PRI;Tecno;Spark 20 Pro 5G;Cristal templado;Privacidad;4,00;;;
+TE-S20P5-FUN-SIL;Tecno;Spark 20 Pro 5G;Funda;Silicona;2,50;;;
+TE-S20P5-FUN-TPU;Tecno;Spark 20 Pro 5G;Funda;Transparente;2,95;;;
+TE-S20P5-FUN-LIB;Tecno;Spark 20 Pro 5G;Funda;Libro;3,70;;;
+TE-S20P5-FUN-ANT;Tecno;Spark 20 Pro 5G;Funda;Antigolpes;3,10;;;
+TE-S20P5-PCA-NA;Tecno;Spark 20 Pro 5G;Protector de cámara;Cristal;2,90;;;
+TE-SPARK20P-PRO-NA;Tecno;Spark 20P;Cristal templado;Estándar;1,30;;;
+TE-SPARK20P-PRO-PRI;Tecno;Spark 20P;Cristal templado;Privacidad;4,00;;;
+TE-SPARK20P-FUN-SIL;Tecno;Spark 20P;Funda;Silicona;2,50;;;
+TE-SPARK20P-FUN-TPU;Tecno;Spark 20P;Funda;Transparente;2,95;;;
+TE-SPARK20P-FUN-LIB;Tecno;Spark 20P;Funda;Libro;3,70;;;
+TE-SPARK20P-FUN-ANT;Tecno;Spark 20P;Funda;Antigolpes;3,10;;;
+TE-SPARK20P-PCA-NA;Tecno;Spark 20P;Protector de cámara;Cristal;2,90;;;
+TE-P6P-PRO-NA;Tecno;Pova 6 Pro;Cristal templado;Estándar;1,30;;;
+TE-P6P-PRO-PRI;Tecno;Pova 6 Pro;Cristal templado;Privacidad;4,00;;;
+TE-P6P-FUN-SIL;Tecno;Pova 6 Pro;Funda;Silicona;2,50;;;
+TE-P6P-FUN-TPU;Tecno;Pova 6 Pro;Funda;Transparente;2,95;;;
+TE-P6P-FUN-LIB;Tecno;Pova 6 Pro;Funda;Libro;3,70;;;
+TE-P6P-FUN-ANT;Tecno;Pova 6 Pro;Funda;Antigolpes;3,10;;;
+TE-S20-PRO-NA;Tecno;Spark 20;Cristal templado;Estándar;1,30;;;
+TE-S20-PRO-PRI;Tecno;Spark 20;Cristal templado;Privacidad;4,00;;;
+TE-S20-FUN-SIL;Tecno;Spark 20;Funda;Silicona;2,50;;;
+TE-S20-FUN-TPU;Tecno;Spark 20;Funda;Transparente;2,95;;;
+TE-S20-FUN-LIB;Tecno;Spark 20;Funda;Libro;3,70;;;
+TE-S20-FUN-ANT;Tecno;Spark 20;Funda;Antigolpes;3,10;;;
+TE-S20-PCA-NA;Tecno;Spark 20;Protector de cámara;Cristal;2,90;;;
+TE-S20P-PRO-NA;Tecno;Spark 20 Pro;Cristal templado;Estándar;1,30;;;
+TE-S20P-PRO-PRI;Tecno;Spark 20 Pro;Cristal templado;Privacidad;4,00;;;
+TE-S20P-FUN-SIL;Tecno;Spark 20 Pro;Funda;Silicona;2,50;;;
+TE-S20P-FUN-TPU;Tecno;Spark 20 Pro;Funda;Transparente;2,95;;;
+TE-S20P-FUN-LIB;Tecno;Spark 20 Pro;Funda;Libro;3,70;;;
+TE-S20P-FUN-ANT;Tecno;Spark 20 Pro;Funda;Antigolpes;3,10;;;
+TE-S20P-PCA-NA;Tecno;Spark 20 Pro;Protector de cámara;Cristal;2,90;;;
+TE-S20PPL-PRO-NA;Tecno;Spark 20 Pro+;Cristal templado;Estándar;1,30;;;
+TE-S20PPL-PRO-PRI;Tecno;Spark 20 Pro+;Cristal templado;Privacidad;4,00;;;
+TE-S20PPL-FUN-SIL;Tecno;Spark 20 Pro+;Funda;Silicona;2,50;;;
+TE-S20PPL-FUN-TPU;Tecno;Spark 20 Pro+;Funda;Transparente;2,95;;;
+TE-S20PPL-FUN-LIB;Tecno;Spark 20 Pro+;Funda;Libro;3,70;;;
+TE-S20PPL-FUN-ANT;Tecno;Spark 20 Pro+;Funda;Antigolpes;3,10;;;
+TE-S20PPL-PCA-NA;Tecno;Spark 20 Pro+;Protector de cámara;Cristal;2,90;;;
+TE-S20C-PRO-NA;Tecno;Spark 20C;Cristal templado;Estándar;1,30;;;
+TE-S20C-PRO-PRI;Tecno;Spark 20C;Cristal templado;Privacidad;4,00;;;
+TE-S20C-FUN-SIL;Tecno;Spark 20C;Funda;Silicona;2,50;;;
+TE-S20C-FUN-TPU;Tecno;Spark 20C;Funda;Transparente;2,95;;;
+TE-S20C-FUN-LIB;Tecno;Spark 20C;Funda;Libro;3,70;;;
+TE-S20C-FUN-ANT;Tecno;Spark 20C;Funda;Antigolpes;3,10;;;
+TE-S20C-PCA-NA;Tecno;Spark 20C;Protector de cámara;Cristal;2,90;;;
+TE-PVFL-PRO-NA;Tecno;Phantom V Flip;Cristal templado;Estándar;1,30;;;
+TE-PVFL-FUN-SIL;Tecno;Phantom V Flip;Funda;Silicona;2,50;;;
+TE-PVFL-FUN-TPU;Tecno;Phantom V Flip;Funda;Transparente;2,95;;;
+TE-PVFL-PCA-NA;Tecno;Phantom V Flip;Protector de cámara;Cristal;2,90;;;
+TE-C20-PRO-NA;Tecno;Camon 20;Cristal templado;Estándar;1,30;;;
+TE-C20-PRO-PRI;Tecno;Camon 20;Cristal templado;Privacidad;4,00;;;
+TE-C20-FUN-SIL;Tecno;Camon 20;Funda;Silicona;2,50;;;
+TE-C20-FUN-TPU;Tecno;Camon 20;Funda;Transparente;2,95;;;
+TE-C20-FUN-LIB;Tecno;Camon 20;Funda;Libro;3,70;;;
+TE-C20-FUN-ANT;Tecno;Camon 20;Funda;Antigolpes;3,10;;;
+TE-C20-PCA-NA;Tecno;Camon 20;Protector de cámara;Cristal;2,90;;;
+TE-PVF-PRO-NA;Tecno;Phantom V Fold;Cristal templado;Estándar;1,30;;;
+TE-PVF-FUN-SIL;Tecno;Phantom V Fold;Funda;Silicona;2,50;;;
+TE-PVF-FUN-TPU;Tecno;Phantom V Fold;Funda;Transparente;2,95;;;
+TE-S10-PRO-NA;Tecno;Spark 10;Cristal templado;Estándar;1,30;;;
+TE-S10-PRO-PRI;Tecno;Spark 10;Cristal templado;Privacidad;4,00;;;
+TE-S10-FUN-SIL;Tecno;Spark 10;Funda;Silicona;2,50;;;
+TE-S10-FUN-TPU;Tecno;Spark 10;Funda;Transparente;2,95;;;
+TE-S10-FUN-LIB;Tecno;Spark 10;Funda;Libro;3,70;;;
+TE-S10-FUN-ANT;Tecno;Spark 10;Funda;Antigolpes;3,10;;;
+TE-PX2-PRO-NA;Tecno;Phantom X2;Cristal templado;Estándar;1,30;;;
+TE-PX2-PRO-NA-FG;Tecno;Phantom X2;Cristal templado;UV full glue;4,15;;;
+TE-PX2-PRO-PRI;Tecno;Phantom X2;Cristal templado;Privacidad;4,00;;;
+TE-PX2-FUN-SIL;Tecno;Phantom X2;Funda;Silicona;2,50;;;
+TE-PX2-FUN-TPU;Tecno;Phantom X2;Funda;Transparente;2,95;;;
+TE-PX2-FUN-LIB;Tecno;Phantom X2;Funda;Libro;3,70;;;
+TE-PX2-FUN-ANT;Tecno;Phantom X2;Funda;Antigolpes;3,10;;;
+TE-C19-PRO-NA;Tecno;Camon 19;Cristal templado;Estándar;1,30;;;
+TE-C19-PRO-PRI;Tecno;Camon 19;Cristal templado;Privacidad;4,00;;;
+TE-C19-FUN-SIL;Tecno;Camon 19;Funda;Silicona;2,50;;;
+TE-C19-FUN-TPU;Tecno;Camon 19;Funda;Transparente;2,95;;;
+TE-C19-FUN-LIB;Tecno;Camon 19;Funda;Libro;3,70;;;
+TE-C19-FUN-ANT;Tecno;Camon 19;Funda;Antigolpes;3,10;;;
+TE-C19-PCA-NA;Tecno;Camon 19;Protector de cámara;Cristal;2,90;;;
+TE-S9-PRO-NA;Tecno;Spark 9;Cristal templado;Estándar;1,30;;;
+TE-S9-PRO-PRI;Tecno;Spark 9;Cristal templado;Privacidad;4,00;;;
+TE-S9-FUN-SIL;Tecno;Spark 9;Funda;Silicona;2,50;;;
+TE-S9-FUN-TPU;Tecno;Spark 9;Funda;Transparente;2,95;;;
+TE-S9-FUN-LIB;Tecno;Spark 9;Funda;Libro;3,70;;;
+TE-S9-FUN-ANT;Tecno;Spark 9;Funda;Antigolpes;3,10;;;
+TE-C18-PRO-NA;Tecno;Camon 18;Cristal templado;Estándar;1,30;;;
+TE-C18-PRO-PRI;Tecno;Camon 18;Cristal templado;Privacidad;4,00;;;
+TE-C18-FUN-SIL;Tecno;Camon 18;Funda;Silicona;2,50;;;
+TE-C18-FUN-TPU;Tecno;Camon 18;Funda;Transparente;2,95;;;
+TE-C18-FUN-LIB;Tecno;Camon 18;Funda;Libro;3,70;;;
+TE-C18-FUN-ANT;Tecno;Camon 18;Funda;Antigolpes;3,10;;;
+TE-C18-PCA-NA;Tecno;Camon 18;Protector de cámara;Cristal;2,90;;;
+TE-S8-PRO-NA;Tecno;Spark 8;Cristal templado;Estándar;1,30;;;
+TE-S8-PRO-PRI;Tecno;Spark 8;Cristal templado;Privacidad;4,00;;;
+TE-S8-FUN-SIL;Tecno;Spark 8;Funda;Silicona;2,50;;;
+TE-S8-FUN-TPU;Tecno;Spark 8;Funda;Transparente;2,95;;;
+TE-S8-FUN-LIB;Tecno;Spark 8;Funda;Libro;3,70;;;
+TE-S8-FUN-ANT;Tecno;Spark 8;Funda;Antigolpes;3,10;;;
+TE-S8-PCA-NA;Tecno;Spark 8;Protector de cámara;Cristal;2,90;;;
+TE-PX-PRO-NA;Tecno;Phantom X;Cristal templado;Estándar;1,30;;;
+TE-PX-PRO-NA-FG;Tecno;Phantom X;Cristal templado;UV full glue;4,15;;;
+TE-PX-PRO-PRI;Tecno;Phantom X;Cristal templado;Privacidad;4,00;;;
+TE-PX-FUN-SIL;Tecno;Phantom X;Funda;Silicona;2,50;;;
+TE-PX-FUN-TPU;Tecno;Phantom X;Funda;Transparente;2,95;;;
+TE-PX-FUN-LIB;Tecno;Phantom X;Funda;Libro;3,70;;;
+TE-PX-FUN-ANT;Tecno;Phantom X;Funda;Antigolpes;3,10;;;
+TE-PX-PCA-NA;Tecno;Phantom X;Protector de cámara;Cristal;2,90;;;
+TE-C17-PRO-NA;Tecno;Camon 17;Cristal templado;Estándar;1,30;;;
+TE-C17-PRO-PRI;Tecno;Camon 17;Cristal templado;Privacidad;4,00;;;
+TE-C17-FUN-SIL;Tecno;Camon 17;Funda;Silicona;2,50;;;
+TE-C17-FUN-TPU;Tecno;Camon 17;Funda;Transparente;2,95;;;
+TE-C17-FUN-LIB;Tecno;Camon 17;Funda;Libro;3,70;;;
+TE-C17-FUN-ANT;Tecno;Camon 17;Funda;Antigolpes;3,10;;;
+TE-C17-PCA-NA;Tecno;Camon 17;Protector de cámara;Cristal;2,90;;;
+TE-C16-PRO-NA;Tecno;Camon 16;Cristal templado;Estándar;1,30;;;
+TE-C16-PRO-PRI;Tecno;Camon 16;Cristal templado;Privacidad;4,00;;;
+TE-C16-FUN-SIL;Tecno;Camon 16;Funda;Silicona;2,50;;;
+TE-C16-FUN-TPU;Tecno;Camon 16;Funda;Transparente;2,95;;;
+TE-C16-FUN-LIB;Tecno;Camon 16;Funda;Libro;3,70;;;
+TE-C16-FUN-ANT;Tecno;Camon 16;Funda;Antigolpes;3,10;;;
+TE-P-PRO-NA;Tecno;Pova;Cristal templado;Estándar;1,30;;;
+TE-P-PRO-PRI;Tecno;Pova;Cristal templado;Privacidad;4,00;;;
+TE-P-FUN-SIL;Tecno;Pova;Funda;Silicona;2,50;;;
+TE-P-FUN-TPU;Tecno;Pova;Funda;Transparente;2,95;;;
+TE-P-FUN-LIB;Tecno;Pova;Funda;Libro;3,70;;;
+TE-P-FUN-ANT;Tecno;Pova;Funda;Antigolpes;3,10;;;
+TE-C16P-PRO-NA;Tecno;Camon 16 Premier;Cristal templado;Estándar;1,30;;;
+TE-C16P-PRO-PRI;Tecno;Camon 16 Premier;Cristal templado;Privacidad;4,00;;;
+TE-C16P-FUN-SIL;Tecno;Camon 16 Premier;Funda;Silicona;2,50;;;
+TE-C16P-FUN-TPU;Tecno;Camon 16 Premier;Funda;Transparente;2,95;;;
+TE-C16P-FUN-LIB;Tecno;Camon 16 Premier;Funda;Libro;3,70;;;
+TE-C16P-FUN-ANT;Tecno;Camon 16 Premier;Funda;Antigolpes;3,10;;;
+TE-S6-PRO-NA;Tecno;Spark 6;Cristal templado;Estándar;1,30;;;
+TE-S6-PRO-PRI;Tecno;Spark 6;Cristal templado;Privacidad;4,00;;;
+TE-S6-FUN-SIL;Tecno;Spark 6;Funda;Silicona;2,50;;;
+TE-S6-FUN-TPU;Tecno;Spark 6;Funda;Transparente;2,95;;;
+TE-S6-FUN-LIB;Tecno;Spark 6;Funda;Libro;3,70;;;
+TE-S6-FUN-ANT;Tecno;Spark 6;Funda;Antigolpes;3,10;;;
+TE-S6AIR-PRO-NA;Tecno;Spark 6 Air;Cristal templado;Estándar;1,30;;;
+TE-S6AIR-PRO-PRI;Tecno;Spark 6 Air;Cristal templado;Privacidad;4,00;;;
+TE-S6AIR-FUN-SIL;Tecno;Spark 6 Air;Funda;Silicona;2,50;;;
+TE-S6AIR-FUN-TPU;Tecno;Spark 6 Air;Funda;Transparente;2,95;;;
+TE-S6AIR-FUN-LIB;Tecno;Spark 6 Air;Funda;Libro;3,70;;;
+TE-S6AIR-FUN-ANT;Tecno;Spark 6 Air;Funda;Antigolpes;3,10;;;
+TE-P4-PRO-NA;Tecno;Pouvoir 4;Cristal templado;Estándar;1,30;;;
+TE-P4-PRO-PRI;Tecno;Pouvoir 4;Cristal templado;Privacidad;4,00;;;
+TE-P4-FUN-SIL;Tecno;Pouvoir 4;Funda;Silicona;2,50;;;
+TE-P4-FUN-TPU;Tecno;Pouvoir 4;Funda;Transparente;2,95;;;
+TE-P4-FUN-LIB;Tecno;Pouvoir 4;Funda;Libro;3,70;;;
+TE-P4-FUN-ANT;Tecno;Pouvoir 4;Funda;Antigolpes;3,10;;;
+TE-P4-PCA-NA;Tecno;Pouvoir 4;Protector de cámara;Cristal;2,90;;;
+TE-P4P-PRO-NA;Tecno;Pouvoir 4 Pro;Cristal templado;Estándar;1,30;;;
+TE-P4P-PRO-PRI;Tecno;Pouvoir 4 Pro;Cristal templado;Privacidad;4,00;;;
+TE-P4P-FUN-SIL;Tecno;Pouvoir 4 Pro;Funda;Silicona;2,50;;;
+TE-P4P-FUN-TPU;Tecno;Pouvoir 4 Pro;Funda;Transparente;2,95;;;
+TE-P4P-FUN-LIB;Tecno;Pouvoir 4 Pro;Funda;Libro;3,70;;;
+TE-P4P-FUN-ANT;Tecno;Pouvoir 4 Pro;Funda;Antigolpes;3,10;;;
+TE-SPW2-PRO-NA;Tecno;Spark Power 2;Cristal templado;Estándar;1,30;;;
+TE-SPW2-PRO-PRI;Tecno;Spark Power 2;Cristal templado;Privacidad;4,00;;;
+TE-SPW2-FUN-SIL;Tecno;Spark Power 2;Funda;Silicona;2,50;;;
+TE-SPW2-FUN-TPU;Tecno;Spark Power 2;Funda;Transparente;2,95;;;
+TE-SPW2-FUN-LIB;Tecno;Spark Power 2;Funda;Libro;3,70;;;
+TE-SPW2-FUN-ANT;Tecno;Spark Power 2;Funda;Antigolpes;3,10;;;
+TE-S5-PRO-NA;Tecno;Spark 5;Cristal templado;Estándar;1,30;;;
+TE-S5-PRO-PRI;Tecno;Spark 5;Cristal templado;Privacidad;4,00;;;
+TE-S5-FUN-SIL;Tecno;Spark 5;Funda;Silicona;2,50;;;
+TE-S5-FUN-TPU;Tecno;Spark 5;Funda;Transparente;2,95;;;
+TE-S5-FUN-LIB;Tecno;Spark 5;Funda;Libro;3,70;;;
+TE-S5-FUN-ANT;Tecno;Spark 5;Funda;Antigolpes;3,10;;;
+TE-S5AIR-PRO-NA;Tecno;Spark 5 Air;Cristal templado;Estándar;1,30;;;
+TE-S5AIR-PRO-PRI;Tecno;Spark 5 Air;Cristal templado;Privacidad;4,00;;;
+TE-S5AIR-FUN-SIL;Tecno;Spark 5 Air;Funda;Silicona;2,50;;;
+TE-S5AIR-FUN-TPU;Tecno;Spark 5 Air;Funda;Transparente;2,95;;;
+TE-S5AIR-FUN-LIB;Tecno;Spark 5 Air;Funda;Libro;3,70;;;
+TE-S5AIR-FUN-ANT;Tecno;Spark 5 Air;Funda;Antigolpes;3,10;;;
+TE-S5P-PRO-NA;Tecno;Spark 5 Pro;Cristal templado;Estándar;1,30;;;
+TE-S5P-PRO-PRI;Tecno;Spark 5 Pro;Cristal templado;Privacidad;4,00;;;
+TE-S5P-FUN-SIL;Tecno;Spark 5 Pro;Funda;Silicona;2,50;;;
+TE-S5P-FUN-TPU;Tecno;Spark 5 Pro;Funda;Transparente;2,95;;;
+TE-S5P-FUN-LIB;Tecno;Spark 5 Pro;Funda;Libro;3,70;;;
+TE-S5P-FUN-ANT;Tecno;Spark 5 Pro;Funda;Antigolpes;3,10;;;
+TE-C15-PRO-NA;Tecno;Camon 15;Cristal templado;Estándar;1,30;;;
+TE-C15-PRO-PRI;Tecno;Camon 15;Cristal templado;Privacidad;4,00;;;
+TE-C15-FUN-SIL;Tecno;Camon 15;Funda;Silicona;2,50;;;
+TE-C15-FUN-TPU;Tecno;Camon 15;Funda;Transparente;2,95;;;
+TE-C15-FUN-LIB;Tecno;Camon 15;Funda;Libro;3,70;;;
+TE-C15-FUN-ANT;Tecno;Camon 15;Funda;Antigolpes;3,10;;;
+TE-C15-PCA-NA;Tecno;Camon 15;Protector de cámara;Cristal;2,90;;;
+TE-C15AIR-PRO-NA;Tecno;Camon 15 Air;Cristal templado;Estándar;1,30;;;
+TE-C15AIR-PRO-PRI;Tecno;Camon 15 Air;Cristal templado;Privacidad;4,00;;;
+TE-C15AIR-FUN-SIL;Tecno;Camon 15 Air;Funda;Silicona;2,50;;;
+TE-C15AIR-FUN-TPU;Tecno;Camon 15 Air;Funda;Transparente;2,95;;;
+TE-C15AIR-FUN-LIB;Tecno;Camon 15 Air;Funda;Libro;3,70;;;
+TE-C15AIR-FUN-ANT;Tecno;Camon 15 Air;Funda;Antigolpes;3,10;;;
+TE-C15P-PRO-NA;Tecno;Camon 15 Pro;Cristal templado;Estándar;1,30;;;
+TE-C15P-PRO-PRI;Tecno;Camon 15 Pro;Cristal templado;Privacidad;4,00;;;
+TE-C15P-FUN-SIL;Tecno;Camon 15 Pro;Funda;Silicona;2,50;;;
+TE-C15P-FUN-TPU;Tecno;Camon 15 Pro;Funda;Transparente;2,95;;;
+TE-C15P-FUN-LIB;Tecno;Camon 15 Pro;Funda;Libro;3,70;;;
+TE-C15P-FUN-ANT;Tecno;Camon 15 Pro;Funda;Antigolpes;3,10;;;
+TE-C12AIR-PRO-NA;Tecno;Camon 12 Air;Cristal templado;Estándar;1,30;;;
+TE-C12AIR-PRO-PRI;Tecno;Camon 12 Air;Cristal templado;Privacidad;4,00;;;
+TE-C12AIR-FUN-SIL;Tecno;Camon 12 Air;Funda;Silicona;2,50;;;
+TE-C12AIR-FUN-TPU;Tecno;Camon 12 Air;Funda;Transparente;2,95;;;
+TE-C12AIR-FUN-LIB;Tecno;Camon 12 Air;Funda;Libro;3,70;;;
+TE-C12AIR-FUN-ANT;Tecno;Camon 12 Air;Funda;Antigolpes;3,10;;;
+TE-C12-PRO-NA;Tecno;Camon 12;Cristal templado;Estándar;1,30;;;
+TE-C12-PRO-PRI;Tecno;Camon 12;Cristal templado;Privacidad;4,00;;;
+TE-C12-FUN-SIL;Tecno;Camon 12;Funda;Silicona;2,50;;;
+TE-C12-FUN-TPU;Tecno;Camon 12;Funda;Transparente;2,95;;;
+TE-C12-FUN-LIB;Tecno;Camon 12;Funda;Libro;3,70;;;
+TE-C12-FUN-ANT;Tecno;Camon 12;Funda;Antigolpes;3,10;;;
+TE-C12-PCA-NA;Tecno;Camon 12;Protector de cámara;Cristal;2,90;;;
+TE-C12P-PRO-NA;Tecno;Camon 12 Pro;Cristal templado;Estándar;1,30;;;
+TE-C12P-PRO-PRI;Tecno;Camon 12 Pro;Cristal templado;Privacidad;4,00;;;
+TE-C12P-FUN-SIL;Tecno;Camon 12 Pro;Funda;Silicona;2,50;;;
+TE-C12P-FUN-TPU;Tecno;Camon 12 Pro;Funda;Transparente;2,95;;;
+TE-C12P-FUN-LIB;Tecno;Camon 12 Pro;Funda;Libro;3,70;;;
+TE-C12P-FUN-ANT;Tecno;Camon 12 Pro;Funda;Antigolpes;3,10;;;
+TE-S4-PRO-NA;Tecno;Spark 4;Cristal templado;Estándar;1,30;;;
+TE-S4-PRO-PRI;Tecno;Spark 4;Cristal templado;Privacidad;4,00;;;
+TE-S4-FUN-SIL;Tecno;Spark 4;Funda;Silicona;2,50;;;
+TE-S4-FUN-TPU;Tecno;Spark 4;Funda;Transparente;2,95;;;
+TE-S4-FUN-LIB;Tecno;Spark 4;Funda;Libro;3,70;;;
+TE-S4-FUN-ANT;Tecno;Spark 4;Funda;Antigolpes;3,10;;;
+TE-SGO-PRO-NA;Tecno;Spark Go;Cristal templado;Estándar;1,30;;;
+TE-SGO-PRO-PRI;Tecno;Spark Go;Cristal templado;Privacidad;4,00;;;
+TE-SGO-FUN-SIL;Tecno;Spark Go;Funda;Silicona;2,50;;;
+TE-SGO-FUN-TPU;Tecno;Spark Go;Funda;Transparente;2,95;;;
+TE-SGO-FUN-LIB;Tecno;Spark Go;Funda;Libro;3,70;;;
+TE-SGO-FUN-ANT;Tecno;Spark Go;Funda;Antigolpes;3,10;;;
+TE-P9-PRO-NA;Tecno;Phantom 9;Cristal templado;Estándar;1,30;;;
+TE-P9-PRO-NA-FG;Tecno;Phantom 9;Cristal templado;UV full glue;4,15;;;
+TE-P9-PRO-PRI;Tecno;Phantom 9;Cristal templado;Privacidad;4,00;;;
+TE-P9-FUN-SIL;Tecno;Phantom 9;Funda;Silicona;2,50;;;
+TE-P9-FUN-TPU;Tecno;Phantom 9;Funda;Transparente;2,95;;;
+TE-P9-FUN-LIB;Tecno;Phantom 9;Funda;Libro;3,70;;;
+TE-P9-FUN-ANT;Tecno;Phantom 9;Funda;Antigolpes;3,10;;;
+TE-S3-PRO-NA;Tecno;Spark 3;Cristal templado;Estándar;1,30;;;
+TE-S3-PRO-PRI;Tecno;Spark 3;Cristal templado;Privacidad;4,00;;;
+TE-S3-FUN-SIL;Tecno;Spark 3;Funda;Silicona;2,50;;;
+TE-S3-FUN-TPU;Tecno;Spark 3;Funda;Transparente;2,95;;;
+TE-S3-FUN-LIB;Tecno;Spark 3;Funda;Libro;3,70;;;
+TE-S3-FUN-ANT;Tecno;Spark 3;Funda;Antigolpes;3,10;;;
+TE-S3P-PRO-NA;Tecno;Spark 3 Pro;Cristal templado;Estándar;1,30;;;
+TE-S3P-PRO-PRI;Tecno;Spark 3 Pro;Cristal templado;Privacidad;4,00;;;
+TE-S3P-FUN-SIL;Tecno;Spark 3 Pro;Funda;Silicona;2,50;;;
+TE-S3P-FUN-TPU;Tecno;Spark 3 Pro;Funda;Transparente;2,95;;;
+TE-S3P-FUN-LIB;Tecno;Spark 3 Pro;Funda;Libro;3,70;;;
+TE-S3P-FUN-ANT;Tecno;Spark 3 Pro;Funda;Antigolpes;3,10;;;
+TE-CI2-PRO-NA;Tecno;Camon iACE2;Cristal templado;Estándar;1,30;;;
+TE-CI2-PRO-PRI;Tecno;Camon iACE2;Cristal templado;Privacidad;4,00;;;
+TE-CI2-FUN-SIL;Tecno;Camon iACE2;Funda;Silicona;2,50;;;
+TE-CI2-FUN-TPU;Tecno;Camon iACE2;Funda;Transparente;2,95;;;
+TE-CI2-FUN-LIB;Tecno;Camon iACE2;Funda;Libro;3,70;;;
+TE-CI2-FUN-ANT;Tecno;Camon iACE2;Funda;Antigolpes;3,10;;;
+TE-C11-PRO-NA;Tecno;Camon 11;Cristal templado;Estándar;1,30;;;
+TE-C11-PRO-PRI;Tecno;Camon 11;Cristal templado;Privacidad;4,00;;;
+TE-C11-FUN-SIL;Tecno;Camon 11;Funda;Silicona;2,50;;;
+TE-C11-FUN-TPU;Tecno;Camon 11;Funda;Transparente;2,95;;;
+TE-C11-FUN-LIB;Tecno;Camon 11;Funda;Libro;3,70;;;
+TE-C11-FUN-ANT;Tecno;Camon 11;Funda;Antigolpes;3,10;;;
+TE-C11P-PRO-NA;Tecno;Camon 11 Pro;Cristal templado;Estándar;1,30;;;
+TE-C11P-PRO-PRI;Tecno;Camon 11 Pro;Cristal templado;Privacidad;4,00;;;
+TE-C11P-FUN-SIL;Tecno;Camon 11 Pro;Funda;Silicona;2,50;;;
+TE-C11P-FUN-TPU;Tecno;Camon 11 Pro;Funda;Transparente;2,95;;;
+TE-C11P-FUN-LIB;Tecno;Camon 11 Pro;Funda;Libro;3,70;;;
+TE-C11P-FUN-ANT;Tecno;Camon 11 Pro;Funda;Antigolpes;3,10;;;
+TE-S2-PRO-NA;Tecno;Spark 2;Cristal templado;Estándar;1,30;;;
+TE-S2-PRO-PRI;Tecno;Spark 2;Cristal templado;Privacidad;4,00;;;
+TE-S2-FUN-SIL;Tecno;Spark 2;Funda;Silicona;2,50;;;
+TE-S2-FUN-TPU;Tecno;Spark 2;Funda;Transparente;2,95;;;
+TE-S2-FUN-LIB;Tecno;Spark 2;Funda;Libro;3,70;;;
+TE-S2-FUN-ANT;Tecno;Spark 2;Funda;Antigolpes;3,10;;;
+TE-CX-PRO-NA;Tecno;Camon X;Cristal templado;Estándar;1,30;;;
+TE-CX-PRO-PRI;Tecno;Camon X;Cristal templado;Privacidad;4,00;;;
+TE-CX-FUN-SIL;Tecno;Camon X;Funda;Silicona;2,50;;;
+TE-CX-FUN-TPU;Tecno;Camon X;Funda;Transparente;2,95;;;
+TE-CX-FUN-LIB;Tecno;Camon X;Funda;Libro;3,70;;;
+TE-CX-FUN-ANT;Tecno;Camon X;Funda;Antigolpes;3,10;;;
+TE-CXP-PRO-NA;Tecno;Camon X Pro;Cristal templado;Estándar;1,30;;;
+TE-CXP-PRO-PRI;Tecno;Camon X Pro;Cristal templado;Privacidad;4,00;;;
+TE-CXP-FUN-SIL;Tecno;Camon X Pro;Funda;Silicona;2,50;;;
+TE-CXP-FUN-TPU;Tecno;Camon X Pro;Funda;Transparente;2,95;;;
+TE-CXP-FUN-LIB;Tecno;Camon X Pro;Funda;Libro;3,70;;;
+TE-CXP-FUN-ANT;Tecno;Camon X Pro;Funda;Antigolpes;3,10;;;
+TE-CCM-PRO-NA;Tecno;Camon CM;Cristal templado;Estándar;1,30;;;
+TE-CCM-PRO-PRI;Tecno;Camon CM;Cristal templado;Privacidad;4,00;;;
+TE-CCM-FUN-SIL;Tecno;Camon CM;Funda;Silicona;2,50;;;
+TE-CCM-FUN-TPU;Tecno;Camon CM;Funda;Transparente;2,95;;;
+TE-CCM-FUN-LIB;Tecno;Camon CM;Funda;Libro;3,70;;;
+TE-CCM-FUN-ANT;Tecno;Camon CM;Funda;Antigolpes;3,10;;;
+TE-SCM-PRO-NA;Tecno;Spark CM;Cristal templado;Estándar;1,30;;;
+TE-SCM-PRO-PRI;Tecno;Spark CM;Cristal templado;Privacidad;4,00;;;
+TE-SCM-FUN-SIL;Tecno;Spark CM;Funda;Silicona;2,50;;;
+TE-SCM-FUN-TPU;Tecno;Spark CM;Funda;Transparente;2,95;;;
+TE-SCM-FUN-LIB;Tecno;Spark CM;Funda;Libro;3,70;;;
+TE-SCM-FUN-ANT;Tecno;Spark CM;Funda;Antigolpes;3,10;;;
+TE-SP-PRO-NA;Tecno;Spark Pro;Cristal templado;Estándar;1,30;;;
+TE-SP-PRO-PRI;Tecno;Spark Pro;Cristal templado;Privacidad;4,00;;;
+TE-SP-FUN-SIL;Tecno;Spark Pro;Funda;Silicona;2,50;;;
+TE-SP-FUN-TPU;Tecno;Spark Pro;Funda;Transparente;2,95;;;
+TE-SP-FUN-LIB;Tecno;Spark Pro;Funda;Libro;3,70;;;
+TE-SP-FUN-ANT;Tecno;Spark Pro;Funda;Antigolpes;3,10;;;
+TE-P8-PRO-NA;Tecno;Phantom 8;Cristal templado;Estándar;1,30;;;
+TE-P8-PRO-NA-FG;Tecno;Phantom 8;Cristal templado;UV full glue;4,15;;;
+TE-P8-PRO-PRI;Tecno;Phantom 8;Cristal templado;Privacidad;4,00;;;
+TE-P8-FUN-SIL;Tecno;Phantom 8;Funda;Silicona;2,50;;;
+TE-P8-FUN-TPU;Tecno;Phantom 8;Funda;Transparente;2,95;;;
+TE-P8-FUN-LIB;Tecno;Phantom 8;Funda;Libro;3,70;;;
+TE-P8-FUN-ANT;Tecno;Phantom 8;Funda;Antigolpes;3,10;;;
+TE-SPL-PRO-NA;Tecno;Spark Plus;Cristal templado;Estándar;1,30;;;
+TE-SPL-PRO-PRI;Tecno;Spark Plus;Cristal templado;Privacidad;4,00;;;
+TE-SPL-FUN-SIL;Tecno;Spark Plus;Funda;Silicona;2,50;;;
+TE-SPL-FUN-TPU;Tecno;Spark Plus;Funda;Transparente;2,95;;;
+TE-SPL-FUN-LIB;Tecno;Spark Plus;Funda;Libro;3,70;;;
+TE-SPL-FUN-ANT;Tecno;Spark Plus;Funda;Antigolpes;3,10;;;
+TE-S-PRO-NA;Tecno;Spark;Cristal templado;Estándar;1,30;;;
+TE-S-PRO-PRI;Tecno;Spark;Cristal templado;Privacidad;4,00;;;
+TE-S-FUN-SIL;Tecno;Spark;Funda;Silicona;2,50;;;
+TE-S-FUN-TPU;Tecno;Spark;Funda;Transparente;2,95;;;
+TE-S-FUN-LIB;Tecno;Spark;Funda;Libro;3,70;;;
+TE-S-FUN-ANT;Tecno;Spark;Funda;Antigolpes;3,10;;;
+TE-CCXAIR-PRO-NA;Tecno;Camon CX Air;Cristal templado;Estándar;1,30;;;
+TE-CCXAIR-PRO-PRI;Tecno;Camon CX Air;Cristal templado;Privacidad;4,00;;;
+TE-CCXAIR-FUN-SIL;Tecno;Camon CX Air;Funda;Silicona;2,50;;;
+TE-CCXAIR-FUN-TPU;Tecno;Camon CX Air;Funda;Transparente;2,95;;;
+TE-CCXAIR-FUN-LIB;Tecno;Camon CX Air;Funda;Libro;3,70;;;
+TE-CCXAIR-FUN-ANT;Tecno;Camon CX Air;Funda;Antigolpes;3,10;;;
+TE-CCX-PRO-NA;Tecno;Camon CX;Cristal templado;Estándar;1,30;;;
+TE-CCX-PRO-PRI;Tecno;Camon CX;Cristal templado;Privacidad;4,00;;;
+TE-CCX-FUN-SIL;Tecno;Camon CX;Funda;Silicona;2,50;;;
+TE-CCX-FUN-TPU;Tecno;Camon CX;Funda;Transparente;2,95;;;
+TE-CCX-FUN-LIB;Tecno;Camon CX;Funda;Libro;3,70;;;
+TE-CCX-FUN-ANT;Tecno;Camon CX;Funda;Antigolpes;3,10;;;
+TE-P6-PRO-NA;Tecno;Phantom 6;Cristal templado;Estándar;1,30;;;
+TE-P6-PRO-NA-FG;Tecno;Phantom 6;Cristal templado;UV full glue;4,15;;;
+TE-P6-PRO-PRI;Tecno;Phantom 6;Cristal templado;Privacidad;4,00;;;
+TE-P6-FUN-SIL;Tecno;Phantom 6;Funda;Silicona;2,50;;;
+TE-P6-FUN-TPU;Tecno;Phantom 6;Funda;Transparente;2,95;;;
+TE-P6-FUN-LIB;Tecno;Phantom 6;Funda;Libro;3,70;;;
+TE-P6-FUN-ANT;Tecno;Phantom 6;Funda;Antigolpes;3,10;;;
+TE-P6PL-PRO-NA;Tecno;Phantom 6 Plus;Cristal templado;Estándar;1,30;;;
+TE-P6PL-PRO-NA-FG;Tecno;Phantom 6 Plus;Cristal templado;UV full glue;4,15;;;
+TE-P6PL-PRO-PRI;Tecno;Phantom 6 Plus;Cristal templado;Privacidad;4,00;;;
+TE-P6PL-FUN-SIL;Tecno;Phantom 6 Plus;Funda;Silicona;2,50;;;
+TE-P6PL-FUN-TPU;Tecno;Phantom 6 Plus;Funda;Transparente;2,95;;;
+TE-P6PL-FUN-LIB;Tecno;Phantom 6 Plus;Funda;Libro;3,70;;;
+TE-P6PL-FUN-ANT;Tecno;Phantom 6 Plus;Funda;Antigolpes;3,10;;;
+TE-S4AIR-PRO-NA;Tecno;Spark 4 Air;Cristal templado;Estándar;1,30;;;
+TE-S4AIR-PRO-PRI;Tecno;Spark 4 Air;Cristal templado;Privacidad;4,00;;;
+TE-S4AIR-FUN-SIL;Tecno;Spark 4 Air;Funda;Silicona;2,50;;;
+TE-S4AIR-FUN-TPU;Tecno;Spark 4 Air;Funda;Transparente;2,95;;;
+TE-S4AIR-FUN-LIB;Tecno;Spark 4 Air;Funda;Libro;3,70;;;
+TE-S4AIR-FUN-ANT;Tecno;Spark 4 Air;Funda;Antigolpes;3,10;;;
+TE-S4L-PRO-NA;Tecno;Spark 4 Lite;Cristal templado;Estándar;1,30;;;
+TE-S4L-PRO-PRI;Tecno;Spark 4 Lite;Cristal templado;Privacidad;4,00;;;
+TE-S4L-FUN-SIL;Tecno;Spark 4 Lite;Funda;Silicona;2,50;;;
+TE-S4L-FUN-TPU;Tecno;Spark 4 Lite;Funda;Transparente;2,95;;;
+TE-S4L-FUN-LIB;Tecno;Spark 4 Lite;Funda;Libro;3,70;;;
+TE-S4L-FUN-ANT;Tecno;Spark 4 Lite;Funda;Antigolpes;3,10;;;
+TE-C11S-PRO-NA;Tecno;Camon 11S;Cristal templado;Estándar;1,30;;;
+TE-C11S-PRO-PRI;Tecno;Camon 11S;Cristal templado;Privacidad;4,00;;;
+TE-C11S-FUN-SIL;Tecno;Camon 11S;Funda;Silicona;2,50;;;
+TE-C11S-FUN-TPU;Tecno;Camon 11S;Funda;Transparente;2,95;;;
+TE-C11S-FUN-LIB;Tecno;Camon 11S;Funda;Libro;3,70;;;
+TE-C11S-FUN-ANT;Tecno;Camon 11S;Funda;Antigolpes;3,10;;;
+TE-CAMON16P-PRO-NA;Tecno;Camon 16 Pro;Cristal templado;Estándar;1,30;;;
+TE-CAMON16P-PRO-PRI;Tecno;Camon 16 Pro;Cristal templado;Privacidad;4,00;;;
+TE-CAMON16P-FUN-SIL;Tecno;Camon 16 Pro;Funda;Silicona;2,50;;;
+TE-CAMON16P-FUN-TPU;Tecno;Camon 16 Pro;Funda;Transparente;2,95;;;
+TE-CAMON16P-FUN-LIB;Tecno;Camon 16 Pro;Funda;Libro;3,70;;;
+TE-CAMON16P-FUN-ANT;Tecno;Camon 16 Pro;Funda;Antigolpes;3,10;;;
+TE-C17P-PRO-NA;Tecno;Camon 17 Pro;Cristal templado;Estándar;1,30;;;
+TE-C17P-PRO-PRI;Tecno;Camon 17 Pro;Cristal templado;Privacidad;4,00;;;
+TE-C17P-FUN-SIL;Tecno;Camon 17 Pro;Funda;Silicona;2,50;;;
+TE-C17P-FUN-TPU;Tecno;Camon 17 Pro;Funda;Transparente;2,95;;;
+TE-C17P-FUN-LIB;Tecno;Camon 17 Pro;Funda;Libro;3,70;;;
+TE-C17P-FUN-ANT;Tecno;Camon 17 Pro;Funda;Antigolpes;3,10;;;
+TE-C19NEO-PRO-NA;Tecno;Camon 19 Neo;Cristal templado;Estándar;1,30;;;
+TE-C19NEO-PRO-PRI;Tecno;Camon 19 Neo;Cristal templado;Privacidad;4,00;;;
+TE-C19NEO-FUN-SIL;Tecno;Camon 19 Neo;Funda;Silicona;2,50;;;
+TE-C19NEO-FUN-TPU;Tecno;Camon 19 Neo;Funda;Transparente;2,95;;;
+TE-C19NEO-FUN-LIB;Tecno;Camon 19 Neo;Funda;Libro;3,70;;;
+TE-C19NEO-FUN-ANT;Tecno;Camon 19 Neo;Funda;Antigolpes;3,10;;;
+TE-C19P-PRO-NA;Tecno;Camon 19 Pro;Cristal templado;Estándar;1,30;;;
+TE-C19P-PRO-PRI;Tecno;Camon 19 Pro;Cristal templado;Privacidad;4,00;;;
+TE-C19P-FUN-SIL;Tecno;Camon 19 Pro;Funda;Silicona;2,50;;;
+TE-C19P-FUN-TPU;Tecno;Camon 19 Pro;Funda;Transparente;2,95;;;
+TE-C19P-FUN-LIB;Tecno;Camon 19 Pro;Funda;Libro;3,70;;;
+TE-C19P-FUN-ANT;Tecno;Camon 19 Pro;Funda;Antigolpes;3,10;;;
+TE-C19P5-PRO-NA;Tecno;Camon 19 Pro 5G;Cristal templado;Estándar;1,30;;;
+TE-C19P5-PRO-PRI;Tecno;Camon 19 Pro 5G;Cristal templado;Privacidad;4,00;;;
+TE-C19P5-FUN-SIL;Tecno;Camon 19 Pro 5G;Funda;Silicona;2,50;;;
+TE-C19P5-FUN-TPU;Tecno;Camon 19 Pro 5G;Funda;Transparente;2,95;;;
+TE-C19P5-FUN-LIB;Tecno;Camon 19 Pro 5G;Funda;Libro;3,70;;;
+TE-C19P5-FUN-ANT;Tecno;Camon 19 Pro 5G;Funda;Antigolpes;3,10;;;
+TE-C20P-PRO-NA;Tecno;Camon 20 Pro;Cristal templado;Estándar;1,30;;;
+TE-C20P-PRO-PRI;Tecno;Camon 20 Pro;Cristal templado;Privacidad;4,00;;;
+TE-C20P-FUN-SIL;Tecno;Camon 20 Pro;Funda;Silicona;2,50;;;
+TE-C20P-FUN-TPU;Tecno;Camon 20 Pro;Funda;Transparente;2,95;;;
+TE-C20P-FUN-LIB;Tecno;Camon 20 Pro;Funda;Libro;3,70;;;
+TE-C20P-FUN-ANT;Tecno;Camon 20 Pro;Funda;Antigolpes;3,10;;;
+TE-C20P5-PRO-NA;Tecno;Camon 20 Pro 5G;Cristal templado;Estándar;1,30;;;
+TE-C20P5-PRO-PRI;Tecno;Camon 20 Pro 5G;Cristal templado;Privacidad;4,00;;;
+TE-C20P5-FUN-SIL;Tecno;Camon 20 Pro 5G;Funda;Silicona;2,50;;;
+TE-C20P5-FUN-TPU;Tecno;Camon 20 Pro 5G;Funda;Transparente;2,95;;;
+TE-C20P5-FUN-LIB;Tecno;Camon 20 Pro 5G;Funda;Libro;3,70;;;
+TE-C20P5-FUN-ANT;Tecno;Camon 20 Pro 5G;Funda;Antigolpes;3,10;;;
+TE-C50P-PRO-NA;Tecno;Camon 50 Pro;Cristal templado;Estándar;1,30;;;
+TE-C50P-PRO-PRI;Tecno;Camon 50 Pro;Cristal templado;Privacidad;4,00;;;
+TE-C50P-FUN-SIL;Tecno;Camon 50 Pro;Funda;Silicona;2,50;;;
+TE-C50P-FUN-TPU;Tecno;Camon 50 Pro;Funda;Transparente;2,95;;;
+TE-C50P-FUN-LIB;Tecno;Camon 50 Pro;Funda;Libro;3,70;;;
+TE-C50P-FUN-ANT;Tecno;Camon 50 Pro;Funda;Antigolpes;3,10;;;
+TE-C50P5-PRO-NA;Tecno;Camon 50 Pro 5G;Cristal templado;Estándar;1,30;;;
+TE-C50P5-PRO-PRI;Tecno;Camon 50 Pro 5G;Cristal templado;Privacidad;4,00;;;
+TE-C50P5-FUN-SIL;Tecno;Camon 50 Pro 5G;Funda;Silicona;2,50;;;
+TE-C50P5-FUN-TPU;Tecno;Camon 50 Pro 5G;Funda;Transparente;2,95;;;
+TE-C50P5-FUN-LIB;Tecno;Camon 50 Pro 5G;Funda;Libro;3,70;;;
+TE-C50P5-FUN-ANT;Tecno;Camon 50 Pro 5G;Funda;Antigolpes;3,10;;;
+TE-C50U5-PRO-NA;Tecno;Camon 50 Ultra 5G;Cristal templado;Estándar;1,30;;;
+TE-C50U5-PRO-PRI;Tecno;Camon 50 Ultra 5G;Cristal templado;Privacidad;4,00;;;
+TE-C50U5-FUN-SIL;Tecno;Camon 50 Ultra 5G;Funda;Silicona;2,50;;;
+TE-C50U5-FUN-TPU;Tecno;Camon 50 Ultra 5G;Funda;Transparente;2,95;;;
+TE-C50U5-FUN-LIB;Tecno;Camon 50 Ultra 5G;Funda;Libro;3,70;;;
+TE-C50U5-FUN-ANT;Tecno;Camon 50 Ultra 5G;Funda;Antigolpes;3,10;;;
+TE-CI2X-PRO-NA;Tecno;Camon iACE 2x;Cristal templado;Estándar;1,30;;;
+TE-CI2X-PRO-PRI;Tecno;Camon iACE 2x;Cristal templado;Privacidad;4,00;;;
+TE-CI2X-FUN-SIL;Tecno;Camon iACE 2x;Funda;Silicona;2,50;;;
+TE-CI2X-FUN-TPU;Tecno;Camon iACE 2x;Funda;Transparente;2,95;;;
+TE-CI2X-FUN-LIB;Tecno;Camon iACE 2x;Funda;Libro;3,70;;;
+TE-CI2X-FUN-ANT;Tecno;Camon iACE 2x;Funda;Antigolpes;3,10;;;
+TE-PX2P5-PRO-NA;Tecno;Phantom X2 Pro 5G;Cristal templado;Estándar;1,30;;;
+TE-PX2P5-PRO-NA-FG;Tecno;Phantom X2 Pro 5G;Cristal templado;UV full glue;4,15;;;
+TE-PX2P5-PRO-PRI;Tecno;Phantom X2 Pro 5G;Cristal templado;Privacidad;4,00;;;
+TE-PX2P5-FUN-SIL;Tecno;Phantom X2 Pro 5G;Funda;Silicona;2,50;;;
+TE-PX2P5-FUN-TPU;Tecno;Phantom X2 Pro 5G;Funda;Transparente;2,95;;;
+TE-PX2P5-FUN-LIB;Tecno;Phantom X2 Pro 5G;Funda;Libro;3,70;;;
+TE-PX2P5-FUN-ANT;Tecno;Phantom X2 Pro 5G;Funda;Antigolpes;3,10;;;
+TE-P6S-PRO-NA;Tecno;Phantom6S;Cristal templado;Estándar;1,30;;;
+TE-P6S-PRO-NA-FG;Tecno;Phantom6S;Cristal templado;UV full glue;4,15;;;
+TE-P6S-PRO-PRI;Tecno;Phantom6S;Cristal templado;Privacidad;4,00;;;
+TE-P6S-FUN-SIL;Tecno;Phantom6S;Funda;Silicona;2,50;;;
+TE-P6S-FUN-TPU;Tecno;Phantom6S;Funda;Transparente;2,95;;;
+TE-P6S-FUN-LIB;Tecno;Phantom6S;Funda;Libro;3,70;;;
+TE-P6S-FUN-ANT;Tecno;Phantom6S;Funda;Antigolpes;3,10;;;
+TE-P8S-PRO-NA;Tecno;Phantom8S;Cristal templado;Estándar;1,30;;;
+TE-P8S-PRO-NA-FG;Tecno;Phantom8S;Cristal templado;UV full glue;4,15;;;
+TE-P8S-PRO-PRI;Tecno;Phantom8S;Cristal templado;Privacidad;4,00;;;
+TE-P8S-FUN-SIL;Tecno;Phantom8S;Funda;Silicona;2,50;;;
+TE-P8S-FUN-TPU;Tecno;Phantom8S;Funda;Transparente;2,95;;;
+TE-P8S-FUN-LIB;Tecno;Phantom8S;Funda;Libro;3,70;;;
+TE-P8S-FUN-ANT;Tecno;Phantom8S;Funda;Antigolpes;3,10;;;
+TE-S10P-PRO-NA;Tecno;Spark 10 Pro;Cristal templado;Estándar;1,30;;;
+TE-S10P-PRO-PRI;Tecno;Spark 10 Pro;Cristal templado;Privacidad;4,00;;;
+TE-S10P-FUN-SIL;Tecno;Spark 10 Pro;Funda;Silicona;2,50;;;
+TE-S10P-FUN-TPU;Tecno;Spark 10 Pro;Funda;Transparente;2,95;;;
+TE-S10P-FUN-LIB;Tecno;Spark 10 Pro;Funda;Libro;3,70;;;
+TE-S10P-FUN-ANT;Tecno;Spark 10 Pro;Funda;Antigolpes;3,10;;;
+TE-S40P-PRO-NA;Tecno;Spark 40 Pro;Cristal templado;Estándar;1,30;;;
+TE-S40P-PRO-PRI;Tecno;Spark 40 Pro;Cristal templado;Privacidad;4,00;;;
+TE-S40P-FUN-SIL;Tecno;Spark 40 Pro;Funda;Silicona;2,50;;;
+TE-S40P-FUN-TPU;Tecno;Spark 40 Pro;Funda;Transparente;2,95;;;
+TE-S40P-FUN-LIB;Tecno;Spark 40 Pro;Funda;Libro;3,70;;;
+TE-S40P-FUN-ANT;Tecno;Spark 40 Pro;Funda;Antigolpes;3,10;;;
+TE-S40PPL-PRO-NA;Tecno;Spark 40 Pro+;Cristal templado;Estándar;1,30;;;
+TE-S40PPL-PRO-PRI;Tecno;Spark 40 Pro+;Cristal templado;Privacidad;4,00;;;
+TE-S40PPL-FUN-SIL;Tecno;Spark 40 Pro+;Funda;Silicona;2,50;;;
+TE-S40PPL-FUN-TPU;Tecno;Spark 40 Pro+;Funda;Transparente;2,95;;;
+TE-S40PPL-FUN-LIB;Tecno;Spark 40 Pro+;Funda;Libro;3,70;;;
+TE-S40PPL-FUN-ANT;Tecno;Spark 40 Pro+;Funda;Antigolpes;3,10;;;
+TE-S6GO-PRO-NA;Tecno;Spark 6 Go;Cristal templado;Estándar;1,30;;;
+TE-S6GO-PRO-PRI;Tecno;Spark 6 Go;Cristal templado;Privacidad;4,00;;;
+TE-S6GO-FUN-SIL;Tecno;Spark 6 Go;Funda;Silicona;2,50;;;
+TE-S6GO-FUN-TPU;Tecno;Spark 6 Go;Funda;Transparente;2,95;;;
+TE-S6GO-FUN-LIB;Tecno;Spark 6 Go;Funda;Libro;3,70;;;
+TE-S6GO-FUN-ANT;Tecno;Spark 6 Go;Funda;Antigolpes;3,10;;;
+TE-SPARK8PR-PRO-NA;Tecno;Spark 8 Pro;Cristal templado;Estándar;1,30;;;
+TE-SPARK8PR-PRO-PRI;Tecno;Spark 8 Pro;Cristal templado;Privacidad;4,00;;;
+TE-SPARK8PR-FUN-SIL;Tecno;Spark 8 Pro;Funda;Silicona;2,50;;;
+TE-SPARK8PR-FUN-TPU;Tecno;Spark 8 Pro;Funda;Transparente;2,95;;;
+TE-SPARK8PR-FUN-LIB;Tecno;Spark 8 Pro;Funda;Libro;3,70;;;
+TE-SPARK8PR-FUN-ANT;Tecno;Spark 8 Pro;Funda;Antigolpes;3,10;;;
+TE-S9P-PRO-NA;Tecno;Spark 9 Pro;Cristal templado;Estándar;1,30;;;
+TE-S9P-PRO-PRI;Tecno;Spark 9 Pro;Cristal templado;Privacidad;4,00;;;
+TE-S9P-FUN-SIL;Tecno;Spark 9 Pro;Funda;Silicona;2,50;;;
+TE-S9P-FUN-TPU;Tecno;Spark 9 Pro;Funda;Transparente;2,95;;;
+TE-S9P-FUN-LIB;Tecno;Spark 9 Pro;Funda;Libro;3,70;;;
+TE-S9P-FUN-ANT;Tecno;Spark 9 Pro;Funda;Antigolpes;3,10;;;
+TE-C50-MAR-COM;Tecno;Camon 50;Marco / chasis;Compatible;7,90;;;6
+TE-C50-BOT-COM;Tecno;Camon 50;Botones laterales;Compatible;4,05;;;6
+TE-C50-CRI-COM;Tecno;Camon 50;Cristal de pantalla;Compatible;4,05;;;6
+TE-C50-ANT-COM;Tecno;Camon 50;Antena / coaxial;Compatible;3,50;;;6
+TE-C50-HUE-COM;Tecno;Camon 50;Botón home / huella;Compatible;5,85;;;6
+TE-S40C-MAR-COM;Tecno;Spark 40C;Marco / chasis;Compatible;6,89;;;6
+TE-S40C-BOT-COM;Tecno;Spark 40C;Botones laterales;Compatible;3,55;;;6
+TE-S40C-CRI-COM;Tecno;Spark 40C;Cristal de pantalla;Compatible;3,50;;;6
+TE-S40C-ANT-COM;Tecno;Spark 40C;Antena / coaxial;Compatible;3,05;;;6
+TE-S40C-HUE-COM;Tecno;Spark 40C;Botón home / huella;Compatible;5,09;;;6
+TE-S40-MAR-COM;Tecno;Spark 40;Marco / chasis;Compatible;6,89;;;6
+TE-S40-BOT-COM;Tecno;Spark 40;Botones laterales;Compatible;3,55;;;6
+TE-S40-CRI-COM;Tecno;Spark 40;Cristal de pantalla;Compatible;3,50;;;6
+TE-S40-ANT-COM;Tecno;Spark 40;Antena / coaxial;Compatible;3,05;;;6
+TE-S40-HUE-COM;Tecno;Spark 40;Botón home / huella;Compatible;5,09;;;6
+TE-S20P5-MAR-COM;Tecno;Spark 20 Pro 5G;Marco / chasis;Compatible;6,89;;;6
+TE-S20P5-BOT-COM;Tecno;Spark 20 Pro 5G;Botones laterales;Compatible;3,55;;;6
+TE-S20P5-CRI-COM;Tecno;Spark 20 Pro 5G;Cristal de pantalla;Compatible;3,50;;;6
+TE-S20P5-ANT-COM;Tecno;Spark 20 Pro 5G;Antena / coaxial;Compatible;3,05;;;6
+TE-S20P5-HUE-COM;Tecno;Spark 20 Pro 5G;Botón home / huella;Compatible;5,09;;;6
+TE-SPARK20P-MAR-COM;Tecno;Spark 20P;Marco / chasis;Compatible;6,89;;;6
+TE-SPARK20P-BOT-COM;Tecno;Spark 20P;Botones laterales;Compatible;3,55;;;6
+TE-SPARK20P-CRI-COM;Tecno;Spark 20P;Cristal de pantalla;Compatible;3,50;;;6
+TE-SPARK20P-ANT-COM;Tecno;Spark 20P;Antena / coaxial;Compatible;3,05;;;6
+TE-SPARK20P-HUE-COM;Tecno;Spark 20P;Botón home / huella;Compatible;5,09;;;6
+TE-P6P-MAR-COM;Tecno;Pova 6 Pro;Marco / chasis;Compatible;7,90;;;6
+TE-P6P-BOT-COM;Tecno;Pova 6 Pro;Botones laterales;Compatible;4,05;;;6
+TE-P6P-CRI-COM;Tecno;Pova 6 Pro;Cristal de pantalla;Compatible;4,05;;;6
+TE-P6P-ANT-COM;Tecno;Pova 6 Pro;Antena / coaxial;Compatible;3,50;;;6
+TE-P6P-HUE-COM;Tecno;Pova 6 Pro;Botón home / huella;Compatible;5,85;;;6
+TE-S20-MAR-COM;Tecno;Spark 20;Marco / chasis;Compatible;6,25;;;6
+TE-S20-BOT-COM;Tecno;Spark 20;Botones laterales;Compatible;3,20;;;6
+TE-S20-CRI-COM;Tecno;Spark 20;Cristal de pantalla;Compatible;3,20;;;6
+TE-S20-ANT-COM;Tecno;Spark 20;Antena / coaxial;Compatible;2,79;;;6
+TE-S20-HUE-COM;Tecno;Spark 20;Botón home / huella;Compatible;4,60;;;6
+TE-S20P-MAR-COM;Tecno;Spark 20 Pro;Marco / chasis;Compatible;6,25;;;6
+TE-S20P-BOT-COM;Tecno;Spark 20 Pro;Botones laterales;Compatible;3,20;;;6
+TE-S20P-CRI-COM;Tecno;Spark 20 Pro;Cristal de pantalla;Compatible;3,20;;;6
+TE-S20P-ANT-COM;Tecno;Spark 20 Pro;Antena / coaxial;Compatible;2,79;;;6
+TE-S20P-HUE-COM;Tecno;Spark 20 Pro;Botón home / huella;Compatible;4,60;;;6
+TE-S20PPL-MAR-COM;Tecno;Spark 20 Pro+;Marco / chasis;Compatible;6,25;;;6
+TE-S20PPL-BOT-COM;Tecno;Spark 20 Pro+;Botones laterales;Compatible;3,20;;;6
+TE-S20PPL-CRI-COM;Tecno;Spark 20 Pro+;Cristal de pantalla;Compatible;3,20;;;6
+TE-S20PPL-ANT-COM;Tecno;Spark 20 Pro+;Antena / coaxial;Compatible;2,79;;;6
+TE-S20PPL-HUE-COM;Tecno;Spark 20 Pro+;Botón home / huella;Compatible;4,60;;;6
+TE-S20C-MAR-COM;Tecno;Spark 20C;Marco / chasis;Compatible;6,25;;;6
+TE-S20C-BOT-COM;Tecno;Spark 20C;Botones laterales;Compatible;3,20;;;6
+TE-S20C-CRI-COM;Tecno;Spark 20C;Cristal de pantalla;Compatible;3,20;;;6
+TE-S20C-ANT-COM;Tecno;Spark 20C;Antena / coaxial;Compatible;2,79;;;6
+TE-S20C-HUE-COM;Tecno;Spark 20C;Botón home / huella;Compatible;4,60;;;6
+TE-PVFL-ANT-COM;Tecno;Phantom V Flip;Antena / coaxial;Compatible;6,09;;;6
+TE-PVFL-HUE-COM;Tecno;Phantom V Flip;Botón home / huella;Compatible;10,10;9,80;9,49;6
+TE-PVFL-NFC-COM;Tecno;Phantom V Flip;NFC y carga inalámbrica;Compatible;13,60;13,19;12,78;6
+TE-C20-MAR-COM;Tecno;Camon 20;Marco / chasis;Compatible;7,20;;;6
+TE-C20-BOT-COM;Tecno;Camon 20;Botones laterales;Compatible;3,70;;;6
+TE-C20-CRI-COM;Tecno;Camon 20;Cristal de pantalla;Compatible;3,69;;;6
+TE-C20-ANT-COM;Tecno;Camon 20;Antena / coaxial;Compatible;3,20;;;6
+TE-C20-HUE-COM;Tecno;Camon 20;Botón home / huella;Compatible;5,30;;;6
+TE-PVF-ANT-COM;Tecno;Phantom V Fold;Antena / coaxial;Compatible;7,85;;;6
+TE-PVF-HUE-COM;Tecno;Phantom V Fold;Botón home / huella;Compatible;13,00;12,61;12,22;6
+TE-PVF-NFC-COM;Tecno;Phantom V Fold;NFC y carga inalámbrica;Compatible;17,49;16,97;16,44;6
+TE-S10-MAR-COM;Tecno;Spark 10;Marco / chasis;Compatible;6,25;;;6
+TE-S10-BOT-COM;Tecno;Spark 10;Botones laterales;Compatible;3,20;;;6
+TE-S10-CRI-COM;Tecno;Spark 10;Cristal de pantalla;Compatible;3,20;;;6
+TE-S10-ANT-COM;Tecno;Spark 10;Antena / coaxial;Compatible;2,79;;;6
+TE-S10-HUE-COM;Tecno;Spark 10;Botón home / huella;Compatible;4,60;;;6
+TE-PX2-MAR-COM;Tecno;Phantom X2;Marco / chasis;Compatible;9,79;;;6
+TE-PX2-BOT-COM;Tecno;Phantom X2;Botones laterales;Compatible;5,00;;;6
+TE-PX2-CRI-COM;Tecno;Phantom X2;Cristal de pantalla;Compatible;5,00;;;6
+TE-PX2-ANT-COM;Tecno;Phantom X2;Antena / coaxial;Compatible;4,35;;;6
+TE-PX2-HUE-COM;Tecno;Phantom X2;Botón home / huella;Compatible;7,25;;;6
+TE-PX2-NFC-COM;Tecno;Phantom X2;NFC y carga inalámbrica;Compatible;9,70;;;6
+TE-C19-MAR-COM;Tecno;Camon 19;Marco / chasis;Compatible;7,20;;;6
+TE-C19-BOT-COM;Tecno;Camon 19;Botones laterales;Compatible;3,70;;;6
+TE-C19-CRI-COM;Tecno;Camon 19;Cristal de pantalla;Compatible;3,69;;;6
+TE-C19-ANT-COM;Tecno;Camon 19;Antena / coaxial;Compatible;3,20;;;6
+TE-C19-HUE-COM;Tecno;Camon 19;Botón home / huella;Compatible;5,30;;;6
+TE-S9-MAR-COM;Tecno;Spark 9;Marco / chasis;Compatible;6,25;;;6
+TE-S9-BOT-COM;Tecno;Spark 9;Botones laterales;Compatible;3,20;;;6
+TE-S9-CRI-COM;Tecno;Spark 9;Cristal de pantalla;Compatible;3,20;;;6
+TE-S9-ANT-COM;Tecno;Spark 9;Antena / coaxial;Compatible;2,79;;;6
+TE-S9-HUE-COM;Tecno;Spark 9;Botón home / huella;Compatible;4,60;;;6
+TE-C18-MAR-COM;Tecno;Camon 18;Marco / chasis;Compatible;7,20;;;6
+TE-C18-BOT-COM;Tecno;Camon 18;Botones laterales;Compatible;3,70;;;6
+TE-C18-CRI-COM;Tecno;Camon 18;Cristal de pantalla;Compatible;3,69;;;6
+TE-C18-ANT-COM;Tecno;Camon 18;Antena / coaxial;Compatible;3,20;;;6
+TE-C18-HUE-COM;Tecno;Camon 18;Botón home / huella;Compatible;5,30;;;6
+TE-S8-MAR-COM;Tecno;Spark 8;Marco / chasis;Compatible;6,25;;;6
+TE-S8-BOT-COM;Tecno;Spark 8;Botones laterales;Compatible;3,20;;;6
+TE-S8-CRI-COM;Tecno;Spark 8;Cristal de pantalla;Compatible;3,20;;;6
+TE-S8-ANT-COM;Tecno;Spark 8;Antena / coaxial;Compatible;2,79;;;6
+TE-S8-HUE-COM;Tecno;Spark 8;Botón home / huella;Compatible;4,60;;;6
+TE-PX-MAR-COM;Tecno;Phantom X;Marco / chasis;Compatible;9,79;;;6
+TE-PX-BOT-COM;Tecno;Phantom X;Botones laterales;Compatible;5,00;;;6
+TE-PX-CRI-COM;Tecno;Phantom X;Cristal de pantalla;Compatible;5,00;;;6
+TE-PX-ANT-COM;Tecno;Phantom X;Antena / coaxial;Compatible;4,35;;;6
+TE-PX-HUE-COM;Tecno;Phantom X;Botón home / huella;Compatible;7,25;;;6
+TE-PX-NFC-COM;Tecno;Phantom X;NFC y carga inalámbrica;Compatible;9,70;;;6
+TE-C17-MAR-COM;Tecno;Camon 17;Marco / chasis;Compatible;7,20;;;6
+TE-C17-BOT-COM;Tecno;Camon 17;Botones laterales;Compatible;3,70;;;6
+TE-C17-CRI-COM;Tecno;Camon 17;Cristal de pantalla;Compatible;3,69;;;6
+TE-C17-ANT-COM;Tecno;Camon 17;Antena / coaxial;Compatible;3,20;;;6
+TE-C17-HUE-COM;Tecno;Camon 17;Botón home / huella;Compatible;5,30;;;6
+TE-C16-MAR-COM;Tecno;Camon 16;Marco / chasis;Compatible;7,20;;;6
+TE-C16-BOT-COM;Tecno;Camon 16;Botones laterales;Compatible;3,70;;;6
+TE-C16-CRI-COM;Tecno;Camon 16;Cristal de pantalla;Compatible;3,69;;;6
+TE-C16-ANT-COM;Tecno;Camon 16;Antena / coaxial;Compatible;3,20;;;6
+TE-C16-HUE-COM;Tecno;Camon 16;Botón home / huella;Compatible;5,30;;;6
+TE-P-MAR-COM;Tecno;Pova;Marco / chasis;Compatible;7,20;;;6
+TE-P-BOT-COM;Tecno;Pova;Botones laterales;Compatible;3,70;;;6
+TE-P-CRI-COM;Tecno;Pova;Cristal de pantalla;Compatible;3,69;;;6
+TE-P-ANT-COM;Tecno;Pova;Antena / coaxial;Compatible;3,20;;;6
+TE-P-HUE-COM;Tecno;Pova;Botón home / huella;Compatible;5,30;;;6
+TE-C16P-MAR-COM;Tecno;Camon 16 Premier;Marco / chasis;Compatible;7,20;;;6
+TE-C16P-BOT-COM;Tecno;Camon 16 Premier;Botones laterales;Compatible;3,70;;;6
+TE-C16P-CRI-COM;Tecno;Camon 16 Premier;Cristal de pantalla;Compatible;3,69;;;6
+TE-C16P-ANT-COM;Tecno;Camon 16 Premier;Antena / coaxial;Compatible;3,20;;;6
+TE-C16P-HUE-COM;Tecno;Camon 16 Premier;Botón home / huella;Compatible;5,30;;;6
+TE-S6-MAR-COM;Tecno;Spark 6;Marco / chasis;Compatible;6,25;;;6
+TE-S6-BOT-COM;Tecno;Spark 6;Botones laterales;Compatible;3,20;;;6
+TE-S6-CRI-COM;Tecno;Spark 6;Cristal de pantalla;Compatible;3,20;;;6
+TE-S6-ANT-COM;Tecno;Spark 6;Antena / coaxial;Compatible;2,79;;;6
+TE-S6-HUE-COM;Tecno;Spark 6;Botón home / huella;Compatible;4,60;;;6
+TE-S6AIR-MAR-COM;Tecno;Spark 6 Air;Marco / chasis;Compatible;6,25;;;6
+TE-S6AIR-BOT-COM;Tecno;Spark 6 Air;Botones laterales;Compatible;3,20;;;6
+TE-S6AIR-CRI-COM;Tecno;Spark 6 Air;Cristal de pantalla;Compatible;3,20;;;6
+TE-S6AIR-ANT-COM;Tecno;Spark 6 Air;Antena / coaxial;Compatible;2,79;;;6
+TE-S6AIR-HUE-COM;Tecno;Spark 6 Air;Botón home / huella;Compatible;4,60;;;6
+TE-P4-MAR-COM;Tecno;Pouvoir 4;Marco / chasis;Compatible;6,25;;;6
+TE-P4-BOT-COM;Tecno;Pouvoir 4;Botones laterales;Compatible;3,20;;;6
+TE-P4-CRI-COM;Tecno;Pouvoir 4;Cristal de pantalla;Compatible;3,20;;;6
+TE-P4-ANT-COM;Tecno;Pouvoir 4;Antena / coaxial;Compatible;2,79;;;6
+TE-P4-HUE-COM;Tecno;Pouvoir 4;Botón home / huella;Compatible;4,60;;;6
+TE-P4P-MAR-COM;Tecno;Pouvoir 4 Pro;Marco / chasis;Compatible;6,25;;;6
+TE-P4P-BOT-COM;Tecno;Pouvoir 4 Pro;Botones laterales;Compatible;3,20;;;6
+TE-P4P-CRI-COM;Tecno;Pouvoir 4 Pro;Cristal de pantalla;Compatible;3,20;;;6
+TE-P4P-ANT-COM;Tecno;Pouvoir 4 Pro;Antena / coaxial;Compatible;2,79;;;6
+TE-P4P-HUE-COM;Tecno;Pouvoir 4 Pro;Botón home / huella;Compatible;4,60;;;6
+TE-SPW2-MAR-COM;Tecno;Spark Power 2;Marco / chasis;Compatible;6,25;;;6
+TE-SPW2-BOT-COM;Tecno;Spark Power 2;Botones laterales;Compatible;3,20;;;6
+TE-SPW2-CRI-COM;Tecno;Spark Power 2;Cristal de pantalla;Compatible;3,20;;;6
+TE-SPW2-ANT-COM;Tecno;Spark Power 2;Antena / coaxial;Compatible;2,79;;;6
+TE-SPW2-HUE-COM;Tecno;Spark Power 2;Botón home / huella;Compatible;4,60;;;6
+TE-S5-MAR-COM;Tecno;Spark 5;Marco / chasis;Compatible;6,25;;;6
+TE-S5-BOT-COM;Tecno;Spark 5;Botones laterales;Compatible;3,20;;;6
+TE-S5-CRI-COM;Tecno;Spark 5;Cristal de pantalla;Compatible;3,20;;;6
+TE-S5-ANT-COM;Tecno;Spark 5;Antena / coaxial;Compatible;2,79;;;6
+TE-S5-HUE-COM;Tecno;Spark 5;Botón home / huella;Compatible;4,60;;;6
+TE-S5AIR-MAR-COM;Tecno;Spark 5 Air;Marco / chasis;Compatible;6,25;;;6
+TE-S5AIR-BOT-COM;Tecno;Spark 5 Air;Botones laterales;Compatible;3,20;;;6
+TE-S5AIR-CRI-COM;Tecno;Spark 5 Air;Cristal de pantalla;Compatible;3,20;;;6
+TE-S5AIR-ANT-COM;Tecno;Spark 5 Air;Antena / coaxial;Compatible;2,79;;;6
+TE-S5AIR-HUE-COM;Tecno;Spark 5 Air;Botón home / huella;Compatible;4,60;;;6
+TE-S5P-MAR-COM;Tecno;Spark 5 Pro;Marco / chasis;Compatible;6,25;;;6
+TE-S5P-BOT-COM;Tecno;Spark 5 Pro;Botones laterales;Compatible;3,20;;;6
+TE-S5P-CRI-COM;Tecno;Spark 5 Pro;Cristal de pantalla;Compatible;3,20;;;6
+TE-S5P-ANT-COM;Tecno;Spark 5 Pro;Antena / coaxial;Compatible;2,79;;;6
+TE-S5P-HUE-COM;Tecno;Spark 5 Pro;Botón home / huella;Compatible;4,60;;;6
+TE-C15-MAR-COM;Tecno;Camon 15;Marco / chasis;Compatible;7,20;;;6
+TE-C15-BOT-COM;Tecno;Camon 15;Botones laterales;Compatible;3,70;;;6
+TE-C15-CRI-COM;Tecno;Camon 15;Cristal de pantalla;Compatible;3,69;;;6
+TE-C15-ANT-COM;Tecno;Camon 15;Antena / coaxial;Compatible;3,20;;;6
+TE-C15-HUE-COM;Tecno;Camon 15;Botón home / huella;Compatible;5,30;;;6
+TE-C15AIR-MAR-COM;Tecno;Camon 15 Air;Marco / chasis;Compatible;7,20;;;6
+TE-C15AIR-BOT-COM;Tecno;Camon 15 Air;Botones laterales;Compatible;3,70;;;6
+TE-C15AIR-CRI-COM;Tecno;Camon 15 Air;Cristal de pantalla;Compatible;3,69;;;6
+TE-C15AIR-ANT-COM;Tecno;Camon 15 Air;Antena / coaxial;Compatible;3,20;;;6
+TE-C15AIR-HUE-COM;Tecno;Camon 15 Air;Botón home / huella;Compatible;5,30;;;6
+TE-C15P-MAR-COM;Tecno;Camon 15 Pro;Marco / chasis;Compatible;7,20;;;6
+TE-C15P-BOT-COM;Tecno;Camon 15 Pro;Botones laterales;Compatible;3,70;;;6
+TE-C15P-CRI-COM;Tecno;Camon 15 Pro;Cristal de pantalla;Compatible;3,69;;;6
+TE-C15P-ANT-COM;Tecno;Camon 15 Pro;Antena / coaxial;Compatible;3,20;;;6
+TE-C15P-HUE-COM;Tecno;Camon 15 Pro;Botón home / huella;Compatible;5,30;;;6
+TE-C12AIR-MAR-COM;Tecno;Camon 12 Air;Marco / chasis;Compatible;6,49;;;6
+TE-C12AIR-BOT-COM;Tecno;Camon 12 Air;Botones laterales;Compatible;3,35;;;6
+TE-C12AIR-CRI-COM;Tecno;Camon 12 Air;Cristal de pantalla;Compatible;3,30;;;6
+TE-C12AIR-ANT-COM;Tecno;Camon 12 Air;Antena / coaxial;Compatible;2,89;;;6
+TE-C12AIR-HUE-COM;Tecno;Camon 12 Air;Botón home / huella;Compatible;4,79;;;6
+TE-C12-MAR-COM;Tecno;Camon 12;Marco / chasis;Compatible;6,49;;;6
+TE-C12-BOT-COM;Tecno;Camon 12;Botones laterales;Compatible;3,35;;;6
+TE-C12-CRI-COM;Tecno;Camon 12;Cristal de pantalla;Compatible;3,30;;;6
+TE-C12-ANT-COM;Tecno;Camon 12;Antena / coaxial;Compatible;2,89;;;6
+TE-C12-HUE-COM;Tecno;Camon 12;Botón home / huella;Compatible;4,79;;;6
+TE-C12P-MAR-COM;Tecno;Camon 12 Pro;Marco / chasis;Compatible;6,49;;;6
+TE-C12P-BOT-COM;Tecno;Camon 12 Pro;Botones laterales;Compatible;3,35;;;6
+TE-C12P-CRI-COM;Tecno;Camon 12 Pro;Cristal de pantalla;Compatible;3,30;;;6
+TE-C12P-ANT-COM;Tecno;Camon 12 Pro;Antena / coaxial;Compatible;2,89;;;6
+TE-C12P-HUE-COM;Tecno;Camon 12 Pro;Botón home / huella;Compatible;4,79;;;6
+TE-S4-MAR-COM;Tecno;Spark 4;Marco / chasis;Compatible;5,65;;;6
+TE-S4-BOT-COM;Tecno;Spark 4;Botones laterales;Compatible;2,89;;;6
+TE-S4-CRI-COM;Tecno;Spark 4;Cristal de pantalla;Compatible;2,89;;;6
+TE-S4-ANT-COM;Tecno;Spark 4;Antena / coaxial;Compatible;2,50;;;6
+TE-S4-HUE-COM;Tecno;Spark 4;Botón home / huella;Compatible;4,15;;;6
+TE-SGO-MAR-COM;Tecno;Spark Go;Marco / chasis;Compatible;5,65;;;6
+TE-SGO-BOT-COM;Tecno;Spark Go;Botones laterales;Compatible;2,89;;;6
+TE-SGO-CRI-COM;Tecno;Spark Go;Cristal de pantalla;Compatible;2,89;;;6
+TE-SGO-ANT-COM;Tecno;Spark Go;Antena / coaxial;Compatible;2,50;;;6
+TE-SGO-HUE-COM;Tecno;Spark Go;Botón home / huella;Compatible;4,15;;;6
+TE-P9-MAR-COM;Tecno;Phantom 9;Marco / chasis;Compatible;8,80;;;6
+TE-P9-BOT-COM;Tecno;Phantom 9;Botones laterales;Compatible;4,50;;;6
+TE-P9-CRI-COM;Tecno;Phantom 9;Cristal de pantalla;Compatible;4,50;;;6
+TE-P9-ANT-COM;Tecno;Phantom 9;Antena / coaxial;Compatible;3,90;;;6
+TE-P9-HUE-COM;Tecno;Phantom 9;Botón home / huella;Compatible;6,50;;;6
+TE-P9-NFC-COM;Tecno;Phantom 9;NFC y carga inalámbrica;Compatible;8,75;;;6
+TE-S3-MAR-COM;Tecno;Spark 3;Marco / chasis;Compatible;5,65;;;6
+TE-S3-BOT-COM;Tecno;Spark 3;Botones laterales;Compatible;2,89;;;6
+TE-S3-CRI-COM;Tecno;Spark 3;Cristal de pantalla;Compatible;2,89;;;6
+TE-S3-ANT-COM;Tecno;Spark 3;Antena / coaxial;Compatible;2,50;;;6
+TE-S3-HUE-COM;Tecno;Spark 3;Botón home / huella;Compatible;4,15;;;6
+TE-S3P-MAR-COM;Tecno;Spark 3 Pro;Marco / chasis;Compatible;5,65;;;6
+TE-S3P-BOT-COM;Tecno;Spark 3 Pro;Botones laterales;Compatible;2,89;;;6
+TE-S3P-CRI-COM;Tecno;Spark 3 Pro;Cristal de pantalla;Compatible;2,89;;;6
+TE-S3P-ANT-COM;Tecno;Spark 3 Pro;Antena / coaxial;Compatible;2,50;;;6
+TE-S3P-HUE-COM;Tecno;Spark 3 Pro;Botón home / huella;Compatible;4,15;;;6
+TE-CI2-MAR-COM;Tecno;Camon iACE2;Marco / chasis;Compatible;6,49;;;6
+TE-CI2-BOT-COM;Tecno;Camon iACE2;Botones laterales;Compatible;3,35;;;6
+TE-CI2-CRI-COM;Tecno;Camon iACE2;Cristal de pantalla;Compatible;3,30;;;6
+TE-CI2-ANT-COM;Tecno;Camon iACE2;Antena / coaxial;Compatible;2,89;;;6
+TE-CI2-HUE-COM;Tecno;Camon iACE2;Botón home / huella;Compatible;4,79;;;6
+TE-C11-MAR-COM;Tecno;Camon 11;Marco / chasis;Compatible;6,49;;;6
+TE-C11-BOT-COM;Tecno;Camon 11;Botones laterales;Compatible;3,35;;;6
+TE-C11-CRI-COM;Tecno;Camon 11;Cristal de pantalla;Compatible;3,30;;;6
+TE-C11-ANT-COM;Tecno;Camon 11;Antena / coaxial;Compatible;2,89;;;6
+TE-C11-HUE-COM;Tecno;Camon 11;Botón home / huella;Compatible;4,79;;;6
+TE-C11P-MAR-COM;Tecno;Camon 11 Pro;Marco / chasis;Compatible;6,49;;;6
+TE-C11P-BOT-COM;Tecno;Camon 11 Pro;Botones laterales;Compatible;3,35;;;6
+TE-C11P-CRI-COM;Tecno;Camon 11 Pro;Cristal de pantalla;Compatible;3,30;;;6
+TE-C11P-ANT-COM;Tecno;Camon 11 Pro;Antena / coaxial;Compatible;2,89;;;6
+TE-C11P-HUE-COM;Tecno;Camon 11 Pro;Botón home / huella;Compatible;4,79;;;6
+TE-S2-MAR-COM;Tecno;Spark 2;Marco / chasis;Compatible;5,65;;;6
+TE-S2-BOT-COM;Tecno;Spark 2;Botones laterales;Compatible;2,89;;;6
+TE-S2-CRI-COM;Tecno;Spark 2;Cristal de pantalla;Compatible;2,89;;;6
+TE-S2-ANT-COM;Tecno;Spark 2;Antena / coaxial;Compatible;2,50;;;6
+TE-S2-HUE-COM;Tecno;Spark 2;Botón home / huella;Compatible;4,15;;;6
+TE-CX-MAR-COM;Tecno;Camon X;Marco / chasis;Compatible;6,49;;;6
+TE-CX-BOT-COM;Tecno;Camon X;Botones laterales;Compatible;3,35;;;6
+TE-CX-CRI-COM;Tecno;Camon X;Cristal de pantalla;Compatible;3,30;;;6
+TE-CX-ANT-COM;Tecno;Camon X;Antena / coaxial;Compatible;2,89;;;6
+TE-CX-HUE-COM;Tecno;Camon X;Botón home / huella;Compatible;4,79;;;6
+TE-CXP-MAR-COM;Tecno;Camon X Pro;Marco / chasis;Compatible;6,49;;;6
+TE-CXP-BOT-COM;Tecno;Camon X Pro;Botones laterales;Compatible;3,35;;;6
+TE-CXP-CRI-COM;Tecno;Camon X Pro;Cristal de pantalla;Compatible;3,30;;;6
+TE-CXP-ANT-COM;Tecno;Camon X Pro;Antena / coaxial;Compatible;2,89;;;6
+TE-CXP-HUE-COM;Tecno;Camon X Pro;Botón home / huella;Compatible;4,79;;;6
+TE-CCM-MAR-COM;Tecno;Camon CM;Marco / chasis;Compatible;6,49;;;6
+TE-CCM-BOT-COM;Tecno;Camon CM;Botones laterales;Compatible;3,35;;;6
+TE-CCM-CRI-COM;Tecno;Camon CM;Cristal de pantalla;Compatible;3,30;;;6
+TE-CCM-ANT-COM;Tecno;Camon CM;Antena / coaxial;Compatible;2,89;;;6
+TE-CCM-HUE-COM;Tecno;Camon CM;Botón home / huella;Compatible;4,79;;;6
+TE-SCM-MAR-COM;Tecno;Spark CM;Marco / chasis;Compatible;5,65;;;6
+TE-SCM-BOT-COM;Tecno;Spark CM;Botones laterales;Compatible;2,89;;;6
+TE-SCM-CRI-COM;Tecno;Spark CM;Cristal de pantalla;Compatible;2,89;;;6
+TE-SCM-ANT-COM;Tecno;Spark CM;Antena / coaxial;Compatible;2,50;;;6
+TE-SCM-HUE-COM;Tecno;Spark CM;Botón home / huella;Compatible;4,15;;;6
+TE-SP-MAR-COM;Tecno;Spark Pro;Marco / chasis;Compatible;5,65;;;6
+TE-SP-BOT-COM;Tecno;Spark Pro;Botones laterales;Compatible;2,89;;;6
+TE-SP-CRI-COM;Tecno;Spark Pro;Cristal de pantalla;Compatible;2,89;;;6
+TE-SP-ANT-COM;Tecno;Spark Pro;Antena / coaxial;Compatible;2,50;;;6
+TE-SP-HUE-COM;Tecno;Spark Pro;Botón home / huella;Compatible;4,15;;;6
+TE-P8-MAR-COM;Tecno;Phantom 8;Marco / chasis;Compatible;8,80;;;6
+TE-P8-BOT-COM;Tecno;Phantom 8;Botones laterales;Compatible;4,50;;;6
+TE-P8-CRI-COM;Tecno;Phantom 8;Cristal de pantalla;Compatible;4,50;;;6
+TE-P8-ANT-COM;Tecno;Phantom 8;Antena / coaxial;Compatible;3,90;;;6
+TE-P8-HUE-COM;Tecno;Phantom 8;Botón home / huella;Compatible;6,50;;;6
+TE-SPL-MAR-COM;Tecno;Spark Plus;Marco / chasis;Compatible;5,65;;;6
+TE-SPL-BOT-COM;Tecno;Spark Plus;Botones laterales;Compatible;2,89;;;6
+TE-SPL-CRI-COM;Tecno;Spark Plus;Cristal de pantalla;Compatible;2,89;;;6
+TE-SPL-ANT-COM;Tecno;Spark Plus;Antena / coaxial;Compatible;2,50;;;6
+TE-SPL-HUE-COM;Tecno;Spark Plus;Botón home / huella;Compatible;4,15;;;6
+TE-S-MAR-COM;Tecno;Spark;Marco / chasis;Compatible;5,65;;;6
+TE-S-BOT-COM;Tecno;Spark;Botones laterales;Compatible;2,89;;;6
+TE-S-CRI-COM;Tecno;Spark;Cristal de pantalla;Compatible;2,89;;;6
+TE-S-ANT-COM;Tecno;Spark;Antena / coaxial;Compatible;2,50;;;6
+TE-S-HUE-COM;Tecno;Spark;Botón home / huella;Compatible;4,15;;;6
+TE-CCXAIR-MAR-COM;Tecno;Camon CX Air;Marco / chasis;Compatible;6,49;;;6
+TE-CCXAIR-BOT-COM;Tecno;Camon CX Air;Botones laterales;Compatible;3,35;;;6
+TE-CCXAIR-CRI-COM;Tecno;Camon CX Air;Cristal de pantalla;Compatible;3,30;;;6
+TE-CCXAIR-ANT-COM;Tecno;Camon CX Air;Antena / coaxial;Compatible;2,89;;;6
+TE-CCXAIR-HUE-COM;Tecno;Camon CX Air;Botón home / huella;Compatible;4,79;;;6
+TE-CCX-MAR-COM;Tecno;Camon CX;Marco / chasis;Compatible;6,49;;;6
+TE-CCX-BOT-COM;Tecno;Camon CX;Botones laterales;Compatible;3,35;;;6
+TE-CCX-CRI-COM;Tecno;Camon CX;Cristal de pantalla;Compatible;3,30;;;6
+TE-CCX-ANT-COM;Tecno;Camon CX;Antena / coaxial;Compatible;2,89;;;6
+TE-CCX-HUE-COM;Tecno;Camon CX;Botón home / huella;Compatible;4,79;;;6
+TE-P6-MAR-COM;Tecno;Phantom 6;Marco / chasis;Compatible;7,85;;;6
+TE-P6-BOT-COM;Tecno;Phantom 6;Botones laterales;Compatible;4,00;;;6
+TE-P6-CRI-COM;Tecno;Phantom 6;Cristal de pantalla;Compatible;4,00;;;6
+TE-P6-ANT-COM;Tecno;Phantom 6;Antena / coaxial;Compatible;3,49;;;6
+TE-P6-HUE-COM;Tecno;Phantom 6;Botón home / huella;Compatible;5,79;;;6
+TE-P6PL-MAR-COM;Tecno;Phantom 6 Plus;Marco / chasis;Compatible;7,85;;;6
+TE-P6PL-BOT-COM;Tecno;Phantom 6 Plus;Botones laterales;Compatible;4,00;;;6
+TE-P6PL-CRI-COM;Tecno;Phantom 6 Plus;Cristal de pantalla;Compatible;4,00;;;6
+TE-P6PL-ANT-COM;Tecno;Phantom 6 Plus;Antena / coaxial;Compatible;3,49;;;6
+TE-P6PL-HUE-COM;Tecno;Phantom 6 Plus;Botón home / huella;Compatible;5,79;;;6
+TE-S4AIR-MAR-COM;Tecno;Spark 4 Air;Marco / chasis;Compatible;5,00;;;6
+TE-S4AIR-BOT-COM;Tecno;Spark 4 Air;Botones laterales;Compatible;2,55;;;6
+TE-S4AIR-CRI-COM;Tecno;Spark 4 Air;Cristal de pantalla;Compatible;2,55;;;6
+TE-S4AIR-ANT-COM;Tecno;Spark 4 Air;Antena / coaxial;Compatible;2,25;;;6
+TE-S4AIR-HUE-COM;Tecno;Spark 4 Air;Botón home / huella;Compatible;3,70;;;6
+TE-S4L-MAR-COM;Tecno;Spark 4 Lite;Marco / chasis;Compatible;5,00;;;6
+TE-S4L-BOT-COM;Tecno;Spark 4 Lite;Botones laterales;Compatible;2,55;;;6
+TE-S4L-CRI-COM;Tecno;Spark 4 Lite;Cristal de pantalla;Compatible;2,55;;;6
+TE-S4L-ANT-COM;Tecno;Spark 4 Lite;Antena / coaxial;Compatible;2,25;;;6
+TE-S4L-HUE-COM;Tecno;Spark 4 Lite;Botón home / huella;Compatible;3,70;;;6
+TE-C11S-MAR-COM;Tecno;Camon 11S;Marco / chasis;Compatible;6,49;;;6
+TE-C11S-BOT-COM;Tecno;Camon 11S;Botones laterales;Compatible;3,35;;;6
+TE-C11S-CRI-COM;Tecno;Camon 11S;Cristal de pantalla;Compatible;3,30;;;6
+TE-C11S-ANT-COM;Tecno;Camon 11S;Antena / coaxial;Compatible;2,89;;;6
+TE-C11S-HUE-COM;Tecno;Camon 11S;Botón home / huella;Compatible;4,79;;;6
+TE-CAMON16P-MAR-COM;Tecno;Camon 16 Pro;Marco / chasis;Compatible;7,20;;;6
+TE-CAMON16P-BOT-COM;Tecno;Camon 16 Pro;Botones laterales;Compatible;3,70;;;6
+TE-CAMON16P-CRI-COM;Tecno;Camon 16 Pro;Cristal de pantalla;Compatible;3,69;;;6
+TE-CAMON16P-ANT-COM;Tecno;Camon 16 Pro;Antena / coaxial;Compatible;3,20;;;6
+TE-CAMON16P-HUE-COM;Tecno;Camon 16 Pro;Botón home / huella;Compatible;5,30;;;6
+TE-C17P-MAR-COM;Tecno;Camon 17 Pro;Marco / chasis;Compatible;7,20;;;6
+TE-C17P-BOT-COM;Tecno;Camon 17 Pro;Botones laterales;Compatible;3,70;;;6
+TE-C17P-CRI-COM;Tecno;Camon 17 Pro;Cristal de pantalla;Compatible;3,69;;;6
+TE-C17P-ANT-COM;Tecno;Camon 17 Pro;Antena / coaxial;Compatible;3,20;;;6
+TE-C17P-HUE-COM;Tecno;Camon 17 Pro;Botón home / huella;Compatible;5,30;;;6
+TE-C19NEO-MAR-COM;Tecno;Camon 19 Neo;Marco / chasis;Compatible;7,20;;;6
+TE-C19NEO-BOT-COM;Tecno;Camon 19 Neo;Botones laterales;Compatible;3,70;;;6
+TE-C19NEO-CRI-COM;Tecno;Camon 19 Neo;Cristal de pantalla;Compatible;3,69;;;6
+TE-C19NEO-ANT-COM;Tecno;Camon 19 Neo;Antena / coaxial;Compatible;3,20;;;6
+TE-C19NEO-HUE-COM;Tecno;Camon 19 Neo;Botón home / huella;Compatible;5,30;;;6
+TE-C19P-MAR-COM;Tecno;Camon 19 Pro;Marco / chasis;Compatible;7,20;;;6
+TE-C19P-BOT-COM;Tecno;Camon 19 Pro;Botones laterales;Compatible;3,70;;;6
+TE-C19P-CRI-COM;Tecno;Camon 19 Pro;Cristal de pantalla;Compatible;3,69;;;6
+TE-C19P-ANT-COM;Tecno;Camon 19 Pro;Antena / coaxial;Compatible;3,20;;;6
+TE-C19P-HUE-COM;Tecno;Camon 19 Pro;Botón home / huella;Compatible;5,30;;;6
+TE-C19P5-MAR-COM;Tecno;Camon 19 Pro 5G;Marco / chasis;Compatible;7,20;;;6
+TE-C19P5-BOT-COM;Tecno;Camon 19 Pro 5G;Botones laterales;Compatible;3,70;;;6
+TE-C19P5-CRI-COM;Tecno;Camon 19 Pro 5G;Cristal de pantalla;Compatible;3,69;;;6
+TE-C19P5-ANT-COM;Tecno;Camon 19 Pro 5G;Antena / coaxial;Compatible;3,20;;;6
+TE-C19P5-HUE-COM;Tecno;Camon 19 Pro 5G;Botón home / huella;Compatible;5,30;;;6
+TE-C20P-MAR-COM;Tecno;Camon 20 Pro;Marco / chasis;Compatible;7,20;;;6
+TE-C20P-BOT-COM;Tecno;Camon 20 Pro;Botones laterales;Compatible;3,70;;;6
+TE-C20P-CRI-COM;Tecno;Camon 20 Pro;Cristal de pantalla;Compatible;3,69;;;6
+TE-C20P-ANT-COM;Tecno;Camon 20 Pro;Antena / coaxial;Compatible;3,20;;;6
+TE-C20P-HUE-COM;Tecno;Camon 20 Pro;Botón home / huella;Compatible;5,30;;;6
+TE-C20P5-MAR-COM;Tecno;Camon 20 Pro 5G;Marco / chasis;Compatible;7,20;;;6
+TE-C20P5-BOT-COM;Tecno;Camon 20 Pro 5G;Botones laterales;Compatible;3,70;;;6
+TE-C20P5-CRI-COM;Tecno;Camon 20 Pro 5G;Cristal de pantalla;Compatible;3,69;;;6
+TE-C20P5-ANT-COM;Tecno;Camon 20 Pro 5G;Antena / coaxial;Compatible;3,20;;;6
+TE-C20P5-HUE-COM;Tecno;Camon 20 Pro 5G;Botón home / huella;Compatible;5,30;;;6
+TE-C50P-MAR-COM;Tecno;Camon 50 Pro;Marco / chasis;Compatible;7,90;;;6
+TE-C50P-BOT-COM;Tecno;Camon 50 Pro;Botones laterales;Compatible;4,05;;;6
+TE-C50P-CRI-COM;Tecno;Camon 50 Pro;Cristal de pantalla;Compatible;4,05;;;6
+TE-C50P-ANT-COM;Tecno;Camon 50 Pro;Antena / coaxial;Compatible;3,50;;;6
+TE-C50P-HUE-COM;Tecno;Camon 50 Pro;Botón home / huella;Compatible;5,85;;;6
+TE-C50P5-MAR-COM;Tecno;Camon 50 Pro 5G;Marco / chasis;Compatible;7,90;;;6
+TE-C50P5-BOT-COM;Tecno;Camon 50 Pro 5G;Botones laterales;Compatible;4,05;;;6
+TE-C50P5-CRI-COM;Tecno;Camon 50 Pro 5G;Cristal de pantalla;Compatible;4,05;;;6
+TE-C50P5-ANT-COM;Tecno;Camon 50 Pro 5G;Antena / coaxial;Compatible;3,50;;;6
+TE-C50P5-HUE-COM;Tecno;Camon 50 Pro 5G;Botón home / huella;Compatible;5,85;;;6
+TE-C50U5-MAR-COM;Tecno;Camon 50 Ultra 5G;Marco / chasis;Compatible;7,90;;;6
+TE-C50U5-BOT-COM;Tecno;Camon 50 Ultra 5G;Botones laterales;Compatible;4,05;;;6
+TE-C50U5-CRI-COM;Tecno;Camon 50 Ultra 5G;Cristal de pantalla;Compatible;4,05;;;6
+TE-C50U5-ANT-COM;Tecno;Camon 50 Ultra 5G;Antena / coaxial;Compatible;3,50;;;6
+TE-C50U5-HUE-COM;Tecno;Camon 50 Ultra 5G;Botón home / huella;Compatible;5,85;;;6
+TE-CI2X-MAR-COM;Tecno;Camon iACE 2x;Marco / chasis;Compatible;6,49;;;6
+TE-CI2X-BOT-COM;Tecno;Camon iACE 2x;Botones laterales;Compatible;3,35;;;6
+TE-CI2X-CRI-COM;Tecno;Camon iACE 2x;Cristal de pantalla;Compatible;3,30;;;6
+TE-CI2X-ANT-COM;Tecno;Camon iACE 2x;Antena / coaxial;Compatible;2,89;;;6
+TE-CI2X-HUE-COM;Tecno;Camon iACE 2x;Botón home / huella;Compatible;4,79;;;6
+TE-PX2P5-MAR-COM;Tecno;Phantom X2 Pro 5G;Marco / chasis;Compatible;9,79;;;6
+TE-PX2P5-BOT-COM;Tecno;Phantom X2 Pro 5G;Botones laterales;Compatible;5,00;;;6
+TE-PX2P5-CRI-COM;Tecno;Phantom X2 Pro 5G;Cristal de pantalla;Compatible;5,00;;;6
+TE-PX2P5-ANT-COM;Tecno;Phantom X2 Pro 5G;Antena / coaxial;Compatible;4,35;;;6
+TE-PX2P5-HUE-COM;Tecno;Phantom X2 Pro 5G;Botón home / huella;Compatible;7,25;;;6
+TE-PX2P5-NFC-COM;Tecno;Phantom X2 Pro 5G;NFC y carga inalámbrica;Compatible;9,70;;;6
+TE-P6S-MAR-COM;Tecno;Phantom6S;Marco / chasis;Compatible;7,85;;;6
+TE-P6S-BOT-COM;Tecno;Phantom6S;Botones laterales;Compatible;4,00;;;6
+TE-P6S-CRI-COM;Tecno;Phantom6S;Cristal de pantalla;Compatible;4,00;;;6
+TE-P6S-ANT-COM;Tecno;Phantom6S;Antena / coaxial;Compatible;3,49;;;6
+TE-P6S-HUE-COM;Tecno;Phantom6S;Botón home / huella;Compatible;5,79;;;6
+TE-P8S-MAR-COM;Tecno;Phantom8S;Marco / chasis;Compatible;8,80;;;6
+TE-P8S-BOT-COM;Tecno;Phantom8S;Botones laterales;Compatible;4,50;;;6
+TE-P8S-CRI-COM;Tecno;Phantom8S;Cristal de pantalla;Compatible;4,50;;;6
+TE-P8S-ANT-COM;Tecno;Phantom8S;Antena / coaxial;Compatible;3,90;;;6
+TE-P8S-HUE-COM;Tecno;Phantom8S;Botón home / huella;Compatible;6,50;;;6
+TE-S10P-MAR-COM;Tecno;Spark 10 Pro;Marco / chasis;Compatible;6,25;;;6
+TE-S10P-BOT-COM;Tecno;Spark 10 Pro;Botones laterales;Compatible;3,20;;;6
+TE-S10P-CRI-COM;Tecno;Spark 10 Pro;Cristal de pantalla;Compatible;3,20;;;6
+TE-S10P-ANT-COM;Tecno;Spark 10 Pro;Antena / coaxial;Compatible;2,79;;;6
+TE-S10P-HUE-COM;Tecno;Spark 10 Pro;Botón home / huella;Compatible;4,60;;;6
+TE-S40P-MAR-COM;Tecno;Spark 40 Pro;Marco / chasis;Compatible;6,89;;;6
+TE-S40P-BOT-COM;Tecno;Spark 40 Pro;Botones laterales;Compatible;3,55;;;6
+TE-S40P-CRI-COM;Tecno;Spark 40 Pro;Cristal de pantalla;Compatible;3,50;;;6
+TE-S40P-ANT-COM;Tecno;Spark 40 Pro;Antena / coaxial;Compatible;3,05;;;6
+TE-S40P-HUE-COM;Tecno;Spark 40 Pro;Botón home / huella;Compatible;5,09;;;6
+TE-S40PPL-MAR-COM;Tecno;Spark 40 Pro+;Marco / chasis;Compatible;6,89;;;6
+TE-S40PPL-BOT-COM;Tecno;Spark 40 Pro+;Botones laterales;Compatible;3,55;;;6
+TE-S40PPL-CRI-COM;Tecno;Spark 40 Pro+;Cristal de pantalla;Compatible;3,50;;;6
+TE-S40PPL-ANT-COM;Tecno;Spark 40 Pro+;Antena / coaxial;Compatible;3,05;;;6
+TE-S40PPL-HUE-COM;Tecno;Spark 40 Pro+;Botón home / huella;Compatible;5,09;;;6
+TE-S6GO-MAR-COM;Tecno;Spark 6 Go;Marco / chasis;Compatible;6,25;;;6
+TE-S6GO-BOT-COM;Tecno;Spark 6 Go;Botones laterales;Compatible;3,20;;;6
+TE-S6GO-CRI-COM;Tecno;Spark 6 Go;Cristal de pantalla;Compatible;3,20;;;6
+TE-S6GO-ANT-COM;Tecno;Spark 6 Go;Antena / coaxial;Compatible;2,79;;;6
+TE-S6GO-HUE-COM;Tecno;Spark 6 Go;Botón home / huella;Compatible;4,60;;;6
+TE-SPARK8PR-MAR-COM;Tecno;Spark 8 Pro;Marco / chasis;Compatible;6,25;;;6
+TE-SPARK8PR-BOT-COM;Tecno;Spark 8 Pro;Botones laterales;Compatible;3,20;;;6
+TE-SPARK8PR-CRI-COM;Tecno;Spark 8 Pro;Cristal de pantalla;Compatible;3,20;;;6
+TE-SPARK8PR-ANT-COM;Tecno;Spark 8 Pro;Antena / coaxial;Compatible;2,79;;;6
+TE-SPARK8PR-HUE-COM;Tecno;Spark 8 Pro;Botón home / huella;Compatible;4,60;;;6
+TE-S9P-MAR-COM;Tecno;Spark 9 Pro;Marco / chasis;Compatible;6,25;;;6
+TE-S9P-BOT-COM;Tecno;Spark 9 Pro;Botones laterales;Compatible;3,20;;;6
+TE-S9P-CRI-COM;Tecno;Spark 9 Pro;Cristal de pantalla;Compatible;3,20;;;6
+TE-S9P-ANT-COM;Tecno;Spark 9 Pro;Antena / coaxial;Compatible;2,79;;;6
+TE-S9P-HUE-COM;Tecno;Spark 9 Pro;Botón home / huella;Compatible;4,60;;;6

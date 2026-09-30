@@ -1,0 +1,23 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+SI-S6M-PAN-INC;SHIFT;Shift6m;Pantalla;Incell;17,69;17,16;16,63;6
+SI-S6M-BAT-COM;SHIFT;Shift6m;Batería;Compatible;9,65;;;6
+SI-S6M-CON-COM;SHIFT;Shift6m;Conector de carga;Compatible;4,60;;;6
+SI-S6M-TAP-COM;SHIFT;Shift6m;Tapa trasera;Compatible;5,40;;;6
+SI-S6M-CTR-COM;SHIFT;Shift6m;Cámara trasera;Compatible;7,59;;;6
+SI-S6M-CFR-COM;SHIFT;Shift6m;Cámara frontal;Compatible;4,99;;;6
+SI-S6M-LEN-COM;SHIFT;Shift6m;Lente de cámara;Compatible;2,19;;;6
+SI-S6M-ALT-COM;SHIFT;Shift6m;Altavoz;Compatible;3,65;;;6
+SI-S6M-AUR-COM;SHIFT;Shift6m;Auricular de llamada;Compatible;2,65;;;6
+SI-S6M-FLX-COM;SHIFT;Shift6m;Flex de encendido y volumen;Compatible;2,49;;;6
+SI-S6M-SIM-COM;SHIFT;Shift6m;Bandeja SIM;Compatible;2,55;;;6
+SI-S6M-PRO-NA;SHIFT;Shift6m;Cristal templado;Estándar;1,30;;;
+SI-S6M-PRO-PRI;SHIFT;Shift6m;Cristal templado;Privacidad;4,00;;;
+SI-S6M-FUN-SIL;SHIFT;Shift6m;Funda;Silicona;2,50;;;
+SI-S6M-FUN-TPU;SHIFT;Shift6m;Funda;Transparente;2,95;;;
+SI-S6M-FUN-LIB;SHIFT;Shift6m;Funda;Libro;3,70;;;
+SI-S6M-FUN-ANT;SHIFT;Shift6m;Funda;Antigolpes;3,10;;;
+SI-S6M-MAR-COM;SHIFT;Shift6m;Marco / chasis;Compatible;6,49;;;6
+SI-S6M-BOT-COM;SHIFT;Shift6m;Botones laterales;Compatible;3,35;;;6
+SI-S6M-CRI-COM;SHIFT;Shift6m;Cristal de pantalla;Compatible;3,30;;;6
+SI-S6M-ANT-COM;SHIFT;Shift6m;Antena / coaxial;Compatible;2,89;;;6
+SI-S6M-HUE-COM;SHIFT;Shift6m;Botón home / huella;Compatible;4,79;;;6

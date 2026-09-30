@@ -1,0 +1,855 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+DG-B20M-PAN-COM;Doogee;Blade20 Max;Pantalla;Compatible;15,45;14,99;14,52;6
+DG-B20M-BAT-COM;Doogee;Blade20 Max;Batería;Compatible;8,20;;;6
+DG-B20M-CON-COM;Doogee;Blade20 Max;Conector de carga;Compatible;4,85;;;6
+DG-B20M-TAP-COM;Doogee;Blade20 Max;Tapa trasera;Compatible;5,95;;;6
+DG-B20M-CTR-COM;Doogee;Blade20 Max;Cámara trasera;Compatible;10,45;10,14;9,82;6
+DG-B20M-CFR-COM;Doogee;Blade20 Max;Cámara frontal;Compatible;7,00;;;6
+DG-B20M-LEN-COM;Doogee;Blade20 Max;Lente de cámara;Compatible;3,05;;;6
+DG-B20M-ALT-COM;Doogee;Blade20 Max;Altavoz;Compatible;4,65;;;6
+DG-B20M-AUR-COM;Doogee;Blade20 Max;Auricular de llamada;Compatible;3,75;;;6
+DG-B20M-FLX-COM;Doogee;Blade20 Max;Flex de encendido y volumen;Compatible;3,10;;;6
+DG-B20M-SIM-COM;Doogee;Blade20 Max;Bandeja SIM;Compatible;3,19;;;6
+DG-B20PY-PAN-COM;Doogee;Blade20 Play;Pantalla;Compatible;15,45;14,99;14,52;6
+DG-B20PY-BAT-COM;Doogee;Blade20 Play;Batería;Compatible;8,20;;;6
+DG-B20PY-CON-COM;Doogee;Blade20 Play;Conector de carga;Compatible;4,85;;;6
+DG-B20PY-TAP-COM;Doogee;Blade20 Play;Tapa trasera;Compatible;5,95;;;6
+DG-B20PY-CTR-COM;Doogee;Blade20 Play;Cámara trasera;Compatible;10,45;10,14;9,82;6
+DG-B20PY-CFR-COM;Doogee;Blade20 Play;Cámara frontal;Compatible;7,00;;;6
+DG-B20PY-LEN-COM;Doogee;Blade20 Play;Lente de cámara;Compatible;3,05;;;6
+DG-B20PY-ALT-COM;Doogee;Blade20 Play;Altavoz;Compatible;4,65;;;6
+DG-B20PY-AUR-COM;Doogee;Blade20 Play;Auricular de llamada;Compatible;3,75;;;6
+DG-B20PY-FLX-COM;Doogee;Blade20 Play;Flex de encendido y volumen;Compatible;3,10;;;6
+DG-B20PY-SIM-COM;Doogee;Blade20 Play;Bandeja SIM;Compatible;3,19;;;6
+DG-B20PL-PAN-COM;Doogee;Blade20 Plus;Pantalla;Compatible;15,45;14,99;14,52;6
+DG-B20PL-BAT-COM;Doogee;Blade20 Plus;Batería;Compatible;8,20;;;6
+DG-B20PL-CON-COM;Doogee;Blade20 Plus;Conector de carga;Compatible;4,85;;;6
+DG-B20PL-TAP-COM;Doogee;Blade20 Plus;Tapa trasera;Compatible;5,95;;;6
+DG-B20PL-CTR-COM;Doogee;Blade20 Plus;Cámara trasera;Compatible;10,45;10,14;9,82;6
+DG-B20PL-CFR-COM;Doogee;Blade20 Plus;Cámara frontal;Compatible;7,00;;;6
+DG-B20PL-LEN-COM;Doogee;Blade20 Plus;Lente de cámara;Compatible;3,05;;;6
+DG-B20PL-ALT-COM;Doogee;Blade20 Plus;Altavoz;Compatible;4,65;;;6
+DG-B20PL-AUR-COM;Doogee;Blade20 Plus;Auricular de llamada;Compatible;3,75;;;6
+DG-B20PL-FLX-COM;Doogee;Blade20 Plus;Flex de encendido y volumen;Compatible;3,10;;;6
+DG-B20PL-SIM-COM;Doogee;Blade20 Plus;Bandeja SIM;Compatible;3,19;;;6
+DG-B20P-PAN-COM;Doogee;Blade20 Pro;Pantalla;Compatible;15,45;14,99;14,52;6
+DG-B20P-BAT-COM;Doogee;Blade20 Pro;Batería;Compatible;8,20;;;6
+DG-B20P-CON-COM;Doogee;Blade20 Pro;Conector de carga;Compatible;4,85;;;6
+DG-B20P-TAP-COM;Doogee;Blade20 Pro;Tapa trasera;Compatible;5,95;;;6
+DG-B20P-CTR-COM;Doogee;Blade20 Pro;Cámara trasera;Compatible;10,45;10,14;9,82;6
+DG-B20P-CFR-COM;Doogee;Blade20 Pro;Cámara frontal;Compatible;7,00;;;6
+DG-B20P-LEN-COM;Doogee;Blade20 Pro;Lente de cámara;Compatible;3,05;;;6
+DG-B20P-ALT-COM;Doogee;Blade20 Pro;Altavoz;Compatible;4,65;;;6
+DG-B20P-AUR-COM;Doogee;Blade20 Pro;Auricular de llamada;Compatible;3,75;;;6
+DG-B20P-FLX-COM;Doogee;Blade20 Pro;Flex de encendido y volumen;Compatible;3,10;;;6
+DG-B20P-SIM-COM;Doogee;Blade20 Pro;Bandeja SIM;Compatible;3,19;;;6
+DG-B20PM-PAN-COM;Doogee;Blade20 Pro Max;Pantalla;Compatible;15,45;14,99;14,52;6
+DG-B20PM-BAT-COM;Doogee;Blade20 Pro Max;Batería;Compatible;8,20;;;6
+DG-B20PM-CON-COM;Doogee;Blade20 Pro Max;Conector de carga;Compatible;4,85;;;6
+DG-B20PM-TAP-COM;Doogee;Blade20 Pro Max;Tapa trasera;Compatible;5,95;;;6
+DG-B20PM-CTR-COM;Doogee;Blade20 Pro Max;Cámara trasera;Compatible;10,45;10,14;9,82;6
+DG-B20PM-CFR-COM;Doogee;Blade20 Pro Max;Cámara frontal;Compatible;7,00;;;6
+DG-B20PM-LEN-COM;Doogee;Blade20 Pro Max;Lente de cámara;Compatible;3,05;;;6
+DG-B20PM-ALT-COM;Doogee;Blade20 Pro Max;Altavoz;Compatible;4,65;;;6
+DG-B20PM-AUR-COM;Doogee;Blade20 Pro Max;Auricular de llamada;Compatible;3,75;;;6
+DG-B20PM-FLX-COM;Doogee;Blade20 Pro Max;Flex de encendido y volumen;Compatible;3,10;;;6
+DG-B20PM-SIM-COM;Doogee;Blade20 Pro Max;Bandeja SIM;Compatible;3,19;;;6
+DG-N50PL-PAN-COM;Doogee;N50 Plus;Pantalla;Compatible;14,69;14,25;13,81;6
+DG-N50PL-BAT-COM;Doogee;N50 Plus;Batería;Compatible;8,69;;;6
+DG-N50PL-CON-COM;Doogee;N50 Plus;Conector de carga;Compatible;4,05;;;6
+DG-N50PL-TAP-COM;Doogee;N50 Plus;Tapa trasera;Compatible;5,55;;;6
+DG-N50PL-CTR-COM;Doogee;N50 Plus;Cámara trasera;Compatible;7,60;;;6
+DG-N50PL-CFR-COM;Doogee;N50 Plus;Cámara frontal;Compatible;5,00;;;6
+DG-N50PL-LEN-COM;Doogee;N50 Plus;Lente de cámara;Compatible;2,35;;;6
+DG-N50PL-ALT-COM;Doogee;N50 Plus;Altavoz;Compatible;3,55;;;6
+DG-N50PL-AUR-COM;Doogee;N50 Plus;Auricular de llamada;Compatible;2,65;;;6
+DG-N50PL-FLX-COM;Doogee;N50 Plus;Flex de encendido y volumen;Compatible;2,85;;;6
+DG-N50PL-SIM-COM;Doogee;N50 Plus;Bandeja SIM;Compatible;2,69;;;6
+DG-N50P-PAN-COM;Doogee;N50 Pro;Pantalla;Compatible;14,69;14,25;13,81;6
+DG-N50P-BAT-COM;Doogee;N50 Pro;Batería;Compatible;8,69;;;6
+DG-N50P-CON-COM;Doogee;N50 Pro;Conector de carga;Compatible;4,05;;;6
+DG-N50P-TAP-COM;Doogee;N50 Pro;Tapa trasera;Compatible;5,55;;;6
+DG-N50P-CTR-COM;Doogee;N50 Pro;Cámara trasera;Compatible;7,60;;;6
+DG-N50P-CFR-COM;Doogee;N50 Pro;Cámara frontal;Compatible;5,00;;;6
+DG-N50P-LEN-COM;Doogee;N50 Pro;Lente de cámara;Compatible;2,35;;;6
+DG-N50P-ALT-COM;Doogee;N50 Pro;Altavoz;Compatible;3,55;;;6
+DG-N50P-AUR-COM;Doogee;N50 Pro;Auricular de llamada;Compatible;2,65;;;6
+DG-N50P-FLX-COM;Doogee;N50 Pro;Flex de encendido y volumen;Compatible;2,85;;;6
+DG-N50P-SIM-COM;Doogee;N50 Pro;Bandeja SIM;Compatible;2,69;;;6
+DG-N58P-PAN-COM;Doogee;Note 58 Pro;Pantalla;Compatible;15,45;14,99;14,52;6
+DG-N58P-BAT-COM;Doogee;Note 58 Pro;Batería;Compatible;8,20;;;6
+DG-N58P-CON-COM;Doogee;Note 58 Pro;Conector de carga;Compatible;4,85;;;6
+DG-N58P-TAP-COM;Doogee;Note 58 Pro;Tapa trasera;Compatible;5,95;;;6
+DG-N58P-CTR-COM;Doogee;Note 58 Pro;Cámara trasera;Compatible;10,45;10,14;9,82;6
+DG-N58P-CFR-COM;Doogee;Note 58 Pro;Cámara frontal;Compatible;7,00;;;6
+DG-N58P-LEN-COM;Doogee;Note 58 Pro;Lente de cámara;Compatible;3,05;;;6
+DG-N58P-ALT-COM;Doogee;Note 58 Pro;Altavoz;Compatible;4,65;;;6
+DG-N58P-AUR-COM;Doogee;Note 58 Pro;Auricular de llamada;Compatible;3,75;;;6
+DG-N58P-FLX-COM;Doogee;Note 58 Pro;Flex de encendido y volumen;Compatible;3,10;;;6
+DG-N58P-SIM-COM;Doogee;Note 58 Pro;Bandeja SIM;Compatible;3,19;;;6
+DG-N59P-PAN-COM;Doogee;Note 59 Pro;Pantalla;Compatible;15,45;14,99;14,52;6
+DG-N59P-BAT-COM;Doogee;Note 59 Pro;Batería;Compatible;8,20;;;6
+DG-N59P-CON-COM;Doogee;Note 59 Pro;Conector de carga;Compatible;4,85;;;6
+DG-N59P-TAP-COM;Doogee;Note 59 Pro;Tapa trasera;Compatible;5,95;;;6
+DG-N59P-CTR-COM;Doogee;Note 59 Pro;Cámara trasera;Compatible;10,45;10,14;9,82;6
+DG-N59P-CFR-COM;Doogee;Note 59 Pro;Cámara frontal;Compatible;7,00;;;6
+DG-N59P-LEN-COM;Doogee;Note 59 Pro;Lente de cámara;Compatible;3,05;;;6
+DG-N59P-ALT-COM;Doogee;Note 59 Pro;Altavoz;Compatible;4,65;;;6
+DG-N59P-AUR-COM;Doogee;Note 59 Pro;Auricular de llamada;Compatible;3,75;;;6
+DG-N59P-FLX-COM;Doogee;Note 59 Pro;Flex de encendido y volumen;Compatible;3,10;;;6
+DG-N59P-SIM-COM;Doogee;Note 59 Pro;Bandeja SIM;Compatible;3,19;;;6
+DG-N59PPL-PAN-COM;Doogee;Note 59 Pro+;Pantalla;Compatible;15,45;14,99;14,52;6
+DG-N59PPL-BAT-COM;Doogee;Note 59 Pro+;Batería;Compatible;8,20;;;6
+DG-N59PPL-CON-COM;Doogee;Note 59 Pro+;Conector de carga;Compatible;4,85;;;6
+DG-N59PPL-TAP-COM;Doogee;Note 59 Pro+;Tapa trasera;Compatible;5,95;;;6
+DG-N59PPL-CTR-COM;Doogee;Note 59 Pro+;Cámara trasera;Compatible;10,45;10,14;9,82;6
+DG-N59PPL-CFR-COM;Doogee;Note 59 Pro+;Cámara frontal;Compatible;7,00;;;6
+DG-N59PPL-LEN-COM;Doogee;Note 59 Pro+;Lente de cámara;Compatible;3,05;;;6
+DG-N59PPL-ALT-COM;Doogee;Note 59 Pro+;Altavoz;Compatible;4,65;;;6
+DG-N59PPL-AUR-COM;Doogee;Note 59 Pro+;Auricular de llamada;Compatible;3,75;;;6
+DG-N59PPL-FLX-COM;Doogee;Note 59 Pro+;Flex de encendido y volumen;Compatible;3,10;;;6
+DG-N59PPL-SIM-COM;Doogee;Note 59 Pro+;Bandeja SIM;Compatible;3,19;;;6
+DG-S200M-PAN-COM;Doogee;S200 Max;Pantalla;Compatible;17,15;16,64;16,12;6
+DG-S200M-BAT-COM;Doogee;S200 Max;Batería;Compatible;9,40;;;6
+DG-S200M-CON-COM;Doogee;S200 Max;Conector de carga;Compatible;5,05;;;6
+DG-S200M-TAP-COM;Doogee;S200 Max;Tapa trasera;Compatible;6,20;;;6
+DG-S200M-CTR-COM;Doogee;S200 Max;Cámara trasera;Compatible;8,65;;;6
+DG-S200M-CFR-COM;Doogee;S200 Max;Cámara frontal;Compatible;5,35;;;6
+DG-S200M-LEN-COM;Doogee;S200 Max;Lente de cámara;Compatible;2,30;;;6
+DG-S200M-ALT-COM;Doogee;S200 Max;Altavoz;Compatible;3,60;;;6
+DG-S200M-AUR-COM;Doogee;S200 Max;Auricular de llamada;Compatible;2,65;;;6
+DG-S200M-FLX-COM;Doogee;S200 Max;Flex de encendido y volumen;Compatible;2,79;;;6
+DG-S200M-SIM-COM;Doogee;S200 Max;Bandeja SIM;Compatible;2,55;;;6
+DG-S200P-PAN-COM;Doogee;S200 Pro;Pantalla;Compatible;17,15;16,64;16,12;6
+DG-S200P-BAT-COM;Doogee;S200 Pro;Batería;Compatible;9,40;;;6
+DG-S200P-CON-COM;Doogee;S200 Pro;Conector de carga;Compatible;5,05;;;6
+DG-S200P-TAP-COM;Doogee;S200 Pro;Tapa trasera;Compatible;6,20;;;6
+DG-S200P-CTR-COM;Doogee;S200 Pro;Cámara trasera;Compatible;8,65;;;6
+DG-S200P-CFR-COM;Doogee;S200 Pro;Cámara frontal;Compatible;5,35;;;6
+DG-S200P-LEN-COM;Doogee;S200 Pro;Lente de cámara;Compatible;2,30;;;6
+DG-S200P-ALT-COM;Doogee;S200 Pro;Altavoz;Compatible;3,60;;;6
+DG-S200P-AUR-COM;Doogee;S200 Pro;Auricular de llamada;Compatible;2,65;;;6
+DG-S200P-FLX-COM;Doogee;S200 Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+DG-S200P-SIM-COM;Doogee;S200 Pro;Bandeja SIM;Compatible;2,55;;;6
+DG-S200U-PAN-COM;Doogee;S200 Ultra;Pantalla;Compatible;18,85;18,28;17,72;6
+DG-S200U-BAT-COM;Doogee;S200 Ultra;Batería;Compatible;9,40;;;6
+DG-S200U-CON-COM;Doogee;S200 Ultra;Conector de carga;Compatible;5,05;;;6
+DG-S200U-TAP-COM;Doogee;S200 Ultra;Tapa trasera;Compatible;6,20;;;6
+DG-S200U-CTR-COM;Doogee;S200 Ultra;Cámara trasera;Compatible;8,65;;;6
+DG-S200U-CFR-COM;Doogee;S200 Ultra;Cámara frontal;Compatible;5,35;;;6
+DG-S200U-LEN-COM;Doogee;S200 Ultra;Lente de cámara;Compatible;2,30;;;6
+DG-S200U-ALT-COM;Doogee;S200 Ultra;Altavoz;Compatible;3,60;;;6
+DG-S200U-AUR-COM;Doogee;S200 Ultra;Auricular de llamada;Compatible;2,65;;;6
+DG-S200U-FLX-COM;Doogee;S200 Ultra;Flex de encendido y volumen;Compatible;2,79;;;6
+DG-S200U-SIM-COM;Doogee;S200 Ultra;Bandeja SIM;Compatible;2,55;;;6
+DG-V20P-PAN-COM;Doogee;V20 Pro;Pantalla;Compatible;13,80;13,39;12,97;6
+DG-V20P-BAT-COM;Doogee;V20 Pro;Batería;Compatible;7,60;;;6
+DG-V20P-CON-COM;Doogee;V20 Pro;Conector de carga;Compatible;3,55;;;6
+DG-V20P-TAP-COM;Doogee;V20 Pro;Tapa trasera;Compatible;4,95;;;6
+DG-V20P-CTR-COM;Doogee;V20 Pro;Cámara trasera;Compatible;5,45;;;6
+DG-V20P-CFR-COM;Doogee;V20 Pro;Cámara frontal;Compatible;3,45;;;6
+DG-V20P-LEN-COM;Doogee;V20 Pro;Lente de cámara;Compatible;2,25;;;6
+DG-V20P-ALT-COM;Doogee;V20 Pro;Altavoz;Compatible;3,29;;;6
+DG-V20P-AUR-COM;Doogee;V20 Pro;Auricular de llamada;Compatible;2,45;;;6
+DG-V20P-FLX-COM;Doogee;V20 Pro;Flex de encendido y volumen;Compatible;2,35;;;6
+DG-V20P-SIM-COM;Doogee;V20 Pro;Bandeja SIM;Compatible;2,75;;;6
+DG-V30P-PAN-COM;Doogee;V30 Pro;Pantalla;Compatible;13,80;13,39;12,97;6
+DG-V30P-BAT-COM;Doogee;V30 Pro;Batería;Compatible;7,60;;;6
+DG-V30P-CON-COM;Doogee;V30 Pro;Conector de carga;Compatible;3,55;;;6
+DG-V30P-TAP-COM;Doogee;V30 Pro;Tapa trasera;Compatible;4,95;;;6
+DG-V30P-CTR-COM;Doogee;V30 Pro;Cámara trasera;Compatible;5,45;;;6
+DG-V30P-CFR-COM;Doogee;V30 Pro;Cámara frontal;Compatible;3,45;;;6
+DG-V30P-LEN-COM;Doogee;V30 Pro;Lente de cámara;Compatible;2,25;;;6
+DG-V30P-ALT-COM;Doogee;V30 Pro;Altavoz;Compatible;3,29;;;6
+DG-V30P-AUR-COM;Doogee;V30 Pro;Auricular de llamada;Compatible;2,45;;;6
+DG-V30P-FLX-COM;Doogee;V30 Pro;Flex de encendido y volumen;Compatible;2,35;;;6
+DG-V30P-SIM-COM;Doogee;V30 Pro;Bandeja SIM;Compatible;2,75;;;6
+DG-S95P-PAN-COM;Doogee;S95 Pro;Pantalla;Compatible;15,15;14,70;14,24;6
+DG-S95P-BAT-COM;Doogee;S95 Pro;Batería;Compatible;9,65;;;6
+DG-S95P-CON-COM;Doogee;S95 Pro;Conector de carga;Compatible;4,60;;;6
+DG-S95P-TAP-COM;Doogee;S95 Pro;Tapa trasera;Compatible;5,40;;;6
+DG-S95P-CTR-COM;Doogee;S95 Pro;Cámara trasera;Compatible;7,59;;;6
+DG-S95P-CFR-COM;Doogee;S95 Pro;Cámara frontal;Compatible;4,99;;;6
+DG-S95P-LEN-COM;Doogee;S95 Pro;Lente de cámara;Compatible;2,19;;;6
+DG-S95P-ALT-COM;Doogee;S95 Pro;Altavoz;Compatible;3,65;;;6
+DG-S95P-AUR-COM;Doogee;S95 Pro;Auricular de llamada;Compatible;2,65;;;6
+DG-S95P-FLX-COM;Doogee;S95 Pro;Flex de encendido y volumen;Compatible;2,49;;;6
+DG-S95P-SIM-COM;Doogee;S95 Pro;Bandeja SIM;Compatible;2,55;;;6
+DG-S88P-PAN-COM;Doogee;S88 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+DG-S88P-BAT-COM;Doogee;S88 Pro;Batería;Compatible;8,25;;;6
+DG-S88P-CON-COM;Doogee;S88 Pro;Conector de carga;Compatible;4,40;;;6
+DG-S88P-TAP-COM;Doogee;S88 Pro;Tapa trasera;Compatible;5,55;;;6
+DG-S88P-CTR-COM;Doogee;S88 Pro;Cámara trasera;Compatible;6,19;;;6
+DG-S88P-CFR-COM;Doogee;S88 Pro;Cámara frontal;Compatible;3,65;;;6
+DG-S88P-LEN-COM;Doogee;S88 Pro;Lente de cámara;Compatible;2,20;;;6
+DG-S88P-ALT-COM;Doogee;S88 Pro;Altavoz;Compatible;3,35;;;6
+DG-S88P-AUR-COM;Doogee;S88 Pro;Auricular de llamada;Compatible;2,40;;;6
+DG-S88P-FLX-COM;Doogee;S88 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+DG-S88P-SIM-COM;Doogee;S88 Pro;Bandeja SIM;Compatible;2,60;;;6
+DG-N30-PAN-COM;Doogee;N30;Pantalla;Compatible;13,80;13,39;12,97;6
+DG-N30-BAT-COM;Doogee;N30;Batería;Compatible;7,60;;;6
+DG-N30-CON-COM;Doogee;N30;Conector de carga;Compatible;3,55;;;6
+DG-N30-TAP-COM-AZU;Doogee;N30;Tapa trasera;Azul (Dreamy Blue);4,95;;;6
+DG-N30-TAP-COM-VER;Doogee;N30;Tapa trasera;Verde (Elegant Green);4,95;;;6
+DG-N30-TAP-COM-NEG;Doogee;N30;Tapa trasera;Negro (Magic Black);4,95;;;6
+DG-N30-TAP-COM-BLA;Doogee;N30;Tapa trasera;Blanco (Misty White);4,95;;;6
+DG-N30-CTR-COM;Doogee;N30;Cámara trasera;Compatible;5,45;;;6
+DG-N30-CFR-COM;Doogee;N30;Cámara frontal;Compatible;3,45;;;6
+DG-N30-LEN-COM;Doogee;N30;Lente de cámara;Compatible;2,25;;;6
+DG-N30-ALT-COM;Doogee;N30;Altavoz;Compatible;3,29;;;6
+DG-N30-AUR-COM;Doogee;N30;Auricular de llamada;Compatible;2,45;;;6
+DG-N30-FLX-COM;Doogee;N30;Flex de encendido y volumen;Compatible;2,35;;;6
+DG-N30-SIM-COM;Doogee;N30;Bandeja SIM;Compatible;2,75;;;6
+DG-S40P-PAN-COM;Doogee;S40 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+DG-S40P-BAT-COM;Doogee;S40 Pro;Batería;Compatible;8,25;;;6
+DG-S40P-CON-COM;Doogee;S40 Pro;Conector de carga;Compatible;4,40;;;6
+DG-S40P-TAP-COM-NEG;Doogee;S40 Pro;Tapa trasera;Negro (Mineral Black);5,55;;;6
+DG-S40P-TAP-COM-VER;Doogee;S40 Pro;Tapa trasera;Verde (Army Green);5,55;;;6
+DG-S40P-TAP-COM-NAR;Doogee;S40 Pro;Tapa trasera;Naranja (Fire Orange);5,55;;;6
+DG-S40P-CTR-COM;Doogee;S40 Pro;Cámara trasera;Compatible;6,19;;;6
+DG-S40P-CFR-COM;Doogee;S40 Pro;Cámara frontal;Compatible;3,65;;;6
+DG-S40P-LEN-COM;Doogee;S40 Pro;Lente de cámara;Compatible;2,20;;;6
+DG-S40P-ALT-COM;Doogee;S40 Pro;Altavoz;Compatible;3,35;;;6
+DG-S40P-AUR-COM;Doogee;S40 Pro;Auricular de llamada;Compatible;2,40;;;6
+DG-S40P-FLX-COM;Doogee;S40 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+DG-S40P-SIM-COM;Doogee;S40 Pro;Bandeja SIM;Compatible;2,60;;;6
+DG-S59P-PAN-COM;Doogee;S59 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+DG-S59P-BAT-COM;Doogee;S59 Pro;Batería;Compatible;8,25;;;6
+DG-S59P-CON-COM;Doogee;S59 Pro;Conector de carga;Compatible;4,40;;;6
+DG-S59P-TAP-COM;Doogee;S59 Pro;Tapa trasera;Compatible;5,55;;;6
+DG-S59P-CTR-COM;Doogee;S59 Pro;Cámara trasera;Compatible;6,19;;;6
+DG-S59P-CFR-COM;Doogee;S59 Pro;Cámara frontal;Compatible;3,65;;;6
+DG-S59P-LEN-COM;Doogee;S59 Pro;Lente de cámara;Compatible;2,20;;;6
+DG-S59P-ALT-COM;Doogee;S59 Pro;Altavoz;Compatible;3,35;;;6
+DG-S59P-AUR-COM;Doogee;S59 Pro;Auricular de llamada;Compatible;2,40;;;6
+DG-S59P-FLX-COM;Doogee;S59 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+DG-S59P-SIM-COM;Doogee;S59 Pro;Bandeja SIM;Compatible;2,60;;;6
+DG-S96GT-PAN-COM;Doogee;S96 GT;Pantalla;Compatible;16,10;15,62;15,13;6
+DG-S96GT-BAT-COM;Doogee;S96 GT;Batería;Compatible;8,25;;;6
+DG-S96GT-CON-COM;Doogee;S96 GT;Conector de carga;Compatible;4,40;;;6
+DG-S96GT-TAP-COM;Doogee;S96 GT;Tapa trasera;Compatible;5,55;;;6
+DG-S96GT-CTR-COM;Doogee;S96 GT;Cámara trasera;Compatible;6,19;;;6
+DG-S96GT-CFR-COM;Doogee;S96 GT;Cámara frontal;Compatible;3,65;;;6
+DG-S96GT-LEN-COM;Doogee;S96 GT;Lente de cámara;Compatible;2,20;;;6
+DG-S96GT-ALT-COM;Doogee;S96 GT;Altavoz;Compatible;3,35;;;6
+DG-S96GT-AUR-COM;Doogee;S96 GT;Auricular de llamada;Compatible;2,40;;;6
+DG-S96GT-FLX-COM;Doogee;S96 GT;Flex de encendido y volumen;Compatible;2,29;;;6
+DG-S96GT-SIM-COM;Doogee;S96 GT;Bandeja SIM;Compatible;2,60;;;6
+DG-V20-PAN-INC;Doogee;V20;Pantalla;Incell;16,09;15,61;15,12;6
+DG-V20-BAT-COM;Doogee;V20;Batería;Compatible;7,60;;;6
+DG-V20-CON-COM;Doogee;V20;Conector de carga;Compatible;3,55;;;6
+DG-V20-TAP-COM;Doogee;V20;Tapa trasera;Compatible;4,95;;;6
+DG-V20-CTR-COM;Doogee;V20;Cámara trasera;Compatible;5,45;;;6
+DG-V20-CFR-COM;Doogee;V20;Cámara frontal;Compatible;3,45;;;6
+DG-V20-LEN-COM;Doogee;V20;Lente de cámara;Compatible;2,25;;;6
+DG-V20-ALT-COM;Doogee;V20;Altavoz;Compatible;3,29;;;6
+DG-V20-AUR-COM;Doogee;V20;Auricular de llamada;Compatible;2,45;;;6
+DG-V20-FLX-COM;Doogee;V20;Flex de encendido y volumen;Compatible;2,35;;;6
+DG-V20-SIM-COM;Doogee;V20;Bandeja SIM;Compatible;2,75;;;6
+DG-S61P-PAN-COM;Doogee;S61 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+DG-S61P-BAT-COM;Doogee;S61 Pro;Batería;Compatible;8,25;;;6
+DG-S61P-CON-COM;Doogee;S61 Pro;Conector de carga;Compatible;4,40;;;6
+DG-S61P-TAP-COM;Doogee;S61 Pro;Tapa trasera;Compatible;5,55;;;6
+DG-S61P-CTR-COM;Doogee;S61 Pro;Cámara trasera;Compatible;6,19;;;6
+DG-S61P-CFR-COM;Doogee;S61 Pro;Cámara frontal;Compatible;3,65;;;6
+DG-S61P-LEN-COM;Doogee;S61 Pro;Lente de cámara;Compatible;2,20;;;6
+DG-S61P-ALT-COM;Doogee;S61 Pro;Altavoz;Compatible;3,35;;;6
+DG-S61P-AUR-COM;Doogee;S61 Pro;Auricular de llamada;Compatible;2,40;;;6
+DG-S61P-FLX-COM;Doogee;S61 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+DG-S61P-SIM-COM;Doogee;S61 Pro;Bandeja SIM;Compatible;2,60;;;6
+DG-S98P-PAN-COM;Doogee;S98 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+DG-S98P-BAT-COM;Doogee;S98 Pro;Batería;Compatible;8,25;;;6
+DG-S98P-CON-COM;Doogee;S98 Pro;Conector de carga;Compatible;4,40;;;6
+DG-S98P-TAP-COM;Doogee;S98 Pro;Tapa trasera;Compatible;5,55;;;6
+DG-S98P-CTR-COM;Doogee;S98 Pro;Cámara trasera;Compatible;6,19;;;6
+DG-S98P-CFR-COM;Doogee;S98 Pro;Cámara frontal;Compatible;3,65;;;6
+DG-S98P-LEN-COM;Doogee;S98 Pro;Lente de cámara;Compatible;2,20;;;6
+DG-S98P-ALT-COM;Doogee;S98 Pro;Altavoz;Compatible;3,35;;;6
+DG-S98P-AUR-COM;Doogee;S98 Pro;Auricular de llamada;Compatible;2,40;;;6
+DG-S98P-FLX-COM;Doogee;S98 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+DG-S98P-SIM-COM;Doogee;S98 Pro;Bandeja SIM;Compatible;2,60;;;6
+DG-V30-PAN-COM;Doogee;V30;Pantalla;Compatible;13,80;13,39;12,97;6
+DG-V30-BAT-COM;Doogee;V30;Batería;Compatible;7,60;;;6
+DG-V30-CON-COM;Doogee;V30;Conector de carga;Compatible;3,55;;;6
+DG-V30-TAP-COM;Doogee;V30;Tapa trasera;Compatible;4,95;;;6
+DG-V30-CTR-COM;Doogee;V30;Cámara trasera;Compatible;5,45;;;6
+DG-V30-CFR-COM;Doogee;V30;Cámara frontal;Compatible;3,45;;;6
+DG-V30-LEN-COM;Doogee;V30;Lente de cámara;Compatible;2,25;;;6
+DG-V30-ALT-COM;Doogee;V30;Altavoz;Compatible;3,29;;;6
+DG-V30-AUR-COM;Doogee;V30;Auricular de llamada;Compatible;2,45;;;6
+DG-V30-FLX-COM;Doogee;V30;Flex de encendido y volumen;Compatible;2,35;;;6
+DG-V30-SIM-COM;Doogee;V30;Bandeja SIM;Compatible;2,75;;;6
+DG-N50-PAN-COM;Doogee;N50;Pantalla;Compatible;14,69;14,25;13,81;6
+DG-N50-BAT-COM;Doogee;N50;Batería;Compatible;8,69;;;6
+DG-N50-CON-COM;Doogee;N50;Conector de carga;Compatible;4,05;;;6
+DG-N50-TAP-COM;Doogee;N50;Tapa trasera;Compatible;5,55;;;6
+DG-N50-CTR-COM;Doogee;N50;Cámara trasera;Compatible;7,60;;;6
+DG-N50-CFR-COM;Doogee;N50;Cámara frontal;Compatible;5,00;;;6
+DG-N50-LEN-COM;Doogee;N50;Lente de cámara;Compatible;2,35;;;6
+DG-N50-ALT-COM;Doogee;N50;Altavoz;Compatible;3,55;;;6
+DG-N50-AUR-COM;Doogee;N50;Auricular de llamada;Compatible;2,65;;;6
+DG-N50-FLX-COM;Doogee;N50;Flex de encendido y volumen;Compatible;2,85;;;6
+DG-N50-SIM-COM;Doogee;N50;Bandeja SIM;Compatible;2,69;;;6
+DG-S200-PAN-COM;Doogee;S200;Pantalla;Compatible;17,15;16,64;16,12;6
+DG-S200-BAT-COM;Doogee;S200;Batería;Compatible;9,15;;;6
+DG-S200-CON-COM;Doogee;S200;Conector de carga;Compatible;5,05;;;6
+DG-S200-TAP-COM-PLA;Doogee;S200;Tapa trasera;Plain;6,20;;;6
+DG-S200-TAP-COM-GRI;Doogee;S200;Tapa trasera;Gris;6,20;;;6
+DG-S200-TAP-COM-NAR;Doogee;S200;Tapa trasera;Naranja;6,20;;;6
+DG-S200-CTR-COM;Doogee;S200;Cámara trasera;Compatible;8,65;;;6
+DG-S200-CFR-COM;Doogee;S200;Cámara frontal;Compatible;5,35;;;6
+DG-S200-LEN-COM;Doogee;S200;Lente de cámara;Compatible;2,30;;;6
+DG-S200-ALT-COM;Doogee;S200;Altavoz;Compatible;3,60;;;6
+DG-S200-AUR-COM;Doogee;S200;Auricular de llamada;Compatible;2,65;;;6
+DG-S200-FLX-COM;Doogee;S200;Flex de encendido y volumen;Compatible;2,79;;;6
+DG-S200-SIM-COM;Doogee;S200;Bandeja SIM;Compatible;2,55;;;6
+DG-VMPL-PAN-COM;Doogee;V Max Plus;Pantalla;Compatible;14,69;14,25;13,81;6
+DG-VMPL-BAT-COM;Doogee;V Max Plus;Batería;Compatible;8,69;;;6
+DG-VMPL-CON-COM;Doogee;V Max Plus;Conector de carga;Compatible;4,05;;;6
+DG-VMPL-TAP-COM-NEG;Doogee;V Max Plus;Tapa trasera;Negro;5,55;;;6
+DG-VMPL-TAP-COM-GRI;Doogee;V Max Plus;Tapa trasera;Gris;5,55;;;6
+DG-VMPL-CTR-COM;Doogee;V Max Plus;Cámara trasera;Compatible;7,60;;;6
+DG-VMPL-CFR-COM;Doogee;V Max Plus;Cámara frontal;Compatible;5,00;;;6
+DG-VMPL-LEN-COM;Doogee;V Max Plus;Lente de cámara;Compatible;2,35;;;6
+DG-VMPL-ALT-COM;Doogee;V Max Plus;Altavoz;Compatible;3,55;;;6
+DG-VMPL-AUR-COM;Doogee;V Max Plus;Auricular de llamada;Compatible;2,65;;;6
+DG-VMPL-FLX-COM;Doogee;V Max Plus;Flex de encendido y volumen;Compatible;2,85;;;6
+DG-VMPL-SIM-COM;Doogee;V Max Plus;Bandeja SIM;Compatible;2,69;;;6
+DG-VMP-PAN-COM;Doogee;V Max Pro;Pantalla;Compatible;14,69;14,25;13,81;6
+DG-VMP-BAT-COM;Doogee;V Max Pro;Batería;Compatible;8,69;;;6
+DG-VMP-CON-COM;Doogee;V Max Pro;Conector de carga;Compatible;4,05;;;6
+DG-VMP-TAP-COM-NEG;Doogee;V Max Pro;Tapa trasera;Negro;5,55;;;6
+DG-VMP-TAP-COM-GRI;Doogee;V Max Pro;Tapa trasera;Gris;5,55;;;6
+DG-VMP-CTR-COM;Doogee;V Max Pro;Cámara trasera;Compatible;7,60;;;6
+DG-VMP-CFR-COM;Doogee;V Max Pro;Cámara frontal;Compatible;5,00;;;6
+DG-VMP-LEN-COM;Doogee;V Max Pro;Lente de cámara;Compatible;2,35;;;6
+DG-VMP-ALT-COM;Doogee;V Max Pro;Altavoz;Compatible;3,55;;;6
+DG-VMP-AUR-COM;Doogee;V Max Pro;Auricular de llamada;Compatible;2,65;;;6
+DG-VMP-FLX-COM;Doogee;V Max Pro;Flex de encendido y volumen;Compatible;2,85;;;6
+DG-VMP-SIM-COM;Doogee;V Max Pro;Bandeja SIM;Compatible;2,69;;;6
+DG-B20-PAN-COM;Doogee;Blade20;Pantalla;Compatible;15,45;14,99;14,52;6
+DG-B20-BAT-COM;Doogee;Blade20;Batería;Compatible;8,20;;;6
+DG-B20-CON-COM;Doogee;Blade20;Conector de carga;Compatible;4,85;;;6
+DG-B20-TAP-COM-MOR;Doogee;Blade20;Tapa trasera;Morado;5,95;;;6
+DG-B20-TAP-COM-PLA;Doogee;Blade20;Tapa trasera;Plain;5,95;;;6
+DG-B20-TAP-COM-NEG;Doogee;Blade20;Tapa trasera;Negro;5,95;;;6
+DG-B20-CTR-COM;Doogee;Blade20;Cámara trasera;Compatible;10,45;10,14;9,82;6
+DG-B20-CFR-COM;Doogee;Blade20;Cámara frontal;Compatible;7,00;;;6
+DG-B20-LEN-COM;Doogee;Blade20;Lente de cámara;Compatible;3,05;;;6
+DG-B20-ALT-COM;Doogee;Blade20;Altavoz;Compatible;4,65;;;6
+DG-B20-AUR-COM;Doogee;Blade20;Auricular de llamada;Compatible;3,75;;;6
+DG-B20-FLX-COM;Doogee;Blade20;Flex de encendido y volumen;Compatible;3,10;;;6
+DG-B20-SIM-COM;Doogee;Blade20;Bandeja SIM;Compatible;3,19;;;6
+DG-B20T-PAN-COM;Doogee;Blade20 Turbo;Pantalla;Compatible;15,45;14,99;14,52;6
+DG-B20T-BAT-COM;Doogee;Blade20 Turbo;Batería;Compatible;8,20;;;6
+DG-B20T-CON-COM;Doogee;Blade20 Turbo;Conector de carga;Compatible;4,85;;;6
+DG-B20T-TAP-COM-NEG;Doogee;Blade20 Turbo;Tapa trasera;Negro;5,95;;;6
+DG-B20T-TAP-COM-DOR;Doogee;Blade20 Turbo;Tapa trasera;Dorado;5,95;;;6
+DG-B20T-CTR-COM;Doogee;Blade20 Turbo;Cámara trasera;Compatible;10,45;10,14;9,82;6
+DG-B20T-CFR-COM;Doogee;Blade20 Turbo;Cámara frontal;Compatible;7,00;;;6
+DG-B20T-LEN-COM;Doogee;Blade20 Turbo;Lente de cámara;Compatible;3,05;;;6
+DG-B20T-ALT-COM;Doogee;Blade20 Turbo;Altavoz;Compatible;4,65;;;6
+DG-B20T-AUR-COM;Doogee;Blade20 Turbo;Auricular de llamada;Compatible;3,75;;;6
+DG-B20T-FLX-COM;Doogee;Blade20 Turbo;Flex de encendido y volumen;Compatible;3,10;;;6
+DG-B20T-SIM-COM;Doogee;Blade20 Turbo;Bandeja SIM;Compatible;3,19;;;6
+DG-N59-PAN-COM;Doogee;Note 59;Pantalla;Compatible;15,45;14,99;14,52;6
+DG-N59-BAT-COM;Doogee;Note 59;Batería;Compatible;8,20;;;6
+DG-N59-CON-COM;Doogee;Note 59;Conector de carga;Compatible;4,85;;;6
+DG-N59-TAP-COM-NEG;Doogee;Note 59;Tapa trasera;Negro (Starry Black);5,95;;;6
+DG-N59-TAP-COM-AZU;Doogee;Note 59;Tapa trasera;Azul (Ocean Blue);5,95;;;6
+DG-N59-CTR-COM;Doogee;Note 59;Cámara trasera;Compatible;10,45;10,14;9,82;6
+DG-N59-CFR-COM;Doogee;Note 59;Cámara frontal;Compatible;7,00;;;6
+DG-N59-LEN-COM;Doogee;Note 59;Lente de cámara;Compatible;3,05;;;6
+DG-N59-ALT-COM;Doogee;Note 59;Altavoz;Compatible;4,65;;;6
+DG-N59-AUR-COM;Doogee;Note 59;Auricular de llamada;Compatible;3,75;;;6
+DG-N59-FLX-COM;Doogee;Note 59;Flex de encendido y volumen;Compatible;3,10;;;6
+DG-N59-SIM-COM;Doogee;Note 59;Bandeja SIM;Compatible;3,19;;;6
+DG-N58-PAN-COM;Doogee;Note 58;Pantalla;Compatible;15,45;14,99;14,52;6
+DG-N58-BAT-COM;Doogee;Note 58;Batería;Compatible;8,20;;;6
+DG-N58-CON-COM;Doogee;Note 58;Conector de carga;Compatible;4,85;;;6
+DG-N58-TAP-COM-PLA;Doogee;Note 58;Tapa trasera;Plain;5,95;;;6
+DG-N58-TAP-COM-NEG;Doogee;Note 58;Tapa trasera;Negro;5,95;;;6
+DG-N58-CTR-COM;Doogee;Note 58;Cámara trasera;Compatible;10,45;10,14;9,82;6
+DG-N58-CFR-COM;Doogee;Note 58;Cámara frontal;Compatible;7,00;;;6
+DG-N58-LEN-COM;Doogee;Note 58;Lente de cámara;Compatible;3,05;;;6
+DG-N58-ALT-COM;Doogee;Note 58;Altavoz;Compatible;4,65;;;6
+DG-N58-AUR-COM;Doogee;Note 58;Auricular de llamada;Compatible;3,75;;;6
+DG-N58-FLX-COM;Doogee;Note 58;Flex de encendido y volumen;Compatible;3,10;;;6
+DG-N58-SIM-COM;Doogee;Note 58;Bandeja SIM;Compatible;3,19;;;6
+DG-SCP-PAN-COM;Doogee;S cyber Pro;Pantalla;Compatible;15,45;14,99;14,52;6
+DG-SCP-BAT-COM;Doogee;S cyber Pro;Batería;Compatible;8,20;;;6
+DG-SCP-CON-COM;Doogee;S cyber Pro;Conector de carga;Compatible;4,85;;;6
+DG-SCP-TAP-COM-PLA;Doogee;S cyber Pro;Tapa trasera;Plain;5,95;;;6
+DG-SCP-TAP-COM-VER;Doogee;S cyber Pro;Tapa trasera;Verde;5,95;;;6
+DG-SCP-CTR-COM;Doogee;S cyber Pro;Cámara trasera;Compatible;10,45;10,14;9,82;6
+DG-SCP-CFR-COM;Doogee;S cyber Pro;Cámara frontal;Compatible;7,00;;;6
+DG-SCP-LEN-COM;Doogee;S cyber Pro;Lente de cámara;Compatible;3,05;;;6
+DG-SCP-ALT-COM;Doogee;S cyber Pro;Altavoz;Compatible;4,65;;;6
+DG-SCP-AUR-COM;Doogee;S cyber Pro;Auricular de llamada;Compatible;3,75;;;6
+DG-SCP-FLX-COM;Doogee;S cyber Pro;Flex de encendido y volumen;Compatible;3,10;;;6
+DG-SCP-SIM-COM;Doogee;S cyber Pro;Bandeja SIM;Compatible;3,19;;;6
+DG-S200PL-PAN-COM;Doogee;S200 Plus;Pantalla;Compatible;18,05;17,51;16,97;6
+DG-S200PL-BAT-COM;Doogee;S200 Plus;Batería;Compatible;9,15;;;6
+DG-S200PL-CON-COM;Doogee;S200 Plus;Conector de carga;Compatible;6,00;;;6
+DG-S200PL-TAP-COM-NEG;Doogee;S200 Plus;Tapa trasera;Negro;6,65;;;6
+DG-S200PL-TAP-COM-ROJ;Doogee;S200 Plus;Tapa trasera;Rojo;6,65;;;6
+DG-S200PL-TAP-COM-DOR;Doogee;S200 Plus;Tapa trasera;Dorado;6,65;;;6
+DG-S200PL-CTR-COM;Doogee;S200 Plus;Cámara trasera;Compatible;11,85;11,49;11,14;6
+DG-S200PL-CFR-COM;Doogee;S200 Plus;Cámara frontal;Compatible;7,49;;;6
+DG-S200PL-LEN-COM;Doogee;S200 Plus;Lente de cámara;Compatible;2,95;;;6
+DG-S200PL-ALT-COM;Doogee;S200 Plus;Altavoz;Compatible;4,75;;;6
+DG-S200PL-AUR-COM;Doogee;S200 Plus;Auricular de llamada;Compatible;3,70;;;6
+DG-S200PL-FLX-COM;Doogee;S200 Plus;Flex de encendido y volumen;Compatible;3,05;;;6
+DG-S200PL-SIM-COM;Doogee;S200 Plus;Bandeja SIM;Compatible;3,00;;;6
+DG-VMPY-PAN-COM;Doogee;V Max Play;Pantalla;Compatible;15,45;14,99;14,52;6
+DG-VMPY-BAT-COM;Doogee;V Max Play;Batería;Compatible;8,20;;;6
+DG-VMPY-CON-COM;Doogee;V Max Play;Conector de carga;Compatible;4,85;;;6
+DG-VMPY-TAP-COM-NEG;Doogee;V Max Play;Tapa trasera;Negro;5,95;;;6
+DG-VMPY-TAP-COM-GRI;Doogee;V Max Play;Tapa trasera;Gris;5,95;;;6
+DG-VMPY-CTR-COM;Doogee;V Max Play;Cámara trasera;Compatible;10,45;10,14;9,82;6
+DG-VMPY-CFR-COM;Doogee;V Max Play;Cámara frontal;Compatible;7,00;;;6
+DG-VMPY-LEN-COM;Doogee;V Max Play;Lente de cámara;Compatible;3,05;;;6
+DG-VMPY-ALT-COM;Doogee;V Max Play;Altavoz;Compatible;4,65;;;6
+DG-VMPY-AUR-COM;Doogee;V Max Play;Auricular de llamada;Compatible;3,75;;;6
+DG-VMPY-FLX-COM;Doogee;V Max Play;Flex de encendido y volumen;Compatible;3,10;;;6
+DG-VMPY-SIM-COM;Doogee;V Max Play;Bandeja SIM;Compatible;3,19;;;6
+DG-VMS-PAN-COM;Doogee;V Max S;Pantalla;Compatible;15,45;14,99;14,52;6
+DG-VMS-BAT-COM;Doogee;V Max S;Batería;Compatible;8,20;;;6
+DG-VMS-CON-COM;Doogee;V Max S;Conector de carga;Compatible;4,85;;;6
+DG-VMS-TAP-COM-GRI;Doogee;V Max S;Tapa trasera;Gris;5,95;;;6
+DG-VMS-TAP-COM-PLA;Doogee;V Max S;Tapa trasera;Plata;5,95;;;6
+DG-VMS-CTR-COM;Doogee;V Max S;Cámara trasera;Compatible;10,45;10,14;9,82;6
+DG-VMS-CFR-COM;Doogee;V Max S;Cámara frontal;Compatible;7,00;;;6
+DG-VMS-LEN-COM;Doogee;V Max S;Lente de cámara;Compatible;3,05;;;6
+DG-VMS-ALT-COM;Doogee;V Max S;Altavoz;Compatible;4,65;;;6
+DG-VMS-AUR-COM;Doogee;V Max S;Auricular de llamada;Compatible;3,75;;;6
+DG-VMS-FLX-COM;Doogee;V Max S;Flex de encendido y volumen;Compatible;3,10;;;6
+DG-VMS-SIM-COM;Doogee;V Max S;Bandeja SIM;Compatible;3,19;;;6
+DG-B20U-PAN-COM;Doogee;Blade20 Ultra;Pantalla;Compatible;17,00;16,49;15,98;6
+DG-B20U-BAT-COM;Doogee;Blade20 Ultra;Batería;Compatible;8,20;;;6
+DG-B20U-CON-COM;Doogee;Blade20 Ultra;Conector de carga;Compatible;4,85;;;6
+DG-B20U-TAP-COM-ROJ;Doogee;Blade20 Ultra;Tapa trasera;Rojo;5,95;;;6
+DG-B20U-TAP-COM-PLA;Doogee;Blade20 Ultra;Tapa trasera;Plata;5,95;;;6
+DG-B20U-CTR-COM;Doogee;Blade20 Ultra;Cámara trasera;Compatible;10,45;10,14;9,82;6
+DG-B20U-CFR-COM;Doogee;Blade20 Ultra;Cámara frontal;Compatible;7,00;;;6
+DG-B20U-LEN-COM;Doogee;Blade20 Ultra;Lente de cámara;Compatible;3,05;;;6
+DG-B20U-ALT-COM;Doogee;Blade20 Ultra;Altavoz;Compatible;4,65;;;6
+DG-B20U-AUR-COM;Doogee;Blade20 Ultra;Auricular de llamada;Compatible;3,75;;;6
+DG-B20U-FLX-COM;Doogee;Blade20 Ultra;Flex de encendido y volumen;Compatible;3,10;;;6
+DG-B20U-SIM-COM;Doogee;Blade20 Ultra;Bandeja SIM;Compatible;3,19;;;6
+DG-S300PL-PAN-COM;Doogee;S300 Plus;Pantalla;Compatible;18,05;17,51;16,97;6
+DG-S300PL-BAT-COM;Doogee;S300 Plus;Batería;Compatible;8,89;;;6
+DG-S300PL-CON-COM;Doogee;S300 Plus;Conector de carga;Compatible;6,00;;;6
+DG-S300PL-TAP-COM-NEG;Doogee;S300 Plus;Tapa trasera;Negro;6,65;;;6
+DG-S300PL-TAP-COM-GRI;Doogee;S300 Plus;Tapa trasera;Gris;6,65;;;6
+DG-S300PL-TAP-COM-GOL;Doogee;S300 Plus;Tapa trasera;Golden;6,65;;;6
+DG-S300PL-CTR-COM;Doogee;S300 Plus;Cámara trasera;Compatible;11,85;11,49;11,14;6
+DG-S300PL-CFR-COM;Doogee;S300 Plus;Cámara frontal;Compatible;7,49;;;6
+DG-S300PL-LEN-COM;Doogee;S300 Plus;Lente de cámara;Compatible;2,95;;;6
+DG-S300PL-ALT-COM;Doogee;S300 Plus;Altavoz;Compatible;4,75;;;6
+DG-S300PL-AUR-COM;Doogee;S300 Plus;Auricular de llamada;Compatible;3,70;;;6
+DG-S300PL-FLX-COM;Doogee;S300 Plus;Flex de encendido y volumen;Compatible;3,05;;;6
+DG-S300PL-SIM-COM;Doogee;S300 Plus;Bandeja SIM;Compatible;3,00;;;6
+DG-S300P-PAN-COM;Doogee;S300 Pro;Pantalla;Compatible;18,05;17,51;16,97;6
+DG-S300P-BAT-COM;Doogee;S300 Pro;Batería;Compatible;8,89;;;6
+DG-S300P-CON-COM;Doogee;S300 Pro;Conector de carga;Compatible;6,00;;;6
+DG-S300P-TAP-COM-NEG;Doogee;S300 Pro;Tapa trasera;Negro;6,65;;;6
+DG-S300P-TAP-COM-DOR;Doogee;S300 Pro;Tapa trasera;Dorado;6,65;;;6
+DG-S300P-TAP-COM-GRI;Doogee;S300 Pro;Tapa trasera;Gris;6,65;;;6
+DG-S300P-CTR-COM;Doogee;S300 Pro;Cámara trasera;Compatible;11,85;11,49;11,14;6
+DG-S300P-CFR-COM;Doogee;S300 Pro;Cámara frontal;Compatible;7,49;;;6
+DG-S300P-LEN-COM;Doogee;S300 Pro;Lente de cámara;Compatible;2,95;;;6
+DG-S300P-ALT-COM;Doogee;S300 Pro;Altavoz;Compatible;4,75;;;6
+DG-S300P-AUR-COM;Doogee;S300 Pro;Auricular de llamada;Compatible;3,70;;;6
+DG-S300P-FLX-COM;Doogee;S300 Pro;Flex de encendido y volumen;Compatible;3,05;;;6
+DG-S300P-SIM-COM;Doogee;S300 Pro;Bandeja SIM;Compatible;3,00;;;6
+DG-VM2-PAN-COM;Doogee;V Max 2;Pantalla;Compatible;15,45;14,99;14,52;6
+DG-VM2-BAT-COM;Doogee;V Max 2;Batería;Compatible;8,20;;;6
+DG-VM2-CON-COM;Doogee;V Max 2;Conector de carga;Compatible;4,85;;;6
+DG-VM2-TAP-COM-NEG;Doogee;V Max 2;Tapa trasera;Negro;5,95;;;6
+DG-VM2-TAP-COM-PLA;Doogee;V Max 2;Tapa trasera;Plata;5,95;;;6
+DG-VM2-TAP-COM-GRI;Doogee;V Max 2;Tapa trasera;Gris;5,95;;;6
+DG-VM2-CTR-COM;Doogee;V Max 2;Cámara trasera;Compatible;10,45;10,14;9,82;6
+DG-VM2-CFR-COM;Doogee;V Max 2;Cámara frontal;Compatible;7,00;;;6
+DG-VM2-LEN-COM;Doogee;V Max 2;Lente de cámara;Compatible;3,05;;;6
+DG-VM2-ALT-COM;Doogee;V Max 2;Altavoz;Compatible;4,65;;;6
+DG-VM2-AUR-COM;Doogee;V Max 2;Auricular de llamada;Compatible;3,75;;;6
+DG-VM2-FLX-COM;Doogee;V Max 2;Flex de encendido y volumen;Compatible;3,10;;;6
+DG-VM2-SIM-COM;Doogee;V Max 2;Bandeja SIM;Compatible;3,19;;;6
+DG-B20M-PRO-NA;Doogee;Blade20 Max;Cristal templado;Estándar;1,30;;;
+DG-B20M-PRO-PRI;Doogee;Blade20 Max;Cristal templado;Privacidad;4,00;;;
+DG-B20M-FUN-SIL;Doogee;Blade20 Max;Funda;Silicona;2,50;;;
+DG-B20M-FUN-TPU;Doogee;Blade20 Max;Funda;Transparente;2,95;;;
+DG-B20M-FUN-LIB;Doogee;Blade20 Max;Funda;Libro;3,70;;;
+DG-B20M-FUN-ANT;Doogee;Blade20 Max;Funda;Antigolpes;3,10;;;
+DG-B20PY-PRO-NA;Doogee;Blade20 Play;Cristal templado;Estándar;1,30;;;
+DG-B20PY-PRO-PRI;Doogee;Blade20 Play;Cristal templado;Privacidad;4,00;;;
+DG-B20PY-FUN-SIL;Doogee;Blade20 Play;Funda;Silicona;2,50;;;
+DG-B20PY-FUN-TPU;Doogee;Blade20 Play;Funda;Transparente;2,95;;;
+DG-B20PY-FUN-LIB;Doogee;Blade20 Play;Funda;Libro;3,70;;;
+DG-B20PY-FUN-ANT;Doogee;Blade20 Play;Funda;Antigolpes;3,10;;;
+DG-B20PL-PRO-NA;Doogee;Blade20 Plus;Cristal templado;Estándar;1,30;;;
+DG-B20PL-PRO-PRI;Doogee;Blade20 Plus;Cristal templado;Privacidad;4,00;;;
+DG-B20PL-FUN-SIL;Doogee;Blade20 Plus;Funda;Silicona;2,50;;;
+DG-B20PL-FUN-TPU;Doogee;Blade20 Plus;Funda;Transparente;2,95;;;
+DG-B20PL-FUN-LIB;Doogee;Blade20 Plus;Funda;Libro;3,70;;;
+DG-B20PL-FUN-ANT;Doogee;Blade20 Plus;Funda;Antigolpes;3,10;;;
+DG-B20P-PRO-NA;Doogee;Blade20 Pro;Cristal templado;Estándar;1,30;;;
+DG-B20P-PRO-PRI;Doogee;Blade20 Pro;Cristal templado;Privacidad;4,00;;;
+DG-B20P-FUN-SIL;Doogee;Blade20 Pro;Funda;Silicona;2,50;;;
+DG-B20P-FUN-TPU;Doogee;Blade20 Pro;Funda;Transparente;2,95;;;
+DG-B20P-FUN-LIB;Doogee;Blade20 Pro;Funda;Libro;3,70;;;
+DG-B20P-FUN-ANT;Doogee;Blade20 Pro;Funda;Antigolpes;3,10;;;
+DG-B20PM-PRO-NA;Doogee;Blade20 Pro Max;Cristal templado;Estándar;1,30;;;
+DG-B20PM-PRO-PRI;Doogee;Blade20 Pro Max;Cristal templado;Privacidad;4,00;;;
+DG-B20PM-FUN-SIL;Doogee;Blade20 Pro Max;Funda;Silicona;2,50;;;
+DG-B20PM-FUN-TPU;Doogee;Blade20 Pro Max;Funda;Transparente;2,95;;;
+DG-B20PM-FUN-LIB;Doogee;Blade20 Pro Max;Funda;Libro;3,70;;;
+DG-B20PM-FUN-ANT;Doogee;Blade20 Pro Max;Funda;Antigolpes;3,10;;;
+DG-N50PL-PRO-NA;Doogee;N50 Plus;Cristal templado;Estándar;1,30;;;
+DG-N50PL-PRO-PRI;Doogee;N50 Plus;Cristal templado;Privacidad;4,00;;;
+DG-N50PL-FUN-SIL;Doogee;N50 Plus;Funda;Silicona;2,50;;;
+DG-N50PL-FUN-TPU;Doogee;N50 Plus;Funda;Transparente;2,95;;;
+DG-N50PL-FUN-LIB;Doogee;N50 Plus;Funda;Libro;3,70;;;
+DG-N50PL-FUN-ANT;Doogee;N50 Plus;Funda;Antigolpes;3,10;;;
+DG-N50P-PRO-NA;Doogee;N50 Pro;Cristal templado;Estándar;1,30;;;
+DG-N50P-PRO-PRI;Doogee;N50 Pro;Cristal templado;Privacidad;4,00;;;
+DG-N50P-FUN-SIL;Doogee;N50 Pro;Funda;Silicona;2,50;;;
+DG-N50P-FUN-TPU;Doogee;N50 Pro;Funda;Transparente;2,95;;;
+DG-N50P-FUN-LIB;Doogee;N50 Pro;Funda;Libro;3,70;;;
+DG-N50P-FUN-ANT;Doogee;N50 Pro;Funda;Antigolpes;3,10;;;
+DG-N58P-PRO-NA;Doogee;Note 58 Pro;Cristal templado;Estándar;1,30;;;
+DG-N58P-PRO-PRI;Doogee;Note 58 Pro;Cristal templado;Privacidad;4,00;;;
+DG-N58P-FUN-SIL;Doogee;Note 58 Pro;Funda;Silicona;2,50;;;
+DG-N58P-FUN-TPU;Doogee;Note 58 Pro;Funda;Transparente;2,95;;;
+DG-N58P-FUN-LIB;Doogee;Note 58 Pro;Funda;Libro;3,70;;;
+DG-N58P-FUN-ANT;Doogee;Note 58 Pro;Funda;Antigolpes;3,10;;;
+DG-N59P-PRO-NA;Doogee;Note 59 Pro;Cristal templado;Estándar;1,30;;;
+DG-N59P-PRO-PRI;Doogee;Note 59 Pro;Cristal templado;Privacidad;4,00;;;
+DG-N59P-FUN-SIL;Doogee;Note 59 Pro;Funda;Silicona;2,50;;;
+DG-N59P-FUN-TPU;Doogee;Note 59 Pro;Funda;Transparente;2,95;;;
+DG-N59P-FUN-LIB;Doogee;Note 59 Pro;Funda;Libro;3,70;;;
+DG-N59P-FUN-ANT;Doogee;Note 59 Pro;Funda;Antigolpes;3,10;;;
+DG-N59PPL-PRO-NA;Doogee;Note 59 Pro+;Cristal templado;Estándar;1,30;;;
+DG-N59PPL-PRO-PRI;Doogee;Note 59 Pro+;Cristal templado;Privacidad;4,00;;;
+DG-N59PPL-FUN-SIL;Doogee;Note 59 Pro+;Funda;Silicona;2,50;;;
+DG-N59PPL-FUN-TPU;Doogee;Note 59 Pro+;Funda;Transparente;2,95;;;
+DG-N59PPL-FUN-LIB;Doogee;Note 59 Pro+;Funda;Libro;3,70;;;
+DG-N59PPL-FUN-ANT;Doogee;Note 59 Pro+;Funda;Antigolpes;3,10;;;
+DG-S200M-PRO-NA;Doogee;S200 Max;Cristal templado;Estándar;1,30;;;
+DG-S200P-PRO-NA;Doogee;S200 Pro;Cristal templado;Estándar;1,30;;;
+DG-S200U-PRO-NA;Doogee;S200 Ultra;Cristal templado;Estándar;1,30;;;
+DG-V20P-PRO-NA;Doogee;V20 Pro;Cristal templado;Estándar;1,30;;;
+DG-V20P-PRO-PRI;Doogee;V20 Pro;Cristal templado;Privacidad;4,00;;;
+DG-V20P-FUN-SIL;Doogee;V20 Pro;Funda;Silicona;2,50;;;
+DG-V20P-FUN-TPU;Doogee;V20 Pro;Funda;Transparente;2,95;;;
+DG-V20P-FUN-LIB;Doogee;V20 Pro;Funda;Libro;3,70;;;
+DG-V20P-FUN-ANT;Doogee;V20 Pro;Funda;Antigolpes;3,10;;;
+DG-V30P-PRO-NA;Doogee;V30 Pro;Cristal templado;Estándar;1,30;;;
+DG-V30P-PRO-PRI;Doogee;V30 Pro;Cristal templado;Privacidad;4,00;;;
+DG-V30P-FUN-SIL;Doogee;V30 Pro;Funda;Silicona;2,50;;;
+DG-V30P-FUN-TPU;Doogee;V30 Pro;Funda;Transparente;2,95;;;
+DG-V30P-FUN-LIB;Doogee;V30 Pro;Funda;Libro;3,70;;;
+DG-V30P-FUN-ANT;Doogee;V30 Pro;Funda;Antigolpes;3,10;;;
+DG-S95P-PRO-NA;Doogee;S95 Pro;Cristal templado;Estándar;1,30;;;
+DG-S88P-PRO-NA;Doogee;S88 Pro;Cristal templado;Estándar;1,30;;;
+DG-N30-PRO-NA;Doogee;N30;Cristal templado;Estándar;1,30;;;
+DG-N30-PRO-PRI;Doogee;N30;Cristal templado;Privacidad;4,00;;;
+DG-N30-FUN-SIL;Doogee;N30;Funda;Silicona;2,50;;;
+DG-N30-FUN-TPU;Doogee;N30;Funda;Transparente;2,95;;;
+DG-N30-FUN-LIB;Doogee;N30;Funda;Libro;3,70;;;
+DG-N30-FUN-ANT;Doogee;N30;Funda;Antigolpes;3,10;;;
+DG-N30-PCA-NA;Doogee;N30;Protector de cámara;Cristal;2,90;;;
+DG-S40P-PRO-NA;Doogee;S40 Pro;Cristal templado;Estándar;1,30;;;
+DG-S59P-PRO-NA;Doogee;S59 Pro;Cristal templado;Estándar;1,30;;;
+DG-S96GT-PRO-NA;Doogee;S96 GT;Cristal templado;Estándar;1,30;;;
+DG-V20-PRO-NA;Doogee;V20;Cristal templado;Estándar;1,30;;;
+DG-V20-PRO-PRI;Doogee;V20;Cristal templado;Privacidad;4,00;;;
+DG-V20-FUN-SIL;Doogee;V20;Funda;Silicona;2,50;;;
+DG-V20-FUN-TPU;Doogee;V20;Funda;Transparente;2,95;;;
+DG-V20-FUN-LIB;Doogee;V20;Funda;Libro;3,70;;;
+DG-V20-FUN-ANT;Doogee;V20;Funda;Antigolpes;3,10;;;
+DG-V20-PCA-NA;Doogee;V20;Protector de cámara;Cristal;2,90;;;
+DG-S61P-PRO-NA;Doogee;S61 Pro;Cristal templado;Estándar;1,30;;;
+DG-S98P-PRO-NA;Doogee;S98 Pro;Cristal templado;Estándar;1,30;;;
+DG-V30-PRO-NA;Doogee;V30;Cristal templado;Estándar;1,30;;;
+DG-V30-PRO-PRI;Doogee;V30;Cristal templado;Privacidad;4,00;;;
+DG-V30-FUN-SIL;Doogee;V30;Funda;Silicona;2,50;;;
+DG-V30-FUN-TPU;Doogee;V30;Funda;Transparente;2,95;;;
+DG-V30-FUN-LIB;Doogee;V30;Funda;Libro;3,70;;;
+DG-V30-FUN-ANT;Doogee;V30;Funda;Antigolpes;3,10;;;
+DG-V30-PCA-NA;Doogee;V30;Protector de cámara;Cristal;2,90;;;
+DG-N50-PRO-NA;Doogee;N50;Cristal templado;Estándar;1,30;;;
+DG-N50-PRO-PRI;Doogee;N50;Cristal templado;Privacidad;4,00;;;
+DG-N50-FUN-SIL;Doogee;N50;Funda;Silicona;2,50;;;
+DG-N50-FUN-TPU;Doogee;N50;Funda;Transparente;2,95;;;
+DG-N50-FUN-LIB;Doogee;N50;Funda;Libro;3,70;;;
+DG-N50-FUN-ANT;Doogee;N50;Funda;Antigolpes;3,10;;;
+DG-N50-PCA-NA;Doogee;N50;Protector de cámara;Cristal;2,90;;;
+DG-S200-PRO-NA;Doogee;S200;Cristal templado;Estándar;1,30;;;
+DG-VMPL-PRO-NA;Doogee;V Max Plus;Cristal templado;Estándar;1,30;;;
+DG-VMPL-PRO-PRI;Doogee;V Max Plus;Cristal templado;Privacidad;4,00;;;
+DG-VMPL-FUN-SIL;Doogee;V Max Plus;Funda;Silicona;2,50;;;
+DG-VMPL-FUN-TPU;Doogee;V Max Plus;Funda;Transparente;2,95;;;
+DG-VMPL-FUN-LIB;Doogee;V Max Plus;Funda;Libro;3,70;;;
+DG-VMPL-FUN-ANT;Doogee;V Max Plus;Funda;Antigolpes;3,10;;;
+DG-VMPL-PCA-NA;Doogee;V Max Plus;Protector de cámara;Cristal;2,90;;;
+DG-VMP-PRO-NA;Doogee;V Max Pro;Cristal templado;Estándar;1,30;;;
+DG-VMP-PRO-PRI;Doogee;V Max Pro;Cristal templado;Privacidad;4,00;;;
+DG-VMP-FUN-SIL;Doogee;V Max Pro;Funda;Silicona;2,50;;;
+DG-VMP-FUN-TPU;Doogee;V Max Pro;Funda;Transparente;2,95;;;
+DG-VMP-FUN-LIB;Doogee;V Max Pro;Funda;Libro;3,70;;;
+DG-VMP-FUN-ANT;Doogee;V Max Pro;Funda;Antigolpes;3,10;;;
+DG-VMP-PCA-NA;Doogee;V Max Pro;Protector de cámara;Cristal;2,90;;;
+DG-B20-PRO-NA;Doogee;Blade20;Cristal templado;Estándar;1,30;;;
+DG-B20-PRO-PRI;Doogee;Blade20;Cristal templado;Privacidad;4,00;;;
+DG-B20-FUN-SIL;Doogee;Blade20;Funda;Silicona;2,50;;;
+DG-B20-FUN-TPU;Doogee;Blade20;Funda;Transparente;2,95;;;
+DG-B20-FUN-LIB;Doogee;Blade20;Funda;Libro;3,70;;;
+DG-B20-FUN-ANT;Doogee;Blade20;Funda;Antigolpes;3,10;;;
+DG-B20T-PRO-NA;Doogee;Blade20 Turbo;Cristal templado;Estándar;1,30;;;
+DG-B20T-PRO-PRI;Doogee;Blade20 Turbo;Cristal templado;Privacidad;4,00;;;
+DG-B20T-FUN-SIL;Doogee;Blade20 Turbo;Funda;Silicona;2,50;;;
+DG-B20T-FUN-TPU;Doogee;Blade20 Turbo;Funda;Transparente;2,95;;;
+DG-B20T-FUN-LIB;Doogee;Blade20 Turbo;Funda;Libro;3,70;;;
+DG-B20T-FUN-ANT;Doogee;Blade20 Turbo;Funda;Antigolpes;3,10;;;
+DG-N59-PRO-NA;Doogee;Note 59;Cristal templado;Estándar;1,30;;;
+DG-N59-PRO-PRI;Doogee;Note 59;Cristal templado;Privacidad;4,00;;;
+DG-N59-FUN-SIL;Doogee;Note 59;Funda;Silicona;2,50;;;
+DG-N59-FUN-TPU;Doogee;Note 59;Funda;Transparente;2,95;;;
+DG-N59-FUN-LIB;Doogee;Note 59;Funda;Libro;3,70;;;
+DG-N59-FUN-ANT;Doogee;Note 59;Funda;Antigolpes;3,10;;;
+DG-N58-PRO-NA;Doogee;Note 58;Cristal templado;Estándar;1,30;;;
+DG-N58-PRO-PRI;Doogee;Note 58;Cristal templado;Privacidad;4,00;;;
+DG-N58-FUN-SIL;Doogee;Note 58;Funda;Silicona;2,50;;;
+DG-N58-FUN-TPU;Doogee;Note 58;Funda;Transparente;2,95;;;
+DG-N58-FUN-LIB;Doogee;Note 58;Funda;Libro;3,70;;;
+DG-N58-FUN-ANT;Doogee;Note 58;Funda;Antigolpes;3,10;;;
+DG-SCP-PRO-NA;Doogee;S cyber Pro;Cristal templado;Estándar;1,30;;;
+DG-SCP-PRO-PRI;Doogee;S cyber Pro;Cristal templado;Privacidad;4,00;;;
+DG-SCP-FUN-SIL;Doogee;S cyber Pro;Funda;Silicona;2,50;;;
+DG-SCP-FUN-TPU;Doogee;S cyber Pro;Funda;Transparente;2,95;;;
+DG-SCP-FUN-LIB;Doogee;S cyber Pro;Funda;Libro;3,70;;;
+DG-SCP-FUN-ANT;Doogee;S cyber Pro;Funda;Antigolpes;3,10;;;
+DG-SCP-PCA-NA;Doogee;S cyber Pro;Protector de cámara;Cristal;2,90;;;
+DG-S200PL-PRO-NA;Doogee;S200 Plus;Cristal templado;Estándar;1,30;;;
+DG-VMPY-PRO-NA;Doogee;V Max Play;Cristal templado;Estándar;1,30;;;
+DG-VMPY-PRO-PRI;Doogee;V Max Play;Cristal templado;Privacidad;4,00;;;
+DG-VMPY-FUN-SIL;Doogee;V Max Play;Funda;Silicona;2,50;;;
+DG-VMPY-FUN-TPU;Doogee;V Max Play;Funda;Transparente;2,95;;;
+DG-VMPY-FUN-LIB;Doogee;V Max Play;Funda;Libro;3,70;;;
+DG-VMPY-FUN-ANT;Doogee;V Max Play;Funda;Antigolpes;3,10;;;
+DG-VMPY-PCA-NA;Doogee;V Max Play;Protector de cámara;Cristal;2,90;;;
+DG-VMS-PRO-NA;Doogee;V Max S;Cristal templado;Estándar;1,30;;;
+DG-VMS-PRO-PRI;Doogee;V Max S;Cristal templado;Privacidad;4,00;;;
+DG-VMS-FUN-SIL;Doogee;V Max S;Funda;Silicona;2,50;;;
+DG-VMS-FUN-TPU;Doogee;V Max S;Funda;Transparente;2,95;;;
+DG-VMS-FUN-LIB;Doogee;V Max S;Funda;Libro;3,70;;;
+DG-VMS-FUN-ANT;Doogee;V Max S;Funda;Antigolpes;3,10;;;
+DG-VMS-PCA-NA;Doogee;V Max S;Protector de cámara;Cristal;2,90;;;
+DG-B20U-PRO-NA;Doogee;Blade20 Ultra;Cristal templado;Estándar;1,30;;;
+DG-B20U-PRO-PRI;Doogee;Blade20 Ultra;Cristal templado;Privacidad;4,00;;;
+DG-B20U-FUN-SIL;Doogee;Blade20 Ultra;Funda;Silicona;2,50;;;
+DG-B20U-FUN-TPU;Doogee;Blade20 Ultra;Funda;Transparente;2,95;;;
+DG-B20U-FUN-LIB;Doogee;Blade20 Ultra;Funda;Libro;3,70;;;
+DG-B20U-FUN-ANT;Doogee;Blade20 Ultra;Funda;Antigolpes;3,10;;;
+DG-S300PL-PRO-NA;Doogee;S300 Plus;Cristal templado;Estándar;1,30;;;
+DG-S300P-PRO-NA;Doogee;S300 Pro;Cristal templado;Estándar;1,30;;;
+DG-VM2-PRO-NA;Doogee;V Max 2;Cristal templado;Estándar;1,30;;;
+DG-VM2-PRO-PRI;Doogee;V Max 2;Cristal templado;Privacidad;4,00;;;
+DG-VM2-FUN-SIL;Doogee;V Max 2;Funda;Silicona;2,50;;;
+DG-VM2-FUN-TPU;Doogee;V Max 2;Funda;Transparente;2,95;;;
+DG-VM2-FUN-LIB;Doogee;V Max 2;Funda;Libro;3,70;;;
+DG-VM2-FUN-ANT;Doogee;V Max 2;Funda;Antigolpes;3,10;;;
+DG-VM2-PCA-NA;Doogee;V Max 2;Protector de cámara;Cristal;2,90;;;
+DG-B20M-MAR-COM;Doogee;Blade20 Max;Marco / chasis;Compatible;6,89;;;6
+DG-B20M-BOT-COM;Doogee;Blade20 Max;Botones laterales;Compatible;3,55;;;6
+DG-B20M-CRI-COM;Doogee;Blade20 Max;Cristal de pantalla;Compatible;3,50;;;6
+DG-B20M-ANT-COM;Doogee;Blade20 Max;Antena / coaxial;Compatible;3,05;;;6
+DG-B20M-HUE-COM;Doogee;Blade20 Max;Botón home / huella;Compatible;5,09;;;6
+DG-B20PY-MAR-COM;Doogee;Blade20 Play;Marco / chasis;Compatible;6,89;;;6
+DG-B20PY-BOT-COM;Doogee;Blade20 Play;Botones laterales;Compatible;3,55;;;6
+DG-B20PY-CRI-COM;Doogee;Blade20 Play;Cristal de pantalla;Compatible;3,50;;;6
+DG-B20PY-ANT-COM;Doogee;Blade20 Play;Antena / coaxial;Compatible;3,05;;;6
+DG-B20PY-HUE-COM;Doogee;Blade20 Play;Botón home / huella;Compatible;5,09;;;6
+DG-B20PL-MAR-COM;Doogee;Blade20 Plus;Marco / chasis;Compatible;6,89;;;6
+DG-B20PL-BOT-COM;Doogee;Blade20 Plus;Botones laterales;Compatible;3,55;;;6
+DG-B20PL-CRI-COM;Doogee;Blade20 Plus;Cristal de pantalla;Compatible;3,50;;;6
+DG-B20PL-ANT-COM;Doogee;Blade20 Plus;Antena / coaxial;Compatible;3,05;;;6
+DG-B20PL-HUE-COM;Doogee;Blade20 Plus;Botón home / huella;Compatible;5,09;;;6
+DG-B20P-MAR-COM;Doogee;Blade20 Pro;Marco / chasis;Compatible;6,89;;;6
+DG-B20P-BOT-COM;Doogee;Blade20 Pro;Botones laterales;Compatible;3,55;;;6
+DG-B20P-CRI-COM;Doogee;Blade20 Pro;Cristal de pantalla;Compatible;3,50;;;6
+DG-B20P-ANT-COM;Doogee;Blade20 Pro;Antena / coaxial;Compatible;3,05;;;6
+DG-B20P-HUE-COM;Doogee;Blade20 Pro;Botón home / huella;Compatible;5,09;;;6
+DG-B20PM-MAR-COM;Doogee;Blade20 Pro Max;Marco / chasis;Compatible;6,89;;;6
+DG-B20PM-BOT-COM;Doogee;Blade20 Pro Max;Botones laterales;Compatible;3,55;;;6
+DG-B20PM-CRI-COM;Doogee;Blade20 Pro Max;Cristal de pantalla;Compatible;3,50;;;6
+DG-B20PM-ANT-COM;Doogee;Blade20 Pro Max;Antena / coaxial;Compatible;3,05;;;6
+DG-B20PM-HUE-COM;Doogee;Blade20 Pro Max;Botón home / huella;Compatible;5,09;;;6
+DG-N50PL-MAR-COM;Doogee;N50 Plus;Marco / chasis;Compatible;6,25;;;6
+DG-N50PL-BOT-COM;Doogee;N50 Plus;Botones laterales;Compatible;3,20;;;6
+DG-N50PL-CRI-COM;Doogee;N50 Plus;Cristal de pantalla;Compatible;3,20;;;6
+DG-N50PL-ANT-COM;Doogee;N50 Plus;Antena / coaxial;Compatible;2,79;;;6
+DG-N50PL-HUE-COM;Doogee;N50 Plus;Botón home / huella;Compatible;4,60;;;6
+DG-N50P-MAR-COM;Doogee;N50 Pro;Marco / chasis;Compatible;6,25;;;6
+DG-N50P-BOT-COM;Doogee;N50 Pro;Botones laterales;Compatible;3,20;;;6
+DG-N50P-CRI-COM;Doogee;N50 Pro;Cristal de pantalla;Compatible;3,20;;;6
+DG-N50P-ANT-COM;Doogee;N50 Pro;Antena / coaxial;Compatible;2,79;;;6
+DG-N50P-HUE-COM;Doogee;N50 Pro;Botón home / huella;Compatible;4,60;;;6
+DG-N58P-MAR-COM;Doogee;Note 58 Pro;Marco / chasis;Compatible;6,89;;;6
+DG-N58P-BOT-COM;Doogee;Note 58 Pro;Botones laterales;Compatible;3,55;;;6
+DG-N58P-CRI-COM;Doogee;Note 58 Pro;Cristal de pantalla;Compatible;3,50;;;6
+DG-N58P-ANT-COM;Doogee;Note 58 Pro;Antena / coaxial;Compatible;3,05;;;6
+DG-N58P-HUE-COM;Doogee;Note 58 Pro;Botón home / huella;Compatible;5,09;;;6
+DG-N59P-MAR-COM;Doogee;Note 59 Pro;Marco / chasis;Compatible;6,89;;;6
+DG-N59P-BOT-COM;Doogee;Note 59 Pro;Botones laterales;Compatible;3,55;;;6
+DG-N59P-CRI-COM;Doogee;Note 59 Pro;Cristal de pantalla;Compatible;3,50;;;6
+DG-N59P-ANT-COM;Doogee;Note 59 Pro;Antena / coaxial;Compatible;3,05;;;6
+DG-N59P-HUE-COM;Doogee;Note 59 Pro;Botón home / huella;Compatible;5,09;;;6
+DG-N59PPL-MAR-COM;Doogee;Note 59 Pro+;Marco / chasis;Compatible;6,89;;;6
+DG-N59PPL-BOT-COM;Doogee;Note 59 Pro+;Botones laterales;Compatible;3,55;;;6
+DG-N59PPL-CRI-COM;Doogee;Note 59 Pro+;Cristal de pantalla;Compatible;3,50;;;6
+DG-N59PPL-ANT-COM;Doogee;Note 59 Pro+;Antena / coaxial;Compatible;3,05;;;6
+DG-N59PPL-HUE-COM;Doogee;Note 59 Pro+;Botón home / huella;Compatible;5,09;;;6
+DG-S200M-MAR-COM;Doogee;S200 Max;Marco / chasis;Compatible;7,90;;;6
+DG-S200M-BOT-COM;Doogee;S200 Max;Botones laterales;Compatible;4,05;;;6
+DG-S200M-ANT-COM;Doogee;S200 Max;Antena / coaxial;Compatible;3,50;;;6
+DG-S200M-HUE-COM;Doogee;S200 Max;Botón home / huella;Compatible;5,85;;;6
+DG-S200P-MAR-COM;Doogee;S200 Pro;Marco / chasis;Compatible;7,90;;;6
+DG-S200P-BOT-COM;Doogee;S200 Pro;Botones laterales;Compatible;4,05;;;6
+DG-S200P-ANT-COM;Doogee;S200 Pro;Antena / coaxial;Compatible;3,50;;;6
+DG-S200P-HUE-COM;Doogee;S200 Pro;Botón home / huella;Compatible;5,85;;;6
+DG-S200U-MAR-COM;Doogee;S200 Ultra;Marco / chasis;Compatible;7,90;;;6
+DG-S200U-BOT-COM;Doogee;S200 Ultra;Botones laterales;Compatible;4,05;;;6
+DG-S200U-ANT-COM;Doogee;S200 Ultra;Antena / coaxial;Compatible;3,50;;;6
+DG-S200U-HUE-COM;Doogee;S200 Ultra;Botón home / huella;Compatible;5,85;;;6
+DG-V20P-MAR-COM;Doogee;V20 Pro;Marco / chasis;Compatible;6,25;;;6
+DG-V20P-BOT-COM;Doogee;V20 Pro;Botones laterales;Compatible;3,20;;;6
+DG-V20P-CRI-COM;Doogee;V20 Pro;Cristal de pantalla;Compatible;3,20;;;6
+DG-V20P-ANT-COM;Doogee;V20 Pro;Antena / coaxial;Compatible;2,79;;;6
+DG-V20P-HUE-COM;Doogee;V20 Pro;Botón home / huella;Compatible;4,60;;;6
+DG-V30P-MAR-COM;Doogee;V30 Pro;Marco / chasis;Compatible;6,25;;;6
+DG-V30P-BOT-COM;Doogee;V30 Pro;Botones laterales;Compatible;3,20;;;6
+DG-V30P-CRI-COM;Doogee;V30 Pro;Cristal de pantalla;Compatible;3,20;;;6
+DG-V30P-ANT-COM;Doogee;V30 Pro;Antena / coaxial;Compatible;2,79;;;6
+DG-V30P-HUE-COM;Doogee;V30 Pro;Botón home / huella;Compatible;4,60;;;6
+DG-S95P-MAR-COM;Doogee;S95 Pro;Marco / chasis;Compatible;6,49;;;6
+DG-S95P-BOT-COM;Doogee;S95 Pro;Botones laterales;Compatible;3,35;;;6
+DG-S95P-ANT-COM;Doogee;S95 Pro;Antena / coaxial;Compatible;2,89;;;6
+DG-S95P-HUE-COM;Doogee;S95 Pro;Botón home / huella;Compatible;4,79;;;6
+DG-S88P-MAR-COM;Doogee;S88 Pro;Marco / chasis;Compatible;7,20;;;6
+DG-S88P-BOT-COM;Doogee;S88 Pro;Botones laterales;Compatible;3,70;;;6
+DG-S88P-ANT-COM;Doogee;S88 Pro;Antena / coaxial;Compatible;3,20;;;6
+DG-S88P-HUE-COM;Doogee;S88 Pro;Botón home / huella;Compatible;5,30;;;6
+DG-N30-MAR-COM;Doogee;N30;Marco / chasis;Compatible;6,25;;;6
+DG-N30-BOT-COM;Doogee;N30;Botones laterales;Compatible;3,20;;;6
+DG-N30-CRI-COM;Doogee;N30;Cristal de pantalla;Compatible;3,20;;;6
+DG-N30-ANT-COM;Doogee;N30;Antena / coaxial;Compatible;2,79;;;6
+DG-N30-HUE-COM;Doogee;N30;Botón home / huella;Compatible;4,60;;;6
+DG-S40P-MAR-COM;Doogee;S40 Pro;Marco / chasis;Compatible;7,20;;;6
+DG-S40P-BOT-COM;Doogee;S40 Pro;Botones laterales;Compatible;3,70;;;6
+DG-S40P-ANT-COM;Doogee;S40 Pro;Antena / coaxial;Compatible;3,20;;;6
+DG-S40P-HUE-COM;Doogee;S40 Pro;Botón home / huella;Compatible;5,30;;;6
+DG-S59P-MAR-COM;Doogee;S59 Pro;Marco / chasis;Compatible;7,20;;;6
+DG-S59P-BOT-COM;Doogee;S59 Pro;Botones laterales;Compatible;3,70;;;6
+DG-S59P-ANT-COM;Doogee;S59 Pro;Antena / coaxial;Compatible;3,20;;;6
+DG-S59P-HUE-COM;Doogee;S59 Pro;Botón home / huella;Compatible;5,30;;;6
+DG-S96GT-MAR-COM;Doogee;S96 GT;Marco / chasis;Compatible;7,20;;;6
+DG-S96GT-BOT-COM;Doogee;S96 GT;Botones laterales;Compatible;3,70;;;6
+DG-S96GT-ANT-COM;Doogee;S96 GT;Antena / coaxial;Compatible;3,20;;;6
+DG-S96GT-HUE-COM;Doogee;S96 GT;Botón home / huella;Compatible;5,30;;;6
+DG-V20-MAR-COM;Doogee;V20;Marco / chasis;Compatible;6,25;;;6
+DG-V20-BOT-COM;Doogee;V20;Botones laterales;Compatible;3,20;;;6
+DG-V20-CRI-COM;Doogee;V20;Cristal de pantalla;Compatible;3,20;;;6
+DG-V20-ANT-COM;Doogee;V20;Antena / coaxial;Compatible;2,79;;;6
+DG-V20-HUE-COM;Doogee;V20;Botón home / huella;Compatible;4,60;;;6
+DG-S61P-MAR-COM;Doogee;S61 Pro;Marco / chasis;Compatible;7,20;;;6
+DG-S61P-BOT-COM;Doogee;S61 Pro;Botones laterales;Compatible;3,70;;;6
+DG-S61P-ANT-COM;Doogee;S61 Pro;Antena / coaxial;Compatible;3,20;;;6
+DG-S61P-HUE-COM;Doogee;S61 Pro;Botón home / huella;Compatible;5,30;;;6
+DG-S98P-MAR-COM;Doogee;S98 Pro;Marco / chasis;Compatible;7,20;;;6
+DG-S98P-BOT-COM;Doogee;S98 Pro;Botones laterales;Compatible;3,70;;;6
+DG-S98P-ANT-COM;Doogee;S98 Pro;Antena / coaxial;Compatible;3,20;;;6
+DG-S98P-HUE-COM;Doogee;S98 Pro;Botón home / huella;Compatible;5,30;;;6
+DG-V30-MAR-COM;Doogee;V30;Marco / chasis;Compatible;6,25;;;6
+DG-V30-BOT-COM;Doogee;V30;Botones laterales;Compatible;3,20;;;6
+DG-V30-CRI-COM;Doogee;V30;Cristal de pantalla;Compatible;3,20;;;6
+DG-V30-ANT-COM;Doogee;V30;Antena / coaxial;Compatible;2,79;;;6
+DG-V30-HUE-COM;Doogee;V30;Botón home / huella;Compatible;4,60;;;6
+DG-N50-MAR-COM;Doogee;N50;Marco / chasis;Compatible;6,25;;;6
+DG-N50-BOT-COM;Doogee;N50;Botones laterales;Compatible;3,20;;;6
+DG-N50-CRI-COM;Doogee;N50;Cristal de pantalla;Compatible;3,20;;;6
+DG-N50-ANT-COM;Doogee;N50;Antena / coaxial;Compatible;2,79;;;6
+DG-N50-HUE-COM;Doogee;N50;Botón home / huella;Compatible;4,60;;;6
+DG-S200-MAR-COM;Doogee;S200;Marco / chasis;Compatible;7,90;;;6
+DG-S200-BOT-COM;Doogee;S200;Botones laterales;Compatible;4,05;;;6
+DG-S200-ANT-COM;Doogee;S200;Antena / coaxial;Compatible;3,50;;;6
+DG-S200-HUE-COM;Doogee;S200;Botón home / huella;Compatible;5,85;;;6
+DG-VMPL-MAR-COM;Doogee;V Max Plus;Marco / chasis;Compatible;6,89;;;6
+DG-VMPL-BOT-COM;Doogee;V Max Plus;Botones laterales;Compatible;3,55;;;6
+DG-VMPL-CRI-COM;Doogee;V Max Plus;Cristal de pantalla;Compatible;3,50;;;6
+DG-VMPL-ANT-COM;Doogee;V Max Plus;Antena / coaxial;Compatible;3,05;;;6
+DG-VMPL-HUE-COM;Doogee;V Max Plus;Botón home / huella;Compatible;5,09;;;6
+DG-VMP-MAR-COM;Doogee;V Max Pro;Marco / chasis;Compatible;6,89;;;6
+DG-VMP-BOT-COM;Doogee;V Max Pro;Botones laterales;Compatible;3,55;;;6
+DG-VMP-CRI-COM;Doogee;V Max Pro;Cristal de pantalla;Compatible;3,50;;;6
+DG-VMP-ANT-COM;Doogee;V Max Pro;Antena / coaxial;Compatible;3,05;;;6
+DG-VMP-HUE-COM;Doogee;V Max Pro;Botón home / huella;Compatible;5,09;;;6
+DG-B20-MAR-COM;Doogee;Blade20;Marco / chasis;Compatible;6,89;;;6
+DG-B20-BOT-COM;Doogee;Blade20;Botones laterales;Compatible;3,55;;;6
+DG-B20-CRI-COM;Doogee;Blade20;Cristal de pantalla;Compatible;3,50;;;6
+DG-B20-ANT-COM;Doogee;Blade20;Antena / coaxial;Compatible;3,05;;;6
+DG-B20-HUE-COM;Doogee;Blade20;Botón home / huella;Compatible;5,09;;;6
+DG-B20T-MAR-COM;Doogee;Blade20 Turbo;Marco / chasis;Compatible;6,89;;;6
+DG-B20T-BOT-COM;Doogee;Blade20 Turbo;Botones laterales;Compatible;3,55;;;6
+DG-B20T-CRI-COM;Doogee;Blade20 Turbo;Cristal de pantalla;Compatible;3,50;;;6
+DG-B20T-ANT-COM;Doogee;Blade20 Turbo;Antena / coaxial;Compatible;3,05;;;6
+DG-B20T-HUE-COM;Doogee;Blade20 Turbo;Botón home / huella;Compatible;5,09;;;6
+DG-N59-MAR-COM;Doogee;Note 59;Marco / chasis;Compatible;6,89;;;6
+DG-N59-BOT-COM;Doogee;Note 59;Botones laterales;Compatible;3,55;;;6
+DG-N59-CRI-COM;Doogee;Note 59;Cristal de pantalla;Compatible;3,50;;;6
+DG-N59-ANT-COM;Doogee;Note 59;Antena / coaxial;Compatible;3,05;;;6
+DG-N59-HUE-COM;Doogee;Note 59;Botón home / huella;Compatible;5,09;;;6
+DG-N58-MAR-COM;Doogee;Note 58;Marco / chasis;Compatible;6,89;;;6
+DG-N58-BOT-COM;Doogee;Note 58;Botones laterales;Compatible;3,55;;;6
+DG-N58-CRI-COM;Doogee;Note 58;Cristal de pantalla;Compatible;3,50;;;6
+DG-N58-ANT-COM;Doogee;Note 58;Antena / coaxial;Compatible;3,05;;;6
+DG-N58-HUE-COM;Doogee;Note 58;Botón home / huella;Compatible;5,09;;;6
+DG-SCP-MAR-COM;Doogee;S cyber Pro;Marco / chasis;Compatible;6,89;;;6
+DG-SCP-BOT-COM;Doogee;S cyber Pro;Botones laterales;Compatible;3,55;;;6
+DG-SCP-CRI-COM;Doogee;S cyber Pro;Cristal de pantalla;Compatible;3,50;;;6
+DG-SCP-ANT-COM;Doogee;S cyber Pro;Antena / coaxial;Compatible;3,05;;;6
+DG-SCP-HUE-COM;Doogee;S cyber Pro;Botón home / huella;Compatible;5,09;;;6
+DG-S200PL-MAR-COM;Doogee;S200 Plus;Marco / chasis;Compatible;7,90;;;6
+DG-S200PL-BOT-COM;Doogee;S200 Plus;Botones laterales;Compatible;4,05;;;6
+DG-S200PL-ANT-COM;Doogee;S200 Plus;Antena / coaxial;Compatible;3,50;;;6
+DG-S200PL-HUE-COM;Doogee;S200 Plus;Botón home / huella;Compatible;5,85;;;6
+DG-VMPY-MAR-COM;Doogee;V Max Play;Marco / chasis;Compatible;6,89;;;6
+DG-VMPY-BOT-COM;Doogee;V Max Play;Botones laterales;Compatible;3,55;;;6
+DG-VMPY-CRI-COM;Doogee;V Max Play;Cristal de pantalla;Compatible;3,50;;;6
+DG-VMPY-ANT-COM;Doogee;V Max Play;Antena / coaxial;Compatible;3,05;;;6
+DG-VMPY-HUE-COM;Doogee;V Max Play;Botón home / huella;Compatible;5,09;;;6
+DG-VMS-MAR-COM;Doogee;V Max S;Marco / chasis;Compatible;6,89;;;6
+DG-VMS-BOT-COM;Doogee;V Max S;Botones laterales;Compatible;3,55;;;6
+DG-VMS-CRI-COM;Doogee;V Max S;Cristal de pantalla;Compatible;3,50;;;6
+DG-VMS-ANT-COM;Doogee;V Max S;Antena / coaxial;Compatible;3,05;;;6
+DG-VMS-HUE-COM;Doogee;V Max S;Botón home / huella;Compatible;5,09;;;6
+DG-B20U-MAR-COM;Doogee;Blade20 Ultra;Marco / chasis;Compatible;6,89;;;6
+DG-B20U-BOT-COM;Doogee;Blade20 Ultra;Botones laterales;Compatible;3,55;;;6
+DG-B20U-CRI-COM;Doogee;Blade20 Ultra;Cristal de pantalla;Compatible;3,50;;;6
+DG-B20U-ANT-COM;Doogee;Blade20 Ultra;Antena / coaxial;Compatible;3,05;;;6
+DG-B20U-HUE-COM;Doogee;Blade20 Ultra;Botón home / huella;Compatible;5,09;;;6
+DG-S300PL-MAR-COM;Doogee;S300 Plus;Marco / chasis;Compatible;7,90;;;6
+DG-S300PL-BOT-COM;Doogee;S300 Plus;Botones laterales;Compatible;4,05;;;6
+DG-S300PL-ANT-COM;Doogee;S300 Plus;Antena / coaxial;Compatible;3,50;;;6
+DG-S300PL-HUE-COM;Doogee;S300 Plus;Botón home / huella;Compatible;5,85;;;6
+DG-S300P-MAR-COM;Doogee;S300 Pro;Marco / chasis;Compatible;7,90;;;6
+DG-S300P-BOT-COM;Doogee;S300 Pro;Botones laterales;Compatible;4,05;;;6
+DG-S300P-ANT-COM;Doogee;S300 Pro;Antena / coaxial;Compatible;3,50;;;6
+DG-S300P-HUE-COM;Doogee;S300 Pro;Botón home / huella;Compatible;5,85;;;6
+DG-VM2-MAR-COM;Doogee;V Max 2;Marco / chasis;Compatible;6,89;;;6
+DG-VM2-BOT-COM;Doogee;V Max 2;Botones laterales;Compatible;3,55;;;6
+DG-VM2-CRI-COM;Doogee;V Max 2;Cristal de pantalla;Compatible;3,50;;;6
+DG-VM2-ANT-COM;Doogee;V Max 2;Antena / coaxial;Compatible;3,05;;;6
+DG-VM2-HUE-COM;Doogee;V Max 2;Botón home / huella;Compatible;5,09;;;6

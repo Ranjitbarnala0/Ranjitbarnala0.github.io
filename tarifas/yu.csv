@@ -1,0 +1,22 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+YU-Y-PAN-COM;YU;Yureka;Pantalla;Compatible;15,15;14,70;14,24;6
+YU-Y-BAT-COM;YU;Yureka;Batería;Compatible;9,65;;;6
+YU-Y-CON-COM;YU;Yureka;Conector de carga;Compatible;4,60;;;6
+YU-Y-TAP-COM;YU;Yureka;Tapa trasera;Compatible;5,40;;;6
+YU-Y-CTR-COM;YU;Yureka;Cámara trasera;Compatible;7,59;;;6
+YU-Y-CFR-COM;YU;Yureka;Cámara frontal;Compatible;4,99;;;6
+YU-Y-LEN-COM;YU;Yureka;Lente de cámara;Compatible;2,19;;;6
+YU-Y-ALT-COM;YU;Yureka;Altavoz;Compatible;3,65;;;6
+YU-Y-AUR-COM;YU;Yureka;Auricular de llamada;Compatible;2,65;;;6
+YU-Y-FLX-COM;YU;Yureka;Flex de encendido y volumen;Compatible;2,49;;;6
+YU-Y-SIM-COM;YU;Yureka;Bandeja SIM;Compatible;2,55;;;6
+YU-Y-PRO-NA;YU;Yureka;Cristal templado;Estándar;1,30;;;
+YU-Y-PRO-PRI;YU;Yureka;Cristal templado;Privacidad;4,00;;;
+YU-Y-FUN-SIL;YU;Yureka;Funda;Silicona;2,50;;;
+YU-Y-FUN-TPU;YU;Yureka;Funda;Transparente;2,95;;;
+YU-Y-FUN-LIB;YU;Yureka;Funda;Libro;3,70;;;
+YU-Y-FUN-ANT;YU;Yureka;Funda;Antigolpes;3,10;;;
+YU-Y-MAR-COM;YU;Yureka;Marco / chasis;Compatible;5,75;;;6
+YU-Y-BOT-COM;YU;Yureka;Botones laterales;Compatible;2,95;;;6
+YU-Y-CRI-COM;YU;Yureka;Cristal de pantalla;Compatible;2,95;;;6
+YU-Y-ANT-COM;YU;Yureka;Antena / coaxial;Compatible;2,55;;;6

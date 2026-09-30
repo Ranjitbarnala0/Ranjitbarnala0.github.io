@@ -1,0 +1,320 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+OU-C21PL-PAN-COM;Oukitel;C21 Plus;Pantalla;Compatible;13,80;13,39;12,97;6
+OU-C21PL-BAT-COM;Oukitel;C21 Plus;Batería;Compatible;7,60;;;6
+OU-C21PL-CON-COM;Oukitel;C21 Plus;Conector de carga;Compatible;3,55;;;6
+OU-C21PL-TAP-COM;Oukitel;C21 Plus;Tapa trasera;Compatible;4,95;;;6
+OU-C21PL-CTR-COM;Oukitel;C21 Plus;Cámara trasera;Compatible;5,45;;;6
+OU-C21PL-CFR-COM;Oukitel;C21 Plus;Cámara frontal;Compatible;3,45;;;6
+OU-C21PL-LEN-COM;Oukitel;C21 Plus;Lente de cámara;Compatible;2,25;;;6
+OU-C21PL-ALT-COM;Oukitel;C21 Plus;Altavoz;Compatible;3,29;;;6
+OU-C21PL-AUR-COM;Oukitel;C21 Plus;Auricular de llamada;Compatible;2,45;;;6
+OU-C21PL-FLX-COM;Oukitel;C21 Plus;Flex de encendido y volumen;Compatible;2,35;;;6
+OU-C21PL-SIM-COM;Oukitel;C21 Plus;Bandeja SIM;Compatible;2,75;;;6
+OU-C21P-PAN-COM;Oukitel;C21 Pro;Pantalla;Compatible;13,80;13,39;12,97;6
+OU-C21P-BAT-COM;Oukitel;C21 Pro;Batería;Compatible;7,60;;;6
+OU-C21P-CON-COM;Oukitel;C21 Pro;Conector de carga;Compatible;3,55;;;6
+OU-C21P-TAP-COM;Oukitel;C21 Pro;Tapa trasera;Compatible;4,95;;;6
+OU-C21P-CTR-COM;Oukitel;C21 Pro;Cámara trasera;Compatible;5,45;;;6
+OU-C21P-CFR-COM;Oukitel;C21 Pro;Cámara frontal;Compatible;3,45;;;6
+OU-C21P-LEN-COM;Oukitel;C21 Pro;Lente de cámara;Compatible;2,25;;;6
+OU-C21P-ALT-COM;Oukitel;C21 Pro;Altavoz;Compatible;3,29;;;6
+OU-C21P-AUR-COM;Oukitel;C21 Pro;Auricular de llamada;Compatible;2,45;;;6
+OU-C21P-FLX-COM;Oukitel;C21 Pro;Flex de encendido y volumen;Compatible;2,35;;;6
+OU-C21P-SIM-COM;Oukitel;C21 Pro;Bandeja SIM;Compatible;2,75;;;6
+OU-WP12P-PAN-COM;Oukitel;WP12 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+OU-WP12P-BAT-COM;Oukitel;WP12 Pro;Batería;Compatible;8,25;;;6
+OU-WP12P-CON-COM;Oukitel;WP12 Pro;Conector de carga;Compatible;4,40;;;6
+OU-WP12P-TAP-COM;Oukitel;WP12 Pro;Tapa trasera;Compatible;5,55;;;6
+OU-WP12P-CTR-COM;Oukitel;WP12 Pro;Cámara trasera;Compatible;6,19;;;6
+OU-WP12P-CFR-COM;Oukitel;WP12 Pro;Cámara frontal;Compatible;3,65;;;6
+OU-WP12P-LEN-COM;Oukitel;WP12 Pro;Lente de cámara;Compatible;2,20;;;6
+OU-WP12P-ALT-COM;Oukitel;WP12 Pro;Altavoz;Compatible;3,35;;;6
+OU-WP12P-AUR-COM;Oukitel;WP12 Pro;Auricular de llamada;Compatible;2,40;;;6
+OU-WP12P-FLX-COM;Oukitel;WP12 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+OU-WP12P-SIM-COM;Oukitel;WP12 Pro;Bandeja SIM;Compatible;2,60;;;6
+OU-WP19P-PAN-COM;Oukitel;WP19 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+OU-WP19P-BAT-COM;Oukitel;WP19 Pro;Batería;Compatible;8,25;;;6
+OU-WP19P-CON-COM;Oukitel;WP19 Pro;Conector de carga;Compatible;4,40;;;6
+OU-WP19P-TAP-COM;Oukitel;WP19 Pro;Tapa trasera;Compatible;5,55;;;6
+OU-WP19P-CTR-COM;Oukitel;WP19 Pro;Cámara trasera;Compatible;6,19;;;6
+OU-WP19P-CFR-COM;Oukitel;WP19 Pro;Cámara frontal;Compatible;3,65;;;6
+OU-WP19P-LEN-COM;Oukitel;WP19 Pro;Lente de cámara;Compatible;2,20;;;6
+OU-WP19P-ALT-COM;Oukitel;WP19 Pro;Altavoz;Compatible;3,35;;;6
+OU-WP19P-AUR-COM;Oukitel;WP19 Pro;Auricular de llamada;Compatible;2,40;;;6
+OU-WP19P-FLX-COM;Oukitel;WP19 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+OU-WP19P-SIM-COM;Oukitel;WP19 Pro;Bandeja SIM;Compatible;2,60;;;6
+OU-WP20P-PAN-COM;Oukitel;WP20 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+OU-WP20P-BAT-COM;Oukitel;WP20 Pro;Batería;Compatible;8,25;;;6
+OU-WP20P-CON-COM;Oukitel;WP20 Pro;Conector de carga;Compatible;4,40;;;6
+OU-WP20P-TAP-COM;Oukitel;WP20 Pro;Tapa trasera;Compatible;5,55;;;6
+OU-WP20P-CTR-COM;Oukitel;WP20 Pro;Cámara trasera;Compatible;6,19;;;6
+OU-WP20P-CFR-COM;Oukitel;WP20 Pro;Cámara frontal;Compatible;3,65;;;6
+OU-WP20P-LEN-COM;Oukitel;WP20 Pro;Lente de cámara;Compatible;2,20;;;6
+OU-WP20P-ALT-COM;Oukitel;WP20 Pro;Altavoz;Compatible;3,35;;;6
+OU-WP20P-AUR-COM;Oukitel;WP20 Pro;Auricular de llamada;Compatible;2,40;;;6
+OU-WP20P-FLX-COM;Oukitel;WP20 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+OU-WP20P-SIM-COM;Oukitel;WP20 Pro;Bandeja SIM;Compatible;2,60;;;6
+OU-WP35P-PAN-COM;Oukitel;WP35 Pro;Pantalla;Compatible;17,15;16,64;16,12;6
+OU-WP35P-BAT-COM;Oukitel;WP35 Pro;Batería;Compatible;9,40;;;6
+OU-WP35P-CON-COM;Oukitel;WP35 Pro;Conector de carga;Compatible;5,05;;;6
+OU-WP35P-TAP-COM;Oukitel;WP35 Pro;Tapa trasera;Compatible;6,20;;;6
+OU-WP35P-CTR-COM;Oukitel;WP35 Pro;Cámara trasera;Compatible;8,65;;;6
+OU-WP35P-CFR-COM;Oukitel;WP35 Pro;Cámara frontal;Compatible;5,35;;;6
+OU-WP35P-LEN-COM;Oukitel;WP35 Pro;Lente de cámara;Compatible;2,30;;;6
+OU-WP35P-ALT-COM;Oukitel;WP35 Pro;Altavoz;Compatible;3,60;;;6
+OU-WP35P-AUR-COM;Oukitel;WP35 Pro;Auricular de llamada;Compatible;2,65;;;6
+OU-WP35P-FLX-COM;Oukitel;WP35 Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+OU-WP35P-SIM-COM;Oukitel;WP35 Pro;Bandeja SIM;Compatible;2,55;;;6
+OU-WP5P-PAN-COM;Oukitel;WP5 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+OU-WP5P-BAT-COM;Oukitel;WP5 Pro;Batería;Compatible;8,25;;;6
+OU-WP5P-CON-COM;Oukitel;WP5 Pro;Conector de carga;Compatible;4,40;;;6
+OU-WP5P-TAP-COM;Oukitel;WP5 Pro;Tapa trasera;Compatible;5,55;;;6
+OU-WP5P-CTR-COM;Oukitel;WP5 Pro;Cámara trasera;Compatible;6,19;;;6
+OU-WP5P-CFR-COM;Oukitel;WP5 Pro;Cámara frontal;Compatible;3,65;;;6
+OU-WP5P-LEN-COM;Oukitel;WP5 Pro;Lente de cámara;Compatible;2,20;;;6
+OU-WP5P-ALT-COM;Oukitel;WP5 Pro;Altavoz;Compatible;3,35;;;6
+OU-WP5P-AUR-COM;Oukitel;WP5 Pro;Auricular de llamada;Compatible;2,40;;;6
+OU-WP5P-FLX-COM;Oukitel;WP5 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+OU-WP5P-SIM-COM;Oukitel;WP5 Pro;Bandeja SIM;Compatible;2,60;;;6
+OU-C21-PAN-COM;Oukitel;C21;Pantalla;Compatible;13,80;13,39;12,97;6
+OU-C21-BAT-COM;Oukitel;C21;Batería;Compatible;7,60;;;6
+OU-C21-CON-COM;Oukitel;C21;Conector de carga;Compatible;3,55;;;6
+OU-C21-TAP-COM;Oukitel;C21;Tapa trasera;Compatible;4,95;;;6
+OU-C21-CTR-COM;Oukitel;C21;Cámara trasera;Compatible;5,45;;;6
+OU-C21-CFR-COM;Oukitel;C21;Cámara frontal;Compatible;3,45;;;6
+OU-C21-LEN-COM;Oukitel;C21;Lente de cámara;Compatible;2,25;;;6
+OU-C21-ALT-COM;Oukitel;C21;Altavoz;Compatible;3,29;;;6
+OU-C21-AUR-COM;Oukitel;C21;Auricular de llamada;Compatible;2,45;;;6
+OU-C21-FLX-COM;Oukitel;C21;Flex de encendido y volumen;Compatible;2,35;;;6
+OU-C21-SIM-COM;Oukitel;C21;Bandeja SIM;Compatible;2,75;;;6
+OU-WP8P-PAN-COM;Oukitel;WP8 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+OU-WP8P-BAT-COM;Oukitel;WP8 Pro;Batería;Compatible;8,25;;;6
+OU-WP8P-CON-COM;Oukitel;WP8 Pro;Conector de carga;Compatible;4,40;;;6
+OU-WP8P-TAP-COM-NAR;Oukitel;WP8 Pro;Tapa trasera;Naranja;5,55;;;6
+OU-WP8P-TAP-COM-NEG;Oukitel;WP8 Pro;Tapa trasera;Negro (Midnight Black);5,55;;;6
+OU-WP8P-CTR-COM;Oukitel;WP8 Pro;Cámara trasera;Compatible;6,19;;;6
+OU-WP8P-CFR-COM;Oukitel;WP8 Pro;Cámara frontal;Compatible;3,65;;;6
+OU-WP8P-LEN-COM;Oukitel;WP8 Pro;Lente de cámara;Compatible;2,20;;;6
+OU-WP8P-ALT-COM;Oukitel;WP8 Pro;Altavoz;Compatible;3,35;;;6
+OU-WP8P-AUR-COM;Oukitel;WP8 Pro;Auricular de llamada;Compatible;2,40;;;6
+OU-WP8P-FLX-COM;Oukitel;WP8 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+OU-WP8P-SIM-COM;Oukitel;WP8 Pro;Bandeja SIM;Compatible;2,60;;;6
+OU-WP10-PAN-COM;Oukitel;WP10;Pantalla;Compatible;16,10;15,62;15,13;6
+OU-WP10-BAT-COM;Oukitel;WP10;Batería;Compatible;8,25;;;6
+OU-WP10-CON-COM;Oukitel;WP10;Conector de carga;Compatible;4,40;;;6
+OU-WP10-TAP-COM;Oukitel;WP10;Tapa trasera;Compatible;5,55;;;6
+OU-WP10-CTR-COM;Oukitel;WP10;Cámara trasera;Compatible;6,19;;;6
+OU-WP10-CFR-COM;Oukitel;WP10;Cámara frontal;Compatible;3,65;;;6
+OU-WP10-LEN-COM;Oukitel;WP10;Lente de cámara;Compatible;2,20;;;6
+OU-WP10-ALT-COM;Oukitel;WP10;Altavoz;Compatible;3,35;;;6
+OU-WP10-AUR-COM;Oukitel;WP10;Auricular de llamada;Compatible;2,40;;;6
+OU-WP10-FLX-COM;Oukitel;WP10;Flex de encendido y volumen;Compatible;2,29;;;6
+OU-WP10-SIM-COM;Oukitel;WP10;Bandeja SIM;Compatible;2,60;;;6
+OU-WP12-PAN-COM;Oukitel;WP12;Pantalla;Compatible;16,10;15,62;15,13;6
+OU-WP12-BAT-COM;Oukitel;WP12;Batería;Compatible;8,25;;;6
+OU-WP12-CON-COM;Oukitel;WP12;Conector de carga;Compatible;4,40;;;6
+OU-WP12-TAP-COM;Oukitel;WP12;Tapa trasera;Compatible;5,55;;;6
+OU-WP12-CTR-COM;Oukitel;WP12;Cámara trasera;Compatible;6,19;;;6
+OU-WP12-CFR-COM;Oukitel;WP12;Cámara frontal;Compatible;3,65;;;6
+OU-WP12-LEN-COM;Oukitel;WP12;Lente de cámara;Compatible;2,20;;;6
+OU-WP12-ALT-COM;Oukitel;WP12;Altavoz;Compatible;3,35;;;6
+OU-WP12-AUR-COM;Oukitel;WP12;Auricular de llamada;Compatible;2,40;;;6
+OU-WP12-FLX-COM;Oukitel;WP12;Flex de encendido y volumen;Compatible;2,29;;;6
+OU-WP12-SIM-COM;Oukitel;WP12;Bandeja SIM;Compatible;2,60;;;6
+OU-WP15-PAN-COM;Oukitel;WP15;Pantalla;Compatible;16,10;15,62;15,13;6
+OU-WP15-BAT-COM;Oukitel;WP15;Batería;Compatible;8,25;;;6
+OU-WP15-CON-COM;Oukitel;WP15;Conector de carga;Compatible;4,40;;;6
+OU-WP15-TAP-COM;Oukitel;WP15;Tapa trasera;Compatible;5,55;;;6
+OU-WP15-CTR-COM;Oukitel;WP15;Cámara trasera;Compatible;6,19;;;6
+OU-WP15-CFR-COM;Oukitel;WP15;Cámara frontal;Compatible;3,65;;;6
+OU-WP15-LEN-COM;Oukitel;WP15;Lente de cámara;Compatible;2,20;;;6
+OU-WP15-ALT-COM;Oukitel;WP15;Altavoz;Compatible;3,35;;;6
+OU-WP15-AUR-COM;Oukitel;WP15;Auricular de llamada;Compatible;2,40;;;6
+OU-WP15-FLX-COM;Oukitel;WP15;Flex de encendido y volumen;Compatible;2,29;;;6
+OU-WP15-SIM-COM;Oukitel;WP15;Bandeja SIM;Compatible;2,60;;;6
+OU-WP20-PAN-COM;Oukitel;WP20;Pantalla;Compatible;16,10;15,62;15,13;6
+OU-WP20-BAT-COM;Oukitel;WP20;Batería;Compatible;8,25;;;6
+OU-WP20-CON-COM;Oukitel;WP20;Conector de carga;Compatible;4,40;;;6
+OU-WP20-TAP-COM;Oukitel;WP20;Tapa trasera;Compatible;5,55;;;6
+OU-WP20-CTR-COM;Oukitel;WP20;Cámara trasera;Compatible;6,19;;;6
+OU-WP20-CFR-COM;Oukitel;WP20;Cámara frontal;Compatible;3,65;;;6
+OU-WP20-LEN-COM;Oukitel;WP20;Lente de cámara;Compatible;2,20;;;6
+OU-WP20-ALT-COM;Oukitel;WP20;Altavoz;Compatible;3,35;;;6
+OU-WP20-AUR-COM;Oukitel;WP20;Auricular de llamada;Compatible;2,40;;;6
+OU-WP20-FLX-COM;Oukitel;WP20;Flex de encendido y volumen;Compatible;2,29;;;6
+OU-WP20-SIM-COM;Oukitel;WP20;Bandeja SIM;Compatible;2,60;;;6
+OU-WP19-PAN-COM;Oukitel;WP19;Pantalla;Compatible;16,10;15,62;15,13;6
+OU-WP19-BAT-COM;Oukitel;WP19;Batería;Compatible;8,25;;;6
+OU-WP19-CON-COM;Oukitel;WP19;Conector de carga;Compatible;4,40;;;6
+OU-WP19-TAP-COM-NEG;Oukitel;WP19;Tapa trasera;Negro;5,55;;;6
+OU-WP19-CTR-COM;Oukitel;WP19;Cámara trasera;Compatible;6,19;;;6
+OU-WP19-CFR-COM;Oukitel;WP19;Cámara frontal;Compatible;3,65;;;6
+OU-WP19-LEN-COM;Oukitel;WP19;Lente de cámara;Compatible;2,20;;;6
+OU-WP19-ALT-COM;Oukitel;WP19;Altavoz;Compatible;3,35;;;6
+OU-WP19-AUR-COM;Oukitel;WP19;Auricular de llamada;Compatible;2,40;;;6
+OU-WP19-FLX-COM;Oukitel;WP19;Flex de encendido y volumen;Compatible;2,29;;;6
+OU-WP19-SIM-COM;Oukitel;WP19;Bandeja SIM;Compatible;2,60;;;6
+OU-WP22-PAN-COM;Oukitel;WP22;Pantalla;Compatible;17,15;16,64;16,12;6
+OU-WP22-BAT-COM;Oukitel;WP22;Batería;Compatible;9,40;;;6
+OU-WP22-CON-COM;Oukitel;WP22;Conector de carga;Compatible;5,05;;;6
+OU-WP22-TAP-COM-NEG;Oukitel;WP22;Tapa trasera;Negro;6,20;;;6
+OU-WP22-CTR-COM;Oukitel;WP22;Cámara trasera;Compatible;8,65;;;6
+OU-WP22-CFR-COM;Oukitel;WP22;Cámara frontal;Compatible;5,35;;;6
+OU-WP22-LEN-COM;Oukitel;WP22;Lente de cámara;Compatible;2,30;;;6
+OU-WP22-ALT-COM;Oukitel;WP22;Altavoz;Compatible;3,60;;;6
+OU-WP22-AUR-COM;Oukitel;WP22;Auricular de llamada;Compatible;2,65;;;6
+OU-WP22-FLX-COM;Oukitel;WP22;Flex de encendido y volumen;Compatible;2,79;;;6
+OU-WP22-SIM-COM;Oukitel;WP22;Bandeja SIM;Compatible;2,55;;;6
+OU-C36-PAN-COM;Oukitel;C36;Pantalla;Compatible;14,69;14,25;13,81;6
+OU-C36-BAT-COM;Oukitel;C36;Batería;Compatible;8,69;;;6
+OU-C36-CON-COM;Oukitel;C36;Conector de carga;Compatible;4,05;;;6
+OU-C36-TAP-COM-NEG;Oukitel;C36;Tapa trasera;Negro;5,55;;;6
+OU-C36-TAP-COM-VER;Oukitel;C36;Tapa trasera;Verde;5,55;;;6
+OU-C36-TAP-COM-AZU;Oukitel;C36;Tapa trasera;Azul claro;5,55;;;6
+OU-C36-CTR-COM;Oukitel;C36;Cámara trasera;Compatible;7,60;;;6
+OU-C36-CFR-COM;Oukitel;C36;Cámara frontal;Compatible;5,00;;;6
+OU-C36-LEN-COM;Oukitel;C36;Lente de cámara;Compatible;2,35;;;6
+OU-C36-ALT-COM;Oukitel;C36;Altavoz;Compatible;3,55;;;6
+OU-C36-AUR-COM;Oukitel;C36;Auricular de llamada;Compatible;2,65;;;6
+OU-C36-FLX-COM;Oukitel;C36;Flex de encendido y volumen;Compatible;2,85;;;6
+OU-C36-SIM-COM;Oukitel;C36;Bandeja SIM;Compatible;2,69;;;6
+OU-WP32-PAN-COM;Oukitel;WP32;Pantalla;Compatible;17,15;16,64;16,12;6
+OU-WP32-BAT-COM;Oukitel;WP32;Batería;Compatible;9,40;;;6
+OU-WP32-CON-COM;Oukitel;WP32;Conector de carga;Compatible;5,05;;;6
+OU-WP32-TAP-COM-NAR;Oukitel;WP32;Tapa trasera;Naranja;6,20;;;6
+OU-WP32-TAP-COM-GRI;Oukitel;WP32;Tapa trasera;Gris;6,20;;;6
+OU-WP32-TAP-COM-VER;Oukitel;WP32;Tapa trasera;Verde;6,20;;;6
+OU-WP32-CTR-COM;Oukitel;WP32;Cámara trasera;Compatible;8,65;;;6
+OU-WP32-CFR-COM;Oukitel;WP32;Cámara frontal;Compatible;5,35;;;6
+OU-WP32-LEN-COM;Oukitel;WP32;Lente de cámara;Compatible;2,30;;;6
+OU-WP32-ALT-COM;Oukitel;WP32;Altavoz;Compatible;3,60;;;6
+OU-WP32-AUR-COM;Oukitel;WP32;Auricular de llamada;Compatible;2,65;;;6
+OU-WP32-FLX-COM;Oukitel;WP32;Flex de encendido y volumen;Compatible;2,79;;;6
+OU-WP32-SIM-COM;Oukitel;WP32;Bandeja SIM;Compatible;2,55;;;6
+OU-WP35-PAN-COM;Oukitel;WP35;Pantalla;Compatible;17,15;16,64;16,12;6
+OU-WP35-BAT-COM;Oukitel;WP35;Batería;Compatible;9,40;;;6
+OU-WP35-CON-COM;Oukitel;WP35;Conector de carga;Compatible;5,05;;;6
+OU-WP35-TAP-COM-GRI;Oukitel;WP35;Tapa trasera;Gris;6,20;;;6
+OU-WP35-TAP-COM-VER;Oukitel;WP35;Tapa trasera;Verde;6,20;;;6
+OU-WP35-CTR-COM;Oukitel;WP35;Cámara trasera;Compatible;8,65;;;6
+OU-WP35-CFR-COM;Oukitel;WP35;Cámara frontal;Compatible;5,35;;;6
+OU-WP35-LEN-COM;Oukitel;WP35;Lente de cámara;Compatible;2,30;;;6
+OU-WP35-ALT-COM;Oukitel;WP35;Altavoz;Compatible;3,60;;;6
+OU-WP35-AUR-COM;Oukitel;WP35;Auricular de llamada;Compatible;2,65;;;6
+OU-WP35-FLX-COM;Oukitel;WP35;Flex de encendido y volumen;Compatible;2,79;;;6
+OU-WP35-SIM-COM;Oukitel;WP35;Bandeja SIM;Compatible;2,55;;;6
+OU-C21PL-PRO-NA;Oukitel;C21 Plus;Cristal templado;Estándar;1,30;;;
+OU-C21PL-PRO-PRI;Oukitel;C21 Plus;Cristal templado;Privacidad;4,00;;;
+OU-C21PL-FUN-SIL;Oukitel;C21 Plus;Funda;Silicona;2,50;;;
+OU-C21PL-FUN-TPU;Oukitel;C21 Plus;Funda;Transparente;2,95;;;
+OU-C21PL-FUN-LIB;Oukitel;C21 Plus;Funda;Libro;3,70;;;
+OU-C21PL-FUN-ANT;Oukitel;C21 Plus;Funda;Antigolpes;3,10;;;
+OU-C21P-PRO-NA;Oukitel;C21 Pro;Cristal templado;Estándar;1,30;;;
+OU-C21P-PRO-PRI;Oukitel;C21 Pro;Cristal templado;Privacidad;4,00;;;
+OU-C21P-FUN-SIL;Oukitel;C21 Pro;Funda;Silicona;2,50;;;
+OU-C21P-FUN-TPU;Oukitel;C21 Pro;Funda;Transparente;2,95;;;
+OU-C21P-FUN-LIB;Oukitel;C21 Pro;Funda;Libro;3,70;;;
+OU-C21P-FUN-ANT;Oukitel;C21 Pro;Funda;Antigolpes;3,10;;;
+OU-WP12P-PRO-NA;Oukitel;WP12 Pro;Cristal templado;Estándar;1,30;;;
+OU-WP19P-PRO-NA;Oukitel;WP19 Pro;Cristal templado;Estándar;1,30;;;
+OU-WP20P-PRO-NA;Oukitel;WP20 Pro;Cristal templado;Estándar;1,30;;;
+OU-WP35P-PRO-NA;Oukitel;WP35 Pro;Cristal templado;Estándar;1,30;;;
+OU-WP5P-PRO-NA;Oukitel;WP5 Pro;Cristal templado;Estándar;1,30;;;
+OU-C21-PRO-NA;Oukitel;C21;Cristal templado;Estándar;1,30;;;
+OU-C21-PRO-PRI;Oukitel;C21;Cristal templado;Privacidad;4,00;;;
+OU-C21-FUN-SIL;Oukitel;C21;Funda;Silicona;2,50;;;
+OU-C21-FUN-TPU;Oukitel;C21;Funda;Transparente;2,95;;;
+OU-C21-FUN-LIB;Oukitel;C21;Funda;Libro;3,70;;;
+OU-C21-FUN-ANT;Oukitel;C21;Funda;Antigolpes;3,10;;;
+OU-C21-PCA-NA;Oukitel;C21;Protector de cámara;Cristal;2,90;;;
+OU-WP8P-PRO-NA;Oukitel;WP8 Pro;Cristal templado;Estándar;1,30;;;
+OU-WP10-PRO-NA;Oukitel;WP10;Cristal templado;Estándar;1,30;;;
+OU-WP12-PRO-NA;Oukitel;WP12;Cristal templado;Estándar;1,30;;;
+OU-WP15-PRO-NA;Oukitel;WP15;Cristal templado;Estándar;1,30;;;
+OU-WP20-PRO-NA;Oukitel;WP20;Cristal templado;Estándar;1,30;;;
+OU-WP19-PRO-NA;Oukitel;WP19;Cristal templado;Estándar;1,30;;;
+OU-WP22-PRO-NA;Oukitel;WP22;Cristal templado;Estándar;1,30;;;
+OU-C36-PRO-NA;Oukitel;C36;Cristal templado;Estándar;1,30;;;
+OU-C36-PRO-PRI;Oukitel;C36;Cristal templado;Privacidad;4,00;;;
+OU-C36-FUN-SIL;Oukitel;C36;Funda;Silicona;2,50;;;
+OU-C36-FUN-TPU;Oukitel;C36;Funda;Transparente;2,95;;;
+OU-C36-FUN-LIB;Oukitel;C36;Funda;Libro;3,70;;;
+OU-C36-FUN-ANT;Oukitel;C36;Funda;Antigolpes;3,10;;;
+OU-WP32-PRO-NA;Oukitel;WP32;Cristal templado;Estándar;1,30;;;
+OU-WP35-PRO-NA;Oukitel;WP35;Cristal templado;Estándar;1,30;;;
+OU-C21PL-MAR-COM;Oukitel;C21 Plus;Marco / chasis;Compatible;6,25;;;6
+OU-C21PL-BOT-COM;Oukitel;C21 Plus;Botones laterales;Compatible;3,20;;;6
+OU-C21PL-CRI-COM;Oukitel;C21 Plus;Cristal de pantalla;Compatible;3,20;;;6
+OU-C21PL-ANT-COM;Oukitel;C21 Plus;Antena / coaxial;Compatible;2,79;;;6
+OU-C21PL-HUE-COM;Oukitel;C21 Plus;Botón home / huella;Compatible;4,60;;;6
+OU-C21P-MAR-COM;Oukitel;C21 Pro;Marco / chasis;Compatible;6,25;;;6
+OU-C21P-BOT-COM;Oukitel;C21 Pro;Botones laterales;Compatible;3,20;;;6
+OU-C21P-CRI-COM;Oukitel;C21 Pro;Cristal de pantalla;Compatible;3,20;;;6
+OU-C21P-ANT-COM;Oukitel;C21 Pro;Antena / coaxial;Compatible;2,79;;;6
+OU-C21P-HUE-COM;Oukitel;C21 Pro;Botón home / huella;Compatible;4,60;;;6
+OU-WP12P-MAR-COM;Oukitel;WP12 Pro;Marco / chasis;Compatible;7,20;;;6
+OU-WP12P-BOT-COM;Oukitel;WP12 Pro;Botones laterales;Compatible;3,70;;;6
+OU-WP12P-ANT-COM;Oukitel;WP12 Pro;Antena / coaxial;Compatible;3,20;;;6
+OU-WP12P-HUE-COM;Oukitel;WP12 Pro;Botón home / huella;Compatible;5,30;;;6
+OU-WP19P-MAR-COM;Oukitel;WP19 Pro;Marco / chasis;Compatible;7,20;;;6
+OU-WP19P-BOT-COM;Oukitel;WP19 Pro;Botones laterales;Compatible;3,70;;;6
+OU-WP19P-ANT-COM;Oukitel;WP19 Pro;Antena / coaxial;Compatible;3,20;;;6
+OU-WP19P-HUE-COM;Oukitel;WP19 Pro;Botón home / huella;Compatible;5,30;;;6
+OU-WP20P-MAR-COM;Oukitel;WP20 Pro;Marco / chasis;Compatible;7,20;;;6
+OU-WP20P-BOT-COM;Oukitel;WP20 Pro;Botones laterales;Compatible;3,70;;;6
+OU-WP20P-ANT-COM;Oukitel;WP20 Pro;Antena / coaxial;Compatible;3,20;;;6
+OU-WP20P-HUE-COM;Oukitel;WP20 Pro;Botón home / huella;Compatible;5,30;;;6
+OU-WP35P-MAR-COM;Oukitel;WP35 Pro;Marco / chasis;Compatible;7,90;;;6
+OU-WP35P-BOT-COM;Oukitel;WP35 Pro;Botones laterales;Compatible;4,05;;;6
+OU-WP35P-ANT-COM;Oukitel;WP35 Pro;Antena / coaxial;Compatible;3,50;;;6
+OU-WP35P-HUE-COM;Oukitel;WP35 Pro;Botón home / huella;Compatible;5,85;;;6
+OU-WP5P-MAR-COM;Oukitel;WP5 Pro;Marco / chasis;Compatible;7,20;;;6
+OU-WP5P-BOT-COM;Oukitel;WP5 Pro;Botones laterales;Compatible;3,70;;;6
+OU-WP5P-ANT-COM;Oukitel;WP5 Pro;Antena / coaxial;Compatible;3,20;;;6
+OU-WP5P-HUE-COM;Oukitel;WP5 Pro;Botón home / huella;Compatible;5,30;;;6
+OU-C21-MAR-COM;Oukitel;C21;Marco / chasis;Compatible;6,25;;;6
+OU-C21-BOT-COM;Oukitel;C21;Botones laterales;Compatible;3,20;;;6
+OU-C21-CRI-COM;Oukitel;C21;Cristal de pantalla;Compatible;3,20;;;6
+OU-C21-ANT-COM;Oukitel;C21;Antena / coaxial;Compatible;2,79;;;6
+OU-C21-HUE-COM;Oukitel;C21;Botón home / huella;Compatible;4,60;;;6
+OU-WP8P-MAR-COM;Oukitel;WP8 Pro;Marco / chasis;Compatible;7,20;;;6
+OU-WP8P-BOT-COM;Oukitel;WP8 Pro;Botones laterales;Compatible;3,70;;;6
+OU-WP8P-ANT-COM;Oukitel;WP8 Pro;Antena / coaxial;Compatible;3,20;;;6
+OU-WP8P-HUE-COM;Oukitel;WP8 Pro;Botón home / huella;Compatible;5,30;;;6
+OU-WP10-MAR-COM;Oukitel;WP10;Marco / chasis;Compatible;7,20;;;6
+OU-WP10-BOT-COM;Oukitel;WP10;Botones laterales;Compatible;3,70;;;6
+OU-WP10-ANT-COM;Oukitel;WP10;Antena / coaxial;Compatible;3,20;;;6
+OU-WP10-HUE-COM;Oukitel;WP10;Botón home / huella;Compatible;5,30;;;6
+OU-WP12-MAR-COM;Oukitel;WP12;Marco / chasis;Compatible;7,20;;;6
+OU-WP12-BOT-COM;Oukitel;WP12;Botones laterales;Compatible;3,70;;;6
+OU-WP12-ANT-COM;Oukitel;WP12;Antena / coaxial;Compatible;3,20;;;6
+OU-WP12-HUE-COM;Oukitel;WP12;Botón home / huella;Compatible;5,30;;;6
+OU-WP15-MAR-COM;Oukitel;WP15;Marco / chasis;Compatible;7,20;;;6
+OU-WP15-BOT-COM;Oukitel;WP15;Botones laterales;Compatible;3,70;;;6
+OU-WP15-ANT-COM;Oukitel;WP15;Antena / coaxial;Compatible;3,20;;;6
+OU-WP15-HUE-COM;Oukitel;WP15;Botón home / huella;Compatible;5,30;;;6
+OU-WP20-MAR-COM;Oukitel;WP20;Marco / chasis;Compatible;7,20;;;6
+OU-WP20-BOT-COM;Oukitel;WP20;Botones laterales;Compatible;3,70;;;6
+OU-WP20-ANT-COM;Oukitel;WP20;Antena / coaxial;Compatible;3,20;;;6
+OU-WP20-HUE-COM;Oukitel;WP20;Botón home / huella;Compatible;5,30;;;6
+OU-WP19-MAR-COM;Oukitel;WP19;Marco / chasis;Compatible;7,20;;;6
+OU-WP19-BOT-COM;Oukitel;WP19;Botones laterales;Compatible;3,70;;;6
+OU-WP19-ANT-COM;Oukitel;WP19;Antena / coaxial;Compatible;3,20;;;6
+OU-WP19-HUE-COM;Oukitel;WP19;Botón home / huella;Compatible;5,30;;;6
+OU-WP22-MAR-COM;Oukitel;WP22;Marco / chasis;Compatible;7,20;;;6
+OU-WP22-BOT-COM;Oukitel;WP22;Botones laterales;Compatible;3,70;;;6
+OU-WP22-ANT-COM;Oukitel;WP22;Antena / coaxial;Compatible;3,20;;;6
+OU-WP22-HUE-COM;Oukitel;WP22;Botón home / huella;Compatible;5,30;;;6
+OU-C36-MAR-COM;Oukitel;C36;Marco / chasis;Compatible;6,25;;;6
+OU-C36-BOT-COM;Oukitel;C36;Botones laterales;Compatible;3,20;;;6
+OU-C36-CRI-COM;Oukitel;C36;Cristal de pantalla;Compatible;3,20;;;6
+OU-C36-ANT-COM;Oukitel;C36;Antena / coaxial;Compatible;2,79;;;6
+OU-C36-HUE-COM;Oukitel;C36;Botón home / huella;Compatible;4,60;;;6
+OU-WP32-MAR-COM;Oukitel;WP32;Marco / chasis;Compatible;7,20;;;6
+OU-WP32-BOT-COM;Oukitel;WP32;Botones laterales;Compatible;3,70;;;6
+OU-WP32-ANT-COM;Oukitel;WP32;Antena / coaxial;Compatible;3,20;;;6
+OU-WP32-HUE-COM;Oukitel;WP32;Botón home / huella;Compatible;5,30;;;6
+OU-WP35-MAR-COM;Oukitel;WP35;Marco / chasis;Compatible;7,90;;;6
+OU-WP35-BOT-COM;Oukitel;WP35;Botones laterales;Compatible;4,05;;;6
+OU-WP35-ANT-COM;Oukitel;WP35;Antena / coaxial;Compatible;3,50;;;6
+OU-WP35-HUE-COM;Oukitel;WP35;Botón home / huella;Compatible;5,85;;;6

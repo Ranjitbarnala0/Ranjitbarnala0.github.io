@@ -1,0 +1,21 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+JO-P-PAN-COM;Jolla;Phone;Pantalla;Compatible;15,15;14,70;14,24;6
+JO-P-BAT-COM;Jolla;Phone;Batería;Compatible;9,65;;;6
+JO-P-CON-COM;Jolla;Phone;Conector de carga;Compatible;4,60;;;6
+JO-P-TAP-COM;Jolla;Phone;Tapa trasera;Compatible;5,40;;;6
+JO-P-CTR-COM;Jolla;Phone;Cámara trasera;Compatible;7,59;;;6
+JO-P-CFR-COM;Jolla;Phone;Cámara frontal;Compatible;4,99;;;6
+JO-P-LEN-COM;Jolla;Phone;Lente de cámara;Compatible;2,19;;;6
+JO-P-ALT-COM;Jolla;Phone;Altavoz;Compatible;3,65;;;6
+JO-P-AUR-COM;Jolla;Phone;Auricular de llamada;Compatible;2,65;;;6
+JO-P-FLX-COM;Jolla;Phone;Flex de encendido y volumen;Compatible;2,49;;;6
+JO-P-SIM-COM;Jolla;Phone;Bandeja SIM;Compatible;2,55;;;6
+JO-P-PRO-NA;Jolla;Phone;Cristal templado;Estándar;1,30;;;
+JO-P-PRO-PRI;Jolla;Phone;Cristal templado;Privacidad;4,00;;;
+JO-P-FUN-SIL;Jolla;Phone;Funda;Silicona;2,50;;;
+JO-P-FUN-TPU;Jolla;Phone;Funda;Transparente;2,95;;;
+JO-P-FUN-LIB;Jolla;Phone;Funda;Libro;3,70;;;
+JO-P-FUN-ANT;Jolla;Phone;Funda;Antigolpes;3,10;;;
+JO-P-MAR-COM;Jolla;Phone;Marco / chasis;Compatible;5,75;;;6
+JO-P-BOT-COM;Jolla;Phone;Botones laterales;Compatible;2,95;;;6
+JO-P-ANT-COM;Jolla;Phone;Antena / coaxial;Compatible;2,55;;;6

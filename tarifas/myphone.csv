@@ -1,0 +1,187 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+MY-MYA1PL-PAN-COM;MyPhone;myA1 Plus;Pantalla;Compatible;16,10;15,62;15,13;6
+MY-MYA1PL-BAT-COM;MyPhone;myA1 Plus;Batería;Compatible;8,25;;;6
+MY-MYA1PL-CON-COM;MyPhone;myA1 Plus;Conector de carga;Compatible;4,40;;;6
+MY-MYA1PL-TAP-COM;MyPhone;myA1 Plus;Tapa trasera;Compatible;5,55;;;6
+MY-MYA1PL-CTR-COM;MyPhone;myA1 Plus;Cámara trasera;Compatible;6,19;;;6
+MY-MYA1PL-CFR-COM;MyPhone;myA1 Plus;Cámara frontal;Compatible;3,65;;;6
+MY-MYA1PL-LEN-COM;MyPhone;myA1 Plus;Lente de cámara;Compatible;2,20;;;6
+MY-MYA1PL-ALT-COM;MyPhone;myA1 Plus;Altavoz;Compatible;3,35;;;6
+MY-MYA1PL-AUR-COM;MyPhone;myA1 Plus;Auricular de llamada;Compatible;2,40;;;6
+MY-MYA1PL-FLX-COM;MyPhone;myA1 Plus;Flex de encendido y volumen;Compatible;2,29;;;6
+MY-MYA1PL-SIM-COM;MyPhone;myA1 Plus;Bandeja SIM;Compatible;2,60;;;6
+MY-MYA17-PAN-COM;MyPhone;myA17;Pantalla;Compatible;16,10;15,62;15,13;6
+MY-MYA17-BAT-COM;MyPhone;myA17;Batería;Compatible;8,25;;;6
+MY-MYA17-CON-COM;MyPhone;myA17;Conector de carga;Compatible;4,40;;;6
+MY-MYA17-TAP-COM;MyPhone;myA17;Tapa trasera;Compatible;5,55;;;6
+MY-MYA17-CTR-COM;MyPhone;myA17;Cámara trasera;Compatible;6,19;;;6
+MY-MYA17-CFR-COM;MyPhone;myA17;Cámara frontal;Compatible;3,65;;;6
+MY-MYA17-LEN-COM;MyPhone;myA17;Lente de cámara;Compatible;2,20;;;6
+MY-MYA17-ALT-COM;MyPhone;myA17;Altavoz;Compatible;3,35;;;6
+MY-MYA17-AUR-COM;MyPhone;myA17;Auricular de llamada;Compatible;2,40;;;6
+MY-MYA17-FLX-COM;MyPhone;myA17;Flex de encendido y volumen;Compatible;2,29;;;6
+MY-MYA17-SIM-COM;MyPhone;myA17;Bandeja SIM;Compatible;2,60;;;6
+MY-MYP1-PAN-COM;MyPhone;myP1;Pantalla;Compatible;16,10;15,62;15,13;6
+MY-MYP1-BAT-COM;MyPhone;myP1;Batería;Compatible;8,25;;;6
+MY-MYP1-CON-COM;MyPhone;myP1;Conector de carga;Compatible;4,40;;;6
+MY-MYP1-TAP-COM;MyPhone;myP1;Tapa trasera;Compatible;5,55;;;6
+MY-MYP1-CTR-COM;MyPhone;myP1;Cámara trasera;Compatible;6,19;;;6
+MY-MYP1-CFR-COM;MyPhone;myP1;Cámara frontal;Compatible;3,65;;;6
+MY-MYP1-LEN-COM;MyPhone;myP1;Lente de cámara;Compatible;2,20;;;6
+MY-MYP1-ALT-COM;MyPhone;myP1;Altavoz;Compatible;3,35;;;6
+MY-MYP1-AUR-COM;MyPhone;myP1;Auricular de llamada;Compatible;2,40;;;6
+MY-MYP1-FLX-COM;MyPhone;myP1;Flex de encendido y volumen;Compatible;2,29;;;6
+MY-MYP1-SIM-COM;MyPhone;myP1;Bandeja SIM;Compatible;2,60;;;6
+MY-RIOC-PAN-COM;MyPhone;Rio Craze;Pantalla;Compatible;15,15;14,70;14,24;6
+MY-RIOC-BAT-COM;MyPhone;Rio Craze;Batería;Compatible;9,65;;;6
+MY-RIOC-CON-COM;MyPhone;Rio Craze;Conector de carga;Compatible;4,60;;;6
+MY-RIOC-TAP-COM;MyPhone;Rio Craze;Tapa trasera;Compatible;5,40;;;6
+MY-RIOC-CTR-COM;MyPhone;Rio Craze;Cámara trasera;Compatible;7,59;;;6
+MY-RIOC-CFR-COM;MyPhone;Rio Craze;Cámara frontal;Compatible;4,99;;;6
+MY-RIOC-LEN-COM;MyPhone;Rio Craze;Lente de cámara;Compatible;2,19;;;6
+MY-RIOC-ALT-COM;MyPhone;Rio Craze;Altavoz;Compatible;3,65;;;6
+MY-RIOC-AUR-COM;MyPhone;Rio Craze;Auricular de llamada;Compatible;2,65;;;6
+MY-RIOC-FLX-COM;MyPhone;Rio Craze;Flex de encendido y volumen;Compatible;2,49;;;6
+MY-RIOC-SIM-COM;MyPhone;Rio Craze;Bandeja SIM;Compatible;2,55;;;6
+MY-RIOFUN-PAN-COM;MyPhone;Rio Fun;Pantalla;Compatible;15,15;14,70;14,24;6
+MY-RIOFUN-BAT-COM;MyPhone;Rio Fun;Batería;Compatible;9,65;;;6
+MY-RIOFUN-CON-COM;MyPhone;Rio Fun;Conector de carga;Compatible;4,60;;;6
+MY-RIOFUN-TAP-COM;MyPhone;Rio Fun;Tapa trasera;Compatible;5,40;;;6
+MY-RIOFUN-CTR-COM;MyPhone;Rio Fun;Cámara trasera;Compatible;7,59;;;6
+MY-RIOFUN-CFR-COM;MyPhone;Rio Fun;Cámara frontal;Compatible;4,99;;;6
+MY-RIOFUN-LEN-COM;MyPhone;Rio Fun;Lente de cámara;Compatible;2,19;;;6
+MY-RIOFUN-ALT-COM;MyPhone;Rio Fun;Altavoz;Compatible;3,65;;;6
+MY-RIOFUN-AUR-COM;MyPhone;Rio Fun;Auricular de llamada;Compatible;2,65;;;6
+MY-RIOFUN-FLX-COM;MyPhone;Rio Fun;Flex de encendido y volumen;Compatible;2,49;;;6
+MY-RIOFUN-SIM-COM;MyPhone;Rio Fun;Bandeja SIM;Compatible;2,55;;;6
+MY-AC-PAN-COM;MyPhone;Agua Cyclone;Pantalla;Compatible;15,15;14,70;14,24;6
+MY-AC-BAT-COM;MyPhone;Agua Cyclone;Batería;Compatible;9,65;;;6
+MY-AC-CON-COM;MyPhone;Agua Cyclone;Conector de carga;Compatible;4,60;;;6
+MY-AC-TAP-COM;MyPhone;Agua Cyclone;Tapa trasera;Compatible;5,40;;;6
+MY-AC-CTR-COM;MyPhone;Agua Cyclone;Cámara trasera;Compatible;7,59;;;6
+MY-AC-CFR-COM;MyPhone;Agua Cyclone;Cámara frontal;Compatible;4,99;;;6
+MY-AC-LEN-COM;MyPhone;Agua Cyclone;Lente de cámara;Compatible;2,19;;;6
+MY-AC-ALT-COM;MyPhone;Agua Cyclone;Altavoz;Compatible;3,65;;;6
+MY-AC-AUR-COM;MyPhone;Agua Cyclone;Auricular de llamada;Compatible;2,65;;;6
+MY-AC-FLX-COM;MyPhone;Agua Cyclone;Flex de encendido y volumen;Compatible;2,49;;;6
+MY-AC-SIM-COM;MyPhone;Agua Cyclone;Bandeja SIM;Compatible;2,55;;;6
+MY-C-PAN-COM;MyPhone;Cyclone;Pantalla;Compatible;15,15;14,70;14,24;6
+MY-C-BAT-COM;MyPhone;Cyclone;Batería;Compatible;9,65;;;6
+MY-C-CON-COM;MyPhone;Cyclone;Conector de carga;Compatible;4,60;;;6
+MY-C-TAP-COM;MyPhone;Cyclone;Tapa trasera;Compatible;5,40;;;6
+MY-C-CTR-COM;MyPhone;Cyclone;Cámara trasera;Compatible;7,59;;;6
+MY-C-CFR-COM;MyPhone;Cyclone;Cámara frontal;Compatible;4,99;;;6
+MY-C-LEN-COM;MyPhone;Cyclone;Lente de cámara;Compatible;2,19;;;6
+MY-C-ALT-COM;MyPhone;Cyclone;Altavoz;Compatible;3,65;;;6
+MY-C-AUR-COM;MyPhone;Cyclone;Auricular de llamada;Compatible;2,65;;;6
+MY-C-FLX-COM;MyPhone;Cyclone;Flex de encendido y volumen;Compatible;2,49;;;6
+MY-C-SIM-COM;MyPhone;Cyclone;Bandeja SIM;Compatible;2,55;;;6
+MY-IMN-PAN-COM;MyPhone;Iceberg Mini;Pantalla;Compatible;15,15;14,70;14,24;6
+MY-IMN-BAT-COM;MyPhone;Iceberg Mini;Batería;Compatible;9,65;;;6
+MY-IMN-CON-COM;MyPhone;Iceberg Mini;Conector de carga;Compatible;4,60;;;6
+MY-IMN-TAP-COM;MyPhone;Iceberg Mini;Tapa trasera;Compatible;5,40;;;6
+MY-IMN-CTR-COM;MyPhone;Iceberg Mini;Cámara trasera;Compatible;7,59;;;6
+MY-IMN-CFR-COM;MyPhone;Iceberg Mini;Cámara frontal;Compatible;4,99;;;6
+MY-IMN-LEN-COM;MyPhone;Iceberg Mini;Lente de cámara;Compatible;2,19;;;6
+MY-IMN-ALT-COM;MyPhone;Iceberg Mini;Altavoz;Compatible;3,65;;;6
+MY-IMN-AUR-COM;MyPhone;Iceberg Mini;Auricular de llamada;Compatible;2,65;;;6
+MY-IMN-FLX-COM;MyPhone;Iceberg Mini;Flex de encendido y volumen;Compatible;2,49;;;6
+MY-IMN-SIM-COM;MyPhone;Iceberg Mini;Bandeja SIM;Compatible;2,55;;;6
+MY-AR2G-PAN-COM;MyPhone;Agua Rain 2G;Pantalla;Compatible;15,15;14,70;14,24;6
+MY-AR2G-BAT-COM;MyPhone;Agua Rain 2G;Batería;Compatible;9,65;;;6
+MY-AR2G-CON-COM;MyPhone;Agua Rain 2G;Conector de carga;Compatible;4,60;;;6
+MY-AR2G-TAP-COM;MyPhone;Agua Rain 2G;Tapa trasera;Compatible;5,40;;;6
+MY-AR2G-CTR-COM;MyPhone;Agua Rain 2G;Cámara trasera;Compatible;7,59;;;6
+MY-AR2G-CFR-COM;MyPhone;Agua Rain 2G;Cámara frontal;Compatible;4,99;;;6
+MY-AR2G-LEN-COM;MyPhone;Agua Rain 2G;Lente de cámara;Compatible;2,19;;;6
+MY-AR2G-ALT-COM;MyPhone;Agua Rain 2G;Altavoz;Compatible;3,65;;;6
+MY-AR2G-AUR-COM;MyPhone;Agua Rain 2G;Auricular de llamada;Compatible;2,65;;;6
+MY-AR2G-FLX-COM;MyPhone;Agua Rain 2G;Flex de encendido y volumen;Compatible;2,49;;;6
+MY-AR2G-SIM-COM;MyPhone;Agua Rain 2G;Bandeja SIM;Compatible;2,55;;;6
+MY-MYA1PL-PRO-NA;MyPhone;myA1 Plus;Cristal templado;Estándar;1,30;;;
+MY-MYA1PL-PRO-PRI;MyPhone;myA1 Plus;Cristal templado;Privacidad;4,00;;;
+MY-MYA1PL-FUN-SIL;MyPhone;myA1 Plus;Funda;Silicona;2,50;;;
+MY-MYA1PL-FUN-TPU;MyPhone;myA1 Plus;Funda;Transparente;2,95;;;
+MY-MYA1PL-FUN-LIB;MyPhone;myA1 Plus;Funda;Libro;3,70;;;
+MY-MYA1PL-FUN-ANT;MyPhone;myA1 Plus;Funda;Antigolpes;3,10;;;
+MY-MYA17-PRO-NA;MyPhone;myA17;Cristal templado;Estándar;1,30;;;
+MY-MYA17-PRO-PRI;MyPhone;myA17;Cristal templado;Privacidad;4,00;;;
+MY-MYA17-FUN-SIL;MyPhone;myA17;Funda;Silicona;2,50;;;
+MY-MYA17-FUN-TPU;MyPhone;myA17;Funda;Transparente;2,95;;;
+MY-MYA17-FUN-LIB;MyPhone;myA17;Funda;Libro;3,70;;;
+MY-MYA17-FUN-ANT;MyPhone;myA17;Funda;Antigolpes;3,10;;;
+MY-MYP1-PRO-NA;MyPhone;myP1;Cristal templado;Estándar;1,30;;;
+MY-MYP1-PRO-PRI;MyPhone;myP1;Cristal templado;Privacidad;4,00;;;
+MY-MYP1-FUN-SIL;MyPhone;myP1;Funda;Silicona;2,50;;;
+MY-MYP1-FUN-TPU;MyPhone;myP1;Funda;Transparente;2,95;;;
+MY-MYP1-FUN-LIB;MyPhone;myP1;Funda;Libro;3,70;;;
+MY-MYP1-FUN-ANT;MyPhone;myP1;Funda;Antigolpes;3,10;;;
+MY-RIOC-PRO-NA;MyPhone;Rio Craze;Cristal templado;Estándar;1,30;;;
+MY-RIOC-PRO-PRI;MyPhone;Rio Craze;Cristal templado;Privacidad;4,00;;;
+MY-RIOC-FUN-SIL;MyPhone;Rio Craze;Funda;Silicona;2,50;;;
+MY-RIOC-FUN-TPU;MyPhone;Rio Craze;Funda;Transparente;2,95;;;
+MY-RIOC-FUN-LIB;MyPhone;Rio Craze;Funda;Libro;3,70;;;
+MY-RIOC-FUN-ANT;MyPhone;Rio Craze;Funda;Antigolpes;3,10;;;
+MY-RIOFUN-PRO-NA;MyPhone;Rio Fun;Cristal templado;Estándar;1,30;;;
+MY-RIOFUN-PRO-PRI;MyPhone;Rio Fun;Cristal templado;Privacidad;4,00;;;
+MY-RIOFUN-FUN-SIL;MyPhone;Rio Fun;Funda;Silicona;2,50;;;
+MY-RIOFUN-FUN-TPU;MyPhone;Rio Fun;Funda;Transparente;2,95;;;
+MY-RIOFUN-FUN-LIB;MyPhone;Rio Fun;Funda;Libro;3,70;;;
+MY-RIOFUN-FUN-ANT;MyPhone;Rio Fun;Funda;Antigolpes;3,10;;;
+MY-AC-PRO-NA;MyPhone;Agua Cyclone;Cristal templado;Estándar;1,30;;;
+MY-AC-PRO-PRI;MyPhone;Agua Cyclone;Cristal templado;Privacidad;4,00;;;
+MY-AC-FUN-SIL;MyPhone;Agua Cyclone;Funda;Silicona;2,50;;;
+MY-AC-FUN-TPU;MyPhone;Agua Cyclone;Funda;Transparente;2,95;;;
+MY-AC-FUN-LIB;MyPhone;Agua Cyclone;Funda;Libro;3,70;;;
+MY-AC-FUN-ANT;MyPhone;Agua Cyclone;Funda;Antigolpes;3,10;;;
+MY-C-PRO-NA;MyPhone;Cyclone;Cristal templado;Estándar;1,30;;;
+MY-C-PRO-PRI;MyPhone;Cyclone;Cristal templado;Privacidad;4,00;;;
+MY-C-FUN-SIL;MyPhone;Cyclone;Funda;Silicona;2,50;;;
+MY-C-FUN-TPU;MyPhone;Cyclone;Funda;Transparente;2,95;;;
+MY-C-FUN-LIB;MyPhone;Cyclone;Funda;Libro;3,70;;;
+MY-C-FUN-ANT;MyPhone;Cyclone;Funda;Antigolpes;3,10;;;
+MY-IMN-PRO-NA;MyPhone;Iceberg Mini;Cristal templado;Estándar;1,30;;;
+MY-IMN-PRO-PRI;MyPhone;Iceberg Mini;Cristal templado;Privacidad;4,00;;;
+MY-IMN-FUN-SIL;MyPhone;Iceberg Mini;Funda;Silicona;2,50;;;
+MY-IMN-FUN-TPU;MyPhone;Iceberg Mini;Funda;Transparente;2,95;;;
+MY-IMN-FUN-LIB;MyPhone;Iceberg Mini;Funda;Libro;3,70;;;
+MY-IMN-FUN-ANT;MyPhone;Iceberg Mini;Funda;Antigolpes;3,10;;;
+MY-AR2G-PRO-NA;MyPhone;Agua Rain 2G;Cristal templado;Estándar;1,30;;;
+MY-AR2G-PRO-PRI;MyPhone;Agua Rain 2G;Cristal templado;Privacidad;4,00;;;
+MY-AR2G-FUN-SIL;MyPhone;Agua Rain 2G;Funda;Silicona;2,50;;;
+MY-AR2G-FUN-TPU;MyPhone;Agua Rain 2G;Funda;Transparente;2,95;;;
+MY-AR2G-FUN-LIB;MyPhone;Agua Rain 2G;Funda;Libro;3,70;;;
+MY-AR2G-FUN-ANT;MyPhone;Agua Rain 2G;Funda;Antigolpes;3,10;;;
+MY-MYA1PL-MAR-COM;MyPhone;myA1 Plus;Marco / chasis;Compatible;7,20;;;6
+MY-MYA1PL-BOT-COM;MyPhone;myA1 Plus;Botones laterales;Compatible;3,70;;;6
+MY-MYA1PL-CRI-COM;MyPhone;myA1 Plus;Cristal de pantalla;Compatible;3,69;;;6
+MY-MYA1PL-ANT-COM;MyPhone;myA1 Plus;Antena / coaxial;Compatible;3,20;;;6
+MY-MYA1PL-HUE-COM;MyPhone;myA1 Plus;Botón home / huella;Compatible;5,30;;;6
+MY-MYA17-MAR-COM;MyPhone;myA17;Marco / chasis;Compatible;7,20;;;6
+MY-MYA17-BOT-COM;MyPhone;myA17;Botones laterales;Compatible;3,70;;;6
+MY-MYA17-CRI-COM;MyPhone;myA17;Cristal de pantalla;Compatible;3,69;;;6
+MY-MYA17-ANT-COM;MyPhone;myA17;Antena / coaxial;Compatible;3,20;;;6
+MY-MYA17-HUE-COM;MyPhone;myA17;Botón home / huella;Compatible;5,30;;;6
+MY-MYP1-MAR-COM;MyPhone;myP1;Marco / chasis;Compatible;7,20;;;6
+MY-MYP1-BOT-COM;MyPhone;myP1;Botones laterales;Compatible;3,70;;;6
+MY-MYP1-CRI-COM;MyPhone;myP1;Cristal de pantalla;Compatible;3,69;;;6
+MY-MYP1-ANT-COM;MyPhone;myP1;Antena / coaxial;Compatible;3,20;;;6
+MY-MYP1-HUE-COM;MyPhone;myP1;Botón home / huella;Compatible;5,30;;;6
+MY-RIOC-MAR-COM;MyPhone;Rio Craze;Marco / chasis;Compatible;5,75;;;6
+MY-RIOC-BOT-COM;MyPhone;Rio Craze;Botones laterales;Compatible;2,95;;;6
+MY-RIOC-ANT-COM;MyPhone;Rio Craze;Antena / coaxial;Compatible;2,55;;;6
+MY-RIOFUN-MAR-COM;MyPhone;Rio Fun;Marco / chasis;Compatible;5,75;;;6
+MY-RIOFUN-BOT-COM;MyPhone;Rio Fun;Botones laterales;Compatible;2,95;;;6
+MY-RIOFUN-ANT-COM;MyPhone;Rio Fun;Antena / coaxial;Compatible;2,55;;;6
+MY-AC-MAR-COM;MyPhone;Agua Cyclone;Marco / chasis;Compatible;5,75;;;6
+MY-AC-BOT-COM;MyPhone;Agua Cyclone;Botones laterales;Compatible;2,95;;;6
+MY-AC-ANT-COM;MyPhone;Agua Cyclone;Antena / coaxial;Compatible;2,55;;;6
+MY-C-MAR-COM;MyPhone;Cyclone;Marco / chasis;Compatible;5,75;;;6
+MY-C-BOT-COM;MyPhone;Cyclone;Botones laterales;Compatible;2,95;;;6
+MY-C-ANT-COM;MyPhone;Cyclone;Antena / coaxial;Compatible;2,55;;;6
+MY-IMN-MAR-COM;MyPhone;Iceberg Mini;Marco / chasis;Compatible;5,75;;;6
+MY-IMN-BOT-COM;MyPhone;Iceberg Mini;Botones laterales;Compatible;2,95;;;6
+MY-IMN-ANT-COM;MyPhone;Iceberg Mini;Antena / coaxial;Compatible;2,55;;;6
+MY-AR2G-MAR-COM;MyPhone;Agua Rain 2G;Marco / chasis;Compatible;5,75;;;6
+MY-AR2G-BOT-COM;MyPhone;Agua Rain 2G;Botones laterales;Compatible;2,95;;;6
+MY-AR2G-ANT-COM;MyPhone;Agua Rain 2G;Antena / coaxial;Compatible;2,55;;;6

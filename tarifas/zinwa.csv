@@ -1,0 +1,23 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+ZI-Q25-PAN-COM;Zinwa;Q25;Pantalla;Compatible;18,05;17,51;16,97;6
+ZI-Q25-BAT-COM;Zinwa;Q25;Batería;Compatible;8,89;;;6
+ZI-Q25-CON-COM;Zinwa;Q25;Conector de carga;Compatible;6,00;;;6
+ZI-Q25-TAP-COM;Zinwa;Q25;Tapa trasera;Compatible;6,65;;;6
+ZI-Q25-CTR-COM;Zinwa;Q25;Cámara trasera;Compatible;11,85;11,49;11,14;6
+ZI-Q25-CFR-COM;Zinwa;Q25;Cámara frontal;Compatible;7,49;;;6
+ZI-Q25-LEN-COM;Zinwa;Q25;Lente de cámara;Compatible;2,95;;;6
+ZI-Q25-ALT-COM;Zinwa;Q25;Altavoz;Compatible;4,75;;;6
+ZI-Q25-AUR-COM;Zinwa;Q25;Auricular de llamada;Compatible;3,70;;;6
+ZI-Q25-FLX-COM;Zinwa;Q25;Flex de encendido y volumen;Compatible;3,05;;;6
+ZI-Q25-SIM-COM;Zinwa;Q25;Bandeja SIM;Compatible;3,00;;;6
+ZI-Q25-PRO-NA;Zinwa;Q25;Cristal templado;Estándar;1,30;;;
+ZI-Q25-PRO-PRI;Zinwa;Q25;Cristal templado;Privacidad;4,00;;;
+ZI-Q25-FUN-SIL;Zinwa;Q25;Funda;Silicona;2,50;;;
+ZI-Q25-FUN-TPU;Zinwa;Q25;Funda;Transparente;2,95;;;
+ZI-Q25-FUN-LIB;Zinwa;Q25;Funda;Libro;3,70;;;
+ZI-Q25-FUN-ANT;Zinwa;Q25;Funda;Antigolpes;3,10;;;
+ZI-Q25-MAR-COM;Zinwa;Q25;Marco / chasis;Compatible;7,90;;;6
+ZI-Q25-BOT-COM;Zinwa;Q25;Botones laterales;Compatible;4,05;;;6
+ZI-Q25-CRI-COM;Zinwa;Q25;Cristal de pantalla;Compatible;4,05;;;6
+ZI-Q25-ANT-COM;Zinwa;Q25;Antena / coaxial;Compatible;3,50;;;6
+ZI-Q25-HUE-COM;Zinwa;Q25;Botón home / huella;Compatible;5,85;;;6

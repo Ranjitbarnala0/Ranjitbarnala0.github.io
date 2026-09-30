@@ -1,0 +1,163 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+KY-DP2-PAN-COM;Kyocera;DuraForce Pro 2;Pantalla;Compatible;15,15;14,70;14,24;6
+KY-DP2-BAT-COM;Kyocera;DuraForce Pro 2;Batería;Compatible;9,65;;;6
+KY-DP2-CON-COM;Kyocera;DuraForce Pro 2;Conector de carga;Compatible;4,60;;;6
+KY-DP2-TAP-COM;Kyocera;DuraForce Pro 2;Tapa trasera;Compatible;5,40;;;6
+KY-DP2-CTR-COM;Kyocera;DuraForce Pro 2;Cámara trasera;Compatible;7,59;;;6
+KY-DP2-CFR-COM;Kyocera;DuraForce Pro 2;Cámara frontal;Compatible;4,99;;;6
+KY-DP2-LEN-COM;Kyocera;DuraForce Pro 2;Lente de cámara;Compatible;2,19;;;6
+KY-DP2-ALT-COM;Kyocera;DuraForce Pro 2;Altavoz;Compatible;3,65;;;6
+KY-DP2-AUR-COM;Kyocera;DuraForce Pro 2;Auricular de llamada;Compatible;2,65;;;6
+KY-DP2-FLX-COM;Kyocera;DuraForce Pro 2;Flex de encendido y volumen;Compatible;2,49;;;6
+KY-DP2-SIM-COM;Kyocera;DuraForce Pro 2;Bandeja SIM;Compatible;2,55;;;6
+KY-UV02-PAN-COM;Kyocera;Urbano V02;Pantalla;Compatible;15,15;14,70;14,24;6
+KY-UV02-BAT-COM;Kyocera;Urbano V02;Batería;Compatible;9,65;;;6
+KY-UV02-CON-COM;Kyocera;Urbano V02;Conector de carga;Compatible;4,60;;;6
+KY-UV02-TAP-COM;Kyocera;Urbano V02;Tapa trasera;Compatible;5,40;;;6
+KY-UV02-CTR-COM;Kyocera;Urbano V02;Cámara trasera;Compatible;7,59;;;6
+KY-UV02-CFR-COM;Kyocera;Urbano V02;Cámara frontal;Compatible;4,99;;;6
+KY-UV02-LEN-COM;Kyocera;Urbano V02;Lente de cámara;Compatible;2,19;;;6
+KY-UV02-ALT-COM;Kyocera;Urbano V02;Altavoz;Compatible;3,65;;;6
+KY-UV02-AUR-COM;Kyocera;Urbano V02;Auricular de llamada;Compatible;2,65;;;6
+KY-UV02-FLX-COM;Kyocera;Urbano V02;Flex de encendido y volumen;Compatible;2,49;;;6
+KY-UV02-SIM-COM;Kyocera;Urbano V02;Bandeja SIM;Compatible;2,55;;;6
+KY-BKYV32-PAN-COM;Kyocera;BASIO KYV32;Pantalla;Compatible;15,15;14,70;14,24;6
+KY-BKYV32-BAT-COM;Kyocera;BASIO KYV32;Batería;Compatible;9,65;;;6
+KY-BKYV32-CON-COM;Kyocera;BASIO KYV32;Conector de carga;Compatible;4,60;;;6
+KY-BKYV32-TAP-COM;Kyocera;BASIO KYV32;Tapa trasera;Compatible;5,40;;;6
+KY-BKYV32-CTR-COM;Kyocera;BASIO KYV32;Cámara trasera;Compatible;7,59;;;6
+KY-BKYV32-CFR-COM;Kyocera;BASIO KYV32;Cámara frontal;Compatible;4,99;;;6
+KY-BKYV32-LEN-COM;Kyocera;BASIO KYV32;Lente de cámara;Compatible;2,19;;;6
+KY-BKYV32-ALT-COM;Kyocera;BASIO KYV32;Altavoz;Compatible;3,65;;;6
+KY-BKYV32-AUR-COM;Kyocera;BASIO KYV32;Auricular de llamada;Compatible;2,65;;;6
+KY-BKYV32-FLX-COM;Kyocera;BASIO KYV32;Flex de encendido y volumen;Compatible;2,49;;;6
+KY-BKYV32-SIM-COM;Kyocera;BASIO KYV32;Bandeja SIM;Compatible;2,55;;;6
+KY-UV01-PAN-COM;Kyocera;URBANO V01;Pantalla;Compatible;15,15;14,70;14,24;6
+KY-UV01-BAT-COM;Kyocera;URBANO V01;Batería;Compatible;9,65;;;6
+KY-UV01-CON-COM;Kyocera;URBANO V01;Conector de carga;Compatible;4,60;;;6
+KY-UV01-TAP-COM;Kyocera;URBANO V01;Tapa trasera;Compatible;5,40;;;6
+KY-UV01-CTR-COM;Kyocera;URBANO V01;Cámara trasera;Compatible;7,59;;;6
+KY-UV01-CFR-COM;Kyocera;URBANO V01;Cámara frontal;Compatible;4,99;;;6
+KY-UV01-LEN-COM;Kyocera;URBANO V01;Lente de cámara;Compatible;2,19;;;6
+KY-UV01-ALT-COM;Kyocera;URBANO V01;Altavoz;Compatible;3,65;;;6
+KY-UV01-AUR-COM;Kyocera;URBANO V01;Auricular de llamada;Compatible;2,65;;;6
+KY-UV01-FLX-COM;Kyocera;URBANO V01;Flex de encendido y volumen;Compatible;2,49;;;6
+KY-UV01-SIM-COM;Kyocera;URBANO V01;Bandeja SIM;Compatible;2,55;;;6
+KY-D-PAN-COM;Kyocera;DuraForce;Pantalla;Compatible;15,15;14,70;14,24;6
+KY-D-BAT-COM;Kyocera;DuraForce;Batería;Compatible;9,65;;;6
+KY-D-CON-COM;Kyocera;DuraForce;Conector de carga;Compatible;4,60;;;6
+KY-D-TAP-COM;Kyocera;DuraForce;Tapa trasera;Compatible;5,40;;;6
+KY-D-CTR-COM;Kyocera;DuraForce;Cámara trasera;Compatible;7,59;;;6
+KY-D-CFR-COM;Kyocera;DuraForce;Cámara frontal;Compatible;4,99;;;6
+KY-D-LEN-COM;Kyocera;DuraForce;Lente de cámara;Compatible;2,19;;;6
+KY-D-ALT-COM;Kyocera;DuraForce;Altavoz;Compatible;3,65;;;6
+KY-D-AUR-COM;Kyocera;DuraForce;Auricular de llamada;Compatible;2,65;;;6
+KY-D-FLX-COM;Kyocera;DuraForce;Flex de encendido y volumen;Compatible;2,49;;;6
+KY-D-SIM-COM;Kyocera;DuraForce;Bandeja SIM;Compatible;2,55;;;6
+KY-DT-PAN-COM;Kyocera;DIGNO T;Pantalla;Compatible;15,15;14,70;14,24;6
+KY-DT-BAT-COM;Kyocera;DIGNO T;Batería;Compatible;9,65;;;6
+KY-DT-CON-COM;Kyocera;DIGNO T;Conector de carga;Compatible;4,60;;;6
+KY-DT-TAP-COM;Kyocera;DIGNO T;Tapa trasera;Compatible;5,40;;;6
+KY-DT-CTR-COM;Kyocera;DIGNO T;Cámara trasera;Compatible;7,59;;;6
+KY-DT-CFR-COM;Kyocera;DIGNO T;Cámara frontal;Compatible;4,99;;;6
+KY-DT-LEN-COM;Kyocera;DIGNO T;Lente de cámara;Compatible;2,19;;;6
+KY-DT-ALT-COM;Kyocera;DIGNO T;Altavoz;Compatible;3,65;;;6
+KY-DT-AUR-COM;Kyocera;DIGNO T;Auricular de llamada;Compatible;2,65;;;6
+KY-DT-FLX-COM;Kyocera;DIGNO T;Flex de encendido y volumen;Compatible;2,49;;;6
+KY-DT-SIM-COM;Kyocera;DIGNO T;Bandeja SIM;Compatible;2,55;;;6
+KY-UL03-PAN-COM;Kyocera;URBANO L03;Pantalla;Compatible;15,15;14,70;14,24;6
+KY-UL03-BAT-COM;Kyocera;URBANO L03;Batería;Compatible;9,65;;;6
+KY-UL03-CON-COM;Kyocera;URBANO L03;Conector de carga;Compatible;4,60;;;6
+KY-UL03-TAP-COM;Kyocera;URBANO L03;Tapa trasera;Compatible;5,40;;;6
+KY-UL03-CTR-COM;Kyocera;URBANO L03;Cámara trasera;Compatible;7,59;;;6
+KY-UL03-CFR-COM;Kyocera;URBANO L03;Cámara frontal;Compatible;4,99;;;6
+KY-UL03-LEN-COM;Kyocera;URBANO L03;Lente de cámara;Compatible;2,19;;;6
+KY-UL03-ALT-COM;Kyocera;URBANO L03;Altavoz;Compatible;3,65;;;6
+KY-UL03-AUR-COM;Kyocera;URBANO L03;Auricular de llamada;Compatible;2,65;;;6
+KY-UL03-FLX-COM;Kyocera;URBANO L03;Flex de encendido y volumen;Compatible;2,49;;;6
+KY-UL03-SIM-COM;Kyocera;URBANO L03;Bandeja SIM;Compatible;2,55;;;6
+KY-UP-PAN-INC;Kyocera;Urbano Progresso;Pantalla;Incell;17,69;17,16;16,63;6
+KY-UP-BAT-COM;Kyocera;Urbano Progresso;Batería;Compatible;9,65;;;6
+KY-UP-CON-COM;Kyocera;Urbano Progresso;Conector de carga;Compatible;4,60;;;6
+KY-UP-TAP-COM;Kyocera;Urbano Progresso;Tapa trasera;Compatible;5,40;;;6
+KY-UP-CTR-COM;Kyocera;Urbano Progresso;Cámara trasera;Compatible;7,59;;;6
+KY-UP-CFR-COM;Kyocera;Urbano Progresso;Cámara frontal;Compatible;4,99;;;6
+KY-UP-LEN-COM;Kyocera;Urbano Progresso;Lente de cámara;Compatible;2,19;;;6
+KY-UP-ALT-COM;Kyocera;Urbano Progresso;Altavoz;Compatible;3,65;;;6
+KY-UP-AUR-COM;Kyocera;Urbano Progresso;Auricular de llamada;Compatible;2,65;;;6
+KY-UP-FLX-COM;Kyocera;Urbano Progresso;Flex de encendido y volumen;Compatible;2,49;;;6
+KY-UP-SIM-COM;Kyocera;Urbano Progresso;Bandeja SIM;Compatible;2,55;;;6
+KY-DP2-PRO-NA;Kyocera;DuraForce Pro 2;Cristal templado;Estándar;1,30;;;
+KY-DP2-PRO-PRI;Kyocera;DuraForce Pro 2;Cristal templado;Privacidad;4,00;;;
+KY-DP2-FUN-SIL;Kyocera;DuraForce Pro 2;Funda;Silicona;2,50;;;
+KY-DP2-FUN-TPU;Kyocera;DuraForce Pro 2;Funda;Transparente;2,95;;;
+KY-DP2-FUN-LIB;Kyocera;DuraForce Pro 2;Funda;Libro;3,70;;;
+KY-DP2-FUN-ANT;Kyocera;DuraForce Pro 2;Funda;Antigolpes;3,10;;;
+KY-UV02-PRO-NA;Kyocera;Urbano V02;Cristal templado;Estándar;1,30;;;
+KY-UV02-PRO-PRI;Kyocera;Urbano V02;Cristal templado;Privacidad;4,00;;;
+KY-UV02-FUN-SIL;Kyocera;Urbano V02;Funda;Silicona;2,50;;;
+KY-UV02-FUN-TPU;Kyocera;Urbano V02;Funda;Transparente;2,95;;;
+KY-UV02-FUN-LIB;Kyocera;Urbano V02;Funda;Libro;3,70;;;
+KY-UV02-FUN-ANT;Kyocera;Urbano V02;Funda;Antigolpes;3,10;;;
+KY-BKYV32-PRO-NA;Kyocera;BASIO KYV32;Cristal templado;Estándar;1,30;;;
+KY-BKYV32-PRO-PRI;Kyocera;BASIO KYV32;Cristal templado;Privacidad;4,00;;;
+KY-BKYV32-FUN-SIL;Kyocera;BASIO KYV32;Funda;Silicona;2,50;;;
+KY-BKYV32-FUN-TPU;Kyocera;BASIO KYV32;Funda;Transparente;2,95;;;
+KY-BKYV32-FUN-LIB;Kyocera;BASIO KYV32;Funda;Libro;3,70;;;
+KY-BKYV32-FUN-ANT;Kyocera;BASIO KYV32;Funda;Antigolpes;3,10;;;
+KY-UV01-PRO-NA;Kyocera;URBANO V01;Cristal templado;Estándar;1,30;;;
+KY-UV01-PRO-PRI;Kyocera;URBANO V01;Cristal templado;Privacidad;4,00;;;
+KY-UV01-FUN-SIL;Kyocera;URBANO V01;Funda;Silicona;2,50;;;
+KY-UV01-FUN-TPU;Kyocera;URBANO V01;Funda;Transparente;2,95;;;
+KY-UV01-FUN-LIB;Kyocera;URBANO V01;Funda;Libro;3,70;;;
+KY-UV01-FUN-ANT;Kyocera;URBANO V01;Funda;Antigolpes;3,10;;;
+KY-D-PRO-NA;Kyocera;DuraForce;Cristal templado;Estándar;1,30;;;
+KY-D-PRO-PRI;Kyocera;DuraForce;Cristal templado;Privacidad;4,00;;;
+KY-D-FUN-SIL;Kyocera;DuraForce;Funda;Silicona;2,50;;;
+KY-D-FUN-TPU;Kyocera;DuraForce;Funda;Transparente;2,95;;;
+KY-D-FUN-LIB;Kyocera;DuraForce;Funda;Libro;3,70;;;
+KY-D-FUN-ANT;Kyocera;DuraForce;Funda;Antigolpes;3,10;;;
+KY-DT-PRO-NA;Kyocera;DIGNO T;Cristal templado;Estándar;1,30;;;
+KY-DT-PRO-PRI;Kyocera;DIGNO T;Cristal templado;Privacidad;4,00;;;
+KY-DT-FUN-SIL;Kyocera;DIGNO T;Funda;Silicona;2,50;;;
+KY-DT-FUN-TPU;Kyocera;DIGNO T;Funda;Transparente;2,95;;;
+KY-DT-FUN-LIB;Kyocera;DIGNO T;Funda;Libro;3,70;;;
+KY-DT-FUN-ANT;Kyocera;DIGNO T;Funda;Antigolpes;3,10;;;
+KY-UL03-PRO-NA;Kyocera;URBANO L03;Cristal templado;Estándar;1,30;;;
+KY-UL03-PRO-PRI;Kyocera;URBANO L03;Cristal templado;Privacidad;4,00;;;
+KY-UL03-FUN-SIL;Kyocera;URBANO L03;Funda;Silicona;2,50;;;
+KY-UL03-FUN-TPU;Kyocera;URBANO L03;Funda;Transparente;2,95;;;
+KY-UL03-FUN-LIB;Kyocera;URBANO L03;Funda;Libro;3,70;;;
+KY-UL03-FUN-ANT;Kyocera;URBANO L03;Funda;Antigolpes;3,10;;;
+KY-UP-PRO-NA;Kyocera;Urbano Progresso;Cristal templado;Estándar;1,30;;;
+KY-UP-PRO-PRI;Kyocera;Urbano Progresso;Cristal templado;Privacidad;4,00;;;
+KY-UP-FUN-SIL;Kyocera;Urbano Progresso;Funda;Silicona;2,50;;;
+KY-UP-FUN-TPU;Kyocera;Urbano Progresso;Funda;Transparente;2,95;;;
+KY-UP-FUN-LIB;Kyocera;Urbano Progresso;Funda;Libro;3,70;;;
+KY-UP-FUN-ANT;Kyocera;Urbano Progresso;Funda;Antigolpes;3,10;;;
+KY-DP2-MAR-COM;Kyocera;DuraForce Pro 2;Marco / chasis;Compatible;6,49;;;6
+KY-DP2-BOT-COM;Kyocera;DuraForce Pro 2;Botones laterales;Compatible;3,35;;;6
+KY-DP2-CRI-COM;Kyocera;DuraForce Pro 2;Cristal de pantalla;Compatible;3,30;;;6
+KY-DP2-ANT-COM;Kyocera;DuraForce Pro 2;Antena / coaxial;Compatible;2,89;;;6
+KY-DP2-HUE-COM;Kyocera;DuraForce Pro 2;Botón home / huella;Compatible;4,79;;;6
+KY-UV02-MAR-COM;Kyocera;Urbano V02;Marco / chasis;Compatible;5,75;;;6
+KY-UV02-BOT-COM;Kyocera;Urbano V02;Botones laterales;Compatible;2,95;;;6
+KY-UV02-CRI-COM;Kyocera;Urbano V02;Cristal de pantalla;Compatible;2,95;;;6
+KY-UV02-ANT-COM;Kyocera;Urbano V02;Antena / coaxial;Compatible;2,55;;;6
+KY-BKYV32-MAR-COM;Kyocera;BASIO KYV32;Marco / chasis;Compatible;5,75;;;6
+KY-BKYV32-BOT-COM;Kyocera;BASIO KYV32;Botones laterales;Compatible;2,95;;;6
+KY-BKYV32-CRI-COM;Kyocera;BASIO KYV32;Cristal de pantalla;Compatible;2,95;;;6
+KY-BKYV32-ANT-COM;Kyocera;BASIO KYV32;Antena / coaxial;Compatible;2,55;;;6
+KY-UV01-MAR-COM;Kyocera;URBANO V01;Marco / chasis;Compatible;5,75;;;6
+KY-UV01-BOT-COM;Kyocera;URBANO V01;Botones laterales;Compatible;2,95;;;6
+KY-UV01-ANT-COM;Kyocera;URBANO V01;Antena / coaxial;Compatible;2,55;;;6
+KY-D-MAR-COM;Kyocera;DuraForce;Marco / chasis;Compatible;5,75;;;6
+KY-D-BOT-COM;Kyocera;DuraForce;Botones laterales;Compatible;2,95;;;6
+KY-D-ANT-COM;Kyocera;DuraForce;Antena / coaxial;Compatible;2,55;;;6
+KY-DT-MAR-COM;Kyocera;DIGNO T;Marco / chasis;Compatible;5,75;;;6
+KY-DT-BOT-COM;Kyocera;DIGNO T;Botones laterales;Compatible;2,95;;;6
+KY-DT-ANT-COM;Kyocera;DIGNO T;Antena / coaxial;Compatible;2,55;;;6
+KY-UL03-MAR-COM;Kyocera;URBANO L03;Marco / chasis;Compatible;5,75;;;6
+KY-UL03-BOT-COM;Kyocera;URBANO L03;Botones laterales;Compatible;2,95;;;6
+KY-UL03-ANT-COM;Kyocera;URBANO L03;Antena / coaxial;Compatible;2,55;;;6
+KY-UP-ANT-COM;Kyocera;Urbano Progresso;Antena / coaxial;Compatible;2,55;;;6

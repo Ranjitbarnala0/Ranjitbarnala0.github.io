@@ -1,0 +1,24 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+NO-P-PAN-COM;NIO;Phone;Pantalla;Compatible;17,15;16,64;16,12;6
+NO-P-BAT-COM;NIO;Phone;Batería;Compatible;9,40;;;6
+NO-P-CON-COM;NIO;Phone;Conector de carga;Compatible;5,05;;;6
+NO-P-TAP-COM;NIO;Phone;Tapa trasera;Compatible;6,20;;;6
+NO-P-CTR-COM;NIO;Phone;Cámara trasera;Compatible;8,65;;;6
+NO-P-CFR-COM;NIO;Phone;Cámara frontal;Compatible;5,35;;;6
+NO-P-LEN-COM;NIO;Phone;Lente de cámara;Compatible;2,30;;;6
+NO-P-ALT-COM;NIO;Phone;Altavoz;Compatible;3,60;;;6
+NO-P-AUR-COM;NIO;Phone;Auricular de llamada;Compatible;2,65;;;6
+NO-P-FLX-COM;NIO;Phone;Flex de encendido y volumen;Compatible;2,79;;;6
+NO-P-SIM-COM;NIO;Phone;Bandeja SIM;Compatible;2,55;;;6
+NO-P-PRO-NA;NIO;Phone;Cristal templado;Estándar;1,30;;;
+NO-P-PRO-PRI;NIO;Phone;Cristal templado;Privacidad;4,00;;;
+NO-P-FUN-SIL;NIO;Phone;Funda;Silicona;2,50;;;
+NO-P-FUN-TPU;NIO;Phone;Funda;Transparente;2,95;;;
+NO-P-FUN-LIB;NIO;Phone;Funda;Libro;3,70;;;
+NO-P-FUN-ANT;NIO;Phone;Funda;Antigolpes;3,10;;;
+NO-P-PCA-NA;NIO;Phone;Protector de cámara;Cristal;2,90;;;
+NO-P-MAR-COM;NIO;Phone;Marco / chasis;Compatible;7,20;;;6
+NO-P-BOT-COM;NIO;Phone;Botones laterales;Compatible;3,70;;;6
+NO-P-CRI-COM;NIO;Phone;Cristal de pantalla;Compatible;3,69;;;6
+NO-P-ANT-COM;NIO;Phone;Antena / coaxial;Compatible;3,20;;;6
+NO-P-HUE-COM;NIO;Phone;Botón home / huella;Compatible;5,30;;;6

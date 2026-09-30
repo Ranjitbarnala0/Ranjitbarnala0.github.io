@@ -1,0 +1,163 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+FP-1-PAN-COM;Fairphone;1;Pantalla;Compatible;15,55;15,08;14,62;6
+FP-1-BAT-COM;Fairphone;1;Batería;Compatible;10,40;10,09;9,78;6
+FP-1-CON-COM;Fairphone;1;Conector de carga;Compatible;4,30;;;6
+FP-1-TAP-COM;Fairphone;1;Tapa trasera;Compatible;5,49;;;6
+FP-1-CTR-COM;Fairphone;1;Cámara trasera;Compatible;9,20;;;6
+FP-1-CFR-COM;Fairphone;1;Cámara frontal;Compatible;5,25;;;6
+FP-1-LEN-COM;Fairphone;1;Lente de cámara;Compatible;2,60;;;6
+FP-1-ALT-COM;Fairphone;1;Altavoz;Compatible;4,05;;;6
+FP-1-AUR-COM;Fairphone;1;Auricular de llamada;Compatible;3,30;;;6
+FP-1-FLX-COM;Fairphone;1;Flex de encendido y volumen;Compatible;3,25;;;6
+FP-1-SIM-COM;Fairphone;1;Bandeja SIM;Compatible;2,90;;;6
+FP-2-PAN-COM;Fairphone;2;Pantalla;Compatible;15,55;15,08;14,62;6
+FP-2-BAT-COM;Fairphone;2;Batería;Compatible;10,40;10,09;9,78;6
+FP-2-CON-COM;Fairphone;2;Conector de carga;Compatible;4,30;;;6
+FP-2-TAP-COM;Fairphone;2;Tapa trasera;Compatible;5,49;;;6
+FP-2-CTR-COM;Fairphone;2;Cámara trasera;Compatible;9,20;;;6
+FP-2-CFR-COM;Fairphone;2;Cámara frontal;Compatible;5,25;;;6
+FP-2-LEN-COM;Fairphone;2;Lente de cámara;Compatible;2,60;;;6
+FP-2-ALT-COM;Fairphone;2;Altavoz;Compatible;4,05;;;6
+FP-2-AUR-COM;Fairphone;2;Auricular de llamada;Compatible;3,30;;;6
+FP-2-FLX-COM;Fairphone;2;Flex de encendido y volumen;Compatible;3,25;;;6
+FP-2-SIM-COM;Fairphone;2;Bandeja SIM;Compatible;2,90;;;6
+FP-3-PAN-COM;Fairphone;3;Pantalla;Compatible;15,55;15,08;14,62;6
+FP-3-BAT-COM;Fairphone;3;Batería;Compatible;9,60;;;6
+FP-3-CON-COM;Fairphone;3;Conector de carga;Compatible;4,30;;;6
+FP-3-TAP-COM;Fairphone;3;Tapa trasera;Compatible;5,49;;;6
+FP-3-CTR-COM;Fairphone;3;Cámara trasera;Compatible;8,30;;;6
+FP-3-CFR-COM;Fairphone;3;Cámara frontal;Compatible;5,25;;;6
+FP-3-LEN-COM;Fairphone;3;Lente de cámara;Compatible;2,60;;;6
+FP-3-ALT-COM;Fairphone;3;Altavoz;Compatible;4,05;;;6
+FP-3-AUR-COM;Fairphone;3;Auricular de llamada;Compatible;3,30;;;6
+FP-3-FLX-COM;Fairphone;3;Flex de encendido y volumen;Compatible;3,25;;;6
+FP-3-SIM-COM;Fairphone;3;Bandeja SIM;Compatible;2,90;;;6
+FP-3PL-PAN-COM;Fairphone;3+;Pantalla;Compatible;16,50;16,01;15,51;6
+FP-3PL-BAT-COM;Fairphone;3+;Batería;Compatible;9,60;;;6
+FP-3PL-CON-COM;Fairphone;3+;Conector de carga;Compatible;4,10;;;6
+FP-3PL-TAP-COM;Fairphone;3+;Tapa trasera;Compatible;5,60;;;6
+FP-3PL-CTR-COM;Fairphone;3+;Cámara trasera;Compatible;8,30;;;6
+FP-3PL-CFR-COM;Fairphone;3+;Cámara frontal;Compatible;3,89;;;6
+FP-3PL-LEN-COM;Fairphone;3+;Lente de cámara;Compatible;2,65;;;6
+FP-3PL-ALT-COM;Fairphone;3+;Altavoz;Compatible;3,70;;;6
+FP-3PL-AUR-COM;Fairphone;3+;Auricular de llamada;Compatible;2,99;;;6
+FP-3PL-FLX-COM;Fairphone;3+;Flex de encendido y volumen;Compatible;2,99;;;6
+FP-3PL-SIM-COM;Fairphone;3+;Bandeja SIM;Compatible;2,99;;;6
+FP-4-PAN-COM;Fairphone;4;Pantalla;Compatible;16,50;16,01;15,51;6
+FP-4-BAT-COM;Fairphone;4;Batería;Compatible;8,89;;;6
+FP-4-CON-COM;Fairphone;4;Conector de carga;Compatible;4,10;;;6
+FP-4-TAP-COM-GRI;Fairphone;4;Tapa trasera;Gris;5,60;;;6
+FP-4-TAP-COM-VER;Fairphone;4;Tapa trasera;Verde;5,60;;;6
+FP-4-TAP-COM-VSP;Fairphone;4;Tapa trasera;Verde (Speckled green);5,60;;;6
+FP-4-CTR-COM;Fairphone;4;Cámara trasera;Compatible;7,50;;;6
+FP-4-CFR-COM;Fairphone;4;Cámara frontal;Compatible;3,89;;;6
+FP-4-LEN-COM;Fairphone;4;Lente de cámara;Compatible;2,65;;;6
+FP-4-ALT-COM;Fairphone;4;Altavoz;Compatible;3,70;;;6
+FP-4-AUR-COM;Fairphone;4;Auricular de llamada;Compatible;2,99;;;6
+FP-4-FLX-COM;Fairphone;4;Flex de encendido y volumen;Compatible;2,99;;;6
+FP-4-SIM-COM;Fairphone;4;Bandeja SIM;Compatible;2,99;;;6
+FP-5-PAN-INC;Fairphone;5;Pantalla;Incell;20,50;19,88;19,27;6
+FP-5-BAT-COM;Fairphone;5;Batería;Compatible;10,15;9,85;9,54;6
+FP-5-CON-COM;Fairphone;5;Conector de carga;Compatible;4,70;;;6
+FP-5-TAP-COM-NEG;Fairphone;5;Tapa trasera;Negro (Matte black);6,29;;;6
+FP-5-TAP-COM-AZU;Fairphone;5;Tapa trasera;Azul cielo;6,29;;;6
+FP-5-TAP-COM-TRA;Fairphone;5;Tapa trasera;Transparent edition;6,29;;;6
+FP-5-TAP-COM-VER;Fairphone;5;Tapa trasera;Verde;6,29;;;6
+FP-5-CTR-COM;Fairphone;5;Cámara trasera;Compatible;10,55;10,23;9,92;6
+FP-5-CFR-COM;Fairphone;5;Cámara frontal;Compatible;5,69;;;6
+FP-5-LEN-COM;Fairphone;5;Lente de cámara;Compatible;2,75;;;6
+FP-5-ALT-COM;Fairphone;5;Altavoz;Compatible;3,99;;;6
+FP-5-AUR-COM;Fairphone;5;Auricular de llamada;Compatible;3,29;;;6
+FP-5-FLX-COM;Fairphone;5;Flex de encendido y volumen;Compatible;3,60;;;6
+FP-5-SIM-COM;Fairphone;5;Bandeja SIM;Compatible;2,95;;;6
+FP-6-PAN-INC;Fairphone;6;Pantalla;Incell;21,59;20,94;20,29;6
+FP-6-BAT-COM;Fairphone;6;Batería;Compatible;9,55;;;6
+FP-6-CON-COM;Fairphone;6;Conector de carga;Compatible;5,60;;;6
+FP-6-TAP-COM-BLA;Fairphone;6;Tapa trasera;Blanco (Cloud White);6,75;;;6
+FP-6-TAP-COM-VER;Fairphone;6;Tapa trasera;Verde (Forest Green);6,75;;;6
+FP-6-TAP-COM-NEG;Fairphone;6;Tapa trasera;Negro (Horizon Black);6,75;;;6
+FP-6-TAP-COM-AZU;Fairphone;6;Tapa trasera;Azul (Cobalt Blue);6,75;;;6
+FP-6-CTR-COM;Fairphone;6;Cámara trasera;Compatible;14,40;13,97;13,54;6
+FP-6-CFR-COM;Fairphone;6;Cámara frontal;Compatible;7,90;;;6
+FP-6-LEN-COM;Fairphone;6;Lente de cámara;Compatible;3,55;;;6
+FP-6-ALT-COM;Fairphone;6;Altavoz;Compatible;5,25;;;6
+FP-6-AUR-COM;Fairphone;6;Auricular de llamada;Compatible;4,60;;;6
+FP-6-FLX-COM;Fairphone;6;Flex de encendido y volumen;Compatible;3,95;;;6
+FP-6-SIM-COM;Fairphone;6;Bandeja SIM;Compatible;3,45;;;6
+FP-1-PRO-NA;Fairphone;1;Cristal templado;Estándar;1,30;;;
+FP-1-PRO-PRI;Fairphone;1;Cristal templado;Privacidad;4,00;;;
+FP-1-FUN-SIL;Fairphone;1;Funda;Silicona;2,50;;;
+FP-1-FUN-TPU;Fairphone;1;Funda;Transparente;2,95;;;
+FP-1-FUN-LIB;Fairphone;1;Funda;Libro;3,70;;;
+FP-1-FUN-ANT;Fairphone;1;Funda;Antigolpes;3,10;;;
+FP-2-PRO-NA;Fairphone;2;Cristal templado;Estándar;1,30;;;
+FP-2-PRO-PRI;Fairphone;2;Cristal templado;Privacidad;4,00;;;
+FP-2-FUN-SIL;Fairphone;2;Funda;Silicona;2,50;;;
+FP-2-FUN-TPU;Fairphone;2;Funda;Transparente;2,95;;;
+FP-2-FUN-LIB;Fairphone;2;Funda;Libro;3,70;;;
+FP-2-FUN-ANT;Fairphone;2;Funda;Antigolpes;3,10;;;
+FP-3-PRO-NA;Fairphone;3;Cristal templado;Estándar;1,30;;;
+FP-3-PRO-PRI;Fairphone;3;Cristal templado;Privacidad;4,00;;;
+FP-3-FUN-SIL;Fairphone;3;Funda;Silicona;2,50;;;
+FP-3-FUN-TPU;Fairphone;3;Funda;Transparente;2,95;;;
+FP-3-FUN-LIB;Fairphone;3;Funda;Libro;3,70;;;
+FP-3-FUN-ANT;Fairphone;3;Funda;Antigolpes;3,10;;;
+FP-3PL-PRO-NA;Fairphone;3+;Cristal templado;Estándar;1,30;;;
+FP-3PL-PRO-PRI;Fairphone;3+;Cristal templado;Privacidad;4,00;;;
+FP-3PL-FUN-SIL;Fairphone;3+;Funda;Silicona;2,50;;;
+FP-3PL-FUN-TPU;Fairphone;3+;Funda;Transparente;2,95;;;
+FP-3PL-FUN-LIB;Fairphone;3+;Funda;Libro;3,70;;;
+FP-3PL-FUN-ANT;Fairphone;3+;Funda;Antigolpes;3,10;;;
+FP-4-PRO-NA;Fairphone;4;Cristal templado;Estándar;1,30;;;
+FP-4-PRO-PRI;Fairphone;4;Cristal templado;Privacidad;4,00;;;
+FP-4-FUN-SIL;Fairphone;4;Funda;Silicona;2,50;;;
+FP-4-FUN-TPU;Fairphone;4;Funda;Transparente;2,95;;;
+FP-4-FUN-LIB;Fairphone;4;Funda;Libro;3,70;;;
+FP-4-FUN-ANT;Fairphone;4;Funda;Antigolpes;3,10;;;
+FP-4-PCA-NA;Fairphone;4;Protector de cámara;Cristal;2,90;;;
+FP-5-PRO-NA;Fairphone;5;Cristal templado;Estándar;1,30;;;
+FP-5-PRO-PRI;Fairphone;5;Cristal templado;Privacidad;4,00;;;
+FP-5-FUN-SIL;Fairphone;5;Funda;Silicona;2,50;;;
+FP-5-FUN-TPU;Fairphone;5;Funda;Transparente;2,95;;;
+FP-5-FUN-LIB;Fairphone;5;Funda;Libro;3,70;;;
+FP-5-FUN-ANT;Fairphone;5;Funda;Antigolpes;3,10;;;
+FP-5-PCA-NA;Fairphone;5;Protector de cámara;Cristal;2,90;;;
+FP-6-PRO-NA;Fairphone;6;Cristal templado;Estándar;1,30;;;
+FP-6-PRO-PRI;Fairphone;6;Cristal templado;Privacidad;4,00;;;
+FP-6-FUN-SIL;Fairphone;6;Funda;Silicona;2,50;;;
+FP-6-FUN-TPU;Fairphone;6;Funda;Transparente;2,95;;;
+FP-6-FUN-LIB;Fairphone;6;Funda;Libro;3,70;;;
+FP-6-FUN-ANT;Fairphone;6;Funda;Antigolpes;3,10;;;
+FP-6-PCA-NA;Fairphone;6;Protector de cámara;Cristal;2,90;;;
+FP-1-MAR-COM;Fairphone;1;Marco / chasis;Compatible;6,59;;;6
+FP-1-BOT-COM;Fairphone;1;Botones laterales;Compatible;3,39;;;6
+FP-1-ANT-COM;Fairphone;1;Antena / coaxial;Compatible;2,90;;;6
+FP-2-MAR-COM;Fairphone;2;Marco / chasis;Compatible;6,59;;;6
+FP-2-BOT-COM;Fairphone;2;Botones laterales;Compatible;3,39;;;6
+FP-2-CRI-COM;Fairphone;2;Cristal de pantalla;Compatible;3,35;;;6
+FP-2-ANT-COM;Fairphone;2;Antena / coaxial;Compatible;2,90;;;6
+FP-3-MAR-COM;Fairphone;3;Marco / chasis;Compatible;7,40;;;6
+FP-3-BOT-COM;Fairphone;3;Botones laterales;Compatible;3,80;;;6
+FP-3-CRI-COM;Fairphone;3;Cristal de pantalla;Compatible;3,79;;;6
+FP-3-ANT-COM;Fairphone;3;Antena / coaxial;Compatible;3,29;;;6
+FP-3-HUE-COM;Fairphone;3;Botón home / huella;Compatible;5,45;;;6
+FP-3PL-MAR-COM;Fairphone;3+;Marco / chasis;Compatible;8,20;;;6
+FP-3PL-BOT-COM;Fairphone;3+;Botones laterales;Compatible;4,20;;;6
+FP-3PL-CRI-COM;Fairphone;3+;Cristal de pantalla;Compatible;4,20;;;6
+FP-3PL-ANT-COM;Fairphone;3+;Antena / coaxial;Compatible;3,65;;;6
+FP-3PL-HUE-COM;Fairphone;3+;Botón home / huella;Compatible;6,05;;;6
+FP-4-MAR-COM;Fairphone;4;Marco / chasis;Compatible;8,20;;;6
+FP-4-BOT-COM;Fairphone;4;Botones laterales;Compatible;4,20;;;6
+FP-4-CRI-COM;Fairphone;4;Cristal de pantalla;Compatible;4,20;;;6
+FP-4-ANT-COM;Fairphone;4;Antena / coaxial;Compatible;3,65;;;6
+FP-4-HUE-COM;Fairphone;4;Botón home / huella;Compatible;6,05;;;6
+FP-5-MAR-COM;Fairphone;5;Marco / chasis;Compatible;8,20;;;6
+FP-5-BOT-COM;Fairphone;5;Botones laterales;Compatible;4,20;;;6
+FP-5-CRI-COM;Fairphone;5;Cristal de pantalla;Compatible;4,20;;;6
+FP-5-ANT-COM;Fairphone;5;Antena / coaxial;Compatible;3,65;;;6
+FP-5-HUE-COM;Fairphone;5;Botón home / huella;Compatible;6,05;;;6
+FP-6-MAR-COM;Fairphone;6;Marco / chasis;Compatible;9,05;;;6
+FP-6-BOT-COM;Fairphone;6;Botones laterales;Compatible;4,65;;;6
+FP-6-CRI-COM;Fairphone;6;Cristal de pantalla;Compatible;4,60;;;6
+FP-6-ANT-COM;Fairphone;6;Antena / coaxial;Compatible;4,00;;;6
+FP-6-HUE-COM;Fairphone;6;Botón home / huella;Compatible;6,69;;;6

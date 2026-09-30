@@ -1,0 +1,490 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+BV-A60PL-PAN-COM;Blackview;A60 Plus;Pantalla;Compatible;13,00;12,61;12,22;6
+BV-A60PL-BAT-COM;Blackview;A60 Plus;Batería;Compatible;8,90;;;6
+BV-A60PL-CON-COM;Blackview;A60 Plus;Conector de carga;Compatible;3,70;;;6
+BV-A60PL-TAP-COM;Blackview;A60 Plus;Tapa trasera;Compatible;4,80;;;6
+BV-A60PL-CTR-COM;Blackview;A60 Plus;Cámara trasera;Compatible;6,65;;;6
+BV-A60PL-CFR-COM;Blackview;A60 Plus;Cámara frontal;Compatible;4,65;;;6
+BV-A60PL-LEN-COM;Blackview;A60 Plus;Lente de cámara;Compatible;2,25;;;6
+BV-A60PL-ALT-COM;Blackview;A60 Plus;Altavoz;Compatible;3,59;;;6
+BV-A60PL-AUR-COM;Blackview;A60 Plus;Auricular de llamada;Compatible;2,69;;;6
+BV-A60PL-FLX-COM;Blackview;A60 Plus;Flex de encendido y volumen;Compatible;2,55;;;6
+BV-A60PL-SIM-COM;Blackview;A60 Plus;Bandeja SIM;Compatible;2,65;;;6
+BV-A60P-PAN-COM;Blackview;A60 Pro;Pantalla;Compatible;13,00;12,61;12,22;6
+BV-A60P-BAT-COM;Blackview;A60 Pro;Batería;Compatible;8,90;;;6
+BV-A60P-CON-COM;Blackview;A60 Pro;Conector de carga;Compatible;3,70;;;6
+BV-A60P-TAP-COM;Blackview;A60 Pro;Tapa trasera;Compatible;4,80;;;6
+BV-A60P-CTR-COM;Blackview;A60 Pro;Cámara trasera;Compatible;6,65;;;6
+BV-A60P-CFR-COM;Blackview;A60 Pro;Cámara frontal;Compatible;4,65;;;6
+BV-A60P-LEN-COM;Blackview;A60 Pro;Lente de cámara;Compatible;2,25;;;6
+BV-A60P-ALT-COM;Blackview;A60 Pro;Altavoz;Compatible;3,59;;;6
+BV-A60P-AUR-COM;Blackview;A60 Pro;Auricular de llamada;Compatible;2,69;;;6
+BV-A60P-FLX-COM;Blackview;A60 Pro;Flex de encendido y volumen;Compatible;2,55;;;6
+BV-A60P-SIM-COM;Blackview;A60 Pro;Bandeja SIM;Compatible;2,65;;;6
+BV-BV5500PL-PAN-COM;Blackview;BV5500 Plus;Pantalla;Compatible;15,15;14,70;14,24;6
+BV-BV5500PL-BAT-COM;Blackview;BV5500 Plus;Batería;Compatible;9,65;;;6
+BV-BV5500PL-CON-COM;Blackview;BV5500 Plus;Conector de carga;Compatible;4,60;;;6
+BV-BV5500PL-TAP-COM;Blackview;BV5500 Plus;Tapa trasera;Compatible;5,40;;;6
+BV-BV5500PL-CTR-COM;Blackview;BV5500 Plus;Cámara trasera;Compatible;7,59;;;6
+BV-BV5500PL-CFR-COM;Blackview;BV5500 Plus;Cámara frontal;Compatible;4,99;;;6
+BV-BV5500PL-LEN-COM;Blackview;BV5500 Plus;Lente de cámara;Compatible;2,19;;;6
+BV-BV5500PL-ALT-COM;Blackview;BV5500 Plus;Altavoz;Compatible;3,65;;;6
+BV-BV5500PL-AUR-COM;Blackview;BV5500 Plus;Auricular de llamada;Compatible;2,65;;;6
+BV-BV5500PL-FLX-COM;Blackview;BV5500 Plus;Flex de encendido y volumen;Compatible;2,49;;;6
+BV-BV5500PL-SIM-COM;Blackview;BV5500 Plus;Bandeja SIM;Compatible;2,55;;;6
+BV-BV6200PL-PAN-COM;Blackview;BV6200 Plus;Pantalla;Compatible;17,15;16,64;16,12;6
+BV-BV6200PL-BAT-COM;Blackview;BV6200 Plus;Batería;Compatible;9,40;;;6
+BV-BV6200PL-CON-COM;Blackview;BV6200 Plus;Conector de carga;Compatible;5,05;;;6
+BV-BV6200PL-TAP-COM;Blackview;BV6200 Plus;Tapa trasera;Compatible;6,20;;;6
+BV-BV6200PL-CTR-COM;Blackview;BV6200 Plus;Cámara trasera;Compatible;8,65;;;6
+BV-BV6200PL-CFR-COM;Blackview;BV6200 Plus;Cámara frontal;Compatible;5,35;;;6
+BV-BV6200PL-LEN-COM;Blackview;BV6200 Plus;Lente de cámara;Compatible;2,30;;;6
+BV-BV6200PL-ALT-COM;Blackview;BV6200 Plus;Altavoz;Compatible;3,60;;;6
+BV-BV6200PL-AUR-COM;Blackview;BV6200 Plus;Auricular de llamada;Compatible;2,65;;;6
+BV-BV6200PL-FLX-COM;Blackview;BV6200 Plus;Flex de encendido y volumen;Compatible;2,79;;;6
+BV-BV6200PL-SIM-COM;Blackview;BV6200 Plus;Bandeja SIM;Compatible;2,55;;;6
+BV-BV6200P-PAN-COM;Blackview;BV6200 Pro;Pantalla;Compatible;17,15;16,64;16,12;6
+BV-BV6200P-BAT-COM;Blackview;BV6200 Pro;Batería;Compatible;9,40;;;6
+BV-BV6200P-CON-COM;Blackview;BV6200 Pro;Conector de carga;Compatible;5,05;;;6
+BV-BV6200P-TAP-COM;Blackview;BV6200 Pro;Tapa trasera;Compatible;6,20;;;6
+BV-BV6200P-CTR-COM;Blackview;BV6200 Pro;Cámara trasera;Compatible;8,65;;;6
+BV-BV6200P-CFR-COM;Blackview;BV6200 Pro;Cámara frontal;Compatible;5,35;;;6
+BV-BV6200P-LEN-COM;Blackview;BV6200 Pro;Lente de cámara;Compatible;2,30;;;6
+BV-BV6200P-ALT-COM;Blackview;BV6200 Pro;Altavoz;Compatible;3,60;;;6
+BV-BV6200P-AUR-COM;Blackview;BV6200 Pro;Auricular de llamada;Compatible;2,65;;;6
+BV-BV6200P-FLX-COM;Blackview;BV6200 Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+BV-BV6200P-SIM-COM;Blackview;BV6200 Pro;Bandeja SIM;Compatible;2,55;;;6
+BV-BV9300P-PAN-COM;Blackview;BV9300 Pro;Pantalla;Compatible;17,15;16,64;16,12;6
+BV-BV9300P-BAT-COM;Blackview;BV9300 Pro;Batería;Compatible;9,40;;;6
+BV-BV9300P-CON-COM;Blackview;BV9300 Pro;Conector de carga;Compatible;5,05;;;6
+BV-BV9300P-TAP-COM;Blackview;BV9300 Pro;Tapa trasera;Compatible;6,20;;;6
+BV-BV9300P-CTR-COM;Blackview;BV9300 Pro;Cámara trasera;Compatible;8,65;;;6
+BV-BV9300P-CFR-COM;Blackview;BV9300 Pro;Cámara frontal;Compatible;5,35;;;6
+BV-BV9300P-LEN-COM;Blackview;BV9300 Pro;Lente de cámara;Compatible;2,30;;;6
+BV-BV9300P-ALT-COM;Blackview;BV9300 Pro;Altavoz;Compatible;3,60;;;6
+BV-BV9300P-AUR-COM;Blackview;BV9300 Pro;Auricular de llamada;Compatible;2,65;;;6
+BV-BV9300P-FLX-COM;Blackview;BV9300 Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+BV-BV9300P-SIM-COM;Blackview;BV9300 Pro;Bandeja SIM;Compatible;2,55;;;6
+BV-BV9300PP-PAN-COM;Blackview;BV9300 Pro Plus;Pantalla;Compatible;17,15;16,64;16,12;6
+BV-BV9300PP-BAT-COM;Blackview;BV9300 Pro Plus;Batería;Compatible;9,40;;;6
+BV-BV9300PP-CON-COM;Blackview;BV9300 Pro Plus;Conector de carga;Compatible;5,05;;;6
+BV-BV9300PP-TAP-COM;Blackview;BV9300 Pro Plus;Tapa trasera;Compatible;6,20;;;6
+BV-BV9300PP-CTR-COM;Blackview;BV9300 Pro Plus;Cámara trasera;Compatible;8,65;;;6
+BV-BV9300PP-CFR-COM;Blackview;BV9300 Pro Plus;Cámara frontal;Compatible;5,35;;;6
+BV-BV9300PP-LEN-COM;Blackview;BV9300 Pro Plus;Lente de cámara;Compatible;2,30;;;6
+BV-BV9300PP-ALT-COM;Blackview;BV9300 Pro Plus;Altavoz;Compatible;3,60;;;6
+BV-BV9300PP-AUR-COM;Blackview;BV9300 Pro Plus;Auricular de llamada;Compatible;2,65;;;6
+BV-BV9300PP-FLX-COM;Blackview;BV9300 Pro Plus;Flex de encendido y volumen;Compatible;2,79;;;6
+BV-BV9300PP-SIM-COM;Blackview;BV9300 Pro Plus;Bandeja SIM;Compatible;2,55;;;6
+BV-BV9500PL-PAN-COM;Blackview;BV9500 Plus;Pantalla;Compatible;15,15;14,70;14,24;6
+BV-BV9500PL-BAT-COM;Blackview;BV9500 Plus;Batería;Compatible;9,65;;;6
+BV-BV9500PL-CON-COM;Blackview;BV9500 Plus;Conector de carga;Compatible;4,60;;;6
+BV-BV9500PL-TAP-COM-NEG;Blackview;BV9500 Plus;Tapa trasera;Negro;5,40;;;6
+BV-BV9500PL-TAP-COM-AMA;Blackview;BV9500 Plus;Tapa trasera;Amarillo;5,40;;;6
+BV-BV9500PL-CTR-COM;Blackview;BV9500 Plus;Cámara trasera;Compatible;7,59;;;6
+BV-BV9500PL-CFR-COM;Blackview;BV9500 Plus;Cámara frontal;Compatible;4,99;;;6
+BV-BV9500PL-LEN-COM;Blackview;BV9500 Plus;Lente de cámara;Compatible;2,19;;;6
+BV-BV9500PL-ALT-COM;Blackview;BV9500 Plus;Altavoz;Compatible;3,65;;;6
+BV-BV9500PL-AUR-COM;Blackview;BV9500 Plus;Auricular de llamada;Compatible;2,65;;;6
+BV-BV9500PL-FLX-COM;Blackview;BV9500 Plus;Flex de encendido y volumen;Compatible;2,49;;;6
+BV-BV9500PL-SIM-COM;Blackview;BV9500 Plus;Bandeja SIM;Compatible;2,55;;;6
+BV-BV5500-PAN-COM;Blackview;BV5500;Pantalla;Compatible;15,15;14,70;14,24;6
+BV-BV5500-BAT-COM;Blackview;BV5500;Batería;Compatible;9,65;;;6
+BV-BV5500-CON-COM;Blackview;BV5500;Conector de carga;Compatible;4,60;;;6
+BV-BV5500-TAP-COM-AMA;Blackview;BV5500;Tapa trasera;Amarillo;5,40;;;6
+BV-BV5500-TAP-COM-NEG;Blackview;BV5500;Tapa trasera;Negro;5,40;;;6
+BV-BV5500-TAP-COM-VER;Blackview;BV5500;Tapa trasera;Verde;5,40;;;6
+BV-BV5500-CTR-COM;Blackview;BV5500;Cámara trasera;Compatible;7,59;;;6
+BV-BV5500-CFR-COM;Blackview;BV5500;Cámara frontal;Compatible;4,99;;;6
+BV-BV5500-LEN-COM;Blackview;BV5500;Lente de cámara;Compatible;2,19;;;6
+BV-BV5500-ALT-COM;Blackview;BV5500;Altavoz;Compatible;3,65;;;6
+BV-BV5500-AUR-COM;Blackview;BV5500;Auricular de llamada;Compatible;2,65;;;6
+BV-BV5500-FLX-COM;Blackview;BV5500;Flex de encendido y volumen;Compatible;2,49;;;6
+BV-BV5500-SIM-COM;Blackview;BV5500;Bandeja SIM;Compatible;2,55;;;6
+BV-A60-PAN-COM;Blackview;A60;Pantalla;Compatible;13,00;12,61;12,22;6
+BV-A60-BAT-COM;Blackview;A60;Batería;Compatible;8,90;;;6
+BV-A60-CON-COM;Blackview;A60;Conector de carga;Compatible;3,70;;;6
+BV-A60-TAP-COM-NEG;Blackview;A60;Tapa trasera;Negro;4,80;;;6
+BV-A60-TAP-COM-AZU;Blackview;A60;Tapa trasera;Azul;4,80;;;6
+BV-A60-CTR-COM;Blackview;A60;Cámara trasera;Compatible;6,65;;;6
+BV-A60-CFR-COM;Blackview;A60;Cámara frontal;Compatible;4,65;;;6
+BV-A60-LEN-COM;Blackview;A60;Lente de cámara;Compatible;2,25;;;6
+BV-A60-ALT-COM;Blackview;A60;Altavoz;Compatible;3,59;;;6
+BV-A60-AUR-COM;Blackview;A60;Auricular de llamada;Compatible;2,69;;;6
+BV-A60-FLX-COM;Blackview;A60;Flex de encendido y volumen;Compatible;2,55;;;6
+BV-A60-SIM-COM;Blackview;A60;Bandeja SIM;Compatible;2,65;;;6
+BV-BV5500P-PAN-COM;Blackview;BV5500 Pro;Pantalla;Compatible;15,15;14,70;14,24;6
+BV-BV5500P-BAT-COM;Blackview;BV5500 Pro;Batería;Compatible;9,65;;;6
+BV-BV5500P-CON-COM;Blackview;BV5500 Pro;Conector de carga;Compatible;4,60;;;6
+BV-BV5500P-TAP-COM;Blackview;BV5500 Pro;Tapa trasera;Compatible;5,40;;;6
+BV-BV5500P-CTR-COM;Blackview;BV5500 Pro;Cámara trasera;Compatible;7,59;;;6
+BV-BV5500P-CFR-COM;Blackview;BV5500 Pro;Cámara frontal;Compatible;4,99;;;6
+BV-BV5500P-LEN-COM;Blackview;BV5500 Pro;Lente de cámara;Compatible;2,19;;;6
+BV-BV5500P-ALT-COM;Blackview;BV5500 Pro;Altavoz;Compatible;3,65;;;6
+BV-BV5500P-AUR-COM;Blackview;BV5500 Pro;Auricular de llamada;Compatible;2,65;;;6
+BV-BV5500P-FLX-COM;Blackview;BV5500 Pro;Flex de encendido y volumen;Compatible;2,49;;;6
+BV-BV5500P-SIM-COM;Blackview;BV5500 Pro;Bandeja SIM;Compatible;2,55;;;6
+BV-BV9700P-PAN-COM;Blackview;BV9700 Pro;Pantalla;Compatible;15,15;14,70;14,24;6
+BV-BV9700P-BAT-COM;Blackview;BV9700 Pro;Batería;Compatible;9,65;;;6
+BV-BV9700P-CON-COM;Blackview;BV9700 Pro;Conector de carga;Compatible;4,60;;;6
+BV-BV9700P-TAP-COM-GRI;Blackview;BV9700 Pro;Tapa trasera;Gris;5,40;;;6
+BV-BV9700P-CTR-COM;Blackview;BV9700 Pro;Cámara trasera;Compatible;7,59;;;6
+BV-BV9700P-CFR-COM;Blackview;BV9700 Pro;Cámara frontal;Compatible;4,99;;;6
+BV-BV9700P-LEN-COM;Blackview;BV9700 Pro;Lente de cámara;Compatible;2,19;;;6
+BV-BV9700P-ALT-COM;Blackview;BV9700 Pro;Altavoz;Compatible;3,65;;;6
+BV-BV9700P-AUR-COM;Blackview;BV9700 Pro;Auricular de llamada;Compatible;2,65;;;6
+BV-BV9700P-FLX-COM;Blackview;BV9700 Pro;Flex de encendido y volumen;Compatible;2,49;;;6
+BV-BV9700P-SIM-COM;Blackview;BV9700 Pro;Bandeja SIM;Compatible;2,55;;;6
+BV-BV6100-PAN-COM;Blackview;BV6100;Pantalla;Compatible;15,15;14,70;14,24;6
+BV-BV6100-BAT-COM;Blackview;BV6100;Batería;Compatible;9,65;;;6
+BV-BV6100-CON-COM;Blackview;BV6100;Conector de carga;Compatible;4,60;;;6
+BV-BV6100-TAP-COM-GRI;Blackview;BV6100;Tapa trasera;Gris;5,40;;;6
+BV-BV6100-TAP-COM-PLA;Blackview;BV6100;Tapa trasera;Plata;5,40;;;6
+BV-BV6100-CTR-COM;Blackview;BV6100;Cámara trasera;Compatible;7,59;;;6
+BV-BV6100-CFR-COM;Blackview;BV6100;Cámara frontal;Compatible;4,99;;;6
+BV-BV6100-LEN-COM;Blackview;BV6100;Lente de cámara;Compatible;2,19;;;6
+BV-BV6100-ALT-COM;Blackview;BV6100;Altavoz;Compatible;3,65;;;6
+BV-BV6100-AUR-COM;Blackview;BV6100;Auricular de llamada;Compatible;2,65;;;6
+BV-BV6100-FLX-COM;Blackview;BV6100;Flex de encendido y volumen;Compatible;2,49;;;6
+BV-BV6100-SIM-COM;Blackview;BV6100;Bandeja SIM;Compatible;2,55;;;6
+BV-BV9900-PAN-COM;Blackview;BV9900;Pantalla;Compatible;15,15;14,70;14,24;6
+BV-BV9900-BAT-COM;Blackview;BV9900;Batería;Compatible;9,65;;;6
+BV-BV9900-CON-COM;Blackview;BV9900;Conector de carga;Compatible;4,60;;;6
+BV-BV9900-TAP-COM-PLA;Blackview;BV9900;Tapa trasera;Plata;5,40;;;6
+BV-BV9900-TAP-COM-NEG;Blackview;BV9900;Tapa trasera;Negro;5,40;;;6
+BV-BV9900-CTR-COM;Blackview;BV9900;Cámara trasera;Compatible;7,59;;;6
+BV-BV9900-CFR-COM;Blackview;BV9900;Cámara frontal;Compatible;4,99;;;6
+BV-BV9900-LEN-COM;Blackview;BV9900;Lente de cámara;Compatible;2,19;;;6
+BV-BV9900-ALT-COM;Blackview;BV9900;Altavoz;Compatible;3,65;;;6
+BV-BV9900-AUR-COM;Blackview;BV9900;Auricular de llamada;Compatible;2,65;;;6
+BV-BV9900-FLX-COM;Blackview;BV9900;Flex de encendido y volumen;Compatible;2,49;;;6
+BV-BV9900-SIM-COM;Blackview;BV9900;Bandeja SIM;Compatible;2,55;;;6
+BV-BV9600E-PAN-INC;Blackview;BV9600E;Pantalla;Incell;18,79;18,23;17,66;6
+BV-BV9600E-BAT-COM;Blackview;BV9600E;Batería;Compatible;8,25;;;6
+BV-BV9600E-CON-COM;Blackview;BV9600E;Conector de carga;Compatible;4,40;;;6
+BV-BV9600E-TAP-COM-GRI;Blackview;BV9600E;Tapa trasera;Gris;5,55;;;6
+BV-BV9600E-TAP-COM-PLA;Blackview;BV9600E;Tapa trasera;Plata;5,55;;;6
+BV-BV9600E-CTR-COM;Blackview;BV9600E;Cámara trasera;Compatible;6,19;;;6
+BV-BV9600E-CFR-COM;Blackview;BV9600E;Cámara frontal;Compatible;3,65;;;6
+BV-BV9600E-LEN-COM;Blackview;BV9600E;Lente de cámara;Compatible;2,20;;;6
+BV-BV9600E-ALT-COM;Blackview;BV9600E;Altavoz;Compatible;3,35;;;6
+BV-BV9600E-AUR-COM;Blackview;BV9600E;Auricular de llamada;Compatible;2,40;;;6
+BV-BV9600E-FLX-COM;Blackview;BV9600E;Flex de encendido y volumen;Compatible;2,29;;;6
+BV-BV9600E-SIM-COM;Blackview;BV9600E;Bandeja SIM;Compatible;2,60;;;6
+BV-A100-PAN-COM;Blackview;A100;Pantalla;Compatible;13,80;13,39;12,97;6
+BV-A100-BAT-COM;Blackview;A100;Batería;Compatible;7,60;;;6
+BV-A100-CON-COM;Blackview;A100;Conector de carga;Compatible;3,55;;;6
+BV-A100-TAP-COM-GRI;Blackview;A100;Tapa trasera;Gris;4,95;;;6
+BV-A100-TAP-COM-AZU;Blackview;A100;Tapa trasera;Azul;4,95;;;6
+BV-A100-TAP-COM-VER;Blackview;A100;Tapa trasera;Verde;4,95;;;6
+BV-A100-TAP-COM-ROS;Blackview;A100;Tapa trasera;Rosa;4,95;;;6
+BV-A100-CTR-COM;Blackview;A100;Cámara trasera;Compatible;5,45;;;6
+BV-A100-CFR-COM;Blackview;A100;Cámara frontal;Compatible;3,45;;;6
+BV-A100-LEN-COM;Blackview;A100;Lente de cámara;Compatible;2,25;;;6
+BV-A100-ALT-COM;Blackview;A100;Altavoz;Compatible;3,29;;;6
+BV-A100-AUR-COM;Blackview;A100;Auricular de llamada;Compatible;2,45;;;6
+BV-A100-FLX-COM;Blackview;A100;Flex de encendido y volumen;Compatible;2,35;;;6
+BV-A100-SIM-COM;Blackview;A100;Bandeja SIM;Compatible;2,75;;;6
+BV-BV6600P-PAN-COM;Blackview;BV6600 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+BV-BV6600P-BAT-COM;Blackview;BV6600 Pro;Batería;Compatible;8,25;;;6
+BV-BV6600P-CON-COM;Blackview;BV6600 Pro;Conector de carga;Compatible;4,40;;;6
+BV-BV6600P-TAP-COM-NEG;Blackview;BV6600 Pro;Tapa trasera;Negro;5,55;;;6
+BV-BV6600P-TAP-COM-NAR;Blackview;BV6600 Pro;Tapa trasera;Naranja;5,55;;;6
+BV-BV6600P-TAP-COM-VER;Blackview;BV6600 Pro;Tapa trasera;Verde;5,55;;;6
+BV-BV6600P-CTR-COM;Blackview;BV6600 Pro;Cámara trasera;Compatible;6,19;;;6
+BV-BV6600P-CFR-COM;Blackview;BV6600 Pro;Cámara frontal;Compatible;3,65;;;6
+BV-BV6600P-LEN-COM;Blackview;BV6600 Pro;Lente de cámara;Compatible;2,20;;;6
+BV-BV6600P-ALT-COM;Blackview;BV6600 Pro;Altavoz;Compatible;3,35;;;6
+BV-BV6600P-AUR-COM;Blackview;BV6600 Pro;Auricular de llamada;Compatible;2,40;;;6
+BV-BV6600P-FLX-COM;Blackview;BV6600 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+BV-BV6600P-SIM-COM;Blackview;BV6600 Pro;Bandeja SIM;Compatible;2,60;;;6
+BV-BV7100-PAN-COM;Blackview;BV7100;Pantalla;Compatible;16,10;15,62;15,13;6
+BV-BV7100-BAT-COM;Blackview;BV7100;Batería;Compatible;8,25;;;6
+BV-BV7100-CON-COM;Blackview;BV7100;Conector de carga;Compatible;4,40;;;6
+BV-BV7100-TAP-COM-VER;Blackview;BV7100;Tapa trasera;Verde (Navy Green);5,55;;;6
+BV-BV7100-TAP-COM-NAR;Blackview;BV7100;Tapa trasera;Naranja (Mecha Orange);5,55;;;6
+BV-BV7100-TAP-COM-NEG;Blackview;BV7100;Tapa trasera;Negro (Conquest Black);5,55;;;6
+BV-BV7100-CTR-COM;Blackview;BV7100;Cámara trasera;Compatible;6,19;;;6
+BV-BV7100-CFR-COM;Blackview;BV7100;Cámara frontal;Compatible;3,65;;;6
+BV-BV7100-LEN-COM;Blackview;BV7100;Lente de cámara;Compatible;2,20;;;6
+BV-BV7100-ALT-COM;Blackview;BV7100;Altavoz;Compatible;3,35;;;6
+BV-BV7100-AUR-COM;Blackview;BV7100;Auricular de llamada;Compatible;2,40;;;6
+BV-BV7100-FLX-COM;Blackview;BV7100;Flex de encendido y volumen;Compatible;2,29;;;6
+BV-BV7100-SIM-COM;Blackview;BV7100;Bandeja SIM;Compatible;2,60;;;6
+BV-BV9200-PAN-COM;Blackview;BV9200;Pantalla;Compatible;17,15;16,64;16,12;6
+BV-BV9200-BAT-COM;Blackview;BV9200;Batería;Compatible;9,40;;;6
+BV-BV9200-CON-COM;Blackview;BV9200;Conector de carga;Compatible;5,05;;;6
+BV-BV9200-TAP-COM-NEG;Blackview;BV9200;Tapa trasera;Negro;6,20;;;6
+BV-BV9200-TAP-COM-NAR;Blackview;BV9200;Tapa trasera;Naranja;6,20;;;6
+BV-BV9200-TAP-COM-VER;Blackview;BV9200;Tapa trasera;Verde;6,20;;;6
+BV-BV9200-CTR-COM;Blackview;BV9200;Cámara trasera;Compatible;8,65;;;6
+BV-BV9200-CFR-COM;Blackview;BV9200;Cámara frontal;Compatible;5,35;;;6
+BV-BV9200-LEN-COM;Blackview;BV9200;Lente de cámara;Compatible;2,30;;;6
+BV-BV9200-ALT-COM;Blackview;BV9200;Altavoz;Compatible;3,60;;;6
+BV-BV9200-AUR-COM;Blackview;BV9200;Auricular de llamada;Compatible;2,65;;;6
+BV-BV9200-FLX-COM;Blackview;BV9200;Flex de encendido y volumen;Compatible;2,79;;;6
+BV-BV9200-SIM-COM;Blackview;BV9200;Bandeja SIM;Compatible;2,55;;;6
+BV-BV9300-PAN-COM;Blackview;BV9300;Pantalla;Compatible;17,15;16,64;16,12;6
+BV-BV9300-BAT-COM;Blackview;BV9300;Batería;Compatible;9,40;;;6
+BV-BV9300-CON-COM;Blackview;BV9300;Conector de carga;Compatible;5,05;;;6
+BV-BV9300-TAP-COM-NEG;Blackview;BV9300;Tapa trasera;Negro;6,20;;;6
+BV-BV9300-TAP-COM-VER;Blackview;BV9300;Tapa trasera;Verde;6,20;;;6
+BV-BV9300-TAP-COM-NAR;Blackview;BV9300;Tapa trasera;Naranja;6,20;;;6
+BV-BV9300-CTR-COM;Blackview;BV9300;Cámara trasera;Compatible;8,65;;;6
+BV-BV9300-CFR-COM;Blackview;BV9300;Cámara frontal;Compatible;5,35;;;6
+BV-BV9300-LEN-COM;Blackview;BV9300;Lente de cámara;Compatible;2,30;;;6
+BV-BV9300-ALT-COM;Blackview;BV9300;Altavoz;Compatible;3,60;;;6
+BV-BV9300-AUR-COM;Blackview;BV9300;Auricular de llamada;Compatible;2,65;;;6
+BV-BV9300-FLX-COM;Blackview;BV9300;Flex de encendido y volumen;Compatible;2,79;;;6
+BV-BV9300-SIM-COM;Blackview;BV9300;Bandeja SIM;Compatible;2,55;;;6
+BV-BV8900-PAN-COM;Blackview;BV8900;Pantalla;Compatible;17,15;16,64;16,12;6
+BV-BV8900-BAT-COM;Blackview;BV8900;Batería;Compatible;9,40;;;6
+BV-BV8900-CON-COM;Blackview;BV8900;Conector de carga;Compatible;5,05;;;6
+BV-BV8900-TAP-COM-NEG;Blackview;BV8900;Tapa trasera;Negro;6,20;;;6
+BV-BV8900-TAP-COM-NAR;Blackview;BV8900;Tapa trasera;Naranja;6,20;;;6
+BV-BV8900-TAP-COM-VER;Blackview;BV8900;Tapa trasera;Verde;6,20;;;6
+BV-BV8900-CTR-COM;Blackview;BV8900;Cámara trasera;Compatible;8,65;;;6
+BV-BV8900-CFR-COM;Blackview;BV8900;Cámara frontal;Compatible;5,35;;;6
+BV-BV8900-LEN-COM;Blackview;BV8900;Lente de cámara;Compatible;2,30;;;6
+BV-BV8900-ALT-COM;Blackview;BV8900;Altavoz;Compatible;3,60;;;6
+BV-BV8900-AUR-COM;Blackview;BV8900;Auricular de llamada;Compatible;2,65;;;6
+BV-BV8900-FLX-COM;Blackview;BV8900;Flex de encendido y volumen;Compatible;2,79;;;6
+BV-BV8900-SIM-COM;Blackview;BV8900;Bandeja SIM;Compatible;2,55;;;6
+BV-A200P-PAN-INC;Blackview;A200 Pro;Pantalla;Incell;17,15;16,64;16,12;6
+BV-A200P-BAT-COM;Blackview;A200 Pro;Batería;Compatible;8,69;;;6
+BV-A200P-CON-COM;Blackview;A200 Pro;Conector de carga;Compatible;4,05;;;6
+BV-A200P-TAP-COM-AZU;Blackview;A200 Pro;Tapa trasera;Azul (Daybreak Blue);5,55;;;6
+BV-A200P-TAP-COM-MOR;Blackview;A200 Pro;Tapa trasera;Morado (Meteor Purple);5,55;;;6
+BV-A200P-TAP-COM-NEG;Blackview;A200 Pro;Tapa trasera;Negro (Polar Night Black);5,55;;;6
+BV-A200P-CTR-COM;Blackview;A200 Pro;Cámara trasera;Compatible;7,60;;;6
+BV-A200P-CFR-COM;Blackview;A200 Pro;Cámara frontal;Compatible;5,00;;;6
+BV-A200P-LEN-COM;Blackview;A200 Pro;Lente de cámara;Compatible;2,35;;;6
+BV-A200P-ALT-COM;Blackview;A200 Pro;Altavoz;Compatible;3,55;;;6
+BV-A200P-AUR-COM;Blackview;A200 Pro;Auricular de llamada;Compatible;2,65;;;6
+BV-A200P-FLX-COM;Blackview;A200 Pro;Flex de encendido y volumen;Compatible;2,85;;;6
+BV-A200P-SIM-COM;Blackview;A200 Pro;Bandeja SIM;Compatible;2,69;;;6
+BV-A96-PAN-COM;Blackview;A96;Pantalla;Compatible;14,69;14,25;13,81;6
+BV-A96-BAT-COM;Blackview;A96;Batería;Compatible;8,69;;;6
+BV-A96-CON-COM;Blackview;A96;Conector de carga;Compatible;4,05;;;6
+BV-A96-TAP-COM-MOR;Blackview;A96;Tapa trasera;Morado Provenza;5,55;;;6
+BV-A96-TAP-COM-NEG;Blackview;A96;Tapa trasera;Negro Obsidiana;5,55;;;6
+BV-A96-CTR-COM;Blackview;A96;Cámara trasera;Compatible;7,60;;;6
+BV-A96-CFR-COM;Blackview;A96;Cámara frontal;Compatible;5,00;;;6
+BV-A96-LEN-COM;Blackview;A96;Lente de cámara;Compatible;2,35;;;6
+BV-A96-ALT-COM;Blackview;A96;Altavoz;Compatible;3,55;;;6
+BV-A96-AUR-COM;Blackview;A96;Auricular de llamada;Compatible;2,65;;;6
+BV-A96-FLX-COM;Blackview;A96;Flex de encendido y volumen;Compatible;2,85;;;6
+BV-A96-SIM-COM;Blackview;A96;Bandeja SIM;Compatible;2,69;;;6
+BV-BV6200-PAN-COM;Blackview;BV6200;Pantalla;Compatible;17,15;16,64;16,12;6
+BV-BV6200-BAT-COM;Blackview;BV6200;Batería;Compatible;9,40;;;6
+BV-BV6200-CON-COM;Blackview;BV6200;Conector de carga;Compatible;5,05;;;6
+BV-BV6200-TAP-COM-NEG;Blackview;BV6200;Tapa trasera;Negro;6,20;;;6
+BV-BV6200-TAP-COM-NAR;Blackview;BV6200;Tapa trasera;Naranja;6,20;;;6
+BV-BV6200-TAP-COM-VER;Blackview;BV6200;Tapa trasera;Verde;6,20;;;6
+BV-BV6200-CTR-COM;Blackview;BV6200;Cámara trasera;Compatible;8,65;;;6
+BV-BV6200-CFR-COM;Blackview;BV6200;Cámara frontal;Compatible;5,35;;;6
+BV-BV6200-LEN-COM;Blackview;BV6200;Lente de cámara;Compatible;2,30;;;6
+BV-BV6200-ALT-COM;Blackview;BV6200;Altavoz;Compatible;3,60;;;6
+BV-BV6200-AUR-COM;Blackview;BV6200;Auricular de llamada;Compatible;2,65;;;6
+BV-BV6200-FLX-COM;Blackview;BV6200;Flex de encendido y volumen;Compatible;2,79;;;6
+BV-BV6200-SIM-COM;Blackview;BV6200;Bandeja SIM;Compatible;2,55;;;6
+BV-S8-PAN-COM;Blackview;Shark 8;Pantalla;Compatible;14,69;14,25;13,81;6
+BV-S8-BAT-COM;Blackview;Shark 8;Batería;Compatible;8,69;;;6
+BV-S8-CON-COM;Blackview;Shark 8;Conector de carga;Compatible;4,05;;;6
+BV-S8-TAP-COM-AZU;Blackview;Shark 8;Tapa trasera;Azul (Galaxy Blue);5,55;;;6
+BV-S8-TAP-COM-DOR;Blackview;Shark 8;Tapa trasera;Dorado (Scorching Gold);5,55;;;6
+BV-S8-TAP-COM-GRI;Blackview;Shark 8;Tapa trasera;Gris (Moonlight Grey);5,55;;;6
+BV-S8-CTR-COM;Blackview;Shark 8;Cámara trasera;Compatible;7,60;;;6
+BV-S8-CFR-COM;Blackview;Shark 8;Cámara frontal;Compatible;5,00;;;6
+BV-S8-LEN-COM;Blackview;Shark 8;Lente de cámara;Compatible;2,35;;;6
+BV-S8-ALT-COM;Blackview;Shark 8;Altavoz;Compatible;3,55;;;6
+BV-S8-AUR-COM;Blackview;Shark 8;Auricular de llamada;Compatible;2,65;;;6
+BV-S8-FLX-COM;Blackview;Shark 8;Flex de encendido y volumen;Compatible;2,85;;;6
+BV-S8-SIM-COM;Blackview;Shark 8;Bandeja SIM;Compatible;2,69;;;6
+BV-BV8900P-PAN-COM;Blackview;BV8900 Pro;Pantalla;Compatible;17,15;16,64;16,12;6
+BV-BV8900P-BAT-COM;Blackview;BV8900 Pro;Batería;Compatible;9,40;;;6
+BV-BV8900P-CON-COM;Blackview;BV8900 Pro;Conector de carga;Compatible;5,05;;;6
+BV-BV8900P-TAP-COM;Blackview;BV8900 Pro;Tapa trasera;Compatible;6,20;;;6
+BV-BV8900P-CTR-COM;Blackview;BV8900 Pro;Cámara trasera;Compatible;8,65;;;6
+BV-BV8900P-CFR-COM;Blackview;BV8900 Pro;Cámara frontal;Compatible;5,35;;;6
+BV-BV8900P-LEN-COM;Blackview;BV8900 Pro;Lente de cámara;Compatible;2,30;;;6
+BV-BV8900P-ALT-COM;Blackview;BV8900 Pro;Altavoz;Compatible;3,60;;;6
+BV-BV8900P-AUR-COM;Blackview;BV8900 Pro;Auricular de llamada;Compatible;2,65;;;6
+BV-BV8900P-FLX-COM;Blackview;BV8900 Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+BV-BV8900P-SIM-COM;Blackview;BV8900 Pro;Bandeja SIM;Compatible;2,55;;;6
+BV-A60PL-PRO-NA;Blackview;A60 Plus;Cristal templado;Estándar;1,30;;;
+BV-A60PL-PRO-PRI;Blackview;A60 Plus;Cristal templado;Privacidad;4,00;;;
+BV-A60PL-FUN-SIL;Blackview;A60 Plus;Funda;Silicona;2,50;;;
+BV-A60PL-FUN-TPU;Blackview;A60 Plus;Funda;Transparente;2,95;;;
+BV-A60PL-FUN-LIB;Blackview;A60 Plus;Funda;Libro;3,70;;;
+BV-A60PL-FUN-ANT;Blackview;A60 Plus;Funda;Antigolpes;3,10;;;
+BV-A60P-PRO-NA;Blackview;A60 Pro;Cristal templado;Estándar;1,30;;;
+BV-A60P-PRO-PRI;Blackview;A60 Pro;Cristal templado;Privacidad;4,00;;;
+BV-A60P-FUN-SIL;Blackview;A60 Pro;Funda;Silicona;2,50;;;
+BV-A60P-FUN-TPU;Blackview;A60 Pro;Funda;Transparente;2,95;;;
+BV-A60P-FUN-LIB;Blackview;A60 Pro;Funda;Libro;3,70;;;
+BV-A60P-FUN-ANT;Blackview;A60 Pro;Funda;Antigolpes;3,10;;;
+BV-BV5500PL-PRO-NA;Blackview;BV5500 Plus;Cristal templado;Estándar;1,30;;;
+BV-BV6200PL-PRO-NA;Blackview;BV6200 Plus;Cristal templado;Estándar;1,30;;;
+BV-BV6200P-PRO-NA;Blackview;BV6200 Pro;Cristal templado;Estándar;1,30;;;
+BV-BV9300P-PRO-NA;Blackview;BV9300 Pro;Cristal templado;Estándar;1,30;;;
+BV-BV9300PP-PRO-NA;Blackview;BV9300 Pro Plus;Cristal templado;Estándar;1,30;;;
+BV-BV9500PL-PRO-NA;Blackview;BV9500 Plus;Cristal templado;Estándar;1,30;;;
+BV-BV5500-PRO-NA;Blackview;BV5500;Cristal templado;Estándar;1,30;;;
+BV-A60-PRO-NA;Blackview;A60;Cristal templado;Estándar;1,30;;;
+BV-A60-PRO-PRI;Blackview;A60;Cristal templado;Privacidad;4,00;;;
+BV-A60-FUN-SIL;Blackview;A60;Funda;Silicona;2,50;;;
+BV-A60-FUN-TPU;Blackview;A60;Funda;Transparente;2,95;;;
+BV-A60-FUN-LIB;Blackview;A60;Funda;Libro;3,70;;;
+BV-A60-FUN-ANT;Blackview;A60;Funda;Antigolpes;3,10;;;
+BV-A60-PCA-NA;Blackview;A60;Protector de cámara;Cristal;2,90;;;
+BV-BV5500P-PRO-NA;Blackview;BV5500 Pro;Cristal templado;Estándar;1,30;;;
+BV-BV9700P-PRO-NA;Blackview;BV9700 Pro;Cristal templado;Estándar;1,30;;;
+BV-BV6100-PRO-NA;Blackview;BV6100;Cristal templado;Estándar;1,30;;;
+BV-BV9900-PRO-NA;Blackview;BV9900;Cristal templado;Estándar;1,30;;;
+BV-BV9600E-PRO-NA;Blackview;BV9600E;Cristal templado;Estándar;1,30;;;
+BV-A100-PRO-NA;Blackview;A100;Cristal templado;Estándar;1,30;;;
+BV-A100-PRO-PRI;Blackview;A100;Cristal templado;Privacidad;4,00;;;
+BV-A100-FUN-SIL;Blackview;A100;Funda;Silicona;2,50;;;
+BV-A100-FUN-TPU;Blackview;A100;Funda;Transparente;2,95;;;
+BV-A100-FUN-LIB;Blackview;A100;Funda;Libro;3,70;;;
+BV-A100-FUN-ANT;Blackview;A100;Funda;Antigolpes;3,10;;;
+BV-A100-PCA-NA;Blackview;A100;Protector de cámara;Cristal;2,90;;;
+BV-BV6600P-PRO-NA;Blackview;BV6600 Pro;Cristal templado;Estándar;1,30;;;
+BV-BV7100-PRO-NA;Blackview;BV7100;Cristal templado;Estándar;1,30;;;
+BV-BV9200-PRO-NA;Blackview;BV9200;Cristal templado;Estándar;1,30;;;
+BV-BV9300-PRO-NA;Blackview;BV9300;Cristal templado;Estándar;1,30;;;
+BV-BV8900-PRO-NA;Blackview;BV8900;Cristal templado;Estándar;1,30;;;
+BV-A200P-PRO-NA;Blackview;A200 Pro;Cristal templado;Estándar;1,30;;;
+BV-A200P-PRO-PRI;Blackview;A200 Pro;Cristal templado;Privacidad;4,00;;;
+BV-A200P-FUN-SIL;Blackview;A200 Pro;Funda;Silicona;2,50;;;
+BV-A200P-FUN-TPU;Blackview;A200 Pro;Funda;Transparente;2,95;;;
+BV-A200P-FUN-LIB;Blackview;A200 Pro;Funda;Libro;3,70;;;
+BV-A200P-FUN-ANT;Blackview;A200 Pro;Funda;Antigolpes;3,10;;;
+BV-A200P-PCA-NA;Blackview;A200 Pro;Protector de cámara;Cristal;2,90;;;
+BV-A96-PRO-NA;Blackview;A96;Cristal templado;Estándar;1,30;;;
+BV-A96-PRO-PRI;Blackview;A96;Cristal templado;Privacidad;4,00;;;
+BV-A96-FUN-SIL;Blackview;A96;Funda;Silicona;2,50;;;
+BV-A96-FUN-TPU;Blackview;A96;Funda;Transparente;2,95;;;
+BV-A96-FUN-LIB;Blackview;A96;Funda;Libro;3,70;;;
+BV-A96-FUN-ANT;Blackview;A96;Funda;Antigolpes;3,10;;;
+BV-A96-PCA-NA;Blackview;A96;Protector de cámara;Cristal;2,90;;;
+BV-BV6200-PRO-NA;Blackview;BV6200;Cristal templado;Estándar;1,30;;;
+BV-S8-PRO-NA;Blackview;Shark 8;Cristal templado;Estándar;1,30;;;
+BV-S8-PRO-PRI;Blackview;Shark 8;Cristal templado;Privacidad;4,00;;;
+BV-S8-FUN-SIL;Blackview;Shark 8;Funda;Silicona;2,50;;;
+BV-S8-FUN-TPU;Blackview;Shark 8;Funda;Transparente;2,95;;;
+BV-S8-FUN-LIB;Blackview;Shark 8;Funda;Libro;3,70;;;
+BV-S8-FUN-ANT;Blackview;Shark 8;Funda;Antigolpes;3,10;;;
+BV-BV8900P-PRO-NA;Blackview;BV8900 Pro;Cristal templado;Estándar;1,30;;;
+BV-A60PL-MAR-COM;Blackview;A60 Plus;Marco / chasis;Compatible;5,65;;;6
+BV-A60PL-BOT-COM;Blackview;A60 Plus;Botones laterales;Compatible;2,89;;;6
+BV-A60PL-CRI-COM;Blackview;A60 Plus;Cristal de pantalla;Compatible;2,89;;;6
+BV-A60PL-ANT-COM;Blackview;A60 Plus;Antena / coaxial;Compatible;2,50;;;6
+BV-A60PL-HUE-COM;Blackview;A60 Plus;Botón home / huella;Compatible;4,15;;;6
+BV-A60P-MAR-COM;Blackview;A60 Pro;Marco / chasis;Compatible;5,65;;;6
+BV-A60P-BOT-COM;Blackview;A60 Pro;Botones laterales;Compatible;2,89;;;6
+BV-A60P-CRI-COM;Blackview;A60 Pro;Cristal de pantalla;Compatible;2,89;;;6
+BV-A60P-ANT-COM;Blackview;A60 Pro;Antena / coaxial;Compatible;2,50;;;6
+BV-A60P-HUE-COM;Blackview;A60 Pro;Botón home / huella;Compatible;4,15;;;6
+BV-BV5500PL-MAR-COM;Blackview;BV5500 Plus;Marco / chasis;Compatible;6,49;;;6
+BV-BV5500PL-BOT-COM;Blackview;BV5500 Plus;Botones laterales;Compatible;3,35;;;6
+BV-BV5500PL-ANT-COM;Blackview;BV5500 Plus;Antena / coaxial;Compatible;2,89;;;6
+BV-BV5500PL-HUE-COM;Blackview;BV5500 Plus;Botón home / huella;Compatible;4,79;;;6
+BV-BV6200PL-MAR-COM;Blackview;BV6200 Plus;Marco / chasis;Compatible;7,20;;;6
+BV-BV6200PL-BOT-COM;Blackview;BV6200 Plus;Botones laterales;Compatible;3,70;;;6
+BV-BV6200PL-ANT-COM;Blackview;BV6200 Plus;Antena / coaxial;Compatible;3,20;;;6
+BV-BV6200PL-HUE-COM;Blackview;BV6200 Plus;Botón home / huella;Compatible;5,30;;;6
+BV-BV6200P-MAR-COM;Blackview;BV6200 Pro;Marco / chasis;Compatible;7,20;;;6
+BV-BV6200P-BOT-COM;Blackview;BV6200 Pro;Botones laterales;Compatible;3,70;;;6
+BV-BV6200P-ANT-COM;Blackview;BV6200 Pro;Antena / coaxial;Compatible;3,20;;;6
+BV-BV6200P-HUE-COM;Blackview;BV6200 Pro;Botón home / huella;Compatible;5,30;;;6
+BV-BV9300P-MAR-COM;Blackview;BV9300 Pro;Marco / chasis;Compatible;7,20;;;6
+BV-BV9300P-BOT-COM;Blackview;BV9300 Pro;Botones laterales;Compatible;3,70;;;6
+BV-BV9300P-ANT-COM;Blackview;BV9300 Pro;Antena / coaxial;Compatible;3,20;;;6
+BV-BV9300P-HUE-COM;Blackview;BV9300 Pro;Botón home / huella;Compatible;5,30;;;6
+BV-BV9300PP-MAR-COM;Blackview;BV9300 Pro Plus;Marco / chasis;Compatible;7,20;;;6
+BV-BV9300PP-BOT-COM;Blackview;BV9300 Pro Plus;Botones laterales;Compatible;3,70;;;6
+BV-BV9300PP-ANT-COM;Blackview;BV9300 Pro Plus;Antena / coaxial;Compatible;3,20;;;6
+BV-BV9300PP-HUE-COM;Blackview;BV9300 Pro Plus;Botón home / huella;Compatible;5,30;;;6
+BV-BV9500PL-MAR-COM;Blackview;BV9500 Plus;Marco / chasis;Compatible;6,49;;;6
+BV-BV9500PL-BOT-COM;Blackview;BV9500 Plus;Botones laterales;Compatible;3,35;;;6
+BV-BV9500PL-ANT-COM;Blackview;BV9500 Plus;Antena / coaxial;Compatible;2,89;;;6
+BV-BV9500PL-HUE-COM;Blackview;BV9500 Plus;Botón home / huella;Compatible;4,79;;;6
+BV-BV5500-MAR-COM;Blackview;BV5500;Marco / chasis;Compatible;6,49;;;6
+BV-BV5500-BOT-COM;Blackview;BV5500;Botones laterales;Compatible;3,35;;;6
+BV-BV5500-ANT-COM;Blackview;BV5500;Antena / coaxial;Compatible;2,89;;;6
+BV-BV5500-HUE-COM;Blackview;BV5500;Botón home / huella;Compatible;4,79;;;6
+BV-A60-MAR-COM;Blackview;A60;Marco / chasis;Compatible;5,65;;;6
+BV-A60-BOT-COM;Blackview;A60;Botones laterales;Compatible;2,89;;;6
+BV-A60-CRI-COM;Blackview;A60;Cristal de pantalla;Compatible;2,89;;;6
+BV-A60-ANT-COM;Blackview;A60;Antena / coaxial;Compatible;2,50;;;6
+BV-A60-HUE-COM;Blackview;A60;Botón home / huella;Compatible;4,15;;;6
+BV-BV5500P-MAR-COM;Blackview;BV5500 Pro;Marco / chasis;Compatible;6,49;;;6
+BV-BV5500P-BOT-COM;Blackview;BV5500 Pro;Botones laterales;Compatible;3,35;;;6
+BV-BV5500P-ANT-COM;Blackview;BV5500 Pro;Antena / coaxial;Compatible;2,89;;;6
+BV-BV5500P-HUE-COM;Blackview;BV5500 Pro;Botón home / huella;Compatible;4,79;;;6
+BV-BV9700P-MAR-COM;Blackview;BV9700 Pro;Marco / chasis;Compatible;6,49;;;6
+BV-BV9700P-BOT-COM;Blackview;BV9700 Pro;Botones laterales;Compatible;3,35;;;6
+BV-BV9700P-ANT-COM;Blackview;BV9700 Pro;Antena / coaxial;Compatible;2,89;;;6
+BV-BV9700P-HUE-COM;Blackview;BV9700 Pro;Botón home / huella;Compatible;4,79;;;6
+BV-BV6100-MAR-COM;Blackview;BV6100;Marco / chasis;Compatible;6,49;;;6
+BV-BV6100-BOT-COM;Blackview;BV6100;Botones laterales;Compatible;3,35;;;6
+BV-BV6100-ANT-COM;Blackview;BV6100;Antena / coaxial;Compatible;2,89;;;6
+BV-BV6100-HUE-COM;Blackview;BV6100;Botón home / huella;Compatible;4,79;;;6
+BV-BV9900-MAR-COM;Blackview;BV9900;Marco / chasis;Compatible;6,49;;;6
+BV-BV9900-BOT-COM;Blackview;BV9900;Botones laterales;Compatible;3,35;;;6
+BV-BV9900-ANT-COM;Blackview;BV9900;Antena / coaxial;Compatible;2,89;;;6
+BV-BV9900-HUE-COM;Blackview;BV9900;Botón home / huella;Compatible;4,79;;;6
+BV-BV9600E-MAR-COM;Blackview;BV9600E;Marco / chasis;Compatible;7,20;;;6
+BV-BV9600E-BOT-COM;Blackview;BV9600E;Botones laterales;Compatible;3,70;;;6
+BV-BV9600E-ANT-COM;Blackview;BV9600E;Antena / coaxial;Compatible;3,20;;;6
+BV-BV9600E-HUE-COM;Blackview;BV9600E;Botón home / huella;Compatible;5,30;;;6
+BV-A100-MAR-COM;Blackview;A100;Marco / chasis;Compatible;6,25;;;6
+BV-A100-BOT-COM;Blackview;A100;Botones laterales;Compatible;3,20;;;6
+BV-A100-CRI-COM;Blackview;A100;Cristal de pantalla;Compatible;3,20;;;6
+BV-A100-ANT-COM;Blackview;A100;Antena / coaxial;Compatible;2,79;;;6
+BV-A100-HUE-COM;Blackview;A100;Botón home / huella;Compatible;4,60;;;6
+BV-BV6600P-MAR-COM;Blackview;BV6600 Pro;Marco / chasis;Compatible;7,20;;;6
+BV-BV6600P-BOT-COM;Blackview;BV6600 Pro;Botones laterales;Compatible;3,70;;;6
+BV-BV6600P-ANT-COM;Blackview;BV6600 Pro;Antena / coaxial;Compatible;3,20;;;6
+BV-BV6600P-HUE-COM;Blackview;BV6600 Pro;Botón home / huella;Compatible;5,30;;;6
+BV-BV7100-MAR-COM;Blackview;BV7100;Marco / chasis;Compatible;7,20;;;6
+BV-BV7100-BOT-COM;Blackview;BV7100;Botones laterales;Compatible;3,70;;;6
+BV-BV7100-ANT-COM;Blackview;BV7100;Antena / coaxial;Compatible;3,20;;;6
+BV-BV7100-HUE-COM;Blackview;BV7100;Botón home / huella;Compatible;5,30;;;6
+BV-BV9200-MAR-COM;Blackview;BV9200;Marco / chasis;Compatible;7,20;;;6
+BV-BV9200-BOT-COM;Blackview;BV9200;Botones laterales;Compatible;3,70;;;6
+BV-BV9200-ANT-COM;Blackview;BV9200;Antena / coaxial;Compatible;3,20;;;6
+BV-BV9200-HUE-COM;Blackview;BV9200;Botón home / huella;Compatible;5,30;;;6
+BV-BV9300-MAR-COM;Blackview;BV9300;Marco / chasis;Compatible;7,20;;;6
+BV-BV9300-BOT-COM;Blackview;BV9300;Botones laterales;Compatible;3,70;;;6
+BV-BV9300-ANT-COM;Blackview;BV9300;Antena / coaxial;Compatible;3,20;;;6
+BV-BV9300-HUE-COM;Blackview;BV9300;Botón home / huella;Compatible;5,30;;;6
+BV-BV8900-MAR-COM;Blackview;BV8900;Marco / chasis;Compatible;7,20;;;6
+BV-BV8900-BOT-COM;Blackview;BV8900;Botones laterales;Compatible;3,70;;;6
+BV-BV8900-ANT-COM;Blackview;BV8900;Antena / coaxial;Compatible;3,20;;;6
+BV-BV8900-HUE-COM;Blackview;BV8900;Botón home / huella;Compatible;5,30;;;6
+BV-A200P-MAR-COM;Blackview;A200 Pro;Marco / chasis;Compatible;6,25;;;6
+BV-A200P-BOT-COM;Blackview;A200 Pro;Botones laterales;Compatible;3,20;;;6
+BV-A200P-CRI-COM;Blackview;A200 Pro;Cristal de pantalla;Compatible;3,20;;;6
+BV-A200P-ANT-COM;Blackview;A200 Pro;Antena / coaxial;Compatible;2,79;;;6
+BV-A200P-HUE-COM;Blackview;A200 Pro;Botón home / huella;Compatible;4,60;;;6
+BV-A96-MAR-COM;Blackview;A96;Marco / chasis;Compatible;6,25;;;6
+BV-A96-BOT-COM;Blackview;A96;Botones laterales;Compatible;3,20;;;6
+BV-A96-CRI-COM;Blackview;A96;Cristal de pantalla;Compatible;3,20;;;6
+BV-A96-ANT-COM;Blackview;A96;Antena / coaxial;Compatible;2,79;;;6
+BV-A96-HUE-COM;Blackview;A96;Botón home / huella;Compatible;4,60;;;6
+BV-BV6200-MAR-COM;Blackview;BV6200;Marco / chasis;Compatible;7,20;;;6
+BV-BV6200-BOT-COM;Blackview;BV6200;Botones laterales;Compatible;3,70;;;6
+BV-BV6200-ANT-COM;Blackview;BV6200;Antena / coaxial;Compatible;3,20;;;6
+BV-BV6200-HUE-COM;Blackview;BV6200;Botón home / huella;Compatible;5,30;;;6
+BV-S8-MAR-COM;Blackview;Shark 8;Marco / chasis;Compatible;6,25;;;6
+BV-S8-BOT-COM;Blackview;Shark 8;Botones laterales;Compatible;3,20;;;6
+BV-S8-CRI-COM;Blackview;Shark 8;Cristal de pantalla;Compatible;3,20;;;6
+BV-S8-ANT-COM;Blackview;Shark 8;Antena / coaxial;Compatible;2,79;;;6
+BV-S8-HUE-COM;Blackview;Shark 8;Botón home / huella;Compatible;4,60;;;6
+BV-BV8900P-MAR-COM;Blackview;BV8900 Pro;Marco / chasis;Compatible;7,20;;;6
+BV-BV8900P-BOT-COM;Blackview;BV8900 Pro;Botones laterales;Compatible;3,70;;;6
+BV-BV8900P-ANT-COM;Blackview;BV8900 Pro;Antena / coaxial;Compatible;3,20;;;6
+BV-BV8900P-HUE-COM;Blackview;BV8900 Pro;Botón home / huella;Compatible;5,30;;;6

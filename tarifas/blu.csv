@@ -1,0 +1,320 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+BU-VXL4-PAN-COM;BLU;Vivo XL4;Pantalla;Compatible;15,15;14,70;14,24;6
+BU-VXL4-BAT-COM;BLU;Vivo XL4;Batería;Compatible;9,65;;;6
+BU-VXL4-CON-COM;BLU;Vivo XL4;Conector de carga;Compatible;4,60;;;6
+BU-VXL4-TAP-COM;BLU;Vivo XL4;Tapa trasera;Compatible;5,40;;;6
+BU-VXL4-CTR-COM;BLU;Vivo XL4;Cámara trasera;Compatible;7,59;;;6
+BU-VXL4-CFR-COM;BLU;Vivo XL4;Cámara frontal;Compatible;4,99;;;6
+BU-VXL4-LEN-COM;BLU;Vivo XL4;Lente de cámara;Compatible;2,19;;;6
+BU-VXL4-ALT-COM;BLU;Vivo XL4;Altavoz;Compatible;3,65;;;6
+BU-VXL4-AUR-COM;BLU;Vivo XL4;Auricular de llamada;Compatible;2,65;;;6
+BU-VXL4-FLX-COM;BLU;Vivo XL4;Flex de encendido y volumen;Compatible;2,49;;;6
+BU-VXL4-SIM-COM;BLU;Vivo XL4;Bandeja SIM;Compatible;2,55;;;6
+BU-VXI-PAN-COM;BLU;Vivo XI;Pantalla;Compatible;15,15;14,70;14,24;6
+BU-VXI-BAT-COM;BLU;Vivo XI;Batería;Compatible;9,65;;;6
+BU-VXI-CON-COM;BLU;Vivo XI;Conector de carga;Compatible;4,60;;;6
+BU-VXI-TAP-COM;BLU;Vivo XI;Tapa trasera;Compatible;5,40;;;6
+BU-VXI-CTR-COM;BLU;Vivo XI;Cámara trasera;Compatible;7,59;;;6
+BU-VXI-CFR-COM;BLU;Vivo XI;Cámara frontal;Compatible;4,99;;;6
+BU-VXI-LEN-COM;BLU;Vivo XI;Lente de cámara;Compatible;2,19;;;6
+BU-VXI-ALT-COM;BLU;Vivo XI;Altavoz;Compatible;3,65;;;6
+BU-VXI-AUR-COM;BLU;Vivo XI;Auricular de llamada;Compatible;2,65;;;6
+BU-VXI-FLX-COM;BLU;Vivo XI;Flex de encendido y volumen;Compatible;2,49;;;6
+BU-VXI-SIM-COM;BLU;Vivo XI;Bandeja SIM;Compatible;2,55;;;6
+BU-VXIPL-PAN-COM;BLU;Vivo XI+;Pantalla;Compatible;15,15;14,70;14,24;6
+BU-VXIPL-BAT-COM;BLU;Vivo XI+;Batería;Compatible;9,65;;;6
+BU-VXIPL-CON-COM;BLU;Vivo XI+;Conector de carga;Compatible;4,60;;;6
+BU-VXIPL-TAP-COM;BLU;Vivo XI+;Tapa trasera;Compatible;5,40;;;6
+BU-VXIPL-CTR-COM;BLU;Vivo XI+;Cámara trasera;Compatible;7,59;;;6
+BU-VXIPL-CFR-COM;BLU;Vivo XI+;Cámara frontal;Compatible;4,99;;;6
+BU-VXIPL-LEN-COM;BLU;Vivo XI+;Lente de cámara;Compatible;2,19;;;6
+BU-VXIPL-ALT-COM;BLU;Vivo XI+;Altavoz;Compatible;3,65;;;6
+BU-VXIPL-AUR-COM;BLU;Vivo XI+;Auricular de llamada;Compatible;2,65;;;6
+BU-VXIPL-FLX-COM;BLU;Vivo XI+;Flex de encendido y volumen;Compatible;2,49;;;6
+BU-VXIPL-SIM-COM;BLU;Vivo XI+;Bandeja SIM;Compatible;2,55;;;6
+BU-VX-PAN-COM;BLU;Vivo X;Pantalla;Compatible;15,15;14,70;14,24;6
+BU-VX-BAT-COM;BLU;Vivo X;Batería;Compatible;9,65;;;6
+BU-VX-CON-COM;BLU;Vivo X;Conector de carga;Compatible;4,60;;;6
+BU-VX-TAP-COM;BLU;Vivo X;Tapa trasera;Compatible;5,40;;;6
+BU-VX-CTR-COM;BLU;Vivo X;Cámara trasera;Compatible;7,59;;;6
+BU-VX-CFR-COM;BLU;Vivo X;Cámara frontal;Compatible;4,99;;;6
+BU-VX-LEN-COM;BLU;Vivo X;Lente de cámara;Compatible;2,19;;;6
+BU-VX-ALT-COM;BLU;Vivo X;Altavoz;Compatible;3,65;;;6
+BU-VX-AUR-COM;BLU;Vivo X;Auricular de llamada;Compatible;2,65;;;6
+BU-VX-FLX-COM;BLU;Vivo X;Flex de encendido y volumen;Compatible;2,49;;;6
+BU-VX-SIM-COM;BLU;Vivo X;Bandeja SIM;Compatible;2,55;;;6
+BU-V8-PAN-COM;BLU;Vivo 8;Pantalla;Compatible;15,15;14,70;14,24;6
+BU-V8-BAT-COM;BLU;Vivo 8;Batería;Compatible;9,65;;;6
+BU-V8-CON-COM;BLU;Vivo 8;Conector de carga;Compatible;4,60;;;6
+BU-V8-TAP-COM;BLU;Vivo 8;Tapa trasera;Compatible;5,40;;;6
+BU-V8-CTR-COM;BLU;Vivo 8;Cámara trasera;Compatible;7,59;;;6
+BU-V8-CFR-COM;BLU;Vivo 8;Cámara frontal;Compatible;4,99;;;6
+BU-V8-LEN-COM;BLU;Vivo 8;Lente de cámara;Compatible;2,19;;;6
+BU-V8-ALT-COM;BLU;Vivo 8;Altavoz;Compatible;3,65;;;6
+BU-V8-AUR-COM;BLU;Vivo 8;Auricular de llamada;Compatible;2,65;;;6
+BU-V8-FLX-COM;BLU;Vivo 8;Flex de encendido y volumen;Compatible;2,49;;;6
+BU-V8-SIM-COM;BLU;Vivo 8;Bandeja SIM;Compatible;2,55;;;6
+BU-V6-PAN-COM;BLU;Vivo 6;Pantalla;Compatible;15,15;14,70;14,24;6
+BU-V6-BAT-COM;BLU;Vivo 6;Batería;Compatible;9,65;;;6
+BU-V6-CON-COM;BLU;Vivo 6;Conector de carga;Compatible;4,60;;;6
+BU-V6-TAP-COM;BLU;Vivo 6;Tapa trasera;Compatible;5,40;;;6
+BU-V6-CTR-COM;BLU;Vivo 6;Cámara trasera;Compatible;7,59;;;6
+BU-V6-CFR-COM;BLU;Vivo 6;Cámara frontal;Compatible;4,99;;;6
+BU-V6-LEN-COM;BLU;Vivo 6;Lente de cámara;Compatible;2,19;;;6
+BU-V6-ALT-COM;BLU;Vivo 6;Altavoz;Compatible;3,65;;;6
+BU-V6-AUR-COM;BLU;Vivo 6;Auricular de llamada;Compatible;2,65;;;6
+BU-V6-FLX-COM;BLU;Vivo 6;Flex de encendido y volumen;Compatible;2,49;;;6
+BU-V6-SIM-COM;BLU;Vivo 6;Bandeja SIM;Compatible;2,55;;;6
+BU-VXR-PAN-COM;BLU;Vivo XR;Pantalla;Compatible;15,15;14,70;14,24;6
+BU-VXR-BAT-COM;BLU;Vivo XR;Batería;Compatible;9,65;;;6
+BU-VXR-CON-COM;BLU;Vivo XR;Conector de carga;Compatible;4,60;;;6
+BU-VXR-TAP-COM;BLU;Vivo XR;Tapa trasera;Compatible;5,40;;;6
+BU-VXR-CTR-COM;BLU;Vivo XR;Cámara trasera;Compatible;7,59;;;6
+BU-VXR-CFR-COM;BLU;Vivo XR;Cámara frontal;Compatible;4,99;;;6
+BU-VXR-LEN-COM;BLU;Vivo XR;Lente de cámara;Compatible;2,19;;;6
+BU-VXR-ALT-COM;BLU;Vivo XR;Altavoz;Compatible;3,65;;;6
+BU-VXR-AUR-COM;BLU;Vivo XR;Auricular de llamada;Compatible;2,65;;;6
+BU-VXR-FLX-COM;BLU;Vivo XR;Flex de encendido y volumen;Compatible;2,49;;;6
+BU-VXR-SIM-COM;BLU;Vivo XR;Bandeja SIM;Compatible;2,55;;;6
+BU-EXL-PAN-COM;BLU;Energy XL;Pantalla;Compatible;15,15;14,70;14,24;6
+BU-EXL-BAT-COM;BLU;Energy XL;Batería;Compatible;9,65;;;6
+BU-EXL-CON-COM;BLU;Energy XL;Conector de carga;Compatible;4,60;;;6
+BU-EXL-TAP-COM;BLU;Energy XL;Tapa trasera;Compatible;5,40;;;6
+BU-EXL-CTR-COM;BLU;Energy XL;Cámara trasera;Compatible;7,59;;;6
+BU-EXL-CFR-COM;BLU;Energy XL;Cámara frontal;Compatible;4,99;;;6
+BU-EXL-LEN-COM;BLU;Energy XL;Lente de cámara;Compatible;2,19;;;6
+BU-EXL-ALT-COM;BLU;Energy XL;Altavoz;Compatible;3,65;;;6
+BU-EXL-AUR-COM;BLU;Energy XL;Auricular de llamada;Compatible;2,65;;;6
+BU-EXL-FLX-COM;BLU;Energy XL;Flex de encendido y volumen;Compatible;2,49;;;6
+BU-EXL-SIM-COM;BLU;Energy XL;Bandeja SIM;Compatible;2,55;;;6
+BU-WINJRLTE-PAN-COM;BLU;Win Jr. LTE;Pantalla;Compatible;15,15;14,70;14,24;6
+BU-WINJRLTE-BAT-COM;BLU;Win Jr. LTE;Batería;Compatible;9,65;;;6
+BU-WINJRLTE-CON-COM;BLU;Win Jr. LTE;Conector de carga;Compatible;4,60;;;6
+BU-WINJRLTE-TAP-COM;BLU;Win Jr. LTE;Tapa trasera;Compatible;5,40;;;6
+BU-WINJRLTE-CTR-COM;BLU;Win Jr. LTE;Cámara trasera;Compatible;7,59;;;6
+BU-WINJRLTE-CFR-COM;BLU;Win Jr. LTE;Cámara frontal;Compatible;4,99;;;6
+BU-WINJRLTE-LEN-COM;BLU;Win Jr. LTE;Lente de cámara;Compatible;2,19;;;6
+BU-WINJRLTE-ALT-COM;BLU;Win Jr. LTE;Altavoz;Compatible;3,65;;;6
+BU-WINJRLTE-AUR-COM;BLU;Win Jr. LTE;Auricular de llamada;Compatible;2,65;;;6
+BU-WINJRLTE-FLX-COM;BLU;Win Jr. LTE;Flex de encendido y volumen;Compatible;2,49;;;6
+BU-WINJRLTE-SIM-COM;BLU;Win Jr. LTE;Bandeja SIM;Compatible;2,55;;;6
+BU-WINHDLTE-PAN-COM;BLU;Win HD LTE;Pantalla;Compatible;15,15;14,70;14,24;6
+BU-WINHDLTE-BAT-COM;BLU;Win HD LTE;Batería;Compatible;9,65;;;6
+BU-WINHDLTE-CON-COM;BLU;Win HD LTE;Conector de carga;Compatible;4,60;;;6
+BU-WINHDLTE-TAP-COM;BLU;Win HD LTE;Tapa trasera;Compatible;5,40;;;6
+BU-WINHDLTE-CTR-COM;BLU;Win HD LTE;Cámara trasera;Compatible;7,59;;;6
+BU-WINHDLTE-CFR-COM;BLU;Win HD LTE;Cámara frontal;Compatible;4,99;;;6
+BU-WINHDLTE-LEN-COM;BLU;Win HD LTE;Lente de cámara;Compatible;2,19;;;6
+BU-WINHDLTE-ALT-COM;BLU;Win HD LTE;Altavoz;Compatible;3,65;;;6
+BU-WINHDLTE-AUR-COM;BLU;Win HD LTE;Auricular de llamada;Compatible;2,65;;;6
+BU-WINHDLTE-FLX-COM;BLU;Win HD LTE;Flex de encendido y volumen;Compatible;2,49;;;6
+BU-WINHDLTE-SIM-COM;BLU;Win HD LTE;Bandeja SIM;Compatible;2,55;;;6
+BU-VAIR-PAN-COM;BLU;Vivo Air;Pantalla;Compatible;15,15;14,70;14,24;6
+BU-VAIR-BAT-COM;BLU;Vivo Air;Batería;Compatible;9,65;;;6
+BU-VAIR-CON-COM;BLU;Vivo Air;Conector de carga;Compatible;4,60;;;6
+BU-VAIR-TAP-COM;BLU;Vivo Air;Tapa trasera;Compatible;5,40;;;6
+BU-VAIR-CTR-COM;BLU;Vivo Air;Cámara trasera;Compatible;7,59;;;6
+BU-VAIR-CFR-COM;BLU;Vivo Air;Cámara frontal;Compatible;4,99;;;6
+BU-VAIR-LEN-COM;BLU;Vivo Air;Lente de cámara;Compatible;2,19;;;6
+BU-VAIR-ALT-COM;BLU;Vivo Air;Altavoz;Compatible;3,65;;;6
+BU-VAIR-AUR-COM;BLU;Vivo Air;Auricular de llamada;Compatible;2,65;;;6
+BU-VAIR-FLX-COM;BLU;Vivo Air;Flex de encendido y volumen;Compatible;2,49;;;6
+BU-VAIR-SIM-COM;BLU;Vivo Air;Bandeja SIM;Compatible;2,55;;;6
+BU-WINHD-PAN-COM;BLU;Win HD;Pantalla;Compatible;15,15;14,70;14,24;6
+BU-WINHD-BAT-COM;BLU;Win HD;Batería;Compatible;9,65;;;6
+BU-WINHD-CON-COM;BLU;Win HD;Conector de carga;Compatible;4,60;;;6
+BU-WINHD-TAP-COM;BLU;Win HD;Tapa trasera;Compatible;5,40;;;6
+BU-WINHD-CTR-COM;BLU;Win HD;Cámara trasera;Compatible;7,59;;;6
+BU-WINHD-CFR-COM;BLU;Win HD;Cámara frontal;Compatible;4,99;;;6
+BU-WINHD-LEN-COM;BLU;Win HD;Lente de cámara;Compatible;2,19;;;6
+BU-WINHD-ALT-COM;BLU;Win HD;Altavoz;Compatible;3,65;;;6
+BU-WINHD-AUR-COM;BLU;Win HD;Auricular de llamada;Compatible;2,65;;;6
+BU-WINHD-FLX-COM;BLU;Win HD;Flex de encendido y volumen;Compatible;2,49;;;6
+BU-WINHD-SIM-COM;BLU;Win HD;Bandeja SIM;Compatible;2,55;;;6
+BU-WINJR-PAN-COM;BLU;Win Jr.;Pantalla;Compatible;15,15;14,70;14,24;6
+BU-WINJR-BAT-COM;BLU;Win Jr.;Batería;Compatible;9,65;;;6
+BU-WINJR-CON-COM;BLU;Win Jr.;Conector de carga;Compatible;4,60;;;6
+BU-WINJR-TAP-COM;BLU;Win Jr.;Tapa trasera;Compatible;5,40;;;6
+BU-WINJR-CTR-COM;BLU;Win Jr.;Cámara trasera;Compatible;7,59;;;6
+BU-WINJR-CFR-COM;BLU;Win Jr.;Cámara frontal;Compatible;4,99;;;6
+BU-WINJR-LEN-COM;BLU;Win Jr.;Lente de cámara;Compatible;2,19;;;6
+BU-WINJR-ALT-COM;BLU;Win Jr.;Altavoz;Compatible;3,65;;;6
+BU-WINJR-AUR-COM;BLU;Win Jr.;Auricular de llamada;Compatible;2,65;;;6
+BU-WINJR-FLX-COM;BLU;Win Jr.;Flex de encendido y volumen;Compatible;2,49;;;6
+BU-WINJR-SIM-COM;BLU;Win Jr.;Bandeja SIM;Compatible;2,55;;;6
+BU-LPXL-PAN-COM;BLU;Life Pure XL;Pantalla;Compatible;15,15;14,70;14,24;6
+BU-LPXL-BAT-COM;BLU;Life Pure XL;Batería;Compatible;9,65;;;6
+BU-LPXL-CON-COM;BLU;Life Pure XL;Conector de carga;Compatible;4,60;;;6
+BU-LPXL-TAP-COM;BLU;Life Pure XL;Tapa trasera;Compatible;5,40;;;6
+BU-LPXL-CTR-COM;BLU;Life Pure XL;Cámara trasera;Compatible;7,59;;;6
+BU-LPXL-CFR-COM;BLU;Life Pure XL;Cámara frontal;Compatible;4,99;;;6
+BU-LPXL-LEN-COM;BLU;Life Pure XL;Lente de cámara;Compatible;2,19;;;6
+BU-LPXL-ALT-COM;BLU;Life Pure XL;Altavoz;Compatible;3,65;;;6
+BU-LPXL-AUR-COM;BLU;Life Pure XL;Auricular de llamada;Compatible;2,65;;;6
+BU-LPXL-FLX-COM;BLU;Life Pure XL;Flex de encendido y volumen;Compatible;2,49;;;6
+BU-LPXL-SIM-COM;BLU;Life Pure XL;Bandeja SIM;Compatible;2,55;;;6
+BU-VIV-PAN-COM;BLU;Vivo IV;Pantalla;Compatible;15,15;14,70;14,24;6
+BU-VIV-BAT-COM;BLU;Vivo IV;Batería;Compatible;9,65;;;6
+BU-VIV-CON-COM;BLU;Vivo IV;Conector de carga;Compatible;4,60;;;6
+BU-VIV-TAP-COM;BLU;Vivo IV;Tapa trasera;Compatible;5,40;;;6
+BU-VIV-CTR-COM;BLU;Vivo IV;Cámara trasera;Compatible;7,59;;;6
+BU-VIV-CFR-COM;BLU;Vivo IV;Cámara frontal;Compatible;4,99;;;6
+BU-VIV-LEN-COM;BLU;Vivo IV;Lente de cámara;Compatible;2,19;;;6
+BU-VIV-ALT-COM;BLU;Vivo IV;Altavoz;Compatible;3,65;;;6
+BU-VIV-AUR-COM;BLU;Vivo IV;Auricular de llamada;Compatible;2,65;;;6
+BU-VIV-FLX-COM;BLU;Vivo IV;Flex de encendido y volumen;Compatible;2,49;;;6
+BU-VIV-SIM-COM;BLU;Vivo IV;Bandeja SIM;Compatible;2,55;;;6
+BU-VXL4-PRO-NA;BLU;Vivo XL4;Cristal templado;Estándar;1,30;;;
+BU-VXL4-PRO-PRI;BLU;Vivo XL4;Cristal templado;Privacidad;4,00;;;
+BU-VXL4-FUN-SIL;BLU;Vivo XL4;Funda;Silicona;2,50;;;
+BU-VXL4-FUN-TPU;BLU;Vivo XL4;Funda;Transparente;2,95;;;
+BU-VXL4-FUN-LIB;BLU;Vivo XL4;Funda;Libro;3,70;;;
+BU-VXL4-FUN-ANT;BLU;Vivo XL4;Funda;Antigolpes;3,10;;;
+BU-VXI-PRO-NA;BLU;Vivo XI;Cristal templado;Estándar;1,30;;;
+BU-VXI-PRO-PRI;BLU;Vivo XI;Cristal templado;Privacidad;4,00;;;
+BU-VXI-FUN-SIL;BLU;Vivo XI;Funda;Silicona;2,50;;;
+BU-VXI-FUN-TPU;BLU;Vivo XI;Funda;Transparente;2,95;;;
+BU-VXI-FUN-LIB;BLU;Vivo XI;Funda;Libro;3,70;;;
+BU-VXI-FUN-ANT;BLU;Vivo XI;Funda;Antigolpes;3,10;;;
+BU-VXIPL-PRO-NA;BLU;Vivo XI+;Cristal templado;Estándar;1,30;;;
+BU-VXIPL-PRO-PRI;BLU;Vivo XI+;Cristal templado;Privacidad;4,00;;;
+BU-VXIPL-FUN-SIL;BLU;Vivo XI+;Funda;Silicona;2,50;;;
+BU-VXIPL-FUN-TPU;BLU;Vivo XI+;Funda;Transparente;2,95;;;
+BU-VXIPL-FUN-LIB;BLU;Vivo XI+;Funda;Libro;3,70;;;
+BU-VXIPL-FUN-ANT;BLU;Vivo XI+;Funda;Antigolpes;3,10;;;
+BU-VX-PRO-NA;BLU;Vivo X;Cristal templado;Estándar;1,30;;;
+BU-VX-PRO-PRI;BLU;Vivo X;Cristal templado;Privacidad;4,00;;;
+BU-VX-FUN-SIL;BLU;Vivo X;Funda;Silicona;2,50;;;
+BU-VX-FUN-TPU;BLU;Vivo X;Funda;Transparente;2,95;;;
+BU-VX-FUN-LIB;BLU;Vivo X;Funda;Libro;3,70;;;
+BU-VX-FUN-ANT;BLU;Vivo X;Funda;Antigolpes;3,10;;;
+BU-V8-PRO-NA;BLU;Vivo 8;Cristal templado;Estándar;1,30;;;
+BU-V8-PRO-PRI;BLU;Vivo 8;Cristal templado;Privacidad;4,00;;;
+BU-V8-FUN-SIL;BLU;Vivo 8;Funda;Silicona;2,50;;;
+BU-V8-FUN-TPU;BLU;Vivo 8;Funda;Transparente;2,95;;;
+BU-V8-FUN-LIB;BLU;Vivo 8;Funda;Libro;3,70;;;
+BU-V8-FUN-ANT;BLU;Vivo 8;Funda;Antigolpes;3,10;;;
+BU-V6-PRO-NA;BLU;Vivo 6;Cristal templado;Estándar;1,30;;;
+BU-V6-PRO-PRI;BLU;Vivo 6;Cristal templado;Privacidad;4,00;;;
+BU-V6-FUN-SIL;BLU;Vivo 6;Funda;Silicona;2,50;;;
+BU-V6-FUN-TPU;BLU;Vivo 6;Funda;Transparente;2,95;;;
+BU-V6-FUN-LIB;BLU;Vivo 6;Funda;Libro;3,70;;;
+BU-V6-FUN-ANT;BLU;Vivo 6;Funda;Antigolpes;3,10;;;
+BU-VXR-PRO-NA;BLU;Vivo XR;Cristal templado;Estándar;1,30;;;
+BU-VXR-PRO-PRI;BLU;Vivo XR;Cristal templado;Privacidad;4,00;;;
+BU-VXR-FUN-SIL;BLU;Vivo XR;Funda;Silicona;2,50;;;
+BU-VXR-FUN-TPU;BLU;Vivo XR;Funda;Transparente;2,95;;;
+BU-VXR-FUN-LIB;BLU;Vivo XR;Funda;Libro;3,70;;;
+BU-VXR-FUN-ANT;BLU;Vivo XR;Funda;Antigolpes;3,10;;;
+BU-EXL-PRO-NA;BLU;Energy XL;Cristal templado;Estándar;1,30;;;
+BU-EXL-PRO-PRI;BLU;Energy XL;Cristal templado;Privacidad;4,00;;;
+BU-EXL-FUN-SIL;BLU;Energy XL;Funda;Silicona;2,50;;;
+BU-EXL-FUN-TPU;BLU;Energy XL;Funda;Transparente;2,95;;;
+BU-EXL-FUN-LIB;BLU;Energy XL;Funda;Libro;3,70;;;
+BU-EXL-FUN-ANT;BLU;Energy XL;Funda;Antigolpes;3,10;;;
+BU-WINJRLTE-PRO-NA;BLU;Win Jr. LTE;Cristal templado;Estándar;1,30;;;
+BU-WINJRLTE-PRO-PRI;BLU;Win Jr. LTE;Cristal templado;Privacidad;4,00;;;
+BU-WINJRLTE-FUN-SIL;BLU;Win Jr. LTE;Funda;Silicona;2,50;;;
+BU-WINJRLTE-FUN-TPU;BLU;Win Jr. LTE;Funda;Transparente;2,95;;;
+BU-WINJRLTE-FUN-LIB;BLU;Win Jr. LTE;Funda;Libro;3,70;;;
+BU-WINJRLTE-FUN-ANT;BLU;Win Jr. LTE;Funda;Antigolpes;3,10;;;
+BU-WINHDLTE-PRO-NA;BLU;Win HD LTE;Cristal templado;Estándar;1,30;;;
+BU-WINHDLTE-PRO-PRI;BLU;Win HD LTE;Cristal templado;Privacidad;4,00;;;
+BU-WINHDLTE-FUN-SIL;BLU;Win HD LTE;Funda;Silicona;2,50;;;
+BU-WINHDLTE-FUN-TPU;BLU;Win HD LTE;Funda;Transparente;2,95;;;
+BU-WINHDLTE-FUN-LIB;BLU;Win HD LTE;Funda;Libro;3,70;;;
+BU-WINHDLTE-FUN-ANT;BLU;Win HD LTE;Funda;Antigolpes;3,10;;;
+BU-VAIR-PRO-NA;BLU;Vivo Air;Cristal templado;Estándar;1,30;;;
+BU-VAIR-PRO-PRI;BLU;Vivo Air;Cristal templado;Privacidad;4,00;;;
+BU-VAIR-FUN-SIL;BLU;Vivo Air;Funda;Silicona;2,50;;;
+BU-VAIR-FUN-TPU;BLU;Vivo Air;Funda;Transparente;2,95;;;
+BU-VAIR-FUN-LIB;BLU;Vivo Air;Funda;Libro;3,70;;;
+BU-VAIR-FUN-ANT;BLU;Vivo Air;Funda;Antigolpes;3,10;;;
+BU-WINHD-PRO-NA;BLU;Win HD;Cristal templado;Estándar;1,30;;;
+BU-WINHD-PRO-PRI;BLU;Win HD;Cristal templado;Privacidad;4,00;;;
+BU-WINHD-FUN-SIL;BLU;Win HD;Funda;Silicona;2,50;;;
+BU-WINHD-FUN-TPU;BLU;Win HD;Funda;Transparente;2,95;;;
+BU-WINHD-FUN-LIB;BLU;Win HD;Funda;Libro;3,70;;;
+BU-WINHD-FUN-ANT;BLU;Win HD;Funda;Antigolpes;3,10;;;
+BU-WINJR-PRO-NA;BLU;Win Jr.;Cristal templado;Estándar;1,30;;;
+BU-WINJR-PRO-PRI;BLU;Win Jr.;Cristal templado;Privacidad;4,00;;;
+BU-WINJR-FUN-SIL;BLU;Win Jr.;Funda;Silicona;2,50;;;
+BU-WINJR-FUN-TPU;BLU;Win Jr.;Funda;Transparente;2,95;;;
+BU-WINJR-FUN-LIB;BLU;Win Jr.;Funda;Libro;3,70;;;
+BU-WINJR-FUN-ANT;BLU;Win Jr.;Funda;Antigolpes;3,10;;;
+BU-LPXL-PRO-NA;BLU;Life Pure XL;Cristal templado;Estándar;1,30;;;
+BU-LPXL-PRO-PRI;BLU;Life Pure XL;Cristal templado;Privacidad;4,00;;;
+BU-LPXL-FUN-SIL;BLU;Life Pure XL;Funda;Silicona;2,50;;;
+BU-LPXL-FUN-TPU;BLU;Life Pure XL;Funda;Transparente;2,95;;;
+BU-LPXL-FUN-LIB;BLU;Life Pure XL;Funda;Libro;3,70;;;
+BU-LPXL-FUN-ANT;BLU;Life Pure XL;Funda;Antigolpes;3,10;;;
+BU-VIV-PRO-NA;BLU;Vivo IV;Cristal templado;Estándar;1,30;;;
+BU-VIV-PRO-PRI;BLU;Vivo IV;Cristal templado;Privacidad;4,00;;;
+BU-VIV-FUN-SIL;BLU;Vivo IV;Funda;Silicona;2,50;;;
+BU-VIV-FUN-TPU;BLU;Vivo IV;Funda;Transparente;2,95;;;
+BU-VIV-FUN-LIB;BLU;Vivo IV;Funda;Libro;3,70;;;
+BU-VIV-FUN-ANT;BLU;Vivo IV;Funda;Antigolpes;3,10;;;
+BU-VXL4-MAR-COM;BLU;Vivo XL4;Marco / chasis;Compatible;6,49;;;6
+BU-VXL4-BOT-COM;BLU;Vivo XL4;Botones laterales;Compatible;3,35;;;6
+BU-VXL4-CRI-COM;BLU;Vivo XL4;Cristal de pantalla;Compatible;3,30;;;6
+BU-VXL4-ANT-COM;BLU;Vivo XL4;Antena / coaxial;Compatible;2,89;;;6
+BU-VXL4-HUE-COM;BLU;Vivo XL4;Botón home / huella;Compatible;4,79;;;6
+BU-VXI-MAR-COM;BLU;Vivo XI;Marco / chasis;Compatible;6,49;;;6
+BU-VXI-BOT-COM;BLU;Vivo XI;Botones laterales;Compatible;3,35;;;6
+BU-VXI-CRI-COM;BLU;Vivo XI;Cristal de pantalla;Compatible;3,30;;;6
+BU-VXI-ANT-COM;BLU;Vivo XI;Antena / coaxial;Compatible;2,89;;;6
+BU-VXI-HUE-COM;BLU;Vivo XI;Botón home / huella;Compatible;4,79;;;6
+BU-VXIPL-MAR-COM;BLU;Vivo XI+;Marco / chasis;Compatible;6,49;;;6
+BU-VXIPL-BOT-COM;BLU;Vivo XI+;Botones laterales;Compatible;3,35;;;6
+BU-VXIPL-CRI-COM;BLU;Vivo XI+;Cristal de pantalla;Compatible;3,30;;;6
+BU-VXIPL-ANT-COM;BLU;Vivo XI+;Antena / coaxial;Compatible;2,89;;;6
+BU-VXIPL-HUE-COM;BLU;Vivo XI+;Botón home / huella;Compatible;4,79;;;6
+BU-VX-MAR-COM;BLU;Vivo X;Marco / chasis;Compatible;6,49;;;6
+BU-VX-BOT-COM;BLU;Vivo X;Botones laterales;Compatible;3,35;;;6
+BU-VX-CRI-COM;BLU;Vivo X;Cristal de pantalla;Compatible;3,30;;;6
+BU-VX-ANT-COM;BLU;Vivo X;Antena / coaxial;Compatible;2,89;;;6
+BU-VX-HUE-COM;BLU;Vivo X;Botón home / huella;Compatible;4,79;;;6
+BU-V8-MAR-COM;BLU;Vivo 8;Marco / chasis;Compatible;6,49;;;6
+BU-V8-BOT-COM;BLU;Vivo 8;Botones laterales;Compatible;3,35;;;6
+BU-V8-CRI-COM;BLU;Vivo 8;Cristal de pantalla;Compatible;3,30;;;6
+BU-V8-ANT-COM;BLU;Vivo 8;Antena / coaxial;Compatible;2,89;;;6
+BU-V8-HUE-COM;BLU;Vivo 8;Botón home / huella;Compatible;4,79;;;6
+BU-V6-MAR-COM;BLU;Vivo 6;Marco / chasis;Compatible;5,75;;;6
+BU-V6-BOT-COM;BLU;Vivo 6;Botones laterales;Compatible;2,95;;;6
+BU-V6-CRI-COM;BLU;Vivo 6;Cristal de pantalla;Compatible;2,95;;;6
+BU-V6-ANT-COM;BLU;Vivo 6;Antena / coaxial;Compatible;2,55;;;6
+BU-V6-HUE-COM;BLU;Vivo 6;Botón home / huella;Compatible;4,25;;;6
+BU-VXR-MAR-COM;BLU;Vivo XR;Marco / chasis;Compatible;5,75;;;6
+BU-VXR-BOT-COM;BLU;Vivo XR;Botones laterales;Compatible;2,95;;;6
+BU-VXR-CRI-COM;BLU;Vivo XR;Cristal de pantalla;Compatible;2,95;;;6
+BU-VXR-ANT-COM;BLU;Vivo XR;Antena / coaxial;Compatible;2,55;;;6
+BU-VXR-HUE-COM;BLU;Vivo XR;Botón home / huella;Compatible;4,25;;;6
+BU-EXL-MAR-COM;BLU;Energy XL;Marco / chasis;Compatible;5,75;;;6
+BU-EXL-BOT-COM;BLU;Energy XL;Botones laterales;Compatible;2,95;;;6
+BU-EXL-CRI-COM;BLU;Energy XL;Cristal de pantalla;Compatible;2,95;;;6
+BU-EXL-ANT-COM;BLU;Energy XL;Antena / coaxial;Compatible;2,55;;;6
+BU-EXL-HUE-COM;BLU;Energy XL;Botón home / huella;Compatible;4,25;;;6
+BU-WINJRLTE-MAR-COM;BLU;Win Jr. LTE;Marco / chasis;Compatible;5,75;;;6
+BU-WINJRLTE-BOT-COM;BLU;Win Jr. LTE;Botones laterales;Compatible;2,95;;;6
+BU-WINJRLTE-CRI-COM;BLU;Win Jr. LTE;Cristal de pantalla;Compatible;2,95;;;6
+BU-WINJRLTE-ANT-COM;BLU;Win Jr. LTE;Antena / coaxial;Compatible;2,55;;;6
+BU-WINHDLTE-MAR-COM;BLU;Win HD LTE;Marco / chasis;Compatible;5,75;;;6
+BU-WINHDLTE-BOT-COM;BLU;Win HD LTE;Botones laterales;Compatible;2,95;;;6
+BU-WINHDLTE-CRI-COM;BLU;Win HD LTE;Cristal de pantalla;Compatible;2,95;;;6
+BU-WINHDLTE-ANT-COM;BLU;Win HD LTE;Antena / coaxial;Compatible;2,55;;;6
+BU-VAIR-MAR-COM;BLU;Vivo Air;Marco / chasis;Compatible;5,75;;;6
+BU-VAIR-BOT-COM;BLU;Vivo Air;Botones laterales;Compatible;2,95;;;6
+BU-VAIR-CRI-COM;BLU;Vivo Air;Cristal de pantalla;Compatible;2,95;;;6
+BU-VAIR-ANT-COM;BLU;Vivo Air;Antena / coaxial;Compatible;2,55;;;6
+BU-WINHD-MAR-COM;BLU;Win HD;Marco / chasis;Compatible;5,75;;;6
+BU-WINHD-BOT-COM;BLU;Win HD;Botones laterales;Compatible;2,95;;;6
+BU-WINHD-ANT-COM;BLU;Win HD;Antena / coaxial;Compatible;2,55;;;6
+BU-WINJR-MAR-COM;BLU;Win Jr.;Marco / chasis;Compatible;5,75;;;6
+BU-WINJR-BOT-COM;BLU;Win Jr.;Botones laterales;Compatible;2,95;;;6
+BU-WINJR-ANT-COM;BLU;Win Jr.;Antena / coaxial;Compatible;2,55;;;6
+BU-LPXL-MAR-COM;BLU;Life Pure XL;Marco / chasis;Compatible;5,75;;;6
+BU-LPXL-BOT-COM;BLU;Life Pure XL;Botones laterales;Compatible;2,95;;;6
+BU-LPXL-ANT-COM;BLU;Life Pure XL;Antena / coaxial;Compatible;2,55;;;6
+BU-VIV-MAR-COM;BLU;Vivo IV;Marco / chasis;Compatible;5,75;;;6
+BU-VIV-BOT-COM;BLU;Vivo IV;Botones laterales;Compatible;2,95;;;6
+BU-VIV-ANT-COM;BLU;Vivo IV;Antena / coaxial;Compatible;2,55;;;6

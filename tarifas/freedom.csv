@@ -1,0 +1,23 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+FR-P-PAN-COM;Freedom;Phone;Pantalla;Compatible;16,10;15,62;15,13;6
+FR-P-BAT-COM;Freedom;Phone;Batería;Compatible;8,25;;;6
+FR-P-CON-COM;Freedom;Phone;Conector de carga;Compatible;4,40;;;6
+FR-P-TAP-COM;Freedom;Phone;Tapa trasera;Compatible;5,55;;;6
+FR-P-CTR-COM;Freedom;Phone;Cámara trasera;Compatible;6,19;;;6
+FR-P-CFR-COM;Freedom;Phone;Cámara frontal;Compatible;3,65;;;6
+FR-P-LEN-COM;Freedom;Phone;Lente de cámara;Compatible;2,20;;;6
+FR-P-ALT-COM;Freedom;Phone;Altavoz;Compatible;3,35;;;6
+FR-P-AUR-COM;Freedom;Phone;Auricular de llamada;Compatible;2,40;;;6
+FR-P-FLX-COM;Freedom;Phone;Flex de encendido y volumen;Compatible;2,29;;;6
+FR-P-SIM-COM;Freedom;Phone;Bandeja SIM;Compatible;2,60;;;6
+FR-P-PRO-NA;Freedom;Phone;Cristal templado;Estándar;1,30;;;
+FR-P-PRO-PRI;Freedom;Phone;Cristal templado;Privacidad;4,00;;;
+FR-P-FUN-SIL;Freedom;Phone;Funda;Silicona;2,50;;;
+FR-P-FUN-TPU;Freedom;Phone;Funda;Transparente;2,95;;;
+FR-P-FUN-LIB;Freedom;Phone;Funda;Libro;3,70;;;
+FR-P-FUN-ANT;Freedom;Phone;Funda;Antigolpes;3,10;;;
+FR-P-MAR-COM;Freedom;Phone;Marco / chasis;Compatible;7,20;;;6
+FR-P-BOT-COM;Freedom;Phone;Botones laterales;Compatible;3,70;;;6
+FR-P-CRI-COM;Freedom;Phone;Cristal de pantalla;Compatible;3,69;;;6
+FR-P-ANT-COM;Freedom;Phone;Antena / coaxial;Compatible;3,20;;;6
+FR-P-HUE-COM;Freedom;Phone;Botón home / huella;Compatible;5,30;;;6

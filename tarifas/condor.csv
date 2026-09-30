@@ -1,0 +1,22 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+CO-GW1-PAN-COM;Condor;Griffe W1;Pantalla;Compatible;15,15;14,70;14,24;6
+CO-GW1-BAT-COM;Condor;Griffe W1;Batería;Compatible;9,65;;;6
+CO-GW1-CON-COM;Condor;Griffe W1;Conector de carga;Compatible;4,60;;;6
+CO-GW1-TAP-COM;Condor;Griffe W1;Tapa trasera;Compatible;5,40;;;6
+CO-GW1-CTR-COM;Condor;Griffe W1;Cámara trasera;Compatible;7,59;;;6
+CO-GW1-CFR-COM;Condor;Griffe W1;Cámara frontal;Compatible;4,99;;;6
+CO-GW1-LEN-COM;Condor;Griffe W1;Lente de cámara;Compatible;2,19;;;6
+CO-GW1-ALT-COM;Condor;Griffe W1;Altavoz;Compatible;3,65;;;6
+CO-GW1-AUR-COM;Condor;Griffe W1;Auricular de llamada;Compatible;2,65;;;6
+CO-GW1-FLX-COM;Condor;Griffe W1;Flex de encendido y volumen;Compatible;2,49;;;6
+CO-GW1-SIM-COM;Condor;Griffe W1;Bandeja SIM;Compatible;2,55;;;6
+CO-GW1-PRO-NA;Condor;Griffe W1;Cristal templado;Estándar;1,30;;;
+CO-GW1-PRO-PRI;Condor;Griffe W1;Cristal templado;Privacidad;4,00;;;
+CO-GW1-FUN-SIL;Condor;Griffe W1;Funda;Silicona;2,50;;;
+CO-GW1-FUN-TPU;Condor;Griffe W1;Funda;Transparente;2,95;;;
+CO-GW1-FUN-LIB;Condor;Griffe W1;Funda;Libro;3,70;;;
+CO-GW1-FUN-ANT;Condor;Griffe W1;Funda;Antigolpes;3,10;;;
+CO-GW1-MAR-COM;Condor;Griffe W1;Marco / chasis;Compatible;5,75;;;6
+CO-GW1-BOT-COM;Condor;Griffe W1;Botones laterales;Compatible;2,95;;;6
+CO-GW1-CRI-COM;Condor;Griffe W1;Cristal de pantalla;Compatible;2,95;;;6
+CO-GW1-ANT-COM;Condor;Griffe W1;Antena / coaxial;Compatible;2,55;;;6

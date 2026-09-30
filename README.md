@@ -1,4 +1,3 @@
-# Recambia (nombre provisional) — vista previa del diseño
+# Recambia (nombre provisional) — tienda de repuestos de móvil
 
-Tienda B2B de recambios de móvil para talleres. Páginas estáticas generadas desde el catálogo (858 modelos, 15012 referencias).
-Sin código fuente, sin base de datos y sin datos de clientes.
+Sitio estático generado: 4276 modelos, 105626 referencias. Sin código fuente, base de datos ni datos de clientes.

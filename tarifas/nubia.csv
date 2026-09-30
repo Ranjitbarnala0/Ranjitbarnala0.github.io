@@ -1,0 +1,1777 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+NU-F2-PAN-COM;nubia;Focus 2;Pantalla;Compatible;18,05;17,51;16,97;6
+NU-F2-BAT-COM;nubia;Focus 2;Batería;Compatible;8,89;;;6
+NU-F2-CON-COM;nubia;Focus 2;Conector de carga;Compatible;6,00;;;6
+NU-F2-TAP-COM;nubia;Focus 2;Tapa trasera;Compatible;6,65;;;6
+NU-F2-CTR-COM;nubia;Focus 2;Cámara trasera;Compatible;11,85;11,49;11,14;6
+NU-F2-CFR-COM;nubia;Focus 2;Cámara frontal;Compatible;7,49;;;6
+NU-F2-LEN-COM;nubia;Focus 2;Lente de cámara;Compatible;2,95;;;6
+NU-F2-ALT-COM;nubia;Focus 2;Altavoz;Compatible;4,75;;;6
+NU-F2-AUR-COM;nubia;Focus 2;Auricular de llamada;Compatible;3,70;;;6
+NU-F2-FLX-COM;nubia;Focus 2;Flex de encendido y volumen;Compatible;3,05;;;6
+NU-F2-SIM-COM;nubia;Focus 2;Bandeja SIM;Compatible;3,00;;;6
+NU-F2U-PAN-COM;nubia;Focus 2 Ultra;Pantalla;Compatible;19,85;19,25;18,66;6
+NU-F2U-BAT-COM;nubia;Focus 2 Ultra;Batería;Compatible;8,89;;;6
+NU-F2U-CON-COM;nubia;Focus 2 Ultra;Conector de carga;Compatible;6,00;;;6
+NU-F2U-TAP-COM;nubia;Focus 2 Ultra;Tapa trasera;Compatible;6,65;;;6
+NU-F2U-CTR-COM;nubia;Focus 2 Ultra;Cámara trasera;Compatible;11,85;11,49;11,14;6
+NU-F2U-CFR-COM;nubia;Focus 2 Ultra;Cámara frontal;Compatible;7,49;;;6
+NU-F2U-LEN-COM;nubia;Focus 2 Ultra;Lente de cámara;Compatible;2,95;;;6
+NU-F2U-ALT-COM;nubia;Focus 2 Ultra;Altavoz;Compatible;4,75;;;6
+NU-F2U-AUR-COM;nubia;Focus 2 Ultra;Auricular de llamada;Compatible;3,70;;;6
+NU-F2U-FLX-COM;nubia;Focus 2 Ultra;Flex de encendido y volumen;Compatible;3,05;;;6
+NU-F2U-SIM-COM;nubia;Focus 2 Ultra;Bandeja SIM;Compatible;3,00;;;6
+NU-NEO3-PAN-COM;nubia;Neo 3;Pantalla;Compatible;18,05;17,51;16,97;6
+NU-NEO3-BAT-COM;nubia;Neo 3;Batería;Compatible;8,89;;;6
+NU-NEO3-CON-COM;nubia;Neo 3;Conector de carga;Compatible;6,00;;;6
+NU-NEO3-TAP-COM;nubia;Neo 3;Tapa trasera;Compatible;6,65;;;6
+NU-NEO3-CTR-COM;nubia;Neo 3;Cámara trasera;Compatible;11,85;11,49;11,14;6
+NU-NEO3-CFR-COM;nubia;Neo 3;Cámara frontal;Compatible;7,49;;;6
+NU-NEO3-LEN-COM;nubia;Neo 3;Lente de cámara;Compatible;2,95;;;6
+NU-NEO3-ALT-COM;nubia;Neo 3;Altavoz;Compatible;4,75;;;6
+NU-NEO3-AUR-COM;nubia;Neo 3;Auricular de llamada;Compatible;3,70;;;6
+NU-NEO3-FLX-COM;nubia;Neo 3;Flex de encendido y volumen;Compatible;3,05;;;6
+NU-NEO3-SIM-COM;nubia;Neo 3;Bandeja SIM;Compatible;3,00;;;6
+NU-NEO3GT-PAN-COM;nubia;Neo 3 GT;Pantalla;Compatible;18,05;17,51;16,97;6
+NU-NEO3GT-BAT-COM;nubia;Neo 3 GT;Batería;Compatible;8,89;;;6
+NU-NEO3GT-CON-COM;nubia;Neo 3 GT;Conector de carga;Compatible;6,00;;;6
+NU-NEO3GT-TAP-COM;nubia;Neo 3 GT;Tapa trasera;Compatible;6,65;;;6
+NU-NEO3GT-CTR-COM;nubia;Neo 3 GT;Cámara trasera;Compatible;11,85;11,49;11,14;6
+NU-NEO3GT-CFR-COM;nubia;Neo 3 GT;Cámara frontal;Compatible;7,49;;;6
+NU-NEO3GT-LEN-COM;nubia;Neo 3 GT;Lente de cámara;Compatible;2,95;;;6
+NU-NEO3GT-ALT-COM;nubia;Neo 3 GT;Altavoz;Compatible;4,75;;;6
+NU-NEO3GT-AUR-COM;nubia;Neo 3 GT;Auricular de llamada;Compatible;3,70;;;6
+NU-NEO3GT-FLX-COM;nubia;Neo 3 GT;Flex de encendido y volumen;Compatible;3,05;;;6
+NU-NEO3GT-SIM-COM;nubia;Neo 3 GT;Bandeja SIM;Compatible;3,00;;;6
+NU-REDMG10A-PAN-COM;nubia;Red Magic 10 Air;Pantalla;Compatible;18,05;17,51;16,97;6
+NU-REDMG10A-BAT-COM;nubia;Red Magic 10 Air;Batería;Compatible;8,89;;;6
+NU-REDMG10A-CON-COM;nubia;Red Magic 10 Air;Conector de carga;Compatible;6,00;;;6
+NU-REDMG10A-TAP-COM;nubia;Red Magic 10 Air;Tapa trasera;Compatible;6,65;;;6
+NU-REDMG10A-CTR-COM;nubia;Red Magic 10 Air;Cámara trasera;Compatible;11,85;11,49;11,14;6
+NU-REDMG10A-CFR-COM;nubia;Red Magic 10 Air;Cámara frontal;Compatible;7,49;;;6
+NU-REDMG10A-LEN-COM;nubia;Red Magic 10 Air;Lente de cámara;Compatible;2,95;;;6
+NU-REDMG10A-ALT-COM;nubia;Red Magic 10 Air;Altavoz;Compatible;4,75;;;6
+NU-REDMG10A-AUR-COM;nubia;Red Magic 10 Air;Auricular de llamada;Compatible;3,70;;;6
+NU-REDMG10A-FLX-COM;nubia;Red Magic 10 Air;Flex de encendido y volumen;Compatible;3,05;;;6
+NU-REDMG10A-SIM-COM;nubia;Red Magic 10 Air;Bandeja SIM;Compatible;3,00;;;6
+NU-MUSIC2-PAN-COM;nubia;Music 2;Pantalla;Compatible;18,05;17,51;16,97;6
+NU-MUSIC2-BAT-COM;nubia;Music 2;Batería;Compatible;8,89;;;6
+NU-MUSIC2-CON-COM;nubia;Music 2;Conector de carga;Compatible;6,00;;;6
+NU-MUSIC2-TAP-COM;nubia;Music 2;Tapa trasera;Compatible;6,65;;;6
+NU-MUSIC2-CTR-COM;nubia;Music 2;Cámara trasera;Compatible;11,85;11,49;11,14;6
+NU-MUSIC2-CFR-COM;nubia;Music 2;Cámara frontal;Compatible;7,49;;;6
+NU-MUSIC2-LEN-COM;nubia;Music 2;Lente de cámara;Compatible;2,95;;;6
+NU-MUSIC2-ALT-COM;nubia;Music 2;Altavoz;Compatible;4,75;;;6
+NU-MUSIC2-AUR-COM;nubia;Music 2;Auricular de llamada;Compatible;3,70;;;6
+NU-MUSIC2-FLX-COM;nubia;Music 2;Flex de encendido y volumen;Compatible;3,05;;;6
+NU-MUSIC2-SIM-COM;nubia;Music 2;Bandeja SIM;Compatible;3,00;;;6
+NU-REDMG10P-PAN-COM;nubia;Red Magic 10 Pro;Pantalla;Compatible;17,15;16,64;16,12;6
+NU-REDMG10P-BAT-COM;nubia;Red Magic 10 Pro;Batería;Compatible;9,40;;;6
+NU-REDMG10P-CON-COM;nubia;Red Magic 10 Pro;Conector de carga;Compatible;5,05;;;6
+NU-REDMG10P-TAP-COM;nubia;Red Magic 10 Pro;Tapa trasera;Compatible;6,20;;;6
+NU-REDMG10P-CTR-COM;nubia;Red Magic 10 Pro;Cámara trasera;Compatible;8,65;;;6
+NU-REDMG10P-CFR-COM;nubia;Red Magic 10 Pro;Cámara frontal;Compatible;5,35;;;6
+NU-REDMG10P-LEN-COM;nubia;Red Magic 10 Pro;Lente de cámara;Compatible;2,30;;;6
+NU-REDMG10P-ALT-COM;nubia;Red Magic 10 Pro;Altavoz;Compatible;3,60;;;6
+NU-REDMG10P-AUR-COM;nubia;Red Magic 10 Pro;Auricular de llamada;Compatible;2,65;;;6
+NU-REDMG10P-FLX-COM;nubia;Red Magic 10 Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+NU-REDMG10P-SIM-COM;nubia;Red Magic 10 Pro;Bandeja SIM;Compatible;2,55;;;6
+NU-REDMG102-PAN-COM;nubia;Red Magic 10 Pro+;Pantalla;Compatible;17,15;16,64;16,12;6
+NU-REDMG102-BAT-COM;nubia;Red Magic 10 Pro+;Batería;Compatible;9,40;;;6
+NU-REDMG102-CON-COM;nubia;Red Magic 10 Pro+;Conector de carga;Compatible;5,05;;;6
+NU-REDMG102-TAP-COM;nubia;Red Magic 10 Pro+;Tapa trasera;Compatible;6,20;;;6
+NU-REDMG102-CTR-COM;nubia;Red Magic 10 Pro+;Cámara trasera;Compatible;8,65;;;6
+NU-REDMG102-CFR-COM;nubia;Red Magic 10 Pro+;Cámara frontal;Compatible;5,35;;;6
+NU-REDMG102-LEN-COM;nubia;Red Magic 10 Pro+;Lente de cámara;Compatible;2,30;;;6
+NU-REDMG102-ALT-COM;nubia;Red Magic 10 Pro+;Altavoz;Compatible;3,60;;;6
+NU-REDMG102-AUR-COM;nubia;Red Magic 10 Pro+;Auricular de llamada;Compatible;2,65;;;6
+NU-REDMG102-FLX-COM;nubia;Red Magic 10 Pro+;Flex de encendido y volumen;Compatible;2,79;;;6
+NU-REDMG102-SIM-COM;nubia;Red Magic 10 Pro+;Bandeja SIM;Compatible;2,55;;;6
+NU-REDMG10S-PAN-COM;nubia;Red Magic 10S Pro;Pantalla;Compatible;17,15;16,64;16,12;6
+NU-REDMG10S-BAT-COM;nubia;Red Magic 10S Pro;Batería;Compatible;9,40;;;6
+NU-REDMG10S-CON-COM;nubia;Red Magic 10S Pro;Conector de carga;Compatible;5,05;;;6
+NU-REDMG10S-TAP-COM;nubia;Red Magic 10S Pro;Tapa trasera;Compatible;6,20;;;6
+NU-REDMG10S-CTR-COM;nubia;Red Magic 10S Pro;Cámara trasera;Compatible;8,65;;;6
+NU-REDMG10S-CFR-COM;nubia;Red Magic 10S Pro;Cámara frontal;Compatible;5,35;;;6
+NU-REDMG10S-LEN-COM;nubia;Red Magic 10S Pro;Lente de cámara;Compatible;2,30;;;6
+NU-REDMG10S-ALT-COM;nubia;Red Magic 10S Pro;Altavoz;Compatible;3,60;;;6
+NU-REDMG10S-AUR-COM;nubia;Red Magic 10S Pro;Auricular de llamada;Compatible;2,65;;;6
+NU-REDMG10S-FLX-COM;nubia;Red Magic 10S Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+NU-REDMG10S-SIM-COM;nubia;Red Magic 10S Pro;Bandeja SIM;Compatible;2,55;;;6
+NU-REDMG103-PAN-COM;nubia;Red Magic 10S Pro+;Pantalla;Compatible;17,15;16,64;16,12;6
+NU-REDMG103-BAT-COM;nubia;Red Magic 10S Pro+;Batería;Compatible;9,40;;;6
+NU-REDMG103-CON-COM;nubia;Red Magic 10S Pro+;Conector de carga;Compatible;5,05;;;6
+NU-REDMG103-TAP-COM;nubia;Red Magic 10S Pro+;Tapa trasera;Compatible;6,20;;;6
+NU-REDMG103-CTR-COM;nubia;Red Magic 10S Pro+;Cámara trasera;Compatible;8,65;;;6
+NU-REDMG103-CFR-COM;nubia;Red Magic 10S Pro+;Cámara frontal;Compatible;5,35;;;6
+NU-REDMG103-LEN-COM;nubia;Red Magic 10S Pro+;Lente de cámara;Compatible;2,30;;;6
+NU-REDMG103-ALT-COM;nubia;Red Magic 10S Pro+;Altavoz;Compatible;3,60;;;6
+NU-REDMG103-AUR-COM;nubia;Red Magic 10S Pro+;Auricular de llamada;Compatible;2,65;;;6
+NU-REDMG103-FLX-COM;nubia;Red Magic 10S Pro+;Flex de encendido y volumen;Compatible;2,79;;;6
+NU-REDMG103-SIM-COM;nubia;Red Magic 10S Pro+;Bandeja SIM;Compatible;2,55;;;6
+NU-Z70U-PAN-COM;nubia;Z70 Ultra;Pantalla;Compatible;18,85;18,28;17,72;6
+NU-Z70U-BAT-COM;nubia;Z70 Ultra;Batería;Compatible;9,40;;;6
+NU-Z70U-CON-COM;nubia;Z70 Ultra;Conector de carga;Compatible;5,05;;;6
+NU-Z70U-TAP-COM;nubia;Z70 Ultra;Tapa trasera;Compatible;6,20;;;6
+NU-Z70U-CTR-COM;nubia;Z70 Ultra;Cámara trasera;Compatible;8,65;;;6
+NU-Z70U-CFR-COM;nubia;Z70 Ultra;Cámara frontal;Compatible;5,35;;;6
+NU-Z70U-LEN-COM;nubia;Z70 Ultra;Lente de cámara;Compatible;2,30;;;6
+NU-Z70U-ALT-COM;nubia;Z70 Ultra;Altavoz;Compatible;3,60;;;6
+NU-Z70U-AUR-COM;nubia;Z70 Ultra;Auricular de llamada;Compatible;2,65;;;6
+NU-Z70U-FLX-COM;nubia;Z70 Ultra;Flex de encendido y volumen;Compatible;2,79;;;6
+NU-Z70U-SIM-COM;nubia;Z70 Ultra;Bandeja SIM;Compatible;2,55;;;6
+NU-Z60ULV-PAN-COM;nubia;Z60 Ultra Leading Version;Pantalla;Compatible;18,85;18,28;17,72;6
+NU-Z60ULV-BAT-COM;nubia;Z60 Ultra Leading Version;Batería;Compatible;9,40;;;6
+NU-Z60ULV-CON-COM;nubia;Z60 Ultra Leading Version;Conector de carga;Compatible;5,05;;;6
+NU-Z60ULV-TAP-COM;nubia;Z60 Ultra Leading Version;Tapa trasera;Compatible;6,20;;;6
+NU-Z60ULV-CTR-COM;nubia;Z60 Ultra Leading Version;Cámara trasera;Compatible;8,65;;;6
+NU-Z60ULV-CFR-COM;nubia;Z60 Ultra Leading Version;Cámara frontal;Compatible;5,35;;;6
+NU-Z60ULV-LEN-COM;nubia;Z60 Ultra Leading Version;Lente de cámara;Compatible;2,30;;;6
+NU-Z60ULV-ALT-COM;nubia;Z60 Ultra Leading Version;Altavoz;Compatible;3,60;;;6
+NU-Z60ULV-AUR-COM;nubia;Z60 Ultra Leading Version;Auricular de llamada;Compatible;2,65;;;6
+NU-Z60ULV-FLX-COM;nubia;Z60 Ultra Leading Version;Flex de encendido y volumen;Compatible;2,79;;;6
+NU-Z60ULV-SIM-COM;nubia;Z60 Ultra Leading Version;Bandeja SIM;Compatible;2,55;;;6
+NU-Z60SP-PAN-COM;nubia;Z60S Pro;Pantalla;Compatible;17,15;16,64;16,12;6
+NU-Z60SP-BAT-COM;nubia;Z60S Pro;Batería;Compatible;9,40;;;6
+NU-Z60SP-CON-COM;nubia;Z60S Pro;Conector de carga;Compatible;5,05;;;6
+NU-Z60SP-TAP-COM;nubia;Z60S Pro;Tapa trasera;Compatible;6,20;;;6
+NU-Z60SP-CTR-COM;nubia;Z60S Pro;Cámara trasera;Compatible;8,65;;;6
+NU-Z60SP-CFR-COM;nubia;Z60S Pro;Cámara frontal;Compatible;5,35;;;6
+NU-Z60SP-LEN-COM;nubia;Z60S Pro;Lente de cámara;Compatible;2,30;;;6
+NU-Z60SP-ALT-COM;nubia;Z60S Pro;Altavoz;Compatible;3,60;;;6
+NU-Z60SP-AUR-COM;nubia;Z60S Pro;Auricular de llamada;Compatible;2,65;;;6
+NU-Z60SP-FLX-COM;nubia;Z60S Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+NU-Z60SP-SIM-COM;nubia;Z60S Pro;Bandeja SIM;Compatible;2,55;;;6
+NU-M-PAN-COM;nubia;Music;Pantalla;Compatible;17,15;16,64;16,12;6
+NU-M-BAT-COM;nubia;Music;Batería;Compatible;9,40;;;6
+NU-M-CON-COM;nubia;Music;Conector de carga;Compatible;5,05;;;6
+NU-M-TAP-COM;nubia;Music;Tapa trasera;Compatible;6,20;;;6
+NU-M-CTR-COM;nubia;Music;Cámara trasera;Compatible;8,65;;;6
+NU-M-CFR-COM;nubia;Music;Cámara frontal;Compatible;5,35;;;6
+NU-M-LEN-COM;nubia;Music;Lente de cámara;Compatible;2,30;;;6
+NU-M-ALT-COM;nubia;Music;Altavoz;Compatible;3,60;;;6
+NU-M-AUR-COM;nubia;Music;Auricular de llamada;Compatible;2,65;;;6
+NU-M-FLX-COM;nubia;Music;Flex de encendido y volumen;Compatible;2,79;;;6
+NU-M-SIM-COM;nubia;Music;Bandeja SIM;Compatible;2,55;;;6
+NU-FL-PAN-COM;nubia;Flip;Pantalla;Compatible;62,25;60,38;58,51;6
+NU-FL-BAT-COM;nubia;Flip;Batería;Compatible;9,65;;;6
+NU-FL-CON-COM;nubia;Flip;Conector de carga;Compatible;4,65;;;6
+NU-FL-TAP-COM;nubia;Flip;Tapa trasera;Compatible;5,75;;;6
+NU-FL-CTR-COM;nubia;Flip;Cámara trasera;Compatible;7,80;;;6
+NU-FL-CFR-COM;nubia;Flip;Cámara frontal;Compatible;5,05;;;6
+NU-FL-LEN-COM;nubia;Flip;Lente de cámara;Compatible;2,19;;;6
+NU-FL-ALT-COM;nubia;Flip;Altavoz;Compatible;3,35;;;6
+NU-FL-AUR-COM;nubia;Flip;Auricular de llamada;Compatible;2,45;;;6
+NU-FL-FLX-COM;nubia;Flip;Flex de encendido y volumen;Compatible;2,55;;;6
+NU-FL-SIM-COM;nubia;Flip;Bandeja SIM;Compatible;2,45;;;6
+NU-F-PAN-COM;nubia;Focus;Pantalla;Compatible;17,15;16,64;16,12;6
+NU-F-BAT-COM;nubia;Focus;Batería;Compatible;9,40;;;6
+NU-F-CON-COM;nubia;Focus;Conector de carga;Compatible;5,05;;;6
+NU-F-TAP-COM;nubia;Focus;Tapa trasera;Compatible;6,20;;;6
+NU-F-CTR-COM;nubia;Focus;Cámara trasera;Compatible;8,65;;;6
+NU-F-CFR-COM;nubia;Focus;Cámara frontal;Compatible;5,35;;;6
+NU-F-LEN-COM;nubia;Focus;Lente de cámara;Compatible;2,30;;;6
+NU-F-ALT-COM;nubia;Focus;Altavoz;Compatible;3,60;;;6
+NU-F-AUR-COM;nubia;Focus;Auricular de llamada;Compatible;2,65;;;6
+NU-F-FLX-COM;nubia;Focus;Flex de encendido y volumen;Compatible;2,79;;;6
+NU-F-SIM-COM;nubia;Focus;Bandeja SIM;Compatible;2,55;;;6
+NU-FP-PAN-COM;nubia;Focus Pro;Pantalla;Compatible;17,15;16,64;16,12;6
+NU-FP-BAT-COM;nubia;Focus Pro;Batería;Compatible;9,40;;;6
+NU-FP-CON-COM;nubia;Focus Pro;Conector de carga;Compatible;5,05;;;6
+NU-FP-TAP-COM;nubia;Focus Pro;Tapa trasera;Compatible;6,20;;;6
+NU-FP-CTR-COM;nubia;Focus Pro;Cámara trasera;Compatible;8,65;;;6
+NU-FP-CFR-COM;nubia;Focus Pro;Cámara frontal;Compatible;5,35;;;6
+NU-FP-LEN-COM;nubia;Focus Pro;Lente de cámara;Compatible;2,30;;;6
+NU-FP-ALT-COM;nubia;Focus Pro;Altavoz;Compatible;3,60;;;6
+NU-FP-AUR-COM;nubia;Focus Pro;Auricular de llamada;Compatible;2,65;;;6
+NU-FP-FLX-COM;nubia;Focus Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+NU-FP-SIM-COM;nubia;Focus Pro;Bandeja SIM;Compatible;2,55;;;6
+NU-NEO2-PAN-COM;nubia;Neo 2;Pantalla;Compatible;17,15;16,64;16,12;6
+NU-NEO2-BAT-COM;nubia;Neo 2;Batería;Compatible;9,40;;;6
+NU-NEO2-CON-COM;nubia;Neo 2;Conector de carga;Compatible;5,05;;;6
+NU-NEO2-TAP-COM;nubia;Neo 2;Tapa trasera;Compatible;6,20;;;6
+NU-NEO2-CTR-COM;nubia;Neo 2;Cámara trasera;Compatible;8,65;;;6
+NU-NEO2-CFR-COM;nubia;Neo 2;Cámara frontal;Compatible;5,35;;;6
+NU-NEO2-LEN-COM;nubia;Neo 2;Lente de cámara;Compatible;2,30;;;6
+NU-NEO2-ALT-COM;nubia;Neo 2;Altavoz;Compatible;3,60;;;6
+NU-NEO2-AUR-COM;nubia;Neo 2;Auricular de llamada;Compatible;2,65;;;6
+NU-NEO2-FLX-COM;nubia;Neo 2;Flex de encendido y volumen;Compatible;2,79;;;6
+NU-NEO2-SIM-COM;nubia;Neo 2;Bandeja SIM;Compatible;2,55;;;6
+NU-Z60U-PAN-COM;nubia;Z60 Ultra;Pantalla;Compatible;18,85;18,28;17,72;6
+NU-Z60U-BAT-COM;nubia;Z60 Ultra;Batería;Compatible;9,40;;;6
+NU-Z60U-CON-COM;nubia;Z60 Ultra;Conector de carga;Compatible;5,05;;;6
+NU-Z60U-TAP-COM;nubia;Z60 Ultra;Tapa trasera;Compatible;6,20;;;6
+NU-Z60U-CTR-COM;nubia;Z60 Ultra;Cámara trasera;Compatible;8,65;;;6
+NU-Z60U-CFR-COM;nubia;Z60 Ultra;Cámara frontal;Compatible;5,35;;;6
+NU-Z60U-LEN-COM;nubia;Z60 Ultra;Lente de cámara;Compatible;2,30;;;6
+NU-Z60U-ALT-COM;nubia;Z60 Ultra;Altavoz;Compatible;3,60;;;6
+NU-Z60U-AUR-COM;nubia;Z60 Ultra;Auricular de llamada;Compatible;2,65;;;6
+NU-Z60U-FLX-COM;nubia;Z60 Ultra;Flex de encendido y volumen;Compatible;2,79;;;6
+NU-Z60U-SIM-COM;nubia;Z60 Ultra;Bandeja SIM;Compatible;2,55;;;6
+NU-REDMG9P-PAN-COM;nubia;Red Magic 9 Pro;Pantalla;Compatible;17,15;16,64;16,12;6
+NU-REDMG9P-BAT-COM;nubia;Red Magic 9 Pro;Batería;Compatible;9,40;;;6
+NU-REDMG9P-CON-COM;nubia;Red Magic 9 Pro;Conector de carga;Compatible;5,05;;;6
+NU-REDMG9P-TAP-COM;nubia;Red Magic 9 Pro;Tapa trasera;Compatible;6,20;;;6
+NU-REDMG9P-CTR-COM;nubia;Red Magic 9 Pro;Cámara trasera;Compatible;8,65;;;6
+NU-REDMG9P-CFR-COM;nubia;Red Magic 9 Pro;Cámara frontal;Compatible;5,35;;;6
+NU-REDMG9P-LEN-COM;nubia;Red Magic 9 Pro;Lente de cámara;Compatible;2,30;;;6
+NU-REDMG9P-ALT-COM;nubia;Red Magic 9 Pro;Altavoz;Compatible;3,60;;;6
+NU-REDMG9P-AUR-COM;nubia;Red Magic 9 Pro;Auricular de llamada;Compatible;2,65;;;6
+NU-REDMG9P-FLX-COM;nubia;Red Magic 9 Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+NU-REDMG9P-SIM-COM;nubia;Red Magic 9 Pro;Bandeja SIM;Compatible;2,55;;;6
+NU-REDMG9PP-PAN-COM;nubia;Red Magic 9 Pro+;Pantalla;Compatible;17,15;16,64;16,12;6
+NU-REDMG9PP-BAT-COM;nubia;Red Magic 9 Pro+;Batería;Compatible;9,40;;;6
+NU-REDMG9PP-CON-COM;nubia;Red Magic 9 Pro+;Conector de carga;Compatible;5,05;;;6
+NU-REDMG9PP-TAP-COM;nubia;Red Magic 9 Pro+;Tapa trasera;Compatible;6,20;;;6
+NU-REDMG9PP-CTR-COM;nubia;Red Magic 9 Pro+;Cámara trasera;Compatible;8,65;;;6
+NU-REDMG9PP-CFR-COM;nubia;Red Magic 9 Pro+;Cámara frontal;Compatible;5,35;;;6
+NU-REDMG9PP-LEN-COM;nubia;Red Magic 9 Pro+;Lente de cámara;Compatible;2,30;;;6
+NU-REDMG9PP-ALT-COM;nubia;Red Magic 9 Pro+;Altavoz;Compatible;3,60;;;6
+NU-REDMG9PP-AUR-COM;nubia;Red Magic 9 Pro+;Auricular de llamada;Compatible;2,65;;;6
+NU-REDMG9PP-FLX-COM;nubia;Red Magic 9 Pro+;Flex de encendido y volumen;Compatible;2,79;;;6
+NU-REDMG9PP-SIM-COM;nubia;Red Magic 9 Pro+;Bandeja SIM;Compatible;2,55;;;6
+NU-NEO-PAN-COM;nubia;Neo;Pantalla;Compatible;17,15;16,64;16,12;6
+NU-NEO-BAT-COM;nubia;Neo;Batería;Compatible;9,40;;;6
+NU-NEO-CON-COM;nubia;Neo;Conector de carga;Compatible;5,05;;;6
+NU-NEO-TAP-COM;nubia;Neo;Tapa trasera;Compatible;6,20;;;6
+NU-NEO-CTR-COM;nubia;Neo;Cámara trasera;Compatible;8,65;;;6
+NU-NEO-CFR-COM;nubia;Neo;Cámara frontal;Compatible;5,35;;;6
+NU-NEO-LEN-COM;nubia;Neo;Lente de cámara;Compatible;2,30;;;6
+NU-NEO-ALT-COM;nubia;Neo;Altavoz;Compatible;3,60;;;6
+NU-NEO-AUR-COM;nubia;Neo;Auricular de llamada;Compatible;2,65;;;6
+NU-NEO-FLX-COM;nubia;Neo;Flex de encendido y volumen;Compatible;2,79;;;6
+NU-NEO-SIM-COM;nubia;Neo;Bandeja SIM;Compatible;2,55;;;6
+NU-REDMG8SP-PAN-COM;nubia;Red Magic 8s Pro;Pantalla;Compatible;17,15;16,64;16,12;6
+NU-REDMG8SP-BAT-COM;nubia;Red Magic 8s Pro;Batería;Compatible;9,40;;;6
+NU-REDMG8SP-CON-COM;nubia;Red Magic 8s Pro;Conector de carga;Compatible;5,05;;;6
+NU-REDMG8SP-TAP-COM;nubia;Red Magic 8s Pro;Tapa trasera;Compatible;6,20;;;6
+NU-REDMG8SP-CTR-COM;nubia;Red Magic 8s Pro;Cámara trasera;Compatible;8,65;;;6
+NU-REDMG8SP-CFR-COM;nubia;Red Magic 8s Pro;Cámara frontal;Compatible;5,35;;;6
+NU-REDMG8SP-LEN-COM;nubia;Red Magic 8s Pro;Lente de cámara;Compatible;2,30;;;6
+NU-REDMG8SP-ALT-COM;nubia;Red Magic 8s Pro;Altavoz;Compatible;3,60;;;6
+NU-REDMG8SP-AUR-COM;nubia;Red Magic 8s Pro;Auricular de llamada;Compatible;2,65;;;6
+NU-REDMG8SP-FLX-COM;nubia;Red Magic 8s Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+NU-REDMG8SP-SIM-COM;nubia;Red Magic 8s Pro;Bandeja SIM;Compatible;2,55;;;6
+NU-REDMAGIC-PAN-COM;nubia;Red Magic 8s Pro+;Pantalla;Compatible;17,15;16,64;16,12;6
+NU-REDMAGIC-BAT-COM;nubia;Red Magic 8s Pro+;Batería;Compatible;9,40;;;6
+NU-REDMAGIC-CON-COM;nubia;Red Magic 8s Pro+;Conector de carga;Compatible;5,05;;;6
+NU-REDMAGIC-TAP-COM;nubia;Red Magic 8s Pro+;Tapa trasera;Compatible;6,20;;;6
+NU-REDMAGIC-CTR-COM;nubia;Red Magic 8s Pro+;Cámara trasera;Compatible;8,65;;;6
+NU-REDMAGIC-CFR-COM;nubia;Red Magic 8s Pro+;Cámara frontal;Compatible;5,35;;;6
+NU-REDMAGIC-LEN-COM;nubia;Red Magic 8s Pro+;Lente de cámara;Compatible;2,30;;;6
+NU-REDMAGIC-ALT-COM;nubia;Red Magic 8s Pro+;Altavoz;Compatible;3,60;;;6
+NU-REDMAGIC-AUR-COM;nubia;Red Magic 8s Pro+;Auricular de llamada;Compatible;2,65;;;6
+NU-REDMAGIC-FLX-COM;nubia;Red Magic 8s Pro+;Flex de encendido y volumen;Compatible;2,79;;;6
+NU-REDMAGIC-SIM-COM;nubia;Red Magic 8s Pro+;Bandeja SIM;Compatible;2,55;;;6
+NU-Z50SP-PAN-COM;nubia;Z50S Pro;Pantalla;Compatible;17,15;16,64;16,12;6
+NU-Z50SP-BAT-COM;nubia;Z50S Pro;Batería;Compatible;9,40;;;6
+NU-Z50SP-CON-COM;nubia;Z50S Pro;Conector de carga;Compatible;5,05;;;6
+NU-Z50SP-TAP-COM;nubia;Z50S Pro;Tapa trasera;Compatible;6,20;;;6
+NU-Z50SP-CTR-COM;nubia;Z50S Pro;Cámara trasera;Compatible;8,65;;;6
+NU-Z50SP-CFR-COM;nubia;Z50S Pro;Cámara frontal;Compatible;5,35;;;6
+NU-Z50SP-LEN-COM;nubia;Z50S Pro;Lente de cámara;Compatible;2,30;;;6
+NU-Z50SP-ALT-COM;nubia;Z50S Pro;Altavoz;Compatible;3,60;;;6
+NU-Z50SP-AUR-COM;nubia;Z50S Pro;Auricular de llamada;Compatible;2,65;;;6
+NU-Z50SP-FLX-COM;nubia;Z50S Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+NU-Z50SP-SIM-COM;nubia;Z50S Pro;Bandeja SIM;Compatible;2,55;;;6
+NU-Z50U-PAN-COM;nubia;Z50 Ultra;Pantalla;Compatible;18,85;18,28;17,72;6
+NU-Z50U-BAT-COM;nubia;Z50 Ultra;Batería;Compatible;9,40;;;6
+NU-Z50U-CON-COM;nubia;Z50 Ultra;Conector de carga;Compatible;5,05;;;6
+NU-Z50U-TAP-COM;nubia;Z50 Ultra;Tapa trasera;Compatible;6,20;;;6
+NU-Z50U-CTR-COM;nubia;Z50 Ultra;Cámara trasera;Compatible;8,65;;;6
+NU-Z50U-CFR-COM;nubia;Z50 Ultra;Cámara frontal;Compatible;5,35;;;6
+NU-Z50U-LEN-COM;nubia;Z50 Ultra;Lente de cámara;Compatible;2,30;;;6
+NU-Z50U-ALT-COM;nubia;Z50 Ultra;Altavoz;Compatible;3,60;;;6
+NU-Z50U-AUR-COM;nubia;Z50 Ultra;Auricular de llamada;Compatible;2,65;;;6
+NU-Z50U-FLX-COM;nubia;Z50 Ultra;Flex de encendido y volumen;Compatible;2,79;;;6
+NU-Z50U-SIM-COM;nubia;Z50 Ultra;Bandeja SIM;Compatible;2,55;;;6
+NU-REDMG8P-PAN-COM;nubia;Red Magic 8 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+NU-REDMG8P-BAT-COM;nubia;Red Magic 8 Pro;Batería;Compatible;8,25;;;6
+NU-REDMG8P-CON-COM;nubia;Red Magic 8 Pro;Conector de carga;Compatible;4,40;;;6
+NU-REDMG8P-TAP-COM;nubia;Red Magic 8 Pro;Tapa trasera;Compatible;5,55;;;6
+NU-REDMG8P-CTR-COM;nubia;Red Magic 8 Pro;Cámara trasera;Compatible;6,19;;;6
+NU-REDMG8P-CFR-COM;nubia;Red Magic 8 Pro;Cámara frontal;Compatible;3,65;;;6
+NU-REDMG8P-LEN-COM;nubia;Red Magic 8 Pro;Lente de cámara;Compatible;2,20;;;6
+NU-REDMG8P-ALT-COM;nubia;Red Magic 8 Pro;Altavoz;Compatible;3,35;;;6
+NU-REDMG8P-AUR-COM;nubia;Red Magic 8 Pro;Auricular de llamada;Compatible;2,40;;;6
+NU-REDMG8P-FLX-COM;nubia;Red Magic 8 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+NU-REDMG8P-SIM-COM;nubia;Red Magic 8 Pro;Bandeja SIM;Compatible;2,60;;;6
+NU-REDMG8PP-PAN-COM;nubia;Red Magic 8 Pro+;Pantalla;Compatible;16,10;15,62;15,13;6
+NU-REDMG8PP-BAT-COM;nubia;Red Magic 8 Pro+;Batería;Compatible;8,25;;;6
+NU-REDMG8PP-CON-COM;nubia;Red Magic 8 Pro+;Conector de carga;Compatible;4,40;;;6
+NU-REDMG8PP-TAP-COM;nubia;Red Magic 8 Pro+;Tapa trasera;Compatible;5,55;;;6
+NU-REDMG8PP-CTR-COM;nubia;Red Magic 8 Pro+;Cámara trasera;Compatible;6,19;;;6
+NU-REDMG8PP-CFR-COM;nubia;Red Magic 8 Pro+;Cámara frontal;Compatible;3,65;;;6
+NU-REDMG8PP-LEN-COM;nubia;Red Magic 8 Pro+;Lente de cámara;Compatible;2,20;;;6
+NU-REDMG8PP-ALT-COM;nubia;Red Magic 8 Pro+;Altavoz;Compatible;3,35;;;6
+NU-REDMG8PP-AUR-COM;nubia;Red Magic 8 Pro+;Auricular de llamada;Compatible;2,40;;;6
+NU-REDMG8PP-FLX-COM;nubia;Red Magic 8 Pro+;Flex de encendido y volumen;Compatible;2,29;;;6
+NU-REDMG8PP-SIM-COM;nubia;Red Magic 8 Pro+;Bandeja SIM;Compatible;2,60;;;6
+NU-Z50-PAN-COM;nubia;Z50;Pantalla;Compatible;16,10;15,62;15,13;6
+NU-Z50-BAT-COM;nubia;Z50;Batería;Compatible;8,25;;;6
+NU-Z50-CON-COM;nubia;Z50;Conector de carga;Compatible;4,40;;;6
+NU-Z50-TAP-COM;nubia;Z50;Tapa trasera;Compatible;5,55;;;6
+NU-Z50-CTR-COM;nubia;Z50;Cámara trasera;Compatible;6,19;;;6
+NU-Z50-CFR-COM;nubia;Z50;Cámara frontal;Compatible;3,65;;;6
+NU-Z50-LEN-COM;nubia;Z50;Lente de cámara;Compatible;2,20;;;6
+NU-Z50-ALT-COM;nubia;Z50;Altavoz;Compatible;3,35;;;6
+NU-Z50-AUR-COM;nubia;Z50;Auricular de llamada;Compatible;2,40;;;6
+NU-Z50-FLX-COM;nubia;Z50;Flex de encendido y volumen;Compatible;2,29;;;6
+NU-Z50-SIM-COM;nubia;Z50;Bandeja SIM;Compatible;2,60;;;6
+NU-REDMG7S-PAN-COM;nubia;Red Magic 7S;Pantalla;Compatible;16,10;15,62;15,13;6
+NU-REDMG7S-BAT-COM;nubia;Red Magic 7S;Batería;Compatible;8,25;;;6
+NU-REDMG7S-CON-COM;nubia;Red Magic 7S;Conector de carga;Compatible;4,40;;;6
+NU-REDMG7S-TAP-COM;nubia;Red Magic 7S;Tapa trasera;Compatible;5,55;;;6
+NU-REDMG7S-CTR-COM;nubia;Red Magic 7S;Cámara trasera;Compatible;6,19;;;6
+NU-REDMG7S-CFR-COM;nubia;Red Magic 7S;Cámara frontal;Compatible;3,65;;;6
+NU-REDMG7S-LEN-COM;nubia;Red Magic 7S;Lente de cámara;Compatible;2,20;;;6
+NU-REDMG7S-ALT-COM;nubia;Red Magic 7S;Altavoz;Compatible;3,35;;;6
+NU-REDMG7S-AUR-COM;nubia;Red Magic 7S;Auricular de llamada;Compatible;2,40;;;6
+NU-REDMG7S-FLX-COM;nubia;Red Magic 7S;Flex de encendido y volumen;Compatible;2,29;;;6
+NU-REDMG7S-SIM-COM;nubia;Red Magic 7S;Bandeja SIM;Compatible;2,60;;;6
+NU-REDMG7SP-PAN-COM;nubia;Red Magic 7S Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+NU-REDMG7SP-BAT-COM;nubia;Red Magic 7S Pro;Batería;Compatible;8,25;;;6
+NU-REDMG7SP-CON-COM;nubia;Red Magic 7S Pro;Conector de carga;Compatible;4,40;;;6
+NU-REDMG7SP-TAP-COM;nubia;Red Magic 7S Pro;Tapa trasera;Compatible;5,55;;;6
+NU-REDMG7SP-CTR-COM;nubia;Red Magic 7S Pro;Cámara trasera;Compatible;6,19;;;6
+NU-REDMG7SP-CFR-COM;nubia;Red Magic 7S Pro;Cámara frontal;Compatible;3,65;;;6
+NU-REDMG7SP-LEN-COM;nubia;Red Magic 7S Pro;Lente de cámara;Compatible;2,20;;;6
+NU-REDMG7SP-ALT-COM;nubia;Red Magic 7S Pro;Altavoz;Compatible;3,35;;;6
+NU-REDMG7SP-AUR-COM;nubia;Red Magic 7S Pro;Auricular de llamada;Compatible;2,40;;;6
+NU-REDMG7SP-FLX-COM;nubia;Red Magic 7S Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+NU-REDMG7SP-SIM-COM;nubia;Red Magic 7S Pro;Bandeja SIM;Compatible;2,60;;;6
+NU-Z40SP-PAN-COM;nubia;Z40S Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+NU-Z40SP-BAT-COM;nubia;Z40S Pro;Batería;Compatible;8,25;;;6
+NU-Z40SP-CON-COM;nubia;Z40S Pro;Conector de carga;Compatible;4,40;;;6
+NU-Z40SP-TAP-COM;nubia;Z40S Pro;Tapa trasera;Compatible;5,55;;;6
+NU-Z40SP-CTR-COM;nubia;Z40S Pro;Cámara trasera;Compatible;6,19;;;6
+NU-Z40SP-CFR-COM;nubia;Z40S Pro;Cámara frontal;Compatible;3,65;;;6
+NU-Z40SP-LEN-COM;nubia;Z40S Pro;Lente de cámara;Compatible;2,20;;;6
+NU-Z40SP-ALT-COM;nubia;Z40S Pro;Altavoz;Compatible;3,35;;;6
+NU-Z40SP-AUR-COM;nubia;Z40S Pro;Auricular de llamada;Compatible;2,40;;;6
+NU-Z40SP-FLX-COM;nubia;Z40S Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+NU-Z40SP-SIM-COM;nubia;Z40S Pro;Bandeja SIM;Compatible;2,60;;;6
+NU-Z40P-PAN-COM;nubia;Z40 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+NU-Z40P-BAT-COM;nubia;Z40 Pro;Batería;Compatible;8,25;;;6
+NU-Z40P-CON-COM;nubia;Z40 Pro;Conector de carga;Compatible;4,40;;;6
+NU-Z40P-TAP-COM;nubia;Z40 Pro;Tapa trasera;Compatible;5,55;;;6
+NU-Z40P-CTR-COM;nubia;Z40 Pro;Cámara trasera;Compatible;6,19;;;6
+NU-Z40P-CFR-COM;nubia;Z40 Pro;Cámara frontal;Compatible;3,65;;;6
+NU-Z40P-LEN-COM;nubia;Z40 Pro;Lente de cámara;Compatible;2,20;;;6
+NU-Z40P-ALT-COM;nubia;Z40 Pro;Altavoz;Compatible;3,35;;;6
+NU-Z40P-AUR-COM;nubia;Z40 Pro;Auricular de llamada;Compatible;2,40;;;6
+NU-Z40P-FLX-COM;nubia;Z40 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+NU-Z40P-SIM-COM;nubia;Z40 Pro;Bandeja SIM;Compatible;2,60;;;6
+NU-REDMG7-PAN-COM;nubia;Red Magic 7;Pantalla;Compatible;16,10;15,62;15,13;6
+NU-REDMG7-BAT-COM;nubia;Red Magic 7;Batería;Compatible;8,25;;;6
+NU-REDMG7-CON-COM;nubia;Red Magic 7;Conector de carga;Compatible;4,40;;;6
+NU-REDMG7-TAP-COM;nubia;Red Magic 7;Tapa trasera;Compatible;5,55;;;6
+NU-REDMG7-CTR-COM;nubia;Red Magic 7;Cámara trasera;Compatible;6,19;;;6
+NU-REDMG7-CFR-COM;nubia;Red Magic 7;Cámara frontal;Compatible;3,65;;;6
+NU-REDMG7-LEN-COM;nubia;Red Magic 7;Lente de cámara;Compatible;2,20;;;6
+NU-REDMG7-ALT-COM;nubia;Red Magic 7;Altavoz;Compatible;3,35;;;6
+NU-REDMG7-AUR-COM;nubia;Red Magic 7;Auricular de llamada;Compatible;2,40;;;6
+NU-REDMG7-FLX-COM;nubia;Red Magic 7;Flex de encendido y volumen;Compatible;2,29;;;6
+NU-REDMG7-SIM-COM;nubia;Red Magic 7;Bandeja SIM;Compatible;2,60;;;6
+NU-REDMG7P-PAN-COM;nubia;Red Magic 7 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+NU-REDMG7P-BAT-COM;nubia;Red Magic 7 Pro;Batería;Compatible;8,25;;;6
+NU-REDMG7P-CON-COM;nubia;Red Magic 7 Pro;Conector de carga;Compatible;4,40;;;6
+NU-REDMG7P-TAP-COM;nubia;Red Magic 7 Pro;Tapa trasera;Compatible;5,55;;;6
+NU-REDMG7P-CTR-COM;nubia;Red Magic 7 Pro;Cámara trasera;Compatible;6,19;;;6
+NU-REDMG7P-CFR-COM;nubia;Red Magic 7 Pro;Cámara frontal;Compatible;3,65;;;6
+NU-REDMG7P-LEN-COM;nubia;Red Magic 7 Pro;Lente de cámara;Compatible;2,20;;;6
+NU-REDMG7P-ALT-COM;nubia;Red Magic 7 Pro;Altavoz;Compatible;3,35;;;6
+NU-REDMG7P-AUR-COM;nubia;Red Magic 7 Pro;Auricular de llamada;Compatible;2,40;;;6
+NU-REDMG7P-FLX-COM;nubia;Red Magic 7 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+NU-REDMG7P-SIM-COM;nubia;Red Magic 7 Pro;Bandeja SIM;Compatible;2,60;;;6
+NU-REDMG6R-PAN-COM;nubia;Red Magic 6R;Pantalla;Compatible;16,10;15,62;15,13;6
+NU-REDMG6R-BAT-COM;nubia;Red Magic 6R;Batería;Compatible;8,25;;;6
+NU-REDMG6R-CON-COM;nubia;Red Magic 6R;Conector de carga;Compatible;4,40;;;6
+NU-REDMG6R-TAP-COM;nubia;Red Magic 6R;Tapa trasera;Compatible;5,55;;;6
+NU-REDMG6R-CTR-COM;nubia;Red Magic 6R;Cámara trasera;Compatible;6,19;;;6
+NU-REDMG6R-CFR-COM;nubia;Red Magic 6R;Cámara frontal;Compatible;3,65;;;6
+NU-REDMG6R-LEN-COM;nubia;Red Magic 6R;Lente de cámara;Compatible;2,20;;;6
+NU-REDMG6R-ALT-COM;nubia;Red Magic 6R;Altavoz;Compatible;3,35;;;6
+NU-REDMG6R-AUR-COM;nubia;Red Magic 6R;Auricular de llamada;Compatible;2,40;;;6
+NU-REDMG6R-FLX-COM;nubia;Red Magic 6R;Flex de encendido y volumen;Compatible;2,29;;;6
+NU-REDMG6R-SIM-COM;nubia;Red Magic 6R;Bandeja SIM;Compatible;2,60;;;6
+NU-Z30P-PAN-COM;nubia;Z30 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+NU-Z30P-BAT-COM;nubia;Z30 Pro;Batería;Compatible;8,25;;;6
+NU-Z30P-CON-COM;nubia;Z30 Pro;Conector de carga;Compatible;4,40;;;6
+NU-Z30P-TAP-COM;nubia;Z30 Pro;Tapa trasera;Compatible;5,55;;;6
+NU-Z30P-CTR-COM;nubia;Z30 Pro;Cámara trasera;Compatible;6,19;;;6
+NU-Z30P-CFR-COM;nubia;Z30 Pro;Cámara frontal;Compatible;3,65;;;6
+NU-Z30P-LEN-COM;nubia;Z30 Pro;Lente de cámara;Compatible;2,20;;;6
+NU-Z30P-ALT-COM;nubia;Z30 Pro;Altavoz;Compatible;3,35;;;6
+NU-Z30P-AUR-COM;nubia;Z30 Pro;Auricular de llamada;Compatible;2,40;;;6
+NU-Z30P-FLX-COM;nubia;Z30 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+NU-Z30P-SIM-COM;nubia;Z30 Pro;Bandeja SIM;Compatible;2,60;;;6
+NU-REDMG6-PAN-COM;nubia;Red Magic 6;Pantalla;Compatible;16,10;15,62;15,13;6
+NU-REDMG6-BAT-COM;nubia;Red Magic 6;Batería;Compatible;8,25;;;6
+NU-REDMG6-CON-COM;nubia;Red Magic 6;Conector de carga;Compatible;4,40;;;6
+NU-REDMG6-TAP-COM;nubia;Red Magic 6;Tapa trasera;Compatible;5,55;;;6
+NU-REDMG6-CTR-COM;nubia;Red Magic 6;Cámara trasera;Compatible;6,19;;;6
+NU-REDMG6-CFR-COM;nubia;Red Magic 6;Cámara frontal;Compatible;3,65;;;6
+NU-REDMG6-LEN-COM;nubia;Red Magic 6;Lente de cámara;Compatible;2,20;;;6
+NU-REDMG6-ALT-COM;nubia;Red Magic 6;Altavoz;Compatible;3,35;;;6
+NU-REDMG6-AUR-COM;nubia;Red Magic 6;Auricular de llamada;Compatible;2,40;;;6
+NU-REDMG6-FLX-COM;nubia;Red Magic 6;Flex de encendido y volumen;Compatible;2,29;;;6
+NU-REDMG6-SIM-COM;nubia;Red Magic 6;Bandeja SIM;Compatible;2,60;;;6
+NU-REDMG6P-PAN-COM;nubia;Red Magic 6 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+NU-REDMG6P-BAT-COM;nubia;Red Magic 6 Pro;Batería;Compatible;8,25;;;6
+NU-REDMG6P-CON-COM;nubia;Red Magic 6 Pro;Conector de carga;Compatible;4,40;;;6
+NU-REDMG6P-TAP-COM;nubia;Red Magic 6 Pro;Tapa trasera;Compatible;5,55;;;6
+NU-REDMG6P-CTR-COM;nubia;Red Magic 6 Pro;Cámara trasera;Compatible;6,19;;;6
+NU-REDMG6P-CFR-COM;nubia;Red Magic 6 Pro;Cámara frontal;Compatible;3,65;;;6
+NU-REDMG6P-LEN-COM;nubia;Red Magic 6 Pro;Lente de cámara;Compatible;2,20;;;6
+NU-REDMG6P-ALT-COM;nubia;Red Magic 6 Pro;Altavoz;Compatible;3,35;;;6
+NU-REDMG6P-AUR-COM;nubia;Red Magic 6 Pro;Auricular de llamada;Compatible;2,40;;;6
+NU-REDMG6P-FLX-COM;nubia;Red Magic 6 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+NU-REDMG6P-SIM-COM;nubia;Red Magic 6 Pro;Bandeja SIM;Compatible;2,60;;;6
+NU-REDMG6S-PAN-COM;nubia;Red Magic 6s;Pantalla;Compatible;16,10;15,62;15,13;6
+NU-REDMG6S-BAT-COM;nubia;Red Magic 6s;Batería;Compatible;8,25;;;6
+NU-REDMG6S-CON-COM;nubia;Red Magic 6s;Conector de carga;Compatible;4,40;;;6
+NU-REDMG6S-TAP-COM;nubia;Red Magic 6s;Tapa trasera;Compatible;5,55;;;6
+NU-REDMG6S-CTR-COM;nubia;Red Magic 6s;Cámara trasera;Compatible;6,19;;;6
+NU-REDMG6S-CFR-COM;nubia;Red Magic 6s;Cámara frontal;Compatible;3,65;;;6
+NU-REDMG6S-LEN-COM;nubia;Red Magic 6s;Lente de cámara;Compatible;2,20;;;6
+NU-REDMG6S-ALT-COM;nubia;Red Magic 6s;Altavoz;Compatible;3,35;;;6
+NU-REDMG6S-AUR-COM;nubia;Red Magic 6s;Auricular de llamada;Compatible;2,40;;;6
+NU-REDMG6S-FLX-COM;nubia;Red Magic 6s;Flex de encendido y volumen;Compatible;2,29;;;6
+NU-REDMG6S-SIM-COM;nubia;Red Magic 6s;Bandeja SIM;Compatible;2,60;;;6
+NU-REDMG6SP-PAN-COM;nubia;Red Magic 6s Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+NU-REDMG6SP-BAT-COM;nubia;Red Magic 6s Pro;Batería;Compatible;8,25;;;6
+NU-REDMG6SP-CON-COM;nubia;Red Magic 6s Pro;Conector de carga;Compatible;4,40;;;6
+NU-REDMG6SP-TAP-COM;nubia;Red Magic 6s Pro;Tapa trasera;Compatible;5,55;;;6
+NU-REDMG6SP-CTR-COM;nubia;Red Magic 6s Pro;Cámara trasera;Compatible;6,19;;;6
+NU-REDMG6SP-CFR-COM;nubia;Red Magic 6s Pro;Cámara frontal;Compatible;3,65;;;6
+NU-REDMG6SP-LEN-COM;nubia;Red Magic 6s Pro;Lente de cámara;Compatible;2,20;;;6
+NU-REDMG6SP-ALT-COM;nubia;Red Magic 6s Pro;Altavoz;Compatible;3,35;;;6
+NU-REDMG6SP-AUR-COM;nubia;Red Magic 6s Pro;Auricular de llamada;Compatible;2,40;;;6
+NU-REDMG6SP-FLX-COM;nubia;Red Magic 6s Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+NU-REDMG6SP-SIM-COM;nubia;Red Magic 6s Pro;Bandeja SIM;Compatible;2,60;;;6
+NU-REDMG5S-PAN-COM;nubia;Red Magic 5S;Pantalla;Compatible;16,10;15,62;15,13;6
+NU-REDMG5S-BAT-COM;nubia;Red Magic 5S;Batería;Compatible;8,25;;;6
+NU-REDMG5S-CON-COM;nubia;Red Magic 5S;Conector de carga;Compatible;4,40;;;6
+NU-REDMG5S-TAP-COM;nubia;Red Magic 5S;Tapa trasera;Compatible;5,55;;;6
+NU-REDMG5S-CTR-COM;nubia;Red Magic 5S;Cámara trasera;Compatible;6,19;;;6
+NU-REDMG5S-CFR-COM;nubia;Red Magic 5S;Cámara frontal;Compatible;3,65;;;6
+NU-REDMG5S-LEN-COM;nubia;Red Magic 5S;Lente de cámara;Compatible;2,20;;;6
+NU-REDMG5S-ALT-COM;nubia;Red Magic 5S;Altavoz;Compatible;3,35;;;6
+NU-REDMG5S-AUR-COM;nubia;Red Magic 5S;Auricular de llamada;Compatible;2,40;;;6
+NU-REDMG5S-FLX-COM;nubia;Red Magic 5S;Flex de encendido y volumen;Compatible;2,29;;;6
+NU-REDMG5S-SIM-COM;nubia;Red Magic 5S;Bandeja SIM;Compatible;2,60;;;6
+NU-PY-PAN-COM;nubia;Play;Pantalla;Compatible;16,10;15,62;15,13;6
+NU-PY-BAT-COM;nubia;Play;Batería;Compatible;8,25;;;6
+NU-PY-CON-COM;nubia;Play;Conector de carga;Compatible;4,40;;;6
+NU-PY-TAP-COM;nubia;Play;Tapa trasera;Compatible;5,55;;;6
+NU-PY-CTR-COM;nubia;Play;Cámara trasera;Compatible;6,19;;;6
+NU-PY-CFR-COM;nubia;Play;Cámara frontal;Compatible;3,65;;;6
+NU-PY-LEN-COM;nubia;Play;Lente de cámara;Compatible;2,20;;;6
+NU-PY-ALT-COM;nubia;Play;Altavoz;Compatible;3,35;;;6
+NU-PY-AUR-COM;nubia;Play;Auricular de llamada;Compatible;2,40;;;6
+NU-PY-FLX-COM;nubia;Play;Flex de encendido y volumen;Compatible;2,29;;;6
+NU-PY-SIM-COM;nubia;Play;Bandeja SIM;Compatible;2,60;;;6
+NU-REDMG5L-PAN-COM;nubia;Red Magic 5G Lite;Pantalla;Compatible;16,10;15,62;15,13;6
+NU-REDMG5L-BAT-COM;nubia;Red Magic 5G Lite;Batería;Compatible;8,25;;;6
+NU-REDMG5L-CON-COM;nubia;Red Magic 5G Lite;Conector de carga;Compatible;4,40;;;6
+NU-REDMG5L-TAP-COM;nubia;Red Magic 5G Lite;Tapa trasera;Compatible;5,55;;;6
+NU-REDMG5L-CTR-COM;nubia;Red Magic 5G Lite;Cámara trasera;Compatible;6,19;;;6
+NU-REDMG5L-CFR-COM;nubia;Red Magic 5G Lite;Cámara frontal;Compatible;3,65;;;6
+NU-REDMG5L-LEN-COM;nubia;Red Magic 5G Lite;Lente de cámara;Compatible;2,20;;;6
+NU-REDMG5L-ALT-COM;nubia;Red Magic 5G Lite;Altavoz;Compatible;3,35;;;6
+NU-REDMG5L-AUR-COM;nubia;Red Magic 5G Lite;Auricular de llamada;Compatible;2,40;;;6
+NU-REDMG5L-FLX-COM;nubia;Red Magic 5G Lite;Flex de encendido y volumen;Compatible;2,29;;;6
+NU-REDMG5L-SIM-COM;nubia;Red Magic 5G Lite;Bandeja SIM;Compatible;2,60;;;6
+NU-REDMG5-PAN-COM;nubia;Red Magic 5G;Pantalla;Compatible;16,10;15,62;15,13;6
+NU-REDMG5-BAT-COM;nubia;Red Magic 5G;Batería;Compatible;8,25;;;6
+NU-REDMG5-CON-COM;nubia;Red Magic 5G;Conector de carga;Compatible;4,40;;;6
+NU-REDMG5-TAP-COM;nubia;Red Magic 5G;Tapa trasera;Compatible;5,55;;;6
+NU-REDMG5-CTR-COM;nubia;Red Magic 5G;Cámara trasera;Compatible;6,19;;;6
+NU-REDMG5-CFR-COM;nubia;Red Magic 5G;Cámara frontal;Compatible;3,65;;;6
+NU-REDMG5-LEN-COM;nubia;Red Magic 5G;Lente de cámara;Compatible;2,20;;;6
+NU-REDMG5-ALT-COM;nubia;Red Magic 5G;Altavoz;Compatible;3,35;;;6
+NU-REDMG5-AUR-COM;nubia;Red Magic 5G;Auricular de llamada;Compatible;2,40;;;6
+NU-REDMG5-FLX-COM;nubia;Red Magic 5G;Flex de encendido y volumen;Compatible;2,29;;;6
+NU-REDMG5-SIM-COM;nubia;Red Magic 5G;Bandeja SIM;Compatible;2,60;;;6
+NU-REDMG3S-PAN-COM;nubia;Red Magic 3s;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-REDMG3S-BAT-COM;nubia;Red Magic 3s;Batería;Compatible;9,65;;;6
+NU-REDMG3S-CON-COM;nubia;Red Magic 3s;Conector de carga;Compatible;4,60;;;6
+NU-REDMG3S-TAP-COM;nubia;Red Magic 3s;Tapa trasera;Compatible;5,40;;;6
+NU-REDMG3S-CTR-COM;nubia;Red Magic 3s;Cámara trasera;Compatible;7,59;;;6
+NU-REDMG3S-CFR-COM;nubia;Red Magic 3s;Cámara frontal;Compatible;4,99;;;6
+NU-REDMG3S-LEN-COM;nubia;Red Magic 3s;Lente de cámara;Compatible;2,19;;;6
+NU-REDMG3S-ALT-COM;nubia;Red Magic 3s;Altavoz;Compatible;3,65;;;6
+NU-REDMG3S-AUR-COM;nubia;Red Magic 3s;Auricular de llamada;Compatible;2,65;;;6
+NU-REDMG3S-FLX-COM;nubia;Red Magic 3s;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-REDMG3S-SIM-COM;nubia;Red Magic 3s;Bandeja SIM;Compatible;2,55;;;6
+NU-Z20-PAN-INC;nubia;Z20;Pantalla;Incell;17,69;17,16;16,63;6
+NU-Z20-BAT-COM;nubia;Z20;Batería;Compatible;9,65;;;6
+NU-Z20-CON-COM;nubia;Z20;Conector de carga;Compatible;4,60;;;6
+NU-Z20-TAP-COM;nubia;Z20;Tapa trasera;Compatible;5,40;;;6
+NU-Z20-CTR-COM;nubia;Z20;Cámara trasera;Compatible;7,59;;;6
+NU-Z20-CFR-COM;nubia;Z20;Cámara frontal;Compatible;4,99;;;6
+NU-Z20-LEN-COM;nubia;Z20;Lente de cámara;Compatible;2,19;;;6
+NU-Z20-ALT-COM;nubia;Z20;Altavoz;Compatible;3,65;;;6
+NU-Z20-AUR-COM;nubia;Z20;Auricular de llamada;Compatible;2,65;;;6
+NU-Z20-FLX-COM;nubia;Z20;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z20-SIM-COM;nubia;Z20;Bandeja SIM;Compatible;2,55;;;6
+NU-REDMG3-PAN-COM;nubia;Red Magic 3;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-REDMG3-BAT-COM;nubia;Red Magic 3;Batería;Compatible;9,65;;;6
+NU-REDMG3-CON-COM;nubia;Red Magic 3;Conector de carga;Compatible;4,60;;;6
+NU-REDMG3-TAP-COM;nubia;Red Magic 3;Tapa trasera;Compatible;5,40;;;6
+NU-REDMG3-CTR-COM;nubia;Red Magic 3;Cámara trasera;Compatible;7,59;;;6
+NU-REDMG3-CFR-COM;nubia;Red Magic 3;Cámara frontal;Compatible;4,99;;;6
+NU-REDMG3-LEN-COM;nubia;Red Magic 3;Lente de cámara;Compatible;2,19;;;6
+NU-REDMG3-ALT-COM;nubia;Red Magic 3;Altavoz;Compatible;3,65;;;6
+NU-REDMG3-AUR-COM;nubia;Red Magic 3;Auricular de llamada;Compatible;2,65;;;6
+NU-REDMG3-FLX-COM;nubia;Red Magic 3;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-REDMG3-SIM-COM;nubia;Red Magic 3;Bandeja SIM;Compatible;2,55;;;6
+NU-REDMGM-PAN-COM;nubia;Red Magic Mars;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-REDMGM-BAT-COM;nubia;Red Magic Mars;Batería;Compatible;9,65;;;6
+NU-REDMGM-CON-COM;nubia;Red Magic Mars;Conector de carga;Compatible;4,60;;;6
+NU-REDMGM-TAP-COM;nubia;Red Magic Mars;Tapa trasera;Compatible;5,40;;;6
+NU-REDMGM-CTR-COM;nubia;Red Magic Mars;Cámara trasera;Compatible;7,59;;;6
+NU-REDMGM-CFR-COM;nubia;Red Magic Mars;Cámara frontal;Compatible;4,99;;;6
+NU-REDMGM-LEN-COM;nubia;Red Magic Mars;Lente de cámara;Compatible;2,19;;;6
+NU-REDMGM-ALT-COM;nubia;Red Magic Mars;Altavoz;Compatible;3,65;;;6
+NU-REDMGM-AUR-COM;nubia;Red Magic Mars;Auricular de llamada;Compatible;2,65;;;6
+NU-REDMGM-FLX-COM;nubia;Red Magic Mars;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-REDMGM-SIM-COM;nubia;Red Magic Mars;Bandeja SIM;Compatible;2,55;;;6
+NU-X-PAN-COM;nubia;X;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-X-BAT-COM;nubia;X;Batería;Compatible;9,65;;;6
+NU-X-CON-COM;nubia;X;Conector de carga;Compatible;4,60;;;6
+NU-X-TAP-COM;nubia;X;Tapa trasera;Compatible;5,40;;;6
+NU-X-CTR-COM;nubia;X;Cámara trasera;Compatible;7,59;;;6
+NU-X-CFR-COM;nubia;X;Cámara frontal;Compatible;4,99;;;6
+NU-X-LEN-COM;nubia;X;Lente de cámara;Compatible;2,19;;;6
+NU-X-ALT-COM;nubia;X;Altavoz;Compatible;3,65;;;6
+NU-X-AUR-COM;nubia;X;Auricular de llamada;Compatible;2,65;;;6
+NU-X-FLX-COM;nubia;X;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-X-SIM-COM;nubia;X;Bandeja SIM;Compatible;2,55;;;6
+NU-Z18-PAN-COM;nubia;Z18;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-Z18-BAT-COM;nubia;Z18;Batería;Compatible;9,65;;;6
+NU-Z18-CON-COM;nubia;Z18;Conector de carga;Compatible;4,60;;;6
+NU-Z18-TAP-COM;nubia;Z18;Tapa trasera;Compatible;5,40;;;6
+NU-Z18-CTR-COM;nubia;Z18;Cámara trasera;Compatible;7,59;;;6
+NU-Z18-CFR-COM;nubia;Z18;Cámara frontal;Compatible;4,99;;;6
+NU-Z18-LEN-COM;nubia;Z18;Lente de cámara;Compatible;2,19;;;6
+NU-Z18-ALT-COM;nubia;Z18;Altavoz;Compatible;3,65;;;6
+NU-Z18-AUR-COM;nubia;Z18;Auricular de llamada;Compatible;2,65;;;6
+NU-Z18-FLX-COM;nubia;Z18;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z18-SIM-COM;nubia;Z18;Bandeja SIM;Compatible;2,55;;;6
+NU-REDMG-PAN-COM;nubia;Red Magic;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-REDMG-BAT-COM;nubia;Red Magic;Batería;Compatible;9,65;;;6
+NU-REDMG-CON-COM;nubia;Red Magic;Conector de carga;Compatible;4,60;;;6
+NU-REDMG-TAP-COM;nubia;Red Magic;Tapa trasera;Compatible;5,40;;;6
+NU-REDMG-CTR-COM;nubia;Red Magic;Cámara trasera;Compatible;7,59;;;6
+NU-REDMG-CFR-COM;nubia;Red Magic;Cámara frontal;Compatible;4,99;;;6
+NU-REDMG-LEN-COM;nubia;Red Magic;Lente de cámara;Compatible;2,19;;;6
+NU-REDMG-ALT-COM;nubia;Red Magic;Altavoz;Compatible;3,65;;;6
+NU-REDMG-AUR-COM;nubia;Red Magic;Auricular de llamada;Compatible;2,65;;;6
+NU-REDMG-FLX-COM;nubia;Red Magic;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-REDMG-SIM-COM;nubia;Red Magic;Bandeja SIM;Compatible;2,55;;;6
+NU-Z18MN-PAN-COM;nubia;Z18 mini;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-Z18MN-BAT-COM;nubia;Z18 mini;Batería;Compatible;9,65;;;6
+NU-Z18MN-CON-COM;nubia;Z18 mini;Conector de carga;Compatible;4,60;;;6
+NU-Z18MN-TAP-COM;nubia;Z18 mini;Tapa trasera;Compatible;5,40;;;6
+NU-Z18MN-CTR-COM;nubia;Z18 mini;Cámara trasera;Compatible;7,59;;;6
+NU-Z18MN-CFR-COM;nubia;Z18 mini;Cámara frontal;Compatible;4,99;;;6
+NU-Z18MN-LEN-COM;nubia;Z18 mini;Lente de cámara;Compatible;2,19;;;6
+NU-Z18MN-ALT-COM;nubia;Z18 mini;Altavoz;Compatible;3,65;;;6
+NU-Z18MN-AUR-COM;nubia;Z18 mini;Auricular de llamada;Compatible;2,65;;;6
+NU-Z18MN-FLX-COM;nubia;Z18 mini;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z18MN-SIM-COM;nubia;Z18 mini;Bandeja SIM;Compatible;2,55;;;6
+NU-N3-PAN-COM;nubia;N3;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-N3-BAT-COM;nubia;N3;Batería;Compatible;9,65;;;6
+NU-N3-CON-COM;nubia;N3;Conector de carga;Compatible;4,60;;;6
+NU-N3-TAP-COM;nubia;N3;Tapa trasera;Compatible;5,40;;;6
+NU-N3-CTR-COM;nubia;N3;Cámara trasera;Compatible;7,59;;;6
+NU-N3-CFR-COM;nubia;N3;Cámara frontal;Compatible;4,99;;;6
+NU-N3-LEN-COM;nubia;N3;Lente de cámara;Compatible;2,19;;;6
+NU-N3-ALT-COM;nubia;N3;Altavoz;Compatible;3,65;;;6
+NU-N3-AUR-COM;nubia;N3;Auricular de llamada;Compatible;2,65;;;6
+NU-N3-FLX-COM;nubia;N3;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-N3-SIM-COM;nubia;N3;Bandeja SIM;Compatible;2,55;;;6
+NU-V18-PAN-COM;nubia;V18;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-V18-BAT-COM;nubia;V18;Batería;Compatible;9,65;;;6
+NU-V18-CON-COM;nubia;V18;Conector de carga;Compatible;4,60;;;6
+NU-V18-TAP-COM;nubia;V18;Tapa trasera;Compatible;5,40;;;6
+NU-V18-CTR-COM;nubia;V18;Cámara trasera;Compatible;7,59;;;6
+NU-V18-CFR-COM;nubia;V18;Cámara frontal;Compatible;4,99;;;6
+NU-V18-LEN-COM;nubia;V18;Lente de cámara;Compatible;2,19;;;6
+NU-V18-ALT-COM;nubia;V18;Altavoz;Compatible;3,65;;;6
+NU-V18-AUR-COM;nubia;V18;Auricular de llamada;Compatible;2,65;;;6
+NU-V18-FLX-COM;nubia;V18;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-V18-SIM-COM;nubia;V18;Bandeja SIM;Compatible;2,55;;;6
+NU-Z17M-PAN-COM;nubia;Z17 miniS;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-Z17M-BAT-COM;nubia;Z17 miniS;Batería;Compatible;9,65;;;6
+NU-Z17M-CON-COM;nubia;Z17 miniS;Conector de carga;Compatible;4,60;;;6
+NU-Z17M-TAP-COM;nubia;Z17 miniS;Tapa trasera;Compatible;5,40;;;6
+NU-Z17M-CTR-COM;nubia;Z17 miniS;Cámara trasera;Compatible;7,59;;;6
+NU-Z17M-CFR-COM;nubia;Z17 miniS;Cámara frontal;Compatible;4,99;;;6
+NU-Z17M-LEN-COM;nubia;Z17 miniS;Lente de cámara;Compatible;2,19;;;6
+NU-Z17M-ALT-COM;nubia;Z17 miniS;Altavoz;Compatible;3,65;;;6
+NU-Z17M-AUR-COM;nubia;Z17 miniS;Auricular de llamada;Compatible;2,65;;;6
+NU-Z17M-FLX-COM;nubia;Z17 miniS;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z17M-SIM-COM;nubia;Z17 miniS;Bandeja SIM;Compatible;2,55;;;6
+NU-Z17S-PAN-COM;nubia;Z17s;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-Z17S-BAT-COM;nubia;Z17s;Batería;Compatible;9,65;;;6
+NU-Z17S-CON-COM;nubia;Z17s;Conector de carga;Compatible;4,60;;;6
+NU-Z17S-TAP-COM;nubia;Z17s;Tapa trasera;Compatible;5,40;;;6
+NU-Z17S-CTR-COM;nubia;Z17s;Cámara trasera;Compatible;7,59;;;6
+NU-Z17S-CFR-COM;nubia;Z17s;Cámara frontal;Compatible;4,99;;;6
+NU-Z17S-LEN-COM;nubia;Z17s;Lente de cámara;Compatible;2,19;;;6
+NU-Z17S-ALT-COM;nubia;Z17s;Altavoz;Compatible;3,65;;;6
+NU-Z17S-AUR-COM;nubia;Z17s;Auricular de llamada;Compatible;2,65;;;6
+NU-Z17S-FLX-COM;nubia;Z17s;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z17S-SIM-COM;nubia;Z17s;Bandeja SIM;Compatible;2,55;;;6
+NU-Z17L-PAN-COM;nubia;Z17 lite;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-Z17L-BAT-COM;nubia;Z17 lite;Batería;Compatible;9,65;;;6
+NU-Z17L-CON-COM;nubia;Z17 lite;Conector de carga;Compatible;4,60;;;6
+NU-Z17L-TAP-COM;nubia;Z17 lite;Tapa trasera;Compatible;5,40;;;6
+NU-Z17L-CTR-COM;nubia;Z17 lite;Cámara trasera;Compatible;7,59;;;6
+NU-Z17L-CFR-COM;nubia;Z17 lite;Cámara frontal;Compatible;4,99;;;6
+NU-Z17L-LEN-COM;nubia;Z17 lite;Lente de cámara;Compatible;2,19;;;6
+NU-Z17L-ALT-COM;nubia;Z17 lite;Altavoz;Compatible;3,65;;;6
+NU-Z17L-AUR-COM;nubia;Z17 lite;Auricular de llamada;Compatible;2,65;;;6
+NU-Z17L-FLX-COM;nubia;Z17 lite;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z17L-SIM-COM;nubia;Z17 lite;Bandeja SIM;Compatible;2,55;;;6
+NU-Z17-PAN-COM;nubia;Z17;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-Z17-BAT-COM;nubia;Z17;Batería;Compatible;9,65;;;6
+NU-Z17-CON-COM;nubia;Z17;Conector de carga;Compatible;4,60;;;6
+NU-Z17-TAP-COM;nubia;Z17;Tapa trasera;Compatible;5,40;;;6
+NU-Z17-CTR-COM;nubia;Z17;Cámara trasera;Compatible;7,59;;;6
+NU-Z17-CFR-COM;nubia;Z17;Cámara frontal;Compatible;4,99;;;6
+NU-Z17-LEN-COM;nubia;Z17;Lente de cámara;Compatible;2,19;;;6
+NU-Z17-ALT-COM;nubia;Z17;Altavoz;Compatible;3,65;;;6
+NU-Z17-AUR-COM;nubia;Z17;Auricular de llamada;Compatible;2,65;;;6
+NU-Z17-FLX-COM;nubia;Z17;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z17-SIM-COM;nubia;Z17;Bandeja SIM;Compatible;2,55;;;6
+NU-N1L-PAN-COM;nubia;N1 lite;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-N1L-BAT-COM;nubia;N1 lite;Batería;Compatible;9,65;;;6
+NU-N1L-CON-COM;nubia;N1 lite;Conector de carga;Compatible;4,60;;;6
+NU-N1L-TAP-COM;nubia;N1 lite;Tapa trasera;Compatible;5,40;;;6
+NU-N1L-CTR-COM;nubia;N1 lite;Cámara trasera;Compatible;7,59;;;6
+NU-N1L-CFR-COM;nubia;N1 lite;Cámara frontal;Compatible;4,99;;;6
+NU-N1L-LEN-COM;nubia;N1 lite;Lente de cámara;Compatible;2,19;;;6
+NU-N1L-ALT-COM;nubia;N1 lite;Altavoz;Compatible;3,65;;;6
+NU-N1L-AUR-COM;nubia;N1 lite;Auricular de llamada;Compatible;2,65;;;6
+NU-N1L-FLX-COM;nubia;N1 lite;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-N1L-SIM-COM;nubia;N1 lite;Bandeja SIM;Compatible;2,55;;;6
+NU-Z17MN-PAN-COM;nubia;Z17 mini;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-Z17MN-BAT-COM;nubia;Z17 mini;Batería;Compatible;9,65;;;6
+NU-Z17MN-CON-COM;nubia;Z17 mini;Conector de carga;Compatible;4,60;;;6
+NU-Z17MN-TAP-COM;nubia;Z17 mini;Tapa trasera;Compatible;5,40;;;6
+NU-Z17MN-CTR-COM;nubia;Z17 mini;Cámara trasera;Compatible;7,59;;;6
+NU-Z17MN-CFR-COM;nubia;Z17 mini;Cámara frontal;Compatible;4,99;;;6
+NU-Z17MN-LEN-COM;nubia;Z17 mini;Lente de cámara;Compatible;2,19;;;6
+NU-Z17MN-ALT-COM;nubia;Z17 mini;Altavoz;Compatible;3,65;;;6
+NU-Z17MN-AUR-COM;nubia;Z17 mini;Auricular de llamada;Compatible;2,65;;;6
+NU-Z17MN-FLX-COM;nubia;Z17 mini;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z17MN-SIM-COM;nubia;Z17 mini;Bandeja SIM;Compatible;2,55;;;6
+NU-M2-PAN-COM;nubia;M2;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-M2-BAT-COM;nubia;M2;Batería;Compatible;9,65;;;6
+NU-M2-CON-COM;nubia;M2;Conector de carga;Compatible;4,60;;;6
+NU-M2-TAP-COM;nubia;M2;Tapa trasera;Compatible;5,40;;;6
+NU-M2-CTR-COM;nubia;M2;Cámara trasera;Compatible;7,59;;;6
+NU-M2-CFR-COM;nubia;M2;Cámara frontal;Compatible;4,99;;;6
+NU-M2-LEN-COM;nubia;M2;Lente de cámara;Compatible;2,19;;;6
+NU-M2-ALT-COM;nubia;M2;Altavoz;Compatible;3,65;;;6
+NU-M2-AUR-COM;nubia;M2;Auricular de llamada;Compatible;2,65;;;6
+NU-M2-FLX-COM;nubia;M2;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-M2-SIM-COM;nubia;M2;Bandeja SIM;Compatible;2,55;;;6
+NU-M2L-PAN-COM;nubia;M2 lite;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-M2L-BAT-COM;nubia;M2 lite;Batería;Compatible;9,65;;;6
+NU-M2L-CON-COM;nubia;M2 lite;Conector de carga;Compatible;4,60;;;6
+NU-M2L-TAP-COM;nubia;M2 lite;Tapa trasera;Compatible;5,40;;;6
+NU-M2L-CTR-COM;nubia;M2 lite;Cámara trasera;Compatible;7,59;;;6
+NU-M2L-CFR-COM;nubia;M2 lite;Cámara frontal;Compatible;4,99;;;6
+NU-M2L-LEN-COM;nubia;M2 lite;Lente de cámara;Compatible;2,19;;;6
+NU-M2L-ALT-COM;nubia;M2 lite;Altavoz;Compatible;3,65;;;6
+NU-M2L-AUR-COM;nubia;M2 lite;Auricular de llamada;Compatible;2,65;;;6
+NU-M2L-FLX-COM;nubia;M2 lite;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-M2L-SIM-COM;nubia;M2 lite;Bandeja SIM;Compatible;2,55;;;6
+NU-N2-PAN-COM;nubia;N2;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-N2-BAT-COM;nubia;N2;Batería;Compatible;9,65;;;6
+NU-N2-CON-COM;nubia;N2;Conector de carga;Compatible;4,60;;;6
+NU-N2-TAP-COM;nubia;N2;Tapa trasera;Compatible;5,40;;;6
+NU-N2-CTR-COM;nubia;N2;Cámara trasera;Compatible;7,59;;;6
+NU-N2-CFR-COM;nubia;N2;Cámara frontal;Compatible;4,99;;;6
+NU-N2-LEN-COM;nubia;N2;Lente de cámara;Compatible;2,19;;;6
+NU-N2-ALT-COM;nubia;N2;Altavoz;Compatible;3,65;;;6
+NU-N2-AUR-COM;nubia;N2;Auricular de llamada;Compatible;2,65;;;6
+NU-N2-FLX-COM;nubia;N2;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-N2-SIM-COM;nubia;N2;Bandeja SIM;Compatible;2,55;;;6
+NU-Z11MNS-PAN-COM;nubia;Z11 mini S;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-Z11MNS-BAT-COM;nubia;Z11 mini S;Batería;Compatible;9,65;;;6
+NU-Z11MNS-CON-COM;nubia;Z11 mini S;Conector de carga;Compatible;4,60;;;6
+NU-Z11MNS-TAP-COM;nubia;Z11 mini S;Tapa trasera;Compatible;5,40;;;6
+NU-Z11MNS-CTR-COM;nubia;Z11 mini S;Cámara trasera;Compatible;7,59;;;6
+NU-Z11MNS-CFR-COM;nubia;Z11 mini S;Cámara frontal;Compatible;4,99;;;6
+NU-Z11MNS-LEN-COM;nubia;Z11 mini S;Lente de cámara;Compatible;2,19;;;6
+NU-Z11MNS-ALT-COM;nubia;Z11 mini S;Altavoz;Compatible;3,65;;;6
+NU-Z11MNS-AUR-COM;nubia;Z11 mini S;Auricular de llamada;Compatible;2,65;;;6
+NU-Z11MNS-FLX-COM;nubia;Z11 mini S;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z11MNS-SIM-COM;nubia;Z11 mini S;Bandeja SIM;Compatible;2,55;;;6
+NU-N1-PAN-COM;nubia;N1;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-N1-BAT-COM;nubia;N1;Batería;Compatible;9,65;;;6
+NU-N1-CON-COM;nubia;N1;Conector de carga;Compatible;4,60;;;6
+NU-N1-TAP-COM;nubia;N1;Tapa trasera;Compatible;5,40;;;6
+NU-N1-CTR-COM;nubia;N1;Cámara trasera;Compatible;7,59;;;6
+NU-N1-CFR-COM;nubia;N1;Cámara frontal;Compatible;4,99;;;6
+NU-N1-LEN-COM;nubia;N1;Lente de cámara;Compatible;2,19;;;6
+NU-N1-ALT-COM;nubia;N1;Altavoz;Compatible;3,65;;;6
+NU-N1-AUR-COM;nubia;N1;Auricular de llamada;Compatible;2,65;;;6
+NU-N1-FLX-COM;nubia;N1;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-N1-SIM-COM;nubia;N1;Bandeja SIM;Compatible;2,55;;;6
+NU-Z11-PAN-COM;nubia;Z11;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-Z11-BAT-COM;nubia;Z11;Batería;Compatible;9,65;;;6
+NU-Z11-CON-COM;nubia;Z11;Conector de carga;Compatible;4,60;;;6
+NU-Z11-TAP-COM;nubia;Z11;Tapa trasera;Compatible;5,40;;;6
+NU-Z11-CTR-COM;nubia;Z11;Cámara trasera;Compatible;7,59;;;6
+NU-Z11-CFR-COM;nubia;Z11;Cámara frontal;Compatible;4,99;;;6
+NU-Z11-LEN-COM;nubia;Z11;Lente de cámara;Compatible;2,19;;;6
+NU-Z11-ALT-COM;nubia;Z11;Altavoz;Compatible;3,65;;;6
+NU-Z11-AUR-COM;nubia;Z11;Auricular de llamada;Compatible;2,65;;;6
+NU-Z11-FLX-COM;nubia;Z11;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z11-SIM-COM;nubia;Z11;Bandeja SIM;Compatible;2,55;;;6
+NU-Z11M-PAN-COM;nubia;Z11 Max;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-Z11M-BAT-COM;nubia;Z11 Max;Batería;Compatible;9,65;;;6
+NU-Z11M-CON-COM;nubia;Z11 Max;Conector de carga;Compatible;4,60;;;6
+NU-Z11M-TAP-COM;nubia;Z11 Max;Tapa trasera;Compatible;5,40;;;6
+NU-Z11M-CTR-COM;nubia;Z11 Max;Cámara trasera;Compatible;7,59;;;6
+NU-Z11M-CFR-COM;nubia;Z11 Max;Cámara frontal;Compatible;4,99;;;6
+NU-Z11M-LEN-COM;nubia;Z11 Max;Lente de cámara;Compatible;2,19;;;6
+NU-Z11M-ALT-COM;nubia;Z11 Max;Altavoz;Compatible;3,65;;;6
+NU-Z11M-AUR-COM;nubia;Z11 Max;Auricular de llamada;Compatible;2,65;;;6
+NU-Z11M-FLX-COM;nubia;Z11 Max;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z11M-SIM-COM;nubia;Z11 Max;Bandeja SIM;Compatible;2,55;;;6
+NU-Z11MN-PAN-COM;nubia;Z11 mini;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-Z11MN-BAT-COM;nubia;Z11 mini;Batería;Compatible;9,65;;;6
+NU-Z11MN-CON-COM;nubia;Z11 mini;Conector de carga;Compatible;4,60;;;6
+NU-Z11MN-TAP-COM;nubia;Z11 mini;Tapa trasera;Compatible;5,40;;;6
+NU-Z11MN-CTR-COM;nubia;Z11 mini;Cámara trasera;Compatible;7,59;;;6
+NU-Z11MN-CFR-COM;nubia;Z11 mini;Cámara frontal;Compatible;4,99;;;6
+NU-Z11MN-LEN-COM;nubia;Z11 mini;Lente de cámara;Compatible;2,19;;;6
+NU-Z11MN-ALT-COM;nubia;Z11 mini;Altavoz;Compatible;3,65;;;6
+NU-Z11MN-AUR-COM;nubia;Z11 mini;Auricular de llamada;Compatible;2,65;;;6
+NU-Z11MN-FLX-COM;nubia;Z11 mini;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z11MN-SIM-COM;nubia;Z11 mini;Bandeja SIM;Compatible;2,55;;;6
+NU-PS-PAN-COM;nubia;Prague S;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-PS-BAT-COM;nubia;Prague S;Batería;Compatible;9,65;;;6
+NU-PS-CON-COM;nubia;Prague S;Conector de carga;Compatible;4,60;;;6
+NU-PS-TAP-COM;nubia;Prague S;Tapa trasera;Compatible;5,40;;;6
+NU-PS-CTR-COM;nubia;Prague S;Cámara trasera;Compatible;7,59;;;6
+NU-PS-CFR-COM;nubia;Prague S;Cámara frontal;Compatible;4,99;;;6
+NU-PS-LEN-COM;nubia;Prague S;Lente de cámara;Compatible;2,19;;;6
+NU-PS-ALT-COM;nubia;Prague S;Altavoz;Compatible;3,65;;;6
+NU-PS-AUR-COM;nubia;Prague S;Auricular de llamada;Compatible;2,65;;;6
+NU-PS-FLX-COM;nubia;Prague S;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-PS-SIM-COM;nubia;Prague S;Bandeja SIM;Compatible;2,55;;;6
+NU-MYP-PAN-COM;nubia;My Prague;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-MYP-BAT-COM;nubia;My Prague;Batería;Compatible;9,65;;;6
+NU-MYP-CON-COM;nubia;My Prague;Conector de carga;Compatible;4,60;;;6
+NU-MYP-TAP-COM;nubia;My Prague;Tapa trasera;Compatible;5,40;;;6
+NU-MYP-CTR-COM;nubia;My Prague;Cámara trasera;Compatible;7,59;;;6
+NU-MYP-CFR-COM;nubia;My Prague;Cámara frontal;Compatible;4,99;;;6
+NU-MYP-LEN-COM;nubia;My Prague;Lente de cámara;Compatible;2,19;;;6
+NU-MYP-ALT-COM;nubia;My Prague;Altavoz;Compatible;3,65;;;6
+NU-MYP-AUR-COM;nubia;My Prague;Auricular de llamada;Compatible;2,65;;;6
+NU-MYP-FLX-COM;nubia;My Prague;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-MYP-SIM-COM;nubia;My Prague;Bandeja SIM;Compatible;2,55;;;6
+NU-Z9-PAN-COM;nubia;Z9;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-Z9-BAT-COM;nubia;Z9;Batería;Compatible;9,65;;;6
+NU-Z9-CON-COM;nubia;Z9;Conector de carga;Compatible;4,60;;;6
+NU-Z9-TAP-COM;nubia;Z9;Tapa trasera;Compatible;5,40;;;6
+NU-Z9-CTR-COM;nubia;Z9;Cámara trasera;Compatible;7,59;;;6
+NU-Z9-CFR-COM;nubia;Z9;Cámara frontal;Compatible;4,99;;;6
+NU-Z9-LEN-COM;nubia;Z9;Lente de cámara;Compatible;2,19;;;6
+NU-Z9-ALT-COM;nubia;Z9;Altavoz;Compatible;3,65;;;6
+NU-Z9-AUR-COM;nubia;Z9;Auricular de llamada;Compatible;2,65;;;6
+NU-Z9-FLX-COM;nubia;Z9;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z9-SIM-COM;nubia;Z9;Bandeja SIM;Compatible;2,55;;;6
+NU-Z9M-PAN-COM;nubia;Z9 Max;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-Z9M-BAT-COM;nubia;Z9 Max;Batería;Compatible;9,65;;;6
+NU-Z9M-CON-COM;nubia;Z9 Max;Conector de carga;Compatible;4,60;;;6
+NU-Z9M-TAP-COM;nubia;Z9 Max;Tapa trasera;Compatible;5,40;;;6
+NU-Z9M-CTR-COM;nubia;Z9 Max;Cámara trasera;Compatible;7,59;;;6
+NU-Z9M-CFR-COM;nubia;Z9 Max;Cámara frontal;Compatible;4,99;;;6
+NU-Z9M-LEN-COM;nubia;Z9 Max;Lente de cámara;Compatible;2,19;;;6
+NU-Z9M-ALT-COM;nubia;Z9 Max;Altavoz;Compatible;3,65;;;6
+NU-Z9M-AUR-COM;nubia;Z9 Max;Auricular de llamada;Compatible;2,65;;;6
+NU-Z9M-FLX-COM;nubia;Z9 Max;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z9M-SIM-COM;nubia;Z9 Max;Bandeja SIM;Compatible;2,55;;;6
+NU-Z9MN-PAN-COM;nubia;Z9 mini;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-Z9MN-BAT-COM;nubia;Z9 mini;Batería;Compatible;9,65;;;6
+NU-Z9MN-CON-COM;nubia;Z9 mini;Conector de carga;Compatible;4,60;;;6
+NU-Z9MN-TAP-COM;nubia;Z9 mini;Tapa trasera;Compatible;5,40;;;6
+NU-Z9MN-CTR-COM;nubia;Z9 mini;Cámara trasera;Compatible;7,59;;;6
+NU-Z9MN-CFR-COM;nubia;Z9 mini;Cámara frontal;Compatible;4,99;;;6
+NU-Z9MN-LEN-COM;nubia;Z9 mini;Lente de cámara;Compatible;2,19;;;6
+NU-Z9MN-ALT-COM;nubia;Z9 mini;Altavoz;Compatible;3,65;;;6
+NU-Z9MN-AUR-COM;nubia;Z9 mini;Auricular de llamada;Compatible;2,65;;;6
+NU-Z9MN-FLX-COM;nubia;Z9 mini;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z9MN-SIM-COM;nubia;Z9 mini;Bandeja SIM;Compatible;2,55;;;6
+NU-Z5SMININ-PAN-COM;nubia;Z5S mini NX405H;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-Z5SMININ-BAT-COM;nubia;Z5S mini NX405H;Batería;Compatible;9,65;;;6
+NU-Z5SMININ-CON-COM;nubia;Z5S mini NX405H;Conector de carga;Compatible;4,60;;;6
+NU-Z5SMININ-TAP-COM;nubia;Z5S mini NX405H;Tapa trasera;Compatible;5,40;;;6
+NU-Z5SMININ-CTR-COM;nubia;Z5S mini NX405H;Cámara trasera;Compatible;7,59;;;6
+NU-Z5SMININ-CFR-COM;nubia;Z5S mini NX405H;Cámara frontal;Compatible;4,99;;;6
+NU-Z5SMININ-LEN-COM;nubia;Z5S mini NX405H;Lente de cámara;Compatible;2,19;;;6
+NU-Z5SMININ-ALT-COM;nubia;Z5S mini NX405H;Altavoz;Compatible;3,65;;;6
+NU-Z5SMININ-AUR-COM;nubia;Z5S mini NX405H;Auricular de llamada;Compatible;2,65;;;6
+NU-Z5SMININ-FLX-COM;nubia;Z5S mini NX405H;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z5SMININ-SIM-COM;nubia;Z5S mini NX405H;Bandeja SIM;Compatible;2,55;;;6
+NU-Z7-PAN-COM;nubia;Z7;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-Z7-BAT-COM;nubia;Z7;Batería;Compatible;9,65;;;6
+NU-Z7-CON-COM;nubia;Z7;Conector de carga;Compatible;4,60;;;6
+NU-Z7-TAP-COM;nubia;Z7;Tapa trasera;Compatible;5,40;;;6
+NU-Z7-CTR-COM;nubia;Z7;Cámara trasera;Compatible;7,59;;;6
+NU-Z7-CFR-COM;nubia;Z7;Cámara frontal;Compatible;4,99;;;6
+NU-Z7-LEN-COM;nubia;Z7;Lente de cámara;Compatible;2,19;;;6
+NU-Z7-ALT-COM;nubia;Z7;Altavoz;Compatible;3,65;;;6
+NU-Z7-AUR-COM;nubia;Z7;Auricular de llamada;Compatible;2,65;;;6
+NU-Z7-FLX-COM;nubia;Z7;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z7-SIM-COM;nubia;Z7;Bandeja SIM;Compatible;2,55;;;6
+NU-Z7M-PAN-COM;nubia;Z7 Max;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-Z7M-BAT-COM;nubia;Z7 Max;Batería;Compatible;9,65;;;6
+NU-Z7M-CON-COM;nubia;Z7 Max;Conector de carga;Compatible;4,60;;;6
+NU-Z7M-TAP-COM;nubia;Z7 Max;Tapa trasera;Compatible;5,40;;;6
+NU-Z7M-CTR-COM;nubia;Z7 Max;Cámara trasera;Compatible;7,59;;;6
+NU-Z7M-CFR-COM;nubia;Z7 Max;Cámara frontal;Compatible;4,99;;;6
+NU-Z7M-LEN-COM;nubia;Z7 Max;Lente de cámara;Compatible;2,19;;;6
+NU-Z7M-ALT-COM;nubia;Z7 Max;Altavoz;Compatible;3,65;;;6
+NU-Z7M-AUR-COM;nubia;Z7 Max;Auricular de llamada;Compatible;2,65;;;6
+NU-Z7M-FLX-COM;nubia;Z7 Max;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z7M-SIM-COM;nubia;Z7 Max;Bandeja SIM;Compatible;2,55;;;6
+NU-Z7MN-PAN-COM;nubia;Z7 mini;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-Z7MN-BAT-COM;nubia;Z7 mini;Batería;Compatible;9,65;;;6
+NU-Z7MN-CON-COM;nubia;Z7 mini;Conector de carga;Compatible;4,60;;;6
+NU-Z7MN-TAP-COM;nubia;Z7 mini;Tapa trasera;Compatible;5,40;;;6
+NU-Z7MN-CTR-COM;nubia;Z7 mini;Cámara trasera;Compatible;7,59;;;6
+NU-Z7MN-CFR-COM;nubia;Z7 mini;Cámara frontal;Compatible;4,99;;;6
+NU-Z7MN-LEN-COM;nubia;Z7 mini;Lente de cámara;Compatible;2,19;;;6
+NU-Z7MN-ALT-COM;nubia;Z7 mini;Altavoz;Compatible;3,65;;;6
+NU-Z7MN-AUR-COM;nubia;Z7 mini;Auricular de llamada;Compatible;2,65;;;6
+NU-Z7MN-FLX-COM;nubia;Z7 mini;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z7MN-SIM-COM;nubia;Z7 mini;Bandeja SIM;Compatible;2,55;;;6
+NU-X6-PAN-COM;nubia;X6;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-X6-BAT-COM;nubia;X6;Batería;Compatible;9,65;;;6
+NU-X6-CON-COM;nubia;X6;Conector de carga;Compatible;4,60;;;6
+NU-X6-TAP-COM;nubia;X6;Tapa trasera;Compatible;5,40;;;6
+NU-X6-CTR-COM;nubia;X6;Cámara trasera;Compatible;7,59;;;6
+NU-X6-CFR-COM;nubia;X6;Cámara frontal;Compatible;4,99;;;6
+NU-X6-LEN-COM;nubia;X6;Lente de cámara;Compatible;2,19;;;6
+NU-X6-ALT-COM;nubia;X6;Altavoz;Compatible;3,65;;;6
+NU-X6-AUR-COM;nubia;X6;Auricular de llamada;Compatible;2,65;;;6
+NU-X6-FLX-COM;nubia;X6;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-X6-SIM-COM;nubia;X6;Bandeja SIM;Compatible;2,55;;;6
+NU-Z5S-PAN-COM;nubia;Z5S;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-Z5S-BAT-COM;nubia;Z5S;Batería;Compatible;9,65;;;6
+NU-Z5S-CON-COM;nubia;Z5S;Conector de carga;Compatible;4,60;;;6
+NU-Z5S-TAP-COM;nubia;Z5S;Tapa trasera;Compatible;5,40;;;6
+NU-Z5S-CTR-COM;nubia;Z5S;Cámara trasera;Compatible;7,59;;;6
+NU-Z5S-CFR-COM;nubia;Z5S;Cámara frontal;Compatible;4,99;;;6
+NU-Z5S-LEN-COM;nubia;Z5S;Lente de cámara;Compatible;2,19;;;6
+NU-Z5S-ALT-COM;nubia;Z5S;Altavoz;Compatible;3,65;;;6
+NU-Z5S-AUR-COM;nubia;Z5S;Auricular de llamada;Compatible;2,65;;;6
+NU-Z5S-FLX-COM;nubia;Z5S;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z5S-SIM-COM;nubia;Z5S;Bandeja SIM;Compatible;2,55;;;6
+NU-Z5SMNNX4-PAN-COM;nubia;Z5S mini NX403A;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-Z5SMNNX4-BAT-COM;nubia;Z5S mini NX403A;Batería;Compatible;9,65;;;6
+NU-Z5SMNNX4-CON-COM;nubia;Z5S mini NX403A;Conector de carga;Compatible;4,60;;;6
+NU-Z5SMNNX4-TAP-COM;nubia;Z5S mini NX403A;Tapa trasera;Compatible;5,40;;;6
+NU-Z5SMNNX4-CTR-COM;nubia;Z5S mini NX403A;Cámara trasera;Compatible;7,59;;;6
+NU-Z5SMNNX4-CFR-COM;nubia;Z5S mini NX403A;Cámara frontal;Compatible;4,99;;;6
+NU-Z5SMNNX4-LEN-COM;nubia;Z5S mini NX403A;Lente de cámara;Compatible;2,19;;;6
+NU-Z5SMNNX4-ALT-COM;nubia;Z5S mini NX403A;Altavoz;Compatible;3,65;;;6
+NU-Z5SMNNX4-AUR-COM;nubia;Z5S mini NX403A;Auricular de llamada;Compatible;2,65;;;6
+NU-Z5SMNNX4-FLX-COM;nubia;Z5S mini NX403A;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z5SMNNX4-SIM-COM;nubia;Z5S mini NX403A;Bandeja SIM;Compatible;2,55;;;6
+NU-Z5-PAN-COM;nubia;Z5;Pantalla;Compatible;15,15;14,70;14,24;6
+NU-Z5-BAT-COM;nubia;Z5;Batería;Compatible;9,65;;;6
+NU-Z5-CON-COM;nubia;Z5;Conector de carga;Compatible;4,60;;;6
+NU-Z5-TAP-COM;nubia;Z5;Tapa trasera;Compatible;5,40;;;6
+NU-Z5-CTR-COM;nubia;Z5;Cámara trasera;Compatible;7,59;;;6
+NU-Z5-CFR-COM;nubia;Z5;Cámara frontal;Compatible;4,99;;;6
+NU-Z5-LEN-COM;nubia;Z5;Lente de cámara;Compatible;2,19;;;6
+NU-Z5-ALT-COM;nubia;Z5;Altavoz;Compatible;3,65;;;6
+NU-Z5-AUR-COM;nubia;Z5;Auricular de llamada;Compatible;2,65;;;6
+NU-Z5-FLX-COM;nubia;Z5;Flex de encendido y volumen;Compatible;2,49;;;6
+NU-Z5-SIM-COM;nubia;Z5;Bandeja SIM;Compatible;2,55;;;6
+NU-F2-PRO-NA;nubia;Focus 2;Cristal templado;Estándar;1,30;;;
+NU-F2-PRO-PRI;nubia;Focus 2;Cristal templado;Privacidad;4,00;;;
+NU-F2-FUN-SIL;nubia;Focus 2;Funda;Silicona;2,50;;;
+NU-F2-FUN-TPU;nubia;Focus 2;Funda;Transparente;2,95;;;
+NU-F2-FUN-LIB;nubia;Focus 2;Funda;Libro;3,70;;;
+NU-F2-FUN-ANT;nubia;Focus 2;Funda;Antigolpes;3,10;;;
+NU-F2U-PRO-NA;nubia;Focus 2 Ultra;Cristal templado;Estándar;1,30;;;
+NU-F2U-PRO-PRI;nubia;Focus 2 Ultra;Cristal templado;Privacidad;4,00;;;
+NU-F2U-FUN-SIL;nubia;Focus 2 Ultra;Funda;Silicona;2,50;;;
+NU-F2U-FUN-TPU;nubia;Focus 2 Ultra;Funda;Transparente;2,95;;;
+NU-F2U-FUN-LIB;nubia;Focus 2 Ultra;Funda;Libro;3,70;;;
+NU-F2U-FUN-ANT;nubia;Focus 2 Ultra;Funda;Antigolpes;3,10;;;
+NU-NEO3-PRO-NA;nubia;Neo 3;Cristal templado;Estándar;1,30;;;
+NU-NEO3-PRO-PRI;nubia;Neo 3;Cristal templado;Privacidad;4,00;;;
+NU-NEO3-FUN-SIL;nubia;Neo 3;Funda;Silicona;2,50;;;
+NU-NEO3-FUN-TPU;nubia;Neo 3;Funda;Transparente;2,95;;;
+NU-NEO3-FUN-LIB;nubia;Neo 3;Funda;Libro;3,70;;;
+NU-NEO3-FUN-ANT;nubia;Neo 3;Funda;Antigolpes;3,10;;;
+NU-NEO3GT-PRO-NA;nubia;Neo 3 GT;Cristal templado;Estándar;1,30;;;
+NU-NEO3GT-PRO-PRI;nubia;Neo 3 GT;Cristal templado;Privacidad;4,00;;;
+NU-NEO3GT-FUN-SIL;nubia;Neo 3 GT;Funda;Silicona;2,50;;;
+NU-NEO3GT-FUN-TPU;nubia;Neo 3 GT;Funda;Transparente;2,95;;;
+NU-NEO3GT-FUN-LIB;nubia;Neo 3 GT;Funda;Libro;3,70;;;
+NU-NEO3GT-FUN-ANT;nubia;Neo 3 GT;Funda;Antigolpes;3,10;;;
+NU-REDMG10A-PRO-NA;nubia;Red Magic 10 Air;Cristal templado;Estándar;1,30;;;
+NU-REDMG10A-PRO-PRI;nubia;Red Magic 10 Air;Cristal templado;Privacidad;4,00;;;
+NU-REDMG10A-FUN-SIL;nubia;Red Magic 10 Air;Funda;Silicona;2,50;;;
+NU-REDMG10A-FUN-TPU;nubia;Red Magic 10 Air;Funda;Transparente;2,95;;;
+NU-REDMG10A-FUN-LIB;nubia;Red Magic 10 Air;Funda;Libro;3,70;;;
+NU-REDMG10A-FUN-ANT;nubia;Red Magic 10 Air;Funda;Antigolpes;3,10;;;
+NU-MUSIC2-PRO-NA;nubia;Music 2;Cristal templado;Estándar;1,30;;;
+NU-MUSIC2-PRO-PRI;nubia;Music 2;Cristal templado;Privacidad;4,00;;;
+NU-MUSIC2-FUN-SIL;nubia;Music 2;Funda;Silicona;2,50;;;
+NU-MUSIC2-FUN-TPU;nubia;Music 2;Funda;Transparente;2,95;;;
+NU-MUSIC2-FUN-LIB;nubia;Music 2;Funda;Libro;3,70;;;
+NU-MUSIC2-FUN-ANT;nubia;Music 2;Funda;Antigolpes;3,10;;;
+NU-REDMG10P-PRO-NA;nubia;Red Magic 10 Pro;Cristal templado;Estándar;1,30;;;
+NU-REDMG10P-PRO-PRI;nubia;Red Magic 10 Pro;Cristal templado;Privacidad;4,00;;;
+NU-REDMG10P-FUN-SIL;nubia;Red Magic 10 Pro;Funda;Silicona;2,50;;;
+NU-REDMG10P-FUN-TPU;nubia;Red Magic 10 Pro;Funda;Transparente;2,95;;;
+NU-REDMG10P-FUN-LIB;nubia;Red Magic 10 Pro;Funda;Libro;3,70;;;
+NU-REDMG10P-FUN-ANT;nubia;Red Magic 10 Pro;Funda;Antigolpes;3,10;;;
+NU-REDMG102-PRO-NA;nubia;Red Magic 10 Pro+;Cristal templado;Estándar;1,30;;;
+NU-REDMG102-PRO-PRI;nubia;Red Magic 10 Pro+;Cristal templado;Privacidad;4,00;;;
+NU-REDMG102-FUN-SIL;nubia;Red Magic 10 Pro+;Funda;Silicona;2,50;;;
+NU-REDMG102-FUN-TPU;nubia;Red Magic 10 Pro+;Funda;Transparente;2,95;;;
+NU-REDMG102-FUN-LIB;nubia;Red Magic 10 Pro+;Funda;Libro;3,70;;;
+NU-REDMG102-FUN-ANT;nubia;Red Magic 10 Pro+;Funda;Antigolpes;3,10;;;
+NU-REDMG10S-PRO-NA;nubia;Red Magic 10S Pro;Cristal templado;Estándar;1,30;;;
+NU-REDMG10S-PRO-PRI;nubia;Red Magic 10S Pro;Cristal templado;Privacidad;4,00;;;
+NU-REDMG10S-FUN-SIL;nubia;Red Magic 10S Pro;Funda;Silicona;2,50;;;
+NU-REDMG10S-FUN-TPU;nubia;Red Magic 10S Pro;Funda;Transparente;2,95;;;
+NU-REDMG10S-FUN-LIB;nubia;Red Magic 10S Pro;Funda;Libro;3,70;;;
+NU-REDMG10S-FUN-ANT;nubia;Red Magic 10S Pro;Funda;Antigolpes;3,10;;;
+NU-REDMG103-PRO-NA;nubia;Red Magic 10S Pro+;Cristal templado;Estándar;1,30;;;
+NU-REDMG103-PRO-PRI;nubia;Red Magic 10S Pro+;Cristal templado;Privacidad;4,00;;;
+NU-REDMG103-FUN-SIL;nubia;Red Magic 10S Pro+;Funda;Silicona;2,50;;;
+NU-REDMG103-FUN-TPU;nubia;Red Magic 10S Pro+;Funda;Transparente;2,95;;;
+NU-REDMG103-FUN-LIB;nubia;Red Magic 10S Pro+;Funda;Libro;3,70;;;
+NU-REDMG103-FUN-ANT;nubia;Red Magic 10S Pro+;Funda;Antigolpes;3,10;;;
+NU-Z70U-PRO-NA;nubia;Z70 Ultra;Cristal templado;Estándar;1,30;;;
+NU-Z70U-PRO-PRI;nubia;Z70 Ultra;Cristal templado;Privacidad;4,00;;;
+NU-Z70U-FUN-SIL;nubia;Z70 Ultra;Funda;Silicona;2,50;;;
+NU-Z70U-FUN-TPU;nubia;Z70 Ultra;Funda;Transparente;2,95;;;
+NU-Z70U-FUN-LIB;nubia;Z70 Ultra;Funda;Libro;3,70;;;
+NU-Z70U-FUN-ANT;nubia;Z70 Ultra;Funda;Antigolpes;3,10;;;
+NU-Z60ULV-PRO-NA;nubia;Z60 Ultra Leading Version;Cristal templado;Estándar;1,30;;;
+NU-Z60ULV-PRO-PRI;nubia;Z60 Ultra Leading Version;Cristal templado;Privacidad;4,00;;;
+NU-Z60ULV-FUN-SIL;nubia;Z60 Ultra Leading Version;Funda;Silicona;2,50;;;
+NU-Z60ULV-FUN-TPU;nubia;Z60 Ultra Leading Version;Funda;Transparente;2,95;;;
+NU-Z60ULV-FUN-LIB;nubia;Z60 Ultra Leading Version;Funda;Libro;3,70;;;
+NU-Z60ULV-FUN-ANT;nubia;Z60 Ultra Leading Version;Funda;Antigolpes;3,10;;;
+NU-Z60SP-PRO-NA;nubia;Z60S Pro;Cristal templado;Estándar;1,30;;;
+NU-Z60SP-PRO-PRI;nubia;Z60S Pro;Cristal templado;Privacidad;4,00;;;
+NU-Z60SP-FUN-SIL;nubia;Z60S Pro;Funda;Silicona;2,50;;;
+NU-Z60SP-FUN-TPU;nubia;Z60S Pro;Funda;Transparente;2,95;;;
+NU-Z60SP-FUN-LIB;nubia;Z60S Pro;Funda;Libro;3,70;;;
+NU-Z60SP-FUN-ANT;nubia;Z60S Pro;Funda;Antigolpes;3,10;;;
+NU-M-PRO-NA;nubia;Music;Cristal templado;Estándar;1,30;;;
+NU-M-PRO-PRI;nubia;Music;Cristal templado;Privacidad;4,00;;;
+NU-M-FUN-SIL;nubia;Music;Funda;Silicona;2,50;;;
+NU-M-FUN-TPU;nubia;Music;Funda;Transparente;2,95;;;
+NU-M-FUN-LIB;nubia;Music;Funda;Libro;3,70;;;
+NU-M-FUN-ANT;nubia;Music;Funda;Antigolpes;3,10;;;
+NU-FL-PRO-NA;nubia;Flip;Cristal templado;Estándar;1,30;;;
+NU-FL-FUN-SIL;nubia;Flip;Funda;Silicona;2,50;;;
+NU-FL-FUN-TPU;nubia;Flip;Funda;Transparente;2,95;;;
+NU-F-PRO-NA;nubia;Focus;Cristal templado;Estándar;1,30;;;
+NU-F-PRO-PRI;nubia;Focus;Cristal templado;Privacidad;4,00;;;
+NU-F-FUN-SIL;nubia;Focus;Funda;Silicona;2,50;;;
+NU-F-FUN-TPU;nubia;Focus;Funda;Transparente;2,95;;;
+NU-F-FUN-LIB;nubia;Focus;Funda;Libro;3,70;;;
+NU-F-FUN-ANT;nubia;Focus;Funda;Antigolpes;3,10;;;
+NU-FP-PRO-NA;nubia;Focus Pro;Cristal templado;Estándar;1,30;;;
+NU-FP-PRO-PRI;nubia;Focus Pro;Cristal templado;Privacidad;4,00;;;
+NU-FP-FUN-SIL;nubia;Focus Pro;Funda;Silicona;2,50;;;
+NU-FP-FUN-TPU;nubia;Focus Pro;Funda;Transparente;2,95;;;
+NU-FP-FUN-LIB;nubia;Focus Pro;Funda;Libro;3,70;;;
+NU-FP-FUN-ANT;nubia;Focus Pro;Funda;Antigolpes;3,10;;;
+NU-NEO2-PRO-NA;nubia;Neo 2;Cristal templado;Estándar;1,30;;;
+NU-NEO2-PRO-PRI;nubia;Neo 2;Cristal templado;Privacidad;4,00;;;
+NU-NEO2-FUN-SIL;nubia;Neo 2;Funda;Silicona;2,50;;;
+NU-NEO2-FUN-TPU;nubia;Neo 2;Funda;Transparente;2,95;;;
+NU-NEO2-FUN-LIB;nubia;Neo 2;Funda;Libro;3,70;;;
+NU-NEO2-FUN-ANT;nubia;Neo 2;Funda;Antigolpes;3,10;;;
+NU-Z60U-PRO-NA;nubia;Z60 Ultra;Cristal templado;Estándar;1,30;;;
+NU-Z60U-PRO-PRI;nubia;Z60 Ultra;Cristal templado;Privacidad;4,00;;;
+NU-Z60U-FUN-SIL;nubia;Z60 Ultra;Funda;Silicona;2,50;;;
+NU-Z60U-FUN-TPU;nubia;Z60 Ultra;Funda;Transparente;2,95;;;
+NU-Z60U-FUN-LIB;nubia;Z60 Ultra;Funda;Libro;3,70;;;
+NU-Z60U-FUN-ANT;nubia;Z60 Ultra;Funda;Antigolpes;3,10;;;
+NU-REDMG9P-PRO-NA;nubia;Red Magic 9 Pro;Cristal templado;Estándar;1,30;;;
+NU-REDMG9P-PRO-PRI;nubia;Red Magic 9 Pro;Cristal templado;Privacidad;4,00;;;
+NU-REDMG9P-FUN-SIL;nubia;Red Magic 9 Pro;Funda;Silicona;2,50;;;
+NU-REDMG9P-FUN-TPU;nubia;Red Magic 9 Pro;Funda;Transparente;2,95;;;
+NU-REDMG9P-FUN-LIB;nubia;Red Magic 9 Pro;Funda;Libro;3,70;;;
+NU-REDMG9P-FUN-ANT;nubia;Red Magic 9 Pro;Funda;Antigolpes;3,10;;;
+NU-REDMG9PP-PRO-NA;nubia;Red Magic 9 Pro+;Cristal templado;Estándar;1,30;;;
+NU-REDMG9PP-PRO-PRI;nubia;Red Magic 9 Pro+;Cristal templado;Privacidad;4,00;;;
+NU-REDMG9PP-FUN-SIL;nubia;Red Magic 9 Pro+;Funda;Silicona;2,50;;;
+NU-REDMG9PP-FUN-TPU;nubia;Red Magic 9 Pro+;Funda;Transparente;2,95;;;
+NU-REDMG9PP-FUN-LIB;nubia;Red Magic 9 Pro+;Funda;Libro;3,70;;;
+NU-REDMG9PP-FUN-ANT;nubia;Red Magic 9 Pro+;Funda;Antigolpes;3,10;;;
+NU-NEO-PRO-NA;nubia;Neo;Cristal templado;Estándar;1,30;;;
+NU-NEO-PRO-PRI;nubia;Neo;Cristal templado;Privacidad;4,00;;;
+NU-NEO-FUN-SIL;nubia;Neo;Funda;Silicona;2,50;;;
+NU-NEO-FUN-TPU;nubia;Neo;Funda;Transparente;2,95;;;
+NU-NEO-FUN-LIB;nubia;Neo;Funda;Libro;3,70;;;
+NU-NEO-FUN-ANT;nubia;Neo;Funda;Antigolpes;3,10;;;
+NU-REDMG8SP-PRO-NA;nubia;Red Magic 8s Pro;Cristal templado;Estándar;1,30;;;
+NU-REDMG8SP-PRO-PRI;nubia;Red Magic 8s Pro;Cristal templado;Privacidad;4,00;;;
+NU-REDMG8SP-FUN-SIL;nubia;Red Magic 8s Pro;Funda;Silicona;2,50;;;
+NU-REDMG8SP-FUN-TPU;nubia;Red Magic 8s Pro;Funda;Transparente;2,95;;;
+NU-REDMG8SP-FUN-LIB;nubia;Red Magic 8s Pro;Funda;Libro;3,70;;;
+NU-REDMG8SP-FUN-ANT;nubia;Red Magic 8s Pro;Funda;Antigolpes;3,10;;;
+NU-REDMAGIC-PRO-NA;nubia;Red Magic 8s Pro+;Cristal templado;Estándar;1,30;;;
+NU-REDMAGIC-PRO-PRI;nubia;Red Magic 8s Pro+;Cristal templado;Privacidad;4,00;;;
+NU-REDMAGIC-FUN-SIL;nubia;Red Magic 8s Pro+;Funda;Silicona;2,50;;;
+NU-REDMAGIC-FUN-TPU;nubia;Red Magic 8s Pro+;Funda;Transparente;2,95;;;
+NU-REDMAGIC-FUN-LIB;nubia;Red Magic 8s Pro+;Funda;Libro;3,70;;;
+NU-REDMAGIC-FUN-ANT;nubia;Red Magic 8s Pro+;Funda;Antigolpes;3,10;;;
+NU-Z50SP-PRO-NA;nubia;Z50S Pro;Cristal templado;Estándar;1,30;;;
+NU-Z50SP-PRO-PRI;nubia;Z50S Pro;Cristal templado;Privacidad;4,00;;;
+NU-Z50SP-FUN-SIL;nubia;Z50S Pro;Funda;Silicona;2,50;;;
+NU-Z50SP-FUN-TPU;nubia;Z50S Pro;Funda;Transparente;2,95;;;
+NU-Z50SP-FUN-LIB;nubia;Z50S Pro;Funda;Libro;3,70;;;
+NU-Z50SP-FUN-ANT;nubia;Z50S Pro;Funda;Antigolpes;3,10;;;
+NU-Z50U-PRO-NA;nubia;Z50 Ultra;Cristal templado;Estándar;1,30;;;
+NU-Z50U-PRO-PRI;nubia;Z50 Ultra;Cristal templado;Privacidad;4,00;;;
+NU-Z50U-FUN-SIL;nubia;Z50 Ultra;Funda;Silicona;2,50;;;
+NU-Z50U-FUN-TPU;nubia;Z50 Ultra;Funda;Transparente;2,95;;;
+NU-Z50U-FUN-LIB;nubia;Z50 Ultra;Funda;Libro;3,70;;;
+NU-Z50U-FUN-ANT;nubia;Z50 Ultra;Funda;Antigolpes;3,10;;;
+NU-REDMG8P-PRO-NA;nubia;Red Magic 8 Pro;Cristal templado;Estándar;1,30;;;
+NU-REDMG8P-PRO-PRI;nubia;Red Magic 8 Pro;Cristal templado;Privacidad;4,00;;;
+NU-REDMG8P-FUN-SIL;nubia;Red Magic 8 Pro;Funda;Silicona;2,50;;;
+NU-REDMG8P-FUN-TPU;nubia;Red Magic 8 Pro;Funda;Transparente;2,95;;;
+NU-REDMG8P-FUN-LIB;nubia;Red Magic 8 Pro;Funda;Libro;3,70;;;
+NU-REDMG8P-FUN-ANT;nubia;Red Magic 8 Pro;Funda;Antigolpes;3,10;;;
+NU-REDMG8PP-PRO-NA;nubia;Red Magic 8 Pro+;Cristal templado;Estándar;1,30;;;
+NU-REDMG8PP-PRO-PRI;nubia;Red Magic 8 Pro+;Cristal templado;Privacidad;4,00;;;
+NU-REDMG8PP-FUN-SIL;nubia;Red Magic 8 Pro+;Funda;Silicona;2,50;;;
+NU-REDMG8PP-FUN-TPU;nubia;Red Magic 8 Pro+;Funda;Transparente;2,95;;;
+NU-REDMG8PP-FUN-LIB;nubia;Red Magic 8 Pro+;Funda;Libro;3,70;;;
+NU-REDMG8PP-FUN-ANT;nubia;Red Magic 8 Pro+;Funda;Antigolpes;3,10;;;
+NU-Z50-PRO-NA;nubia;Z50;Cristal templado;Estándar;1,30;;;
+NU-Z50-PRO-PRI;nubia;Z50;Cristal templado;Privacidad;4,00;;;
+NU-Z50-FUN-SIL;nubia;Z50;Funda;Silicona;2,50;;;
+NU-Z50-FUN-TPU;nubia;Z50;Funda;Transparente;2,95;;;
+NU-Z50-FUN-LIB;nubia;Z50;Funda;Libro;3,70;;;
+NU-Z50-FUN-ANT;nubia;Z50;Funda;Antigolpes;3,10;;;
+NU-REDMG7S-PRO-NA;nubia;Red Magic 7S;Cristal templado;Estándar;1,30;;;
+NU-REDMG7S-PRO-PRI;nubia;Red Magic 7S;Cristal templado;Privacidad;4,00;;;
+NU-REDMG7S-FUN-SIL;nubia;Red Magic 7S;Funda;Silicona;2,50;;;
+NU-REDMG7S-FUN-TPU;nubia;Red Magic 7S;Funda;Transparente;2,95;;;
+NU-REDMG7S-FUN-LIB;nubia;Red Magic 7S;Funda;Libro;3,70;;;
+NU-REDMG7S-FUN-ANT;nubia;Red Magic 7S;Funda;Antigolpes;3,10;;;
+NU-REDMG7SP-PRO-NA;nubia;Red Magic 7S Pro;Cristal templado;Estándar;1,30;;;
+NU-REDMG7SP-PRO-PRI;nubia;Red Magic 7S Pro;Cristal templado;Privacidad;4,00;;;
+NU-REDMG7SP-FUN-SIL;nubia;Red Magic 7S Pro;Funda;Silicona;2,50;;;
+NU-REDMG7SP-FUN-TPU;nubia;Red Magic 7S Pro;Funda;Transparente;2,95;;;
+NU-REDMG7SP-FUN-LIB;nubia;Red Magic 7S Pro;Funda;Libro;3,70;;;
+NU-REDMG7SP-FUN-ANT;nubia;Red Magic 7S Pro;Funda;Antigolpes;3,10;;;
+NU-Z40SP-PRO-NA;nubia;Z40S Pro;Cristal templado;Estándar;1,30;;;
+NU-Z40SP-PRO-PRI;nubia;Z40S Pro;Cristal templado;Privacidad;4,00;;;
+NU-Z40SP-FUN-SIL;nubia;Z40S Pro;Funda;Silicona;2,50;;;
+NU-Z40SP-FUN-TPU;nubia;Z40S Pro;Funda;Transparente;2,95;;;
+NU-Z40SP-FUN-LIB;nubia;Z40S Pro;Funda;Libro;3,70;;;
+NU-Z40SP-FUN-ANT;nubia;Z40S Pro;Funda;Antigolpes;3,10;;;
+NU-Z40P-PRO-NA;nubia;Z40 Pro;Cristal templado;Estándar;1,30;;;
+NU-Z40P-PRO-PRI;nubia;Z40 Pro;Cristal templado;Privacidad;4,00;;;
+NU-Z40P-FUN-SIL;nubia;Z40 Pro;Funda;Silicona;2,50;;;
+NU-Z40P-FUN-TPU;nubia;Z40 Pro;Funda;Transparente;2,95;;;
+NU-Z40P-FUN-LIB;nubia;Z40 Pro;Funda;Libro;3,70;;;
+NU-Z40P-FUN-ANT;nubia;Z40 Pro;Funda;Antigolpes;3,10;;;
+NU-REDMG7-PRO-NA;nubia;Red Magic 7;Cristal templado;Estándar;1,30;;;
+NU-REDMG7-PRO-PRI;nubia;Red Magic 7;Cristal templado;Privacidad;4,00;;;
+NU-REDMG7-FUN-SIL;nubia;Red Magic 7;Funda;Silicona;2,50;;;
+NU-REDMG7-FUN-TPU;nubia;Red Magic 7;Funda;Transparente;2,95;;;
+NU-REDMG7-FUN-LIB;nubia;Red Magic 7;Funda;Libro;3,70;;;
+NU-REDMG7-FUN-ANT;nubia;Red Magic 7;Funda;Antigolpes;3,10;;;
+NU-REDMG7P-PRO-NA;nubia;Red Magic 7 Pro;Cristal templado;Estándar;1,30;;;
+NU-REDMG7P-PRO-PRI;nubia;Red Magic 7 Pro;Cristal templado;Privacidad;4,00;;;
+NU-REDMG7P-FUN-SIL;nubia;Red Magic 7 Pro;Funda;Silicona;2,50;;;
+NU-REDMG7P-FUN-TPU;nubia;Red Magic 7 Pro;Funda;Transparente;2,95;;;
+NU-REDMG7P-FUN-LIB;nubia;Red Magic 7 Pro;Funda;Libro;3,70;;;
+NU-REDMG7P-FUN-ANT;nubia;Red Magic 7 Pro;Funda;Antigolpes;3,10;;;
+NU-REDMG6R-PRO-NA;nubia;Red Magic 6R;Cristal templado;Estándar;1,30;;;
+NU-REDMG6R-PRO-PRI;nubia;Red Magic 6R;Cristal templado;Privacidad;4,00;;;
+NU-REDMG6R-FUN-SIL;nubia;Red Magic 6R;Funda;Silicona;2,50;;;
+NU-REDMG6R-FUN-TPU;nubia;Red Magic 6R;Funda;Transparente;2,95;;;
+NU-REDMG6R-FUN-LIB;nubia;Red Magic 6R;Funda;Libro;3,70;;;
+NU-REDMG6R-FUN-ANT;nubia;Red Magic 6R;Funda;Antigolpes;3,10;;;
+NU-Z30P-PRO-NA;nubia;Z30 Pro;Cristal templado;Estándar;1,30;;;
+NU-Z30P-PRO-PRI;nubia;Z30 Pro;Cristal templado;Privacidad;4,00;;;
+NU-Z30P-FUN-SIL;nubia;Z30 Pro;Funda;Silicona;2,50;;;
+NU-Z30P-FUN-TPU;nubia;Z30 Pro;Funda;Transparente;2,95;;;
+NU-Z30P-FUN-LIB;nubia;Z30 Pro;Funda;Libro;3,70;;;
+NU-Z30P-FUN-ANT;nubia;Z30 Pro;Funda;Antigolpes;3,10;;;
+NU-REDMG6-PRO-NA;nubia;Red Magic 6;Cristal templado;Estándar;1,30;;;
+NU-REDMG6-PRO-PRI;nubia;Red Magic 6;Cristal templado;Privacidad;4,00;;;
+NU-REDMG6-FUN-SIL;nubia;Red Magic 6;Funda;Silicona;2,50;;;
+NU-REDMG6-FUN-TPU;nubia;Red Magic 6;Funda;Transparente;2,95;;;
+NU-REDMG6-FUN-LIB;nubia;Red Magic 6;Funda;Libro;3,70;;;
+NU-REDMG6-FUN-ANT;nubia;Red Magic 6;Funda;Antigolpes;3,10;;;
+NU-REDMG6P-PRO-NA;nubia;Red Magic 6 Pro;Cristal templado;Estándar;1,30;;;
+NU-REDMG6P-PRO-PRI;nubia;Red Magic 6 Pro;Cristal templado;Privacidad;4,00;;;
+NU-REDMG6P-FUN-SIL;nubia;Red Magic 6 Pro;Funda;Silicona;2,50;;;
+NU-REDMG6P-FUN-TPU;nubia;Red Magic 6 Pro;Funda;Transparente;2,95;;;
+NU-REDMG6P-FUN-LIB;nubia;Red Magic 6 Pro;Funda;Libro;3,70;;;
+NU-REDMG6P-FUN-ANT;nubia;Red Magic 6 Pro;Funda;Antigolpes;3,10;;;
+NU-REDMG6S-PRO-NA;nubia;Red Magic 6s;Cristal templado;Estándar;1,30;;;
+NU-REDMG6S-PRO-PRI;nubia;Red Magic 6s;Cristal templado;Privacidad;4,00;;;
+NU-REDMG6S-FUN-SIL;nubia;Red Magic 6s;Funda;Silicona;2,50;;;
+NU-REDMG6S-FUN-TPU;nubia;Red Magic 6s;Funda;Transparente;2,95;;;
+NU-REDMG6S-FUN-LIB;nubia;Red Magic 6s;Funda;Libro;3,70;;;
+NU-REDMG6S-FUN-ANT;nubia;Red Magic 6s;Funda;Antigolpes;3,10;;;
+NU-REDMG6SP-PRO-NA;nubia;Red Magic 6s Pro;Cristal templado;Estándar;1,30;;;
+NU-REDMG6SP-PRO-PRI;nubia;Red Magic 6s Pro;Cristal templado;Privacidad;4,00;;;
+NU-REDMG6SP-FUN-SIL;nubia;Red Magic 6s Pro;Funda;Silicona;2,50;;;
+NU-REDMG6SP-FUN-TPU;nubia;Red Magic 6s Pro;Funda;Transparente;2,95;;;
+NU-REDMG6SP-FUN-LIB;nubia;Red Magic 6s Pro;Funda;Libro;3,70;;;
+NU-REDMG6SP-FUN-ANT;nubia;Red Magic 6s Pro;Funda;Antigolpes;3,10;;;
+NU-REDMG5S-PRO-NA;nubia;Red Magic 5S;Cristal templado;Estándar;1,30;;;
+NU-REDMG5S-PRO-PRI;nubia;Red Magic 5S;Cristal templado;Privacidad;4,00;;;
+NU-REDMG5S-FUN-SIL;nubia;Red Magic 5S;Funda;Silicona;2,50;;;
+NU-REDMG5S-FUN-TPU;nubia;Red Magic 5S;Funda;Transparente;2,95;;;
+NU-REDMG5S-FUN-LIB;nubia;Red Magic 5S;Funda;Libro;3,70;;;
+NU-REDMG5S-FUN-ANT;nubia;Red Magic 5S;Funda;Antigolpes;3,10;;;
+NU-PY-PRO-NA;nubia;Play;Cristal templado;Estándar;1,30;;;
+NU-PY-PRO-PRI;nubia;Play;Cristal templado;Privacidad;4,00;;;
+NU-PY-FUN-SIL;nubia;Play;Funda;Silicona;2,50;;;
+NU-PY-FUN-TPU;nubia;Play;Funda;Transparente;2,95;;;
+NU-PY-FUN-LIB;nubia;Play;Funda;Libro;3,70;;;
+NU-PY-FUN-ANT;nubia;Play;Funda;Antigolpes;3,10;;;
+NU-REDMG5L-PRO-NA;nubia;Red Magic 5G Lite;Cristal templado;Estándar;1,30;;;
+NU-REDMG5L-PRO-PRI;nubia;Red Magic 5G Lite;Cristal templado;Privacidad;4,00;;;
+NU-REDMG5L-FUN-SIL;nubia;Red Magic 5G Lite;Funda;Silicona;2,50;;;
+NU-REDMG5L-FUN-TPU;nubia;Red Magic 5G Lite;Funda;Transparente;2,95;;;
+NU-REDMG5L-FUN-LIB;nubia;Red Magic 5G Lite;Funda;Libro;3,70;;;
+NU-REDMG5L-FUN-ANT;nubia;Red Magic 5G Lite;Funda;Antigolpes;3,10;;;
+NU-REDMG5-PRO-NA;nubia;Red Magic 5G;Cristal templado;Estándar;1,30;;;
+NU-REDMG5-PRO-PRI;nubia;Red Magic 5G;Cristal templado;Privacidad;4,00;;;
+NU-REDMG5-FUN-SIL;nubia;Red Magic 5G;Funda;Silicona;2,50;;;
+NU-REDMG5-FUN-TPU;nubia;Red Magic 5G;Funda;Transparente;2,95;;;
+NU-REDMG5-FUN-LIB;nubia;Red Magic 5G;Funda;Libro;3,70;;;
+NU-REDMG5-FUN-ANT;nubia;Red Magic 5G;Funda;Antigolpes;3,10;;;
+NU-REDMG3S-PRO-NA;nubia;Red Magic 3s;Cristal templado;Estándar;1,30;;;
+NU-REDMG3S-PRO-PRI;nubia;Red Magic 3s;Cristal templado;Privacidad;4,00;;;
+NU-REDMG3S-FUN-SIL;nubia;Red Magic 3s;Funda;Silicona;2,50;;;
+NU-REDMG3S-FUN-TPU;nubia;Red Magic 3s;Funda;Transparente;2,95;;;
+NU-REDMG3S-FUN-LIB;nubia;Red Magic 3s;Funda;Libro;3,70;;;
+NU-REDMG3S-FUN-ANT;nubia;Red Magic 3s;Funda;Antigolpes;3,10;;;
+NU-Z20-PRO-NA;nubia;Z20;Cristal templado;Estándar;1,30;;;
+NU-Z20-PRO-PRI;nubia;Z20;Cristal templado;Privacidad;4,00;;;
+NU-Z20-FUN-SIL;nubia;Z20;Funda;Silicona;2,50;;;
+NU-Z20-FUN-TPU;nubia;Z20;Funda;Transparente;2,95;;;
+NU-Z20-FUN-LIB;nubia;Z20;Funda;Libro;3,70;;;
+NU-Z20-FUN-ANT;nubia;Z20;Funda;Antigolpes;3,10;;;
+NU-REDMG3-PRO-NA;nubia;Red Magic 3;Cristal templado;Estándar;1,30;;;
+NU-REDMG3-PRO-PRI;nubia;Red Magic 3;Cristal templado;Privacidad;4,00;;;
+NU-REDMG3-FUN-SIL;nubia;Red Magic 3;Funda;Silicona;2,50;;;
+NU-REDMG3-FUN-TPU;nubia;Red Magic 3;Funda;Transparente;2,95;;;
+NU-REDMG3-FUN-LIB;nubia;Red Magic 3;Funda;Libro;3,70;;;
+NU-REDMG3-FUN-ANT;nubia;Red Magic 3;Funda;Antigolpes;3,10;;;
+NU-REDMGM-PRO-NA;nubia;Red Magic Mars;Cristal templado;Estándar;1,30;;;
+NU-REDMGM-PRO-PRI;nubia;Red Magic Mars;Cristal templado;Privacidad;4,00;;;
+NU-REDMGM-FUN-SIL;nubia;Red Magic Mars;Funda;Silicona;2,50;;;
+NU-REDMGM-FUN-TPU;nubia;Red Magic Mars;Funda;Transparente;2,95;;;
+NU-REDMGM-FUN-LIB;nubia;Red Magic Mars;Funda;Libro;3,70;;;
+NU-REDMGM-FUN-ANT;nubia;Red Magic Mars;Funda;Antigolpes;3,10;;;
+NU-X-PRO-NA;nubia;X;Cristal templado;Estándar;1,30;;;
+NU-X-PRO-PRI;nubia;X;Cristal templado;Privacidad;4,00;;;
+NU-X-FUN-SIL;nubia;X;Funda;Silicona;2,50;;;
+NU-X-FUN-TPU;nubia;X;Funda;Transparente;2,95;;;
+NU-X-FUN-LIB;nubia;X;Funda;Libro;3,70;;;
+NU-X-FUN-ANT;nubia;X;Funda;Antigolpes;3,10;;;
+NU-Z18-PRO-NA;nubia;Z18;Cristal templado;Estándar;1,30;;;
+NU-Z18-PRO-PRI;nubia;Z18;Cristal templado;Privacidad;4,00;;;
+NU-Z18-FUN-SIL;nubia;Z18;Funda;Silicona;2,50;;;
+NU-Z18-FUN-TPU;nubia;Z18;Funda;Transparente;2,95;;;
+NU-Z18-FUN-LIB;nubia;Z18;Funda;Libro;3,70;;;
+NU-Z18-FUN-ANT;nubia;Z18;Funda;Antigolpes;3,10;;;
+NU-REDMG-PRO-NA;nubia;Red Magic;Cristal templado;Estándar;1,30;;;
+NU-REDMG-PRO-PRI;nubia;Red Magic;Cristal templado;Privacidad;4,00;;;
+NU-REDMG-FUN-SIL;nubia;Red Magic;Funda;Silicona;2,50;;;
+NU-REDMG-FUN-TPU;nubia;Red Magic;Funda;Transparente;2,95;;;
+NU-REDMG-FUN-LIB;nubia;Red Magic;Funda;Libro;3,70;;;
+NU-REDMG-FUN-ANT;nubia;Red Magic;Funda;Antigolpes;3,10;;;
+NU-Z18MN-PRO-NA;nubia;Z18 mini;Cristal templado;Estándar;1,30;;;
+NU-Z18MN-PRO-PRI;nubia;Z18 mini;Cristal templado;Privacidad;4,00;;;
+NU-Z18MN-FUN-SIL;nubia;Z18 mini;Funda;Silicona;2,50;;;
+NU-Z18MN-FUN-TPU;nubia;Z18 mini;Funda;Transparente;2,95;;;
+NU-Z18MN-FUN-LIB;nubia;Z18 mini;Funda;Libro;3,70;;;
+NU-Z18MN-FUN-ANT;nubia;Z18 mini;Funda;Antigolpes;3,10;;;
+NU-N3-PRO-NA;nubia;N3;Cristal templado;Estándar;1,30;;;
+NU-N3-PRO-PRI;nubia;N3;Cristal templado;Privacidad;4,00;;;
+NU-N3-FUN-SIL;nubia;N3;Funda;Silicona;2,50;;;
+NU-N3-FUN-TPU;nubia;N3;Funda;Transparente;2,95;;;
+NU-N3-FUN-LIB;nubia;N3;Funda;Libro;3,70;;;
+NU-N3-FUN-ANT;nubia;N3;Funda;Antigolpes;3,10;;;
+NU-V18-PRO-NA;nubia;V18;Cristal templado;Estándar;1,30;;;
+NU-V18-PRO-PRI;nubia;V18;Cristal templado;Privacidad;4,00;;;
+NU-V18-FUN-SIL;nubia;V18;Funda;Silicona;2,50;;;
+NU-V18-FUN-TPU;nubia;V18;Funda;Transparente;2,95;;;
+NU-V18-FUN-LIB;nubia;V18;Funda;Libro;3,70;;;
+NU-V18-FUN-ANT;nubia;V18;Funda;Antigolpes;3,10;;;
+NU-Z17M-PRO-NA;nubia;Z17 miniS;Cristal templado;Estándar;1,30;;;
+NU-Z17M-PRO-PRI;nubia;Z17 miniS;Cristal templado;Privacidad;4,00;;;
+NU-Z17M-FUN-SIL;nubia;Z17 miniS;Funda;Silicona;2,50;;;
+NU-Z17M-FUN-TPU;nubia;Z17 miniS;Funda;Transparente;2,95;;;
+NU-Z17M-FUN-LIB;nubia;Z17 miniS;Funda;Libro;3,70;;;
+NU-Z17M-FUN-ANT;nubia;Z17 miniS;Funda;Antigolpes;3,10;;;
+NU-Z17S-PRO-NA;nubia;Z17s;Cristal templado;Estándar;1,30;;;
+NU-Z17S-PRO-PRI;nubia;Z17s;Cristal templado;Privacidad;4,00;;;
+NU-Z17S-FUN-SIL;nubia;Z17s;Funda;Silicona;2,50;;;
+NU-Z17S-FUN-TPU;nubia;Z17s;Funda;Transparente;2,95;;;
+NU-Z17S-FUN-LIB;nubia;Z17s;Funda;Libro;3,70;;;
+NU-Z17S-FUN-ANT;nubia;Z17s;Funda;Antigolpes;3,10;;;
+NU-Z17L-PRO-NA;nubia;Z17 lite;Cristal templado;Estándar;1,30;;;
+NU-Z17L-PRO-PRI;nubia;Z17 lite;Cristal templado;Privacidad;4,00;;;
+NU-Z17L-FUN-SIL;nubia;Z17 lite;Funda;Silicona;2,50;;;
+NU-Z17L-FUN-TPU;nubia;Z17 lite;Funda;Transparente;2,95;;;
+NU-Z17L-FUN-LIB;nubia;Z17 lite;Funda;Libro;3,70;;;
+NU-Z17L-FUN-ANT;nubia;Z17 lite;Funda;Antigolpes;3,10;;;
+NU-Z17-PRO-NA;nubia;Z17;Cristal templado;Estándar;1,30;;;
+NU-Z17-PRO-PRI;nubia;Z17;Cristal templado;Privacidad;4,00;;;
+NU-Z17-FUN-SIL;nubia;Z17;Funda;Silicona;2,50;;;
+NU-Z17-FUN-TPU;nubia;Z17;Funda;Transparente;2,95;;;
+NU-Z17-FUN-LIB;nubia;Z17;Funda;Libro;3,70;;;
+NU-Z17-FUN-ANT;nubia;Z17;Funda;Antigolpes;3,10;;;
+NU-N1L-PRO-NA;nubia;N1 lite;Cristal templado;Estándar;1,30;;;
+NU-N1L-PRO-PRI;nubia;N1 lite;Cristal templado;Privacidad;4,00;;;
+NU-N1L-FUN-SIL;nubia;N1 lite;Funda;Silicona;2,50;;;
+NU-N1L-FUN-TPU;nubia;N1 lite;Funda;Transparente;2,95;;;
+NU-N1L-FUN-LIB;nubia;N1 lite;Funda;Libro;3,70;;;
+NU-N1L-FUN-ANT;nubia;N1 lite;Funda;Antigolpes;3,10;;;
+NU-Z17MN-PRO-NA;nubia;Z17 mini;Cristal templado;Estándar;1,30;;;
+NU-Z17MN-PRO-PRI;nubia;Z17 mini;Cristal templado;Privacidad;4,00;;;
+NU-Z17MN-FUN-SIL;nubia;Z17 mini;Funda;Silicona;2,50;;;
+NU-Z17MN-FUN-TPU;nubia;Z17 mini;Funda;Transparente;2,95;;;
+NU-Z17MN-FUN-LIB;nubia;Z17 mini;Funda;Libro;3,70;;;
+NU-Z17MN-FUN-ANT;nubia;Z17 mini;Funda;Antigolpes;3,10;;;
+NU-M2-PRO-NA;nubia;M2;Cristal templado;Estándar;1,30;;;
+NU-M2-PRO-PRI;nubia;M2;Cristal templado;Privacidad;4,00;;;
+NU-M2-FUN-SIL;nubia;M2;Funda;Silicona;2,50;;;
+NU-M2-FUN-TPU;nubia;M2;Funda;Transparente;2,95;;;
+NU-M2-FUN-LIB;nubia;M2;Funda;Libro;3,70;;;
+NU-M2-FUN-ANT;nubia;M2;Funda;Antigolpes;3,10;;;
+NU-M2L-PRO-NA;nubia;M2 lite;Cristal templado;Estándar;1,30;;;
+NU-M2L-PRO-PRI;nubia;M2 lite;Cristal templado;Privacidad;4,00;;;
+NU-M2L-FUN-SIL;nubia;M2 lite;Funda;Silicona;2,50;;;
+NU-M2L-FUN-TPU;nubia;M2 lite;Funda;Transparente;2,95;;;
+NU-M2L-FUN-LIB;nubia;M2 lite;Funda;Libro;3,70;;;
+NU-M2L-FUN-ANT;nubia;M2 lite;Funda;Antigolpes;3,10;;;
+NU-N2-PRO-NA;nubia;N2;Cristal templado;Estándar;1,30;;;
+NU-N2-PRO-PRI;nubia;N2;Cristal templado;Privacidad;4,00;;;
+NU-N2-FUN-SIL;nubia;N2;Funda;Silicona;2,50;;;
+NU-N2-FUN-TPU;nubia;N2;Funda;Transparente;2,95;;;
+NU-N2-FUN-LIB;nubia;N2;Funda;Libro;3,70;;;
+NU-N2-FUN-ANT;nubia;N2;Funda;Antigolpes;3,10;;;
+NU-Z11MNS-PRO-NA;nubia;Z11 mini S;Cristal templado;Estándar;1,30;;;
+NU-Z11MNS-PRO-PRI;nubia;Z11 mini S;Cristal templado;Privacidad;4,00;;;
+NU-Z11MNS-FUN-SIL;nubia;Z11 mini S;Funda;Silicona;2,50;;;
+NU-Z11MNS-FUN-TPU;nubia;Z11 mini S;Funda;Transparente;2,95;;;
+NU-Z11MNS-FUN-LIB;nubia;Z11 mini S;Funda;Libro;3,70;;;
+NU-Z11MNS-FUN-ANT;nubia;Z11 mini S;Funda;Antigolpes;3,10;;;
+NU-N1-PRO-NA;nubia;N1;Cristal templado;Estándar;1,30;;;
+NU-N1-PRO-PRI;nubia;N1;Cristal templado;Privacidad;4,00;;;
+NU-N1-FUN-SIL;nubia;N1;Funda;Silicona;2,50;;;
+NU-N1-FUN-TPU;nubia;N1;Funda;Transparente;2,95;;;
+NU-N1-FUN-LIB;nubia;N1;Funda;Libro;3,70;;;
+NU-N1-FUN-ANT;nubia;N1;Funda;Antigolpes;3,10;;;
+NU-Z11-PRO-NA;nubia;Z11;Cristal templado;Estándar;1,30;;;
+NU-Z11-PRO-PRI;nubia;Z11;Cristal templado;Privacidad;4,00;;;
+NU-Z11-FUN-SIL;nubia;Z11;Funda;Silicona;2,50;;;
+NU-Z11-FUN-TPU;nubia;Z11;Funda;Transparente;2,95;;;
+NU-Z11-FUN-LIB;nubia;Z11;Funda;Libro;3,70;;;
+NU-Z11-FUN-ANT;nubia;Z11;Funda;Antigolpes;3,10;;;
+NU-Z11M-PRO-NA;nubia;Z11 Max;Cristal templado;Estándar;1,30;;;
+NU-Z11M-PRO-PRI;nubia;Z11 Max;Cristal templado;Privacidad;4,00;;;
+NU-Z11M-FUN-SIL;nubia;Z11 Max;Funda;Silicona;2,50;;;
+NU-Z11M-FUN-TPU;nubia;Z11 Max;Funda;Transparente;2,95;;;
+NU-Z11M-FUN-LIB;nubia;Z11 Max;Funda;Libro;3,70;;;
+NU-Z11M-FUN-ANT;nubia;Z11 Max;Funda;Antigolpes;3,10;;;
+NU-Z11MN-PRO-NA;nubia;Z11 mini;Cristal templado;Estándar;1,30;;;
+NU-Z11MN-PRO-PRI;nubia;Z11 mini;Cristal templado;Privacidad;4,00;;;
+NU-Z11MN-FUN-SIL;nubia;Z11 mini;Funda;Silicona;2,50;;;
+NU-Z11MN-FUN-TPU;nubia;Z11 mini;Funda;Transparente;2,95;;;
+NU-Z11MN-FUN-LIB;nubia;Z11 mini;Funda;Libro;3,70;;;
+NU-Z11MN-FUN-ANT;nubia;Z11 mini;Funda;Antigolpes;3,10;;;
+NU-PS-PRO-NA;nubia;Prague S;Cristal templado;Estándar;1,30;;;
+NU-PS-PRO-PRI;nubia;Prague S;Cristal templado;Privacidad;4,00;;;
+NU-PS-FUN-SIL;nubia;Prague S;Funda;Silicona;2,50;;;
+NU-PS-FUN-TPU;nubia;Prague S;Funda;Transparente;2,95;;;
+NU-PS-FUN-LIB;nubia;Prague S;Funda;Libro;3,70;;;
+NU-PS-FUN-ANT;nubia;Prague S;Funda;Antigolpes;3,10;;;
+NU-MYP-PRO-NA;nubia;My Prague;Cristal templado;Estándar;1,30;;;
+NU-MYP-PRO-PRI;nubia;My Prague;Cristal templado;Privacidad;4,00;;;
+NU-MYP-FUN-SIL;nubia;My Prague;Funda;Silicona;2,50;;;
+NU-MYP-FUN-TPU;nubia;My Prague;Funda;Transparente;2,95;;;
+NU-MYP-FUN-LIB;nubia;My Prague;Funda;Libro;3,70;;;
+NU-MYP-FUN-ANT;nubia;My Prague;Funda;Antigolpes;3,10;;;
+NU-Z9-PRO-NA;nubia;Z9;Cristal templado;Estándar;1,30;;;
+NU-Z9-PRO-PRI;nubia;Z9;Cristal templado;Privacidad;4,00;;;
+NU-Z9-FUN-SIL;nubia;Z9;Funda;Silicona;2,50;;;
+NU-Z9-FUN-TPU;nubia;Z9;Funda;Transparente;2,95;;;
+NU-Z9-FUN-LIB;nubia;Z9;Funda;Libro;3,70;;;
+NU-Z9-FUN-ANT;nubia;Z9;Funda;Antigolpes;3,10;;;
+NU-Z9M-PRO-NA;nubia;Z9 Max;Cristal templado;Estándar;1,30;;;
+NU-Z9M-PRO-PRI;nubia;Z9 Max;Cristal templado;Privacidad;4,00;;;
+NU-Z9M-FUN-SIL;nubia;Z9 Max;Funda;Silicona;2,50;;;
+NU-Z9M-FUN-TPU;nubia;Z9 Max;Funda;Transparente;2,95;;;
+NU-Z9M-FUN-LIB;nubia;Z9 Max;Funda;Libro;3,70;;;
+NU-Z9M-FUN-ANT;nubia;Z9 Max;Funda;Antigolpes;3,10;;;
+NU-Z9MN-PRO-NA;nubia;Z9 mini;Cristal templado;Estándar;1,30;;;
+NU-Z9MN-PRO-PRI;nubia;Z9 mini;Cristal templado;Privacidad;4,00;;;
+NU-Z9MN-FUN-SIL;nubia;Z9 mini;Funda;Silicona;2,50;;;
+NU-Z9MN-FUN-TPU;nubia;Z9 mini;Funda;Transparente;2,95;;;
+NU-Z9MN-FUN-LIB;nubia;Z9 mini;Funda;Libro;3,70;;;
+NU-Z9MN-FUN-ANT;nubia;Z9 mini;Funda;Antigolpes;3,10;;;
+NU-Z5SMININ-PRO-NA;nubia;Z5S mini NX405H;Cristal templado;Estándar;1,30;;;
+NU-Z5SMININ-PRO-PRI;nubia;Z5S mini NX405H;Cristal templado;Privacidad;4,00;;;
+NU-Z5SMININ-FUN-SIL;nubia;Z5S mini NX405H;Funda;Silicona;2,50;;;
+NU-Z5SMININ-FUN-TPU;nubia;Z5S mini NX405H;Funda;Transparente;2,95;;;
+NU-Z5SMININ-FUN-LIB;nubia;Z5S mini NX405H;Funda;Libro;3,70;;;
+NU-Z5SMININ-FUN-ANT;nubia;Z5S mini NX405H;Funda;Antigolpes;3,10;;;
+NU-Z7-PRO-NA;nubia;Z7;Cristal templado;Estándar;1,30;;;
+NU-Z7-PRO-PRI;nubia;Z7;Cristal templado;Privacidad;4,00;;;
+NU-Z7-FUN-SIL;nubia;Z7;Funda;Silicona;2,50;;;
+NU-Z7-FUN-TPU;nubia;Z7;Funda;Transparente;2,95;;;
+NU-Z7-FUN-LIB;nubia;Z7;Funda;Libro;3,70;;;
+NU-Z7-FUN-ANT;nubia;Z7;Funda;Antigolpes;3,10;;;
+NU-Z7M-PRO-NA;nubia;Z7 Max;Cristal templado;Estándar;1,30;;;
+NU-Z7M-PRO-PRI;nubia;Z7 Max;Cristal templado;Privacidad;4,00;;;
+NU-Z7M-FUN-SIL;nubia;Z7 Max;Funda;Silicona;2,50;;;
+NU-Z7M-FUN-TPU;nubia;Z7 Max;Funda;Transparente;2,95;;;
+NU-Z7M-FUN-LIB;nubia;Z7 Max;Funda;Libro;3,70;;;
+NU-Z7M-FUN-ANT;nubia;Z7 Max;Funda;Antigolpes;3,10;;;
+NU-Z7MN-PRO-NA;nubia;Z7 mini;Cristal templado;Estándar;1,30;;;
+NU-Z7MN-PRO-PRI;nubia;Z7 mini;Cristal templado;Privacidad;4,00;;;
+NU-Z7MN-FUN-SIL;nubia;Z7 mini;Funda;Silicona;2,50;;;
+NU-Z7MN-FUN-TPU;nubia;Z7 mini;Funda;Transparente;2,95;;;
+NU-Z7MN-FUN-LIB;nubia;Z7 mini;Funda;Libro;3,70;;;
+NU-Z7MN-FUN-ANT;nubia;Z7 mini;Funda;Antigolpes;3,10;;;
+NU-X6-PRO-NA;nubia;X6;Cristal templado;Estándar;1,30;;;
+NU-X6-PRO-PRI;nubia;X6;Cristal templado;Privacidad;4,00;;;
+NU-X6-FUN-SIL;nubia;X6;Funda;Silicona;2,50;;;
+NU-X6-FUN-TPU;nubia;X6;Funda;Transparente;2,95;;;
+NU-X6-FUN-LIB;nubia;X6;Funda;Libro;3,70;;;
+NU-X6-FUN-ANT;nubia;X6;Funda;Antigolpes;3,10;;;
+NU-Z5S-PRO-NA;nubia;Z5S;Cristal templado;Estándar;1,30;;;
+NU-Z5S-PRO-PRI;nubia;Z5S;Cristal templado;Privacidad;4,00;;;
+NU-Z5S-FUN-SIL;nubia;Z5S;Funda;Silicona;2,50;;;
+NU-Z5S-FUN-TPU;nubia;Z5S;Funda;Transparente;2,95;;;
+NU-Z5S-FUN-LIB;nubia;Z5S;Funda;Libro;3,70;;;
+NU-Z5S-FUN-ANT;nubia;Z5S;Funda;Antigolpes;3,10;;;
+NU-Z5SMNNX4-PRO-NA;nubia;Z5S mini NX403A;Cristal templado;Estándar;1,30;;;
+NU-Z5SMNNX4-PRO-PRI;nubia;Z5S mini NX403A;Cristal templado;Privacidad;4,00;;;
+NU-Z5SMNNX4-FUN-SIL;nubia;Z5S mini NX403A;Funda;Silicona;2,50;;;
+NU-Z5SMNNX4-FUN-TPU;nubia;Z5S mini NX403A;Funda;Transparente;2,95;;;
+NU-Z5SMNNX4-FUN-LIB;nubia;Z5S mini NX403A;Funda;Libro;3,70;;;
+NU-Z5SMNNX4-FUN-ANT;nubia;Z5S mini NX403A;Funda;Antigolpes;3,10;;;
+NU-Z5-PRO-NA;nubia;Z5;Cristal templado;Estándar;1,30;;;
+NU-Z5-PRO-PRI;nubia;Z5;Cristal templado;Privacidad;4,00;;;
+NU-Z5-FUN-SIL;nubia;Z5;Funda;Silicona;2,50;;;
+NU-Z5-FUN-TPU;nubia;Z5;Funda;Transparente;2,95;;;
+NU-Z5-FUN-LIB;nubia;Z5;Funda;Libro;3,70;;;
+NU-Z5-FUN-ANT;nubia;Z5;Funda;Antigolpes;3,10;;;
+NU-F2-MAR-COM;nubia;Focus 2;Marco / chasis;Compatible;7,90;;;6
+NU-F2-BOT-COM;nubia;Focus 2;Botones laterales;Compatible;4,05;;;6
+NU-F2-CRI-COM;nubia;Focus 2;Cristal de pantalla;Compatible;4,05;;;6
+NU-F2-ANT-COM;nubia;Focus 2;Antena / coaxial;Compatible;3,50;;;6
+NU-F2-HUE-COM;nubia;Focus 2;Botón home / huella;Compatible;5,85;;;6
+NU-F2U-MAR-COM;nubia;Focus 2 Ultra;Marco / chasis;Compatible;7,90;;;6
+NU-F2U-BOT-COM;nubia;Focus 2 Ultra;Botones laterales;Compatible;4,05;;;6
+NU-F2U-CRI-COM;nubia;Focus 2 Ultra;Cristal de pantalla;Compatible;4,05;;;6
+NU-F2U-ANT-COM;nubia;Focus 2 Ultra;Antena / coaxial;Compatible;3,50;;;6
+NU-F2U-HUE-COM;nubia;Focus 2 Ultra;Botón home / huella;Compatible;5,85;;;6
+NU-NEO3-MAR-COM;nubia;Neo 3;Marco / chasis;Compatible;7,90;;;6
+NU-NEO3-BOT-COM;nubia;Neo 3;Botones laterales;Compatible;4,05;;;6
+NU-NEO3-CRI-COM;nubia;Neo 3;Cristal de pantalla;Compatible;4,05;;;6
+NU-NEO3-ANT-COM;nubia;Neo 3;Antena / coaxial;Compatible;3,50;;;6
+NU-NEO3-HUE-COM;nubia;Neo 3;Botón home / huella;Compatible;5,85;;;6
+NU-NEO3GT-MAR-COM;nubia;Neo 3 GT;Marco / chasis;Compatible;7,90;;;6
+NU-NEO3GT-BOT-COM;nubia;Neo 3 GT;Botones laterales;Compatible;4,05;;;6
+NU-NEO3GT-CRI-COM;nubia;Neo 3 GT;Cristal de pantalla;Compatible;4,05;;;6
+NU-NEO3GT-ANT-COM;nubia;Neo 3 GT;Antena / coaxial;Compatible;3,50;;;6
+NU-NEO3GT-HUE-COM;nubia;Neo 3 GT;Botón home / huella;Compatible;5,85;;;6
+NU-REDMG10A-MAR-COM;nubia;Red Magic 10 Air;Marco / chasis;Compatible;7,90;;;6
+NU-REDMG10A-BOT-COM;nubia;Red Magic 10 Air;Botones laterales;Compatible;4,05;;;6
+NU-REDMG10A-CRI-COM;nubia;Red Magic 10 Air;Cristal de pantalla;Compatible;4,05;;;6
+NU-REDMG10A-ANT-COM;nubia;Red Magic 10 Air;Antena / coaxial;Compatible;3,50;;;6
+NU-REDMG10A-HUE-COM;nubia;Red Magic 10 Air;Botón home / huella;Compatible;5,85;;;6
+NU-MUSIC2-MAR-COM;nubia;Music 2;Marco / chasis;Compatible;7,90;;;6
+NU-MUSIC2-BOT-COM;nubia;Music 2;Botones laterales;Compatible;4,05;;;6
+NU-MUSIC2-CRI-COM;nubia;Music 2;Cristal de pantalla;Compatible;4,05;;;6
+NU-MUSIC2-ANT-COM;nubia;Music 2;Antena / coaxial;Compatible;3,50;;;6
+NU-MUSIC2-HUE-COM;nubia;Music 2;Botón home / huella;Compatible;5,85;;;6
+NU-REDMG10P-MAR-COM;nubia;Red Magic 10 Pro;Marco / chasis;Compatible;7,90;;;6
+NU-REDMG10P-BOT-COM;nubia;Red Magic 10 Pro;Botones laterales;Compatible;4,05;;;6
+NU-REDMG10P-CRI-COM;nubia;Red Magic 10 Pro;Cristal de pantalla;Compatible;4,05;;;6
+NU-REDMG10P-ANT-COM;nubia;Red Magic 10 Pro;Antena / coaxial;Compatible;3,50;;;6
+NU-REDMG10P-HUE-COM;nubia;Red Magic 10 Pro;Botón home / huella;Compatible;5,85;;;6
+NU-REDMG102-MAR-COM;nubia;Red Magic 10 Pro+;Marco / chasis;Compatible;7,90;;;6
+NU-REDMG102-BOT-COM;nubia;Red Magic 10 Pro+;Botones laterales;Compatible;4,05;;;6
+NU-REDMG102-CRI-COM;nubia;Red Magic 10 Pro+;Cristal de pantalla;Compatible;4,05;;;6
+NU-REDMG102-ANT-COM;nubia;Red Magic 10 Pro+;Antena / coaxial;Compatible;3,50;;;6
+NU-REDMG102-HUE-COM;nubia;Red Magic 10 Pro+;Botón home / huella;Compatible;5,85;;;6
+NU-REDMG10S-MAR-COM;nubia;Red Magic 10S Pro;Marco / chasis;Compatible;7,90;;;6
+NU-REDMG10S-BOT-COM;nubia;Red Magic 10S Pro;Botones laterales;Compatible;4,05;;;6
+NU-REDMG10S-CRI-COM;nubia;Red Magic 10S Pro;Cristal de pantalla;Compatible;4,05;;;6
+NU-REDMG10S-ANT-COM;nubia;Red Magic 10S Pro;Antena / coaxial;Compatible;3,50;;;6
+NU-REDMG10S-HUE-COM;nubia;Red Magic 10S Pro;Botón home / huella;Compatible;5,85;;;6
+NU-REDMG103-MAR-COM;nubia;Red Magic 10S Pro+;Marco / chasis;Compatible;7,90;;;6
+NU-REDMG103-BOT-COM;nubia;Red Magic 10S Pro+;Botones laterales;Compatible;4,05;;;6
+NU-REDMG103-CRI-COM;nubia;Red Magic 10S Pro+;Cristal de pantalla;Compatible;4,05;;;6
+NU-REDMG103-ANT-COM;nubia;Red Magic 10S Pro+;Antena / coaxial;Compatible;3,50;;;6
+NU-REDMG103-HUE-COM;nubia;Red Magic 10S Pro+;Botón home / huella;Compatible;5,85;;;6
+NU-Z70U-MAR-COM;nubia;Z70 Ultra;Marco / chasis;Compatible;7,90;;;6
+NU-Z70U-BOT-COM;nubia;Z70 Ultra;Botones laterales;Compatible;4,05;;;6
+NU-Z70U-CRI-COM;nubia;Z70 Ultra;Cristal de pantalla;Compatible;4,05;;;6
+NU-Z70U-ANT-COM;nubia;Z70 Ultra;Antena / coaxial;Compatible;3,50;;;6
+NU-Z70U-HUE-COM;nubia;Z70 Ultra;Botón home / huella;Compatible;5,85;;;6
+NU-Z60ULV-MAR-COM;nubia;Z60 Ultra Leading Version;Marco / chasis;Compatible;7,90;;;6
+NU-Z60ULV-BOT-COM;nubia;Z60 Ultra Leading Version;Botones laterales;Compatible;4,05;;;6
+NU-Z60ULV-CRI-COM;nubia;Z60 Ultra Leading Version;Cristal de pantalla;Compatible;4,05;;;6
+NU-Z60ULV-ANT-COM;nubia;Z60 Ultra Leading Version;Antena / coaxial;Compatible;3,50;;;6
+NU-Z60ULV-HUE-COM;nubia;Z60 Ultra Leading Version;Botón home / huella;Compatible;5,85;;;6
+NU-Z60SP-MAR-COM;nubia;Z60S Pro;Marco / chasis;Compatible;7,90;;;6
+NU-Z60SP-BOT-COM;nubia;Z60S Pro;Botones laterales;Compatible;4,05;;;6
+NU-Z60SP-CRI-COM;nubia;Z60S Pro;Cristal de pantalla;Compatible;4,05;;;6
+NU-Z60SP-ANT-COM;nubia;Z60S Pro;Antena / coaxial;Compatible;3,50;;;6
+NU-Z60SP-HUE-COM;nubia;Z60S Pro;Botón home / huella;Compatible;5,85;;;6
+NU-M-MAR-COM;nubia;Music;Marco / chasis;Compatible;7,90;;;6
+NU-M-BOT-COM;nubia;Music;Botones laterales;Compatible;4,05;;;6
+NU-M-CRI-COM;nubia;Music;Cristal de pantalla;Compatible;4,05;;;6
+NU-M-ANT-COM;nubia;Music;Antena / coaxial;Compatible;3,50;;;6
+NU-M-HUE-COM;nubia;Music;Botón home / huella;Compatible;5,85;;;6
+NU-FL-ANT-COM;nubia;Flip;Antena / coaxial;Compatible;4,95;;;6
+NU-FL-HUE-COM;nubia;Flip;Botón home / huella;Compatible;8,19;;;6
+NU-F-MAR-COM;nubia;Focus;Marco / chasis;Compatible;7,90;;;6
+NU-F-BOT-COM;nubia;Focus;Botones laterales;Compatible;4,05;;;6
+NU-F-CRI-COM;nubia;Focus;Cristal de pantalla;Compatible;4,05;;;6
+NU-F-ANT-COM;nubia;Focus;Antena / coaxial;Compatible;3,50;;;6
+NU-F-HUE-COM;nubia;Focus;Botón home / huella;Compatible;5,85;;;6
+NU-FP-MAR-COM;nubia;Focus Pro;Marco / chasis;Compatible;7,90;;;6
+NU-FP-BOT-COM;nubia;Focus Pro;Botones laterales;Compatible;4,05;;;6
+NU-FP-CRI-COM;nubia;Focus Pro;Cristal de pantalla;Compatible;4,05;;;6
+NU-FP-ANT-COM;nubia;Focus Pro;Antena / coaxial;Compatible;3,50;;;6
+NU-FP-HUE-COM;nubia;Focus Pro;Botón home / huella;Compatible;5,85;;;6
+NU-NEO2-MAR-COM;nubia;Neo 2;Marco / chasis;Compatible;7,90;;;6
+NU-NEO2-BOT-COM;nubia;Neo 2;Botones laterales;Compatible;4,05;;;6
+NU-NEO2-CRI-COM;nubia;Neo 2;Cristal de pantalla;Compatible;4,05;;;6
+NU-NEO2-ANT-COM;nubia;Neo 2;Antena / coaxial;Compatible;3,50;;;6
+NU-NEO2-HUE-COM;nubia;Neo 2;Botón home / huella;Compatible;5,85;;;6
+NU-Z60U-MAR-COM;nubia;Z60 Ultra;Marco / chasis;Compatible;7,20;;;6
+NU-Z60U-BOT-COM;nubia;Z60 Ultra;Botones laterales;Compatible;3,70;;;6
+NU-Z60U-CRI-COM;nubia;Z60 Ultra;Cristal de pantalla;Compatible;3,69;;;6
+NU-Z60U-ANT-COM;nubia;Z60 Ultra;Antena / coaxial;Compatible;3,20;;;6
+NU-Z60U-HUE-COM;nubia;Z60 Ultra;Botón home / huella;Compatible;5,30;;;6
+NU-REDMG9P-MAR-COM;nubia;Red Magic 9 Pro;Marco / chasis;Compatible;7,20;;;6
+NU-REDMG9P-BOT-COM;nubia;Red Magic 9 Pro;Botones laterales;Compatible;3,70;;;6
+NU-REDMG9P-CRI-COM;nubia;Red Magic 9 Pro;Cristal de pantalla;Compatible;3,69;;;6
+NU-REDMG9P-ANT-COM;nubia;Red Magic 9 Pro;Antena / coaxial;Compatible;3,20;;;6
+NU-REDMG9P-HUE-COM;nubia;Red Magic 9 Pro;Botón home / huella;Compatible;5,30;;;6
+NU-REDMG9PP-MAR-COM;nubia;Red Magic 9 Pro+;Marco / chasis;Compatible;7,20;;;6
+NU-REDMG9PP-BOT-COM;nubia;Red Magic 9 Pro+;Botones laterales;Compatible;3,70;;;6
+NU-REDMG9PP-CRI-COM;nubia;Red Magic 9 Pro+;Cristal de pantalla;Compatible;3,69;;;6
+NU-REDMG9PP-ANT-COM;nubia;Red Magic 9 Pro+;Antena / coaxial;Compatible;3,20;;;6
+NU-REDMG9PP-HUE-COM;nubia;Red Magic 9 Pro+;Botón home / huella;Compatible;5,30;;;6
+NU-NEO-MAR-COM;nubia;Neo;Marco / chasis;Compatible;7,20;;;6
+NU-NEO-BOT-COM;nubia;Neo;Botones laterales;Compatible;3,70;;;6
+NU-NEO-CRI-COM;nubia;Neo;Cristal de pantalla;Compatible;3,69;;;6
+NU-NEO-ANT-COM;nubia;Neo;Antena / coaxial;Compatible;3,20;;;6
+NU-NEO-HUE-COM;nubia;Neo;Botón home / huella;Compatible;5,30;;;6
+NU-REDMG8SP-MAR-COM;nubia;Red Magic 8s Pro;Marco / chasis;Compatible;7,20;;;6
+NU-REDMG8SP-BOT-COM;nubia;Red Magic 8s Pro;Botones laterales;Compatible;3,70;;;6
+NU-REDMG8SP-CRI-COM;nubia;Red Magic 8s Pro;Cristal de pantalla;Compatible;3,69;;;6
+NU-REDMG8SP-ANT-COM;nubia;Red Magic 8s Pro;Antena / coaxial;Compatible;3,20;;;6
+NU-REDMG8SP-HUE-COM;nubia;Red Magic 8s Pro;Botón home / huella;Compatible;5,30;;;6
+NU-REDMAGIC-MAR-COM;nubia;Red Magic 8s Pro+;Marco / chasis;Compatible;7,20;;;6
+NU-REDMAGIC-BOT-COM;nubia;Red Magic 8s Pro+;Botones laterales;Compatible;3,70;;;6
+NU-REDMAGIC-CRI-COM;nubia;Red Magic 8s Pro+;Cristal de pantalla;Compatible;3,69;;;6
+NU-REDMAGIC-ANT-COM;nubia;Red Magic 8s Pro+;Antena / coaxial;Compatible;3,20;;;6
+NU-REDMAGIC-HUE-COM;nubia;Red Magic 8s Pro+;Botón home / huella;Compatible;5,30;;;6
+NU-Z50SP-MAR-COM;nubia;Z50S Pro;Marco / chasis;Compatible;7,20;;;6
+NU-Z50SP-BOT-COM;nubia;Z50S Pro;Botones laterales;Compatible;3,70;;;6
+NU-Z50SP-CRI-COM;nubia;Z50S Pro;Cristal de pantalla;Compatible;3,69;;;6
+NU-Z50SP-ANT-COM;nubia;Z50S Pro;Antena / coaxial;Compatible;3,20;;;6
+NU-Z50SP-HUE-COM;nubia;Z50S Pro;Botón home / huella;Compatible;5,30;;;6
+NU-Z50U-MAR-COM;nubia;Z50 Ultra;Marco / chasis;Compatible;7,20;;;6
+NU-Z50U-BOT-COM;nubia;Z50 Ultra;Botones laterales;Compatible;3,70;;;6
+NU-Z50U-CRI-COM;nubia;Z50 Ultra;Cristal de pantalla;Compatible;3,69;;;6
+NU-Z50U-ANT-COM;nubia;Z50 Ultra;Antena / coaxial;Compatible;3,20;;;6
+NU-Z50U-HUE-COM;nubia;Z50 Ultra;Botón home / huella;Compatible;5,30;;;6
+NU-REDMG8P-MAR-COM;nubia;Red Magic 8 Pro;Marco / chasis;Compatible;7,20;;;6
+NU-REDMG8P-BOT-COM;nubia;Red Magic 8 Pro;Botones laterales;Compatible;3,70;;;6
+NU-REDMG8P-CRI-COM;nubia;Red Magic 8 Pro;Cristal de pantalla;Compatible;3,69;;;6
+NU-REDMG8P-ANT-COM;nubia;Red Magic 8 Pro;Antena / coaxial;Compatible;3,20;;;6
+NU-REDMG8P-HUE-COM;nubia;Red Magic 8 Pro;Botón home / huella;Compatible;5,30;;;6
+NU-REDMG8PP-MAR-COM;nubia;Red Magic 8 Pro+;Marco / chasis;Compatible;7,20;;;6
+NU-REDMG8PP-BOT-COM;nubia;Red Magic 8 Pro+;Botones laterales;Compatible;3,70;;;6
+NU-REDMG8PP-CRI-COM;nubia;Red Magic 8 Pro+;Cristal de pantalla;Compatible;3,69;;;6
+NU-REDMG8PP-ANT-COM;nubia;Red Magic 8 Pro+;Antena / coaxial;Compatible;3,20;;;6
+NU-REDMG8PP-HUE-COM;nubia;Red Magic 8 Pro+;Botón home / huella;Compatible;5,30;;;6
+NU-Z50-MAR-COM;nubia;Z50;Marco / chasis;Compatible;7,20;;;6
+NU-Z50-BOT-COM;nubia;Z50;Botones laterales;Compatible;3,70;;;6
+NU-Z50-CRI-COM;nubia;Z50;Cristal de pantalla;Compatible;3,69;;;6
+NU-Z50-ANT-COM;nubia;Z50;Antena / coaxial;Compatible;3,20;;;6
+NU-Z50-HUE-COM;nubia;Z50;Botón home / huella;Compatible;5,30;;;6
+NU-REDMG7S-MAR-COM;nubia;Red Magic 7S;Marco / chasis;Compatible;7,20;;;6
+NU-REDMG7S-BOT-COM;nubia;Red Magic 7S;Botones laterales;Compatible;3,70;;;6
+NU-REDMG7S-CRI-COM;nubia;Red Magic 7S;Cristal de pantalla;Compatible;3,69;;;6
+NU-REDMG7S-ANT-COM;nubia;Red Magic 7S;Antena / coaxial;Compatible;3,20;;;6
+NU-REDMG7S-HUE-COM;nubia;Red Magic 7S;Botón home / huella;Compatible;5,30;;;6
+NU-REDMG7SP-MAR-COM;nubia;Red Magic 7S Pro;Marco / chasis;Compatible;7,20;;;6
+NU-REDMG7SP-BOT-COM;nubia;Red Magic 7S Pro;Botones laterales;Compatible;3,70;;;6
+NU-REDMG7SP-CRI-COM;nubia;Red Magic 7S Pro;Cristal de pantalla;Compatible;3,69;;;6
+NU-REDMG7SP-ANT-COM;nubia;Red Magic 7S Pro;Antena / coaxial;Compatible;3,20;;;6
+NU-REDMG7SP-HUE-COM;nubia;Red Magic 7S Pro;Botón home / huella;Compatible;5,30;;;6
+NU-Z40SP-MAR-COM;nubia;Z40S Pro;Marco / chasis;Compatible;7,20;;;6
+NU-Z40SP-BOT-COM;nubia;Z40S Pro;Botones laterales;Compatible;3,70;;;6
+NU-Z40SP-CRI-COM;nubia;Z40S Pro;Cristal de pantalla;Compatible;3,69;;;6
+NU-Z40SP-ANT-COM;nubia;Z40S Pro;Antena / coaxial;Compatible;3,20;;;6
+NU-Z40SP-HUE-COM;nubia;Z40S Pro;Botón home / huella;Compatible;5,30;;;6
+NU-Z40P-MAR-COM;nubia;Z40 Pro;Marco / chasis;Compatible;7,20;;;6
+NU-Z40P-BOT-COM;nubia;Z40 Pro;Botones laterales;Compatible;3,70;;;6
+NU-Z40P-CRI-COM;nubia;Z40 Pro;Cristal de pantalla;Compatible;3,69;;;6
+NU-Z40P-ANT-COM;nubia;Z40 Pro;Antena / coaxial;Compatible;3,20;;;6
+NU-Z40P-HUE-COM;nubia;Z40 Pro;Botón home / huella;Compatible;5,30;;;6
+NU-REDMG7-MAR-COM;nubia;Red Magic 7;Marco / chasis;Compatible;7,20;;;6
+NU-REDMG7-BOT-COM;nubia;Red Magic 7;Botones laterales;Compatible;3,70;;;6
+NU-REDMG7-CRI-COM;nubia;Red Magic 7;Cristal de pantalla;Compatible;3,69;;;6
+NU-REDMG7-ANT-COM;nubia;Red Magic 7;Antena / coaxial;Compatible;3,20;;;6
+NU-REDMG7-HUE-COM;nubia;Red Magic 7;Botón home / huella;Compatible;5,30;;;6
+NU-REDMG7P-MAR-COM;nubia;Red Magic 7 Pro;Marco / chasis;Compatible;7,20;;;6
+NU-REDMG7P-BOT-COM;nubia;Red Magic 7 Pro;Botones laterales;Compatible;3,70;;;6
+NU-REDMG7P-CRI-COM;nubia;Red Magic 7 Pro;Cristal de pantalla;Compatible;3,69;;;6
+NU-REDMG7P-ANT-COM;nubia;Red Magic 7 Pro;Antena / coaxial;Compatible;3,20;;;6
+NU-REDMG7P-HUE-COM;nubia;Red Magic 7 Pro;Botón home / huella;Compatible;5,30;;;6
+NU-REDMG6R-MAR-COM;nubia;Red Magic 6R;Marco / chasis;Compatible;7,20;;;6
+NU-REDMG6R-BOT-COM;nubia;Red Magic 6R;Botones laterales;Compatible;3,70;;;6
+NU-REDMG6R-CRI-COM;nubia;Red Magic 6R;Cristal de pantalla;Compatible;3,69;;;6
+NU-REDMG6R-ANT-COM;nubia;Red Magic 6R;Antena / coaxial;Compatible;3,20;;;6
+NU-REDMG6R-HUE-COM;nubia;Red Magic 6R;Botón home / huella;Compatible;5,30;;;6
+NU-Z30P-MAR-COM;nubia;Z30 Pro;Marco / chasis;Compatible;7,20;;;6
+NU-Z30P-BOT-COM;nubia;Z30 Pro;Botones laterales;Compatible;3,70;;;6
+NU-Z30P-CRI-COM;nubia;Z30 Pro;Cristal de pantalla;Compatible;3,69;;;6
+NU-Z30P-ANT-COM;nubia;Z30 Pro;Antena / coaxial;Compatible;3,20;;;6
+NU-Z30P-HUE-COM;nubia;Z30 Pro;Botón home / huella;Compatible;5,30;;;6
+NU-REDMG6-MAR-COM;nubia;Red Magic 6;Marco / chasis;Compatible;7,20;;;6
+NU-REDMG6-BOT-COM;nubia;Red Magic 6;Botones laterales;Compatible;3,70;;;6
+NU-REDMG6-CRI-COM;nubia;Red Magic 6;Cristal de pantalla;Compatible;3,69;;;6
+NU-REDMG6-ANT-COM;nubia;Red Magic 6;Antena / coaxial;Compatible;3,20;;;6
+NU-REDMG6-HUE-COM;nubia;Red Magic 6;Botón home / huella;Compatible;5,30;;;6
+NU-REDMG6P-MAR-COM;nubia;Red Magic 6 Pro;Marco / chasis;Compatible;7,20;;;6
+NU-REDMG6P-BOT-COM;nubia;Red Magic 6 Pro;Botones laterales;Compatible;3,70;;;6
+NU-REDMG6P-CRI-COM;nubia;Red Magic 6 Pro;Cristal de pantalla;Compatible;3,69;;;6
+NU-REDMG6P-ANT-COM;nubia;Red Magic 6 Pro;Antena / coaxial;Compatible;3,20;;;6
+NU-REDMG6P-HUE-COM;nubia;Red Magic 6 Pro;Botón home / huella;Compatible;5,30;;;6
+NU-REDMG6S-MAR-COM;nubia;Red Magic 6s;Marco / chasis;Compatible;7,20;;;6
+NU-REDMG6S-BOT-COM;nubia;Red Magic 6s;Botones laterales;Compatible;3,70;;;6
+NU-REDMG6S-CRI-COM;nubia;Red Magic 6s;Cristal de pantalla;Compatible;3,69;;;6
+NU-REDMG6S-ANT-COM;nubia;Red Magic 6s;Antena / coaxial;Compatible;3,20;;;6
+NU-REDMG6S-HUE-COM;nubia;Red Magic 6s;Botón home / huella;Compatible;5,30;;;6
+NU-REDMG6SP-MAR-COM;nubia;Red Magic 6s Pro;Marco / chasis;Compatible;7,20;;;6
+NU-REDMG6SP-BOT-COM;nubia;Red Magic 6s Pro;Botones laterales;Compatible;3,70;;;6
+NU-REDMG6SP-CRI-COM;nubia;Red Magic 6s Pro;Cristal de pantalla;Compatible;3,69;;;6
+NU-REDMG6SP-ANT-COM;nubia;Red Magic 6s Pro;Antena / coaxial;Compatible;3,20;;;6
+NU-REDMG6SP-HUE-COM;nubia;Red Magic 6s Pro;Botón home / huella;Compatible;5,30;;;6
+NU-REDMG5S-MAR-COM;nubia;Red Magic 5S;Marco / chasis;Compatible;7,20;;;6
+NU-REDMG5S-BOT-COM;nubia;Red Magic 5S;Botones laterales;Compatible;3,70;;;6
+NU-REDMG5S-CRI-COM;nubia;Red Magic 5S;Cristal de pantalla;Compatible;3,69;;;6
+NU-REDMG5S-ANT-COM;nubia;Red Magic 5S;Antena / coaxial;Compatible;3,20;;;6
+NU-REDMG5S-HUE-COM;nubia;Red Magic 5S;Botón home / huella;Compatible;5,30;;;6
+NU-PY-MAR-COM;nubia;Play;Marco / chasis;Compatible;7,20;;;6
+NU-PY-BOT-COM;nubia;Play;Botones laterales;Compatible;3,70;;;6
+NU-PY-CRI-COM;nubia;Play;Cristal de pantalla;Compatible;3,69;;;6
+NU-PY-ANT-COM;nubia;Play;Antena / coaxial;Compatible;3,20;;;6
+NU-PY-HUE-COM;nubia;Play;Botón home / huella;Compatible;5,30;;;6
+NU-REDMG5L-MAR-COM;nubia;Red Magic 5G Lite;Marco / chasis;Compatible;7,20;;;6
+NU-REDMG5L-BOT-COM;nubia;Red Magic 5G Lite;Botones laterales;Compatible;3,70;;;6
+NU-REDMG5L-CRI-COM;nubia;Red Magic 5G Lite;Cristal de pantalla;Compatible;3,69;;;6
+NU-REDMG5L-ANT-COM;nubia;Red Magic 5G Lite;Antena / coaxial;Compatible;3,20;;;6
+NU-REDMG5L-HUE-COM;nubia;Red Magic 5G Lite;Botón home / huella;Compatible;5,30;;;6
+NU-REDMG5-MAR-COM;nubia;Red Magic 5G;Marco / chasis;Compatible;7,20;;;6
+NU-REDMG5-BOT-COM;nubia;Red Magic 5G;Botones laterales;Compatible;3,70;;;6
+NU-REDMG5-CRI-COM;nubia;Red Magic 5G;Cristal de pantalla;Compatible;3,69;;;6
+NU-REDMG5-ANT-COM;nubia;Red Magic 5G;Antena / coaxial;Compatible;3,20;;;6
+NU-REDMG5-HUE-COM;nubia;Red Magic 5G;Botón home / huella;Compatible;5,30;;;6
+NU-REDMG3S-MAR-COM;nubia;Red Magic 3s;Marco / chasis;Compatible;6,49;;;6
+NU-REDMG3S-BOT-COM;nubia;Red Magic 3s;Botones laterales;Compatible;3,35;;;6
+NU-REDMG3S-CRI-COM;nubia;Red Magic 3s;Cristal de pantalla;Compatible;3,30;;;6
+NU-REDMG3S-ANT-COM;nubia;Red Magic 3s;Antena / coaxial;Compatible;2,89;;;6
+NU-REDMG3S-HUE-COM;nubia;Red Magic 3s;Botón home / huella;Compatible;4,79;;;6
+NU-Z20-MAR-COM;nubia;Z20;Marco / chasis;Compatible;6,49;;;6
+NU-Z20-BOT-COM;nubia;Z20;Botones laterales;Compatible;3,35;;;6
+NU-Z20-CRI-COM;nubia;Z20;Cristal de pantalla;Compatible;3,30;;;6
+NU-Z20-ANT-COM;nubia;Z20;Antena / coaxial;Compatible;2,89;;;6
+NU-Z20-HUE-COM;nubia;Z20;Botón home / huella;Compatible;4,79;;;6
+NU-REDMG3-MAR-COM;nubia;Red Magic 3;Marco / chasis;Compatible;6,49;;;6
+NU-REDMG3-BOT-COM;nubia;Red Magic 3;Botones laterales;Compatible;3,35;;;6
+NU-REDMG3-CRI-COM;nubia;Red Magic 3;Cristal de pantalla;Compatible;3,30;;;6
+NU-REDMG3-ANT-COM;nubia;Red Magic 3;Antena / coaxial;Compatible;2,89;;;6
+NU-REDMG3-HUE-COM;nubia;Red Magic 3;Botón home / huella;Compatible;4,79;;;6
+NU-REDMGM-MAR-COM;nubia;Red Magic Mars;Marco / chasis;Compatible;6,49;;;6
+NU-REDMGM-BOT-COM;nubia;Red Magic Mars;Botones laterales;Compatible;3,35;;;6
+NU-REDMGM-CRI-COM;nubia;Red Magic Mars;Cristal de pantalla;Compatible;3,30;;;6
+NU-REDMGM-ANT-COM;nubia;Red Magic Mars;Antena / coaxial;Compatible;2,89;;;6
+NU-REDMGM-HUE-COM;nubia;Red Magic Mars;Botón home / huella;Compatible;4,79;;;6
+NU-X-MAR-COM;nubia;X;Marco / chasis;Compatible;6,49;;;6
+NU-X-BOT-COM;nubia;X;Botones laterales;Compatible;3,35;;;6
+NU-X-CRI-COM;nubia;X;Cristal de pantalla;Compatible;3,30;;;6
+NU-X-ANT-COM;nubia;X;Antena / coaxial;Compatible;2,89;;;6
+NU-X-HUE-COM;nubia;X;Botón home / huella;Compatible;4,79;;;6
+NU-Z18-MAR-COM;nubia;Z18;Marco / chasis;Compatible;6,49;;;6
+NU-Z18-BOT-COM;nubia;Z18;Botones laterales;Compatible;3,35;;;6
+NU-Z18-CRI-COM;nubia;Z18;Cristal de pantalla;Compatible;3,30;;;6
+NU-Z18-ANT-COM;nubia;Z18;Antena / coaxial;Compatible;2,89;;;6
+NU-Z18-HUE-COM;nubia;Z18;Botón home / huella;Compatible;4,79;;;6
+NU-REDMG-MAR-COM;nubia;Red Magic;Marco / chasis;Compatible;6,49;;;6
+NU-REDMG-BOT-COM;nubia;Red Magic;Botones laterales;Compatible;3,35;;;6
+NU-REDMG-CRI-COM;nubia;Red Magic;Cristal de pantalla;Compatible;3,30;;;6
+NU-REDMG-ANT-COM;nubia;Red Magic;Antena / coaxial;Compatible;2,89;;;6
+NU-REDMG-HUE-COM;nubia;Red Magic;Botón home / huella;Compatible;4,79;;;6
+NU-Z18MN-MAR-COM;nubia;Z18 mini;Marco / chasis;Compatible;6,49;;;6
+NU-Z18MN-BOT-COM;nubia;Z18 mini;Botones laterales;Compatible;3,35;;;6
+NU-Z18MN-CRI-COM;nubia;Z18 mini;Cristal de pantalla;Compatible;3,30;;;6
+NU-Z18MN-ANT-COM;nubia;Z18 mini;Antena / coaxial;Compatible;2,89;;;6
+NU-Z18MN-HUE-COM;nubia;Z18 mini;Botón home / huella;Compatible;4,79;;;6
+NU-N3-MAR-COM;nubia;N3;Marco / chasis;Compatible;6,49;;;6
+NU-N3-BOT-COM;nubia;N3;Botones laterales;Compatible;3,35;;;6
+NU-N3-CRI-COM;nubia;N3;Cristal de pantalla;Compatible;3,30;;;6
+NU-N3-ANT-COM;nubia;N3;Antena / coaxial;Compatible;2,89;;;6
+NU-N3-HUE-COM;nubia;N3;Botón home / huella;Compatible;4,79;;;6
+NU-V18-MAR-COM;nubia;V18;Marco / chasis;Compatible;6,49;;;6
+NU-V18-BOT-COM;nubia;V18;Botones laterales;Compatible;3,35;;;6
+NU-V18-CRI-COM;nubia;V18;Cristal de pantalla;Compatible;3,30;;;6
+NU-V18-ANT-COM;nubia;V18;Antena / coaxial;Compatible;2,89;;;6
+NU-V18-HUE-COM;nubia;V18;Botón home / huella;Compatible;4,79;;;6
+NU-Z17M-MAR-COM;nubia;Z17 miniS;Marco / chasis;Compatible;6,49;;;6
+NU-Z17M-BOT-COM;nubia;Z17 miniS;Botones laterales;Compatible;3,35;;;6
+NU-Z17M-CRI-COM;nubia;Z17 miniS;Cristal de pantalla;Compatible;3,30;;;6
+NU-Z17M-ANT-COM;nubia;Z17 miniS;Antena / coaxial;Compatible;2,89;;;6
+NU-Z17M-HUE-COM;nubia;Z17 miniS;Botón home / huella;Compatible;4,79;;;6
+NU-Z17S-MAR-COM;nubia;Z17s;Marco / chasis;Compatible;6,49;;;6
+NU-Z17S-BOT-COM;nubia;Z17s;Botones laterales;Compatible;3,35;;;6
+NU-Z17S-CRI-COM;nubia;Z17s;Cristal de pantalla;Compatible;3,30;;;6
+NU-Z17S-ANT-COM;nubia;Z17s;Antena / coaxial;Compatible;2,89;;;6
+NU-Z17S-HUE-COM;nubia;Z17s;Botón home / huella;Compatible;4,79;;;6
+NU-Z17L-MAR-COM;nubia;Z17 lite;Marco / chasis;Compatible;6,49;;;6
+NU-Z17L-BOT-COM;nubia;Z17 lite;Botones laterales;Compatible;3,35;;;6
+NU-Z17L-CRI-COM;nubia;Z17 lite;Cristal de pantalla;Compatible;3,30;;;6
+NU-Z17L-ANT-COM;nubia;Z17 lite;Antena / coaxial;Compatible;2,89;;;6
+NU-Z17L-HUE-COM;nubia;Z17 lite;Botón home / huella;Compatible;4,79;;;6
+NU-Z17-MAR-COM;nubia;Z17;Marco / chasis;Compatible;6,49;;;6
+NU-Z17-BOT-COM;nubia;Z17;Botones laterales;Compatible;3,35;;;6
+NU-Z17-CRI-COM;nubia;Z17;Cristal de pantalla;Compatible;3,30;;;6
+NU-Z17-ANT-COM;nubia;Z17;Antena / coaxial;Compatible;2,89;;;6
+NU-Z17-HUE-COM;nubia;Z17;Botón home / huella;Compatible;4,79;;;6
+NU-N1L-MAR-COM;nubia;N1 lite;Marco / chasis;Compatible;6,49;;;6
+NU-N1L-BOT-COM;nubia;N1 lite;Botones laterales;Compatible;3,35;;;6
+NU-N1L-CRI-COM;nubia;N1 lite;Cristal de pantalla;Compatible;3,30;;;6
+NU-N1L-ANT-COM;nubia;N1 lite;Antena / coaxial;Compatible;2,89;;;6
+NU-N1L-HUE-COM;nubia;N1 lite;Botón home / huella;Compatible;4,79;;;6
+NU-Z17MN-MAR-COM;nubia;Z17 mini;Marco / chasis;Compatible;6,49;;;6
+NU-Z17MN-BOT-COM;nubia;Z17 mini;Botones laterales;Compatible;3,35;;;6
+NU-Z17MN-CRI-COM;nubia;Z17 mini;Cristal de pantalla;Compatible;3,30;;;6
+NU-Z17MN-ANT-COM;nubia;Z17 mini;Antena / coaxial;Compatible;2,89;;;6
+NU-Z17MN-HUE-COM;nubia;Z17 mini;Botón home / huella;Compatible;4,79;;;6
+NU-M2-MAR-COM;nubia;M2;Marco / chasis;Compatible;6,49;;;6
+NU-M2-BOT-COM;nubia;M2;Botones laterales;Compatible;3,35;;;6
+NU-M2-CRI-COM;nubia;M2;Cristal de pantalla;Compatible;3,30;;;6
+NU-M2-ANT-COM;nubia;M2;Antena / coaxial;Compatible;2,89;;;6
+NU-M2-HUE-COM;nubia;M2;Botón home / huella;Compatible;4,79;;;6
+NU-M2L-MAR-COM;nubia;M2 lite;Marco / chasis;Compatible;6,49;;;6
+NU-M2L-BOT-COM;nubia;M2 lite;Botones laterales;Compatible;3,35;;;6
+NU-M2L-CRI-COM;nubia;M2 lite;Cristal de pantalla;Compatible;3,30;;;6
+NU-M2L-ANT-COM;nubia;M2 lite;Antena / coaxial;Compatible;2,89;;;6
+NU-M2L-HUE-COM;nubia;M2 lite;Botón home / huella;Compatible;4,79;;;6
+NU-N2-MAR-COM;nubia;N2;Marco / chasis;Compatible;6,49;;;6
+NU-N2-BOT-COM;nubia;N2;Botones laterales;Compatible;3,35;;;6
+NU-N2-CRI-COM;nubia;N2;Cristal de pantalla;Compatible;3,30;;;6
+NU-N2-ANT-COM;nubia;N2;Antena / coaxial;Compatible;2,89;;;6
+NU-N2-HUE-COM;nubia;N2;Botón home / huella;Compatible;4,79;;;6
+NU-Z11MNS-MAR-COM;nubia;Z11 mini S;Marco / chasis;Compatible;5,75;;;6
+NU-Z11MNS-BOT-COM;nubia;Z11 mini S;Botones laterales;Compatible;2,95;;;6
+NU-Z11MNS-CRI-COM;nubia;Z11 mini S;Cristal de pantalla;Compatible;2,95;;;6
+NU-Z11MNS-ANT-COM;nubia;Z11 mini S;Antena / coaxial;Compatible;2,55;;;6
+NU-Z11MNS-HUE-COM;nubia;Z11 mini S;Botón home / huella;Compatible;4,25;;;6
+NU-N1-MAR-COM;nubia;N1;Marco / chasis;Compatible;5,75;;;6
+NU-N1-BOT-COM;nubia;N1;Botones laterales;Compatible;2,95;;;6
+NU-N1-CRI-COM;nubia;N1;Cristal de pantalla;Compatible;2,95;;;6
+NU-N1-ANT-COM;nubia;N1;Antena / coaxial;Compatible;2,55;;;6
+NU-N1-HUE-COM;nubia;N1;Botón home / huella;Compatible;4,25;;;6
+NU-Z11-MAR-COM;nubia;Z11;Marco / chasis;Compatible;5,75;;;6
+NU-Z11-BOT-COM;nubia;Z11;Botones laterales;Compatible;2,95;;;6
+NU-Z11-CRI-COM;nubia;Z11;Cristal de pantalla;Compatible;2,95;;;6
+NU-Z11-ANT-COM;nubia;Z11;Antena / coaxial;Compatible;2,55;;;6
+NU-Z11-HUE-COM;nubia;Z11;Botón home / huella;Compatible;4,25;;;6
+NU-Z11M-MAR-COM;nubia;Z11 Max;Marco / chasis;Compatible;5,75;;;6
+NU-Z11M-BOT-COM;nubia;Z11 Max;Botones laterales;Compatible;2,95;;;6
+NU-Z11M-CRI-COM;nubia;Z11 Max;Cristal de pantalla;Compatible;2,95;;;6
+NU-Z11M-ANT-COM;nubia;Z11 Max;Antena / coaxial;Compatible;2,55;;;6
+NU-Z11M-HUE-COM;nubia;Z11 Max;Botón home / huella;Compatible;4,25;;;6
+NU-Z11MN-MAR-COM;nubia;Z11 mini;Marco / chasis;Compatible;5,75;;;6
+NU-Z11MN-BOT-COM;nubia;Z11 mini;Botones laterales;Compatible;2,95;;;6
+NU-Z11MN-CRI-COM;nubia;Z11 mini;Cristal de pantalla;Compatible;2,95;;;6
+NU-Z11MN-ANT-COM;nubia;Z11 mini;Antena / coaxial;Compatible;2,55;;;6
+NU-Z11MN-HUE-COM;nubia;Z11 mini;Botón home / huella;Compatible;4,25;;;6
+NU-PS-MAR-COM;nubia;Prague S;Marco / chasis;Compatible;5,75;;;6
+NU-PS-BOT-COM;nubia;Prague S;Botones laterales;Compatible;2,95;;;6
+NU-PS-CRI-COM;nubia;Prague S;Cristal de pantalla;Compatible;2,95;;;6
+NU-PS-ANT-COM;nubia;Prague S;Antena / coaxial;Compatible;2,55;;;6
+NU-PS-HUE-COM;nubia;Prague S;Botón home / huella;Compatible;4,25;;;6
+NU-MYP-MAR-COM;nubia;My Prague;Marco / chasis;Compatible;5,75;;;6
+NU-MYP-BOT-COM;nubia;My Prague;Botones laterales;Compatible;2,95;;;6
+NU-MYP-CRI-COM;nubia;My Prague;Cristal de pantalla;Compatible;2,95;;;6
+NU-MYP-ANT-COM;nubia;My Prague;Antena / coaxial;Compatible;2,55;;;6
+NU-Z9-MAR-COM;nubia;Z9;Marco / chasis;Compatible;5,75;;;6
+NU-Z9-BOT-COM;nubia;Z9;Botones laterales;Compatible;2,95;;;6
+NU-Z9-CRI-COM;nubia;Z9;Cristal de pantalla;Compatible;2,95;;;6
+NU-Z9-ANT-COM;nubia;Z9;Antena / coaxial;Compatible;2,55;;;6
+NU-Z9M-MAR-COM;nubia;Z9 Max;Marco / chasis;Compatible;5,75;;;6
+NU-Z9M-BOT-COM;nubia;Z9 Max;Botones laterales;Compatible;2,95;;;6
+NU-Z9M-CRI-COM;nubia;Z9 Max;Cristal de pantalla;Compatible;2,95;;;6
+NU-Z9M-ANT-COM;nubia;Z9 Max;Antena / coaxial;Compatible;2,55;;;6
+NU-Z9MN-MAR-COM;nubia;Z9 mini;Marco / chasis;Compatible;5,75;;;6
+NU-Z9MN-BOT-COM;nubia;Z9 mini;Botones laterales;Compatible;2,95;;;6
+NU-Z9MN-CRI-COM;nubia;Z9 mini;Cristal de pantalla;Compatible;2,95;;;6
+NU-Z9MN-ANT-COM;nubia;Z9 mini;Antena / coaxial;Compatible;2,55;;;6
+NU-Z5SMININ-MAR-COM;nubia;Z5S mini NX405H;Marco / chasis;Compatible;5,75;;;6
+NU-Z5SMININ-BOT-COM;nubia;Z5S mini NX405H;Botones laterales;Compatible;2,95;;;6
+NU-Z5SMININ-ANT-COM;nubia;Z5S mini NX405H;Antena / coaxial;Compatible;2,55;;;6
+NU-Z7-MAR-COM;nubia;Z7;Marco / chasis;Compatible;5,75;;;6
+NU-Z7-BOT-COM;nubia;Z7;Botones laterales;Compatible;2,95;;;6
+NU-Z7-ANT-COM;nubia;Z7;Antena / coaxial;Compatible;2,55;;;6
+NU-Z7M-MAR-COM;nubia;Z7 Max;Marco / chasis;Compatible;5,75;;;6
+NU-Z7M-BOT-COM;nubia;Z7 Max;Botones laterales;Compatible;2,95;;;6
+NU-Z7M-ANT-COM;nubia;Z7 Max;Antena / coaxial;Compatible;2,55;;;6
+NU-Z7MN-MAR-COM;nubia;Z7 mini;Marco / chasis;Compatible;5,75;;;6
+NU-Z7MN-BOT-COM;nubia;Z7 mini;Botones laterales;Compatible;2,95;;;6
+NU-Z7MN-ANT-COM;nubia;Z7 mini;Antena / coaxial;Compatible;2,55;;;6
+NU-X6-MAR-COM;nubia;X6;Marco / chasis;Compatible;5,75;;;6
+NU-X6-BOT-COM;nubia;X6;Botones laterales;Compatible;2,95;;;6
+NU-X6-ANT-COM;nubia;X6;Antena / coaxial;Compatible;2,55;;;6
+NU-Z5S-MAR-COM;nubia;Z5S;Marco / chasis;Compatible;5,75;;;6
+NU-Z5S-BOT-COM;nubia;Z5S;Botones laterales;Compatible;2,95;;;6
+NU-Z5S-ANT-COM;nubia;Z5S;Antena / coaxial;Compatible;2,55;;;6
+NU-Z5SMNNX4-MAR-COM;nubia;Z5S mini NX403A;Marco / chasis;Compatible;5,75;;;6
+NU-Z5SMNNX4-BOT-COM;nubia;Z5S mini NX403A;Botones laterales;Compatible;2,95;;;6
+NU-Z5SMNNX4-ANT-COM;nubia;Z5S mini NX403A;Antena / coaxial;Compatible;2,55;;;6
+NU-Z5-ANT-COM;nubia;Z5;Antena / coaxial;Compatible;2,55;;;6

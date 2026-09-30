@@ -1,0 +1,103 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+PN-P100-PAN-COM;Panasonic;P100;Pantalla;Compatible;15,15;14,70;14,24;6
+PN-P100-BAT-COM;Panasonic;P100;Batería;Compatible;9,65;;;6
+PN-P100-CON-COM;Panasonic;P100;Conector de carga;Compatible;4,60;;;6
+PN-P100-TAP-COM;Panasonic;P100;Tapa trasera;Compatible;5,40;;;6
+PN-P100-CTR-COM;Panasonic;P100;Cámara trasera;Compatible;7,59;;;6
+PN-P100-CFR-COM;Panasonic;P100;Cámara frontal;Compatible;4,99;;;6
+PN-P100-LEN-COM;Panasonic;P100;Lente de cámara;Compatible;2,19;;;6
+PN-P100-ALT-COM;Panasonic;P100;Altavoz;Compatible;3,65;;;6
+PN-P100-AUR-COM;Panasonic;P100;Auricular de llamada;Compatible;2,65;;;6
+PN-P100-FLX-COM;Panasonic;P100;Flex de encendido y volumen;Compatible;2,49;;;6
+PN-P100-SIM-COM;Panasonic;P100;Bandeja SIM;Compatible;2,55;;;6
+PN-TFZF1-PAN-COM;Panasonic;ToughPad FZ-F1;Pantalla;Compatible;15,15;14,70;14,24;6
+PN-TFZF1-BAT-COM;Panasonic;ToughPad FZ-F1;Batería;Compatible;9,65;;;6
+PN-TFZF1-CON-COM;Panasonic;ToughPad FZ-F1;Conector de carga;Compatible;4,60;;;6
+PN-TFZF1-TAP-COM;Panasonic;ToughPad FZ-F1;Tapa trasera;Compatible;5,40;;;6
+PN-TFZF1-CTR-COM;Panasonic;ToughPad FZ-F1;Cámara trasera;Compatible;7,59;;;6
+PN-TFZF1-CFR-COM;Panasonic;ToughPad FZ-F1;Cámara frontal;Compatible;4,99;;;6
+PN-TFZF1-LEN-COM;Panasonic;ToughPad FZ-F1;Lente de cámara;Compatible;2,19;;;6
+PN-TFZF1-ALT-COM;Panasonic;ToughPad FZ-F1;Altavoz;Compatible;3,65;;;6
+PN-TFZF1-AUR-COM;Panasonic;ToughPad FZ-F1;Auricular de llamada;Compatible;2,65;;;6
+PN-TFZF1-FLX-COM;Panasonic;ToughPad FZ-F1;Flex de encendido y volumen;Compatible;2,49;;;6
+PN-TFZF1-SIM-COM;Panasonic;ToughPad FZ-F1;Bandeja SIM;Compatible;2,55;;;6
+PN-LDMCCM1-PAN-COM;Panasonic;Lumix DMC-CM1;Pantalla;Compatible;15,15;14,70;14,24;6
+PN-LDMCCM1-BAT-COM;Panasonic;Lumix DMC-CM1;Batería;Compatible;9,65;;;6
+PN-LDMCCM1-CON-COM;Panasonic;Lumix DMC-CM1;Conector de carga;Compatible;4,60;;;6
+PN-LDMCCM1-TAP-COM;Panasonic;Lumix DMC-CM1;Tapa trasera;Compatible;5,40;;;6
+PN-LDMCCM1-CTR-COM;Panasonic;Lumix DMC-CM1;Cámara trasera;Compatible;7,59;;;6
+PN-LDMCCM1-CFR-COM;Panasonic;Lumix DMC-CM1;Cámara frontal;Compatible;4,99;;;6
+PN-LDMCCM1-LEN-COM;Panasonic;Lumix DMC-CM1;Lente de cámara;Compatible;2,19;;;6
+PN-LDMCCM1-ALT-COM;Panasonic;Lumix DMC-CM1;Altavoz;Compatible;3,65;;;6
+PN-LDMCCM1-AUR-COM;Panasonic;Lumix DMC-CM1;Auricular de llamada;Compatible;2,65;;;6
+PN-LDMCCM1-FLX-COM;Panasonic;Lumix DMC-CM1;Flex de encendido y volumen;Compatible;2,49;;;6
+PN-LDMCCM1-SIM-COM;Panasonic;Lumix DMC-CM1;Bandeja SIM;Compatible;2,55;;;6
+PN-EX-PAN-COM;Panasonic;Eluga X;Pantalla;Compatible;15,15;14,70;14,24;6
+PN-EX-BAT-COM;Panasonic;Eluga X;Batería;Compatible;9,65;;;6
+PN-EX-CON-COM;Panasonic;Eluga X;Conector de carga;Compatible;4,60;;;6
+PN-EX-TAP-COM;Panasonic;Eluga X;Tapa trasera;Compatible;5,40;;;6
+PN-EX-CTR-COM;Panasonic;Eluga X;Cámara trasera;Compatible;7,59;;;6
+PN-EX-CFR-COM;Panasonic;Eluga X;Cámara frontal;Compatible;4,99;;;6
+PN-EX-LEN-COM;Panasonic;Eluga X;Lente de cámara;Compatible;2,19;;;6
+PN-EX-ALT-COM;Panasonic;Eluga X;Altavoz;Compatible;3,65;;;6
+PN-EX-AUR-COM;Panasonic;Eluga X;Auricular de llamada;Compatible;2,65;;;6
+PN-EX-FLX-COM;Panasonic;Eluga X;Flex de encendido y volumen;Compatible;2,49;;;6
+PN-EX-SIM-COM;Panasonic;Eluga X;Bandeja SIM;Compatible;2,55;;;6
+PN-EPW-PAN-COM;Panasonic;ELUGA power;Pantalla;Compatible;15,15;14,70;14,24;6
+PN-EPW-BAT-COM;Panasonic;ELUGA power;Batería;Compatible;9,65;;;6
+PN-EPW-CON-COM;Panasonic;ELUGA power;Conector de carga;Compatible;4,60;;;6
+PN-EPW-TAP-COM;Panasonic;ELUGA power;Tapa trasera;Compatible;5,40;;;6
+PN-EPW-CTR-COM;Panasonic;ELUGA power;Cámara trasera;Compatible;7,59;;;6
+PN-EPW-CFR-COM;Panasonic;ELUGA power;Cámara frontal;Compatible;4,99;;;6
+PN-EPW-LEN-COM;Panasonic;ELUGA power;Lente de cámara;Compatible;2,19;;;6
+PN-EPW-ALT-COM;Panasonic;ELUGA power;Altavoz;Compatible;3,65;;;6
+PN-EPW-AUR-COM;Panasonic;ELUGA power;Auricular de llamada;Compatible;2,65;;;6
+PN-EPW-FLX-COM;Panasonic;ELUGA power;Flex de encendido y volumen;Compatible;2,49;;;6
+PN-EPW-SIM-COM;Panasonic;ELUGA power;Bandeja SIM;Compatible;2,55;;;6
+PN-P100-PRO-NA;Panasonic;P100;Cristal templado;Estándar;1,30;;;
+PN-P100-PRO-PRI;Panasonic;P100;Cristal templado;Privacidad;4,00;;;
+PN-P100-FUN-SIL;Panasonic;P100;Funda;Silicona;2,50;;;
+PN-P100-FUN-TPU;Panasonic;P100;Funda;Transparente;2,95;;;
+PN-P100-FUN-LIB;Panasonic;P100;Funda;Libro;3,70;;;
+PN-P100-FUN-ANT;Panasonic;P100;Funda;Antigolpes;3,10;;;
+PN-TFZF1-PRO-NA;Panasonic;ToughPad FZ-F1;Cristal templado;Estándar;1,30;;;
+PN-TFZF1-PRO-PRI;Panasonic;ToughPad FZ-F1;Cristal templado;Privacidad;4,00;;;
+PN-TFZF1-FUN-SIL;Panasonic;ToughPad FZ-F1;Funda;Silicona;2,50;;;
+PN-TFZF1-FUN-TPU;Panasonic;ToughPad FZ-F1;Funda;Transparente;2,95;;;
+PN-TFZF1-FUN-LIB;Panasonic;ToughPad FZ-F1;Funda;Libro;3,70;;;
+PN-TFZF1-FUN-ANT;Panasonic;ToughPad FZ-F1;Funda;Antigolpes;3,10;;;
+PN-LDMCCM1-PRO-NA;Panasonic;Lumix DMC-CM1;Cristal templado;Estándar;1,30;;;
+PN-LDMCCM1-PRO-PRI;Panasonic;Lumix DMC-CM1;Cristal templado;Privacidad;4,00;;;
+PN-LDMCCM1-FUN-SIL;Panasonic;Lumix DMC-CM1;Funda;Silicona;2,50;;;
+PN-LDMCCM1-FUN-TPU;Panasonic;Lumix DMC-CM1;Funda;Transparente;2,95;;;
+PN-LDMCCM1-FUN-LIB;Panasonic;Lumix DMC-CM1;Funda;Libro;3,70;;;
+PN-LDMCCM1-FUN-ANT;Panasonic;Lumix DMC-CM1;Funda;Antigolpes;3,10;;;
+PN-EX-PRO-NA;Panasonic;Eluga X;Cristal templado;Estándar;1,30;;;
+PN-EX-PRO-PRI;Panasonic;Eluga X;Cristal templado;Privacidad;4,00;;;
+PN-EX-FUN-SIL;Panasonic;Eluga X;Funda;Silicona;2,50;;;
+PN-EX-FUN-TPU;Panasonic;Eluga X;Funda;Transparente;2,95;;;
+PN-EX-FUN-LIB;Panasonic;Eluga X;Funda;Libro;3,70;;;
+PN-EX-FUN-ANT;Panasonic;Eluga X;Funda;Antigolpes;3,10;;;
+PN-EPW-PRO-NA;Panasonic;ELUGA power;Cristal templado;Estándar;1,30;;;
+PN-EPW-PRO-PRI;Panasonic;ELUGA power;Cristal templado;Privacidad;4,00;;;
+PN-EPW-FUN-SIL;Panasonic;ELUGA power;Funda;Silicona;2,50;;;
+PN-EPW-FUN-TPU;Panasonic;ELUGA power;Funda;Transparente;2,95;;;
+PN-EPW-FUN-LIB;Panasonic;ELUGA power;Funda;Libro;3,70;;;
+PN-EPW-FUN-ANT;Panasonic;ELUGA power;Funda;Antigolpes;3,10;;;
+PN-P100-MAR-COM;Panasonic;P100;Marco / chasis;Compatible;6,49;;;6
+PN-P100-BOT-COM;Panasonic;P100;Botones laterales;Compatible;3,35;;;6
+PN-P100-CRI-COM;Panasonic;P100;Cristal de pantalla;Compatible;3,30;;;6
+PN-P100-ANT-COM;Panasonic;P100;Antena / coaxial;Compatible;2,89;;;6
+PN-P100-HUE-COM;Panasonic;P100;Botón home / huella;Compatible;4,79;;;6
+PN-TFZF1-MAR-COM;Panasonic;ToughPad FZ-F1;Marco / chasis;Compatible;5,75;;;6
+PN-TFZF1-BOT-COM;Panasonic;ToughPad FZ-F1;Botones laterales;Compatible;2,95;;;6
+PN-TFZF1-CRI-COM;Panasonic;ToughPad FZ-F1;Cristal de pantalla;Compatible;2,95;;;6
+PN-TFZF1-ANT-COM;Panasonic;ToughPad FZ-F1;Antena / coaxial;Compatible;2,55;;;6
+PN-TFZF1-HUE-COM;Panasonic;ToughPad FZ-F1;Botón home / huella;Compatible;4,25;;;6
+PN-LDMCCM1-MAR-COM;Panasonic;Lumix DMC-CM1;Marco / chasis;Compatible;5,75;;;6
+PN-LDMCCM1-BOT-COM;Panasonic;Lumix DMC-CM1;Botones laterales;Compatible;2,95;;;6
+PN-LDMCCM1-ANT-COM;Panasonic;Lumix DMC-CM1;Antena / coaxial;Compatible;2,55;;;6
+PN-EX-MAR-COM;Panasonic;Eluga X;Marco / chasis;Compatible;5,75;;;6
+PN-EX-BOT-COM;Panasonic;Eluga X;Botones laterales;Compatible;2,95;;;6
+PN-EX-ANT-COM;Panasonic;Eluga X;Antena / coaxial;Compatible;2,55;;;6
+PN-EPW-ANT-COM;Panasonic;ELUGA power;Antena / coaxial;Compatible;2,55;;;6

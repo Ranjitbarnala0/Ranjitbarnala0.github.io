@@ -1,0 +1,39 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+SP-SNMI435-PAN-COM;Spice;Stellar Nhance Mi-435;Pantalla;Compatible;15,15;14,70;14,24;6
+SP-SNMI435-BAT-COM;Spice;Stellar Nhance Mi-435;Batería;Compatible;9,65;;;6
+SP-SNMI435-CON-COM;Spice;Stellar Nhance Mi-435;Conector de carga;Compatible;4,60;;;6
+SP-SNMI435-TAP-COM;Spice;Stellar Nhance Mi-435;Tapa trasera;Compatible;5,40;;;6
+SP-SNMI435-CTR-COM;Spice;Stellar Nhance Mi-435;Cámara trasera;Compatible;7,59;;;6
+SP-SNMI435-CFR-COM;Spice;Stellar Nhance Mi-435;Cámara frontal;Compatible;4,99;;;6
+SP-SNMI435-LEN-COM;Spice;Stellar Nhance Mi-435;Lente de cámara;Compatible;2,19;;;6
+SP-SNMI435-ALT-COM;Spice;Stellar Nhance Mi-435;Altavoz;Compatible;3,65;;;6
+SP-SNMI435-AUR-COM;Spice;Stellar Nhance Mi-435;Auricular de llamada;Compatible;2,65;;;6
+SP-SNMI435-FLX-COM;Spice;Stellar Nhance Mi-435;Flex de encendido y volumen;Compatible;2,49;;;6
+SP-SNMI435-SIM-COM;Spice;Stellar Nhance Mi-435;Bandeja SIM;Compatible;2,55;;;6
+SP-MI335SC-PAN-COM;Spice;MI-335 (Stellar Craze);Pantalla;Compatible;15,15;14,70;14,24;6
+SP-MI335SC-BAT-COM;Spice;MI-335 (Stellar Craze);Batería;Compatible;9,65;;;6
+SP-MI335SC-CON-COM;Spice;MI-335 (Stellar Craze);Conector de carga;Compatible;4,60;;;6
+SP-MI335SC-TAP-COM;Spice;MI-335 (Stellar Craze);Tapa trasera;Compatible;5,40;;;6
+SP-MI335SC-CTR-COM;Spice;MI-335 (Stellar Craze);Cámara trasera;Compatible;7,59;;;6
+SP-MI335SC-CFR-COM;Spice;MI-335 (Stellar Craze);Cámara frontal;Compatible;4,99;;;6
+SP-MI335SC-LEN-COM;Spice;MI-335 (Stellar Craze);Lente de cámara;Compatible;2,19;;;6
+SP-MI335SC-ALT-COM;Spice;MI-335 (Stellar Craze);Altavoz;Compatible;3,65;;;6
+SP-MI335SC-AUR-COM;Spice;MI-335 (Stellar Craze);Auricular de llamada;Compatible;2,65;;;6
+SP-MI335SC-FLX-COM;Spice;MI-335 (Stellar Craze);Flex de encendido y volumen;Compatible;2,49;;;6
+SP-MI335SC-SIM-COM;Spice;MI-335 (Stellar Craze);Bandeja SIM;Compatible;2,55;;;6
+SP-SNMI435-PRO-NA;Spice;Stellar Nhance Mi-435;Cristal templado;Estándar;1,30;;;
+SP-SNMI435-PRO-PRI;Spice;Stellar Nhance Mi-435;Cristal templado;Privacidad;4,00;;;
+SP-SNMI435-FUN-SIL;Spice;Stellar Nhance Mi-435;Funda;Silicona;2,50;;;
+SP-SNMI435-FUN-TPU;Spice;Stellar Nhance Mi-435;Funda;Transparente;2,95;;;
+SP-SNMI435-FUN-LIB;Spice;Stellar Nhance Mi-435;Funda;Libro;3,70;;;
+SP-SNMI435-FUN-ANT;Spice;Stellar Nhance Mi-435;Funda;Antigolpes;3,10;;;
+SP-MI335SC-PRO-NA;Spice;MI-335 (Stellar Craze);Cristal templado;Estándar;1,30;;;
+SP-MI335SC-PRO-PRI;Spice;MI-335 (Stellar Craze);Cristal templado;Privacidad;4,00;;;
+SP-MI335SC-FUN-SIL;Spice;MI-335 (Stellar Craze);Funda;Silicona;2,50;;;
+SP-MI335SC-FUN-TPU;Spice;MI-335 (Stellar Craze);Funda;Transparente;2,95;;;
+SP-MI335SC-FUN-LIB;Spice;MI-335 (Stellar Craze);Funda;Libro;3,70;;;
+SP-MI335SC-FUN-ANT;Spice;MI-335 (Stellar Craze);Funda;Antigolpes;3,10;;;
+SP-SNMI435-MAR-COM;Spice;Stellar Nhance Mi-435;Marco / chasis;Compatible;5,75;;;6
+SP-SNMI435-BOT-COM;Spice;Stellar Nhance Mi-435;Botones laterales;Compatible;2,95;;;6
+SP-SNMI435-ANT-COM;Spice;Stellar Nhance Mi-435;Antena / coaxial;Compatible;2,55;;;6
+SP-MI335SC-ANT-COM;Spice;MI-335 (Stellar Craze);Antena / coaxial;Compatible;2,55;;;6

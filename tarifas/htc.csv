@@ -1,0 +1,2839 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+HT-U24P-PAN-COM;HTC;U24 Pro;Pantalla;Compatible;17,15;16,64;16,12;6
+HT-U24P-BAT-COM;HTC;U24 Pro;Batería;Compatible;9,40;;;6
+HT-U24P-CON-COM;HTC;U24 Pro;Conector de carga;Compatible;5,05;;;6
+HT-U24P-TAP-COM;HTC;U24 Pro;Tapa trasera;Compatible;6,20;;;6
+HT-U24P-CTR-COM;HTC;U24 Pro;Cámara trasera;Compatible;8,65;;;6
+HT-U24P-CFR-COM;HTC;U24 Pro;Cámara frontal;Compatible;5,35;;;6
+HT-U24P-LEN-COM;HTC;U24 Pro;Lente de cámara;Compatible;2,30;;;6
+HT-U24P-ALT-COM;HTC;U24 Pro;Altavoz;Compatible;3,60;;;6
+HT-U24P-AUR-COM;HTC;U24 Pro;Auricular de llamada;Compatible;2,65;;;6
+HT-U24P-FLX-COM;HTC;U24 Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+HT-U24P-SIM-COM;HTC;U24 Pro;Bandeja SIM;Compatible;2,55;;;6
+HT-WES-PAN-COM;HTC;Wildfire E star;Pantalla;Compatible;17,15;16,64;16,12;6
+HT-WES-BAT-COM;HTC;Wildfire E star;Batería;Compatible;9,40;;;6
+HT-WES-CON-COM;HTC;Wildfire E star;Conector de carga;Compatible;5,05;;;6
+HT-WES-TAP-COM;HTC;Wildfire E star;Tapa trasera;Compatible;6,20;;;6
+HT-WES-CTR-COM;HTC;Wildfire E star;Cámara trasera;Compatible;8,65;;;6
+HT-WES-CFR-COM;HTC;Wildfire E star;Cámara frontal;Compatible;5,35;;;6
+HT-WES-LEN-COM;HTC;Wildfire E star;Lente de cámara;Compatible;2,30;;;6
+HT-WES-ALT-COM;HTC;Wildfire E star;Altavoz;Compatible;3,60;;;6
+HT-WES-AUR-COM;HTC;Wildfire E star;Auricular de llamada;Compatible;2,65;;;6
+HT-WES-FLX-COM;HTC;Wildfire E star;Flex de encendido y volumen;Compatible;2,79;;;6
+HT-WES-SIM-COM;HTC;Wildfire E star;Bandeja SIM;Compatible;2,55;;;6
+HT-U23-PAN-COM;HTC;U23;Pantalla;Compatible;17,15;16,64;16,12;6
+HT-U23-BAT-COM;HTC;U23;Batería;Compatible;9,40;;;6
+HT-U23-CON-COM;HTC;U23;Conector de carga;Compatible;5,05;;;6
+HT-U23-TAP-COM;HTC;U23;Tapa trasera;Compatible;6,20;;;6
+HT-U23-CTR-COM;HTC;U23;Cámara trasera;Compatible;8,65;;;6
+HT-U23-CFR-COM;HTC;U23;Cámara frontal;Compatible;5,35;;;6
+HT-U23-LEN-COM;HTC;U23;Lente de cámara;Compatible;2,30;;;6
+HT-U23-ALT-COM;HTC;U23;Altavoz;Compatible;3,60;;;6
+HT-U23-AUR-COM;HTC;U23;Auricular de llamada;Compatible;2,65;;;6
+HT-U23-FLX-COM;HTC;U23;Flex de encendido y volumen;Compatible;2,79;;;6
+HT-U23-SIM-COM;HTC;U23;Bandeja SIM;Compatible;2,55;;;6
+HT-U23P-PAN-COM;HTC;U23 Pro;Pantalla;Compatible;17,15;16,64;16,12;6
+HT-U23P-BAT-COM;HTC;U23 Pro;Batería;Compatible;9,40;;;6
+HT-U23P-CON-COM;HTC;U23 Pro;Conector de carga;Compatible;5,05;;;6
+HT-U23P-TAP-COM;HTC;U23 Pro;Tapa trasera;Compatible;6,20;;;6
+HT-U23P-CTR-COM;HTC;U23 Pro;Cámara trasera;Compatible;8,65;;;6
+HT-U23P-CFR-COM;HTC;U23 Pro;Cámara frontal;Compatible;5,35;;;6
+HT-U23P-LEN-COM;HTC;U23 Pro;Lente de cámara;Compatible;2,30;;;6
+HT-U23P-ALT-COM;HTC;U23 Pro;Altavoz;Compatible;3,60;;;6
+HT-U23P-AUR-COM;HTC;U23 Pro;Auricular de llamada;Compatible;2,65;;;6
+HT-U23P-FLX-COM;HTC;U23 Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+HT-U23P-SIM-COM;HTC;U23 Pro;Bandeja SIM;Compatible;2,55;;;6
+HT-WE2PY-PAN-COM;HTC;Wildfire E2 Play;Pantalla;Compatible;17,15;16,64;16,12;6
+HT-WE2PY-BAT-COM;HTC;Wildfire E2 Play;Batería;Compatible;9,40;;;6
+HT-WE2PY-CON-COM;HTC;Wildfire E2 Play;Conector de carga;Compatible;5,05;;;6
+HT-WE2PY-TAP-COM;HTC;Wildfire E2 Play;Tapa trasera;Compatible;6,20;;;6
+HT-WE2PY-CTR-COM;HTC;Wildfire E2 Play;Cámara trasera;Compatible;8,65;;;6
+HT-WE2PY-CFR-COM;HTC;Wildfire E2 Play;Cámara frontal;Compatible;5,35;;;6
+HT-WE2PY-LEN-COM;HTC;Wildfire E2 Play;Lente de cámara;Compatible;2,30;;;6
+HT-WE2PY-ALT-COM;HTC;Wildfire E2 Play;Altavoz;Compatible;3,60;;;6
+HT-WE2PY-AUR-COM;HTC;Wildfire E2 Play;Auricular de llamada;Compatible;2,65;;;6
+HT-WE2PY-FLX-COM;HTC;Wildfire E2 Play;Flex de encendido y volumen;Compatible;2,79;;;6
+HT-WE2PY-SIM-COM;HTC;Wildfire E2 Play;Bandeja SIM;Compatible;2,55;;;6
+HT-WE3L-PAN-COM;HTC;Wildfire E3 lite;Pantalla;Compatible;17,15;16,64;16,12;6
+HT-WE3L-BAT-COM;HTC;Wildfire E3 lite;Batería;Compatible;9,40;;;6
+HT-WE3L-CON-COM;HTC;Wildfire E3 lite;Conector de carga;Compatible;5,05;;;6
+HT-WE3L-TAP-COM;HTC;Wildfire E3 lite;Tapa trasera;Compatible;6,20;;;6
+HT-WE3L-CTR-COM;HTC;Wildfire E3 lite;Cámara trasera;Compatible;8,65;;;6
+HT-WE3L-CFR-COM;HTC;Wildfire E3 lite;Cámara frontal;Compatible;5,35;;;6
+HT-WE3L-LEN-COM;HTC;Wildfire E3 lite;Lente de cámara;Compatible;2,30;;;6
+HT-WE3L-ALT-COM;HTC;Wildfire E3 lite;Altavoz;Compatible;3,60;;;6
+HT-WE3L-AUR-COM;HTC;Wildfire E3 lite;Auricular de llamada;Compatible;2,65;;;6
+HT-WE3L-FLX-COM;HTC;Wildfire E3 lite;Flex de encendido y volumen;Compatible;2,79;;;6
+HT-WE3L-SIM-COM;HTC;Wildfire E3 lite;Bandeja SIM;Compatible;2,55;;;6
+HT-WEPL-PAN-COM;HTC;Wildfire E Plus;Pantalla;Compatible;16,10;15,62;15,13;6
+HT-WEPL-BAT-COM;HTC;Wildfire E Plus;Batería;Compatible;8,25;;;6
+HT-WEPL-CON-COM;HTC;Wildfire E Plus;Conector de carga;Compatible;4,40;;;6
+HT-WEPL-TAP-COM;HTC;Wildfire E Plus;Tapa trasera;Compatible;5,55;;;6
+HT-WEPL-CTR-COM;HTC;Wildfire E Plus;Cámara trasera;Compatible;6,19;;;6
+HT-WEPL-CFR-COM;HTC;Wildfire E Plus;Cámara frontal;Compatible;3,65;;;6
+HT-WEPL-LEN-COM;HTC;Wildfire E Plus;Lente de cámara;Compatible;2,20;;;6
+HT-WEPL-ALT-COM;HTC;Wildfire E Plus;Altavoz;Compatible;3,35;;;6
+HT-WEPL-AUR-COM;HTC;Wildfire E Plus;Auricular de llamada;Compatible;2,40;;;6
+HT-WEPL-FLX-COM;HTC;Wildfire E Plus;Flex de encendido y volumen;Compatible;2,29;;;6
+HT-WEPL-SIM-COM;HTC;Wildfire E Plus;Bandeja SIM;Compatible;2,60;;;6
+HT-D22P-PAN-COM;HTC;Desire 22 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+HT-D22P-BAT-COM;HTC;Desire 22 Pro;Batería;Compatible;8,25;;;6
+HT-D22P-CON-COM;HTC;Desire 22 Pro;Conector de carga;Compatible;4,40;;;6
+HT-D22P-TAP-COM;HTC;Desire 22 Pro;Tapa trasera;Compatible;5,55;;;6
+HT-D22P-CTR-COM;HTC;Desire 22 Pro;Cámara trasera;Compatible;6,19;;;6
+HT-D22P-CFR-COM;HTC;Desire 22 Pro;Cámara frontal;Compatible;3,65;;;6
+HT-D22P-LEN-COM;HTC;Desire 22 Pro;Lente de cámara;Compatible;2,20;;;6
+HT-D22P-ALT-COM;HTC;Desire 22 Pro;Altavoz;Compatible;3,35;;;6
+HT-D22P-AUR-COM;HTC;Desire 22 Pro;Auricular de llamada;Compatible;2,40;;;6
+HT-D22P-FLX-COM;HTC;Desire 22 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+HT-D22P-SIM-COM;HTC;Desire 22 Pro;Bandeja SIM;Compatible;2,60;;;6
+HT-WE2PL-PAN-COM;HTC;Wildfire E2 Plus;Pantalla;Compatible;16,10;15,62;15,13;6
+HT-WE2PL-BAT-COM;HTC;Wildfire E2 Plus;Batería;Compatible;8,25;;;6
+HT-WE2PL-CON-COM;HTC;Wildfire E2 Plus;Conector de carga;Compatible;4,40;;;6
+HT-WE2PL-TAP-COM;HTC;Wildfire E2 Plus;Tapa trasera;Compatible;5,55;;;6
+HT-WE2PL-CTR-COM;HTC;Wildfire E2 Plus;Cámara trasera;Compatible;6,19;;;6
+HT-WE2PL-CFR-COM;HTC;Wildfire E2 Plus;Cámara frontal;Compatible;3,65;;;6
+HT-WE2PL-LEN-COM;HTC;Wildfire E2 Plus;Lente de cámara;Compatible;2,20;;;6
+HT-WE2PL-ALT-COM;HTC;Wildfire E2 Plus;Altavoz;Compatible;3,35;;;6
+HT-WE2PL-AUR-COM;HTC;Wildfire E2 Plus;Auricular de llamada;Compatible;2,40;;;6
+HT-WE2PL-FLX-COM;HTC;Wildfire E2 Plus;Flex de encendido y volumen;Compatible;2,29;;;6
+HT-WE2PL-SIM-COM;HTC;Wildfire E2 Plus;Bandeja SIM;Compatible;2,60;;;6
+HT-WE3-PAN-COM;HTC;Wildfire E3;Pantalla;Compatible;16,10;15,62;15,13;6
+HT-WE3-BAT-COM;HTC;Wildfire E3;Batería;Compatible;8,25;;;6
+HT-WE3-CON-COM;HTC;Wildfire E3;Conector de carga;Compatible;4,40;;;6
+HT-WE3-TAP-COM;HTC;Wildfire E3;Tapa trasera;Compatible;5,55;;;6
+HT-WE3-CTR-COM;HTC;Wildfire E3;Cámara trasera;Compatible;6,19;;;6
+HT-WE3-CFR-COM;HTC;Wildfire E3;Cámara frontal;Compatible;3,65;;;6
+HT-WE3-LEN-COM;HTC;Wildfire E3;Lente de cámara;Compatible;2,20;;;6
+HT-WE3-ALT-COM;HTC;Wildfire E3;Altavoz;Compatible;3,35;;;6
+HT-WE3-AUR-COM;HTC;Wildfire E3;Auricular de llamada;Compatible;2,40;;;6
+HT-WE3-FLX-COM;HTC;Wildfire E3;Flex de encendido y volumen;Compatible;2,29;;;6
+HT-WE3-SIM-COM;HTC;Wildfire E3;Bandeja SIM;Compatible;2,60;;;6
+HT-D21P5-PAN-COM;HTC;Desire 21 Pro 5G;Pantalla;Compatible;16,10;15,62;15,13;6
+HT-D21P5-BAT-COM;HTC;Desire 21 Pro 5G;Batería;Compatible;8,25;;;6
+HT-D21P5-CON-COM;HTC;Desire 21 Pro 5G;Conector de carga;Compatible;4,40;;;6
+HT-D21P5-TAP-COM;HTC;Desire 21 Pro 5G;Tapa trasera;Compatible;5,55;;;6
+HT-D21P5-CTR-COM;HTC;Desire 21 Pro 5G;Cámara trasera;Compatible;6,19;;;6
+HT-D21P5-CFR-COM;HTC;Desire 21 Pro 5G;Cámara frontal;Compatible;3,65;;;6
+HT-D21P5-LEN-COM;HTC;Desire 21 Pro 5G;Lente de cámara;Compatible;2,20;;;6
+HT-D21P5-ALT-COM;HTC;Desire 21 Pro 5G;Altavoz;Compatible;3,35;;;6
+HT-D21P5-AUR-COM;HTC;Desire 21 Pro 5G;Auricular de llamada;Compatible;2,40;;;6
+HT-D21P5-FLX-COM;HTC;Desire 21 Pro 5G;Flex de encendido y volumen;Compatible;2,29;;;6
+HT-D21P5-SIM-COM;HTC;Desire 21 Pro 5G;Bandeja SIM;Compatible;2,60;;;6
+HT-D20PL-PAN-COM;HTC;Desire 20+;Pantalla;Compatible;16,10;15,62;15,13;6
+HT-D20PL-BAT-COM;HTC;Desire 20+;Batería;Compatible;8,25;;;6
+HT-D20PL-CON-COM;HTC;Desire 20+;Conector de carga;Compatible;4,40;;;6
+HT-D20PL-TAP-COM;HTC;Desire 20+;Tapa trasera;Compatible;5,55;;;6
+HT-D20PL-CTR-COM;HTC;Desire 20+;Cámara trasera;Compatible;6,19;;;6
+HT-D20PL-CFR-COM;HTC;Desire 20+;Cámara frontal;Compatible;3,65;;;6
+HT-D20PL-LEN-COM;HTC;Desire 20+;Lente de cámara;Compatible;2,20;;;6
+HT-D20PL-ALT-COM;HTC;Desire 20+;Altavoz;Compatible;3,35;;;6
+HT-D20PL-AUR-COM;HTC;Desire 20+;Auricular de llamada;Compatible;2,40;;;6
+HT-D20PL-FLX-COM;HTC;Desire 20+;Flex de encendido y volumen;Compatible;2,29;;;6
+HT-D20PL-SIM-COM;HTC;Desire 20+;Bandeja SIM;Compatible;2,60;;;6
+HT-U205-PAN-COM;HTC;U20 5G;Pantalla;Compatible;16,10;15,62;15,13;6
+HT-U205-BAT-COM;HTC;U20 5G;Batería;Compatible;8,25;;;6
+HT-U205-CON-COM;HTC;U20 5G;Conector de carga;Compatible;4,40;;;6
+HT-U205-TAP-COM;HTC;U20 5G;Tapa trasera;Compatible;5,55;;;6
+HT-U205-CTR-COM;HTC;U20 5G;Cámara trasera;Compatible;6,19;;;6
+HT-U205-CFR-COM;HTC;U20 5G;Cámara frontal;Compatible;3,65;;;6
+HT-U205-LEN-COM;HTC;U20 5G;Lente de cámara;Compatible;2,20;;;6
+HT-U205-ALT-COM;HTC;U20 5G;Altavoz;Compatible;3,35;;;6
+HT-U205-AUR-COM;HTC;U20 5G;Auricular de llamada;Compatible;2,40;;;6
+HT-U205-FLX-COM;HTC;U20 5G;Flex de encendido y volumen;Compatible;2,29;;;6
+HT-U205-SIM-COM;HTC;U20 5G;Bandeja SIM;Compatible;2,60;;;6
+HT-WE2-PAN-COM;HTC;Wildfire E2;Pantalla;Compatible;16,10;15,62;15,13;6
+HT-WE2-BAT-COM;HTC;Wildfire E2;Batería;Compatible;8,25;;;6
+HT-WE2-CON-COM;HTC;Wildfire E2;Conector de carga;Compatible;4,40;;;6
+HT-WE2-TAP-COM;HTC;Wildfire E2;Tapa trasera;Compatible;5,55;;;6
+HT-WE2-CTR-COM;HTC;Wildfire E2;Cámara trasera;Compatible;6,19;;;6
+HT-WE2-CFR-COM;HTC;Wildfire E2;Cámara frontal;Compatible;3,65;;;6
+HT-WE2-LEN-COM;HTC;Wildfire E2;Lente de cámara;Compatible;2,20;;;6
+HT-WE2-ALT-COM;HTC;Wildfire E2;Altavoz;Compatible;3,35;;;6
+HT-WE2-AUR-COM;HTC;Wildfire E2;Auricular de llamada;Compatible;2,40;;;6
+HT-WE2-FLX-COM;HTC;Wildfire E2;Flex de encendido y volumen;Compatible;2,29;;;6
+HT-WE2-SIM-COM;HTC;Wildfire E2;Bandeja SIM;Compatible;2,60;;;6
+HT-D20P-PAN-COM;HTC;Desire 20 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+HT-D20P-BAT-COM;HTC;Desire 20 Pro;Batería;Compatible;8,25;;;6
+HT-D20P-CON-COM;HTC;Desire 20 Pro;Conector de carga;Compatible;4,40;;;6
+HT-D20P-TAP-COM;HTC;Desire 20 Pro;Tapa trasera;Compatible;5,55;;;6
+HT-D20P-CTR-COM;HTC;Desire 20 Pro;Cámara trasera;Compatible;6,19;;;6
+HT-D20P-CFR-COM;HTC;Desire 20 Pro;Cámara frontal;Compatible;3,65;;;6
+HT-D20P-LEN-COM;HTC;Desire 20 Pro;Lente de cámara;Compatible;2,20;;;6
+HT-D20P-ALT-COM;HTC;Desire 20 Pro;Altavoz;Compatible;3,35;;;6
+HT-D20P-AUR-COM;HTC;Desire 20 Pro;Auricular de llamada;Compatible;2,40;;;6
+HT-D20P-FLX-COM;HTC;Desire 20 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+HT-D20P-SIM-COM;HTC;Desire 20 Pro;Bandeja SIM;Compatible;2,60;;;6
+HT-WR70-PAN-COM;HTC;Wildfire R70;Pantalla;Compatible;16,10;15,62;15,13;6
+HT-WR70-BAT-COM;HTC;Wildfire R70;Batería;Compatible;8,25;;;6
+HT-WR70-CON-COM;HTC;Wildfire R70;Conector de carga;Compatible;4,40;;;6
+HT-WR70-TAP-COM;HTC;Wildfire R70;Tapa trasera;Compatible;5,55;;;6
+HT-WR70-CTR-COM;HTC;Wildfire R70;Cámara trasera;Compatible;6,19;;;6
+HT-WR70-CFR-COM;HTC;Wildfire R70;Cámara frontal;Compatible;3,65;;;6
+HT-WR70-LEN-COM;HTC;Wildfire R70;Lente de cámara;Compatible;2,20;;;6
+HT-WR70-ALT-COM;HTC;Wildfire R70;Altavoz;Compatible;3,35;;;6
+HT-WR70-AUR-COM;HTC;Wildfire R70;Auricular de llamada;Compatible;2,40;;;6
+HT-WR70-FLX-COM;HTC;Wildfire R70;Flex de encendido y volumen;Compatible;2,29;;;6
+HT-WR70-SIM-COM;HTC;Wildfire R70;Bandeja SIM;Compatible;2,60;;;6
+HT-D19S-PAN-COM;HTC;Desire 19s;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D19S-BAT-COM;HTC;Desire 19s;Batería;Compatible;9,65;;;6
+HT-D19S-CON-COM;HTC;Desire 19s;Conector de carga;Compatible;4,60;;;6
+HT-D19S-TAP-COM;HTC;Desire 19s;Tapa trasera;Compatible;5,40;;;6
+HT-D19S-CTR-COM;HTC;Desire 19s;Cámara trasera;Compatible;7,59;;;6
+HT-D19S-CFR-COM;HTC;Desire 19s;Cámara frontal;Compatible;4,99;;;6
+HT-D19S-LEN-COM;HTC;Desire 19s;Lente de cámara;Compatible;2,19;;;6
+HT-D19S-ALT-COM;HTC;Desire 19s;Altavoz;Compatible;3,65;;;6
+HT-D19S-AUR-COM;HTC;Desire 19s;Auricular de llamada;Compatible;2,65;;;6
+HT-D19S-FLX-COM;HTC;Desire 19s;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D19S-SIM-COM;HTC;Desire 19s;Bandeja SIM;Compatible;2,55;;;6
+HT-E1S-PAN-COM;HTC;Exodus 1s;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-E1S-BAT-COM;HTC;Exodus 1s;Batería;Compatible;9,65;;;6
+HT-E1S-CON-COM;HTC;Exodus 1s;Conector de carga;Compatible;4,60;;;6
+HT-E1S-TAP-COM;HTC;Exodus 1s;Tapa trasera;Compatible;5,40;;;6
+HT-E1S-CTR-COM;HTC;Exodus 1s;Cámara trasera;Compatible;7,59;;;6
+HT-E1S-CFR-COM;HTC;Exodus 1s;Cámara frontal;Compatible;4,99;;;6
+HT-E1S-LEN-COM;HTC;Exodus 1s;Lente de cámara;Compatible;2,19;;;6
+HT-E1S-ALT-COM;HTC;Exodus 1s;Altavoz;Compatible;3,65;;;6
+HT-E1S-AUR-COM;HTC;Exodus 1s;Auricular de llamada;Compatible;2,65;;;6
+HT-E1S-FLX-COM;HTC;Exodus 1s;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-E1S-SIM-COM;HTC;Exodus 1s;Bandeja SIM;Compatible;2,55;;;6
+HT-WX-PAN-COM;HTC;Wildfire X;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-WX-BAT-COM;HTC;Wildfire X;Batería;Compatible;9,65;;;6
+HT-WX-CON-COM;HTC;Wildfire X;Conector de carga;Compatible;4,60;;;6
+HT-WX-TAP-COM;HTC;Wildfire X;Tapa trasera;Compatible;5,40;;;6
+HT-WX-CTR-COM;HTC;Wildfire X;Cámara trasera;Compatible;7,59;;;6
+HT-WX-CFR-COM;HTC;Wildfire X;Cámara frontal;Compatible;4,99;;;6
+HT-WX-LEN-COM;HTC;Wildfire X;Lente de cámara;Compatible;2,19;;;6
+HT-WX-ALT-COM;HTC;Wildfire X;Altavoz;Compatible;3,65;;;6
+HT-WX-AUR-COM;HTC;Wildfire X;Auricular de llamada;Compatible;2,65;;;6
+HT-WX-FLX-COM;HTC;Wildfire X;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-WX-SIM-COM;HTC;Wildfire X;Bandeja SIM;Compatible;2,55;;;6
+HT-D19PL-PAN-COM;HTC;Desire 19+;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D19PL-BAT-COM;HTC;Desire 19+;Batería;Compatible;9,65;;;6
+HT-D19PL-CON-COM;HTC;Desire 19+;Conector de carga;Compatible;4,60;;;6
+HT-D19PL-TAP-COM;HTC;Desire 19+;Tapa trasera;Compatible;5,40;;;6
+HT-D19PL-CTR-COM;HTC;Desire 19+;Cámara trasera;Compatible;7,59;;;6
+HT-D19PL-CFR-COM;HTC;Desire 19+;Cámara frontal;Compatible;4,99;;;6
+HT-D19PL-LEN-COM;HTC;Desire 19+;Lente de cámara;Compatible;2,19;;;6
+HT-D19PL-ALT-COM;HTC;Desire 19+;Altavoz;Compatible;3,65;;;6
+HT-D19PL-AUR-COM;HTC;Desire 19+;Auricular de llamada;Compatible;2,65;;;6
+HT-D19PL-FLX-COM;HTC;Desire 19+;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D19PL-SIM-COM;HTC;Desire 19+;Bandeja SIM;Compatible;2,55;;;6
+HT-U19E-PAN-INC;HTC;U19e;Pantalla;Incell;17,69;17,16;16,63;6
+HT-U19E-BAT-COM;HTC;U19e;Batería;Compatible;9,65;;;6
+HT-U19E-CON-COM;HTC;U19e;Conector de carga;Compatible;4,60;;;6
+HT-U19E-TAP-COM;HTC;U19e;Tapa trasera;Compatible;5,40;;;6
+HT-U19E-CTR-COM;HTC;U19e;Cámara trasera;Compatible;7,59;;;6
+HT-U19E-CFR-COM;HTC;U19e;Cámara frontal;Compatible;4,99;;;6
+HT-U19E-LEN-COM;HTC;U19e;Lente de cámara;Compatible;2,19;;;6
+HT-U19E-ALT-COM;HTC;U19e;Altavoz;Compatible;3,65;;;6
+HT-U19E-AUR-COM;HTC;U19e;Auricular de llamada;Compatible;2,65;;;6
+HT-U19E-FLX-COM;HTC;U19e;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-U19E-SIM-COM;HTC;U19e;Bandeja SIM;Compatible;2,55;;;6
+HT-D12S-PAN-COM;HTC;Desire 12s;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D12S-BAT-COM;HTC;Desire 12s;Batería;Compatible;9,65;;;6
+HT-D12S-CON-COM;HTC;Desire 12s;Conector de carga;Compatible;4,60;;;6
+HT-D12S-TAP-COM;HTC;Desire 12s;Tapa trasera;Compatible;5,40;;;6
+HT-D12S-CTR-COM;HTC;Desire 12s;Cámara trasera;Compatible;7,59;;;6
+HT-D12S-CFR-COM;HTC;Desire 12s;Cámara frontal;Compatible;4,99;;;6
+HT-D12S-LEN-COM;HTC;Desire 12s;Lente de cámara;Compatible;2,19;;;6
+HT-D12S-ALT-COM;HTC;Desire 12s;Altavoz;Compatible;3,65;;;6
+HT-D12S-AUR-COM;HTC;Desire 12s;Auricular de llamada;Compatible;2,65;;;6
+HT-D12S-FLX-COM;HTC;Desire 12s;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D12S-SIM-COM;HTC;Desire 12s;Bandeja SIM;Compatible;2,55;;;6
+HT-E1-PAN-COM;HTC;Exodus 1;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-E1-BAT-COM;HTC;Exodus 1;Batería;Compatible;9,65;;;6
+HT-E1-CON-COM;HTC;Exodus 1;Conector de carga;Compatible;4,60;;;6
+HT-E1-TAP-COM;HTC;Exodus 1;Tapa trasera;Compatible;5,40;;;6
+HT-E1-CTR-COM;HTC;Exodus 1;Cámara trasera;Compatible;7,59;;;6
+HT-E1-CFR-COM;HTC;Exodus 1;Cámara frontal;Compatible;4,99;;;6
+HT-E1-LEN-COM;HTC;Exodus 1;Lente de cámara;Compatible;2,19;;;6
+HT-E1-ALT-COM;HTC;Exodus 1;Altavoz;Compatible;3,65;;;6
+HT-E1-AUR-COM;HTC;Exodus 1;Auricular de llamada;Compatible;2,65;;;6
+HT-E1-FLX-COM;HTC;Exodus 1;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-E1-SIM-COM;HTC;Exodus 1;Bandeja SIM;Compatible;2,55;;;6
+HT-U12L-PAN-COM;HTC;U12 Life;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-U12L-BAT-COM;HTC;U12 Life;Batería;Compatible;9,65;;;6
+HT-U12L-CON-COM;HTC;U12 Life;Conector de carga;Compatible;4,60;;;6
+HT-U12L-TAP-COM;HTC;U12 Life;Tapa trasera;Compatible;5,40;;;6
+HT-U12L-CTR-COM;HTC;U12 Life;Cámara trasera;Compatible;7,59;;;6
+HT-U12L-CFR-COM;HTC;U12 Life;Cámara frontal;Compatible;4,99;;;6
+HT-U12L-LEN-COM;HTC;U12 Life;Lente de cámara;Compatible;2,19;;;6
+HT-U12L-ALT-COM;HTC;U12 Life;Altavoz;Compatible;3,65;;;6
+HT-U12L-AUR-COM;HTC;U12 Life;Auricular de llamada;Compatible;2,65;;;6
+HT-U12L-FLX-COM;HTC;U12 Life;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-U12L-SIM-COM;HTC;U12 Life;Bandeja SIM;Compatible;2,55;;;6
+HT-D12-PAN-COM;HTC;Desire 12;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D12-BAT-COM;HTC;Desire 12;Batería;Compatible;9,65;;;6
+HT-D12-CON-COM;HTC;Desire 12;Conector de carga;Compatible;4,60;;;6
+HT-D12-TAP-COM;HTC;Desire 12;Tapa trasera;Compatible;5,40;;;6
+HT-D12-CTR-COM;HTC;Desire 12;Cámara trasera;Compatible;7,59;;;6
+HT-D12-CFR-COM;HTC;Desire 12;Cámara frontal;Compatible;4,99;;;6
+HT-D12-LEN-COM;HTC;Desire 12;Lente de cámara;Compatible;2,19;;;6
+HT-D12-ALT-COM;HTC;Desire 12;Altavoz;Compatible;3,65;;;6
+HT-D12-AUR-COM;HTC;Desire 12;Auricular de llamada;Compatible;2,65;;;6
+HT-D12-FLX-COM;HTC;Desire 12;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D12-SIM-COM;HTC;Desire 12;Bandeja SIM;Compatible;2,55;;;6
+HT-D12PL-PAN-COM;HTC;Desire 12+;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D12PL-BAT-COM;HTC;Desire 12+;Batería;Compatible;9,65;;;6
+HT-D12PL-CON-COM;HTC;Desire 12+;Conector de carga;Compatible;4,60;;;6
+HT-D12PL-TAP-COM;HTC;Desire 12+;Tapa trasera;Compatible;5,40;;;6
+HT-D12PL-CTR-COM;HTC;Desire 12+;Cámara trasera;Compatible;7,59;;;6
+HT-D12PL-CFR-COM;HTC;Desire 12+;Cámara frontal;Compatible;4,99;;;6
+HT-D12PL-LEN-COM;HTC;Desire 12+;Lente de cámara;Compatible;2,19;;;6
+HT-D12PL-ALT-COM;HTC;Desire 12+;Altavoz;Compatible;3,65;;;6
+HT-D12PL-AUR-COM;HTC;Desire 12+;Auricular de llamada;Compatible;2,65;;;6
+HT-D12PL-FLX-COM;HTC;Desire 12+;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D12PL-SIM-COM;HTC;Desire 12+;Bandeja SIM;Compatible;2,55;;;6
+HT-U12PL-PAN-COM;HTC;U12+;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-U12PL-BAT-COM;HTC;U12+;Batería;Compatible;9,65;;;6
+HT-U12PL-CON-COM;HTC;U12+;Conector de carga;Compatible;4,60;;;6
+HT-U12PL-TAP-COM;HTC;U12+;Tapa trasera;Compatible;5,40;;;6
+HT-U12PL-CTR-COM;HTC;U12+;Cámara trasera;Compatible;7,59;;;6
+HT-U12PL-CFR-COM;HTC;U12+;Cámara frontal;Compatible;4,99;;;6
+HT-U12PL-LEN-COM;HTC;U12+;Lente de cámara;Compatible;2,19;;;6
+HT-U12PL-ALT-COM;HTC;U12+;Altavoz;Compatible;3,65;;;6
+HT-U12PL-AUR-COM;HTC;U12+;Auricular de llamada;Compatible;2,65;;;6
+HT-U12PL-FLX-COM;HTC;U12+;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-U12PL-SIM-COM;HTC;U12+;Bandeja SIM;Compatible;2,55;;;6
+HT-U11E-PAN-COM;HTC;U11 EYEs;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-U11E-BAT-COM;HTC;U11 EYEs;Batería;Compatible;9,65;;;6
+HT-U11E-CON-COM;HTC;U11 EYEs;Conector de carga;Compatible;4,60;;;6
+HT-U11E-TAP-COM;HTC;U11 EYEs;Tapa trasera;Compatible;5,40;;;6
+HT-U11E-CTR-COM;HTC;U11 EYEs;Cámara trasera;Compatible;7,59;;;6
+HT-U11E-CFR-COM;HTC;U11 EYEs;Cámara frontal;Compatible;4,99;;;6
+HT-U11E-LEN-COM;HTC;U11 EYEs;Lente de cámara;Compatible;2,19;;;6
+HT-U11E-ALT-COM;HTC;U11 EYEs;Altavoz;Compatible;3,65;;;6
+HT-U11E-AUR-COM;HTC;U11 EYEs;Auricular de llamada;Compatible;2,65;;;6
+HT-U11E-FLX-COM;HTC;U11 EYEs;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-U11E-SIM-COM;HTC;U11 EYEs;Bandeja SIM;Compatible;2,55;;;6
+HT-U11PL-PAN-COM;HTC;U11+;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-U11PL-BAT-COM;HTC;U11+;Batería;Compatible;9,65;;;6
+HT-U11PL-CON-COM;HTC;U11+;Conector de carga;Compatible;4,60;;;6
+HT-U11PL-TAP-COM;HTC;U11+;Tapa trasera;Compatible;5,40;;;6
+HT-U11PL-CTR-COM;HTC;U11+;Cámara trasera;Compatible;7,59;;;6
+HT-U11PL-CFR-COM;HTC;U11+;Cámara frontal;Compatible;4,99;;;6
+HT-U11PL-LEN-COM;HTC;U11+;Lente de cámara;Compatible;2,19;;;6
+HT-U11PL-ALT-COM;HTC;U11+;Altavoz;Compatible;3,65;;;6
+HT-U11PL-AUR-COM;HTC;U11+;Auricular de llamada;Compatible;2,65;;;6
+HT-U11PL-FLX-COM;HTC;U11+;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-U11PL-SIM-COM;HTC;U11+;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEX10-PAN-COM;HTC;One X10;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEX10-BAT-COM;HTC;One X10;Batería;Compatible;9,65;;;6
+HT-ONEX10-CON-COM;HTC;One X10;Conector de carga;Compatible;4,60;;;6
+HT-ONEX10-TAP-COM;HTC;One X10;Tapa trasera;Compatible;5,40;;;6
+HT-ONEX10-CTR-COM;HTC;One X10;Cámara trasera;Compatible;7,59;;;6
+HT-ONEX10-CFR-COM;HTC;One X10;Cámara frontal;Compatible;4,99;;;6
+HT-ONEX10-LEN-COM;HTC;One X10;Lente de cámara;Compatible;2,19;;;6
+HT-ONEX10-ALT-COM;HTC;One X10;Altavoz;Compatible;3,65;;;6
+HT-ONEX10-AUR-COM;HTC;One X10;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEX10-FLX-COM;HTC;One X10;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEX10-SIM-COM;HTC;One X10;Bandeja SIM;Compatible;2,55;;;6
+HT-U11-PAN-COM;HTC;U11;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-U11-BAT-COM;HTC;U11;Batería;Compatible;9,65;;;6
+HT-U11-CON-COM;HTC;U11;Conector de carga;Compatible;4,60;;;6
+HT-U11-TAP-COM;HTC;U11;Tapa trasera;Compatible;5,40;;;6
+HT-U11-CTR-COM;HTC;U11;Cámara trasera;Compatible;7,59;;;6
+HT-U11-CFR-COM;HTC;U11;Cámara frontal;Compatible;4,99;;;6
+HT-U11-LEN-COM;HTC;U11;Lente de cámara;Compatible;2,19;;;6
+HT-U11-ALT-COM;HTC;U11;Altavoz;Compatible;3,65;;;6
+HT-U11-AUR-COM;HTC;U11;Auricular de llamada;Compatible;2,65;;;6
+HT-U11-FLX-COM;HTC;U11;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-U11-SIM-COM;HTC;U11;Bandeja SIM;Compatible;2,55;;;6
+HT-UU-PAN-COM;HTC;U Ultra;Pantalla;Compatible;16,69;16,19;15,69;6
+HT-UU-BAT-COM;HTC;U Ultra;Batería;Compatible;9,65;;;6
+HT-UU-CON-COM;HTC;U Ultra;Conector de carga;Compatible;4,60;;;6
+HT-UU-TAP-COM;HTC;U Ultra;Tapa trasera;Compatible;5,40;;;6
+HT-UU-CTR-COM;HTC;U Ultra;Cámara trasera;Compatible;7,59;;;6
+HT-UU-CFR-COM;HTC;U Ultra;Cámara frontal;Compatible;4,99;;;6
+HT-UU-LEN-COM;HTC;U Ultra;Lente de cámara;Compatible;2,19;;;6
+HT-UU-ALT-COM;HTC;U Ultra;Altavoz;Compatible;3,65;;;6
+HT-UU-AUR-COM;HTC;U Ultra;Auricular de llamada;Compatible;2,65;;;6
+HT-UU-FLX-COM;HTC;U Ultra;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-UU-SIM-COM;HTC;U Ultra;Bandeja SIM;Compatible;2,55;;;6
+HT-UPY-PAN-COM;HTC;U Play;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-UPY-BAT-COM;HTC;U Play;Batería;Compatible;9,65;;;6
+HT-UPY-CON-COM;HTC;U Play;Conector de carga;Compatible;4,60;;;6
+HT-UPY-TAP-COM;HTC;U Play;Tapa trasera;Compatible;5,40;;;6
+HT-UPY-CTR-COM;HTC;U Play;Cámara trasera;Compatible;7,59;;;6
+HT-UPY-CFR-COM;HTC;U Play;Cámara frontal;Compatible;4,99;;;6
+HT-UPY-LEN-COM;HTC;U Play;Lente de cámara;Compatible;2,19;;;6
+HT-UPY-ALT-COM;HTC;U Play;Altavoz;Compatible;3,65;;;6
+HT-UPY-AUR-COM;HTC;U Play;Auricular de llamada;Compatible;2,65;;;6
+HT-UPY-FLX-COM;HTC;U Play;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-UPY-SIM-COM;HTC;U Play;Bandeja SIM;Compatible;2,55;;;6
+HT-D10P-PAN-COM;HTC;Desire 10 Pro;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D10P-BAT-COM;HTC;Desire 10 Pro;Batería;Compatible;9,65;;;6
+HT-D10P-CON-COM;HTC;Desire 10 Pro;Conector de carga;Compatible;4,60;;;6
+HT-D10P-TAP-COM;HTC;Desire 10 Pro;Tapa trasera;Compatible;5,40;;;6
+HT-D10P-CTR-COM;HTC;Desire 10 Pro;Cámara trasera;Compatible;7,59;;;6
+HT-D10P-CFR-COM;HTC;Desire 10 Pro;Cámara frontal;Compatible;4,99;;;6
+HT-D10P-LEN-COM;HTC;Desire 10 Pro;Lente de cámara;Compatible;2,19;;;6
+HT-D10P-ALT-COM;HTC;Desire 10 Pro;Altavoz;Compatible;3,65;;;6
+HT-D10P-AUR-COM;HTC;Desire 10 Pro;Auricular de llamada;Compatible;2,65;;;6
+HT-D10P-FLX-COM;HTC;Desire 10 Pro;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D10P-SIM-COM;HTC;Desire 10 Pro;Bandeja SIM;Compatible;2,55;;;6
+HT-D650-PAN-COM;HTC;Desire 650;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D650-BAT-COM;HTC;Desire 650;Batería;Compatible;9,65;;;6
+HT-D650-CON-COM;HTC;Desire 650;Conector de carga;Compatible;4,60;;;6
+HT-D650-TAP-COM;HTC;Desire 650;Tapa trasera;Compatible;5,40;;;6
+HT-D650-CTR-COM;HTC;Desire 650;Cámara trasera;Compatible;7,59;;;6
+HT-D650-CFR-COM;HTC;Desire 650;Cámara frontal;Compatible;4,99;;;6
+HT-D650-LEN-COM;HTC;Desire 650;Lente de cámara;Compatible;2,19;;;6
+HT-D650-ALT-COM;HTC;Desire 650;Altavoz;Compatible;3,65;;;6
+HT-D650-AUR-COM;HTC;Desire 650;Auricular de llamada;Compatible;2,65;;;6
+HT-D650-FLX-COM;HTC;Desire 650;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D650-SIM-COM;HTC;Desire 650;Bandeja SIM;Compatible;2,55;;;6
+HT-D728U-PAN-COM;HTC;Desire 728 Ultra;Pantalla;Compatible;16,69;16,19;15,69;6
+HT-D728U-BAT-COM;HTC;Desire 728 Ultra;Batería;Compatible;9,65;;;6
+HT-D728U-CON-COM;HTC;Desire 728 Ultra;Conector de carga;Compatible;4,60;;;6
+HT-D728U-TAP-COM;HTC;Desire 728 Ultra;Tapa trasera;Compatible;5,40;;;6
+HT-D728U-CTR-COM;HTC;Desire 728 Ultra;Cámara trasera;Compatible;7,59;;;6
+HT-D728U-CFR-COM;HTC;Desire 728 Ultra;Cámara frontal;Compatible;4,99;;;6
+HT-D728U-LEN-COM;HTC;Desire 728 Ultra;Lente de cámara;Compatible;2,19;;;6
+HT-D728U-ALT-COM;HTC;Desire 728 Ultra;Altavoz;Compatible;3,65;;;6
+HT-D728U-AUR-COM;HTC;Desire 728 Ultra;Auricular de llamada;Compatible;2,65;;;6
+HT-D728U-FLX-COM;HTC;Desire 728 Ultra;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D728U-SIM-COM;HTC;Desire 728 Ultra;Bandeja SIM;Compatible;2,55;;;6
+HT-10EVO-PAN-COM;HTC;10 evo;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-10EVO-BAT-COM;HTC;10 evo;Batería;Compatible;9,65;;;6
+HT-10EVO-CON-COM;HTC;10 evo;Conector de carga;Compatible;4,60;;;6
+HT-10EVO-TAP-COM;HTC;10 evo;Tapa trasera;Compatible;5,40;;;6
+HT-10EVO-CTR-COM;HTC;10 evo;Cámara trasera;Compatible;7,59;;;6
+HT-10EVO-CFR-COM;HTC;10 evo;Cámara frontal;Compatible;4,99;;;6
+HT-10EVO-LEN-COM;HTC;10 evo;Lente de cámara;Compatible;2,19;;;6
+HT-10EVO-ALT-COM;HTC;10 evo;Altavoz;Compatible;3,65;;;6
+HT-10EVO-AUR-COM;HTC;10 evo;Auricular de llamada;Compatible;2,65;;;6
+HT-10EVO-FLX-COM;HTC;10 evo;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-10EVO-SIM-COM;HTC;10 evo;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEA9S-PAN-COM;HTC;One A9s;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEA9S-BAT-COM;HTC;One A9s;Batería;Compatible;9,65;;;6
+HT-ONEA9S-CON-COM;HTC;One A9s;Conector de carga;Compatible;4,60;;;6
+HT-ONEA9S-TAP-COM;HTC;One A9s;Tapa trasera;Compatible;5,40;;;6
+HT-ONEA9S-CTR-COM;HTC;One A9s;Cámara trasera;Compatible;7,59;;;6
+HT-ONEA9S-CFR-COM;HTC;One A9s;Cámara frontal;Compatible;4,99;;;6
+HT-ONEA9S-LEN-COM;HTC;One A9s;Lente de cámara;Compatible;2,19;;;6
+HT-ONEA9S-ALT-COM;HTC;One A9s;Altavoz;Compatible;3,65;;;6
+HT-ONEA9S-AUR-COM;HTC;One A9s;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEA9S-FLX-COM;HTC;One A9s;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEA9S-SIM-COM;HTC;One A9s;Bandeja SIM;Compatible;2,55;;;6
+HT-D10L-PAN-COM;HTC;Desire 10 Lifestyle;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D10L-BAT-COM;HTC;Desire 10 Lifestyle;Batería;Compatible;9,65;;;6
+HT-D10L-CON-COM;HTC;Desire 10 Lifestyle;Conector de carga;Compatible;4,60;;;6
+HT-D10L-TAP-COM;HTC;Desire 10 Lifestyle;Tapa trasera;Compatible;5,40;;;6
+HT-D10L-CTR-COM;HTC;Desire 10 Lifestyle;Cámara trasera;Compatible;7,59;;;6
+HT-D10L-CFR-COM;HTC;Desire 10 Lifestyle;Cámara frontal;Compatible;4,99;;;6
+HT-D10L-LEN-COM;HTC;Desire 10 Lifestyle;Lente de cámara;Compatible;2,19;;;6
+HT-D10L-ALT-COM;HTC;Desire 10 Lifestyle;Altavoz;Compatible;3,65;;;6
+HT-D10L-AUR-COM;HTC;Desire 10 Lifestyle;Auricular de llamada;Compatible;2,65;;;6
+HT-D10L-FLX-COM;HTC;Desire 10 Lifestyle;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D10L-SIM-COM;HTC;Desire 10 Lifestyle;Bandeja SIM;Compatible;2,55;;;6
+HT-D625-PAN-COM;HTC;Desire 625;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D625-BAT-COM;HTC;Desire 625;Batería;Compatible;9,65;;;6
+HT-D625-CON-COM;HTC;Desire 625;Conector de carga;Compatible;4,60;;;6
+HT-D625-TAP-COM;HTC;Desire 625;Tapa trasera;Compatible;5,40;;;6
+HT-D625-CTR-COM;HTC;Desire 625;Cámara trasera;Compatible;7,59;;;6
+HT-D625-CFR-COM;HTC;Desire 625;Cámara frontal;Compatible;4,99;;;6
+HT-D625-LEN-COM;HTC;Desire 625;Lente de cámara;Compatible;2,19;;;6
+HT-D625-ALT-COM;HTC;Desire 625;Altavoz;Compatible;3,65;;;6
+HT-D625-AUR-COM;HTC;Desire 625;Auricular de llamada;Compatible;2,65;;;6
+HT-D625-FLX-COM;HTC;Desire 625;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D625-SIM-COM;HTC;Desire 625;Bandeja SIM;Compatible;2,55;;;6
+HT-10L-PAN-COM;HTC;10 Lifestyle;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-10L-BAT-COM;HTC;10 Lifestyle;Batería;Compatible;9,65;;;6
+HT-10L-CON-COM;HTC;10 Lifestyle;Conector de carga;Compatible;4,60;;;6
+HT-10L-TAP-COM;HTC;10 Lifestyle;Tapa trasera;Compatible;5,40;;;6
+HT-10L-CTR-COM;HTC;10 Lifestyle;Cámara trasera;Compatible;7,59;;;6
+HT-10L-CFR-COM;HTC;10 Lifestyle;Cámara frontal;Compatible;4,99;;;6
+HT-10L-LEN-COM;HTC;10 Lifestyle;Lente de cámara;Compatible;2,19;;;6
+HT-10L-ALT-COM;HTC;10 Lifestyle;Altavoz;Compatible;3,65;;;6
+HT-10L-AUR-COM;HTC;10 Lifestyle;Auricular de llamada;Compatible;2,65;;;6
+HT-10L-FLX-COM;HTC;10 Lifestyle;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-10L-SIM-COM;HTC;10 Lifestyle;Bandeja SIM;Compatible;2,55;;;6
+HT-D628-PAN-COM;HTC;Desire 628;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D628-BAT-COM;HTC;Desire 628;Batería;Compatible;9,65;;;6
+HT-D628-CON-COM;HTC;Desire 628;Conector de carga;Compatible;4,60;;;6
+HT-D628-TAP-COM;HTC;Desire 628;Tapa trasera;Compatible;5,40;;;6
+HT-D628-CTR-COM;HTC;Desire 628;Cámara trasera;Compatible;7,59;;;6
+HT-D628-CFR-COM;HTC;Desire 628;Cámara frontal;Compatible;4,99;;;6
+HT-D628-LEN-COM;HTC;Desire 628;Lente de cámara;Compatible;2,19;;;6
+HT-D628-ALT-COM;HTC;Desire 628;Altavoz;Compatible;3,65;;;6
+HT-D628-AUR-COM;HTC;Desire 628;Auricular de llamada;Compatible;2,65;;;6
+HT-D628-FLX-COM;HTC;Desire 628;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D628-SIM-COM;HTC;Desire 628;Bandeja SIM;Compatible;2,55;;;6
+HT-D630-PAN-COM;HTC;Desire 630;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D630-BAT-COM;HTC;Desire 630;Batería;Compatible;9,65;;;6
+HT-D630-CON-COM;HTC;Desire 630;Conector de carga;Compatible;4,60;;;6
+HT-D630-TAP-COM;HTC;Desire 630;Tapa trasera;Compatible;5,40;;;6
+HT-D630-CTR-COM;HTC;Desire 630;Cámara trasera;Compatible;7,59;;;6
+HT-D630-CFR-COM;HTC;Desire 630;Cámara frontal;Compatible;4,99;;;6
+HT-D630-LEN-COM;HTC;Desire 630;Lente de cámara;Compatible;2,19;;;6
+HT-D630-ALT-COM;HTC;Desire 630;Altavoz;Compatible;3,65;;;6
+HT-D630-AUR-COM;HTC;Desire 630;Auricular de llamada;Compatible;2,65;;;6
+HT-D630-FLX-COM;HTC;Desire 630;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D630-SIM-COM;HTC;Desire 630;Bandeja SIM;Compatible;2,55;;;6
+HT-ONES9-PAN-COM;HTC;One S9;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONES9-BAT-COM;HTC;One S9;Batería;Compatible;9,65;;;6
+HT-ONES9-CON-COM;HTC;One S9;Conector de carga;Compatible;4,60;;;6
+HT-ONES9-TAP-COM;HTC;One S9;Tapa trasera;Compatible;5,40;;;6
+HT-ONES9-CTR-COM;HTC;One S9;Cámara trasera;Compatible;7,59;;;6
+HT-ONES9-CFR-COM;HTC;One S9;Cámara frontal;Compatible;4,99;;;6
+HT-ONES9-LEN-COM;HTC;One S9;Lente de cámara;Compatible;2,19;;;6
+HT-ONES9-ALT-COM;HTC;One S9;Altavoz;Compatible;3,65;;;6
+HT-ONES9-AUR-COM;HTC;One S9;Auricular de llamada;Compatible;2,65;;;6
+HT-ONES9-FLX-COM;HTC;One S9;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONES9-SIM-COM;HTC;One S9;Bandeja SIM;Compatible;2,55;;;6
+HT-D830-PAN-COM;HTC;Desire 830;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D830-BAT-COM;HTC;Desire 830;Batería;Compatible;9,65;;;6
+HT-D830-CON-COM;HTC;Desire 830;Conector de carga;Compatible;4,60;;;6
+HT-D830-TAP-COM;HTC;Desire 830;Tapa trasera;Compatible;5,40;;;6
+HT-D830-CTR-COM;HTC;Desire 830;Cámara trasera;Compatible;7,59;;;6
+HT-D830-CFR-COM;HTC;Desire 830;Cámara frontal;Compatible;4,99;;;6
+HT-D830-LEN-COM;HTC;Desire 830;Lente de cámara;Compatible;2,19;;;6
+HT-D830-ALT-COM;HTC;Desire 830;Altavoz;Compatible;3,65;;;6
+HT-D830-AUR-COM;HTC;Desire 830;Auricular de llamada;Compatible;2,65;;;6
+HT-D830-FLX-COM;HTC;Desire 830;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D830-SIM-COM;HTC;Desire 830;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEM9PC-PAN-COM;HTC;One M9 Prime Camera;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEM9PC-BAT-COM;HTC;One M9 Prime Camera;Batería;Compatible;9,65;;;6
+HT-ONEM9PC-CON-COM;HTC;One M9 Prime Camera;Conector de carga;Compatible;4,60;;;6
+HT-ONEM9PC-TAP-COM;HTC;One M9 Prime Camera;Tapa trasera;Compatible;5,40;;;6
+HT-ONEM9PC-CTR-COM;HTC;One M9 Prime Camera;Cámara trasera;Compatible;7,59;;;6
+HT-ONEM9PC-CFR-COM;HTC;One M9 Prime Camera;Cámara frontal;Compatible;4,99;;;6
+HT-ONEM9PC-LEN-COM;HTC;One M9 Prime Camera;Lente de cámara;Compatible;2,19;;;6
+HT-ONEM9PC-ALT-COM;HTC;One M9 Prime Camera;Altavoz;Compatible;3,65;;;6
+HT-ONEM9PC-AUR-COM;HTC;One M9 Prime Camera;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEM9PC-FLX-COM;HTC;One M9 Prime Camera;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEM9PC-SIM-COM;HTC;One M9 Prime Camera;Bandeja SIM;Compatible;2,55;;;6
+HT-D825-PAN-COM;HTC;Desire 825;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D825-BAT-COM;HTC;Desire 825;Batería;Compatible;9,65;;;6
+HT-D825-CON-COM;HTC;Desire 825;Conector de carga;Compatible;4,60;;;6
+HT-D825-TAP-COM;HTC;Desire 825;Tapa trasera;Compatible;5,40;;;6
+HT-D825-CTR-COM;HTC;Desire 825;Cámara trasera;Compatible;7,59;;;6
+HT-D825-CFR-COM;HTC;Desire 825;Cámara frontal;Compatible;4,99;;;6
+HT-D825-LEN-COM;HTC;Desire 825;Lente de cámara;Compatible;2,19;;;6
+HT-D825-ALT-COM;HTC;Desire 825;Altavoz;Compatible;3,65;;;6
+HT-D825-AUR-COM;HTC;Desire 825;Auricular de llamada;Compatible;2,65;;;6
+HT-D825-FLX-COM;HTC;Desire 825;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D825-SIM-COM;HTC;Desire 825;Bandeja SIM;Compatible;2,55;;;6
+HT-D530-PAN-COM;HTC;Desire 530;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D530-BAT-COM;HTC;Desire 530;Batería;Compatible;9,65;;;6
+HT-D530-CON-COM;HTC;Desire 530;Conector de carga;Compatible;4,60;;;6
+HT-D530-TAP-COM;HTC;Desire 530;Tapa trasera;Compatible;5,40;;;6
+HT-D530-CTR-COM;HTC;Desire 530;Cámara trasera;Compatible;7,59;;;6
+HT-D530-CFR-COM;HTC;Desire 530;Cámara frontal;Compatible;4,99;;;6
+HT-D530-LEN-COM;HTC;Desire 530;Lente de cámara;Compatible;2,19;;;6
+HT-D530-ALT-COM;HTC;Desire 530;Altavoz;Compatible;3,65;;;6
+HT-D530-AUR-COM;HTC;Desire 530;Auricular de llamada;Compatible;2,65;;;6
+HT-D530-FLX-COM;HTC;Desire 530;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D530-SIM-COM;HTC;Desire 530;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEX9-PAN-COM;HTC;One X9;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEX9-BAT-COM;HTC;One X9;Batería;Compatible;9,65;;;6
+HT-ONEX9-CON-COM;HTC;One X9;Conector de carga;Compatible;4,60;;;6
+HT-ONEX9-TAP-COM;HTC;One X9;Tapa trasera;Compatible;5,40;;;6
+HT-ONEX9-CTR-COM;HTC;One X9;Cámara trasera;Compatible;7,59;;;6
+HT-ONEX9-CFR-COM;HTC;One X9;Cámara frontal;Compatible;4,99;;;6
+HT-ONEX9-LEN-COM;HTC;One X9;Lente de cámara;Compatible;2,19;;;6
+HT-ONEX9-ALT-COM;HTC;One X9;Altavoz;Compatible;3,65;;;6
+HT-ONEX9-AUR-COM;HTC;One X9;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEX9-FLX-COM;HTC;One X9;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEX9-SIM-COM;HTC;One X9;Bandeja SIM;Compatible;2,55;;;6
+HT-10-PAN-COM;HTC;10;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-10-BAT-COM;HTC;10;Batería;Compatible;9,65;;;6
+HT-10-CON-COM;HTC;10;Conector de carga;Compatible;4,60;;;6
+HT-10-TAP-COM;HTC;10;Tapa trasera;Compatible;5,40;;;6
+HT-10-CTR-COM;HTC;10;Cámara trasera;Compatible;7,59;;;6
+HT-10-CFR-COM;HTC;10;Cámara frontal;Compatible;4,99;;;6
+HT-10-LEN-COM;HTC;10;Lente de cámara;Compatible;2,19;;;6
+HT-10-ALT-COM;HTC;10;Altavoz;Compatible;3,65;;;6
+HT-10-AUR-COM;HTC;10;Auricular de llamada;Compatible;2,65;;;6
+HT-10-FLX-COM;HTC;10;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-10-SIM-COM;HTC;10;Bandeja SIM;Compatible;2,55;;;6
+HT-D728-PAN-COM;HTC;Desire 728;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D728-BAT-COM;HTC;Desire 728;Batería;Compatible;9,65;;;6
+HT-D728-CON-COM;HTC;Desire 728;Conector de carga;Compatible;4,60;;;6
+HT-D728-TAP-COM;HTC;Desire 728;Tapa trasera;Compatible;5,40;;;6
+HT-D728-CTR-COM;HTC;Desire 728;Cámara trasera;Compatible;7,59;;;6
+HT-D728-CFR-COM;HTC;Desire 728;Cámara frontal;Compatible;4,99;;;6
+HT-D728-LEN-COM;HTC;Desire 728;Lente de cámara;Compatible;2,19;;;6
+HT-D728-ALT-COM;HTC;Desire 728;Altavoz;Compatible;3,65;;;6
+HT-D728-AUR-COM;HTC;Desire 728;Auricular de llamada;Compatible;2,65;;;6
+HT-D728-FLX-COM;HTC;Desire 728;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D728-SIM-COM;HTC;Desire 728;Bandeja SIM;Compatible;2,55;;;6
+HT-D828-PAN-COM;HTC;Desire 828;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D828-BAT-COM;HTC;Desire 828;Batería;Compatible;9,65;;;6
+HT-D828-CON-COM;HTC;Desire 828;Conector de carga;Compatible;4,60;;;6
+HT-D828-TAP-COM;HTC;Desire 828;Tapa trasera;Compatible;5,40;;;6
+HT-D828-CTR-COM;HTC;Desire 828;Cámara trasera;Compatible;7,59;;;6
+HT-D828-CFR-COM;HTC;Desire 828;Cámara frontal;Compatible;4,99;;;6
+HT-D828-LEN-COM;HTC;Desire 828;Lente de cámara;Compatible;2,19;;;6
+HT-D828-ALT-COM;HTC;Desire 828;Altavoz;Compatible;3,65;;;6
+HT-D828-AUR-COM;HTC;Desire 828;Auricular de llamada;Compatible;2,65;;;6
+HT-D828-FLX-COM;HTC;Desire 828;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D828-SIM-COM;HTC;Desire 828;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEM9S-PAN-COM;HTC;One M9s;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEM9S-BAT-COM;HTC;One M9s;Batería;Compatible;9,65;;;6
+HT-ONEM9S-CON-COM;HTC;One M9s;Conector de carga;Compatible;4,60;;;6
+HT-ONEM9S-TAP-COM;HTC;One M9s;Tapa trasera;Compatible;5,40;;;6
+HT-ONEM9S-CTR-COM;HTC;One M9s;Cámara trasera;Compatible;7,59;;;6
+HT-ONEM9S-CFR-COM;HTC;One M9s;Cámara frontal;Compatible;4,99;;;6
+HT-ONEM9S-LEN-COM;HTC;One M9s;Lente de cámara;Compatible;2,19;;;6
+HT-ONEM9S-ALT-COM;HTC;One M9s;Altavoz;Compatible;3,65;;;6
+HT-ONEM9S-AUR-COM;HTC;One M9s;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEM9S-FLX-COM;HTC;One M9s;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEM9S-SIM-COM;HTC;One M9s;Bandeja SIM;Compatible;2,55;;;6
+HT-B3-PAN-COM;HTC;Butterfly 3;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-B3-BAT-COM;HTC;Butterfly 3;Batería;Compatible;9,65;;;6
+HT-B3-CON-COM;HTC;Butterfly 3;Conector de carga;Compatible;4,60;;;6
+HT-B3-TAP-COM;HTC;Butterfly 3;Tapa trasera;Compatible;5,40;;;6
+HT-B3-CTR-COM;HTC;Butterfly 3;Cámara trasera;Compatible;7,59;;;6
+HT-B3-CFR-COM;HTC;Butterfly 3;Cámara frontal;Compatible;4,99;;;6
+HT-B3-LEN-COM;HTC;Butterfly 3;Lente de cámara;Compatible;2,19;;;6
+HT-B3-ALT-COM;HTC;Butterfly 3;Altavoz;Compatible;3,65;;;6
+HT-B3-AUR-COM;HTC;Butterfly 3;Auricular de llamada;Compatible;2,65;;;6
+HT-B3-FLX-COM;HTC;Butterfly 3;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-B3-SIM-COM;HTC;Butterfly 3;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEA9-PAN-INC;HTC;One A9;Pantalla;Incell;17,69;17,16;16,63;6
+HT-ONEA9-BAT-COM;HTC;One A9;Batería;Compatible;9,65;;;6
+HT-ONEA9-CON-COM;HTC;One A9;Conector de carga;Compatible;4,60;;;6
+HT-ONEA9-TAP-COM;HTC;One A9;Tapa trasera;Compatible;5,40;;;6
+HT-ONEA9-CTR-COM;HTC;One A9;Cámara trasera;Compatible;7,59;;;6
+HT-ONEA9-CFR-COM;HTC;One A9;Cámara frontal;Compatible;4,99;;;6
+HT-ONEA9-LEN-COM;HTC;One A9;Lente de cámara;Compatible;2,19;;;6
+HT-ONEA9-ALT-COM;HTC;One A9;Altavoz;Compatible;3,65;;;6
+HT-ONEA9-AUR-COM;HTC;One A9;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEA9-FLX-COM;HTC;One A9;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEA9-SIM-COM;HTC;One A9;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEE9S-PAN-COM;HTC;One E9s;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEE9S-BAT-COM;HTC;One E9s;Batería;Compatible;9,65;;;6
+HT-ONEE9S-CON-COM;HTC;One E9s;Conector de carga;Compatible;4,60;;;6
+HT-ONEE9S-TAP-COM;HTC;One E9s;Tapa trasera;Compatible;5,40;;;6
+HT-ONEE9S-CTR-COM;HTC;One E9s;Cámara trasera;Compatible;7,59;;;6
+HT-ONEE9S-CFR-COM;HTC;One E9s;Cámara frontal;Compatible;4,99;;;6
+HT-ONEE9S-LEN-COM;HTC;One E9s;Lente de cámara;Compatible;2,19;;;6
+HT-ONEE9S-ALT-COM;HTC;One E9s;Altavoz;Compatible;3,65;;;6
+HT-ONEE9S-AUR-COM;HTC;One E9s;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEE9S-FLX-COM;HTC;One E9s;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEE9S-SIM-COM;HTC;One E9s;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEM9PLS-PAN-COM;HTC;One M9+ Supreme Camera Edition;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEM9PLS-BAT-COM;HTC;One M9+ Supreme Camera Edition;Batería;Compatible;9,65;;;6
+HT-ONEM9PLS-CON-COM;HTC;One M9+ Supreme Camera Edition;Conector de carga;Compatible;4,60;;;6
+HT-ONEM9PLS-TAP-COM;HTC;One M9+ Supreme Camera Edition;Tapa trasera;Compatible;5,40;;;6
+HT-ONEM9PLS-CTR-COM;HTC;One M9+ Supreme Camera Edition;Cámara trasera;Compatible;7,59;;;6
+HT-ONEM9PLS-CFR-COM;HTC;One M9+ Supreme Camera Edition;Cámara frontal;Compatible;4,99;;;6
+HT-ONEM9PLS-LEN-COM;HTC;One M9+ Supreme Camera Edition;Lente de cámara;Compatible;2,19;;;6
+HT-ONEM9PLS-ALT-COM;HTC;One M9+ Supreme Camera Edition;Altavoz;Compatible;3,65;;;6
+HT-ONEM9PLS-AUR-COM;HTC;One M9+ Supreme Camera Edition;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEM9PLS-FLX-COM;HTC;One M9+ Supreme Camera Edition;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEM9PLS-SIM-COM;HTC;One M9+ Supreme Camera Edition;Bandeja SIM;Compatible;2,55;;;6
+HT-D520-PAN-COM;HTC;Desire 520;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D520-BAT-COM;HTC;Desire 520;Batería;Compatible;9,65;;;6
+HT-D520-CON-COM;HTC;Desire 520;Conector de carga;Compatible;4,60;;;6
+HT-D520-TAP-COM;HTC;Desire 520;Tapa trasera;Compatible;5,40;;;6
+HT-D520-CTR-COM;HTC;Desire 520;Cámara trasera;Compatible;7,59;;;6
+HT-D520-CFR-COM;HTC;Desire 520;Cámara frontal;Compatible;4,99;;;6
+HT-D520-LEN-COM;HTC;Desire 520;Lente de cámara;Compatible;2,19;;;6
+HT-D520-ALT-COM;HTC;Desire 520;Altavoz;Compatible;3,65;;;6
+HT-D520-AUR-COM;HTC;Desire 520;Auricular de llamada;Compatible;2,65;;;6
+HT-D520-FLX-COM;HTC;Desire 520;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D520-SIM-COM;HTC;Desire 520;Bandeja SIM;Compatible;2,55;;;6
+HT-D526-PAN-COM;HTC;Desire 526;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D526-BAT-COM;HTC;Desire 526;Batería;Compatible;9,65;;;6
+HT-D526-CON-COM;HTC;Desire 526;Conector de carga;Compatible;4,60;;;6
+HT-D526-TAP-COM;HTC;Desire 526;Tapa trasera;Compatible;5,40;;;6
+HT-D526-CTR-COM;HTC;Desire 526;Cámara trasera;Compatible;7,59;;;6
+HT-D526-CFR-COM;HTC;Desire 526;Cámara frontal;Compatible;4,99;;;6
+HT-D526-LEN-COM;HTC;Desire 526;Lente de cámara;Compatible;2,19;;;6
+HT-D526-ALT-COM;HTC;Desire 526;Altavoz;Compatible;3,65;;;6
+HT-D526-AUR-COM;HTC;Desire 526;Auricular de llamada;Compatible;2,65;;;6
+HT-D526-FLX-COM;HTC;Desire 526;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D526-SIM-COM;HTC;Desire 526;Bandeja SIM;Compatible;2,55;;;6
+HT-D626-PAN-COM;HTC;Desire 626;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D626-BAT-COM;HTC;Desire 626;Batería;Compatible;9,65;;;6
+HT-D626-CON-COM;HTC;Desire 626;Conector de carga;Compatible;4,60;;;6
+HT-D626-TAP-COM;HTC;Desire 626;Tapa trasera;Compatible;5,40;;;6
+HT-D626-CTR-COM;HTC;Desire 626;Cámara trasera;Compatible;7,59;;;6
+HT-D626-CFR-COM;HTC;Desire 626;Cámara frontal;Compatible;4,99;;;6
+HT-D626-LEN-COM;HTC;Desire 626;Lente de cámara;Compatible;2,19;;;6
+HT-D626-ALT-COM;HTC;Desire 626;Altavoz;Compatible;3,65;;;6
+HT-D626-AUR-COM;HTC;Desire 626;Auricular de llamada;Compatible;2,65;;;6
+HT-D626-FLX-COM;HTC;Desire 626;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D626-SIM-COM;HTC;Desire 626;Bandeja SIM;Compatible;2,55;;;6
+HT-D626S-PAN-COM;HTC;Desire 626s;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D626S-BAT-COM;HTC;Desire 626s;Batería;Compatible;9,65;;;6
+HT-D626S-CON-COM;HTC;Desire 626s;Conector de carga;Compatible;4,60;;;6
+HT-D626S-TAP-COM;HTC;Desire 626s;Tapa trasera;Compatible;5,40;;;6
+HT-D626S-CTR-COM;HTC;Desire 626s;Cámara trasera;Compatible;7,59;;;6
+HT-D626S-CFR-COM;HTC;Desire 626s;Cámara frontal;Compatible;4,99;;;6
+HT-D626S-LEN-COM;HTC;Desire 626s;Lente de cámara;Compatible;2,19;;;6
+HT-D626S-ALT-COM;HTC;Desire 626s;Altavoz;Compatible;3,65;;;6
+HT-D626S-AUR-COM;HTC;Desire 626s;Auricular de llamada;Compatible;2,65;;;6
+HT-D626S-FLX-COM;HTC;Desire 626s;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D626S-SIM-COM;HTC;Desire 626s;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEME-PAN-COM;HTC;One ME;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEME-BAT-COM;HTC;One ME;Batería;Compatible;9,65;;;6
+HT-ONEME-CON-COM;HTC;One ME;Conector de carga;Compatible;4,60;;;6
+HT-ONEME-TAP-COM;HTC;One ME;Tapa trasera;Compatible;5,40;;;6
+HT-ONEME-CTR-COM;HTC;One ME;Cámara trasera;Compatible;7,59;;;6
+HT-ONEME-CFR-COM;HTC;One ME;Cámara frontal;Compatible;4,99;;;6
+HT-ONEME-LEN-COM;HTC;One ME;Lente de cámara;Compatible;2,19;;;6
+HT-ONEME-ALT-COM;HTC;One ME;Altavoz;Compatible;3,65;;;6
+HT-ONEME-AUR-COM;HTC;One ME;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEME-FLX-COM;HTC;One ME;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEME-SIM-COM;HTC;One ME;Bandeja SIM;Compatible;2,55;;;6
+HT-D326G-PAN-COM;HTC;Desire 326G;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D326G-BAT-COM;HTC;Desire 326G;Batería;Compatible;9,65;;;6
+HT-D326G-CON-COM;HTC;Desire 326G;Conector de carga;Compatible;4,60;;;6
+HT-D326G-TAP-COM;HTC;Desire 326G;Tapa trasera;Compatible;5,40;;;6
+HT-D326G-CTR-COM;HTC;Desire 326G;Cámara trasera;Compatible;7,59;;;6
+HT-D326G-CFR-COM;HTC;Desire 326G;Cámara frontal;Compatible;4,99;;;6
+HT-D326G-LEN-COM;HTC;Desire 326G;Lente de cámara;Compatible;2,19;;;6
+HT-D326G-ALT-COM;HTC;Desire 326G;Altavoz;Compatible;3,65;;;6
+HT-D326G-AUR-COM;HTC;Desire 326G;Auricular de llamada;Compatible;2,65;;;6
+HT-D326G-FLX-COM;HTC;Desire 326G;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D326G-SIM-COM;HTC;Desire 326G;Bandeja SIM;Compatible;2,55;;;6
+HT-D820GPL-PAN-COM;HTC;Desire 820G+;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D820GPL-BAT-COM;HTC;Desire 820G+;Batería;Compatible;9,65;;;6
+HT-D820GPL-CON-COM;HTC;Desire 820G+;Conector de carga;Compatible;4,60;;;6
+HT-D820GPL-TAP-COM;HTC;Desire 820G+;Tapa trasera;Compatible;5,40;;;6
+HT-D820GPL-CTR-COM;HTC;Desire 820G+;Cámara trasera;Compatible;7,59;;;6
+HT-D820GPL-CFR-COM;HTC;Desire 820G+;Cámara frontal;Compatible;4,99;;;6
+HT-D820GPL-LEN-COM;HTC;Desire 820G+;Lente de cámara;Compatible;2,19;;;6
+HT-D820GPL-ALT-COM;HTC;Desire 820G+;Altavoz;Compatible;3,65;;;6
+HT-D820GPL-AUR-COM;HTC;Desire 820G+;Auricular de llamada;Compatible;2,65;;;6
+HT-D820GPL-FLX-COM;HTC;Desire 820G+;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D820GPL-SIM-COM;HTC;Desire 820G+;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEE9-PAN-COM;HTC;One E9;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEE9-BAT-COM;HTC;One E9;Batería;Compatible;9,65;;;6
+HT-ONEE9-CON-COM;HTC;One E9;Conector de carga;Compatible;4,60;;;6
+HT-ONEE9-TAP-COM;HTC;One E9;Tapa trasera;Compatible;5,40;;;6
+HT-ONEE9-CTR-COM;HTC;One E9;Cámara trasera;Compatible;7,59;;;6
+HT-ONEE9-CFR-COM;HTC;One E9;Cámara frontal;Compatible;4,99;;;6
+HT-ONEE9-LEN-COM;HTC;One E9;Lente de cámara;Compatible;2,19;;;6
+HT-ONEE9-ALT-COM;HTC;One E9;Altavoz;Compatible;3,65;;;6
+HT-ONEE9-AUR-COM;HTC;One E9;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEE9-FLX-COM;HTC;One E9;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEE9-SIM-COM;HTC;One E9;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEE9PL-PAN-COM;HTC;One E9+;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEE9PL-BAT-COM;HTC;One E9+;Batería;Compatible;9,65;;;6
+HT-ONEE9PL-CON-COM;HTC;One E9+;Conector de carga;Compatible;4,60;;;6
+HT-ONEE9PL-TAP-COM;HTC;One E9+;Tapa trasera;Compatible;5,40;;;6
+HT-ONEE9PL-CTR-COM;HTC;One E9+;Cámara trasera;Compatible;7,59;;;6
+HT-ONEE9PL-CFR-COM;HTC;One E9+;Cámara frontal;Compatible;4,99;;;6
+HT-ONEE9PL-LEN-COM;HTC;One E9+;Lente de cámara;Compatible;2,19;;;6
+HT-ONEE9PL-ALT-COM;HTC;One E9+;Altavoz;Compatible;3,65;;;6
+HT-ONEE9PL-AUR-COM;HTC;One E9+;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEE9PL-FLX-COM;HTC;One E9+;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEE9PL-SIM-COM;HTC;One E9+;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEM9PL-PAN-COM;HTC;One M9+;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEM9PL-BAT-COM;HTC;One M9+;Batería;Compatible;9,65;;;6
+HT-ONEM9PL-CON-COM;HTC;One M9+;Conector de carga;Compatible;4,60;;;6
+HT-ONEM9PL-TAP-COM;HTC;One M9+;Tapa trasera;Compatible;5,40;;;6
+HT-ONEM9PL-CTR-COM;HTC;One M9+;Cámara trasera;Compatible;7,59;;;6
+HT-ONEM9PL-CFR-COM;HTC;One M9+;Cámara frontal;Compatible;4,99;;;6
+HT-ONEM9PL-LEN-COM;HTC;One M9+;Lente de cámara;Compatible;2,19;;;6
+HT-ONEM9PL-ALT-COM;HTC;One M9+;Altavoz;Compatible;3,65;;;6
+HT-ONEM9PL-AUR-COM;HTC;One M9+;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEM9PL-FLX-COM;HTC;One M9+;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEM9PL-SIM-COM;HTC;One M9+;Bandeja SIM;Compatible;2,55;;;6
+HT-D626GPL-PAN-COM;HTC;Desire 626G+;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D626GPL-BAT-COM;HTC;Desire 626G+;Batería;Compatible;9,65;;;6
+HT-D626GPL-CON-COM;HTC;Desire 626G+;Conector de carga;Compatible;4,60;;;6
+HT-D626GPL-TAP-COM;HTC;Desire 626G+;Tapa trasera;Compatible;5,40;;;6
+HT-D626GPL-CTR-COM;HTC;Desire 626G+;Cámara trasera;Compatible;7,59;;;6
+HT-D626GPL-CFR-COM;HTC;Desire 626G+;Cámara frontal;Compatible;4,99;;;6
+HT-D626GPL-LEN-COM;HTC;Desire 626G+;Lente de cámara;Compatible;2,19;;;6
+HT-D626GPL-ALT-COM;HTC;Desire 626G+;Altavoz;Compatible;3,65;;;6
+HT-D626GPL-AUR-COM;HTC;Desire 626G+;Auricular de llamada;Compatible;2,65;;;6
+HT-D626GPL-FLX-COM;HTC;Desire 626G+;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D626GPL-SIM-COM;HTC;Desire 626G+;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEM8S-PAN-COM;HTC;One M8s;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEM8S-BAT-COM;HTC;One M8s;Batería;Compatible;9,65;;;6
+HT-ONEM8S-CON-COM;HTC;One M8s;Conector de carga;Compatible;4,60;;;6
+HT-ONEM8S-TAP-COM;HTC;One M8s;Tapa trasera;Compatible;5,40;;;6
+HT-ONEM8S-CTR-COM;HTC;One M8s;Cámara trasera;Compatible;7,59;;;6
+HT-ONEM8S-CFR-COM;HTC;One M8s;Cámara frontal;Compatible;4,99;;;6
+HT-ONEM8S-LEN-COM;HTC;One M8s;Lente de cámara;Compatible;2,19;;;6
+HT-ONEM8S-ALT-COM;HTC;One M8s;Altavoz;Compatible;3,65;;;6
+HT-ONEM8S-AUR-COM;HTC;One M8s;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEM8S-FLX-COM;HTC;One M8s;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEM8S-SIM-COM;HTC;One M8s;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEM9-PAN-COM;HTC;One M9;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEM9-BAT-COM;HTC;One M9;Batería;Compatible;9,65;;;6
+HT-ONEM9-CON-COM;HTC;One M9;Conector de carga;Compatible;4,60;;;6
+HT-ONEM9-TAP-COM;HTC;One M9;Tapa trasera;Compatible;5,40;;;6
+HT-ONEM9-CTR-COM;HTC;One M9;Cámara trasera;Compatible;7,59;;;6
+HT-ONEM9-CFR-COM;HTC;One M9;Cámara frontal;Compatible;4,99;;;6
+HT-ONEM9-LEN-COM;HTC;One M9;Lente de cámara;Compatible;2,19;;;6
+HT-ONEM9-ALT-COM;HTC;One M9;Altavoz;Compatible;3,65;;;6
+HT-ONEM9-AUR-COM;HTC;One M9;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEM9-FLX-COM;HTC;One M9;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEM9-SIM-COM;HTC;One M9;Bandeja SIM;Compatible;2,55;;;6
+HT-D820S-PAN-COM;HTC;Desire 820s;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D820S-BAT-COM;HTC;Desire 820s;Batería;Compatible;9,65;;;6
+HT-D820S-CON-COM;HTC;Desire 820s;Conector de carga;Compatible;4,60;;;6
+HT-D820S-TAP-COM;HTC;Desire 820s;Tapa trasera;Compatible;5,40;;;6
+HT-D820S-CTR-COM;HTC;Desire 820s;Cámara trasera;Compatible;7,59;;;6
+HT-D820S-CFR-COM;HTC;Desire 820s;Cámara frontal;Compatible;4,99;;;6
+HT-D820S-LEN-COM;HTC;Desire 820s;Lente de cámara;Compatible;2,19;;;6
+HT-D820S-ALT-COM;HTC;Desire 820s;Altavoz;Compatible;3,65;;;6
+HT-D820S-AUR-COM;HTC;Desire 820s;Auricular de llamada;Compatible;2,65;;;6
+HT-D820S-FLX-COM;HTC;Desire 820s;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D820S-SIM-COM;HTC;Desire 820s;Bandeja SIM;Compatible;2,55;;;6
+HT-D826-PAN-COM;HTC;Desire 826;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D826-BAT-COM;HTC;Desire 826;Batería;Compatible;9,65;;;6
+HT-D826-CON-COM;HTC;Desire 826;Conector de carga;Compatible;4,60;;;6
+HT-D826-TAP-COM;HTC;Desire 826;Tapa trasera;Compatible;5,40;;;6
+HT-D826-CTR-COM;HTC;Desire 826;Cámara trasera;Compatible;7,59;;;6
+HT-D826-CFR-COM;HTC;Desire 826;Cámara frontal;Compatible;4,99;;;6
+HT-D826-LEN-COM;HTC;Desire 826;Lente de cámara;Compatible;2,19;;;6
+HT-D826-ALT-COM;HTC;Desire 826;Altavoz;Compatible;3,65;;;6
+HT-D826-AUR-COM;HTC;Desire 826;Auricular de llamada;Compatible;2,65;;;6
+HT-D826-FLX-COM;HTC;Desire 826;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D826-SIM-COM;HTC;Desire 826;Bandeja SIM;Compatible;2,55;;;6
+HT-D320-PAN-COM;HTC;Desire 320;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D320-BAT-COM;HTC;Desire 320;Batería;Compatible;9,65;;;6
+HT-D320-CON-COM;HTC;Desire 320;Conector de carga;Compatible;4,60;;;6
+HT-D320-TAP-COM;HTC;Desire 320;Tapa trasera;Compatible;5,40;;;6
+HT-D320-CTR-COM;HTC;Desire 320;Cámara trasera;Compatible;7,59;;;6
+HT-D320-CFR-COM;HTC;Desire 320;Cámara frontal;Compatible;4,99;;;6
+HT-D320-LEN-COM;HTC;Desire 320;Lente de cámara;Compatible;2,19;;;6
+HT-D320-ALT-COM;HTC;Desire 320;Altavoz;Compatible;3,65;;;6
+HT-D320-AUR-COM;HTC;Desire 320;Auricular de llamada;Compatible;2,65;;;6
+HT-D320-FLX-COM;HTC;Desire 320;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D320-SIM-COM;HTC;Desire 320;Bandeja SIM;Compatible;2,55;;;6
+HT-D526GPL-PAN-COM;HTC;Desire 526G+;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D526GPL-BAT-COM;HTC;Desire 526G+;Batería;Compatible;9,65;;;6
+HT-D526GPL-CON-COM;HTC;Desire 526G+;Conector de carga;Compatible;4,60;;;6
+HT-D526GPL-TAP-COM;HTC;Desire 526G+;Tapa trasera;Compatible;5,40;;;6
+HT-D526GPL-CTR-COM;HTC;Desire 526G+;Cámara trasera;Compatible;7,59;;;6
+HT-D526GPL-CFR-COM;HTC;Desire 526G+;Cámara frontal;Compatible;4,99;;;6
+HT-D526GPL-LEN-COM;HTC;Desire 526G+;Lente de cámara;Compatible;2,19;;;6
+HT-D526GPL-ALT-COM;HTC;Desire 526G+;Altavoz;Compatible;3,65;;;6
+HT-D526GPL-AUR-COM;HTC;Desire 526G+;Auricular de llamada;Compatible;2,65;;;6
+HT-D526GPL-FLX-COM;HTC;Desire 526G+;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D526GPL-SIM-COM;HTC;Desire 526G+;Bandeja SIM;Compatible;2,55;;;6
+HT-D620-PAN-COM;HTC;Desire 620;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D620-BAT-COM;HTC;Desire 620;Batería;Compatible;9,65;;;6
+HT-D620-CON-COM;HTC;Desire 620;Conector de carga;Compatible;4,60;;;6
+HT-D620-TAP-COM;HTC;Desire 620;Tapa trasera;Compatible;5,40;;;6
+HT-D620-CTR-COM;HTC;Desire 620;Cámara trasera;Compatible;7,59;;;6
+HT-D620-CFR-COM;HTC;Desire 620;Cámara frontal;Compatible;4,99;;;6
+HT-D620-LEN-COM;HTC;Desire 620;Lente de cámara;Compatible;2,19;;;6
+HT-D620-ALT-COM;HTC;Desire 620;Altavoz;Compatible;3,65;;;6
+HT-D620-AUR-COM;HTC;Desire 620;Auricular de llamada;Compatible;2,65;;;6
+HT-D620-FLX-COM;HTC;Desire 620;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D620-SIM-COM;HTC;Desire 620;Bandeja SIM;Compatible;2,55;;;6
+HT-D820-PAN-COM;HTC;Desire 820;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D820-BAT-COM;HTC;Desire 820;Batería;Compatible;9,65;;;6
+HT-D820-CON-COM;HTC;Desire 820;Conector de carga;Compatible;4,60;;;6
+HT-D820-TAP-COM;HTC;Desire 820;Tapa trasera;Compatible;5,40;;;6
+HT-D820-CTR-COM;HTC;Desire 820;Cámara trasera;Compatible;7,59;;;6
+HT-D820-CFR-COM;HTC;Desire 820;Cámara frontal;Compatible;4,99;;;6
+HT-D820-LEN-COM;HTC;Desire 820;Lente de cámara;Compatible;2,19;;;6
+HT-D820-ALT-COM;HTC;Desire 820;Altavoz;Compatible;3,65;;;6
+HT-D820-AUR-COM;HTC;Desire 820;Auricular de llamada;Compatible;2,65;;;6
+HT-D820-FLX-COM;HTC;Desire 820;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D820-SIM-COM;HTC;Desire 820;Bandeja SIM;Compatible;2,55;;;6
+HT-D612-PAN-COM;HTC;Desire 612;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D612-BAT-COM;HTC;Desire 612;Batería;Compatible;9,65;;;6
+HT-D612-CON-COM;HTC;Desire 612;Conector de carga;Compatible;4,60;;;6
+HT-D612-TAP-COM;HTC;Desire 612;Tapa trasera;Compatible;5,40;;;6
+HT-D612-CTR-COM;HTC;Desire 612;Cámara trasera;Compatible;7,59;;;6
+HT-D612-CFR-COM;HTC;Desire 612;Cámara frontal;Compatible;4,99;;;6
+HT-D612-LEN-COM;HTC;Desire 612;Lente de cámara;Compatible;2,19;;;6
+HT-D612-ALT-COM;HTC;Desire 612;Altavoz;Compatible;3,65;;;6
+HT-D612-AUR-COM;HTC;Desire 612;Auricular de llamada;Compatible;2,65;;;6
+HT-D612-FLX-COM;HTC;Desire 612;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D612-SIM-COM;HTC;Desire 612;Bandeja SIM;Compatible;2,55;;;6
+HT-D816G-PAN-COM;HTC;Desire 816G;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D816G-BAT-COM;HTC;Desire 816G;Batería;Compatible;9,65;;;6
+HT-D816G-CON-COM;HTC;Desire 816G;Conector de carga;Compatible;4,60;;;6
+HT-D816G-TAP-COM;HTC;Desire 816G;Tapa trasera;Compatible;5,40;;;6
+HT-D816G-CTR-COM;HTC;Desire 816G;Cámara trasera;Compatible;7,59;;;6
+HT-D816G-CFR-COM;HTC;Desire 816G;Cámara frontal;Compatible;4,99;;;6
+HT-D816G-LEN-COM;HTC;Desire 816G;Lente de cámara;Compatible;2,19;;;6
+HT-D816G-ALT-COM;HTC;Desire 816G;Altavoz;Compatible;3,65;;;6
+HT-D816G-AUR-COM;HTC;Desire 816G;Auricular de llamada;Compatible;2,65;;;6
+HT-D816G-FLX-COM;HTC;Desire 816G;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D816G-SIM-COM;HTC;Desire 816G;Bandeja SIM;Compatible;2,55;;;6
+HT-D820Q-PAN-COM;HTC;Desire 820q;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D820Q-BAT-COM;HTC;Desire 820q;Batería;Compatible;9,65;;;6
+HT-D820Q-CON-COM;HTC;Desire 820q;Conector de carga;Compatible;4,60;;;6
+HT-D820Q-TAP-COM;HTC;Desire 820q;Tapa trasera;Compatible;5,40;;;6
+HT-D820Q-CTR-COM;HTC;Desire 820q;Cámara trasera;Compatible;7,59;;;6
+HT-D820Q-CFR-COM;HTC;Desire 820q;Cámara frontal;Compatible;4,99;;;6
+HT-D820Q-LEN-COM;HTC;Desire 820q;Lente de cámara;Compatible;2,19;;;6
+HT-D820Q-ALT-COM;HTC;Desire 820q;Altavoz;Compatible;3,65;;;6
+HT-D820Q-AUR-COM;HTC;Desire 820q;Auricular de llamada;Compatible;2,65;;;6
+HT-D820Q-FLX-COM;HTC;Desire 820q;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D820Q-SIM-COM;HTC;Desire 820q;Bandeja SIM;Compatible;2,55;;;6
+HT-D820QDSI-PAN-COM;HTC;Desire 820q dual sim;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D820QDSI-BAT-COM;HTC;Desire 820q dual sim;Batería;Compatible;9,65;;;6
+HT-D820QDSI-CON-COM;HTC;Desire 820q dual sim;Conector de carga;Compatible;4,60;;;6
+HT-D820QDSI-TAP-COM;HTC;Desire 820q dual sim;Tapa trasera;Compatible;5,40;;;6
+HT-D820QDSI-CTR-COM;HTC;Desire 820q dual sim;Cámara trasera;Compatible;7,59;;;6
+HT-D820QDSI-CFR-COM;HTC;Desire 820q dual sim;Cámara frontal;Compatible;4,99;;;6
+HT-D820QDSI-LEN-COM;HTC;Desire 820q dual sim;Lente de cámara;Compatible;2,19;;;6
+HT-D820QDSI-ALT-COM;HTC;Desire 820q dual sim;Altavoz;Compatible;3,65;;;6
+HT-D820QDSI-AUR-COM;HTC;Desire 820q dual sim;Auricular de llamada;Compatible;2,65;;;6
+HT-D820QDSI-FLX-COM;HTC;Desire 820q dual sim;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D820QDSI-SIM-COM;HTC;Desire 820q dual sim;Bandeja SIM;Compatible;2,55;;;6
+HT-DEYE-PAN-COM;HTC;Desire Eye;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-DEYE-BAT-COM;HTC;Desire Eye;Batería;Compatible;9,65;;;6
+HT-DEYE-CON-COM;HTC;Desire Eye;Conector de carga;Compatible;4,60;;;6
+HT-DEYE-TAP-COM;HTC;Desire Eye;Tapa trasera;Compatible;5,40;;;6
+HT-DEYE-CTR-COM;HTC;Desire Eye;Cámara trasera;Compatible;7,59;;;6
+HT-DEYE-CFR-COM;HTC;Desire Eye;Cámara frontal;Compatible;4,99;;;6
+HT-DEYE-LEN-COM;HTC;Desire Eye;Lente de cámara;Compatible;2,19;;;6
+HT-DEYE-ALT-COM;HTC;Desire Eye;Altavoz;Compatible;3,65;;;6
+HT-DEYE-AUR-COM;HTC;Desire Eye;Auricular de llamada;Compatible;2,65;;;6
+HT-DEYE-FLX-COM;HTC;Desire Eye;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-DEYE-SIM-COM;HTC;Desire Eye;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEM8EYE-PAN-COM;HTC;One (M8 Eye);Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEM8EYE-BAT-COM;HTC;One (M8 Eye);Batería;Compatible;9,65;;;6
+HT-ONEM8EYE-CON-COM;HTC;One (M8 Eye);Conector de carga;Compatible;4,60;;;6
+HT-ONEM8EYE-TAP-COM;HTC;One (M8 Eye);Tapa trasera;Compatible;5,40;;;6
+HT-ONEM8EYE-CTR-COM;HTC;One (M8 Eye);Cámara trasera;Compatible;7,59;;;6
+HT-ONEM8EYE-CFR-COM;HTC;One (M8 Eye);Cámara frontal;Compatible;4,99;;;6
+HT-ONEM8EYE-LEN-COM;HTC;One (M8 Eye);Lente de cámara;Compatible;2,19;;;6
+HT-ONEM8EYE-ALT-COM;HTC;One (M8 Eye);Altavoz;Compatible;3,65;;;6
+HT-ONEM8EYE-AUR-COM;HTC;One (M8 Eye);Auricular de llamada;Compatible;2,65;;;6
+HT-ONEM8EYE-FLX-COM;HTC;One (M8 Eye);Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEM8EYE-SIM-COM;HTC;One (M8 Eye);Bandeja SIM;Compatible;2,55;;;6
+HT-B2-PAN-COM;HTC;Butterfly 2;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-B2-BAT-COM;HTC;Butterfly 2;Batería;Compatible;9,65;;;6
+HT-B2-CON-COM;HTC;Butterfly 2;Conector de carga;Compatible;4,60;;;6
+HT-B2-TAP-COM;HTC;Butterfly 2;Tapa trasera;Compatible;5,40;;;6
+HT-B2-CTR-COM;HTC;Butterfly 2;Cámara trasera;Compatible;7,59;;;6
+HT-B2-CFR-COM;HTC;Butterfly 2;Cámara frontal;Compatible;4,99;;;6
+HT-B2-LEN-COM;HTC;Butterfly 2;Lente de cámara;Compatible;2,19;;;6
+HT-B2-ALT-COM;HTC;Butterfly 2;Altavoz;Compatible;3,65;;;6
+HT-B2-AUR-COM;HTC;Butterfly 2;Auricular de llamada;Compatible;2,65;;;6
+HT-B2-FLX-COM;HTC;Butterfly 2;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-B2-SIM-COM;HTC;Butterfly 2;Bandeja SIM;Compatible;2,55;;;6
+HT-D510-PAN-COM;HTC;Desire 510;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D510-BAT-COM;HTC;Desire 510;Batería;Compatible;9,65;;;6
+HT-D510-CON-COM;HTC;Desire 510;Conector de carga;Compatible;4,60;;;6
+HT-D510-TAP-COM;HTC;Desire 510;Tapa trasera;Compatible;5,40;;;6
+HT-D510-CTR-COM;HTC;Desire 510;Cámara trasera;Compatible;7,59;;;6
+HT-D510-CFR-COM;HTC;Desire 510;Cámara frontal;Compatible;4,99;;;6
+HT-D510-LEN-COM;HTC;Desire 510;Lente de cámara;Compatible;2,19;;;6
+HT-D510-ALT-COM;HTC;Desire 510;Altavoz;Compatible;3,65;;;6
+HT-D510-AUR-COM;HTC;Desire 510;Auricular de llamada;Compatible;2,65;;;6
+HT-D510-FLX-COM;HTC;Desire 510;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D510-SIM-COM;HTC;Desire 510;Bandeja SIM;Compatible;2,55;;;6
+HT-ONER-PAN-COM;HTC;One Remix;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONER-BAT-COM;HTC;One Remix;Batería;Compatible;9,65;;;6
+HT-ONER-CON-COM;HTC;One Remix;Conector de carga;Compatible;4,60;;;6
+HT-ONER-TAP-COM;HTC;One Remix;Tapa trasera;Compatible;5,40;;;6
+HT-ONER-CTR-COM;HTC;One Remix;Cámara trasera;Compatible;7,59;;;6
+HT-ONER-CFR-COM;HTC;One Remix;Cámara frontal;Compatible;4,99;;;6
+HT-ONER-LEN-COM;HTC;One Remix;Lente de cámara;Compatible;2,19;;;6
+HT-ONER-ALT-COM;HTC;One Remix;Altavoz;Compatible;3,65;;;6
+HT-ONER-AUR-COM;HTC;One Remix;Auricular de llamada;Compatible;2,65;;;6
+HT-ONER-FLX-COM;HTC;One Remix;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONER-SIM-COM;HTC;One Remix;Bandeja SIM;Compatible;2,55;;;6
+HT-D210-PAN-COM;HTC;Desire 210;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D210-BAT-COM;HTC;Desire 210;Batería;Compatible;9,65;;;6
+HT-D210-CON-COM;HTC;Desire 210;Conector de carga;Compatible;4,60;;;6
+HT-D210-TAP-COM;HTC;Desire 210;Tapa trasera;Compatible;5,40;;;6
+HT-D210-CTR-COM;HTC;Desire 210;Cámara trasera;Compatible;7,59;;;6
+HT-D210-CFR-COM;HTC;Desire 210;Cámara frontal;Compatible;4,99;;;6
+HT-D210-LEN-COM;HTC;Desire 210;Lente de cámara;Compatible;2,19;;;6
+HT-D210-ALT-COM;HTC;Desire 210;Altavoz;Compatible;3,65;;;6
+HT-D210-AUR-COM;HTC;Desire 210;Auricular de llamada;Compatible;2,65;;;6
+HT-D210-FLX-COM;HTC;Desire 210;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D210-SIM-COM;HTC;Desire 210;Bandeja SIM;Compatible;2,55;;;6
+HT-D516-PAN-COM;HTC;Desire 516;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D516-BAT-COM;HTC;Desire 516;Batería;Compatible;9,65;;;6
+HT-D516-CON-COM;HTC;Desire 516;Conector de carga;Compatible;4,60;;;6
+HT-D516-TAP-COM;HTC;Desire 516;Tapa trasera;Compatible;5,40;;;6
+HT-D516-CTR-COM;HTC;Desire 516;Cámara trasera;Compatible;7,59;;;6
+HT-D516-CFR-COM;HTC;Desire 516;Cámara frontal;Compatible;4,99;;;6
+HT-D516-LEN-COM;HTC;Desire 516;Lente de cámara;Compatible;2,19;;;6
+HT-D516-ALT-COM;HTC;Desire 516;Altavoz;Compatible;3,65;;;6
+HT-D516-AUR-COM;HTC;Desire 516;Auricular de llamada;Compatible;2,65;;;6
+HT-D516-FLX-COM;HTC;Desire 516;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D516-SIM-COM;HTC;Desire 516;Bandeja SIM;Compatible;2,55;;;6
+HT-D616-PAN-COM;HTC;Desire 616;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D616-BAT-COM;HTC;Desire 616;Batería;Compatible;9,65;;;6
+HT-D616-CON-COM;HTC;Desire 616;Conector de carga;Compatible;4,60;;;6
+HT-D616-TAP-COM;HTC;Desire 616;Tapa trasera;Compatible;5,40;;;6
+HT-D616-CTR-COM;HTC;Desire 616;Cámara trasera;Compatible;7,59;;;6
+HT-D616-CFR-COM;HTC;Desire 616;Cámara frontal;Compatible;4,99;;;6
+HT-D616-LEN-COM;HTC;Desire 616;Lente de cámara;Compatible;2,19;;;6
+HT-D616-ALT-COM;HTC;Desire 616;Altavoz;Compatible;3,65;;;6
+HT-D616-AUR-COM;HTC;Desire 616;Auricular de llamada;Compatible;2,65;;;6
+HT-D616-FLX-COM;HTC;Desire 616;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D616-SIM-COM;HTC;Desire 616;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEE8-PAN-COM;HTC;One (E8);Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEE8-BAT-COM;HTC;One (E8);Batería;Compatible;9,65;;;6
+HT-ONEE8-CON-COM;HTC;One (E8);Conector de carga;Compatible;4,60;;;6
+HT-ONEE8-TAP-COM;HTC;One (E8);Tapa trasera;Compatible;5,40;;;6
+HT-ONEE8-CTR-COM;HTC;One (E8);Cámara trasera;Compatible;7,59;;;6
+HT-ONEE8-CFR-COM;HTC;One (E8);Cámara frontal;Compatible;4,99;;;6
+HT-ONEE8-LEN-COM;HTC;One (E8);Lente de cámara;Compatible;2,19;;;6
+HT-ONEE8-ALT-COM;HTC;One (E8);Altavoz;Compatible;3,65;;;6
+HT-ONEE8-AUR-COM;HTC;One (E8);Auricular de llamada;Compatible;2,65;;;6
+HT-ONEE8-FLX-COM;HTC;One (E8);Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEE8-SIM-COM;HTC;One (E8);Bandeja SIM;Compatible;2,55;;;6
+HT-D816DSIM-PAN-COM;HTC;Desire 816 dual sim;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D816DSIM-BAT-COM;HTC;Desire 816 dual sim;Batería;Compatible;9,65;;;6
+HT-D816DSIM-CON-COM;HTC;Desire 816 dual sim;Conector de carga;Compatible;4,60;;;6
+HT-D816DSIM-TAP-COM;HTC;Desire 816 dual sim;Tapa trasera;Compatible;5,40;;;6
+HT-D816DSIM-CTR-COM;HTC;Desire 816 dual sim;Cámara trasera;Compatible;7,59;;;6
+HT-D816DSIM-CFR-COM;HTC;Desire 816 dual sim;Cámara frontal;Compatible;4,99;;;6
+HT-D816DSIM-LEN-COM;HTC;Desire 816 dual sim;Lente de cámara;Compatible;2,19;;;6
+HT-D816DSIM-ALT-COM;HTC;Desire 816 dual sim;Altavoz;Compatible;3,65;;;6
+HT-D816DSIM-AUR-COM;HTC;Desire 816 dual sim;Auricular de llamada;Compatible;2,65;;;6
+HT-D816DSIM-FLX-COM;HTC;Desire 816 dual sim;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D816DSIM-SIM-COM;HTC;Desire 816 dual sim;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEMN2-PAN-COM;HTC;One Mini 2;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEMN2-BAT-COM;HTC;One Mini 2;Batería;Compatible;9,65;;;6
+HT-ONEMN2-CON-COM;HTC;One Mini 2;Conector de carga;Compatible;4,60;;;6
+HT-ONEMN2-TAP-COM;HTC;One Mini 2;Tapa trasera;Compatible;5,40;;;6
+HT-ONEMN2-CTR-COM;HTC;One Mini 2;Cámara trasera;Compatible;7,59;;;6
+HT-ONEMN2-CFR-COM;HTC;One Mini 2;Cámara frontal;Compatible;4,99;;;6
+HT-ONEMN2-LEN-COM;HTC;One Mini 2;Lente de cámara;Compatible;2,19;;;6
+HT-ONEMN2-ALT-COM;HTC;One Mini 2;Altavoz;Compatible;3,65;;;6
+HT-ONEMN2-AUR-COM;HTC;One Mini 2;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEMN2-FLX-COM;HTC;One Mini 2;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEMN2-SIM-COM;HTC;One Mini 2;Bandeja SIM;Compatible;2,55;;;6
+HT-D310-PAN-COM;HTC;Desire 310;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D310-BAT-COM;HTC;Desire 310;Batería;Compatible;9,65;;;6
+HT-D310-CON-COM;HTC;Desire 310;Conector de carga;Compatible;4,60;;;6
+HT-D310-TAP-COM;HTC;Desire 310;Tapa trasera;Compatible;5,40;;;6
+HT-D310-CTR-COM;HTC;Desire 310;Cámara trasera;Compatible;7,59;;;6
+HT-D310-CFR-COM;HTC;Desire 310;Cámara frontal;Compatible;4,99;;;6
+HT-D310-LEN-COM;HTC;Desire 310;Lente de cámara;Compatible;2,19;;;6
+HT-D310-ALT-COM;HTC;Desire 310;Altavoz;Compatible;3,65;;;6
+HT-D310-AUR-COM;HTC;Desire 310;Auricular de llamada;Compatible;2,65;;;6
+HT-D310-FLX-COM;HTC;Desire 310;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D310-SIM-COM;HTC;Desire 310;Bandeja SIM;Compatible;2,55;;;6
+HT-D610-PAN-COM;HTC;Desire 610;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D610-BAT-COM;HTC;Desire 610;Batería;Compatible;9,65;;;6
+HT-D610-CON-COM;HTC;Desire 610;Conector de carga;Compatible;4,60;;;6
+HT-D610-TAP-COM;HTC;Desire 610;Tapa trasera;Compatible;5,40;;;6
+HT-D610-CTR-COM;HTC;Desire 610;Cámara trasera;Compatible;7,59;;;6
+HT-D610-CFR-COM;HTC;Desire 610;Cámara frontal;Compatible;4,99;;;6
+HT-D610-LEN-COM;HTC;Desire 610;Lente de cámara;Compatible;2,19;;;6
+HT-D610-ALT-COM;HTC;Desire 610;Altavoz;Compatible;3,65;;;6
+HT-D610-AUR-COM;HTC;Desire 610;Auricular de llamada;Compatible;2,65;;;6
+HT-D610-FLX-COM;HTC;Desire 610;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D610-SIM-COM;HTC;Desire 610;Bandeja SIM;Compatible;2,55;;;6
+HT-D816-PAN-COM;HTC;Desire 816;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D816-BAT-COM;HTC;Desire 816;Batería;Compatible;9,65;;;6
+HT-D816-CON-COM;HTC;Desire 816;Conector de carga;Compatible;4,60;;;6
+HT-D816-TAP-COM;HTC;Desire 816;Tapa trasera;Compatible;5,40;;;6
+HT-D816-CTR-COM;HTC;Desire 816;Cámara trasera;Compatible;7,59;;;6
+HT-D816-CFR-COM;HTC;Desire 816;Cámara frontal;Compatible;4,99;;;6
+HT-D816-LEN-COM;HTC;Desire 816;Lente de cámara;Compatible;2,19;;;6
+HT-D816-ALT-COM;HTC;Desire 816;Altavoz;Compatible;3,65;;;6
+HT-D816-AUR-COM;HTC;Desire 816;Auricular de llamada;Compatible;2,65;;;6
+HT-D816-FLX-COM;HTC;Desire 816;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D816-SIM-COM;HTC;Desire 816;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEM8-PAN-COM;HTC;One (M8);Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEM8-BAT-COM;HTC;One (M8);Batería;Compatible;9,65;;;6
+HT-ONEM8-CON-COM;HTC;One (M8);Conector de carga;Compatible;4,60;;;6
+HT-ONEM8-TAP-COM;HTC;One (M8);Tapa trasera;Compatible;5,40;;;6
+HT-ONEM8-CTR-COM;HTC;One (M8);Cámara trasera;Compatible;7,59;;;6
+HT-ONEM8-CFR-COM;HTC;One (M8);Cámara frontal;Compatible;4,99;;;6
+HT-ONEM8-LEN-COM;HTC;One (M8);Lente de cámara;Compatible;2,19;;;6
+HT-ONEM8-ALT-COM;HTC;One (M8);Altavoz;Compatible;3,65;;;6
+HT-ONEM8-AUR-COM;HTC;One (M8);Auricular de llamada;Compatible;2,65;;;6
+HT-ONEM8-FLX-COM;HTC;One (M8);Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEM8-SIM-COM;HTC;One (M8);Bandeja SIM;Compatible;2,55;;;6
+HT-D501-PAN-COM;HTC;Desire 501;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D501-BAT-COM;HTC;Desire 501;Batería;Compatible;9,65;;;6
+HT-D501-CON-COM;HTC;Desire 501;Conector de carga;Compatible;4,60;;;6
+HT-D501-TAP-COM;HTC;Desire 501;Tapa trasera;Compatible;5,40;;;6
+HT-D501-CTR-COM;HTC;Desire 501;Cámara trasera;Compatible;7,59;;;6
+HT-D501-CFR-COM;HTC;Desire 501;Cámara frontal;Compatible;4,99;;;6
+HT-D501-LEN-COM;HTC;Desire 501;Lente de cámara;Compatible;2,19;;;6
+HT-D501-ALT-COM;HTC;Desire 501;Altavoz;Compatible;3,65;;;6
+HT-D501-AUR-COM;HTC;Desire 501;Auricular de llamada;Compatible;2,65;;;6
+HT-D501-FLX-COM;HTC;Desire 501;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D501-SIM-COM;HTC;Desire 501;Bandeja SIM;Compatible;2,55;;;6
+HT-D700-PAN-COM;HTC;Desire 700;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D700-BAT-COM;HTC;Desire 700;Batería;Compatible;9,65;;;6
+HT-D700-CON-COM;HTC;Desire 700;Conector de carga;Compatible;4,60;;;6
+HT-D700-TAP-COM;HTC;Desire 700;Tapa trasera;Compatible;5,40;;;6
+HT-D700-CTR-COM;HTC;Desire 700;Cámara trasera;Compatible;7,59;;;6
+HT-D700-CFR-COM;HTC;Desire 700;Cámara frontal;Compatible;4,99;;;6
+HT-D700-LEN-COM;HTC;Desire 700;Lente de cámara;Compatible;2,19;;;6
+HT-D700-ALT-COM;HTC;Desire 700;Altavoz;Compatible;3,65;;;6
+HT-D700-AUR-COM;HTC;Desire 700;Auricular de llamada;Compatible;2,65;;;6
+HT-D700-FLX-COM;HTC;Desire 700;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D700-SIM-COM;HTC;Desire 700;Bandeja SIM;Compatible;2,55;;;6
+HT-D300-PAN-COM;HTC;Desire 300;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D300-BAT-COM;HTC;Desire 300;Batería;Compatible;9,65;;;6
+HT-D300-CON-COM;HTC;Desire 300;Conector de carga;Compatible;4,60;;;6
+HT-D300-TAP-COM;HTC;Desire 300;Tapa trasera;Compatible;5,40;;;6
+HT-D300-CTR-COM;HTC;Desire 300;Cámara trasera;Compatible;7,59;;;6
+HT-D300-CFR-COM;HTC;Desire 300;Cámara frontal;Compatible;4,99;;;6
+HT-D300-LEN-COM;HTC;Desire 300;Lente de cámara;Compatible;2,19;;;6
+HT-D300-ALT-COM;HTC;Desire 300;Altavoz;Compatible;3,65;;;6
+HT-D300-AUR-COM;HTC;Desire 300;Auricular de llamada;Compatible;2,65;;;6
+HT-D300-FLX-COM;HTC;Desire 300;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D300-SIM-COM;HTC;Desire 300;Bandeja SIM;Compatible;2,55;;;6
+HT-D601DSIM-PAN-COM;HTC;Desire 601 dual sim;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D601DSIM-BAT-COM;HTC;Desire 601 dual sim;Batería;Compatible;9,65;;;6
+HT-D601DSIM-CON-COM;HTC;Desire 601 dual sim;Conector de carga;Compatible;4,60;;;6
+HT-D601DSIM-TAP-COM;HTC;Desire 601 dual sim;Tapa trasera;Compatible;5,40;;;6
+HT-D601DSIM-CTR-COM;HTC;Desire 601 dual sim;Cámara trasera;Compatible;7,59;;;6
+HT-D601DSIM-CFR-COM;HTC;Desire 601 dual sim;Cámara frontal;Compatible;4,99;;;6
+HT-D601DSIM-LEN-COM;HTC;Desire 601 dual sim;Lente de cámara;Compatible;2,19;;;6
+HT-D601DSIM-ALT-COM;HTC;Desire 601 dual sim;Altavoz;Compatible;3,65;;;6
+HT-D601DSIM-AUR-COM;HTC;Desire 601 dual sim;Auricular de llamada;Compatible;2,65;;;6
+HT-D601DSIM-FLX-COM;HTC;Desire 601 dual sim;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D601DSIM-SIM-COM;HTC;Desire 601 dual sim;Bandeja SIM;Compatible;2,55;;;6
+HT-D601-PAN-COM;HTC;Desire 601;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D601-BAT-COM;HTC;Desire 601;Batería;Compatible;9,65;;;6
+HT-D601-CON-COM;HTC;Desire 601;Conector de carga;Compatible;4,60;;;6
+HT-D601-TAP-COM;HTC;Desire 601;Tapa trasera;Compatible;5,40;;;6
+HT-D601-CTR-COM;HTC;Desire 601;Cámara trasera;Compatible;7,59;;;6
+HT-D601-CFR-COM;HTC;Desire 601;Cámara frontal;Compatible;4,99;;;6
+HT-D601-LEN-COM;HTC;Desire 601;Lente de cámara;Compatible;2,19;;;6
+HT-D601-ALT-COM;HTC;Desire 601;Altavoz;Compatible;3,65;;;6
+HT-D601-AUR-COM;HTC;Desire 601;Auricular de llamada;Compatible;2,65;;;6
+HT-D601-FLX-COM;HTC;Desire 601;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D601-SIM-COM;HTC;Desire 601;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEM-PAN-COM;HTC;One Max;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEM-BAT-COM;HTC;One Max;Batería;Compatible;9,65;;;6
+HT-ONEM-CON-COM;HTC;One Max;Conector de carga;Compatible;4,60;;;6
+HT-ONEM-TAP-COM;HTC;One Max;Tapa trasera;Compatible;5,40;;;6
+HT-ONEM-CTR-COM;HTC;One Max;Cámara trasera;Compatible;7,59;;;6
+HT-ONEM-CFR-COM;HTC;One Max;Cámara frontal;Compatible;4,99;;;6
+HT-ONEM-LEN-COM;HTC;One Max;Lente de cámara;Compatible;2,19;;;6
+HT-ONEM-ALT-COM;HTC;One Max;Altavoz;Compatible;3,65;;;6
+HT-ONEM-AUR-COM;HTC;One Max;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEM-FLX-COM;HTC;One Max;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEM-SIM-COM;HTC;One Max;Bandeja SIM;Compatible;2,55;;;6
+HT-D500-PAN-COM;HTC;Desire 500;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D500-BAT-COM;HTC;Desire 500;Batería;Compatible;9,65;;;6
+HT-D500-CON-COM;HTC;Desire 500;Conector de carga;Compatible;4,60;;;6
+HT-D500-TAP-COM;HTC;Desire 500;Tapa trasera;Compatible;5,40;;;6
+HT-D500-CTR-COM;HTC;Desire 500;Cámara trasera;Compatible;7,59;;;6
+HT-D500-CFR-COM;HTC;Desire 500;Cámara frontal;Compatible;4,99;;;6
+HT-D500-LEN-COM;HTC;Desire 500;Lente de cámara;Compatible;2,19;;;6
+HT-D500-ALT-COM;HTC;Desire 500;Altavoz;Compatible;3,65;;;6
+HT-D500-AUR-COM;HTC;Desire 500;Auricular de llamada;Compatible;2,65;;;6
+HT-D500-FLX-COM;HTC;Desire 500;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D500-SIM-COM;HTC;Desire 500;Bandeja SIM;Compatible;2,55;;;6
+HT-8XT-PAN-COM;HTC;8XT;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-8XT-BAT-COM;HTC;8XT;Batería;Compatible;9,65;;;6
+HT-8XT-CON-COM;HTC;8XT;Conector de carga;Compatible;4,60;;;6
+HT-8XT-TAP-COM;HTC;8XT;Tapa trasera;Compatible;5,40;;;6
+HT-8XT-CTR-COM;HTC;8XT;Cámara trasera;Compatible;7,59;;;6
+HT-8XT-CFR-COM;HTC;8XT;Cámara frontal;Compatible;4,99;;;6
+HT-8XT-LEN-COM;HTC;8XT;Lente de cámara;Compatible;2,19;;;6
+HT-8XT-ALT-COM;HTC;8XT;Altavoz;Compatible;3,65;;;6
+HT-8XT-AUR-COM;HTC;8XT;Auricular de llamada;Compatible;2,65;;;6
+HT-8XT-FLX-COM;HTC;8XT;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-8XT-SIM-COM;HTC;8XT;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEMN-PAN-COM;HTC;One Mini;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEMN-BAT-COM;HTC;One Mini;Batería;Compatible;9,65;;;6
+HT-ONEMN-CON-COM;HTC;One Mini;Conector de carga;Compatible;4,60;;;6
+HT-ONEMN-TAP-COM;HTC;One Mini;Tapa trasera;Compatible;5,40;;;6
+HT-ONEMN-CTR-COM;HTC;One Mini;Cámara trasera;Compatible;7,59;;;6
+HT-ONEMN-CFR-COM;HTC;One Mini;Cámara frontal;Compatible;4,99;;;6
+HT-ONEMN-LEN-COM;HTC;One Mini;Lente de cámara;Compatible;2,19;;;6
+HT-ONEMN-ALT-COM;HTC;One Mini;Altavoz;Compatible;3,65;;;6
+HT-ONEMN-AUR-COM;HTC;One Mini;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEMN-FLX-COM;HTC;One Mini;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEMN-SIM-COM;HTC;One Mini;Bandeja SIM;Compatible;2,55;;;6
+HT-D200-PAN-COM;HTC;Desire 200;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D200-BAT-COM;HTC;Desire 200;Batería;Compatible;9,65;;;6
+HT-D200-CON-COM;HTC;Desire 200;Conector de carga;Compatible;4,60;;;6
+HT-D200-TAP-COM;HTC;Desire 200;Tapa trasera;Compatible;5,40;;;6
+HT-D200-CTR-COM;HTC;Desire 200;Cámara trasera;Compatible;7,59;;;6
+HT-D200-CFR-COM;HTC;Desire 200;Cámara frontal;Compatible;4,99;;;6
+HT-D200-LEN-COM;HTC;Desire 200;Lente de cámara;Compatible;2,19;;;6
+HT-D200-ALT-COM;HTC;Desire 200;Altavoz;Compatible;3,65;;;6
+HT-D200-AUR-COM;HTC;Desire 200;Auricular de llamada;Compatible;2,65;;;6
+HT-D200-FLX-COM;HTC;Desire 200;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D200-SIM-COM;HTC;Desire 200;Bandeja SIM;Compatible;2,55;;;6
+HT-BS-PAN-COM;HTC;Butterfly S;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-BS-BAT-COM;HTC;Butterfly S;Batería;Compatible;9,65;;;6
+HT-BS-CON-COM;HTC;Butterfly S;Conector de carga;Compatible;4,60;;;6
+HT-BS-TAP-COM;HTC;Butterfly S;Tapa trasera;Compatible;5,40;;;6
+HT-BS-CTR-COM;HTC;Butterfly S;Cámara trasera;Compatible;7,59;;;6
+HT-BS-CFR-COM;HTC;Butterfly S;Cámara frontal;Compatible;4,99;;;6
+HT-BS-LEN-COM;HTC;Butterfly S;Lente de cámara;Compatible;2,19;;;6
+HT-BS-ALT-COM;HTC;Butterfly S;Altavoz;Compatible;3,65;;;6
+HT-BS-AUR-COM;HTC;Butterfly S;Auricular de llamada;Compatible;2,65;;;6
+HT-BS-FLX-COM;HTC;Butterfly S;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-BS-SIM-COM;HTC;Butterfly S;Bandeja SIM;Compatible;2,55;;;6
+HT-D600-PAN-COM;HTC;Desire 600;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D600-BAT-COM;HTC;Desire 600;Batería;Compatible;9,65;;;6
+HT-D600-CON-COM;HTC;Desire 600;Conector de carga;Compatible;4,60;;;6
+HT-D600-TAP-COM;HTC;Desire 600;Tapa trasera;Compatible;5,40;;;6
+HT-D600-CTR-COM;HTC;Desire 600;Cámara trasera;Compatible;7,59;;;6
+HT-D600-CFR-COM;HTC;Desire 600;Cámara frontal;Compatible;4,99;;;6
+HT-D600-LEN-COM;HTC;Desire 600;Lente de cámara;Compatible;2,19;;;6
+HT-D600-ALT-COM;HTC;Desire 600;Altavoz;Compatible;3,65;;;6
+HT-D600-AUR-COM;HTC;Desire 600;Auricular de llamada;Compatible;2,65;;;6
+HT-D600-FLX-COM;HTC;Desire 600;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D600-SIM-COM;HTC;Desire 600;Bandeja SIM;Compatible;2,55;;;6
+HT-DU-PAN-COM;HTC;Desire U;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-DU-BAT-COM;HTC;Desire U;Batería;Compatible;9,65;;;6
+HT-DU-CON-COM;HTC;Desire U;Conector de carga;Compatible;4,60;;;6
+HT-DU-TAP-COM;HTC;Desire U;Tapa trasera;Compatible;5,40;;;6
+HT-DU-CTR-COM;HTC;Desire U;Cámara trasera;Compatible;7,59;;;6
+HT-DU-CFR-COM;HTC;Desire U;Cámara frontal;Compatible;4,99;;;6
+HT-DU-LEN-COM;HTC;Desire U;Lente de cámara;Compatible;2,19;;;6
+HT-DU-ALT-COM;HTC;Desire U;Altavoz;Compatible;3,65;;;6
+HT-DU-AUR-COM;HTC;Desire U;Auricular de llamada;Compatible;2,65;;;6
+HT-DU-FLX-COM;HTC;Desire U;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-DU-SIM-COM;HTC;Desire U;Bandeja SIM;Compatible;2,55;;;6
+HT-DL-PAN-COM;HTC;Desire L;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-DL-BAT-COM;HTC;Desire L;Batería;Compatible;9,65;;;6
+HT-DL-CON-COM;HTC;Desire L;Conector de carga;Compatible;4,60;;;6
+HT-DL-TAP-COM;HTC;Desire L;Tapa trasera;Compatible;5,40;;;6
+HT-DL-CTR-COM;HTC;Desire L;Cámara trasera;Compatible;7,59;;;6
+HT-DL-CFR-COM;HTC;Desire L;Cámara frontal;Compatible;4,99;;;6
+HT-DL-LEN-COM;HTC;Desire L;Lente de cámara;Compatible;2,19;;;6
+HT-DL-ALT-COM;HTC;Desire L;Altavoz;Compatible;3,65;;;6
+HT-DL-AUR-COM;HTC;Desire L;Auricular de llamada;Compatible;2,65;;;6
+HT-DL-FLX-COM;HTC;Desire L;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-DL-SIM-COM;HTC;Desire L;Bandeja SIM;Compatible;2,55;;;6
+HT-F-PAN-COM;HTC;First;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-F-BAT-COM;HTC;First;Batería;Compatible;9,65;;;6
+HT-F-CON-COM;HTC;First;Conector de carga;Compatible;4,60;;;6
+HT-F-TAP-COM;HTC;First;Tapa trasera;Compatible;5,40;;;6
+HT-F-CTR-COM;HTC;First;Cámara trasera;Compatible;7,59;;;6
+HT-F-CFR-COM;HTC;First;Cámara frontal;Compatible;4,99;;;6
+HT-F-LEN-COM;HTC;First;Lente de cámara;Compatible;2,19;;;6
+HT-F-ALT-COM;HTC;First;Altavoz;Compatible;3,65;;;6
+HT-F-AUR-COM;HTC;First;Auricular de llamada;Compatible;2,65;;;6
+HT-F-FLX-COM;HTC;First;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-F-SIM-COM;HTC;First;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEM7-PAN-COM;HTC;One (M7);Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEM7-BAT-COM;HTC;One (M7);Batería;Compatible;9,65;;;6
+HT-ONEM7-CON-COM;HTC;One (M7);Conector de carga;Compatible;4,60;;;6
+HT-ONEM7-TAP-COM;HTC;One (M7);Tapa trasera;Compatible;5,40;;;6
+HT-ONEM7-CTR-COM;HTC;One (M7);Cámara trasera;Compatible;7,59;;;6
+HT-ONEM7-CFR-COM;HTC;One (M7);Cámara frontal;Compatible;4,99;;;6
+HT-ONEM7-LEN-COM;HTC;One (M7);Lente de cámara;Compatible;2,19;;;6
+HT-ONEM7-ALT-COM;HTC;One (M7);Altavoz;Compatible;3,65;;;6
+HT-ONEM7-AUR-COM;HTC;One (M7);Auricular de llamada;Compatible;2,65;;;6
+HT-ONEM7-FLX-COM;HTC;One (M7);Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEM7-SIM-COM;HTC;One (M7);Bandeja SIM;Compatible;2,55;;;6
+HT-ONESV-PAN-COM;HTC;One SV;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONESV-BAT-COM;HTC;One SV;Batería;Compatible;9,65;;;6
+HT-ONESV-CON-COM;HTC;One SV;Conector de carga;Compatible;4,60;;;6
+HT-ONESV-TAP-COM;HTC;One SV;Tapa trasera;Compatible;5,40;;;6
+HT-ONESV-CTR-COM;HTC;One SV;Cámara trasera;Compatible;7,59;;;6
+HT-ONESV-CFR-COM;HTC;One SV;Cámara frontal;Compatible;4,99;;;6
+HT-ONESV-LEN-COM;HTC;One SV;Lente de cámara;Compatible;2,19;;;6
+HT-ONESV-ALT-COM;HTC;One SV;Altavoz;Compatible;3,65;;;6
+HT-ONESV-AUR-COM;HTC;One SV;Auricular de llamada;Compatible;2,65;;;6
+HT-ONESV-FLX-COM;HTC;One SV;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONESV-SIM-COM;HTC;One SV;Bandeja SIM;Compatible;2,55;;;6
+HT-D400-PAN-COM;HTC;Desire 400;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-D400-BAT-COM;HTC;Desire 400;Batería;Compatible;9,65;;;6
+HT-D400-CON-COM;HTC;Desire 400;Conector de carga;Compatible;4,60;;;6
+HT-D400-TAP-COM;HTC;Desire 400;Tapa trasera;Compatible;5,40;;;6
+HT-D400-CTR-COM;HTC;Desire 400;Cámara trasera;Compatible;7,59;;;6
+HT-D400-CFR-COM;HTC;Desire 400;Cámara frontal;Compatible;4,99;;;6
+HT-D400-LEN-COM;HTC;Desire 400;Lente de cámara;Compatible;2,19;;;6
+HT-D400-ALT-COM;HTC;Desire 400;Altavoz;Compatible;3,65;;;6
+HT-D400-AUR-COM;HTC;Desire 400;Auricular de llamada;Compatible;2,65;;;6
+HT-D400-FLX-COM;HTC;Desire 400;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-D400-SIM-COM;HTC;Desire 400;Bandeja SIM;Compatible;2,55;;;6
+HT-JB-PAN-COM;HTC;J Butterfly;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-JB-BAT-COM;HTC;J Butterfly;Batería;Compatible;9,65;;;6
+HT-JB-CON-COM;HTC;J Butterfly;Conector de carga;Compatible;4,60;;;6
+HT-JB-TAP-COM;HTC;J Butterfly;Tapa trasera;Compatible;5,40;;;6
+HT-JB-CTR-COM;HTC;J Butterfly;Cámara trasera;Compatible;7,59;;;6
+HT-JB-CFR-COM;HTC;J Butterfly;Cámara frontal;Compatible;4,99;;;6
+HT-JB-LEN-COM;HTC;J Butterfly;Lente de cámara;Compatible;2,19;;;6
+HT-JB-ALT-COM;HTC;J Butterfly;Altavoz;Compatible;3,65;;;6
+HT-JB-AUR-COM;HTC;J Butterfly;Auricular de llamada;Compatible;2,65;;;6
+HT-JB-FLX-COM;HTC;J Butterfly;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-JB-SIM-COM;HTC;J Butterfly;Bandeja SIM;Compatible;2,55;;;6
+HT-WP8S-PAN-COM;HTC;Windows Phone 8S;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-WP8S-BAT-COM;HTC;Windows Phone 8S;Batería;Compatible;9,65;;;6
+HT-WP8S-CON-COM;HTC;Windows Phone 8S;Conector de carga;Compatible;4,60;;;6
+HT-WP8S-TAP-COM;HTC;Windows Phone 8S;Tapa trasera;Compatible;5,40;;;6
+HT-WP8S-CTR-COM;HTC;Windows Phone 8S;Cámara trasera;Compatible;7,59;;;6
+HT-WP8S-CFR-COM;HTC;Windows Phone 8S;Cámara frontal;Compatible;4,99;;;6
+HT-WP8S-LEN-COM;HTC;Windows Phone 8S;Lente de cámara;Compatible;2,19;;;6
+HT-WP8S-ALT-COM;HTC;Windows Phone 8S;Altavoz;Compatible;3,65;;;6
+HT-WP8S-AUR-COM;HTC;Windows Phone 8S;Auricular de llamada;Compatible;2,65;;;6
+HT-WP8S-FLX-COM;HTC;Windows Phone 8S;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-WP8S-SIM-COM;HTC;Windows Phone 8S;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEXPL-PAN-COM;HTC;One X+;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEXPL-BAT-COM;HTC;One X+;Batería;Compatible;9,65;;;6
+HT-ONEXPL-CON-COM;HTC;One X+;Conector de carga;Compatible;4,60;;;6
+HT-ONEXPL-TAP-COM;HTC;One X+;Tapa trasera;Compatible;5,40;;;6
+HT-ONEXPL-CTR-COM;HTC;One X+;Cámara trasera;Compatible;7,59;;;6
+HT-ONEXPL-CFR-COM;HTC;One X+;Cámara frontal;Compatible;4,99;;;6
+HT-ONEXPL-LEN-COM;HTC;One X+;Lente de cámara;Compatible;2,19;;;6
+HT-ONEXPL-ALT-COM;HTC;One X+;Altavoz;Compatible;3,65;;;6
+HT-ONEXPL-AUR-COM;HTC;One X+;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEXPL-FLX-COM;HTC;One X+;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEXPL-SIM-COM;HTC;One X+;Bandeja SIM;Compatible;2,55;;;6
+HT-DSV-PAN-COM;HTC;Desire SV;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-DSV-BAT-COM;HTC;Desire SV;Batería;Compatible;9,65;;;6
+HT-DSV-CON-COM;HTC;Desire SV;Conector de carga;Compatible;4,60;;;6
+HT-DSV-TAP-COM;HTC;Desire SV;Tapa trasera;Compatible;5,40;;;6
+HT-DSV-CTR-COM;HTC;Desire SV;Cámara trasera;Compatible;7,59;;;6
+HT-DSV-CFR-COM;HTC;Desire SV;Cámara frontal;Compatible;4,99;;;6
+HT-DSV-LEN-COM;HTC;Desire SV;Lente de cámara;Compatible;2,19;;;6
+HT-DSV-ALT-COM;HTC;Desire SV;Altavoz;Compatible;3,65;;;6
+HT-DSV-AUR-COM;HTC;Desire SV;Auricular de llamada;Compatible;2,65;;;6
+HT-DSV-FLX-COM;HTC;Desire SV;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-DSV-SIM-COM;HTC;Desire SV;Bandeja SIM;Compatible;2,55;;;6
+HT-DX-PAN-COM;HTC;Desire X;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-DX-BAT-COM;HTC;Desire X;Batería;Compatible;9,65;;;6
+HT-DX-CON-COM;HTC;Desire X;Conector de carga;Compatible;4,60;;;6
+HT-DX-TAP-COM;HTC;Desire X;Tapa trasera;Compatible;5,40;;;6
+HT-DX-CTR-COM;HTC;Desire X;Cámara trasera;Compatible;7,59;;;6
+HT-DX-CFR-COM;HTC;Desire X;Cámara frontal;Compatible;4,99;;;6
+HT-DX-LEN-COM;HTC;Desire X;Lente de cámara;Compatible;2,19;;;6
+HT-DX-ALT-COM;HTC;Desire X;Altavoz;Compatible;3,65;;;6
+HT-DX-AUR-COM;HTC;Desire X;Auricular de llamada;Compatible;2,65;;;6
+HT-DX-FLX-COM;HTC;Desire X;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-DX-SIM-COM;HTC;Desire X;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEVX-PAN-COM;HTC;One VX;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEVX-BAT-COM;HTC;One VX;Batería;Compatible;9,65;;;6
+HT-ONEVX-CON-COM;HTC;One VX;Conector de carga;Compatible;4,60;;;6
+HT-ONEVX-TAP-COM;HTC;One VX;Tapa trasera;Compatible;5,40;;;6
+HT-ONEVX-CTR-COM;HTC;One VX;Cámara trasera;Compatible;7,59;;;6
+HT-ONEVX-CFR-COM;HTC;One VX;Cámara frontal;Compatible;4,99;;;6
+HT-ONEVX-LEN-COM;HTC;One VX;Lente de cámara;Compatible;2,19;;;6
+HT-ONEVX-ALT-COM;HTC;One VX;Altavoz;Compatible;3,65;;;6
+HT-ONEVX-AUR-COM;HTC;One VX;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEVX-FLX-COM;HTC;One VX;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEVX-SIM-COM;HTC;One VX;Bandeja SIM;Compatible;2,55;;;6
+HT-DVT-PAN-COM;HTC;Desire VT;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-DVT-BAT-COM;HTC;Desire VT;Batería;Compatible;9,65;;;6
+HT-DVT-CON-COM;HTC;Desire VT;Conector de carga;Compatible;4,60;;;6
+HT-DVT-TAP-COM;HTC;Desire VT;Tapa trasera;Compatible;5,40;;;6
+HT-DVT-CTR-COM;HTC;Desire VT;Cámara trasera;Compatible;7,59;;;6
+HT-DVT-CFR-COM;HTC;Desire VT;Cámara frontal;Compatible;4,99;;;6
+HT-DVT-LEN-COM;HTC;Desire VT;Lente de cámara;Compatible;2,19;;;6
+HT-DVT-ALT-COM;HTC;Desire VT;Altavoz;Compatible;3,65;;;6
+HT-DVT-AUR-COM;HTC;Desire VT;Auricular de llamada;Compatible;2,65;;;6
+HT-DVT-FLX-COM;HTC;Desire VT;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-DVT-SIM-COM;HTC;Desire VT;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEXC-PAN-COM;HTC;One XC;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEXC-BAT-COM;HTC;One XC;Batería;Compatible;9,65;;;6
+HT-ONEXC-CON-COM;HTC;One XC;Conector de carga;Compatible;4,60;;;6
+HT-ONEXC-TAP-COM;HTC;One XC;Tapa trasera;Compatible;5,40;;;6
+HT-ONEXC-CTR-COM;HTC;One XC;Cámara trasera;Compatible;7,59;;;6
+HT-ONEXC-CFR-COM;HTC;One XC;Cámara frontal;Compatible;4,99;;;6
+HT-ONEXC-LEN-COM;HTC;One XC;Lente de cámara;Compatible;2,19;;;6
+HT-ONEXC-ALT-COM;HTC;One XC;Altavoz;Compatible;3,65;;;6
+HT-ONEXC-AUR-COM;HTC;One XC;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEXC-FLX-COM;HTC;One XC;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEXC-SIM-COM;HTC;One XC;Bandeja SIM;Compatible;2,55;;;6
+HT-DVC-PAN-COM;HTC;Desire VC;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-DVC-BAT-COM;HTC;Desire VC;Batería;Compatible;9,65;;;6
+HT-DVC-CON-COM;HTC;Desire VC;Conector de carga;Compatible;4,60;;;6
+HT-DVC-TAP-COM;HTC;Desire VC;Tapa trasera;Compatible;5,40;;;6
+HT-DVC-CTR-COM;HTC;Desire VC;Cámara trasera;Compatible;7,59;;;6
+HT-DVC-CFR-COM;HTC;Desire VC;Cámara frontal;Compatible;4,99;;;6
+HT-DVC-LEN-COM;HTC;Desire VC;Lente de cámara;Compatible;2,19;;;6
+HT-DVC-ALT-COM;HTC;Desire VC;Altavoz;Compatible;3,65;;;6
+HT-DVC-AUR-COM;HTC;Desire VC;Auricular de llamada;Compatible;2,65;;;6
+HT-DVC-FLX-COM;HTC;Desire VC;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-DVC-SIM-COM;HTC;Desire VC;Bandeja SIM;Compatible;2,55;;;6
+HT-DXC-PAN-COM;HTC;Desire XC;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-DXC-BAT-COM;HTC;Desire XC;Batería;Compatible;9,65;;;6
+HT-DXC-CON-COM;HTC;Desire XC;Conector de carga;Compatible;4,60;;;6
+HT-DXC-TAP-COM;HTC;Desire XC;Tapa trasera;Compatible;5,40;;;6
+HT-DXC-CTR-COM;HTC;Desire XC;Cámara trasera;Compatible;7,59;;;6
+HT-DXC-CFR-COM;HTC;Desire XC;Cámara frontal;Compatible;4,99;;;6
+HT-DXC-LEN-COM;HTC;Desire XC;Lente de cámara;Compatible;2,19;;;6
+HT-DXC-ALT-COM;HTC;Desire XC;Altavoz;Compatible;3,65;;;6
+HT-DXC-AUR-COM;HTC;Desire XC;Auricular de llamada;Compatible;2,65;;;6
+HT-DXC-FLX-COM;HTC;Desire XC;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-DXC-SIM-COM;HTC;Desire XC;Bandeja SIM;Compatible;2,55;;;6
+HT-DI4LTE-PAN-COM;HTC;Droid Incredible 4G LTE;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-DI4LTE-BAT-COM;HTC;Droid Incredible 4G LTE;Batería;Compatible;9,65;;;6
+HT-DI4LTE-CON-COM;HTC;Droid Incredible 4G LTE;Conector de carga;Compatible;4,60;;;6
+HT-DI4LTE-TAP-COM;HTC;Droid Incredible 4G LTE;Tapa trasera;Compatible;5,40;;;6
+HT-DI4LTE-CTR-COM;HTC;Droid Incredible 4G LTE;Cámara trasera;Compatible;7,59;;;6
+HT-DI4LTE-CFR-COM;HTC;Droid Incredible 4G LTE;Cámara frontal;Compatible;4,99;;;6
+HT-DI4LTE-LEN-COM;HTC;Droid Incredible 4G LTE;Lente de cámara;Compatible;2,19;;;6
+HT-DI4LTE-ALT-COM;HTC;Droid Incredible 4G LTE;Altavoz;Compatible;3,65;;;6
+HT-DI4LTE-AUR-COM;HTC;Droid Incredible 4G LTE;Auricular de llamada;Compatible;2,65;;;6
+HT-DI4LTE-FLX-COM;HTC;Droid Incredible 4G LTE;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-DI4LTE-SIM-COM;HTC;Droid Incredible 4G LTE;Bandeja SIM;Compatible;2,55;;;6
+HT-DC-PAN-COM;HTC;Desire C;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-DC-BAT-COM;HTC;Desire C;Batería;Compatible;9,65;;;6
+HT-DC-CON-COM;HTC;Desire C;Conector de carga;Compatible;4,60;;;6
+HT-DC-TAP-COM;HTC;Desire C;Tapa trasera;Compatible;5,40;;;6
+HT-DC-CTR-COM;HTC;Desire C;Cámara trasera;Compatible;7,59;;;6
+HT-DC-CFR-COM;HTC;Desire C;Cámara frontal;Compatible;4,99;;;6
+HT-DC-LEN-COM;HTC;Desire C;Lente de cámara;Compatible;2,19;;;6
+HT-DC-ALT-COM;HTC;Desire C;Altavoz;Compatible;3,65;;;6
+HT-DC-AUR-COM;HTC;Desire C;Auricular de llamada;Compatible;2,65;;;6
+HT-DC-FLX-COM;HTC;Desire C;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-DC-SIM-COM;HTC;Desire C;Bandeja SIM;Compatible;2,55;;;6
+HT-DV-PAN-COM;HTC;Desire V;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-DV-BAT-COM;HTC;Desire V;Batería;Compatible;9,65;;;6
+HT-DV-CON-COM;HTC;Desire V;Conector de carga;Compatible;4,60;;;6
+HT-DV-TAP-COM;HTC;Desire V;Tapa trasera;Compatible;5,40;;;6
+HT-DV-CTR-COM;HTC;Desire V;Cámara trasera;Compatible;7,59;;;6
+HT-DV-CFR-COM;HTC;Desire V;Cámara frontal;Compatible;4,99;;;6
+HT-DV-LEN-COM;HTC;Desire V;Lente de cámara;Compatible;2,19;;;6
+HT-DV-ALT-COM;HTC;Desire V;Altavoz;Compatible;3,65;;;6
+HT-DV-AUR-COM;HTC;Desire V;Auricular de llamada;Compatible;2,65;;;6
+HT-DV-FLX-COM;HTC;Desire V;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-DV-SIM-COM;HTC;Desire V;Bandeja SIM;Compatible;2,55;;;6
+HT-ONESC2-PAN-COM;HTC;One S C2;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONESC2-BAT-COM;HTC;One S C2;Batería;Compatible;9,65;;;6
+HT-ONESC2-CON-COM;HTC;One S C2;Conector de carga;Compatible;4,60;;;6
+HT-ONESC2-TAP-COM;HTC;One S C2;Tapa trasera;Compatible;5,40;;;6
+HT-ONESC2-CTR-COM;HTC;One S C2;Cámara trasera;Compatible;7,59;;;6
+HT-ONESC2-CFR-COM;HTC;One S C2;Cámara frontal;Compatible;4,99;;;6
+HT-ONESC2-LEN-COM;HTC;One S C2;Lente de cámara;Compatible;2,19;;;6
+HT-ONESC2-ALT-COM;HTC;One S C2;Altavoz;Compatible;3,65;;;6
+HT-ONESC2-AUR-COM;HTC;One S C2;Auricular de llamada;Compatible;2,65;;;6
+HT-ONESC2-FLX-COM;HTC;One S C2;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONESC2-SIM-COM;HTC;One S C2;Bandeja SIM;Compatible;2,55;;;6
+HT-EVO4LTE-PAN-COM;HTC;Evo 4G LTE;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-EVO4LTE-BAT-COM;HTC;Evo 4G LTE;Batería;Compatible;9,65;;;6
+HT-EVO4LTE-CON-COM;HTC;Evo 4G LTE;Conector de carga;Compatible;4,60;;;6
+HT-EVO4LTE-TAP-COM;HTC;Evo 4G LTE;Tapa trasera;Compatible;5,40;;;6
+HT-EVO4LTE-CTR-COM;HTC;Evo 4G LTE;Cámara trasera;Compatible;7,59;;;6
+HT-EVO4LTE-CFR-COM;HTC;Evo 4G LTE;Cámara frontal;Compatible;4,99;;;6
+HT-EVO4LTE-LEN-COM;HTC;Evo 4G LTE;Lente de cámara;Compatible;2,19;;;6
+HT-EVO4LTE-ALT-COM;HTC;Evo 4G LTE;Altavoz;Compatible;3,65;;;6
+HT-EVO4LTE-AUR-COM;HTC;Evo 4G LTE;Auricular de llamada;Compatible;2,65;;;6
+HT-EVO4LTE-FLX-COM;HTC;Evo 4G LTE;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-EVO4LTE-SIM-COM;HTC;Evo 4G LTE;Bandeja SIM;Compatible;2,55;;;6
+HT-J-PAN-INC;HTC;J;Pantalla;Incell;17,69;17,16;16,63;6
+HT-J-BAT-COM;HTC;J;Batería;Compatible;9,65;;;6
+HT-J-CON-COM;HTC;J;Conector de carga;Compatible;4,60;;;6
+HT-J-TAP-COM;HTC;J;Tapa trasera;Compatible;5,40;;;6
+HT-J-CTR-COM;HTC;J;Cámara trasera;Compatible;7,59;;;6
+HT-J-CFR-COM;HTC;J;Cámara frontal;Compatible;4,99;;;6
+HT-J-LEN-COM;HTC;J;Lente de cámara;Compatible;2,19;;;6
+HT-J-ALT-COM;HTC;J;Altavoz;Compatible;3,65;;;6
+HT-J-AUR-COM;HTC;J;Auricular de llamada;Compatible;2,65;;;6
+HT-J-FLX-COM;HTC;J;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-J-SIM-COM;HTC;J;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEXXL-PAN-COM;HTC;One X XL;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEXXL-BAT-COM;HTC;One X XL;Batería;Compatible;9,65;;;6
+HT-ONEXXL-CON-COM;HTC;One X XL;Conector de carga;Compatible;4,60;;;6
+HT-ONEXXL-TAP-COM;HTC;One X XL;Tapa trasera;Compatible;5,40;;;6
+HT-ONEXXL-CTR-COM;HTC;One X XL;Cámara trasera;Compatible;7,59;;;6
+HT-ONEXXL-CFR-COM;HTC;One X XL;Cámara frontal;Compatible;4,99;;;6
+HT-ONEXXL-LEN-COM;HTC;One X XL;Lente de cámara;Compatible;2,19;;;6
+HT-ONEXXL-ALT-COM;HTC;One X XL;Altavoz;Compatible;3,65;;;6
+HT-ONEXXL-AUR-COM;HTC;One X XL;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEXXL-FLX-COM;HTC;One X XL;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEXXL-SIM-COM;HTC;One X XL;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEV-PAN-COM;HTC;One V;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEV-BAT-COM;HTC;One V;Batería;Compatible;9,65;;;6
+HT-ONEV-CON-COM;HTC;One V;Conector de carga;Compatible;4,60;;;6
+HT-ONEV-TAP-COM;HTC;One V;Tapa trasera;Compatible;5,40;;;6
+HT-ONEV-CTR-COM;HTC;One V;Cámara trasera;Compatible;7,59;;;6
+HT-ONEV-CFR-COM;HTC;One V;Cámara frontal;Compatible;4,99;;;6
+HT-ONEV-LEN-COM;HTC;One V;Lente de cámara;Compatible;2,19;;;6
+HT-ONEV-ALT-COM;HTC;One V;Altavoz;Compatible;3,65;;;6
+HT-ONEV-AUR-COM;HTC;One V;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEV-FLX-COM;HTC;One V;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEV-SIM-COM;HTC;One V;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEX-PAN-COM;HTC;One X;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEX-BAT-COM;HTC;One X;Batería;Compatible;9,65;;;6
+HT-ONEX-CON-COM;HTC;One X;Conector de carga;Compatible;4,60;;;6
+HT-ONEX-TAP-COM;HTC;One X;Tapa trasera;Compatible;5,40;;;6
+HT-ONEX-CTR-COM;HTC;One X;Cámara trasera;Compatible;7,59;;;6
+HT-ONEX-CFR-COM;HTC;One X;Cámara frontal;Compatible;4,99;;;6
+HT-ONEX-LEN-COM;HTC;One X;Lente de cámara;Compatible;2,19;;;6
+HT-ONEX-ALT-COM;HTC;One X;Altavoz;Compatible;3,65;;;6
+HT-ONEX-AUR-COM;HTC;One X;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEX-FLX-COM;HTC;One X;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEX-SIM-COM;HTC;One X;Bandeja SIM;Compatible;2,55;;;6
+HT-ONEXL-PAN-COM;HTC;One XL;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-ONEXL-BAT-COM;HTC;One XL;Batería;Compatible;9,65;;;6
+HT-ONEXL-CON-COM;HTC;One XL;Conector de carga;Compatible;4,60;;;6
+HT-ONEXL-TAP-COM;HTC;One XL;Tapa trasera;Compatible;5,40;;;6
+HT-ONEXL-CTR-COM;HTC;One XL;Cámara trasera;Compatible;7,59;;;6
+HT-ONEXL-CFR-COM;HTC;One XL;Cámara frontal;Compatible;4,99;;;6
+HT-ONEXL-LEN-COM;HTC;One XL;Lente de cámara;Compatible;2,19;;;6
+HT-ONEXL-ALT-COM;HTC;One XL;Altavoz;Compatible;3,65;;;6
+HT-ONEXL-AUR-COM;HTC;One XL;Auricular de llamada;Compatible;2,65;;;6
+HT-ONEXL-FLX-COM;HTC;One XL;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONEXL-SIM-COM;HTC;One XL;Bandeja SIM;Compatible;2,55;;;6
+HT-TII-PAN-COM;HTC;Titan II;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-TII-BAT-COM;HTC;Titan II;Batería;Compatible;9,65;;;6
+HT-TII-CON-COM;HTC;Titan II;Conector de carga;Compatible;4,60;;;6
+HT-TII-TAP-COM;HTC;Titan II;Tapa trasera;Compatible;5,40;;;6
+HT-TII-CTR-COM;HTC;Titan II;Cámara trasera;Compatible;7,59;;;6
+HT-TII-CFR-COM;HTC;Titan II;Cámara frontal;Compatible;4,99;;;6
+HT-TII-LEN-COM;HTC;Titan II;Lente de cámara;Compatible;2,19;;;6
+HT-TII-ALT-COM;HTC;Titan II;Altavoz;Compatible;3,65;;;6
+HT-TII-AUR-COM;HTC;Titan II;Auricular de llamada;Compatible;2,65;;;6
+HT-TII-FLX-COM;HTC;Titan II;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-TII-SIM-COM;HTC;Titan II;Bandeja SIM;Compatible;2,55;;;6
+HT-ONES-PAN-INC;HTC;One S;Pantalla;Incell;17,69;17,16;16,63;6
+HT-ONES-BAT-COM;HTC;One S;Batería;Compatible;9,65;;;6
+HT-ONES-CON-COM;HTC;One S;Conector de carga;Compatible;4,60;;;6
+HT-ONES-TAP-COM;HTC;One S;Tapa trasera;Compatible;5,40;;;6
+HT-ONES-CTR-COM;HTC;One S;Cámara trasera;Compatible;7,59;;;6
+HT-ONES-CFR-COM;HTC;One S;Cámara frontal;Compatible;4,99;;;6
+HT-ONES-LEN-COM;HTC;One S;Lente de cámara;Compatible;2,19;;;6
+HT-ONES-ALT-COM;HTC;One S;Altavoz;Compatible;3,65;;;6
+HT-ONES-AUR-COM;HTC;One S;Auricular de llamada;Compatible;2,65;;;6
+HT-ONES-FLX-COM;HTC;One S;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-ONES-SIM-COM;HTC;One S;Bandeja SIM;Compatible;2,55;;;6
+HT-T4-PAN-COM;HTC;Titan 4G;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-T4-BAT-COM;HTC;Titan 4G;Batería;Compatible;9,65;;;6
+HT-T4-CON-COM;HTC;Titan 4G;Conector de carga;Compatible;4,60;;;6
+HT-T4-TAP-COM;HTC;Titan 4G;Tapa trasera;Compatible;5,40;;;6
+HT-T4-CTR-COM;HTC;Titan 4G;Cámara trasera;Compatible;7,59;;;6
+HT-T4-CFR-COM;HTC;Titan 4G;Cámara frontal;Compatible;4,99;;;6
+HT-T4-LEN-COM;HTC;Titan 4G;Lente de cámara;Compatible;2,19;;;6
+HT-T4-ALT-COM;HTC;Titan 4G;Altavoz;Compatible;3,65;;;6
+HT-T4-AUR-COM;HTC;Titan 4G;Auricular de llamada;Compatible;2,65;;;6
+HT-T4-FLX-COM;HTC;Titan 4G;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-T4-SIM-COM;HTC;Titan 4G;Bandeja SIM;Compatible;2,55;;;6
+HT-B-PAN-COM;HTC;Butterfly;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-B-BAT-COM;HTC;Butterfly;Batería;Compatible;9,65;;;6
+HT-B-CON-COM;HTC;Butterfly;Conector de carga;Compatible;4,60;;;6
+HT-B-TAP-COM;HTC;Butterfly;Tapa trasera;Compatible;5,40;;;6
+HT-B-CTR-COM;HTC;Butterfly;Cámara trasera;Compatible;7,59;;;6
+HT-B-CFR-COM;HTC;Butterfly;Cámara frontal;Compatible;4,99;;;6
+HT-B-LEN-COM;HTC;Butterfly;Lente de cámara;Compatible;2,19;;;6
+HT-B-ALT-COM;HTC;Butterfly;Altavoz;Compatible;3,65;;;6
+HT-B-AUR-COM;HTC;Butterfly;Auricular de llamada;Compatible;2,65;;;6
+HT-B-FLX-COM;HTC;Butterfly;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-B-SIM-COM;HTC;Butterfly;Bandeja SIM;Compatible;2,55;;;6
+HT-WP8X-PAN-COM;HTC;Windows Phone 8X;Pantalla;Compatible;15,15;14,70;14,24;6
+HT-WP8X-BAT-COM;HTC;Windows Phone 8X;Batería;Compatible;9,65;;;6
+HT-WP8X-CON-COM;HTC;Windows Phone 8X;Conector de carga;Compatible;4,60;;;6
+HT-WP8X-TAP-COM;HTC;Windows Phone 8X;Tapa trasera;Compatible;5,40;;;6
+HT-WP8X-CTR-COM;HTC;Windows Phone 8X;Cámara trasera;Compatible;7,59;;;6
+HT-WP8X-CFR-COM;HTC;Windows Phone 8X;Cámara frontal;Compatible;4,99;;;6
+HT-WP8X-LEN-COM;HTC;Windows Phone 8X;Lente de cámara;Compatible;2,19;;;6
+HT-WP8X-ALT-COM;HTC;Windows Phone 8X;Altavoz;Compatible;3,65;;;6
+HT-WP8X-AUR-COM;HTC;Windows Phone 8X;Auricular de llamada;Compatible;2,65;;;6
+HT-WP8X-FLX-COM;HTC;Windows Phone 8X;Flex de encendido y volumen;Compatible;2,49;;;6
+HT-WP8X-SIM-COM;HTC;Windows Phone 8X;Bandeja SIM;Compatible;2,55;;;6
+HT-U24P-PRO-NA;HTC;U24 Pro;Cristal templado;Estándar;1,30;;;
+HT-U24P-PRO-PRI;HTC;U24 Pro;Cristal templado;Privacidad;4,00;;;
+HT-U24P-FUN-SIL;HTC;U24 Pro;Funda;Silicona;2,50;;;
+HT-U24P-FUN-TPU;HTC;U24 Pro;Funda;Transparente;2,95;;;
+HT-U24P-FUN-LIB;HTC;U24 Pro;Funda;Libro;3,70;;;
+HT-U24P-FUN-ANT;HTC;U24 Pro;Funda;Antigolpes;3,10;;;
+HT-WES-PRO-NA;HTC;Wildfire E star;Cristal templado;Estándar;1,30;;;
+HT-WES-PRO-PRI;HTC;Wildfire E star;Cristal templado;Privacidad;4,00;;;
+HT-WES-FUN-SIL;HTC;Wildfire E star;Funda;Silicona;2,50;;;
+HT-WES-FUN-TPU;HTC;Wildfire E star;Funda;Transparente;2,95;;;
+HT-WES-FUN-LIB;HTC;Wildfire E star;Funda;Libro;3,70;;;
+HT-WES-FUN-ANT;HTC;Wildfire E star;Funda;Antigolpes;3,10;;;
+HT-U23-PRO-NA;HTC;U23;Cristal templado;Estándar;1,30;;;
+HT-U23-PRO-PRI;HTC;U23;Cristal templado;Privacidad;4,00;;;
+HT-U23-FUN-SIL;HTC;U23;Funda;Silicona;2,50;;;
+HT-U23-FUN-TPU;HTC;U23;Funda;Transparente;2,95;;;
+HT-U23-FUN-LIB;HTC;U23;Funda;Libro;3,70;;;
+HT-U23-FUN-ANT;HTC;U23;Funda;Antigolpes;3,10;;;
+HT-U23P-PRO-NA;HTC;U23 Pro;Cristal templado;Estándar;1,30;;;
+HT-U23P-PRO-PRI;HTC;U23 Pro;Cristal templado;Privacidad;4,00;;;
+HT-U23P-FUN-SIL;HTC;U23 Pro;Funda;Silicona;2,50;;;
+HT-U23P-FUN-TPU;HTC;U23 Pro;Funda;Transparente;2,95;;;
+HT-U23P-FUN-LIB;HTC;U23 Pro;Funda;Libro;3,70;;;
+HT-U23P-FUN-ANT;HTC;U23 Pro;Funda;Antigolpes;3,10;;;
+HT-WE2PY-PRO-NA;HTC;Wildfire E2 Play;Cristal templado;Estándar;1,30;;;
+HT-WE2PY-PRO-PRI;HTC;Wildfire E2 Play;Cristal templado;Privacidad;4,00;;;
+HT-WE2PY-FUN-SIL;HTC;Wildfire E2 Play;Funda;Silicona;2,50;;;
+HT-WE2PY-FUN-TPU;HTC;Wildfire E2 Play;Funda;Transparente;2,95;;;
+HT-WE2PY-FUN-LIB;HTC;Wildfire E2 Play;Funda;Libro;3,70;;;
+HT-WE2PY-FUN-ANT;HTC;Wildfire E2 Play;Funda;Antigolpes;3,10;;;
+HT-WE3L-PRO-NA;HTC;Wildfire E3 lite;Cristal templado;Estándar;1,30;;;
+HT-WE3L-PRO-PRI;HTC;Wildfire E3 lite;Cristal templado;Privacidad;4,00;;;
+HT-WE3L-FUN-SIL;HTC;Wildfire E3 lite;Funda;Silicona;2,50;;;
+HT-WE3L-FUN-TPU;HTC;Wildfire E3 lite;Funda;Transparente;2,95;;;
+HT-WE3L-FUN-LIB;HTC;Wildfire E3 lite;Funda;Libro;3,70;;;
+HT-WE3L-FUN-ANT;HTC;Wildfire E3 lite;Funda;Antigolpes;3,10;;;
+HT-WEPL-PRO-NA;HTC;Wildfire E Plus;Cristal templado;Estándar;1,30;;;
+HT-WEPL-PRO-PRI;HTC;Wildfire E Plus;Cristal templado;Privacidad;4,00;;;
+HT-WEPL-FUN-SIL;HTC;Wildfire E Plus;Funda;Silicona;2,50;;;
+HT-WEPL-FUN-TPU;HTC;Wildfire E Plus;Funda;Transparente;2,95;;;
+HT-WEPL-FUN-LIB;HTC;Wildfire E Plus;Funda;Libro;3,70;;;
+HT-WEPL-FUN-ANT;HTC;Wildfire E Plus;Funda;Antigolpes;3,10;;;
+HT-D22P-PRO-NA;HTC;Desire 22 Pro;Cristal templado;Estándar;1,30;;;
+HT-D22P-PRO-PRI;HTC;Desire 22 Pro;Cristal templado;Privacidad;4,00;;;
+HT-D22P-FUN-SIL;HTC;Desire 22 Pro;Funda;Silicona;2,50;;;
+HT-D22P-FUN-TPU;HTC;Desire 22 Pro;Funda;Transparente;2,95;;;
+HT-D22P-FUN-LIB;HTC;Desire 22 Pro;Funda;Libro;3,70;;;
+HT-D22P-FUN-ANT;HTC;Desire 22 Pro;Funda;Antigolpes;3,10;;;
+HT-WE2PL-PRO-NA;HTC;Wildfire E2 Plus;Cristal templado;Estándar;1,30;;;
+HT-WE2PL-PRO-PRI;HTC;Wildfire E2 Plus;Cristal templado;Privacidad;4,00;;;
+HT-WE2PL-FUN-SIL;HTC;Wildfire E2 Plus;Funda;Silicona;2,50;;;
+HT-WE2PL-FUN-TPU;HTC;Wildfire E2 Plus;Funda;Transparente;2,95;;;
+HT-WE2PL-FUN-LIB;HTC;Wildfire E2 Plus;Funda;Libro;3,70;;;
+HT-WE2PL-FUN-ANT;HTC;Wildfire E2 Plus;Funda;Antigolpes;3,10;;;
+HT-WE3-PRO-NA;HTC;Wildfire E3;Cristal templado;Estándar;1,30;;;
+HT-WE3-PRO-PRI;HTC;Wildfire E3;Cristal templado;Privacidad;4,00;;;
+HT-WE3-FUN-SIL;HTC;Wildfire E3;Funda;Silicona;2,50;;;
+HT-WE3-FUN-TPU;HTC;Wildfire E3;Funda;Transparente;2,95;;;
+HT-WE3-FUN-LIB;HTC;Wildfire E3;Funda;Libro;3,70;;;
+HT-WE3-FUN-ANT;HTC;Wildfire E3;Funda;Antigolpes;3,10;;;
+HT-D21P5-PRO-NA;HTC;Desire 21 Pro 5G;Cristal templado;Estándar;1,30;;;
+HT-D21P5-PRO-PRI;HTC;Desire 21 Pro 5G;Cristal templado;Privacidad;4,00;;;
+HT-D21P5-FUN-SIL;HTC;Desire 21 Pro 5G;Funda;Silicona;2,50;;;
+HT-D21P5-FUN-TPU;HTC;Desire 21 Pro 5G;Funda;Transparente;2,95;;;
+HT-D21P5-FUN-LIB;HTC;Desire 21 Pro 5G;Funda;Libro;3,70;;;
+HT-D21P5-FUN-ANT;HTC;Desire 21 Pro 5G;Funda;Antigolpes;3,10;;;
+HT-D21P5-PCA-NA;HTC;Desire 21 Pro 5G;Protector de cámara;Cristal;2,90;;;
+HT-D20PL-PRO-NA;HTC;Desire 20+;Cristal templado;Estándar;1,30;;;
+HT-D20PL-PRO-PRI;HTC;Desire 20+;Cristal templado;Privacidad;4,00;;;
+HT-D20PL-FUN-SIL;HTC;Desire 20+;Funda;Silicona;2,50;;;
+HT-D20PL-FUN-TPU;HTC;Desire 20+;Funda;Transparente;2,95;;;
+HT-D20PL-FUN-LIB;HTC;Desire 20+;Funda;Libro;3,70;;;
+HT-D20PL-FUN-ANT;HTC;Desire 20+;Funda;Antigolpes;3,10;;;
+HT-D20PL-PCA-NA;HTC;Desire 20+;Protector de cámara;Cristal;2,90;;;
+HT-U205-PRO-NA;HTC;U20 5G;Cristal templado;Estándar;1,30;;;
+HT-U205-PRO-PRI;HTC;U20 5G;Cristal templado;Privacidad;4,00;;;
+HT-U205-FUN-SIL;HTC;U20 5G;Funda;Silicona;2,50;;;
+HT-U205-FUN-TPU;HTC;U20 5G;Funda;Transparente;2,95;;;
+HT-U205-FUN-LIB;HTC;U20 5G;Funda;Libro;3,70;;;
+HT-U205-FUN-ANT;HTC;U20 5G;Funda;Antigolpes;3,10;;;
+HT-U205-PCA-NA;HTC;U20 5G;Protector de cámara;Cristal;2,90;;;
+HT-WE2-PRO-NA;HTC;Wildfire E2;Cristal templado;Estándar;1,30;;;
+HT-WE2-PRO-PRI;HTC;Wildfire E2;Cristal templado;Privacidad;4,00;;;
+HT-WE2-FUN-SIL;HTC;Wildfire E2;Funda;Silicona;2,50;;;
+HT-WE2-FUN-TPU;HTC;Wildfire E2;Funda;Transparente;2,95;;;
+HT-WE2-FUN-LIB;HTC;Wildfire E2;Funda;Libro;3,70;;;
+HT-WE2-FUN-ANT;HTC;Wildfire E2;Funda;Antigolpes;3,10;;;
+HT-D20P-PRO-NA;HTC;Desire 20 Pro;Cristal templado;Estándar;1,30;;;
+HT-D20P-PRO-PRI;HTC;Desire 20 Pro;Cristal templado;Privacidad;4,00;;;
+HT-D20P-FUN-SIL;HTC;Desire 20 Pro;Funda;Silicona;2,50;;;
+HT-D20P-FUN-TPU;HTC;Desire 20 Pro;Funda;Transparente;2,95;;;
+HT-D20P-FUN-LIB;HTC;Desire 20 Pro;Funda;Libro;3,70;;;
+HT-D20P-FUN-ANT;HTC;Desire 20 Pro;Funda;Antigolpes;3,10;;;
+HT-D20P-PCA-NA;HTC;Desire 20 Pro;Protector de cámara;Cristal;2,90;;;
+HT-WR70-PRO-NA;HTC;Wildfire R70;Cristal templado;Estándar;1,30;;;
+HT-WR70-PRO-PRI;HTC;Wildfire R70;Cristal templado;Privacidad;4,00;;;
+HT-WR70-FUN-SIL;HTC;Wildfire R70;Funda;Silicona;2,50;;;
+HT-WR70-FUN-TPU;HTC;Wildfire R70;Funda;Transparente;2,95;;;
+HT-WR70-FUN-LIB;HTC;Wildfire R70;Funda;Libro;3,70;;;
+HT-WR70-FUN-ANT;HTC;Wildfire R70;Funda;Antigolpes;3,10;;;
+HT-D19S-PRO-NA;HTC;Desire 19s;Cristal templado;Estándar;1,30;;;
+HT-D19S-PRO-PRI;HTC;Desire 19s;Cristal templado;Privacidad;4,00;;;
+HT-D19S-FUN-SIL;HTC;Desire 19s;Funda;Silicona;2,50;;;
+HT-D19S-FUN-TPU;HTC;Desire 19s;Funda;Transparente;2,95;;;
+HT-D19S-FUN-LIB;HTC;Desire 19s;Funda;Libro;3,70;;;
+HT-D19S-FUN-ANT;HTC;Desire 19s;Funda;Antigolpes;3,10;;;
+HT-E1S-PRO-NA;HTC;Exodus 1s;Cristal templado;Estándar;1,30;;;
+HT-E1S-PRO-PRI;HTC;Exodus 1s;Cristal templado;Privacidad;4,00;;;
+HT-E1S-FUN-SIL;HTC;Exodus 1s;Funda;Silicona;2,50;;;
+HT-E1S-FUN-TPU;HTC;Exodus 1s;Funda;Transparente;2,95;;;
+HT-E1S-FUN-LIB;HTC;Exodus 1s;Funda;Libro;3,70;;;
+HT-E1S-FUN-ANT;HTC;Exodus 1s;Funda;Antigolpes;3,10;;;
+HT-WX-PRO-NA;HTC;Wildfire X;Cristal templado;Estándar;1,30;;;
+HT-WX-PRO-PRI;HTC;Wildfire X;Cristal templado;Privacidad;4,00;;;
+HT-WX-FUN-SIL;HTC;Wildfire X;Funda;Silicona;2,50;;;
+HT-WX-FUN-TPU;HTC;Wildfire X;Funda;Transparente;2,95;;;
+HT-WX-FUN-LIB;HTC;Wildfire X;Funda;Libro;3,70;;;
+HT-WX-FUN-ANT;HTC;Wildfire X;Funda;Antigolpes;3,10;;;
+HT-WX-PCA-NA;HTC;Wildfire X;Protector de cámara;Cristal;2,90;;;
+HT-D19PL-PRO-NA;HTC;Desire 19+;Cristal templado;Estándar;1,30;;;
+HT-D19PL-PRO-PRI;HTC;Desire 19+;Cristal templado;Privacidad;4,00;;;
+HT-D19PL-FUN-SIL;HTC;Desire 19+;Funda;Silicona;2,50;;;
+HT-D19PL-FUN-TPU;HTC;Desire 19+;Funda;Transparente;2,95;;;
+HT-D19PL-FUN-LIB;HTC;Desire 19+;Funda;Libro;3,70;;;
+HT-D19PL-FUN-ANT;HTC;Desire 19+;Funda;Antigolpes;3,10;;;
+HT-U19E-PRO-NA;HTC;U19e;Cristal templado;Estándar;1,30;;;
+HT-U19E-PRO-PRI;HTC;U19e;Cristal templado;Privacidad;4,00;;;
+HT-U19E-FUN-SIL;HTC;U19e;Funda;Silicona;2,50;;;
+HT-U19E-FUN-TPU;HTC;U19e;Funda;Transparente;2,95;;;
+HT-U19E-FUN-LIB;HTC;U19e;Funda;Libro;3,70;;;
+HT-U19E-FUN-ANT;HTC;U19e;Funda;Antigolpes;3,10;;;
+HT-U19E-PCA-NA;HTC;U19e;Protector de cámara;Cristal;2,90;;;
+HT-D12S-PRO-NA;HTC;Desire 12s;Cristal templado;Estándar;1,30;;;
+HT-D12S-PRO-PRI;HTC;Desire 12s;Cristal templado;Privacidad;4,00;;;
+HT-D12S-FUN-SIL;HTC;Desire 12s;Funda;Silicona;2,50;;;
+HT-D12S-FUN-TPU;HTC;Desire 12s;Funda;Transparente;2,95;;;
+HT-D12S-FUN-LIB;HTC;Desire 12s;Funda;Libro;3,70;;;
+HT-D12S-FUN-ANT;HTC;Desire 12s;Funda;Antigolpes;3,10;;;
+HT-E1-PRO-NA;HTC;Exodus 1;Cristal templado;Estándar;1,30;;;
+HT-E1-PRO-PRI;HTC;Exodus 1;Cristal templado;Privacidad;4,00;;;
+HT-E1-FUN-SIL;HTC;Exodus 1;Funda;Silicona;2,50;;;
+HT-E1-FUN-TPU;HTC;Exodus 1;Funda;Transparente;2,95;;;
+HT-E1-FUN-LIB;HTC;Exodus 1;Funda;Libro;3,70;;;
+HT-E1-FUN-ANT;HTC;Exodus 1;Funda;Antigolpes;3,10;;;
+HT-U12L-PRO-NA;HTC;U12 Life;Cristal templado;Estándar;1,30;;;
+HT-U12L-PRO-PRI;HTC;U12 Life;Cristal templado;Privacidad;4,00;;;
+HT-U12L-FUN-SIL;HTC;U12 Life;Funda;Silicona;2,50;;;
+HT-U12L-FUN-TPU;HTC;U12 Life;Funda;Transparente;2,95;;;
+HT-U12L-FUN-LIB;HTC;U12 Life;Funda;Libro;3,70;;;
+HT-U12L-FUN-ANT;HTC;U12 Life;Funda;Antigolpes;3,10;;;
+HT-D12-PRO-NA;HTC;Desire 12;Cristal templado;Estándar;1,30;;;
+HT-D12-PRO-PRI;HTC;Desire 12;Cristal templado;Privacidad;4,00;;;
+HT-D12-FUN-SIL;HTC;Desire 12;Funda;Silicona;2,50;;;
+HT-D12-FUN-TPU;HTC;Desire 12;Funda;Transparente;2,95;;;
+HT-D12-FUN-LIB;HTC;Desire 12;Funda;Libro;3,70;;;
+HT-D12-FUN-ANT;HTC;Desire 12;Funda;Antigolpes;3,10;;;
+HT-D12PL-PRO-NA;HTC;Desire 12+;Cristal templado;Estándar;1,30;;;
+HT-D12PL-PRO-PRI;HTC;Desire 12+;Cristal templado;Privacidad;4,00;;;
+HT-D12PL-FUN-SIL;HTC;Desire 12+;Funda;Silicona;2,50;;;
+HT-D12PL-FUN-TPU;HTC;Desire 12+;Funda;Transparente;2,95;;;
+HT-D12PL-FUN-LIB;HTC;Desire 12+;Funda;Libro;3,70;;;
+HT-D12PL-FUN-ANT;HTC;Desire 12+;Funda;Antigolpes;3,10;;;
+HT-U12PL-PRO-NA;HTC;U12+;Cristal templado;Estándar;1,30;;;
+HT-U12PL-PRO-PRI;HTC;U12+;Cristal templado;Privacidad;4,00;;;
+HT-U12PL-FUN-SIL;HTC;U12+;Funda;Silicona;2,50;;;
+HT-U12PL-FUN-TPU;HTC;U12+;Funda;Transparente;2,95;;;
+HT-U12PL-FUN-LIB;HTC;U12+;Funda;Libro;3,70;;;
+HT-U12PL-FUN-ANT;HTC;U12+;Funda;Antigolpes;3,10;;;
+HT-U11E-PRO-NA;HTC;U11 EYEs;Cristal templado;Estándar;1,30;;;
+HT-U11E-PRO-PRI;HTC;U11 EYEs;Cristal templado;Privacidad;4,00;;;
+HT-U11E-FUN-SIL;HTC;U11 EYEs;Funda;Silicona;2,50;;;
+HT-U11E-FUN-TPU;HTC;U11 EYEs;Funda;Transparente;2,95;;;
+HT-U11E-FUN-LIB;HTC;U11 EYEs;Funda;Libro;3,70;;;
+HT-U11E-FUN-ANT;HTC;U11 EYEs;Funda;Antigolpes;3,10;;;
+HT-U11PL-PRO-NA;HTC;U11+;Cristal templado;Estándar;1,30;;;
+HT-U11PL-PRO-PRI;HTC;U11+;Cristal templado;Privacidad;4,00;;;
+HT-U11PL-FUN-SIL;HTC;U11+;Funda;Silicona;2,50;;;
+HT-U11PL-FUN-TPU;HTC;U11+;Funda;Transparente;2,95;;;
+HT-U11PL-FUN-LIB;HTC;U11+;Funda;Libro;3,70;;;
+HT-U11PL-FUN-ANT;HTC;U11+;Funda;Antigolpes;3,10;;;
+HT-ONEX10-PRO-NA;HTC;One X10;Cristal templado;Estándar;1,30;;;
+HT-ONEX10-PRO-PRI;HTC;One X10;Cristal templado;Privacidad;4,00;;;
+HT-ONEX10-FUN-SIL;HTC;One X10;Funda;Silicona;2,50;;;
+HT-ONEX10-FUN-TPU;HTC;One X10;Funda;Transparente;2,95;;;
+HT-ONEX10-FUN-LIB;HTC;One X10;Funda;Libro;3,70;;;
+HT-ONEX10-FUN-ANT;HTC;One X10;Funda;Antigolpes;3,10;;;
+HT-U11-PRO-NA;HTC;U11;Cristal templado;Estándar;1,30;;;
+HT-U11-PRO-PRI;HTC;U11;Cristal templado;Privacidad;4,00;;;
+HT-U11-FUN-SIL;HTC;U11;Funda;Silicona;2,50;;;
+HT-U11-FUN-TPU;HTC;U11;Funda;Transparente;2,95;;;
+HT-U11-FUN-LIB;HTC;U11;Funda;Libro;3,70;;;
+HT-U11-FUN-ANT;HTC;U11;Funda;Antigolpes;3,10;;;
+HT-UU-PRO-NA;HTC;U Ultra;Cristal templado;Estándar;1,30;;;
+HT-UU-PRO-PRI;HTC;U Ultra;Cristal templado;Privacidad;4,00;;;
+HT-UU-FUN-SIL;HTC;U Ultra;Funda;Silicona;2,50;;;
+HT-UU-FUN-TPU;HTC;U Ultra;Funda;Transparente;2,95;;;
+HT-UU-FUN-LIB;HTC;U Ultra;Funda;Libro;3,70;;;
+HT-UU-FUN-ANT;HTC;U Ultra;Funda;Antigolpes;3,10;;;
+HT-UPY-PRO-NA;HTC;U Play;Cristal templado;Estándar;1,30;;;
+HT-UPY-PRO-PRI;HTC;U Play;Cristal templado;Privacidad;4,00;;;
+HT-UPY-FUN-SIL;HTC;U Play;Funda;Silicona;2,50;;;
+HT-UPY-FUN-TPU;HTC;U Play;Funda;Transparente;2,95;;;
+HT-UPY-FUN-LIB;HTC;U Play;Funda;Libro;3,70;;;
+HT-UPY-FUN-ANT;HTC;U Play;Funda;Antigolpes;3,10;;;
+HT-D10P-PRO-NA;HTC;Desire 10 Pro;Cristal templado;Estándar;1,30;;;
+HT-D10P-PRO-PRI;HTC;Desire 10 Pro;Cristal templado;Privacidad;4,00;;;
+HT-D10P-FUN-SIL;HTC;Desire 10 Pro;Funda;Silicona;2,50;;;
+HT-D10P-FUN-TPU;HTC;Desire 10 Pro;Funda;Transparente;2,95;;;
+HT-D10P-FUN-LIB;HTC;Desire 10 Pro;Funda;Libro;3,70;;;
+HT-D10P-FUN-ANT;HTC;Desire 10 Pro;Funda;Antigolpes;3,10;;;
+HT-D650-PRO-NA;HTC;Desire 650;Cristal templado;Estándar;1,30;;;
+HT-D650-PRO-PRI;HTC;Desire 650;Cristal templado;Privacidad;4,00;;;
+HT-D650-FUN-SIL;HTC;Desire 650;Funda;Silicona;2,50;;;
+HT-D650-FUN-TPU;HTC;Desire 650;Funda;Transparente;2,95;;;
+HT-D650-FUN-LIB;HTC;Desire 650;Funda;Libro;3,70;;;
+HT-D650-FUN-ANT;HTC;Desire 650;Funda;Antigolpes;3,10;;;
+HT-D728U-PRO-NA;HTC;Desire 728 Ultra;Cristal templado;Estándar;1,30;;;
+HT-D728U-PRO-PRI;HTC;Desire 728 Ultra;Cristal templado;Privacidad;4,00;;;
+HT-D728U-FUN-SIL;HTC;Desire 728 Ultra;Funda;Silicona;2,50;;;
+HT-D728U-FUN-TPU;HTC;Desire 728 Ultra;Funda;Transparente;2,95;;;
+HT-D728U-FUN-LIB;HTC;Desire 728 Ultra;Funda;Libro;3,70;;;
+HT-D728U-FUN-ANT;HTC;Desire 728 Ultra;Funda;Antigolpes;3,10;;;
+HT-10EVO-PRO-NA;HTC;10 evo;Cristal templado;Estándar;1,30;;;
+HT-10EVO-PRO-PRI;HTC;10 evo;Cristal templado;Privacidad;4,00;;;
+HT-10EVO-FUN-SIL;HTC;10 evo;Funda;Silicona;2,50;;;
+HT-10EVO-FUN-TPU;HTC;10 evo;Funda;Transparente;2,95;;;
+HT-10EVO-FUN-LIB;HTC;10 evo;Funda;Libro;3,70;;;
+HT-10EVO-FUN-ANT;HTC;10 evo;Funda;Antigolpes;3,10;;;
+HT-ONEA9S-PRO-NA;HTC;One A9s;Cristal templado;Estándar;1,30;;;
+HT-ONEA9S-PRO-PRI;HTC;One A9s;Cristal templado;Privacidad;4,00;;;
+HT-ONEA9S-FUN-SIL;HTC;One A9s;Funda;Silicona;2,50;;;
+HT-ONEA9S-FUN-TPU;HTC;One A9s;Funda;Transparente;2,95;;;
+HT-ONEA9S-FUN-LIB;HTC;One A9s;Funda;Libro;3,70;;;
+HT-ONEA9S-FUN-ANT;HTC;One A9s;Funda;Antigolpes;3,10;;;
+HT-D10L-PRO-NA;HTC;Desire 10 Lifestyle;Cristal templado;Estándar;1,30;;;
+HT-D10L-PRO-PRI;HTC;Desire 10 Lifestyle;Cristal templado;Privacidad;4,00;;;
+HT-D10L-FUN-SIL;HTC;Desire 10 Lifestyle;Funda;Silicona;2,50;;;
+HT-D10L-FUN-TPU;HTC;Desire 10 Lifestyle;Funda;Transparente;2,95;;;
+HT-D10L-FUN-LIB;HTC;Desire 10 Lifestyle;Funda;Libro;3,70;;;
+HT-D10L-FUN-ANT;HTC;Desire 10 Lifestyle;Funda;Antigolpes;3,10;;;
+HT-D625-PRO-NA;HTC;Desire 625;Cristal templado;Estándar;1,30;;;
+HT-D625-PRO-PRI;HTC;Desire 625;Cristal templado;Privacidad;4,00;;;
+HT-D625-FUN-SIL;HTC;Desire 625;Funda;Silicona;2,50;;;
+HT-D625-FUN-TPU;HTC;Desire 625;Funda;Transparente;2,95;;;
+HT-D625-FUN-LIB;HTC;Desire 625;Funda;Libro;3,70;;;
+HT-D625-FUN-ANT;HTC;Desire 625;Funda;Antigolpes;3,10;;;
+HT-10L-PRO-NA;HTC;10 Lifestyle;Cristal templado;Estándar;1,30;;;
+HT-10L-PRO-PRI;HTC;10 Lifestyle;Cristal templado;Privacidad;4,00;;;
+HT-10L-FUN-SIL;HTC;10 Lifestyle;Funda;Silicona;2,50;;;
+HT-10L-FUN-TPU;HTC;10 Lifestyle;Funda;Transparente;2,95;;;
+HT-10L-FUN-LIB;HTC;10 Lifestyle;Funda;Libro;3,70;;;
+HT-10L-FUN-ANT;HTC;10 Lifestyle;Funda;Antigolpes;3,10;;;
+HT-D628-PRO-NA;HTC;Desire 628;Cristal templado;Estándar;1,30;;;
+HT-D628-PRO-PRI;HTC;Desire 628;Cristal templado;Privacidad;4,00;;;
+HT-D628-FUN-SIL;HTC;Desire 628;Funda;Silicona;2,50;;;
+HT-D628-FUN-TPU;HTC;Desire 628;Funda;Transparente;2,95;;;
+HT-D628-FUN-LIB;HTC;Desire 628;Funda;Libro;3,70;;;
+HT-D628-FUN-ANT;HTC;Desire 628;Funda;Antigolpes;3,10;;;
+HT-D630-PRO-NA;HTC;Desire 630;Cristal templado;Estándar;1,30;;;
+HT-D630-PRO-PRI;HTC;Desire 630;Cristal templado;Privacidad;4,00;;;
+HT-D630-FUN-SIL;HTC;Desire 630;Funda;Silicona;2,50;;;
+HT-D630-FUN-TPU;HTC;Desire 630;Funda;Transparente;2,95;;;
+HT-D630-FUN-LIB;HTC;Desire 630;Funda;Libro;3,70;;;
+HT-D630-FUN-ANT;HTC;Desire 630;Funda;Antigolpes;3,10;;;
+HT-ONES9-PRO-NA;HTC;One S9;Cristal templado;Estándar;1,30;;;
+HT-ONES9-PRO-PRI;HTC;One S9;Cristal templado;Privacidad;4,00;;;
+HT-ONES9-FUN-SIL;HTC;One S9;Funda;Silicona;2,50;;;
+HT-ONES9-FUN-TPU;HTC;One S9;Funda;Transparente;2,95;;;
+HT-ONES9-FUN-LIB;HTC;One S9;Funda;Libro;3,70;;;
+HT-ONES9-FUN-ANT;HTC;One S9;Funda;Antigolpes;3,10;;;
+HT-D830-PRO-NA;HTC;Desire 830;Cristal templado;Estándar;1,30;;;
+HT-D830-PRO-PRI;HTC;Desire 830;Cristal templado;Privacidad;4,00;;;
+HT-D830-FUN-SIL;HTC;Desire 830;Funda;Silicona;2,50;;;
+HT-D830-FUN-TPU;HTC;Desire 830;Funda;Transparente;2,95;;;
+HT-D830-FUN-LIB;HTC;Desire 830;Funda;Libro;3,70;;;
+HT-D830-FUN-ANT;HTC;Desire 830;Funda;Antigolpes;3,10;;;
+HT-ONEM9PC-PRO-NA;HTC;One M9 Prime Camera;Cristal templado;Estándar;1,30;;;
+HT-ONEM9PC-PRO-PRI;HTC;One M9 Prime Camera;Cristal templado;Privacidad;4,00;;;
+HT-ONEM9PC-FUN-SIL;HTC;One M9 Prime Camera;Funda;Silicona;2,50;;;
+HT-ONEM9PC-FUN-TPU;HTC;One M9 Prime Camera;Funda;Transparente;2,95;;;
+HT-ONEM9PC-FUN-LIB;HTC;One M9 Prime Camera;Funda;Libro;3,70;;;
+HT-ONEM9PC-FUN-ANT;HTC;One M9 Prime Camera;Funda;Antigolpes;3,10;;;
+HT-D825-PRO-NA;HTC;Desire 825;Cristal templado;Estándar;1,30;;;
+HT-D825-PRO-PRI;HTC;Desire 825;Cristal templado;Privacidad;4,00;;;
+HT-D825-FUN-SIL;HTC;Desire 825;Funda;Silicona;2,50;;;
+HT-D825-FUN-TPU;HTC;Desire 825;Funda;Transparente;2,95;;;
+HT-D825-FUN-LIB;HTC;Desire 825;Funda;Libro;3,70;;;
+HT-D825-FUN-ANT;HTC;Desire 825;Funda;Antigolpes;3,10;;;
+HT-D530-PRO-NA;HTC;Desire 530;Cristal templado;Estándar;1,30;;;
+HT-D530-PRO-PRI;HTC;Desire 530;Cristal templado;Privacidad;4,00;;;
+HT-D530-FUN-SIL;HTC;Desire 530;Funda;Silicona;2,50;;;
+HT-D530-FUN-TPU;HTC;Desire 530;Funda;Transparente;2,95;;;
+HT-D530-FUN-LIB;HTC;Desire 530;Funda;Libro;3,70;;;
+HT-D530-FUN-ANT;HTC;Desire 530;Funda;Antigolpes;3,10;;;
+HT-ONEX9-PRO-NA;HTC;One X9;Cristal templado;Estándar;1,30;;;
+HT-ONEX9-PRO-PRI;HTC;One X9;Cristal templado;Privacidad;4,00;;;
+HT-ONEX9-FUN-SIL;HTC;One X9;Funda;Silicona;2,50;;;
+HT-ONEX9-FUN-TPU;HTC;One X9;Funda;Transparente;2,95;;;
+HT-ONEX9-FUN-LIB;HTC;One X9;Funda;Libro;3,70;;;
+HT-ONEX9-FUN-ANT;HTC;One X9;Funda;Antigolpes;3,10;;;
+HT-10-PRO-NA;HTC;10;Cristal templado;Estándar;1,30;;;
+HT-10-PRO-PRI;HTC;10;Cristal templado;Privacidad;4,00;;;
+HT-10-FUN-SIL;HTC;10;Funda;Silicona;2,50;;;
+HT-10-FUN-TPU;HTC;10;Funda;Transparente;2,95;;;
+HT-10-FUN-LIB;HTC;10;Funda;Libro;3,70;;;
+HT-10-FUN-ANT;HTC;10;Funda;Antigolpes;3,10;;;
+HT-D728-PRO-NA;HTC;Desire 728;Cristal templado;Estándar;1,30;;;
+HT-D728-PRO-PRI;HTC;Desire 728;Cristal templado;Privacidad;4,00;;;
+HT-D728-FUN-SIL;HTC;Desire 728;Funda;Silicona;2,50;;;
+HT-D728-FUN-TPU;HTC;Desire 728;Funda;Transparente;2,95;;;
+HT-D728-FUN-LIB;HTC;Desire 728;Funda;Libro;3,70;;;
+HT-D728-FUN-ANT;HTC;Desire 728;Funda;Antigolpes;3,10;;;
+HT-D828-PRO-NA;HTC;Desire 828;Cristal templado;Estándar;1,30;;;
+HT-D828-PRO-PRI;HTC;Desire 828;Cristal templado;Privacidad;4,00;;;
+HT-D828-FUN-SIL;HTC;Desire 828;Funda;Silicona;2,50;;;
+HT-D828-FUN-TPU;HTC;Desire 828;Funda;Transparente;2,95;;;
+HT-D828-FUN-LIB;HTC;Desire 828;Funda;Libro;3,70;;;
+HT-D828-FUN-ANT;HTC;Desire 828;Funda;Antigolpes;3,10;;;
+HT-ONEM9S-PRO-NA;HTC;One M9s;Cristal templado;Estándar;1,30;;;
+HT-ONEM9S-PRO-PRI;HTC;One M9s;Cristal templado;Privacidad;4,00;;;
+HT-ONEM9S-FUN-SIL;HTC;One M9s;Funda;Silicona;2,50;;;
+HT-ONEM9S-FUN-TPU;HTC;One M9s;Funda;Transparente;2,95;;;
+HT-ONEM9S-FUN-LIB;HTC;One M9s;Funda;Libro;3,70;;;
+HT-ONEM9S-FUN-ANT;HTC;One M9s;Funda;Antigolpes;3,10;;;
+HT-B3-PRO-NA;HTC;Butterfly 3;Cristal templado;Estándar;1,30;;;
+HT-B3-PRO-PRI;HTC;Butterfly 3;Cristal templado;Privacidad;4,00;;;
+HT-B3-FUN-SIL;HTC;Butterfly 3;Funda;Silicona;2,50;;;
+HT-B3-FUN-TPU;HTC;Butterfly 3;Funda;Transparente;2,95;;;
+HT-B3-FUN-LIB;HTC;Butterfly 3;Funda;Libro;3,70;;;
+HT-B3-FUN-ANT;HTC;Butterfly 3;Funda;Antigolpes;3,10;;;
+HT-ONEA9-PRO-NA;HTC;One A9;Cristal templado;Estándar;1,30;;;
+HT-ONEA9-PRO-PRI;HTC;One A9;Cristal templado;Privacidad;4,00;;;
+HT-ONEA9-FUN-SIL;HTC;One A9;Funda;Silicona;2,50;;;
+HT-ONEA9-FUN-TPU;HTC;One A9;Funda;Transparente;2,95;;;
+HT-ONEA9-FUN-LIB;HTC;One A9;Funda;Libro;3,70;;;
+HT-ONEA9-FUN-ANT;HTC;One A9;Funda;Antigolpes;3,10;;;
+HT-ONEE9S-PRO-NA;HTC;One E9s;Cristal templado;Estándar;1,30;;;
+HT-ONEE9S-PRO-PRI;HTC;One E9s;Cristal templado;Privacidad;4,00;;;
+HT-ONEE9S-FUN-SIL;HTC;One E9s;Funda;Silicona;2,50;;;
+HT-ONEE9S-FUN-TPU;HTC;One E9s;Funda;Transparente;2,95;;;
+HT-ONEE9S-FUN-LIB;HTC;One E9s;Funda;Libro;3,70;;;
+HT-ONEE9S-FUN-ANT;HTC;One E9s;Funda;Antigolpes;3,10;;;
+HT-ONEM9PLS-PRO-NA;HTC;One M9+ Supreme Camera Edition;Cristal templado;Estándar;1,30;;;
+HT-ONEM9PLS-PRO-PRI;HTC;One M9+ Supreme Camera Edition;Cristal templado;Privacidad;4,00;;;
+HT-ONEM9PLS-FUN-SIL;HTC;One M9+ Supreme Camera Edition;Funda;Silicona;2,50;;;
+HT-ONEM9PLS-FUN-TPU;HTC;One M9+ Supreme Camera Edition;Funda;Transparente;2,95;;;
+HT-ONEM9PLS-FUN-LIB;HTC;One M9+ Supreme Camera Edition;Funda;Libro;3,70;;;
+HT-ONEM9PLS-FUN-ANT;HTC;One M9+ Supreme Camera Edition;Funda;Antigolpes;3,10;;;
+HT-D520-PRO-NA;HTC;Desire 520;Cristal templado;Estándar;1,30;;;
+HT-D520-PRO-PRI;HTC;Desire 520;Cristal templado;Privacidad;4,00;;;
+HT-D520-FUN-SIL;HTC;Desire 520;Funda;Silicona;2,50;;;
+HT-D520-FUN-TPU;HTC;Desire 520;Funda;Transparente;2,95;;;
+HT-D520-FUN-LIB;HTC;Desire 520;Funda;Libro;3,70;;;
+HT-D520-FUN-ANT;HTC;Desire 520;Funda;Antigolpes;3,10;;;
+HT-D526-PRO-NA;HTC;Desire 526;Cristal templado;Estándar;1,30;;;
+HT-D526-PRO-PRI;HTC;Desire 526;Cristal templado;Privacidad;4,00;;;
+HT-D526-FUN-SIL;HTC;Desire 526;Funda;Silicona;2,50;;;
+HT-D526-FUN-TPU;HTC;Desire 526;Funda;Transparente;2,95;;;
+HT-D526-FUN-LIB;HTC;Desire 526;Funda;Libro;3,70;;;
+HT-D526-FUN-ANT;HTC;Desire 526;Funda;Antigolpes;3,10;;;
+HT-D626-PRO-NA;HTC;Desire 626;Cristal templado;Estándar;1,30;;;
+HT-D626-PRO-PRI;HTC;Desire 626;Cristal templado;Privacidad;4,00;;;
+HT-D626-FUN-SIL;HTC;Desire 626;Funda;Silicona;2,50;;;
+HT-D626-FUN-TPU;HTC;Desire 626;Funda;Transparente;2,95;;;
+HT-D626-FUN-LIB;HTC;Desire 626;Funda;Libro;3,70;;;
+HT-D626-FUN-ANT;HTC;Desire 626;Funda;Antigolpes;3,10;;;
+HT-D626S-PRO-NA;HTC;Desire 626s;Cristal templado;Estándar;1,30;;;
+HT-D626S-PRO-PRI;HTC;Desire 626s;Cristal templado;Privacidad;4,00;;;
+HT-D626S-FUN-SIL;HTC;Desire 626s;Funda;Silicona;2,50;;;
+HT-D626S-FUN-TPU;HTC;Desire 626s;Funda;Transparente;2,95;;;
+HT-D626S-FUN-LIB;HTC;Desire 626s;Funda;Libro;3,70;;;
+HT-D626S-FUN-ANT;HTC;Desire 626s;Funda;Antigolpes;3,10;;;
+HT-ONEME-PRO-NA;HTC;One ME;Cristal templado;Estándar;1,30;;;
+HT-ONEME-PRO-PRI;HTC;One ME;Cristal templado;Privacidad;4,00;;;
+HT-ONEME-FUN-SIL;HTC;One ME;Funda;Silicona;2,50;;;
+HT-ONEME-FUN-TPU;HTC;One ME;Funda;Transparente;2,95;;;
+HT-ONEME-FUN-LIB;HTC;One ME;Funda;Libro;3,70;;;
+HT-ONEME-FUN-ANT;HTC;One ME;Funda;Antigolpes;3,10;;;
+HT-D326G-PRO-NA;HTC;Desire 326G;Cristal templado;Estándar;1,30;;;
+HT-D326G-PRO-PRI;HTC;Desire 326G;Cristal templado;Privacidad;4,00;;;
+HT-D326G-FUN-SIL;HTC;Desire 326G;Funda;Silicona;2,50;;;
+HT-D326G-FUN-TPU;HTC;Desire 326G;Funda;Transparente;2,95;;;
+HT-D326G-FUN-LIB;HTC;Desire 326G;Funda;Libro;3,70;;;
+HT-D326G-FUN-ANT;HTC;Desire 326G;Funda;Antigolpes;3,10;;;
+HT-D820GPL-PRO-NA;HTC;Desire 820G+;Cristal templado;Estándar;1,30;;;
+HT-D820GPL-PRO-PRI;HTC;Desire 820G+;Cristal templado;Privacidad;4,00;;;
+HT-D820GPL-FUN-SIL;HTC;Desire 820G+;Funda;Silicona;2,50;;;
+HT-D820GPL-FUN-TPU;HTC;Desire 820G+;Funda;Transparente;2,95;;;
+HT-D820GPL-FUN-LIB;HTC;Desire 820G+;Funda;Libro;3,70;;;
+HT-D820GPL-FUN-ANT;HTC;Desire 820G+;Funda;Antigolpes;3,10;;;
+HT-ONEE9-PRO-NA;HTC;One E9;Cristal templado;Estándar;1,30;;;
+HT-ONEE9-PRO-PRI;HTC;One E9;Cristal templado;Privacidad;4,00;;;
+HT-ONEE9-FUN-SIL;HTC;One E9;Funda;Silicona;2,50;;;
+HT-ONEE9-FUN-TPU;HTC;One E9;Funda;Transparente;2,95;;;
+HT-ONEE9-FUN-LIB;HTC;One E9;Funda;Libro;3,70;;;
+HT-ONEE9-FUN-ANT;HTC;One E9;Funda;Antigolpes;3,10;;;
+HT-ONEE9PL-PRO-NA;HTC;One E9+;Cristal templado;Estándar;1,30;;;
+HT-ONEE9PL-PRO-PRI;HTC;One E9+;Cristal templado;Privacidad;4,00;;;
+HT-ONEE9PL-FUN-SIL;HTC;One E9+;Funda;Silicona;2,50;;;
+HT-ONEE9PL-FUN-TPU;HTC;One E9+;Funda;Transparente;2,95;;;
+HT-ONEE9PL-FUN-LIB;HTC;One E9+;Funda;Libro;3,70;;;
+HT-ONEE9PL-FUN-ANT;HTC;One E9+;Funda;Antigolpes;3,10;;;
+HT-ONEM9PL-PRO-NA;HTC;One M9+;Cristal templado;Estándar;1,30;;;
+HT-ONEM9PL-PRO-PRI;HTC;One M9+;Cristal templado;Privacidad;4,00;;;
+HT-ONEM9PL-FUN-SIL;HTC;One M9+;Funda;Silicona;2,50;;;
+HT-ONEM9PL-FUN-TPU;HTC;One M9+;Funda;Transparente;2,95;;;
+HT-ONEM9PL-FUN-LIB;HTC;One M9+;Funda;Libro;3,70;;;
+HT-ONEM9PL-FUN-ANT;HTC;One M9+;Funda;Antigolpes;3,10;;;
+HT-D626GPL-PRO-NA;HTC;Desire 626G+;Cristal templado;Estándar;1,30;;;
+HT-D626GPL-PRO-PRI;HTC;Desire 626G+;Cristal templado;Privacidad;4,00;;;
+HT-D626GPL-FUN-SIL;HTC;Desire 626G+;Funda;Silicona;2,50;;;
+HT-D626GPL-FUN-TPU;HTC;Desire 626G+;Funda;Transparente;2,95;;;
+HT-D626GPL-FUN-LIB;HTC;Desire 626G+;Funda;Libro;3,70;;;
+HT-D626GPL-FUN-ANT;HTC;Desire 626G+;Funda;Antigolpes;3,10;;;
+HT-ONEM8S-PRO-NA;HTC;One M8s;Cristal templado;Estándar;1,30;;;
+HT-ONEM8S-PRO-PRI;HTC;One M8s;Cristal templado;Privacidad;4,00;;;
+HT-ONEM8S-FUN-SIL;HTC;One M8s;Funda;Silicona;2,50;;;
+HT-ONEM8S-FUN-TPU;HTC;One M8s;Funda;Transparente;2,95;;;
+HT-ONEM8S-FUN-LIB;HTC;One M8s;Funda;Libro;3,70;;;
+HT-ONEM8S-FUN-ANT;HTC;One M8s;Funda;Antigolpes;3,10;;;
+HT-ONEM9-PRO-NA;HTC;One M9;Cristal templado;Estándar;1,30;;;
+HT-ONEM9-PRO-PRI;HTC;One M9;Cristal templado;Privacidad;4,00;;;
+HT-ONEM9-FUN-SIL;HTC;One M9;Funda;Silicona;2,50;;;
+HT-ONEM9-FUN-TPU;HTC;One M9;Funda;Transparente;2,95;;;
+HT-ONEM9-FUN-LIB;HTC;One M9;Funda;Libro;3,70;;;
+HT-ONEM9-FUN-ANT;HTC;One M9;Funda;Antigolpes;3,10;;;
+HT-D820S-PRO-NA;HTC;Desire 820s;Cristal templado;Estándar;1,30;;;
+HT-D820S-PRO-PRI;HTC;Desire 820s;Cristal templado;Privacidad;4,00;;;
+HT-D820S-FUN-SIL;HTC;Desire 820s;Funda;Silicona;2,50;;;
+HT-D820S-FUN-TPU;HTC;Desire 820s;Funda;Transparente;2,95;;;
+HT-D820S-FUN-LIB;HTC;Desire 820s;Funda;Libro;3,70;;;
+HT-D820S-FUN-ANT;HTC;Desire 820s;Funda;Antigolpes;3,10;;;
+HT-D826-PRO-NA;HTC;Desire 826;Cristal templado;Estándar;1,30;;;
+HT-D826-PRO-PRI;HTC;Desire 826;Cristal templado;Privacidad;4,00;;;
+HT-D826-FUN-SIL;HTC;Desire 826;Funda;Silicona;2,50;;;
+HT-D826-FUN-TPU;HTC;Desire 826;Funda;Transparente;2,95;;;
+HT-D826-FUN-LIB;HTC;Desire 826;Funda;Libro;3,70;;;
+HT-D826-FUN-ANT;HTC;Desire 826;Funda;Antigolpes;3,10;;;
+HT-D320-PRO-NA;HTC;Desire 320;Cristal templado;Estándar;1,30;;;
+HT-D320-PRO-PRI;HTC;Desire 320;Cristal templado;Privacidad;4,00;;;
+HT-D320-FUN-SIL;HTC;Desire 320;Funda;Silicona;2,50;;;
+HT-D320-FUN-TPU;HTC;Desire 320;Funda;Transparente;2,95;;;
+HT-D320-FUN-LIB;HTC;Desire 320;Funda;Libro;3,70;;;
+HT-D320-FUN-ANT;HTC;Desire 320;Funda;Antigolpes;3,10;;;
+HT-D526GPL-PRO-NA;HTC;Desire 526G+;Cristal templado;Estándar;1,30;;;
+HT-D526GPL-PRO-PRI;HTC;Desire 526G+;Cristal templado;Privacidad;4,00;;;
+HT-D526GPL-FUN-SIL;HTC;Desire 526G+;Funda;Silicona;2,50;;;
+HT-D526GPL-FUN-TPU;HTC;Desire 526G+;Funda;Transparente;2,95;;;
+HT-D526GPL-FUN-LIB;HTC;Desire 526G+;Funda;Libro;3,70;;;
+HT-D526GPL-FUN-ANT;HTC;Desire 526G+;Funda;Antigolpes;3,10;;;
+HT-D620-PRO-NA;HTC;Desire 620;Cristal templado;Estándar;1,30;;;
+HT-D620-PRO-PRI;HTC;Desire 620;Cristal templado;Privacidad;4,00;;;
+HT-D620-FUN-SIL;HTC;Desire 620;Funda;Silicona;2,50;;;
+HT-D620-FUN-TPU;HTC;Desire 620;Funda;Transparente;2,95;;;
+HT-D620-FUN-LIB;HTC;Desire 620;Funda;Libro;3,70;;;
+HT-D620-FUN-ANT;HTC;Desire 620;Funda;Antigolpes;3,10;;;
+HT-D820-PRO-NA;HTC;Desire 820;Cristal templado;Estándar;1,30;;;
+HT-D820-PRO-PRI;HTC;Desire 820;Cristal templado;Privacidad;4,00;;;
+HT-D820-FUN-SIL;HTC;Desire 820;Funda;Silicona;2,50;;;
+HT-D820-FUN-TPU;HTC;Desire 820;Funda;Transparente;2,95;;;
+HT-D820-FUN-LIB;HTC;Desire 820;Funda;Libro;3,70;;;
+HT-D820-FUN-ANT;HTC;Desire 820;Funda;Antigolpes;3,10;;;
+HT-D612-PRO-NA;HTC;Desire 612;Cristal templado;Estándar;1,30;;;
+HT-D612-PRO-PRI;HTC;Desire 612;Cristal templado;Privacidad;4,00;;;
+HT-D612-FUN-SIL;HTC;Desire 612;Funda;Silicona;2,50;;;
+HT-D612-FUN-TPU;HTC;Desire 612;Funda;Transparente;2,95;;;
+HT-D612-FUN-LIB;HTC;Desire 612;Funda;Libro;3,70;;;
+HT-D612-FUN-ANT;HTC;Desire 612;Funda;Antigolpes;3,10;;;
+HT-D816G-PRO-NA;HTC;Desire 816G;Cristal templado;Estándar;1,30;;;
+HT-D816G-PRO-PRI;HTC;Desire 816G;Cristal templado;Privacidad;4,00;;;
+HT-D816G-FUN-SIL;HTC;Desire 816G;Funda;Silicona;2,50;;;
+HT-D816G-FUN-TPU;HTC;Desire 816G;Funda;Transparente;2,95;;;
+HT-D816G-FUN-LIB;HTC;Desire 816G;Funda;Libro;3,70;;;
+HT-D816G-FUN-ANT;HTC;Desire 816G;Funda;Antigolpes;3,10;;;
+HT-D820Q-PRO-NA;HTC;Desire 820q;Cristal templado;Estándar;1,30;;;
+HT-D820Q-PRO-PRI;HTC;Desire 820q;Cristal templado;Privacidad;4,00;;;
+HT-D820Q-FUN-SIL;HTC;Desire 820q;Funda;Silicona;2,50;;;
+HT-D820Q-FUN-TPU;HTC;Desire 820q;Funda;Transparente;2,95;;;
+HT-D820Q-FUN-LIB;HTC;Desire 820q;Funda;Libro;3,70;;;
+HT-D820Q-FUN-ANT;HTC;Desire 820q;Funda;Antigolpes;3,10;;;
+HT-D820QDSI-PRO-NA;HTC;Desire 820q dual sim;Cristal templado;Estándar;1,30;;;
+HT-D820QDSI-PRO-PRI;HTC;Desire 820q dual sim;Cristal templado;Privacidad;4,00;;;
+HT-D820QDSI-FUN-SIL;HTC;Desire 820q dual sim;Funda;Silicona;2,50;;;
+HT-D820QDSI-FUN-TPU;HTC;Desire 820q dual sim;Funda;Transparente;2,95;;;
+HT-D820QDSI-FUN-LIB;HTC;Desire 820q dual sim;Funda;Libro;3,70;;;
+HT-D820QDSI-FUN-ANT;HTC;Desire 820q dual sim;Funda;Antigolpes;3,10;;;
+HT-DEYE-PRO-NA;HTC;Desire Eye;Cristal templado;Estándar;1,30;;;
+HT-DEYE-PRO-PRI;HTC;Desire Eye;Cristal templado;Privacidad;4,00;;;
+HT-DEYE-FUN-SIL;HTC;Desire Eye;Funda;Silicona;2,50;;;
+HT-DEYE-FUN-TPU;HTC;Desire Eye;Funda;Transparente;2,95;;;
+HT-DEYE-FUN-LIB;HTC;Desire Eye;Funda;Libro;3,70;;;
+HT-DEYE-FUN-ANT;HTC;Desire Eye;Funda;Antigolpes;3,10;;;
+HT-ONEM8EYE-PRO-NA;HTC;One (M8 Eye);Cristal templado;Estándar;1,30;;;
+HT-ONEM8EYE-PRO-PRI;HTC;One (M8 Eye);Cristal templado;Privacidad;4,00;;;
+HT-ONEM8EYE-FUN-SIL;HTC;One (M8 Eye);Funda;Silicona;2,50;;;
+HT-ONEM8EYE-FUN-TPU;HTC;One (M8 Eye);Funda;Transparente;2,95;;;
+HT-ONEM8EYE-FUN-LIB;HTC;One (M8 Eye);Funda;Libro;3,70;;;
+HT-ONEM8EYE-FUN-ANT;HTC;One (M8 Eye);Funda;Antigolpes;3,10;;;
+HT-B2-PRO-NA;HTC;Butterfly 2;Cristal templado;Estándar;1,30;;;
+HT-B2-PRO-PRI;HTC;Butterfly 2;Cristal templado;Privacidad;4,00;;;
+HT-B2-FUN-SIL;HTC;Butterfly 2;Funda;Silicona;2,50;;;
+HT-B2-FUN-TPU;HTC;Butterfly 2;Funda;Transparente;2,95;;;
+HT-B2-FUN-LIB;HTC;Butterfly 2;Funda;Libro;3,70;;;
+HT-B2-FUN-ANT;HTC;Butterfly 2;Funda;Antigolpes;3,10;;;
+HT-D510-PRO-NA;HTC;Desire 510;Cristal templado;Estándar;1,30;;;
+HT-D510-PRO-PRI;HTC;Desire 510;Cristal templado;Privacidad;4,00;;;
+HT-D510-FUN-SIL;HTC;Desire 510;Funda;Silicona;2,50;;;
+HT-D510-FUN-TPU;HTC;Desire 510;Funda;Transparente;2,95;;;
+HT-D510-FUN-LIB;HTC;Desire 510;Funda;Libro;3,70;;;
+HT-D510-FUN-ANT;HTC;Desire 510;Funda;Antigolpes;3,10;;;
+HT-ONER-PRO-NA;HTC;One Remix;Cristal templado;Estándar;1,30;;;
+HT-ONER-PRO-PRI;HTC;One Remix;Cristal templado;Privacidad;4,00;;;
+HT-ONER-FUN-SIL;HTC;One Remix;Funda;Silicona;2,50;;;
+HT-ONER-FUN-TPU;HTC;One Remix;Funda;Transparente;2,95;;;
+HT-ONER-FUN-LIB;HTC;One Remix;Funda;Libro;3,70;;;
+HT-ONER-FUN-ANT;HTC;One Remix;Funda;Antigolpes;3,10;;;
+HT-D210-PRO-NA;HTC;Desire 210;Cristal templado;Estándar;1,30;;;
+HT-D210-PRO-PRI;HTC;Desire 210;Cristal templado;Privacidad;4,00;;;
+HT-D210-FUN-SIL;HTC;Desire 210;Funda;Silicona;2,50;;;
+HT-D210-FUN-TPU;HTC;Desire 210;Funda;Transparente;2,95;;;
+HT-D210-FUN-LIB;HTC;Desire 210;Funda;Libro;3,70;;;
+HT-D210-FUN-ANT;HTC;Desire 210;Funda;Antigolpes;3,10;;;
+HT-D516-PRO-NA;HTC;Desire 516;Cristal templado;Estándar;1,30;;;
+HT-D516-PRO-PRI;HTC;Desire 516;Cristal templado;Privacidad;4,00;;;
+HT-D516-FUN-SIL;HTC;Desire 516;Funda;Silicona;2,50;;;
+HT-D516-FUN-TPU;HTC;Desire 516;Funda;Transparente;2,95;;;
+HT-D516-FUN-LIB;HTC;Desire 516;Funda;Libro;3,70;;;
+HT-D516-FUN-ANT;HTC;Desire 516;Funda;Antigolpes;3,10;;;
+HT-D616-PRO-NA;HTC;Desire 616;Cristal templado;Estándar;1,30;;;
+HT-D616-PRO-PRI;HTC;Desire 616;Cristal templado;Privacidad;4,00;;;
+HT-D616-FUN-SIL;HTC;Desire 616;Funda;Silicona;2,50;;;
+HT-D616-FUN-TPU;HTC;Desire 616;Funda;Transparente;2,95;;;
+HT-D616-FUN-LIB;HTC;Desire 616;Funda;Libro;3,70;;;
+HT-D616-FUN-ANT;HTC;Desire 616;Funda;Antigolpes;3,10;;;
+HT-ONEE8-PRO-NA;HTC;One (E8);Cristal templado;Estándar;1,30;;;
+HT-ONEE8-PRO-PRI;HTC;One (E8);Cristal templado;Privacidad;4,00;;;
+HT-ONEE8-FUN-SIL;HTC;One (E8);Funda;Silicona;2,50;;;
+HT-ONEE8-FUN-TPU;HTC;One (E8);Funda;Transparente;2,95;;;
+HT-ONEE8-FUN-LIB;HTC;One (E8);Funda;Libro;3,70;;;
+HT-ONEE8-FUN-ANT;HTC;One (E8);Funda;Antigolpes;3,10;;;
+HT-D816DSIM-PRO-NA;HTC;Desire 816 dual sim;Cristal templado;Estándar;1,30;;;
+HT-D816DSIM-PRO-PRI;HTC;Desire 816 dual sim;Cristal templado;Privacidad;4,00;;;
+HT-D816DSIM-FUN-SIL;HTC;Desire 816 dual sim;Funda;Silicona;2,50;;;
+HT-D816DSIM-FUN-TPU;HTC;Desire 816 dual sim;Funda;Transparente;2,95;;;
+HT-D816DSIM-FUN-LIB;HTC;Desire 816 dual sim;Funda;Libro;3,70;;;
+HT-D816DSIM-FUN-ANT;HTC;Desire 816 dual sim;Funda;Antigolpes;3,10;;;
+HT-ONEMN2-PRO-NA;HTC;One Mini 2;Cristal templado;Estándar;1,30;;;
+HT-ONEMN2-PRO-PRI;HTC;One Mini 2;Cristal templado;Privacidad;4,00;;;
+HT-ONEMN2-FUN-SIL;HTC;One Mini 2;Funda;Silicona;2,50;;;
+HT-ONEMN2-FUN-TPU;HTC;One Mini 2;Funda;Transparente;2,95;;;
+HT-ONEMN2-FUN-LIB;HTC;One Mini 2;Funda;Libro;3,70;;;
+HT-ONEMN2-FUN-ANT;HTC;One Mini 2;Funda;Antigolpes;3,10;;;
+HT-D310-PRO-NA;HTC;Desire 310;Cristal templado;Estándar;1,30;;;
+HT-D310-PRO-PRI;HTC;Desire 310;Cristal templado;Privacidad;4,00;;;
+HT-D310-FUN-SIL;HTC;Desire 310;Funda;Silicona;2,50;;;
+HT-D310-FUN-TPU;HTC;Desire 310;Funda;Transparente;2,95;;;
+HT-D310-FUN-LIB;HTC;Desire 310;Funda;Libro;3,70;;;
+HT-D310-FUN-ANT;HTC;Desire 310;Funda;Antigolpes;3,10;;;
+HT-D610-PRO-NA;HTC;Desire 610;Cristal templado;Estándar;1,30;;;
+HT-D610-PRO-PRI;HTC;Desire 610;Cristal templado;Privacidad;4,00;;;
+HT-D610-FUN-SIL;HTC;Desire 610;Funda;Silicona;2,50;;;
+HT-D610-FUN-TPU;HTC;Desire 610;Funda;Transparente;2,95;;;
+HT-D610-FUN-LIB;HTC;Desire 610;Funda;Libro;3,70;;;
+HT-D610-FUN-ANT;HTC;Desire 610;Funda;Antigolpes;3,10;;;
+HT-D816-PRO-NA;HTC;Desire 816;Cristal templado;Estándar;1,30;;;
+HT-D816-PRO-PRI;HTC;Desire 816;Cristal templado;Privacidad;4,00;;;
+HT-D816-FUN-SIL;HTC;Desire 816;Funda;Silicona;2,50;;;
+HT-D816-FUN-TPU;HTC;Desire 816;Funda;Transparente;2,95;;;
+HT-D816-FUN-LIB;HTC;Desire 816;Funda;Libro;3,70;;;
+HT-D816-FUN-ANT;HTC;Desire 816;Funda;Antigolpes;3,10;;;
+HT-ONEM8-PRO-NA;HTC;One (M8);Cristal templado;Estándar;1,30;;;
+HT-ONEM8-PRO-PRI;HTC;One (M8);Cristal templado;Privacidad;4,00;;;
+HT-ONEM8-FUN-SIL;HTC;One (M8);Funda;Silicona;2,50;;;
+HT-ONEM8-FUN-TPU;HTC;One (M8);Funda;Transparente;2,95;;;
+HT-ONEM8-FUN-LIB;HTC;One (M8);Funda;Libro;3,70;;;
+HT-ONEM8-FUN-ANT;HTC;One (M8);Funda;Antigolpes;3,10;;;
+HT-D501-PRO-NA;HTC;Desire 501;Cristal templado;Estándar;1,30;;;
+HT-D501-PRO-PRI;HTC;Desire 501;Cristal templado;Privacidad;4,00;;;
+HT-D501-FUN-SIL;HTC;Desire 501;Funda;Silicona;2,50;;;
+HT-D501-FUN-TPU;HTC;Desire 501;Funda;Transparente;2,95;;;
+HT-D501-FUN-LIB;HTC;Desire 501;Funda;Libro;3,70;;;
+HT-D501-FUN-ANT;HTC;Desire 501;Funda;Antigolpes;3,10;;;
+HT-D700-PRO-NA;HTC;Desire 700;Cristal templado;Estándar;1,30;;;
+HT-D700-PRO-PRI;HTC;Desire 700;Cristal templado;Privacidad;4,00;;;
+HT-D700-FUN-SIL;HTC;Desire 700;Funda;Silicona;2,50;;;
+HT-D700-FUN-TPU;HTC;Desire 700;Funda;Transparente;2,95;;;
+HT-D700-FUN-LIB;HTC;Desire 700;Funda;Libro;3,70;;;
+HT-D700-FUN-ANT;HTC;Desire 700;Funda;Antigolpes;3,10;;;
+HT-D300-PRO-NA;HTC;Desire 300;Cristal templado;Estándar;1,30;;;
+HT-D300-PRO-PRI;HTC;Desire 300;Cristal templado;Privacidad;4,00;;;
+HT-D300-FUN-SIL;HTC;Desire 300;Funda;Silicona;2,50;;;
+HT-D300-FUN-TPU;HTC;Desire 300;Funda;Transparente;2,95;;;
+HT-D300-FUN-LIB;HTC;Desire 300;Funda;Libro;3,70;;;
+HT-D300-FUN-ANT;HTC;Desire 300;Funda;Antigolpes;3,10;;;
+HT-D601DSIM-PRO-NA;HTC;Desire 601 dual sim;Cristal templado;Estándar;1,30;;;
+HT-D601DSIM-PRO-PRI;HTC;Desire 601 dual sim;Cristal templado;Privacidad;4,00;;;
+HT-D601DSIM-FUN-SIL;HTC;Desire 601 dual sim;Funda;Silicona;2,50;;;
+HT-D601DSIM-FUN-TPU;HTC;Desire 601 dual sim;Funda;Transparente;2,95;;;
+HT-D601DSIM-FUN-LIB;HTC;Desire 601 dual sim;Funda;Libro;3,70;;;
+HT-D601DSIM-FUN-ANT;HTC;Desire 601 dual sim;Funda;Antigolpes;3,10;;;
+HT-D601-PRO-NA;HTC;Desire 601;Cristal templado;Estándar;1,30;;;
+HT-D601-PRO-PRI;HTC;Desire 601;Cristal templado;Privacidad;4,00;;;
+HT-D601-FUN-SIL;HTC;Desire 601;Funda;Silicona;2,50;;;
+HT-D601-FUN-TPU;HTC;Desire 601;Funda;Transparente;2,95;;;
+HT-D601-FUN-LIB;HTC;Desire 601;Funda;Libro;3,70;;;
+HT-D601-FUN-ANT;HTC;Desire 601;Funda;Antigolpes;3,10;;;
+HT-ONEM-PRO-NA;HTC;One Max;Cristal templado;Estándar;1,30;;;
+HT-ONEM-PRO-PRI;HTC;One Max;Cristal templado;Privacidad;4,00;;;
+HT-ONEM-FUN-SIL;HTC;One Max;Funda;Silicona;2,50;;;
+HT-ONEM-FUN-TPU;HTC;One Max;Funda;Transparente;2,95;;;
+HT-ONEM-FUN-LIB;HTC;One Max;Funda;Libro;3,70;;;
+HT-ONEM-FUN-ANT;HTC;One Max;Funda;Antigolpes;3,10;;;
+HT-D500-PRO-NA;HTC;Desire 500;Cristal templado;Estándar;1,30;;;
+HT-D500-PRO-PRI;HTC;Desire 500;Cristal templado;Privacidad;4,00;;;
+HT-D500-FUN-SIL;HTC;Desire 500;Funda;Silicona;2,50;;;
+HT-D500-FUN-TPU;HTC;Desire 500;Funda;Transparente;2,95;;;
+HT-D500-FUN-LIB;HTC;Desire 500;Funda;Libro;3,70;;;
+HT-D500-FUN-ANT;HTC;Desire 500;Funda;Antigolpes;3,10;;;
+HT-8XT-PRO-NA;HTC;8XT;Cristal templado;Estándar;1,30;;;
+HT-8XT-PRO-PRI;HTC;8XT;Cristal templado;Privacidad;4,00;;;
+HT-8XT-FUN-SIL;HTC;8XT;Funda;Silicona;2,50;;;
+HT-8XT-FUN-TPU;HTC;8XT;Funda;Transparente;2,95;;;
+HT-8XT-FUN-LIB;HTC;8XT;Funda;Libro;3,70;;;
+HT-8XT-FUN-ANT;HTC;8XT;Funda;Antigolpes;3,10;;;
+HT-ONEMN-PRO-NA;HTC;One Mini;Cristal templado;Estándar;1,30;;;
+HT-ONEMN-PRO-PRI;HTC;One Mini;Cristal templado;Privacidad;4,00;;;
+HT-ONEMN-FUN-SIL;HTC;One Mini;Funda;Silicona;2,50;;;
+HT-ONEMN-FUN-TPU;HTC;One Mini;Funda;Transparente;2,95;;;
+HT-ONEMN-FUN-LIB;HTC;One Mini;Funda;Libro;3,70;;;
+HT-ONEMN-FUN-ANT;HTC;One Mini;Funda;Antigolpes;3,10;;;
+HT-D200-PRO-NA;HTC;Desire 200;Cristal templado;Estándar;1,30;;;
+HT-D200-PRO-PRI;HTC;Desire 200;Cristal templado;Privacidad;4,00;;;
+HT-D200-FUN-SIL;HTC;Desire 200;Funda;Silicona;2,50;;;
+HT-D200-FUN-TPU;HTC;Desire 200;Funda;Transparente;2,95;;;
+HT-D200-FUN-LIB;HTC;Desire 200;Funda;Libro;3,70;;;
+HT-D200-FUN-ANT;HTC;Desire 200;Funda;Antigolpes;3,10;;;
+HT-BS-PRO-NA;HTC;Butterfly S;Cristal templado;Estándar;1,30;;;
+HT-BS-PRO-PRI;HTC;Butterfly S;Cristal templado;Privacidad;4,00;;;
+HT-BS-FUN-SIL;HTC;Butterfly S;Funda;Silicona;2,50;;;
+HT-BS-FUN-TPU;HTC;Butterfly S;Funda;Transparente;2,95;;;
+HT-BS-FUN-LIB;HTC;Butterfly S;Funda;Libro;3,70;;;
+HT-BS-FUN-ANT;HTC;Butterfly S;Funda;Antigolpes;3,10;;;
+HT-D600-PRO-NA;HTC;Desire 600;Cristal templado;Estándar;1,30;;;
+HT-D600-PRO-PRI;HTC;Desire 600;Cristal templado;Privacidad;4,00;;;
+HT-D600-FUN-SIL;HTC;Desire 600;Funda;Silicona;2,50;;;
+HT-D600-FUN-TPU;HTC;Desire 600;Funda;Transparente;2,95;;;
+HT-D600-FUN-LIB;HTC;Desire 600;Funda;Libro;3,70;;;
+HT-D600-FUN-ANT;HTC;Desire 600;Funda;Antigolpes;3,10;;;
+HT-DU-PRO-NA;HTC;Desire U;Cristal templado;Estándar;1,30;;;
+HT-DU-PRO-PRI;HTC;Desire U;Cristal templado;Privacidad;4,00;;;
+HT-DU-FUN-SIL;HTC;Desire U;Funda;Silicona;2,50;;;
+HT-DU-FUN-TPU;HTC;Desire U;Funda;Transparente;2,95;;;
+HT-DU-FUN-LIB;HTC;Desire U;Funda;Libro;3,70;;;
+HT-DU-FUN-ANT;HTC;Desire U;Funda;Antigolpes;3,10;;;
+HT-DL-PRO-NA;HTC;Desire L;Cristal templado;Estándar;1,30;;;
+HT-DL-PRO-PRI;HTC;Desire L;Cristal templado;Privacidad;4,00;;;
+HT-DL-FUN-SIL;HTC;Desire L;Funda;Silicona;2,50;;;
+HT-DL-FUN-TPU;HTC;Desire L;Funda;Transparente;2,95;;;
+HT-DL-FUN-LIB;HTC;Desire L;Funda;Libro;3,70;;;
+HT-DL-FUN-ANT;HTC;Desire L;Funda;Antigolpes;3,10;;;
+HT-F-PRO-NA;HTC;First;Cristal templado;Estándar;1,30;;;
+HT-F-PRO-PRI;HTC;First;Cristal templado;Privacidad;4,00;;;
+HT-F-FUN-SIL;HTC;First;Funda;Silicona;2,50;;;
+HT-F-FUN-TPU;HTC;First;Funda;Transparente;2,95;;;
+HT-F-FUN-LIB;HTC;First;Funda;Libro;3,70;;;
+HT-F-FUN-ANT;HTC;First;Funda;Antigolpes;3,10;;;
+HT-ONEM7-PRO-NA;HTC;One (M7);Cristal templado;Estándar;1,30;;;
+HT-ONEM7-PRO-PRI;HTC;One (M7);Cristal templado;Privacidad;4,00;;;
+HT-ONEM7-FUN-SIL;HTC;One (M7);Funda;Silicona;2,50;;;
+HT-ONEM7-FUN-TPU;HTC;One (M7);Funda;Transparente;2,95;;;
+HT-ONEM7-FUN-LIB;HTC;One (M7);Funda;Libro;3,70;;;
+HT-ONEM7-FUN-ANT;HTC;One (M7);Funda;Antigolpes;3,10;;;
+HT-ONESV-PRO-NA;HTC;One SV;Cristal templado;Estándar;1,30;;;
+HT-ONESV-PRO-PRI;HTC;One SV;Cristal templado;Privacidad;4,00;;;
+HT-ONESV-FUN-SIL;HTC;One SV;Funda;Silicona;2,50;;;
+HT-ONESV-FUN-TPU;HTC;One SV;Funda;Transparente;2,95;;;
+HT-ONESV-FUN-LIB;HTC;One SV;Funda;Libro;3,70;;;
+HT-ONESV-FUN-ANT;HTC;One SV;Funda;Antigolpes;3,10;;;
+HT-D400-PRO-NA;HTC;Desire 400;Cristal templado;Estándar;1,30;;;
+HT-D400-PRO-PRI;HTC;Desire 400;Cristal templado;Privacidad;4,00;;;
+HT-D400-FUN-SIL;HTC;Desire 400;Funda;Silicona;2,50;;;
+HT-D400-FUN-TPU;HTC;Desire 400;Funda;Transparente;2,95;;;
+HT-D400-FUN-LIB;HTC;Desire 400;Funda;Libro;3,70;;;
+HT-D400-FUN-ANT;HTC;Desire 400;Funda;Antigolpes;3,10;;;
+HT-JB-PRO-NA;HTC;J Butterfly;Cristal templado;Estándar;1,30;;;
+HT-JB-PRO-PRI;HTC;J Butterfly;Cristal templado;Privacidad;4,00;;;
+HT-JB-FUN-SIL;HTC;J Butterfly;Funda;Silicona;2,50;;;
+HT-JB-FUN-TPU;HTC;J Butterfly;Funda;Transparente;2,95;;;
+HT-JB-FUN-LIB;HTC;J Butterfly;Funda;Libro;3,70;;;
+HT-JB-FUN-ANT;HTC;J Butterfly;Funda;Antigolpes;3,10;;;
+HT-WP8S-PRO-NA;HTC;Windows Phone 8S;Cristal templado;Estándar;1,30;;;
+HT-WP8S-PRO-PRI;HTC;Windows Phone 8S;Cristal templado;Privacidad;4,00;;;
+HT-WP8S-FUN-SIL;HTC;Windows Phone 8S;Funda;Silicona;2,50;;;
+HT-WP8S-FUN-TPU;HTC;Windows Phone 8S;Funda;Transparente;2,95;;;
+HT-WP8S-FUN-LIB;HTC;Windows Phone 8S;Funda;Libro;3,70;;;
+HT-WP8S-FUN-ANT;HTC;Windows Phone 8S;Funda;Antigolpes;3,10;;;
+HT-ONEXPL-PRO-NA;HTC;One X+;Cristal templado;Estándar;1,30;;;
+HT-ONEXPL-PRO-PRI;HTC;One X+;Cristal templado;Privacidad;4,00;;;
+HT-ONEXPL-FUN-SIL;HTC;One X+;Funda;Silicona;2,50;;;
+HT-ONEXPL-FUN-TPU;HTC;One X+;Funda;Transparente;2,95;;;
+HT-ONEXPL-FUN-LIB;HTC;One X+;Funda;Libro;3,70;;;
+HT-ONEXPL-FUN-ANT;HTC;One X+;Funda;Antigolpes;3,10;;;
+HT-DSV-PRO-NA;HTC;Desire SV;Cristal templado;Estándar;1,30;;;
+HT-DSV-PRO-PRI;HTC;Desire SV;Cristal templado;Privacidad;4,00;;;
+HT-DSV-FUN-SIL;HTC;Desire SV;Funda;Silicona;2,50;;;
+HT-DSV-FUN-TPU;HTC;Desire SV;Funda;Transparente;2,95;;;
+HT-DSV-FUN-LIB;HTC;Desire SV;Funda;Libro;3,70;;;
+HT-DSV-FUN-ANT;HTC;Desire SV;Funda;Antigolpes;3,10;;;
+HT-DX-PRO-NA;HTC;Desire X;Cristal templado;Estándar;1,30;;;
+HT-DX-PRO-PRI;HTC;Desire X;Cristal templado;Privacidad;4,00;;;
+HT-DX-FUN-SIL;HTC;Desire X;Funda;Silicona;2,50;;;
+HT-DX-FUN-TPU;HTC;Desire X;Funda;Transparente;2,95;;;
+HT-DX-FUN-LIB;HTC;Desire X;Funda;Libro;3,70;;;
+HT-DX-FUN-ANT;HTC;Desire X;Funda;Antigolpes;3,10;;;
+HT-ONEVX-PRO-NA;HTC;One VX;Cristal templado;Estándar;1,30;;;
+HT-ONEVX-PRO-PRI;HTC;One VX;Cristal templado;Privacidad;4,00;;;
+HT-ONEVX-FUN-SIL;HTC;One VX;Funda;Silicona;2,50;;;
+HT-ONEVX-FUN-TPU;HTC;One VX;Funda;Transparente;2,95;;;
+HT-ONEVX-FUN-LIB;HTC;One VX;Funda;Libro;3,70;;;
+HT-ONEVX-FUN-ANT;HTC;One VX;Funda;Antigolpes;3,10;;;
+HT-DVT-PRO-NA;HTC;Desire VT;Cristal templado;Estándar;1,30;;;
+HT-DVT-PRO-PRI;HTC;Desire VT;Cristal templado;Privacidad;4,00;;;
+HT-DVT-FUN-SIL;HTC;Desire VT;Funda;Silicona;2,50;;;
+HT-DVT-FUN-TPU;HTC;Desire VT;Funda;Transparente;2,95;;;
+HT-DVT-FUN-LIB;HTC;Desire VT;Funda;Libro;3,70;;;
+HT-DVT-FUN-ANT;HTC;Desire VT;Funda;Antigolpes;3,10;;;
+HT-ONEXC-PRO-NA;HTC;One XC;Cristal templado;Estándar;1,30;;;
+HT-ONEXC-PRO-PRI;HTC;One XC;Cristal templado;Privacidad;4,00;;;
+HT-ONEXC-FUN-SIL;HTC;One XC;Funda;Silicona;2,50;;;
+HT-ONEXC-FUN-TPU;HTC;One XC;Funda;Transparente;2,95;;;
+HT-ONEXC-FUN-LIB;HTC;One XC;Funda;Libro;3,70;;;
+HT-ONEXC-FUN-ANT;HTC;One XC;Funda;Antigolpes;3,10;;;
+HT-DVC-PRO-NA;HTC;Desire VC;Cristal templado;Estándar;1,30;;;
+HT-DVC-PRO-PRI;HTC;Desire VC;Cristal templado;Privacidad;4,00;;;
+HT-DVC-FUN-SIL;HTC;Desire VC;Funda;Silicona;2,50;;;
+HT-DVC-FUN-TPU;HTC;Desire VC;Funda;Transparente;2,95;;;
+HT-DVC-FUN-LIB;HTC;Desire VC;Funda;Libro;3,70;;;
+HT-DVC-FUN-ANT;HTC;Desire VC;Funda;Antigolpes;3,10;;;
+HT-DXC-PRO-NA;HTC;Desire XC;Cristal templado;Estándar;1,30;;;
+HT-DXC-PRO-PRI;HTC;Desire XC;Cristal templado;Privacidad;4,00;;;
+HT-DXC-FUN-SIL;HTC;Desire XC;Funda;Silicona;2,50;;;
+HT-DXC-FUN-TPU;HTC;Desire XC;Funda;Transparente;2,95;;;
+HT-DXC-FUN-LIB;HTC;Desire XC;Funda;Libro;3,70;;;
+HT-DXC-FUN-ANT;HTC;Desire XC;Funda;Antigolpes;3,10;;;
+HT-DI4LTE-PRO-NA;HTC;Droid Incredible 4G LTE;Cristal templado;Estándar;1,30;;;
+HT-DI4LTE-PRO-PRI;HTC;Droid Incredible 4G LTE;Cristal templado;Privacidad;4,00;;;
+HT-DI4LTE-FUN-SIL;HTC;Droid Incredible 4G LTE;Funda;Silicona;2,50;;;
+HT-DI4LTE-FUN-TPU;HTC;Droid Incredible 4G LTE;Funda;Transparente;2,95;;;
+HT-DI4LTE-FUN-LIB;HTC;Droid Incredible 4G LTE;Funda;Libro;3,70;;;
+HT-DI4LTE-FUN-ANT;HTC;Droid Incredible 4G LTE;Funda;Antigolpes;3,10;;;
+HT-DC-PRO-NA;HTC;Desire C;Cristal templado;Estándar;1,30;;;
+HT-DC-PRO-PRI;HTC;Desire C;Cristal templado;Privacidad;4,00;;;
+HT-DC-FUN-SIL;HTC;Desire C;Funda;Silicona;2,50;;;
+HT-DC-FUN-TPU;HTC;Desire C;Funda;Transparente;2,95;;;
+HT-DC-FUN-LIB;HTC;Desire C;Funda;Libro;3,70;;;
+HT-DC-FUN-ANT;HTC;Desire C;Funda;Antigolpes;3,10;;;
+HT-DV-PRO-NA;HTC;Desire V;Cristal templado;Estándar;1,30;;;
+HT-DV-PRO-PRI;HTC;Desire V;Cristal templado;Privacidad;4,00;;;
+HT-DV-FUN-SIL;HTC;Desire V;Funda;Silicona;2,50;;;
+HT-DV-FUN-TPU;HTC;Desire V;Funda;Transparente;2,95;;;
+HT-DV-FUN-LIB;HTC;Desire V;Funda;Libro;3,70;;;
+HT-DV-FUN-ANT;HTC;Desire V;Funda;Antigolpes;3,10;;;
+HT-ONESC2-PRO-NA;HTC;One S C2;Cristal templado;Estándar;1,30;;;
+HT-ONESC2-PRO-PRI;HTC;One S C2;Cristal templado;Privacidad;4,00;;;
+HT-ONESC2-FUN-SIL;HTC;One S C2;Funda;Silicona;2,50;;;
+HT-ONESC2-FUN-TPU;HTC;One S C2;Funda;Transparente;2,95;;;
+HT-ONESC2-FUN-LIB;HTC;One S C2;Funda;Libro;3,70;;;
+HT-ONESC2-FUN-ANT;HTC;One S C2;Funda;Antigolpes;3,10;;;
+HT-EVO4LTE-PRO-NA;HTC;Evo 4G LTE;Cristal templado;Estándar;1,30;;;
+HT-EVO4LTE-PRO-PRI;HTC;Evo 4G LTE;Cristal templado;Privacidad;4,00;;;
+HT-EVO4LTE-FUN-SIL;HTC;Evo 4G LTE;Funda;Silicona;2,50;;;
+HT-EVO4LTE-FUN-TPU;HTC;Evo 4G LTE;Funda;Transparente;2,95;;;
+HT-EVO4LTE-FUN-LIB;HTC;Evo 4G LTE;Funda;Libro;3,70;;;
+HT-EVO4LTE-FUN-ANT;HTC;Evo 4G LTE;Funda;Antigolpes;3,10;;;
+HT-J-PRO-NA;HTC;J;Cristal templado;Estándar;1,30;;;
+HT-J-PRO-PRI;HTC;J;Cristal templado;Privacidad;4,00;;;
+HT-J-FUN-SIL;HTC;J;Funda;Silicona;2,50;;;
+HT-J-FUN-TPU;HTC;J;Funda;Transparente;2,95;;;
+HT-J-FUN-LIB;HTC;J;Funda;Libro;3,70;;;
+HT-J-FUN-ANT;HTC;J;Funda;Antigolpes;3,10;;;
+HT-ONEXXL-PRO-NA;HTC;One X XL;Cristal templado;Estándar;1,30;;;
+HT-ONEXXL-PRO-PRI;HTC;One X XL;Cristal templado;Privacidad;4,00;;;
+HT-ONEXXL-FUN-SIL;HTC;One X XL;Funda;Silicona;2,50;;;
+HT-ONEXXL-FUN-TPU;HTC;One X XL;Funda;Transparente;2,95;;;
+HT-ONEXXL-FUN-LIB;HTC;One X XL;Funda;Libro;3,70;;;
+HT-ONEXXL-FUN-ANT;HTC;One X XL;Funda;Antigolpes;3,10;;;
+HT-ONEV-PRO-NA;HTC;One V;Cristal templado;Estándar;1,30;;;
+HT-ONEV-PRO-PRI;HTC;One V;Cristal templado;Privacidad;4,00;;;
+HT-ONEV-FUN-SIL;HTC;One V;Funda;Silicona;2,50;;;
+HT-ONEV-FUN-TPU;HTC;One V;Funda;Transparente;2,95;;;
+HT-ONEV-FUN-LIB;HTC;One V;Funda;Libro;3,70;;;
+HT-ONEV-FUN-ANT;HTC;One V;Funda;Antigolpes;3,10;;;
+HT-ONEX-PRO-NA;HTC;One X;Cristal templado;Estándar;1,30;;;
+HT-ONEX-PRO-PRI;HTC;One X;Cristal templado;Privacidad;4,00;;;
+HT-ONEX-FUN-SIL;HTC;One X;Funda;Silicona;2,50;;;
+HT-ONEX-FUN-TPU;HTC;One X;Funda;Transparente;2,95;;;
+HT-ONEX-FUN-LIB;HTC;One X;Funda;Libro;3,70;;;
+HT-ONEX-FUN-ANT;HTC;One X;Funda;Antigolpes;3,10;;;
+HT-ONEXL-PRO-NA;HTC;One XL;Cristal templado;Estándar;1,30;;;
+HT-ONEXL-PRO-PRI;HTC;One XL;Cristal templado;Privacidad;4,00;;;
+HT-ONEXL-FUN-SIL;HTC;One XL;Funda;Silicona;2,50;;;
+HT-ONEXL-FUN-TPU;HTC;One XL;Funda;Transparente;2,95;;;
+HT-ONEXL-FUN-LIB;HTC;One XL;Funda;Libro;3,70;;;
+HT-ONEXL-FUN-ANT;HTC;One XL;Funda;Antigolpes;3,10;;;
+HT-TII-PRO-NA;HTC;Titan II;Cristal templado;Estándar;1,30;;;
+HT-TII-PRO-PRI;HTC;Titan II;Cristal templado;Privacidad;4,00;;;
+HT-TII-FUN-SIL;HTC;Titan II;Funda;Silicona;2,50;;;
+HT-TII-FUN-TPU;HTC;Titan II;Funda;Transparente;2,95;;;
+HT-TII-FUN-LIB;HTC;Titan II;Funda;Libro;3,70;;;
+HT-TII-FUN-ANT;HTC;Titan II;Funda;Antigolpes;3,10;;;
+HT-ONES-PRO-NA;HTC;One S;Cristal templado;Estándar;1,30;;;
+HT-ONES-PRO-PRI;HTC;One S;Cristal templado;Privacidad;4,00;;;
+HT-ONES-FUN-SIL;HTC;One S;Funda;Silicona;2,50;;;
+HT-ONES-FUN-TPU;HTC;One S;Funda;Transparente;2,95;;;
+HT-ONES-FUN-LIB;HTC;One S;Funda;Libro;3,70;;;
+HT-ONES-FUN-ANT;HTC;One S;Funda;Antigolpes;3,10;;;
+HT-T4-PRO-NA;HTC;Titan 4G;Cristal templado;Estándar;1,30;;;
+HT-T4-PRO-PRI;HTC;Titan 4G;Cristal templado;Privacidad;4,00;;;
+HT-T4-FUN-SIL;HTC;Titan 4G;Funda;Silicona;2,50;;;
+HT-T4-FUN-TPU;HTC;Titan 4G;Funda;Transparente;2,95;;;
+HT-T4-FUN-LIB;HTC;Titan 4G;Funda;Libro;3,70;;;
+HT-T4-FUN-ANT;HTC;Titan 4G;Funda;Antigolpes;3,10;;;
+HT-B-PRO-NA;HTC;Butterfly;Cristal templado;Estándar;1,30;;;
+HT-B-PRO-PRI;HTC;Butterfly;Cristal templado;Privacidad;4,00;;;
+HT-B-FUN-SIL;HTC;Butterfly;Funda;Silicona;2,50;;;
+HT-B-FUN-TPU;HTC;Butterfly;Funda;Transparente;2,95;;;
+HT-B-FUN-LIB;HTC;Butterfly;Funda;Libro;3,70;;;
+HT-B-FUN-ANT;HTC;Butterfly;Funda;Antigolpes;3,10;;;
+HT-WP8X-PRO-NA;HTC;Windows Phone 8X;Cristal templado;Estándar;1,30;;;
+HT-WP8X-PRO-PRI;HTC;Windows Phone 8X;Cristal templado;Privacidad;4,00;;;
+HT-WP8X-FUN-SIL;HTC;Windows Phone 8X;Funda;Silicona;2,50;;;
+HT-WP8X-FUN-TPU;HTC;Windows Phone 8X;Funda;Transparente;2,95;;;
+HT-WP8X-FUN-LIB;HTC;Windows Phone 8X;Funda;Libro;3,70;;;
+HT-WP8X-FUN-ANT;HTC;Windows Phone 8X;Funda;Antigolpes;3,10;;;
+HT-U24P-MAR-COM;HTC;U24 Pro;Marco / chasis;Compatible;7,90;;;6
+HT-U24P-BOT-COM;HTC;U24 Pro;Botones laterales;Compatible;4,05;;;6
+HT-U24P-CRI-COM;HTC;U24 Pro;Cristal de pantalla;Compatible;4,05;;;6
+HT-U24P-ANT-COM;HTC;U24 Pro;Antena / coaxial;Compatible;3,50;;;6
+HT-U24P-HUE-COM;HTC;U24 Pro;Botón home / huella;Compatible;5,85;;;6
+HT-WES-MAR-COM;HTC;Wildfire E star;Marco / chasis;Compatible;7,20;;;6
+HT-WES-BOT-COM;HTC;Wildfire E star;Botones laterales;Compatible;3,70;;;6
+HT-WES-CRI-COM;HTC;Wildfire E star;Cristal de pantalla;Compatible;3,69;;;6
+HT-WES-ANT-COM;HTC;Wildfire E star;Antena / coaxial;Compatible;3,20;;;6
+HT-WES-HUE-COM;HTC;Wildfire E star;Botón home / huella;Compatible;5,30;;;6
+HT-U23-MAR-COM;HTC;U23;Marco / chasis;Compatible;7,20;;;6
+HT-U23-BOT-COM;HTC;U23;Botones laterales;Compatible;3,70;;;6
+HT-U23-CRI-COM;HTC;U23;Cristal de pantalla;Compatible;3,69;;;6
+HT-U23-ANT-COM;HTC;U23;Antena / coaxial;Compatible;3,20;;;6
+HT-U23-HUE-COM;HTC;U23;Botón home / huella;Compatible;5,30;;;6
+HT-U23P-MAR-COM;HTC;U23 Pro;Marco / chasis;Compatible;7,20;;;6
+HT-U23P-BOT-COM;HTC;U23 Pro;Botones laterales;Compatible;3,70;;;6
+HT-U23P-CRI-COM;HTC;U23 Pro;Cristal de pantalla;Compatible;3,69;;;6
+HT-U23P-ANT-COM;HTC;U23 Pro;Antena / coaxial;Compatible;3,20;;;6
+HT-U23P-HUE-COM;HTC;U23 Pro;Botón home / huella;Compatible;5,30;;;6
+HT-WE2PY-MAR-COM;HTC;Wildfire E2 Play;Marco / chasis;Compatible;7,20;;;6
+HT-WE2PY-BOT-COM;HTC;Wildfire E2 Play;Botones laterales;Compatible;3,70;;;6
+HT-WE2PY-CRI-COM;HTC;Wildfire E2 Play;Cristal de pantalla;Compatible;3,69;;;6
+HT-WE2PY-ANT-COM;HTC;Wildfire E2 Play;Antena / coaxial;Compatible;3,20;;;6
+HT-WE2PY-HUE-COM;HTC;Wildfire E2 Play;Botón home / huella;Compatible;5,30;;;6
+HT-WE3L-MAR-COM;HTC;Wildfire E3 lite;Marco / chasis;Compatible;7,20;;;6
+HT-WE3L-BOT-COM;HTC;Wildfire E3 lite;Botones laterales;Compatible;3,70;;;6
+HT-WE3L-CRI-COM;HTC;Wildfire E3 lite;Cristal de pantalla;Compatible;3,69;;;6
+HT-WE3L-ANT-COM;HTC;Wildfire E3 lite;Antena / coaxial;Compatible;3,20;;;6
+HT-WE3L-HUE-COM;HTC;Wildfire E3 lite;Botón home / huella;Compatible;5,30;;;6
+HT-WEPL-MAR-COM;HTC;Wildfire E Plus;Marco / chasis;Compatible;7,20;;;6
+HT-WEPL-BOT-COM;HTC;Wildfire E Plus;Botones laterales;Compatible;3,70;;;6
+HT-WEPL-CRI-COM;HTC;Wildfire E Plus;Cristal de pantalla;Compatible;3,69;;;6
+HT-WEPL-ANT-COM;HTC;Wildfire E Plus;Antena / coaxial;Compatible;3,20;;;6
+HT-WEPL-HUE-COM;HTC;Wildfire E Plus;Botón home / huella;Compatible;5,30;;;6
+HT-D22P-MAR-COM;HTC;Desire 22 Pro;Marco / chasis;Compatible;7,20;;;6
+HT-D22P-BOT-COM;HTC;Desire 22 Pro;Botones laterales;Compatible;3,70;;;6
+HT-D22P-CRI-COM;HTC;Desire 22 Pro;Cristal de pantalla;Compatible;3,69;;;6
+HT-D22P-ANT-COM;HTC;Desire 22 Pro;Antena / coaxial;Compatible;3,20;;;6
+HT-D22P-HUE-COM;HTC;Desire 22 Pro;Botón home / huella;Compatible;5,30;;;6
+HT-WE2PL-MAR-COM;HTC;Wildfire E2 Plus;Marco / chasis;Compatible;7,20;;;6
+HT-WE2PL-BOT-COM;HTC;Wildfire E2 Plus;Botones laterales;Compatible;3,70;;;6
+HT-WE2PL-CRI-COM;HTC;Wildfire E2 Plus;Cristal de pantalla;Compatible;3,69;;;6
+HT-WE2PL-ANT-COM;HTC;Wildfire E2 Plus;Antena / coaxial;Compatible;3,20;;;6
+HT-WE2PL-HUE-COM;HTC;Wildfire E2 Plus;Botón home / huella;Compatible;5,30;;;6
+HT-WE3-MAR-COM;HTC;Wildfire E3;Marco / chasis;Compatible;7,20;;;6
+HT-WE3-BOT-COM;HTC;Wildfire E3;Botones laterales;Compatible;3,70;;;6
+HT-WE3-CRI-COM;HTC;Wildfire E3;Cristal de pantalla;Compatible;3,69;;;6
+HT-WE3-ANT-COM;HTC;Wildfire E3;Antena / coaxial;Compatible;3,20;;;6
+HT-WE3-HUE-COM;HTC;Wildfire E3;Botón home / huella;Compatible;5,30;;;6
+HT-D21P5-MAR-COM;HTC;Desire 21 Pro 5G;Marco / chasis;Compatible;7,20;;;6
+HT-D21P5-BOT-COM;HTC;Desire 21 Pro 5G;Botones laterales;Compatible;3,70;;;6
+HT-D21P5-CRI-COM;HTC;Desire 21 Pro 5G;Cristal de pantalla;Compatible;3,69;;;6
+HT-D21P5-ANT-COM;HTC;Desire 21 Pro 5G;Antena / coaxial;Compatible;3,20;;;6
+HT-D21P5-HUE-COM;HTC;Desire 21 Pro 5G;Botón home / huella;Compatible;5,30;;;6
+HT-D20PL-MAR-COM;HTC;Desire 20+;Marco / chasis;Compatible;7,20;;;6
+HT-D20PL-BOT-COM;HTC;Desire 20+;Botones laterales;Compatible;3,70;;;6
+HT-D20PL-CRI-COM;HTC;Desire 20+;Cristal de pantalla;Compatible;3,69;;;6
+HT-D20PL-ANT-COM;HTC;Desire 20+;Antena / coaxial;Compatible;3,20;;;6
+HT-D20PL-HUE-COM;HTC;Desire 20+;Botón home / huella;Compatible;5,30;;;6
+HT-U205-MAR-COM;HTC;U20 5G;Marco / chasis;Compatible;7,20;;;6
+HT-U205-BOT-COM;HTC;U20 5G;Botones laterales;Compatible;3,70;;;6
+HT-U205-CRI-COM;HTC;U20 5G;Cristal de pantalla;Compatible;3,69;;;6
+HT-U205-ANT-COM;HTC;U20 5G;Antena / coaxial;Compatible;3,20;;;6
+HT-U205-HUE-COM;HTC;U20 5G;Botón home / huella;Compatible;5,30;;;6
+HT-WE2-MAR-COM;HTC;Wildfire E2;Marco / chasis;Compatible;7,20;;;6
+HT-WE2-BOT-COM;HTC;Wildfire E2;Botones laterales;Compatible;3,70;;;6
+HT-WE2-CRI-COM;HTC;Wildfire E2;Cristal de pantalla;Compatible;3,69;;;6
+HT-WE2-ANT-COM;HTC;Wildfire E2;Antena / coaxial;Compatible;3,20;;;6
+HT-WE2-HUE-COM;HTC;Wildfire E2;Botón home / huella;Compatible;5,30;;;6
+HT-D20P-MAR-COM;HTC;Desire 20 Pro;Marco / chasis;Compatible;7,20;;;6
+HT-D20P-BOT-COM;HTC;Desire 20 Pro;Botones laterales;Compatible;3,70;;;6
+HT-D20P-CRI-COM;HTC;Desire 20 Pro;Cristal de pantalla;Compatible;3,69;;;6
+HT-D20P-ANT-COM;HTC;Desire 20 Pro;Antena / coaxial;Compatible;3,20;;;6
+HT-D20P-HUE-COM;HTC;Desire 20 Pro;Botón home / huella;Compatible;5,30;;;6
+HT-WR70-MAR-COM;HTC;Wildfire R70;Marco / chasis;Compatible;7,20;;;6
+HT-WR70-BOT-COM;HTC;Wildfire R70;Botones laterales;Compatible;3,70;;;6
+HT-WR70-CRI-COM;HTC;Wildfire R70;Cristal de pantalla;Compatible;3,69;;;6
+HT-WR70-ANT-COM;HTC;Wildfire R70;Antena / coaxial;Compatible;3,20;;;6
+HT-WR70-HUE-COM;HTC;Wildfire R70;Botón home / huella;Compatible;5,30;;;6
+HT-D19S-MAR-COM;HTC;Desire 19s;Marco / chasis;Compatible;6,49;;;6
+HT-D19S-BOT-COM;HTC;Desire 19s;Botones laterales;Compatible;3,35;;;6
+HT-D19S-CRI-COM;HTC;Desire 19s;Cristal de pantalla;Compatible;3,30;;;6
+HT-D19S-ANT-COM;HTC;Desire 19s;Antena / coaxial;Compatible;2,89;;;6
+HT-D19S-HUE-COM;HTC;Desire 19s;Botón home / huella;Compatible;4,79;;;6
+HT-E1S-MAR-COM;HTC;Exodus 1s;Marco / chasis;Compatible;6,49;;;6
+HT-E1S-BOT-COM;HTC;Exodus 1s;Botones laterales;Compatible;3,35;;;6
+HT-E1S-CRI-COM;HTC;Exodus 1s;Cristal de pantalla;Compatible;3,30;;;6
+HT-E1S-ANT-COM;HTC;Exodus 1s;Antena / coaxial;Compatible;2,89;;;6
+HT-E1S-HUE-COM;HTC;Exodus 1s;Botón home / huella;Compatible;4,79;;;6
+HT-WX-MAR-COM;HTC;Wildfire X;Marco / chasis;Compatible;6,49;;;6
+HT-WX-BOT-COM;HTC;Wildfire X;Botones laterales;Compatible;3,35;;;6
+HT-WX-CRI-COM;HTC;Wildfire X;Cristal de pantalla;Compatible;3,30;;;6
+HT-WX-ANT-COM;HTC;Wildfire X;Antena / coaxial;Compatible;2,89;;;6
+HT-WX-HUE-COM;HTC;Wildfire X;Botón home / huella;Compatible;4,79;;;6
+HT-D19PL-MAR-COM;HTC;Desire 19+;Marco / chasis;Compatible;6,49;;;6
+HT-D19PL-BOT-COM;HTC;Desire 19+;Botones laterales;Compatible;3,35;;;6
+HT-D19PL-CRI-COM;HTC;Desire 19+;Cristal de pantalla;Compatible;3,30;;;6
+HT-D19PL-ANT-COM;HTC;Desire 19+;Antena / coaxial;Compatible;2,89;;;6
+HT-D19PL-HUE-COM;HTC;Desire 19+;Botón home / huella;Compatible;4,79;;;6
+HT-U19E-MAR-COM;HTC;U19e;Marco / chasis;Compatible;6,49;;;6
+HT-U19E-BOT-COM;HTC;U19e;Botones laterales;Compatible;3,35;;;6
+HT-U19E-CRI-COM;HTC;U19e;Cristal de pantalla;Compatible;3,30;;;6
+HT-U19E-ANT-COM;HTC;U19e;Antena / coaxial;Compatible;2,89;;;6
+HT-U19E-HUE-COM;HTC;U19e;Botón home / huella;Compatible;4,79;;;6
+HT-D12S-MAR-COM;HTC;Desire 12s;Marco / chasis;Compatible;6,49;;;6
+HT-D12S-BOT-COM;HTC;Desire 12s;Botones laterales;Compatible;3,35;;;6
+HT-D12S-CRI-COM;HTC;Desire 12s;Cristal de pantalla;Compatible;3,30;;;6
+HT-D12S-ANT-COM;HTC;Desire 12s;Antena / coaxial;Compatible;2,89;;;6
+HT-D12S-HUE-COM;HTC;Desire 12s;Botón home / huella;Compatible;4,79;;;6
+HT-E1-MAR-COM;HTC;Exodus 1;Marco / chasis;Compatible;6,49;;;6
+HT-E1-BOT-COM;HTC;Exodus 1;Botones laterales;Compatible;3,35;;;6
+HT-E1-CRI-COM;HTC;Exodus 1;Cristal de pantalla;Compatible;3,30;;;6
+HT-E1-ANT-COM;HTC;Exodus 1;Antena / coaxial;Compatible;2,89;;;6
+HT-E1-HUE-COM;HTC;Exodus 1;Botón home / huella;Compatible;4,79;;;6
+HT-U12L-MAR-COM;HTC;U12 Life;Marco / chasis;Compatible;6,49;;;6
+HT-U12L-BOT-COM;HTC;U12 Life;Botones laterales;Compatible;3,35;;;6
+HT-U12L-CRI-COM;HTC;U12 Life;Cristal de pantalla;Compatible;3,30;;;6
+HT-U12L-ANT-COM;HTC;U12 Life;Antena / coaxial;Compatible;2,89;;;6
+HT-U12L-HUE-COM;HTC;U12 Life;Botón home / huella;Compatible;4,79;;;6
+HT-D12-MAR-COM;HTC;Desire 12;Marco / chasis;Compatible;6,49;;;6
+HT-D12-BOT-COM;HTC;Desire 12;Botones laterales;Compatible;3,35;;;6
+HT-D12-CRI-COM;HTC;Desire 12;Cristal de pantalla;Compatible;3,30;;;6
+HT-D12-ANT-COM;HTC;Desire 12;Antena / coaxial;Compatible;2,89;;;6
+HT-D12-HUE-COM;HTC;Desire 12;Botón home / huella;Compatible;4,79;;;6
+HT-D12PL-MAR-COM;HTC;Desire 12+;Marco / chasis;Compatible;6,49;;;6
+HT-D12PL-BOT-COM;HTC;Desire 12+;Botones laterales;Compatible;3,35;;;6
+HT-D12PL-CRI-COM;HTC;Desire 12+;Cristal de pantalla;Compatible;3,30;;;6
+HT-D12PL-ANT-COM;HTC;Desire 12+;Antena / coaxial;Compatible;2,89;;;6
+HT-D12PL-HUE-COM;HTC;Desire 12+;Botón home / huella;Compatible;4,79;;;6
+HT-U12PL-MAR-COM;HTC;U12+;Marco / chasis;Compatible;6,49;;;6
+HT-U12PL-BOT-COM;HTC;U12+;Botones laterales;Compatible;3,35;;;6
+HT-U12PL-CRI-COM;HTC;U12+;Cristal de pantalla;Compatible;3,30;;;6
+HT-U12PL-ANT-COM;HTC;U12+;Antena / coaxial;Compatible;2,89;;;6
+HT-U12PL-HUE-COM;HTC;U12+;Botón home / huella;Compatible;4,79;;;6
+HT-U11E-MAR-COM;HTC;U11 EYEs;Marco / chasis;Compatible;6,49;;;6
+HT-U11E-BOT-COM;HTC;U11 EYEs;Botones laterales;Compatible;3,35;;;6
+HT-U11E-CRI-COM;HTC;U11 EYEs;Cristal de pantalla;Compatible;3,30;;;6
+HT-U11E-ANT-COM;HTC;U11 EYEs;Antena / coaxial;Compatible;2,89;;;6
+HT-U11E-HUE-COM;HTC;U11 EYEs;Botón home / huella;Compatible;4,79;;;6
+HT-U11PL-MAR-COM;HTC;U11+;Marco / chasis;Compatible;6,49;;;6
+HT-U11PL-BOT-COM;HTC;U11+;Botones laterales;Compatible;3,35;;;6
+HT-U11PL-CRI-COM;HTC;U11+;Cristal de pantalla;Compatible;3,30;;;6
+HT-U11PL-ANT-COM;HTC;U11+;Antena / coaxial;Compatible;2,89;;;6
+HT-U11PL-HUE-COM;HTC;U11+;Botón home / huella;Compatible;4,79;;;6
+HT-ONEX10-MAR-COM;HTC;One X10;Marco / chasis;Compatible;6,49;;;6
+HT-ONEX10-BOT-COM;HTC;One X10;Botones laterales;Compatible;3,35;;;6
+HT-ONEX10-CRI-COM;HTC;One X10;Cristal de pantalla;Compatible;3,30;;;6
+HT-ONEX10-ANT-COM;HTC;One X10;Antena / coaxial;Compatible;2,89;;;6
+HT-ONEX10-HUE-COM;HTC;One X10;Botón home / huella;Compatible;4,79;;;6
+HT-U11-MAR-COM;HTC;U11;Marco / chasis;Compatible;6,49;;;6
+HT-U11-BOT-COM;HTC;U11;Botones laterales;Compatible;3,35;;;6
+HT-U11-CRI-COM;HTC;U11;Cristal de pantalla;Compatible;3,30;;;6
+HT-U11-ANT-COM;HTC;U11;Antena / coaxial;Compatible;2,89;;;6
+HT-U11-HUE-COM;HTC;U11;Botón home / huella;Compatible;4,79;;;6
+HT-UU-MAR-COM;HTC;U Ultra;Marco / chasis;Compatible;6,49;;;6
+HT-UU-BOT-COM;HTC;U Ultra;Botones laterales;Compatible;3,35;;;6
+HT-UU-CRI-COM;HTC;U Ultra;Cristal de pantalla;Compatible;3,30;;;6
+HT-UU-ANT-COM;HTC;U Ultra;Antena / coaxial;Compatible;2,89;;;6
+HT-UU-HUE-COM;HTC;U Ultra;Botón home / huella;Compatible;4,79;;;6
+HT-UPY-MAR-COM;HTC;U Play;Marco / chasis;Compatible;6,49;;;6
+HT-UPY-BOT-COM;HTC;U Play;Botones laterales;Compatible;3,35;;;6
+HT-UPY-CRI-COM;HTC;U Play;Cristal de pantalla;Compatible;3,30;;;6
+HT-UPY-ANT-COM;HTC;U Play;Antena / coaxial;Compatible;2,89;;;6
+HT-UPY-HUE-COM;HTC;U Play;Botón home / huella;Compatible;4,79;;;6
+HT-D10P-MAR-COM;HTC;Desire 10 Pro;Marco / chasis;Compatible;5,75;;;6
+HT-D10P-BOT-COM;HTC;Desire 10 Pro;Botones laterales;Compatible;2,95;;;6
+HT-D10P-CRI-COM;HTC;Desire 10 Pro;Cristal de pantalla;Compatible;2,95;;;6
+HT-D10P-ANT-COM;HTC;Desire 10 Pro;Antena / coaxial;Compatible;2,55;;;6
+HT-D10P-HUE-COM;HTC;Desire 10 Pro;Botón home / huella;Compatible;4,25;;;6
+HT-D650-MAR-COM;HTC;Desire 650;Marco / chasis;Compatible;5,75;;;6
+HT-D650-BOT-COM;HTC;Desire 650;Botones laterales;Compatible;2,95;;;6
+HT-D650-CRI-COM;HTC;Desire 650;Cristal de pantalla;Compatible;2,95;;;6
+HT-D650-ANT-COM;HTC;Desire 650;Antena / coaxial;Compatible;2,55;;;6
+HT-D650-HUE-COM;HTC;Desire 650;Botón home / huella;Compatible;4,25;;;6
+HT-D728U-MAR-COM;HTC;Desire 728 Ultra;Marco / chasis;Compatible;5,75;;;6
+HT-D728U-BOT-COM;HTC;Desire 728 Ultra;Botones laterales;Compatible;2,95;;;6
+HT-D728U-CRI-COM;HTC;Desire 728 Ultra;Cristal de pantalla;Compatible;2,95;;;6
+HT-D728U-ANT-COM;HTC;Desire 728 Ultra;Antena / coaxial;Compatible;2,55;;;6
+HT-D728U-HUE-COM;HTC;Desire 728 Ultra;Botón home / huella;Compatible;4,25;;;6
+HT-10EVO-MAR-COM;HTC;10 evo;Marco / chasis;Compatible;5,75;;;6
+HT-10EVO-BOT-COM;HTC;10 evo;Botones laterales;Compatible;2,95;;;6
+HT-10EVO-CRI-COM;HTC;10 evo;Cristal de pantalla;Compatible;2,95;;;6
+HT-10EVO-ANT-COM;HTC;10 evo;Antena / coaxial;Compatible;2,55;;;6
+HT-10EVO-HUE-COM;HTC;10 evo;Botón home / huella;Compatible;4,25;;;6
+HT-ONEA9S-MAR-COM;HTC;One A9s;Marco / chasis;Compatible;5,75;;;6
+HT-ONEA9S-BOT-COM;HTC;One A9s;Botones laterales;Compatible;2,95;;;6
+HT-ONEA9S-CRI-COM;HTC;One A9s;Cristal de pantalla;Compatible;2,95;;;6
+HT-ONEA9S-ANT-COM;HTC;One A9s;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEA9S-HUE-COM;HTC;One A9s;Botón home / huella;Compatible;4,25;;;6
+HT-D10L-MAR-COM;HTC;Desire 10 Lifestyle;Marco / chasis;Compatible;5,75;;;6
+HT-D10L-BOT-COM;HTC;Desire 10 Lifestyle;Botones laterales;Compatible;2,95;;;6
+HT-D10L-CRI-COM;HTC;Desire 10 Lifestyle;Cristal de pantalla;Compatible;2,95;;;6
+HT-D10L-ANT-COM;HTC;Desire 10 Lifestyle;Antena / coaxial;Compatible;2,55;;;6
+HT-D10L-HUE-COM;HTC;Desire 10 Lifestyle;Botón home / huella;Compatible;4,25;;;6
+HT-D625-MAR-COM;HTC;Desire 625;Marco / chasis;Compatible;5,75;;;6
+HT-D625-BOT-COM;HTC;Desire 625;Botones laterales;Compatible;2,95;;;6
+HT-D625-CRI-COM;HTC;Desire 625;Cristal de pantalla;Compatible;2,95;;;6
+HT-D625-ANT-COM;HTC;Desire 625;Antena / coaxial;Compatible;2,55;;;6
+HT-D625-HUE-COM;HTC;Desire 625;Botón home / huella;Compatible;4,25;;;6
+HT-10L-MAR-COM;HTC;10 Lifestyle;Marco / chasis;Compatible;5,75;;;6
+HT-10L-BOT-COM;HTC;10 Lifestyle;Botones laterales;Compatible;2,95;;;6
+HT-10L-CRI-COM;HTC;10 Lifestyle;Cristal de pantalla;Compatible;2,95;;;6
+HT-10L-ANT-COM;HTC;10 Lifestyle;Antena / coaxial;Compatible;2,55;;;6
+HT-10L-HUE-COM;HTC;10 Lifestyle;Botón home / huella;Compatible;4,25;;;6
+HT-D628-MAR-COM;HTC;Desire 628;Marco / chasis;Compatible;5,75;;;6
+HT-D628-BOT-COM;HTC;Desire 628;Botones laterales;Compatible;2,95;;;6
+HT-D628-CRI-COM;HTC;Desire 628;Cristal de pantalla;Compatible;2,95;;;6
+HT-D628-ANT-COM;HTC;Desire 628;Antena / coaxial;Compatible;2,55;;;6
+HT-D628-HUE-COM;HTC;Desire 628;Botón home / huella;Compatible;4,25;;;6
+HT-D630-MAR-COM;HTC;Desire 630;Marco / chasis;Compatible;5,75;;;6
+HT-D630-BOT-COM;HTC;Desire 630;Botones laterales;Compatible;2,95;;;6
+HT-D630-CRI-COM;HTC;Desire 630;Cristal de pantalla;Compatible;2,95;;;6
+HT-D630-ANT-COM;HTC;Desire 630;Antena / coaxial;Compatible;2,55;;;6
+HT-D630-HUE-COM;HTC;Desire 630;Botón home / huella;Compatible;4,25;;;6
+HT-ONES9-MAR-COM;HTC;One S9;Marco / chasis;Compatible;5,75;;;6
+HT-ONES9-BOT-COM;HTC;One S9;Botones laterales;Compatible;2,95;;;6
+HT-ONES9-CRI-COM;HTC;One S9;Cristal de pantalla;Compatible;2,95;;;6
+HT-ONES9-ANT-COM;HTC;One S9;Antena / coaxial;Compatible;2,55;;;6
+HT-ONES9-HUE-COM;HTC;One S9;Botón home / huella;Compatible;4,25;;;6
+HT-D830-MAR-COM;HTC;Desire 830;Marco / chasis;Compatible;5,75;;;6
+HT-D830-BOT-COM;HTC;Desire 830;Botones laterales;Compatible;2,95;;;6
+HT-D830-CRI-COM;HTC;Desire 830;Cristal de pantalla;Compatible;2,95;;;6
+HT-D830-ANT-COM;HTC;Desire 830;Antena / coaxial;Compatible;2,55;;;6
+HT-D830-HUE-COM;HTC;Desire 830;Botón home / huella;Compatible;4,25;;;6
+HT-ONEM9PC-MAR-COM;HTC;One M9 Prime Camera;Marco / chasis;Compatible;5,75;;;6
+HT-ONEM9PC-BOT-COM;HTC;One M9 Prime Camera;Botones laterales;Compatible;2,95;;;6
+HT-ONEM9PC-CRI-COM;HTC;One M9 Prime Camera;Cristal de pantalla;Compatible;2,95;;;6
+HT-ONEM9PC-ANT-COM;HTC;One M9 Prime Camera;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEM9PC-HUE-COM;HTC;One M9 Prime Camera;Botón home / huella;Compatible;4,25;;;6
+HT-D825-MAR-COM;HTC;Desire 825;Marco / chasis;Compatible;5,75;;;6
+HT-D825-BOT-COM;HTC;Desire 825;Botones laterales;Compatible;2,95;;;6
+HT-D825-CRI-COM;HTC;Desire 825;Cristal de pantalla;Compatible;2,95;;;6
+HT-D825-ANT-COM;HTC;Desire 825;Antena / coaxial;Compatible;2,55;;;6
+HT-D825-HUE-COM;HTC;Desire 825;Botón home / huella;Compatible;4,25;;;6
+HT-D530-MAR-COM;HTC;Desire 530;Marco / chasis;Compatible;5,75;;;6
+HT-D530-BOT-COM;HTC;Desire 530;Botones laterales;Compatible;2,95;;;6
+HT-D530-CRI-COM;HTC;Desire 530;Cristal de pantalla;Compatible;2,95;;;6
+HT-D530-ANT-COM;HTC;Desire 530;Antena / coaxial;Compatible;2,55;;;6
+HT-D530-HUE-COM;HTC;Desire 530;Botón home / huella;Compatible;4,25;;;6
+HT-ONEX9-MAR-COM;HTC;One X9;Marco / chasis;Compatible;5,75;;;6
+HT-ONEX9-BOT-COM;HTC;One X9;Botones laterales;Compatible;2,95;;;6
+HT-ONEX9-CRI-COM;HTC;One X9;Cristal de pantalla;Compatible;2,95;;;6
+HT-ONEX9-ANT-COM;HTC;One X9;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEX9-HUE-COM;HTC;One X9;Botón home / huella;Compatible;4,25;;;6
+HT-10-MAR-COM;HTC;10;Marco / chasis;Compatible;5,75;;;6
+HT-10-BOT-COM;HTC;10;Botones laterales;Compatible;2,95;;;6
+HT-10-CRI-COM;HTC;10;Cristal de pantalla;Compatible;2,95;;;6
+HT-10-ANT-COM;HTC;10;Antena / coaxial;Compatible;2,55;;;6
+HT-10-HUE-COM;HTC;10;Botón home / huella;Compatible;4,25;;;6
+HT-D728-MAR-COM;HTC;Desire 728;Marco / chasis;Compatible;5,75;;;6
+HT-D728-BOT-COM;HTC;Desire 728;Botones laterales;Compatible;2,95;;;6
+HT-D728-CRI-COM;HTC;Desire 728;Cristal de pantalla;Compatible;2,95;;;6
+HT-D728-ANT-COM;HTC;Desire 728;Antena / coaxial;Compatible;2,55;;;6
+HT-D828-MAR-COM;HTC;Desire 828;Marco / chasis;Compatible;5,75;;;6
+HT-D828-BOT-COM;HTC;Desire 828;Botones laterales;Compatible;2,95;;;6
+HT-D828-CRI-COM;HTC;Desire 828;Cristal de pantalla;Compatible;2,95;;;6
+HT-D828-ANT-COM;HTC;Desire 828;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEM9S-MAR-COM;HTC;One M9s;Marco / chasis;Compatible;5,75;;;6
+HT-ONEM9S-BOT-COM;HTC;One M9s;Botones laterales;Compatible;2,95;;;6
+HT-ONEM9S-CRI-COM;HTC;One M9s;Cristal de pantalla;Compatible;2,95;;;6
+HT-ONEM9S-ANT-COM;HTC;One M9s;Antena / coaxial;Compatible;2,55;;;6
+HT-B3-MAR-COM;HTC;Butterfly 3;Marco / chasis;Compatible;5,75;;;6
+HT-B3-BOT-COM;HTC;Butterfly 3;Botones laterales;Compatible;2,95;;;6
+HT-B3-CRI-COM;HTC;Butterfly 3;Cristal de pantalla;Compatible;2,95;;;6
+HT-B3-ANT-COM;HTC;Butterfly 3;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEA9-MAR-COM;HTC;One A9;Marco / chasis;Compatible;5,75;;;6
+HT-ONEA9-BOT-COM;HTC;One A9;Botones laterales;Compatible;2,95;;;6
+HT-ONEA9-CRI-COM;HTC;One A9;Cristal de pantalla;Compatible;2,95;;;6
+HT-ONEA9-ANT-COM;HTC;One A9;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEE9S-MAR-COM;HTC;One E9s;Marco / chasis;Compatible;5,75;;;6
+HT-ONEE9S-BOT-COM;HTC;One E9s;Botones laterales;Compatible;2,95;;;6
+HT-ONEE9S-CRI-COM;HTC;One E9s;Cristal de pantalla;Compatible;2,95;;;6
+HT-ONEE9S-ANT-COM;HTC;One E9s;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEM9PLS-MAR-COM;HTC;One M9+ Supreme Camera Edition;Marco / chasis;Compatible;5,75;;;6
+HT-ONEM9PLS-BOT-COM;HTC;One M9+ Supreme Camera Edition;Botones laterales;Compatible;2,95;;;6
+HT-ONEM9PLS-CRI-COM;HTC;One M9+ Supreme Camera Edition;Cristal de pantalla;Compatible;2,95;;;6
+HT-ONEM9PLS-ANT-COM;HTC;One M9+ Supreme Camera Edition;Antena / coaxial;Compatible;2,55;;;6
+HT-D520-MAR-COM;HTC;Desire 520;Marco / chasis;Compatible;5,75;;;6
+HT-D520-BOT-COM;HTC;Desire 520;Botones laterales;Compatible;2,95;;;6
+HT-D520-CRI-COM;HTC;Desire 520;Cristal de pantalla;Compatible;2,95;;;6
+HT-D520-ANT-COM;HTC;Desire 520;Antena / coaxial;Compatible;2,55;;;6
+HT-D526-MAR-COM;HTC;Desire 526;Marco / chasis;Compatible;5,75;;;6
+HT-D526-BOT-COM;HTC;Desire 526;Botones laterales;Compatible;2,95;;;6
+HT-D526-CRI-COM;HTC;Desire 526;Cristal de pantalla;Compatible;2,95;;;6
+HT-D526-ANT-COM;HTC;Desire 526;Antena / coaxial;Compatible;2,55;;;6
+HT-D626-MAR-COM;HTC;Desire 626;Marco / chasis;Compatible;5,75;;;6
+HT-D626-BOT-COM;HTC;Desire 626;Botones laterales;Compatible;2,95;;;6
+HT-D626-CRI-COM;HTC;Desire 626;Cristal de pantalla;Compatible;2,95;;;6
+HT-D626-ANT-COM;HTC;Desire 626;Antena / coaxial;Compatible;2,55;;;6
+HT-D626S-MAR-COM;HTC;Desire 626s;Marco / chasis;Compatible;5,75;;;6
+HT-D626S-BOT-COM;HTC;Desire 626s;Botones laterales;Compatible;2,95;;;6
+HT-D626S-CRI-COM;HTC;Desire 626s;Cristal de pantalla;Compatible;2,95;;;6
+HT-D626S-ANT-COM;HTC;Desire 626s;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEME-MAR-COM;HTC;One ME;Marco / chasis;Compatible;5,75;;;6
+HT-ONEME-BOT-COM;HTC;One ME;Botones laterales;Compatible;2,95;;;6
+HT-ONEME-CRI-COM;HTC;One ME;Cristal de pantalla;Compatible;2,95;;;6
+HT-ONEME-ANT-COM;HTC;One ME;Antena / coaxial;Compatible;2,55;;;6
+HT-D326G-MAR-COM;HTC;Desire 326G;Marco / chasis;Compatible;5,75;;;6
+HT-D326G-BOT-COM;HTC;Desire 326G;Botones laterales;Compatible;2,95;;;6
+HT-D326G-CRI-COM;HTC;Desire 326G;Cristal de pantalla;Compatible;2,95;;;6
+HT-D326G-ANT-COM;HTC;Desire 326G;Antena / coaxial;Compatible;2,55;;;6
+HT-D820GPL-MAR-COM;HTC;Desire 820G+;Marco / chasis;Compatible;5,75;;;6
+HT-D820GPL-BOT-COM;HTC;Desire 820G+;Botones laterales;Compatible;2,95;;;6
+HT-D820GPL-CRI-COM;HTC;Desire 820G+;Cristal de pantalla;Compatible;2,95;;;6
+HT-D820GPL-ANT-COM;HTC;Desire 820G+;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEE9-MAR-COM;HTC;One E9;Marco / chasis;Compatible;5,75;;;6
+HT-ONEE9-BOT-COM;HTC;One E9;Botones laterales;Compatible;2,95;;;6
+HT-ONEE9-CRI-COM;HTC;One E9;Cristal de pantalla;Compatible;2,95;;;6
+HT-ONEE9-ANT-COM;HTC;One E9;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEE9PL-MAR-COM;HTC;One E9+;Marco / chasis;Compatible;5,75;;;6
+HT-ONEE9PL-BOT-COM;HTC;One E9+;Botones laterales;Compatible;2,95;;;6
+HT-ONEE9PL-CRI-COM;HTC;One E9+;Cristal de pantalla;Compatible;2,95;;;6
+HT-ONEE9PL-ANT-COM;HTC;One E9+;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEM9PL-MAR-COM;HTC;One M9+;Marco / chasis;Compatible;5,75;;;6
+HT-ONEM9PL-BOT-COM;HTC;One M9+;Botones laterales;Compatible;2,95;;;6
+HT-ONEM9PL-CRI-COM;HTC;One M9+;Cristal de pantalla;Compatible;2,95;;;6
+HT-ONEM9PL-ANT-COM;HTC;One M9+;Antena / coaxial;Compatible;2,55;;;6
+HT-D626GPL-MAR-COM;HTC;Desire 626G+;Marco / chasis;Compatible;5,75;;;6
+HT-D626GPL-BOT-COM;HTC;Desire 626G+;Botones laterales;Compatible;2,95;;;6
+HT-D626GPL-CRI-COM;HTC;Desire 626G+;Cristal de pantalla;Compatible;2,95;;;6
+HT-D626GPL-ANT-COM;HTC;Desire 626G+;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEM8S-MAR-COM;HTC;One M8s;Marco / chasis;Compatible;5,75;;;6
+HT-ONEM8S-BOT-COM;HTC;One M8s;Botones laterales;Compatible;2,95;;;6
+HT-ONEM8S-CRI-COM;HTC;One M8s;Cristal de pantalla;Compatible;2,95;;;6
+HT-ONEM8S-ANT-COM;HTC;One M8s;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEM9-MAR-COM;HTC;One M9;Marco / chasis;Compatible;5,75;;;6
+HT-ONEM9-BOT-COM;HTC;One M9;Botones laterales;Compatible;2,95;;;6
+HT-ONEM9-CRI-COM;HTC;One M9;Cristal de pantalla;Compatible;2,95;;;6
+HT-ONEM9-ANT-COM;HTC;One M9;Antena / coaxial;Compatible;2,55;;;6
+HT-D820S-MAR-COM;HTC;Desire 820s;Marco / chasis;Compatible;5,75;;;6
+HT-D820S-BOT-COM;HTC;Desire 820s;Botones laterales;Compatible;2,95;;;6
+HT-D820S-CRI-COM;HTC;Desire 820s;Cristal de pantalla;Compatible;2,95;;;6
+HT-D820S-ANT-COM;HTC;Desire 820s;Antena / coaxial;Compatible;2,55;;;6
+HT-D826-MAR-COM;HTC;Desire 826;Marco / chasis;Compatible;5,75;;;6
+HT-D826-BOT-COM;HTC;Desire 826;Botones laterales;Compatible;2,95;;;6
+HT-D826-CRI-COM;HTC;Desire 826;Cristal de pantalla;Compatible;2,95;;;6
+HT-D826-ANT-COM;HTC;Desire 826;Antena / coaxial;Compatible;2,55;;;6
+HT-D320-MAR-COM;HTC;Desire 320;Marco / chasis;Compatible;5,75;;;6
+HT-D320-BOT-COM;HTC;Desire 320;Botones laterales;Compatible;2,95;;;6
+HT-D320-CRI-COM;HTC;Desire 320;Cristal de pantalla;Compatible;2,95;;;6
+HT-D320-ANT-COM;HTC;Desire 320;Antena / coaxial;Compatible;2,55;;;6
+HT-D526GPL-MAR-COM;HTC;Desire 526G+;Marco / chasis;Compatible;5,75;;;6
+HT-D526GPL-BOT-COM;HTC;Desire 526G+;Botones laterales;Compatible;2,95;;;6
+HT-D526GPL-CRI-COM;HTC;Desire 526G+;Cristal de pantalla;Compatible;2,95;;;6
+HT-D526GPL-ANT-COM;HTC;Desire 526G+;Antena / coaxial;Compatible;2,55;;;6
+HT-D620-MAR-COM;HTC;Desire 620;Marco / chasis;Compatible;5,75;;;6
+HT-D620-BOT-COM;HTC;Desire 620;Botones laterales;Compatible;2,95;;;6
+HT-D620-ANT-COM;HTC;Desire 620;Antena / coaxial;Compatible;2,55;;;6
+HT-D820-MAR-COM;HTC;Desire 820;Marco / chasis;Compatible;5,75;;;6
+HT-D820-BOT-COM;HTC;Desire 820;Botones laterales;Compatible;2,95;;;6
+HT-D820-ANT-COM;HTC;Desire 820;Antena / coaxial;Compatible;2,55;;;6
+HT-D612-MAR-COM;HTC;Desire 612;Marco / chasis;Compatible;5,75;;;6
+HT-D612-BOT-COM;HTC;Desire 612;Botones laterales;Compatible;2,95;;;6
+HT-D612-ANT-COM;HTC;Desire 612;Antena / coaxial;Compatible;2,55;;;6
+HT-D816G-MAR-COM;HTC;Desire 816G;Marco / chasis;Compatible;5,75;;;6
+HT-D816G-BOT-COM;HTC;Desire 816G;Botones laterales;Compatible;2,95;;;6
+HT-D816G-ANT-COM;HTC;Desire 816G;Antena / coaxial;Compatible;2,55;;;6
+HT-D820Q-MAR-COM;HTC;Desire 820q;Marco / chasis;Compatible;5,75;;;6
+HT-D820Q-BOT-COM;HTC;Desire 820q;Botones laterales;Compatible;2,95;;;6
+HT-D820Q-ANT-COM;HTC;Desire 820q;Antena / coaxial;Compatible;2,55;;;6
+HT-D820QDSI-MAR-COM;HTC;Desire 820q dual sim;Marco / chasis;Compatible;5,75;;;6
+HT-D820QDSI-BOT-COM;HTC;Desire 820q dual sim;Botones laterales;Compatible;2,95;;;6
+HT-D820QDSI-ANT-COM;HTC;Desire 820q dual sim;Antena / coaxial;Compatible;2,55;;;6
+HT-DEYE-MAR-COM;HTC;Desire Eye;Marco / chasis;Compatible;5,75;;;6
+HT-DEYE-BOT-COM;HTC;Desire Eye;Botones laterales;Compatible;2,95;;;6
+HT-DEYE-ANT-COM;HTC;Desire Eye;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEM8EYE-MAR-COM;HTC;One (M8 Eye);Marco / chasis;Compatible;5,75;;;6
+HT-ONEM8EYE-BOT-COM;HTC;One (M8 Eye);Botones laterales;Compatible;2,95;;;6
+HT-ONEM8EYE-ANT-COM;HTC;One (M8 Eye);Antena / coaxial;Compatible;2,55;;;6
+HT-B2-MAR-COM;HTC;Butterfly 2;Marco / chasis;Compatible;5,75;;;6
+HT-B2-BOT-COM;HTC;Butterfly 2;Botones laterales;Compatible;2,95;;;6
+HT-B2-ANT-COM;HTC;Butterfly 2;Antena / coaxial;Compatible;2,55;;;6
+HT-D510-MAR-COM;HTC;Desire 510;Marco / chasis;Compatible;5,75;;;6
+HT-D510-BOT-COM;HTC;Desire 510;Botones laterales;Compatible;2,95;;;6
+HT-D510-ANT-COM;HTC;Desire 510;Antena / coaxial;Compatible;2,55;;;6
+HT-ONER-MAR-COM;HTC;One Remix;Marco / chasis;Compatible;5,75;;;6
+HT-ONER-BOT-COM;HTC;One Remix;Botones laterales;Compatible;2,95;;;6
+HT-ONER-ANT-COM;HTC;One Remix;Antena / coaxial;Compatible;2,55;;;6
+HT-D210-MAR-COM;HTC;Desire 210;Marco / chasis;Compatible;5,75;;;6
+HT-D210-BOT-COM;HTC;Desire 210;Botones laterales;Compatible;2,95;;;6
+HT-D210-ANT-COM;HTC;Desire 210;Antena / coaxial;Compatible;2,55;;;6
+HT-D516-MAR-COM;HTC;Desire 516;Marco / chasis;Compatible;5,75;;;6
+HT-D516-BOT-COM;HTC;Desire 516;Botones laterales;Compatible;2,95;;;6
+HT-D516-ANT-COM;HTC;Desire 516;Antena / coaxial;Compatible;2,55;;;6
+HT-D616-MAR-COM;HTC;Desire 616;Marco / chasis;Compatible;5,75;;;6
+HT-D616-BOT-COM;HTC;Desire 616;Botones laterales;Compatible;2,95;;;6
+HT-D616-ANT-COM;HTC;Desire 616;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEE8-MAR-COM;HTC;One (E8);Marco / chasis;Compatible;5,75;;;6
+HT-ONEE8-BOT-COM;HTC;One (E8);Botones laterales;Compatible;2,95;;;6
+HT-ONEE8-ANT-COM;HTC;One (E8);Antena / coaxial;Compatible;2,55;;;6
+HT-D816DSIM-MAR-COM;HTC;Desire 816 dual sim;Marco / chasis;Compatible;5,75;;;6
+HT-D816DSIM-BOT-COM;HTC;Desire 816 dual sim;Botones laterales;Compatible;2,95;;;6
+HT-D816DSIM-ANT-COM;HTC;Desire 816 dual sim;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEMN2-MAR-COM;HTC;One Mini 2;Marco / chasis;Compatible;5,75;;;6
+HT-ONEMN2-BOT-COM;HTC;One Mini 2;Botones laterales;Compatible;2,95;;;6
+HT-ONEMN2-ANT-COM;HTC;One Mini 2;Antena / coaxial;Compatible;2,55;;;6
+HT-D310-MAR-COM;HTC;Desire 310;Marco / chasis;Compatible;5,75;;;6
+HT-D310-BOT-COM;HTC;Desire 310;Botones laterales;Compatible;2,95;;;6
+HT-D310-ANT-COM;HTC;Desire 310;Antena / coaxial;Compatible;2,55;;;6
+HT-D610-MAR-COM;HTC;Desire 610;Marco / chasis;Compatible;5,75;;;6
+HT-D610-BOT-COM;HTC;Desire 610;Botones laterales;Compatible;2,95;;;6
+HT-D610-ANT-COM;HTC;Desire 610;Antena / coaxial;Compatible;2,55;;;6
+HT-D816-MAR-COM;HTC;Desire 816;Marco / chasis;Compatible;5,75;;;6
+HT-D816-BOT-COM;HTC;Desire 816;Botones laterales;Compatible;2,95;;;6
+HT-D816-ANT-COM;HTC;Desire 816;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEM8-MAR-COM;HTC;One (M8);Marco / chasis;Compatible;5,75;;;6
+HT-ONEM8-BOT-COM;HTC;One (M8);Botones laterales;Compatible;2,95;;;6
+HT-ONEM8-ANT-COM;HTC;One (M8);Antena / coaxial;Compatible;2,55;;;6
+HT-D501-MAR-COM;HTC;Desire 501;Marco / chasis;Compatible;5,75;;;6
+HT-D501-BOT-COM;HTC;Desire 501;Botones laterales;Compatible;2,95;;;6
+HT-D501-ANT-COM;HTC;Desire 501;Antena / coaxial;Compatible;2,55;;;6
+HT-D700-MAR-COM;HTC;Desire 700;Marco / chasis;Compatible;5,75;;;6
+HT-D700-BOT-COM;HTC;Desire 700;Botones laterales;Compatible;2,95;;;6
+HT-D700-ANT-COM;HTC;Desire 700;Antena / coaxial;Compatible;2,55;;;6
+HT-D300-MAR-COM;HTC;Desire 300;Marco / chasis;Compatible;5,75;;;6
+HT-D300-BOT-COM;HTC;Desire 300;Botones laterales;Compatible;2,95;;;6
+HT-D300-ANT-COM;HTC;Desire 300;Antena / coaxial;Compatible;2,55;;;6
+HT-D601DSIM-MAR-COM;HTC;Desire 601 dual sim;Marco / chasis;Compatible;5,75;;;6
+HT-D601DSIM-BOT-COM;HTC;Desire 601 dual sim;Botones laterales;Compatible;2,95;;;6
+HT-D601DSIM-ANT-COM;HTC;Desire 601 dual sim;Antena / coaxial;Compatible;2,55;;;6
+HT-D601-MAR-COM;HTC;Desire 601;Marco / chasis;Compatible;5,75;;;6
+HT-D601-BOT-COM;HTC;Desire 601;Botones laterales;Compatible;2,95;;;6
+HT-D601-ANT-COM;HTC;Desire 601;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEM-MAR-COM;HTC;One Max;Marco / chasis;Compatible;5,75;;;6
+HT-ONEM-BOT-COM;HTC;One Max;Botones laterales;Compatible;2,95;;;6
+HT-ONEM-ANT-COM;HTC;One Max;Antena / coaxial;Compatible;2,55;;;6
+HT-D500-MAR-COM;HTC;Desire 500;Marco / chasis;Compatible;5,75;;;6
+HT-D500-BOT-COM;HTC;Desire 500;Botones laterales;Compatible;2,95;;;6
+HT-D500-ANT-COM;HTC;Desire 500;Antena / coaxial;Compatible;2,55;;;6
+HT-8XT-MAR-COM;HTC;8XT;Marco / chasis;Compatible;5,75;;;6
+HT-8XT-BOT-COM;HTC;8XT;Botones laterales;Compatible;2,95;;;6
+HT-8XT-ANT-COM;HTC;8XT;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEMN-MAR-COM;HTC;One Mini;Marco / chasis;Compatible;5,75;;;6
+HT-ONEMN-BOT-COM;HTC;One Mini;Botones laterales;Compatible;2,95;;;6
+HT-ONEMN-ANT-COM;HTC;One Mini;Antena / coaxial;Compatible;2,55;;;6
+HT-D200-MAR-COM;HTC;Desire 200;Marco / chasis;Compatible;5,75;;;6
+HT-D200-BOT-COM;HTC;Desire 200;Botones laterales;Compatible;2,95;;;6
+HT-D200-ANT-COM;HTC;Desire 200;Antena / coaxial;Compatible;2,55;;;6
+HT-BS-MAR-COM;HTC;Butterfly S;Marco / chasis;Compatible;5,75;;;6
+HT-BS-BOT-COM;HTC;Butterfly S;Botones laterales;Compatible;2,95;;;6
+HT-BS-ANT-COM;HTC;Butterfly S;Antena / coaxial;Compatible;2,55;;;6
+HT-D600-MAR-COM;HTC;Desire 600;Marco / chasis;Compatible;5,75;;;6
+HT-D600-BOT-COM;HTC;Desire 600;Botones laterales;Compatible;2,95;;;6
+HT-D600-ANT-COM;HTC;Desire 600;Antena / coaxial;Compatible;2,55;;;6
+HT-DU-MAR-COM;HTC;Desire U;Marco / chasis;Compatible;5,75;;;6
+HT-DU-BOT-COM;HTC;Desire U;Botones laterales;Compatible;2,95;;;6
+HT-DU-ANT-COM;HTC;Desire U;Antena / coaxial;Compatible;2,55;;;6
+HT-DL-MAR-COM;HTC;Desire L;Marco / chasis;Compatible;5,75;;;6
+HT-DL-BOT-COM;HTC;Desire L;Botones laterales;Compatible;2,95;;;6
+HT-DL-ANT-COM;HTC;Desire L;Antena / coaxial;Compatible;2,55;;;6
+HT-F-MAR-COM;HTC;First;Marco / chasis;Compatible;5,75;;;6
+HT-F-BOT-COM;HTC;First;Botones laterales;Compatible;2,95;;;6
+HT-F-ANT-COM;HTC;First;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEM7-MAR-COM;HTC;One (M7);Marco / chasis;Compatible;5,75;;;6
+HT-ONEM7-BOT-COM;HTC;One (M7);Botones laterales;Compatible;2,95;;;6
+HT-ONEM7-ANT-COM;HTC;One (M7);Antena / coaxial;Compatible;2,55;;;6
+HT-ONESV-MAR-COM;HTC;One SV;Marco / chasis;Compatible;5,75;;;6
+HT-ONESV-BOT-COM;HTC;One SV;Botones laterales;Compatible;2,95;;;6
+HT-ONESV-ANT-COM;HTC;One SV;Antena / coaxial;Compatible;2,55;;;6
+HT-D400-ANT-COM;HTC;Desire 400;Antena / coaxial;Compatible;2,55;;;6
+HT-JB-ANT-COM;HTC;J Butterfly;Antena / coaxial;Compatible;2,55;;;6
+HT-WP8S-ANT-COM;HTC;Windows Phone 8S;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEXPL-ANT-COM;HTC;One X+;Antena / coaxial;Compatible;2,55;;;6
+HT-DSV-ANT-COM;HTC;Desire SV;Antena / coaxial;Compatible;2,55;;;6
+HT-DX-ANT-COM;HTC;Desire X;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEVX-ANT-COM;HTC;One VX;Antena / coaxial;Compatible;2,55;;;6
+HT-DVT-ANT-COM;HTC;Desire VT;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEXC-ANT-COM;HTC;One XC;Antena / coaxial;Compatible;2,55;;;6
+HT-DVC-ANT-COM;HTC;Desire VC;Antena / coaxial;Compatible;2,55;;;6
+HT-DXC-ANT-COM;HTC;Desire XC;Antena / coaxial;Compatible;2,55;;;6
+HT-DI4LTE-ANT-COM;HTC;Droid Incredible 4G LTE;Antena / coaxial;Compatible;2,55;;;6
+HT-DC-ANT-COM;HTC;Desire C;Antena / coaxial;Compatible;2,55;;;6
+HT-DV-ANT-COM;HTC;Desire V;Antena / coaxial;Compatible;2,55;;;6
+HT-ONESC2-ANT-COM;HTC;One S C2;Antena / coaxial;Compatible;2,55;;;6
+HT-EVO4LTE-ANT-COM;HTC;Evo 4G LTE;Antena / coaxial;Compatible;2,55;;;6
+HT-J-ANT-COM;HTC;J;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEXXL-ANT-COM;HTC;One X XL;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEV-ANT-COM;HTC;One V;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEX-ANT-COM;HTC;One X;Antena / coaxial;Compatible;2,55;;;6
+HT-ONEXL-ANT-COM;HTC;One XL;Antena / coaxial;Compatible;2,55;;;6
+HT-TII-ANT-COM;HTC;Titan II;Antena / coaxial;Compatible;2,55;;;6
+HT-ONES-ANT-COM;HTC;One S;Antena / coaxial;Compatible;2,55;;;6
+HT-T4-ANT-COM;HTC;Titan 4G;Antena / coaxial;Compatible;2,55;;;6
+HT-B-ANT-COM;HTC;Butterfly;Antena / coaxial;Compatible;2,55;;;6
+HT-WP8X-ANT-COM;HTC;Windows Phone 8X;Antena / coaxial;Compatible;2,55;;;6

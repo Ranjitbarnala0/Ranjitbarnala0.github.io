@@ -1,0 +1,168 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+AC-JP-PAN-INC;Acer;Jade Primo;Pantalla;Incell;17,69;17,16;16,63;6
+AC-JP-BAT-COM;Acer;Jade Primo;Batería;Compatible;9,65;;;6
+AC-JP-CON-COM;Acer;Jade Primo;Conector de carga;Compatible;4,60;;;6
+AC-JP-TAP-COM;Acer;Jade Primo;Tapa trasera;Compatible;5,40;;;6
+AC-JP-CTR-COM;Acer;Jade Primo;Cámara trasera;Compatible;7,59;;;6
+AC-JP-CFR-COM;Acer;Jade Primo;Cámara frontal;Compatible;4,99;;;6
+AC-JP-LEN-COM;Acer;Jade Primo;Lente de cámara;Compatible;2,19;;;6
+AC-JP-ALT-COM;Acer;Jade Primo;Altavoz;Compatible;3,65;;;6
+AC-JP-AUR-COM;Acer;Jade Primo;Auricular de llamada;Compatible;2,65;;;6
+AC-JP-FLX-COM;Acer;Jade Primo;Flex de encendido y volumen;Compatible;2,49;;;6
+AC-JP-SIM-COM;Acer;Jade Primo;Bandeja SIM;Compatible;2,55;;;6
+AC-LM320-PAN-COM;Acer;Liquid M320;Pantalla;Compatible;15,15;14,70;14,24;6
+AC-LM320-BAT-COM;Acer;Liquid M320;Batería;Compatible;9,65;;;6
+AC-LM320-CON-COM;Acer;Liquid M320;Conector de carga;Compatible;4,60;;;6
+AC-LM320-TAP-COM;Acer;Liquid M320;Tapa trasera;Compatible;5,40;;;6
+AC-LM320-CTR-COM;Acer;Liquid M320;Cámara trasera;Compatible;7,59;;;6
+AC-LM320-CFR-COM;Acer;Liquid M320;Cámara frontal;Compatible;4,99;;;6
+AC-LM320-LEN-COM;Acer;Liquid M320;Lente de cámara;Compatible;2,19;;;6
+AC-LM320-ALT-COM;Acer;Liquid M320;Altavoz;Compatible;3,65;;;6
+AC-LM320-AUR-COM;Acer;Liquid M320;Auricular de llamada;Compatible;2,65;;;6
+AC-LM320-FLX-COM;Acer;Liquid M320;Flex de encendido y volumen;Compatible;2,49;;;6
+AC-LM320-SIM-COM;Acer;Liquid M320;Bandeja SIM;Compatible;2,55;;;6
+AC-LM330-PAN-COM;Acer;Liquid M330;Pantalla;Compatible;15,15;14,70;14,24;6
+AC-LM330-BAT-COM;Acer;Liquid M330;Batería;Compatible;9,65;;;6
+AC-LM330-CON-COM;Acer;Liquid M330;Conector de carga;Compatible;4,60;;;6
+AC-LM330-TAP-COM;Acer;Liquid M330;Tapa trasera;Compatible;5,40;;;6
+AC-LM330-CTR-COM;Acer;Liquid M330;Cámara trasera;Compatible;7,59;;;6
+AC-LM330-CFR-COM;Acer;Liquid M330;Cámara frontal;Compatible;4,99;;;6
+AC-LM330-LEN-COM;Acer;Liquid M330;Lente de cámara;Compatible;2,19;;;6
+AC-LM330-ALT-COM;Acer;Liquid M330;Altavoz;Compatible;3,65;;;6
+AC-LM330-AUR-COM;Acer;Liquid M330;Auricular de llamada;Compatible;2,65;;;6
+AC-LM330-FLX-COM;Acer;Liquid M330;Flex de encendido y volumen;Compatible;2,49;;;6
+AC-LM330-SIM-COM;Acer;Liquid M330;Bandeja SIM;Compatible;2,55;;;6
+AC-LZ630-PAN-COM;Acer;Liquid Z630;Pantalla;Compatible;15,15;14,70;14,24;6
+AC-LZ630-BAT-COM;Acer;Liquid Z630;Batería;Compatible;9,65;;;6
+AC-LZ630-CON-COM;Acer;Liquid Z630;Conector de carga;Compatible;4,60;;;6
+AC-LZ630-TAP-COM;Acer;Liquid Z630;Tapa trasera;Compatible;5,40;;;6
+AC-LZ630-CTR-COM;Acer;Liquid Z630;Cámara trasera;Compatible;7,59;;;6
+AC-LZ630-CFR-COM;Acer;Liquid Z630;Cámara frontal;Compatible;4,99;;;6
+AC-LZ630-LEN-COM;Acer;Liquid Z630;Lente de cámara;Compatible;2,19;;;6
+AC-LZ630-ALT-COM;Acer;Liquid Z630;Altavoz;Compatible;3,65;;;6
+AC-LZ630-AUR-COM;Acer;Liquid Z630;Auricular de llamada;Compatible;2,65;;;6
+AC-LZ630-FLX-COM;Acer;Liquid Z630;Flex de encendido y volumen;Compatible;2,49;;;6
+AC-LZ630-SIM-COM;Acer;Liquid Z630;Bandeja SIM;Compatible;2,55;;;6
+AC-LM220-PAN-COM;Acer;Liquid M220;Pantalla;Compatible;15,15;14,70;14,24;6
+AC-LM220-BAT-COM;Acer;Liquid M220;Batería;Compatible;9,65;;;6
+AC-LM220-CON-COM;Acer;Liquid M220;Conector de carga;Compatible;4,60;;;6
+AC-LM220-TAP-COM;Acer;Liquid M220;Tapa trasera;Compatible;5,40;;;6
+AC-LM220-CTR-COM;Acer;Liquid M220;Cámara trasera;Compatible;7,59;;;6
+AC-LM220-CFR-COM;Acer;Liquid M220;Cámara frontal;Compatible;4,99;;;6
+AC-LM220-LEN-COM;Acer;Liquid M220;Lente de cámara;Compatible;2,19;;;6
+AC-LM220-ALT-COM;Acer;Liquid M220;Altavoz;Compatible;3,65;;;6
+AC-LM220-AUR-COM;Acer;Liquid M220;Auricular de llamada;Compatible;2,65;;;6
+AC-LM220-FLX-COM;Acer;Liquid M220;Flex de encendido y volumen;Compatible;2,49;;;6
+AC-LM220-SIM-COM;Acer;Liquid M220;Bandeja SIM;Compatible;2,55;;;6
+AC-LZ520-PAN-COM;Acer;Liquid Z520;Pantalla;Compatible;15,15;14,70;14,24;6
+AC-LZ520-BAT-COM;Acer;Liquid Z520;Batería;Compatible;9,65;;;6
+AC-LZ520-CON-COM;Acer;Liquid Z520;Conector de carga;Compatible;4,60;;;6
+AC-LZ520-TAP-COM;Acer;Liquid Z520;Tapa trasera;Compatible;5,40;;;6
+AC-LZ520-CTR-COM;Acer;Liquid Z520;Cámara trasera;Compatible;7,59;;;6
+AC-LZ520-CFR-COM;Acer;Liquid Z520;Cámara frontal;Compatible;4,99;;;6
+AC-LZ520-LEN-COM;Acer;Liquid Z520;Lente de cámara;Compatible;2,19;;;6
+AC-LZ520-ALT-COM;Acer;Liquid Z520;Altavoz;Compatible;3,65;;;6
+AC-LZ520-AUR-COM;Acer;Liquid Z520;Auricular de llamada;Compatible;2,65;;;6
+AC-LZ520-FLX-COM;Acer;Liquid Z520;Flex de encendido y volumen;Compatible;2,49;;;6
+AC-LZ520-SIM-COM;Acer;Liquid Z520;Bandeja SIM;Compatible;2,55;;;6
+AC-LZ5-PAN-COM;Acer;Liquid Z5;Pantalla;Compatible;15,15;14,70;14,24;6
+AC-LZ5-BAT-COM;Acer;Liquid Z5;Batería;Compatible;9,65;;;6
+AC-LZ5-CON-COM;Acer;Liquid Z5;Conector de carga;Compatible;4,60;;;6
+AC-LZ5-TAP-COM;Acer;Liquid Z5;Tapa trasera;Compatible;5,40;;;6
+AC-LZ5-CTR-COM;Acer;Liquid Z5;Cámara trasera;Compatible;7,59;;;6
+AC-LZ5-CFR-COM;Acer;Liquid Z5;Cámara frontal;Compatible;4,99;;;6
+AC-LZ5-LEN-COM;Acer;Liquid Z5;Lente de cámara;Compatible;2,19;;;6
+AC-LZ5-ALT-COM;Acer;Liquid Z5;Altavoz;Compatible;3,65;;;6
+AC-LZ5-AUR-COM;Acer;Liquid Z5;Auricular de llamada;Compatible;2,65;;;6
+AC-LZ5-FLX-COM;Acer;Liquid Z5;Flex de encendido y volumen;Compatible;2,49;;;6
+AC-LZ5-SIM-COM;Acer;Liquid Z5;Bandeja SIM;Compatible;2,55;;;6
+AC-CS500-PAN-COM;Acer;CloudMobile S500;Pantalla;Compatible;15,15;14,70;14,24;6
+AC-CS500-BAT-COM;Acer;CloudMobile S500;Batería;Compatible;9,65;;;6
+AC-CS500-CON-COM;Acer;CloudMobile S500;Conector de carga;Compatible;4,60;;;6
+AC-CS500-TAP-COM;Acer;CloudMobile S500;Tapa trasera;Compatible;5,40;;;6
+AC-CS500-CTR-COM;Acer;CloudMobile S500;Cámara trasera;Compatible;7,59;;;6
+AC-CS500-CFR-COM;Acer;CloudMobile S500;Cámara frontal;Compatible;4,99;;;6
+AC-CS500-LEN-COM;Acer;CloudMobile S500;Lente de cámara;Compatible;2,19;;;6
+AC-CS500-ALT-COM;Acer;CloudMobile S500;Altavoz;Compatible;3,65;;;6
+AC-CS500-AUR-COM;Acer;CloudMobile S500;Auricular de llamada;Compatible;2,65;;;6
+AC-CS500-FLX-COM;Acer;CloudMobile S500;Flex de encendido y volumen;Compatible;2,49;;;6
+AC-CS500-SIM-COM;Acer;CloudMobile S500;Bandeja SIM;Compatible;2,55;;;6
+AC-JP-PRO-NA;Acer;Jade Primo;Cristal templado;Estándar;1,30;;;
+AC-JP-PRO-PRI;Acer;Jade Primo;Cristal templado;Privacidad;4,00;;;
+AC-JP-FUN-SIL;Acer;Jade Primo;Funda;Silicona;2,50;;;
+AC-JP-FUN-TPU;Acer;Jade Primo;Funda;Transparente;2,95;;;
+AC-JP-FUN-LIB;Acer;Jade Primo;Funda;Libro;3,70;;;
+AC-JP-FUN-ANT;Acer;Jade Primo;Funda;Antigolpes;3,10;;;
+AC-LM320-PRO-NA;Acer;Liquid M320;Cristal templado;Estándar;1,30;;;
+AC-LM320-PRO-PRI;Acer;Liquid M320;Cristal templado;Privacidad;4,00;;;
+AC-LM320-FUN-SIL;Acer;Liquid M320;Funda;Silicona;2,50;;;
+AC-LM320-FUN-TPU;Acer;Liquid M320;Funda;Transparente;2,95;;;
+AC-LM320-FUN-LIB;Acer;Liquid M320;Funda;Libro;3,70;;;
+AC-LM320-FUN-ANT;Acer;Liquid M320;Funda;Antigolpes;3,10;;;
+AC-LM330-PRO-NA;Acer;Liquid M330;Cristal templado;Estándar;1,30;;;
+AC-LM330-PRO-PRI;Acer;Liquid M330;Cristal templado;Privacidad;4,00;;;
+AC-LM330-FUN-SIL;Acer;Liquid M330;Funda;Silicona;2,50;;;
+AC-LM330-FUN-TPU;Acer;Liquid M330;Funda;Transparente;2,95;;;
+AC-LM330-FUN-LIB;Acer;Liquid M330;Funda;Libro;3,70;;;
+AC-LM330-FUN-ANT;Acer;Liquid M330;Funda;Antigolpes;3,10;;;
+AC-LZ630-PRO-NA;Acer;Liquid Z630;Cristal templado;Estándar;1,30;;;
+AC-LZ630-PRO-PRI;Acer;Liquid Z630;Cristal templado;Privacidad;4,00;;;
+AC-LZ630-FUN-SIL;Acer;Liquid Z630;Funda;Silicona;2,50;;;
+AC-LZ630-FUN-TPU;Acer;Liquid Z630;Funda;Transparente;2,95;;;
+AC-LZ630-FUN-LIB;Acer;Liquid Z630;Funda;Libro;3,70;;;
+AC-LZ630-FUN-ANT;Acer;Liquid Z630;Funda;Antigolpes;3,10;;;
+AC-LM220-PRO-NA;Acer;Liquid M220;Cristal templado;Estándar;1,30;;;
+AC-LM220-PRO-PRI;Acer;Liquid M220;Cristal templado;Privacidad;4,00;;;
+AC-LM220-FUN-SIL;Acer;Liquid M220;Funda;Silicona;2,50;;;
+AC-LM220-FUN-TPU;Acer;Liquid M220;Funda;Transparente;2,95;;;
+AC-LM220-FUN-LIB;Acer;Liquid M220;Funda;Libro;3,70;;;
+AC-LM220-FUN-ANT;Acer;Liquid M220;Funda;Antigolpes;3,10;;;
+AC-LZ520-PRO-NA;Acer;Liquid Z520;Cristal templado;Estándar;1,30;;;
+AC-LZ520-PRO-PRI;Acer;Liquid Z520;Cristal templado;Privacidad;4,00;;;
+AC-LZ520-FUN-SIL;Acer;Liquid Z520;Funda;Silicona;2,50;;;
+AC-LZ520-FUN-TPU;Acer;Liquid Z520;Funda;Transparente;2,95;;;
+AC-LZ520-FUN-LIB;Acer;Liquid Z520;Funda;Libro;3,70;;;
+AC-LZ520-FUN-ANT;Acer;Liquid Z520;Funda;Antigolpes;3,10;;;
+AC-LZ5-PRO-NA;Acer;Liquid Z5;Cristal templado;Estándar;1,30;;;
+AC-LZ5-PRO-PRI;Acer;Liquid Z5;Cristal templado;Privacidad;4,00;;;
+AC-LZ5-FUN-SIL;Acer;Liquid Z5;Funda;Silicona;2,50;;;
+AC-LZ5-FUN-TPU;Acer;Liquid Z5;Funda;Transparente;2,95;;;
+AC-LZ5-FUN-LIB;Acer;Liquid Z5;Funda;Libro;3,70;;;
+AC-LZ5-FUN-ANT;Acer;Liquid Z5;Funda;Antigolpes;3,10;;;
+AC-CS500-PRO-NA;Acer;CloudMobile S500;Cristal templado;Estándar;1,30;;;
+AC-CS500-PRO-PRI;Acer;CloudMobile S500;Cristal templado;Privacidad;4,00;;;
+AC-CS500-FUN-SIL;Acer;CloudMobile S500;Funda;Silicona;2,50;;;
+AC-CS500-FUN-TPU;Acer;CloudMobile S500;Funda;Transparente;2,95;;;
+AC-CS500-FUN-LIB;Acer;CloudMobile S500;Funda;Libro;3,70;;;
+AC-CS500-FUN-ANT;Acer;CloudMobile S500;Funda;Antigolpes;3,10;;;
+AC-JP-MAR-COM;Acer;Jade Primo;Marco / chasis;Compatible;5,75;;;6
+AC-JP-BOT-COM;Acer;Jade Primo;Botones laterales;Compatible;2,95;;;6
+AC-JP-CRI-COM;Acer;Jade Primo;Cristal de pantalla;Compatible;2,95;;;6
+AC-JP-ANT-COM;Acer;Jade Primo;Antena / coaxial;Compatible;2,55;;;6
+AC-JP-HUE-COM;Acer;Jade Primo;Botón home / huella;Compatible;4,25;;;6
+AC-LM320-MAR-COM;Acer;Liquid M320;Marco / chasis;Compatible;5,75;;;6
+AC-LM320-BOT-COM;Acer;Liquid M320;Botones laterales;Compatible;2,95;;;6
+AC-LM320-CRI-COM;Acer;Liquid M320;Cristal de pantalla;Compatible;2,95;;;6
+AC-LM320-ANT-COM;Acer;Liquid M320;Antena / coaxial;Compatible;2,55;;;6
+AC-LM320-HUE-COM;Acer;Liquid M320;Botón home / huella;Compatible;4,25;;;6
+AC-LM330-MAR-COM;Acer;Liquid M330;Marco / chasis;Compatible;5,75;;;6
+AC-LM330-BOT-COM;Acer;Liquid M330;Botones laterales;Compatible;2,95;;;6
+AC-LM330-CRI-COM;Acer;Liquid M330;Cristal de pantalla;Compatible;2,95;;;6
+AC-LM330-ANT-COM;Acer;Liquid M330;Antena / coaxial;Compatible;2,55;;;6
+AC-LM330-HUE-COM;Acer;Liquid M330;Botón home / huella;Compatible;4,25;;;6
+AC-LZ630-MAR-COM;Acer;Liquid Z630;Marco / chasis;Compatible;5,75;;;6
+AC-LZ630-BOT-COM;Acer;Liquid Z630;Botones laterales;Compatible;2,95;;;6
+AC-LZ630-CRI-COM;Acer;Liquid Z630;Cristal de pantalla;Compatible;2,95;;;6
+AC-LZ630-ANT-COM;Acer;Liquid Z630;Antena / coaxial;Compatible;2,55;;;6
+AC-LM220-MAR-COM;Acer;Liquid M220;Marco / chasis;Compatible;5,75;;;6
+AC-LM220-BOT-COM;Acer;Liquid M220;Botones laterales;Compatible;2,95;;;6
+AC-LM220-CRI-COM;Acer;Liquid M220;Cristal de pantalla;Compatible;2,95;;;6
+AC-LM220-ANT-COM;Acer;Liquid M220;Antena / coaxial;Compatible;2,55;;;6
+AC-LZ520-MAR-COM;Acer;Liquid Z520;Marco / chasis;Compatible;5,75;;;6
+AC-LZ520-BOT-COM;Acer;Liquid Z520;Botones laterales;Compatible;2,95;;;6
+AC-LZ520-CRI-COM;Acer;Liquid Z520;Cristal de pantalla;Compatible;2,95;;;6
+AC-LZ520-ANT-COM;Acer;Liquid Z520;Antena / coaxial;Compatible;2,55;;;6
+AC-LZ5-MAR-COM;Acer;Liquid Z5;Marco / chasis;Compatible;5,75;;;6
+AC-LZ5-BOT-COM;Acer;Liquid Z5;Botones laterales;Compatible;2,95;;;6
+AC-LZ5-ANT-COM;Acer;Liquid Z5;Antena / coaxial;Compatible;2,55;;;6
+AC-CS500-ANT-COM;Acer;CloudMobile S500;Antena / coaxial;Compatible;2,55;;;6

@@ -1,0 +1,271 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+MC-SDUO2-PAN-INC;Microsoft;Surface Duo 2;Pantalla;Incell;18,79;18,23;17,66;6
+MC-SDUO2-BAT-COM;Microsoft;Surface Duo 2;Batería;Compatible;8,25;;;6
+MC-SDUO2-CON-COM;Microsoft;Surface Duo 2;Conector de carga;Compatible;4,40;;;6
+MC-SDUO2-TAP-COM;Microsoft;Surface Duo 2;Tapa trasera;Compatible;5,55;;;6
+MC-SDUO2-CTR-COM;Microsoft;Surface Duo 2;Cámara trasera;Compatible;6,19;;;6
+MC-SDUO2-CFR-COM;Microsoft;Surface Duo 2;Cámara frontal;Compatible;3,65;;;6
+MC-SDUO2-LEN-COM;Microsoft;Surface Duo 2;Lente de cámara;Compatible;2,20;;;6
+MC-SDUO2-ALT-COM;Microsoft;Surface Duo 2;Altavoz;Compatible;3,35;;;6
+MC-SDUO2-AUR-COM;Microsoft;Surface Duo 2;Auricular de llamada;Compatible;2,40;;;6
+MC-SDUO2-FLX-COM;Microsoft;Surface Duo 2;Flex de encendido y volumen;Compatible;2,29;;;6
+MC-SDUO2-SIM-COM;Microsoft;Surface Duo 2;Bandeja SIM;Compatible;2,60;;;6
+MC-SDUO-PAN-COM;Microsoft;Surface Duo;Pantalla;Compatible;97,20;94,28;91,37;6
+MC-SDUO-BAT-COM;Microsoft;Surface Duo;Batería;Compatible;8,25;;;6
+MC-SDUO-CON-COM;Microsoft;Surface Duo;Conector de carga;Compatible;6,75;;;6
+MC-SDUO-TAP-COM;Microsoft;Surface Duo;Tapa trasera;Compatible;7,89;;;6
+MC-SDUO-CTR-COM;Microsoft;Surface Duo;Cámara trasera;Compatible;9,40;;;6
+MC-SDUO-CFR-COM;Microsoft;Surface Duo;Cámara frontal;Compatible;4,89;;;6
+MC-SDUO-LEN-COM;Microsoft;Surface Duo;Lente de cámara;Compatible;3,20;;;6
+MC-SDUO-ALT-COM;Microsoft;Surface Duo;Altavoz;Compatible;5,15;;;6
+MC-SDUO-AUR-COM;Microsoft;Surface Duo;Auricular de llamada;Compatible;3,55;;;6
+MC-SDUO-FLX-COM;Microsoft;Surface Duo;Flex de encendido y volumen;Compatible;3,35;;;6
+MC-SDUO-SIM-COM;Microsoft;Surface Duo;Bandeja SIM;Compatible;3,85;;;6
+MC-L650-PAN-INC;Microsoft;Lumia 650;Pantalla;Incell;17,69;17,16;16,63;6
+MC-L650-BAT-COM;Microsoft;Lumia 650;Batería;Compatible;9,65;;;6
+MC-L650-CON-COM;Microsoft;Lumia 650;Conector de carga;Compatible;4,60;;;6
+MC-L650-TAP-COM;Microsoft;Lumia 650;Tapa trasera;Compatible;5,40;;;6
+MC-L650-CTR-COM;Microsoft;Lumia 650;Cámara trasera;Compatible;7,59;;;6
+MC-L650-CFR-COM;Microsoft;Lumia 650;Cámara frontal;Compatible;4,99;;;6
+MC-L650-LEN-COM;Microsoft;Lumia 650;Lente de cámara;Compatible;2,19;;;6
+MC-L650-ALT-COM;Microsoft;Lumia 650;Altavoz;Compatible;3,65;;;6
+MC-L650-AUR-COM;Microsoft;Lumia 650;Auricular de llamada;Compatible;2,65;;;6
+MC-L650-FLX-COM;Microsoft;Lumia 650;Flex de encendido y volumen;Compatible;2,49;;;6
+MC-L650-SIM-COM;Microsoft;Lumia 650;Bandeja SIM;Compatible;2,55;;;6
+MC-L550-PAN-COM;Microsoft;Lumia 550;Pantalla;Compatible;15,15;14,70;14,24;6
+MC-L550-BAT-COM;Microsoft;Lumia 550;Batería;Compatible;9,65;;;6
+MC-L550-CON-COM;Microsoft;Lumia 550;Conector de carga;Compatible;4,60;;;6
+MC-L550-TAP-COM;Microsoft;Lumia 550;Tapa trasera;Compatible;5,40;;;6
+MC-L550-CTR-COM;Microsoft;Lumia 550;Cámara trasera;Compatible;7,59;;;6
+MC-L550-CFR-COM;Microsoft;Lumia 550;Cámara frontal;Compatible;4,99;;;6
+MC-L550-LEN-COM;Microsoft;Lumia 550;Lente de cámara;Compatible;2,19;;;6
+MC-L550-ALT-COM;Microsoft;Lumia 550;Altavoz;Compatible;3,65;;;6
+MC-L550-AUR-COM;Microsoft;Lumia 550;Auricular de llamada;Compatible;2,65;;;6
+MC-L550-FLX-COM;Microsoft;Lumia 550;Flex de encendido y volumen;Compatible;2,49;;;6
+MC-L550-SIM-COM;Microsoft;Lumia 550;Bandeja SIM;Compatible;2,55;;;6
+MC-L950-PAN-INC;Microsoft;Lumia 950;Pantalla;Incell;17,69;17,16;16,63;6
+MC-L950-BAT-COM;Microsoft;Lumia 950;Batería;Compatible;9,65;;;6
+MC-L950-CON-COM;Microsoft;Lumia 950;Conector de carga;Compatible;4,60;;;6
+MC-L950-TAP-COM;Microsoft;Lumia 950;Tapa trasera;Compatible;5,40;;;6
+MC-L950-CTR-COM;Microsoft;Lumia 950;Cámara trasera;Compatible;7,59;;;6
+MC-L950-CFR-COM;Microsoft;Lumia 950;Cámara frontal;Compatible;4,99;;;6
+MC-L950-LEN-COM;Microsoft;Lumia 950;Lente de cámara;Compatible;2,19;;;6
+MC-L950-ALT-COM;Microsoft;Lumia 950;Altavoz;Compatible;3,65;;;6
+MC-L950-AUR-COM;Microsoft;Lumia 950;Auricular de llamada;Compatible;2,65;;;6
+MC-L950-FLX-COM;Microsoft;Lumia 950;Flex de encendido y volumen;Compatible;2,49;;;6
+MC-L950-SIM-COM;Microsoft;Lumia 950;Bandeja SIM;Compatible;2,55;;;6
+MC-L950XL-PAN-INC;Microsoft;Lumia 950 XL;Pantalla;Incell;17,69;17,16;16,63;6
+MC-L950XL-BAT-COM;Microsoft;Lumia 950 XL;Batería;Compatible;9,65;;;6
+MC-L950XL-CON-COM;Microsoft;Lumia 950 XL;Conector de carga;Compatible;4,60;;;6
+MC-L950XL-TAP-COM;Microsoft;Lumia 950 XL;Tapa trasera;Compatible;5,40;;;6
+MC-L950XL-CTR-COM;Microsoft;Lumia 950 XL;Cámara trasera;Compatible;7,59;;;6
+MC-L950XL-CFR-COM;Microsoft;Lumia 950 XL;Cámara frontal;Compatible;4,99;;;6
+MC-L950XL-LEN-COM;Microsoft;Lumia 950 XL;Lente de cámara;Compatible;2,19;;;6
+MC-L950XL-ALT-COM;Microsoft;Lumia 950 XL;Altavoz;Compatible;3,65;;;6
+MC-L950XL-AUR-COM;Microsoft;Lumia 950 XL;Auricular de llamada;Compatible;2,65;;;6
+MC-L950XL-FLX-COM;Microsoft;Lumia 950 XL;Flex de encendido y volumen;Compatible;2,49;;;6
+MC-L950XL-SIM-COM;Microsoft;Lumia 950 XL;Bandeja SIM;Compatible;2,55;;;6
+MC-L540-PAN-COM;Microsoft;Lumia 540;Pantalla;Compatible;15,15;14,70;14,24;6
+MC-L540-BAT-COM;Microsoft;Lumia 540;Batería;Compatible;9,65;;;6
+MC-L540-CON-COM;Microsoft;Lumia 540;Conector de carga;Compatible;4,60;;;6
+MC-L540-TAP-COM;Microsoft;Lumia 540;Tapa trasera;Compatible;5,40;;;6
+MC-L540-CTR-COM;Microsoft;Lumia 540;Cámara trasera;Compatible;7,59;;;6
+MC-L540-CFR-COM;Microsoft;Lumia 540;Cámara frontal;Compatible;4,99;;;6
+MC-L540-LEN-COM;Microsoft;Lumia 540;Lente de cámara;Compatible;2,19;;;6
+MC-L540-ALT-COM;Microsoft;Lumia 540;Altavoz;Compatible;3,65;;;6
+MC-L540-AUR-COM;Microsoft;Lumia 540;Auricular de llamada;Compatible;2,65;;;6
+MC-L540-FLX-COM;Microsoft;Lumia 540;Flex de encendido y volumen;Compatible;2,49;;;6
+MC-L540-SIM-COM;Microsoft;Lumia 540;Bandeja SIM;Compatible;2,55;;;6
+MC-L640XL-PAN-COM;Microsoft;Lumia 640 XL;Pantalla;Compatible;15,15;14,70;14,24;6
+MC-L640XL-BAT-COM;Microsoft;Lumia 640 XL;Batería;Compatible;9,65;;;6
+MC-L640XL-CON-COM;Microsoft;Lumia 640 XL;Conector de carga;Compatible;4,60;;;6
+MC-L640XL-TAP-COM;Microsoft;Lumia 640 XL;Tapa trasera;Compatible;5,40;;;6
+MC-L640XL-CTR-COM;Microsoft;Lumia 640 XL;Cámara trasera;Compatible;7,59;;;6
+MC-L640XL-CFR-COM;Microsoft;Lumia 640 XL;Cámara frontal;Compatible;4,99;;;6
+MC-L640XL-LEN-COM;Microsoft;Lumia 640 XL;Lente de cámara;Compatible;2,19;;;6
+MC-L640XL-ALT-COM;Microsoft;Lumia 640 XL;Altavoz;Compatible;3,65;;;6
+MC-L640XL-AUR-COM;Microsoft;Lumia 640 XL;Auricular de llamada;Compatible;2,65;;;6
+MC-L640XL-FLX-COM;Microsoft;Lumia 640 XL;Flex de encendido y volumen;Compatible;2,49;;;6
+MC-L640XL-SIM-COM;Microsoft;Lumia 640 XL;Bandeja SIM;Compatible;2,55;;;6
+MC-L430-PAN-COM;Microsoft;Lumia 430;Pantalla;Compatible;15,15;14,70;14,24;6
+MC-L430-BAT-COM;Microsoft;Lumia 430;Batería;Compatible;9,65;;;6
+MC-L430-CON-COM;Microsoft;Lumia 430;Conector de carga;Compatible;4,60;;;6
+MC-L430-TAP-COM;Microsoft;Lumia 430;Tapa trasera;Compatible;5,40;;;6
+MC-L430-CTR-COM;Microsoft;Lumia 430;Cámara trasera;Compatible;7,59;;;6
+MC-L430-CFR-COM;Microsoft;Lumia 430;Cámara frontal;Compatible;4,99;;;6
+MC-L430-LEN-COM;Microsoft;Lumia 430;Lente de cámara;Compatible;2,19;;;6
+MC-L430-ALT-COM;Microsoft;Lumia 430;Altavoz;Compatible;3,65;;;6
+MC-L430-AUR-COM;Microsoft;Lumia 430;Auricular de llamada;Compatible;2,65;;;6
+MC-L430-FLX-COM;Microsoft;Lumia 430;Flex de encendido y volumen;Compatible;2,49;;;6
+MC-L430-SIM-COM;Microsoft;Lumia 430;Bandeja SIM;Compatible;2,55;;;6
+MC-L640-PAN-COM;Microsoft;Lumia 640;Pantalla;Compatible;15,15;14,70;14,24;6
+MC-L640-BAT-COM;Microsoft;Lumia 640;Batería;Compatible;9,65;;;6
+MC-L640-CON-COM;Microsoft;Lumia 640;Conector de carga;Compatible;4,60;;;6
+MC-L640-TAP-COM;Microsoft;Lumia 640;Tapa trasera;Compatible;5,40;;;6
+MC-L640-CTR-COM;Microsoft;Lumia 640;Cámara trasera;Compatible;7,59;;;6
+MC-L640-CFR-COM;Microsoft;Lumia 640;Cámara frontal;Compatible;4,99;;;6
+MC-L640-LEN-COM;Microsoft;Lumia 640;Lente de cámara;Compatible;2,19;;;6
+MC-L640-ALT-COM;Microsoft;Lumia 640;Altavoz;Compatible;3,65;;;6
+MC-L640-AUR-COM;Microsoft;Lumia 640;Auricular de llamada;Compatible;2,65;;;6
+MC-L640-FLX-COM;Microsoft;Lumia 640;Flex de encendido y volumen;Compatible;2,49;;;6
+MC-L640-SIM-COM;Microsoft;Lumia 640;Bandeja SIM;Compatible;2,55;;;6
+MC-L435-PAN-COM;Microsoft;Lumia 435;Pantalla;Compatible;15,15;14,70;14,24;6
+MC-L435-BAT-COM;Microsoft;Lumia 435;Batería;Compatible;9,65;;;6
+MC-L435-CON-COM;Microsoft;Lumia 435;Conector de carga;Compatible;4,60;;;6
+MC-L435-TAP-COM;Microsoft;Lumia 435;Tapa trasera;Compatible;5,40;;;6
+MC-L435-CTR-COM;Microsoft;Lumia 435;Cámara trasera;Compatible;7,59;;;6
+MC-L435-CFR-COM;Microsoft;Lumia 435;Cámara frontal;Compatible;4,99;;;6
+MC-L435-LEN-COM;Microsoft;Lumia 435;Lente de cámara;Compatible;2,19;;;6
+MC-L435-ALT-COM;Microsoft;Lumia 435;Altavoz;Compatible;3,65;;;6
+MC-L435-AUR-COM;Microsoft;Lumia 435;Auricular de llamada;Compatible;2,65;;;6
+MC-L435-FLX-COM;Microsoft;Lumia 435;Flex de encendido y volumen;Compatible;2,49;;;6
+MC-L435-SIM-COM;Microsoft;Lumia 435;Bandeja SIM;Compatible;2,55;;;6
+MC-L532-PAN-COM;Microsoft;Lumia 532;Pantalla;Compatible;15,15;14,70;14,24;6
+MC-L532-BAT-COM;Microsoft;Lumia 532;Batería;Compatible;9,65;;;6
+MC-L532-CON-COM;Microsoft;Lumia 532;Conector de carga;Compatible;4,60;;;6
+MC-L532-TAP-COM;Microsoft;Lumia 532;Tapa trasera;Compatible;5,40;;;6
+MC-L532-CTR-COM;Microsoft;Lumia 532;Cámara trasera;Compatible;7,59;;;6
+MC-L532-CFR-COM;Microsoft;Lumia 532;Cámara frontal;Compatible;4,99;;;6
+MC-L532-LEN-COM;Microsoft;Lumia 532;Lente de cámara;Compatible;2,19;;;6
+MC-L532-ALT-COM;Microsoft;Lumia 532;Altavoz;Compatible;3,65;;;6
+MC-L532-AUR-COM;Microsoft;Lumia 532;Auricular de llamada;Compatible;2,65;;;6
+MC-L532-FLX-COM;Microsoft;Lumia 532;Flex de encendido y volumen;Compatible;2,49;;;6
+MC-L532-SIM-COM;Microsoft;Lumia 532;Bandeja SIM;Compatible;2,55;;;6
+MC-L535-PAN-COM;Microsoft;Lumia 535;Pantalla;Compatible;15,15;14,70;14,24;6
+MC-L535-BAT-COM;Microsoft;Lumia 535;Batería;Compatible;9,65;;;6
+MC-L535-CON-COM;Microsoft;Lumia 535;Conector de carga;Compatible;4,60;;;6
+MC-L535-TAP-COM;Microsoft;Lumia 535;Tapa trasera;Compatible;5,40;;;6
+MC-L535-CTR-COM;Microsoft;Lumia 535;Cámara trasera;Compatible;7,59;;;6
+MC-L535-CFR-COM;Microsoft;Lumia 535;Cámara frontal;Compatible;4,99;;;6
+MC-L535-LEN-COM;Microsoft;Lumia 535;Lente de cámara;Compatible;2,19;;;6
+MC-L535-ALT-COM;Microsoft;Lumia 535;Altavoz;Compatible;3,65;;;6
+MC-L535-AUR-COM;Microsoft;Lumia 535;Auricular de llamada;Compatible;2,65;;;6
+MC-L535-FLX-COM;Microsoft;Lumia 535;Flex de encendido y volumen;Compatible;2,49;;;6
+MC-L535-SIM-COM;Microsoft;Lumia 535;Bandeja SIM;Compatible;2,55;;;6
+MC-SDUO2-PRO-NA;Microsoft;Surface Duo 2;Cristal templado;Estándar;1,30;;;
+MC-SDUO2-PRO-PRI;Microsoft;Surface Duo 2;Cristal templado;Privacidad;4,00;;;
+MC-SDUO2-FUN-SIL;Microsoft;Surface Duo 2;Funda;Silicona;2,50;;;
+MC-SDUO2-FUN-TPU;Microsoft;Surface Duo 2;Funda;Transparente;2,95;;;
+MC-SDUO2-FUN-LIB;Microsoft;Surface Duo 2;Funda;Libro;3,70;;;
+MC-SDUO2-FUN-ANT;Microsoft;Surface Duo 2;Funda;Antigolpes;3,10;;;
+MC-SDUO2-PCA-NA;Microsoft;Surface Duo 2;Protector de cámara;Cristal;2,90;;;
+MC-SDUO-PRO-NA;Microsoft;Surface Duo;Cristal templado;Estándar;1,30;;;
+MC-SDUO-FUN-SIL;Microsoft;Surface Duo;Funda;Silicona;2,50;;;
+MC-SDUO-FUN-TPU;Microsoft;Surface Duo;Funda;Transparente;2,95;;;
+MC-L650-PRO-NA;Microsoft;Lumia 650;Cristal templado;Estándar;1,30;;;
+MC-L650-PRO-PRI;Microsoft;Lumia 650;Cristal templado;Privacidad;4,00;;;
+MC-L650-FUN-SIL;Microsoft;Lumia 650;Funda;Silicona;2,50;;;
+MC-L650-FUN-TPU;Microsoft;Lumia 650;Funda;Transparente;2,95;;;
+MC-L650-FUN-LIB;Microsoft;Lumia 650;Funda;Libro;3,70;;;
+MC-L650-FUN-ANT;Microsoft;Lumia 650;Funda;Antigolpes;3,10;;;
+MC-L550-PRO-NA;Microsoft;Lumia 550;Cristal templado;Estándar;1,30;;;
+MC-L550-PRO-PRI;Microsoft;Lumia 550;Cristal templado;Privacidad;4,00;;;
+MC-L550-FUN-SIL;Microsoft;Lumia 550;Funda;Silicona;2,50;;;
+MC-L550-FUN-TPU;Microsoft;Lumia 550;Funda;Transparente;2,95;;;
+MC-L550-FUN-LIB;Microsoft;Lumia 550;Funda;Libro;3,70;;;
+MC-L550-FUN-ANT;Microsoft;Lumia 550;Funda;Antigolpes;3,10;;;
+MC-L950-PRO-NA;Microsoft;Lumia 950;Cristal templado;Estándar;1,30;;;
+MC-L950-PRO-PRI;Microsoft;Lumia 950;Cristal templado;Privacidad;4,00;;;
+MC-L950-FUN-SIL;Microsoft;Lumia 950;Funda;Silicona;2,50;;;
+MC-L950-FUN-TPU;Microsoft;Lumia 950;Funda;Transparente;2,95;;;
+MC-L950-FUN-LIB;Microsoft;Lumia 950;Funda;Libro;3,70;;;
+MC-L950-FUN-ANT;Microsoft;Lumia 950;Funda;Antigolpes;3,10;;;
+MC-L950XL-PRO-NA;Microsoft;Lumia 950 XL;Cristal templado;Estándar;1,30;;;
+MC-L950XL-PRO-PRI;Microsoft;Lumia 950 XL;Cristal templado;Privacidad;4,00;;;
+MC-L950XL-FUN-SIL;Microsoft;Lumia 950 XL;Funda;Silicona;2,50;;;
+MC-L950XL-FUN-TPU;Microsoft;Lumia 950 XL;Funda;Transparente;2,95;;;
+MC-L950XL-FUN-LIB;Microsoft;Lumia 950 XL;Funda;Libro;3,70;;;
+MC-L950XL-FUN-ANT;Microsoft;Lumia 950 XL;Funda;Antigolpes;3,10;;;
+MC-L540-PRO-NA;Microsoft;Lumia 540;Cristal templado;Estándar;1,30;;;
+MC-L540-PRO-PRI;Microsoft;Lumia 540;Cristal templado;Privacidad;4,00;;;
+MC-L540-FUN-SIL;Microsoft;Lumia 540;Funda;Silicona;2,50;;;
+MC-L540-FUN-TPU;Microsoft;Lumia 540;Funda;Transparente;2,95;;;
+MC-L540-FUN-LIB;Microsoft;Lumia 540;Funda;Libro;3,70;;;
+MC-L540-FUN-ANT;Microsoft;Lumia 540;Funda;Antigolpes;3,10;;;
+MC-L640XL-PRO-NA;Microsoft;Lumia 640 XL;Cristal templado;Estándar;1,30;;;
+MC-L640XL-PRO-PRI;Microsoft;Lumia 640 XL;Cristal templado;Privacidad;4,00;;;
+MC-L640XL-FUN-SIL;Microsoft;Lumia 640 XL;Funda;Silicona;2,50;;;
+MC-L640XL-FUN-TPU;Microsoft;Lumia 640 XL;Funda;Transparente;2,95;;;
+MC-L640XL-FUN-LIB;Microsoft;Lumia 640 XL;Funda;Libro;3,70;;;
+MC-L640XL-FUN-ANT;Microsoft;Lumia 640 XL;Funda;Antigolpes;3,10;;;
+MC-L430-PRO-NA;Microsoft;Lumia 430;Cristal templado;Estándar;1,30;;;
+MC-L430-PRO-PRI;Microsoft;Lumia 430;Cristal templado;Privacidad;4,00;;;
+MC-L430-FUN-SIL;Microsoft;Lumia 430;Funda;Silicona;2,50;;;
+MC-L430-FUN-TPU;Microsoft;Lumia 430;Funda;Transparente;2,95;;;
+MC-L430-FUN-LIB;Microsoft;Lumia 430;Funda;Libro;3,70;;;
+MC-L430-FUN-ANT;Microsoft;Lumia 430;Funda;Antigolpes;3,10;;;
+MC-L640-PRO-NA;Microsoft;Lumia 640;Cristal templado;Estándar;1,30;;;
+MC-L640-PRO-PRI;Microsoft;Lumia 640;Cristal templado;Privacidad;4,00;;;
+MC-L640-FUN-SIL;Microsoft;Lumia 640;Funda;Silicona;2,50;;;
+MC-L640-FUN-TPU;Microsoft;Lumia 640;Funda;Transparente;2,95;;;
+MC-L640-FUN-LIB;Microsoft;Lumia 640;Funda;Libro;3,70;;;
+MC-L640-FUN-ANT;Microsoft;Lumia 640;Funda;Antigolpes;3,10;;;
+MC-L435-PRO-NA;Microsoft;Lumia 435;Cristal templado;Estándar;1,30;;;
+MC-L435-PRO-PRI;Microsoft;Lumia 435;Cristal templado;Privacidad;4,00;;;
+MC-L435-FUN-SIL;Microsoft;Lumia 435;Funda;Silicona;2,50;;;
+MC-L435-FUN-TPU;Microsoft;Lumia 435;Funda;Transparente;2,95;;;
+MC-L435-FUN-LIB;Microsoft;Lumia 435;Funda;Libro;3,70;;;
+MC-L435-FUN-ANT;Microsoft;Lumia 435;Funda;Antigolpes;3,10;;;
+MC-L532-PRO-NA;Microsoft;Lumia 532;Cristal templado;Estándar;1,30;;;
+MC-L532-PRO-PRI;Microsoft;Lumia 532;Cristal templado;Privacidad;4,00;;;
+MC-L532-FUN-SIL;Microsoft;Lumia 532;Funda;Silicona;2,50;;;
+MC-L532-FUN-TPU;Microsoft;Lumia 532;Funda;Transparente;2,95;;;
+MC-L532-FUN-LIB;Microsoft;Lumia 532;Funda;Libro;3,70;;;
+MC-L532-FUN-ANT;Microsoft;Lumia 532;Funda;Antigolpes;3,10;;;
+MC-L535-PRO-NA;Microsoft;Lumia 535;Cristal templado;Estándar;1,30;;;
+MC-L535-PRO-PRI;Microsoft;Lumia 535;Cristal templado;Privacidad;4,00;;;
+MC-L535-FUN-SIL;Microsoft;Lumia 535;Funda;Silicona;2,50;;;
+MC-L535-FUN-TPU;Microsoft;Lumia 535;Funda;Transparente;2,95;;;
+MC-L535-FUN-LIB;Microsoft;Lumia 535;Funda;Libro;3,70;;;
+MC-L535-FUN-ANT;Microsoft;Lumia 535;Funda;Antigolpes;3,10;;;
+MC-SDUO2-MAR-COM;Microsoft;Surface Duo 2;Marco / chasis;Compatible;7,20;;;6
+MC-SDUO2-BOT-COM;Microsoft;Surface Duo 2;Botones laterales;Compatible;3,70;;;6
+MC-SDUO2-CRI-COM;Microsoft;Surface Duo 2;Cristal de pantalla;Compatible;3,69;;;6
+MC-SDUO2-ANT-COM;Microsoft;Surface Duo 2;Antena / coaxial;Compatible;3,20;;;6
+MC-SDUO2-HUE-COM;Microsoft;Surface Duo 2;Botón home / huella;Compatible;5,30;;;6
+MC-SDUO-ANT-COM;Microsoft;Surface Duo;Antena / coaxial;Compatible;5,75;;;6
+MC-SDUO-HUE-COM;Microsoft;Surface Duo;Botón home / huella;Compatible;9,55;;;6
+MC-L650-MAR-COM;Microsoft;Lumia 650;Marco / chasis;Compatible;5,75;;;6
+MC-L650-BOT-COM;Microsoft;Lumia 650;Botones laterales;Compatible;2,95;;;6
+MC-L650-CRI-COM;Microsoft;Lumia 650;Cristal de pantalla;Compatible;2,95;;;6
+MC-L650-ANT-COM;Microsoft;Lumia 650;Antena / coaxial;Compatible;2,55;;;6
+MC-L650-HUE-COM;Microsoft;Lumia 650;Botón home / huella;Compatible;4,25;;;6
+MC-L550-MAR-COM;Microsoft;Lumia 550;Marco / chasis;Compatible;5,75;;;6
+MC-L550-BOT-COM;Microsoft;Lumia 550;Botones laterales;Compatible;2,95;;;6
+MC-L550-CRI-COM;Microsoft;Lumia 550;Cristal de pantalla;Compatible;2,95;;;6
+MC-L550-ANT-COM;Microsoft;Lumia 550;Antena / coaxial;Compatible;2,55;;;6
+MC-L950-MAR-COM;Microsoft;Lumia 950;Marco / chasis;Compatible;5,75;;;6
+MC-L950-BOT-COM;Microsoft;Lumia 950;Botones laterales;Compatible;2,95;;;6
+MC-L950-CRI-COM;Microsoft;Lumia 950;Cristal de pantalla;Compatible;2,95;;;6
+MC-L950-ANT-COM;Microsoft;Lumia 950;Antena / coaxial;Compatible;2,55;;;6
+MC-L950XL-MAR-COM;Microsoft;Lumia 950 XL;Marco / chasis;Compatible;5,75;;;6
+MC-L950XL-BOT-COM;Microsoft;Lumia 950 XL;Botones laterales;Compatible;2,95;;;6
+MC-L950XL-CRI-COM;Microsoft;Lumia 950 XL;Cristal de pantalla;Compatible;2,95;;;6
+MC-L950XL-ANT-COM;Microsoft;Lumia 950 XL;Antena / coaxial;Compatible;2,55;;;6
+MC-L540-MAR-COM;Microsoft;Lumia 540;Marco / chasis;Compatible;5,75;;;6
+MC-L540-BOT-COM;Microsoft;Lumia 540;Botones laterales;Compatible;2,95;;;6
+MC-L540-CRI-COM;Microsoft;Lumia 540;Cristal de pantalla;Compatible;2,95;;;6
+MC-L540-ANT-COM;Microsoft;Lumia 540;Antena / coaxial;Compatible;2,55;;;6
+MC-L640XL-MAR-COM;Microsoft;Lumia 640 XL;Marco / chasis;Compatible;5,75;;;6
+MC-L640XL-BOT-COM;Microsoft;Lumia 640 XL;Botones laterales;Compatible;2,95;;;6
+MC-L640XL-CRI-COM;Microsoft;Lumia 640 XL;Cristal de pantalla;Compatible;2,95;;;6
+MC-L640XL-ANT-COM;Microsoft;Lumia 640 XL;Antena / coaxial;Compatible;2,55;;;6
+MC-L430-MAR-COM;Microsoft;Lumia 430;Marco / chasis;Compatible;5,75;;;6
+MC-L430-BOT-COM;Microsoft;Lumia 430;Botones laterales;Compatible;2,95;;;6
+MC-L430-CRI-COM;Microsoft;Lumia 430;Cristal de pantalla;Compatible;2,95;;;6
+MC-L430-ANT-COM;Microsoft;Lumia 430;Antena / coaxial;Compatible;2,55;;;6
+MC-L640-MAR-COM;Microsoft;Lumia 640;Marco / chasis;Compatible;5,75;;;6
+MC-L640-BOT-COM;Microsoft;Lumia 640;Botones laterales;Compatible;2,95;;;6
+MC-L640-CRI-COM;Microsoft;Lumia 640;Cristal de pantalla;Compatible;2,95;;;6
+MC-L640-ANT-COM;Microsoft;Lumia 640;Antena / coaxial;Compatible;2,55;;;6
+MC-L435-MAR-COM;Microsoft;Lumia 435;Marco / chasis;Compatible;5,75;;;6
+MC-L435-BOT-COM;Microsoft;Lumia 435;Botones laterales;Compatible;2,95;;;6
+MC-L435-CRI-COM;Microsoft;Lumia 435;Cristal de pantalla;Compatible;2,95;;;6
+MC-L435-ANT-COM;Microsoft;Lumia 435;Antena / coaxial;Compatible;2,55;;;6
+MC-L532-MAR-COM;Microsoft;Lumia 532;Marco / chasis;Compatible;5,75;;;6
+MC-L532-BOT-COM;Microsoft;Lumia 532;Botones laterales;Compatible;2,95;;;6
+MC-L532-CRI-COM;Microsoft;Lumia 532;Cristal de pantalla;Compatible;2,95;;;6
+MC-L532-ANT-COM;Microsoft;Lumia 532;Antena / coaxial;Compatible;2,55;;;6
+MC-L535-MAR-COM;Microsoft;Lumia 535;Marco / chasis;Compatible;5,75;;;6
+MC-L535-BOT-COM;Microsoft;Lumia 535;Botones laterales;Compatible;2,95;;;6
+MC-L535-ANT-COM;Microsoft;Lumia 535;Antena / coaxial;Compatible;2,55;;;6

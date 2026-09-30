@@ -1,0 +1,1665 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+AS-Z3L-PAN-COM;Asus;Zenfone 3 Laser;Pantalla;Compatible;15,15;14,70;14,24;6
+AS-Z3L-BAT-COM;Asus;Zenfone 3 Laser;Batería;Compatible;9,65;;;6
+AS-Z3L-CON-COM;Asus;Zenfone 3 Laser;Conector de carga;Compatible;4,60;;;6
+AS-Z3L-TAP-COM-DOR;Asus;Zenfone 3 Laser;Tapa trasera;Dorado (Sand Gold);5,40;;;6
+AS-Z3L-TAP-COM-PLA;Asus;Zenfone 3 Laser;Tapa trasera;Plata (Glacier Silver);5,40;;;6
+AS-Z3L-CTR-COM;Asus;Zenfone 3 Laser;Cámara trasera;Compatible;7,59;;;6
+AS-Z3L-CFR-COM;Asus;Zenfone 3 Laser;Cámara frontal;Compatible;4,99;;;6
+AS-Z3L-LEN-COM;Asus;Zenfone 3 Laser;Lente de cámara;Compatible;2,19;;;6
+AS-Z3L-ALT-COM;Asus;Zenfone 3 Laser;Altavoz;Compatible;3,65;;;6
+AS-Z3L-AUR-COM;Asus;Zenfone 3 Laser;Auricular de llamada;Compatible;2,65;;;6
+AS-Z3L-FLX-COM;Asus;Zenfone 3 Laser;Flex de encendido y volumen;Compatible;2,49;;;6
+AS-Z3L-SIM-COM;Asus;Zenfone 3 Laser;Bandeja SIM;Compatible;2,55;;;6
+AS-Z3MZC520-PAN-COM;Asus;Zenfone 3 Max ZC520TL;Pantalla;Compatible;13,00;12,61;12,22;6
+AS-Z3MZC520-BAT-COM;Asus;Zenfone 3 Max ZC520TL;Batería;Compatible;8,90;;;6
+AS-Z3MZC520-CON-COM;Asus;Zenfone 3 Max ZC520TL;Conector de carga;Compatible;3,70;;;6
+AS-Z3MZC520-TAP-COM;Asus;Zenfone 3 Max ZC520TL;Tapa trasera;Compatible;4,80;;;6
+AS-Z3MZC520-CTR-COM;Asus;Zenfone 3 Max ZC520TL;Cámara trasera;Compatible;6,65;;;6
+AS-Z3MZC520-CFR-COM;Asus;Zenfone 3 Max ZC520TL;Cámara frontal;Compatible;4,65;;;6
+AS-Z3MZC520-LEN-COM;Asus;Zenfone 3 Max ZC520TL;Lente de cámara;Compatible;2,25;;;6
+AS-Z3MZC520-ALT-COM;Asus;Zenfone 3 Max ZC520TL;Altavoz;Compatible;3,59;;;6
+AS-Z3MZC520-AUR-COM;Asus;Zenfone 3 Max ZC520TL;Auricular de llamada;Compatible;2,69;;;6
+AS-Z3MZC520-FLX-COM;Asus;Zenfone 3 Max ZC520TL;Flex de encendido y volumen;Compatible;2,55;;;6
+AS-Z3MZC520-SIM-COM;Asus;Zenfone 3 Max ZC520TL;Bandeja SIM;Compatible;2,65;;;6
+AS-Z3MZC553-PAN-COM;Asus;Zenfone 3 Max ZC553KL;Pantalla;Compatible;13,00;12,61;12,22;6
+AS-Z3MZC553-BAT-COM;Asus;Zenfone 3 Max ZC553KL;Batería;Compatible;8,90;;;6
+AS-Z3MZC553-CON-COM;Asus;Zenfone 3 Max ZC553KL;Conector de carga;Compatible;3,70;;;6
+AS-Z3MZC553-TAP-COM-PLA;Asus;Zenfone 3 Max ZC553KL;Tapa trasera;Plata glacial;4,80;;;6
+AS-Z3MZC553-TAP-COM-ORO;Asus;Zenfone 3 Max ZC553KL;Tapa trasera;Oro arena;4,80;;;6
+AS-Z3MZC553-TAP-COM-GRI;Asus;Zenfone 3 Max ZC553KL;Tapa trasera;Gris titanio;4,80;;;6
+AS-Z3MZC553-TAP-COM-ROS;Asus;Zenfone 3 Max ZC553KL;Tapa trasera;Rosado;4,80;;;6
+AS-Z3MZC553-CTR-COM;Asus;Zenfone 3 Max ZC553KL;Cámara trasera;Compatible;6,65;;;6
+AS-Z3MZC553-CFR-COM;Asus;Zenfone 3 Max ZC553KL;Cámara frontal;Compatible;4,65;;;6
+AS-Z3MZC553-LEN-COM;Asus;Zenfone 3 Max ZC553KL;Lente de cámara;Compatible;2,25;;;6
+AS-Z3MZC553-ALT-COM;Asus;Zenfone 3 Max ZC553KL;Altavoz;Compatible;3,59;;;6
+AS-Z3MZC553-AUR-COM;Asus;Zenfone 3 Max ZC553KL;Auricular de llamada;Compatible;2,69;;;6
+AS-Z3MZC553-FLX-COM;Asus;Zenfone 3 Max ZC553KL;Flex de encendido y volumen;Compatible;2,55;;;6
+AS-Z3MZC553-SIM-COM;Asus;Zenfone 3 Max ZC553KL;Bandeja SIM;Compatible;2,65;;;6
+AS-Z3D-PAN-INC;Asus;Zenfone 3 Deluxe;Pantalla;Incell;17,69;17,16;16,63;6
+AS-Z3D-BAT-COM;Asus;Zenfone 3 Deluxe;Batería;Compatible;9,65;;;6
+AS-Z3D-CON-COM;Asus;Zenfone 3 Deluxe;Conector de carga;Compatible;4,60;;;6
+AS-Z3D-TAP-COM-PLA;Asus;Zenfone 3 Deluxe;Tapa trasera;Plata (Glacier Silver);5,40;;;6
+AS-Z3D-TAP-COM-GRI;Asus;Zenfone 3 Deluxe;Tapa trasera;Gris (Titanium Gray);5,40;;;6
+AS-Z3D-TAP-COM-DOR;Asus;Zenfone 3 Deluxe;Tapa trasera;Dorado (Shimmer Gold);5,40;;;6
+AS-Z3D-CTR-COM;Asus;Zenfone 3 Deluxe;Cámara trasera;Compatible;7,59;;;6
+AS-Z3D-CFR-COM;Asus;Zenfone 3 Deluxe;Cámara frontal;Compatible;4,99;;;6
+AS-Z3D-LEN-COM;Asus;Zenfone 3 Deluxe;Lente de cámara;Compatible;2,19;;;6
+AS-Z3D-ALT-COM;Asus;Zenfone 3 Deluxe;Altavoz;Compatible;3,65;;;6
+AS-Z3D-AUR-COM;Asus;Zenfone 3 Deluxe;Auricular de llamada;Compatible;2,65;;;6
+AS-Z3D-FLX-COM;Asus;Zenfone 3 Deluxe;Flex de encendido y volumen;Compatible;2,49;;;6
+AS-Z3D-SIM-COM;Asus;Zenfone 3 Deluxe;Bandeja SIM;Compatible;2,55;;;6
+AS-Z3U-PAN-COM;Asus;Zenfone 3 Ultra;Pantalla;Compatible;23,99;23,27;22,55;6
+AS-Z3U-BAT-COM;Asus;Zenfone 3 Ultra;Batería;Compatible;9,95;;;6
+AS-Z3U-CON-COM;Asus;Zenfone 3 Ultra;Conector de carga;Compatible;5,79;;;6
+AS-Z3U-TAP-COM-PLA;Asus;Zenfone 3 Ultra;Tapa trasera;Plata (Glacier Silver);6,75;;;6
+AS-Z3U-TAP-COM-GRI;Asus;Zenfone 3 Ultra;Tapa trasera;Gris (Titanium Gray);6,75;;;6
+AS-Z3U-TAP-COM-ORO;Asus;Zenfone 3 Ultra;Tapa trasera;Oro rosa;6,75;;;6
+AS-Z3U-CTR-COM;Asus;Zenfone 3 Ultra;Cámara trasera;Compatible;11,55;11,20;10,86;6
+AS-Z3U-CFR-COM;Asus;Zenfone 3 Ultra;Cámara frontal;Compatible;6,59;;;6
+AS-Z3U-LEN-COM;Asus;Zenfone 3 Ultra;Lente de cámara;Compatible;3,05;;;6
+AS-Z3U-ALT-COM;Asus;Zenfone 3 Ultra;Altavoz;Compatible;4,60;;;6
+AS-Z3U-AUR-COM;Asus;Zenfone 3 Ultra;Auricular de llamada;Compatible;3,60;;;6
+AS-Z3U-FLX-COM;Asus;Zenfone 3 Ultra;Flex de encendido y volumen;Compatible;3,50;;;6
+AS-Z3U-SIM-COM;Asus;Zenfone 3 Ultra;Bandeja SIM;Compatible;3,15;;;6
+AS-Z3ZE520K-PAN-COM;Asus;Zenfone 3 ZE520KL;Pantalla;Compatible;15,15;14,70;14,24;6
+AS-Z3ZE520K-BAT-COM;Asus;Zenfone 3 ZE520KL;Batería;Compatible;9,65;;;6
+AS-Z3ZE520K-CON-COM;Asus;Zenfone 3 ZE520KL;Conector de carga;Compatible;4,60;;;6
+AS-Z3ZE520K-TAP-COM-NEG;Asus;Zenfone 3 ZE520KL;Tapa trasera;Negro zafiro;5,40;;;6
+AS-Z3ZE520K-TAP-COM-BLA;Asus;Zenfone 3 ZE520KL;Tapa trasera;Blanco luna;5,40;;;6
+AS-Z3ZE520K-TAP-COM-ORO;Asus;Zenfone 3 ZE520KL;Tapa trasera;Oro brillante;5,40;;;6
+AS-Z3ZE520K-CTR-COM;Asus;Zenfone 3 ZE520KL;Cámara trasera;Compatible;7,59;;;6
+AS-Z3ZE520K-CFR-COM;Asus;Zenfone 3 ZE520KL;Cámara frontal;Compatible;4,99;;;6
+AS-Z3ZE520K-LEN-COM;Asus;Zenfone 3 ZE520KL;Lente de cámara;Compatible;2,19;;;6
+AS-Z3ZE520K-ALT-COM;Asus;Zenfone 3 ZE520KL;Altavoz;Compatible;3,65;;;6
+AS-Z3ZE520K-AUR-COM;Asus;Zenfone 3 ZE520KL;Auricular de llamada;Compatible;2,65;;;6
+AS-Z3ZE520K-FLX-COM;Asus;Zenfone 3 ZE520KL;Flex de encendido y volumen;Compatible;2,49;;;6
+AS-Z3ZE520K-SIM-COM;Asus;Zenfone 3 ZE520KL;Bandeja SIM;Compatible;2,55;;;6
+AS-Z3ZE552K-PAN-COM;Asus;Zenfone 3 ZE552KL;Pantalla;Compatible;15,15;14,70;14,24;6
+AS-Z3ZE552K-BAT-COM;Asus;Zenfone 3 ZE552KL;Batería;Compatible;9,65;;;6
+AS-Z3ZE552K-CON-COM;Asus;Zenfone 3 ZE552KL;Conector de carga;Compatible;4,60;;;6
+AS-Z3ZE552K-TAP-COM-NEG;Asus;Zenfone 3 ZE552KL;Tapa trasera;Negro zafiro;5,40;;;6
+AS-Z3ZE552K-TAP-COM-BLA;Asus;Zenfone 3 ZE552KL;Tapa trasera;Blanco luna;5,40;;;6
+AS-Z3ZE552K-TAP-COM-ORO;Asus;Zenfone 3 ZE552KL;Tapa trasera;Oro brillante;5,40;;;6
+AS-Z3ZE552K-CTR-COM;Asus;Zenfone 3 ZE552KL;Cámara trasera;Compatible;7,59;;;6
+AS-Z3ZE552K-CFR-COM;Asus;Zenfone 3 ZE552KL;Cámara frontal;Compatible;4,99;;;6
+AS-Z3ZE552K-LEN-COM;Asus;Zenfone 3 ZE552KL;Lente de cámara;Compatible;2,19;;;6
+AS-Z3ZE552K-ALT-COM;Asus;Zenfone 3 ZE552KL;Altavoz;Compatible;3,65;;;6
+AS-Z3ZE552K-AUR-COM;Asus;Zenfone 3 ZE552KL;Auricular de llamada;Compatible;2,65;;;6
+AS-Z3ZE552K-FLX-COM;Asus;Zenfone 3 ZE552KL;Flex de encendido y volumen;Compatible;2,49;;;6
+AS-Z3ZE552K-SIM-COM;Asus;Zenfone 3 ZE552KL;Bandeja SIM;Compatible;2,55;;;6
+AS-ZAR-PAN-INC;Asus;Zenfone AR;Pantalla;Incell;18,15;17,61;17,06;6
+AS-ZAR-BAT-COM;Asus;Zenfone AR;Batería;Compatible;10,40;10,09;9,78;6
+AS-ZAR-CON-COM;Asus;Zenfone AR;Conector de carga;Compatible;4,30;;;6
+AS-ZAR-TAP-COM-NEG;Asus;Zenfone AR;Tapa trasera;Negro (Charcoal Black);5,49;;;6
+AS-ZAR-CTR-COM;Asus;Zenfone AR;Cámara trasera;Compatible;9,20;;;6
+AS-ZAR-CFR-COM;Asus;Zenfone AR;Cámara frontal;Compatible;5,25;;;6
+AS-ZAR-LEN-COM;Asus;Zenfone AR;Lente de cámara;Compatible;2,60;;;6
+AS-ZAR-ALT-COM;Asus;Zenfone AR;Altavoz;Compatible;4,05;;;6
+AS-ZAR-AUR-COM;Asus;Zenfone AR;Auricular de llamada;Compatible;3,30;;;6
+AS-ZAR-FLX-COM;Asus;Zenfone AR;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-ZAR-SIM-COM;Asus;Zenfone AR;Bandeja SIM;Compatible;2,90;;;6
+AS-ZZS-PAN-INC;Asus;Zenfone Zoom S;Pantalla;Incell;18,15;17,61;17,06;6
+AS-ZZS-BAT-COM;Asus;Zenfone Zoom S;Batería;Compatible;10,40;10,09;9,78;6
+AS-ZZS-CON-COM;Asus;Zenfone Zoom S;Conector de carga;Compatible;4,30;;;6
+AS-ZZS-TAP-COM-NEG;Asus;Zenfone Zoom S;Tapa trasera;Negro Marino;5,49;;;6
+AS-ZZS-TAP-COM-PLA;Asus;Zenfone Zoom S;Tapa trasera;Plata Glaciar;5,49;;;6
+AS-ZZS-TAP-COM-ROS;Asus;Zenfone Zoom S;Tapa trasera;Rosa Oro;5,49;;;6
+AS-ZZS-CTR-COM;Asus;Zenfone Zoom S;Cámara trasera;Compatible;9,20;;;6
+AS-ZZS-CFR-COM;Asus;Zenfone Zoom S;Cámara frontal;Compatible;5,25;;;6
+AS-ZZS-LEN-COM;Asus;Zenfone Zoom S;Lente de cámara;Compatible;2,60;;;6
+AS-ZZS-ALT-COM;Asus;Zenfone Zoom S;Altavoz;Compatible;4,05;;;6
+AS-ZZS-AUR-COM;Asus;Zenfone Zoom S;Auricular de llamada;Compatible;3,30;;;6
+AS-ZZS-FLX-COM;Asus;Zenfone Zoom S;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-ZZS-SIM-COM;Asus;Zenfone Zoom S;Bandeja SIM;Compatible;2,90;;;6
+AS-ZL-PAN-COM;Asus;Zenfone Live;Pantalla;Compatible;13,00;12,61;12,22;6
+AS-ZL-BAT-COM;Asus;Zenfone Live;Batería;Compatible;8,90;;;6
+AS-ZL-CON-COM;Asus;Zenfone Live;Conector de carga;Compatible;3,70;;;6
+AS-ZL-TAP-COM-DOR;Asus;Zenfone Live;Tapa trasera;Dorado (Shimmer Gold);4,80;;;6
+AS-ZL-TAP-COM-ROS;Asus;Zenfone Live;Tapa trasera;Rosa (Rose Pink);4,80;;;6
+AS-ZL-TAP-COM-NEG;Asus;Zenfone Live;Tapa trasera;Negro (Navy Black);4,80;;;6
+AS-ZL-CTR-COM;Asus;Zenfone Live;Cámara trasera;Compatible;6,65;;;6
+AS-ZL-CFR-COM;Asus;Zenfone Live;Cámara frontal;Compatible;4,65;;;6
+AS-ZL-LEN-COM;Asus;Zenfone Live;Lente de cámara;Compatible;2,25;;;6
+AS-ZL-ALT-COM;Asus;Zenfone Live;Altavoz;Compatible;3,59;;;6
+AS-ZL-AUR-COM;Asus;Zenfone Live;Auricular de llamada;Compatible;2,69;;;6
+AS-ZL-FLX-COM;Asus;Zenfone Live;Flex de encendido y volumen;Compatible;2,55;;;6
+AS-ZL-SIM-COM;Asus;Zenfone Live;Bandeja SIM;Compatible;2,65;;;6
+AS-Z4-PAN-COM;Asus;Zenfone 4;Pantalla;Compatible;15,15;14,70;14,24;6
+AS-Z4-BAT-COM;Asus;Zenfone 4;Batería;Compatible;9,65;;;6
+AS-Z4-CON-COM;Asus;Zenfone 4;Conector de carga;Compatible;4,60;;;6
+AS-Z4-TAP-COM-BLA;Asus;Zenfone 4;Tapa trasera;Blanco luna;5,40;;;6
+AS-Z4-TAP-COM-VER;Asus;Zenfone 4;Tapa trasera;verde menta;5,40;;;6
+AS-Z4-TAP-COM-NEG;Asus;Zenfone 4;Tapa trasera;negro medianoche;5,40;;;6
+AS-Z4-CTR-COM;Asus;Zenfone 4;Cámara trasera;Compatible;7,59;;;6
+AS-Z4-CFR-COM;Asus;Zenfone 4;Cámara frontal;Compatible;4,99;;;6
+AS-Z4-LEN-COM;Asus;Zenfone 4;Lente de cámara;Compatible;2,19;;;6
+AS-Z4-ALT-COM;Asus;Zenfone 4;Altavoz;Compatible;3,65;;;6
+AS-Z4-AUR-COM;Asus;Zenfone 4;Auricular de llamada;Compatible;2,65;;;6
+AS-Z4-FLX-COM;Asus;Zenfone 4;Flex de encendido y volumen;Compatible;2,49;;;6
+AS-Z4-SIM-COM;Asus;Zenfone 4;Bandeja SIM;Compatible;2,55;;;6
+AS-Z4MZC520-PAN-COM;Asus;Zenfone 4 Max ZC520KL;Pantalla;Compatible;13,00;12,61;12,22;6
+AS-Z4MZC520-BAT-COM;Asus;Zenfone 4 Max ZC520KL;Batería;Compatible;8,90;;;6
+AS-Z4MZC520-CON-COM;Asus;Zenfone 4 Max ZC520KL;Conector de carga;Compatible;3,70;;;6
+AS-Z4MZC520-TAP-COM;Asus;Zenfone 4 Max ZC520KL;Tapa trasera;Compatible;4,80;;;6
+AS-Z4MZC520-CTR-COM;Asus;Zenfone 4 Max ZC520KL;Cámara trasera;Compatible;6,65;;;6
+AS-Z4MZC520-CFR-COM;Asus;Zenfone 4 Max ZC520KL;Cámara frontal;Compatible;4,65;;;6
+AS-Z4MZC520-LEN-COM;Asus;Zenfone 4 Max ZC520KL;Lente de cámara;Compatible;2,25;;;6
+AS-Z4MZC520-ALT-COM;Asus;Zenfone 4 Max ZC520KL;Altavoz;Compatible;3,59;;;6
+AS-Z4MZC520-AUR-COM;Asus;Zenfone 4 Max ZC520KL;Auricular de llamada;Compatible;2,69;;;6
+AS-Z4MZC520-FLX-COM;Asus;Zenfone 4 Max ZC520KL;Flex de encendido y volumen;Compatible;2,55;;;6
+AS-Z4MZC520-SIM-COM;Asus;Zenfone 4 Max ZC520KL;Bandeja SIM;Compatible;2,65;;;6
+AS-Z4MZC554-PAN-COM;Asus;Zenfone 4 Max ZC554KL;Pantalla;Compatible;13,00;12,61;12,22;6
+AS-Z4MZC554-BAT-COM;Asus;Zenfone 4 Max ZC554KL;Batería;Compatible;8,90;;;6
+AS-Z4MZC554-CON-COM;Asus;Zenfone 4 Max ZC554KL;Conector de carga;Compatible;3,70;;;6
+AS-Z4MZC554-TAP-COM-NEG;Asus;Zenfone 4 Max ZC554KL;Tapa trasera;Negro Océano;4,80;;;6
+AS-Z4MZC554-TAP-COM-ORO;Asus;Zenfone 4 Max ZC554KL;Tapa trasera;Oro solar;4,80;;;6
+AS-Z4MZC554-TAP-COM-ROS;Asus;Zenfone 4 Max ZC554KL;Tapa trasera;Rosa;4,80;;;6
+AS-Z4MZC554-CTR-COM;Asus;Zenfone 4 Max ZC554KL;Cámara trasera;Compatible;6,65;;;6
+AS-Z4MZC554-CFR-COM;Asus;Zenfone 4 Max ZC554KL;Cámara frontal;Compatible;4,65;;;6
+AS-Z4MZC554-LEN-COM;Asus;Zenfone 4 Max ZC554KL;Lente de cámara;Compatible;2,25;;;6
+AS-Z4MZC554-ALT-COM;Asus;Zenfone 4 Max ZC554KL;Altavoz;Compatible;3,59;;;6
+AS-Z4MZC554-AUR-COM;Asus;Zenfone 4 Max ZC554KL;Auricular de llamada;Compatible;2,69;;;6
+AS-Z4MZC554-FLX-COM;Asus;Zenfone 4 Max ZC554KL;Flex de encendido y volumen;Compatible;2,55;;;6
+AS-Z4MZC554-SIM-COM;Asus;Zenfone 4 Max ZC554KL;Bandeja SIM;Compatible;2,65;;;6
+AS-Z4P-PAN-INC;Asus;Zenfone 4 Pro;Pantalla;Incell;17,69;17,16;16,63;6
+AS-Z4P-BAT-COM;Asus;Zenfone 4 Pro;Batería;Compatible;9,65;;;6
+AS-Z4P-CON-COM;Asus;Zenfone 4 Pro;Conector de carga;Compatible;4,60;;;6
+AS-Z4P-TAP-COM-BLA;Asus;Zenfone 4 Pro;Tapa trasera;Blanco (Moonlight White);5,40;;;6
+AS-Z4P-TAP-COM-NEG;Asus;Zenfone 4 Pro;Tapa trasera;Negro (Pure Black);5,40;;;6
+AS-Z4P-CTR-COM;Asus;Zenfone 4 Pro;Cámara trasera;Compatible;7,59;;;6
+AS-Z4P-CFR-COM;Asus;Zenfone 4 Pro;Cámara frontal;Compatible;4,99;;;6
+AS-Z4P-LEN-COM;Asus;Zenfone 4 Pro;Lente de cámara;Compatible;2,19;;;6
+AS-Z4P-ALT-COM;Asus;Zenfone 4 Pro;Altavoz;Compatible;3,65;;;6
+AS-Z4P-AUR-COM;Asus;Zenfone 4 Pro;Auricular de llamada;Compatible;2,65;;;6
+AS-Z4P-FLX-COM;Asus;Zenfone 4 Pro;Flex de encendido y volumen;Compatible;2,49;;;6
+AS-Z4P-SIM-COM;Asus;Zenfone 4 Pro;Bandeja SIM;Compatible;2,55;;;6
+AS-Z4S-PAN-COM;Asus;Zenfone 4 Selfie;Pantalla;Compatible;13,00;12,61;12,22;6
+AS-Z4S-BAT-COM;Asus;Zenfone 4 Selfie;Batería;Compatible;8,90;;;6
+AS-Z4S-CON-COM;Asus;Zenfone 4 Selfie;Conector de carga;Compatible;3,70;;;6
+AS-Z4S-TAP-COM-NEG;Asus;Zenfone 4 Selfie;Tapa trasera;Negro (Deepsea Black);4,80;;;6
+AS-Z4S-TAP-COM-VER;Asus;Zenfone 4 Selfie;Tapa trasera;Verde menta;4,80;;;6
+AS-Z4S-TAP-COM-ROS;Asus;Zenfone 4 Selfie;Tapa trasera;Rosa (Rose Pink);4,80;;;6
+AS-Z4S-TAP-COM-DOR;Asus;Zenfone 4 Selfie;Tapa trasera;Dorado (Sunlight Gold);4,80;;;6
+AS-Z4S-CTR-COM;Asus;Zenfone 4 Selfie;Cámara trasera;Compatible;6,65;;;6
+AS-Z4S-CFR-COM;Asus;Zenfone 4 Selfie;Cámara frontal;Compatible;4,65;;;6
+AS-Z4S-LEN-COM;Asus;Zenfone 4 Selfie;Lente de cámara;Compatible;2,25;;;6
+AS-Z4S-ALT-COM;Asus;Zenfone 4 Selfie;Altavoz;Compatible;3,59;;;6
+AS-Z4S-AUR-COM;Asus;Zenfone 4 Selfie;Auricular de llamada;Compatible;2,69;;;6
+AS-Z4S-FLX-COM;Asus;Zenfone 4 Selfie;Flex de encendido y volumen;Compatible;2,55;;;6
+AS-Z4S-SIM-COM;Asus;Zenfone 4 Selfie;Bandeja SIM;Compatible;2,65;;;6
+AS-Z4SP-PAN-INC;Asus;Zenfone 4 Selfie Pro;Pantalla;Incell;15,15;14,70;14,24;6
+AS-Z4SP-BAT-COM;Asus;Zenfone 4 Selfie Pro;Batería;Compatible;8,90;;;6
+AS-Z4SP-CON-COM;Asus;Zenfone 4 Selfie Pro;Conector de carga;Compatible;3,70;;;6
+AS-Z4SP-TAP-COM-NEG;Asus;Zenfone 4 Selfie Pro;Tapa trasera;Negro (Deepsea Black);4,80;;;6
+AS-Z4SP-TAP-COM-DOR;Asus;Zenfone 4 Selfie Pro;Tapa trasera;Dorado (Sunlight Gold);4,80;;;6
+AS-Z4SP-TAP-COM-ROJ;Asus;Zenfone 4 Selfie Pro;Tapa trasera;Rojo (Rouge Red);4,80;;;6
+AS-Z4SP-CTR-COM;Asus;Zenfone 4 Selfie Pro;Cámara trasera;Compatible;6,65;;;6
+AS-Z4SP-CFR-COM;Asus;Zenfone 4 Selfie Pro;Cámara frontal;Compatible;4,65;;;6
+AS-Z4SP-LEN-COM;Asus;Zenfone 4 Selfie Pro;Lente de cámara;Compatible;2,25;;;6
+AS-Z4SP-ALT-COM;Asus;Zenfone 4 Selfie Pro;Altavoz;Compatible;3,59;;;6
+AS-Z4SP-AUR-COM;Asus;Zenfone 4 Selfie Pro;Auricular de llamada;Compatible;2,69;;;6
+AS-Z4SP-FLX-COM;Asus;Zenfone 4 Selfie Pro;Flex de encendido y volumen;Compatible;2,55;;;6
+AS-Z4SP-SIM-COM;Asus;Zenfone 4 Selfie Pro;Bandeja SIM;Compatible;2,65;;;6
+AS-ZMPLM1-PAN-COM;Asus;Zenfone Max Plus M1;Pantalla;Compatible;13,00;12,61;12,22;6
+AS-ZMPLM1-BAT-COM;Asus;Zenfone Max Plus M1;Batería;Compatible;8,90;;;6
+AS-ZMPLM1-CON-COM;Asus;Zenfone Max Plus M1;Conector de carga;Compatible;3,70;;;6
+AS-ZMPLM1-TAP-COM;Asus;Zenfone Max Plus M1;Tapa trasera;Compatible;4,80;;;6
+AS-ZMPLM1-CTR-COM;Asus;Zenfone Max Plus M1;Cámara trasera;Compatible;6,65;;;6
+AS-ZMPLM1-CFR-COM;Asus;Zenfone Max Plus M1;Cámara frontal;Compatible;4,65;;;6
+AS-ZMPLM1-LEN-COM;Asus;Zenfone Max Plus M1;Lente de cámara;Compatible;2,25;;;6
+AS-ZMPLM1-ALT-COM;Asus;Zenfone Max Plus M1;Altavoz;Compatible;3,59;;;6
+AS-ZMPLM1-AUR-COM;Asus;Zenfone Max Plus M1;Auricular de llamada;Compatible;2,69;;;6
+AS-ZMPLM1-FLX-COM;Asus;Zenfone Max Plus M1;Flex de encendido y volumen;Compatible;2,55;;;6
+AS-ZMPLM1-SIM-COM;Asus;Zenfone Max Plus M1;Bandeja SIM;Compatible;2,65;;;6
+AS-Z5-PAN-COM;Asus;Zenfone 5;Pantalla;Compatible;15,55;15,08;14,62;6
+AS-Z5-BAT-COM;Asus;Zenfone 5;Batería;Compatible;10,40;10,09;9,78;6
+AS-Z5-CON-COM;Asus;Zenfone 5;Conector de carga;Compatible;4,30;;;6
+AS-Z5-TAP-COM-PLA;Asus;Zenfone 5;Tapa trasera;Plata (Meteor Silver);5,49;;;6
+AS-Z5-TAP-COM-AZU;Asus;Zenfone 5;Tapa trasera;Azul (Midnight Blue);5,49;;;6
+AS-Z5-CTR-COM;Asus;Zenfone 5;Cámara trasera;Compatible;9,20;;;6
+AS-Z5-CFR-COM;Asus;Zenfone 5;Cámara frontal;Compatible;5,25;;;6
+AS-Z5-LEN-COM;Asus;Zenfone 5;Lente de cámara;Compatible;2,60;;;6
+AS-Z5-ALT-COM;Asus;Zenfone 5;Altavoz;Compatible;4,05;;;6
+AS-Z5-AUR-COM;Asus;Zenfone 5;Auricular de llamada;Compatible;3,30;;;6
+AS-Z5-FLX-COM;Asus;Zenfone 5;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-Z5-SIM-COM;Asus;Zenfone 5;Bandeja SIM;Compatible;2,90;;;6
+AS-Z5L-PAN-COM;Asus;Zenfone 5 Lite;Pantalla;Compatible;13,00;12,61;12,22;6
+AS-Z5L-BAT-COM;Asus;Zenfone 5 Lite;Batería;Compatible;8,90;;;6
+AS-Z5L-CON-COM;Asus;Zenfone 5 Lite;Conector de carga;Compatible;3,70;;;6
+AS-Z5L-TAP-COM-NEG;Asus;Zenfone 5 Lite;Tapa trasera;Negro (Midnight Black);4,80;;;6
+AS-Z5L-TAP-COM-ROJ;Asus;Zenfone 5 Lite;Tapa trasera;Rojo (Rouge Red);4,80;;;6
+AS-Z5L-TAP-COM-BLA;Asus;Zenfone 5 Lite;Tapa trasera;Blanco (Moonlight White);4,80;;;6
+AS-Z5L-CTR-COM;Asus;Zenfone 5 Lite;Cámara trasera;Compatible;6,65;;;6
+AS-Z5L-CFR-COM;Asus;Zenfone 5 Lite;Cámara frontal;Compatible;4,65;;;6
+AS-Z5L-LEN-COM;Asus;Zenfone 5 Lite;Lente de cámara;Compatible;2,25;;;6
+AS-Z5L-ALT-COM;Asus;Zenfone 5 Lite;Altavoz;Compatible;3,59;;;6
+AS-Z5L-AUR-COM;Asus;Zenfone 5 Lite;Auricular de llamada;Compatible;2,69;;;6
+AS-Z5L-FLX-COM;Asus;Zenfone 5 Lite;Flex de encendido y volumen;Compatible;2,55;;;6
+AS-Z5L-SIM-COM;Asus;Zenfone 5 Lite;Bandeja SIM;Compatible;2,65;;;6
+AS-Z5Z-PAN-COM;Asus;Zenfone 5Z;Pantalla;Compatible;15,55;15,08;14,62;6
+AS-Z5Z-BAT-COM;Asus;Zenfone 5Z;Batería;Compatible;10,40;10,09;9,78;6
+AS-Z5Z-CON-COM;Asus;Zenfone 5Z;Conector de carga;Compatible;4,30;;;6
+AS-Z5Z-TAP-COM;Asus;Zenfone 5Z;Tapa trasera;Compatible;5,49;;;6
+AS-Z5Z-CTR-COM;Asus;Zenfone 5Z;Cámara trasera;Compatible;9,20;;;6
+AS-Z5Z-CFR-COM;Asus;Zenfone 5Z;Cámara frontal;Compatible;5,25;;;6
+AS-Z5Z-LEN-COM;Asus;Zenfone 5Z;Lente de cámara;Compatible;2,60;;;6
+AS-Z5Z-ALT-COM;Asus;Zenfone 5Z;Altavoz;Compatible;4,05;;;6
+AS-Z5Z-AUR-COM;Asus;Zenfone 5Z;Auricular de llamada;Compatible;3,30;;;6
+AS-Z5Z-FLX-COM;Asus;Zenfone 5Z;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-Z5Z-SIM-COM;Asus;Zenfone 5Z;Bandeja SIM;Compatible;2,90;;;6
+AS-ZMM1-PAN-COM;Asus;Zenfone Max M1;Pantalla;Compatible;13,00;12,61;12,22;6
+AS-ZMM1-BAT-COM;Asus;Zenfone Max M1;Batería;Compatible;8,90;;;6
+AS-ZMM1-CON-COM;Asus;Zenfone Max M1;Conector de carga;Compatible;3,70;;;6
+AS-ZMM1-TAP-COM;Asus;Zenfone Max M1;Tapa trasera;Compatible;4,80;;;6
+AS-ZMM1-CTR-COM;Asus;Zenfone Max M1;Cámara trasera;Compatible;6,65;;;6
+AS-ZMM1-CFR-COM;Asus;Zenfone Max M1;Cámara frontal;Compatible;4,65;;;6
+AS-ZMM1-LEN-COM;Asus;Zenfone Max M1;Lente de cámara;Compatible;2,25;;;6
+AS-ZMM1-ALT-COM;Asus;Zenfone Max M1;Altavoz;Compatible;3,59;;;6
+AS-ZMM1-AUR-COM;Asus;Zenfone Max M1;Auricular de llamada;Compatible;2,69;;;6
+AS-ZMM1-FLX-COM;Asus;Zenfone Max M1;Flex de encendido y volumen;Compatible;2,55;;;6
+AS-ZMM1-SIM-COM;Asus;Zenfone Max M1;Bandeja SIM;Compatible;2,65;;;6
+AS-ZMPM1-PAN-COM;Asus;Zenfone Max Pro M1;Pantalla;Compatible;13,00;12,61;12,22;6
+AS-ZMPM1-BAT-COM;Asus;Zenfone Max Pro M1;Batería;Compatible;8,90;;;6
+AS-ZMPM1-CON-COM;Asus;Zenfone Max Pro M1;Conector de carga;Compatible;3,70;;;6
+AS-ZMPM1-TAP-COM-NEG;Asus;Zenfone Max Pro M1;Tapa trasera;Negro (Deepsea Black);4,80;;;6
+AS-ZMPM1-TAP-COM-PLA;Asus;Zenfone Max Pro M1;Tapa trasera;Plata (Meteor Silver);4,80;;;6
+AS-ZMPM1-CTR-COM;Asus;Zenfone Max Pro M1;Cámara trasera;Compatible;6,65;;;6
+AS-ZMPM1-CFR-COM;Asus;Zenfone Max Pro M1;Cámara frontal;Compatible;4,65;;;6
+AS-ZMPM1-LEN-COM;Asus;Zenfone Max Pro M1;Lente de cámara;Compatible;2,25;;;6
+AS-ZMPM1-ALT-COM;Asus;Zenfone Max Pro M1;Altavoz;Compatible;3,59;;;6
+AS-ZMPM1-AUR-COM;Asus;Zenfone Max Pro M1;Auricular de llamada;Compatible;2,69;;;6
+AS-ZMPM1-FLX-COM;Asus;Zenfone Max Pro M1;Flex de encendido y volumen;Compatible;2,55;;;6
+AS-ZMPM1-SIM-COM;Asus;Zenfone Max Pro M1;Bandeja SIM;Compatible;2,65;;;6
+AS-ROGP-PAN-INC;Asus;ROG Phone;Pantalla;Incell;25,45;24,69;23,92;6
+AS-ROGP-BAT-COM;Asus;ROG Phone;Batería;Compatible;9,95;;;6
+AS-ROGP-CON-COM;Asus;ROG Phone;Conector de carga;Compatible;5,79;;;6
+AS-ROGP-TAP-COM;Asus;ROG Phone;Tapa trasera;Compatible;6,75;;;6
+AS-ROGP-CTR-COM;Asus;ROG Phone;Cámara trasera;Compatible;11,55;11,20;10,86;6
+AS-ROGP-CFR-COM;Asus;ROG Phone;Cámara frontal;Compatible;6,59;;;6
+AS-ROGP-LEN-COM;Asus;ROG Phone;Lente de cámara;Compatible;3,05;;;6
+AS-ROGP-ALT-COM;Asus;ROG Phone;Altavoz;Compatible;4,60;;;6
+AS-ROGP-AUR-COM;Asus;ROG Phone;Auricular de llamada;Compatible;3,60;;;6
+AS-ROGP-FLX-COM;Asus;ROG Phone;Flex de encendido y volumen;Compatible;3,50;;;6
+AS-ROGP-SIM-COM;Asus;ROG Phone;Bandeja SIM;Compatible;3,15;;;6
+AS-ZMM2-PAN-COM;Asus;Zenfone Max M2;Pantalla;Compatible;13,00;12,61;12,22;6
+AS-ZMM2-BAT-COM;Asus;Zenfone Max M2;Batería;Compatible;8,90;;;6
+AS-ZMM2-CON-COM;Asus;Zenfone Max M2;Conector de carga;Compatible;3,70;;;6
+AS-ZMM2-TAP-COM-NEG;Asus;Zenfone Max M2;Tapa trasera;Negro (Midnight Black);4,80;;;6
+AS-ZMM2-TAP-COM-AZU;Asus;Zenfone Max M2;Tapa trasera;Azul (Space Blue);4,80;;;6
+AS-ZMM2-TAP-COM-PLA;Asus;Zenfone Max M2;Tapa trasera;Plata (Meteor Silver);4,80;;;6
+AS-ZMM2-CTR-COM;Asus;Zenfone Max M2;Cámara trasera;Compatible;6,65;;;6
+AS-ZMM2-CFR-COM;Asus;Zenfone Max M2;Cámara frontal;Compatible;4,65;;;6
+AS-ZMM2-LEN-COM;Asus;Zenfone Max M2;Lente de cámara;Compatible;2,25;;;6
+AS-ZMM2-ALT-COM;Asus;Zenfone Max M2;Altavoz;Compatible;3,59;;;6
+AS-ZMM2-AUR-COM;Asus;Zenfone Max M2;Auricular de llamada;Compatible;2,69;;;6
+AS-ZMM2-FLX-COM;Asus;Zenfone Max M2;Flex de encendido y volumen;Compatible;2,55;;;6
+AS-ZMM2-SIM-COM;Asus;Zenfone Max M2;Bandeja SIM;Compatible;2,65;;;6
+AS-ZMPM2-PAN-COM;Asus;Zenfone Max Pro M2;Pantalla;Compatible;13,00;12,61;12,22;6
+AS-ZMPM2-BAT-COM;Asus;Zenfone Max Pro M2;Batería;Compatible;8,90;;;6
+AS-ZMPM2-CON-COM;Asus;Zenfone Max Pro M2;Conector de carga;Compatible;3,70;;;6
+AS-ZMPM2-TAP-COM-TIT;Asus;Zenfone Max Pro M2;Tapa trasera;Titanio cósmico;4,80;;;6
+AS-ZMPM2-TAP-COM-AZU;Asus;Zenfone Max Pro M2;Tapa trasera;Azul medianoche;4,80;;;6
+AS-ZMPM2-CTR-COM;Asus;Zenfone Max Pro M2;Cámara trasera;Compatible;6,65;;;6
+AS-ZMPM2-CFR-COM;Asus;Zenfone Max Pro M2;Cámara frontal;Compatible;4,65;;;6
+AS-ZMPM2-LEN-COM;Asus;Zenfone Max Pro M2;Lente de cámara;Compatible;2,25;;;6
+AS-ZMPM2-ALT-COM;Asus;Zenfone Max Pro M2;Altavoz;Compatible;3,59;;;6
+AS-ZMPM2-AUR-COM;Asus;Zenfone Max Pro M2;Auricular de llamada;Compatible;2,69;;;6
+AS-ZMPM2-FLX-COM;Asus;Zenfone Max Pro M2;Flex de encendido y volumen;Compatible;2,55;;;6
+AS-ZMPM2-SIM-COM;Asus;Zenfone Max Pro M2;Bandeja SIM;Compatible;2,65;;;6
+AS-Z6-PAN-COM;Asus;Zenfone 6;Pantalla;Compatible;15,55;15,08;14,62;6
+AS-Z6-BAT-COM;Asus;Zenfone 6;Batería;Compatible;10,40;10,09;9,78;6
+AS-Z6-CON-COM;Asus;Zenfone 6;Conector de carga;Compatible;4,30;;;6
+AS-Z6-TAP-COM-PLA;Asus;Zenfone 6;Tapa trasera;Plata (Twilight Silver);5,49;;;6
+AS-Z6-TAP-COM-NEG;Asus;Zenfone 6;Tapa trasera;Negro (Midnight Black);5,49;;;6
+AS-Z6-TAP-COM-NMA;Asus;Zenfone 6;Tapa trasera;Negro (Matte Black);5,49;;;6
+AS-Z6-CTR-COM;Asus;Zenfone 6;Cámara trasera;Compatible;9,20;;;6
+AS-Z6-CFR-COM;Asus;Zenfone 6;Cámara frontal;Compatible;5,25;;;6
+AS-Z6-LEN-COM;Asus;Zenfone 6;Lente de cámara;Compatible;2,60;;;6
+AS-Z6-ALT-COM;Asus;Zenfone 6;Altavoz;Compatible;4,05;;;6
+AS-Z6-AUR-COM;Asus;Zenfone 6;Auricular de llamada;Compatible;3,30;;;6
+AS-Z6-FLX-COM;Asus;Zenfone 6;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-Z6-SIM-COM;Asus;Zenfone 6;Bandeja SIM;Compatible;2,90;;;6
+AS-ROGPII-PAN-INC;Asus;ROG Phone II;Pantalla;Incell;25,45;24,69;23,92;6
+AS-ROGPII-BAT-COM;Asus;ROG Phone II;Batería;Compatible;9,95;;;6
+AS-ROGPII-CON-COM;Asus;ROG Phone II;Conector de carga;Compatible;5,79;;;6
+AS-ROGPII-TAP-COM;Asus;ROG Phone II;Tapa trasera;Compatible;6,75;;;6
+AS-ROGPII-CTR-COM;Asus;ROG Phone II;Cámara trasera;Compatible;11,55;11,20;10,86;6
+AS-ROGPII-CFR-COM;Asus;ROG Phone II;Cámara frontal;Compatible;6,59;;;6
+AS-ROGPII-LEN-COM;Asus;ROG Phone II;Lente de cámara;Compatible;3,05;;;6
+AS-ROGPII-ALT-COM;Asus;ROG Phone II;Altavoz;Compatible;4,60;;;6
+AS-ROGPII-AUR-COM;Asus;ROG Phone II;Auricular de llamada;Compatible;3,60;;;6
+AS-ROGPII-FLX-COM;Asus;ROG Phone II;Flex de encendido y volumen;Compatible;3,50;;;6
+AS-ROGPII-SIM-COM;Asus;ROG Phone II;Bandeja SIM;Compatible;3,15;;;6
+AS-ROGP3-PAN-INC;Asus;ROG Phone 3;Pantalla;Incell;27,00;26,19;25,38;6
+AS-ROGP3-BAT-COM;Asus;ROG Phone 3;Batería;Compatible;8,50;;;6
+AS-ROGP3-CON-COM;Asus;ROG Phone 3;Conector de carga;Compatible;5,55;;;6
+AS-ROGP3-TAP-COM;Asus;ROG Phone 3;Tapa trasera;Compatible;6,89;;;6
+AS-ROGP3-CTR-COM;Asus;ROG Phone 3;Cámara trasera;Compatible;9,40;;;6
+AS-ROGP3-CFR-COM;Asus;ROG Phone 3;Cámara frontal;Compatible;4,85;;;6
+AS-ROGP3-LEN-COM;Asus;ROG Phone 3;Lente de cámara;Compatible;3,05;;;6
+AS-ROGP3-ALT-COM;Asus;ROG Phone 3;Altavoz;Compatible;4,25;;;6
+AS-ROGP3-AUR-COM;Asus;ROG Phone 3;Auricular de llamada;Compatible;3,25;;;6
+AS-ROGP3-FLX-COM;Asus;ROG Phone 3;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-ROGP3-SIM-COM;Asus;ROG Phone 3;Bandeja SIM;Compatible;3,25;;;6
+AS-Z7-PAN-INC;Asus;Zenfone 7;Pantalla;Incell;19,25;18,67;18,10;6
+AS-Z7-BAT-COM;Asus;Zenfone 7;Batería;Compatible;8,89;;;6
+AS-Z7-CON-COM;Asus;Zenfone 7;Conector de carga;Compatible;4,10;;;6
+AS-Z7-TAP-COM-BLA;Asus;Zenfone 7;Tapa trasera;Blanco (Pastel White);5,60;;;6
+AS-Z7-TAP-COM-NEG;Asus;Zenfone 7;Tapa trasera;Negro (Aurora Black);5,60;;;6
+AS-Z7-CTR-COM;Asus;Zenfone 7;Cámara trasera;Compatible;7,50;;;6
+AS-Z7-CFR-COM;Asus;Zenfone 7;Cámara frontal;Compatible;3,89;;;6
+AS-Z7-LEN-COM;Asus;Zenfone 7;Lente de cámara;Compatible;2,65;;;6
+AS-Z7-ALT-COM;Asus;Zenfone 7;Altavoz;Compatible;3,70;;;6
+AS-Z7-AUR-COM;Asus;Zenfone 7;Auricular de llamada;Compatible;2,99;;;6
+AS-Z7-FLX-COM;Asus;Zenfone 7;Flex de encendido y volumen;Compatible;2,99;;;6
+AS-Z7-SIM-COM;Asus;Zenfone 7;Bandeja SIM;Compatible;2,99;;;6
+AS-Z7P-PAN-INC;Asus;Zenfone 7 Pro;Pantalla;Incell;19,25;18,67;18,10;6
+AS-Z7P-BAT-COM;Asus;Zenfone 7 Pro;Batería;Compatible;8,89;;;6
+AS-Z7P-CON-COM;Asus;Zenfone 7 Pro;Conector de carga;Compatible;4,10;;;6
+AS-Z7P-TAP-COM-BLA;Asus;Zenfone 7 Pro;Tapa trasera;Blanco (Pastel White);5,60;;;6
+AS-Z7P-TAP-COM-NEG;Asus;Zenfone 7 Pro;Tapa trasera;Negro (Aurora Black);5,60;;;6
+AS-Z7P-CTR-COM;Asus;Zenfone 7 Pro;Cámara trasera;Compatible;7,50;;;6
+AS-Z7P-CFR-COM;Asus;Zenfone 7 Pro;Cámara frontal;Compatible;3,89;;;6
+AS-Z7P-LEN-COM;Asus;Zenfone 7 Pro;Lente de cámara;Compatible;2,65;;;6
+AS-Z7P-ALT-COM;Asus;Zenfone 7 Pro;Altavoz;Compatible;3,70;;;6
+AS-Z7P-AUR-COM;Asus;Zenfone 7 Pro;Auricular de llamada;Compatible;2,99;;;6
+AS-Z7P-FLX-COM;Asus;Zenfone 7 Pro;Flex de encendido y volumen;Compatible;2,99;;;6
+AS-Z7P-SIM-COM;Asus;Zenfone 7 Pro;Bandeja SIM;Compatible;2,99;;;6
+AS-ROGP5-PAN-INC;Asus;ROG Phone 5;Pantalla;Incell;27,00;26,19;25,38;6
+AS-ROGP5-BAT-COM;Asus;ROG Phone 5;Batería;Compatible;8,50;;;6
+AS-ROGP5-CON-COM;Asus;ROG Phone 5;Conector de carga;Compatible;5,55;;;6
+AS-ROGP5-TAP-COM-NEG;Asus;ROG Phone 5;Tapa trasera;Negro (Phantom Black);6,89;;;6
+AS-ROGP5-TAP-COM-BLA;Asus;ROG Phone 5;Tapa trasera;Blanco (Storm White);6,89;;;6
+AS-ROGP5-CTR-COM;Asus;ROG Phone 5;Cámara trasera;Compatible;9,40;;;6
+AS-ROGP5-CFR-COM;Asus;ROG Phone 5;Cámara frontal;Compatible;4,85;;;6
+AS-ROGP5-LEN-COM;Asus;ROG Phone 5;Lente de cámara;Compatible;3,05;;;6
+AS-ROGP5-ALT-COM;Asus;ROG Phone 5;Altavoz;Compatible;4,25;;;6
+AS-ROGP5-AUR-COM;Asus;ROG Phone 5;Auricular de llamada;Compatible;3,25;;;6
+AS-ROGP5-FLX-COM;Asus;ROG Phone 5;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-ROGP5-SIM-COM;Asus;ROG Phone 5;Bandeja SIM;Compatible;3,25;;;6
+AS-ROGP5U-PAN-INC;Asus;ROG Phone 5 Ultimate;Pantalla;Incell;27,00;26,19;25,38;6
+AS-ROGP5U-BAT-COM;Asus;ROG Phone 5 Ultimate;Batería;Compatible;8,50;;;6
+AS-ROGP5U-CON-COM;Asus;ROG Phone 5 Ultimate;Conector de carga;Compatible;5,55;;;6
+AS-ROGP5U-TAP-COM-BLA;Asus;ROG Phone 5 Ultimate;Tapa trasera;Blanco (Storm White);6,89;;;6
+AS-ROGP5U-CTR-COM;Asus;ROG Phone 5 Ultimate;Cámara trasera;Compatible;9,40;;;6
+AS-ROGP5U-CFR-COM;Asus;ROG Phone 5 Ultimate;Cámara frontal;Compatible;4,85;;;6
+AS-ROGP5U-LEN-COM;Asus;ROG Phone 5 Ultimate;Lente de cámara;Compatible;3,05;;;6
+AS-ROGP5U-ALT-COM;Asus;ROG Phone 5 Ultimate;Altavoz;Compatible;4,25;;;6
+AS-ROGP5U-AUR-COM;Asus;ROG Phone 5 Ultimate;Auricular de llamada;Compatible;3,25;;;6
+AS-ROGP5U-FLX-COM;Asus;ROG Phone 5 Ultimate;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-ROGP5U-SIM-COM;Asus;ROG Phone 5 Ultimate;Bandeja SIM;Compatible;3,25;;;6
+AS-Z8-PAN-INC;Asus;Zenfone 8;Pantalla;Incell;19,25;18,67;18,10;6
+AS-Z8-BAT-COM;Asus;Zenfone 8;Batería;Compatible;8,89;;;6
+AS-Z8-CON-COM;Asus;Zenfone 8;Conector de carga;Compatible;4,10;;;6
+AS-Z8-TAP-COM-BLA;Asus;Zenfone 8;Tapa trasera;Blanco (Moonlight White);5,60;;;6
+AS-Z8-TAP-COM-NEG;Asus;Zenfone 8;Tapa trasera;Negro (Obsidian Black);5,60;;;6
+AS-Z8-TAP-COM-PLA;Asus;Zenfone 8;Tapa trasera;Plata (Horizon Silver);5,60;;;6
+AS-Z8-CTR-COM;Asus;Zenfone 8;Cámara trasera;Compatible;7,50;;;6
+AS-Z8-CFR-COM;Asus;Zenfone 8;Cámara frontal;Compatible;3,89;;;6
+AS-Z8-LEN-COM;Asus;Zenfone 8;Lente de cámara;Compatible;2,65;;;6
+AS-Z8-ALT-COM;Asus;Zenfone 8;Altavoz;Compatible;3,70;;;6
+AS-Z8-AUR-COM;Asus;Zenfone 8;Auricular de llamada;Compatible;2,99;;;6
+AS-Z8-FLX-COM;Asus;Zenfone 8;Flex de encendido y volumen;Compatible;2,99;;;6
+AS-Z8-SIM-COM;Asus;Zenfone 8;Bandeja SIM;Compatible;2,99;;;6
+AS-Z8FL-PAN-INC;Asus;Zenfone 8 Flip;Pantalla;Incell;19,25;18,67;18,10;6
+AS-Z8FL-BAT-COM;Asus;Zenfone 8 Flip;Batería;Compatible;8,89;;;6
+AS-Z8FL-CON-COM;Asus;Zenfone 8 Flip;Conector de carga;Compatible;4,10;;;6
+AS-Z8FL-TAP-COM-PLA;Asus;Zenfone 8 Flip;Tapa trasera;Plateado glacial;5,60;;;6
+AS-Z8FL-TAP-COM-NEG;Asus;Zenfone 8 Flip;Tapa trasera;Negro galáctico;5,60;;;6
+AS-Z8FL-CTR-COM;Asus;Zenfone 8 Flip;Cámara trasera;Compatible;7,50;;;6
+AS-Z8FL-CFR-COM;Asus;Zenfone 8 Flip;Cámara frontal;Compatible;3,89;;;6
+AS-Z8FL-LEN-COM;Asus;Zenfone 8 Flip;Lente de cámara;Compatible;2,65;;;6
+AS-Z8FL-ALT-COM;Asus;Zenfone 8 Flip;Altavoz;Compatible;3,70;;;6
+AS-Z8FL-AUR-COM;Asus;Zenfone 8 Flip;Auricular de llamada;Compatible;2,99;;;6
+AS-Z8FL-FLX-COM;Asus;Zenfone 8 Flip;Flex de encendido y volumen;Compatible;2,99;;;6
+AS-Z8FL-SIM-COM;Asus;Zenfone 8 Flip;Bandeja SIM;Compatible;2,99;;;6
+AS-ROGP5S-PAN-INC;Asus;ROG Phone 5s;Pantalla;Incell;27,00;26,19;25,38;6
+AS-ROGP5S-BAT-COM;Asus;ROG Phone 5s;Batería;Compatible;8,50;;;6
+AS-ROGP5S-CON-COM;Asus;ROG Phone 5s;Conector de carga;Compatible;5,55;;;6
+AS-ROGP5S-TAP-COM-NEG;Asus;ROG Phone 5s;Tapa trasera;Negro (Phantom Black);6,89;;;6
+AS-ROGP5S-CTR-COM;Asus;ROG Phone 5s;Cámara trasera;Compatible;9,40;;;6
+AS-ROGP5S-CFR-COM;Asus;ROG Phone 5s;Cámara frontal;Compatible;4,85;;;6
+AS-ROGP5S-LEN-COM;Asus;ROG Phone 5s;Lente de cámara;Compatible;3,05;;;6
+AS-ROGP5S-ALT-COM;Asus;ROG Phone 5s;Altavoz;Compatible;4,25;;;6
+AS-ROGP5S-AUR-COM;Asus;ROG Phone 5s;Auricular de llamada;Compatible;3,25;;;6
+AS-ROGP5S-FLX-COM;Asus;ROG Phone 5s;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-ROGP5S-SIM-COM;Asus;ROG Phone 5s;Bandeja SIM;Compatible;3,25;;;6
+AS-ROGP5SP-PAN-INC;Asus;ROG Phone 5s Pro;Pantalla;Incell;27,00;26,19;25,38;6
+AS-ROGP5SP-BAT-COM;Asus;ROG Phone 5s Pro;Batería;Compatible;8,50;;;6
+AS-ROGP5SP-CON-COM;Asus;ROG Phone 5s Pro;Conector de carga;Compatible;5,55;;;6
+AS-ROGP5SP-TAP-COM-NEG;Asus;ROG Phone 5s Pro;Tapa trasera;Negro (Phantom Black);6,89;;;6
+AS-ROGP5SP-CTR-COM;Asus;ROG Phone 5s Pro;Cámara trasera;Compatible;9,40;;;6
+AS-ROGP5SP-CFR-COM;Asus;ROG Phone 5s Pro;Cámara frontal;Compatible;4,85;;;6
+AS-ROGP5SP-LEN-COM;Asus;ROG Phone 5s Pro;Lente de cámara;Compatible;3,05;;;6
+AS-ROGP5SP-ALT-COM;Asus;ROG Phone 5s Pro;Altavoz;Compatible;4,25;;;6
+AS-ROGP5SP-AUR-COM;Asus;ROG Phone 5s Pro;Auricular de llamada;Compatible;3,25;;;6
+AS-ROGP5SP-FLX-COM;Asus;ROG Phone 5s Pro;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-ROGP5SP-SIM-COM;Asus;ROG Phone 5s Pro;Bandeja SIM;Compatible;3,25;;;6
+AS-ROGP6-PAN-INC;Asus;ROG Phone 6;Pantalla;Incell;27,00;26,19;25,38;6
+AS-ROGP6-BAT-COM;Asus;ROG Phone 6;Batería;Compatible;8,50;;;6
+AS-ROGP6-CON-COM;Asus;ROG Phone 6;Conector de carga;Compatible;5,55;;;6
+AS-ROGP6-TAP-COM-NEG;Asus;ROG Phone 6;Tapa trasera;Negro (Phantom Black);6,89;;;6
+AS-ROGP6-TAP-COM-BLA;Asus;ROG Phone 6;Tapa trasera;Blanco (Storm White);6,89;;;6
+AS-ROGP6-CTR-COM;Asus;ROG Phone 6;Cámara trasera;Compatible;9,40;;;6
+AS-ROGP6-CFR-COM;Asus;ROG Phone 6;Cámara frontal;Compatible;4,85;;;6
+AS-ROGP6-LEN-COM;Asus;ROG Phone 6;Lente de cámara;Compatible;3,05;;;6
+AS-ROGP6-ALT-COM;Asus;ROG Phone 6;Altavoz;Compatible;4,25;;;6
+AS-ROGP6-AUR-COM;Asus;ROG Phone 6;Auricular de llamada;Compatible;3,25;;;6
+AS-ROGP6-FLX-COM;Asus;ROG Phone 6;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-ROGP6-SIM-COM;Asus;ROG Phone 6;Bandeja SIM;Compatible;3,25;;;6
+AS-ROGP6P-PAN-INC;Asus;ROG Phone 6 Pro;Pantalla;Incell;27,00;26,19;25,38;6
+AS-ROGP6P-BAT-COM;Asus;ROG Phone 6 Pro;Batería;Compatible;8,50;;;6
+AS-ROGP6P-CON-COM;Asus;ROG Phone 6 Pro;Conector de carga;Compatible;5,55;;;6
+AS-ROGP6P-TAP-COM-BLA;Asus;ROG Phone 6 Pro;Tapa trasera;Blanco (Storm White);6,89;;;6
+AS-ROGP6P-CTR-COM;Asus;ROG Phone 6 Pro;Cámara trasera;Compatible;9,40;;;6
+AS-ROGP6P-CFR-COM;Asus;ROG Phone 6 Pro;Cámara frontal;Compatible;4,85;;;6
+AS-ROGP6P-LEN-COM;Asus;ROG Phone 6 Pro;Lente de cámara;Compatible;3,05;;;6
+AS-ROGP6P-ALT-COM;Asus;ROG Phone 6 Pro;Altavoz;Compatible;4,25;;;6
+AS-ROGP6P-AUR-COM;Asus;ROG Phone 6 Pro;Auricular de llamada;Compatible;3,25;;;6
+AS-ROGP6P-FLX-COM;Asus;ROG Phone 6 Pro;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-ROGP6P-SIM-COM;Asus;ROG Phone 6 Pro;Bandeja SIM;Compatible;3,25;;;6
+AS-Z9-PAN-INC;Asus;Zenfone 9;Pantalla;Incell;19,25;18,67;18,10;6
+AS-Z9-BAT-COM;Asus;Zenfone 9;Batería;Compatible;8,89;;;6
+AS-Z9-CON-COM;Asus;Zenfone 9;Conector de carga;Compatible;4,10;;;6
+AS-Z9-TAP-COM-AZU;Asus;Zenfone 9;Tapa trasera;Azul estrellado;5,60;;;6
+AS-Z9-TAP-COM-ROJ;Asus;Zenfone 9;Tapa trasera;Rojo atardecer;5,60;;;6
+AS-Z9-TAP-COM-BLA;Asus;Zenfone 9;Tapa trasera;Blanco lunar;5,60;;;6
+AS-Z9-TAP-COM-NEG;Asus;Zenfone 9;Tapa trasera;Negro medianoche;5,60;;;6
+AS-Z9-CTR-COM;Asus;Zenfone 9;Cámara trasera;Compatible;7,50;;;6
+AS-Z9-CFR-COM;Asus;Zenfone 9;Cámara frontal;Compatible;3,89;;;6
+AS-Z9-LEN-COM;Asus;Zenfone 9;Lente de cámara;Compatible;2,65;;;6
+AS-Z9-ALT-COM;Asus;Zenfone 9;Altavoz;Compatible;3,70;;;6
+AS-Z9-AUR-COM;Asus;Zenfone 9;Auricular de llamada;Compatible;2,99;;;6
+AS-Z9-FLX-COM;Asus;Zenfone 9;Flex de encendido y volumen;Compatible;2,99;;;6
+AS-Z9-SIM-COM;Asus;Zenfone 9;Bandeja SIM;Compatible;2,99;;;6
+AS-ROGP6D-PAN-INC;Asus;ROG Phone 6D;Pantalla;Incell;27,00;26,19;25,38;6
+AS-ROGP6D-BAT-COM;Asus;ROG Phone 6D;Batería;Compatible;8,50;;;6
+AS-ROGP6D-CON-COM;Asus;ROG Phone 6D;Conector de carga;Compatible;5,55;;;6
+AS-ROGP6D-TAP-COM-GRI;Asus;ROG Phone 6D;Tapa trasera;Gris espacial;6,89;;;6
+AS-ROGP6D-CTR-COM;Asus;ROG Phone 6D;Cámara trasera;Compatible;9,40;;;6
+AS-ROGP6D-CFR-COM;Asus;ROG Phone 6D;Cámara frontal;Compatible;4,85;;;6
+AS-ROGP6D-LEN-COM;Asus;ROG Phone 6D;Lente de cámara;Compatible;3,05;;;6
+AS-ROGP6D-ALT-COM;Asus;ROG Phone 6D;Altavoz;Compatible;4,25;;;6
+AS-ROGP6D-AUR-COM;Asus;ROG Phone 6D;Auricular de llamada;Compatible;3,25;;;6
+AS-ROGP6D-FLX-COM;Asus;ROG Phone 6D;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-ROGP6D-SIM-COM;Asus;ROG Phone 6D;Bandeja SIM;Compatible;3,25;;;6
+AS-ROGP6DU-PAN-INC;Asus;ROG Phone 6D Ultimate;Pantalla;Incell;27,00;26,19;25,38;6
+AS-ROGP6DU-BAT-COM;Asus;ROG Phone 6D Ultimate;Batería;Compatible;8,50;;;6
+AS-ROGP6DU-CON-COM;Asus;ROG Phone 6D Ultimate;Conector de carga;Compatible;5,55;;;6
+AS-ROGP6DU-TAP-COM-GRI;Asus;ROG Phone 6D Ultimate;Tapa trasera;Gris espacial;6,89;;;6
+AS-ROGP6DU-CTR-COM;Asus;ROG Phone 6D Ultimate;Cámara trasera;Compatible;9,40;;;6
+AS-ROGP6DU-CFR-COM;Asus;ROG Phone 6D Ultimate;Cámara frontal;Compatible;4,85;;;6
+AS-ROGP6DU-LEN-COM;Asus;ROG Phone 6D Ultimate;Lente de cámara;Compatible;3,05;;;6
+AS-ROGP6DU-ALT-COM;Asus;ROG Phone 6D Ultimate;Altavoz;Compatible;4,25;;;6
+AS-ROGP6DU-AUR-COM;Asus;ROG Phone 6D Ultimate;Auricular de llamada;Compatible;3,25;;;6
+AS-ROGP6DU-FLX-COM;Asus;ROG Phone 6D Ultimate;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-ROGP6DU-SIM-COM;Asus;ROG Phone 6D Ultimate;Bandeja SIM;Compatible;3,25;;;6
+AS-ROGP7-PAN-INC;Asus;ROG Phone 7;Pantalla;Incell;28,75;27,89;27,03;6
+AS-ROGP7-BAT-COM;Asus;ROG Phone 7;Batería;Compatible;9,70;;;6
+AS-ROGP7-CON-COM;Asus;ROG Phone 7;Conector de carga;Compatible;6,30;;;6
+AS-ROGP7-TAP-COM-NEG;Asus;ROG Phone 7;Tapa trasera;Negro fantasma;7,75;;;6
+AS-ROGP7-TAP-COM-BLA;Asus;ROG Phone 7;Tapa trasera;Blanco Tormenta;7,75;;;6
+AS-ROGP7-CTR-COM;Asus;ROG Phone 7;Cámara trasera;Compatible;13,19;12,79;12,40;6
+AS-ROGP7-CFR-COM;Asus;ROG Phone 7;Cámara frontal;Compatible;7,10;;;6
+AS-ROGP7-LEN-COM;Asus;ROG Phone 7;Lente de cámara;Compatible;3,20;;;6
+AS-ROGP7-ALT-COM;Asus;ROG Phone 7;Altavoz;Compatible;4,55;;;6
+AS-ROGP7-AUR-COM;Asus;ROG Phone 7;Auricular de llamada;Compatible;3,59;;;6
+AS-ROGP7-FLX-COM;Asus;ROG Phone 7;Flex de encendido y volumen;Compatible;3,95;;;6
+AS-ROGP7-SIM-COM;Asus;ROG Phone 7;Bandeja SIM;Compatible;3,15;;;6
+AS-ROGP7U-PAN-INC;Asus;ROG Phone 7 Ultimate;Pantalla;Incell;28,75;27,89;27,03;6
+AS-ROGP7U-BAT-COM;Asus;ROG Phone 7 Ultimate;Batería;Compatible;9,70;;;6
+AS-ROGP7U-CON-COM;Asus;ROG Phone 7 Ultimate;Conector de carga;Compatible;6,30;;;6
+AS-ROGP7U-TAP-COM-BLA;Asus;ROG Phone 7 Ultimate;Tapa trasera;Blanco (Storm White);7,75;;;6
+AS-ROGP7U-CTR-COM;Asus;ROG Phone 7 Ultimate;Cámara trasera;Compatible;13,19;12,79;12,40;6
+AS-ROGP7U-CFR-COM;Asus;ROG Phone 7 Ultimate;Cámara frontal;Compatible;7,10;;;6
+AS-ROGP7U-LEN-COM;Asus;ROG Phone 7 Ultimate;Lente de cámara;Compatible;3,20;;;6
+AS-ROGP7U-ALT-COM;Asus;ROG Phone 7 Ultimate;Altavoz;Compatible;4,55;;;6
+AS-ROGP7U-AUR-COM;Asus;ROG Phone 7 Ultimate;Auricular de llamada;Compatible;3,59;;;6
+AS-ROGP7U-FLX-COM;Asus;ROG Phone 7 Ultimate;Flex de encendido y volumen;Compatible;3,95;;;6
+AS-ROGP7U-SIM-COM;Asus;ROG Phone 7 Ultimate;Bandeja SIM;Compatible;3,15;;;6
+AS-Z10-PAN-INC;Asus;Zenfone 10;Pantalla;Incell;20,50;19,88;19,27;6
+AS-Z10-BAT-COM;Asus;Zenfone 10;Batería;Compatible;10,15;9,85;9,54;6
+AS-Z10-CON-COM;Asus;Zenfone 10;Conector de carga;Compatible;4,70;;;6
+AS-Z10-TAP-COM-AUR;Asus;Zenfone 10;Tapa trasera;Aurora verde;6,29;;;6
+AS-Z10-TAP-COM-AZU;Asus;Zenfone 10;Tapa trasera;Azul estrellado;6,29;;;6
+AS-Z10-TAP-COM-ECL;Asus;Zenfone 10;Tapa trasera;Eclipse Rojo;6,29;;;6
+AS-Z10-TAP-COM-BLA;Asus;Zenfone 10;Tapa trasera;Blanco cometa;6,29;;;6
+AS-Z10-TAP-COM-NEG;Asus;Zenfone 10;Tapa trasera;Negro medianoche;6,29;;;6
+AS-Z10-CTR-COM;Asus;Zenfone 10;Cámara trasera;Compatible;10,55;10,23;9,92;6
+AS-Z10-CFR-COM;Asus;Zenfone 10;Cámara frontal;Compatible;5,69;;;6
+AS-Z10-LEN-COM;Asus;Zenfone 10;Lente de cámara;Compatible;2,75;;;6
+AS-Z10-ALT-COM;Asus;Zenfone 10;Altavoz;Compatible;3,99;;;6
+AS-Z10-AUR-COM;Asus;Zenfone 10;Auricular de llamada;Compatible;3,29;;;6
+AS-Z10-FLX-COM;Asus;Zenfone 10;Flex de encendido y volumen;Compatible;3,60;;;6
+AS-Z10-SIM-COM;Asus;Zenfone 10;Bandeja SIM;Compatible;2,95;;;6
+AS-ROGP8-PAN-INC;Asus;ROG Phone 8;Pantalla;Incell;28,75;27,89;27,03;6
+AS-ROGP8-BAT-COM;Asus;ROG Phone 8;Batería;Compatible;9,70;;;6
+AS-ROGP8-CON-COM;Asus;ROG Phone 8;Conector de carga;Compatible;6,30;;;6
+AS-ROGP8-TAP-COM-NEG;Asus;ROG Phone 8;Tapa trasera;Negro fantasma;7,75;;;6
+AS-ROGP8-TAP-COM-GRI;Asus;ROG Phone 8;Tapa trasera;Gris (Rebel Grey);7,75;;;6
+AS-ROGP8-CTR-COM;Asus;ROG Phone 8;Cámara trasera;Compatible;13,19;12,79;12,40;6
+AS-ROGP8-CFR-COM;Asus;ROG Phone 8;Cámara frontal;Compatible;7,10;;;6
+AS-ROGP8-LEN-COM;Asus;ROG Phone 8;Lente de cámara;Compatible;3,20;;;6
+AS-ROGP8-ALT-COM;Asus;ROG Phone 8;Altavoz;Compatible;4,55;;;6
+AS-ROGP8-AUR-COM;Asus;ROG Phone 8;Auricular de llamada;Compatible;3,59;;;6
+AS-ROGP8-FLX-COM;Asus;ROG Phone 8;Flex de encendido y volumen;Compatible;3,95;;;6
+AS-ROGP8-SIM-COM;Asus;ROG Phone 8;Bandeja SIM;Compatible;3,15;;;6
+AS-ROGP8P-PAN-INC;Asus;ROG Phone 8 Pro;Pantalla;Incell;28,75;27,89;27,03;6
+AS-ROGP8P-BAT-COM;Asus;ROG Phone 8 Pro;Batería;Compatible;9,70;;;6
+AS-ROGP8P-CON-COM;Asus;ROG Phone 8 Pro;Conector de carga;Compatible;6,30;;;6
+AS-ROGP8P-TAP-COM-NEG;Asus;ROG Phone 8 Pro;Tapa trasera;Negro fantasma;7,75;;;6
+AS-ROGP8P-CTR-COM;Asus;ROG Phone 8 Pro;Cámara trasera;Compatible;13,19;12,79;12,40;6
+AS-ROGP8P-CFR-COM;Asus;ROG Phone 8 Pro;Cámara frontal;Compatible;7,10;;;6
+AS-ROGP8P-LEN-COM;Asus;ROG Phone 8 Pro;Lente de cámara;Compatible;3,20;;;6
+AS-ROGP8P-ALT-COM;Asus;ROG Phone 8 Pro;Altavoz;Compatible;4,55;;;6
+AS-ROGP8P-AUR-COM;Asus;ROG Phone 8 Pro;Auricular de llamada;Compatible;3,59;;;6
+AS-ROGP8P-FLX-COM;Asus;ROG Phone 8 Pro;Flex de encendido y volumen;Compatible;3,95;;;6
+AS-ROGP8P-SIM-COM;Asus;ROG Phone 8 Pro;Bandeja SIM;Compatible;3,15;;;6
+AS-Z11U-PAN-INC;Asus;Zenfone 11 Ultra;Pantalla;Incell;31,60;30,65;29,70;6
+AS-Z11U-BAT-COM;Asus;Zenfone 11 Ultra;Batería;Compatible;9,70;;;6
+AS-Z11U-CON-COM;Asus;Zenfone 11 Ultra;Conector de carga;Compatible;6,30;;;6
+AS-Z11U-TAP-COM-VER;Asus;Zenfone 11 Ultra;Tapa trasera;Verde (Verdure Green);7,75;;;6
+AS-Z11U-TAP-COM-ARE;Asus;Zenfone 11 Ultra;Tapa trasera;Arena del Desierto;7,75;;;6
+AS-Z11U-TAP-COM-GRI;Asus;Zenfone 11 Ultra;Tapa trasera;Gris Brumoso;7,75;;;6
+AS-Z11U-TAP-COM-NEG;Asus;Zenfone 11 Ultra;Tapa trasera;Negro Eterno;7,75;;;6
+AS-Z11U-TAP-COM-HOR;Asus;Zenfone 11 Ultra;Tapa trasera;Horizonte Azul;7,75;;;6
+AS-Z11U-CTR-COM;Asus;Zenfone 11 Ultra;Cámara trasera;Compatible;13,19;12,79;12,40;6
+AS-Z11U-CFR-COM;Asus;Zenfone 11 Ultra;Cámara frontal;Compatible;7,10;;;6
+AS-Z11U-LEN-COM;Asus;Zenfone 11 Ultra;Lente de cámara;Compatible;3,20;;;6
+AS-Z11U-ALT-COM;Asus;Zenfone 11 Ultra;Altavoz;Compatible;4,55;;;6
+AS-Z11U-AUR-COM;Asus;Zenfone 11 Ultra;Auricular de llamada;Compatible;3,59;;;6
+AS-Z11U-FLX-COM;Asus;Zenfone 11 Ultra;Flex de encendido y volumen;Compatible;3,95;;;6
+AS-Z11U-SIM-COM;Asus;Zenfone 11 Ultra;Bandeja SIM;Compatible;3,15;;;6
+AS-ROGP9-PAN-INC;Asus;ROG Phone 9;Pantalla;Incell;28,75;27,89;27,03;6
+AS-ROGP9-BAT-COM;Asus;ROG Phone 9;Batería;Compatible;9,70;;;6
+AS-ROGP9-CON-COM;Asus;ROG Phone 9;Conector de carga;Compatible;6,30;;;6
+AS-ROGP9-TAP-COM-NEG;Asus;ROG Phone 9;Tapa trasera;Negro fantasma;7,75;;;6
+AS-ROGP9-TAP-COM-BLA;Asus;ROG Phone 9;Tapa trasera;Blanco Tormenta;7,75;;;6
+AS-ROGP9-CTR-COM;Asus;ROG Phone 9;Cámara trasera;Compatible;13,19;12,79;12,40;6
+AS-ROGP9-CFR-COM;Asus;ROG Phone 9;Cámara frontal;Compatible;7,10;;;6
+AS-ROGP9-LEN-COM;Asus;ROG Phone 9;Lente de cámara;Compatible;3,20;;;6
+AS-ROGP9-ALT-COM;Asus;ROG Phone 9;Altavoz;Compatible;4,55;;;6
+AS-ROGP9-AUR-COM;Asus;ROG Phone 9;Auricular de llamada;Compatible;3,59;;;6
+AS-ROGP9-FLX-COM;Asus;ROG Phone 9;Flex de encendido y volumen;Compatible;3,95;;;6
+AS-ROGP9-SIM-COM;Asus;ROG Phone 9;Bandeja SIM;Compatible;3,15;;;6
+AS-ROGP9P-PAN-INC;Asus;ROG Phone 9 Pro;Pantalla;Incell;28,75;27,89;27,03;6
+AS-ROGP9P-BAT-COM;Asus;ROG Phone 9 Pro;Batería;Compatible;9,70;;;6
+AS-ROGP9P-CON-COM;Asus;ROG Phone 9 Pro;Conector de carga;Compatible;6,30;;;6
+AS-ROGP9P-TAP-COM-NEG;Asus;ROG Phone 9 Pro;Tapa trasera;Negro fantasma;7,75;;;6
+AS-ROGP9P-CTR-COM;Asus;ROG Phone 9 Pro;Cámara trasera;Compatible;13,19;12,79;12,40;6
+AS-ROGP9P-CFR-COM;Asus;ROG Phone 9 Pro;Cámara frontal;Compatible;7,10;;;6
+AS-ROGP9P-LEN-COM;Asus;ROG Phone 9 Pro;Lente de cámara;Compatible;3,20;;;6
+AS-ROGP9P-ALT-COM;Asus;ROG Phone 9 Pro;Altavoz;Compatible;4,55;;;6
+AS-ROGP9P-AUR-COM;Asus;ROG Phone 9 Pro;Auricular de llamada;Compatible;3,59;;;6
+AS-ROGP9P-FLX-COM;Asus;ROG Phone 9 Pro;Flex de encendido y volumen;Compatible;3,95;;;6
+AS-ROGP9P-SIM-COM;Asus;ROG Phone 9 Pro;Bandeja SIM;Compatible;3,15;;;6
+AS-Z12U-PAN-INC;Asus;Zenfone 12 Ultra;Pantalla;Incell;33,30;32,30;31,30;6
+AS-Z12U-BAT-COM;Asus;Zenfone 12 Ultra;Batería;Compatible;9,15;;;6
+AS-Z12U-CON-COM;Asus;Zenfone 12 Ultra;Conector de carga;Compatible;7,55;;;6
+AS-Z12U-TAP-COM-BLA;Asus;Zenfone 12 Ultra;Tapa trasera;Blanco sakura;8,29;;;6
+AS-Z12U-TAP-COM-NEG;Asus;Zenfone 12 Ultra;Tapa trasera;Negro ébano;8,29;;;6
+AS-Z12U-TAP-COM-VER;Asus;Zenfone 12 Ultra;Tapa trasera;Verde salvia;8,29;;;6
+AS-Z12U-CTR-COM;Asus;Zenfone 12 Ultra;Cámara trasera;Compatible;18,05;17,51;16,97;6
+AS-Z12U-CFR-COM;Asus;Zenfone 12 Ultra;Cámara frontal;Compatible;9,90;;;6
+AS-Z12U-LEN-COM;Asus;Zenfone 12 Ultra;Lente de cámara;Compatible;4,10;;;6
+AS-Z12U-ALT-COM;Asus;Zenfone 12 Ultra;Altavoz;Compatible;6,00;;;6
+AS-Z12U-AUR-COM;Asus;Zenfone 12 Ultra;Auricular de llamada;Compatible;5,05;;;6
+AS-Z12U-FLX-COM;Asus;Zenfone 12 Ultra;Flex de encendido y volumen;Compatible;4,29;;;6
+AS-Z12U-SIM-COM;Asus;Zenfone 12 Ultra;Bandeja SIM;Compatible;3,75;;;6
+AS-ROGP9FE-PAN-COM;Asus;ROG Phone 9 FE;Pantalla;Compatible;25,95;25,17;24,39;6
+AS-ROGP9FE-BAT-COM;Asus;ROG Phone 9 FE;Batería;Compatible;9,15;;;6
+AS-ROGP9FE-CON-COM;Asus;ROG Phone 9 FE;Conector de carga;Compatible;7,55;;;6
+AS-ROGP9FE-TAP-COM;Asus;ROG Phone 9 FE;Tapa trasera;Compatible;8,29;;;6
+AS-ROGP9FE-CTR-COM;Asus;ROG Phone 9 FE;Cámara trasera;Compatible;18,05;17,51;16,97;6
+AS-ROGP9FE-CFR-COM;Asus;ROG Phone 9 FE;Cámara frontal;Compatible;9,90;;;6
+AS-ROGP9FE-LEN-COM;Asus;ROG Phone 9 FE;Lente de cámara;Compatible;4,10;;;6
+AS-ROGP9FE-ALT-COM;Asus;ROG Phone 9 FE;Altavoz;Compatible;6,00;;;6
+AS-ROGP9FE-AUR-COM;Asus;ROG Phone 9 FE;Auricular de llamada;Compatible;5,05;;;6
+AS-ROGP9FE-FLX-COM;Asus;ROG Phone 9 FE;Flex de encendido y volumen;Compatible;4,29;;;6
+AS-ROGP9FE-SIM-COM;Asus;ROG Phone 9 FE;Bandeja SIM;Compatible;3,75;;;6
+AS-SFORSI-PAN-COM;Asus;Smartphone for Snapdragon Insiders;Pantalla;Compatible;16,50;16,01;15,51;6
+AS-SFORSI-BAT-COM;Asus;Smartphone for Snapdragon Insiders;Batería;Compatible;8,89;;;6
+AS-SFORSI-CON-COM;Asus;Smartphone for Snapdragon Insiders;Conector de carga;Compatible;4,10;;;6
+AS-SFORSI-TAP-COM;Asus;Smartphone for Snapdragon Insiders;Tapa trasera;Compatible;5,60;;;6
+AS-SFORSI-CTR-COM;Asus;Smartphone for Snapdragon Insiders;Cámara trasera;Compatible;7,50;;;6
+AS-SFORSI-CFR-COM;Asus;Smartphone for Snapdragon Insiders;Cámara frontal;Compatible;3,89;;;6
+AS-SFORSI-LEN-COM;Asus;Smartphone for Snapdragon Insiders;Lente de cámara;Compatible;2,65;;;6
+AS-SFORSI-ALT-COM;Asus;Smartphone for Snapdragon Insiders;Altavoz;Compatible;3,70;;;6
+AS-SFORSI-AUR-COM;Asus;Smartphone for Snapdragon Insiders;Auricular de llamada;Compatible;2,99;;;6
+AS-SFORSI-FLX-COM;Asus;Smartphone for Snapdragon Insiders;Flex de encendido y volumen;Compatible;2,99;;;6
+AS-SFORSI-SIM-COM;Asus;Smartphone for Snapdragon Insiders;Bandeja SIM;Compatible;2,99;;;6
+AS-ROGP5P-PAN-COM;Asus;ROG Phone 5 Pro;Pantalla;Compatible;23,15;22,46;21,76;6
+AS-ROGP5P-BAT-COM;Asus;ROG Phone 5 Pro;Batería;Compatible;8,50;;;6
+AS-ROGP5P-CON-COM;Asus;ROG Phone 5 Pro;Conector de carga;Compatible;5,55;;;6
+AS-ROGP5P-TAP-COM;Asus;ROG Phone 5 Pro;Tapa trasera;Compatible;6,89;;;6
+AS-ROGP5P-CTR-COM;Asus;ROG Phone 5 Pro;Cámara trasera;Compatible;9,40;;;6
+AS-ROGP5P-CFR-COM;Asus;ROG Phone 5 Pro;Cámara frontal;Compatible;4,85;;;6
+AS-ROGP5P-LEN-COM;Asus;ROG Phone 5 Pro;Lente de cámara;Compatible;3,05;;;6
+AS-ROGP5P-ALT-COM;Asus;ROG Phone 5 Pro;Altavoz;Compatible;4,25;;;6
+AS-ROGP5P-AUR-COM;Asus;ROG Phone 5 Pro;Auricular de llamada;Compatible;3,25;;;6
+AS-ROGP5P-FLX-COM;Asus;ROG Phone 5 Pro;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-ROGP5P-SIM-COM;Asus;ROG Phone 5 Pro;Bandeja SIM;Compatible;3,25;;;6
+AS-ZLL2-PAN-COM;Asus;Zenfone Live (L2);Pantalla;Compatible;13,00;12,61;12,22;6
+AS-ZLL2-BAT-COM;Asus;Zenfone Live (L2);Batería;Compatible;8,90;;;6
+AS-ZLL2-CON-COM;Asus;Zenfone Live (L2);Conector de carga;Compatible;3,70;;;6
+AS-ZLL2-TAP-COM;Asus;Zenfone Live (L2);Tapa trasera;Compatible;4,80;;;6
+AS-ZLL2-CTR-COM;Asus;Zenfone Live (L2);Cámara trasera;Compatible;6,65;;;6
+AS-ZLL2-CFR-COM;Asus;Zenfone Live (L2);Cámara frontal;Compatible;4,65;;;6
+AS-ZLL2-LEN-COM;Asus;Zenfone Live (L2);Lente de cámara;Compatible;2,25;;;6
+AS-ZLL2-ALT-COM;Asus;Zenfone Live (L2);Altavoz;Compatible;3,59;;;6
+AS-ZLL2-AUR-COM;Asus;Zenfone Live (L2);Auricular de llamada;Compatible;2,69;;;6
+AS-ZLL2-FLX-COM;Asus;Zenfone Live (L2);Flex de encendido y volumen;Compatible;2,55;;;6
+AS-ZLL2-SIM-COM;Asus;Zenfone Live (L2);Bandeja SIM;Compatible;2,65;;;6
+AS-ZMPLM2-PAN-COM;Asus;Zenfone Max Plus (M2);Pantalla;Compatible;13,00;12,61;12,22;6
+AS-ZMPLM2-BAT-COM;Asus;Zenfone Max Plus (M2);Batería;Compatible;8,90;;;6
+AS-ZMPLM2-CON-COM;Asus;Zenfone Max Plus (M2);Conector de carga;Compatible;3,70;;;6
+AS-ZMPLM2-TAP-COM;Asus;Zenfone Max Plus (M2);Tapa trasera;Compatible;4,80;;;6
+AS-ZMPLM2-CTR-COM;Asus;Zenfone Max Plus (M2);Cámara trasera;Compatible;6,65;;;6
+AS-ZMPLM2-CFR-COM;Asus;Zenfone Max Plus (M2);Cámara frontal;Compatible;4,65;;;6
+AS-ZMPLM2-LEN-COM;Asus;Zenfone Max Plus (M2);Lente de cámara;Compatible;2,25;;;6
+AS-ZMPLM2-ALT-COM;Asus;Zenfone Max Plus (M2);Altavoz;Compatible;3,59;;;6
+AS-ZMPLM2-AUR-COM;Asus;Zenfone Max Plus (M2);Auricular de llamada;Compatible;2,69;;;6
+AS-ZMPLM2-FLX-COM;Asus;Zenfone Max Plus (M2);Flex de encendido y volumen;Compatible;2,55;;;6
+AS-ZMPLM2-SIM-COM;Asus;Zenfone Max Plus (M2);Bandeja SIM;Compatible;2,65;;;6
+AS-ZMPLM2S-PAN-COM;Asus;Zenfone Max Plus (M2) Shot;Pantalla;Compatible;13,00;12,61;12,22;6
+AS-ZMPLM2S-BAT-COM;Asus;Zenfone Max Plus (M2) Shot;Batería;Compatible;8,90;;;6
+AS-ZMPLM2S-CON-COM;Asus;Zenfone Max Plus (M2) Shot;Conector de carga;Compatible;3,70;;;6
+AS-ZMPLM2S-TAP-COM;Asus;Zenfone Max Plus (M2) Shot;Tapa trasera;Compatible;4,80;;;6
+AS-ZMPLM2S-CTR-COM;Asus;Zenfone Max Plus (M2) Shot;Cámara trasera;Compatible;6,65;;;6
+AS-ZMPLM2S-CFR-COM;Asus;Zenfone Max Plus (M2) Shot;Cámara frontal;Compatible;4,65;;;6
+AS-ZMPLM2S-LEN-COM;Asus;Zenfone Max Plus (M2) Shot;Lente de cámara;Compatible;2,25;;;6
+AS-ZMPLM2S-ALT-COM;Asus;Zenfone Max Plus (M2) Shot;Altavoz;Compatible;3,59;;;6
+AS-ZMPLM2S-AUR-COM;Asus;Zenfone Max Plus (M2) Shot;Auricular de llamada;Compatible;2,69;;;6
+AS-ZMPLM2S-FLX-COM;Asus;Zenfone Max Plus (M2) Shot;Flex de encendido y volumen;Compatible;2,55;;;6
+AS-ZMPLM2S-SIM-COM;Asus;Zenfone Max Plus (M2) Shot;Bandeja SIM;Compatible;2,65;;;6
+AS-ZMM2P-PAN-COM;Asus;Zenfone Max (M2) Pro;Pantalla;Compatible;13,00;12,61;12,22;6
+AS-ZMM2P-BAT-COM;Asus;Zenfone Max (M2) Pro;Batería;Compatible;8,90;;;6
+AS-ZMM2P-CON-COM;Asus;Zenfone Max (M2) Pro;Conector de carga;Compatible;3,70;;;6
+AS-ZMM2P-TAP-COM;Asus;Zenfone Max (M2) Pro;Tapa trasera;Compatible;4,80;;;6
+AS-ZMM2P-CTR-COM;Asus;Zenfone Max (M2) Pro;Cámara trasera;Compatible;6,65;;;6
+AS-ZMM2P-CFR-COM;Asus;Zenfone Max (M2) Pro;Cámara frontal;Compatible;4,65;;;6
+AS-ZMM2P-LEN-COM;Asus;Zenfone Max (M2) Pro;Lente de cámara;Compatible;2,25;;;6
+AS-ZMM2P-ALT-COM;Asus;Zenfone Max (M2) Pro;Altavoz;Compatible;3,59;;;6
+AS-ZMM2P-AUR-COM;Asus;Zenfone Max (M2) Pro;Auricular de llamada;Compatible;2,69;;;6
+AS-ZMM2P-FLX-COM;Asus;Zenfone Max (M2) Pro;Flex de encendido y volumen;Compatible;2,55;;;6
+AS-ZMM2P-SIM-COM;Asus;Zenfone Max (M2) Pro;Bandeja SIM;Compatible;2,65;;;6
+AS-ZENFONEL-PAN-COM;Asus;Zenfone Lite L1;Pantalla;Compatible;13,00;12,61;12,22;6
+AS-ZENFONEL-BAT-COM;Asus;Zenfone Lite L1;Batería;Compatible;8,90;;;6
+AS-ZENFONEL-CON-COM;Asus;Zenfone Lite L1;Conector de carga;Compatible;3,70;;;6
+AS-ZENFONEL-TAP-COM;Asus;Zenfone Lite L1;Tapa trasera;Compatible;4,80;;;6
+AS-ZENFONEL-CTR-COM;Asus;Zenfone Lite L1;Cámara trasera;Compatible;6,65;;;6
+AS-ZENFONEL-CFR-COM;Asus;Zenfone Lite L1;Cámara frontal;Compatible;4,65;;;6
+AS-ZENFONEL-LEN-COM;Asus;Zenfone Lite L1;Lente de cámara;Compatible;2,25;;;6
+AS-ZENFONEL-ALT-COM;Asus;Zenfone Lite L1;Altavoz;Compatible;3,59;;;6
+AS-ZENFONEL-AUR-COM;Asus;Zenfone Lite L1;Auricular de llamada;Compatible;2,69;;;6
+AS-ZENFONEL-FLX-COM;Asus;Zenfone Lite L1;Flex de encendido y volumen;Compatible;2,55;;;6
+AS-ZENFONEL-SIM-COM;Asus;Zenfone Lite L1;Bandeja SIM;Compatible;2,65;;;6
+AS-ZLL1-PAN-COM;Asus;Zenfone Live (L1);Pantalla;Compatible;13,00;12,61;12,22;6
+AS-ZLL1-BAT-COM;Asus;Zenfone Live (L1);Batería;Compatible;8,90;;;6
+AS-ZLL1-CON-COM;Asus;Zenfone Live (L1);Conector de carga;Compatible;3,70;;;6
+AS-ZLL1-TAP-COM;Asus;Zenfone Live (L1);Tapa trasera;Compatible;4,80;;;6
+AS-ZLL1-CTR-COM;Asus;Zenfone Live (L1);Cámara trasera;Compatible;6,65;;;6
+AS-ZLL1-CFR-COM;Asus;Zenfone Live (L1);Cámara frontal;Compatible;4,65;;;6
+AS-ZLL1-LEN-COM;Asus;Zenfone Live (L1);Lente de cámara;Compatible;2,25;;;6
+AS-ZLL1-ALT-COM;Asus;Zenfone Live (L1);Altavoz;Compatible;3,59;;;6
+AS-ZLL1-AUR-COM;Asus;Zenfone Live (L1);Auricular de llamada;Compatible;2,69;;;6
+AS-ZLL1-FLX-COM;Asus;Zenfone Live (L1);Flex de encendido y volumen;Compatible;2,55;;;6
+AS-ZLL1-SIM-COM;Asus;Zenfone Live (L1);Bandeja SIM;Compatible;2,65;;;6
+AS-Z3-PAN-COM;Asus;Zenfone 3;Pantalla;Compatible;15,15;14,70;14,24;6
+AS-Z3-BAT-COM;Asus;Zenfone 3;Batería;Compatible;9,65;;;6
+AS-Z3-CON-COM;Asus;Zenfone 3;Conector de carga;Compatible;4,60;;;6
+AS-Z3-TAP-COM;Asus;Zenfone 3;Tapa trasera;Compatible;5,40;;;6
+AS-Z3-CTR-COM;Asus;Zenfone 3;Cámara trasera;Compatible;7,59;;;6
+AS-Z3-CFR-COM;Asus;Zenfone 3;Cámara frontal;Compatible;4,99;;;6
+AS-Z3-LEN-COM;Asus;Zenfone 3;Lente de cámara;Compatible;2,19;;;6
+AS-Z3-ALT-COM;Asus;Zenfone 3;Altavoz;Compatible;3,65;;;6
+AS-Z3-AUR-COM;Asus;Zenfone 3;Auricular de llamada;Compatible;2,65;;;6
+AS-Z3-FLX-COM;Asus;Zenfone 3;Flex de encendido y volumen;Compatible;2,49;;;6
+AS-Z3-SIM-COM;Asus;Zenfone 3;Bandeja SIM;Compatible;2,55;;;6
+AS-Z2-PAN-COM;Asus;Zenfone 2;Pantalla;Compatible;15,15;14,70;14,24;6
+AS-Z2-BAT-COM;Asus;Zenfone 2;Batería;Compatible;9,65;;;6
+AS-Z2-CON-COM;Asus;Zenfone 2;Conector de carga;Compatible;4,60;;;6
+AS-Z2-TAP-COM;Asus;Zenfone 2;Tapa trasera;Compatible;5,40;;;6
+AS-Z2-CTR-COM;Asus;Zenfone 2;Cámara trasera;Compatible;7,59;;;6
+AS-Z2-CFR-COM;Asus;Zenfone 2;Cámara frontal;Compatible;4,99;;;6
+AS-Z2-LEN-COM;Asus;Zenfone 2;Lente de cámara;Compatible;2,19;;;6
+AS-Z2-ALT-COM;Asus;Zenfone 2;Altavoz;Compatible;3,65;;;6
+AS-Z2-AUR-COM;Asus;Zenfone 2;Auricular de llamada;Compatible;2,65;;;6
+AS-Z2-FLX-COM;Asus;Zenfone 2;Flex de encendido y volumen;Compatible;2,49;;;6
+AS-Z2-SIM-COM;Asus;Zenfone 2;Bandeja SIM;Compatible;2,55;;;6
+AS-Z515-PAN-COM;Asus;Zenfone 5 2015;Pantalla;Compatible;15,55;15,08;14,62;6
+AS-Z515-BAT-COM;Asus;Zenfone 5 2015;Batería;Compatible;10,40;10,09;9,78;6
+AS-Z515-CON-COM;Asus;Zenfone 5 2015;Conector de carga;Compatible;4,30;;;6
+AS-Z515-TAP-COM;Asus;Zenfone 5 2015;Tapa trasera;Compatible;5,49;;;6
+AS-Z515-CTR-COM;Asus;Zenfone 5 2015;Cámara trasera;Compatible;9,20;;;6
+AS-Z515-CFR-COM;Asus;Zenfone 5 2015;Cámara frontal;Compatible;5,25;;;6
+AS-Z515-LEN-COM;Asus;Zenfone 5 2015;Lente de cámara;Compatible;2,60;;;6
+AS-Z515-ALT-COM;Asus;Zenfone 5 2015;Altavoz;Compatible;4,05;;;6
+AS-Z515-AUR-COM;Asus;Zenfone 5 2015;Auricular de llamada;Compatible;3,30;;;6
+AS-Z515-FLX-COM;Asus;Zenfone 5 2015;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-Z515-SIM-COM;Asus;Zenfone 5 2015;Bandeja SIM;Compatible;2,90;;;6
+AS-PEGASUS-PAN-COM;Asus;Pegasus;Pantalla;Compatible;15,55;15,08;14,62;6
+AS-PEGASUS-BAT-COM;Asus;Pegasus;Batería;Compatible;10,40;10,09;9,78;6
+AS-PEGASUS-CON-COM;Asus;Pegasus;Conector de carga;Compatible;4,30;;;6
+AS-PEGASUS-TAP-COM;Asus;Pegasus;Tapa trasera;Compatible;5,49;;;6
+AS-PEGASUS-CTR-COM;Asus;Pegasus;Cámara trasera;Compatible;9,20;;;6
+AS-PEGASUS-CFR-COM;Asus;Pegasus;Cámara frontal;Compatible;5,25;;;6
+AS-PEGASUS-LEN-COM;Asus;Pegasus;Lente de cámara;Compatible;2,60;;;6
+AS-PEGASUS-ALT-COM;Asus;Pegasus;Altavoz;Compatible;4,05;;;6
+AS-PEGASUS-AUR-COM;Asus;Pegasus;Auricular de llamada;Compatible;3,30;;;6
+AS-PEGASUS-FLX-COM;Asus;Pegasus;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-PEGASUS-SIM-COM;Asus;Pegasus;Bandeja SIM;Compatible;2,90;;;6
+AS-PXMN-PAN-COM;Asus;PadFone X mini;Pantalla;Compatible;15,55;15,08;14,62;6
+AS-PXMN-BAT-COM;Asus;PadFone X mini;Batería;Compatible;10,40;10,09;9,78;6
+AS-PXMN-CON-COM;Asus;PadFone X mini;Conector de carga;Compatible;4,30;;;6
+AS-PXMN-TAP-COM;Asus;PadFone X mini;Tapa trasera;Compatible;5,49;;;6
+AS-PXMN-CTR-COM;Asus;PadFone X mini;Cámara trasera;Compatible;9,20;;;6
+AS-PXMN-CFR-COM;Asus;PadFone X mini;Cámara frontal;Compatible;5,25;;;6
+AS-PXMN-LEN-COM;Asus;PadFone X mini;Lente de cámara;Compatible;2,60;;;6
+AS-PXMN-ALT-COM;Asus;PadFone X mini;Altavoz;Compatible;4,05;;;6
+AS-PXMN-AUR-COM;Asus;PadFone X mini;Auricular de llamada;Compatible;3,30;;;6
+AS-PXMN-FLX-COM;Asus;PadFone X mini;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-PXMN-SIM-COM;Asus;PadFone X mini;Bandeja SIM;Compatible;2,90;;;6
+AS-Z4514-PAN-COM;Asus;Zenfone 4.5 2014;Pantalla;Compatible;15,15;14,70;14,24;6
+AS-Z4514-BAT-COM;Asus;Zenfone 4.5 2014;Batería;Compatible;9,65;;;6
+AS-Z4514-CON-COM;Asus;Zenfone 4.5 2014;Conector de carga;Compatible;4,60;;;6
+AS-Z4514-TAP-COM;Asus;Zenfone 4.5 2014;Tapa trasera;Compatible;5,40;;;6
+AS-Z4514-CTR-COM;Asus;Zenfone 4.5 2014;Cámara trasera;Compatible;7,59;;;6
+AS-Z4514-CFR-COM;Asus;Zenfone 4.5 2014;Cámara frontal;Compatible;4,99;;;6
+AS-Z4514-LEN-COM;Asus;Zenfone 4.5 2014;Lente de cámara;Compatible;2,19;;;6
+AS-Z4514-ALT-COM;Asus;Zenfone 4.5 2014;Altavoz;Compatible;3,65;;;6
+AS-Z4514-AUR-COM;Asus;Zenfone 4.5 2014;Auricular de llamada;Compatible;2,65;;;6
+AS-Z4514-FLX-COM;Asus;Zenfone 4.5 2014;Flex de encendido y volumen;Compatible;2,49;;;6
+AS-Z4514-SIM-COM;Asus;Zenfone 4.5 2014;Bandeja SIM;Compatible;2,55;;;6
+AS-Z514-PAN-COM;Asus;Zenfone 5 2014;Pantalla;Compatible;15,55;15,08;14,62;6
+AS-Z514-BAT-COM;Asus;Zenfone 5 2014;Batería;Compatible;10,40;10,09;9,78;6
+AS-Z514-CON-COM;Asus;Zenfone 5 2014;Conector de carga;Compatible;4,30;;;6
+AS-Z514-TAP-COM;Asus;Zenfone 5 2014;Tapa trasera;Compatible;5,49;;;6
+AS-Z514-CTR-COM;Asus;Zenfone 5 2014;Cámara trasera;Compatible;9,20;;;6
+AS-Z514-CFR-COM;Asus;Zenfone 5 2014;Cámara frontal;Compatible;5,25;;;6
+AS-Z514-LEN-COM;Asus;Zenfone 5 2014;Lente de cámara;Compatible;2,60;;;6
+AS-Z514-ALT-COM;Asus;Zenfone 5 2014;Altavoz;Compatible;4,05;;;6
+AS-Z514-AUR-COM;Asus;Zenfone 5 2014;Auricular de llamada;Compatible;3,30;;;6
+AS-Z514-FLX-COM;Asus;Zenfone 5 2014;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-Z514-SIM-COM;Asus;Zenfone 5 2014;Bandeja SIM;Compatible;2,90;;;6
+AS-PS-PAN-COM;Asus;PadFone S;Pantalla;Compatible;15,55;15,08;14,62;6
+AS-PS-BAT-COM;Asus;PadFone S;Batería;Compatible;10,40;10,09;9,78;6
+AS-PS-CON-COM;Asus;PadFone S;Conector de carga;Compatible;4,30;;;6
+AS-PS-TAP-COM;Asus;PadFone S;Tapa trasera;Compatible;5,49;;;6
+AS-PS-CTR-COM;Asus;PadFone S;Cámara trasera;Compatible;9,20;;;6
+AS-PS-CFR-COM;Asus;PadFone S;Cámara frontal;Compatible;5,25;;;6
+AS-PS-LEN-COM;Asus;PadFone S;Lente de cámara;Compatible;2,60;;;6
+AS-PS-ALT-COM;Asus;PadFone S;Altavoz;Compatible;4,05;;;6
+AS-PS-AUR-COM;Asus;PadFone S;Auricular de llamada;Compatible;3,30;;;6
+AS-PS-FLX-COM;Asus;PadFone S;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-PS-SIM-COM;Asus;PadFone S;Bandeja SIM;Compatible;2,90;;;6
+AS-PSX-PAN-COM;Asus;PadFone S X;Pantalla;Compatible;15,55;15,08;14,62;6
+AS-PSX-BAT-COM;Asus;PadFone S X;Batería;Compatible;10,40;10,09;9,78;6
+AS-PSX-CON-COM;Asus;PadFone S X;Conector de carga;Compatible;4,30;;;6
+AS-PSX-TAP-COM;Asus;PadFone S X;Tapa trasera;Compatible;5,49;;;6
+AS-PSX-CTR-COM;Asus;PadFone S X;Cámara trasera;Compatible;9,20;;;6
+AS-PSX-CFR-COM;Asus;PadFone S X;Cámara frontal;Compatible;5,25;;;6
+AS-PSX-LEN-COM;Asus;PadFone S X;Lente de cámara;Compatible;2,60;;;6
+AS-PSX-ALT-COM;Asus;PadFone S X;Altavoz;Compatible;4,05;;;6
+AS-PSX-AUR-COM;Asus;PadFone S X;Auricular de llamada;Compatible;3,30;;;6
+AS-PSX-FLX-COM;Asus;PadFone S X;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-PSX-SIM-COM;Asus;PadFone S X;Bandeja SIM;Compatible;2,90;;;6
+AS-Z-PAN-COM;Asus;Zenfone;Pantalla;Compatible;15,55;15,08;14,62;6
+AS-Z-BAT-COM;Asus;Zenfone;Batería;Compatible;10,40;10,09;9,78;6
+AS-Z-CON-COM;Asus;Zenfone;Conector de carga;Compatible;4,30;;;6
+AS-Z-TAP-COM;Asus;Zenfone;Tapa trasera;Compatible;5,49;;;6
+AS-Z-CTR-COM;Asus;Zenfone;Cámara trasera;Compatible;9,20;;;6
+AS-Z-CFR-COM;Asus;Zenfone;Cámara frontal;Compatible;5,25;;;6
+AS-Z-LEN-COM;Asus;Zenfone;Lente de cámara;Compatible;2,60;;;6
+AS-Z-ALT-COM;Asus;Zenfone;Altavoz;Compatible;4,05;;;6
+AS-Z-AUR-COM;Asus;Zenfone;Auricular de llamada;Compatible;3,30;;;6
+AS-Z-FLX-COM;Asus;Zenfone;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-Z-SIM-COM;Asus;Zenfone;Bandeja SIM;Compatible;2,90;;;6
+AS-Z614-PAN-COM;Asus;Zenfone 6 2014;Pantalla;Compatible;15,55;15,08;14,62;6
+AS-Z614-BAT-COM;Asus;Zenfone 6 2014;Batería;Compatible;10,40;10,09;9,78;6
+AS-Z614-CON-COM;Asus;Zenfone 6 2014;Conector de carga;Compatible;4,30;;;6
+AS-Z614-TAP-COM;Asus;Zenfone 6 2014;Tapa trasera;Compatible;5,49;;;6
+AS-Z614-CTR-COM;Asus;Zenfone 6 2014;Cámara trasera;Compatible;9,20;;;6
+AS-Z614-CFR-COM;Asus;Zenfone 6 2014;Cámara frontal;Compatible;5,25;;;6
+AS-Z614-LEN-COM;Asus;Zenfone 6 2014;Lente de cámara;Compatible;2,60;;;6
+AS-Z614-ALT-COM;Asus;Zenfone 6 2014;Altavoz;Compatible;4,05;;;6
+AS-Z614-AUR-COM;Asus;Zenfone 6 2014;Auricular de llamada;Compatible;3,30;;;6
+AS-Z614-FLX-COM;Asus;Zenfone 6 2014;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-Z614-SIM-COM;Asus;Zenfone 6 2014;Bandeja SIM;Compatible;2,90;;;6
+AS-P-PAN-INC;Asus;PadFone;Pantalla;Incell;18,15;17,61;17,06;6
+AS-P-BAT-COM;Asus;PadFone;Batería;Compatible;10,40;10,09;9,78;6
+AS-P-CON-COM;Asus;PadFone;Conector de carga;Compatible;4,30;;;6
+AS-P-TAP-COM;Asus;PadFone;Tapa trasera;Compatible;5,49;;;6
+AS-P-CTR-COM;Asus;PadFone;Cámara trasera;Compatible;9,20;;;6
+AS-P-CFR-COM;Asus;PadFone;Cámara frontal;Compatible;5,25;;;6
+AS-P-LEN-COM;Asus;PadFone;Lente de cámara;Compatible;2,60;;;6
+AS-P-ALT-COM;Asus;PadFone;Altavoz;Compatible;4,05;;;6
+AS-P-AUR-COM;Asus;PadFone;Auricular de llamada;Compatible;3,30;;;6
+AS-P-FLX-COM;Asus;PadFone;Flex de encendido y volumen;Compatible;3,25;;;6
+AS-P-SIM-COM;Asus;PadFone;Bandeja SIM;Compatible;2,90;;;6
+AS-Z3L-PRO-NA;Asus;Zenfone 3 Laser;Cristal templado;Estándar;1,30;;;
+AS-Z3L-PRO-PRI;Asus;Zenfone 3 Laser;Cristal templado;Privacidad;4,00;;;
+AS-Z3L-FUN-SIL;Asus;Zenfone 3 Laser;Funda;Silicona;2,50;;;
+AS-Z3L-FUN-TPU;Asus;Zenfone 3 Laser;Funda;Transparente;2,95;;;
+AS-Z3L-FUN-LIB;Asus;Zenfone 3 Laser;Funda;Libro;3,70;;;
+AS-Z3L-FUN-ANT;Asus;Zenfone 3 Laser;Funda;Antigolpes;3,10;;;
+AS-Z3MZC520-PRO-NA;Asus;Zenfone 3 Max ZC520TL;Cristal templado;Estándar;1,30;;;
+AS-Z3MZC520-PRO-PRI;Asus;Zenfone 3 Max ZC520TL;Cristal templado;Privacidad;4,00;;;
+AS-Z3MZC520-FUN-SIL;Asus;Zenfone 3 Max ZC520TL;Funda;Silicona;2,50;;;
+AS-Z3MZC520-FUN-TPU;Asus;Zenfone 3 Max ZC520TL;Funda;Transparente;2,95;;;
+AS-Z3MZC520-FUN-LIB;Asus;Zenfone 3 Max ZC520TL;Funda;Libro;3,70;;;
+AS-Z3MZC520-FUN-ANT;Asus;Zenfone 3 Max ZC520TL;Funda;Antigolpes;3,10;;;
+AS-Z3MZC553-PRO-NA;Asus;Zenfone 3 Max ZC553KL;Cristal templado;Estándar;1,30;;;
+AS-Z3MZC553-PRO-PRI;Asus;Zenfone 3 Max ZC553KL;Cristal templado;Privacidad;4,00;;;
+AS-Z3MZC553-FUN-SIL;Asus;Zenfone 3 Max ZC553KL;Funda;Silicona;2,50;;;
+AS-Z3MZC553-FUN-TPU;Asus;Zenfone 3 Max ZC553KL;Funda;Transparente;2,95;;;
+AS-Z3MZC553-FUN-LIB;Asus;Zenfone 3 Max ZC553KL;Funda;Libro;3,70;;;
+AS-Z3MZC553-FUN-ANT;Asus;Zenfone 3 Max ZC553KL;Funda;Antigolpes;3,10;;;
+AS-Z3D-PRO-NA;Asus;Zenfone 3 Deluxe;Cristal templado;Estándar;1,30;;;
+AS-Z3D-PRO-PRI;Asus;Zenfone 3 Deluxe;Cristal templado;Privacidad;4,00;;;
+AS-Z3D-FUN-SIL;Asus;Zenfone 3 Deluxe;Funda;Silicona;2,50;;;
+AS-Z3D-FUN-TPU;Asus;Zenfone 3 Deluxe;Funda;Transparente;2,95;;;
+AS-Z3D-FUN-LIB;Asus;Zenfone 3 Deluxe;Funda;Libro;3,70;;;
+AS-Z3D-FUN-ANT;Asus;Zenfone 3 Deluxe;Funda;Antigolpes;3,10;;;
+AS-Z3U-PRO-NA;Asus;Zenfone 3 Ultra;Cristal templado;Estándar;1,30;;;
+AS-Z3U-PRO-NA-FG;Asus;Zenfone 3 Ultra;Cristal templado;UV full glue;4,15;;;
+AS-Z3U-PRO-PRI;Asus;Zenfone 3 Ultra;Cristal templado;Privacidad;4,00;;;
+AS-Z3U-FUN-SIL;Asus;Zenfone 3 Ultra;Funda;Silicona;2,50;;;
+AS-Z3U-FUN-TPU;Asus;Zenfone 3 Ultra;Funda;Transparente;2,95;;;
+AS-Z3U-FUN-LIB;Asus;Zenfone 3 Ultra;Funda;Libro;3,70;;;
+AS-Z3U-FUN-ANT;Asus;Zenfone 3 Ultra;Funda;Antigolpes;3,10;;;
+AS-Z3ZE520K-PRO-NA;Asus;Zenfone 3 ZE520KL;Cristal templado;Estándar;1,30;;;
+AS-Z3ZE520K-PRO-PRI;Asus;Zenfone 3 ZE520KL;Cristal templado;Privacidad;4,00;;;
+AS-Z3ZE520K-FUN-SIL;Asus;Zenfone 3 ZE520KL;Funda;Silicona;2,50;;;
+AS-Z3ZE520K-FUN-TPU;Asus;Zenfone 3 ZE520KL;Funda;Transparente;2,95;;;
+AS-Z3ZE520K-FUN-LIB;Asus;Zenfone 3 ZE520KL;Funda;Libro;3,70;;;
+AS-Z3ZE520K-FUN-ANT;Asus;Zenfone 3 ZE520KL;Funda;Antigolpes;3,10;;;
+AS-Z3ZE552K-PRO-NA;Asus;Zenfone 3 ZE552KL;Cristal templado;Estándar;1,30;;;
+AS-Z3ZE552K-PRO-PRI;Asus;Zenfone 3 ZE552KL;Cristal templado;Privacidad;4,00;;;
+AS-Z3ZE552K-FUN-SIL;Asus;Zenfone 3 ZE552KL;Funda;Silicona;2,50;;;
+AS-Z3ZE552K-FUN-TPU;Asus;Zenfone 3 ZE552KL;Funda;Transparente;2,95;;;
+AS-Z3ZE552K-FUN-LIB;Asus;Zenfone 3 ZE552KL;Funda;Libro;3,70;;;
+AS-Z3ZE552K-FUN-ANT;Asus;Zenfone 3 ZE552KL;Funda;Antigolpes;3,10;;;
+AS-ZAR-PRO-NA;Asus;Zenfone AR;Cristal templado;Estándar;1,30;;;
+AS-ZAR-PRO-PRI;Asus;Zenfone AR;Cristal templado;Privacidad;4,00;;;
+AS-ZAR-FUN-SIL;Asus;Zenfone AR;Funda;Silicona;2,50;;;
+AS-ZAR-FUN-TPU;Asus;Zenfone AR;Funda;Transparente;2,95;;;
+AS-ZAR-FUN-LIB;Asus;Zenfone AR;Funda;Libro;3,70;;;
+AS-ZAR-FUN-ANT;Asus;Zenfone AR;Funda;Antigolpes;3,10;;;
+AS-ZZS-PRO-NA;Asus;Zenfone Zoom S;Cristal templado;Estándar;1,30;;;
+AS-ZZS-PRO-PRI;Asus;Zenfone Zoom S;Cristal templado;Privacidad;4,00;;;
+AS-ZZS-FUN-SIL;Asus;Zenfone Zoom S;Funda;Silicona;2,50;;;
+AS-ZZS-FUN-TPU;Asus;Zenfone Zoom S;Funda;Transparente;2,95;;;
+AS-ZZS-FUN-LIB;Asus;Zenfone Zoom S;Funda;Libro;3,70;;;
+AS-ZZS-FUN-ANT;Asus;Zenfone Zoom S;Funda;Antigolpes;3,10;;;
+AS-ZL-PRO-NA;Asus;Zenfone Live;Cristal templado;Estándar;1,30;;;
+AS-ZL-PRO-PRI;Asus;Zenfone Live;Cristal templado;Privacidad;4,00;;;
+AS-ZL-FUN-SIL;Asus;Zenfone Live;Funda;Silicona;2,50;;;
+AS-ZL-FUN-TPU;Asus;Zenfone Live;Funda;Transparente;2,95;;;
+AS-ZL-FUN-LIB;Asus;Zenfone Live;Funda;Libro;3,70;;;
+AS-ZL-FUN-ANT;Asus;Zenfone Live;Funda;Antigolpes;3,10;;;
+AS-Z4-PRO-NA;Asus;Zenfone 4;Cristal templado;Estándar;1,30;;;
+AS-Z4-PRO-PRI;Asus;Zenfone 4;Cristal templado;Privacidad;4,00;;;
+AS-Z4-FUN-SIL;Asus;Zenfone 4;Funda;Silicona;2,50;;;
+AS-Z4-FUN-TPU;Asus;Zenfone 4;Funda;Transparente;2,95;;;
+AS-Z4-FUN-LIB;Asus;Zenfone 4;Funda;Libro;3,70;;;
+AS-Z4-FUN-ANT;Asus;Zenfone 4;Funda;Antigolpes;3,10;;;
+AS-Z4MZC520-PRO-NA;Asus;Zenfone 4 Max ZC520KL;Cristal templado;Estándar;1,30;;;
+AS-Z4MZC520-PRO-PRI;Asus;Zenfone 4 Max ZC520KL;Cristal templado;Privacidad;4,00;;;
+AS-Z4MZC520-FUN-SIL;Asus;Zenfone 4 Max ZC520KL;Funda;Silicona;2,50;;;
+AS-Z4MZC520-FUN-TPU;Asus;Zenfone 4 Max ZC520KL;Funda;Transparente;2,95;;;
+AS-Z4MZC520-FUN-LIB;Asus;Zenfone 4 Max ZC520KL;Funda;Libro;3,70;;;
+AS-Z4MZC520-FUN-ANT;Asus;Zenfone 4 Max ZC520KL;Funda;Antigolpes;3,10;;;
+AS-Z4MZC554-PRO-NA;Asus;Zenfone 4 Max ZC554KL;Cristal templado;Estándar;1,30;;;
+AS-Z4MZC554-PRO-PRI;Asus;Zenfone 4 Max ZC554KL;Cristal templado;Privacidad;4,00;;;
+AS-Z4MZC554-FUN-SIL;Asus;Zenfone 4 Max ZC554KL;Funda;Silicona;2,50;;;
+AS-Z4MZC554-FUN-TPU;Asus;Zenfone 4 Max ZC554KL;Funda;Transparente;2,95;;;
+AS-Z4MZC554-FUN-LIB;Asus;Zenfone 4 Max ZC554KL;Funda;Libro;3,70;;;
+AS-Z4MZC554-FUN-ANT;Asus;Zenfone 4 Max ZC554KL;Funda;Antigolpes;3,10;;;
+AS-Z4P-PRO-NA;Asus;Zenfone 4 Pro;Cristal templado;Estándar;1,30;;;
+AS-Z4P-PRO-PRI;Asus;Zenfone 4 Pro;Cristal templado;Privacidad;4,00;;;
+AS-Z4P-FUN-SIL;Asus;Zenfone 4 Pro;Funda;Silicona;2,50;;;
+AS-Z4P-FUN-TPU;Asus;Zenfone 4 Pro;Funda;Transparente;2,95;;;
+AS-Z4P-FUN-LIB;Asus;Zenfone 4 Pro;Funda;Libro;3,70;;;
+AS-Z4P-FUN-ANT;Asus;Zenfone 4 Pro;Funda;Antigolpes;3,10;;;
+AS-Z4S-PRO-NA;Asus;Zenfone 4 Selfie;Cristal templado;Estándar;1,30;;;
+AS-Z4S-PRO-PRI;Asus;Zenfone 4 Selfie;Cristal templado;Privacidad;4,00;;;
+AS-Z4S-FUN-SIL;Asus;Zenfone 4 Selfie;Funda;Silicona;2,50;;;
+AS-Z4S-FUN-TPU;Asus;Zenfone 4 Selfie;Funda;Transparente;2,95;;;
+AS-Z4S-FUN-LIB;Asus;Zenfone 4 Selfie;Funda;Libro;3,70;;;
+AS-Z4S-FUN-ANT;Asus;Zenfone 4 Selfie;Funda;Antigolpes;3,10;;;
+AS-Z4SP-PRO-NA;Asus;Zenfone 4 Selfie Pro;Cristal templado;Estándar;1,30;;;
+AS-Z4SP-PRO-PRI;Asus;Zenfone 4 Selfie Pro;Cristal templado;Privacidad;4,00;;;
+AS-Z4SP-FUN-SIL;Asus;Zenfone 4 Selfie Pro;Funda;Silicona;2,50;;;
+AS-Z4SP-FUN-TPU;Asus;Zenfone 4 Selfie Pro;Funda;Transparente;2,95;;;
+AS-Z4SP-FUN-LIB;Asus;Zenfone 4 Selfie Pro;Funda;Libro;3,70;;;
+AS-Z4SP-FUN-ANT;Asus;Zenfone 4 Selfie Pro;Funda;Antigolpes;3,10;;;
+AS-ZMPLM1-PRO-NA;Asus;Zenfone Max Plus M1;Cristal templado;Estándar;1,30;;;
+AS-ZMPLM1-PRO-PRI;Asus;Zenfone Max Plus M1;Cristal templado;Privacidad;4,00;;;
+AS-ZMPLM1-FUN-SIL;Asus;Zenfone Max Plus M1;Funda;Silicona;2,50;;;
+AS-ZMPLM1-FUN-TPU;Asus;Zenfone Max Plus M1;Funda;Transparente;2,95;;;
+AS-ZMPLM1-FUN-LIB;Asus;Zenfone Max Plus M1;Funda;Libro;3,70;;;
+AS-ZMPLM1-FUN-ANT;Asus;Zenfone Max Plus M1;Funda;Antigolpes;3,10;;;
+AS-Z5-PRO-NA;Asus;Zenfone 5;Cristal templado;Estándar;1,30;;;
+AS-Z5-PRO-PRI;Asus;Zenfone 5;Cristal templado;Privacidad;4,00;;;
+AS-Z5-FUN-SIL;Asus;Zenfone 5;Funda;Silicona;2,50;;;
+AS-Z5-FUN-TPU;Asus;Zenfone 5;Funda;Transparente;2,95;;;
+AS-Z5-FUN-LIB;Asus;Zenfone 5;Funda;Libro;3,70;;;
+AS-Z5-FUN-ANT;Asus;Zenfone 5;Funda;Antigolpes;3,10;;;
+AS-Z5L-PRO-NA;Asus;Zenfone 5 Lite;Cristal templado;Estándar;1,30;;;
+AS-Z5L-PRO-PRI;Asus;Zenfone 5 Lite;Cristal templado;Privacidad;4,00;;;
+AS-Z5L-FUN-SIL;Asus;Zenfone 5 Lite;Funda;Silicona;2,50;;;
+AS-Z5L-FUN-TPU;Asus;Zenfone 5 Lite;Funda;Transparente;2,95;;;
+AS-Z5L-FUN-LIB;Asus;Zenfone 5 Lite;Funda;Libro;3,70;;;
+AS-Z5L-FUN-ANT;Asus;Zenfone 5 Lite;Funda;Antigolpes;3,10;;;
+AS-Z5Z-PRO-NA;Asus;Zenfone 5Z;Cristal templado;Estándar;1,30;;;
+AS-Z5Z-PRO-PRI;Asus;Zenfone 5Z;Cristal templado;Privacidad;4,00;;;
+AS-Z5Z-FUN-SIL;Asus;Zenfone 5Z;Funda;Silicona;2,50;;;
+AS-Z5Z-FUN-TPU;Asus;Zenfone 5Z;Funda;Transparente;2,95;;;
+AS-Z5Z-FUN-LIB;Asus;Zenfone 5Z;Funda;Libro;3,70;;;
+AS-Z5Z-FUN-ANT;Asus;Zenfone 5Z;Funda;Antigolpes;3,10;;;
+AS-ZMM1-PRO-NA;Asus;Zenfone Max M1;Cristal templado;Estándar;1,30;;;
+AS-ZMM1-PRO-PRI;Asus;Zenfone Max M1;Cristal templado;Privacidad;4,00;;;
+AS-ZMM1-FUN-SIL;Asus;Zenfone Max M1;Funda;Silicona;2,50;;;
+AS-ZMM1-FUN-TPU;Asus;Zenfone Max M1;Funda;Transparente;2,95;;;
+AS-ZMM1-FUN-LIB;Asus;Zenfone Max M1;Funda;Libro;3,70;;;
+AS-ZMM1-FUN-ANT;Asus;Zenfone Max M1;Funda;Antigolpes;3,10;;;
+AS-ZMPM1-PRO-NA;Asus;Zenfone Max Pro M1;Cristal templado;Estándar;1,30;;;
+AS-ZMPM1-PRO-PRI;Asus;Zenfone Max Pro M1;Cristal templado;Privacidad;4,00;;;
+AS-ZMPM1-FUN-SIL;Asus;Zenfone Max Pro M1;Funda;Silicona;2,50;;;
+AS-ZMPM1-FUN-TPU;Asus;Zenfone Max Pro M1;Funda;Transparente;2,95;;;
+AS-ZMPM1-FUN-LIB;Asus;Zenfone Max Pro M1;Funda;Libro;3,70;;;
+AS-ZMPM1-FUN-ANT;Asus;Zenfone Max Pro M1;Funda;Antigolpes;3,10;;;
+AS-ROGP-PRO-NA;Asus;ROG Phone;Cristal templado;Estándar;1,30;;;
+AS-ROGP-PRO-NA-FG;Asus;ROG Phone;Cristal templado;UV full glue;4,15;;;
+AS-ROGP-PRO-PRI;Asus;ROG Phone;Cristal templado;Privacidad;4,00;;;
+AS-ROGP-FUN-SIL;Asus;ROG Phone;Funda;Silicona;2,50;;;
+AS-ROGP-FUN-TPU;Asus;ROG Phone;Funda;Transparente;2,95;;;
+AS-ROGP-FUN-LIB;Asus;ROG Phone;Funda;Libro;3,70;;;
+AS-ROGP-FUN-ANT;Asus;ROG Phone;Funda;Antigolpes;3,10;;;
+AS-ZMM2-PRO-NA;Asus;Zenfone Max M2;Cristal templado;Estándar;1,30;;;
+AS-ZMM2-PRO-PRI;Asus;Zenfone Max M2;Cristal templado;Privacidad;4,00;;;
+AS-ZMM2-FUN-SIL;Asus;Zenfone Max M2;Funda;Silicona;2,50;;;
+AS-ZMM2-FUN-TPU;Asus;Zenfone Max M2;Funda;Transparente;2,95;;;
+AS-ZMM2-FUN-LIB;Asus;Zenfone Max M2;Funda;Libro;3,70;;;
+AS-ZMM2-FUN-ANT;Asus;Zenfone Max M2;Funda;Antigolpes;3,10;;;
+AS-ZMPM2-PRO-NA;Asus;Zenfone Max Pro M2;Cristal templado;Estándar;1,30;;;
+AS-ZMPM2-PRO-PRI;Asus;Zenfone Max Pro M2;Cristal templado;Privacidad;4,00;;;
+AS-ZMPM2-FUN-SIL;Asus;Zenfone Max Pro M2;Funda;Silicona;2,50;;;
+AS-ZMPM2-FUN-TPU;Asus;Zenfone Max Pro M2;Funda;Transparente;2,95;;;
+AS-ZMPM2-FUN-LIB;Asus;Zenfone Max Pro M2;Funda;Libro;3,70;;;
+AS-ZMPM2-FUN-ANT;Asus;Zenfone Max Pro M2;Funda;Antigolpes;3,10;;;
+AS-Z6-PRO-NA;Asus;Zenfone 6;Cristal templado;Estándar;1,30;;;
+AS-Z6-PRO-PRI;Asus;Zenfone 6;Cristal templado;Privacidad;4,00;;;
+AS-Z6-FUN-SIL;Asus;Zenfone 6;Funda;Silicona;2,50;;;
+AS-Z6-FUN-TPU;Asus;Zenfone 6;Funda;Transparente;2,95;;;
+AS-Z6-FUN-LIB;Asus;Zenfone 6;Funda;Libro;3,70;;;
+AS-Z6-FUN-ANT;Asus;Zenfone 6;Funda;Antigolpes;3,10;;;
+AS-Z6-PCA-NA;Asus;Zenfone 6;Protector de cámara;Cristal;2,90;;;
+AS-ROGPII-PRO-NA;Asus;ROG Phone II;Cristal templado;Estándar;1,30;;;
+AS-ROGPII-PRO-NA-FG;Asus;ROG Phone II;Cristal templado;UV full glue;4,15;;;
+AS-ROGPII-PRO-PRI;Asus;ROG Phone II;Cristal templado;Privacidad;4,00;;;
+AS-ROGPII-FUN-SIL;Asus;ROG Phone II;Funda;Silicona;2,50;;;
+AS-ROGPII-FUN-TPU;Asus;ROG Phone II;Funda;Transparente;2,95;;;
+AS-ROGPII-FUN-LIB;Asus;ROG Phone II;Funda;Libro;3,70;;;
+AS-ROGPII-FUN-ANT;Asus;ROG Phone II;Funda;Antigolpes;3,10;;;
+AS-ROGPII-PCA-NA;Asus;ROG Phone II;Protector de cámara;Cristal;2,90;;;
+AS-ROGP3-PRO-NA;Asus;ROG Phone 3;Cristal templado;Estándar;1,30;;;
+AS-ROGP3-PRO-NA-FG;Asus;ROG Phone 3;Cristal templado;UV full glue;4,15;;;
+AS-ROGP3-PRO-PRI;Asus;ROG Phone 3;Cristal templado;Privacidad;4,00;;;
+AS-ROGP3-FUN-SIL;Asus;ROG Phone 3;Funda;Silicona;2,50;;;
+AS-ROGP3-FUN-TPU;Asus;ROG Phone 3;Funda;Transparente;2,95;;;
+AS-ROGP3-FUN-LIB;Asus;ROG Phone 3;Funda;Libro;3,70;;;
+AS-ROGP3-FUN-ANT;Asus;ROG Phone 3;Funda;Antigolpes;3,10;;;
+AS-ROGP3-PCA-NA;Asus;ROG Phone 3;Protector de cámara;Cristal;2,90;;;
+AS-Z7-PRO-NA;Asus;Zenfone 7;Cristal templado;Estándar;1,30;;;
+AS-Z7-PRO-PRI;Asus;Zenfone 7;Cristal templado;Privacidad;4,00;;;
+AS-Z7-FUN-SIL;Asus;Zenfone 7;Funda;Silicona;2,50;;;
+AS-Z7-FUN-TPU;Asus;Zenfone 7;Funda;Transparente;2,95;;;
+AS-Z7-FUN-LIB;Asus;Zenfone 7;Funda;Libro;3,70;;;
+AS-Z7-FUN-ANT;Asus;Zenfone 7;Funda;Antigolpes;3,10;;;
+AS-Z7-PCA-NA;Asus;Zenfone 7;Protector de cámara;Cristal;2,90;;;
+AS-Z7P-PRO-NA;Asus;Zenfone 7 Pro;Cristal templado;Estándar;1,30;;;
+AS-Z7P-PRO-PRI;Asus;Zenfone 7 Pro;Cristal templado;Privacidad;4,00;;;
+AS-Z7P-FUN-SIL;Asus;Zenfone 7 Pro;Funda;Silicona;2,50;;;
+AS-Z7P-FUN-TPU;Asus;Zenfone 7 Pro;Funda;Transparente;2,95;;;
+AS-Z7P-FUN-LIB;Asus;Zenfone 7 Pro;Funda;Libro;3,70;;;
+AS-Z7P-FUN-ANT;Asus;Zenfone 7 Pro;Funda;Antigolpes;3,10;;;
+AS-Z7P-PCA-NA;Asus;Zenfone 7 Pro;Protector de cámara;Cristal;2,90;;;
+AS-ROGP5-PRO-NA;Asus;ROG Phone 5;Cristal templado;Estándar;1,30;;;
+AS-ROGP5-PRO-NA-FG;Asus;ROG Phone 5;Cristal templado;UV full glue;4,15;;;
+AS-ROGP5-PRO-PRI;Asus;ROG Phone 5;Cristal templado;Privacidad;4,00;;;
+AS-ROGP5-FUN-SIL;Asus;ROG Phone 5;Funda;Silicona;2,50;;;
+AS-ROGP5-FUN-TPU;Asus;ROG Phone 5;Funda;Transparente;2,95;;;
+AS-ROGP5-FUN-LIB;Asus;ROG Phone 5;Funda;Libro;3,70;;;
+AS-ROGP5-FUN-ANT;Asus;ROG Phone 5;Funda;Antigolpes;3,10;;;
+AS-ROGP5-PCA-NA;Asus;ROG Phone 5;Protector de cámara;Cristal;2,90;;;
+AS-ROGP5U-PRO-NA;Asus;ROG Phone 5 Ultimate;Cristal templado;Estándar;1,30;;;
+AS-ROGP5U-PRO-NA-FG;Asus;ROG Phone 5 Ultimate;Cristal templado;UV full glue;4,15;;;
+AS-ROGP5U-PRO-PRI;Asus;ROG Phone 5 Ultimate;Cristal templado;Privacidad;4,00;;;
+AS-ROGP5U-FUN-SIL;Asus;ROG Phone 5 Ultimate;Funda;Silicona;2,50;;;
+AS-ROGP5U-FUN-TPU;Asus;ROG Phone 5 Ultimate;Funda;Transparente;2,95;;;
+AS-ROGP5U-FUN-LIB;Asus;ROG Phone 5 Ultimate;Funda;Libro;3,70;;;
+AS-ROGP5U-FUN-ANT;Asus;ROG Phone 5 Ultimate;Funda;Antigolpes;3,10;;;
+AS-ROGP5U-PCA-NA;Asus;ROG Phone 5 Ultimate;Protector de cámara;Cristal;2,90;;;
+AS-Z8-PRO-NA;Asus;Zenfone 8;Cristal templado;Estándar;1,30;;;
+AS-Z8-PRO-PRI;Asus;Zenfone 8;Cristal templado;Privacidad;4,00;;;
+AS-Z8-FUN-SIL;Asus;Zenfone 8;Funda;Silicona;2,50;;;
+AS-Z8-FUN-TPU;Asus;Zenfone 8;Funda;Transparente;2,95;;;
+AS-Z8-FUN-LIB;Asus;Zenfone 8;Funda;Libro;3,70;;;
+AS-Z8-FUN-ANT;Asus;Zenfone 8;Funda;Antigolpes;3,10;;;
+AS-Z8-PCA-NA;Asus;Zenfone 8;Protector de cámara;Cristal;2,90;;;
+AS-Z8FL-PRO-NA;Asus;Zenfone 8 Flip;Cristal templado;Estándar;1,30;;;
+AS-Z8FL-PRO-PRI;Asus;Zenfone 8 Flip;Cristal templado;Privacidad;4,00;;;
+AS-Z8FL-FUN-SIL;Asus;Zenfone 8 Flip;Funda;Silicona;2,50;;;
+AS-Z8FL-FUN-TPU;Asus;Zenfone 8 Flip;Funda;Transparente;2,95;;;
+AS-Z8FL-FUN-LIB;Asus;Zenfone 8 Flip;Funda;Libro;3,70;;;
+AS-Z8FL-FUN-ANT;Asus;Zenfone 8 Flip;Funda;Antigolpes;3,10;;;
+AS-Z8FL-PCA-NA;Asus;Zenfone 8 Flip;Protector de cámara;Cristal;2,90;;;
+AS-ROGP5S-PRO-NA;Asus;ROG Phone 5s;Cristal templado;Estándar;1,30;;;
+AS-ROGP5S-PRO-NA-FG;Asus;ROG Phone 5s;Cristal templado;UV full glue;4,15;;;
+AS-ROGP5S-PRO-PRI;Asus;ROG Phone 5s;Cristal templado;Privacidad;4,00;;;
+AS-ROGP5S-FUN-SIL;Asus;ROG Phone 5s;Funda;Silicona;2,50;;;
+AS-ROGP5S-FUN-TPU;Asus;ROG Phone 5s;Funda;Transparente;2,95;;;
+AS-ROGP5S-FUN-LIB;Asus;ROG Phone 5s;Funda;Libro;3,70;;;
+AS-ROGP5S-FUN-ANT;Asus;ROG Phone 5s;Funda;Antigolpes;3,10;;;
+AS-ROGP5S-PCA-NA;Asus;ROG Phone 5s;Protector de cámara;Cristal;2,90;;;
+AS-ROGP5SP-PRO-NA;Asus;ROG Phone 5s Pro;Cristal templado;Estándar;1,30;;;
+AS-ROGP5SP-PRO-NA-FG;Asus;ROG Phone 5s Pro;Cristal templado;UV full glue;4,15;;;
+AS-ROGP5SP-PRO-PRI;Asus;ROG Phone 5s Pro;Cristal templado;Privacidad;4,00;;;
+AS-ROGP5SP-FUN-SIL;Asus;ROG Phone 5s Pro;Funda;Silicona;2,50;;;
+AS-ROGP5SP-FUN-TPU;Asus;ROG Phone 5s Pro;Funda;Transparente;2,95;;;
+AS-ROGP5SP-FUN-LIB;Asus;ROG Phone 5s Pro;Funda;Libro;3,70;;;
+AS-ROGP5SP-FUN-ANT;Asus;ROG Phone 5s Pro;Funda;Antigolpes;3,10;;;
+AS-ROGP6-PRO-NA;Asus;ROG Phone 6;Cristal templado;Estándar;1,30;;;
+AS-ROGP6-PRO-NA-FG;Asus;ROG Phone 6;Cristal templado;UV full glue;4,15;;;
+AS-ROGP6-PRO-PRI;Asus;ROG Phone 6;Cristal templado;Privacidad;4,00;;;
+AS-ROGP6-FUN-SIL;Asus;ROG Phone 6;Funda;Silicona;2,50;;;
+AS-ROGP6-FUN-TPU;Asus;ROG Phone 6;Funda;Transparente;2,95;;;
+AS-ROGP6-FUN-LIB;Asus;ROG Phone 6;Funda;Libro;3,70;;;
+AS-ROGP6-FUN-ANT;Asus;ROG Phone 6;Funda;Antigolpes;3,10;;;
+AS-ROGP6-PCA-NA;Asus;ROG Phone 6;Protector de cámara;Cristal;2,90;;;
+AS-ROGP6P-PRO-NA;Asus;ROG Phone 6 Pro;Cristal templado;Estándar;1,30;;;
+AS-ROGP6P-PRO-NA-FG;Asus;ROG Phone 6 Pro;Cristal templado;UV full glue;4,15;;;
+AS-ROGP6P-PRO-PRI;Asus;ROG Phone 6 Pro;Cristal templado;Privacidad;4,00;;;
+AS-ROGP6P-FUN-SIL;Asus;ROG Phone 6 Pro;Funda;Silicona;2,50;;;
+AS-ROGP6P-FUN-TPU;Asus;ROG Phone 6 Pro;Funda;Transparente;2,95;;;
+AS-ROGP6P-FUN-LIB;Asus;ROG Phone 6 Pro;Funda;Libro;3,70;;;
+AS-ROGP6P-FUN-ANT;Asus;ROG Phone 6 Pro;Funda;Antigolpes;3,10;;;
+AS-ROGP6P-PCA-NA;Asus;ROG Phone 6 Pro;Protector de cámara;Cristal;2,90;;;
+AS-Z9-PRO-NA;Asus;Zenfone 9;Cristal templado;Estándar;1,30;;;
+AS-Z9-PRO-PRI;Asus;Zenfone 9;Cristal templado;Privacidad;4,00;;;
+AS-Z9-FUN-SIL;Asus;Zenfone 9;Funda;Silicona;2,50;;;
+AS-Z9-FUN-TPU;Asus;Zenfone 9;Funda;Transparente;2,95;;;
+AS-Z9-FUN-LIB;Asus;Zenfone 9;Funda;Libro;3,70;;;
+AS-Z9-FUN-ANT;Asus;Zenfone 9;Funda;Antigolpes;3,10;;;
+AS-Z9-PCA-NA;Asus;Zenfone 9;Protector de cámara;Cristal;2,90;;;
+AS-ROGP6D-PRO-NA;Asus;ROG Phone 6D;Cristal templado;Estándar;1,30;;;
+AS-ROGP6D-PRO-NA-FG;Asus;ROG Phone 6D;Cristal templado;UV full glue;4,15;;;
+AS-ROGP6D-PRO-PRI;Asus;ROG Phone 6D;Cristal templado;Privacidad;4,00;;;
+AS-ROGP6D-FUN-SIL;Asus;ROG Phone 6D;Funda;Silicona;2,50;;;
+AS-ROGP6D-FUN-TPU;Asus;ROG Phone 6D;Funda;Transparente;2,95;;;
+AS-ROGP6D-FUN-LIB;Asus;ROG Phone 6D;Funda;Libro;3,70;;;
+AS-ROGP6D-FUN-ANT;Asus;ROG Phone 6D;Funda;Antigolpes;3,10;;;
+AS-ROGP6D-PCA-NA;Asus;ROG Phone 6D;Protector de cámara;Cristal;2,90;;;
+AS-ROGP6DU-PRO-NA;Asus;ROG Phone 6D Ultimate;Cristal templado;Estándar;1,30;;;
+AS-ROGP6DU-PRO-NA-FG;Asus;ROG Phone 6D Ultimate;Cristal templado;UV full glue;4,15;;;
+AS-ROGP6DU-PRO-PRI;Asus;ROG Phone 6D Ultimate;Cristal templado;Privacidad;4,00;;;
+AS-ROGP6DU-FUN-SIL;Asus;ROG Phone 6D Ultimate;Funda;Silicona;2,50;;;
+AS-ROGP6DU-FUN-TPU;Asus;ROG Phone 6D Ultimate;Funda;Transparente;2,95;;;
+AS-ROGP6DU-FUN-LIB;Asus;ROG Phone 6D Ultimate;Funda;Libro;3,70;;;
+AS-ROGP6DU-FUN-ANT;Asus;ROG Phone 6D Ultimate;Funda;Antigolpes;3,10;;;
+AS-ROGP6DU-PCA-NA;Asus;ROG Phone 6D Ultimate;Protector de cámara;Cristal;2,90;;;
+AS-ROGP7-PRO-NA;Asus;ROG Phone 7;Cristal templado;Estándar;1,30;;;
+AS-ROGP7-PRO-NA-FG;Asus;ROG Phone 7;Cristal templado;UV full glue;4,15;;;
+AS-ROGP7-PRO-PRI;Asus;ROG Phone 7;Cristal templado;Privacidad;4,00;;;
+AS-ROGP7-FUN-SIL;Asus;ROG Phone 7;Funda;Silicona;2,50;;;
+AS-ROGP7-FUN-TPU;Asus;ROG Phone 7;Funda;Transparente;2,95;;;
+AS-ROGP7-FUN-LIB;Asus;ROG Phone 7;Funda;Libro;3,70;;;
+AS-ROGP7-FUN-ANT;Asus;ROG Phone 7;Funda;Antigolpes;3,10;;;
+AS-ROGP7-PCA-NA;Asus;ROG Phone 7;Protector de cámara;Cristal;2,90;;;
+AS-ROGP7U-PRO-NA;Asus;ROG Phone 7 Ultimate;Cristal templado;Estándar;1,30;;;
+AS-ROGP7U-PRO-NA-FG;Asus;ROG Phone 7 Ultimate;Cristal templado;UV full glue;4,15;;;
+AS-ROGP7U-PRO-PRI;Asus;ROG Phone 7 Ultimate;Cristal templado;Privacidad;4,00;;;
+AS-ROGP7U-FUN-SIL;Asus;ROG Phone 7 Ultimate;Funda;Silicona;2,50;;;
+AS-ROGP7U-FUN-TPU;Asus;ROG Phone 7 Ultimate;Funda;Transparente;2,95;;;
+AS-ROGP7U-FUN-LIB;Asus;ROG Phone 7 Ultimate;Funda;Libro;3,70;;;
+AS-ROGP7U-FUN-ANT;Asus;ROG Phone 7 Ultimate;Funda;Antigolpes;3,10;;;
+AS-ROGP7U-PCA-NA;Asus;ROG Phone 7 Ultimate;Protector de cámara;Cristal;2,90;;;
+AS-Z10-PRO-NA;Asus;Zenfone 10;Cristal templado;Estándar;1,30;;;
+AS-Z10-PRO-PRI;Asus;Zenfone 10;Cristal templado;Privacidad;4,00;;;
+AS-Z10-FUN-SIL;Asus;Zenfone 10;Funda;Silicona;2,50;;;
+AS-Z10-FUN-TPU;Asus;Zenfone 10;Funda;Transparente;2,95;;;
+AS-Z10-FUN-LIB;Asus;Zenfone 10;Funda;Libro;3,70;;;
+AS-Z10-FUN-ANT;Asus;Zenfone 10;Funda;Antigolpes;3,10;;;
+AS-Z10-PCA-NA;Asus;Zenfone 10;Protector de cámara;Cristal;2,90;;;
+AS-ROGP8-PRO-NA;Asus;ROG Phone 8;Cristal templado;Estándar;1,30;;;
+AS-ROGP8-PRO-NA-FG;Asus;ROG Phone 8;Cristal templado;UV full glue;4,15;;;
+AS-ROGP8-PRO-PRI;Asus;ROG Phone 8;Cristal templado;Privacidad;4,00;;;
+AS-ROGP8-FUN-SIL;Asus;ROG Phone 8;Funda;Silicona;2,50;;;
+AS-ROGP8-FUN-TPU;Asus;ROG Phone 8;Funda;Transparente;2,95;;;
+AS-ROGP8-FUN-LIB;Asus;ROG Phone 8;Funda;Libro;3,70;;;
+AS-ROGP8-FUN-ANT;Asus;ROG Phone 8;Funda;Antigolpes;3,10;;;
+AS-ROGP8-PCA-NA;Asus;ROG Phone 8;Protector de cámara;Cristal;2,90;;;
+AS-ROGP8P-PRO-NA;Asus;ROG Phone 8 Pro;Cristal templado;Estándar;1,30;;;
+AS-ROGP8P-PRO-NA-FG;Asus;ROG Phone 8 Pro;Cristal templado;UV full glue;4,15;;;
+AS-ROGP8P-PRO-PRI;Asus;ROG Phone 8 Pro;Cristal templado;Privacidad;4,00;;;
+AS-ROGP8P-FUN-SIL;Asus;ROG Phone 8 Pro;Funda;Silicona;2,50;;;
+AS-ROGP8P-FUN-TPU;Asus;ROG Phone 8 Pro;Funda;Transparente;2,95;;;
+AS-ROGP8P-FUN-LIB;Asus;ROG Phone 8 Pro;Funda;Libro;3,70;;;
+AS-ROGP8P-FUN-ANT;Asus;ROG Phone 8 Pro;Funda;Antigolpes;3,10;;;
+AS-ROGP8P-PCA-NA;Asus;ROG Phone 8 Pro;Protector de cámara;Cristal;2,90;;;
+AS-Z11U-PRO-NA;Asus;Zenfone 11 Ultra;Cristal templado;Estándar;1,30;;;
+AS-Z11U-PRO-NA-FG;Asus;Zenfone 11 Ultra;Cristal templado;UV full glue;4,15;;;
+AS-Z11U-PRO-PRI;Asus;Zenfone 11 Ultra;Cristal templado;Privacidad;4,00;;;
+AS-Z11U-FUN-SIL;Asus;Zenfone 11 Ultra;Funda;Silicona;2,50;;;
+AS-Z11U-FUN-TPU;Asus;Zenfone 11 Ultra;Funda;Transparente;2,95;;;
+AS-Z11U-FUN-LIB;Asus;Zenfone 11 Ultra;Funda;Libro;3,70;;;
+AS-Z11U-FUN-ANT;Asus;Zenfone 11 Ultra;Funda;Antigolpes;3,10;;;
+AS-Z11U-PCA-NA;Asus;Zenfone 11 Ultra;Protector de cámara;Cristal;2,90;;;
+AS-ROGP9-PRO-NA;Asus;ROG Phone 9;Cristal templado;Estándar;1,30;;;
+AS-ROGP9-PRO-NA-FG;Asus;ROG Phone 9;Cristal templado;UV full glue;4,15;;;
+AS-ROGP9-PRO-PRI;Asus;ROG Phone 9;Cristal templado;Privacidad;4,00;;;
+AS-ROGP9-FUN-SIL;Asus;ROG Phone 9;Funda;Silicona;2,50;;;
+AS-ROGP9-FUN-TPU;Asus;ROG Phone 9;Funda;Transparente;2,95;;;
+AS-ROGP9-FUN-LIB;Asus;ROG Phone 9;Funda;Libro;3,70;;;
+AS-ROGP9-FUN-ANT;Asus;ROG Phone 9;Funda;Antigolpes;3,10;;;
+AS-ROGP9-PCA-NA;Asus;ROG Phone 9;Protector de cámara;Cristal;2,90;;;
+AS-ROGP9P-PRO-NA;Asus;ROG Phone 9 Pro;Cristal templado;Estándar;1,30;;;
+AS-ROGP9P-PRO-NA-FG;Asus;ROG Phone 9 Pro;Cristal templado;UV full glue;4,15;;;
+AS-ROGP9P-PRO-PRI;Asus;ROG Phone 9 Pro;Cristal templado;Privacidad;4,00;;;
+AS-ROGP9P-FUN-SIL;Asus;ROG Phone 9 Pro;Funda;Silicona;2,50;;;
+AS-ROGP9P-FUN-TPU;Asus;ROG Phone 9 Pro;Funda;Transparente;2,95;;;
+AS-ROGP9P-FUN-LIB;Asus;ROG Phone 9 Pro;Funda;Libro;3,70;;;
+AS-ROGP9P-FUN-ANT;Asus;ROG Phone 9 Pro;Funda;Antigolpes;3,10;;;
+AS-ROGP9P-PCA-NA;Asus;ROG Phone 9 Pro;Protector de cámara;Cristal;2,90;;;
+AS-Z12U-PRO-NA;Asus;Zenfone 12 Ultra;Cristal templado;Estándar;1,30;;;
+AS-Z12U-PRO-NA-FG;Asus;Zenfone 12 Ultra;Cristal templado;UV full glue;4,15;;;
+AS-Z12U-PRO-PRI;Asus;Zenfone 12 Ultra;Cristal templado;Privacidad;4,00;;;
+AS-Z12U-FUN-SIL;Asus;Zenfone 12 Ultra;Funda;Silicona;2,50;;;
+AS-Z12U-FUN-TPU;Asus;Zenfone 12 Ultra;Funda;Transparente;2,95;;;
+AS-Z12U-FUN-LIB;Asus;Zenfone 12 Ultra;Funda;Libro;3,70;;;
+AS-Z12U-FUN-ANT;Asus;Zenfone 12 Ultra;Funda;Antigolpes;3,10;;;
+AS-Z12U-PCA-NA;Asus;Zenfone 12 Ultra;Protector de cámara;Cristal;2,90;;;
+AS-ROGP9FE-PRO-NA;Asus;ROG Phone 9 FE;Cristal templado;Estándar;1,30;;;
+AS-ROGP9FE-PRO-NA-FG;Asus;ROG Phone 9 FE;Cristal templado;UV full glue;4,15;;;
+AS-ROGP9FE-PRO-PRI;Asus;ROG Phone 9 FE;Cristal templado;Privacidad;4,00;;;
+AS-ROGP9FE-FUN-SIL;Asus;ROG Phone 9 FE;Funda;Silicona;2,50;;;
+AS-ROGP9FE-FUN-TPU;Asus;ROG Phone 9 FE;Funda;Transparente;2,95;;;
+AS-ROGP9FE-FUN-LIB;Asus;ROG Phone 9 FE;Funda;Libro;3,70;;;
+AS-ROGP9FE-FUN-ANT;Asus;ROG Phone 9 FE;Funda;Antigolpes;3,10;;;
+AS-SFORSI-PRO-NA;Asus;Smartphone for Snapdragon Insiders;Cristal templado;Estándar;1,30;;;
+AS-SFORSI-PRO-PRI;Asus;Smartphone for Snapdragon Insiders;Cristal templado;Privacidad;4,00;;;
+AS-SFORSI-FUN-SIL;Asus;Smartphone for Snapdragon Insiders;Funda;Silicona;2,50;;;
+AS-SFORSI-FUN-TPU;Asus;Smartphone for Snapdragon Insiders;Funda;Transparente;2,95;;;
+AS-SFORSI-FUN-LIB;Asus;Smartphone for Snapdragon Insiders;Funda;Libro;3,70;;;
+AS-SFORSI-FUN-ANT;Asus;Smartphone for Snapdragon Insiders;Funda;Antigolpes;3,10;;;
+AS-ROGP5P-PRO-NA;Asus;ROG Phone 5 Pro;Cristal templado;Estándar;1,30;;;
+AS-ROGP5P-PRO-NA-FG;Asus;ROG Phone 5 Pro;Cristal templado;UV full glue;4,15;;;
+AS-ROGP5P-PRO-PRI;Asus;ROG Phone 5 Pro;Cristal templado;Privacidad;4,00;;;
+AS-ROGP5P-FUN-SIL;Asus;ROG Phone 5 Pro;Funda;Silicona;2,50;;;
+AS-ROGP5P-FUN-TPU;Asus;ROG Phone 5 Pro;Funda;Transparente;2,95;;;
+AS-ROGP5P-FUN-LIB;Asus;ROG Phone 5 Pro;Funda;Libro;3,70;;;
+AS-ROGP5P-FUN-ANT;Asus;ROG Phone 5 Pro;Funda;Antigolpes;3,10;;;
+AS-ZLL2-PRO-NA;Asus;Zenfone Live (L2);Cristal templado;Estándar;1,30;;;
+AS-ZLL2-PRO-PRI;Asus;Zenfone Live (L2);Cristal templado;Privacidad;4,00;;;
+AS-ZLL2-FUN-SIL;Asus;Zenfone Live (L2);Funda;Silicona;2,50;;;
+AS-ZLL2-FUN-TPU;Asus;Zenfone Live (L2);Funda;Transparente;2,95;;;
+AS-ZLL2-FUN-LIB;Asus;Zenfone Live (L2);Funda;Libro;3,70;;;
+AS-ZLL2-FUN-ANT;Asus;Zenfone Live (L2);Funda;Antigolpes;3,10;;;
+AS-ZMPLM2-PRO-NA;Asus;Zenfone Max Plus (M2);Cristal templado;Estándar;1,30;;;
+AS-ZMPLM2-PRO-PRI;Asus;Zenfone Max Plus (M2);Cristal templado;Privacidad;4,00;;;
+AS-ZMPLM2-FUN-SIL;Asus;Zenfone Max Plus (M2);Funda;Silicona;2,50;;;
+AS-ZMPLM2-FUN-TPU;Asus;Zenfone Max Plus (M2);Funda;Transparente;2,95;;;
+AS-ZMPLM2-FUN-LIB;Asus;Zenfone Max Plus (M2);Funda;Libro;3,70;;;
+AS-ZMPLM2-FUN-ANT;Asus;Zenfone Max Plus (M2);Funda;Antigolpes;3,10;;;
+AS-ZMPLM2S-PRO-NA;Asus;Zenfone Max Plus (M2) Shot;Cristal templado;Estándar;1,30;;;
+AS-ZMPLM2S-PRO-PRI;Asus;Zenfone Max Plus (M2) Shot;Cristal templado;Privacidad;4,00;;;
+AS-ZMPLM2S-FUN-SIL;Asus;Zenfone Max Plus (M2) Shot;Funda;Silicona;2,50;;;
+AS-ZMPLM2S-FUN-TPU;Asus;Zenfone Max Plus (M2) Shot;Funda;Transparente;2,95;;;
+AS-ZMPLM2S-FUN-LIB;Asus;Zenfone Max Plus (M2) Shot;Funda;Libro;3,70;;;
+AS-ZMPLM2S-FUN-ANT;Asus;Zenfone Max Plus (M2) Shot;Funda;Antigolpes;3,10;;;
+AS-ZMM2P-PRO-NA;Asus;Zenfone Max (M2) Pro;Cristal templado;Estándar;1,30;;;
+AS-ZMM2P-PRO-PRI;Asus;Zenfone Max (M2) Pro;Cristal templado;Privacidad;4,00;;;
+AS-ZMM2P-FUN-SIL;Asus;Zenfone Max (M2) Pro;Funda;Silicona;2,50;;;
+AS-ZMM2P-FUN-TPU;Asus;Zenfone Max (M2) Pro;Funda;Transparente;2,95;;;
+AS-ZMM2P-FUN-LIB;Asus;Zenfone Max (M2) Pro;Funda;Libro;3,70;;;
+AS-ZMM2P-FUN-ANT;Asus;Zenfone Max (M2) Pro;Funda;Antigolpes;3,10;;;
+AS-ZENFONEL-PRO-NA;Asus;Zenfone Lite L1;Cristal templado;Estándar;1,30;;;
+AS-ZENFONEL-PRO-PRI;Asus;Zenfone Lite L1;Cristal templado;Privacidad;4,00;;;
+AS-ZENFONEL-FUN-SIL;Asus;Zenfone Lite L1;Funda;Silicona;2,50;;;
+AS-ZENFONEL-FUN-TPU;Asus;Zenfone Lite L1;Funda;Transparente;2,95;;;
+AS-ZENFONEL-FUN-LIB;Asus;Zenfone Lite L1;Funda;Libro;3,70;;;
+AS-ZENFONEL-FUN-ANT;Asus;Zenfone Lite L1;Funda;Antigolpes;3,10;;;
+AS-ZLL1-PRO-NA;Asus;Zenfone Live (L1);Cristal templado;Estándar;1,30;;;
+AS-ZLL1-PRO-PRI;Asus;Zenfone Live (L1);Cristal templado;Privacidad;4,00;;;
+AS-ZLL1-FUN-SIL;Asus;Zenfone Live (L1);Funda;Silicona;2,50;;;
+AS-ZLL1-FUN-TPU;Asus;Zenfone Live (L1);Funda;Transparente;2,95;;;
+AS-ZLL1-FUN-LIB;Asus;Zenfone Live (L1);Funda;Libro;3,70;;;
+AS-ZLL1-FUN-ANT;Asus;Zenfone Live (L1);Funda;Antigolpes;3,10;;;
+AS-Z3-PRO-NA;Asus;Zenfone 3;Cristal templado;Estándar;1,30;;;
+AS-Z3-PRO-PRI;Asus;Zenfone 3;Cristal templado;Privacidad;4,00;;;
+AS-Z3-FUN-SIL;Asus;Zenfone 3;Funda;Silicona;2,50;;;
+AS-Z3-FUN-TPU;Asus;Zenfone 3;Funda;Transparente;2,95;;;
+AS-Z3-FUN-LIB;Asus;Zenfone 3;Funda;Libro;3,70;;;
+AS-Z3-FUN-ANT;Asus;Zenfone 3;Funda;Antigolpes;3,10;;;
+AS-Z2-PRO-NA;Asus;Zenfone 2;Cristal templado;Estándar;1,30;;;
+AS-Z2-PRO-PRI;Asus;Zenfone 2;Cristal templado;Privacidad;4,00;;;
+AS-Z2-FUN-SIL;Asus;Zenfone 2;Funda;Silicona;2,50;;;
+AS-Z2-FUN-TPU;Asus;Zenfone 2;Funda;Transparente;2,95;;;
+AS-Z2-FUN-LIB;Asus;Zenfone 2;Funda;Libro;3,70;;;
+AS-Z2-FUN-ANT;Asus;Zenfone 2;Funda;Antigolpes;3,10;;;
+AS-Z515-PRO-NA;Asus;Zenfone 5 2015;Cristal templado;Estándar;1,30;;;
+AS-Z515-PRO-PRI;Asus;Zenfone 5 2015;Cristal templado;Privacidad;4,00;;;
+AS-Z515-FUN-SIL;Asus;Zenfone 5 2015;Funda;Silicona;2,50;;;
+AS-Z515-FUN-TPU;Asus;Zenfone 5 2015;Funda;Transparente;2,95;;;
+AS-Z515-FUN-LIB;Asus;Zenfone 5 2015;Funda;Libro;3,70;;;
+AS-Z515-FUN-ANT;Asus;Zenfone 5 2015;Funda;Antigolpes;3,10;;;
+AS-PEGASUS-PRO-NA;Asus;Pegasus;Cristal templado;Estándar;1,30;;;
+AS-PEGASUS-PRO-PRI;Asus;Pegasus;Cristal templado;Privacidad;4,00;;;
+AS-PEGASUS-FUN-SIL;Asus;Pegasus;Funda;Silicona;2,50;;;
+AS-PEGASUS-FUN-TPU;Asus;Pegasus;Funda;Transparente;2,95;;;
+AS-PEGASUS-FUN-LIB;Asus;Pegasus;Funda;Libro;3,70;;;
+AS-PEGASUS-FUN-ANT;Asus;Pegasus;Funda;Antigolpes;3,10;;;
+AS-PXMN-PRO-NA;Asus;PadFone X mini;Cristal templado;Estándar;1,30;;;
+AS-PXMN-PRO-PRI;Asus;PadFone X mini;Cristal templado;Privacidad;4,00;;;
+AS-PXMN-FUN-SIL;Asus;PadFone X mini;Funda;Silicona;2,50;;;
+AS-PXMN-FUN-TPU;Asus;PadFone X mini;Funda;Transparente;2,95;;;
+AS-PXMN-FUN-LIB;Asus;PadFone X mini;Funda;Libro;3,70;;;
+AS-PXMN-FUN-ANT;Asus;PadFone X mini;Funda;Antigolpes;3,10;;;
+AS-Z4514-PRO-NA;Asus;Zenfone 4.5 2014;Cristal templado;Estándar;1,30;;;
+AS-Z4514-PRO-PRI;Asus;Zenfone 4.5 2014;Cristal templado;Privacidad;4,00;;;
+AS-Z4514-FUN-SIL;Asus;Zenfone 4.5 2014;Funda;Silicona;2,50;;;
+AS-Z4514-FUN-TPU;Asus;Zenfone 4.5 2014;Funda;Transparente;2,95;;;
+AS-Z4514-FUN-LIB;Asus;Zenfone 4.5 2014;Funda;Libro;3,70;;;
+AS-Z4514-FUN-ANT;Asus;Zenfone 4.5 2014;Funda;Antigolpes;3,10;;;
+AS-Z514-PRO-NA;Asus;Zenfone 5 2014;Cristal templado;Estándar;1,30;;;
+AS-Z514-PRO-PRI;Asus;Zenfone 5 2014;Cristal templado;Privacidad;4,00;;;
+AS-Z514-FUN-SIL;Asus;Zenfone 5 2014;Funda;Silicona;2,50;;;
+AS-Z514-FUN-TPU;Asus;Zenfone 5 2014;Funda;Transparente;2,95;;;
+AS-Z514-FUN-LIB;Asus;Zenfone 5 2014;Funda;Libro;3,70;;;
+AS-Z514-FUN-ANT;Asus;Zenfone 5 2014;Funda;Antigolpes;3,10;;;
+AS-PS-PRO-NA;Asus;PadFone S;Cristal templado;Estándar;1,30;;;
+AS-PS-PRO-PRI;Asus;PadFone S;Cristal templado;Privacidad;4,00;;;
+AS-PS-FUN-SIL;Asus;PadFone S;Funda;Silicona;2,50;;;
+AS-PS-FUN-TPU;Asus;PadFone S;Funda;Transparente;2,95;;;
+AS-PS-FUN-LIB;Asus;PadFone S;Funda;Libro;3,70;;;
+AS-PS-FUN-ANT;Asus;PadFone S;Funda;Antigolpes;3,10;;;
+AS-PSX-PRO-NA;Asus;PadFone S X;Cristal templado;Estándar;1,30;;;
+AS-PSX-PRO-PRI;Asus;PadFone S X;Cristal templado;Privacidad;4,00;;;
+AS-PSX-FUN-SIL;Asus;PadFone S X;Funda;Silicona;2,50;;;
+AS-PSX-FUN-TPU;Asus;PadFone S X;Funda;Transparente;2,95;;;
+AS-PSX-FUN-LIB;Asus;PadFone S X;Funda;Libro;3,70;;;
+AS-PSX-FUN-ANT;Asus;PadFone S X;Funda;Antigolpes;3,10;;;
+AS-Z-PRO-NA;Asus;Zenfone;Cristal templado;Estándar;1,30;;;
+AS-Z-PRO-PRI;Asus;Zenfone;Cristal templado;Privacidad;4,00;;;
+AS-Z-FUN-SIL;Asus;Zenfone;Funda;Silicona;2,50;;;
+AS-Z-FUN-TPU;Asus;Zenfone;Funda;Transparente;2,95;;;
+AS-Z-FUN-LIB;Asus;Zenfone;Funda;Libro;3,70;;;
+AS-Z-FUN-ANT;Asus;Zenfone;Funda;Antigolpes;3,10;;;
+AS-Z614-PRO-NA;Asus;Zenfone 6 2014;Cristal templado;Estándar;1,30;;;
+AS-Z614-PRO-PRI;Asus;Zenfone 6 2014;Cristal templado;Privacidad;4,00;;;
+AS-Z614-FUN-SIL;Asus;Zenfone 6 2014;Funda;Silicona;2,50;;;
+AS-Z614-FUN-TPU;Asus;Zenfone 6 2014;Funda;Transparente;2,95;;;
+AS-Z614-FUN-LIB;Asus;Zenfone 6 2014;Funda;Libro;3,70;;;
+AS-Z614-FUN-ANT;Asus;Zenfone 6 2014;Funda;Antigolpes;3,10;;;
+AS-P-PRO-NA;Asus;PadFone;Cristal templado;Estándar;1,30;;;
+AS-P-PRO-PRI;Asus;PadFone;Cristal templado;Privacidad;4,00;;;
+AS-P-FUN-SIL;Asus;PadFone;Funda;Silicona;2,50;;;
+AS-P-FUN-TPU;Asus;PadFone;Funda;Transparente;2,95;;;
+AS-P-FUN-LIB;Asus;PadFone;Funda;Libro;3,70;;;
+AS-P-FUN-ANT;Asus;PadFone;Funda;Antigolpes;3,10;;;
+AS-Z3L-MAR-COM;Asus;Zenfone 3 Laser;Marco / chasis;Compatible;5,75;;;6
+AS-Z3L-BOT-COM;Asus;Zenfone 3 Laser;Botones laterales;Compatible;2,95;;;6
+AS-Z3L-CRI-COM;Asus;Zenfone 3 Laser;Cristal de pantalla;Compatible;2,95;;;6
+AS-Z3L-ANT-COM;Asus;Zenfone 3 Laser;Antena / coaxial;Compatible;2,55;;;6
+AS-Z3L-HUE-COM;Asus;Zenfone 3 Laser;Botón home / huella;Compatible;4,25;;;6
+AS-Z3MZC520-MAR-COM;Asus;Zenfone 3 Max ZC520TL;Marco / chasis;Compatible;5,00;;;6
+AS-Z3MZC520-BOT-COM;Asus;Zenfone 3 Max ZC520TL;Botones laterales;Compatible;2,55;;;6
+AS-Z3MZC520-CRI-COM;Asus;Zenfone 3 Max ZC520TL;Cristal de pantalla;Compatible;2,55;;;6
+AS-Z3MZC520-ANT-COM;Asus;Zenfone 3 Max ZC520TL;Antena / coaxial;Compatible;2,25;;;6
+AS-Z3MZC520-HUE-COM;Asus;Zenfone 3 Max ZC520TL;Botón home / huella;Compatible;3,70;;;6
+AS-Z3MZC553-MAR-COM;Asus;Zenfone 3 Max ZC553KL;Marco / chasis;Compatible;5,00;;;6
+AS-Z3MZC553-BOT-COM;Asus;Zenfone 3 Max ZC553KL;Botones laterales;Compatible;2,55;;;6
+AS-Z3MZC553-CRI-COM;Asus;Zenfone 3 Max ZC553KL;Cristal de pantalla;Compatible;2,55;;;6
+AS-Z3MZC553-ANT-COM;Asus;Zenfone 3 Max ZC553KL;Antena / coaxial;Compatible;2,25;;;6
+AS-Z3MZC553-HUE-COM;Asus;Zenfone 3 Max ZC553KL;Botón home / huella;Compatible;3,70;;;6
+AS-Z3D-MAR-COM;Asus;Zenfone 3 Deluxe;Marco / chasis;Compatible;5,75;;;6
+AS-Z3D-BOT-COM;Asus;Zenfone 3 Deluxe;Botones laterales;Compatible;2,95;;;6
+AS-Z3D-CRI-COM;Asus;Zenfone 3 Deluxe;Cristal de pantalla;Compatible;2,95;;;6
+AS-Z3D-ANT-COM;Asus;Zenfone 3 Deluxe;Antena / coaxial;Compatible;2,55;;;6
+AS-Z3D-HUE-COM;Asus;Zenfone 3 Deluxe;Botón home / huella;Compatible;4,25;;;6
+AS-Z3U-MAR-COM;Asus;Zenfone 3 Ultra;Marco / chasis;Compatible;7,85;;;6
+AS-Z3U-BOT-COM;Asus;Zenfone 3 Ultra;Botones laterales;Compatible;4,00;;;6
+AS-Z3U-CRI-COM;Asus;Zenfone 3 Ultra;Cristal de pantalla;Compatible;4,00;;;6
+AS-Z3U-ANT-COM;Asus;Zenfone 3 Ultra;Antena / coaxial;Compatible;3,49;;;6
+AS-Z3U-HUE-COM;Asus;Zenfone 3 Ultra;Botón home / huella;Compatible;5,79;;;6
+AS-Z3ZE520K-MAR-COM;Asus;Zenfone 3 ZE520KL;Marco / chasis;Compatible;5,75;;;6
+AS-Z3ZE520K-BOT-COM;Asus;Zenfone 3 ZE520KL;Botones laterales;Compatible;2,95;;;6
+AS-Z3ZE520K-CRI-COM;Asus;Zenfone 3 ZE520KL;Cristal de pantalla;Compatible;2,95;;;6
+AS-Z3ZE520K-ANT-COM;Asus;Zenfone 3 ZE520KL;Antena / coaxial;Compatible;2,55;;;6
+AS-Z3ZE520K-HUE-COM;Asus;Zenfone 3 ZE520KL;Botón home / huella;Compatible;4,25;;;6
+AS-Z3ZE552K-MAR-COM;Asus;Zenfone 3 ZE552KL;Marco / chasis;Compatible;5,75;;;6
+AS-Z3ZE552K-BOT-COM;Asus;Zenfone 3 ZE552KL;Botones laterales;Compatible;2,95;;;6
+AS-Z3ZE552K-CRI-COM;Asus;Zenfone 3 ZE552KL;Cristal de pantalla;Compatible;2,95;;;6
+AS-Z3ZE552K-ANT-COM;Asus;Zenfone 3 ZE552KL;Antena / coaxial;Compatible;2,55;;;6
+AS-Z3ZE552K-HUE-COM;Asus;Zenfone 3 ZE552KL;Botón home / huella;Compatible;4,25;;;6
+AS-ZAR-MAR-COM;Asus;Zenfone AR;Marco / chasis;Compatible;7,40;;;6
+AS-ZAR-BOT-COM;Asus;Zenfone AR;Botones laterales;Compatible;3,80;;;6
+AS-ZAR-CRI-COM;Asus;Zenfone AR;Cristal de pantalla;Compatible;3,79;;;6
+AS-ZAR-ANT-COM;Asus;Zenfone AR;Antena / coaxial;Compatible;3,29;;;6
+AS-ZAR-HUE-COM;Asus;Zenfone AR;Botón home / huella;Compatible;5,45;;;6
+AS-ZZS-MAR-COM;Asus;Zenfone Zoom S;Marco / chasis;Compatible;7,40;;;6
+AS-ZZS-BOT-COM;Asus;Zenfone Zoom S;Botones laterales;Compatible;3,80;;;6
+AS-ZZS-CRI-COM;Asus;Zenfone Zoom S;Cristal de pantalla;Compatible;3,79;;;6
+AS-ZZS-ANT-COM;Asus;Zenfone Zoom S;Antena / coaxial;Compatible;3,29;;;6
+AS-ZZS-HUE-COM;Asus;Zenfone Zoom S;Botón home / huella;Compatible;5,45;;;6
+AS-ZL-MAR-COM;Asus;Zenfone Live;Marco / chasis;Compatible;5,65;;;6
+AS-ZL-BOT-COM;Asus;Zenfone Live;Botones laterales;Compatible;2,89;;;6
+AS-ZL-CRI-COM;Asus;Zenfone Live;Cristal de pantalla;Compatible;2,89;;;6
+AS-ZL-ANT-COM;Asus;Zenfone Live;Antena / coaxial;Compatible;2,50;;;6
+AS-ZL-HUE-COM;Asus;Zenfone Live;Botón home / huella;Compatible;4,15;;;6
+AS-Z4-MAR-COM;Asus;Zenfone 4;Marco / chasis;Compatible;6,49;;;6
+AS-Z4-BOT-COM;Asus;Zenfone 4;Botones laterales;Compatible;3,35;;;6
+AS-Z4-CRI-COM;Asus;Zenfone 4;Cristal de pantalla;Compatible;3,30;;;6
+AS-Z4-ANT-COM;Asus;Zenfone 4;Antena / coaxial;Compatible;2,89;;;6
+AS-Z4-HUE-COM;Asus;Zenfone 4;Botón home / huella;Compatible;4,79;;;6
+AS-Z4MZC520-MAR-COM;Asus;Zenfone 4 Max ZC520KL;Marco / chasis;Compatible;5,65;;;6
+AS-Z4MZC520-BOT-COM;Asus;Zenfone 4 Max ZC520KL;Botones laterales;Compatible;2,89;;;6
+AS-Z4MZC520-CRI-COM;Asus;Zenfone 4 Max ZC520KL;Cristal de pantalla;Compatible;2,89;;;6
+AS-Z4MZC520-ANT-COM;Asus;Zenfone 4 Max ZC520KL;Antena / coaxial;Compatible;2,50;;;6
+AS-Z4MZC520-HUE-COM;Asus;Zenfone 4 Max ZC520KL;Botón home / huella;Compatible;4,15;;;6
+AS-Z4MZC554-MAR-COM;Asus;Zenfone 4 Max ZC554KL;Marco / chasis;Compatible;5,65;;;6
+AS-Z4MZC554-BOT-COM;Asus;Zenfone 4 Max ZC554KL;Botones laterales;Compatible;2,89;;;6
+AS-Z4MZC554-CRI-COM;Asus;Zenfone 4 Max ZC554KL;Cristal de pantalla;Compatible;2,89;;;6
+AS-Z4MZC554-ANT-COM;Asus;Zenfone 4 Max ZC554KL;Antena / coaxial;Compatible;2,50;;;6
+AS-Z4MZC554-HUE-COM;Asus;Zenfone 4 Max ZC554KL;Botón home / huella;Compatible;4,15;;;6
+AS-Z4P-MAR-COM;Asus;Zenfone 4 Pro;Marco / chasis;Compatible;6,49;;;6
+AS-Z4P-BOT-COM;Asus;Zenfone 4 Pro;Botones laterales;Compatible;3,35;;;6
+AS-Z4P-CRI-COM;Asus;Zenfone 4 Pro;Cristal de pantalla;Compatible;3,30;;;6
+AS-Z4P-ANT-COM;Asus;Zenfone 4 Pro;Antena / coaxial;Compatible;2,89;;;6
+AS-Z4P-HUE-COM;Asus;Zenfone 4 Pro;Botón home / huella;Compatible;4,79;;;6
+AS-Z4S-MAR-COM;Asus;Zenfone 4 Selfie;Marco / chasis;Compatible;5,65;;;6
+AS-Z4S-BOT-COM;Asus;Zenfone 4 Selfie;Botones laterales;Compatible;2,89;;;6
+AS-Z4S-CRI-COM;Asus;Zenfone 4 Selfie;Cristal de pantalla;Compatible;2,89;;;6
+AS-Z4S-ANT-COM;Asus;Zenfone 4 Selfie;Antena / coaxial;Compatible;2,50;;;6
+AS-Z4S-HUE-COM;Asus;Zenfone 4 Selfie;Botón home / huella;Compatible;4,15;;;6
+AS-Z4SP-MAR-COM;Asus;Zenfone 4 Selfie Pro;Marco / chasis;Compatible;5,65;;;6
+AS-Z4SP-BOT-COM;Asus;Zenfone 4 Selfie Pro;Botones laterales;Compatible;2,89;;;6
+AS-Z4SP-CRI-COM;Asus;Zenfone 4 Selfie Pro;Cristal de pantalla;Compatible;2,89;;;6
+AS-Z4SP-ANT-COM;Asus;Zenfone 4 Selfie Pro;Antena / coaxial;Compatible;2,50;;;6
+AS-Z4SP-HUE-COM;Asus;Zenfone 4 Selfie Pro;Botón home / huella;Compatible;4,15;;;6
+AS-ZMPLM1-MAR-COM;Asus;Zenfone Max Plus M1;Marco / chasis;Compatible;5,65;;;6
+AS-ZMPLM1-BOT-COM;Asus;Zenfone Max Plus M1;Botones laterales;Compatible;2,89;;;6
+AS-ZMPLM1-CRI-COM;Asus;Zenfone Max Plus M1;Cristal de pantalla;Compatible;2,89;;;6
+AS-ZMPLM1-ANT-COM;Asus;Zenfone Max Plus M1;Antena / coaxial;Compatible;2,50;;;6
+AS-ZMPLM1-HUE-COM;Asus;Zenfone Max Plus M1;Botón home / huella;Compatible;4,15;;;6
+AS-Z5-MAR-COM;Asus;Zenfone 5;Marco / chasis;Compatible;7,40;;;6
+AS-Z5-BOT-COM;Asus;Zenfone 5;Botones laterales;Compatible;3,80;;;6
+AS-Z5-CRI-COM;Asus;Zenfone 5;Cristal de pantalla;Compatible;3,79;;;6
+AS-Z5-ANT-COM;Asus;Zenfone 5;Antena / coaxial;Compatible;3,29;;;6
+AS-Z5-HUE-COM;Asus;Zenfone 5;Botón home / huella;Compatible;5,45;;;6
+AS-Z5L-MAR-COM;Asus;Zenfone 5 Lite;Marco / chasis;Compatible;5,65;;;6
+AS-Z5L-BOT-COM;Asus;Zenfone 5 Lite;Botones laterales;Compatible;2,89;;;6
+AS-Z5L-CRI-COM;Asus;Zenfone 5 Lite;Cristal de pantalla;Compatible;2,89;;;6
+AS-Z5L-ANT-COM;Asus;Zenfone 5 Lite;Antena / coaxial;Compatible;2,50;;;6
+AS-Z5L-HUE-COM;Asus;Zenfone 5 Lite;Botón home / huella;Compatible;4,15;;;6
+AS-Z5Z-MAR-COM;Asus;Zenfone 5Z;Marco / chasis;Compatible;7,40;;;6
+AS-Z5Z-BOT-COM;Asus;Zenfone 5Z;Botones laterales;Compatible;3,80;;;6
+AS-Z5Z-CRI-COM;Asus;Zenfone 5Z;Cristal de pantalla;Compatible;3,79;;;6
+AS-Z5Z-ANT-COM;Asus;Zenfone 5Z;Antena / coaxial;Compatible;3,29;;;6
+AS-Z5Z-HUE-COM;Asus;Zenfone 5Z;Botón home / huella;Compatible;5,45;;;6
+AS-ZMM1-MAR-COM;Asus;Zenfone Max M1;Marco / chasis;Compatible;5,65;;;6
+AS-ZMM1-BOT-COM;Asus;Zenfone Max M1;Botones laterales;Compatible;2,89;;;6
+AS-ZMM1-CRI-COM;Asus;Zenfone Max M1;Cristal de pantalla;Compatible;2,89;;;6
+AS-ZMM1-ANT-COM;Asus;Zenfone Max M1;Antena / coaxial;Compatible;2,50;;;6
+AS-ZMM1-HUE-COM;Asus;Zenfone Max M1;Botón home / huella;Compatible;4,15;;;6
+AS-ZMPM1-MAR-COM;Asus;Zenfone Max Pro M1;Marco / chasis;Compatible;5,65;;;6
+AS-ZMPM1-BOT-COM;Asus;Zenfone Max Pro M1;Botones laterales;Compatible;2,89;;;6
+AS-ZMPM1-CRI-COM;Asus;Zenfone Max Pro M1;Cristal de pantalla;Compatible;2,89;;;6
+AS-ZMPM1-ANT-COM;Asus;Zenfone Max Pro M1;Antena / coaxial;Compatible;2,50;;;6
+AS-ZMPM1-HUE-COM;Asus;Zenfone Max Pro M1;Botón home / huella;Compatible;4,15;;;6
+AS-ROGP-MAR-COM;Asus;ROG Phone;Marco / chasis;Compatible;8,80;;;6
+AS-ROGP-BOT-COM;Asus;ROG Phone;Botones laterales;Compatible;4,50;;;6
+AS-ROGP-CRI-COM;Asus;ROG Phone;Cristal de pantalla;Compatible;4,50;;;6
+AS-ROGP-ANT-COM;Asus;ROG Phone;Antena / coaxial;Compatible;3,90;;;6
+AS-ROGP-HUE-COM;Asus;ROG Phone;Botón home / huella;Compatible;6,50;;;6
+AS-ZMM2-MAR-COM;Asus;Zenfone Max M2;Marco / chasis;Compatible;5,65;;;6
+AS-ZMM2-BOT-COM;Asus;Zenfone Max M2;Botones laterales;Compatible;2,89;;;6
+AS-ZMM2-CRI-COM;Asus;Zenfone Max M2;Cristal de pantalla;Compatible;2,89;;;6
+AS-ZMM2-ANT-COM;Asus;Zenfone Max M2;Antena / coaxial;Compatible;2,50;;;6
+AS-ZMM2-HUE-COM;Asus;Zenfone Max M2;Botón home / huella;Compatible;4,15;;;6
+AS-ZMPM2-MAR-COM;Asus;Zenfone Max Pro M2;Marco / chasis;Compatible;5,65;;;6
+AS-ZMPM2-BOT-COM;Asus;Zenfone Max Pro M2;Botones laterales;Compatible;2,89;;;6
+AS-ZMPM2-CRI-COM;Asus;Zenfone Max Pro M2;Cristal de pantalla;Compatible;2,89;;;6
+AS-ZMPM2-ANT-COM;Asus;Zenfone Max Pro M2;Antena / coaxial;Compatible;2,50;;;6
+AS-ZMPM2-HUE-COM;Asus;Zenfone Max Pro M2;Botón home / huella;Compatible;4,15;;;6
+AS-Z6-MAR-COM;Asus;Zenfone 6;Marco / chasis;Compatible;7,40;;;6
+AS-Z6-BOT-COM;Asus;Zenfone 6;Botones laterales;Compatible;3,80;;;6
+AS-Z6-CRI-COM;Asus;Zenfone 6;Cristal de pantalla;Compatible;3,79;;;6
+AS-Z6-ANT-COM;Asus;Zenfone 6;Antena / coaxial;Compatible;3,29;;;6
+AS-Z6-HUE-COM;Asus;Zenfone 6;Botón home / huella;Compatible;5,45;;;6
+AS-ROGPII-MAR-COM;Asus;ROG Phone II;Marco / chasis;Compatible;8,80;;;6
+AS-ROGPII-BOT-COM;Asus;ROG Phone II;Botones laterales;Compatible;4,50;;;6
+AS-ROGPII-CRI-COM;Asus;ROG Phone II;Cristal de pantalla;Compatible;4,50;;;6
+AS-ROGPII-ANT-COM;Asus;ROG Phone II;Antena / coaxial;Compatible;3,90;;;6
+AS-ROGPII-HUE-COM;Asus;ROG Phone II;Botón home / huella;Compatible;6,50;;;6
+AS-ROGPII-NFC-COM;Asus;ROG Phone II;NFC y carga inalámbrica;Compatible;8,75;;;6
+AS-ROGP3-MAR-COM;Asus;ROG Phone 3;Marco / chasis;Compatible;9,79;;;6
+AS-ROGP3-BOT-COM;Asus;ROG Phone 3;Botones laterales;Compatible;5,00;;;6
+AS-ROGP3-CRI-COM;Asus;ROG Phone 3;Cristal de pantalla;Compatible;5,00;;;6
+AS-ROGP3-ANT-COM;Asus;ROG Phone 3;Antena / coaxial;Compatible;4,35;;;6
+AS-ROGP3-HUE-COM;Asus;ROG Phone 3;Botón home / huella;Compatible;7,25;;;6
+AS-ROGP3-NFC-COM;Asus;ROG Phone 3;NFC y carga inalámbrica;Compatible;9,70;;;6
+AS-Z7-MAR-COM;Asus;Zenfone 7;Marco / chasis;Compatible;8,20;;;6
+AS-Z7-BOT-COM;Asus;Zenfone 7;Botones laterales;Compatible;4,20;;;6
+AS-Z7-CRI-COM;Asus;Zenfone 7;Cristal de pantalla;Compatible;4,20;;;6
+AS-Z7-ANT-COM;Asus;Zenfone 7;Antena / coaxial;Compatible;3,65;;;6
+AS-Z7-HUE-COM;Asus;Zenfone 7;Botón home / huella;Compatible;6,05;;;6
+AS-Z7P-MAR-COM;Asus;Zenfone 7 Pro;Marco / chasis;Compatible;8,20;;;6
+AS-Z7P-BOT-COM;Asus;Zenfone 7 Pro;Botones laterales;Compatible;4,20;;;6
+AS-Z7P-CRI-COM;Asus;Zenfone 7 Pro;Cristal de pantalla;Compatible;4,20;;;6
+AS-Z7P-ANT-COM;Asus;Zenfone 7 Pro;Antena / coaxial;Compatible;3,65;;;6
+AS-Z7P-HUE-COM;Asus;Zenfone 7 Pro;Botón home / huella;Compatible;6,05;;;6
+AS-ROGP5-MAR-COM;Asus;ROG Phone 5;Marco / chasis;Compatible;9,79;;;6
+AS-ROGP5-BOT-COM;Asus;ROG Phone 5;Botones laterales;Compatible;5,00;;;6
+AS-ROGP5-CRI-COM;Asus;ROG Phone 5;Cristal de pantalla;Compatible;5,00;;;6
+AS-ROGP5-ANT-COM;Asus;ROG Phone 5;Antena / coaxial;Compatible;4,35;;;6
+AS-ROGP5-HUE-COM;Asus;ROG Phone 5;Botón home / huella;Compatible;7,25;;;6
+AS-ROGP5-NFC-COM;Asus;ROG Phone 5;NFC y carga inalámbrica;Compatible;9,70;;;6
+AS-ROGP5U-MAR-COM;Asus;ROG Phone 5 Ultimate;Marco / chasis;Compatible;9,79;;;6
+AS-ROGP5U-BOT-COM;Asus;ROG Phone 5 Ultimate;Botones laterales;Compatible;5,00;;;6
+AS-ROGP5U-CRI-COM;Asus;ROG Phone 5 Ultimate;Cristal de pantalla;Compatible;5,00;;;6
+AS-ROGP5U-ANT-COM;Asus;ROG Phone 5 Ultimate;Antena / coaxial;Compatible;4,35;;;6
+AS-ROGP5U-HUE-COM;Asus;ROG Phone 5 Ultimate;Botón home / huella;Compatible;7,25;;;6
+AS-ROGP5U-NFC-COM;Asus;ROG Phone 5 Ultimate;NFC y carga inalámbrica;Compatible;9,70;;;6
+AS-Z8-MAR-COM;Asus;Zenfone 8;Marco / chasis;Compatible;8,20;;;6
+AS-Z8-BOT-COM;Asus;Zenfone 8;Botones laterales;Compatible;4,20;;;6
+AS-Z8-CRI-COM;Asus;Zenfone 8;Cristal de pantalla;Compatible;4,20;;;6
+AS-Z8-ANT-COM;Asus;Zenfone 8;Antena / coaxial;Compatible;3,65;;;6
+AS-Z8-HUE-COM;Asus;Zenfone 8;Botón home / huella;Compatible;6,05;;;6
+AS-Z8FL-MAR-COM;Asus;Zenfone 8 Flip;Marco / chasis;Compatible;8,20;;;6
+AS-Z8FL-BOT-COM;Asus;Zenfone 8 Flip;Botones laterales;Compatible;4,20;;;6
+AS-Z8FL-CRI-COM;Asus;Zenfone 8 Flip;Cristal de pantalla;Compatible;4,20;;;6
+AS-Z8FL-ANT-COM;Asus;Zenfone 8 Flip;Antena / coaxial;Compatible;3,65;;;6
+AS-Z8FL-HUE-COM;Asus;Zenfone 8 Flip;Botón home / huella;Compatible;6,05;;;6
+AS-ROGP5S-MAR-COM;Asus;ROG Phone 5s;Marco / chasis;Compatible;9,79;;;6
+AS-ROGP5S-BOT-COM;Asus;ROG Phone 5s;Botones laterales;Compatible;5,00;;;6
+AS-ROGP5S-CRI-COM;Asus;ROG Phone 5s;Cristal de pantalla;Compatible;5,00;;;6
+AS-ROGP5S-ANT-COM;Asus;ROG Phone 5s;Antena / coaxial;Compatible;4,35;;;6
+AS-ROGP5S-HUE-COM;Asus;ROG Phone 5s;Botón home / huella;Compatible;7,25;;;6
+AS-ROGP5S-NFC-COM;Asus;ROG Phone 5s;NFC y carga inalámbrica;Compatible;9,70;;;6
+AS-ROGP5SP-MAR-COM;Asus;ROG Phone 5s Pro;Marco / chasis;Compatible;9,79;;;6
+AS-ROGP5SP-BOT-COM;Asus;ROG Phone 5s Pro;Botones laterales;Compatible;5,00;;;6
+AS-ROGP5SP-CRI-COM;Asus;ROG Phone 5s Pro;Cristal de pantalla;Compatible;5,00;;;6
+AS-ROGP5SP-ANT-COM;Asus;ROG Phone 5s Pro;Antena / coaxial;Compatible;4,35;;;6
+AS-ROGP5SP-HUE-COM;Asus;ROG Phone 5s Pro;Botón home / huella;Compatible;7,25;;;6
+AS-ROGP5SP-NFC-COM;Asus;ROG Phone 5s Pro;NFC y carga inalámbrica;Compatible;9,70;;;6
+AS-ROGP6-MAR-COM;Asus;ROG Phone 6;Marco / chasis;Compatible;9,79;;;6
+AS-ROGP6-BOT-COM;Asus;ROG Phone 6;Botones laterales;Compatible;5,00;;;6
+AS-ROGP6-CRI-COM;Asus;ROG Phone 6;Cristal de pantalla;Compatible;5,00;;;6
+AS-ROGP6-ANT-COM;Asus;ROG Phone 6;Antena / coaxial;Compatible;4,35;;;6
+AS-ROGP6-HUE-COM;Asus;ROG Phone 6;Botón home / huella;Compatible;7,25;;;6
+AS-ROGP6-NFC-COM;Asus;ROG Phone 6;NFC y carga inalámbrica;Compatible;9,70;;;6
+AS-ROGP6P-MAR-COM;Asus;ROG Phone 6 Pro;Marco / chasis;Compatible;9,79;;;6
+AS-ROGP6P-BOT-COM;Asus;ROG Phone 6 Pro;Botones laterales;Compatible;5,00;;;6
+AS-ROGP6P-CRI-COM;Asus;ROG Phone 6 Pro;Cristal de pantalla;Compatible;5,00;;;6
+AS-ROGP6P-ANT-COM;Asus;ROG Phone 6 Pro;Antena / coaxial;Compatible;4,35;;;6
+AS-ROGP6P-HUE-COM;Asus;ROG Phone 6 Pro;Botón home / huella;Compatible;7,25;;;6
+AS-ROGP6P-NFC-COM;Asus;ROG Phone 6 Pro;NFC y carga inalámbrica;Compatible;9,70;;;6
+AS-Z9-MAR-COM;Asus;Zenfone 9;Marco / chasis;Compatible;8,20;;;6
+AS-Z9-BOT-COM;Asus;Zenfone 9;Botones laterales;Compatible;4,20;;;6
+AS-Z9-CRI-COM;Asus;Zenfone 9;Cristal de pantalla;Compatible;4,20;;;6
+AS-Z9-ANT-COM;Asus;Zenfone 9;Antena / coaxial;Compatible;3,65;;;6
+AS-Z9-HUE-COM;Asus;Zenfone 9;Botón home / huella;Compatible;6,05;;;6
+AS-ROGP6D-MAR-COM;Asus;ROG Phone 6D;Marco / chasis;Compatible;9,79;;;6
+AS-ROGP6D-BOT-COM;Asus;ROG Phone 6D;Botones laterales;Compatible;5,00;;;6
+AS-ROGP6D-CRI-COM;Asus;ROG Phone 6D;Cristal de pantalla;Compatible;5,00;;;6
+AS-ROGP6D-ANT-COM;Asus;ROG Phone 6D;Antena / coaxial;Compatible;4,35;;;6
+AS-ROGP6D-HUE-COM;Asus;ROG Phone 6D;Botón home / huella;Compatible;7,25;;;6
+AS-ROGP6D-NFC-COM;Asus;ROG Phone 6D;NFC y carga inalámbrica;Compatible;9,70;;;6
+AS-ROGP6DU-MAR-COM;Asus;ROG Phone 6D Ultimate;Marco / chasis;Compatible;9,79;;;6
+AS-ROGP6DU-BOT-COM;Asus;ROG Phone 6D Ultimate;Botones laterales;Compatible;5,00;;;6
+AS-ROGP6DU-CRI-COM;Asus;ROG Phone 6D Ultimate;Cristal de pantalla;Compatible;5,00;;;6
+AS-ROGP6DU-ANT-COM;Asus;ROG Phone 6D Ultimate;Antena / coaxial;Compatible;4,35;;;6
+AS-ROGP6DU-HUE-COM;Asus;ROG Phone 6D Ultimate;Botón home / huella;Compatible;7,25;;;6
+AS-ROGP6DU-NFC-COM;Asus;ROG Phone 6D Ultimate;NFC y carga inalámbrica;Compatible;9,70;;;6
+AS-ROGP7-MAR-COM;Asus;ROG Phone 7;Marco / chasis;Compatible;9,79;;;6
+AS-ROGP7-BOT-COM;Asus;ROG Phone 7;Botones laterales;Compatible;5,00;;;6
+AS-ROGP7-CRI-COM;Asus;ROG Phone 7;Cristal de pantalla;Compatible;5,00;;;6
+AS-ROGP7-ANT-COM;Asus;ROG Phone 7;Antena / coaxial;Compatible;4,35;;;6
+AS-ROGP7-HUE-COM;Asus;ROG Phone 7;Botón home / huella;Compatible;7,25;;;6
+AS-ROGP7-NFC-COM;Asus;ROG Phone 7;NFC y carga inalámbrica;Compatible;9,70;;;6
+AS-ROGP7U-MAR-COM;Asus;ROG Phone 7 Ultimate;Marco / chasis;Compatible;9,79;;;6
+AS-ROGP7U-BOT-COM;Asus;ROG Phone 7 Ultimate;Botones laterales;Compatible;5,00;;;6
+AS-ROGP7U-CRI-COM;Asus;ROG Phone 7 Ultimate;Cristal de pantalla;Compatible;5,00;;;6
+AS-ROGP7U-ANT-COM;Asus;ROG Phone 7 Ultimate;Antena / coaxial;Compatible;4,35;;;6
+AS-ROGP7U-HUE-COM;Asus;ROG Phone 7 Ultimate;Botón home / huella;Compatible;7,25;;;6
+AS-ROGP7U-NFC-COM;Asus;ROG Phone 7 Ultimate;NFC y carga inalámbrica;Compatible;9,70;;;6
+AS-Z10-MAR-COM;Asus;Zenfone 10;Marco / chasis;Compatible;8,20;;;6
+AS-Z10-BOT-COM;Asus;Zenfone 10;Botones laterales;Compatible;4,20;;;6
+AS-Z10-CRI-COM;Asus;Zenfone 10;Cristal de pantalla;Compatible;4,20;;;6
+AS-Z10-ANT-COM;Asus;Zenfone 10;Antena / coaxial;Compatible;3,65;;;6
+AS-Z10-HUE-COM;Asus;Zenfone 10;Botón home / huella;Compatible;6,05;;;6
+AS-ROGP8-MAR-COM;Asus;ROG Phone 8;Marco / chasis;Compatible;10,75;10,43;10,10;6
+AS-ROGP8-BOT-COM;Asus;ROG Phone 8;Botones laterales;Compatible;5,55;;;6
+AS-ROGP8-CRI-COM;Asus;ROG Phone 8;Cristal de pantalla;Compatible;5,50;;;6
+AS-ROGP8-ANT-COM;Asus;ROG Phone 8;Antena / coaxial;Compatible;4,79;;;6
+AS-ROGP8-HUE-COM;Asus;ROG Phone 8;Botón home / huella;Compatible;7,95;;;6
+AS-ROGP8-NFC-COM;Asus;ROG Phone 8;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+AS-ROGP8P-MAR-COM;Asus;ROG Phone 8 Pro;Marco / chasis;Compatible;10,75;10,43;10,10;6
+AS-ROGP8P-BOT-COM;Asus;ROG Phone 8 Pro;Botones laterales;Compatible;5,55;;;6
+AS-ROGP8P-CRI-COM;Asus;ROG Phone 8 Pro;Cristal de pantalla;Compatible;5,50;;;6
+AS-ROGP8P-ANT-COM;Asus;ROG Phone 8 Pro;Antena / coaxial;Compatible;4,79;;;6
+AS-ROGP8P-HUE-COM;Asus;ROG Phone 8 Pro;Botón home / huella;Compatible;7,95;;;6
+AS-ROGP8P-NFC-COM;Asus;ROG Phone 8 Pro;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+AS-Z11U-MAR-COM;Asus;Zenfone 11 Ultra;Marco / chasis;Compatible;10,75;10,43;10,10;6
+AS-Z11U-BOT-COM;Asus;Zenfone 11 Ultra;Botones laterales;Compatible;5,55;;;6
+AS-Z11U-CRI-COM;Asus;Zenfone 11 Ultra;Cristal de pantalla;Compatible;5,50;;;6
+AS-Z11U-ANT-COM;Asus;Zenfone 11 Ultra;Antena / coaxial;Compatible;4,79;;;6
+AS-Z11U-HUE-COM;Asus;Zenfone 11 Ultra;Botón home / huella;Compatible;7,95;;;6
+AS-Z11U-NFC-COM;Asus;Zenfone 11 Ultra;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+AS-ROGP9-MAR-COM;Asus;ROG Phone 9;Marco / chasis;Compatible;10,75;10,43;10,10;6
+AS-ROGP9-BOT-COM;Asus;ROG Phone 9;Botones laterales;Compatible;5,55;;;6
+AS-ROGP9-CRI-COM;Asus;ROG Phone 9;Cristal de pantalla;Compatible;5,50;;;6
+AS-ROGP9-ANT-COM;Asus;ROG Phone 9;Antena / coaxial;Compatible;4,79;;;6
+AS-ROGP9-HUE-COM;Asus;ROG Phone 9;Botón home / huella;Compatible;7,95;;;6
+AS-ROGP9-NFC-COM;Asus;ROG Phone 9;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+AS-ROGP9P-MAR-COM;Asus;ROG Phone 9 Pro;Marco / chasis;Compatible;10,75;10,43;10,10;6
+AS-ROGP9P-BOT-COM;Asus;ROG Phone 9 Pro;Botones laterales;Compatible;5,55;;;6
+AS-ROGP9P-CRI-COM;Asus;ROG Phone 9 Pro;Cristal de pantalla;Compatible;5,50;;;6
+AS-ROGP9P-ANT-COM;Asus;ROG Phone 9 Pro;Antena / coaxial;Compatible;4,79;;;6
+AS-ROGP9P-HUE-COM;Asus;ROG Phone 9 Pro;Botón home / huella;Compatible;7,95;;;6
+AS-ROGP9P-NFC-COM;Asus;ROG Phone 9 Pro;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+AS-Z12U-MAR-COM;Asus;Zenfone 12 Ultra;Marco / chasis;Compatible;10,75;10,43;10,10;6
+AS-Z12U-BOT-COM;Asus;Zenfone 12 Ultra;Botones laterales;Compatible;5,55;;;6
+AS-Z12U-CRI-COM;Asus;Zenfone 12 Ultra;Cristal de pantalla;Compatible;5,50;;;6
+AS-Z12U-ANT-COM;Asus;Zenfone 12 Ultra;Antena / coaxial;Compatible;4,79;;;6
+AS-Z12U-HUE-COM;Asus;Zenfone 12 Ultra;Botón home / huella;Compatible;7,95;;;6
+AS-Z12U-NFC-COM;Asus;Zenfone 12 Ultra;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+AS-ROGP9FE-MAR-COM;Asus;ROG Phone 9 FE;Marco / chasis;Compatible;10,75;10,43;10,10;6
+AS-ROGP9FE-BOT-COM;Asus;ROG Phone 9 FE;Botones laterales;Compatible;5,55;;;6
+AS-ROGP9FE-CRI-COM;Asus;ROG Phone 9 FE;Cristal de pantalla;Compatible;5,50;;;6
+AS-ROGP9FE-ANT-COM;Asus;ROG Phone 9 FE;Antena / coaxial;Compatible;4,79;;;6
+AS-ROGP9FE-HUE-COM;Asus;ROG Phone 9 FE;Botón home / huella;Compatible;7,95;;;6
+AS-ROGP9FE-NFC-COM;Asus;ROG Phone 9 FE;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+AS-SFORSI-MAR-COM;Asus;Smartphone for Snapdragon Insiders;Marco / chasis;Compatible;8,20;;;6
+AS-SFORSI-BOT-COM;Asus;Smartphone for Snapdragon Insiders;Botones laterales;Compatible;4,20;;;6
+AS-SFORSI-CRI-COM;Asus;Smartphone for Snapdragon Insiders;Cristal de pantalla;Compatible;4,20;;;6
+AS-SFORSI-ANT-COM;Asus;Smartphone for Snapdragon Insiders;Antena / coaxial;Compatible;3,65;;;6
+AS-SFORSI-HUE-COM;Asus;Smartphone for Snapdragon Insiders;Botón home / huella;Compatible;6,05;;;6
+AS-ROGP5P-MAR-COM;Asus;ROG Phone 5 Pro;Marco / chasis;Compatible;9,79;;;6
+AS-ROGP5P-BOT-COM;Asus;ROG Phone 5 Pro;Botones laterales;Compatible;5,00;;;6
+AS-ROGP5P-CRI-COM;Asus;ROG Phone 5 Pro;Cristal de pantalla;Compatible;5,00;;;6
+AS-ROGP5P-ANT-COM;Asus;ROG Phone 5 Pro;Antena / coaxial;Compatible;4,35;;;6
+AS-ROGP5P-HUE-COM;Asus;ROG Phone 5 Pro;Botón home / huella;Compatible;7,25;;;6
+AS-ROGP5P-NFC-COM;Asus;ROG Phone 5 Pro;NFC y carga inalámbrica;Compatible;9,70;;;6
+AS-ZLL2-MAR-COM;Asus;Zenfone Live (L2);Marco / chasis;Compatible;5,65;;;6
+AS-ZLL2-BOT-COM;Asus;Zenfone Live (L2);Botones laterales;Compatible;2,89;;;6
+AS-ZLL2-CRI-COM;Asus;Zenfone Live (L2);Cristal de pantalla;Compatible;2,89;;;6
+AS-ZLL2-ANT-COM;Asus;Zenfone Live (L2);Antena / coaxial;Compatible;2,50;;;6
+AS-ZLL2-HUE-COM;Asus;Zenfone Live (L2);Botón home / huella;Compatible;4,15;;;6
+AS-ZMPLM2-MAR-COM;Asus;Zenfone Max Plus (M2);Marco / chasis;Compatible;5,65;;;6
+AS-ZMPLM2-BOT-COM;Asus;Zenfone Max Plus (M2);Botones laterales;Compatible;2,89;;;6
+AS-ZMPLM2-CRI-COM;Asus;Zenfone Max Plus (M2);Cristal de pantalla;Compatible;2,89;;;6
+AS-ZMPLM2-ANT-COM;Asus;Zenfone Max Plus (M2);Antena / coaxial;Compatible;2,50;;;6
+AS-ZMPLM2-HUE-COM;Asus;Zenfone Max Plus (M2);Botón home / huella;Compatible;4,15;;;6
+AS-ZMPLM2S-MAR-COM;Asus;Zenfone Max Plus (M2) Shot;Marco / chasis;Compatible;5,65;;;6
+AS-ZMPLM2S-BOT-COM;Asus;Zenfone Max Plus (M2) Shot;Botones laterales;Compatible;2,89;;;6
+AS-ZMPLM2S-CRI-COM;Asus;Zenfone Max Plus (M2) Shot;Cristal de pantalla;Compatible;2,89;;;6
+AS-ZMPLM2S-ANT-COM;Asus;Zenfone Max Plus (M2) Shot;Antena / coaxial;Compatible;2,50;;;6
+AS-ZMPLM2S-HUE-COM;Asus;Zenfone Max Plus (M2) Shot;Botón home / huella;Compatible;4,15;;;6
+AS-ZMM2P-MAR-COM;Asus;Zenfone Max (M2) Pro;Marco / chasis;Compatible;5,65;;;6
+AS-ZMM2P-BOT-COM;Asus;Zenfone Max (M2) Pro;Botones laterales;Compatible;2,89;;;6
+AS-ZMM2P-CRI-COM;Asus;Zenfone Max (M2) Pro;Cristal de pantalla;Compatible;2,89;;;6
+AS-ZMM2P-ANT-COM;Asus;Zenfone Max (M2) Pro;Antena / coaxial;Compatible;2,50;;;6
+AS-ZMM2P-HUE-COM;Asus;Zenfone Max (M2) Pro;Botón home / huella;Compatible;4,15;;;6
+AS-ZENFONEL-MAR-COM;Asus;Zenfone Lite L1;Marco / chasis;Compatible;5,65;;;6
+AS-ZENFONEL-BOT-COM;Asus;Zenfone Lite L1;Botones laterales;Compatible;2,89;;;6
+AS-ZENFONEL-CRI-COM;Asus;Zenfone Lite L1;Cristal de pantalla;Compatible;2,89;;;6
+AS-ZENFONEL-ANT-COM;Asus;Zenfone Lite L1;Antena / coaxial;Compatible;2,50;;;6
+AS-ZENFONEL-HUE-COM;Asus;Zenfone Lite L1;Botón home / huella;Compatible;4,15;;;6
+AS-ZLL1-MAR-COM;Asus;Zenfone Live (L1);Marco / chasis;Compatible;5,65;;;6
+AS-ZLL1-BOT-COM;Asus;Zenfone Live (L1);Botones laterales;Compatible;2,89;;;6
+AS-ZLL1-CRI-COM;Asus;Zenfone Live (L1);Cristal de pantalla;Compatible;2,89;;;6
+AS-ZLL1-ANT-COM;Asus;Zenfone Live (L1);Antena / coaxial;Compatible;2,50;;;6
+AS-ZLL1-HUE-COM;Asus;Zenfone Live (L1);Botón home / huella;Compatible;4,15;;;6
+AS-Z3-MAR-COM;Asus;Zenfone 3;Marco / chasis;Compatible;5,75;;;6
+AS-Z3-BOT-COM;Asus;Zenfone 3;Botones laterales;Compatible;2,95;;;6
+AS-Z3-CRI-COM;Asus;Zenfone 3;Cristal de pantalla;Compatible;2,95;;;6
+AS-Z3-ANT-COM;Asus;Zenfone 3;Antena / coaxial;Compatible;2,55;;;6
+AS-Z3-HUE-COM;Asus;Zenfone 3;Botón home / huella;Compatible;4,25;;;6
+AS-Z2-MAR-COM;Asus;Zenfone 2;Marco / chasis;Compatible;5,75;;;6
+AS-Z2-BOT-COM;Asus;Zenfone 2;Botones laterales;Compatible;2,95;;;6
+AS-Z2-CRI-COM;Asus;Zenfone 2;Cristal de pantalla;Compatible;2,95;;;6
+AS-Z2-ANT-COM;Asus;Zenfone 2;Antena / coaxial;Compatible;2,55;;;6
+AS-Z515-MAR-COM;Asus;Zenfone 5 2015;Marco / chasis;Compatible;6,59;;;6
+AS-Z515-BOT-COM;Asus;Zenfone 5 2015;Botones laterales;Compatible;3,39;;;6
+AS-Z515-CRI-COM;Asus;Zenfone 5 2015;Cristal de pantalla;Compatible;3,35;;;6
+AS-Z515-ANT-COM;Asus;Zenfone 5 2015;Antena / coaxial;Compatible;2,90;;;6
+AS-PEGASUS-MAR-COM;Asus;Pegasus;Marco / chasis;Compatible;6,59;;;6
+AS-PEGASUS-BOT-COM;Asus;Pegasus;Botones laterales;Compatible;3,39;;;6
+AS-PEGASUS-ANT-COM;Asus;Pegasus;Antena / coaxial;Compatible;2,90;;;6
+AS-PXMN-MAR-COM;Asus;PadFone X mini;Marco / chasis;Compatible;6,59;;;6
+AS-PXMN-BOT-COM;Asus;PadFone X mini;Botones laterales;Compatible;3,39;;;6
+AS-PXMN-ANT-COM;Asus;PadFone X mini;Antena / coaxial;Compatible;2,90;;;6
+AS-Z4514-MAR-COM;Asus;Zenfone 4.5 2014;Marco / chasis;Compatible;5,75;;;6
+AS-Z4514-BOT-COM;Asus;Zenfone 4.5 2014;Botones laterales;Compatible;2,95;;;6
+AS-Z4514-ANT-COM;Asus;Zenfone 4.5 2014;Antena / coaxial;Compatible;2,55;;;6
+AS-Z514-MAR-COM;Asus;Zenfone 5 2014;Marco / chasis;Compatible;6,59;;;6
+AS-Z514-BOT-COM;Asus;Zenfone 5 2014;Botones laterales;Compatible;3,39;;;6
+AS-Z514-ANT-COM;Asus;Zenfone 5 2014;Antena / coaxial;Compatible;2,90;;;6
+AS-PS-MAR-COM;Asus;PadFone S;Marco / chasis;Compatible;6,59;;;6
+AS-PS-BOT-COM;Asus;PadFone S;Botones laterales;Compatible;3,39;;;6
+AS-PS-ANT-COM;Asus;PadFone S;Antena / coaxial;Compatible;2,90;;;6
+AS-PSX-MAR-COM;Asus;PadFone S X;Marco / chasis;Compatible;6,59;;;6
+AS-PSX-BOT-COM;Asus;PadFone S X;Botones laterales;Compatible;3,39;;;6
+AS-PSX-ANT-COM;Asus;PadFone S X;Antena / coaxial;Compatible;2,90;;;6
+AS-Z-MAR-COM;Asus;Zenfone;Marco / chasis;Compatible;6,59;;;6
+AS-Z-BOT-COM;Asus;Zenfone;Botones laterales;Compatible;3,39;;;6
+AS-Z-ANT-COM;Asus;Zenfone;Antena / coaxial;Compatible;2,90;;;6
+AS-Z614-MAR-COM;Asus;Zenfone 6 2014;Marco / chasis;Compatible;6,59;;;6
+AS-Z614-BOT-COM;Asus;Zenfone 6 2014;Botones laterales;Compatible;3,39;;;6
+AS-Z614-ANT-COM;Asus;Zenfone 6 2014;Antena / coaxial;Compatible;2,90;;;6
+AS-P-ANT-COM;Asus;PadFone;Antena / coaxial;Compatible;2,90;;;6

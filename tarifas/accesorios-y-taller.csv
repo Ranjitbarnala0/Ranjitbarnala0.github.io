@@ -1,0 +1,561 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+XX-C2EN1LM1M-CAB-NA;;;Cable 2 en 1 Lightning y micro-USB 1 m;;2,79;;;12
+XX-C2EN1LM2M-CAB-NA;;;Cable 2 en 1 Lightning y micro-USB 2 m;;3,99;;;12
+XX-C3EN1LUM1M-CAB-NA;;;Cable 3 en 1 Lightning, USB-C y micro-USB 1 m;;3,35;;;12
+XX-C4EN1UUALU-CAB-NA;;;Cable 4 en 1 USB-A y USB-C a Lightning y USB-C;;3,85;;;12
+XX-CH15M-CAB-NA;;;Cable HDMI 1,5 m;;3,20;;;12
+XX-CH3M-CAB-NA;;;Cable HDMI 3 m;;3,30;;;12
+XX-CH5M-CAB-NA;;;Cable HDMI 5 m;;4,09;;;12
+XX-CJ3515M-CAB-NA;;;Cable de audio jack 3,5 mm macho a macho 1,5 m;;1,40;;;12
+XX-CJ353M-CAB-NA;;;Cable de audio jack 3,5 mm macho a macho 3 m;;2,25;;;12
+XX-CJ35A2M-CAB-NA;;;Cable alargador de audio jack 3,5 mm macho a hembra 2 m;;1,65;;;12
+XX-CJ35P1M-CAB-NA;;;Cable de audio jack 3,5 mm plano 1 m;;2,20;;;12
+XX-CM3EN11M-CAB-NA;;;Cable magnético 3 en 1 Lightning, USB-C y micro-USB 1 m;;4,65;;;12
+XX-CMH-CAB-NA;;;Cable HDMI a mini HDMI;;3,15;;;12
+XX-CRRJ45CAT5-CAB-NA;;;Cable de red RJ45 Cat 5e 1,5 m;;2,05;;;12
+XX-CUA3M-CAB-NA;;;Cable alargador USB-A macho a hembra 3 m;;2,65;;;12
+XX-CUL1M-CAB-BLAN;;;Cable USB-A a Lightning 1 m;;2,65;;;12
+XX-CUL1M-CAB-NEGR;;;Cable USB-A a Lightning 1 m;;2,65;;;12
+XX-CUL2M-CAB-NA;;;Cable USB-A a Lightning 2 m;;3,15;;;12
+XX-CUL3M-CAB-NA;;;Cable USB-A a Lightning 3 m;;4,40;;;12
+XX-CULT1M-CAB-NEGR;;;Cable USB-A a Lightning trenzado 1 m;;3,30;;;12
+XX-CULT1M-CAB-BLAN;;;Cable USB-A a Lightning trenzado 1 m;;3,30;;;12
+XX-CUM1M-CAB-NEGR;;;Cable USB-A a micro-USB 1 m;;2,30;;;12
+XX-CUM1M-CAB-BLAN;;;Cable USB-A a micro-USB 1 m;;2,30;;;12
+XX-CUM2M-CAB-NA;;;Cable USB-A a micro-USB 2 m;;3,25;;;12
+XX-CUM3M-CAB-NA;;;Cable USB-A a micro-USB 3 m;;3,05;;;12
+XX-CUMT1M-CAB-NEGR;;;Cable USB-A a micro-USB trenzado 1 m;;2,89;;;12
+XX-CUMT1M-CAB-ROJO;;;Cable USB-A a micro-USB trenzado 1 m;;2,89;;;12
+XX-CUU1M-CAB-NEGR;;;Cable USB-A a USB-C 1 m;;2,89;;;12
+XX-CUU1M-CAB-BLAN;;;Cable USB-A a USB-C 1 m;;2,89;;;12
+XX-CUU2M-CAB-NA;;;Cable USB-A a USB-C 2 m;;3,30;;;12
+XX-CUU3M-CAB-NA;;;Cable USB-A a USB-C 3 m;;3,70;;;12
+XX-CUU6A1M-CAB-NEGR;;;Cable USB-A a USB-C 6 A carga superrápida 1 m;;4,10;;;12
+XX-CUU6A1M-CAB-BLAN;;;Cable USB-A a USB-C 6 A carga superrápida 1 m;;4,10;;;12
+XX-CUUT1M-CAB-NEGR;;;Cable USB-A a USB-C trenzado 1 m;;3,60;;;12
+XX-CUUT1M-CAB-BLAN;;;Cable USB-A a USB-C trenzado 1 m;;3,60;;;12
+XX-CUL1M20W-CAB-BLAN;;;Cable USB-C a Lightning 1 m 20 W;;3,25;;;12
+XX-CUL1M20W-CAB-NEGR;;;Cable USB-C a Lightning 1 m 20 W;;3,25;;;12
+XX-CUL2M20W-CAB-NA;;;Cable USB-C a Lightning 2 m 20 W;;3,30;;;12
+XX-CUU1M100W-CAB-NEGR;;;Cable USB-C a USB-C 1 m 100 W;;3,60;;;12
+XX-CUU1M100W-CAB-BLAN;;;Cable USB-C a USB-C 1 m 100 W;;3,60;;;12
+XX-CUU1M60W-CAB-NEGR;;;Cable USB-C a USB-C 1 m 60 W;;2,90;;;12
+XX-CUU1M60W-CAB-BLAN;;;Cable USB-C a USB-C 1 m 60 W;;2,90;;;12
+XX-CUU240W2M-CAB-NA;;;Cable USB-C a USB-C trenzado 240 W 2 m;;5,40;;;12
+XX-CUU2M100W-CAB-NA;;;Cable USB-C a USB-C 2 m 100 W;;4,50;;;12
+XX-CUU2M60W-CAB-NA;;;Cable USB-C a USB-C 2 m 60 W;;3,49;;;12
+XX-CUU3M60W-CAB-NA;;;Cable USB-C a USB-C 3 m 60 W;;3,85;;;12
+XX-CUUT1M60W-CAB-NEGR;;;Cable USB-C a USB-C trenzado 1 m 60 W;;4,20;;;12
+XX-CUUT1M60W-CAB-BLAN;;;Cable USB-C a USB-C trenzado 1 m 60 W;;4,20;;;12
+XX-C12WCL-CAR-NA;;;Cargador de pared 12 W con cable Lightning;;3,75;;;12
+XX-C12WCM-CAR-NA;;;Cargador de pared 12 W con cable micro-USB;;3,25;;;12
+XX-C18WCU-CAR-NA;;;Cargador de pared 18 W USB-A con cable USB-C;;4,95;;;12
+XX-C20WCU-CAR-NA;;;Cargador de pared 20 W USB-C PD con cable USB-C a USB-C;;5,89;;;12
+XX-C20WCUL-CAR-NA;;;Cargador de pared 20 W USB-C PD con cable USB-C a Lightning;;5,89;;;12
+XX-C25WCU-CAR-NA;;;Cargador de pared 25 W USB-C PD con cable USB-C a USB-C;;7,15;;;12
+XX-C2ACU-CAR-NA;;;Cargador de pared 2 A con cable USB-C;;4,85;;;12
+XX-C30WCL-CAR-NA;;;Cargador de pared 30 W USB-C PD con cable USB-C a Lightning 1 m;;6,20;;;12
+XX-C30WCU-CAR-NA;;;Cargador de pared 30 W USB-C PD con cable USB-C a USB-C;;6,00;;;12
+XX-CEU8P110W-CAR-NA;;;Estación de carga USB 8 puertos 110 W;;32,89;;;12
+XX-CI10W-CAR-NA;;;Cargador inalámbrico Qi 10 W (base);;5,95;;;12
+XX-CI15W-CAR-NA;;;Cargador inalámbrico Qi 15 W (base);;8,55;;;12
+XX-CI3EN115W-CAR-NA;;;Cargador inalámbrico 3 en 1 15 W (móvil, reloj y auriculares);;15,45;;;12
+XX-CIM15W-CAR-NA;;;Cargador inalámbrico magnético 15 W (compatible con MagSafe);;11,55;;;12
+XX-CIMQI225W-CAR-NA;;;Cargador inalámbrico magnético Qi2 25 W USB-C;;14,00;;;12
+XX-CP100WG5PU-CAR-NA;;;Cargador de pared GaN 100 W 5 puertos (2 USB-C + 3 USB-A);;32,60;;;12
+XX-CP120WG4PU-CAR-NA;;;Cargador de pared GaN 120 W 4 puertos (3 USB-C + USB-A);;23,05;;;12
+XX-CP12W2USB-CAR-NA;;;Cargador de pared 2 puertos USB-A 12 W (2,4 A);;3,50;;;12
+XX-CP12WU-CAR-NA;;;Cargador de pared 12 W USB-A (2,4 A);;1,85;;;12
+XX-CP18WQC3U-CAR-NA;;;Cargador de pared 18 W USB-A Quick Charge 3.0;;3,60;;;12
+XX-CP20WPU-CAR-NA;;;Cargador de pared 20 W USB-C PD;;4,50;;;12
+XX-CP25WPU-CAR-NA;;;Cargador de pared 25 W USB-C PD;;4,90;;;12
+XX-CP2USB18W-CAR-NA;;;Cargador de pared 2 puertos USB-A 18 W;;4,09;;;12
+XX-CP2USBC35W-CAR-NA;;;Cargador de pared GaN 35 W 2 puertos USB-C;;11,50;;;12
+XX-CP30WPU-CAR-NA;;;Cargador de pared 30 W USB-C PD;;5,70;;;12
+XX-CP33WGU-CAR-NA;;;Cargador de pared GaN 33 W USB-C PD;;5,90;;;12
+XX-CP35WPU-CAR-NA;;;Cargador de pared 35 W USB-C PD;;5,75;;;12
+XX-CP3USB42W-CAR-NA;;;Cargador de pared 3 puertos USB-A 42 W;;4,65;;;12
+XX-CP45WPU-CAR-NA;;;Cargador de pared 45 W USB-C PD;;8,05;;;12
+XX-CP5WU-CAR-NA;;;Cargador de pared 5 W USB-A;;2,90;;;12
+XX-CP65WG3PUE-CAR-NA;;;Cargador de pared GaN 65 W 3 puertos (2 USB-C + USB-A);;10,99;;;12
+XX-CP65WG5PUE-CAR-NA;;;Cargador de pared GaN 65 W 5 puertos (2 USB-C + 3 USB-A);;16,69;;;12
+XX-CP65WPU-CAR-NA;;;Cargador de pared 65 W USB-C PD (móvil y portátil);;13,10;;;12
+XX-CPUU20W-CAR-BLAN;;;Cargador de pared 20 W 2 puertos (USB-C PD + USB-A);;5,25;;;12
+XX-CPUU20W-CAR-NEGR;;;Cargador de pared 20 W 2 puertos (USB-C PD + USB-A);;5,25;;;12
+XX-CPUU20W-CAR-GRIS;;;Cargador de pared 20 W 2 puertos (USB-C PD + USB-A);;5,25;;;12
+XX-CPUU30W-CAR-NA;;;Cargador de pared 30 W 2 puertos (USB-C PD + USB-A);;8,15;;;12
+XX-CC120W4EN1-CCO-NA;;;Cargador de coche 4 en 1 120 W con cables retráctiles USB-C y Lightning;;9,09;;;12
+XX-CC12W2USB-CCO-NA;;;Cargador de coche 2 puertos USB-A (10-12 W);;2,65;;;12
+XX-CC18WQC3U-CCO-NA;;;Cargador de coche 18 W Quick Charge 3.0 (1 USB-A);;4,00;;;12
+XX-CC20WPU-CCO-NA;;;Cargador de coche 20 W PD (1 USB-C);;2,69;;;12
+XX-CC36W2USBQ-CCO-NA;;;Cargador de coche 36 W 2 puertos USB-A Quick Charge 3.0;;3,85;;;12
+XX-CC38WCU-CCO-NA;;;Cargador de coche 38 W 2 puertos (USB-C PD + USB-A QC 3.0) con cable USB-C;;5,65;;;12
+XX-CC40WPU-CCO-NA;;;Cargador de coche 40 W PD (1 USB-C);;5,15;;;12
+XX-CC48WUU-CCO-NA;;;Cargador de coche 48 W 2 puertos (USB-C PD + USB-A QC 3.0);;4,10;;;12
+XX-CC50W2USBC-CCO-NA;;;Cargador de coche 50 W 2 puertos USB-C PD;;5,90;;;12
+XX-CC55W3PUER-CCO-NA;;;Cargador de coche 55 W 3 puertos (USB-C + 2 USB-A);;2,95;;;12
+XX-CC5W1USB-CCO-BLAN;;;Cargador de coche 5 W 1 puerto USB-A (1 A);;1,89;;;12
+XX-CC5W1USB-CCO-NEGR;;;Cargador de coche 5 W 1 puerto USB-A (1 A);;1,89;;;12
+XX-CCCL-CCO-NA;;;Cargador de coche con cable Lightning;;3,30;;;12
+XX-CCCU-CCO-NA;;;Cargador de coche con cable USB-C;;3,99;;;12
+XX-CCTFB-CCO-NA;;;Transmisor FM Bluetooth para coche con 2 USB de carga y lector microSD;;6,55;;;12
+XX-P1000022WP-PWB-BLAN;;;Batería externa 10.000 mAh 22,5 W con pantalla (USB-C PD + USB-A);;9,89;;;12
+XX-P1000022WP-PWB-NEGR;;;Batería externa 10.000 mAh 22,5 W con pantalla (USB-C PD + USB-A);;9,89;;;12
+XX-P100002USB-PWB-NA;;;Batería externa 10.000 mAh 10 W con 2 salidas USB;;10,10;;;12
+XX-P100004C-PWB-NA;;;Batería externa 10.000 mAh con 4 cables (USB-C, Lightning, micro-USB y USB-A);;13,90;;;12
+XX-P10000CI-PWB-NA;;;Batería externa 10.000 mAh 22,5 W con cables USB-C y Lightning integrados;;16,59;;;12
+XX-P10000M-PWB-NA;;;Batería externa magnética 10.000 mAh (compatible con MagSafe);;12,39;;;12
+XX-P2000022WC-PWB-NA;;;Batería externa 20.000 mAh 22,5 W con cables integrados y pantalla;;14,85;;;12
+XX-P2000065WP-PWB-NA;;;Batería externa 20.000 mAh 65 W para portátil (USB-C);;22,90;;;12
+XX-P20000B-PWB-NA;;;Batería externa 20.000 mAh;;12,60;;;12
+XX-P20000S-PWB-NA;;;Batería externa solar 20.000 mAh con 4 cables;;12,90;;;12
+XX-P3000022WP-PWB-NA;;;Batería externa 30.000 mAh 22,5 W con pantalla;;20,50;;;12
+XX-P500022WP-PWB-NA;;;Batería externa 5.000 mAh 22,5 W con pantalla y cable integrado;;13,20;;;12
+XX-P5000CI-PWB-NA;;;Batería externa 5.000 mAh con cables Lightning y USB-C integrados;;5,90;;;12
+XX-P5000M-PWB-NA;;;Batería externa magnética 5.000 mAh (compatible con MagSafe);;8,50;;;12
+XX-ABCO-AUD-NEGR;;;Auriculares Bluetooth de conducción ósea con banda de cuello;;9,15;;;12
+XX-ABD-AUD-NEGR;;;Auriculares Bluetooth de diadema con almohadillas;;12,85;;;12
+XX-ABD-AUD-BLAN;;;Auriculares Bluetooth de diadema con almohadillas;;12,85;;;12
+XX-ABD-AUD-AZUL;;;Auriculares Bluetooth de diadema con almohadillas;;12,85;;;12
+XX-ABD-AUD-ROJO;;;Auriculares Bluetooth de diadema con almohadillas;;12,85;;;12
+XX-ABMML-AUD-BLAN;;;Auricular Bluetooth manos libres individual;;6,20;;;12
+XX-ABMML-AUD-NEGR;;;Auricular Bluetooth manos libres individual;;6,20;;;12
+XX-ABO-AUD-BEIG;;;Auriculares Bluetooth OWS de oído abierto con estuche;;15,35;;;12
+XX-ABO-AUD-BLAN;;;Auriculares Bluetooth OWS de oído abierto con estuche;;15,35;;;12
+XX-ADJM-AUD-NEGR;;;Cascos de diadema con micrófono para PC, cable jack 3,5 mm;;3,70;;;12
+XX-ADPJ-AUD-NA;;;Auriculares de diadema plegables con cable jack 3,5 mm;;6,60;;;12
+XX-ADU-AUD-NEGR;;;Auriculares de diadema con cable USB-C;;8,20;;;12
+XX-AGLL-AUD-NEGR;;;Auriculares gaming con luces LED para PC y consolas;;16,99;;;12
+XX-AJCP-AUD-NA;;;Auriculares de cable plano antienredos con micrófono, jack 3,5 mm;;3,20;;;12
+XX-AJCV-AUD-BLAN;;;Auriculares con mando de volumen y micrófono, cable jack 3,5 mm;;3,25;;;12
+XX-AJCV-AUD-ROSA;;;Auriculares con mando de volumen y micrófono, cable jack 3,5 mm;;3,25;;;12
+XX-AJD-AUD-VERD;;;Auriculares deportivos con cable jack 3,5 mm;;3,25;;;12
+XX-AJD-AUD-ROSA;;;Auriculares deportivos con cable jack 3,5 mm;;3,25;;;12
+XX-AJM-AUD-NEGR;;;Auriculares intrauditivos con micrófono y cable jack 3,5 mm;;3,09;;;12
+XX-AJM-AUD-BLAN;;;Auriculares intrauditivos con micrófono y cable jack 3,5 mm;;3,09;;;12
+XX-AJM-AUD-AZUL;;;Auriculares intrauditivos con micrófono y cable jack 3,5 mm;;3,09;;;12
+XX-AJM-AUD-ROJO;;;Auriculares intrauditivos con micrófono y cable jack 3,5 mm;;3,09;;;12
+XX-ALM-AUD-BLAN;;;Auriculares con cable Lightning con micrófono y control de volumen;;4,95;;;12
+XX-ALM-AUD-NEGR;;;Auriculares con cable Lightning con micrófono y control de volumen;;4,95;;;12
+XX-ATB50-AUD-NA;;;Auriculares TWS Bluetooth 5.0 con caja de carga;;8,25;;;12
+XX-ATB52S-AUD-BLAN;;;Auriculares TWS Bluetooth 5.2 o superior con caja de carga;;8,79;;;12
+XX-ATB52S-AUD-NEGR;;;Auriculares TWS Bluetooth 5.2 o superior con caja de carga;;8,79;;;12
+XX-ATB52S-AUD-AZUL;;;Auriculares TWS Bluetooth 5.2 o superior con caja de carga;;8,79;;;12
+XX-ATB52S-AUD-ROSA;;;Auriculares TWS Bluetooth 5.2 o superior con caja de carga;;8,79;;;12
+XX-ATB52S-AUD-DORA;;;Auriculares TWS Bluetooth 5.2 o superior con caja de carga;;8,79;;;12
+XX-ATCR-AUD-NA;;;Auriculares TWS con cancelación de ruido y caja de carga;;16,50;;;12
+XX-ATDG-AUD-NA;;;Auriculares TWS deportivos con gancho para la oreja y estuche;;9,45;;;12
+XX-ATEL-AUD-NA;;;Auriculares TWS con cancelación de ruido ENC para llamadas;;10,55;;;12
+XX-ATIL-AUD-NEGR;;;Auriculares TWS Bluetooth 5.2 con indicador LED de batería en el estuche;;7,39;;;12
+XX-AUC-AUD-NEGR;;;Auriculares con cable USB-C;;3,15;;;12
+XX-AUC-AUD-BLAN;;;Auriculares con cable USB-C;;3,15;;;12
+XX-AUCV-AUD-NEGR;;;Auriculares USB-C con control de volumen y micrófono;;4,79;;;12
+XX-AUCV-AUD-BLAN;;;Auriculares USB-C con control de volumen y micrófono;;4,79;;;12
+XX-ABSB20W-AUD-PLAT;;;Barra de sonido Bluetooth 20 W para TV y ordenador;;31,35;;;12
+XX-ABSB40CM-AUD-NA;;;Barra de sonido Bluetooth compacta de 40 cm;;19,19;;;12
+XX-AB10W-AUD-NEGR;;;Altavoz Bluetooth portátil 10 W (2 x 5 W);;10,29;;;12
+XX-AB10W-AUD-AZUL;;;Altavoz Bluetooth portátil 10 W (2 x 5 W);;10,29;;;12
+XX-AB10W-AUD-ROJO;;;Altavoz Bluetooth portátil 10 W (2 x 5 W);;10,29;;;12
+XX-AB16WAL-AUD-ROJO;;;Altavoz Bluetooth 16 W (2 x 8 W) con asa y luces LED;;16,10;;;12
+XX-AB5W-AUD-NEGR;;;Altavoz Bluetooth portátil 5 W;;8,90;;;12
+XX-AB5W-AUD-GRIS;;;Altavoz Bluetooth portátil 5 W;;8,90;;;12
+XX-AB5W-AUD-BLAN;;;Altavoz Bluetooth portátil 5 W;;8,90;;;12
+XX-AB5W-AUD-ROJO;;;Altavoz Bluetooth portátil 5 W;;8,90;;;12
+XX-ABB-AUD-NEGR;;;Altavoz Bluetooth mini para bicicleta 8 W;;16,80;;;12
+XX-ABF30WK-AUD-NEGR;;;Altavoz Bluetooth de fiesta 30 W con función karaoke, pantalla LED y luces;;41,05;;;12
+XX-ABIPX6-AUD-NEGR;;;Altavoz Bluetooth portátil resistente al agua IPX6;;15,60;;;12
+XX-ABML-AUD-NEGR;;;Altavoz Bluetooth magnético compacto con luces RGB;;5,55;;;12
+XX-ABM3W-AUD-NEGR;;;Altavoz Bluetooth mini 3 W con USB y microSD;;8,55;;;12
+XX-ABRFM-AUD-NEGR;;;Altavoz Bluetooth con radio FM y ranura microSD;;9,45;;;12
+XX-ABRFM-AUD-AZUL;;;Altavoz Bluetooth con radio FM y ranura microSD;;9,45;;;12
+XX-ABRFM-AUD-TURQ;;;Altavoz Bluetooth con radio FM y ranura microSD;;9,45;;;12
+XX-ABRA-AUD-NEGR;;;Altavoz Bluetooth pequeño resistente al agua (IPX4 o superior);;6,60;;;12
+XX-ABRA-AUD-AZUL;;;Altavoz Bluetooth pequeño resistente al agua (IPX4 o superior);;6,60;;;12
+XX-ABV3W-AUD-NEGR;;;Altavoz Bluetooth 3 W con ventosa;;4,45;;;12
+XX-AKBM-AUD-NA;;;Altavoz karaoke Bluetooth con micrófono y radio FM;;24,85;;;12
+XX-AMKB-AUD-NA;;;Micrófono de karaoke Bluetooth con altavoz integrado;;6,55;;;12
+XX-AP20JU-AUD-NA;;;Altavoces para ordenador 2.0 con entrada jack y alimentación USB;;7,20;;;12
+XX-APGLU-AUD-NA;;;Altavoces para PC gaming con luces LED y USB;;15,25;;;12
+XX-SAEM-SOP-NA;;;Agarre expandible adhesivo para el móvil;;1,29;;;6
+XX-SBMFI-SOP-NA;;;Soporte de bici y moto con funda impermeable para el móvil;;6,65;;;6
+XX-SBMM-SOP-NA;;;Soporte de móvil para bicicleta y moto al manillar;;4,09;;;6
+XX-SCCI10WA-SOP-NA;;;Soporte de coche con carga inalámbrica 10 W y apertura automática;;9,00;;;6
+XX-SCCI15W-SOP-NA;;;Soporte de coche con carga inalámbrica 15 W y apertura automática;;31,20;;;6
+XX-SCMP-SOP-NEGR;;;Soporte magnético flexible de coche para la pantalla del vehículo;;7,50;;;6
+XX-SCMQI215W-SOP-NA;;;Soporte magnético de coche con carga inalámbrica Qi2 15 W (compatible con MagSafe);;23,05;;;6
+XX-SCMR-SOP-NA;;;Soporte magnético de coche para reposacabezas;;5,35;;;6
+XX-SCPB-SOP-NEGR;;;Soporte de coche con ventosa y brazo largo para parabrisas;;5,15;;;6
+XX-SCPS-SOP-NA;;;Soporte de coche con pinza para salpicadero;;4,09;;;6
+XX-SCRC-SOP-NEGR;;;Soporte de coche para rejilla de ventilación con clip;;2,89;;;6
+XX-SCRC-SOP-BLAN;;;Soporte de coche para rejilla de ventilación con clip;;2,89;;;6
+XX-SCRC-SOP-ROJO;;;Soporte de coche para rejilla de ventilación con clip;;2,89;;;6
+XX-SCRG-SOP-NEGR;;;Soporte de coche por gravedad para rejilla de ventilación;;5,20;;;6
+XX-SCRM-SOP-NEGR;;;Soporte magnético de coche para rejilla de ventilación;;5,00;;;6
+XX-SCRT-SOP-NA;;;Soporte de tablet para reposacabezas del coche (7 a 11 pulgadas);;5,75;;;6
+XX-SCR-SOP-NA;;;Soporte de móvil para retrovisor de coche 360°;;4,55;;;6
+XX-SCSM-SOP-NEGR;;;Soporte magnético de coche para salpicadero o parabrisas;;3,80;;;6
+XX-SCVG-SOP-NA;;;Soporte de móvil para coche con ventosa de gel;;2,49;;;6
+XX-SFMM-SOP-NA;;;Soporte flexible universal multiusos para móvil;;2,65;;;6
+XX-SPSCJ-SOP-NEGR;;;Palo selfie extensible con cable jack 3,5 mm;;2,75;;;6
+XX-SPSCJ-SOP-AZUL;;;Palo selfie extensible con cable jack 3,5 mm;;2,75;;;6
+XX-SPSCJ-SOP-ROSA;;;Palo selfie extensible con cable jack 3,5 mm;;2,75;;;6
+XX-SPSCJ-SOP-VERD;;;Palo selfie extensible con cable jack 3,5 mm;;2,75;;;6
+XX-SPSCJ-SOP-ROJO;;;Palo selfie extensible con cable jack 3,5 mm;;2,75;;;6
+XX-SPSTB-SOP-NEGR;;;Palo selfie con trípode y mando Bluetooth;;4,80;;;6
+XX-SPSTB-SOP-BLAN;;;Palo selfie con trípode y mando Bluetooth;;4,80;;;6
+XX-SPBF-SOP-NA;;;Soporte de pinza con brazo flexible para móvil o tablet;;4,95;;;6
+XX-SSMM-SOP-NA;;;Soporte metálico de sobremesa para móvil o tablet;;4,25;;;6
+XX-SSPMT-SOP-NEGR;;;Soporte de sobremesa plegable para móvil y tablet;;2,89;;;6
+XX-SSPMT-SOP-BLAN;;;Soporte de sobremesa plegable para móvil y tablet;;2,89;;;6
+XX-SSPMT-SOP-ROSA;;;Soporte de sobremesa plegable para móvil y tablet;;2,89;;;6
+XX-SSPMT-SOP-AZUL;;;Soporte de sobremesa plegable para móvil y tablet;;2,89;;;6
+XX-SSPMT-SOP-NARA;;;Soporte de sobremesa plegable para móvil y tablet;;2,89;;;6
+XX-STPP-SOP-NA;;;Soporte plegable para tablet y portátil;;4,99;;;6
+XX-STSG-SOP-NA;;;Soporte de sobremesa giratorio 360° para tablet o portátil;;9,05;;;6
+XX-STMC1M-SOP-NA;;;Trípode para móvil y cámara de hasta 1,02 m con soporte de móvil;;6,20;;;6
+XX-MLMU-MEM-NA;;;Lector de tarjetas microSD USB-A hasta 32 GB;;0,99;;;12
+XX-MLSMU-MEM-NA;;;Lector de tarjetas SD y microSD USB-A;;3,75;;;12
+XX-MLSMU28-MEM-NA;;;Lector de tarjetas SD y microSD USB-C;;5,29;;;12
+XX-MM128GBCLA-MEM-NA;;;Tarjeta microSD 128 GB clase 10 U1 A1;;24,79;;;12
+XX-MM128GBU3A-MEM-NA;;;Tarjeta microSD 128 GB U3 A2 V30;;39,65;;;12
+XX-MM16GBCLAS-MEM-NA;;;Tarjeta microSD 16 GB clase 10 U1 A1;;6,69;;;12
+XX-MM1TBU3V30-MEM-NA;;;Tarjeta microSD 1 TB U3 V30;;112,00;;;12
+XX-MM256GBCLA-MEM-NA;;;Tarjeta microSD 256 GB clase 10 U1 A1;;44,60;;;12
+XX-MM256GBU3A-MEM-NA;;;Tarjeta microSD 256 GB U3 A2 V30;;57,00;;;12
+XX-MM32GBCLAS-MEM-NA;;;Tarjeta microSD 32 GB clase 10 U1 A1;;9,90;;;12
+XX-MM512GBU3V-MEM-NA;;;Tarjeta microSD 512 GB U3 V30;;76,00;;;12
+XX-MM64GBCLAS-MEM-NA;;;Tarjeta microSD 64 GB clase 10 U1 A1;;14,85;;;12
+XX-MM64GBU3A2-MEM-NA;;;Tarjeta microSD 64 GB U3 A2 V30;;24,79;;;12
+XX-MS128GBCLA-MEM-NA;;;Tarjeta SD 128 GB clase 10 UHS-I;;38,39;;;12
+XX-MS32GBCLAS-MEM-NA;;;Tarjeta SD 32 GB clase 10 UHS-I;;17,29;;;12
+XX-MS64GBCLAS-MEM-NA;;;Tarjeta SD 64 GB clase 10 UHS-I;;22,00;;;12
+XX-MU128GBUSB-MEM-NA;;;Pendrive 128 GB USB 3.0;;12,35;;;12
+XX-MU16GBUSB2-MEM-NA;;;Pendrive 16 GB USB 2.0;;4,95;;;12
+XX-MU16GBUSB3-MEM-NA;;;Pendrive 16 GB USB 3.0;;5,95;;;12
+XX-MU256GBUSB-MEM-NA;;;Pendrive 256 GB USB 3.0;;23,65;;;12
+XX-MU32GBUSB2-MEM-NA;;;Pendrive 32 GB USB 2.0;;5,75;;;12
+XX-MU32GBUSB3-MEM-NA;;;Pendrive 32 GB USB 3.0;;6,15;;;12
+XX-MU64GBUSB3-MEM-NA;;;Pendrive 64 GB USB 3.0;;8,20;;;12
+XX-MUDU128GB-MEM-NA;;;Pendrive 128 GB con USB-C y USB-A;;19,85;;;12
+XX-MUDU256GB-MEM-NA;;;Pendrive 256 GB con USB-C y USB-A;;33,95;;;12
+XX-MUDU32GB-MEM-NA;;;Pendrive 32 GB con USB-C y USB-A;;13,20;;;12
+XX-MUDU64GB-MEM-NA;;;Pendrive 64 GB con USB-C y USB-A;;16,95;;;12
+XX-MUL128GB-MEM-NA;;;Pendrive 128 GB para iPhone con Lightning;;33,70;;;12
+XX-MUL64GB-MEM-NA;;;Pendrive 64 GB para iPhone con Lightning;;30,85;;;12
+XX-ADJ35-ADP-NA;;;Divisor de audio jack 3,5 mm 1 a 2 para dos auriculares;;0,80;;;12
+XX-AEAAE-ADP-NA;;;Adaptador de enchufe americano a europeo;;1,35;;;12
+XX-AEUCUAE-ADP-NA;;;Adaptador de enchufe universal UK, China y EEUU a europeo;;2,75;;;12
+XX-AHV-ADP-NEGR;;;Adaptador HDMI a VGA con cable de audio jack 3,5 mm;;3,85;;;12
+XX-AHV-ADP-BLAN;;;Adaptador HDMI a VGA con cable de audio jack 3,5 mm;;3,85;;;12
+XX-AHUSB24P-ADP-NA;;;Hub USB 2.0 de 4 puertos con interruptor;;4,55;;;12
+XX-AHUSB34P-ADP-NA;;;Hub USB 3.0 de 4 puertos con interruptor y luz LED;;8,19;;;12
+XX-AHU4EN13US-ADP-NA;;;Hub USB-C acodado con 2 USB 2.0, 1 USB 3.0 y USB-C (4 en 1);;5,95;;;12
+XX-AHU4EN1HV-ADP-NA;;;Hub USB-C 4 en 1 con HDMI, VGA, USB 3.0 y USB-C PD;;7,90;;;12
+XX-AHU5EN1RJ4-ADP-NA;;;Hub USB-C 5 en 1 con HDMI 4K, 2 USB 3.0, red RJ45 y USB-C PD;;12,35;;;12
+XX-AHU6EN1-ADP-NA;;;Hub USB-C 6 en 1 con HDMI 4K, 2 USB 3.0, lector SD/microSD y USB-C PD;;12,35;;;12
+XX-ALACJ-ADP-NA;;;Adaptador Lightning 2 en 1 para cargar y usar auriculares de jack;;3,99;;;12
+XX-ALDC-ADP-NA;;;Adaptador doble Lightning para cargar y usar auriculares Lightning;;4,35;;;12
+XX-ALH-ADP-NA;;;Adaptador Lightning a HDMI para iPhone y iPad;;6,45;;;12
+XX-ALJ35-ADP-NA;;;Adaptador Lightning a jack 3,5 mm para auriculares;;4,00;;;12
+XX-AML-ADP-NA;;;Adaptador micro-USB a Lightning;;2,40;;;12
+XX-AMU-ADP-NA;;;Adaptador micro-USB a USB-C;;2,29;;;12
+XX-AO3EN1-ADP-NA;;;Adaptador OTG 3 en 1 USB-C, Lightning y micro-USB a USB-A;;4,45;;;12
+XX-AOMC-ADP-NA;;;Cable OTG micro-USB a USB-A hembra corto;;1,85;;;12
+XX-AOUC-ADP-NA;;;Cable OTG USB-C a USB-A hembra corto;;2,65;;;12
+XX-AOUU-ADP-NEGR;;;Adaptador OTG USB-C a USB-A hembra;;2,60;;;12
+XX-AOUU-ADP-BLAN;;;Adaptador OTG USB-C a USB-A hembra;;2,60;;;12
+XX-AS3EN1-ADP-NEGR;;;Set de 3 adaptadores SIM nano, micro y estándar;;1,55;;;12
+XX-AS3EN1-ADP-BLAN;;;Set de 3 adaptadores SIM nano, micro y estándar;;1,55;;;12
+XX-ASA1UD-ADP-NA;;;Aguja extractora de bandeja SIM (1 unidad);;1,05;;;12
+XX-ASAP50-ADP-NA;;;Pack de 50 agujas extractoras de SIM;;6,35;;;12
+XX-ASC-ADP-NA;;;Cortador de tarjetas SIM a micro y nano;;4,05;;;12
+XX-ASKA-ADP-NA;;;Kit de 3 adaptadores SIM con aguja extractora;;2,29;;;12
+XX-AUU-ADP-NA;;;Adaptador USB-A macho a USB-C hembra;;2,99;;;12
+XX-AUAC-ADP-NA;;;Adaptador USB-C 2 en 1 para cargar y usar auriculares de jack;;3,45;;;12
+XX-AUJ35-ADP-NA;;;Adaptador USB-C a jack 3,5 mm para auriculares;;2,99;;;12
+XX-AUL-ADP-NA;;;Adaptador USB-C hembra a Lightning macho;;2,70;;;12
+XX-AURJ45G-ADP-NA;;;Adaptador USB-C a RJ45 Ethernet gigabit;;9,30;;;12
+XX-AVUUUAU-ADP-NA;;;Cargador de viaje con enchufes UK, UE, EEUU y Australia 10,5 W;;9,90;;;12
+XX-CRAU1M-SWA-NA;;;Cargador magnético para Apple Watch USB-A 1 m;;5,20;;;6
+XX-CRAU2M-SWA-NA;;;Cargador magnético para Apple Watch USB-A 2 m;;6,25;;;6
+XX-CRAU1MDR-SWA-NA;;;Cargador magnético para Apple Watch USB-C 1 m;;5,70;;;6
+XX-CRAU2MEM-SWA-NA;;;Cargador magnético para Apple Watch USB-C 2 m;;6,85;;;6
+XX-CRGU-SWA-NA;;;Cargador inalámbrico para Samsung Galaxy Watch con cable USB;;8,25;;;6
+XX-CAM3841-SWA-AZUL;;;Correa metálica milanesa para Apple Watch 38/40/41 mm;;4,95;;;6
+XX-CAM3841-SWA-NEGR;;;Correa metálica milanesa para Apple Watch 38/40/41 mm;;4,95;;;6
+XX-CAM3841-SWA-ORO;;;Correa metálica milanesa para Apple Watch 38/40/41 mm;;4,95;;;6
+XX-CAM3841-SWA-OROR;;;Correa metálica milanesa para Apple Watch 38/40/41 mm;;4,95;;;6
+XX-CAM3841-SWA-PLAT;;;Correa metálica milanesa para Apple Watch 38/40/41 mm;;4,95;;;6
+XX-CAM4249-SWA-AZUL;;;Correa metálica milanesa para Apple Watch 42/44/45/49 mm;;4,95;;;6
+XX-CAM4249-SWA-NEGR;;;Correa metálica milanesa para Apple Watch 42/44/45/49 mm;;4,95;;;6
+XX-CAM4249-SWA-ORO;;;Correa metálica milanesa para Apple Watch 42/44/45/49 mm;;4,95;;;6
+XX-CAM4249-SWA-OROR;;;Correa metálica milanesa para Apple Watch 42/44/45/49 mm;;4,95;;;6
+XX-CAM4249-SWA-PLAT;;;Correa metálica milanesa para Apple Watch 42/44/45/49 mm;;4,95;;;6
+XX-CAN3841-SWA-AZUL;;;Correa de nylon para Apple Watch 38/40/41 mm;;4,90;;;6
+XX-CAN3841-SWA-BLAN;;;Correa de nylon para Apple Watch 38/40/41 mm;;4,90;;;6
+XX-CAN3841-SWA-BURD;;;Correa de nylon para Apple Watch 38/40/41 mm;;4,90;;;6
+XX-CAN3841-SWA-GRIS;;;Correa de nylon para Apple Watch 38/40/41 mm;;4,90;;;6
+XX-CAN3841-SWA-NARA;;;Correa de nylon para Apple Watch 38/40/41 mm;;4,90;;;6
+XX-CAN3841-SWA-NEGR;;;Correa de nylon para Apple Watch 38/40/41 mm;;4,90;;;6
+XX-CAN3841-SWA-VERD;;;Correa de nylon para Apple Watch 38/40/41 mm;;4,90;;;6
+XX-CAN3841-SWA-VIOL;;;Correa de nylon para Apple Watch 38/40/41 mm;;4,90;;;6
+XX-CAN4249-SWA-AZUL;;;Correa de nylon para Apple Watch 42/44/45/49 mm;;4,90;;;6
+XX-CAN4249-SWA-BLAN;;;Correa de nylon para Apple Watch 42/44/45/49 mm;;4,90;;;6
+XX-CAN4249-SWA-BURD;;;Correa de nylon para Apple Watch 42/44/45/49 mm;;4,90;;;6
+XX-CAN4249-SWA-GRIS;;;Correa de nylon para Apple Watch 42/44/45/49 mm;;4,90;;;6
+XX-CAN4249-SWA-NARA;;;Correa de nylon para Apple Watch 42/44/45/49 mm;;4,90;;;6
+XX-CAN4249-SWA-NEGR;;;Correa de nylon para Apple Watch 42/44/45/49 mm;;4,90;;;6
+XX-CAN4249-SWA-ROSA;;;Correa de nylon para Apple Watch 42/44/45/49 mm;;4,90;;;6
+XX-CAN4249-SWA-VERD;;;Correa de nylon para Apple Watch 42/44/45/49 mm;;4,90;;;6
+XX-CAN4249-SWA-VIOL;;;Correa de nylon para Apple Watch 42/44/45/49 mm;;4,90;;;6
+XX-CAS3841-SWA-NEGR;;;Correa deportiva de silicona para Apple Watch 38/40/41 mm;;3,30;;;6
+XX-CAS3841-SWA-BLAN;;;Correa deportiva de silicona para Apple Watch 38/40/41 mm;;3,30;;;6
+XX-CAS3841-SWA-AZUL;;;Correa deportiva de silicona para Apple Watch 38/40/41 mm;;3,30;;;6
+XX-CAS3841-SWA-BURD;;;Correa deportiva de silicona para Apple Watch 38/40/41 mm;;3,30;;;6
+XX-CAS3841-SWA-NARA;;;Correa deportiva de silicona para Apple Watch 38/40/41 mm;;3,30;;;6
+XX-CAS3841-SWA-TURQ;;;Correa deportiva de silicona para Apple Watch 38/40/41 mm;;3,30;;;6
+XX-CAS3841-SWA-VERD;;;Correa deportiva de silicona para Apple Watch 38/40/41 mm;;3,30;;;6
+XX-CAS4249-SWA-NEGR;;;Correa deportiva de silicona para Apple Watch 42/44/45/49 mm;;3,30;;;6
+XX-CAS4249-SWA-BLAN;;;Correa deportiva de silicona para Apple Watch 42/44/45/49 mm;;3,30;;;6
+XX-CAS4249-SWA-AZUL;;;Correa deportiva de silicona para Apple Watch 42/44/45/49 mm;;3,30;;;6
+XX-CAS4249-SWA-BURD;;;Correa deportiva de silicona para Apple Watch 42/44/45/49 mm;;3,30;;;6
+XX-CAS4249-SWA-NARA;;;Correa deportiva de silicona para Apple Watch 42/44/45/49 mm;;3,30;;;6
+XX-CAS4249-SWA-TURQ;;;Correa deportiva de silicona para Apple Watch 42/44/45/49 mm;;3,30;;;6
+XX-CAS4249-SWA-VERD;;;Correa deportiva de silicona para Apple Watch 42/44/45/49 mm;;3,30;;;6
+XX-CS20MMR-SWA-NEGR;;;Correa de silicona 20 mm para reloj;;4,45;;;6
+XX-CS20MMR-SWA-ROSA;;;Correa de silicona 20 mm para reloj;;4,45;;;6
+XX-CS22MMR-SWA-NA;;;Correa de silicona 22 mm para reloj;;4,45;;;6
+XX-FBDX-FUN-NEGR;;;Brazalete deportivo universal XL para móvil;;4,05;;;6
+XX-FBDX-FUN-ROJO;;;Brazalete deportivo universal XL para móvil;;4,05;;;6
+XX-FBDX-FUN-ROSA;;;Brazalete deportivo universal XL para móvil;;4,05;;;6
+XX-FBNR5-FUN-BLAN;;;"Brazalete de neopreno reflectante para móvil de 5""";;2,60;;;6
+XX-FBNR5-FUN-ROJO;;;"Brazalete de neopreno reflectante para móvil de 5""";;2,60;;;6
+XX-FCPL-FUN-NA;;;Funda de cinturón para móvil 16 x 8 cm (talla L);;3,45;;;6
+XX-FCCAU-FUN-NA;;;Cordón colgante para móvil con lámina adaptadora universal;;3,10;;;6
+XX-FIM55-FUN-AZUL;;;"Funda impermeable para móvil hasta 5,5"" con correa";;2,40;;;6
+XX-FIM55-FUN-NEGR;;;"Funda impermeable para móvil hasta 5,5"" con correa";;2,40;;;6
+XX-FIM55-FUN-ROSA;;;"Funda impermeable para móvil hasta 5,5"" con correa";;2,40;;;6
+XX-FIMIPX872-FUN-NA;;;"Funda impermeable para móvil hasta 7,2"" IPX8 con cordón";;4,00;;;6
+XX-FIT101-FUN-NA;;;"Funda impermeable para tablet hasta 10,1"" con salida de auriculares";;4,00;;;6
+XX-FSU5255-FUN-NA;;;"Funda universal de silicona para móvil de 5,2 a 5,5""";;1,65;;;6
+XX-FTSS78-FUN-NA;;;"Funda universal de silicona con soporte para tablet de 7 a 8""";;6,55;;;6
+XX-FTT9-FUN-NEGR;;;"Funda universal con tapa y soporte para tablet de 9""";;4,20;;;6
+XX-FTT9-FUN-ROSA;;;"Funda universal con tapa y soporte para tablet de 9""";;4,20;;;6
+XX-FTTG10-FUN-NEGR;;;"Funda universal con tapa giratoria para tablet de 10""";;7,35;;;6
+XX-FTTG10-FUN-ROSA;;;"Funda universal con tapa giratoria para tablet de 10""";;7,35;;;6
+XX-FTTG7-FUN-NEGR;;;"Funda universal con tapa giratoria para tablet de 7""";;3,95;;;6
+XX-FTTG7-FUN-ROSA;;;"Funda universal con tapa giratoria para tablet de 7""";;3,95;;;6
+XX-FTAS-FUN-NEGR;;;Tarjetero adhesivo de silicona para móvil (1 tarjeta);;3,50;;;6
+XX-FTAS-FUN-GRIS;;;Tarjetero adhesivo de silicona para móvil (1 tarjeta);;3,50;;;6
+XX-FTAS-FUN-VERD;;;Tarjetero adhesivo de silicona para móvil (1 tarjeta);;3,50;;;6
+XX-FTMM-FUN-NA;;;Tarjetero magnético compatible con MagSafe;;3,30;;;6
+XX-FTMS-FUN-NEGR;;;Tarjetero magnético de cuero sintético con soporte;;4,50;;;6
+XX-FTMS-FUN-MARR;;;Tarjetero magnético de cuero sintético con soporte;;4,50;;;6
+XX-FTMS-FUN-AZUL;;;Tarjetero magnético de cuero sintético con soporte;;4,50;;;6
+XX-FULV5255-FUN-NA;;;"Funda universal tipo libro con ventana para móvil de 5,2 a 5,5""";;3,55;;;6
+XX-CAW40T-PRO-NA;;;Cristal templado transparente para Apple Watch 40 mm;;1,55;;;6
+XX-CAW44T-PRO-NA;;;Cristal templado transparente para Apple Watch 44 mm;;1,55;;;6
+XX-CAW45T-PRO-NA;;;Cristal templado transparente para Apple Watch 45 mm;;1,55;;;6
+XX-CU47ME-PRO-NA;;;"Cristal templado universal para móvil de 4,7"" (1 ud.)";;0,50;;;6
+XX-CU5-PRO-NA;;;"Cristal templado universal para móvil de 5"" (1 ud.)";;0,85;;;6
+XX-CU5C10U-PRO-NA;;;"Caja 10 cristales templados universales 5"" 2.5D";;5,80;;;6
+XX-CU55-PRO-NA;;;"Cristal templado universal para móvil de 5,5"" (1 ud.)";;0,80;;;6
+XX-HAA-PRO-NA;;;Almohadilla antideslizante para colocar hidrogel;;4,45;;;6
+XX-HECM-PRO-NA;;;Espátula para colocar hidrogel en móviles;;1,75;;;6
+XX-HECT-PRO-NA;;;Espátula alargada para colocar hidrogel en tablet;;4,49;;;6
+XX-HLU6H60S-PRO-NA;;;Lámpara UV para curar hidrogel UV 6H (ciclo de 60 s);;20,00;;;6
+XX-HP20HG018-PRO-NA;;;Pack 20 láminas de hidrogel HD 0,18 mm 120 x 180 mm;;43,80;;;6
+XX-HP20HS-PRO-NA;;;Pack 20 láminas de hidrogel HD para smartwatch;;49,90;;;6
+XX-HP20MA120X-PRO-NA;;;Pack 20 láminas de hidrogel mate antihuella 120 x 180 mm;;43,50;;;6
+XX-HP50H120X1-PRO-NA;;;Pack 50 láminas de hidrogel HD 120 x 180 mm;;75,00;;;6
+XX-TAU-PRO-NA;;;Tapón antipolvo para puerto USB-C;;2,45;;;6
+XX-LAC400ML-LIM-NA;;;Aire comprimido en spray 400 ml;;4,65;;;
+XX-LCQ10CM100-LIM-NA;;;Rollo de cinta quitapolvo para pantallas 10 cm x 100 m;;6,80;;;
+XX-LGM20010X1-LIM-NA;;;Pack 200 gamuzas de microfibra 10 x 10 cm;;6,00;;;
+XX-LGM5010X10-LIM-NA;;;Pack 50 gamuzas de microfibra 10 x 10 cm;;4,00;;;
+XX-LLMA-LIM-NA;;;Limpiador multifunción para auriculares, AirPods y móviles;;4,05;;;
+XX-LPAS-LIM-NA;;;Pera de aire para soplar polvo en placas y móviles;;6,60;;;
+XX-LSCCJ-LIM-NA;;;Set de limpieza para puerto de carga y jack de auriculares;;4,30;;;
+XX-LSM300ML-LIM-NA;;;Spray limpiador multiuso para equipos informáticos 300 ml;;7,20;;;
+XX-LSP200ML-LIM-NA;;;Spray limpiador de pantallas 200 ml;;5,20;;;
+XX-LTAD100-LIM-NA;;;Dispensador 100 toallitas antiestáticas limpiapantallas;;8,90;;;
+XX-LTPS160-LIM-NA;;;Set 160 toallitas para limpiar pantallas (4 x 40);;4,49;;;
+XX-BAM108X90-LIM-NA;;;Bandeja magnética de aluminio 108 x 90 x 13 mm;;8,79;;;
+XX-BMOT-LIM-NA;;;Bandeja organizadora con tapete magnético para tornillos y piezas;;4,65;;;
+XX-BZ10X15100-LIM-NA;;;Bolsas con cierre zip 10 x 15 cm (100 uds);;4,75;;;
+XX-BZ12X18100-LIM-NA;;;Bolsas con cierre zip 12 x 18 cm (100 uds);;5,70;;;
+XX-BZ6X8100UD-LIM-NA;;;Bolsas con cierre zip 6 x 8 cm (100 uds);;1,80;;;
+XX-BZ7X10100U-LIM-NA;;;Bolsas con cierre zip 7 x 10 cm (100 uds);;2,40;;;
+XX-BZ8X12100U-LIM-NA;;;Bolsas con cierre zip 8 x 12 cm (100 uds);;2,60;;;
+XX-CA28C-LIM-NA;;;Caja de almacenamiento con 28 compartimentos transparentes;;11,49;;;
+XX-CBMP50-LIM-NA;;;Cajas blancas para móvil (pack 50);;49,00;;;
+XX-CC12CA-LIM-NA;;;Caja clasificadora de 12 compartimentos ajustables;;6,75;;;
+XX-CC24CA-LIM-NA;;;Caja clasificadora de 24 compartimentos ajustables;;7,95;;;
+XX-EM12M-LIM-NA;;;Estante de madera para 12 móviles (218 x 161 x 155 mm);;12,60;;;
+XX-EAMT-LIM-NA;;;Soporte acrílico de exhibición para móvil de tienda;;4,10;;;
+XX-EAAMT-LIM-NA;;;Sistema antirrobo con alarma y carga para expositor de móvil y tablet;;35,00;;;
+XX-MOP183X93-LIM-NA;;;Maletín organizador de herramientas y piezas 183 x 93 x 21 mm;;9,50;;;
+XX-SG6MM10000-LIM-NA;;;Sellos de garantía adhesivos 6 mm (10.000 uds);;19,99;;;
+XX-AMT-HER-NA;;;Alfombrilla magnética para tornillos;;7,30;;;6
+XX-ACE-HER-NA;;;Alicate de corte para electrónica;;5,95;;;6
+XX-BP-HER-NA;;;Cúter / bisturí de precisión para reparación;;4,99;;;6
+XX-COT-HER-NA;;;Caja organizadora de tornillos con compartimentos;;6,49;;;6
+XX-DEP-HER-NA;;;Destornillador eléctrico de precisión con puntas;;31,35;;;6
+XX-DP08-HER-NA;;;Destornillador pentalobe 0,8 mm para iPhone;;6,39;;;6
+XX-DPP-HER-NA;;;Destornillador Phillips de precisión PH000 / PH00 / PH0;;1,60;;;6
+XX-DTP-HER-NA;;;Destornillador Torx de precisión T2 - T8;;6,80;;;6
+XX-DTY-HER-NA;;;Destornillador tri-wing / punta triangular Y0.6;;5,75;;;6
+XX-GA-HER-NA;;;Guantes antiestáticos ESD de trabajo (par);;2,70;;;6
+XX-JPP-HER-NA;;;Juego de pinzas de precisión (varias puntas);;5,00;;;6
+XX-KAM-HER-NA;;;Kit de herramientas de apertura para móviles;;5,75;;;6
+XX-KDP2432-HER-NA;;;Kit de 24 a 32 puntas de precisión con mango;;14,55;;;6
+XX-KDP612-HER-NA;;;Kit de 6 a 12 destornilladores de precisión para móviles;;6,99;;;6
+XX-MDB-HER-NA;;;Multímetro digital básico;;17,50;;;12
+XX-PCP-HER-NA;;;Pinzas de precisión de punta curva;;4,45;;;6
+XX-PEPFR-HER-NA;;;Pinzas antiestáticas de punta fina rectas;;3,99;;;6
+XX-PAF-HER-NA;;;Púa de apertura fina de plástico;;1,65;;;6
+XX-PA-HER-NA;;;Pulsera antiestática con cable y pinza;;2,45;;;6
+XX-PPM-HER-NA;;;Cables de prueba para multímetro;;6,19;;;12
+XX-TUTC-HER-NA;;;Tester USB de tensión y corriente;;10,90;;;12
+XX-VAP-HER-NA;;;Ventosa para abrir pantallas de móvil;;4,50;;;6
+XX-AI1L-CSM-NA;;;Alcohol isopropílico (IPA) 1 L;;9,00;;;
+XX-AI500ML-CSM-NA;;;Alcohol isopropílico (IPA) 500 ml;;5,50;;;
+XX-AI5L-CSM-NA;;;Alcohol isopropílico (IPA) 5 L;;32,15;;;
+XX-ATS400X200-CSM-NA;;;Lámina térmica de silicona 400 x 200 x 1,5 mm;;7,80;;;
+XX-CEA-CSM-NA;;;Cepillo antiestático ESD para limpiar placas;;2,99;;;
+XX-CEML-CSM-NA;;;Cepillo antiestático ESD de mango largo;;4,49;;;
+XX-HCP0028MM1-CSM-NA;;;Hilo de corte para separar pantallas 0,028 mm, 100 m;;2,60;;;
+XX-HCP002MM10-CSM-NA;;;Hilo de corte para separar pantallas 0,02 mm, 100 m;;2,55;;;
+XX-LCS150ML-CSM-NA;;;Spray limpiador de contactos 150 ml;;5,35;;;
+XX-LCS400ML-CSM-NA;;;Spray limpiador de contactos 400 ml;;7,75;;;
+XX-LF1L-CSM-NA;;;Limpiador de flux (flux remover) 1 L;;15,45;;;
+XX-LLO1L-CSM-NA;;;Limpiador para adhesivo LOCA/OCA 1 L;;12,65;;;
+XX-LLO250ML-CSM-NA;;;Limpiador para adhesivo LOCA/OCA 250 ml;;6,40;;;
+XX-LPFS400ML-CSM-NA;;;Spray limpiador de placas y flux 400 ml;;9,00;;;
+XX-PP10X10100-CSM-NA;;;Pack de 100 paños de poliéster 10 x 10 cm;;4,95;;;
+XX-PT1G-CSM-NA;;;Pasta térmica 1 g;;3,85;;;
+XX-PTJ7G-CSM-NA;;;Pasta térmica blanca sin silicona, jeringa de 7 g;;5,05;;;
+XX-SCE6-CSM-NA;;;Juego de 6 cepillos antiestáticos ESD;;6,39;;;
+XX-TN127P-CSM-NA;;;Kit de tubo termorretráctil negro, 127 piezas;;4,95;;;
+XX-BB030MMCP-CSM-NA;;;Bolas de estaño BGA 0,30 mm con plomo, bote;;7,99;;;
+XX-BB050MMSP-CSM-NA;;;Bolas de estaño BGA 0,50 mm sin plomo, bote;;6,60;;;
+XX-BDM-CSM-NA;;;Bomba desoldadora manual con cuerpo de metal;;8,15;;;
+XX-EH05MM-CSM-NA;;;Hilo de estaño con plomo 0,5 mm, bobina;;5,50;;;
+XX-EH08MM-CSM-NA;;;Hilo de estaño con plomo 0,8 mm, bobina;;5,50;;;
+XX-EH10MM-CSM-NA;;;Hilo de estaño con plomo 1,0 mm, bobina;;5,50;;;
+XX-EH10MM400G-CSM-NA;;;Hilo de estaño con plomo 1,0 mm, bobina 400 g;;17,95;;;
+XX-EP138C50G-CSM-NA;;;Pasta de soldar baja temperatura 138 ºC, 50 g;;5,75;;;
+XX-EP183C50G-CSM-NA;;;Pasta de soldar 183 ºC, 50 g;;6,60;;;
+XX-EPSN63PB37-CSM-NA;;;Pasta de soldar Sn63/Pb37 en jeringa, 25 g;;6,30;;;
+XX-ESP03MM-CSM-NA;;;Hilo de estaño sin plomo 0,3 mm, bobina 100 g;;5,90;;;
+XX-ESP05MM-CSM-NA;;;Hilo de estaño sin plomo 0,5 mm, bobina 100 g;;6,09;;;
+XX-ESP08MM40G-CSM-NA;;;Hilo de estaño sin plomo 0,8 mm, bobina 40 g;;6,59;;;
+XX-FLSL125ML-CSM-NA;;;Flux líquido sin limpieza con pincel, 125 ml;;9,75;;;
+XX-FLS100ML-CSM-NA;;;Flux líquido para SMD, bote 100 ml;;3,90;;;
+XX-FPB30G-CSM-NA;;;Flux blanco en pasta, bote de 30 g;;6,75;;;
+XX-FPJ10G-CSM-NA;;;Flux blanco en pasta 10 g con émbolo;;5,65;;;
+XX-FPJ4ML-CSM-NA;;;Flux en pasta para SMD en jeringa 4 ml;;3,65;;;
+XX-HCP002MM-CSM-NA;;;Hilo de cobre ultrafino 0,02 mm para puentes en placa;;4,10;;;
+XX-KS60WRE-CSM-NA;;;Estuche con soldador 60 W regulable, 5 puntas, soporte y herramientas;;17,00;;;
+XX-MD15MM-CSM-NA;;;Malla desoldadora 1,5 mm x 1,5 m;;4,65;;;
+XX-MD25MM-CSM-NA;;;Malla desoldadora 2,5 mm x 1,5 m;;5,55;;;
+XX-MD35MM-CSM-NA;;;Malla desoldadora 3,5 mm x 1,5 m;;5,95;;;
+XX-MSU10ML-CSM-VERD;;;Máscara de soldadura UV 10 ml;;4,10;;;
+XX-MSU10ML-CSM-NEGR;;;Máscara de soldadura UV 10 ml;;4,10;;;
+XX-MSU10ML-CSM-AZUL;;;Máscara de soldadura UV 10 ml;;4,10;;;
+XX-MSU10ML-CSM-ROJO;;;Máscara de soldadura UV 10 ml;;4,10;;;
+XX-MSU10ML-CSM-AMAR;;;Máscara de soldadura UV 10 ml;;4,10;;;
+XX-PLS-CSM-NA;;;Pasta limpiadora y reactivadora de puntas de soldador;;5,79;;;
+XX-PPC03ML-CSM-NA;;;Jeringa de pasta conductora de plata 0,3 ml;;4,10;;;
+XX-PPC1ML-CSM-NA;;;Pasta de plata conductora 1 ml para reparar placas;;8,29;;;
+XX-PS900MB-CSM-NA;;;Punta de soldador 900M-T biselada (3C / 4C);;3,30;;;
+XX-PS900MCF-CSM-NA;;;Punta de soldador 900M-T cónica fina;;3,65;;;
+XX-PS900MC-CSM-NA;;;Punta de soldador 900M-T tipo cuchilla;;4,29;;;
+XX-PS900MJ5-CSM-NA;;;Juego de 5 puntas de soldador 900M-T surtidas;;5,75;;;
+XX-SE40WL-CSM-NA;;;Soldador eléctrico tipo lápiz 40 W;;5,59;;;
+XX-SE60WL-CSM-NA;;;Soldador eléctrico tipo lápiz 60 W con punta;;9,99;;;
+XX-SE60WPTF-CSM-NA;;;Soldador 60 W con cabezal en T para pegar flex de pantalla;;19,80;;;
+XX-SGB8ML-CSM-NA;;;Soldador de gas butano con encendido automático;;9,19;;;
+XX-SLPAR-CSM-NA;;;Limpiador de puntas de soldador de alambre con recipiente;;9,09;;;
+XX-SLPOB-CSM-NA;;;Limpiador de puntas de soldador en ovillo metálico con base;;4,79;;;
+XX-SR280480C-CSM-NA;;;Soldador eléctrico de temperatura regulable 280-480 °C;;18,89;;;
+XX-SS4PL3XL-CSM-NA;;;Soporte para soldar con 4 pinzas articuladas y lupa 3x con LED;;17,85;;;
+XX-SSBAE-CSM-NA;;;Soporte para soldador con base de acero y hueco para esponja;;10,20;;;
+XX-TACR-CSM-SALI;;;Tobera redonda para estación de aire caliente;;3,10;;;
+XX-TACR-CSM-SAL2;;;Tobera redonda para estación de aire caliente;;3,10;;;
+XX-TACR-CSM-SAL3;;;Tobera redonda para estación de aire caliente;;3,10;;;
+XX-TACR-CSM-SAL4;;;Tobera redonda para estación de aire caliente;;3,10;;;
+XX-AB10U-CSM-NA;;;Adhesivo para batería, pack de 10 unidades;;2,45;;;
+XX-CC10MM30M-CSM-NA;;;Cinta de cobre adhesiva 10 mm x 30 m;;7,40;;;
+XX-CDC10MM50M-CSM-NA;;;Cinta adhesiva de doble cara 10 mm x 50 m;;9,09;;;
+XX-CDC1MM50M-CSM-NA;;;Cinta adhesiva de doble cara 1 mm x 50 m;;3,99;;;
+XX-CDC2MM50M-CSM-NA;;;Cinta adhesiva de doble cara 2 mm x 50 m;;5,35;;;
+XX-CDC5MM50M-CSM-NA;;;Cinta adhesiva de doble cara 5 mm x 50 m;;6,60;;;
+XX-CDC8MM50M-CSM-NA;;;Cinta adhesiva de doble cara 8 mm x 50 m;;8,79;;;
+XX-CDCN5MM50M-CSM-NA;;;Cinta adhesiva de doble cara negra 5 mm x 50 m;;6,55;;;
+XX-CEDC10MM10-CSM-NA;;;Cinta de espuma de doble cara 10 mm x 10 m;;5,09;;;
+XX-CK10MM-CSM-NA;;;Cinta Kapton 10 mm x 33 m;;3,80;;;
+XX-CK20MM-CSM-NA;;;Cinta Kapton 20 mm x 33 m;;5,10;;;
+XX-CK6MM-CSM-NA;;;Cinta Kapton 6 mm x 33 m;;2,70;;;
+XX-PB6000110M-CSM-NA;;;Pegamento B-6000 transparente 110 ml;;6,39;;;
+XX-PB7000110M-CSM-NA;;;Pegamento B-7000 transparente 110 ml;;7,00;;;
+XX-PB700015ML-CSM-NA;;;Pegamento B-7000 transparente 15 ml;;2,99;;;
+XX-PB700050ML-CSM-NA;;;Pegamento B-7000 transparente 50 ml;;5,15;;;
+XX-PE7000110M-CSM-NA;;;Pegamento E-7000 transparente 110 ml;;6,30;;;
+XX-PE8000110M-CSM-NA;;;Pegamento E-8000 transparente 110 ml;;5,79;;;
+XX-PT7000N110-CSM-NA;;;Pegamento T-7000 negro 110 ml;;6,25;;;
+XX-PT7000N15M-CSM-NA;;;Pegamento T-7000 negro 15 ml;;3,65;;;
+XX-PT7000N50M-CSM-NA;;;Pegamento T-7000 negro 50 ml;;4,95;;;
+XX-PT800015ML-CSM-NA;;;Pegamento T-8000 transparente 15 ml;;3,85;;;
+XX-PT800050ML-CSM-NA;;;Pegamento T-8000 transparente 50 ml;;4,70;;;
+XX-PT9000B110-CSM-NA;;;Pegamento multiusos T-9000 blanco 110 ml;;8,65;;;
+XX-PT9000B50M-CSM-NA;;;Pegamento multiusos T-9000 blanco 50 ml;;6,45;;;
+XX-PUL50ML-CSM-NA;;;Pegamento UV líquido LOCA 50 ml;;8,95;;;
+XX-PUL5ML-CSM-NA;;;Pegamento UV líquido LOCA 5 ml;;5,30;;;
+XX-QL500ML-CSM-NA;;;Líquido quitapegamentos y etiquetas 500 ml;;7,65;;;
+XX-QS400ML-CSM-NA;;;Spray quitapegamentos 400 ml;;8,70;;;
+XX-CHM14MP-HER-NA;;;Cámara HDMI 14 MP para microscopio con mando;;100,99;;;12
+XX-LLL5D-HER-NA;;;Lámpara con lupa LED 5 dioptrías con brazos extensibles;;7,95;;;12
+XX-LLL5XAU-HER-NA;;;Lámpara con lupa 5x y aro LED regulable, USB, con pinza;;29,99;;;12
+XX-LCL3L-HER-NA;;;Lupa de cabeza con 2 LED y 3 lentes intercambiables;;16,60;;;12
+XX-LM35XL-HER-NA;;;Lupa de mano 3,5x con 2 LED, lente de 46 mm;;5,60;;;12
+XX-LM40XL-HER-NA;;;Lupa de mano 40x con 2 LED;;5,59;;;12
+XX-MALL144-HER-NA;;;Anillo de luz LED 144 LED para microscopio;;26,89;;;12
+XX-MB745X-HER-NA;;;Microscopio binocular estéreo 7-45x;;255,00;;;12
+XX-MB60XL-HER-NA;;;Microscopio de bolsillo 60x con luz LED;;6,10;;;12
+XX-MDP43-HER-NA;;;Microscopio digital con pantalla LCD de 4,3 pulgadas;;57,45;;;12
+XX-MDP7-HER-NA;;;Microscopio digital con pantalla LCD de 7 pulgadas 1-1200x;;67,65;;;12
+XX-MDU500X-HER-NA;;;Microscopio digital USB 500x con luz LED;;21,10;;;12
+XX-MDW1000X-HER-NA;;;Microscopio digital WiFi 1000x con 8 LED;;29,95;;;12
+XX-MT745X-HER-NA;;;Microscopio trinocular 7-45x con anillo LED;;270,00;;;12
+XX-AC14P150W-HER-NA;;;Almohadilla calefactora eléctrica 14 pulgadas 150 W con control de temperatura;;59,90;;;12
+XX-BCL18X13-HER-NA;;;Base calefactora 18 x 13 cm para separar pantallas y tapas;;45,45;;;12
+XX-EAC700W-HER-NA;;;Estación de aire caliente 700 W;;36,55;;;12
+XX-EACS2EN1-HER-NA;;;Estación 2 en 1 aire caliente y soldador;;53,79;;;12
+XX-ES50W-HER-NA;;;Estación de soldadura 50 W 220 V;;29,45;;;12
+XX-ES60W-HER-NA;;;Estación de soldadura 60 W regulable;;20,90;;;12
+XX-ESD60W-HER-NA;;;Estación de soldadura digital 60 W con pantalla;;45,89;;;12
+XX-EHSC-HER-NA;;;Extractor de humo de soldadura de sobremesa con filtro de carbón;;31,80;;;12
+XX-FA15V2AD-HER-NA;;;Fuente de alimentación regulable 15 V 2 A digital;;25,09;;;12
+XX-FA15V5AD-HER-NA;;;Fuente de alimentación regulable 15 V 5 A digital;;46,39;;;12
+XX-FA30V5A-HER-NA;;;Fuente de alimentación regulable 30 V 5 A;;55,60;;;12
+XX-LU36W-HER-NA;;;Lámpara UV 36 W para curar OCA / LOCA;;11,79;;;12
+XX-LUUCP-HER-NA;;;Lámpara UV portátil USB-C para placas;;15,79;;;12
+XX-LU05L-HER-NA;;;Limpiador por ultrasonidos compacto 0,5 L 30-50 W;;34,65;;;12
+XX-LU10LC-HER-NA;;;Limpiador por ultrasonidos 10 L 240 W con calentador;;197,50;;;12
+XX-LU2LC-HER-NA;;;Limpiador por ultrasonidos 2 L 60 W con calentador;;84,30;;;12
+XX-LU3LC-HER-NA;;;Limpiador por ultrasonidos 3 L 120 W con calentador;;105,55;;;12
+XX-LU65LC-HER-NA;;;Limpiador por ultrasonidos 6,5 L 180 W con calentador;;193,39;;;12
+XX-MLO240V-HER-NA;;;Máquina eléctrica para quitar OCA y pegamento de pantallas;;13,90;;;12
+XX-PAC1600W-HER-NA;;;Pistola de aire caliente 1600 W 2 velocidades;;21,65;;;12
+XX-PH12AC-HER-NA;;;Plotter de corte de hidrogel 12 pulgadas con app y cámara (pack con láminas);;299,99;;;12
+XX-SL7PV-HER-NA;;;Separadora de pantallas LCD de 4 a 7 pulgadas con vacío;;59,30;;;12
+XX-SLBV200W-HER-NA;;;Separadora de pantallas LCD con bomba de vacío 200 W;;82,95;;;12
+XX-SLG7P-HER-NA;;;Separadora de pantallas LCD giratoria 360° hasta 7 pulgadas;;77,05;;;12
+XX-SLT13P-HER-NA;;;Separadora de pantallas LCD de 4 a 13 pulgadas para tablet con vacío;;94,50;;;12
+XX-LTCU-VAR-NA;;;Lápiz táctil capacitivo universal;;2,15;;;
+XX-LAA-VAR-NA;;;Localizador Bluetooth antipérdida para móviles Android;;5,70;;;
+XX-LABA-VAR-NA;;;Localizador Bluetooth antipérdida compatible con Buscar de Apple;;6,45;;;
+XX-MBMPS-VAR-NA;;;Mando Bluetooth para móvil, PC y Switch;;10,55;;;
+XX-TBEMT-VAR-NA;;;Teclado Bluetooth en español para móvil, tablet y PC;;13,99;;;
+XX-VMUR-VAR-NA;;;Mini ventilador de mano recargable USB;;4,10;;;

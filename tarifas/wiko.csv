@@ -1,0 +1,1418 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+WI-10-PAN-COM;Wiko;10;Pantalla;Compatible;14,45;14,02;13,58;6
+WI-10-BAT-COM;Wiko;10;Batería;Compatible;8,40;;;6
+WI-10-CON-COM;Wiko;10;Conector de carga;Compatible;4,00;;;6
+WI-10-TAP-COM-AZU;Wiko;10;Tapa trasera;Azul (Klein Blue);5,25;;;6
+WI-10-TAP-COM-NEG;Wiko;10;Tapa trasera;Negro;5,25;;;6
+WI-10-TAP-COM-PLA;Wiko;10;Tapa trasera;Plata;5,25;;;6
+WI-10-CTR-COM;Wiko;10;Cámara trasera;Compatible;7,20;;;6
+WI-10-CFR-COM;Wiko;10;Cámara frontal;Compatible;4,85;;;6
+WI-10-LEN-COM;Wiko;10;Lente de cámara;Compatible;2,49;;;6
+WI-10-ALT-COM;Wiko;10;Altavoz;Compatible;3,75;;;6
+WI-10-AUR-COM;Wiko;10;Auricular de llamada;Compatible;2,85;;;6
+WI-10-FLX-COM;Wiko;10;Flex de encendido y volumen;Compatible;2,70;;;6
+WI-10-SIM-COM;Wiko;10;Bandeja SIM;Compatible;2,85;;;6
+WI-F-PAN-COM;Wiko;Freddy;Pantalla;Compatible;14,45;14,02;13,58;6
+WI-F-BAT-COM;Wiko;Freddy;Batería;Compatible;8,40;;;6
+WI-F-CON-COM;Wiko;Freddy;Conector de carga;Compatible;4,00;;;6
+WI-F-TAP-COM-NEG;Wiko;Freddy;Tapa trasera;Negro;5,25;;;6
+WI-F-CTR-COM;Wiko;Freddy;Cámara trasera;Compatible;7,20;;;6
+WI-F-CFR-COM;Wiko;Freddy;Cámara frontal;Compatible;4,85;;;6
+WI-F-LEN-COM;Wiko;Freddy;Lente de cámara;Compatible;2,49;;;6
+WI-F-ALT-COM;Wiko;Freddy;Altavoz;Compatible;3,75;;;6
+WI-F-AUR-COM;Wiko;Freddy;Auricular de llamada;Compatible;2,85;;;6
+WI-F-FLX-COM;Wiko;Freddy;Flex de encendido y volumen;Compatible;2,70;;;6
+WI-F-SIM-COM;Wiko;Freddy;Bandeja SIM;Compatible;2,85;;;6
+WI-H-PAN-COM;Wiko;Harry;Pantalla;Compatible;14,45;14,02;13,58;6
+WI-H-BAT-COM;Wiko;Harry;Batería;Compatible;8,40;;;6
+WI-H-CON-COM;Wiko;Harry;Conector de carga;Compatible;4,00;;;6
+WI-H-TAP-COM-ANT;Wiko;Harry;Tapa trasera;Antracita;5,25;;;6
+WI-H-TAP-COM-DOR;Wiko;Harry;Tapa trasera;dorado;5,25;;;6
+WI-H-TAP-COM-TUR;Wiko;Harry;Tapa trasera;turquesa;5,25;;;6
+WI-H-CTR-COM;Wiko;Harry;Cámara trasera;Compatible;7,20;;;6
+WI-H-CFR-COM;Wiko;Harry;Cámara frontal;Compatible;4,85;;;6
+WI-H-LEN-COM;Wiko;Harry;Lente de cámara;Compatible;2,49;;;6
+WI-H-ALT-COM;Wiko;Harry;Altavoz;Compatible;3,75;;;6
+WI-H-AUR-COM;Wiko;Harry;Auricular de llamada;Compatible;2,85;;;6
+WI-H-FLX-COM;Wiko;Harry;Flex de encendido y volumen;Compatible;2,70;;;6
+WI-H-SIM-COM;Wiko;Harry;Bandeja SIM;Compatible;2,85;;;6
+WI-J-PAN-COM;Wiko;Jerry;Pantalla;Compatible;14,45;14,02;13,58;6
+WI-J-BAT-COM;Wiko;Jerry;Batería;Compatible;8,40;;;6
+WI-J-CON-COM;Wiko;Jerry;Conector de carga;Compatible;4,00;;;6
+WI-J-TAP-COM-NEG;Wiko;Jerry;Tapa trasera;Negro;5,25;;;6
+WI-J-TAP-COM-PLA;Wiko;Jerry;Tapa trasera;Plata/Rosa;5,25;;;6
+WI-J-TAP-COM-PTU;Wiko;Jerry;Tapa trasera;Plata/Turquesa;5,25;;;6
+WI-J-CTR-COM;Wiko;Jerry;Cámara trasera;Compatible;7,20;;;6
+WI-J-CFR-COM;Wiko;Jerry;Cámara frontal;Compatible;4,85;;;6
+WI-J-LEN-COM;Wiko;Jerry;Lente de cámara;Compatible;2,49;;;6
+WI-J-ALT-COM;Wiko;Jerry;Altavoz;Compatible;3,75;;;6
+WI-J-AUR-COM;Wiko;Jerry;Auricular de llamada;Compatible;2,85;;;6
+WI-J-FLX-COM;Wiko;Jerry;Flex de encendido y volumen;Compatible;2,70;;;6
+WI-J-SIM-COM;Wiko;Jerry;Bandeja SIM;Compatible;2,85;;;6
+WI-J2-PAN-COM;Wiko;Jerry 2;Pantalla;Compatible;14,45;14,02;13,58;6
+WI-J2-BAT-COM;Wiko;Jerry 2;Batería;Compatible;8,40;;;6
+WI-J2-CON-COM;Wiko;Jerry 2;Conector de carga;Compatible;4,00;;;6
+WI-J2-TAP-COM-GRI;Wiko;Jerry 2;Tapa trasera;Gris espacial;5,25;;;6
+WI-J2-TAP-COM-PLA;Wiko;Jerry 2;Tapa trasera;Plata;5,25;;;6
+WI-J2-TAP-COM-DOR;Wiko;Jerry 2;Tapa trasera;Dorado;5,25;;;6
+WI-J2-TAP-COM-TUR;Wiko;Jerry 2;Tapa trasera;Turquesa;5,25;;;6
+WI-J2-CTR-COM;Wiko;Jerry 2;Cámara trasera;Compatible;7,20;;;6
+WI-J2-CFR-COM;Wiko;Jerry 2;Cámara frontal;Compatible;4,85;;;6
+WI-J2-LEN-COM;Wiko;Jerry 2;Lente de cámara;Compatible;2,49;;;6
+WI-J2-ALT-COM;Wiko;Jerry 2;Altavoz;Compatible;3,75;;;6
+WI-J2-AUR-COM;Wiko;Jerry 2;Auricular de llamada;Compatible;2,85;;;6
+WI-J2-FLX-COM;Wiko;Jerry 2;Flex de encendido y volumen;Compatible;2,70;;;6
+WI-J2-SIM-COM;Wiko;Jerry 2;Bandeja SIM;Compatible;2,85;;;6
+WI-K-PAN-COM;Wiko;Kenny;Pantalla;Compatible;14,45;14,02;13,58;6
+WI-K-BAT-COM;Wiko;Kenny;Batería;Compatible;8,40;;;6
+WI-K-CON-COM;Wiko;Kenny;Conector de carga;Compatible;4,00;;;6
+WI-K-TAP-COM-ANT;Wiko;Kenny;Tapa trasera;Antracita;5,25;;;6
+WI-K-CTR-COM;Wiko;Kenny;Cámara trasera;Compatible;7,20;;;6
+WI-K-CFR-COM;Wiko;Kenny;Cámara frontal;Compatible;4,85;;;6
+WI-K-LEN-COM;Wiko;Kenny;Lente de cámara;Compatible;2,49;;;6
+WI-K-ALT-COM;Wiko;Kenny;Altavoz;Compatible;3,75;;;6
+WI-K-AUR-COM;Wiko;Kenny;Auricular de llamada;Compatible;2,85;;;6
+WI-K-FLX-COM;Wiko;Kenny;Flex de encendido y volumen;Compatible;2,70;;;6
+WI-K-SIM-COM;Wiko;Kenny;Bandeja SIM;Compatible;2,85;;;6
+WI-L4PL-PAN-COM;Wiko;Lenny 4 Plus;Pantalla;Compatible;14,45;14,02;13,58;6
+WI-L4PL-BAT-COM;Wiko;Lenny 4 Plus;Batería;Compatible;8,65;;;6
+WI-L4PL-CON-COM;Wiko;Lenny 4 Plus;Conector de carga;Compatible;4,00;;;6
+WI-L4PL-TAP-COM-NEG;Wiko;Lenny 4 Plus;Tapa trasera;Negro;5,25;;;6
+WI-L4PL-TAP-COM-DOR;Wiko;Lenny 4 Plus;Tapa trasera;Dorado;5,25;;;6
+WI-L4PL-TAP-COM-BLE;Wiko;Lenny 4 Plus;Tapa trasera;Bleen;5,25;;;6
+WI-L4PL-CTR-COM;Wiko;Lenny 4 Plus;Cámara trasera;Compatible;7,20;;;6
+WI-L4PL-CFR-COM;Wiko;Lenny 4 Plus;Cámara frontal;Compatible;4,85;;;6
+WI-L4PL-LEN-COM;Wiko;Lenny 4 Plus;Lente de cámara;Compatible;2,49;;;6
+WI-L4PL-ALT-COM;Wiko;Lenny 4 Plus;Altavoz;Compatible;3,75;;;6
+WI-L4PL-AUR-COM;Wiko;Lenny 4 Plus;Auricular de llamada;Compatible;2,85;;;6
+WI-L4PL-FLX-COM;Wiko;Lenny 4 Plus;Flex de encendido y volumen;Compatible;2,70;;;6
+WI-L4PL-SIM-COM;Wiko;Lenny 4 Plus;Bandeja SIM;Compatible;2,85;;;6
+WI-S2-PAN-COM;Wiko;Sunny 2;Pantalla;Compatible;14,45;14,02;13,58;6
+WI-S2-BAT-COM;Wiko;Sunny 2;Batería;Compatible;8,40;;;6
+WI-S2-CON-COM;Wiko;Sunny 2;Conector de carga;Compatible;4,00;;;6
+WI-S2-TAP-COM-GRI;Wiko;Sunny 2;Tapa trasera;Gris espacial;5,25;;;6
+WI-S2-TAP-COM-PLA;Wiko;Sunny 2;Tapa trasera;Plata;5,25;;;6
+WI-S2-TAP-COM-LIM;Wiko;Sunny 2;Tapa trasera;Lima;5,25;;;6
+WI-S2-TAP-COM-TUR;Wiko;Sunny 2;Tapa trasera;Turquesa;5,25;;;6
+WI-S2-CTR-COM;Wiko;Sunny 2;Cámara trasera;Compatible;7,20;;;6
+WI-S2-CFR-COM;Wiko;Sunny 2;Cámara frontal;Compatible;4,85;;;6
+WI-S2-LEN-COM;Wiko;Sunny 2;Lente de cámara;Compatible;2,49;;;6
+WI-S2-ALT-COM;Wiko;Sunny 2;Altavoz;Compatible;3,75;;;6
+WI-S2-AUR-COM;Wiko;Sunny 2;Auricular de llamada;Compatible;2,85;;;6
+WI-S2-FLX-COM;Wiko;Sunny 2;Flex de encendido y volumen;Compatible;2,70;;;6
+WI-S2-SIM-COM;Wiko;Sunny 2;Bandeja SIM;Compatible;2,85;;;6
+WI-S2PL-PAN-COM;Wiko;Sunny 2 Plus;Pantalla;Compatible;14,45;14,02;13,58;6
+WI-S2PL-BAT-COM;Wiko;Sunny 2 Plus;Batería;Compatible;8,40;;;6
+WI-S2PL-CON-COM;Wiko;Sunny 2 Plus;Conector de carga;Compatible;4,00;;;6
+WI-S2PL-TAP-COM-NEG;Wiko;Sunny 2 Plus;Tapa trasera;Negro;5,25;;;6
+WI-S2PL-CTR-COM;Wiko;Sunny 2 Plus;Cámara trasera;Compatible;7,20;;;6
+WI-S2PL-CFR-COM;Wiko;Sunny 2 Plus;Cámara frontal;Compatible;4,85;;;6
+WI-S2PL-LEN-COM;Wiko;Sunny 2 Plus;Lente de cámara;Compatible;2,49;;;6
+WI-S2PL-ALT-COM;Wiko;Sunny 2 Plus;Altavoz;Compatible;3,75;;;6
+WI-S2PL-AUR-COM;Wiko;Sunny 2 Plus;Auricular de llamada;Compatible;2,85;;;6
+WI-S2PL-FLX-COM;Wiko;Sunny 2 Plus;Flex de encendido y volumen;Compatible;2,70;;;6
+WI-S2PL-SIM-COM;Wiko;Sunny 2 Plus;Bandeja SIM;Compatible;2,85;;;6
+WI-T10-PAN-COM;Wiko;T10;Pantalla;Compatible;14,45;14,02;13,58;6
+WI-T10-BAT-COM;Wiko;T10;Batería;Compatible;8,40;;;6
+WI-T10-CON-COM;Wiko;T10;Conector de carga;Compatible;4,00;;;6
+WI-T10-TAP-COM-VER;Wiko;T10;Tapa trasera;Verde (Emerald Green);5,25;;;6
+WI-T10-TAP-COM-NEG;Wiko;T10;Tapa trasera;Negro (Midnight Black);5,25;;;6
+WI-T10-CTR-COM;Wiko;T10;Cámara trasera;Compatible;7,20;;;6
+WI-T10-CFR-COM;Wiko;T10;Cámara frontal;Compatible;4,85;;;6
+WI-T10-LEN-COM;Wiko;T10;Lente de cámara;Compatible;2,49;;;6
+WI-T10-ALT-COM;Wiko;T10;Altavoz;Compatible;3,75;;;6
+WI-T10-AUR-COM;Wiko;T10;Auricular de llamada;Compatible;2,85;;;6
+WI-T10-FLX-COM;Wiko;T10;Flex de encendido y volumen;Compatible;2,70;;;6
+WI-T10-SIM-COM;Wiko;T10;Bandeja SIM;Compatible;2,85;;;6
+WI-T3-PAN-COM;Wiko;T3;Pantalla;Compatible;14,45;14,02;13,58;6
+WI-T3-BAT-COM;Wiko;T3;Batería;Compatible;8,40;;;6
+WI-T3-CON-COM;Wiko;T3;Conector de carga;Compatible;4,00;;;6
+WI-T3-TAP-COM-DOR;Wiko;T3;Tapa trasera;Dorado (Elegant Gold);5,25;;;6
+WI-T3-TAP-COM-NEG;Wiko;T3;Tapa trasera;Negro (Classic Black);5,25;;;6
+WI-T3-CTR-COM;Wiko;T3;Cámara trasera;Compatible;7,20;;;6
+WI-T3-CFR-COM;Wiko;T3;Cámara frontal;Compatible;4,85;;;6
+WI-T3-LEN-COM;Wiko;T3;Lente de cámara;Compatible;2,49;;;6
+WI-T3-ALT-COM;Wiko;T3;Altavoz;Compatible;3,75;;;6
+WI-T3-AUR-COM;Wiko;T3;Auricular de llamada;Compatible;2,85;;;6
+WI-T3-FLX-COM;Wiko;T3;Flex de encendido y volumen;Compatible;2,70;;;6
+WI-T3-SIM-COM;Wiko;T3;Bandeja SIM;Compatible;2,85;;;6
+WI-T60-PAN-COM;Wiko;T60;Pantalla;Compatible;14,45;14,02;13,58;6
+WI-T60-BAT-COM;Wiko;T60;Batería;Compatible;8,40;;;6
+WI-T60-CON-COM;Wiko;T60;Conector de carga;Compatible;4,00;;;6
+WI-T60-TAP-COM;Wiko;T60;Tapa trasera;Compatible;5,25;;;6
+WI-T60-CTR-COM;Wiko;T60;Cámara trasera;Compatible;7,20;;;6
+WI-T60-CFR-COM;Wiko;T60;Cámara frontal;Compatible;4,85;;;6
+WI-T60-LEN-COM;Wiko;T60;Lente de cámara;Compatible;2,49;;;6
+WI-T60-ALT-COM;Wiko;T60;Altavoz;Compatible;3,75;;;6
+WI-T60-AUR-COM;Wiko;T60;Auricular de llamada;Compatible;2,85;;;6
+WI-T60-FLX-COM;Wiko;T60;Flex de encendido y volumen;Compatible;2,70;;;6
+WI-T60-SIM-COM;Wiko;T60;Bandeja SIM;Compatible;2,85;;;6
+WI-T2-PAN-COM;Wiko;Tommy 2;Pantalla;Compatible;14,45;14,02;13,58;6
+WI-T2-BAT-COM;Wiko;Tommy 2;Batería;Compatible;8,40;;;6
+WI-T2-CON-COM;Wiko;Tommy 2;Conector de carga;Compatible;4,00;;;6
+WI-T2-TAP-COM-NEG;Wiko;Tommy 2;Tapa trasera;Negro;5,25;;;6
+WI-T2-CTR-COM;Wiko;Tommy 2;Cámara trasera;Compatible;7,20;;;6
+WI-T2-CFR-COM;Wiko;Tommy 2;Cámara frontal;Compatible;4,85;;;6
+WI-T2-LEN-COM;Wiko;Tommy 2;Lente de cámara;Compatible;2,49;;;6
+WI-T2-ALT-COM;Wiko;Tommy 2;Altavoz;Compatible;3,75;;;6
+WI-T2-AUR-COM;Wiko;Tommy 2;Auricular de llamada;Compatible;2,85;;;6
+WI-T2-FLX-COM;Wiko;Tommy 2;Flex de encendido y volumen;Compatible;2,70;;;6
+WI-T2-SIM-COM;Wiko;Tommy 2;Bandeja SIM;Compatible;2,85;;;6
+WI-UFGO-PAN-COM;Wiko;U Feel Go;Pantalla;Compatible;14,45;14,02;13,58;6
+WI-UFGO-BAT-COM;Wiko;U Feel Go;Batería;Compatible;8,40;;;6
+WI-UFGO-CON-COM;Wiko;U Feel Go;Conector de carga;Compatible;4,00;;;6
+WI-UFGO-TAP-COM-GRI;Wiko;U Feel Go;Tapa trasera;Gris espacial;5,25;;;6
+WI-UFGO-TAP-COM-DOR;Wiko;U Feel Go;Tapa trasera;Dorado;5,25;;;6
+WI-UFGO-CTR-COM;Wiko;U Feel Go;Cámara trasera;Compatible;7,20;;;6
+WI-UFGO-CFR-COM;Wiko;U Feel Go;Cámara frontal;Compatible;4,85;;;6
+WI-UFGO-LEN-COM;Wiko;U Feel Go;Lente de cámara;Compatible;2,49;;;6
+WI-UFGO-ALT-COM;Wiko;U Feel Go;Altavoz;Compatible;3,75;;;6
+WI-UFGO-AUR-COM;Wiko;U Feel Go;Auricular de llamada;Compatible;2,85;;;6
+WI-UFGO-FLX-COM;Wiko;U Feel Go;Flex de encendido y volumen;Compatible;2,70;;;6
+WI-UFGO-SIM-COM;Wiko;U Feel Go;Bandeja SIM;Compatible;2,85;;;6
+WI-UFL-PAN-COM;Wiko;U Feel Lite;Pantalla;Compatible;14,45;14,02;13,58;6
+WI-UFL-BAT-COM;Wiko;U Feel Lite;Batería;Compatible;8,40;;;6
+WI-UFL-CON-COM;Wiko;U Feel Lite;Conector de carga;Compatible;4,00;;;6
+WI-UFL-TAP-COM-CHO;Wiko;U Feel Lite;Tapa trasera;Chocolate;5,25;;;6
+WI-UFL-TAP-COM-GRI;Wiko;U Feel Lite;Tapa trasera;gris;5,25;;;6
+WI-UFL-TAP-COM-ORO;Wiko;U Feel Lite;Tapa trasera;oro rosa;5,25;;;6
+WI-UFL-CTR-COM;Wiko;U Feel Lite;Cámara trasera;Compatible;7,20;;;6
+WI-UFL-CFR-COM;Wiko;U Feel Lite;Cámara frontal;Compatible;4,85;;;6
+WI-UFL-LEN-COM;Wiko;U Feel Lite;Lente de cámara;Compatible;2,49;;;6
+WI-UFL-ALT-COM;Wiko;U Feel Lite;Altavoz;Compatible;3,75;;;6
+WI-UFL-AUR-COM;Wiko;U Feel Lite;Auricular de llamada;Compatible;2,85;;;6
+WI-UFL-FLX-COM;Wiko;U Feel Lite;Flex de encendido y volumen;Compatible;2,70;;;6
+WI-UFL-SIM-COM;Wiko;U Feel Lite;Bandeja SIM;Compatible;2,85;;;6
+WI-UFP-PAN-COM;Wiko;U Feel Prime;Pantalla;Compatible;14,45;14,02;13,58;6
+WI-UFP-BAT-COM;Wiko;U Feel Prime;Batería;Compatible;8,40;;;6
+WI-UFP-CON-COM;Wiko;U Feel Prime;Conector de carga;Compatible;4,00;;;6
+WI-UFP-TAP-COM-PLA;Wiko;U Feel Prime;Tapa trasera;Plata;5,25;;;6
+WI-UFP-TAP-COM-ANT;Wiko;U Feel Prime;Tapa trasera;Antracita;5,25;;;6
+WI-UFP-TAP-COM-DOR;Wiko;U Feel Prime;Tapa trasera;Dorado;5,25;;;6
+WI-UFP-CTR-COM;Wiko;U Feel Prime;Cámara trasera;Compatible;7,20;;;6
+WI-UFP-CFR-COM;Wiko;U Feel Prime;Cámara frontal;Compatible;4,85;;;6
+WI-UFP-LEN-COM;Wiko;U Feel Prime;Lente de cámara;Compatible;2,49;;;6
+WI-UFP-ALT-COM;Wiko;U Feel Prime;Altavoz;Compatible;3,75;;;6
+WI-UFP-AUR-COM;Wiko;U Feel Prime;Auricular de llamada;Compatible;2,85;;;6
+WI-UFP-FLX-COM;Wiko;U Feel Prime;Flex de encendido y volumen;Compatible;2,70;;;6
+WI-UFP-SIM-COM;Wiko;U Feel Prime;Bandeja SIM;Compatible;2,85;;;6
+WI-UPL-PAN-COM;Wiko;U Pulse Lite;Pantalla;Compatible;14,45;14,02;13,58;6
+WI-UPL-BAT-COM;Wiko;U Pulse Lite;Batería;Compatible;8,40;;;6
+WI-UPL-CON-COM;Wiko;U Pulse Lite;Conector de carga;Compatible;4,00;;;6
+WI-UPL-TAP-COM-NEG;Wiko;U Pulse Lite;Tapa trasera;Negro;5,25;;;6
+WI-UPL-TAP-COM-DOR;Wiko;U Pulse Lite;Tapa trasera;Dorado;5,25;;;6
+WI-UPL-CTR-COM;Wiko;U Pulse Lite;Cámara trasera;Compatible;7,20;;;6
+WI-UPL-CFR-COM;Wiko;U Pulse Lite;Cámara frontal;Compatible;4,85;;;6
+WI-UPL-LEN-COM;Wiko;U Pulse Lite;Lente de cámara;Compatible;2,49;;;6
+WI-UPL-ALT-COM;Wiko;U Pulse Lite;Altavoz;Compatible;3,75;;;6
+WI-UPL-AUR-COM;Wiko;U Pulse Lite;Auricular de llamada;Compatible;2,85;;;6
+WI-UPL-FLX-COM;Wiko;U Pulse Lite;Flex de encendido y volumen;Compatible;2,70;;;6
+WI-UPL-SIM-COM;Wiko;U Pulse Lite;Bandeja SIM;Compatible;2,85;;;6
+WI-VP-PAN-COM;Wiko;View Prime;Pantalla;Compatible;16,85;16,34;15,84;6
+WI-VP-BAT-COM;Wiko;View Prime;Batería;Compatible;9,10;;;6
+WI-VP-CON-COM;Wiko;View Prime;Conector de carga;Compatible;4,95;;;6
+WI-VP-TAP-COM-NEG;Wiko;View Prime;Tapa trasera;Negro;5,89;;;6
+WI-VP-TAP-COM-DOR;Wiko;View Prime;Tapa trasera;Dorado;5,89;;;6
+WI-VP-CTR-COM;Wiko;View Prime;Cámara trasera;Compatible;8,20;;;6
+WI-VP-CFR-COM;Wiko;View Prime;Cámara frontal;Compatible;5,15;;;6
+WI-VP-LEN-COM;Wiko;View Prime;Lente de cámara;Compatible;2,40;;;6
+WI-VP-ALT-COM;Wiko;View Prime;Altavoz;Compatible;3,80;;;6
+WI-VP-AUR-COM;Wiko;View Prime;Auricular de llamada;Compatible;2,85;;;6
+WI-VP-FLX-COM;Wiko;View Prime;Flex de encendido y volumen;Compatible;2,65;;;6
+WI-VP-SIM-COM;Wiko;View Prime;Bandeja SIM;Compatible;2,69;;;6
+WI-WIML-PAN-COM;Wiko;WIM Lite;Pantalla;Compatible;14,45;14,02;13,58;6
+WI-WIML-BAT-COM;Wiko;WIM Lite;Batería;Compatible;8,40;;;6
+WI-WIML-CON-COM;Wiko;WIM Lite;Conector de carga;Compatible;4,00;;;6
+WI-WIML-TAP-COM-NEG;Wiko;WIM Lite;Tapa trasera;Negro;5,25;;;6
+WI-WIML-TAP-COM-DOR;Wiko;WIM Lite;Tapa trasera;dorado;5,25;;;6
+WI-WIML-TAP-COM-AZU;Wiko;WIM Lite;Tapa trasera;Azul intenso;5,25;;;6
+WI-WIML-CTR-COM;Wiko;WIM Lite;Cámara trasera;Compatible;7,20;;;6
+WI-WIML-CFR-COM;Wiko;WIM Lite;Cámara frontal;Compatible;4,85;;;6
+WI-WIML-LEN-COM;Wiko;WIM Lite;Lente de cámara;Compatible;2,49;;;6
+WI-WIML-ALT-COM;Wiko;WIM Lite;Altavoz;Compatible;3,75;;;6
+WI-WIML-AUR-COM;Wiko;WIM Lite;Auricular de llamada;Compatible;2,85;;;6
+WI-WIML-FLX-COM;Wiko;WIM Lite;Flex de encendido y volumen;Compatible;2,70;;;6
+WI-WIML-SIM-COM;Wiko;WIM Lite;Bandeja SIM;Compatible;2,85;;;6
+WI-Y62PL-PAN-COM;Wiko;Y62 Plus;Pantalla;Compatible;14,45;14,02;13,58;6
+WI-Y62PL-BAT-COM;Wiko;Y62 Plus;Batería;Compatible;8,40;;;6
+WI-Y62PL-CON-COM;Wiko;Y62 Plus;Conector de carga;Compatible;4,00;;;6
+WI-Y62PL-TAP-COM-AZU;Wiko;Y62 Plus;Tapa trasera;Azul oscuro;5,25;;;6
+WI-Y62PL-TAP-COM-ACL;Wiko;Y62 Plus;Tapa trasera;Azul claro;5,25;;;6
+WI-Y62PL-TAP-COM-MEN;Wiko;Y62 Plus;Tapa trasera;Menta;5,25;;;6
+WI-Y62PL-CTR-COM;Wiko;Y62 Plus;Cámara trasera;Compatible;7,20;;;6
+WI-Y62PL-CFR-COM;Wiko;Y62 Plus;Cámara frontal;Compatible;4,85;;;6
+WI-Y62PL-LEN-COM;Wiko;Y62 Plus;Lente de cámara;Compatible;2,49;;;6
+WI-Y62PL-ALT-COM;Wiko;Y62 Plus;Altavoz;Compatible;3,75;;;6
+WI-Y62PL-AUR-COM;Wiko;Y62 Plus;Auricular de llamada;Compatible;2,85;;;6
+WI-Y62PL-FLX-COM;Wiko;Y62 Plus;Flex de encendido y volumen;Compatible;2,70;;;6
+WI-Y62PL-SIM-COM;Wiko;Y62 Plus;Bandeja SIM;Compatible;2,85;;;6
+WI-Y82-PAN-COM;Wiko;Y82;Pantalla;Compatible;14,45;14,02;13,58;6
+WI-Y82-BAT-COM;Wiko;Y82;Batería;Compatible;8,40;;;6
+WI-Y82-CON-COM;Wiko;Y82;Conector de carga;Compatible;4,00;;;6
+WI-Y82-TAP-COM-NEG;Wiko;Y82;Tapa trasera;Negro;5,25;;;6
+WI-Y82-TAP-COM-AZU;Wiko;Y82;Tapa trasera;Azul oscuro;5,25;;;6
+WI-Y82-TAP-COM-ACL;Wiko;Y82;Tapa trasera;Azul claro;5,25;;;6
+WI-Y82-CTR-COM;Wiko;Y82;Cámara trasera;Compatible;7,20;;;6
+WI-Y82-CFR-COM;Wiko;Y82;Cámara frontal;Compatible;4,85;;;6
+WI-Y82-LEN-COM;Wiko;Y82;Lente de cámara;Compatible;2,49;;;6
+WI-Y82-ALT-COM;Wiko;Y82;Altavoz;Compatible;3,75;;;6
+WI-Y82-AUR-COM;Wiko;Y82;Auricular de llamada;Compatible;2,85;;;6
+WI-Y82-FLX-COM;Wiko;Y82;Flex de encendido y volumen;Compatible;2,70;;;6
+WI-Y82-SIM-COM;Wiko;Y82;Bandeja SIM;Compatible;2,85;;;6
+WI-L3-PAN-COM;Wiko;Lenny 3;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-L3-BAT-COM;Wiko;Lenny 3;Batería;Compatible;8,90;;;6
+WI-L3-CON-COM;Wiko;Lenny 3;Conector de carga;Compatible;3,70;;;6
+WI-L3-TAP-COM-TUR;Wiko;Lenny 3;Tapa trasera;Turquesa;4,80;;;6
+WI-L3-TAP-COM-GRI;Wiko;Lenny 3;Tapa trasera;Gris;4,80;;;6
+WI-L3-TAP-COM-DOR;Wiko;Lenny 3;Tapa trasera;Dorado;4,80;;;6
+WI-L3-CTR-COM;Wiko;Lenny 3;Cámara trasera;Compatible;6,65;;;6
+WI-L3-CFR-COM;Wiko;Lenny 3;Cámara frontal;Compatible;4,65;;;6
+WI-L3-LEN-COM;Wiko;Lenny 3;Lente de cámara;Compatible;2,25;;;6
+WI-L3-ALT-COM;Wiko;Lenny 3;Altavoz;Compatible;3,59;;;6
+WI-L3-AUR-COM;Wiko;Lenny 3;Auricular de llamada;Compatible;2,69;;;6
+WI-L3-FLX-COM;Wiko;Lenny 3;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-L3-SIM-COM;Wiko;Lenny 3;Bandeja SIM;Compatible;2,65;;;6
+WI-R-PAN-COM;Wiko;Robby;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-R-BAT-COM;Wiko;Robby;Batería;Compatible;8,90;;;6
+WI-R-CON-COM;Wiko;Robby;Conector de carga;Compatible;3,70;;;6
+WI-R-TAP-COM-DOR;Wiko;Robby;Tapa trasera;Dorado;4,80;;;6
+WI-R-TAP-COM-GRI;Wiko;Robby;Tapa trasera;Gris;4,80;;;6
+WI-R-CTR-COM;Wiko;Robby;Cámara trasera;Compatible;6,65;;;6
+WI-R-CFR-COM;Wiko;Robby;Cámara frontal;Compatible;4,65;;;6
+WI-R-LEN-COM;Wiko;Robby;Lente de cámara;Compatible;2,25;;;6
+WI-R-ALT-COM;Wiko;Robby;Altavoz;Compatible;3,59;;;6
+WI-R-AUR-COM;Wiko;Robby;Auricular de llamada;Compatible;2,69;;;6
+WI-R-FLX-COM;Wiko;Robby;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-R-SIM-COM;Wiko;Robby;Bandeja SIM;Compatible;2,65;;;6
+WI-S-PAN-COM;Wiko;Sunny;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-S-BAT-COM;Wiko;Sunny;Batería;Compatible;8,90;;;6
+WI-S-CON-COM;Wiko;Sunny;Conector de carga;Compatible;3,70;;;6
+WI-S-TAP-COM-BLA;Wiko;Sunny;Tapa trasera;Blanco;4,80;;;6
+WI-S-TAP-COM-NEG;Wiko;Sunny;Tapa trasera;Negro;4,80;;;6
+WI-S-TAP-COM-TUR;Wiko;Sunny;Tapa trasera;Turquesa;4,80;;;6
+WI-S-TAP-COM-FUC;Wiko;Sunny;Tapa trasera;Fucsia;4,80;;;6
+WI-S-CTR-COM;Wiko;Sunny;Cámara trasera;Compatible;6,65;;;6
+WI-S-CFR-COM;Wiko;Sunny;Cámara frontal;Compatible;4,65;;;6
+WI-S-LEN-COM;Wiko;Sunny;Lente de cámara;Compatible;2,25;;;6
+WI-S-ALT-COM;Wiko;Sunny;Altavoz;Compatible;3,59;;;6
+WI-S-AUR-COM;Wiko;Sunny;Auricular de llamada;Compatible;2,69;;;6
+WI-S-FLX-COM;Wiko;Sunny;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-S-SIM-COM;Wiko;Sunny;Bandeja SIM;Compatible;2,65;;;6
+WI-T-PAN-COM;Wiko;Tommy;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-T-BAT-COM;Wiko;Tommy;Batería;Compatible;8,90;;;6
+WI-T-CON-COM;Wiko;Tommy;Conector de carga;Compatible;3,70;;;6
+WI-T-TAP-COM-NEG;Wiko;Tommy;Tapa trasera;Negro;4,80;;;6
+WI-T-CTR-COM;Wiko;Tommy;Cámara trasera;Compatible;6,65;;;6
+WI-T-CFR-COM;Wiko;Tommy;Cámara frontal;Compatible;4,65;;;6
+WI-T-LEN-COM;Wiko;Tommy;Lente de cámara;Compatible;2,25;;;6
+WI-T-ALT-COM;Wiko;Tommy;Altavoz;Compatible;3,59;;;6
+WI-T-AUR-COM;Wiko;Tommy;Auricular de llamada;Compatible;2,69;;;6
+WI-T-FLX-COM;Wiko;Tommy;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-T-SIM-COM;Wiko;Tommy;Bandeja SIM;Compatible;2,65;;;6
+WI-UF-PAN-COM;Wiko;U Feel;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-UF-BAT-COM;Wiko;U Feel;Batería;Compatible;8,90;;;6
+WI-UF-CON-COM;Wiko;U Feel;Conector de carga;Compatible;3,70;;;6
+WI-UF-TAP-COM-GRI;Wiko;U Feel;Tapa trasera;Gris espacial;4,80;;;6
+WI-UF-TAP-COM-CHO;Wiko;U Feel;Tapa trasera;Chocolate;4,80;;;6
+WI-UF-TAP-COM-CRE;Wiko;U Feel;Tapa trasera;Crema;4,80;;;6
+WI-UF-CTR-COM;Wiko;U Feel;Cámara trasera;Compatible;6,65;;;6
+WI-UF-CFR-COM;Wiko;U Feel;Cámara frontal;Compatible;4,65;;;6
+WI-UF-LEN-COM;Wiko;U Feel;Lente de cámara;Compatible;2,25;;;6
+WI-UF-ALT-COM;Wiko;U Feel;Altavoz;Compatible;3,59;;;6
+WI-UF-AUR-COM;Wiko;U Feel;Auricular de llamada;Compatible;2,69;;;6
+WI-UF-FLX-COM;Wiko;U Feel;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-UF-SIM-COM;Wiko;U Feel;Bandeja SIM;Compatible;2,65;;;6
+WI-P4-PAN-COM;Wiko;Pulp 4G;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-P4-BAT-COM;Wiko;Pulp 4G;Batería;Compatible;8,90;;;6
+WI-P4-CON-COM;Wiko;Pulp 4G;Conector de carga;Compatible;3,70;;;6
+WI-P4-TAP-COM;Wiko;Pulp 4G;Tapa trasera;Compatible;4,80;;;6
+WI-P4-CTR-COM;Wiko;Pulp 4G;Cámara trasera;Compatible;6,65;;;6
+WI-P4-CFR-COM;Wiko;Pulp 4G;Cámara frontal;Compatible;4,65;;;6
+WI-P4-LEN-COM;Wiko;Pulp 4G;Lente de cámara;Compatible;2,25;;;6
+WI-P4-ALT-COM;Wiko;Pulp 4G;Altavoz;Compatible;3,59;;;6
+WI-P4-AUR-COM;Wiko;Pulp 4G;Auricular de llamada;Compatible;2,69;;;6
+WI-P4-FLX-COM;Wiko;Pulp 4G;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-P4-SIM-COM;Wiko;Pulp 4G;Bandeja SIM;Compatible;2,65;;;6
+WI-JM-PAN-COM;Wiko;Jerry Max;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-JM-BAT-COM;Wiko;Jerry Max;Batería;Compatible;8,90;;;6
+WI-JM-CON-COM;Wiko;Jerry Max;Conector de carga;Compatible;3,70;;;6
+WI-JM-TAP-COM-GRI;Wiko;Jerry Max;Tapa trasera;Gris espacial;4,80;;;6
+WI-JM-TAP-COM-DOR;Wiko;Jerry Max;Tapa trasera;Dorado;4,80;;;6
+WI-JM-CTR-COM;Wiko;Jerry Max;Cámara trasera;Compatible;6,65;;;6
+WI-JM-CFR-COM;Wiko;Jerry Max;Cámara frontal;Compatible;4,65;;;6
+WI-JM-LEN-COM;Wiko;Jerry Max;Lente de cámara;Compatible;2,25;;;6
+WI-JM-ALT-COM;Wiko;Jerry Max;Altavoz;Compatible;3,59;;;6
+WI-JM-AUR-COM;Wiko;Jerry Max;Auricular de llamada;Compatible;2,69;;;6
+WI-JM-FLX-COM;Wiko;Jerry Max;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-JM-SIM-COM;Wiko;Jerry Max;Bandeja SIM;Compatible;2,65;;;6
+WI-L3M-PAN-COM;Wiko;Lenny 3 Max;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-L3M-BAT-COM;Wiko;Lenny 3 Max;Batería;Compatible;8,90;;;6
+WI-L3M-CON-COM;Wiko;Lenny 3 Max;Conector de carga;Compatible;3,70;;;6
+WI-L3M-TAP-COM-DOR;Wiko;Lenny 3 Max;Tapa trasera;Dorado;4,80;;;6
+WI-L3M-TAP-COM-GRI;Wiko;Lenny 3 Max;Tapa trasera;Gris;4,80;;;6
+WI-L3M-CTR-COM;Wiko;Lenny 3 Max;Cámara trasera;Compatible;6,65;;;6
+WI-L3M-CFR-COM;Wiko;Lenny 3 Max;Cámara frontal;Compatible;4,65;;;6
+WI-L3M-LEN-COM;Wiko;Lenny 3 Max;Lente de cámara;Compatible;2,25;;;6
+WI-L3M-ALT-COM;Wiko;Lenny 3 Max;Altavoz;Compatible;3,59;;;6
+WI-L3M-AUR-COM;Wiko;Lenny 3 Max;Auricular de llamada;Compatible;2,69;;;6
+WI-L3M-FLX-COM;Wiko;Lenny 3 Max;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-L3M-SIM-COM;Wiko;Lenny 3 Max;Bandeja SIM;Compatible;2,65;;;6
+WI-SM-PAN-COM;Wiko;Sunny Max;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-SM-BAT-COM;Wiko;Sunny Max;Batería;Compatible;8,90;;;6
+WI-SM-CON-COM;Wiko;Sunny Max;Conector de carga;Compatible;3,70;;;6
+WI-SM-TAP-COM-PLA;Wiko;Sunny Max;Tapa trasera;Plata;4,80;;;6
+WI-SM-TAP-COM-AZU;Wiko;Sunny Max;Tapa trasera;Azul marino;4,80;;;6
+WI-SM-CTR-COM;Wiko;Sunny Max;Cámara trasera;Compatible;6,65;;;6
+WI-SM-CFR-COM;Wiko;Sunny Max;Cámara frontal;Compatible;4,65;;;6
+WI-SM-LEN-COM;Wiko;Sunny Max;Lente de cámara;Compatible;2,25;;;6
+WI-SM-ALT-COM;Wiko;Sunny Max;Altavoz;Compatible;3,59;;;6
+WI-SM-AUR-COM;Wiko;Sunny Max;Auricular de llamada;Compatible;2,69;;;6
+WI-SM-FLX-COM;Wiko;Sunny Max;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-SM-SIM-COM;Wiko;Sunny Max;Bandeja SIM;Compatible;2,65;;;6
+WI-UP-PAN-COM;Wiko;U Pulse;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-UP-BAT-COM;Wiko;U Pulse;Batería;Compatible;8,90;;;6
+WI-UP-CON-COM;Wiko;U Pulse;Conector de carga;Compatible;3,70;;;6
+WI-UP-TAP-COM-DOR;Wiko;U Pulse;Tapa trasera;Dorado;4,80;;;6
+WI-UP-TAP-COM-NEG;Wiko;U Pulse;Tapa trasera;Negro;4,80;;;6
+WI-UP-CTR-COM;Wiko;U Pulse;Cámara trasera;Compatible;6,65;;;6
+WI-UP-CFR-COM;Wiko;U Pulse;Cámara frontal;Compatible;4,65;;;6
+WI-UP-LEN-COM;Wiko;U Pulse;Lente de cámara;Compatible;2,25;;;6
+WI-UP-ALT-COM;Wiko;U Pulse;Altavoz;Compatible;3,59;;;6
+WI-UP-AUR-COM;Wiko;U Pulse;Auricular de llamada;Compatible;2,69;;;6
+WI-UP-FLX-COM;Wiko;U Pulse;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-UP-SIM-COM;Wiko;U Pulse;Bandeja SIM;Compatible;2,65;;;6
+WI-WIM-PAN-INC;Wiko;WIM;Pantalla;Incell;15,15;14,70;14,24;6
+WI-WIM-BAT-COM;Wiko;WIM;Batería;Compatible;8,90;;;6
+WI-WIM-CON-COM;Wiko;WIM;Conector de carga;Compatible;3,70;;;6
+WI-WIM-TAP-COM-NEG;Wiko;WIM;Tapa trasera;Negro;4,80;;;6
+WI-WIM-TAP-COM-DOR;Wiko;WIM;Tapa trasera;dorado;4,80;;;6
+WI-WIM-CTR-COM;Wiko;WIM;Cámara trasera;Compatible;6,65;;;6
+WI-WIM-CFR-COM;Wiko;WIM;Cámara frontal;Compatible;4,65;;;6
+WI-WIM-LEN-COM;Wiko;WIM;Lente de cámara;Compatible;2,25;;;6
+WI-WIM-ALT-COM;Wiko;WIM;Altavoz;Compatible;3,59;;;6
+WI-WIM-AUR-COM;Wiko;WIM;Auricular de llamada;Compatible;2,69;;;6
+WI-WIM-FLX-COM;Wiko;WIM;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-WIM-SIM-COM;Wiko;WIM;Bandeja SIM;Compatible;2,65;;;6
+WI-L4-PAN-COM;Wiko;Lenny 4;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-L4-BAT-COM;Wiko;Lenny 4;Batería;Compatible;8,65;;;6
+WI-L4-CON-COM;Wiko;Lenny 4;Conector de carga;Compatible;3,70;;;6
+WI-L4-TAP-COM-NEG;Wiko;Lenny 4;Tapa trasera;Negro;4,80;;;6
+WI-L4-TAP-COM-DOR;Wiko;Lenny 4;Tapa trasera;Dorado;4,80;;;6
+WI-L4-TAP-COM-ORO;Wiko;Lenny 4;Tapa trasera;Oro Rosa;4,80;;;6
+WI-L4-CTR-COM;Wiko;Lenny 4;Cámara trasera;Compatible;6,65;;;6
+WI-L4-CFR-COM;Wiko;Lenny 4;Cámara frontal;Compatible;4,65;;;6
+WI-L4-LEN-COM;Wiko;Lenny 4;Lente de cámara;Compatible;2,25;;;6
+WI-L4-ALT-COM;Wiko;Lenny 4;Altavoz;Compatible;3,59;;;6
+WI-L4-AUR-COM;Wiko;Lenny 4;Auricular de llamada;Compatible;2,69;;;6
+WI-L4-FLX-COM;Wiko;Lenny 4;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-L4-SIM-COM;Wiko;Lenny 4;Bandeja SIM;Compatible;2,65;;;6
+WI-V-PAN-COM;Wiko;View;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-V-BAT-COM;Wiko;View;Batería;Compatible;8,90;;;6
+WI-V-CON-COM;Wiko;View;Conector de carga;Compatible;3,70;;;6
+WI-V-TAP-COM-NEG;Wiko;View;Tapa trasera;Negro;4,80;;;6
+WI-V-TAP-COM-DOR;Wiko;View;Tapa trasera;Dorado;4,80;;;6
+WI-V-TAP-COM-DEE;Wiko;View;Tapa trasera;Deep Bleen;4,80;;;6
+WI-V-TAP-COM-ROJ;Wiko;View;Tapa trasera;Rojo (Cherry Red);4,80;;;6
+WI-V-CTR-COM;Wiko;View;Cámara trasera;Compatible;6,65;;;6
+WI-V-CFR-COM;Wiko;View;Cámara frontal;Compatible;4,65;;;6
+WI-V-LEN-COM;Wiko;View;Lente de cámara;Compatible;2,25;;;6
+WI-V-ALT-COM;Wiko;View;Altavoz;Compatible;3,59;;;6
+WI-V-AUR-COM;Wiko;View;Auricular de llamada;Compatible;2,69;;;6
+WI-V-FLX-COM;Wiko;View;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-V-SIM-COM;Wiko;View;Bandeja SIM;Compatible;2,65;;;6
+WI-VXL-PAN-COM;Wiko;View XL;Pantalla;Compatible;15,15;14,70;14,24;6
+WI-VXL-BAT-COM;Wiko;View XL;Batería;Compatible;9,65;;;6
+WI-VXL-CON-COM;Wiko;View XL;Conector de carga;Compatible;4,60;;;6
+WI-VXL-TAP-COM-NEG;Wiko;View XL;Tapa trasera;Negro;5,40;;;6
+WI-VXL-TAP-COM-DOR;Wiko;View XL;Tapa trasera;Dorado;5,40;;;6
+WI-VXL-CTR-COM;Wiko;View XL;Cámara trasera;Compatible;7,59;;;6
+WI-VXL-CFR-COM;Wiko;View XL;Cámara frontal;Compatible;4,99;;;6
+WI-VXL-LEN-COM;Wiko;View XL;Lente de cámara;Compatible;2,19;;;6
+WI-VXL-ALT-COM;Wiko;View XL;Altavoz;Compatible;3,65;;;6
+WI-VXL-AUR-COM;Wiko;View XL;Auricular de llamada;Compatible;2,65;;;6
+WI-VXL-FLX-COM;Wiko;View XL;Flex de encendido y volumen;Compatible;2,49;;;6
+WI-VXL-SIM-COM;Wiko;View XL;Bandeja SIM;Compatible;2,55;;;6
+WI-J3-PAN-COM;Wiko;Jerry 3;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-J3-BAT-COM;Wiko;Jerry 3;Batería;Compatible;8,90;;;6
+WI-J3-CON-COM;Wiko;Jerry 3;Conector de carga;Compatible;3,70;;;6
+WI-J3-TAP-COM-ANT;Wiko;Jerry 3;Tapa trasera;Antracita;4,80;;;6
+WI-J3-TAP-COM-ROJ;Wiko;Jerry 3;Tapa trasera;Rojo cereza;4,80;;;6
+WI-J3-TAP-COM-TUR;Wiko;Jerry 3;Tapa trasera;Turquesa;4,80;;;6
+WI-J3-CTR-COM;Wiko;Jerry 3;Cámara trasera;Compatible;6,65;;;6
+WI-J3-CFR-COM;Wiko;Jerry 3;Cámara frontal;Compatible;4,65;;;6
+WI-J3-LEN-COM;Wiko;Jerry 3;Lente de cámara;Compatible;2,25;;;6
+WI-J3-ALT-COM;Wiko;Jerry 3;Altavoz;Compatible;3,59;;;6
+WI-J3-AUR-COM;Wiko;Jerry 3;Auricular de llamada;Compatible;2,69;;;6
+WI-J3-FLX-COM;Wiko;Jerry 3;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-J3-SIM-COM;Wiko;Jerry 3;Bandeja SIM;Compatible;2,65;;;6
+WI-V2-PAN-COM;Wiko;View 2;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-V2-BAT-COM;Wiko;View 2;Batería;Compatible;8,90;;;6
+WI-V2-CON-COM;Wiko;View 2;Conector de carga;Compatible;3,70;;;6
+WI-V2-TAP-COM-NEG;Wiko;View 2;Tapa trasera;Negro Antracita;4,80;;;6
+WI-V2-CTR-COM;Wiko;View 2;Cámara trasera;Compatible;6,65;;;6
+WI-V2-CFR-COM;Wiko;View 2;Cámara frontal;Compatible;4,65;;;6
+WI-V2-LEN-COM;Wiko;View 2;Lente de cámara;Compatible;2,25;;;6
+WI-V2-ALT-COM;Wiko;View 2;Altavoz;Compatible;3,59;;;6
+WI-V2-AUR-COM;Wiko;View 2;Auricular de llamada;Compatible;2,69;;;6
+WI-V2-FLX-COM;Wiko;View 2;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-V2-SIM-COM;Wiko;View 2;Bandeja SIM;Compatible;2,65;;;6
+WI-V2P-PAN-COM;Wiko;View 2 Pro;Pantalla;Compatible;15,15;14,70;14,24;6
+WI-V2P-BAT-COM;Wiko;View 2 Pro;Batería;Compatible;9,65;;;6
+WI-V2P-CON-COM;Wiko;View 2 Pro;Conector de carga;Compatible;4,60;;;6
+WI-V2P-TAP-COM-ANT;Wiko;View 2 Pro;Tapa trasera;Antracita;5,40;;;6
+WI-V2P-CTR-COM;Wiko;View 2 Pro;Cámara trasera;Compatible;7,59;;;6
+WI-V2P-CFR-COM;Wiko;View 2 Pro;Cámara frontal;Compatible;4,99;;;6
+WI-V2P-LEN-COM;Wiko;View 2 Pro;Lente de cámara;Compatible;2,19;;;6
+WI-V2P-ALT-COM;Wiko;View 2 Pro;Altavoz;Compatible;3,65;;;6
+WI-V2P-AUR-COM;Wiko;View 2 Pro;Auricular de llamada;Compatible;2,65;;;6
+WI-V2P-FLX-COM;Wiko;View 2 Pro;Flex de encendido y volumen;Compatible;2,49;;;6
+WI-V2P-SIM-COM;Wiko;View 2 Pro;Bandeja SIM;Compatible;2,55;;;6
+WI-L5-PAN-COM;Wiko;Lenny 5;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-L5-BAT-COM;Wiko;Lenny 5;Batería;Compatible;8,90;;;6
+WI-L5-CON-COM;Wiko;Lenny 5;Conector de carga;Compatible;3,70;;;6
+WI-L5-TAP-COM-TUR;Wiko;Lenny 5;Tapa trasera;Turquesa;4,80;;;6
+WI-L5-TAP-COM-DOR;Wiko;Lenny 5;Tapa trasera;Dorado;4,80;;;6
+WI-L5-TAP-COM-ANT;Wiko;Lenny 5;Tapa trasera;Antracita;4,80;;;6
+WI-L5-CTR-COM;Wiko;Lenny 5;Cámara trasera;Compatible;6,65;;;6
+WI-L5-CFR-COM;Wiko;Lenny 5;Cámara frontal;Compatible;4,65;;;6
+WI-L5-LEN-COM;Wiko;Lenny 5;Lente de cámara;Compatible;2,25;;;6
+WI-L5-ALT-COM;Wiko;Lenny 5;Altavoz;Compatible;3,59;;;6
+WI-L5-AUR-COM;Wiko;Lenny 5;Auricular de llamada;Compatible;2,69;;;6
+WI-L5-FLX-COM;Wiko;Lenny 5;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-L5-SIM-COM;Wiko;Lenny 5;Bandeja SIM;Compatible;2,65;;;6
+WI-TOMMY3-PAN-COM;Wiko;Tommy 3;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-TOMMY3-BAT-COM;Wiko;Tommy 3;Batería;Compatible;8,90;;;6
+WI-TOMMY3-CON-COM;Wiko;Tommy 3;Conector de carga;Compatible;3,70;;;6
+WI-TOMMY3-TAP-COM-ANT;Wiko;Tommy 3;Tapa trasera;Antracita;4,80;;;6
+WI-TOMMY3-CTR-COM;Wiko;Tommy 3;Cámara trasera;Compatible;6,65;;;6
+WI-TOMMY3-CFR-COM;Wiko;Tommy 3;Cámara frontal;Compatible;4,65;;;6
+WI-TOMMY3-LEN-COM;Wiko;Tommy 3;Lente de cámara;Compatible;2,25;;;6
+WI-TOMMY3-ALT-COM;Wiko;Tommy 3;Altavoz;Compatible;3,59;;;6
+WI-TOMMY3-AUR-COM;Wiko;Tommy 3;Auricular de llamada;Compatible;2,69;;;6
+WI-TOMMY3-FLX-COM;Wiko;Tommy 3;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-TOMMY3-SIM-COM;Wiko;Tommy 3;Bandeja SIM;Compatible;2,65;;;6
+WI-VL-PAN-COM;Wiko;View Lite;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-VL-BAT-COM;Wiko;View Lite;Batería;Compatible;8,90;;;6
+WI-VL-CON-COM;Wiko;View Lite;Conector de carga;Compatible;3,70;;;6
+WI-VL-TAP-COM-ANT;Wiko;View Lite;Tapa trasera;Antracita;4,80;;;6
+WI-VL-CTR-COM;Wiko;View Lite;Cámara trasera;Compatible;6,65;;;6
+WI-VL-CFR-COM;Wiko;View Lite;Cámara frontal;Compatible;4,65;;;6
+WI-VL-LEN-COM;Wiko;View Lite;Lente de cámara;Compatible;2,25;;;6
+WI-VL-ALT-COM;Wiko;View Lite;Altavoz;Compatible;3,59;;;6
+WI-VL-AUR-COM;Wiko;View Lite;Auricular de llamada;Compatible;2,69;;;6
+WI-VL-FLX-COM;Wiko;View Lite;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-VL-SIM-COM;Wiko;View Lite;Bandeja SIM;Compatible;2,65;;;6
+WI-S3MN-PAN-COM;Wiko;Sunny 3 Mini;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-S3MN-BAT-COM;Wiko;Sunny 3 Mini;Batería;Compatible;8,90;;;6
+WI-S3MN-CON-COM;Wiko;Sunny 3 Mini;Conector de carga;Compatible;3,70;;;6
+WI-S3MN-TAP-COM-BLA;Wiko;Sunny 3 Mini;Tapa trasera;Blanco;4,80;;;6
+WI-S3MN-TAP-COM-NEG;Wiko;Sunny 3 Mini;Tapa trasera;Negro;4,80;;;6
+WI-S3MN-CTR-COM;Wiko;Sunny 3 Mini;Cámara trasera;Compatible;6,65;;;6
+WI-S3MN-CFR-COM;Wiko;Sunny 3 Mini;Cámara frontal;Compatible;4,65;;;6
+WI-S3MN-LEN-COM;Wiko;Sunny 3 Mini;Lente de cámara;Compatible;2,25;;;6
+WI-S3MN-ALT-COM;Wiko;Sunny 3 Mini;Altavoz;Compatible;3,59;;;6
+WI-S3MN-AUR-COM;Wiko;Sunny 3 Mini;Auricular de llamada;Compatible;2,69;;;6
+WI-S3MN-FLX-COM;Wiko;Sunny 3 Mini;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-S3MN-SIM-COM;Wiko;Sunny 3 Mini;Bandeja SIM;Compatible;2,65;;;6
+WI-H2-PAN-COM;Wiko;Harry 2;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-H2-BAT-COM;Wiko;Harry 2;Batería;Compatible;8,90;;;6
+WI-H2-CON-COM;Wiko;Harry 2;Conector de carga;Compatible;3,70;;;6
+WI-H2-TAP-COM-ANT;Wiko;Harry 2;Tapa trasera;Antracita;4,80;;;6
+WI-H2-TAP-COM-DOR;Wiko;Harry 2;Tapa trasera;Dorado;4,80;;;6
+WI-H2-TAP-COM-TUR;Wiko;Harry 2;Tapa trasera;Turquesa;4,80;;;6
+WI-H2-TAP-COM-ROJ;Wiko;Harry 2;Tapa trasera;Rojo cereza;4,80;;;6
+WI-H2-CTR-COM;Wiko;Harry 2;Cámara trasera;Compatible;6,65;;;6
+WI-H2-CFR-COM;Wiko;Harry 2;Cámara frontal;Compatible;4,65;;;6
+WI-H2-LEN-COM;Wiko;Harry 2;Lente de cámara;Compatible;2,25;;;6
+WI-H2-ALT-COM;Wiko;Harry 2;Altavoz;Compatible;3,59;;;6
+WI-H2-AUR-COM;Wiko;Harry 2;Auricular de llamada;Compatible;2,69;;;6
+WI-H2-FLX-COM;Wiko;Harry 2;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-H2-SIM-COM;Wiko;Harry 2;Bandeja SIM;Compatible;2,65;;;6
+WI-S3-PAN-COM;Wiko;Sunny 3;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-S3-BAT-COM;Wiko;Sunny 3;Batería;Compatible;8,90;;;6
+WI-S3-CON-COM;Wiko;Sunny 3;Conector de carga;Compatible;3,70;;;6
+WI-S3-TAP-COM-ANT;Wiko;Sunny 3;Tapa trasera;Antracita;4,80;;;6
+WI-S3-TAP-COM-TUR;Wiko;Sunny 3;Tapa trasera;Turquesa;4,80;;;6
+WI-S3-TAP-COM-ROJ;Wiko;Sunny 3;Tapa trasera;Rojo cereza;4,80;;;6
+WI-S3-CTR-COM;Wiko;Sunny 3;Cámara trasera;Compatible;6,65;;;6
+WI-S3-CFR-COM;Wiko;Sunny 3;Cámara frontal;Compatible;4,65;;;6
+WI-S3-LEN-COM;Wiko;Sunny 3;Lente de cámara;Compatible;2,25;;;6
+WI-S3-ALT-COM;Wiko;Sunny 3;Altavoz;Compatible;3,59;;;6
+WI-S3-AUR-COM;Wiko;Sunny 3;Auricular de llamada;Compatible;2,69;;;6
+WI-S3-FLX-COM;Wiko;Sunny 3;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-S3-SIM-COM;Wiko;Sunny 3;Bandeja SIM;Compatible;2,65;;;6
+WI-V2GO-PAN-COM;Wiko;View 2 Go;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-V2GO-BAT-COM;Wiko;View 2 Go;Batería;Compatible;8,90;;;6
+WI-V2GO-CON-COM;Wiko;View 2 Go;Conector de carga;Compatible;3,70;;;6
+WI-V2GO-TAP-COM-ROJ;Wiko;View 2 Go;Tapa trasera;Rojo cereza;4,80;;;6
+WI-V2GO-TAP-COM-ANT;Wiko;View 2 Go;Tapa trasera;Antracita;4,80;;;6
+WI-V2GO-TAP-COM-DEE;Wiko;View 2 Go;Tapa trasera;Deep bleen;4,80;;;6
+WI-V2GO-CTR-COM;Wiko;View 2 Go;Cámara trasera;Compatible;6,65;;;6
+WI-V2GO-CFR-COM;Wiko;View 2 Go;Cámara frontal;Compatible;4,65;;;6
+WI-V2GO-LEN-COM;Wiko;View 2 Go;Lente de cámara;Compatible;2,25;;;6
+WI-V2GO-ALT-COM;Wiko;View 2 Go;Altavoz;Compatible;3,59;;;6
+WI-V2GO-AUR-COM;Wiko;View 2 Go;Auricular de llamada;Compatible;2,69;;;6
+WI-V2GO-FLX-COM;Wiko;View 2 Go;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-V2GO-SIM-COM;Wiko;View 2 Go;Bandeja SIM;Compatible;2,65;;;6
+WI-V2PL-PAN-COM;Wiko;View 2 Plus;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-V2PL-BAT-COM;Wiko;View 2 Plus;Batería;Compatible;8,90;;;6
+WI-V2PL-CON-COM;Wiko;View 2 Plus;Conector de carga;Compatible;3,70;;;6
+WI-V2PL-TAP-COM-ANT;Wiko;View 2 Plus;Tapa trasera;Antracita;4,80;;;6
+WI-V2PL-CTR-COM;Wiko;View 2 Plus;Cámara trasera;Compatible;6,65;;;6
+WI-V2PL-CFR-COM;Wiko;View 2 Plus;Cámara frontal;Compatible;4,65;;;6
+WI-V2PL-LEN-COM;Wiko;View 2 Plus;Lente de cámara;Compatible;2,25;;;6
+WI-V2PL-ALT-COM;Wiko;View 2 Plus;Altavoz;Compatible;3,59;;;6
+WI-V2PL-AUR-COM;Wiko;View 2 Plus;Auricular de llamada;Compatible;2,69;;;6
+WI-V2PL-FLX-COM;Wiko;View 2 Plus;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-V2PL-SIM-COM;Wiko;View 2 Plus;Bandeja SIM;Compatible;2,65;;;6
+WI-Y60-PAN-COM;Wiko;Y60;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-Y60-BAT-COM;Wiko;Y60;Batería;Compatible;8,90;;;6
+WI-Y60-CON-COM;Wiko;Y60;Conector de carga;Compatible;3,70;;;6
+WI-Y60-TAP-COM-AZU;Wiko;Y60;Tapa trasera;Azul oscuro (Gradient dark blue);4,80;;;6
+WI-Y60-TAP-COM-GRA;Wiko;Y60;Tapa trasera;Gradient bleen;4,80;;;6
+WI-Y60-TAP-COM-DOR;Wiko;Y60;Tapa trasera;Dorado;4,80;;;6
+WI-Y60-CTR-COM;Wiko;Y60;Cámara trasera;Compatible;6,65;;;6
+WI-Y60-CFR-COM;Wiko;Y60;Cámara frontal;Compatible;4,65;;;6
+WI-Y60-LEN-COM;Wiko;Y60;Lente de cámara;Compatible;2,25;;;6
+WI-Y60-ALT-COM;Wiko;Y60;Altavoz;Compatible;3,59;;;6
+WI-Y60-AUR-COM;Wiko;Y60;Auricular de llamada;Compatible;2,69;;;6
+WI-Y60-FLX-COM;Wiko;Y60;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-Y60-SIM-COM;Wiko;Y60;Bandeja SIM;Compatible;2,65;;;6
+WI-V3-PAN-COM;Wiko;View 3;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-V3-BAT-COM;Wiko;View 3;Batería;Compatible;8,90;;;6
+WI-V3-CON-COM;Wiko;View 3;Conector de carga;Compatible;3,70;;;6
+WI-V3-TAP-COM-AZU;Wiko;View 3;Tapa trasera;Azul (Night Blue);4,80;;;6
+WI-V3-CTR-COM;Wiko;View 3;Cámara trasera;Compatible;6,65;;;6
+WI-V3-CFR-COM;Wiko;View 3;Cámara frontal;Compatible;4,65;;;6
+WI-V3-LEN-COM;Wiko;View 3;Lente de cámara;Compatible;2,25;;;6
+WI-V3-ALT-COM;Wiko;View 3;Altavoz;Compatible;3,59;;;6
+WI-V3-AUR-COM;Wiko;View 3;Auricular de llamada;Compatible;2,69;;;6
+WI-V3-FLX-COM;Wiko;View 3;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-V3-SIM-COM;Wiko;View 3;Bandeja SIM;Compatible;2,65;;;6
+WI-V3P-PAN-COM;Wiko;View 3 Pro;Pantalla;Compatible;15,15;14,70;14,24;6
+WI-V3P-BAT-COM;Wiko;View 3 Pro;Batería;Compatible;9,65;;;6
+WI-V3P-CON-COM;Wiko;View 3 Pro;Conector de carga;Compatible;4,60;;;6
+WI-V3P-TAP-COM-NIG;Wiko;View 3 Pro;Tapa trasera;Nightfall Gradient;5,40;;;6
+WI-V3P-TAP-COM-OCE;Wiko;View 3 Pro;Tapa trasera;Ocean Gradient;5,40;;;6
+WI-V3P-CTR-COM;Wiko;View 3 Pro;Cámara trasera;Compatible;7,59;;;6
+WI-V3P-CFR-COM;Wiko;View 3 Pro;Cámara frontal;Compatible;4,99;;;6
+WI-V3P-LEN-COM;Wiko;View 3 Pro;Lente de cámara;Compatible;2,19;;;6
+WI-V3P-ALT-COM;Wiko;View 3 Pro;Altavoz;Compatible;3,65;;;6
+WI-V3P-AUR-COM;Wiko;View 3 Pro;Auricular de llamada;Compatible;2,65;;;6
+WI-V3P-FLX-COM;Wiko;View 3 Pro;Flex de encendido y volumen;Compatible;2,49;;;6
+WI-V3P-SIM-COM;Wiko;View 3 Pro;Bandeja SIM;Compatible;2,55;;;6
+WI-Y80-PAN-COM;Wiko;Y80;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-Y80-BAT-COM;Wiko;Y80;Batería;Compatible;8,90;;;6
+WI-Y80-CON-COM;Wiko;Y80;Conector de carga;Compatible;3,70;;;6
+WI-Y80-TAP-COM-AZU;Wiko;Y80;Tapa trasera;Azul oscuro (Gradient dark blue);4,80;;;6
+WI-Y80-TAP-COM-GRA;Wiko;Y80;Tapa trasera;Gradient bleen;4,80;;;6
+WI-Y80-TAP-COM-DOR;Wiko;Y80;Tapa trasera;Dorado;4,80;;;6
+WI-Y80-CTR-COM;Wiko;Y80;Cámara trasera;Compatible;6,65;;;6
+WI-Y80-CFR-COM;Wiko;Y80;Cámara frontal;Compatible;4,65;;;6
+WI-Y80-LEN-COM;Wiko;Y80;Lente de cámara;Compatible;2,25;;;6
+WI-Y80-ALT-COM;Wiko;Y80;Altavoz;Compatible;3,59;;;6
+WI-Y80-AUR-COM;Wiko;Y80;Auricular de llamada;Compatible;2,69;;;6
+WI-Y80-FLX-COM;Wiko;Y80;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-Y80-SIM-COM;Wiko;Y80;Bandeja SIM;Compatible;2,65;;;6
+WI-V3L-PAN-COM;Wiko;View 3 Lite;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-V3L-BAT-COM;Wiko;View 3 Lite;Batería;Compatible;8,90;;;6
+WI-V3L-CON-COM;Wiko;View 3 Lite;Conector de carga;Compatible;3,70;;;6
+WI-V3L-TAP-COM-AZU;Wiko;View 3 Lite;Tapa trasera;Azul (Night Blue);4,80;;;6
+WI-V3L-TAP-COM-DOR;Wiko;View 3 Lite;Tapa trasera;Dorado (Blush Gold);4,80;;;6
+WI-V3L-CTR-COM;Wiko;View 3 Lite;Cámara trasera;Compatible;6,65;;;6
+WI-V3L-CFR-COM;Wiko;View 3 Lite;Cámara frontal;Compatible;4,65;;;6
+WI-V3L-LEN-COM;Wiko;View 3 Lite;Lente de cámara;Compatible;2,25;;;6
+WI-V3L-ALT-COM;Wiko;View 3 Lite;Altavoz;Compatible;3,59;;;6
+WI-V3L-AUR-COM;Wiko;View 3 Lite;Auricular de llamada;Compatible;2,69;;;6
+WI-V3L-FLX-COM;Wiko;View 3 Lite;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-V3L-SIM-COM;Wiko;View 3 Lite;Bandeja SIM;Compatible;2,65;;;6
+WI-Y50-PAN-COM;Wiko;Y50;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-Y50-BAT-COM;Wiko;Y50;Batería;Compatible;8,90;;;6
+WI-Y50-CON-COM;Wiko;Y50;Conector de carga;Compatible;3,70;;;6
+WI-Y50-TAP-COM-GRI;Wiko;Y50;Tapa trasera;Gris (Dark grey);4,80;;;6
+WI-Y50-TAP-COM-AZU;Wiko;Y50;Tapa trasera;Azul;4,80;;;6
+WI-Y50-TAP-COM-DOR;Wiko;Y50;Tapa trasera;Dorado;4,80;;;6
+WI-Y50-CTR-COM;Wiko;Y50;Cámara trasera;Compatible;6,65;;;6
+WI-Y50-CFR-COM;Wiko;Y50;Cámara frontal;Compatible;4,65;;;6
+WI-Y50-LEN-COM;Wiko;Y50;Lente de cámara;Compatible;2,25;;;6
+WI-Y50-ALT-COM;Wiko;Y50;Altavoz;Compatible;3,59;;;6
+WI-Y50-AUR-COM;Wiko;Y50;Auricular de llamada;Compatible;2,69;;;6
+WI-Y50-FLX-COM;Wiko;Y50;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-Y50-SIM-COM;Wiko;Y50;Bandeja SIM;Compatible;2,65;;;6
+WI-Y70-PAN-COM;Wiko;Y70;Pantalla;Compatible;13,00;12,61;12,22;6
+WI-Y70-BAT-COM;Wiko;Y70;Batería;Compatible;8,90;;;6
+WI-Y70-CON-COM;Wiko;Y70;Conector de carga;Compatible;3,70;;;6
+WI-Y70-TAP-COM-AZU;Wiko;Y70;Tapa trasera;Azul oscuro (Gradient Dark Blue);4,80;;;6
+WI-Y70-TAP-COM-DOR;Wiko;Y70;Tapa trasera;Dorado;4,80;;;6
+WI-Y70-CTR-COM;Wiko;Y70;Cámara trasera;Compatible;6,65;;;6
+WI-Y70-CFR-COM;Wiko;Y70;Cámara frontal;Compatible;4,65;;;6
+WI-Y70-LEN-COM;Wiko;Y70;Lente de cámara;Compatible;2,25;;;6
+WI-Y70-ALT-COM;Wiko;Y70;Altavoz;Compatible;3,59;;;6
+WI-Y70-AUR-COM;Wiko;Y70;Auricular de llamada;Compatible;2,69;;;6
+WI-Y70-FLX-COM;Wiko;Y70;Flex de encendido y volumen;Compatible;2,55;;;6
+WI-Y70-SIM-COM;Wiko;Y70;Bandeja SIM;Compatible;2,65;;;6
+WI-V4-PAN-COM;Wiko;View 4;Pantalla;Compatible;13,80;13,39;12,97;6
+WI-V4-BAT-COM;Wiko;View 4;Batería;Compatible;7,60;;;6
+WI-V4-CON-COM;Wiko;View 4;Conector de carga;Compatible;3,55;;;6
+WI-V4-TAP-COM-AZU;Wiko;View 4;Tapa trasera;Azul (Cosmic Blue);4,95;;;6
+WI-V4-TAP-COM-DOR;Wiko;View 4;Tapa trasera;Dorado (Cosmic Gold);4,95;;;6
+WI-V4-TAP-COM-VER;Wiko;View 4;Tapa trasera;Verde (Cosmic Green);4,95;;;6
+WI-V4-CTR-COM;Wiko;View 4;Cámara trasera;Compatible;5,45;;;6
+WI-V4-CFR-COM;Wiko;View 4;Cámara frontal;Compatible;3,45;;;6
+WI-V4-LEN-COM;Wiko;View 4;Lente de cámara;Compatible;2,25;;;6
+WI-V4-ALT-COM;Wiko;View 4;Altavoz;Compatible;3,29;;;6
+WI-V4-AUR-COM;Wiko;View 4;Auricular de llamada;Compatible;2,45;;;6
+WI-V4-FLX-COM;Wiko;View 4;Flex de encendido y volumen;Compatible;2,35;;;6
+WI-V4-SIM-COM;Wiko;View 4;Bandeja SIM;Compatible;2,75;;;6
+WI-V4L-PAN-COM;Wiko;View 4 Lite;Pantalla;Compatible;13,80;13,39;12,97;6
+WI-V4L-BAT-COM;Wiko;View 4 Lite;Batería;Compatible;7,60;;;6
+WI-V4L-CON-COM;Wiko;View 4 Lite;Conector de carga;Compatible;3,55;;;6
+WI-V4L-TAP-COM-AZU;Wiko;View 4 Lite;Tapa trasera;Azul intenso;4,95;;;6
+WI-V4L-TAP-COM-DOR;Wiko;View 4 Lite;Tapa trasera;Dorado (Deep Gold);4,95;;;6
+WI-V4L-TAP-COM-VER;Wiko;View 4 Lite;Tapa trasera;Verde intenso;4,95;;;6
+WI-V4L-CTR-COM;Wiko;View 4 Lite;Cámara trasera;Compatible;5,45;;;6
+WI-V4L-CFR-COM;Wiko;View 4 Lite;Cámara frontal;Compatible;3,45;;;6
+WI-V4L-LEN-COM;Wiko;View 4 Lite;Lente de cámara;Compatible;2,25;;;6
+WI-V4L-ALT-COM;Wiko;View 4 Lite;Altavoz;Compatible;3,29;;;6
+WI-V4L-AUR-COM;Wiko;View 4 Lite;Auricular de llamada;Compatible;2,45;;;6
+WI-V4L-FLX-COM;Wiko;View 4 Lite;Flex de encendido y volumen;Compatible;2,35;;;6
+WI-V4L-SIM-COM;Wiko;View 4 Lite;Bandeja SIM;Compatible;2,75;;;6
+WI-V5-PAN-COM;Wiko;View 5;Pantalla;Compatible;13,80;13,39;12,97;6
+WI-V5-BAT-COM;Wiko;View 5;Batería;Compatible;7,60;;;6
+WI-V5-CON-COM;Wiko;View 5;Conector de carga;Compatible;3,55;;;6
+WI-V5-TAP-COM-AZU;Wiko;View 5;Tapa trasera;Azul (Midnight Blue);4,95;;;6
+WI-V5-CTR-COM;Wiko;View 5;Cámara trasera;Compatible;5,45;;;6
+WI-V5-CFR-COM;Wiko;View 5;Cámara frontal;Compatible;3,45;;;6
+WI-V5-LEN-COM;Wiko;View 5;Lente de cámara;Compatible;2,25;;;6
+WI-V5-ALT-COM;Wiko;View 5;Altavoz;Compatible;3,29;;;6
+WI-V5-AUR-COM;Wiko;View 5;Auricular de llamada;Compatible;2,45;;;6
+WI-V5-FLX-COM;Wiko;View 5;Flex de encendido y volumen;Compatible;2,35;;;6
+WI-V5-SIM-COM;Wiko;View 5;Bandeja SIM;Compatible;2,75;;;6
+WI-V5PL-PAN-COM;Wiko;View 5 Plus;Pantalla;Compatible;13,80;13,39;12,97;6
+WI-V5PL-BAT-COM;Wiko;View 5 Plus;Batería;Compatible;7,60;;;6
+WI-V5PL-CON-COM;Wiko;View 5 Plus;Conector de carga;Compatible;3,55;;;6
+WI-V5PL-TAP-COM-AZU;Wiko;View 5 Plus;Tapa trasera;Azul (Aurora Blue);4,95;;;6
+WI-V5PL-TAP-COM-PLA;Wiko;View 5 Plus;Tapa trasera;Plata (Iceland Silver);4,95;;;6
+WI-V5PL-CTR-COM;Wiko;View 5 Plus;Cámara trasera;Compatible;5,45;;;6
+WI-V5PL-CFR-COM;Wiko;View 5 Plus;Cámara frontal;Compatible;3,45;;;6
+WI-V5PL-LEN-COM;Wiko;View 5 Plus;Lente de cámara;Compatible;2,25;;;6
+WI-V5PL-ALT-COM;Wiko;View 5 Plus;Altavoz;Compatible;3,29;;;6
+WI-V5PL-AUR-COM;Wiko;View 5 Plus;Auricular de llamada;Compatible;2,45;;;6
+WI-V5PL-FLX-COM;Wiko;View 5 Plus;Flex de encendido y volumen;Compatible;2,35;;;6
+WI-V5PL-SIM-COM;Wiko;View 5 Plus;Bandeja SIM;Compatible;2,75;;;6
+WI-Y61-PAN-COM;Wiko;Y61;Pantalla;Compatible;13,80;13,39;12,97;6
+WI-Y61-BAT-COM;Wiko;Y61;Batería;Compatible;7,60;;;6
+WI-Y61-CON-COM;Wiko;Y61;Conector de carga;Compatible;3,55;;;6
+WI-Y61-TAP-COM-GRI;Wiko;Y61;Tapa trasera;Gris (Deep Grey);4,95;;;6
+WI-Y61-TAP-COM-VER;Wiko;Y61;Tapa trasera;Verde intenso;4,95;;;6
+WI-Y61-TAP-COM-DOR;Wiko;Y61;Tapa trasera;Dorado;4,95;;;6
+WI-Y61-CTR-COM;Wiko;Y61;Cámara trasera;Compatible;5,45;;;6
+WI-Y61-CFR-COM;Wiko;Y61;Cámara frontal;Compatible;3,45;;;6
+WI-Y61-LEN-COM;Wiko;Y61;Lente de cámara;Compatible;2,25;;;6
+WI-Y61-ALT-COM;Wiko;Y61;Altavoz;Compatible;3,29;;;6
+WI-Y61-AUR-COM;Wiko;Y61;Auricular de llamada;Compatible;2,45;;;6
+WI-Y61-FLX-COM;Wiko;Y61;Flex de encendido y volumen;Compatible;2,35;;;6
+WI-Y61-SIM-COM;Wiko;Y61;Bandeja SIM;Compatible;2,75;;;6
+WI-Y81-PAN-COM;Wiko;Y81;Pantalla;Compatible;13,80;13,39;12,97;6
+WI-Y81-BAT-COM;Wiko;Y81;Batería;Compatible;7,60;;;6
+WI-Y81-CON-COM;Wiko;Y81;Conector de carga;Compatible;3,55;;;6
+WI-Y81-TAP-COM-AZU;Wiko;Y81;Tapa trasera;Azul intenso;4,95;;;6
+WI-Y81-CTR-COM;Wiko;Y81;Cámara trasera;Compatible;5,45;;;6
+WI-Y81-CFR-COM;Wiko;Y81;Cámara frontal;Compatible;3,45;;;6
+WI-Y81-LEN-COM;Wiko;Y81;Lente de cámara;Compatible;2,25;;;6
+WI-Y81-ALT-COM;Wiko;Y81;Altavoz;Compatible;3,29;;;6
+WI-Y81-AUR-COM;Wiko;Y81;Auricular de llamada;Compatible;2,45;;;6
+WI-Y81-FLX-COM;Wiko;Y81;Flex de encendido y volumen;Compatible;2,35;;;6
+WI-Y81-SIM-COM;Wiko;Y81;Bandeja SIM;Compatible;2,75;;;6
+WI-Y51-PAN-COM;Wiko;Y51;Pantalla;Compatible;13,80;13,39;12,97;6
+WI-Y51-BAT-COM;Wiko;Y51;Batería;Compatible;7,60;;;6
+WI-Y51-CON-COM;Wiko;Y51;Conector de carga;Compatible;3,55;;;6
+WI-Y51-TAP-COM-GRI;Wiko;Y51;Tapa trasera;Gris (Deep grey);4,95;;;6
+WI-Y51-TAP-COM-MEN;Wiko;Y51;Tapa trasera;Menta;4,95;;;6
+WI-Y51-CTR-COM;Wiko;Y51;Cámara trasera;Compatible;5,45;;;6
+WI-Y51-CFR-COM;Wiko;Y51;Cámara frontal;Compatible;3,45;;;6
+WI-Y51-LEN-COM;Wiko;Y51;Lente de cámara;Compatible;2,25;;;6
+WI-Y51-ALT-COM;Wiko;Y51;Altavoz;Compatible;3,29;;;6
+WI-Y51-AUR-COM;Wiko;Y51;Auricular de llamada;Compatible;2,45;;;6
+WI-Y51-FLX-COM;Wiko;Y51;Flex de encendido y volumen;Compatible;2,35;;;6
+WI-Y51-SIM-COM;Wiko;Y51;Bandeja SIM;Compatible;2,75;;;6
+WI-Y62-PAN-COM;Wiko;Y62;Pantalla;Compatible;13,80;13,39;12,97;6
+WI-Y62-BAT-COM;Wiko;Y62;Batería;Compatible;7,60;;;6
+WI-Y62-CON-COM;Wiko;Y62;Conector de carga;Compatible;3,55;;;6
+WI-Y62-TAP-COM-AZU;Wiko;Y62;Tapa trasera;Azul oscuro;4,95;;;6
+WI-Y62-TAP-COM-MEN;Wiko;Y62;Tapa trasera;Menta;4,95;;;6
+WI-Y62-CTR-COM;Wiko;Y62;Cámara trasera;Compatible;5,45;;;6
+WI-Y62-CFR-COM;Wiko;Y62;Cámara frontal;Compatible;3,45;;;6
+WI-Y62-LEN-COM;Wiko;Y62;Lente de cámara;Compatible;2,25;;;6
+WI-Y62-ALT-COM;Wiko;Y62;Altavoz;Compatible;3,29;;;6
+WI-Y62-AUR-COM;Wiko;Y62;Auricular de llamada;Compatible;2,45;;;6
+WI-Y62-FLX-COM;Wiko;Y62;Flex de encendido y volumen;Compatible;2,35;;;6
+WI-Y62-SIM-COM;Wiko;Y62;Bandeja SIM;Compatible;2,75;;;6
+WI-PWU10-PAN-COM;Wiko;Power U10;Pantalla;Compatible;13,80;13,39;12,97;6
+WI-PWU10-BAT-COM;Wiko;Power U10;Batería;Compatible;7,60;;;6
+WI-PWU10-CON-COM;Wiko;Power U10;Conector de carga;Compatible;3,55;;;6
+WI-PWU10-TAP-COM-AZU;Wiko;Power U10;Tapa trasera;Azul (Carbone Blue);4,95;;;6
+WI-PWU10-TAP-COM-TUR;Wiko;Power U10;Tapa trasera;Turquesa;4,95;;;6
+WI-PWU10-CTR-COM;Wiko;Power U10;Cámara trasera;Compatible;5,45;;;6
+WI-PWU10-CFR-COM;Wiko;Power U10;Cámara frontal;Compatible;3,45;;;6
+WI-PWU10-LEN-COM;Wiko;Power U10;Lente de cámara;Compatible;2,25;;;6
+WI-PWU10-ALT-COM;Wiko;Power U10;Altavoz;Compatible;3,29;;;6
+WI-PWU10-AUR-COM;Wiko;Power U10;Auricular de llamada;Compatible;2,45;;;6
+WI-PWU10-FLX-COM;Wiko;Power U10;Flex de encendido y volumen;Compatible;2,35;;;6
+WI-PWU10-SIM-COM;Wiko;Power U10;Bandeja SIM;Compatible;2,75;;;6
+WI-PWU20-PAN-COM;Wiko;Power U20;Pantalla;Compatible;13,80;13,39;12,97;6
+WI-PWU20-BAT-COM;Wiko;Power U20;Batería;Compatible;7,60;;;6
+WI-PWU20-CON-COM;Wiko;Power U20;Conector de carga;Compatible;3,55;;;6
+WI-PWU20-TAP-COM-GRI;Wiko;Power U20;Tapa trasera;Gris (Slate Grey);4,95;;;6
+WI-PWU20-TAP-COM-AZU;Wiko;Power U20;Tapa trasera;Azul marino;4,95;;;6
+WI-PWU20-CTR-COM;Wiko;Power U20;Cámara trasera;Compatible;5,45;;;6
+WI-PWU20-CFR-COM;Wiko;Power U20;Cámara frontal;Compatible;3,45;;;6
+WI-PWU20-LEN-COM;Wiko;Power U20;Lente de cámara;Compatible;2,25;;;6
+WI-PWU20-ALT-COM;Wiko;Power U20;Altavoz;Compatible;3,29;;;6
+WI-PWU20-AUR-COM;Wiko;Power U20;Auricular de llamada;Compatible;2,45;;;6
+WI-PWU20-FLX-COM;Wiko;Power U20;Flex de encendido y volumen;Compatible;2,35;;;6
+WI-PWU20-SIM-COM;Wiko;Power U20;Bandeja SIM;Compatible;2,75;;;6
+WI-PWU30-PAN-COM;Wiko;Power U30;Pantalla;Compatible;13,80;13,39;12,97;6
+WI-PWU30-BAT-COM;Wiko;Power U30;Batería;Compatible;7,60;;;6
+WI-PWU30-CON-COM;Wiko;Power U30;Conector de carga;Compatible;3,55;;;6
+WI-PWU30-TAP-COM-AZU;Wiko;Power U30;Tapa trasera;Azul (Carbone Blue);4,95;;;6
+WI-PWU30-TAP-COM-MEN;Wiko;Power U30;Tapa trasera;Menta;4,95;;;6
+WI-PWU30-CTR-COM;Wiko;Power U30;Cámara trasera;Compatible;5,45;;;6
+WI-PWU30-CFR-COM;Wiko;Power U30;Cámara frontal;Compatible;3,45;;;6
+WI-PWU30-LEN-COM;Wiko;Power U30;Lente de cámara;Compatible;2,25;;;6
+WI-PWU30-ALT-COM;Wiko;Power U30;Altavoz;Compatible;3,29;;;6
+WI-PWU30-AUR-COM;Wiko;Power U30;Auricular de llamada;Compatible;2,45;;;6
+WI-PWU30-FLX-COM;Wiko;Power U30;Flex de encendido y volumen;Compatible;2,35;;;6
+WI-PWU30-SIM-COM;Wiko;Power U30;Bandeja SIM;Compatible;2,75;;;6
+WI-Y52-PAN-COM;Wiko;Y52;Pantalla;Compatible;13,80;13,39;12,97;6
+WI-Y52-BAT-COM;Wiko;Y52;Batería;Compatible;7,60;;;6
+WI-Y52-CON-COM;Wiko;Y52;Conector de carga;Compatible;3,55;;;6
+WI-Y52-TAP-COM-GRI;Wiko;Y52;Tapa trasera;Gris;4,95;;;6
+WI-Y52-TAP-COM-VER;Wiko;Y52;Tapa trasera;Verde;4,95;;;6
+WI-Y52-CTR-COM;Wiko;Y52;Cámara trasera;Compatible;5,45;;;6
+WI-Y52-CFR-COM;Wiko;Y52;Cámara frontal;Compatible;3,45;;;6
+WI-Y52-LEN-COM;Wiko;Y52;Lente de cámara;Compatible;2,25;;;6
+WI-Y52-ALT-COM;Wiko;Y52;Altavoz;Compatible;3,29;;;6
+WI-Y52-AUR-COM;Wiko;Y52;Auricular de llamada;Compatible;2,45;;;6
+WI-Y52-FLX-COM;Wiko;Y52;Flex de encendido y volumen;Compatible;2,35;;;6
+WI-Y52-SIM-COM;Wiko;Y52;Bandeja SIM;Compatible;2,75;;;6
+WI-10-PRO-NA;Wiko;10;Cristal templado;Estándar;1,30;;;
+WI-10-PRO-PRI;Wiko;10;Cristal templado;Privacidad;4,00;;;
+WI-10-FUN-SIL;Wiko;10;Funda;Silicona;2,50;;;
+WI-10-FUN-TPU;Wiko;10;Funda;Transparente;2,95;;;
+WI-10-FUN-LIB;Wiko;10;Funda;Libro;3,70;;;
+WI-10-FUN-ANT;Wiko;10;Funda;Antigolpes;3,10;;;
+WI-F-PRO-NA;Wiko;Freddy;Cristal templado;Estándar;1,30;;;
+WI-F-PRO-PRI;Wiko;Freddy;Cristal templado;Privacidad;4,00;;;
+WI-F-FUN-SIL;Wiko;Freddy;Funda;Silicona;2,50;;;
+WI-F-FUN-TPU;Wiko;Freddy;Funda;Transparente;2,95;;;
+WI-F-FUN-LIB;Wiko;Freddy;Funda;Libro;3,70;;;
+WI-F-FUN-ANT;Wiko;Freddy;Funda;Antigolpes;3,10;;;
+WI-H-PRO-NA;Wiko;Harry;Cristal templado;Estándar;1,30;;;
+WI-H-PRO-PRI;Wiko;Harry;Cristal templado;Privacidad;4,00;;;
+WI-H-FUN-SIL;Wiko;Harry;Funda;Silicona;2,50;;;
+WI-H-FUN-TPU;Wiko;Harry;Funda;Transparente;2,95;;;
+WI-H-FUN-LIB;Wiko;Harry;Funda;Libro;3,70;;;
+WI-H-FUN-ANT;Wiko;Harry;Funda;Antigolpes;3,10;;;
+WI-J-PRO-NA;Wiko;Jerry;Cristal templado;Estándar;1,30;;;
+WI-J-PRO-PRI;Wiko;Jerry;Cristal templado;Privacidad;4,00;;;
+WI-J-FUN-SIL;Wiko;Jerry;Funda;Silicona;2,50;;;
+WI-J-FUN-TPU;Wiko;Jerry;Funda;Transparente;2,95;;;
+WI-J-FUN-LIB;Wiko;Jerry;Funda;Libro;3,70;;;
+WI-J-FUN-ANT;Wiko;Jerry;Funda;Antigolpes;3,10;;;
+WI-J2-PRO-NA;Wiko;Jerry 2;Cristal templado;Estándar;1,30;;;
+WI-J2-PRO-PRI;Wiko;Jerry 2;Cristal templado;Privacidad;4,00;;;
+WI-J2-FUN-SIL;Wiko;Jerry 2;Funda;Silicona;2,50;;;
+WI-J2-FUN-TPU;Wiko;Jerry 2;Funda;Transparente;2,95;;;
+WI-J2-FUN-LIB;Wiko;Jerry 2;Funda;Libro;3,70;;;
+WI-J2-FUN-ANT;Wiko;Jerry 2;Funda;Antigolpes;3,10;;;
+WI-K-PRO-NA;Wiko;Kenny;Cristal templado;Estándar;1,30;;;
+WI-K-PRO-PRI;Wiko;Kenny;Cristal templado;Privacidad;4,00;;;
+WI-K-FUN-SIL;Wiko;Kenny;Funda;Silicona;2,50;;;
+WI-K-FUN-TPU;Wiko;Kenny;Funda;Transparente;2,95;;;
+WI-K-FUN-LIB;Wiko;Kenny;Funda;Libro;3,70;;;
+WI-K-FUN-ANT;Wiko;Kenny;Funda;Antigolpes;3,10;;;
+WI-L4PL-PRO-NA;Wiko;Lenny 4 Plus;Cristal templado;Estándar;1,30;;;
+WI-L4PL-PRO-PRI;Wiko;Lenny 4 Plus;Cristal templado;Privacidad;4,00;;;
+WI-L4PL-FUN-SIL;Wiko;Lenny 4 Plus;Funda;Silicona;2,50;;;
+WI-L4PL-FUN-TPU;Wiko;Lenny 4 Plus;Funda;Transparente;2,95;;;
+WI-L4PL-FUN-LIB;Wiko;Lenny 4 Plus;Funda;Libro;3,70;;;
+WI-L4PL-FUN-ANT;Wiko;Lenny 4 Plus;Funda;Antigolpes;3,10;;;
+WI-S2-PRO-NA;Wiko;Sunny 2;Cristal templado;Estándar;1,30;;;
+WI-S2-PRO-PRI;Wiko;Sunny 2;Cristal templado;Privacidad;4,00;;;
+WI-S2-FUN-SIL;Wiko;Sunny 2;Funda;Silicona;2,50;;;
+WI-S2-FUN-TPU;Wiko;Sunny 2;Funda;Transparente;2,95;;;
+WI-S2-FUN-LIB;Wiko;Sunny 2;Funda;Libro;3,70;;;
+WI-S2-FUN-ANT;Wiko;Sunny 2;Funda;Antigolpes;3,10;;;
+WI-S2PL-PRO-NA;Wiko;Sunny 2 Plus;Cristal templado;Estándar;1,30;;;
+WI-S2PL-PRO-PRI;Wiko;Sunny 2 Plus;Cristal templado;Privacidad;4,00;;;
+WI-S2PL-FUN-SIL;Wiko;Sunny 2 Plus;Funda;Silicona;2,50;;;
+WI-S2PL-FUN-TPU;Wiko;Sunny 2 Plus;Funda;Transparente;2,95;;;
+WI-S2PL-FUN-LIB;Wiko;Sunny 2 Plus;Funda;Libro;3,70;;;
+WI-S2PL-FUN-ANT;Wiko;Sunny 2 Plus;Funda;Antigolpes;3,10;;;
+WI-T10-PRO-NA;Wiko;T10;Cristal templado;Estándar;1,30;;;
+WI-T10-PRO-PRI;Wiko;T10;Cristal templado;Privacidad;4,00;;;
+WI-T10-FUN-SIL;Wiko;T10;Funda;Silicona;2,50;;;
+WI-T10-FUN-TPU;Wiko;T10;Funda;Transparente;2,95;;;
+WI-T10-FUN-LIB;Wiko;T10;Funda;Libro;3,70;;;
+WI-T10-FUN-ANT;Wiko;T10;Funda;Antigolpes;3,10;;;
+WI-T3-PRO-NA;Wiko;T3;Cristal templado;Estándar;1,30;;;
+WI-T3-PRO-PRI;Wiko;T3;Cristal templado;Privacidad;4,00;;;
+WI-T3-FUN-SIL;Wiko;T3;Funda;Silicona;2,50;;;
+WI-T3-FUN-TPU;Wiko;T3;Funda;Transparente;2,95;;;
+WI-T3-FUN-LIB;Wiko;T3;Funda;Libro;3,70;;;
+WI-T3-FUN-ANT;Wiko;T3;Funda;Antigolpes;3,10;;;
+WI-T60-PRO-NA;Wiko;T60;Cristal templado;Estándar;1,30;;;
+WI-T60-PRO-PRI;Wiko;T60;Cristal templado;Privacidad;4,00;;;
+WI-T60-FUN-SIL;Wiko;T60;Funda;Silicona;2,50;;;
+WI-T60-FUN-TPU;Wiko;T60;Funda;Transparente;2,95;;;
+WI-T60-FUN-LIB;Wiko;T60;Funda;Libro;3,70;;;
+WI-T60-FUN-ANT;Wiko;T60;Funda;Antigolpes;3,10;;;
+WI-T2-PRO-NA;Wiko;Tommy 2;Cristal templado;Estándar;1,30;;;
+WI-T2-PRO-PRI;Wiko;Tommy 2;Cristal templado;Privacidad;4,00;;;
+WI-T2-FUN-SIL;Wiko;Tommy 2;Funda;Silicona;2,50;;;
+WI-T2-FUN-TPU;Wiko;Tommy 2;Funda;Transparente;2,95;;;
+WI-T2-FUN-LIB;Wiko;Tommy 2;Funda;Libro;3,70;;;
+WI-T2-FUN-ANT;Wiko;Tommy 2;Funda;Antigolpes;3,10;;;
+WI-UFGO-PRO-NA;Wiko;U Feel Go;Cristal templado;Estándar;1,30;;;
+WI-UFGO-PRO-PRI;Wiko;U Feel Go;Cristal templado;Privacidad;4,00;;;
+WI-UFGO-FUN-SIL;Wiko;U Feel Go;Funda;Silicona;2,50;;;
+WI-UFGO-FUN-TPU;Wiko;U Feel Go;Funda;Transparente;2,95;;;
+WI-UFGO-FUN-LIB;Wiko;U Feel Go;Funda;Libro;3,70;;;
+WI-UFGO-FUN-ANT;Wiko;U Feel Go;Funda;Antigolpes;3,10;;;
+WI-UFL-PRO-NA;Wiko;U Feel Lite;Cristal templado;Estándar;1,30;;;
+WI-UFL-PRO-PRI;Wiko;U Feel Lite;Cristal templado;Privacidad;4,00;;;
+WI-UFL-FUN-SIL;Wiko;U Feel Lite;Funda;Silicona;2,50;;;
+WI-UFL-FUN-TPU;Wiko;U Feel Lite;Funda;Transparente;2,95;;;
+WI-UFL-FUN-LIB;Wiko;U Feel Lite;Funda;Libro;3,70;;;
+WI-UFL-FUN-ANT;Wiko;U Feel Lite;Funda;Antigolpes;3,10;;;
+WI-UFP-PRO-NA;Wiko;U Feel Prime;Cristal templado;Estándar;1,30;;;
+WI-UFP-PRO-PRI;Wiko;U Feel Prime;Cristal templado;Privacidad;4,00;;;
+WI-UFP-FUN-SIL;Wiko;U Feel Prime;Funda;Silicona;2,50;;;
+WI-UFP-FUN-TPU;Wiko;U Feel Prime;Funda;Transparente;2,95;;;
+WI-UFP-FUN-LIB;Wiko;U Feel Prime;Funda;Libro;3,70;;;
+WI-UFP-FUN-ANT;Wiko;U Feel Prime;Funda;Antigolpes;3,10;;;
+WI-UPL-PRO-NA;Wiko;U Pulse Lite;Cristal templado;Estándar;1,30;;;
+WI-UPL-PRO-PRI;Wiko;U Pulse Lite;Cristal templado;Privacidad;4,00;;;
+WI-UPL-FUN-SIL;Wiko;U Pulse Lite;Funda;Silicona;2,50;;;
+WI-UPL-FUN-TPU;Wiko;U Pulse Lite;Funda;Transparente;2,95;;;
+WI-UPL-FUN-LIB;Wiko;U Pulse Lite;Funda;Libro;3,70;;;
+WI-UPL-FUN-ANT;Wiko;U Pulse Lite;Funda;Antigolpes;3,10;;;
+WI-VP-PRO-NA;Wiko;View Prime;Cristal templado;Estándar;1,30;;;
+WI-VP-PRO-PRI;Wiko;View Prime;Cristal templado;Privacidad;4,00;;;
+WI-VP-FUN-SIL;Wiko;View Prime;Funda;Silicona;2,50;;;
+WI-VP-FUN-TPU;Wiko;View Prime;Funda;Transparente;2,95;;;
+WI-VP-FUN-LIB;Wiko;View Prime;Funda;Libro;3,70;;;
+WI-VP-FUN-ANT;Wiko;View Prime;Funda;Antigolpes;3,10;;;
+WI-WIML-PRO-NA;Wiko;WIM Lite;Cristal templado;Estándar;1,30;;;
+WI-WIML-PRO-PRI;Wiko;WIM Lite;Cristal templado;Privacidad;4,00;;;
+WI-WIML-FUN-SIL;Wiko;WIM Lite;Funda;Silicona;2,50;;;
+WI-WIML-FUN-TPU;Wiko;WIM Lite;Funda;Transparente;2,95;;;
+WI-WIML-FUN-LIB;Wiko;WIM Lite;Funda;Libro;3,70;;;
+WI-WIML-FUN-ANT;Wiko;WIM Lite;Funda;Antigolpes;3,10;;;
+WI-Y62PL-PRO-NA;Wiko;Y62 Plus;Cristal templado;Estándar;1,30;;;
+WI-Y62PL-PRO-PRI;Wiko;Y62 Plus;Cristal templado;Privacidad;4,00;;;
+WI-Y62PL-FUN-SIL;Wiko;Y62 Plus;Funda;Silicona;2,50;;;
+WI-Y62PL-FUN-TPU;Wiko;Y62 Plus;Funda;Transparente;2,95;;;
+WI-Y62PL-FUN-LIB;Wiko;Y62 Plus;Funda;Libro;3,70;;;
+WI-Y62PL-FUN-ANT;Wiko;Y62 Plus;Funda;Antigolpes;3,10;;;
+WI-Y82-PRO-NA;Wiko;Y82;Cristal templado;Estándar;1,30;;;
+WI-Y82-PRO-PRI;Wiko;Y82;Cristal templado;Privacidad;4,00;;;
+WI-Y82-FUN-SIL;Wiko;Y82;Funda;Silicona;2,50;;;
+WI-Y82-FUN-TPU;Wiko;Y82;Funda;Transparente;2,95;;;
+WI-Y82-FUN-LIB;Wiko;Y82;Funda;Libro;3,70;;;
+WI-Y82-FUN-ANT;Wiko;Y82;Funda;Antigolpes;3,10;;;
+WI-L3-PRO-NA;Wiko;Lenny 3;Cristal templado;Estándar;1,30;;;
+WI-L3-PRO-PRI;Wiko;Lenny 3;Cristal templado;Privacidad;4,00;;;
+WI-L3-FUN-SIL;Wiko;Lenny 3;Funda;Silicona;2,50;;;
+WI-L3-FUN-TPU;Wiko;Lenny 3;Funda;Transparente;2,95;;;
+WI-L3-FUN-LIB;Wiko;Lenny 3;Funda;Libro;3,70;;;
+WI-L3-FUN-ANT;Wiko;Lenny 3;Funda;Antigolpes;3,10;;;
+WI-R-PRO-NA;Wiko;Robby;Cristal templado;Estándar;1,30;;;
+WI-R-PRO-PRI;Wiko;Robby;Cristal templado;Privacidad;4,00;;;
+WI-R-FUN-SIL;Wiko;Robby;Funda;Silicona;2,50;;;
+WI-R-FUN-TPU;Wiko;Robby;Funda;Transparente;2,95;;;
+WI-R-FUN-LIB;Wiko;Robby;Funda;Libro;3,70;;;
+WI-R-FUN-ANT;Wiko;Robby;Funda;Antigolpes;3,10;;;
+WI-S-PRO-NA;Wiko;Sunny;Cristal templado;Estándar;1,30;;;
+WI-S-PRO-PRI;Wiko;Sunny;Cristal templado;Privacidad;4,00;;;
+WI-S-FUN-SIL;Wiko;Sunny;Funda;Silicona;2,50;;;
+WI-S-FUN-TPU;Wiko;Sunny;Funda;Transparente;2,95;;;
+WI-S-FUN-LIB;Wiko;Sunny;Funda;Libro;3,70;;;
+WI-S-FUN-ANT;Wiko;Sunny;Funda;Antigolpes;3,10;;;
+WI-T-PRO-NA;Wiko;Tommy;Cristal templado;Estándar;1,30;;;
+WI-T-PRO-PRI;Wiko;Tommy;Cristal templado;Privacidad;4,00;;;
+WI-T-FUN-SIL;Wiko;Tommy;Funda;Silicona;2,50;;;
+WI-T-FUN-TPU;Wiko;Tommy;Funda;Transparente;2,95;;;
+WI-T-FUN-LIB;Wiko;Tommy;Funda;Libro;3,70;;;
+WI-T-FUN-ANT;Wiko;Tommy;Funda;Antigolpes;3,10;;;
+WI-UF-PRO-NA;Wiko;U Feel;Cristal templado;Estándar;1,30;;;
+WI-UF-PRO-PRI;Wiko;U Feel;Cristal templado;Privacidad;4,00;;;
+WI-UF-FUN-SIL;Wiko;U Feel;Funda;Silicona;2,50;;;
+WI-UF-FUN-TPU;Wiko;U Feel;Funda;Transparente;2,95;;;
+WI-UF-FUN-LIB;Wiko;U Feel;Funda;Libro;3,70;;;
+WI-UF-FUN-ANT;Wiko;U Feel;Funda;Antigolpes;3,10;;;
+WI-P4-PRO-NA;Wiko;Pulp 4G;Cristal templado;Estándar;1,30;;;
+WI-P4-PRO-PRI;Wiko;Pulp 4G;Cristal templado;Privacidad;4,00;;;
+WI-P4-FUN-SIL;Wiko;Pulp 4G;Funda;Silicona;2,50;;;
+WI-P4-FUN-TPU;Wiko;Pulp 4G;Funda;Transparente;2,95;;;
+WI-P4-FUN-LIB;Wiko;Pulp 4G;Funda;Libro;3,70;;;
+WI-P4-FUN-ANT;Wiko;Pulp 4G;Funda;Antigolpes;3,10;;;
+WI-JM-PRO-NA;Wiko;Jerry Max;Cristal templado;Estándar;1,30;;;
+WI-JM-PRO-PRI;Wiko;Jerry Max;Cristal templado;Privacidad;4,00;;;
+WI-JM-FUN-SIL;Wiko;Jerry Max;Funda;Silicona;2,50;;;
+WI-JM-FUN-TPU;Wiko;Jerry Max;Funda;Transparente;2,95;;;
+WI-JM-FUN-LIB;Wiko;Jerry Max;Funda;Libro;3,70;;;
+WI-JM-FUN-ANT;Wiko;Jerry Max;Funda;Antigolpes;3,10;;;
+WI-L3M-PRO-NA;Wiko;Lenny 3 Max;Cristal templado;Estándar;1,30;;;
+WI-L3M-PRO-PRI;Wiko;Lenny 3 Max;Cristal templado;Privacidad;4,00;;;
+WI-L3M-FUN-SIL;Wiko;Lenny 3 Max;Funda;Silicona;2,50;;;
+WI-L3M-FUN-TPU;Wiko;Lenny 3 Max;Funda;Transparente;2,95;;;
+WI-L3M-FUN-LIB;Wiko;Lenny 3 Max;Funda;Libro;3,70;;;
+WI-L3M-FUN-ANT;Wiko;Lenny 3 Max;Funda;Antigolpes;3,10;;;
+WI-SM-PRO-NA;Wiko;Sunny Max;Cristal templado;Estándar;1,30;;;
+WI-SM-PRO-PRI;Wiko;Sunny Max;Cristal templado;Privacidad;4,00;;;
+WI-SM-FUN-SIL;Wiko;Sunny Max;Funda;Silicona;2,50;;;
+WI-SM-FUN-TPU;Wiko;Sunny Max;Funda;Transparente;2,95;;;
+WI-SM-FUN-LIB;Wiko;Sunny Max;Funda;Libro;3,70;;;
+WI-SM-FUN-ANT;Wiko;Sunny Max;Funda;Antigolpes;3,10;;;
+WI-UP-PRO-NA;Wiko;U Pulse;Cristal templado;Estándar;1,30;;;
+WI-UP-PRO-PRI;Wiko;U Pulse;Cristal templado;Privacidad;4,00;;;
+WI-UP-FUN-SIL;Wiko;U Pulse;Funda;Silicona;2,50;;;
+WI-UP-FUN-TPU;Wiko;U Pulse;Funda;Transparente;2,95;;;
+WI-UP-FUN-LIB;Wiko;U Pulse;Funda;Libro;3,70;;;
+WI-UP-FUN-ANT;Wiko;U Pulse;Funda;Antigolpes;3,10;;;
+WI-WIM-PRO-NA;Wiko;WIM;Cristal templado;Estándar;1,30;;;
+WI-WIM-PRO-PRI;Wiko;WIM;Cristal templado;Privacidad;4,00;;;
+WI-WIM-FUN-SIL;Wiko;WIM;Funda;Silicona;2,50;;;
+WI-WIM-FUN-TPU;Wiko;WIM;Funda;Transparente;2,95;;;
+WI-WIM-FUN-LIB;Wiko;WIM;Funda;Libro;3,70;;;
+WI-WIM-FUN-ANT;Wiko;WIM;Funda;Antigolpes;3,10;;;
+WI-L4-PRO-NA;Wiko;Lenny 4;Cristal templado;Estándar;1,30;;;
+WI-L4-PRO-PRI;Wiko;Lenny 4;Cristal templado;Privacidad;4,00;;;
+WI-L4-FUN-SIL;Wiko;Lenny 4;Funda;Silicona;2,50;;;
+WI-L4-FUN-TPU;Wiko;Lenny 4;Funda;Transparente;2,95;;;
+WI-L4-FUN-LIB;Wiko;Lenny 4;Funda;Libro;3,70;;;
+WI-L4-FUN-ANT;Wiko;Lenny 4;Funda;Antigolpes;3,10;;;
+WI-V-PRO-NA;Wiko;View;Cristal templado;Estándar;1,30;;;
+WI-V-PRO-PRI;Wiko;View;Cristal templado;Privacidad;4,00;;;
+WI-V-FUN-SIL;Wiko;View;Funda;Silicona;2,50;;;
+WI-V-FUN-TPU;Wiko;View;Funda;Transparente;2,95;;;
+WI-V-FUN-LIB;Wiko;View;Funda;Libro;3,70;;;
+WI-V-FUN-ANT;Wiko;View;Funda;Antigolpes;3,10;;;
+WI-VXL-PRO-NA;Wiko;View XL;Cristal templado;Estándar;1,30;;;
+WI-VXL-PRO-PRI;Wiko;View XL;Cristal templado;Privacidad;4,00;;;
+WI-VXL-FUN-SIL;Wiko;View XL;Funda;Silicona;2,50;;;
+WI-VXL-FUN-TPU;Wiko;View XL;Funda;Transparente;2,95;;;
+WI-VXL-FUN-LIB;Wiko;View XL;Funda;Libro;3,70;;;
+WI-VXL-FUN-ANT;Wiko;View XL;Funda;Antigolpes;3,10;;;
+WI-J3-PRO-NA;Wiko;Jerry 3;Cristal templado;Estándar;1,30;;;
+WI-J3-PRO-PRI;Wiko;Jerry 3;Cristal templado;Privacidad;4,00;;;
+WI-J3-FUN-SIL;Wiko;Jerry 3;Funda;Silicona;2,50;;;
+WI-J3-FUN-TPU;Wiko;Jerry 3;Funda;Transparente;2,95;;;
+WI-J3-FUN-LIB;Wiko;Jerry 3;Funda;Libro;3,70;;;
+WI-J3-FUN-ANT;Wiko;Jerry 3;Funda;Antigolpes;3,10;;;
+WI-V2-PRO-NA;Wiko;View 2;Cristal templado;Estándar;1,30;;;
+WI-V2-PRO-PRI;Wiko;View 2;Cristal templado;Privacidad;4,00;;;
+WI-V2-FUN-SIL;Wiko;View 2;Funda;Silicona;2,50;;;
+WI-V2-FUN-TPU;Wiko;View 2;Funda;Transparente;2,95;;;
+WI-V2-FUN-LIB;Wiko;View 2;Funda;Libro;3,70;;;
+WI-V2-FUN-ANT;Wiko;View 2;Funda;Antigolpes;3,10;;;
+WI-V2P-PRO-NA;Wiko;View 2 Pro;Cristal templado;Estándar;1,30;;;
+WI-V2P-PRO-PRI;Wiko;View 2 Pro;Cristal templado;Privacidad;4,00;;;
+WI-V2P-FUN-SIL;Wiko;View 2 Pro;Funda;Silicona;2,50;;;
+WI-V2P-FUN-TPU;Wiko;View 2 Pro;Funda;Transparente;2,95;;;
+WI-V2P-FUN-LIB;Wiko;View 2 Pro;Funda;Libro;3,70;;;
+WI-V2P-FUN-ANT;Wiko;View 2 Pro;Funda;Antigolpes;3,10;;;
+WI-L5-PRO-NA;Wiko;Lenny 5;Cristal templado;Estándar;1,30;;;
+WI-L5-PRO-PRI;Wiko;Lenny 5;Cristal templado;Privacidad;4,00;;;
+WI-L5-FUN-SIL;Wiko;Lenny 5;Funda;Silicona;2,50;;;
+WI-L5-FUN-TPU;Wiko;Lenny 5;Funda;Transparente;2,95;;;
+WI-L5-FUN-LIB;Wiko;Lenny 5;Funda;Libro;3,70;;;
+WI-L5-FUN-ANT;Wiko;Lenny 5;Funda;Antigolpes;3,10;;;
+WI-TOMMY3-PRO-NA;Wiko;Tommy 3;Cristal templado;Estándar;1,30;;;
+WI-TOMMY3-PRO-PRI;Wiko;Tommy 3;Cristal templado;Privacidad;4,00;;;
+WI-TOMMY3-FUN-SIL;Wiko;Tommy 3;Funda;Silicona;2,50;;;
+WI-TOMMY3-FUN-TPU;Wiko;Tommy 3;Funda;Transparente;2,95;;;
+WI-TOMMY3-FUN-LIB;Wiko;Tommy 3;Funda;Libro;3,70;;;
+WI-TOMMY3-FUN-ANT;Wiko;Tommy 3;Funda;Antigolpes;3,10;;;
+WI-VL-PRO-NA;Wiko;View Lite;Cristal templado;Estándar;1,30;;;
+WI-VL-PRO-PRI;Wiko;View Lite;Cristal templado;Privacidad;4,00;;;
+WI-VL-FUN-SIL;Wiko;View Lite;Funda;Silicona;2,50;;;
+WI-VL-FUN-TPU;Wiko;View Lite;Funda;Transparente;2,95;;;
+WI-VL-FUN-LIB;Wiko;View Lite;Funda;Libro;3,70;;;
+WI-VL-FUN-ANT;Wiko;View Lite;Funda;Antigolpes;3,10;;;
+WI-S3MN-PRO-NA;Wiko;Sunny 3 Mini;Cristal templado;Estándar;1,30;;;
+WI-S3MN-PRO-PRI;Wiko;Sunny 3 Mini;Cristal templado;Privacidad;4,00;;;
+WI-S3MN-FUN-SIL;Wiko;Sunny 3 Mini;Funda;Silicona;2,50;;;
+WI-S3MN-FUN-TPU;Wiko;Sunny 3 Mini;Funda;Transparente;2,95;;;
+WI-S3MN-FUN-LIB;Wiko;Sunny 3 Mini;Funda;Libro;3,70;;;
+WI-S3MN-FUN-ANT;Wiko;Sunny 3 Mini;Funda;Antigolpes;3,10;;;
+WI-H2-PRO-NA;Wiko;Harry 2;Cristal templado;Estándar;1,30;;;
+WI-H2-PRO-PRI;Wiko;Harry 2;Cristal templado;Privacidad;4,00;;;
+WI-H2-FUN-SIL;Wiko;Harry 2;Funda;Silicona;2,50;;;
+WI-H2-FUN-TPU;Wiko;Harry 2;Funda;Transparente;2,95;;;
+WI-H2-FUN-LIB;Wiko;Harry 2;Funda;Libro;3,70;;;
+WI-H2-FUN-ANT;Wiko;Harry 2;Funda;Antigolpes;3,10;;;
+WI-S3-PRO-NA;Wiko;Sunny 3;Cristal templado;Estándar;1,30;;;
+WI-S3-PRO-PRI;Wiko;Sunny 3;Cristal templado;Privacidad;4,00;;;
+WI-S3-FUN-SIL;Wiko;Sunny 3;Funda;Silicona;2,50;;;
+WI-S3-FUN-TPU;Wiko;Sunny 3;Funda;Transparente;2,95;;;
+WI-S3-FUN-LIB;Wiko;Sunny 3;Funda;Libro;3,70;;;
+WI-S3-FUN-ANT;Wiko;Sunny 3;Funda;Antigolpes;3,10;;;
+WI-V2GO-PRO-NA;Wiko;View 2 Go;Cristal templado;Estándar;1,30;;;
+WI-V2GO-PRO-PRI;Wiko;View 2 Go;Cristal templado;Privacidad;4,00;;;
+WI-V2GO-FUN-SIL;Wiko;View 2 Go;Funda;Silicona;2,50;;;
+WI-V2GO-FUN-TPU;Wiko;View 2 Go;Funda;Transparente;2,95;;;
+WI-V2GO-FUN-LIB;Wiko;View 2 Go;Funda;Libro;3,70;;;
+WI-V2GO-FUN-ANT;Wiko;View 2 Go;Funda;Antigolpes;3,10;;;
+WI-V2PL-PRO-NA;Wiko;View 2 Plus;Cristal templado;Estándar;1,30;;;
+WI-V2PL-PRO-PRI;Wiko;View 2 Plus;Cristal templado;Privacidad;4,00;;;
+WI-V2PL-FUN-SIL;Wiko;View 2 Plus;Funda;Silicona;2,50;;;
+WI-V2PL-FUN-TPU;Wiko;View 2 Plus;Funda;Transparente;2,95;;;
+WI-V2PL-FUN-LIB;Wiko;View 2 Plus;Funda;Libro;3,70;;;
+WI-V2PL-FUN-ANT;Wiko;View 2 Plus;Funda;Antigolpes;3,10;;;
+WI-Y60-PRO-NA;Wiko;Y60;Cristal templado;Estándar;1,30;;;
+WI-Y60-PRO-PRI;Wiko;Y60;Cristal templado;Privacidad;4,00;;;
+WI-Y60-FUN-SIL;Wiko;Y60;Funda;Silicona;2,50;;;
+WI-Y60-FUN-TPU;Wiko;Y60;Funda;Transparente;2,95;;;
+WI-Y60-FUN-LIB;Wiko;Y60;Funda;Libro;3,70;;;
+WI-Y60-FUN-ANT;Wiko;Y60;Funda;Antigolpes;3,10;;;
+WI-V3-PRO-NA;Wiko;View 3;Cristal templado;Estándar;1,30;;;
+WI-V3-PRO-PRI;Wiko;View 3;Cristal templado;Privacidad;4,00;;;
+WI-V3-FUN-SIL;Wiko;View 3;Funda;Silicona;2,50;;;
+WI-V3-FUN-TPU;Wiko;View 3;Funda;Transparente;2,95;;;
+WI-V3-FUN-LIB;Wiko;View 3;Funda;Libro;3,70;;;
+WI-V3-FUN-ANT;Wiko;View 3;Funda;Antigolpes;3,10;;;
+WI-V3-PCA-NA;Wiko;View 3;Protector de cámara;Cristal;2,90;;;
+WI-V3P-PRO-NA;Wiko;View 3 Pro;Cristal templado;Estándar;1,30;;;
+WI-V3P-PRO-PRI;Wiko;View 3 Pro;Cristal templado;Privacidad;4,00;;;
+WI-V3P-FUN-SIL;Wiko;View 3 Pro;Funda;Silicona;2,50;;;
+WI-V3P-FUN-TPU;Wiko;View 3 Pro;Funda;Transparente;2,95;;;
+WI-V3P-FUN-LIB;Wiko;View 3 Pro;Funda;Libro;3,70;;;
+WI-V3P-FUN-ANT;Wiko;View 3 Pro;Funda;Antigolpes;3,10;;;
+WI-V3P-PCA-NA;Wiko;View 3 Pro;Protector de cámara;Cristal;2,90;;;
+WI-Y80-PRO-NA;Wiko;Y80;Cristal templado;Estándar;1,30;;;
+WI-Y80-PRO-PRI;Wiko;Y80;Cristal templado;Privacidad;4,00;;;
+WI-Y80-FUN-SIL;Wiko;Y80;Funda;Silicona;2,50;;;
+WI-Y80-FUN-TPU;Wiko;Y80;Funda;Transparente;2,95;;;
+WI-Y80-FUN-LIB;Wiko;Y80;Funda;Libro;3,70;;;
+WI-Y80-FUN-ANT;Wiko;Y80;Funda;Antigolpes;3,10;;;
+WI-Y80-PCA-NA;Wiko;Y80;Protector de cámara;Cristal;2,90;;;
+WI-V3L-PRO-NA;Wiko;View 3 Lite;Cristal templado;Estándar;1,30;;;
+WI-V3L-PRO-PRI;Wiko;View 3 Lite;Cristal templado;Privacidad;4,00;;;
+WI-V3L-FUN-SIL;Wiko;View 3 Lite;Funda;Silicona;2,50;;;
+WI-V3L-FUN-TPU;Wiko;View 3 Lite;Funda;Transparente;2,95;;;
+WI-V3L-FUN-LIB;Wiko;View 3 Lite;Funda;Libro;3,70;;;
+WI-V3L-FUN-ANT;Wiko;View 3 Lite;Funda;Antigolpes;3,10;;;
+WI-V3L-PCA-NA;Wiko;View 3 Lite;Protector de cámara;Cristal;2,90;;;
+WI-Y50-PRO-NA;Wiko;Y50;Cristal templado;Estándar;1,30;;;
+WI-Y50-PRO-PRI;Wiko;Y50;Cristal templado;Privacidad;4,00;;;
+WI-Y50-FUN-SIL;Wiko;Y50;Funda;Silicona;2,50;;;
+WI-Y50-FUN-TPU;Wiko;Y50;Funda;Transparente;2,95;;;
+WI-Y50-FUN-LIB;Wiko;Y50;Funda;Libro;3,70;;;
+WI-Y50-FUN-ANT;Wiko;Y50;Funda;Antigolpes;3,10;;;
+WI-Y70-PRO-NA;Wiko;Y70;Cristal templado;Estándar;1,30;;;
+WI-Y70-PRO-PRI;Wiko;Y70;Cristal templado;Privacidad;4,00;;;
+WI-Y70-FUN-SIL;Wiko;Y70;Funda;Silicona;2,50;;;
+WI-Y70-FUN-TPU;Wiko;Y70;Funda;Transparente;2,95;;;
+WI-Y70-FUN-LIB;Wiko;Y70;Funda;Libro;3,70;;;
+WI-Y70-FUN-ANT;Wiko;Y70;Funda;Antigolpes;3,10;;;
+WI-V4-PRO-NA;Wiko;View 4;Cristal templado;Estándar;1,30;;;
+WI-V4-PRO-PRI;Wiko;View 4;Cristal templado;Privacidad;4,00;;;
+WI-V4-FUN-SIL;Wiko;View 4;Funda;Silicona;2,50;;;
+WI-V4-FUN-TPU;Wiko;View 4;Funda;Transparente;2,95;;;
+WI-V4-FUN-LIB;Wiko;View 4;Funda;Libro;3,70;;;
+WI-V4-FUN-ANT;Wiko;View 4;Funda;Antigolpes;3,10;;;
+WI-V4-PCA-NA;Wiko;View 4;Protector de cámara;Cristal;2,90;;;
+WI-V4L-PRO-NA;Wiko;View 4 Lite;Cristal templado;Estándar;1,30;;;
+WI-V4L-PRO-PRI;Wiko;View 4 Lite;Cristal templado;Privacidad;4,00;;;
+WI-V4L-FUN-SIL;Wiko;View 4 Lite;Funda;Silicona;2,50;;;
+WI-V4L-FUN-TPU;Wiko;View 4 Lite;Funda;Transparente;2,95;;;
+WI-V4L-FUN-LIB;Wiko;View 4 Lite;Funda;Libro;3,70;;;
+WI-V4L-FUN-ANT;Wiko;View 4 Lite;Funda;Antigolpes;3,10;;;
+WI-V4L-PCA-NA;Wiko;View 4 Lite;Protector de cámara;Cristal;2,90;;;
+WI-V5-PRO-NA;Wiko;View 5;Cristal templado;Estándar;1,30;;;
+WI-V5-PRO-PRI;Wiko;View 5;Cristal templado;Privacidad;4,00;;;
+WI-V5-FUN-SIL;Wiko;View 5;Funda;Silicona;2,50;;;
+WI-V5-FUN-TPU;Wiko;View 5;Funda;Transparente;2,95;;;
+WI-V5-FUN-LIB;Wiko;View 5;Funda;Libro;3,70;;;
+WI-V5-FUN-ANT;Wiko;View 5;Funda;Antigolpes;3,10;;;
+WI-V5-PCA-NA;Wiko;View 5;Protector de cámara;Cristal;2,90;;;
+WI-V5PL-PRO-NA;Wiko;View 5 Plus;Cristal templado;Estándar;1,30;;;
+WI-V5PL-PRO-PRI;Wiko;View 5 Plus;Cristal templado;Privacidad;4,00;;;
+WI-V5PL-FUN-SIL;Wiko;View 5 Plus;Funda;Silicona;2,50;;;
+WI-V5PL-FUN-TPU;Wiko;View 5 Plus;Funda;Transparente;2,95;;;
+WI-V5PL-FUN-LIB;Wiko;View 5 Plus;Funda;Libro;3,70;;;
+WI-V5PL-FUN-ANT;Wiko;View 5 Plus;Funda;Antigolpes;3,10;;;
+WI-V5PL-PCA-NA;Wiko;View 5 Plus;Protector de cámara;Cristal;2,90;;;
+WI-Y61-PRO-NA;Wiko;Y61;Cristal templado;Estándar;1,30;;;
+WI-Y61-PRO-PRI;Wiko;Y61;Cristal templado;Privacidad;4,00;;;
+WI-Y61-FUN-SIL;Wiko;Y61;Funda;Silicona;2,50;;;
+WI-Y61-FUN-TPU;Wiko;Y61;Funda;Transparente;2,95;;;
+WI-Y61-FUN-LIB;Wiko;Y61;Funda;Libro;3,70;;;
+WI-Y61-FUN-ANT;Wiko;Y61;Funda;Antigolpes;3,10;;;
+WI-Y81-PRO-NA;Wiko;Y81;Cristal templado;Estándar;1,30;;;
+WI-Y81-PRO-PRI;Wiko;Y81;Cristal templado;Privacidad;4,00;;;
+WI-Y81-FUN-SIL;Wiko;Y81;Funda;Silicona;2,50;;;
+WI-Y81-FUN-TPU;Wiko;Y81;Funda;Transparente;2,95;;;
+WI-Y81-FUN-LIB;Wiko;Y81;Funda;Libro;3,70;;;
+WI-Y81-FUN-ANT;Wiko;Y81;Funda;Antigolpes;3,10;;;
+WI-Y51-PRO-NA;Wiko;Y51;Cristal templado;Estándar;1,30;;;
+WI-Y51-PRO-PRI;Wiko;Y51;Cristal templado;Privacidad;4,00;;;
+WI-Y51-FUN-SIL;Wiko;Y51;Funda;Silicona;2,50;;;
+WI-Y51-FUN-TPU;Wiko;Y51;Funda;Transparente;2,95;;;
+WI-Y51-FUN-LIB;Wiko;Y51;Funda;Libro;3,70;;;
+WI-Y51-FUN-ANT;Wiko;Y51;Funda;Antigolpes;3,10;;;
+WI-Y62-PRO-NA;Wiko;Y62;Cristal templado;Estándar;1,30;;;
+WI-Y62-PRO-PRI;Wiko;Y62;Cristal templado;Privacidad;4,00;;;
+WI-Y62-FUN-SIL;Wiko;Y62;Funda;Silicona;2,50;;;
+WI-Y62-FUN-TPU;Wiko;Y62;Funda;Transparente;2,95;;;
+WI-Y62-FUN-LIB;Wiko;Y62;Funda;Libro;3,70;;;
+WI-Y62-FUN-ANT;Wiko;Y62;Funda;Antigolpes;3,10;;;
+WI-PWU10-PRO-NA;Wiko;Power U10;Cristal templado;Estándar;1,30;;;
+WI-PWU10-PRO-PRI;Wiko;Power U10;Cristal templado;Privacidad;4,00;;;
+WI-PWU10-FUN-SIL;Wiko;Power U10;Funda;Silicona;2,50;;;
+WI-PWU10-FUN-TPU;Wiko;Power U10;Funda;Transparente;2,95;;;
+WI-PWU10-FUN-LIB;Wiko;Power U10;Funda;Libro;3,70;;;
+WI-PWU10-FUN-ANT;Wiko;Power U10;Funda;Antigolpes;3,10;;;
+WI-PWU20-PRO-NA;Wiko;Power U20;Cristal templado;Estándar;1,30;;;
+WI-PWU20-PRO-PRI;Wiko;Power U20;Cristal templado;Privacidad;4,00;;;
+WI-PWU20-FUN-SIL;Wiko;Power U20;Funda;Silicona;2,50;;;
+WI-PWU20-FUN-TPU;Wiko;Power U20;Funda;Transparente;2,95;;;
+WI-PWU20-FUN-LIB;Wiko;Power U20;Funda;Libro;3,70;;;
+WI-PWU20-FUN-ANT;Wiko;Power U20;Funda;Antigolpes;3,10;;;
+WI-PWU20-PCA-NA;Wiko;Power U20;Protector de cámara;Cristal;2,90;;;
+WI-PWU30-PRO-NA;Wiko;Power U30;Cristal templado;Estándar;1,30;;;
+WI-PWU30-PRO-PRI;Wiko;Power U30;Cristal templado;Privacidad;4,00;;;
+WI-PWU30-FUN-SIL;Wiko;Power U30;Funda;Silicona;2,50;;;
+WI-PWU30-FUN-TPU;Wiko;Power U30;Funda;Transparente;2,95;;;
+WI-PWU30-FUN-LIB;Wiko;Power U30;Funda;Libro;3,70;;;
+WI-PWU30-FUN-ANT;Wiko;Power U30;Funda;Antigolpes;3,10;;;
+WI-PWU30-PCA-NA;Wiko;Power U30;Protector de cámara;Cristal;2,90;;;
+WI-Y52-PRO-NA;Wiko;Y52;Cristal templado;Estándar;1,30;;;
+WI-Y52-PRO-PRI;Wiko;Y52;Cristal templado;Privacidad;4,00;;;
+WI-Y52-FUN-SIL;Wiko;Y52;Funda;Silicona;2,50;;;
+WI-Y52-FUN-TPU;Wiko;Y52;Funda;Transparente;2,95;;;
+WI-Y52-FUN-LIB;Wiko;Y52;Funda;Libro;3,70;;;
+WI-Y52-FUN-ANT;Wiko;Y52;Funda;Antigolpes;3,10;;;
+WI-L3-MAR-COM;Wiko;Lenny 3;Marco / chasis;Compatible;5,00;;;6
+WI-L3-BOT-COM;Wiko;Lenny 3;Botones laterales;Compatible;2,55;;;6
+WI-L3-CRI-COM;Wiko;Lenny 3;Cristal de pantalla;Compatible;2,55;;;6
+WI-L3-ANT-COM;Wiko;Lenny 3;Antena / coaxial;Compatible;2,25;;;6
+WI-L3-HUE-COM;Wiko;Lenny 3;Botón home / huella;Compatible;3,70;;;6
+WI-R-MAR-COM;Wiko;Robby;Marco / chasis;Compatible;5,00;;;6
+WI-R-BOT-COM;Wiko;Robby;Botones laterales;Compatible;2,55;;;6
+WI-R-CRI-COM;Wiko;Robby;Cristal de pantalla;Compatible;2,55;;;6
+WI-R-ANT-COM;Wiko;Robby;Antena / coaxial;Compatible;2,25;;;6
+WI-R-HUE-COM;Wiko;Robby;Botón home / huella;Compatible;3,70;;;6
+WI-S-MAR-COM;Wiko;Sunny;Marco / chasis;Compatible;5,00;;;6
+WI-S-BOT-COM;Wiko;Sunny;Botones laterales;Compatible;2,55;;;6
+WI-S-CRI-COM;Wiko;Sunny;Cristal de pantalla;Compatible;2,55;;;6
+WI-S-ANT-COM;Wiko;Sunny;Antena / coaxial;Compatible;2,25;;;6
+WI-S-HUE-COM;Wiko;Sunny;Botón home / huella;Compatible;3,70;;;6
+WI-T-MAR-COM;Wiko;Tommy;Marco / chasis;Compatible;5,00;;;6
+WI-T-BOT-COM;Wiko;Tommy;Botones laterales;Compatible;2,55;;;6
+WI-T-CRI-COM;Wiko;Tommy;Cristal de pantalla;Compatible;2,55;;;6
+WI-T-ANT-COM;Wiko;Tommy;Antena / coaxial;Compatible;2,25;;;6
+WI-T-HUE-COM;Wiko;Tommy;Botón home / huella;Compatible;3,70;;;6
+WI-UF-MAR-COM;Wiko;U Feel;Marco / chasis;Compatible;5,00;;;6
+WI-UF-BOT-COM;Wiko;U Feel;Botones laterales;Compatible;2,55;;;6
+WI-UF-CRI-COM;Wiko;U Feel;Cristal de pantalla;Compatible;2,55;;;6
+WI-UF-ANT-COM;Wiko;U Feel;Antena / coaxial;Compatible;2,25;;;6
+WI-UF-HUE-COM;Wiko;U Feel;Botón home / huella;Compatible;3,70;;;6
+WI-P4-MAR-COM;Wiko;Pulp 4G;Marco / chasis;Compatible;5,00;;;6
+WI-P4-BOT-COM;Wiko;Pulp 4G;Botones laterales;Compatible;2,55;;;6
+WI-P4-CRI-COM;Wiko;Pulp 4G;Cristal de pantalla;Compatible;2,55;;;6
+WI-P4-ANT-COM;Wiko;Pulp 4G;Antena / coaxial;Compatible;2,25;;;6
+WI-P4-HUE-COM;Wiko;Pulp 4G;Botón home / huella;Compatible;3,70;;;6
+WI-JM-MAR-COM;Wiko;Jerry Max;Marco / chasis;Compatible;5,65;;;6
+WI-JM-BOT-COM;Wiko;Jerry Max;Botones laterales;Compatible;2,89;;;6
+WI-JM-CRI-COM;Wiko;Jerry Max;Cristal de pantalla;Compatible;2,89;;;6
+WI-JM-ANT-COM;Wiko;Jerry Max;Antena / coaxial;Compatible;2,50;;;6
+WI-JM-HUE-COM;Wiko;Jerry Max;Botón home / huella;Compatible;4,15;;;6
+WI-L3M-MAR-COM;Wiko;Lenny 3 Max;Marco / chasis;Compatible;5,65;;;6
+WI-L3M-BOT-COM;Wiko;Lenny 3 Max;Botones laterales;Compatible;2,89;;;6
+WI-L3M-CRI-COM;Wiko;Lenny 3 Max;Cristal de pantalla;Compatible;2,89;;;6
+WI-L3M-ANT-COM;Wiko;Lenny 3 Max;Antena / coaxial;Compatible;2,50;;;6
+WI-L3M-HUE-COM;Wiko;Lenny 3 Max;Botón home / huella;Compatible;4,15;;;6
+WI-SM-MAR-COM;Wiko;Sunny Max;Marco / chasis;Compatible;5,65;;;6
+WI-SM-BOT-COM;Wiko;Sunny Max;Botones laterales;Compatible;2,89;;;6
+WI-SM-CRI-COM;Wiko;Sunny Max;Cristal de pantalla;Compatible;2,89;;;6
+WI-SM-ANT-COM;Wiko;Sunny Max;Antena / coaxial;Compatible;2,50;;;6
+WI-SM-HUE-COM;Wiko;Sunny Max;Botón home / huella;Compatible;4,15;;;6
+WI-UP-MAR-COM;Wiko;U Pulse;Marco / chasis;Compatible;5,65;;;6
+WI-UP-BOT-COM;Wiko;U Pulse;Botones laterales;Compatible;2,89;;;6
+WI-UP-CRI-COM;Wiko;U Pulse;Cristal de pantalla;Compatible;2,89;;;6
+WI-UP-ANT-COM;Wiko;U Pulse;Antena / coaxial;Compatible;2,50;;;6
+WI-UP-HUE-COM;Wiko;U Pulse;Botón home / huella;Compatible;4,15;;;6
+WI-WIM-MAR-COM;Wiko;WIM;Marco / chasis;Compatible;5,65;;;6
+WI-WIM-BOT-COM;Wiko;WIM;Botones laterales;Compatible;2,89;;;6
+WI-WIM-CRI-COM;Wiko;WIM;Cristal de pantalla;Compatible;2,89;;;6
+WI-WIM-ANT-COM;Wiko;WIM;Antena / coaxial;Compatible;2,50;;;6
+WI-WIM-HUE-COM;Wiko;WIM;Botón home / huella;Compatible;4,15;;;6
+WI-L4-MAR-COM;Wiko;Lenny 4;Marco / chasis;Compatible;5,65;;;6
+WI-L4-BOT-COM;Wiko;Lenny 4;Botones laterales;Compatible;2,89;;;6
+WI-L4-CRI-COM;Wiko;Lenny 4;Cristal de pantalla;Compatible;2,89;;;6
+WI-L4-ANT-COM;Wiko;Lenny 4;Antena / coaxial;Compatible;2,50;;;6
+WI-L4-HUE-COM;Wiko;Lenny 4;Botón home / huella;Compatible;4,15;;;6
+WI-V-MAR-COM;Wiko;View;Marco / chasis;Compatible;5,65;;;6
+WI-V-BOT-COM;Wiko;View;Botones laterales;Compatible;2,89;;;6
+WI-V-CRI-COM;Wiko;View;Cristal de pantalla;Compatible;2,89;;;6
+WI-V-ANT-COM;Wiko;View;Antena / coaxial;Compatible;2,50;;;6
+WI-V-HUE-COM;Wiko;View;Botón home / huella;Compatible;4,15;;;6
+WI-VXL-MAR-COM;Wiko;View XL;Marco / chasis;Compatible;6,49;;;6
+WI-VXL-BOT-COM;Wiko;View XL;Botones laterales;Compatible;3,35;;;6
+WI-VXL-CRI-COM;Wiko;View XL;Cristal de pantalla;Compatible;3,30;;;6
+WI-VXL-ANT-COM;Wiko;View XL;Antena / coaxial;Compatible;2,89;;;6
+WI-VXL-HUE-COM;Wiko;View XL;Botón home / huella;Compatible;4,79;;;6
+WI-J3-MAR-COM;Wiko;Jerry 3;Marco / chasis;Compatible;5,65;;;6
+WI-J3-BOT-COM;Wiko;Jerry 3;Botones laterales;Compatible;2,89;;;6
+WI-J3-CRI-COM;Wiko;Jerry 3;Cristal de pantalla;Compatible;2,89;;;6
+WI-J3-ANT-COM;Wiko;Jerry 3;Antena / coaxial;Compatible;2,50;;;6
+WI-J3-HUE-COM;Wiko;Jerry 3;Botón home / huella;Compatible;4,15;;;6
+WI-V2-MAR-COM;Wiko;View 2;Marco / chasis;Compatible;5,65;;;6
+WI-V2-BOT-COM;Wiko;View 2;Botones laterales;Compatible;2,89;;;6
+WI-V2-CRI-COM;Wiko;View 2;Cristal de pantalla;Compatible;2,89;;;6
+WI-V2-ANT-COM;Wiko;View 2;Antena / coaxial;Compatible;2,50;;;6
+WI-V2-HUE-COM;Wiko;View 2;Botón home / huella;Compatible;4,15;;;6
+WI-V2P-MAR-COM;Wiko;View 2 Pro;Marco / chasis;Compatible;6,49;;;6
+WI-V2P-BOT-COM;Wiko;View 2 Pro;Botones laterales;Compatible;3,35;;;6
+WI-V2P-CRI-COM;Wiko;View 2 Pro;Cristal de pantalla;Compatible;3,30;;;6
+WI-V2P-ANT-COM;Wiko;View 2 Pro;Antena / coaxial;Compatible;2,89;;;6
+WI-V2P-HUE-COM;Wiko;View 2 Pro;Botón home / huella;Compatible;4,79;;;6
+WI-L5-MAR-COM;Wiko;Lenny 5;Marco / chasis;Compatible;5,65;;;6
+WI-L5-BOT-COM;Wiko;Lenny 5;Botones laterales;Compatible;2,89;;;6
+WI-L5-CRI-COM;Wiko;Lenny 5;Cristal de pantalla;Compatible;2,89;;;6
+WI-L5-ANT-COM;Wiko;Lenny 5;Antena / coaxial;Compatible;2,50;;;6
+WI-L5-HUE-COM;Wiko;Lenny 5;Botón home / huella;Compatible;4,15;;;6
+WI-TOMMY3-MAR-COM;Wiko;Tommy 3;Marco / chasis;Compatible;5,65;;;6
+WI-TOMMY3-BOT-COM;Wiko;Tommy 3;Botones laterales;Compatible;2,89;;;6
+WI-TOMMY3-CRI-COM;Wiko;Tommy 3;Cristal de pantalla;Compatible;2,89;;;6
+WI-TOMMY3-ANT-COM;Wiko;Tommy 3;Antena / coaxial;Compatible;2,50;;;6
+WI-TOMMY3-HUE-COM;Wiko;Tommy 3;Botón home / huella;Compatible;4,15;;;6
+WI-VL-MAR-COM;Wiko;View Lite;Marco / chasis;Compatible;5,65;;;6
+WI-VL-BOT-COM;Wiko;View Lite;Botones laterales;Compatible;2,89;;;6
+WI-VL-CRI-COM;Wiko;View Lite;Cristal de pantalla;Compatible;2,89;;;6
+WI-VL-ANT-COM;Wiko;View Lite;Antena / coaxial;Compatible;2,50;;;6
+WI-VL-HUE-COM;Wiko;View Lite;Botón home / huella;Compatible;4,15;;;6
+WI-S3MN-MAR-COM;Wiko;Sunny 3 Mini;Marco / chasis;Compatible;5,65;;;6
+WI-S3MN-BOT-COM;Wiko;Sunny 3 Mini;Botones laterales;Compatible;2,89;;;6
+WI-S3MN-CRI-COM;Wiko;Sunny 3 Mini;Cristal de pantalla;Compatible;2,89;;;6
+WI-S3MN-ANT-COM;Wiko;Sunny 3 Mini;Antena / coaxial;Compatible;2,50;;;6
+WI-S3MN-HUE-COM;Wiko;Sunny 3 Mini;Botón home / huella;Compatible;4,15;;;6
+WI-H2-MAR-COM;Wiko;Harry 2;Marco / chasis;Compatible;5,65;;;6
+WI-H2-BOT-COM;Wiko;Harry 2;Botones laterales;Compatible;2,89;;;6
+WI-H2-CRI-COM;Wiko;Harry 2;Cristal de pantalla;Compatible;2,89;;;6
+WI-H2-ANT-COM;Wiko;Harry 2;Antena / coaxial;Compatible;2,50;;;6
+WI-H2-HUE-COM;Wiko;Harry 2;Botón home / huella;Compatible;4,15;;;6
+WI-S3-MAR-COM;Wiko;Sunny 3;Marco / chasis;Compatible;5,65;;;6
+WI-S3-BOT-COM;Wiko;Sunny 3;Botones laterales;Compatible;2,89;;;6
+WI-S3-CRI-COM;Wiko;Sunny 3;Cristal de pantalla;Compatible;2,89;;;6
+WI-S3-ANT-COM;Wiko;Sunny 3;Antena / coaxial;Compatible;2,50;;;6
+WI-S3-HUE-COM;Wiko;Sunny 3;Botón home / huella;Compatible;4,15;;;6
+WI-V2GO-MAR-COM;Wiko;View 2 Go;Marco / chasis;Compatible;5,65;;;6
+WI-V2GO-BOT-COM;Wiko;View 2 Go;Botones laterales;Compatible;2,89;;;6
+WI-V2GO-CRI-COM;Wiko;View 2 Go;Cristal de pantalla;Compatible;2,89;;;6
+WI-V2GO-ANT-COM;Wiko;View 2 Go;Antena / coaxial;Compatible;2,50;;;6
+WI-V2GO-HUE-COM;Wiko;View 2 Go;Botón home / huella;Compatible;4,15;;;6
+WI-V2PL-MAR-COM;Wiko;View 2 Plus;Marco / chasis;Compatible;5,65;;;6
+WI-V2PL-BOT-COM;Wiko;View 2 Plus;Botones laterales;Compatible;2,89;;;6
+WI-V2PL-CRI-COM;Wiko;View 2 Plus;Cristal de pantalla;Compatible;2,89;;;6
+WI-V2PL-ANT-COM;Wiko;View 2 Plus;Antena / coaxial;Compatible;2,50;;;6
+WI-V2PL-HUE-COM;Wiko;View 2 Plus;Botón home / huella;Compatible;4,15;;;6
+WI-Y60-MAR-COM;Wiko;Y60;Marco / chasis;Compatible;5,65;;;6
+WI-Y60-BOT-COM;Wiko;Y60;Botones laterales;Compatible;2,89;;;6
+WI-Y60-CRI-COM;Wiko;Y60;Cristal de pantalla;Compatible;2,89;;;6
+WI-Y60-ANT-COM;Wiko;Y60;Antena / coaxial;Compatible;2,50;;;6
+WI-Y60-HUE-COM;Wiko;Y60;Botón home / huella;Compatible;4,15;;;6
+WI-V3-MAR-COM;Wiko;View 3;Marco / chasis;Compatible;5,65;;;6
+WI-V3-BOT-COM;Wiko;View 3;Botones laterales;Compatible;2,89;;;6
+WI-V3-CRI-COM;Wiko;View 3;Cristal de pantalla;Compatible;2,89;;;6
+WI-V3-ANT-COM;Wiko;View 3;Antena / coaxial;Compatible;2,50;;;6
+WI-V3-HUE-COM;Wiko;View 3;Botón home / huella;Compatible;4,15;;;6
+WI-V3P-MAR-COM;Wiko;View 3 Pro;Marco / chasis;Compatible;6,49;;;6
+WI-V3P-BOT-COM;Wiko;View 3 Pro;Botones laterales;Compatible;3,35;;;6
+WI-V3P-CRI-COM;Wiko;View 3 Pro;Cristal de pantalla;Compatible;3,30;;;6
+WI-V3P-ANT-COM;Wiko;View 3 Pro;Antena / coaxial;Compatible;2,89;;;6
+WI-V3P-HUE-COM;Wiko;View 3 Pro;Botón home / huella;Compatible;4,79;;;6
+WI-Y80-MAR-COM;Wiko;Y80;Marco / chasis;Compatible;5,65;;;6
+WI-Y80-BOT-COM;Wiko;Y80;Botones laterales;Compatible;2,89;;;6
+WI-Y80-CRI-COM;Wiko;Y80;Cristal de pantalla;Compatible;2,89;;;6
+WI-Y80-ANT-COM;Wiko;Y80;Antena / coaxial;Compatible;2,50;;;6
+WI-Y80-HUE-COM;Wiko;Y80;Botón home / huella;Compatible;4,15;;;6
+WI-V3L-MAR-COM;Wiko;View 3 Lite;Marco / chasis;Compatible;5,65;;;6
+WI-V3L-BOT-COM;Wiko;View 3 Lite;Botones laterales;Compatible;2,89;;;6
+WI-V3L-CRI-COM;Wiko;View 3 Lite;Cristal de pantalla;Compatible;2,89;;;6
+WI-V3L-ANT-COM;Wiko;View 3 Lite;Antena / coaxial;Compatible;2,50;;;6
+WI-V3L-HUE-COM;Wiko;View 3 Lite;Botón home / huella;Compatible;4,15;;;6
+WI-Y50-MAR-COM;Wiko;Y50;Marco / chasis;Compatible;5,65;;;6
+WI-Y50-BOT-COM;Wiko;Y50;Botones laterales;Compatible;2,89;;;6
+WI-Y50-CRI-COM;Wiko;Y50;Cristal de pantalla;Compatible;2,89;;;6
+WI-Y50-ANT-COM;Wiko;Y50;Antena / coaxial;Compatible;2,50;;;6
+WI-Y50-HUE-COM;Wiko;Y50;Botón home / huella;Compatible;4,15;;;6
+WI-Y70-MAR-COM;Wiko;Y70;Marco / chasis;Compatible;5,65;;;6
+WI-Y70-BOT-COM;Wiko;Y70;Botones laterales;Compatible;2,89;;;6
+WI-Y70-CRI-COM;Wiko;Y70;Cristal de pantalla;Compatible;2,89;;;6
+WI-Y70-ANT-COM;Wiko;Y70;Antena / coaxial;Compatible;2,50;;;6
+WI-Y70-HUE-COM;Wiko;Y70;Botón home / huella;Compatible;4,15;;;6
+WI-V4-MAR-COM;Wiko;View 4;Marco / chasis;Compatible;6,25;;;6
+WI-V4-BOT-COM;Wiko;View 4;Botones laterales;Compatible;3,20;;;6
+WI-V4-CRI-COM;Wiko;View 4;Cristal de pantalla;Compatible;3,20;;;6
+WI-V4-ANT-COM;Wiko;View 4;Antena / coaxial;Compatible;2,79;;;6
+WI-V4-HUE-COM;Wiko;View 4;Botón home / huella;Compatible;4,60;;;6
+WI-V4L-MAR-COM;Wiko;View 4 Lite;Marco / chasis;Compatible;6,25;;;6
+WI-V4L-BOT-COM;Wiko;View 4 Lite;Botones laterales;Compatible;3,20;;;6
+WI-V4L-CRI-COM;Wiko;View 4 Lite;Cristal de pantalla;Compatible;3,20;;;6
+WI-V4L-ANT-COM;Wiko;View 4 Lite;Antena / coaxial;Compatible;2,79;;;6
+WI-V4L-HUE-COM;Wiko;View 4 Lite;Botón home / huella;Compatible;4,60;;;6
+WI-V5-MAR-COM;Wiko;View 5;Marco / chasis;Compatible;6,25;;;6
+WI-V5-BOT-COM;Wiko;View 5;Botones laterales;Compatible;3,20;;;6
+WI-V5-CRI-COM;Wiko;View 5;Cristal de pantalla;Compatible;3,20;;;6
+WI-V5-ANT-COM;Wiko;View 5;Antena / coaxial;Compatible;2,79;;;6
+WI-V5-HUE-COM;Wiko;View 5;Botón home / huella;Compatible;4,60;;;6
+WI-V5PL-MAR-COM;Wiko;View 5 Plus;Marco / chasis;Compatible;6,25;;;6
+WI-V5PL-BOT-COM;Wiko;View 5 Plus;Botones laterales;Compatible;3,20;;;6
+WI-V5PL-CRI-COM;Wiko;View 5 Plus;Cristal de pantalla;Compatible;3,20;;;6
+WI-V5PL-ANT-COM;Wiko;View 5 Plus;Antena / coaxial;Compatible;2,79;;;6
+WI-V5PL-HUE-COM;Wiko;View 5 Plus;Botón home / huella;Compatible;4,60;;;6
+WI-Y61-MAR-COM;Wiko;Y61;Marco / chasis;Compatible;6,25;;;6
+WI-Y61-BOT-COM;Wiko;Y61;Botones laterales;Compatible;3,20;;;6
+WI-Y61-CRI-COM;Wiko;Y61;Cristal de pantalla;Compatible;3,20;;;6
+WI-Y61-ANT-COM;Wiko;Y61;Antena / coaxial;Compatible;2,79;;;6
+WI-Y61-HUE-COM;Wiko;Y61;Botón home / huella;Compatible;4,60;;;6
+WI-Y81-MAR-COM;Wiko;Y81;Marco / chasis;Compatible;6,25;;;6
+WI-Y81-BOT-COM;Wiko;Y81;Botones laterales;Compatible;3,20;;;6
+WI-Y81-CRI-COM;Wiko;Y81;Cristal de pantalla;Compatible;3,20;;;6
+WI-Y81-ANT-COM;Wiko;Y81;Antena / coaxial;Compatible;2,79;;;6
+WI-Y81-HUE-COM;Wiko;Y81;Botón home / huella;Compatible;4,60;;;6
+WI-Y51-MAR-COM;Wiko;Y51;Marco / chasis;Compatible;6,25;;;6
+WI-Y51-BOT-COM;Wiko;Y51;Botones laterales;Compatible;3,20;;;6
+WI-Y51-CRI-COM;Wiko;Y51;Cristal de pantalla;Compatible;3,20;;;6
+WI-Y51-ANT-COM;Wiko;Y51;Antena / coaxial;Compatible;2,79;;;6
+WI-Y51-HUE-COM;Wiko;Y51;Botón home / huella;Compatible;4,60;;;6
+WI-Y62-MAR-COM;Wiko;Y62;Marco / chasis;Compatible;6,25;;;6
+WI-Y62-BOT-COM;Wiko;Y62;Botones laterales;Compatible;3,20;;;6
+WI-Y62-CRI-COM;Wiko;Y62;Cristal de pantalla;Compatible;3,20;;;6
+WI-Y62-ANT-COM;Wiko;Y62;Antena / coaxial;Compatible;2,79;;;6
+WI-Y62-HUE-COM;Wiko;Y62;Botón home / huella;Compatible;4,60;;;6
+WI-PWU10-MAR-COM;Wiko;Power U10;Marco / chasis;Compatible;6,25;;;6
+WI-PWU10-BOT-COM;Wiko;Power U10;Botones laterales;Compatible;3,20;;;6
+WI-PWU10-CRI-COM;Wiko;Power U10;Cristal de pantalla;Compatible;3,20;;;6
+WI-PWU10-ANT-COM;Wiko;Power U10;Antena / coaxial;Compatible;2,79;;;6
+WI-PWU10-HUE-COM;Wiko;Power U10;Botón home / huella;Compatible;4,60;;;6
+WI-PWU20-MAR-COM;Wiko;Power U20;Marco / chasis;Compatible;6,25;;;6
+WI-PWU20-BOT-COM;Wiko;Power U20;Botones laterales;Compatible;3,20;;;6
+WI-PWU20-CRI-COM;Wiko;Power U20;Cristal de pantalla;Compatible;3,20;;;6
+WI-PWU20-ANT-COM;Wiko;Power U20;Antena / coaxial;Compatible;2,79;;;6
+WI-PWU20-HUE-COM;Wiko;Power U20;Botón home / huella;Compatible;4,60;;;6
+WI-PWU30-MAR-COM;Wiko;Power U30;Marco / chasis;Compatible;6,25;;;6
+WI-PWU30-BOT-COM;Wiko;Power U30;Botones laterales;Compatible;3,20;;;6
+WI-PWU30-CRI-COM;Wiko;Power U30;Cristal de pantalla;Compatible;3,20;;;6
+WI-PWU30-ANT-COM;Wiko;Power U30;Antena / coaxial;Compatible;2,79;;;6
+WI-PWU30-HUE-COM;Wiko;Power U30;Botón home / huella;Compatible;4,60;;;6
+WI-Y52-MAR-COM;Wiko;Y52;Marco / chasis;Compatible;6,25;;;6
+WI-Y52-BOT-COM;Wiko;Y52;Botones laterales;Compatible;3,20;;;6
+WI-Y52-CRI-COM;Wiko;Y52;Cristal de pantalla;Compatible;3,20;;;6
+WI-Y52-ANT-COM;Wiko;Y52;Antena / coaxial;Compatible;2,79;;;6
+WI-Y52-HUE-COM;Wiko;Y52;Botón home / huella;Compatible;4,60;;;6

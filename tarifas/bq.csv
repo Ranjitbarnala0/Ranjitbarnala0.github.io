@@ -1,0 +1,468 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+BQ-AA45-PAN-COM;BQ;Aquaris A4.5;Pantalla;Compatible;13,00;12,61;12,22;6
+BQ-AA45-BAT-COM;BQ;Aquaris A4.5;Batería;Compatible;8,90;;;6
+BQ-AA45-CON-COM;BQ;Aquaris A4.5;Conector de carga;Compatible;3,70;;;6
+BQ-AA45-TAP-COM;BQ;Aquaris A4.5;Tapa trasera;Compatible;4,80;;;6
+BQ-AA45-CTR-COM;BQ;Aquaris A4.5;Cámara trasera;Compatible;6,65;;;6
+BQ-AA45-CFR-COM;BQ;Aquaris A4.5;Cámara frontal;Compatible;4,65;;;6
+BQ-AA45-LEN-COM;BQ;Aquaris A4.5;Lente de cámara;Compatible;2,25;;;6
+BQ-AA45-ALT-COM;BQ;Aquaris A4.5;Altavoz;Compatible;3,59;;;6
+BQ-AA45-AUR-COM;BQ;Aquaris A4.5;Auricular de llamada;Compatible;2,69;;;6
+BQ-AA45-FLX-COM;BQ;Aquaris A4.5;Flex de encendido y volumen;Compatible;2,55;;;6
+BQ-AA45-SIM-COM;BQ;Aquaris A4.5;Bandeja SIM;Compatible;2,65;;;6
+BQ-AE5S-PAN-COM;BQ;Aquaris E5s;Pantalla;Compatible;13,00;12,61;12,22;6
+BQ-AE5S-BAT-COM;BQ;Aquaris E5s;Batería;Compatible;8,90;;;6
+BQ-AE5S-CON-COM;BQ;Aquaris E5s;Conector de carga;Compatible;3,70;;;6
+BQ-AE5S-TAP-COM;BQ;Aquaris E5s;Tapa trasera;Compatible;4,80;;;6
+BQ-AE5S-CTR-COM;BQ;Aquaris E5s;Cámara trasera;Compatible;6,65;;;6
+BQ-AE5S-CFR-COM;BQ;Aquaris E5s;Cámara frontal;Compatible;4,65;;;6
+BQ-AE5S-LEN-COM;BQ;Aquaris E5s;Lente de cámara;Compatible;2,25;;;6
+BQ-AE5S-ALT-COM;BQ;Aquaris E5s;Altavoz;Compatible;3,59;;;6
+BQ-AE5S-AUR-COM;BQ;Aquaris E5s;Auricular de llamada;Compatible;2,69;;;6
+BQ-AE5S-FLX-COM;BQ;Aquaris E5s;Flex de encendido y volumen;Compatible;2,55;;;6
+BQ-AE5S-SIM-COM;BQ;Aquaris E5s;Bandeja SIM;Compatible;2,65;;;6
+BQ-AM45-PAN-COM;BQ;Aquaris M4.5;Pantalla;Compatible;13,00;12,61;12,22;6
+BQ-AM45-BAT-COM;BQ;Aquaris M4.5;Batería;Compatible;8,90;;;6
+BQ-AM45-CON-COM;BQ;Aquaris M4.5;Conector de carga;Compatible;3,70;;;6
+BQ-AM45-TAP-COM-NEG;BQ;Aquaris M4.5;Tapa trasera;Negro;4,80;;;6
+BQ-AM45-TAP-COM-BLA;BQ;Aquaris M4.5;Tapa trasera;Blanco;4,80;;;6
+BQ-AM45-CTR-COM;BQ;Aquaris M4.5;Cámara trasera;Compatible;6,65;;;6
+BQ-AM45-CFR-COM;BQ;Aquaris M4.5;Cámara frontal;Compatible;4,65;;;6
+BQ-AM45-LEN-COM;BQ;Aquaris M4.5;Lente de cámara;Compatible;2,25;;;6
+BQ-AM45-ALT-COM;BQ;Aquaris M4.5;Altavoz;Compatible;3,59;;;6
+BQ-AM45-AUR-COM;BQ;Aquaris M4.5;Auricular de llamada;Compatible;2,69;;;6
+BQ-AM45-FLX-COM;BQ;Aquaris M4.5;Flex de encendido y volumen;Compatible;2,55;;;6
+BQ-AM45-SIM-COM;BQ;Aquaris M4.5;Bandeja SIM;Compatible;2,65;;;6
+BQ-AM55-PAN-COM;BQ;Aquaris M5.5;Pantalla;Compatible;13,00;12,61;12,22;6
+BQ-AM55-BAT-COM;BQ;Aquaris M5.5;Batería;Compatible;8,90;;;6
+BQ-AM55-CON-COM;BQ;Aquaris M5.5;Conector de carga;Compatible;3,70;;;6
+BQ-AM55-TAP-COM-NEG;BQ;Aquaris M5.5;Tapa trasera;Negro;4,80;;;6
+BQ-AM55-TAP-COM-BLA;BQ;Aquaris M5.5;Tapa trasera;Blanco;4,80;;;6
+BQ-AM55-CTR-COM;BQ;Aquaris M5.5;Cámara trasera;Compatible;6,65;;;6
+BQ-AM55-CFR-COM;BQ;Aquaris M5.5;Cámara frontal;Compatible;4,65;;;6
+BQ-AM55-LEN-COM;BQ;Aquaris M5.5;Lente de cámara;Compatible;2,25;;;6
+BQ-AM55-ALT-COM;BQ;Aquaris M5.5;Altavoz;Compatible;3,59;;;6
+BQ-AM55-AUR-COM;BQ;Aquaris M5.5;Auricular de llamada;Compatible;2,69;;;6
+BQ-AM55-FLX-COM;BQ;Aquaris M5.5;Flex de encendido y volumen;Compatible;2,55;;;6
+BQ-AM55-SIM-COM;BQ;Aquaris M5.5;Bandeja SIM;Compatible;2,65;;;6
+BQ-AX5-PAN-COM;BQ;Aquaris X5;Pantalla;Compatible;15,15;14,70;14,24;6
+BQ-AX5-BAT-COM;BQ;Aquaris X5;Batería;Compatible;9,65;;;6
+BQ-AX5-CON-COM;BQ;Aquaris X5;Conector de carga;Compatible;4,60;;;6
+BQ-AX5-TAP-COM;BQ;Aquaris X5;Tapa trasera;Compatible;5,40;;;6
+BQ-AX5-CTR-COM;BQ;Aquaris X5;Cámara trasera;Compatible;7,59;;;6
+BQ-AX5-CFR-COM;BQ;Aquaris X5;Cámara frontal;Compatible;4,99;;;6
+BQ-AX5-LEN-COM;BQ;Aquaris X5;Lente de cámara;Compatible;2,19;;;6
+BQ-AX5-ALT-COM;BQ;Aquaris X5;Altavoz;Compatible;3,65;;;6
+BQ-AX5-AUR-COM;BQ;Aquaris X5;Auricular de llamada;Compatible;2,65;;;6
+BQ-AX5-FLX-COM;BQ;Aquaris X5;Flex de encendido y volumen;Compatible;2,49;;;6
+BQ-AX5-SIM-COM;BQ;Aquaris X5;Bandeja SIM;Compatible;2,55;;;6
+BQ-AM5-PAN-COM;BQ;Aquaris M5;Pantalla;Compatible;13,00;12,61;12,22;6
+BQ-AM5-BAT-COM;BQ;Aquaris M5;Batería;Compatible;8,90;;;6
+BQ-AM5-CON-COM;BQ;Aquaris M5;Conector de carga;Compatible;3,70;;;6
+BQ-AM5-TAP-COM-NEG;BQ;Aquaris M5;Tapa trasera;Negro;4,80;;;6
+BQ-AM5-TAP-COM-BLA;BQ;Aquaris M5;Tapa trasera;Blanco;4,80;;;6
+BQ-AM5-CTR-COM;BQ;Aquaris M5;Cámara trasera;Compatible;6,65;;;6
+BQ-AM5-CFR-COM;BQ;Aquaris M5;Cámara frontal;Compatible;4,65;;;6
+BQ-AM5-LEN-COM;BQ;Aquaris M5;Lente de cámara;Compatible;2,25;;;6
+BQ-AM5-ALT-COM;BQ;Aquaris M5;Altavoz;Compatible;3,59;;;6
+BQ-AM5-AUR-COM;BQ;Aquaris M5;Auricular de llamada;Compatible;2,69;;;6
+BQ-AM5-FLX-COM;BQ;Aquaris M5;Flex de encendido y volumen;Compatible;2,55;;;6
+BQ-AM5-SIM-COM;BQ;Aquaris M5;Bandeja SIM;Compatible;2,65;;;6
+BQ-AX5PL-PAN-COM;BQ;Aquaris X5 Plus;Pantalla;Compatible;15,15;14,70;14,24;6
+BQ-AX5PL-BAT-COM;BQ;Aquaris X5 Plus;Batería;Compatible;9,65;;;6
+BQ-AX5PL-CON-COM;BQ;Aquaris X5 Plus;Conector de carga;Compatible;4,60;;;6
+BQ-AX5PL-TAP-COM-NEG;BQ;Aquaris X5 Plus;Tapa trasera;Negro/Gris antracita;5,40;;;6
+BQ-AX5PL-TAP-COM-BLA;BQ;Aquaris X5 Plus;Tapa trasera;Blanco/Plata;5,40;;;6
+BQ-AX5PL-TAP-COM-BOR;BQ;Aquaris X5 Plus;Tapa trasera;Blanco/Oro rosa;5,40;;;6
+BQ-AX5PL-CTR-COM;BQ;Aquaris X5 Plus;Cámara trasera;Compatible;7,59;;;6
+BQ-AX5PL-CFR-COM;BQ;Aquaris X5 Plus;Cámara frontal;Compatible;4,99;;;6
+BQ-AX5PL-LEN-COM;BQ;Aquaris X5 Plus;Lente de cámara;Compatible;2,19;;;6
+BQ-AX5PL-ALT-COM;BQ;Aquaris X5 Plus;Altavoz;Compatible;3,65;;;6
+BQ-AX5PL-AUR-COM;BQ;Aquaris X5 Plus;Auricular de llamada;Compatible;2,65;;;6
+BQ-AX5PL-FLX-COM;BQ;Aquaris X5 Plus;Flex de encendido y volumen;Compatible;2,49;;;6
+BQ-AX5PL-SIM-COM;BQ;Aquaris X5 Plus;Bandeja SIM;Compatible;2,55;;;6
+BQ-AU-PAN-COM;BQ;Aquaris U;Pantalla;Compatible;13,00;12,61;12,22;6
+BQ-AU-BAT-COM;BQ;Aquaris U;Batería;Compatible;8,90;;;6
+BQ-AU-CON-COM;BQ;Aquaris U;Conector de carga;Compatible;3,70;;;6
+BQ-AU-TAP-COM-NEG;BQ;Aquaris U;Tapa trasera;Negro-Gris grafito;4,80;;;6
+BQ-AU-CTR-COM;BQ;Aquaris U;Cámara trasera;Compatible;6,65;;;6
+BQ-AU-CFR-COM;BQ;Aquaris U;Cámara frontal;Compatible;4,65;;;6
+BQ-AU-LEN-COM;BQ;Aquaris U;Lente de cámara;Compatible;2,25;;;6
+BQ-AU-ALT-COM;BQ;Aquaris U;Altavoz;Compatible;3,59;;;6
+BQ-AU-AUR-COM;BQ;Aquaris U;Auricular de llamada;Compatible;2,69;;;6
+BQ-AU-FLX-COM;BQ;Aquaris U;Flex de encendido y volumen;Compatible;2,55;;;6
+BQ-AU-SIM-COM;BQ;Aquaris U;Bandeja SIM;Compatible;2,65;;;6
+BQ-AUL-PAN-COM;BQ;Aquaris U Lite;Pantalla;Compatible;13,00;12,61;12,22;6
+BQ-AUL-BAT-COM;BQ;Aquaris U Lite;Batería;Compatible;8,90;;;6
+BQ-AUL-CON-COM;BQ;Aquaris U Lite;Conector de carga;Compatible;3,70;;;6
+BQ-AUL-TAP-COM-NEG;BQ;Aquaris U Lite;Tapa trasera;Negro-Gris grafito;4,80;;;6
+BQ-AUL-CTR-COM;BQ;Aquaris U Lite;Cámara trasera;Compatible;6,65;;;6
+BQ-AUL-CFR-COM;BQ;Aquaris U Lite;Cámara frontal;Compatible;4,65;;;6
+BQ-AUL-LEN-COM;BQ;Aquaris U Lite;Lente de cámara;Compatible;2,25;;;6
+BQ-AUL-ALT-COM;BQ;Aquaris U Lite;Altavoz;Compatible;3,59;;;6
+BQ-AUL-AUR-COM;BQ;Aquaris U Lite;Auricular de llamada;Compatible;2,69;;;6
+BQ-AUL-FLX-COM;BQ;Aquaris U Lite;Flex de encendido y volumen;Compatible;2,55;;;6
+BQ-AUL-SIM-COM;BQ;Aquaris U Lite;Bandeja SIM;Compatible;2,65;;;6
+BQ-AUPL-PAN-COM;BQ;Aquaris U Plus;Pantalla;Compatible;13,00;12,61;12,22;6
+BQ-AUPL-BAT-COM;BQ;Aquaris U Plus;Batería;Compatible;8,90;;;6
+BQ-AUPL-CON-COM;BQ;Aquaris U Plus;Conector de carga;Compatible;3,70;;;6
+BQ-AUPL-TAP-COM-NEG;BQ;Aquaris U Plus;Tapa trasera;Negro-Gris antracita;4,80;;;6
+BQ-AUPL-TAP-COM-BLA;BQ;Aquaris U Plus;Tapa trasera;Blanco-Dorado;4,80;;;6
+BQ-AUPL-CTR-COM;BQ;Aquaris U Plus;Cámara trasera;Compatible;6,65;;;6
+BQ-AUPL-CFR-COM;BQ;Aquaris U Plus;Cámara frontal;Compatible;4,65;;;6
+BQ-AUPL-LEN-COM;BQ;Aquaris U Plus;Lente de cámara;Compatible;2,25;;;6
+BQ-AUPL-ALT-COM;BQ;Aquaris U Plus;Altavoz;Compatible;3,59;;;6
+BQ-AUPL-AUR-COM;BQ;Aquaris U Plus;Auricular de llamada;Compatible;2,69;;;6
+BQ-AUPL-FLX-COM;BQ;Aquaris U Plus;Flex de encendido y volumen;Compatible;2,55;;;6
+BQ-AUPL-SIM-COM;BQ;Aquaris U Plus;Bandeja SIM;Compatible;2,65;;;6
+BQ-AX-PAN-COM;BQ;Aquaris X;Pantalla;Compatible;15,15;14,70;14,24;6
+BQ-AX-BAT-COM;BQ;Aquaris X;Batería;Compatible;9,65;;;6
+BQ-AX-CON-COM;BQ;Aquaris X;Conector de carga;Compatible;4,60;;;6
+BQ-AX-TAP-COM-NEG;BQ;Aquaris X;Tapa trasera;Negro (Mineral Black);5,40;;;6
+BQ-AX-TAP-COM-PEA;BQ;Aquaris X;Tapa trasera;Pearl Rose;5,40;;;6
+BQ-AX-CTR-COM;BQ;Aquaris X;Cámara trasera;Compatible;7,59;;;6
+BQ-AX-CFR-COM;BQ;Aquaris X;Cámara frontal;Compatible;4,99;;;6
+BQ-AX-LEN-COM;BQ;Aquaris X;Lente de cámara;Compatible;2,19;;;6
+BQ-AX-ALT-COM;BQ;Aquaris X;Altavoz;Compatible;3,65;;;6
+BQ-AX-AUR-COM;BQ;Aquaris X;Auricular de llamada;Compatible;2,65;;;6
+BQ-AX-FLX-COM;BQ;Aquaris X;Flex de encendido y volumen;Compatible;2,49;;;6
+BQ-AX-SIM-COM;BQ;Aquaris X;Bandeja SIM;Compatible;2,55;;;6
+BQ-AXP-PAN-COM;BQ;Aquaris X Pro;Pantalla;Compatible;15,15;14,70;14,24;6
+BQ-AXP-BAT-COM;BQ;Aquaris X Pro;Batería;Compatible;9,65;;;6
+BQ-AXP-CON-COM;BQ;Aquaris X Pro;Conector de carga;Compatible;4,60;;;6
+BQ-AXP-TAP-COM-NEG;BQ;Aquaris X Pro;Tapa trasera;Negro (Midnight Black);5,40;;;6
+BQ-AXP-TAP-COM-BLA;BQ;Aquaris X Pro;Tapa trasera;Blanco (Glaze White);5,40;;;6
+BQ-AXP-CTR-COM;BQ;Aquaris X Pro;Cámara trasera;Compatible;7,59;;;6
+BQ-AXP-CFR-COM;BQ;Aquaris X Pro;Cámara frontal;Compatible;4,99;;;6
+BQ-AXP-LEN-COM;BQ;Aquaris X Pro;Lente de cámara;Compatible;2,19;;;6
+BQ-AXP-ALT-COM;BQ;Aquaris X Pro;Altavoz;Compatible;3,65;;;6
+BQ-AXP-AUR-COM;BQ;Aquaris X Pro;Auricular de llamada;Compatible;2,65;;;6
+BQ-AXP-FLX-COM;BQ;Aquaris X Pro;Flex de encendido y volumen;Compatible;2,49;;;6
+BQ-AXP-SIM-COM;BQ;Aquaris X Pro;Bandeja SIM;Compatible;2,55;;;6
+BQ-AU2-PAN-COM;BQ;Aquaris U2;Pantalla;Compatible;13,00;12,61;12,22;6
+BQ-AU2-BAT-COM;BQ;Aquaris U2;Batería;Compatible;8,90;;;6
+BQ-AU2-CON-COM;BQ;Aquaris U2;Conector de carga;Compatible;3,70;;;6
+BQ-AU2-TAP-COM-NEG;BQ;Aquaris U2;Tapa trasera;Negro (Carbon Black);4,80;;;6
+BQ-AU2-TAP-COM-DOR;BQ;Aquaris U2;Tapa trasera;Dorado (Sand Gold);4,80;;;6
+BQ-AU2-CTR-COM;BQ;Aquaris U2;Cámara trasera;Compatible;6,65;;;6
+BQ-AU2-CFR-COM;BQ;Aquaris U2;Cámara frontal;Compatible;4,65;;;6
+BQ-AU2-LEN-COM;BQ;Aquaris U2;Lente de cámara;Compatible;2,25;;;6
+BQ-AU2-ALT-COM;BQ;Aquaris U2;Altavoz;Compatible;3,59;;;6
+BQ-AU2-AUR-COM;BQ;Aquaris U2;Auricular de llamada;Compatible;2,69;;;6
+BQ-AU2-FLX-COM;BQ;Aquaris U2;Flex de encendido y volumen;Compatible;2,55;;;6
+BQ-AU2-SIM-COM;BQ;Aquaris U2;Bandeja SIM;Compatible;2,65;;;6
+BQ-AV-PAN-COM;BQ;Aquaris V;Pantalla;Compatible;13,00;12,61;12,22;6
+BQ-AV-BAT-COM;BQ;Aquaris V;Batería;Compatible;8,90;;;6
+BQ-AV-CON-COM;BQ;Aquaris V;Conector de carga;Compatible;3,70;;;6
+BQ-AV-TAP-COM-NEG;BQ;Aquaris V;Tapa trasera;Negro (Deep Black);4,80;;;6
+BQ-AV-TAP-COM-DOR;BQ;Aquaris V;Tapa trasera;Dorado (Mist Gold);4,80;;;6
+BQ-AV-CTR-COM;BQ;Aquaris V;Cámara trasera;Compatible;6,65;;;6
+BQ-AV-CFR-COM;BQ;Aquaris V;Cámara frontal;Compatible;4,65;;;6
+BQ-AV-LEN-COM;BQ;Aquaris V;Lente de cámara;Compatible;2,25;;;6
+BQ-AV-ALT-COM;BQ;Aquaris V;Altavoz;Compatible;3,59;;;6
+BQ-AV-AUR-COM;BQ;Aquaris V;Auricular de llamada;Compatible;2,69;;;6
+BQ-AV-FLX-COM;BQ;Aquaris V;Flex de encendido y volumen;Compatible;2,55;;;6
+BQ-AV-SIM-COM;BQ;Aquaris V;Bandeja SIM;Compatible;2,65;;;6
+BQ-AU2L-PAN-COM;BQ;Aquaris U2 Lite;Pantalla;Compatible;13,00;12,61;12,22;6
+BQ-AU2L-BAT-COM;BQ;Aquaris U2 Lite;Batería;Compatible;8,90;;;6
+BQ-AU2L-CON-COM;BQ;Aquaris U2 Lite;Conector de carga;Compatible;3,70;;;6
+BQ-AU2L-TAP-COM-NEG;BQ;Aquaris U2 Lite;Tapa trasera;Negro (Carbon Black);4,80;;;6
+BQ-AU2L-TAP-COM-DOR;BQ;Aquaris U2 Lite;Tapa trasera;Dorado (Sand Gold);4,80;;;6
+BQ-AU2L-CTR-COM;BQ;Aquaris U2 Lite;Cámara trasera;Compatible;6,65;;;6
+BQ-AU2L-CFR-COM;BQ;Aquaris U2 Lite;Cámara frontal;Compatible;4,65;;;6
+BQ-AU2L-LEN-COM;BQ;Aquaris U2 Lite;Lente de cámara;Compatible;2,25;;;6
+BQ-AU2L-ALT-COM;BQ;Aquaris U2 Lite;Altavoz;Compatible;3,59;;;6
+BQ-AU2L-AUR-COM;BQ;Aquaris U2 Lite;Auricular de llamada;Compatible;2,69;;;6
+BQ-AU2L-FLX-COM;BQ;Aquaris U2 Lite;Flex de encendido y volumen;Compatible;2,55;;;6
+BQ-AU2L-SIM-COM;BQ;Aquaris U2 Lite;Bandeja SIM;Compatible;2,65;;;6
+BQ-AVPL-PAN-COM;BQ;Aquaris V Plus;Pantalla;Compatible;13,00;12,61;12,22;6
+BQ-AVPL-BAT-COM;BQ;Aquaris V Plus;Batería;Compatible;8,90;;;6
+BQ-AVPL-CON-COM;BQ;Aquaris V Plus;Conector de carga;Compatible;3,70;;;6
+BQ-AVPL-TAP-COM-NEG;BQ;Aquaris V Plus;Tapa trasera;Negro (Deep Black);4,80;;;6
+BQ-AVPL-TAP-COM-DOR;BQ;Aquaris V Plus;Tapa trasera;Dorado (Mist Gold);4,80;;;6
+BQ-AVPL-CTR-COM;BQ;Aquaris V Plus;Cámara trasera;Compatible;6,65;;;6
+BQ-AVPL-CFR-COM;BQ;Aquaris V Plus;Cámara frontal;Compatible;4,65;;;6
+BQ-AVPL-LEN-COM;BQ;Aquaris V Plus;Lente de cámara;Compatible;2,25;;;6
+BQ-AVPL-ALT-COM;BQ;Aquaris V Plus;Altavoz;Compatible;3,59;;;6
+BQ-AVPL-AUR-COM;BQ;Aquaris V Plus;Auricular de llamada;Compatible;2,69;;;6
+BQ-AVPL-FLX-COM;BQ;Aquaris V Plus;Flex de encendido y volumen;Compatible;2,55;;;6
+BQ-AVPL-SIM-COM;BQ;Aquaris V Plus;Bandeja SIM;Compatible;2,65;;;6
+BQ-AX2-PAN-COM;BQ;Aquaris X2;Pantalla;Compatible;15,15;14,70;14,24;6
+BQ-AX2-BAT-COM;BQ;Aquaris X2;Batería;Compatible;9,65;;;6
+BQ-AX2-CON-COM;BQ;Aquaris X2;Conector de carga;Compatible;4,60;;;6
+BQ-AX2-TAP-COM-DOR;BQ;Aquaris X2;Tapa trasera;Dorado (Sand Gold);5,40;;;6
+BQ-AX2-TAP-COM-NEG;BQ;Aquaris X2;Tapa trasera;Negro (Carbon Black);5,40;;;6
+BQ-AX2-CTR-COM;BQ;Aquaris X2;Cámara trasera;Compatible;7,59;;;6
+BQ-AX2-CFR-COM;BQ;Aquaris X2;Cámara frontal;Compatible;4,99;;;6
+BQ-AX2-LEN-COM;BQ;Aquaris X2;Lente de cámara;Compatible;2,19;;;6
+BQ-AX2-ALT-COM;BQ;Aquaris X2;Altavoz;Compatible;3,65;;;6
+BQ-AX2-AUR-COM;BQ;Aquaris X2;Auricular de llamada;Compatible;2,65;;;6
+BQ-AX2-FLX-COM;BQ;Aquaris X2;Flex de encendido y volumen;Compatible;2,49;;;6
+BQ-AX2-SIM-COM;BQ;Aquaris X2;Bandeja SIM;Compatible;2,55;;;6
+BQ-AX2P-PAN-COM;BQ;Aquaris X2 Pro;Pantalla;Compatible;15,15;14,70;14,24;6
+BQ-AX2P-BAT-COM;BQ;Aquaris X2 Pro;Batería;Compatible;9,65;;;6
+BQ-AX2P-CON-COM;BQ;Aquaris X2 Pro;Conector de carga;Compatible;4,60;;;6
+BQ-AX2P-TAP-COM-NEG;BQ;Aquaris X2 Pro;Tapa trasera;Negro (Midnight Black);5,40;;;6
+BQ-AX2P-TAP-COM-BLA;BQ;Aquaris X2 Pro;Tapa trasera;Blanco (Glaze White);5,40;;;6
+BQ-AX2P-CTR-COM;BQ;Aquaris X2 Pro;Cámara trasera;Compatible;7,59;;;6
+BQ-AX2P-CFR-COM;BQ;Aquaris X2 Pro;Cámara frontal;Compatible;4,99;;;6
+BQ-AX2P-LEN-COM;BQ;Aquaris X2 Pro;Lente de cámara;Compatible;2,19;;;6
+BQ-AX2P-ALT-COM;BQ;Aquaris X2 Pro;Altavoz;Compatible;3,65;;;6
+BQ-AX2P-AUR-COM;BQ;Aquaris X2 Pro;Auricular de llamada;Compatible;2,65;;;6
+BQ-AX2P-FLX-COM;BQ;Aquaris X2 Pro;Flex de encendido y volumen;Compatible;2,49;;;6
+BQ-AX2P-SIM-COM;BQ;Aquaris X2 Pro;Bandeja SIM;Compatible;2,55;;;6
+BQ-AC-PAN-COM;BQ;Aquaris C;Pantalla;Compatible;13,00;12,61;12,22;6
+BQ-AC-BAT-COM;BQ;Aquaris C;Batería;Compatible;8,90;;;6
+BQ-AC-CON-COM;BQ;Aquaris C;Conector de carga;Compatible;3,70;;;6
+BQ-AC-TAP-COM-NEG;BQ;Aquaris C;Tapa trasera;Negro (Navy Black);4,80;;;6
+BQ-AC-TAP-COM-BLA;BQ;Aquaris C;Tapa trasera;Blanco (Silver White);4,80;;;6
+BQ-AC-CTR-COM;BQ;Aquaris C;Cámara trasera;Compatible;6,65;;;6
+BQ-AC-CFR-COM;BQ;Aquaris C;Cámara frontal;Compatible;4,65;;;6
+BQ-AC-LEN-COM;BQ;Aquaris C;Lente de cámara;Compatible;2,25;;;6
+BQ-AC-ALT-COM;BQ;Aquaris C;Altavoz;Compatible;3,59;;;6
+BQ-AC-AUR-COM;BQ;Aquaris C;Auricular de llamada;Compatible;2,69;;;6
+BQ-AC-FLX-COM;BQ;Aquaris C;Flex de encendido y volumen;Compatible;2,55;;;6
+BQ-AC-SIM-COM;BQ;Aquaris C;Bandeja SIM;Compatible;2,65;;;6
+BQ-AE5-PAN-COM;BQ;Aquaris E5;Pantalla;Compatible;13,00;12,61;12,22;6
+BQ-AE5-BAT-COM;BQ;Aquaris E5;Batería;Compatible;8,90;;;6
+BQ-AE5-CON-COM;BQ;Aquaris E5;Conector de carga;Compatible;3,70;;;6
+BQ-AE5-TAP-COM;BQ;Aquaris E5;Tapa trasera;Compatible;4,80;;;6
+BQ-AE5-CTR-COM;BQ;Aquaris E5;Cámara trasera;Compatible;6,65;;;6
+BQ-AE5-CFR-COM;BQ;Aquaris E5;Cámara frontal;Compatible;4,65;;;6
+BQ-AE5-LEN-COM;BQ;Aquaris E5;Lente de cámara;Compatible;2,25;;;6
+BQ-AE5-ALT-COM;BQ;Aquaris E5;Altavoz;Compatible;3,59;;;6
+BQ-AE5-AUR-COM;BQ;Aquaris E5;Auricular de llamada;Compatible;2,69;;;6
+BQ-AE5-FLX-COM;BQ;Aquaris E5;Flex de encendido y volumen;Compatible;2,55;;;6
+BQ-AE5-SIM-COM;BQ;Aquaris E5;Bandeja SIM;Compatible;2,65;;;6
+BQ-AE45-PAN-COM;BQ;Aquaris E4.5;Pantalla;Compatible;13,00;12,61;12,22;6
+BQ-AE45-BAT-COM;BQ;Aquaris E4.5;Batería;Compatible;8,90;;;6
+BQ-AE45-CON-COM;BQ;Aquaris E4.5;Conector de carga;Compatible;3,70;;;6
+BQ-AE45-TAP-COM;BQ;Aquaris E4.5;Tapa trasera;Compatible;4,80;;;6
+BQ-AE45-CTR-COM;BQ;Aquaris E4.5;Cámara trasera;Compatible;6,65;;;6
+BQ-AE45-CFR-COM;BQ;Aquaris E4.5;Cámara frontal;Compatible;4,65;;;6
+BQ-AE45-LEN-COM;BQ;Aquaris E4.5;Lente de cámara;Compatible;2,25;;;6
+BQ-AE45-ALT-COM;BQ;Aquaris E4.5;Altavoz;Compatible;3,59;;;6
+BQ-AE45-AUR-COM;BQ;Aquaris E4.5;Auricular de llamada;Compatible;2,69;;;6
+BQ-AE45-FLX-COM;BQ;Aquaris E4.5;Flex de encendido y volumen;Compatible;2,55;;;6
+BQ-AE45-SIM-COM;BQ;Aquaris E4.5;Bandeja SIM;Compatible;2,65;;;6
+BQ-AA45-PRO-NA;BQ;Aquaris A4.5;Cristal templado;Estándar;1,30;;;
+BQ-AA45-PRO-PRI;BQ;Aquaris A4.5;Cristal templado;Privacidad;4,00;;;
+BQ-AA45-FUN-SIL;BQ;Aquaris A4.5;Funda;Silicona;2,50;;;
+BQ-AA45-FUN-TPU;BQ;Aquaris A4.5;Funda;Transparente;2,95;;;
+BQ-AA45-FUN-LIB;BQ;Aquaris A4.5;Funda;Libro;3,70;;;
+BQ-AA45-FUN-ANT;BQ;Aquaris A4.5;Funda;Antigolpes;3,10;;;
+BQ-AE5S-PRO-NA;BQ;Aquaris E5s;Cristal templado;Estándar;1,30;;;
+BQ-AE5S-PRO-PRI;BQ;Aquaris E5s;Cristal templado;Privacidad;4,00;;;
+BQ-AE5S-FUN-SIL;BQ;Aquaris E5s;Funda;Silicona;2,50;;;
+BQ-AE5S-FUN-TPU;BQ;Aquaris E5s;Funda;Transparente;2,95;;;
+BQ-AE5S-FUN-LIB;BQ;Aquaris E5s;Funda;Libro;3,70;;;
+BQ-AE5S-FUN-ANT;BQ;Aquaris E5s;Funda;Antigolpes;3,10;;;
+BQ-AM45-PRO-NA;BQ;Aquaris M4.5;Cristal templado;Estándar;1,30;;;
+BQ-AM45-PRO-PRI;BQ;Aquaris M4.5;Cristal templado;Privacidad;4,00;;;
+BQ-AM45-FUN-SIL;BQ;Aquaris M4.5;Funda;Silicona;2,50;;;
+BQ-AM45-FUN-TPU;BQ;Aquaris M4.5;Funda;Transparente;2,95;;;
+BQ-AM45-FUN-LIB;BQ;Aquaris M4.5;Funda;Libro;3,70;;;
+BQ-AM45-FUN-ANT;BQ;Aquaris M4.5;Funda;Antigolpes;3,10;;;
+BQ-AM55-PRO-NA;BQ;Aquaris M5.5;Cristal templado;Estándar;1,30;;;
+BQ-AM55-PRO-PRI;BQ;Aquaris M5.5;Cristal templado;Privacidad;4,00;;;
+BQ-AM55-FUN-SIL;BQ;Aquaris M5.5;Funda;Silicona;2,50;;;
+BQ-AM55-FUN-TPU;BQ;Aquaris M5.5;Funda;Transparente;2,95;;;
+BQ-AM55-FUN-LIB;BQ;Aquaris M5.5;Funda;Libro;3,70;;;
+BQ-AM55-FUN-ANT;BQ;Aquaris M5.5;Funda;Antigolpes;3,10;;;
+BQ-AX5-PRO-NA;BQ;Aquaris X5;Cristal templado;Estándar;1,30;;;
+BQ-AX5-PRO-PRI;BQ;Aquaris X5;Cristal templado;Privacidad;4,00;;;
+BQ-AX5-FUN-SIL;BQ;Aquaris X5;Funda;Silicona;2,50;;;
+BQ-AX5-FUN-TPU;BQ;Aquaris X5;Funda;Transparente;2,95;;;
+BQ-AX5-FUN-LIB;BQ;Aquaris X5;Funda;Libro;3,70;;;
+BQ-AX5-FUN-ANT;BQ;Aquaris X5;Funda;Antigolpes;3,10;;;
+BQ-AM5-PRO-NA;BQ;Aquaris M5;Cristal templado;Estándar;1,30;;;
+BQ-AM5-PRO-PRI;BQ;Aquaris M5;Cristal templado;Privacidad;4,00;;;
+BQ-AM5-FUN-SIL;BQ;Aquaris M5;Funda;Silicona;2,50;;;
+BQ-AM5-FUN-TPU;BQ;Aquaris M5;Funda;Transparente;2,95;;;
+BQ-AM5-FUN-LIB;BQ;Aquaris M5;Funda;Libro;3,70;;;
+BQ-AM5-FUN-ANT;BQ;Aquaris M5;Funda;Antigolpes;3,10;;;
+BQ-AX5PL-PRO-NA;BQ;Aquaris X5 Plus;Cristal templado;Estándar;1,30;;;
+BQ-AX5PL-PRO-PRI;BQ;Aquaris X5 Plus;Cristal templado;Privacidad;4,00;;;
+BQ-AX5PL-FUN-SIL;BQ;Aquaris X5 Plus;Funda;Silicona;2,50;;;
+BQ-AX5PL-FUN-TPU;BQ;Aquaris X5 Plus;Funda;Transparente;2,95;;;
+BQ-AX5PL-FUN-LIB;BQ;Aquaris X5 Plus;Funda;Libro;3,70;;;
+BQ-AX5PL-FUN-ANT;BQ;Aquaris X5 Plus;Funda;Antigolpes;3,10;;;
+BQ-AU-PRO-NA;BQ;Aquaris U;Cristal templado;Estándar;1,30;;;
+BQ-AU-PRO-PRI;BQ;Aquaris U;Cristal templado;Privacidad;4,00;;;
+BQ-AU-FUN-SIL;BQ;Aquaris U;Funda;Silicona;2,50;;;
+BQ-AU-FUN-TPU;BQ;Aquaris U;Funda;Transparente;2,95;;;
+BQ-AU-FUN-LIB;BQ;Aquaris U;Funda;Libro;3,70;;;
+BQ-AU-FUN-ANT;BQ;Aquaris U;Funda;Antigolpes;3,10;;;
+BQ-AUL-PRO-NA;BQ;Aquaris U Lite;Cristal templado;Estándar;1,30;;;
+BQ-AUL-PRO-PRI;BQ;Aquaris U Lite;Cristal templado;Privacidad;4,00;;;
+BQ-AUL-FUN-SIL;BQ;Aquaris U Lite;Funda;Silicona;2,50;;;
+BQ-AUL-FUN-TPU;BQ;Aquaris U Lite;Funda;Transparente;2,95;;;
+BQ-AUL-FUN-LIB;BQ;Aquaris U Lite;Funda;Libro;3,70;;;
+BQ-AUL-FUN-ANT;BQ;Aquaris U Lite;Funda;Antigolpes;3,10;;;
+BQ-AUPL-PRO-NA;BQ;Aquaris U Plus;Cristal templado;Estándar;1,30;;;
+BQ-AUPL-PRO-PRI;BQ;Aquaris U Plus;Cristal templado;Privacidad;4,00;;;
+BQ-AUPL-FUN-SIL;BQ;Aquaris U Plus;Funda;Silicona;2,50;;;
+BQ-AUPL-FUN-TPU;BQ;Aquaris U Plus;Funda;Transparente;2,95;;;
+BQ-AUPL-FUN-LIB;BQ;Aquaris U Plus;Funda;Libro;3,70;;;
+BQ-AUPL-FUN-ANT;BQ;Aquaris U Plus;Funda;Antigolpes;3,10;;;
+BQ-AX-PRO-NA;BQ;Aquaris X;Cristal templado;Estándar;1,30;;;
+BQ-AX-PRO-PRI;BQ;Aquaris X;Cristal templado;Privacidad;4,00;;;
+BQ-AX-FUN-SIL;BQ;Aquaris X;Funda;Silicona;2,50;;;
+BQ-AX-FUN-TPU;BQ;Aquaris X;Funda;Transparente;2,95;;;
+BQ-AX-FUN-LIB;BQ;Aquaris X;Funda;Libro;3,70;;;
+BQ-AX-FUN-ANT;BQ;Aquaris X;Funda;Antigolpes;3,10;;;
+BQ-AXP-PRO-NA;BQ;Aquaris X Pro;Cristal templado;Estándar;1,30;;;
+BQ-AXP-PRO-PRI;BQ;Aquaris X Pro;Cristal templado;Privacidad;4,00;;;
+BQ-AXP-FUN-SIL;BQ;Aquaris X Pro;Funda;Silicona;2,50;;;
+BQ-AXP-FUN-TPU;BQ;Aquaris X Pro;Funda;Transparente;2,95;;;
+BQ-AXP-FUN-LIB;BQ;Aquaris X Pro;Funda;Libro;3,70;;;
+BQ-AXP-FUN-ANT;BQ;Aquaris X Pro;Funda;Antigolpes;3,10;;;
+BQ-AU2-PRO-NA;BQ;Aquaris U2;Cristal templado;Estándar;1,30;;;
+BQ-AU2-PRO-PRI;BQ;Aquaris U2;Cristal templado;Privacidad;4,00;;;
+BQ-AU2-FUN-SIL;BQ;Aquaris U2;Funda;Silicona;2,50;;;
+BQ-AU2-FUN-TPU;BQ;Aquaris U2;Funda;Transparente;2,95;;;
+BQ-AU2-FUN-LIB;BQ;Aquaris U2;Funda;Libro;3,70;;;
+BQ-AU2-FUN-ANT;BQ;Aquaris U2;Funda;Antigolpes;3,10;;;
+BQ-AV-PRO-NA;BQ;Aquaris V;Cristal templado;Estándar;1,30;;;
+BQ-AV-PRO-PRI;BQ;Aquaris V;Cristal templado;Privacidad;4,00;;;
+BQ-AV-FUN-SIL;BQ;Aquaris V;Funda;Silicona;2,50;;;
+BQ-AV-FUN-TPU;BQ;Aquaris V;Funda;Transparente;2,95;;;
+BQ-AV-FUN-LIB;BQ;Aquaris V;Funda;Libro;3,70;;;
+BQ-AV-FUN-ANT;BQ;Aquaris V;Funda;Antigolpes;3,10;;;
+BQ-AU2L-PRO-NA;BQ;Aquaris U2 Lite;Cristal templado;Estándar;1,30;;;
+BQ-AU2L-PRO-PRI;BQ;Aquaris U2 Lite;Cristal templado;Privacidad;4,00;;;
+BQ-AU2L-FUN-SIL;BQ;Aquaris U2 Lite;Funda;Silicona;2,50;;;
+BQ-AU2L-FUN-TPU;BQ;Aquaris U2 Lite;Funda;Transparente;2,95;;;
+BQ-AU2L-FUN-LIB;BQ;Aquaris U2 Lite;Funda;Libro;3,70;;;
+BQ-AU2L-FUN-ANT;BQ;Aquaris U2 Lite;Funda;Antigolpes;3,10;;;
+BQ-AVPL-PRO-NA;BQ;Aquaris V Plus;Cristal templado;Estándar;1,30;;;
+BQ-AVPL-PRO-PRI;BQ;Aquaris V Plus;Cristal templado;Privacidad;4,00;;;
+BQ-AVPL-FUN-SIL;BQ;Aquaris V Plus;Funda;Silicona;2,50;;;
+BQ-AVPL-FUN-TPU;BQ;Aquaris V Plus;Funda;Transparente;2,95;;;
+BQ-AVPL-FUN-LIB;BQ;Aquaris V Plus;Funda;Libro;3,70;;;
+BQ-AVPL-FUN-ANT;BQ;Aquaris V Plus;Funda;Antigolpes;3,10;;;
+BQ-AX2-PRO-NA;BQ;Aquaris X2;Cristal templado;Estándar;1,30;;;
+BQ-AX2-PRO-PRI;BQ;Aquaris X2;Cristal templado;Privacidad;4,00;;;
+BQ-AX2-FUN-SIL;BQ;Aquaris X2;Funda;Silicona;2,50;;;
+BQ-AX2-FUN-TPU;BQ;Aquaris X2;Funda;Transparente;2,95;;;
+BQ-AX2-FUN-LIB;BQ;Aquaris X2;Funda;Libro;3,70;;;
+BQ-AX2-FUN-ANT;BQ;Aquaris X2;Funda;Antigolpes;3,10;;;
+BQ-AX2P-PRO-NA;BQ;Aquaris X2 Pro;Cristal templado;Estándar;1,30;;;
+BQ-AX2P-PRO-PRI;BQ;Aquaris X2 Pro;Cristal templado;Privacidad;4,00;;;
+BQ-AX2P-FUN-SIL;BQ;Aquaris X2 Pro;Funda;Silicona;2,50;;;
+BQ-AX2P-FUN-TPU;BQ;Aquaris X2 Pro;Funda;Transparente;2,95;;;
+BQ-AX2P-FUN-LIB;BQ;Aquaris X2 Pro;Funda;Libro;3,70;;;
+BQ-AX2P-FUN-ANT;BQ;Aquaris X2 Pro;Funda;Antigolpes;3,10;;;
+BQ-AC-PRO-NA;BQ;Aquaris C;Cristal templado;Estándar;1,30;;;
+BQ-AC-PRO-PRI;BQ;Aquaris C;Cristal templado;Privacidad;4,00;;;
+BQ-AC-FUN-SIL;BQ;Aquaris C;Funda;Silicona;2,50;;;
+BQ-AC-FUN-TPU;BQ;Aquaris C;Funda;Transparente;2,95;;;
+BQ-AC-FUN-LIB;BQ;Aquaris C;Funda;Libro;3,70;;;
+BQ-AC-FUN-ANT;BQ;Aquaris C;Funda;Antigolpes;3,10;;;
+BQ-AE5-PRO-NA;BQ;Aquaris E5;Cristal templado;Estándar;1,30;;;
+BQ-AE5-PRO-PRI;BQ;Aquaris E5;Cristal templado;Privacidad;4,00;;;
+BQ-AE5-FUN-SIL;BQ;Aquaris E5;Funda;Silicona;2,50;;;
+BQ-AE5-FUN-TPU;BQ;Aquaris E5;Funda;Transparente;2,95;;;
+BQ-AE5-FUN-LIB;BQ;Aquaris E5;Funda;Libro;3,70;;;
+BQ-AE5-FUN-ANT;BQ;Aquaris E5;Funda;Antigolpes;3,10;;;
+BQ-AE45-PRO-NA;BQ;Aquaris E4.5;Cristal templado;Estándar;1,30;;;
+BQ-AE45-PRO-PRI;BQ;Aquaris E4.5;Cristal templado;Privacidad;4,00;;;
+BQ-AE45-FUN-SIL;BQ;Aquaris E4.5;Funda;Silicona;2,50;;;
+BQ-AE45-FUN-TPU;BQ;Aquaris E4.5;Funda;Transparente;2,95;;;
+BQ-AE45-FUN-LIB;BQ;Aquaris E4.5;Funda;Libro;3,70;;;
+BQ-AE45-FUN-ANT;BQ;Aquaris E4.5;Funda;Antigolpes;3,10;;;
+BQ-AA45-MAR-COM;BQ;Aquaris A4.5;Marco / chasis;Compatible;5,00;;;6
+BQ-AA45-BOT-COM;BQ;Aquaris A4.5;Botones laterales;Compatible;2,55;;;6
+BQ-AA45-CRI-COM;BQ;Aquaris A4.5;Cristal de pantalla;Compatible;2,55;;;6
+BQ-AA45-ANT-COM;BQ;Aquaris A4.5;Antena / coaxial;Compatible;2,25;;;6
+BQ-AE5S-MAR-COM;BQ;Aquaris E5s;Marco / chasis;Compatible;5,00;;;6
+BQ-AE5S-BOT-COM;BQ;Aquaris E5s;Botones laterales;Compatible;2,55;;;6
+BQ-AE5S-CRI-COM;BQ;Aquaris E5s;Cristal de pantalla;Compatible;2,55;;;6
+BQ-AE5S-ANT-COM;BQ;Aquaris E5s;Antena / coaxial;Compatible;2,25;;;6
+BQ-AM45-MAR-COM;BQ;Aquaris M4.5;Marco / chasis;Compatible;5,00;;;6
+BQ-AM45-BOT-COM;BQ;Aquaris M4.5;Botones laterales;Compatible;2,55;;;6
+BQ-AM45-CRI-COM;BQ;Aquaris M4.5;Cristal de pantalla;Compatible;2,55;;;6
+BQ-AM45-ANT-COM;BQ;Aquaris M4.5;Antena / coaxial;Compatible;2,25;;;6
+BQ-AM55-MAR-COM;BQ;Aquaris M5.5;Marco / chasis;Compatible;5,00;;;6
+BQ-AM55-BOT-COM;BQ;Aquaris M5.5;Botones laterales;Compatible;2,55;;;6
+BQ-AM55-CRI-COM;BQ;Aquaris M5.5;Cristal de pantalla;Compatible;2,55;;;6
+BQ-AM55-ANT-COM;BQ;Aquaris M5.5;Antena / coaxial;Compatible;2,25;;;6
+BQ-AX5-MAR-COM;BQ;Aquaris X5;Marco / chasis;Compatible;5,75;;;6
+BQ-AX5-BOT-COM;BQ;Aquaris X5;Botones laterales;Compatible;2,95;;;6
+BQ-AX5-CRI-COM;BQ;Aquaris X5;Cristal de pantalla;Compatible;2,95;;;6
+BQ-AX5-ANT-COM;BQ;Aquaris X5;Antena / coaxial;Compatible;2,55;;;6
+BQ-AM5-MAR-COM;BQ;Aquaris M5;Marco / chasis;Compatible;5,00;;;6
+BQ-AM5-BOT-COM;BQ;Aquaris M5;Botones laterales;Compatible;2,55;;;6
+BQ-AM5-CRI-COM;BQ;Aquaris M5;Cristal de pantalla;Compatible;2,55;;;6
+BQ-AM5-ANT-COM;BQ;Aquaris M5;Antena / coaxial;Compatible;2,25;;;6
+BQ-AX5PL-MAR-COM;BQ;Aquaris X5 Plus;Marco / chasis;Compatible;5,75;;;6
+BQ-AX5PL-BOT-COM;BQ;Aquaris X5 Plus;Botones laterales;Compatible;2,95;;;6
+BQ-AX5PL-CRI-COM;BQ;Aquaris X5 Plus;Cristal de pantalla;Compatible;2,95;;;6
+BQ-AX5PL-ANT-COM;BQ;Aquaris X5 Plus;Antena / coaxial;Compatible;2,55;;;6
+BQ-AX5PL-HUE-COM;BQ;Aquaris X5 Plus;Botón home / huella;Compatible;4,25;;;6
+BQ-AU-MAR-COM;BQ;Aquaris U;Marco / chasis;Compatible;5,00;;;6
+BQ-AU-BOT-COM;BQ;Aquaris U;Botones laterales;Compatible;2,55;;;6
+BQ-AU-CRI-COM;BQ;Aquaris U;Cristal de pantalla;Compatible;2,55;;;6
+BQ-AU-ANT-COM;BQ;Aquaris U;Antena / coaxial;Compatible;2,25;;;6
+BQ-AU-HUE-COM;BQ;Aquaris U;Botón home / huella;Compatible;3,70;;;6
+BQ-AUL-MAR-COM;BQ;Aquaris U Lite;Marco / chasis;Compatible;5,00;;;6
+BQ-AUL-BOT-COM;BQ;Aquaris U Lite;Botones laterales;Compatible;2,55;;;6
+BQ-AUL-CRI-COM;BQ;Aquaris U Lite;Cristal de pantalla;Compatible;2,55;;;6
+BQ-AUL-ANT-COM;BQ;Aquaris U Lite;Antena / coaxial;Compatible;2,25;;;6
+BQ-AUL-HUE-COM;BQ;Aquaris U Lite;Botón home / huella;Compatible;3,70;;;6
+BQ-AUPL-MAR-COM;BQ;Aquaris U Plus;Marco / chasis;Compatible;5,00;;;6
+BQ-AUPL-BOT-COM;BQ;Aquaris U Plus;Botones laterales;Compatible;2,55;;;6
+BQ-AUPL-CRI-COM;BQ;Aquaris U Plus;Cristal de pantalla;Compatible;2,55;;;6
+BQ-AUPL-ANT-COM;BQ;Aquaris U Plus;Antena / coaxial;Compatible;2,25;;;6
+BQ-AUPL-HUE-COM;BQ;Aquaris U Plus;Botón home / huella;Compatible;3,70;;;6
+BQ-AX-MAR-COM;BQ;Aquaris X;Marco / chasis;Compatible;6,49;;;6
+BQ-AX-BOT-COM;BQ;Aquaris X;Botones laterales;Compatible;3,35;;;6
+BQ-AX-CRI-COM;BQ;Aquaris X;Cristal de pantalla;Compatible;3,30;;;6
+BQ-AX-ANT-COM;BQ;Aquaris X;Antena / coaxial;Compatible;2,89;;;6
+BQ-AX-HUE-COM;BQ;Aquaris X;Botón home / huella;Compatible;4,79;;;6
+BQ-AXP-MAR-COM;BQ;Aquaris X Pro;Marco / chasis;Compatible;6,49;;;6
+BQ-AXP-BOT-COM;BQ;Aquaris X Pro;Botones laterales;Compatible;3,35;;;6
+BQ-AXP-CRI-COM;BQ;Aquaris X Pro;Cristal de pantalla;Compatible;3,30;;;6
+BQ-AXP-ANT-COM;BQ;Aquaris X Pro;Antena / coaxial;Compatible;2,89;;;6
+BQ-AXP-HUE-COM;BQ;Aquaris X Pro;Botón home / huella;Compatible;4,79;;;6
+BQ-AU2-MAR-COM;BQ;Aquaris U2;Marco / chasis;Compatible;5,65;;;6
+BQ-AU2-BOT-COM;BQ;Aquaris U2;Botones laterales;Compatible;2,89;;;6
+BQ-AU2-CRI-COM;BQ;Aquaris U2;Cristal de pantalla;Compatible;2,89;;;6
+BQ-AU2-ANT-COM;BQ;Aquaris U2;Antena / coaxial;Compatible;2,50;;;6
+BQ-AU2-HUE-COM;BQ;Aquaris U2;Botón home / huella;Compatible;4,15;;;6
+BQ-AV-MAR-COM;BQ;Aquaris V;Marco / chasis;Compatible;5,65;;;6
+BQ-AV-BOT-COM;BQ;Aquaris V;Botones laterales;Compatible;2,89;;;6
+BQ-AV-CRI-COM;BQ;Aquaris V;Cristal de pantalla;Compatible;2,89;;;6
+BQ-AV-ANT-COM;BQ;Aquaris V;Antena / coaxial;Compatible;2,50;;;6
+BQ-AV-HUE-COM;BQ;Aquaris V;Botón home / huella;Compatible;4,15;;;6
+BQ-AU2L-MAR-COM;BQ;Aquaris U2 Lite;Marco / chasis;Compatible;5,65;;;6
+BQ-AU2L-BOT-COM;BQ;Aquaris U2 Lite;Botones laterales;Compatible;2,89;;;6
+BQ-AU2L-CRI-COM;BQ;Aquaris U2 Lite;Cristal de pantalla;Compatible;2,89;;;6
+BQ-AU2L-ANT-COM;BQ;Aquaris U2 Lite;Antena / coaxial;Compatible;2,50;;;6
+BQ-AU2L-HUE-COM;BQ;Aquaris U2 Lite;Botón home / huella;Compatible;4,15;;;6
+BQ-AVPL-MAR-COM;BQ;Aquaris V Plus;Marco / chasis;Compatible;5,65;;;6
+BQ-AVPL-BOT-COM;BQ;Aquaris V Plus;Botones laterales;Compatible;2,89;;;6
+BQ-AVPL-CRI-COM;BQ;Aquaris V Plus;Cristal de pantalla;Compatible;2,89;;;6
+BQ-AVPL-ANT-COM;BQ;Aquaris V Plus;Antena / coaxial;Compatible;2,50;;;6
+BQ-AVPL-HUE-COM;BQ;Aquaris V Plus;Botón home / huella;Compatible;4,15;;;6
+BQ-AX2-MAR-COM;BQ;Aquaris X2;Marco / chasis;Compatible;6,49;;;6
+BQ-AX2-BOT-COM;BQ;Aquaris X2;Botones laterales;Compatible;3,35;;;6
+BQ-AX2-CRI-COM;BQ;Aquaris X2;Cristal de pantalla;Compatible;3,30;;;6
+BQ-AX2-ANT-COM;BQ;Aquaris X2;Antena / coaxial;Compatible;2,89;;;6
+BQ-AX2-HUE-COM;BQ;Aquaris X2;Botón home / huella;Compatible;4,79;;;6
+BQ-AX2P-MAR-COM;BQ;Aquaris X2 Pro;Marco / chasis;Compatible;6,49;;;6
+BQ-AX2P-BOT-COM;BQ;Aquaris X2 Pro;Botones laterales;Compatible;3,35;;;6
+BQ-AX2P-CRI-COM;BQ;Aquaris X2 Pro;Cristal de pantalla;Compatible;3,30;;;6
+BQ-AX2P-ANT-COM;BQ;Aquaris X2 Pro;Antena / coaxial;Compatible;2,89;;;6
+BQ-AX2P-HUE-COM;BQ;Aquaris X2 Pro;Botón home / huella;Compatible;4,79;;;6
+BQ-AC-MAR-COM;BQ;Aquaris C;Marco / chasis;Compatible;5,65;;;6
+BQ-AC-BOT-COM;BQ;Aquaris C;Botones laterales;Compatible;2,89;;;6
+BQ-AC-CRI-COM;BQ;Aquaris C;Cristal de pantalla;Compatible;2,89;;;6
+BQ-AC-ANT-COM;BQ;Aquaris C;Antena / coaxial;Compatible;2,50;;;6
+BQ-AC-HUE-COM;BQ;Aquaris C;Botón home / huella;Compatible;4,15;;;6
+BQ-AE5-MAR-COM;BQ;Aquaris E5;Marco / chasis;Compatible;5,00;;;6
+BQ-AE5-BOT-COM;BQ;Aquaris E5;Botones laterales;Compatible;2,55;;;6
+BQ-AE5-ANT-COM;BQ;Aquaris E5;Antena / coaxial;Compatible;2,25;;;6
+BQ-AE45-MAR-COM;BQ;Aquaris E4.5;Marco / chasis;Compatible;5,00;;;6
+BQ-AE45-BOT-COM;BQ;Aquaris E4.5;Botones laterales;Compatible;2,55;;;6
+BQ-AE45-ANT-COM;BQ;Aquaris E4.5;Antena / coaxial;Compatible;2,25;;;6

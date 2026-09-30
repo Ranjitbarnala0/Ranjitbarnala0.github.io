@@ -1,0 +1,22 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+PH-E105-PAN-COM;Philips;E105;Pantalla;Compatible;15,15;14,70;14,24;6
+PH-E105-BAT-COM;Philips;E105;Batería;Compatible;9,65;;;6
+PH-E105-CON-COM;Philips;E105;Conector de carga;Compatible;4,60;;;6
+PH-E105-TAP-COM;Philips;E105;Tapa trasera;Compatible;5,40;;;6
+PH-E105-CTR-COM;Philips;E105;Cámara trasera;Compatible;7,59;;;6
+PH-E105-CFR-COM;Philips;E105;Cámara frontal;Compatible;4,99;;;6
+PH-E105-LEN-COM;Philips;E105;Lente de cámara;Compatible;2,19;;;6
+PH-E105-ALT-COM;Philips;E105;Altavoz;Compatible;3,65;;;6
+PH-E105-AUR-COM;Philips;E105;Auricular de llamada;Compatible;2,65;;;6
+PH-E105-FLX-COM;Philips;E105;Flex de encendido y volumen;Compatible;2,49;;;6
+PH-E105-SIM-COM;Philips;E105;Bandeja SIM;Compatible;2,55;;;6
+PH-E105-PRO-NA;Philips;E105;Cristal templado;Estándar;1,30;;;
+PH-E105-PRO-PRI;Philips;E105;Cristal templado;Privacidad;4,00;;;
+PH-E105-FUN-SIL;Philips;E105;Funda;Silicona;2,50;;;
+PH-E105-FUN-TPU;Philips;E105;Funda;Transparente;2,95;;;
+PH-E105-FUN-LIB;Philips;E105;Funda;Libro;3,70;;;
+PH-E105-FUN-ANT;Philips;E105;Funda;Antigolpes;3,10;;;
+PH-E105-MAR-COM;Philips;E105;Marco / chasis;Compatible;5,75;;;6
+PH-E105-BOT-COM;Philips;E105;Botones laterales;Compatible;2,95;;;6
+PH-E105-CRI-COM;Philips;E105;Cristal de pantalla;Compatible;2,95;;;6
+PH-E105-ANT-COM;Philips;E105;Antena / coaxial;Compatible;2,55;;;6

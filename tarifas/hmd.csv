@@ -1,0 +1,582 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+HM-V2-PAN-COM;HMD;Vibe 2;Pantalla;Compatible;15,45;14,99;14,52;6
+HM-V2-BAT-COM;HMD;Vibe 2;Batería;Compatible;8,20;;;6
+HM-V2-CON-COM;HMD;Vibe 2;Conector de carga;Compatible;4,85;;;6
+HM-V2-TAP-COM;HMD;Vibe 2;Tapa trasera;Compatible;5,95;;;6
+HM-V2-CTR-COM;HMD;Vibe 2;Cámara trasera;Compatible;10,45;10,14;9,82;6
+HM-V2-CFR-COM;HMD;Vibe 2;Cámara frontal;Compatible;7,00;;;6
+HM-V2-LEN-COM;HMD;Vibe 2;Lente de cámara;Compatible;3,05;;;6
+HM-V2-ALT-COM;HMD;Vibe 2;Altavoz;Compatible;4,65;;;6
+HM-V2-AUR-COM;HMD;Vibe 2;Auricular de llamada;Compatible;3,75;;;6
+HM-V2-FLX-COM;HMD;Vibe 2;Flex de encendido y volumen;Compatible;3,10;;;6
+HM-V2-SIM-COM;HMD;Vibe 2;Bandeja SIM;Compatible;3,19;;;6
+HM-L-PAN-COM;HMD;Luma;Pantalla;Compatible;15,45;14,99;14,52;6
+HM-L-BAT-COM;HMD;Luma;Batería;Compatible;8,20;;;6
+HM-L-CON-COM;HMD;Luma;Conector de carga;Compatible;4,85;;;6
+HM-L-TAP-COM;HMD;Luma;Tapa trasera;Compatible;5,95;;;6
+HM-L-CTR-COM;HMD;Luma;Cámara trasera;Compatible;10,45;10,14;9,82;6
+HM-L-CFR-COM;HMD;Luma;Cámara frontal;Compatible;7,00;;;6
+HM-L-LEN-COM;HMD;Luma;Lente de cámara;Compatible;3,05;;;6
+HM-L-ALT-COM;HMD;Luma;Altavoz;Compatible;4,65;;;6
+HM-L-AUR-COM;HMD;Luma;Auricular de llamada;Compatible;3,75;;;6
+HM-L-FLX-COM;HMD;Luma;Flex de encendido y volumen;Compatible;3,10;;;6
+HM-L-SIM-COM;HMD;Luma;Bandeja SIM;Compatible;3,19;;;6
+HM-A305-PAN-COM;HMD;Asha 305;Pantalla;Compatible;15,45;14,99;14,52;6
+HM-A305-BAT-COM;HMD;Asha 305;Batería;Compatible;8,20;;;6
+HM-A305-CON-COM;HMD;Asha 305;Conector de carga;Compatible;4,85;;;6
+HM-A305-TAP-COM;HMD;Asha 305;Tapa trasera;Compatible;5,95;;;6
+HM-A305-CTR-COM;HMD;Asha 305;Cámara trasera;Compatible;10,45;10,14;9,82;6
+HM-A305-CFR-COM;HMD;Asha 305;Cámara frontal;Compatible;7,00;;;6
+HM-A305-LEN-COM;HMD;Asha 305;Lente de cámara;Compatible;3,05;;;6
+HM-A305-ALT-COM;HMD;Asha 305;Altavoz;Compatible;4,65;;;6
+HM-A305-AUR-COM;HMD;Asha 305;Auricular de llamada;Compatible;3,75;;;6
+HM-A305-FLX-COM;HMD;Asha 305;Flex de encendido y volumen;Compatible;3,10;;;6
+HM-A305-SIM-COM;HMD;Asha 305;Bandeja SIM;Compatible;3,19;;;6
+HM-TAI-PAN-COM;HMD;Touch AI;Pantalla;Compatible;15,45;14,99;14,52;6
+HM-TAI-BAT-COM;HMD;Touch AI;Batería;Compatible;8,20;;;6
+HM-TAI-CON-COM;HMD;Touch AI;Conector de carga;Compatible;4,85;;;6
+HM-TAI-TAP-COM;HMD;Touch AI;Tapa trasera;Compatible;5,95;;;6
+HM-TAI-CTR-COM;HMD;Touch AI;Cámara trasera;Compatible;10,45;10,14;9,82;6
+HM-TAI-CFR-COM;HMD;Touch AI;Cámara frontal;Compatible;7,00;;;6
+HM-TAI-LEN-COM;HMD;Touch AI;Lente de cámara;Compatible;3,05;;;6
+HM-TAI-ALT-COM;HMD;Touch AI;Altavoz;Compatible;4,65;;;6
+HM-TAI-AUR-COM;HMD;Touch AI;Auricular de llamada;Compatible;3,75;;;6
+HM-TAI-FLX-COM;HMD;Touch AI;Flex de encendido y volumen;Compatible;3,10;;;6
+HM-TAI-SIM-COM;HMD;Touch AI;Bandeja SIM;Compatible;3,19;;;6
+HM-100-PAN-COM;HMD;100;Pantalla;Compatible;15,45;14,99;14,52;6
+HM-100-BAT-COM;HMD;100;Batería;Compatible;8,20;;;6
+HM-100-CON-COM;HMD;100;Conector de carga;Compatible;4,85;;;6
+HM-100-TAP-COM;HMD;100;Tapa trasera;Compatible;5,95;;;6
+HM-100-CTR-COM;HMD;100;Cámara trasera;Compatible;10,45;10,14;9,82;6
+HM-100-CFR-COM;HMD;100;Cámara frontal;Compatible;7,00;;;6
+HM-100-LEN-COM;HMD;100;Lente de cámara;Compatible;3,05;;;6
+HM-100-ALT-COM;HMD;100;Altavoz;Compatible;4,65;;;6
+HM-100-AUR-COM;HMD;100;Auricular de llamada;Compatible;3,75;;;6
+HM-100-FLX-COM;HMD;100;Flex de encendido y volumen;Compatible;3,10;;;6
+HM-100-SIM-COM;HMD;100;Bandeja SIM;Compatible;3,19;;;6
+HM-T4-PAN-COM;HMD;Touch 4G;Pantalla;Compatible;15,45;14,99;14,52;6
+HM-T4-BAT-COM;HMD;Touch 4G;Batería;Compatible;8,20;;;6
+HM-T4-CON-COM;HMD;Touch 4G;Conector de carga;Compatible;4,85;;;6
+HM-T4-TAP-COM;HMD;Touch 4G;Tapa trasera;Compatible;5,95;;;6
+HM-T4-CTR-COM;HMD;Touch 4G;Cámara trasera;Compatible;10,45;10,14;9,82;6
+HM-T4-CFR-COM;HMD;Touch 4G;Cámara frontal;Compatible;7,00;;;6
+HM-T4-LEN-COM;HMD;Touch 4G;Lente de cámara;Compatible;3,05;;;6
+HM-T4-ALT-COM;HMD;Touch 4G;Altavoz;Compatible;4,65;;;6
+HM-T4-AUR-COM;HMD;Touch 4G;Auricular de llamada;Compatible;3,75;;;6
+HM-T4-FLX-COM;HMD;Touch 4G;Flex de encendido y volumen;Compatible;3,10;;;6
+HM-T4-SIM-COM;HMD;Touch 4G;Bandeja SIM;Compatible;3,19;;;6
+HM-IXE-PAN-COM;HMD;Ivalo XE;Pantalla;Compatible;15,45;14,99;14,52;6
+HM-IXE-BAT-COM;HMD;Ivalo XE;Batería;Compatible;8,20;;;6
+HM-IXE-CON-COM;HMD;Ivalo XE;Conector de carga;Compatible;4,85;;;6
+HM-IXE-TAP-COM;HMD;Ivalo XE;Tapa trasera;Compatible;5,95;;;6
+HM-IXE-CTR-COM;HMD;Ivalo XE;Cámara trasera;Compatible;10,45;10,14;9,82;6
+HM-IXE-CFR-COM;HMD;Ivalo XE;Cámara frontal;Compatible;7,00;;;6
+HM-IXE-LEN-COM;HMD;Ivalo XE;Lente de cámara;Compatible;3,05;;;6
+HM-IXE-ALT-COM;HMD;Ivalo XE;Altavoz;Compatible;4,65;;;6
+HM-IXE-AUR-COM;HMD;Ivalo XE;Auricular de llamada;Compatible;3,75;;;6
+HM-IXE-FLX-COM;HMD;Ivalo XE;Flex de encendido y volumen;Compatible;3,10;;;6
+HM-IXE-SIM-COM;HMD;Ivalo XE;Bandeja SIM;Compatible;3,19;;;6
+HM-V5-PAN-COM;HMD;Vibe 5G;Pantalla;Compatible;15,45;14,99;14,52;6
+HM-V5-BAT-COM;HMD;Vibe 5G;Batería;Compatible;8,20;;;6
+HM-V5-CON-COM;HMD;Vibe 5G;Conector de carga;Compatible;4,85;;;6
+HM-V5-TAP-COM;HMD;Vibe 5G;Tapa trasera;Compatible;5,95;;;6
+HM-V5-CTR-COM;HMD;Vibe 5G;Cámara trasera;Compatible;10,45;10,14;9,82;6
+HM-V5-CFR-COM;HMD;Vibe 5G;Cámara frontal;Compatible;7,00;;;6
+HM-V5-LEN-COM;HMD;Vibe 5G;Lente de cámara;Compatible;3,05;;;6
+HM-V5-ALT-COM;HMD;Vibe 5G;Altavoz;Compatible;4,65;;;6
+HM-V5-AUR-COM;HMD;Vibe 5G;Auricular de llamada;Compatible;3,75;;;6
+HM-V5-FLX-COM;HMD;Vibe 5G;Flex de encendido y volumen;Compatible;3,10;;;6
+HM-V5-SIM-COM;HMD;Vibe 5G;Bandeja SIM;Compatible;3,19;;;6
+HM-2660FL-PAN-COM;HMD;2660 Flip;Pantalla;Compatible;56,20;54,51;52,83;6
+HM-2660FL-BAT-COM;HMD;2660 Flip;Batería;Compatible;8,39;;;6
+HM-2660FL-CON-COM;HMD;2660 Flip;Conector de carga;Compatible;4,45;;;6
+HM-2660FL-TAP-COM;HMD;2660 Flip;Tapa trasera;Compatible;5,50;;;6
+HM-2660FL-CTR-COM;HMD;2660 Flip;Cámara trasera;Compatible;9,40;;;6
+HM-2660FL-CFR-COM;HMD;2660 Flip;Cámara frontal;Compatible;6,60;;;6
+HM-2660FL-LEN-COM;HMD;2660 Flip;Lente de cámara;Compatible;2,89;;;6
+HM-2660FL-ALT-COM;HMD;2660 Flip;Altavoz;Compatible;4,30;;;6
+HM-2660FL-AUR-COM;HMD;2660 Flip;Auricular de llamada;Compatible;3,50;;;6
+HM-2660FL-FLX-COM;HMD;2660 Flip;Flex de encendido y volumen;Compatible;2,80;;;6
+HM-2660FL-SIM-COM;HMD;2660 Flip;Bandeja SIM;Compatible;3,05;;;6
+HM-BP-PAN-COM;HMD;Barbie Phone;Pantalla;Compatible;14,69;14,25;13,81;6
+HM-BP-BAT-COM;HMD;Barbie Phone;Batería;Compatible;8,69;;;6
+HM-BP-CON-COM;HMD;Barbie Phone;Conector de carga;Compatible;4,05;;;6
+HM-BP-TAP-COM;HMD;Barbie Phone;Tapa trasera;Compatible;5,55;;;6
+HM-BP-CTR-COM;HMD;Barbie Phone;Cámara trasera;Compatible;7,60;;;6
+HM-BP-CFR-COM;HMD;Barbie Phone;Cámara frontal;Compatible;5,00;;;6
+HM-BP-LEN-COM;HMD;Barbie Phone;Lente de cámara;Compatible;2,35;;;6
+HM-BP-ALT-COM;HMD;Barbie Phone;Altavoz;Compatible;3,55;;;6
+HM-BP-AUR-COM;HMD;Barbie Phone;Auricular de llamada;Compatible;2,65;;;6
+HM-BP-FLX-COM;HMD;Barbie Phone;Flex de encendido y volumen;Compatible;2,85;;;6
+HM-BP-SIM-COM;HMD;Barbie Phone;Bandeja SIM;Compatible;2,69;;;6
+HM-C-PAN-COM;HMD;Crest;Pantalla;Compatible;14,69;14,25;13,81;6
+HM-C-BAT-COM;HMD;Crest;Batería;Compatible;8,69;;;6
+HM-C-CON-COM;HMD;Crest;Conector de carga;Compatible;4,05;;;6
+HM-C-TAP-COM;HMD;Crest;Tapa trasera;Compatible;5,55;;;6
+HM-C-CTR-COM;HMD;Crest;Cámara trasera;Compatible;7,60;;;6
+HM-C-CFR-COM;HMD;Crest;Cámara frontal;Compatible;5,00;;;6
+HM-C-LEN-COM;HMD;Crest;Lente de cámara;Compatible;2,35;;;6
+HM-C-ALT-COM;HMD;Crest;Altavoz;Compatible;3,55;;;6
+HM-C-AUR-COM;HMD;Crest;Auricular de llamada;Compatible;2,65;;;6
+HM-C-FLX-COM;HMD;Crest;Flex de encendido y volumen;Compatible;2,85;;;6
+HM-C-SIM-COM;HMD;Crest;Bandeja SIM;Compatible;2,69;;;6
+HM-CM-PAN-COM;HMD;Crest Max;Pantalla;Compatible;14,69;14,25;13,81;6
+HM-CM-BAT-COM;HMD;Crest Max;Batería;Compatible;8,69;;;6
+HM-CM-CON-COM;HMD;Crest Max;Conector de carga;Compatible;4,05;;;6
+HM-CM-TAP-COM;HMD;Crest Max;Tapa trasera;Compatible;5,55;;;6
+HM-CM-CTR-COM;HMD;Crest Max;Cámara trasera;Compatible;7,60;;;6
+HM-CM-CFR-COM;HMD;Crest Max;Cámara frontal;Compatible;5,00;;;6
+HM-CM-LEN-COM;HMD;Crest Max;Lente de cámara;Compatible;2,35;;;6
+HM-CM-ALT-COM;HMD;Crest Max;Altavoz;Compatible;3,55;;;6
+HM-CM-AUR-COM;HMD;Crest Max;Auricular de llamada;Compatible;2,65;;;6
+HM-CM-FLX-COM;HMD;Crest Max;Flex de encendido y volumen;Compatible;2,85;;;6
+HM-CM-SIM-COM;HMD;Crest Max;Bandeja SIM;Compatible;2,69;;;6
+HM-105-PAN-COM;HMD;105;Pantalla;Compatible;14,69;14,25;13,81;6
+HM-105-BAT-COM;HMD;105;Batería;Compatible;8,69;;;6
+HM-105-CON-COM;HMD;105;Conector de carga;Compatible;4,05;;;6
+HM-105-TAP-COM;HMD;105;Tapa trasera;Compatible;5,55;;;6
+HM-105-CTR-COM;HMD;105;Cámara trasera;Compatible;7,60;;;6
+HM-105-CFR-COM;HMD;105;Cámara frontal;Compatible;5,00;;;6
+HM-105-LEN-COM;HMD;105;Lente de cámara;Compatible;2,35;;;6
+HM-105-ALT-COM;HMD;105;Altavoz;Compatible;3,55;;;6
+HM-105-AUR-COM;HMD;105;Auricular de llamada;Compatible;2,65;;;6
+HM-105-FLX-COM;HMD;105;Flex de encendido y volumen;Compatible;2,85;;;6
+HM-105-SIM-COM;HMD;105;Bandeja SIM;Compatible;2,69;;;6
+HM-110-PAN-COM;HMD;110;Pantalla;Compatible;14,69;14,25;13,81;6
+HM-110-BAT-COM;HMD;110;Batería;Compatible;8,69;;;6
+HM-110-CON-COM;HMD;110;Conector de carga;Compatible;4,05;;;6
+HM-110-TAP-COM;HMD;110;Tapa trasera;Compatible;5,55;;;6
+HM-110-CTR-COM;HMD;110;Cámara trasera;Compatible;7,60;;;6
+HM-110-CFR-COM;HMD;110;Cámara frontal;Compatible;5,00;;;6
+HM-110-LEN-COM;HMD;110;Lente de cámara;Compatible;2,35;;;6
+HM-110-ALT-COM;HMD;110;Altavoz;Compatible;3,55;;;6
+HM-110-AUR-COM;HMD;110;Auricular de llamada;Compatible;2,65;;;6
+HM-110-FLX-COM;HMD;110;Flex de encendido y volumen;Compatible;2,85;;;6
+HM-110-SIM-COM;HMD;110;Bandeja SIM;Compatible;2,69;;;6
+HM-V-PAN-COM;HMD;Vibe;Pantalla;Compatible;14,69;14,25;13,81;6
+HM-V-BAT-COM;HMD;Vibe;Batería;Compatible;8,69;;;6
+HM-V-CON-COM;HMD;Vibe;Conector de carga;Compatible;4,05;;;6
+HM-V-TAP-COM;HMD;Vibe;Tapa trasera;Compatible;5,55;;;6
+HM-V-CTR-COM;HMD;Vibe;Cámara trasera;Compatible;7,60;;;6
+HM-V-CFR-COM;HMD;Vibe;Cámara frontal;Compatible;5,00;;;6
+HM-V-LEN-COM;HMD;Vibe;Lente de cámara;Compatible;2,35;;;6
+HM-V-ALT-COM;HMD;Vibe;Altavoz;Compatible;3,55;;;6
+HM-V-AUR-COM;HMD;Vibe;Auricular de llamada;Compatible;2,65;;;6
+HM-V-FLX-COM;HMD;Vibe;Flex de encendido y volumen;Compatible;2,85;;;6
+HM-V-SIM-COM;HMD;Vibe;Bandeja SIM;Compatible;2,69;;;6
+HM-P-PAN-COM;HMD;Pulse;Pantalla;Compatible;14,69;14,25;13,81;6
+HM-P-BAT-COM;HMD;Pulse;Batería;Compatible;8,69;;;6
+HM-P-CON-COM;HMD;Pulse;Conector de carga;Compatible;4,05;;;6
+HM-P-TAP-COM-ROS;HMD;Pulse;Tapa trasera;Rosa (Dreamy Pink);5,55;;;6
+HM-P-TAP-COM-NEG;HMD;Pulse;Tapa trasera;Negro (Meteor Black);5,55;;;6
+HM-P-TAP-COM-AZU;HMD;Pulse;Tapa trasera;Azul (Atmos Blue);5,55;;;6
+HM-P-CTR-COM;HMD;Pulse;Cámara trasera;Compatible;7,60;;;6
+HM-P-CFR-COM;HMD;Pulse;Cámara frontal;Compatible;5,00;;;6
+HM-P-LEN-COM;HMD;Pulse;Lente de cámara;Compatible;2,35;;;6
+HM-P-ALT-COM;HMD;Pulse;Altavoz;Compatible;3,55;;;6
+HM-P-AUR-COM;HMD;Pulse;Auricular de llamada;Compatible;2,65;;;6
+HM-P-FLX-COM;HMD;Pulse;Flex de encendido y volumen;Compatible;2,85;;;6
+HM-P-SIM-COM;HMD;Pulse;Bandeja SIM;Compatible;2,69;;;6
+HM-PPL-PAN-COM;HMD;Pulse+;Pantalla;Compatible;14,69;14,25;13,81;6
+HM-PPL-BAT-COM;HMD;Pulse+;Batería;Compatible;8,69;;;6
+HM-PPL-CON-COM;HMD;Pulse+;Conector de carga;Compatible;4,05;;;6
+HM-PPL-TAP-COM-APR;HMD;Pulse+;Tapa trasera;Apricot Crush;5,55;;;6
+HM-PPL-TAP-COM-AZU;HMD;Pulse+;Tapa trasera;Azul (Midnight Blue);5,55;;;6
+HM-PPL-TAP-COM-VER;HMD;Pulse+;Tapa trasera;Verde (Glacier Green);5,55;;;6
+HM-PPL-CTR-COM;HMD;Pulse+;Cámara trasera;Compatible;7,60;;;6
+HM-PPL-CFR-COM;HMD;Pulse+;Cámara frontal;Compatible;5,00;;;6
+HM-PPL-LEN-COM;HMD;Pulse+;Lente de cámara;Compatible;2,35;;;6
+HM-PPL-ALT-COM;HMD;Pulse+;Altavoz;Compatible;3,55;;;6
+HM-PPL-AUR-COM;HMD;Pulse+;Auricular de llamada;Compatible;2,65;;;6
+HM-PPL-FLX-COM;HMD;Pulse+;Flex de encendido y volumen;Compatible;2,85;;;6
+HM-PPL-SIM-COM;HMD;Pulse+;Bandeja SIM;Compatible;2,69;;;6
+HM-PP-PAN-COM;HMD;Pulse Pro;Pantalla;Compatible;14,69;14,25;13,81;6
+HM-PP-BAT-COM;HMD;Pulse Pro;Batería;Compatible;8,69;;;6
+HM-PP-CON-COM;HMD;Pulse Pro;Conector de carga;Compatible;4,05;;;6
+HM-PP-TAP-COM-VER;HMD;Pulse Pro;Tapa trasera;Verde (Glacier Green);5,55;;;6
+HM-PP-TAP-COM-NEG;HMD;Pulse Pro;Tapa trasera;Negro (Black Ocean);5,55;;;6
+HM-PP-TAP-COM-MOR;HMD;Pulse Pro;Tapa trasera;Morado (Twilight Purple);5,55;;;6
+HM-PP-CTR-COM;HMD;Pulse Pro;Cámara trasera;Compatible;7,60;;;6
+HM-PP-CFR-COM;HMD;Pulse Pro;Cámara frontal;Compatible;5,00;;;6
+HM-PP-LEN-COM;HMD;Pulse Pro;Lente de cámara;Compatible;2,35;;;6
+HM-PP-ALT-COM;HMD;Pulse Pro;Altavoz;Compatible;3,55;;;6
+HM-PP-AUR-COM;HMD;Pulse Pro;Auricular de llamada;Compatible;2,65;;;6
+HM-PP-FLX-COM;HMD;Pulse Pro;Flex de encendido y volumen;Compatible;2,85;;;6
+HM-PP-SIM-COM;HMD;Pulse Pro;Bandeja SIM;Compatible;2,69;;;6
+HM-XR21-PAN-COM;HMD;XR21;Pantalla;Compatible;14,69;14,25;13,81;6
+HM-XR21-BAT-COM;HMD;XR21;Batería;Compatible;8,69;;;6
+HM-XR21-CON-COM;HMD;XR21;Conector de carga;Compatible;4,05;;;6
+HM-XR21-TAP-COM-NEG;HMD;XR21;Tapa trasera;Negro medianoche;5,55;;;6
+HM-XR21-CTR-COM;HMD;XR21;Cámara trasera;Compatible;7,60;;;6
+HM-XR21-CFR-COM;HMD;XR21;Cámara frontal;Compatible;5,00;;;6
+HM-XR21-LEN-COM;HMD;XR21;Lente de cámara;Compatible;2,35;;;6
+HM-XR21-ALT-COM;HMD;XR21;Altavoz;Compatible;3,55;;;6
+HM-XR21-AUR-COM;HMD;XR21;Auricular de llamada;Compatible;2,65;;;6
+HM-XR21-FLX-COM;HMD;XR21;Flex de encendido y volumen;Compatible;2,85;;;6
+HM-XR21-SIM-COM;HMD;XR21;Bandeja SIM;Compatible;2,69;;;6
+HM-S-PAN-INC;HMD;Skyline;Pantalla;Incell;19,99;19,39;18,79;6
+HM-S-BAT-COM;HMD;Skyline;Batería;Compatible;9,40;;;6
+HM-S-CON-COM;HMD;Skyline;Conector de carga;Compatible;5,05;;;6
+HM-S-TAP-COM-AZU;HMD;Skyline;Tapa trasera;Azul (Blue Topaz);6,20;;;6
+HM-S-TAP-COM-ROS;HMD;Skyline;Tapa trasera;Rosa (Neon Pink);6,20;;;6
+HM-S-TAP-COM-NEG;HMD;Skyline;Tapa trasera;Negro (Twisted Black);6,20;;;6
+HM-S-CTR-COM;HMD;Skyline;Cámara trasera;Compatible;8,65;;;6
+HM-S-CFR-COM;HMD;Skyline;Cámara frontal;Compatible;5,35;;;6
+HM-S-LEN-COM;HMD;Skyline;Lente de cámara;Compatible;2,30;;;6
+HM-S-ALT-COM;HMD;Skyline;Altavoz;Compatible;3,60;;;6
+HM-S-AUR-COM;HMD;Skyline;Auricular de llamada;Compatible;2,65;;;6
+HM-S-FLX-COM;HMD;Skyline;Flex de encendido y volumen;Compatible;2,79;;;6
+HM-S-SIM-COM;HMD;Skyline;Bandeja SIM;Compatible;2,55;;;6
+HM-F-PAN-COM;HMD;Fusion;Pantalla;Compatible;14,69;14,25;13,81;6
+HM-F-BAT-COM;HMD;Fusion;Batería;Compatible;8,69;;;6
+HM-F-CON-COM;HMD;Fusion;Conector de carga;Compatible;4,05;;;6
+HM-F-TAP-COM-NOI;HMD;Fusion;Tapa trasera;Noir;5,55;;;6
+HM-F-CTR-COM;HMD;Fusion;Cámara trasera;Compatible;7,60;;;6
+HM-F-CFR-COM;HMD;Fusion;Cámara frontal;Compatible;5,00;;;6
+HM-F-LEN-COM;HMD;Fusion;Lente de cámara;Compatible;2,35;;;6
+HM-F-ALT-COM;HMD;Fusion;Altavoz;Compatible;3,55;;;6
+HM-F-AUR-COM;HMD;Fusion;Auricular de llamada;Compatible;2,65;;;6
+HM-F-FLX-COM;HMD;Fusion;Flex de encendido y volumen;Compatible;2,85;;;6
+HM-F-SIM-COM;HMD;Fusion;Bandeja SIM;Compatible;2,69;;;6
+HM-ARC-PAN-COM;HMD;Arc;Pantalla;Compatible;15,45;14,99;14,52;6
+HM-ARC-BAT-COM;HMD;Arc;Batería;Compatible;8,20;;;6
+HM-ARC-CON-COM;HMD;Arc;Conector de carga;Compatible;4,85;;;6
+HM-ARC-TAP-COM-NEG;HMD;Arc;Tapa trasera;Negro (Shadow Black);5,95;;;6
+HM-ARC-CTR-COM;HMD;Arc;Cámara trasera;Compatible;10,45;10,14;9,82;6
+HM-ARC-CFR-COM;HMD;Arc;Cámara frontal;Compatible;7,00;;;6
+HM-ARC-LEN-COM;HMD;Arc;Lente de cámara;Compatible;3,05;;;6
+HM-ARC-ALT-COM;HMD;Arc;Altavoz;Compatible;4,65;;;6
+HM-ARC-AUR-COM;HMD;Arc;Auricular de llamada;Compatible;3,75;;;6
+HM-ARC-FLX-COM;HMD;Arc;Flex de encendido y volumen;Compatible;3,10;;;6
+HM-ARC-SIM-COM;HMD;Arc;Bandeja SIM;Compatible;3,19;;;6
+HM-KEY-PAN-COM;HMD;Key;Pantalla;Compatible;15,45;14,99;14,52;6
+HM-KEY-BAT-COM;HMD;Key;Batería;Compatible;8,20;;;6
+HM-KEY-CON-COM;HMD;Key;Conector de carga;Compatible;4,85;;;6
+HM-KEY-TAP-COM-AZU;HMD;Key;Tapa trasera;Azul hielo;5,95;;;6
+HM-KEY-TAP-COM-NEG;HMD;Key;Tapa trasera;Negro (Midnight Black);5,95;;;6
+HM-KEY-CTR-COM;HMD;Key;Cámara trasera;Compatible;10,45;10,14;9,82;6
+HM-KEY-CFR-COM;HMD;Key;Cámara frontal;Compatible;7,00;;;6
+HM-KEY-LEN-COM;HMD;Key;Lente de cámara;Compatible;3,05;;;6
+HM-KEY-ALT-COM;HMD;Key;Altavoz;Compatible;4,65;;;6
+HM-KEY-AUR-COM;HMD;Key;Auricular de llamada;Compatible;3,75;;;6
+HM-KEY-FLX-COM;HMD;Key;Flex de encendido y volumen;Compatible;3,10;;;6
+HM-KEY-SIM-COM;HMD;Key;Bandeja SIM;Compatible;3,19;;;6
+HM-FX1-PAN-COM;HMD;Fusion X1;Pantalla;Compatible;15,45;14,99;14,52;6
+HM-FX1-BAT-COM;HMD;Fusion X1;Batería;Compatible;8,20;;;6
+HM-FX1-CON-COM;HMD;Fusion X1;Conector de carga;Compatible;4,85;;;6
+HM-FX1-TAP-COM-NOI;HMD;Fusion X1;Tapa trasera;Noir;5,95;;;6
+HM-FX1-CTR-COM;HMD;Fusion X1;Cámara trasera;Compatible;10,45;10,14;9,82;6
+HM-FX1-CFR-COM;HMD;Fusion X1;Cámara frontal;Compatible;7,00;;;6
+HM-FX1-LEN-COM;HMD;Fusion X1;Lente de cámara;Compatible;3,05;;;6
+HM-FX1-ALT-COM;HMD;Fusion X1;Altavoz;Compatible;4,65;;;6
+HM-FX1-AUR-COM;HMD;Fusion X1;Auricular de llamada;Compatible;3,75;;;6
+HM-FX1-FLX-COM;HMD;Fusion X1;Flex de encendido y volumen;Compatible;3,10;;;6
+HM-FX1-SIM-COM;HMD;Fusion X1;Bandeja SIM;Compatible;3,19;;;6
+HM-A-PAN-COM;HMD;Aura²;Pantalla;Compatible;15,45;14,99;14,52;6
+HM-A-BAT-COM;HMD;Aura²;Batería;Compatible;8,20;;;6
+HM-A-CON-COM;HMD;Aura²;Conector de carga;Compatible;4,85;;;6
+HM-A-TAP-COM-NEG;HMD;Aura²;Tapa trasera;Negro (Midnight Black);5,95;;;6
+HM-A-TAP-COM-AZU;HMD;Aura²;Tapa trasera;Azul hielo;5,95;;;6
+HM-A-CTR-COM;HMD;Aura²;Cámara trasera;Compatible;10,45;10,14;9,82;6
+HM-A-CFR-COM;HMD;Aura²;Cámara frontal;Compatible;7,00;;;6
+HM-A-LEN-COM;HMD;Aura²;Lente de cámara;Compatible;3,05;;;6
+HM-A-ALT-COM;HMD;Aura²;Altavoz;Compatible;4,65;;;6
+HM-A-AUR-COM;HMD;Aura²;Auricular de llamada;Compatible;3,75;;;6
+HM-A-FLX-COM;HMD;Aura²;Flex de encendido y volumen;Compatible;3,10;;;6
+HM-A-SIM-COM;HMD;Aura²;Bandeja SIM;Compatible;3,19;;;6
+HM-TM-PAN-COM;HMD;Terra M;Pantalla;Compatible;15,45;14,99;14,52;6
+HM-TM-BAT-COM;HMD;Terra M;Batería;Compatible;8,20;;;6
+HM-TM-CON-COM;HMD;Terra M;Conector de carga;Compatible;4,85;;;6
+HM-TM-TAP-COM-GRI;HMD;Terra M;Tapa trasera;Gris (Data Grey);5,95;;;6
+HM-TM-CTR-COM;HMD;Terra M;Cámara trasera;Compatible;10,45;10,14;9,82;6
+HM-TM-CFR-COM;HMD;Terra M;Cámara frontal;Compatible;7,00;;;6
+HM-TM-LEN-COM;HMD;Terra M;Lente de cámara;Compatible;3,05;;;6
+HM-TM-ALT-COM;HMD;Terra M;Altavoz;Compatible;4,65;;;6
+HM-TM-AUR-COM;HMD;Terra M;Auricular de llamada;Compatible;3,75;;;6
+HM-TM-FLX-COM;HMD;Terra M;Flex de encendido y volumen;Compatible;3,10;;;6
+HM-TM-SIM-COM;HMD;Terra M;Bandeja SIM;Compatible;3,19;;;6
+HM-V2-PRO-NA;HMD;Vibe 2;Cristal templado;Estándar;1,30;;;
+HM-V2-PRO-PRI;HMD;Vibe 2;Cristal templado;Privacidad;4,00;;;
+HM-V2-FUN-SIL;HMD;Vibe 2;Funda;Silicona;2,50;;;
+HM-V2-FUN-TPU;HMD;Vibe 2;Funda;Transparente;2,95;;;
+HM-V2-FUN-LIB;HMD;Vibe 2;Funda;Libro;3,70;;;
+HM-V2-FUN-ANT;HMD;Vibe 2;Funda;Antigolpes;3,10;;;
+HM-L-PRO-NA;HMD;Luma;Cristal templado;Estándar;1,30;;;
+HM-L-PRO-PRI;HMD;Luma;Cristal templado;Privacidad;4,00;;;
+HM-L-FUN-SIL;HMD;Luma;Funda;Silicona;2,50;;;
+HM-L-FUN-TPU;HMD;Luma;Funda;Transparente;2,95;;;
+HM-L-FUN-LIB;HMD;Luma;Funda;Libro;3,70;;;
+HM-L-FUN-ANT;HMD;Luma;Funda;Antigolpes;3,10;;;
+HM-A305-PRO-NA;HMD;Asha 305;Cristal templado;Estándar;1,30;;;
+HM-A305-PRO-PRI;HMD;Asha 305;Cristal templado;Privacidad;4,00;;;
+HM-A305-FUN-SIL;HMD;Asha 305;Funda;Silicona;2,50;;;
+HM-A305-FUN-TPU;HMD;Asha 305;Funda;Transparente;2,95;;;
+HM-A305-FUN-LIB;HMD;Asha 305;Funda;Libro;3,70;;;
+HM-A305-FUN-ANT;HMD;Asha 305;Funda;Antigolpes;3,10;;;
+HM-TAI-PRO-NA;HMD;Touch AI;Cristal templado;Estándar;1,30;;;
+HM-TAI-PRO-PRI;HMD;Touch AI;Cristal templado;Privacidad;4,00;;;
+HM-TAI-FUN-SIL;HMD;Touch AI;Funda;Silicona;2,50;;;
+HM-TAI-FUN-TPU;HMD;Touch AI;Funda;Transparente;2,95;;;
+HM-TAI-FUN-LIB;HMD;Touch AI;Funda;Libro;3,70;;;
+HM-TAI-FUN-ANT;HMD;Touch AI;Funda;Antigolpes;3,10;;;
+HM-100-PRO-NA;HMD;100;Cristal templado;Estándar;1,30;;;
+HM-100-PRO-PRI;HMD;100;Cristal templado;Privacidad;4,00;;;
+HM-100-FUN-SIL;HMD;100;Funda;Silicona;2,50;;;
+HM-100-FUN-TPU;HMD;100;Funda;Transparente;2,95;;;
+HM-100-FUN-LIB;HMD;100;Funda;Libro;3,70;;;
+HM-100-FUN-ANT;HMD;100;Funda;Antigolpes;3,10;;;
+HM-T4-PRO-NA;HMD;Touch 4G;Cristal templado;Estándar;1,30;;;
+HM-T4-PRO-PRI;HMD;Touch 4G;Cristal templado;Privacidad;4,00;;;
+HM-T4-FUN-SIL;HMD;Touch 4G;Funda;Silicona;2,50;;;
+HM-T4-FUN-TPU;HMD;Touch 4G;Funda;Transparente;2,95;;;
+HM-T4-FUN-LIB;HMD;Touch 4G;Funda;Libro;3,70;;;
+HM-T4-FUN-ANT;HMD;Touch 4G;Funda;Antigolpes;3,10;;;
+HM-IXE-PRO-NA;HMD;Ivalo XE;Cristal templado;Estándar;1,30;;;
+HM-IXE-PRO-PRI;HMD;Ivalo XE;Cristal templado;Privacidad;4,00;;;
+HM-IXE-FUN-SIL;HMD;Ivalo XE;Funda;Silicona;2,50;;;
+HM-IXE-FUN-TPU;HMD;Ivalo XE;Funda;Transparente;2,95;;;
+HM-IXE-FUN-LIB;HMD;Ivalo XE;Funda;Libro;3,70;;;
+HM-IXE-FUN-ANT;HMD;Ivalo XE;Funda;Antigolpes;3,10;;;
+HM-V5-PRO-NA;HMD;Vibe 5G;Cristal templado;Estándar;1,30;;;
+HM-V5-PRO-PRI;HMD;Vibe 5G;Cristal templado;Privacidad;4,00;;;
+HM-V5-FUN-SIL;HMD;Vibe 5G;Funda;Silicona;2,50;;;
+HM-V5-FUN-TPU;HMD;Vibe 5G;Funda;Transparente;2,95;;;
+HM-V5-FUN-LIB;HMD;Vibe 5G;Funda;Libro;3,70;;;
+HM-V5-FUN-ANT;HMD;Vibe 5G;Funda;Antigolpes;3,10;;;
+HM-2660FL-PRO-NA;HMD;2660 Flip;Cristal templado;Estándar;1,30;;;
+HM-2660FL-FUN-SIL;HMD;2660 Flip;Funda;Silicona;2,50;;;
+HM-2660FL-FUN-TPU;HMD;2660 Flip;Funda;Transparente;2,95;;;
+HM-BP-PRO-NA;HMD;Barbie Phone;Cristal templado;Estándar;1,30;;;
+HM-BP-PRO-PRI;HMD;Barbie Phone;Cristal templado;Privacidad;4,00;;;
+HM-BP-FUN-SIL;HMD;Barbie Phone;Funda;Silicona;2,50;;;
+HM-BP-FUN-TPU;HMD;Barbie Phone;Funda;Transparente;2,95;;;
+HM-BP-FUN-LIB;HMD;Barbie Phone;Funda;Libro;3,70;;;
+HM-BP-FUN-ANT;HMD;Barbie Phone;Funda;Antigolpes;3,10;;;
+HM-C-PRO-NA;HMD;Crest;Cristal templado;Estándar;1,30;;;
+HM-C-PRO-PRI;HMD;Crest;Cristal templado;Privacidad;4,00;;;
+HM-C-FUN-SIL;HMD;Crest;Funda;Silicona;2,50;;;
+HM-C-FUN-TPU;HMD;Crest;Funda;Transparente;2,95;;;
+HM-C-FUN-LIB;HMD;Crest;Funda;Libro;3,70;;;
+HM-C-FUN-ANT;HMD;Crest;Funda;Antigolpes;3,10;;;
+HM-CM-PRO-NA;HMD;Crest Max;Cristal templado;Estándar;1,30;;;
+HM-CM-PRO-PRI;HMD;Crest Max;Cristal templado;Privacidad;4,00;;;
+HM-CM-FUN-SIL;HMD;Crest Max;Funda;Silicona;2,50;;;
+HM-CM-FUN-TPU;HMD;Crest Max;Funda;Transparente;2,95;;;
+HM-CM-FUN-LIB;HMD;Crest Max;Funda;Libro;3,70;;;
+HM-CM-FUN-ANT;HMD;Crest Max;Funda;Antigolpes;3,10;;;
+HM-105-PRO-NA;HMD;105;Cristal templado;Estándar;1,30;;;
+HM-105-PRO-PRI;HMD;105;Cristal templado;Privacidad;4,00;;;
+HM-105-FUN-SIL;HMD;105;Funda;Silicona;2,50;;;
+HM-105-FUN-TPU;HMD;105;Funda;Transparente;2,95;;;
+HM-105-FUN-LIB;HMD;105;Funda;Libro;3,70;;;
+HM-105-FUN-ANT;HMD;105;Funda;Antigolpes;3,10;;;
+HM-110-PRO-NA;HMD;110;Cristal templado;Estándar;1,30;;;
+HM-110-PRO-PRI;HMD;110;Cristal templado;Privacidad;4,00;;;
+HM-110-FUN-SIL;HMD;110;Funda;Silicona;2,50;;;
+HM-110-FUN-TPU;HMD;110;Funda;Transparente;2,95;;;
+HM-110-FUN-LIB;HMD;110;Funda;Libro;3,70;;;
+HM-110-FUN-ANT;HMD;110;Funda;Antigolpes;3,10;;;
+HM-V-PRO-NA;HMD;Vibe;Cristal templado;Estándar;1,30;;;
+HM-V-PRO-PRI;HMD;Vibe;Cristal templado;Privacidad;4,00;;;
+HM-V-FUN-SIL;HMD;Vibe;Funda;Silicona;2,50;;;
+HM-V-FUN-TPU;HMD;Vibe;Funda;Transparente;2,95;;;
+HM-V-FUN-LIB;HMD;Vibe;Funda;Libro;3,70;;;
+HM-V-FUN-ANT;HMD;Vibe;Funda;Antigolpes;3,10;;;
+HM-P-PRO-NA;HMD;Pulse;Cristal templado;Estándar;1,30;;;
+HM-P-PRO-PRI;HMD;Pulse;Cristal templado;Privacidad;4,00;;;
+HM-P-FUN-SIL;HMD;Pulse;Funda;Silicona;2,50;;;
+HM-P-FUN-TPU;HMD;Pulse;Funda;Transparente;2,95;;;
+HM-P-FUN-LIB;HMD;Pulse;Funda;Libro;3,70;;;
+HM-P-FUN-ANT;HMD;Pulse;Funda;Antigolpes;3,10;;;
+HM-PPL-PRO-NA;HMD;Pulse+;Cristal templado;Estándar;1,30;;;
+HM-PPL-PRO-PRI;HMD;Pulse+;Cristal templado;Privacidad;4,00;;;
+HM-PPL-FUN-SIL;HMD;Pulse+;Funda;Silicona;2,50;;;
+HM-PPL-FUN-TPU;HMD;Pulse+;Funda;Transparente;2,95;;;
+HM-PPL-FUN-LIB;HMD;Pulse+;Funda;Libro;3,70;;;
+HM-PPL-FUN-ANT;HMD;Pulse+;Funda;Antigolpes;3,10;;;
+HM-PP-PRO-NA;HMD;Pulse Pro;Cristal templado;Estándar;1,30;;;
+HM-PP-PRO-PRI;HMD;Pulse Pro;Cristal templado;Privacidad;4,00;;;
+HM-PP-FUN-SIL;HMD;Pulse Pro;Funda;Silicona;2,50;;;
+HM-PP-FUN-TPU;HMD;Pulse Pro;Funda;Transparente;2,95;;;
+HM-PP-FUN-LIB;HMD;Pulse Pro;Funda;Libro;3,70;;;
+HM-PP-FUN-ANT;HMD;Pulse Pro;Funda;Antigolpes;3,10;;;
+HM-PP-PCA-NA;HMD;Pulse Pro;Protector de cámara;Cristal;2,90;;;
+HM-XR21-PRO-NA;HMD;XR21;Cristal templado;Estándar;1,30;;;
+HM-XR21-PRO-PRI;HMD;XR21;Cristal templado;Privacidad;4,00;;;
+HM-XR21-FUN-SIL;HMD;XR21;Funda;Silicona;2,50;;;
+HM-XR21-FUN-TPU;HMD;XR21;Funda;Transparente;2,95;;;
+HM-XR21-FUN-LIB;HMD;XR21;Funda;Libro;3,70;;;
+HM-XR21-FUN-ANT;HMD;XR21;Funda;Antigolpes;3,10;;;
+HM-XR21-PCA-NA;HMD;XR21;Protector de cámara;Cristal;2,90;;;
+HM-S-PRO-NA;HMD;Skyline;Cristal templado;Estándar;1,30;;;
+HM-S-PRO-PRI;HMD;Skyline;Cristal templado;Privacidad;4,00;;;
+HM-S-FUN-SIL;HMD;Skyline;Funda;Silicona;2,50;;;
+HM-S-FUN-TPU;HMD;Skyline;Funda;Transparente;2,95;;;
+HM-S-FUN-LIB;HMD;Skyline;Funda;Libro;3,70;;;
+HM-S-FUN-ANT;HMD;Skyline;Funda;Antigolpes;3,10;;;
+HM-S-PCA-NA;HMD;Skyline;Protector de cámara;Cristal;2,90;;;
+HM-F-PRO-NA;HMD;Fusion;Cristal templado;Estándar;1,30;;;
+HM-F-PRO-PRI;HMD;Fusion;Cristal templado;Privacidad;4,00;;;
+HM-F-FUN-SIL;HMD;Fusion;Funda;Silicona;2,50;;;
+HM-F-FUN-TPU;HMD;Fusion;Funda;Transparente;2,95;;;
+HM-F-FUN-LIB;HMD;Fusion;Funda;Libro;3,70;;;
+HM-F-FUN-ANT;HMD;Fusion;Funda;Antigolpes;3,10;;;
+HM-F-PCA-NA;HMD;Fusion;Protector de cámara;Cristal;2,90;;;
+HM-ARC-PRO-NA;HMD;Arc;Cristal templado;Estándar;1,30;;;
+HM-ARC-PRO-PRI;HMD;Arc;Cristal templado;Privacidad;4,00;;;
+HM-ARC-FUN-SIL;HMD;Arc;Funda;Silicona;2,50;;;
+HM-ARC-FUN-TPU;HMD;Arc;Funda;Transparente;2,95;;;
+HM-ARC-FUN-LIB;HMD;Arc;Funda;Libro;3,70;;;
+HM-ARC-FUN-ANT;HMD;Arc;Funda;Antigolpes;3,10;;;
+HM-KEY-PRO-NA;HMD;Key;Cristal templado;Estándar;1,30;;;
+HM-KEY-PRO-PRI;HMD;Key;Cristal templado;Privacidad;4,00;;;
+HM-KEY-FUN-SIL;HMD;Key;Funda;Silicona;2,50;;;
+HM-KEY-FUN-TPU;HMD;Key;Funda;Transparente;2,95;;;
+HM-KEY-FUN-LIB;HMD;Key;Funda;Libro;3,70;;;
+HM-KEY-FUN-ANT;HMD;Key;Funda;Antigolpes;3,10;;;
+HM-FX1-PRO-NA;HMD;Fusion X1;Cristal templado;Estándar;1,30;;;
+HM-FX1-PRO-PRI;HMD;Fusion X1;Cristal templado;Privacidad;4,00;;;
+HM-FX1-FUN-SIL;HMD;Fusion X1;Funda;Silicona;2,50;;;
+HM-FX1-FUN-TPU;HMD;Fusion X1;Funda;Transparente;2,95;;;
+HM-FX1-FUN-LIB;HMD;Fusion X1;Funda;Libro;3,70;;;
+HM-FX1-FUN-ANT;HMD;Fusion X1;Funda;Antigolpes;3,10;;;
+HM-FX1-PCA-NA;HMD;Fusion X1;Protector de cámara;Cristal;2,90;;;
+HM-A-PRO-NA;HMD;Aura²;Cristal templado;Estándar;1,30;;;
+HM-A-PRO-PRI;HMD;Aura²;Cristal templado;Privacidad;4,00;;;
+HM-A-FUN-SIL;HMD;Aura²;Funda;Silicona;2,50;;;
+HM-A-FUN-TPU;HMD;Aura²;Funda;Transparente;2,95;;;
+HM-A-FUN-LIB;HMD;Aura²;Funda;Libro;3,70;;;
+HM-A-FUN-ANT;HMD;Aura²;Funda;Antigolpes;3,10;;;
+HM-TM-PRO-NA;HMD;Terra M;Cristal templado;Estándar;1,30;;;
+HM-TM-PRO-PRI;HMD;Terra M;Cristal templado;Privacidad;4,00;;;
+HM-TM-FUN-SIL;HMD;Terra M;Funda;Silicona;2,50;;;
+HM-TM-FUN-TPU;HMD;Terra M;Funda;Transparente;2,95;;;
+HM-TM-FUN-LIB;HMD;Terra M;Funda;Libro;3,70;;;
+HM-TM-FUN-ANT;HMD;Terra M;Funda;Antigolpes;3,10;;;
+HM-V2-MAR-COM;HMD;Vibe 2;Marco / chasis;Compatible;6,89;;;6
+HM-V2-BOT-COM;HMD;Vibe 2;Botones laterales;Compatible;3,55;;;6
+HM-V2-CRI-COM;HMD;Vibe 2;Cristal de pantalla;Compatible;3,50;;;6
+HM-V2-ANT-COM;HMD;Vibe 2;Antena / coaxial;Compatible;3,05;;;6
+HM-V2-HUE-COM;HMD;Vibe 2;Botón home / huella;Compatible;5,09;;;6
+HM-L-MAR-COM;HMD;Luma;Marco / chasis;Compatible;6,89;;;6
+HM-L-BOT-COM;HMD;Luma;Botones laterales;Compatible;3,55;;;6
+HM-L-CRI-COM;HMD;Luma;Cristal de pantalla;Compatible;3,50;;;6
+HM-L-ANT-COM;HMD;Luma;Antena / coaxial;Compatible;3,05;;;6
+HM-L-HUE-COM;HMD;Luma;Botón home / huella;Compatible;5,09;;;6
+HM-A305-MAR-COM;HMD;Asha 305;Marco / chasis;Compatible;6,89;;;6
+HM-A305-BOT-COM;HMD;Asha 305;Botones laterales;Compatible;3,55;;;6
+HM-A305-CRI-COM;HMD;Asha 305;Cristal de pantalla;Compatible;3,50;;;6
+HM-A305-ANT-COM;HMD;Asha 305;Antena / coaxial;Compatible;3,05;;;6
+HM-A305-HUE-COM;HMD;Asha 305;Botón home / huella;Compatible;5,09;;;6
+HM-TAI-MAR-COM;HMD;Touch AI;Marco / chasis;Compatible;6,89;;;6
+HM-TAI-BOT-COM;HMD;Touch AI;Botones laterales;Compatible;3,55;;;6
+HM-TAI-CRI-COM;HMD;Touch AI;Cristal de pantalla;Compatible;3,50;;;6
+HM-TAI-ANT-COM;HMD;Touch AI;Antena / coaxial;Compatible;3,05;;;6
+HM-TAI-HUE-COM;HMD;Touch AI;Botón home / huella;Compatible;5,09;;;6
+HM-100-MAR-COM;HMD;100;Marco / chasis;Compatible;6,89;;;6
+HM-100-BOT-COM;HMD;100;Botones laterales;Compatible;3,55;;;6
+HM-100-CRI-COM;HMD;100;Cristal de pantalla;Compatible;3,50;;;6
+HM-100-ANT-COM;HMD;100;Antena / coaxial;Compatible;3,05;;;6
+HM-100-HUE-COM;HMD;100;Botón home / huella;Compatible;5,09;;;6
+HM-T4-MAR-COM;HMD;Touch 4G;Marco / chasis;Compatible;6,89;;;6
+HM-T4-BOT-COM;HMD;Touch 4G;Botones laterales;Compatible;3,55;;;6
+HM-T4-CRI-COM;HMD;Touch 4G;Cristal de pantalla;Compatible;3,50;;;6
+HM-T4-ANT-COM;HMD;Touch 4G;Antena / coaxial;Compatible;3,05;;;6
+HM-T4-HUE-COM;HMD;Touch 4G;Botón home / huella;Compatible;5,09;;;6
+HM-IXE-MAR-COM;HMD;Ivalo XE;Marco / chasis;Compatible;6,89;;;6
+HM-IXE-BOT-COM;HMD;Ivalo XE;Botones laterales;Compatible;3,55;;;6
+HM-IXE-CRI-COM;HMD;Ivalo XE;Cristal de pantalla;Compatible;3,50;;;6
+HM-IXE-ANT-COM;HMD;Ivalo XE;Antena / coaxial;Compatible;3,05;;;6
+HM-IXE-HUE-COM;HMD;Ivalo XE;Botón home / huella;Compatible;5,09;;;6
+HM-V5-MAR-COM;HMD;Vibe 5G;Marco / chasis;Compatible;6,89;;;6
+HM-V5-BOT-COM;HMD;Vibe 5G;Botones laterales;Compatible;3,55;;;6
+HM-V5-CRI-COM;HMD;Vibe 5G;Cristal de pantalla;Compatible;3,50;;;6
+HM-V5-ANT-COM;HMD;Vibe 5G;Antena / coaxial;Compatible;3,05;;;6
+HM-V5-HUE-COM;HMD;Vibe 5G;Botón home / huella;Compatible;5,09;;;6
+HM-2660FL-ANT-COM;HMD;2660 Flip;Antena / coaxial;Compatible;4,29;;;6
+HM-2660FL-HUE-COM;HMD;2660 Flip;Botón home / huella;Compatible;7,10;;;6
+HM-BP-MAR-COM;HMD;Barbie Phone;Marco / chasis;Compatible;6,89;;;6
+HM-BP-BOT-COM;HMD;Barbie Phone;Botones laterales;Compatible;3,55;;;6
+HM-BP-CRI-COM;HMD;Barbie Phone;Cristal de pantalla;Compatible;3,50;;;6
+HM-BP-ANT-COM;HMD;Barbie Phone;Antena / coaxial;Compatible;3,05;;;6
+HM-BP-HUE-COM;HMD;Barbie Phone;Botón home / huella;Compatible;5,09;;;6
+HM-C-MAR-COM;HMD;Crest;Marco / chasis;Compatible;6,89;;;6
+HM-C-BOT-COM;HMD;Crest;Botones laterales;Compatible;3,55;;;6
+HM-C-CRI-COM;HMD;Crest;Cristal de pantalla;Compatible;3,50;;;6
+HM-C-ANT-COM;HMD;Crest;Antena / coaxial;Compatible;3,05;;;6
+HM-C-HUE-COM;HMD;Crest;Botón home / huella;Compatible;5,09;;;6
+HM-CM-MAR-COM;HMD;Crest Max;Marco / chasis;Compatible;6,89;;;6
+HM-CM-BOT-COM;HMD;Crest Max;Botones laterales;Compatible;3,55;;;6
+HM-CM-CRI-COM;HMD;Crest Max;Cristal de pantalla;Compatible;3,50;;;6
+HM-CM-ANT-COM;HMD;Crest Max;Antena / coaxial;Compatible;3,05;;;6
+HM-CM-HUE-COM;HMD;Crest Max;Botón home / huella;Compatible;5,09;;;6
+HM-105-MAR-COM;HMD;105;Marco / chasis;Compatible;6,89;;;6
+HM-105-BOT-COM;HMD;105;Botones laterales;Compatible;3,55;;;6
+HM-105-CRI-COM;HMD;105;Cristal de pantalla;Compatible;3,50;;;6
+HM-105-ANT-COM;HMD;105;Antena / coaxial;Compatible;3,05;;;6
+HM-105-HUE-COM;HMD;105;Botón home / huella;Compatible;5,09;;;6
+HM-110-MAR-COM;HMD;110;Marco / chasis;Compatible;6,89;;;6
+HM-110-BOT-COM;HMD;110;Botones laterales;Compatible;3,55;;;6
+HM-110-CRI-COM;HMD;110;Cristal de pantalla;Compatible;3,50;;;6
+HM-110-ANT-COM;HMD;110;Antena / coaxial;Compatible;3,05;;;6
+HM-110-HUE-COM;HMD;110;Botón home / huella;Compatible;5,09;;;6
+HM-V-MAR-COM;HMD;Vibe;Marco / chasis;Compatible;6,89;;;6
+HM-V-BOT-COM;HMD;Vibe;Botones laterales;Compatible;3,55;;;6
+HM-V-CRI-COM;HMD;Vibe;Cristal de pantalla;Compatible;3,50;;;6
+HM-V-ANT-COM;HMD;Vibe;Antena / coaxial;Compatible;3,05;;;6
+HM-V-HUE-COM;HMD;Vibe;Botón home / huella;Compatible;5,09;;;6
+HM-P-MAR-COM;HMD;Pulse;Marco / chasis;Compatible;6,89;;;6
+HM-P-BOT-COM;HMD;Pulse;Botones laterales;Compatible;3,55;;;6
+HM-P-CRI-COM;HMD;Pulse;Cristal de pantalla;Compatible;3,50;;;6
+HM-P-ANT-COM;HMD;Pulse;Antena / coaxial;Compatible;3,05;;;6
+HM-P-HUE-COM;HMD;Pulse;Botón home / huella;Compatible;5,09;;;6
+HM-PPL-MAR-COM;HMD;Pulse+;Marco / chasis;Compatible;6,89;;;6
+HM-PPL-BOT-COM;HMD;Pulse+;Botones laterales;Compatible;3,55;;;6
+HM-PPL-CRI-COM;HMD;Pulse+;Cristal de pantalla;Compatible;3,50;;;6
+HM-PPL-ANT-COM;HMD;Pulse+;Antena / coaxial;Compatible;3,05;;;6
+HM-PPL-HUE-COM;HMD;Pulse+;Botón home / huella;Compatible;5,09;;;6
+HM-PP-MAR-COM;HMD;Pulse Pro;Marco / chasis;Compatible;6,89;;;6
+HM-PP-BOT-COM;HMD;Pulse Pro;Botones laterales;Compatible;3,55;;;6
+HM-PP-CRI-COM;HMD;Pulse Pro;Cristal de pantalla;Compatible;3,50;;;6
+HM-PP-ANT-COM;HMD;Pulse Pro;Antena / coaxial;Compatible;3,05;;;6
+HM-PP-HUE-COM;HMD;Pulse Pro;Botón home / huella;Compatible;5,09;;;6
+HM-XR21-MAR-COM;HMD;XR21;Marco / chasis;Compatible;6,89;;;6
+HM-XR21-BOT-COM;HMD;XR21;Botones laterales;Compatible;3,55;;;6
+HM-XR21-CRI-COM;HMD;XR21;Cristal de pantalla;Compatible;3,50;;;6
+HM-XR21-ANT-COM;HMD;XR21;Antena / coaxial;Compatible;3,05;;;6
+HM-XR21-HUE-COM;HMD;XR21;Botón home / huella;Compatible;5,09;;;6
+HM-S-MAR-COM;HMD;Skyline;Marco / chasis;Compatible;7,90;;;6
+HM-S-BOT-COM;HMD;Skyline;Botones laterales;Compatible;4,05;;;6
+HM-S-CRI-COM;HMD;Skyline;Cristal de pantalla;Compatible;4,05;;;6
+HM-S-ANT-COM;HMD;Skyline;Antena / coaxial;Compatible;3,50;;;6
+HM-S-HUE-COM;HMD;Skyline;Botón home / huella;Compatible;5,85;;;6
+HM-F-MAR-COM;HMD;Fusion;Marco / chasis;Compatible;6,89;;;6
+HM-F-BOT-COM;HMD;Fusion;Botones laterales;Compatible;3,55;;;6
+HM-F-CRI-COM;HMD;Fusion;Cristal de pantalla;Compatible;3,50;;;6
+HM-F-ANT-COM;HMD;Fusion;Antena / coaxial;Compatible;3,05;;;6
+HM-F-HUE-COM;HMD;Fusion;Botón home / huella;Compatible;5,09;;;6
+HM-ARC-MAR-COM;HMD;Arc;Marco / chasis;Compatible;6,89;;;6
+HM-ARC-BOT-COM;HMD;Arc;Botones laterales;Compatible;3,55;;;6
+HM-ARC-CRI-COM;HMD;Arc;Cristal de pantalla;Compatible;3,50;;;6
+HM-ARC-ANT-COM;HMD;Arc;Antena / coaxial;Compatible;3,05;;;6
+HM-ARC-HUE-COM;HMD;Arc;Botón home / huella;Compatible;5,09;;;6
+HM-KEY-MAR-COM;HMD;Key;Marco / chasis;Compatible;6,89;;;6
+HM-KEY-BOT-COM;HMD;Key;Botones laterales;Compatible;3,55;;;6
+HM-KEY-CRI-COM;HMD;Key;Cristal de pantalla;Compatible;3,50;;;6
+HM-KEY-ANT-COM;HMD;Key;Antena / coaxial;Compatible;3,05;;;6
+HM-KEY-HUE-COM;HMD;Key;Botón home / huella;Compatible;5,09;;;6
+HM-FX1-MAR-COM;HMD;Fusion X1;Marco / chasis;Compatible;6,89;;;6
+HM-FX1-BOT-COM;HMD;Fusion X1;Botones laterales;Compatible;3,55;;;6
+HM-FX1-CRI-COM;HMD;Fusion X1;Cristal de pantalla;Compatible;3,50;;;6
+HM-FX1-ANT-COM;HMD;Fusion X1;Antena / coaxial;Compatible;3,05;;;6
+HM-FX1-HUE-COM;HMD;Fusion X1;Botón home / huella;Compatible;5,09;;;6
+HM-A-MAR-COM;HMD;Aura²;Marco / chasis;Compatible;6,89;;;6
+HM-A-BOT-COM;HMD;Aura²;Botones laterales;Compatible;3,55;;;6
+HM-A-CRI-COM;HMD;Aura²;Cristal de pantalla;Compatible;3,50;;;6
+HM-A-ANT-COM;HMD;Aura²;Antena / coaxial;Compatible;3,05;;;6
+HM-A-HUE-COM;HMD;Aura²;Botón home / huella;Compatible;5,09;;;6
+HM-TM-MAR-COM;HMD;Terra M;Marco / chasis;Compatible;6,89;;;6
+HM-TM-BOT-COM;HMD;Terra M;Botones laterales;Compatible;3,55;;;6
+HM-TM-CRI-COM;HMD;Terra M;Cristal de pantalla;Compatible;3,50;;;6
+HM-TM-ANT-COM;HMD;Terra M;Antena / coaxial;Compatible;3,05;;;6
+HM-TM-HUE-COM;HMD;Terra M;Botón home / huella;Compatible;5,09;;;6

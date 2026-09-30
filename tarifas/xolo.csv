@@ -1,0 +1,42 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+XO-WINQ1000-PAN-COM;Xolo;Win Q1000;Pantalla;Compatible;15,15;14,70;14,24;6
+XO-WINQ1000-BAT-COM;Xolo;Win Q1000;Batería;Compatible;9,65;;;6
+XO-WINQ1000-CON-COM;Xolo;Win Q1000;Conector de carga;Compatible;4,60;;;6
+XO-WINQ1000-TAP-COM;Xolo;Win Q1000;Tapa trasera;Compatible;5,40;;;6
+XO-WINQ1000-CTR-COM;Xolo;Win Q1000;Cámara trasera;Compatible;7,59;;;6
+XO-WINQ1000-CFR-COM;Xolo;Win Q1000;Cámara frontal;Compatible;4,99;;;6
+XO-WINQ1000-LEN-COM;Xolo;Win Q1000;Lente de cámara;Compatible;2,19;;;6
+XO-WINQ1000-ALT-COM;Xolo;Win Q1000;Altavoz;Compatible;3,65;;;6
+XO-WINQ1000-AUR-COM;Xolo;Win Q1000;Auricular de llamada;Compatible;2,65;;;6
+XO-WINQ1000-FLX-COM;Xolo;Win Q1000;Flex de encendido y volumen;Compatible;2,49;;;6
+XO-WINQ1000-SIM-COM;Xolo;Win Q1000;Bandeja SIM;Compatible;2,55;;;6
+XO-WINQ900S-PAN-COM;Xolo;Win Q900s;Pantalla;Compatible;15,15;14,70;14,24;6
+XO-WINQ900S-BAT-COM;Xolo;Win Q900s;Batería;Compatible;9,65;;;6
+XO-WINQ900S-CON-COM;Xolo;Win Q900s;Conector de carga;Compatible;4,60;;;6
+XO-WINQ900S-TAP-COM;Xolo;Win Q900s;Tapa trasera;Compatible;5,40;;;6
+XO-WINQ900S-CTR-COM;Xolo;Win Q900s;Cámara trasera;Compatible;7,59;;;6
+XO-WINQ900S-CFR-COM;Xolo;Win Q900s;Cámara frontal;Compatible;4,99;;;6
+XO-WINQ900S-LEN-COM;Xolo;Win Q900s;Lente de cámara;Compatible;2,19;;;6
+XO-WINQ900S-ALT-COM;Xolo;Win Q900s;Altavoz;Compatible;3,65;;;6
+XO-WINQ900S-AUR-COM;Xolo;Win Q900s;Auricular de llamada;Compatible;2,65;;;6
+XO-WINQ900S-FLX-COM;Xolo;Win Q900s;Flex de encendido y volumen;Compatible;2,49;;;6
+XO-WINQ900S-SIM-COM;Xolo;Win Q900s;Bandeja SIM;Compatible;2,55;;;6
+XO-WINQ1000-PRO-NA;Xolo;Win Q1000;Cristal templado;Estándar;1,30;;;
+XO-WINQ1000-PRO-PRI;Xolo;Win Q1000;Cristal templado;Privacidad;4,00;;;
+XO-WINQ1000-FUN-SIL;Xolo;Win Q1000;Funda;Silicona;2,50;;;
+XO-WINQ1000-FUN-TPU;Xolo;Win Q1000;Funda;Transparente;2,95;;;
+XO-WINQ1000-FUN-LIB;Xolo;Win Q1000;Funda;Libro;3,70;;;
+XO-WINQ1000-FUN-ANT;Xolo;Win Q1000;Funda;Antigolpes;3,10;;;
+XO-WINQ900S-PRO-NA;Xolo;Win Q900s;Cristal templado;Estándar;1,30;;;
+XO-WINQ900S-PRO-PRI;Xolo;Win Q900s;Cristal templado;Privacidad;4,00;;;
+XO-WINQ900S-FUN-SIL;Xolo;Win Q900s;Funda;Silicona;2,50;;;
+XO-WINQ900S-FUN-TPU;Xolo;Win Q900s;Funda;Transparente;2,95;;;
+XO-WINQ900S-FUN-LIB;Xolo;Win Q900s;Funda;Libro;3,70;;;
+XO-WINQ900S-FUN-ANT;Xolo;Win Q900s;Funda;Antigolpes;3,10;;;
+XO-WINQ1000-MAR-COM;Xolo;Win Q1000;Marco / chasis;Compatible;5,75;;;6
+XO-WINQ1000-BOT-COM;Xolo;Win Q1000;Botones laterales;Compatible;2,95;;;6
+XO-WINQ1000-CRI-COM;Xolo;Win Q1000;Cristal de pantalla;Compatible;2,95;;;6
+XO-WINQ1000-ANT-COM;Xolo;Win Q1000;Antena / coaxial;Compatible;2,55;;;6
+XO-WINQ900S-MAR-COM;Xolo;Win Q900s;Marco / chasis;Compatible;5,75;;;6
+XO-WINQ900S-BOT-COM;Xolo;Win Q900s;Botones laterales;Compatible;2,95;;;6
+XO-WINQ900S-ANT-COM;Xolo;Win Q900s;Antena / coaxial;Compatible;2,55;;;6

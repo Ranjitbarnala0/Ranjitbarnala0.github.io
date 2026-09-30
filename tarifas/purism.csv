@@ -1,0 +1,23 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+PU-L5-PAN-COM;Purism;Librem 5;Pantalla;Compatible;16,10;15,62;15,13;6
+PU-L5-BAT-COM;Purism;Librem 5;Batería;Compatible;8,25;;;6
+PU-L5-CON-COM;Purism;Librem 5;Conector de carga;Compatible;4,40;;;6
+PU-L5-TAP-COM;Purism;Librem 5;Tapa trasera;Compatible;5,55;;;6
+PU-L5-CTR-COM;Purism;Librem 5;Cámara trasera;Compatible;6,19;;;6
+PU-L5-CFR-COM;Purism;Librem 5;Cámara frontal;Compatible;3,65;;;6
+PU-L5-LEN-COM;Purism;Librem 5;Lente de cámara;Compatible;2,20;;;6
+PU-L5-ALT-COM;Purism;Librem 5;Altavoz;Compatible;3,35;;;6
+PU-L5-AUR-COM;Purism;Librem 5;Auricular de llamada;Compatible;2,40;;;6
+PU-L5-FLX-COM;Purism;Librem 5;Flex de encendido y volumen;Compatible;2,29;;;6
+PU-L5-SIM-COM;Purism;Librem 5;Bandeja SIM;Compatible;2,60;;;6
+PU-L5-PRO-NA;Purism;Librem 5;Cristal templado;Estándar;1,30;;;
+PU-L5-PRO-PRI;Purism;Librem 5;Cristal templado;Privacidad;4,00;;;
+PU-L5-FUN-SIL;Purism;Librem 5;Funda;Silicona;2,50;;;
+PU-L5-FUN-TPU;Purism;Librem 5;Funda;Transparente;2,95;;;
+PU-L5-FUN-LIB;Purism;Librem 5;Funda;Libro;3,70;;;
+PU-L5-FUN-ANT;Purism;Librem 5;Funda;Antigolpes;3,10;;;
+PU-L5-MAR-COM;Purism;Librem 5;Marco / chasis;Compatible;7,20;;;6
+PU-L5-BOT-COM;Purism;Librem 5;Botones laterales;Compatible;3,70;;;6
+PU-L5-CRI-COM;Purism;Librem 5;Cristal de pantalla;Compatible;3,69;;;6
+PU-L5-ANT-COM;Purism;Librem 5;Antena / coaxial;Compatible;3,20;;;6
+PU-L5-HUE-COM;Purism;Librem 5;Botón home / huella;Compatible;5,30;;;6

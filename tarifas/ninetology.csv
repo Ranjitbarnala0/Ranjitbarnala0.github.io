@@ -1,0 +1,159 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+NI-I-PAN-COM;Ninetology;Insight;Pantalla;Compatible;15,15;14,70;14,24;6
+NI-I-BAT-COM;Ninetology;Insight;Batería;Compatible;9,65;;;6
+NI-I-CON-COM;Ninetology;Insight;Conector de carga;Compatible;4,60;;;6
+NI-I-TAP-COM;Ninetology;Insight;Tapa trasera;Compatible;5,40;;;6
+NI-I-CTR-COM;Ninetology;Insight;Cámara trasera;Compatible;7,59;;;6
+NI-I-CFR-COM;Ninetology;Insight;Cámara frontal;Compatible;4,99;;;6
+NI-I-LEN-COM;Ninetology;Insight;Lente de cámara;Compatible;2,19;;;6
+NI-I-ALT-COM;Ninetology;Insight;Altavoz;Compatible;3,65;;;6
+NI-I-AUR-COM;Ninetology;Insight;Auricular de llamada;Compatible;2,65;;;6
+NI-I-FLX-COM;Ninetology;Insight;Flex de encendido y volumen;Compatible;2,49;;;6
+NI-I-SIM-COM;Ninetology;Insight;Bandeja SIM;Compatible;2,55;;;6
+NI-OP-PAN-COM;Ninetology;Outlook Pure;Pantalla;Compatible;15,15;14,70;14,24;6
+NI-OP-BAT-COM;Ninetology;Outlook Pure;Batería;Compatible;9,65;;;6
+NI-OP-CON-COM;Ninetology;Outlook Pure;Conector de carga;Compatible;4,60;;;6
+NI-OP-TAP-COM;Ninetology;Outlook Pure;Tapa trasera;Compatible;5,40;;;6
+NI-OP-CTR-COM;Ninetology;Outlook Pure;Cámara trasera;Compatible;7,59;;;6
+NI-OP-CFR-COM;Ninetology;Outlook Pure;Cámara frontal;Compatible;4,99;;;6
+NI-OP-LEN-COM;Ninetology;Outlook Pure;Lente de cámara;Compatible;2,19;;;6
+NI-OP-ALT-COM;Ninetology;Outlook Pure;Altavoz;Compatible;3,65;;;6
+NI-OP-AUR-COM;Ninetology;Outlook Pure;Auricular de llamada;Compatible;2,65;;;6
+NI-OP-FLX-COM;Ninetology;Outlook Pure;Flex de encendido y volumen;Compatible;2,49;;;6
+NI-OP-SIM-COM;Ninetology;Outlook Pure;Bandeja SIM;Compatible;2,55;;;6
+NI-PMN-PAN-COM;Ninetology;Pearl Mini;Pantalla;Compatible;15,15;14,70;14,24;6
+NI-PMN-BAT-COM;Ninetology;Pearl Mini;Batería;Compatible;9,65;;;6
+NI-PMN-CON-COM;Ninetology;Pearl Mini;Conector de carga;Compatible;4,60;;;6
+NI-PMN-TAP-COM;Ninetology;Pearl Mini;Tapa trasera;Compatible;5,40;;;6
+NI-PMN-CTR-COM;Ninetology;Pearl Mini;Cámara trasera;Compatible;7,59;;;6
+NI-PMN-CFR-COM;Ninetology;Pearl Mini;Cámara frontal;Compatible;4,99;;;6
+NI-PMN-LEN-COM;Ninetology;Pearl Mini;Lente de cámara;Compatible;2,19;;;6
+NI-PMN-ALT-COM;Ninetology;Pearl Mini;Altavoz;Compatible;3,65;;;6
+NI-PMN-AUR-COM;Ninetology;Pearl Mini;Auricular de llamada;Compatible;2,65;;;6
+NI-PMN-FLX-COM;Ninetology;Pearl Mini;Flex de encendido y volumen;Compatible;2,49;;;6
+NI-PMN-SIM-COM;Ninetology;Pearl Mini;Bandeja SIM;Compatible;2,55;;;6
+NI-SII-PAN-COM;Ninetology;Stealth II;Pantalla;Compatible;15,15;14,70;14,24;6
+NI-SII-BAT-COM;Ninetology;Stealth II;Batería;Compatible;9,65;;;6
+NI-SII-CON-COM;Ninetology;Stealth II;Conector de carga;Compatible;4,60;;;6
+NI-SII-TAP-COM;Ninetology;Stealth II;Tapa trasera;Compatible;5,40;;;6
+NI-SII-CTR-COM;Ninetology;Stealth II;Cámara trasera;Compatible;7,59;;;6
+NI-SII-CFR-COM;Ninetology;Stealth II;Cámara frontal;Compatible;4,99;;;6
+NI-SII-LEN-COM;Ninetology;Stealth II;Lente de cámara;Compatible;2,19;;;6
+NI-SII-ALT-COM;Ninetology;Stealth II;Altavoz;Compatible;3,65;;;6
+NI-SII-AUR-COM;Ninetology;Stealth II;Auricular de llamada;Compatible;2,65;;;6
+NI-SII-FLX-COM;Ninetology;Stealth II;Flex de encendido y volumen;Compatible;2,49;;;6
+NI-SII-SIM-COM;Ninetology;Stealth II;Bandeja SIM;Compatible;2,55;;;6
+NI-U9X1-PAN-COM;Ninetology;U9X1;Pantalla;Compatible;15,15;14,70;14,24;6
+NI-U9X1-BAT-COM;Ninetology;U9X1;Batería;Compatible;9,65;;;6
+NI-U9X1-CON-COM;Ninetology;U9X1;Conector de carga;Compatible;4,60;;;6
+NI-U9X1-TAP-COM;Ninetology;U9X1;Tapa trasera;Compatible;5,40;;;6
+NI-U9X1-CTR-COM;Ninetology;U9X1;Cámara trasera;Compatible;7,59;;;6
+NI-U9X1-CFR-COM;Ninetology;U9X1;Cámara frontal;Compatible;4,99;;;6
+NI-U9X1-LEN-COM;Ninetology;U9X1;Lente de cámara;Compatible;2,19;;;6
+NI-U9X1-ALT-COM;Ninetology;U9X1;Altavoz;Compatible;3,65;;;6
+NI-U9X1-AUR-COM;Ninetology;U9X1;Auricular de llamada;Compatible;2,65;;;6
+NI-U9X1-FLX-COM;Ninetology;U9X1;Flex de encendido y volumen;Compatible;2,49;;;6
+NI-U9X1-SIM-COM;Ninetology;U9X1;Bandeja SIM;Compatible;2,55;;;6
+NI-U9Z1-PAN-COM;Ninetology;U9Z1;Pantalla;Compatible;15,15;14,70;14,24;6
+NI-U9Z1-BAT-COM;Ninetology;U9Z1;Batería;Compatible;9,65;;;6
+NI-U9Z1-CON-COM;Ninetology;U9Z1;Conector de carga;Compatible;4,60;;;6
+NI-U9Z1-TAP-COM;Ninetology;U9Z1;Tapa trasera;Compatible;5,40;;;6
+NI-U9Z1-CTR-COM;Ninetology;U9Z1;Cámara trasera;Compatible;7,59;;;6
+NI-U9Z1-CFR-COM;Ninetology;U9Z1;Cámara frontal;Compatible;4,99;;;6
+NI-U9Z1-LEN-COM;Ninetology;U9Z1;Lente de cámara;Compatible;2,19;;;6
+NI-U9Z1-ALT-COM;Ninetology;U9Z1;Altavoz;Compatible;3,65;;;6
+NI-U9Z1-AUR-COM;Ninetology;U9Z1;Auricular de llamada;Compatible;2,65;;;6
+NI-U9Z1-FLX-COM;Ninetology;U9Z1;Flex de encendido y volumen;Compatible;2,49;;;6
+NI-U9Z1-SIM-COM;Ninetology;U9Z1;Bandeja SIM;Compatible;2,55;;;6
+NI-U9Z1PL-PAN-COM;Ninetology;U9Z1+;Pantalla;Compatible;15,15;14,70;14,24;6
+NI-U9Z1PL-BAT-COM;Ninetology;U9Z1+;Batería;Compatible;9,65;;;6
+NI-U9Z1PL-CON-COM;Ninetology;U9Z1+;Conector de carga;Compatible;4,60;;;6
+NI-U9Z1PL-TAP-COM;Ninetology;U9Z1+;Tapa trasera;Compatible;5,40;;;6
+NI-U9Z1PL-CTR-COM;Ninetology;U9Z1+;Cámara trasera;Compatible;7,59;;;6
+NI-U9Z1PL-CFR-COM;Ninetology;U9Z1+;Cámara frontal;Compatible;4,99;;;6
+NI-U9Z1PL-LEN-COM;Ninetology;U9Z1+;Lente de cámara;Compatible;2,19;;;6
+NI-U9Z1PL-ALT-COM;Ninetology;U9Z1+;Altavoz;Compatible;3,65;;;6
+NI-U9Z1PL-AUR-COM;Ninetology;U9Z1+;Auricular de llamada;Compatible;2,65;;;6
+NI-U9Z1PL-FLX-COM;Ninetology;U9Z1+;Flex de encendido y volumen;Compatible;2,49;;;6
+NI-U9Z1PL-SIM-COM;Ninetology;U9Z1+;Bandeja SIM;Compatible;2,55;;;6
+NI-BPII-PAN-COM;Ninetology;Black Pearl II;Pantalla;Compatible;15,15;14,70;14,24;6
+NI-BPII-BAT-COM;Ninetology;Black Pearl II;Batería;Compatible;9,65;;;6
+NI-BPII-CON-COM;Ninetology;Black Pearl II;Conector de carga;Compatible;4,60;;;6
+NI-BPII-TAP-COM;Ninetology;Black Pearl II;Tapa trasera;Compatible;5,40;;;6
+NI-BPII-CTR-COM;Ninetology;Black Pearl II;Cámara trasera;Compatible;7,59;;;6
+NI-BPII-CFR-COM;Ninetology;Black Pearl II;Cámara frontal;Compatible;4,99;;;6
+NI-BPII-LEN-COM;Ninetology;Black Pearl II;Lente de cámara;Compatible;2,19;;;6
+NI-BPII-ALT-COM;Ninetology;Black Pearl II;Altavoz;Compatible;3,65;;;6
+NI-BPII-AUR-COM;Ninetology;Black Pearl II;Auricular de llamada;Compatible;2,65;;;6
+NI-BPII-FLX-COM;Ninetology;Black Pearl II;Flex de encendido y volumen;Compatible;2,49;;;6
+NI-BPII-SIM-COM;Ninetology;Black Pearl II;Bandeja SIM;Compatible;2,55;;;6
+NI-I-PRO-NA;Ninetology;Insight;Cristal templado;Estándar;1,30;;;
+NI-I-PRO-PRI;Ninetology;Insight;Cristal templado;Privacidad;4,00;;;
+NI-I-FUN-SIL;Ninetology;Insight;Funda;Silicona;2,50;;;
+NI-I-FUN-TPU;Ninetology;Insight;Funda;Transparente;2,95;;;
+NI-I-FUN-LIB;Ninetology;Insight;Funda;Libro;3,70;;;
+NI-I-FUN-ANT;Ninetology;Insight;Funda;Antigolpes;3,10;;;
+NI-OP-PRO-NA;Ninetology;Outlook Pure;Cristal templado;Estándar;1,30;;;
+NI-OP-PRO-PRI;Ninetology;Outlook Pure;Cristal templado;Privacidad;4,00;;;
+NI-OP-FUN-SIL;Ninetology;Outlook Pure;Funda;Silicona;2,50;;;
+NI-OP-FUN-TPU;Ninetology;Outlook Pure;Funda;Transparente;2,95;;;
+NI-OP-FUN-LIB;Ninetology;Outlook Pure;Funda;Libro;3,70;;;
+NI-OP-FUN-ANT;Ninetology;Outlook Pure;Funda;Antigolpes;3,10;;;
+NI-PMN-PRO-NA;Ninetology;Pearl Mini;Cristal templado;Estándar;1,30;;;
+NI-PMN-PRO-PRI;Ninetology;Pearl Mini;Cristal templado;Privacidad;4,00;;;
+NI-PMN-FUN-SIL;Ninetology;Pearl Mini;Funda;Silicona;2,50;;;
+NI-PMN-FUN-TPU;Ninetology;Pearl Mini;Funda;Transparente;2,95;;;
+NI-PMN-FUN-LIB;Ninetology;Pearl Mini;Funda;Libro;3,70;;;
+NI-PMN-FUN-ANT;Ninetology;Pearl Mini;Funda;Antigolpes;3,10;;;
+NI-SII-PRO-NA;Ninetology;Stealth II;Cristal templado;Estándar;1,30;;;
+NI-SII-PRO-PRI;Ninetology;Stealth II;Cristal templado;Privacidad;4,00;;;
+NI-SII-FUN-SIL;Ninetology;Stealth II;Funda;Silicona;2,50;;;
+NI-SII-FUN-TPU;Ninetology;Stealth II;Funda;Transparente;2,95;;;
+NI-SII-FUN-LIB;Ninetology;Stealth II;Funda;Libro;3,70;;;
+NI-SII-FUN-ANT;Ninetology;Stealth II;Funda;Antigolpes;3,10;;;
+NI-U9X1-PRO-NA;Ninetology;U9X1;Cristal templado;Estándar;1,30;;;
+NI-U9X1-PRO-PRI;Ninetology;U9X1;Cristal templado;Privacidad;4,00;;;
+NI-U9X1-FUN-SIL;Ninetology;U9X1;Funda;Silicona;2,50;;;
+NI-U9X1-FUN-TPU;Ninetology;U9X1;Funda;Transparente;2,95;;;
+NI-U9X1-FUN-LIB;Ninetology;U9X1;Funda;Libro;3,70;;;
+NI-U9X1-FUN-ANT;Ninetology;U9X1;Funda;Antigolpes;3,10;;;
+NI-U9Z1-PRO-NA;Ninetology;U9Z1;Cristal templado;Estándar;1,30;;;
+NI-U9Z1-PRO-PRI;Ninetology;U9Z1;Cristal templado;Privacidad;4,00;;;
+NI-U9Z1-FUN-SIL;Ninetology;U9Z1;Funda;Silicona;2,50;;;
+NI-U9Z1-FUN-TPU;Ninetology;U9Z1;Funda;Transparente;2,95;;;
+NI-U9Z1-FUN-LIB;Ninetology;U9Z1;Funda;Libro;3,70;;;
+NI-U9Z1-FUN-ANT;Ninetology;U9Z1;Funda;Antigolpes;3,10;;;
+NI-U9Z1PL-PRO-NA;Ninetology;U9Z1+;Cristal templado;Estándar;1,30;;;
+NI-U9Z1PL-PRO-PRI;Ninetology;U9Z1+;Cristal templado;Privacidad;4,00;;;
+NI-U9Z1PL-FUN-SIL;Ninetology;U9Z1+;Funda;Silicona;2,50;;;
+NI-U9Z1PL-FUN-TPU;Ninetology;U9Z1+;Funda;Transparente;2,95;;;
+NI-U9Z1PL-FUN-LIB;Ninetology;U9Z1+;Funda;Libro;3,70;;;
+NI-U9Z1PL-FUN-ANT;Ninetology;U9Z1+;Funda;Antigolpes;3,10;;;
+NI-BPII-PRO-NA;Ninetology;Black Pearl II;Cristal templado;Estándar;1,30;;;
+NI-BPII-PRO-PRI;Ninetology;Black Pearl II;Cristal templado;Privacidad;4,00;;;
+NI-BPII-FUN-SIL;Ninetology;Black Pearl II;Funda;Silicona;2,50;;;
+NI-BPII-FUN-TPU;Ninetology;Black Pearl II;Funda;Transparente;2,95;;;
+NI-BPII-FUN-LIB;Ninetology;Black Pearl II;Funda;Libro;3,70;;;
+NI-BPII-FUN-ANT;Ninetology;Black Pearl II;Funda;Antigolpes;3,10;;;
+NI-I-MAR-COM;Ninetology;Insight;Marco / chasis;Compatible;5,75;;;6
+NI-I-BOT-COM;Ninetology;Insight;Botones laterales;Compatible;2,95;;;6
+NI-I-ANT-COM;Ninetology;Insight;Antena / coaxial;Compatible;2,55;;;6
+NI-OP-MAR-COM;Ninetology;Outlook Pure;Marco / chasis;Compatible;5,75;;;6
+NI-OP-BOT-COM;Ninetology;Outlook Pure;Botones laterales;Compatible;2,95;;;6
+NI-OP-ANT-COM;Ninetology;Outlook Pure;Antena / coaxial;Compatible;2,55;;;6
+NI-PMN-MAR-COM;Ninetology;Pearl Mini;Marco / chasis;Compatible;5,75;;;6
+NI-PMN-BOT-COM;Ninetology;Pearl Mini;Botones laterales;Compatible;2,95;;;6
+NI-PMN-ANT-COM;Ninetology;Pearl Mini;Antena / coaxial;Compatible;2,55;;;6
+NI-SII-MAR-COM;Ninetology;Stealth II;Marco / chasis;Compatible;5,75;;;6
+NI-SII-BOT-COM;Ninetology;Stealth II;Botones laterales;Compatible;2,95;;;6
+NI-SII-ANT-COM;Ninetology;Stealth II;Antena / coaxial;Compatible;2,55;;;6
+NI-U9X1-MAR-COM;Ninetology;U9X1;Marco / chasis;Compatible;5,75;;;6
+NI-U9X1-BOT-COM;Ninetology;U9X1;Botones laterales;Compatible;2,95;;;6
+NI-U9X1-ANT-COM;Ninetology;U9X1;Antena / coaxial;Compatible;2,55;;;6
+NI-U9Z1-MAR-COM;Ninetology;U9Z1;Marco / chasis;Compatible;5,75;;;6
+NI-U9Z1-BOT-COM;Ninetology;U9Z1;Botones laterales;Compatible;2,95;;;6
+NI-U9Z1-ANT-COM;Ninetology;U9Z1;Antena / coaxial;Compatible;2,55;;;6
+NI-U9Z1PL-MAR-COM;Ninetology;U9Z1+;Marco / chasis;Compatible;5,75;;;6
+NI-U9Z1PL-BOT-COM;Ninetology;U9Z1+;Botones laterales;Compatible;2,95;;;6
+NI-U9Z1PL-ANT-COM;Ninetology;U9Z1+;Antena / coaxial;Compatible;2,55;;;6
+NI-BPII-ANT-COM;Ninetology;Black Pearl II;Antena / coaxial;Compatible;2,55;;;6

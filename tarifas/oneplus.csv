@@ -1,0 +1,1481 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+OL-7P-PAN-OLS;OnePlus;7 Pro;Pantalla;OLED Soft;54,69;53,05;51,41;6
+OL-7P-PAN-OLH;OnePlus;7 Pro;Pantalla;OLED Hard;49,95;48,45;46,95;6
+OL-7P-PAN-INC;OnePlus;7 Pro;Pantalla;Incell;25,09;24,34;23,58;6
+OL-7P-BAT-COM;OnePlus;7 Pro;Batería;Compatible;9,65;;;6
+OL-7P-CON-COM;OnePlus;7 Pro;Conector de carga;Compatible;5,70;;;6
+OL-7P-TAP-COM-GRI;OnePlus;7 Pro;Tapa trasera;Gris (Mirror Gray);6,85;;;6
+OL-7P-TAP-COM-AZU;OnePlus;7 Pro;Tapa trasera;Azul (Nebula Blue);6,85;;;6
+OL-7P-TAP-COM-ALM;OnePlus;7 Pro;Tapa trasera;Almond;6,85;;;6
+OL-7P-CTR-COM;OnePlus;7 Pro;Cámara trasera;Compatible;11,05;10,72;10,39;6
+OL-7P-CFR-COM;OnePlus;7 Pro;Cámara frontal;Compatible;5,80;;;6
+OL-7P-LEN-COM;OnePlus;7 Pro;Lente de cámara;Compatible;3,35;;;6
+OL-7P-ALT-COM;OnePlus;7 Pro;Altavoz;Compatible;4,75;;;6
+OL-7P-AUR-COM;OnePlus;7 Pro;Auricular de llamada;Compatible;3,60;;;6
+OL-7P-FLX-COM;OnePlus;7 Pro;Flex de encendido y volumen;Compatible;3,50;;;6
+OL-7P-SIM-COM;OnePlus;7 Pro;Bandeja SIM;Compatible;3,25;;;6
+OL-7-PAN-OLS;OnePlus;7;Pantalla;OLED Soft;54,69;53,05;51,41;6
+OL-7-PAN-OLH;OnePlus;7;Pantalla;OLED Hard;49,95;48,45;46,95;6
+OL-7-PAN-INC;OnePlus;7;Pantalla;Incell;25,09;24,34;23,58;6
+OL-7-BAT-COM;OnePlus;7;Batería;Compatible;9,65;;;6
+OL-7-CON-COM;OnePlus;7;Conector de carga;Compatible;5,70;;;6
+OL-7-TAP-COM-GRI;OnePlus;7;Tapa trasera;Gris (Mirror Gray);6,85;;;6
+OL-7-TAP-COM-ROJ;OnePlus;7;Tapa trasera;Rojo;6,85;;;6
+OL-7-CTR-COM;OnePlus;7;Cámara trasera;Compatible;11,05;10,72;10,39;6
+OL-7-CFR-COM;OnePlus;7;Cámara frontal;Compatible;5,80;;;6
+OL-7-LEN-COM;OnePlus;7;Lente de cámara;Compatible;3,35;;;6
+OL-7-ALT-COM;OnePlus;7;Altavoz;Compatible;4,75;;;6
+OL-7-AUR-COM;OnePlus;7;Auricular de llamada;Compatible;3,60;;;6
+OL-7-FLX-COM;OnePlus;7;Flex de encendido y volumen;Compatible;3,50;;;6
+OL-7-SIM-COM;OnePlus;7;Bandeja SIM;Compatible;3,25;;;6
+OL-7T-PAN-OLS;OnePlus;7T;Pantalla;OLED Soft;54,69;53,05;51,41;6
+OL-7T-PAN-OLH;OnePlus;7T;Pantalla;OLED Hard;49,95;48,45;46,95;6
+OL-7T-PAN-INC;OnePlus;7T;Pantalla;Incell;25,09;24,34;23,58;6
+OL-7T-BAT-COM;OnePlus;7T;Batería;Compatible;9,65;;;6
+OL-7T-CON-COM;OnePlus;7T;Conector de carga;Compatible;5,70;;;6
+OL-7T-TAP-COM-AZU;OnePlus;7T;Tapa trasera;Azul (Glacier Blue);6,85;;;6
+OL-7T-TAP-COM-PLA;OnePlus;7T;Tapa trasera;Plata (Frosted Silver);6,85;;;6
+OL-7T-CTR-COM;OnePlus;7T;Cámara trasera;Compatible;11,05;10,72;10,39;6
+OL-7T-CFR-COM;OnePlus;7T;Cámara frontal;Compatible;5,80;;;6
+OL-7T-LEN-COM;OnePlus;7T;Lente de cámara;Compatible;3,35;;;6
+OL-7T-ALT-COM;OnePlus;7T;Altavoz;Compatible;4,75;;;6
+OL-7T-AUR-COM;OnePlus;7T;Auricular de llamada;Compatible;3,60;;;6
+OL-7T-FLX-COM;OnePlus;7T;Flex de encendido y volumen;Compatible;3,50;;;6
+OL-7T-SIM-COM;OnePlus;7T;Bandeja SIM;Compatible;3,25;;;6
+OL-7TP-PAN-OLS;OnePlus;7T Pro;Pantalla;OLED Soft;54,69;53,05;51,41;6
+OL-7TP-PAN-OLH;OnePlus;7T Pro;Pantalla;OLED Hard;49,95;48,45;46,95;6
+OL-7TP-PAN-INC;OnePlus;7T Pro;Pantalla;Incell;25,09;24,34;23,58;6
+OL-7TP-BAT-COM;OnePlus;7T Pro;Batería;Compatible;9,65;;;6
+OL-7TP-CON-COM;OnePlus;7T Pro;Conector de carga;Compatible;5,70;;;6
+OL-7TP-TAP-COM-AZU;OnePlus;7T Pro;Tapa trasera;Azul (Haze Blue);6,85;;;6
+OL-7TP-CTR-COM;OnePlus;7T Pro;Cámara trasera;Compatible;11,05;10,72;10,39;6
+OL-7TP-CFR-COM;OnePlus;7T Pro;Cámara frontal;Compatible;5,80;;;6
+OL-7TP-LEN-COM;OnePlus;7T Pro;Lente de cámara;Compatible;3,35;;;6
+OL-7TP-ALT-COM;OnePlus;7T Pro;Altavoz;Compatible;4,75;;;6
+OL-7TP-AUR-COM;OnePlus;7T Pro;Auricular de llamada;Compatible;3,60;;;6
+OL-7TP-FLX-COM;OnePlus;7T Pro;Flex de encendido y volumen;Compatible;3,50;;;6
+OL-7TP-SIM-COM;OnePlus;7T Pro;Bandeja SIM;Compatible;3,25;;;6
+OL-8-PAN-OLS;OnePlus;8;Pantalla;OLED Soft;58,05;56,31;54,57;6
+OL-8-PAN-OLH;OnePlus;8;Pantalla;OLED Hard;53,05;51,46;49,87;6
+OL-8-PAN-INC;OnePlus;8;Pantalla;Incell;26,60;25,80;25,00;6
+OL-8-BAT-COM;OnePlus;8;Batería;Compatible;8,25;;;6
+OL-8-CON-COM;OnePlus;8;Conector de carga;Compatible;5,45;;;6
+OL-8-TAP-COM-NEG;OnePlus;8;Tapa trasera;Negro (Onyx Black);6,99;;;6
+OL-8-TAP-COM-VER;OnePlus;8;Tapa trasera;Verde (Glacial Green);6,99;;;6
+OL-8-TAP-COM-INT;OnePlus;8;Tapa trasera;Interstellar Glow;6,99;;;6
+OL-8-CTR-COM;OnePlus;8;Cámara trasera;Compatible;8,99;;;6
+OL-8-CFR-COM;OnePlus;8;Cámara frontal;Compatible;4,29;;;6
+OL-8-LEN-COM;OnePlus;8;Lente de cámara;Compatible;3,35;;;6
+OL-8-ALT-COM;OnePlus;8;Altavoz;Compatible;4,35;;;6
+OL-8-AUR-COM;OnePlus;8;Auricular de llamada;Compatible;3,25;;;6
+OL-8-FLX-COM;OnePlus;8;Flex de encendido y volumen;Compatible;3,25;;;6
+OL-8-SIM-COM;OnePlus;8;Bandeja SIM;Compatible;3,30;;;6
+OL-8P-PAN-OLS;OnePlus;8 Pro;Pantalla;OLED Soft;58,05;56,31;54,57;6
+OL-8P-PAN-OLH;OnePlus;8 Pro;Pantalla;OLED Hard;53,05;51,46;49,87;6
+OL-8P-PAN-INC;OnePlus;8 Pro;Pantalla;Incell;26,60;25,80;25,00;6
+OL-8P-BAT-COM;OnePlus;8 Pro;Batería;Compatible;8,25;;;6
+OL-8P-CON-COM;OnePlus;8 Pro;Conector de carga;Compatible;5,45;;;6
+OL-8P-TAP-COM-NEG;OnePlus;8 Pro;Tapa trasera;Negro (Onyx Black);6,99;;;6
+OL-8P-TAP-COM-VER;OnePlus;8 Pro;Tapa trasera;Verde (Glacial Green);6,99;;;6
+OL-8P-TAP-COM-AZU;OnePlus;8 Pro;Tapa trasera;Azul (Ultramarine Blue);6,99;;;6
+OL-8P-CTR-COM;OnePlus;8 Pro;Cámara trasera;Compatible;8,99;;;6
+OL-8P-CFR-COM;OnePlus;8 Pro;Cámara frontal;Compatible;4,29;;;6
+OL-8P-LEN-COM;OnePlus;8 Pro;Lente de cámara;Compatible;3,35;;;6
+OL-8P-ALT-COM;OnePlus;8 Pro;Altavoz;Compatible;4,35;;;6
+OL-8P-AUR-COM;OnePlus;8 Pro;Auricular de llamada;Compatible;3,25;;;6
+OL-8P-FLX-COM;OnePlus;8 Pro;Flex de encendido y volumen;Compatible;3,25;;;6
+OL-8P-SIM-COM;OnePlus;8 Pro;Bandeja SIM;Compatible;3,30;;;6
+OL-8T-PAN-OLS;OnePlus;8T;Pantalla;OLED Soft;58,05;56,31;54,57;6
+OL-8T-PAN-OLH;OnePlus;8T;Pantalla;OLED Hard;53,05;51,46;49,87;6
+OL-8T-PAN-INC;OnePlus;8T;Pantalla;Incell;26,60;25,80;25,00;6
+OL-8T-BAT-COM;OnePlus;8T;Batería;Compatible;8,25;;;6
+OL-8T-CON-COM;OnePlus;8T;Conector de carga;Compatible;5,45;;;6
+OL-8T-TAP-COM-VER;OnePlus;8T;Tapa trasera;Verde (Aquamarine Green);6,99;;;6
+OL-8T-TAP-COM-PLA;OnePlus;8T;Tapa trasera;Plata (Lunar Silver);6,99;;;6
+OL-8T-CTR-COM;OnePlus;8T;Cámara trasera;Compatible;8,99;;;6
+OL-8T-CFR-COM;OnePlus;8T;Cámara frontal;Compatible;4,29;;;6
+OL-8T-LEN-COM;OnePlus;8T;Lente de cámara;Compatible;3,35;;;6
+OL-8T-ALT-COM;OnePlus;8T;Altavoz;Compatible;4,35;;;6
+OL-8T-AUR-COM;OnePlus;8T;Auricular de llamada;Compatible;3,25;;;6
+OL-8T-FLX-COM;OnePlus;8T;Flex de encendido y volumen;Compatible;3,25;;;6
+OL-8T-SIM-COM;OnePlus;8T;Bandeja SIM;Compatible;3,30;;;6
+OL-9-PAN-OLS;OnePlus;9;Pantalla;OLED Soft;58,05;56,31;54,57;6
+OL-9-PAN-OLH;OnePlus;9;Pantalla;OLED Hard;53,05;51,46;49,87;6
+OL-9-PAN-INC;OnePlus;9;Pantalla;Incell;26,60;25,80;25,00;6
+OL-9-BAT-COM;OnePlus;9;Batería;Compatible;8,25;;;6
+OL-9-CON-COM;OnePlus;9;Conector de carga;Compatible;5,45;;;6
+OL-9-TAP-COM-NEG;OnePlus;9;Tapa trasera;Negro (Astral Black);6,99;;;6
+OL-9-TAP-COM-ARC;OnePlus;9;Tapa trasera;Arctic Sky;6,99;;;6
+OL-9-TAP-COM-WIN;OnePlus;9;Tapa trasera;Winter Mist;6,99;;;6
+OL-9-CTR-COM;OnePlus;9;Cámara trasera;Compatible;8,99;;;6
+OL-9-CFR-COM;OnePlus;9;Cámara frontal;Compatible;4,29;;;6
+OL-9-LEN-COM;OnePlus;9;Lente de cámara;Compatible;3,35;;;6
+OL-9-ALT-COM;OnePlus;9;Altavoz;Compatible;4,35;;;6
+OL-9-AUR-COM;OnePlus;9;Auricular de llamada;Compatible;3,25;;;6
+OL-9-FLX-COM;OnePlus;9;Flex de encendido y volumen;Compatible;3,25;;;6
+OL-9-SIM-COM;OnePlus;9;Bandeja SIM;Compatible;3,30;;;6
+OL-9P-PAN-OLS;OnePlus;9 Pro;Pantalla;OLED Soft;58,05;56,31;54,57;6
+OL-9P-PAN-OLH;OnePlus;9 Pro;Pantalla;OLED Hard;53,05;51,46;49,87;6
+OL-9P-PAN-INC;OnePlus;9 Pro;Pantalla;Incell;26,60;25,80;25,00;6
+OL-9P-BAT-COM;OnePlus;9 Pro;Batería;Compatible;8,25;;;6
+OL-9P-CON-COM;OnePlus;9 Pro;Conector de carga;Compatible;5,45;;;6
+OL-9P-TAP-COM-NEG;OnePlus;9 Pro;Tapa trasera;Negro (Stellar Black);6,99;;;6
+OL-9P-TAP-COM-VER;OnePlus;9 Pro;Tapa trasera;Verde (Pine Green);6,99;;;6
+OL-9P-TAP-COM-MOR;OnePlus;9 Pro;Tapa trasera;Morning Mist;6,99;;;6
+OL-9P-CTR-COM;OnePlus;9 Pro;Cámara trasera;Compatible;8,99;;;6
+OL-9P-CFR-COM;OnePlus;9 Pro;Cámara frontal;Compatible;4,29;;;6
+OL-9P-LEN-COM;OnePlus;9 Pro;Lente de cámara;Compatible;3,35;;;6
+OL-9P-ALT-COM;OnePlus;9 Pro;Altavoz;Compatible;4,35;;;6
+OL-9P-AUR-COM;OnePlus;9 Pro;Auricular de llamada;Compatible;3,25;;;6
+OL-9P-FLX-COM;OnePlus;9 Pro;Flex de encendido y volumen;Compatible;3,25;;;6
+OL-9P-SIM-COM;OnePlus;9 Pro;Bandeja SIM;Compatible;3,30;;;6
+OL-10P-PAN-OLS;OnePlus;10 Pro;Pantalla;OLED Soft;58,05;56,31;54,57;6
+OL-10P-PAN-OLH;OnePlus;10 Pro;Pantalla;OLED Hard;53,05;51,46;49,87;6
+OL-10P-PAN-INC;OnePlus;10 Pro;Pantalla;Incell;26,60;25,80;25,00;6
+OL-10P-BAT-COM;OnePlus;10 Pro;Batería;Compatible;8,25;;;6
+OL-10P-CON-COM;OnePlus;10 Pro;Conector de carga;Compatible;5,45;;;6
+OL-10P-TAP-COM-NEG;OnePlus;10 Pro;Tapa trasera;Negro (Volcanic Black);6,99;;;6
+OL-10P-TAP-COM-EME;OnePlus;10 Pro;Tapa trasera;Emerald Forest;6,99;;;6
+OL-10P-CTR-COM;OnePlus;10 Pro;Cámara trasera;Compatible;8,99;;;6
+OL-10P-CFR-COM;OnePlus;10 Pro;Cámara frontal;Compatible;4,29;;;6
+OL-10P-LEN-COM;OnePlus;10 Pro;Lente de cámara;Compatible;3,35;;;6
+OL-10P-ALT-COM;OnePlus;10 Pro;Altavoz;Compatible;4,35;;;6
+OL-10P-AUR-COM;OnePlus;10 Pro;Auricular de llamada;Compatible;3,25;;;6
+OL-10P-FLX-COM;OnePlus;10 Pro;Flex de encendido y volumen;Compatible;3,25;;;6
+OL-10P-SIM-COM;OnePlus;10 Pro;Bandeja SIM;Compatible;3,30;;;6
+OL-10T-PAN-OLS;OnePlus;10T;Pantalla;OLED Soft;58,05;56,31;54,57;6
+OL-10T-PAN-OLH;OnePlus;10T;Pantalla;OLED Hard;53,05;51,46;49,87;6
+OL-10T-PAN-INC;OnePlus;10T;Pantalla;Incell;26,60;25,80;25,00;6
+OL-10T-BAT-COM;OnePlus;10T;Batería;Compatible;8,25;;;6
+OL-10T-CON-COM;OnePlus;10T;Conector de carga;Compatible;5,45;;;6
+OL-10T-TAP-COM-NEG;OnePlus;10T;Tapa trasera;Negro (Moonstone Black);6,99;;;6
+OL-10T-TAP-COM-VER;OnePlus;10T;Tapa trasera;Verde (Jade Green);6,99;;;6
+OL-10T-CTR-COM;OnePlus;10T;Cámara trasera;Compatible;8,99;;;6
+OL-10T-CFR-COM;OnePlus;10T;Cámara frontal;Compatible;4,29;;;6
+OL-10T-LEN-COM;OnePlus;10T;Lente de cámara;Compatible;3,35;;;6
+OL-10T-ALT-COM;OnePlus;10T;Altavoz;Compatible;4,35;;;6
+OL-10T-AUR-COM;OnePlus;10T;Auricular de llamada;Compatible;3,25;;;6
+OL-10T-FLX-COM;OnePlus;10T;Flex de encendido y volumen;Compatible;3,25;;;6
+OL-10T-SIM-COM;OnePlus;10T;Bandeja SIM;Compatible;3,30;;;6
+OL-11-PAN-OLS;OnePlus;11;Pantalla;OLED Soft;61,79;59,94;58,08;6
+OL-11-PAN-OLH;OnePlus;11;Pantalla;OLED Hard;56,45;54,76;53,06;6
+OL-11-PAN-INC;OnePlus;11;Pantalla;Incell;28,35;27,50;26,65;6
+OL-11-BAT-COM;OnePlus;11;Batería;Compatible;9,45;;;6
+OL-11-CON-COM;OnePlus;11;Conector de carga;Compatible;6,25;;;6
+OL-11-TAP-COM-NEG;OnePlus;11;Tapa trasera;Negro (Titan Black);7,85;;;6
+OL-11-TAP-COM-VER;OnePlus;11;Tapa trasera;Verde (Eternal Green);7,85;;;6
+OL-11-CTR-COM;OnePlus;11;Cámara trasera;Compatible;12,60;12,22;11,84;6
+OL-11-CFR-COM;OnePlus;11;Cámara frontal;Compatible;6,25;;;6
+OL-11-LEN-COM;OnePlus;11;Lente de cámara;Compatible;3,50;;;6
+OL-11-ALT-COM;OnePlus;11;Altavoz;Compatible;4,70;;;6
+OL-11-AUR-COM;OnePlus;11;Auricular de llamada;Compatible;3,59;;;6
+OL-11-FLX-COM;OnePlus;11;Flex de encendido y volumen;Compatible;3,90;;;6
+OL-11-SIM-COM;OnePlus;11;Bandeja SIM;Compatible;3,25;;;6
+OL-12-PAN-OLS;OnePlus;12;Pantalla;OLED Soft;61,79;59,94;58,08;6
+OL-12-PAN-OLH;OnePlus;12;Pantalla;OLED Hard;56,45;54,76;53,06;6
+OL-12-PAN-INC;OnePlus;12;Pantalla;Incell;28,35;27,50;26,65;6
+OL-12-BAT-COM;OnePlus;12;Batería;Compatible;9,45;;;6
+OL-12-CON-COM;OnePlus;12;Conector de carga;Compatible;6,25;;;6
+OL-12-TAP-COM-NEG;OnePlus;12;Tapa trasera;Negro (Silky Black);7,85;;;6
+OL-12-TAP-COM-FLO;OnePlus;12;Tapa trasera;Flowy Emerald;7,85;;;6
+OL-12-CTR-COM;OnePlus;12;Cámara trasera;Compatible;12,60;12,22;11,84;6
+OL-12-CFR-COM;OnePlus;12;Cámara frontal;Compatible;6,25;;;6
+OL-12-LEN-COM;OnePlus;12;Lente de cámara;Compatible;3,50;;;6
+OL-12-ALT-COM;OnePlus;12;Altavoz;Compatible;4,70;;;6
+OL-12-AUR-COM;OnePlus;12;Auricular de llamada;Compatible;3,59;;;6
+OL-12-FLX-COM;OnePlus;12;Flex de encendido y volumen;Compatible;3,90;;;6
+OL-12-SIM-COM;OnePlus;12;Bandeja SIM;Compatible;3,25;;;6
+OL-12R-PAN-OLS;OnePlus;12R;Pantalla;OLED Soft;46,95;45,54;44,13;6
+OL-12R-PAN-OLH;OnePlus;12R;Pantalla;OLED Hard;42,89;41,60;40,32;6
+OL-12R-PAN-INC;OnePlus;12R;Pantalla;Incell;21,50;20,86;20,21;6
+OL-12R-BAT-COM;OnePlus;12R;Batería;Compatible;9,85;;;6
+OL-12R-CON-COM;OnePlus;12R;Conector de carga;Compatible;4,65;;;6
+OL-12R-TAP-COM-GRI;OnePlus;12R;Tapa trasera;Gris (Iron Gray);6,39;;;6
+OL-12R-TAP-COM-AZU;OnePlus;12R;Tapa trasera;Azul (Cool Blue);6,39;;;6
+OL-12R-CTR-COM;OnePlus;12R;Cámara trasera;Compatible;10,05;9,75;9,45;6
+OL-12R-CFR-COM;OnePlus;12R;Cámara frontal;Compatible;5,00;;;6
+OL-12R-LEN-COM;OnePlus;12R;Lente de cámara;Compatible;3,00;;;6
+OL-12R-ALT-COM;OnePlus;12R;Altavoz;Compatible;4,10;;;6
+OL-12R-AUR-COM;OnePlus;12R;Auricular de llamada;Compatible;3,29;;;6
+OL-12R-FLX-COM;OnePlus;12R;Flex de encendido y volumen;Compatible;3,60;;;6
+OL-12R-SIM-COM;OnePlus;12R;Bandeja SIM;Compatible;3,00;;;6
+OL-13-PAN-OLS;OnePlus;13;Pantalla;OLED Soft;65,05;63,10;61,15;6
+OL-13-PAN-OLH;OnePlus;13;Pantalla;OLED Hard;59,45;57,67;55,88;6
+OL-13-PAN-INC;OnePlus;13;Pantalla;Incell;29,85;28,95;28,06;6
+OL-13-BAT-COM;OnePlus;13;Batería;Compatible;8,90;;;6
+OL-13-CON-COM;OnePlus;13;Conector de carga;Compatible;7,45;;;6
+OL-13-TAP-COM-NEG;OnePlus;13;Tapa trasera;Negro (Black Eclipse);8,40;;;6
+OL-13-TAP-COM-MED;OnePlus;13;Tapa trasera;Medianoche (Midnight Ocean);8,40;;;6
+OL-13-TAP-COM-ARC;OnePlus;13;Tapa trasera;Arctic Dawn;8,40;;;6
+OL-13-CTR-COM;OnePlus;13;Cámara trasera;Compatible;17,25;16,73;16,22;6
+OL-13-CFR-COM;OnePlus;13;Cámara frontal;Compatible;8,75;;;6
+OL-13-LEN-COM;OnePlus;13;Lente de cámara;Compatible;4,50;;;6
+OL-13-ALT-COM;OnePlus;13;Altavoz;Compatible;6,20;;;6
+OL-13-AUR-COM;OnePlus;13;Auricular de llamada;Compatible;5,05;;;6
+OL-13-FLX-COM;OnePlus;13;Flex de encendido y volumen;Compatible;4,29;;;6
+OL-13-SIM-COM;OnePlus;13;Bandeja SIM;Compatible;3,85;;;6
+OL-13R-PAN-OLS;OnePlus;13R;Pantalla;OLED Soft;49,45;47,97;46,48;6
+OL-13R-PAN-OLH;OnePlus;13R;Pantalla;OLED Hard;45,19;43,83;42,48;6
+OL-13R-PAN-INC;OnePlus;13R;Pantalla;Incell;22,65;21,97;21,29;6
+OL-13R-BAT-COM;OnePlus;13R;Batería;Compatible;9,30;;;6
+OL-13R-CON-COM;OnePlus;13R;Conector de carga;Compatible;5,55;;;6
+OL-13R-TAP-COM-NEB;OnePlus;13R;Tapa trasera;Nebula Noir;6,85;;;6
+OL-13R-TAP-COM-AST;OnePlus;13R;Tapa trasera;Astral Trail;6,85;;;6
+OL-13R-CTR-COM;OnePlus;13R;Cámara trasera;Compatible;13,79;13,38;12,96;6
+OL-13R-CFR-COM;OnePlus;13R;Cámara frontal;Compatible;6,99;;;6
+OL-13R-LEN-COM;OnePlus;13R;Lente de cámara;Compatible;3,89;;;6
+OL-13R-ALT-COM;OnePlus;13R;Altavoz;Compatible;5,40;;;6
+OL-13R-AUR-COM;OnePlus;13R;Auricular de llamada;Compatible;4,60;;;6
+OL-13R-FLX-COM;OnePlus;13R;Flex de encendido y volumen;Compatible;3,95;;;6
+OL-13R-SIM-COM;OnePlus;13R;Bandeja SIM;Compatible;3,55;;;6
+OL-15-PAN-OLS;OnePlus;15;Pantalla;OLED Soft;65,05;63,10;61,15;6
+OL-15-PAN-OLH;OnePlus;15;Pantalla;OLED Hard;59,45;57,67;55,88;6
+OL-15-PAN-INC;OnePlus;15;Pantalla;Incell;29,85;28,95;28,06;6
+OL-15-BAT-COM;OnePlus;15;Batería;Compatible;8,90;;;6
+OL-15-CON-COM;OnePlus;15;Conector de carga;Compatible;7,45;;;6
+OL-15-TAP-COM-NEG;OnePlus;15;Tapa trasera;Negro (Infinite Black);8,40;;;6
+OL-15-TAP-COM-VIO;OnePlus;15;Tapa trasera;Violeta (Ultra Violet);8,40;;;6
+OL-15-TAP-COM-SAN;OnePlus;15;Tapa trasera;Sand Storm;8,40;;;6
+OL-15-CTR-COM;OnePlus;15;Cámara trasera;Compatible;17,25;16,73;16,22;6
+OL-15-CFR-COM;OnePlus;15;Cámara frontal;Compatible;8,75;;;6
+OL-15-LEN-COM;OnePlus;15;Lente de cámara;Compatible;4,50;;;6
+OL-15-ALT-COM;OnePlus;15;Altavoz;Compatible;6,20;;;6
+OL-15-AUR-COM;OnePlus;15;Auricular de llamada;Compatible;5,05;;;6
+OL-15-FLX-COM;OnePlus;15;Flex de encendido y volumen;Compatible;4,29;;;6
+OL-15-SIM-COM;OnePlus;15;Bandeja SIM;Compatible;3,85;;;6
+OL-15R-PAN-OLS;OnePlus;15R;Pantalla;OLED Soft;49,45;47,97;46,48;6
+OL-15R-PAN-OLH;OnePlus;15R;Pantalla;OLED Hard;45,19;43,83;42,48;6
+OL-15R-PAN-INC;OnePlus;15R;Pantalla;Incell;22,65;21,97;21,29;6
+OL-15R-BAT-COM;OnePlus;15R;Batería;Compatible;9,30;;;6
+OL-15R-CON-COM;OnePlus;15R;Conector de carga;Compatible;5,55;;;6
+OL-15R-TAP-COM-NEG;OnePlus;15R;Tapa trasera;Negro (Charcoal Black);6,85;;;6
+OL-15R-TAP-COM-MEN;OnePlus;15R;Tapa trasera;Menta (Mint Breeze);6,85;;;6
+OL-15R-CTR-COM;OnePlus;15R;Cámara trasera;Compatible;13,79;13,38;12,96;6
+OL-15R-CFR-COM;OnePlus;15R;Cámara frontal;Compatible;6,99;;;6
+OL-15R-LEN-COM;OnePlus;15R;Lente de cámara;Compatible;3,89;;;6
+OL-15R-ALT-COM;OnePlus;15R;Altavoz;Compatible;5,40;;;6
+OL-15R-AUR-COM;OnePlus;15R;Auricular de llamada;Compatible;4,60;;;6
+OL-15R-FLX-COM;OnePlus;15R;Flex de encendido y volumen;Compatible;3,95;;;6
+OL-15R-SIM-COM;OnePlus;15R;Bandeja SIM;Compatible;3,55;;;6
+OL-O-PAN-COM;OnePlus;Open;Pantalla;Compatible;154,70;150,06;145,42;6
+OL-O-PAN-COM-EXT;OnePlus;Open;Pantalla exterior;Compatible;24,65;23,91;23,17;6
+OL-O-BAT-COM;OnePlus;Open;Batería;Compatible;9,45;;;6
+OL-O-CON-COM;OnePlus;Open;Conector de carga;Compatible;9,55;;;6
+OL-O-TAP-COM-EME;OnePlus;Open;Tapa trasera;Emerald Dusk;11,20;10,86;10,53;6
+OL-O-TAP-COM-NEG;OnePlus;Open;Tapa trasera;Negro (Voyager Black);11,20;10,86;10,53;6
+OL-O-CTR-COM;OnePlus;Open;Cámara trasera;Compatible;19,15;18,58;18,00;6
+OL-O-CFR-COM;OnePlus;Open;Cámara frontal;Compatible;8,35;;;6
+OL-O-LEN-COM;OnePlus;Open;Lente de cámara;Compatible;5,15;;;6
+OL-O-ALT-COM;OnePlus;Open;Altavoz;Compatible;7,25;;;6
+OL-O-AUR-COM;OnePlus;Open;Auricular de llamada;Compatible;5,25;;;6
+OL-O-FLX-COM;OnePlus;Open;Flex de encendido y volumen;Compatible;5,75;;;6
+OL-O-SIM-COM;OnePlus;Open;Bandeja SIM;Compatible;4,85;;;6
+OL-N-PAN-OLS;OnePlus;Nord;Pantalla;OLED Soft;42,85;41,56;40,28;6
+OL-N-PAN-OLH;OnePlus;Nord;Pantalla;OLED Hard;39,15;37,98;36,80;6
+OL-N-PAN-INC;OnePlus;Nord;Pantalla;Incell;19,65;19,06;18,47;6
+OL-N-BAT-COM;OnePlus;Nord;Batería;Compatible;8,00;;;6
+OL-N-CON-COM;OnePlus;Nord;Conector de carga;Compatible;4,35;;;6
+OL-N-TAP-COM-GRI;OnePlus;Nord;Tapa trasera;Gris (Gray Onyx);5,60;;;6
+OL-N-TAP-COM-AZU;OnePlus;Nord;Tapa trasera;Azul (Blue Marble);5,60;;;6
+OL-N-CTR-COM;OnePlus;Nord;Cámara trasera;Compatible;5,90;;;6
+OL-N-CFR-COM;OnePlus;Nord;Cámara frontal;Compatible;3,25;;;6
+OL-N-LEN-COM;OnePlus;Nord;Lente de cámara;Compatible;2,40;;;6
+OL-N-ALT-COM;OnePlus;Nord;Altavoz;Compatible;3,45;;;6
+OL-N-AUR-COM;OnePlus;Nord;Auricular de llamada;Compatible;2,40;;;6
+OL-N-FLX-COM;OnePlus;Nord;Flex de encendido y volumen;Compatible;2,29;;;6
+OL-N-SIM-COM;OnePlus;Nord;Bandeja SIM;Compatible;2,65;;;6
+OL-NN105-PAN-COM;OnePlus;Nord N10 5G;Pantalla;Compatible;14,55;14,11;13,68;6
+OL-NN105-BAT-COM;OnePlus;Nord N10 5G;Batería;Compatible;7,40;;;6
+OL-NN105-CON-COM;OnePlus;Nord N10 5G;Conector de carga;Compatible;3,50;;;6
+OL-NN105-TAP-COM-MED;OnePlus;Nord N10 5G;Tapa trasera;Medianoche (Midnight Ice);5,00;;;6
+OL-NN105-CTR-COM;OnePlus;Nord N10 5G;Cámara trasera;Compatible;5,20;;;6
+OL-NN105-CFR-COM;OnePlus;Nord N10 5G;Cámara frontal;Compatible;3,00;;;6
+OL-NN105-LEN-COM;OnePlus;Nord N10 5G;Lente de cámara;Compatible;2,49;;;6
+OL-NN105-ALT-COM;OnePlus;Nord N10 5G;Altavoz;Compatible;3,39;;;6
+OL-NN105-AUR-COM;OnePlus;Nord N10 5G;Auricular de llamada;Compatible;2,45;;;6
+OL-NN105-FLX-COM;OnePlus;Nord N10 5G;Flex de encendido y volumen;Compatible;2,35;;;6
+OL-NN105-SIM-COM;OnePlus;Nord N10 5G;Bandeja SIM;Compatible;2,80;;;6
+OL-NN100-PAN-COM;OnePlus;Nord N100;Pantalla;Compatible;14,55;14,11;13,68;6
+OL-NN100-BAT-COM;OnePlus;Nord N100;Batería;Compatible;7,40;;;6
+OL-NN100-CON-COM;OnePlus;Nord N100;Conector de carga;Compatible;3,50;;;6
+OL-NN100-TAP-COM-MED;OnePlus;Nord N100;Tapa trasera;Medianoche (Midnight Frost);5,00;;;6
+OL-NN100-CTR-COM;OnePlus;Nord N100;Cámara trasera;Compatible;5,20;;;6
+OL-NN100-CFR-COM;OnePlus;Nord N100;Cámara frontal;Compatible;3,00;;;6
+OL-NN100-LEN-COM;OnePlus;Nord N100;Lente de cámara;Compatible;2,49;;;6
+OL-NN100-ALT-COM;OnePlus;Nord N100;Altavoz;Compatible;3,39;;;6
+OL-NN100-AUR-COM;OnePlus;Nord N100;Auricular de llamada;Compatible;2,45;;;6
+OL-NN100-FLX-COM;OnePlus;Nord N100;Flex de encendido y volumen;Compatible;2,35;;;6
+OL-NN100-SIM-COM;OnePlus;Nord N100;Bandeja SIM;Compatible;2,80;;;6
+OL-N25-PAN-OLS;OnePlus;Nord 2 5G;Pantalla;OLED Soft;42,85;41,56;40,28;6
+OL-N25-PAN-OLH;OnePlus;Nord 2 5G;Pantalla;OLED Hard;39,15;37,98;36,80;6
+OL-N25-PAN-INC;OnePlus;Nord 2 5G;Pantalla;Incell;19,65;19,06;18,47;6
+OL-N25-BAT-COM;OnePlus;Nord 2 5G;Batería;Compatible;8,00;;;6
+OL-N25-CON-COM;OnePlus;Nord 2 5G;Conector de carga;Compatible;4,35;;;6
+OL-N25-TAP-COM-GRI;OnePlus;Nord 2 5G;Tapa trasera;Gris (Gray Sierra);5,60;;;6
+OL-N25-TAP-COM-AZU;OnePlus;Nord 2 5G;Tapa trasera;Azul (Blue Haze);5,60;;;6
+OL-N25-TAP-COM-VER;OnePlus;Nord 2 5G;Tapa trasera;Verde (Green Wood);5,60;;;6
+OL-N25-CTR-COM;OnePlus;Nord 2 5G;Cámara trasera;Compatible;5,90;;;6
+OL-N25-CFR-COM;OnePlus;Nord 2 5G;Cámara frontal;Compatible;3,25;;;6
+OL-N25-LEN-COM;OnePlus;Nord 2 5G;Lente de cámara;Compatible;2,40;;;6
+OL-N25-ALT-COM;OnePlus;Nord 2 5G;Altavoz;Compatible;3,45;;;6
+OL-N25-AUR-COM;OnePlus;Nord 2 5G;Auricular de llamada;Compatible;2,40;;;6
+OL-N25-FLX-COM;OnePlus;Nord 2 5G;Flex de encendido y volumen;Compatible;2,29;;;6
+OL-N25-SIM-COM;OnePlus;Nord 2 5G;Bandeja SIM;Compatible;2,65;;;6
+OL-N2T5-PAN-OLS;OnePlus;Nord 2T 5G;Pantalla;OLED Soft;42,85;41,56;40,28;6
+OL-N2T5-PAN-OLH;OnePlus;Nord 2T 5G;Pantalla;OLED Hard;39,15;37,98;36,80;6
+OL-N2T5-PAN-INC;OnePlus;Nord 2T 5G;Pantalla;Incell;19,65;19,06;18,47;6
+OL-N2T5-BAT-COM;OnePlus;Nord 2T 5G;Batería;Compatible;8,00;;;6
+OL-N2T5-CON-COM;OnePlus;Nord 2T 5G;Conector de carga;Compatible;4,35;;;6
+OL-N2T5-TAP-COM-GRI;OnePlus;Nord 2T 5G;Tapa trasera;Gris (Gray Shadow);5,60;;;6
+OL-N2T5-TAP-COM-JAD;OnePlus;Nord 2T 5G;Tapa trasera;Jade Fog;5,60;;;6
+OL-N2T5-CTR-COM;OnePlus;Nord 2T 5G;Cámara trasera;Compatible;5,90;;;6
+OL-N2T5-CFR-COM;OnePlus;Nord 2T 5G;Cámara frontal;Compatible;3,25;;;6
+OL-N2T5-LEN-COM;OnePlus;Nord 2T 5G;Lente de cámara;Compatible;2,40;;;6
+OL-N2T5-ALT-COM;OnePlus;Nord 2T 5G;Altavoz;Compatible;3,45;;;6
+OL-N2T5-AUR-COM;OnePlus;Nord 2T 5G;Auricular de llamada;Compatible;2,40;;;6
+OL-N2T5-FLX-COM;OnePlus;Nord 2T 5G;Flex de encendido y volumen;Compatible;2,29;;;6
+OL-N2T5-SIM-COM;OnePlus;Nord 2T 5G;Bandeja SIM;Compatible;2,65;;;6
+OL-N35-PAN-OLS;OnePlus;Nord 3 5G;Pantalla;OLED Soft;50,55;49,03;47,52;6
+OL-N35-PAN-OLH;OnePlus;Nord 3 5G;Pantalla;OLED Hard;48,10;46,66;45,21;6
+OL-N35-PAN-INC;OnePlus;Nord 3 5G;Pantalla;Incell;22,65;21,97;21,29;6
+OL-N35-BAT-COM;OnePlus;Nord 3 5G;Batería;Compatible;9,15;;;6
+OL-N35-CON-COM;OnePlus;Nord 3 5G;Conector de carga;Compatible;4,99;;;6
+OL-N35-TAP-COM-GRI;OnePlus;Nord 3 5G;Tapa trasera;Gris (Tempest Gray);6,30;;;6
+OL-N35-TAP-COM-VER;OnePlus;Nord 3 5G;Tapa trasera;Verde (Misty Green);6,30;;;6
+OL-N35-CTR-COM;OnePlus;Nord 3 5G;Cámara trasera;Compatible;8,29;;;6
+OL-N35-CFR-COM;OnePlus;Nord 3 5G;Cámara frontal;Compatible;4,75;;;6
+OL-N35-LEN-COM;OnePlus;Nord 3 5G;Lente de cámara;Compatible;2,55;;;6
+OL-N35-ALT-COM;OnePlus;Nord 3 5G;Altavoz;Compatible;3,70;;;6
+OL-N35-AUR-COM;OnePlus;Nord 3 5G;Auricular de llamada;Compatible;2,65;;;6
+OL-N35-FLX-COM;OnePlus;Nord 3 5G;Flex de encendido y volumen;Compatible;2,79;;;6
+OL-N35-SIM-COM;OnePlus;Nord 3 5G;Bandeja SIM;Compatible;2,60;;;6
+OL-N4-PAN-OLS;OnePlus;Nord 4;Pantalla;OLED Soft;45,60;44,23;42,86;6
+OL-N4-PAN-OLH;OnePlus;Nord 4;Pantalla;OLED Hard;41,69;40,44;39,19;6
+OL-N4-PAN-INC;OnePlus;Nord 4;Pantalla;Incell;20,90;20,27;19,65;6
+OL-N4-BAT-COM;OnePlus;Nord 4;Batería;Compatible;9,15;;;6
+OL-N4-CON-COM;OnePlus;Nord 4;Conector de carga;Compatible;4,99;;;6
+OL-N4-TAP-COM-MED;OnePlus;Nord 4;Tapa trasera;Medianoche (Obsidian Midnight);6,30;;;6
+OL-N4-TAP-COM-PLA;OnePlus;Nord 4;Tapa trasera;Plata (Mercurial Silver);6,30;;;6
+OL-N4-TAP-COM-VER;OnePlus;Nord 4;Tapa trasera;Verde (Oasis Green);6,30;;;6
+OL-N4-CTR-COM;OnePlus;Nord 4;Cámara trasera;Compatible;8,29;;;6
+OL-N4-CFR-COM;OnePlus;Nord 4;Cámara frontal;Compatible;4,75;;;6
+OL-N4-LEN-COM;OnePlus;Nord 4;Lente de cámara;Compatible;2,55;;;6
+OL-N4-ALT-COM;OnePlus;Nord 4;Altavoz;Compatible;3,70;;;6
+OL-N4-AUR-COM;OnePlus;Nord 4;Auricular de llamada;Compatible;2,65;;;6
+OL-N4-FLX-COM;OnePlus;Nord 4;Flex de encendido y volumen;Compatible;2,79;;;6
+OL-N4-SIM-COM;OnePlus;Nord 4;Bandeja SIM;Compatible;2,60;;;6
+OL-N5-PAN-OLS;OnePlus;Nord 5;Pantalla;OLED Soft;48,05;46,61;45,17;6
+OL-N5-PAN-OLH;OnePlus;Nord 5;Pantalla;OLED Hard;43,90;42,58;41,27;6
+OL-N5-PAN-INC;OnePlus;Nord 5;Pantalla;Incell;22,05;21,39;20,73;6
+OL-N5-BAT-COM;OnePlus;Nord 5;Batería;Compatible;8,60;;;6
+OL-N5-CON-COM;OnePlus;Nord 5;Conector de carga;Compatible;5,95;;;6
+OL-N5-TAP-COM-GRI;OnePlus;Nord 5;Tapa trasera;Gris (Phantom Grey);6,75;;;6
+OL-N5-TAP-COM-DRY;OnePlus;Nord 5;Tapa trasera;Dry Ice;6,75;;;6
+OL-N5-TAP-COM-MAR;OnePlus;Nord 5;Tapa trasera;Marble Sands;6,75;;;6
+OL-N5-CTR-COM;OnePlus;Nord 5;Cámara trasera;Compatible;11,35;11,01;10,67;6
+OL-N5-CFR-COM;OnePlus;Nord 5;Cámara frontal;Compatible;6,59;;;6
+OL-N5-LEN-COM;OnePlus;Nord 5;Lente de cámara;Compatible;3,25;;;6
+OL-N5-ALT-COM;OnePlus;Nord 5;Altavoz;Compatible;4,90;;;6
+OL-N5-AUR-COM;OnePlus;Nord 5;Auricular de llamada;Compatible;3,70;;;6
+OL-N5-FLX-COM;OnePlus;Nord 5;Flex de encendido y volumen;Compatible;3,05;;;6
+OL-N5-SIM-COM;OnePlus;Nord 5;Bandeja SIM;Compatible;3,10;;;6
+OL-NCE5-PAN-OLS;OnePlus;Nord CE 5G;Pantalla;OLED Soft;41,05;39,82;38,59;6
+OL-NCE5-PAN-OLH;OnePlus;Nord CE 5G;Pantalla;OLED Hard;37,50;36,38;35,25;6
+OL-NCE5-PAN-INC;OnePlus;Nord CE 5G;Pantalla;Incell;18,85;18,28;17,72;6
+OL-NCE5-BAT-COM;OnePlus;Nord CE 5G;Batería;Compatible;8,00;;;6
+OL-NCE5-CON-COM;OnePlus;Nord CE 5G;Conector de carga;Compatible;4,35;;;6
+OL-NCE5-TAP-COM-GRI;OnePlus;Nord CE 5G;Tapa trasera;Gris carbón (Charcoal Ink);5,60;;;6
+OL-NCE5-TAP-COM-AZU;OnePlus;Nord CE 5G;Tapa trasera;Azul (Blue Void);5,60;;;6
+OL-NCE5-TAP-COM-PLA;OnePlus;Nord CE 5G;Tapa trasera;Plata (Silver Ray);5,60;;;6
+OL-NCE5-CTR-COM;OnePlus;Nord CE 5G;Cámara trasera;Compatible;5,90;;;6
+OL-NCE5-CFR-COM;OnePlus;Nord CE 5G;Cámara frontal;Compatible;3,25;;;6
+OL-NCE5-LEN-COM;OnePlus;Nord CE 5G;Lente de cámara;Compatible;2,40;;;6
+OL-NCE5-ALT-COM;OnePlus;Nord CE 5G;Altavoz;Compatible;3,45;;;6
+OL-NCE5-AUR-COM;OnePlus;Nord CE 5G;Auricular de llamada;Compatible;2,40;;;6
+OL-NCE5-FLX-COM;OnePlus;Nord CE 5G;Flex de encendido y volumen;Compatible;2,29;;;6
+OL-NCE5-SIM-COM;OnePlus;Nord CE 5G;Bandeja SIM;Compatible;2,70;;;6
+OL-NCE25-PAN-OLS;OnePlus;Nord CE 2 5G;Pantalla;OLED Soft;41,05;39,82;38,59;6
+OL-NCE25-PAN-OLH;OnePlus;Nord CE 2 5G;Pantalla;OLED Hard;37,50;36,38;35,25;6
+OL-NCE25-PAN-INC;OnePlus;Nord CE 2 5G;Pantalla;Incell;18,85;18,28;17,72;6
+OL-NCE25-BAT-COM;OnePlus;Nord CE 2 5G;Batería;Compatible;8,00;;;6
+OL-NCE25-CON-COM;OnePlus;Nord CE 2 5G;Conector de carga;Compatible;4,35;;;6
+OL-NCE25-TAP-COM-GRI;OnePlus;Nord CE 2 5G;Tapa trasera;Gris (Gray Mirror);5,60;;;6
+OL-NCE25-TAP-COM-AZU;OnePlus;Nord CE 2 5G;Tapa trasera;Azul (Bahama Blue);5,60;;;6
+OL-NCE25-CTR-COM;OnePlus;Nord CE 2 5G;Cámara trasera;Compatible;5,90;;;6
+OL-NCE25-CFR-COM;OnePlus;Nord CE 2 5G;Cámara frontal;Compatible;3,25;;;6
+OL-NCE25-LEN-COM;OnePlus;Nord CE 2 5G;Lente de cámara;Compatible;2,40;;;6
+OL-NCE25-ALT-COM;OnePlus;Nord CE 2 5G;Altavoz;Compatible;3,45;;;6
+OL-NCE25-AUR-COM;OnePlus;Nord CE 2 5G;Auricular de llamada;Compatible;2,40;;;6
+OL-NCE25-FLX-COM;OnePlus;Nord CE 2 5G;Flex de encendido y volumen;Compatible;2,29;;;6
+OL-NCE25-SIM-COM;OnePlus;Nord CE 2 5G;Bandeja SIM;Compatible;2,70;;;6
+OL-NCE2L5-PAN-COM;OnePlus;Nord CE 2 Lite 5G;Pantalla;Compatible;13,90;13,48;13,07;6
+OL-NCE2L5-BAT-COM;OnePlus;Nord CE 2 Lite 5G;Batería;Compatible;7,39;;;6
+OL-NCE2L5-CON-COM;OnePlus;Nord CE 2 Lite 5G;Conector de carga;Compatible;3,50;;;6
+OL-NCE2L5-TAP-COM-NEG;OnePlus;Nord CE 2 Lite 5G;Tapa trasera;Negro (Black Dusk);5,00;;;6
+OL-NCE2L5-TAP-COM-AZU;OnePlus;Nord CE 2 Lite 5G;Tapa trasera;Azul (Blue Tide);5,00;;;6
+OL-NCE2L5-CTR-COM;OnePlus;Nord CE 2 Lite 5G;Cámara trasera;Compatible;5,20;;;6
+OL-NCE2L5-CFR-COM;OnePlus;Nord CE 2 Lite 5G;Cámara frontal;Compatible;3,00;;;6
+OL-NCE2L5-LEN-COM;OnePlus;Nord CE 2 Lite 5G;Lente de cámara;Compatible;2,49;;;6
+OL-NCE2L5-ALT-COM;OnePlus;Nord CE 2 Lite 5G;Altavoz;Compatible;3,39;;;6
+OL-NCE2L5-AUR-COM;OnePlus;Nord CE 2 Lite 5G;Auricular de llamada;Compatible;2,45;;;6
+OL-NCE2L5-FLX-COM;OnePlus;Nord CE 2 Lite 5G;Flex de encendido y volumen;Compatible;2,35;;;6
+OL-NCE2L5-SIM-COM;OnePlus;Nord CE 2 Lite 5G;Bandeja SIM;Compatible;2,85;;;6
+OL-NCE3L5-PAN-COM;OnePlus;Nord CE 3 Lite 5G;Pantalla;Compatible;14,45;14,02;13,58;6
+OL-NCE3L5-BAT-COM;OnePlus;Nord CE 3 Lite 5G;Batería;Compatible;8,90;;;6
+OL-NCE3L5-CON-COM;OnePlus;Nord CE 3 Lite 5G;Conector de carga;Compatible;4,00;;;6
+OL-NCE3L5-TAP-COM-GRI;OnePlus;Nord CE 3 Lite 5G;Tapa trasera;Gris (Chromatic Gray);5,60;;;6
+OL-NCE3L5-TAP-COM-LIM;OnePlus;Nord CE 3 Lite 5G;Tapa trasera;Lima (Pastel Lime);5,60;;;6
+OL-NCE3L5-CTR-COM;OnePlus;Nord CE 3 Lite 5G;Cámara trasera;Compatible;7,29;;;6
+OL-NCE3L5-CFR-COM;OnePlus;Nord CE 3 Lite 5G;Cámara frontal;Compatible;4,45;;;6
+OL-NCE3L5-LEN-COM;OnePlus;Nord CE 3 Lite 5G;Lente de cámara;Compatible;2,60;;;6
+OL-NCE3L5-ALT-COM;OnePlus;Nord CE 3 Lite 5G;Altavoz;Compatible;3,65;;;6
+OL-NCE3L5-AUR-COM;OnePlus;Nord CE 3 Lite 5G;Auricular de llamada;Compatible;2,65;;;6
+OL-NCE3L5-FLX-COM;OnePlus;Nord CE 3 Lite 5G;Flex de encendido y volumen;Compatible;2,85;;;6
+OL-NCE3L5-SIM-COM;OnePlus;Nord CE 3 Lite 5G;Bandeja SIM;Compatible;3,00;;;6
+OL-NCE4L5-PAN-OLS;OnePlus;Nord CE4 Lite 5G;Pantalla;OLED Soft;37,95;36,81;35,67;6
+OL-NCE4L5-PAN-OLH;OnePlus;Nord CE4 Lite 5G;Pantalla;OLED Hard;34,70;33,66;32,62;6
+OL-NCE4L5-PAN-INC;OnePlus;Nord CE4 Lite 5G;Pantalla;Incell;17,40;16,88;16,36;6
+OL-NCE4L5-BAT-COM;OnePlus;Nord CE4 Lite 5G;Batería;Compatible;8,45;;;6
+OL-NCE4L5-CON-COM;OnePlus;Nord CE4 Lite 5G;Conector de carga;Compatible;4,00;;;6
+OL-NCE4L5-TAP-COM-AZU;OnePlus;Nord CE4 Lite 5G;Tapa trasera;Azul (Mega Blue);5,60;;;6
+OL-NCE4L5-TAP-COM-PLA;OnePlus;Nord CE4 Lite 5G;Tapa trasera;Plata (Super Silver);5,60;;;6
+OL-NCE4L5-TAP-COM-NAR;OnePlus;Nord CE4 Lite 5G;Tapa trasera;Naranja (Ultra Orange);5,60;;;6
+OL-NCE4L5-CTR-COM;OnePlus;Nord CE4 Lite 5G;Cámara trasera;Compatible;7,29;;;6
+OL-NCE4L5-CFR-COM;OnePlus;Nord CE4 Lite 5G;Cámara frontal;Compatible;4,45;;;6
+OL-NCE4L5-LEN-COM;OnePlus;Nord CE4 Lite 5G;Lente de cámara;Compatible;2,60;;;6
+OL-NCE4L5-ALT-COM;OnePlus;Nord CE4 Lite 5G;Altavoz;Compatible;3,65;;;6
+OL-NCE4L5-AUR-COM;OnePlus;Nord CE4 Lite 5G;Auricular de llamada;Compatible;2,65;;;6
+OL-NCE4L5-FLX-COM;OnePlus;Nord CE4 Lite 5G;Flex de encendido y volumen;Compatible;2,85;;;6
+OL-NCE4L5-SIM-COM;OnePlus;Nord CE4 Lite 5G;Bandeja SIM;Compatible;2,80;;;6
+OL-NORDCE5-PAN-OLS;OnePlus;Nord CE5;Pantalla;OLED Soft;46,05;44,67;43,29;6
+OL-NORDCE5-PAN-OLH;OnePlus;Nord CE5;Pantalla;OLED Hard;42,05;40,79;39,53;6
+OL-NORDCE5-PAN-INC;OnePlus;Nord CE5;Pantalla;Incell;21,10;20,47;19,83;6
+OL-NORDCE5-BAT-COM;OnePlus;Nord CE5;Batería;Compatible;8,60;;;6
+OL-NORDCE5-CON-COM;OnePlus;Nord CE5;Conector de carga;Compatible;5,95;;;6
+OL-NORDCE5-TAP-COM-NEG;OnePlus;Nord CE5;Tapa trasera;Negro (Black Infinity);6,75;;;6
+OL-NORDCE5-TAP-COM-MAR;OnePlus;Nord CE5;Tapa trasera;Marble Mist;6,75;;;6
+OL-NORDCE5-CTR-COM;OnePlus;Nord CE5;Cámara trasera;Compatible;11,35;11,01;10,67;6
+OL-NORDCE5-CFR-COM;OnePlus;Nord CE5;Cámara frontal;Compatible;6,59;;;6
+OL-NORDCE5-LEN-COM;OnePlus;Nord CE5;Lente de cámara;Compatible;3,25;;;6
+OL-NORDCE5-ALT-COM;OnePlus;Nord CE5;Altavoz;Compatible;4,90;;;6
+OL-NORDCE5-AUR-COM;OnePlus;Nord CE5;Auricular de llamada;Compatible;3,70;;;6
+OL-NORDCE5-FLX-COM;OnePlus;Nord CE5;Flex de encendido y volumen;Compatible;3,05;;;6
+OL-NORDCE5-SIM-COM;OnePlus;Nord CE5;Bandeja SIM;Compatible;3,15;;;6
+OL-NCE4-PAN-OLS;OnePlus;Nord CE4;Pantalla;OLED Soft;43,70;42,39;41,08;6
+OL-NCE4-PAN-OLH;OnePlus;Nord CE4;Pantalla;OLED Hard;39,95;38,75;37,55;6
+OL-NCE4-PAN-INC;OnePlus;Nord CE4;Pantalla;Incell;20,05;19,45;18,85;6
+OL-NCE4-BAT-COM;OnePlus;Nord CE4;Batería;Compatible;9,10;;;6
+OL-NCE4-CON-COM;OnePlus;Nord CE4;Conector de carga;Compatible;4,99;;;6
+OL-NCE4-TAP-COM;OnePlus;Nord CE4;Tapa trasera;Compatible;6,30;;;6
+OL-NCE4-CTR-COM;OnePlus;Nord CE4;Cámara trasera;Compatible;8,29;;;6
+OL-NCE4-CFR-COM;OnePlus;Nord CE4;Cámara frontal;Compatible;4,75;;;6
+OL-NCE4-LEN-COM;OnePlus;Nord CE4;Lente de cámara;Compatible;2,55;;;6
+OL-NCE4-ALT-COM;OnePlus;Nord CE4;Altavoz;Compatible;3,70;;;6
+OL-NCE4-AUR-COM;OnePlus;Nord CE4;Auricular de llamada;Compatible;2,65;;;6
+OL-NCE4-FLX-COM;OnePlus;Nord CE4;Flex de encendido y volumen;Compatible;2,79;;;6
+OL-NCE4-SIM-COM;OnePlus;Nord CE4;Bandeja SIM;Compatible;2,65;;;6
+OL-NN30SE-PAN-COM;OnePlus;Nord N30 SE;Pantalla;Compatible;15,45;14,99;14,52;6
+OL-NN30SE-BAT-COM;OnePlus;Nord N30 SE;Batería;Compatible;8,45;;;6
+OL-NN30SE-CON-COM;OnePlus;Nord N30 SE;Conector de carga;Compatible;4,00;;;6
+OL-NN30SE-TAP-COM;OnePlus;Nord N30 SE;Tapa trasera;Compatible;5,60;;;6
+OL-NN30SE-CTR-COM;OnePlus;Nord N30 SE;Cámara trasera;Compatible;7,29;;;6
+OL-NN30SE-CFR-COM;OnePlus;Nord N30 SE;Cámara frontal;Compatible;4,45;;;6
+OL-NN30SE-LEN-COM;OnePlus;Nord N30 SE;Lente de cámara;Compatible;2,60;;;6
+OL-NN30SE-ALT-COM;OnePlus;Nord N30 SE;Altavoz;Compatible;3,65;;;6
+OL-NN30SE-AUR-COM;OnePlus;Nord N30 SE;Auricular de llamada;Compatible;2,65;;;6
+OL-NN30SE-FLX-COM;OnePlus;Nord N30 SE;Flex de encendido y volumen;Compatible;2,85;;;6
+OL-NN30SE-SIM-COM;OnePlus;Nord N30 SE;Bandeja SIM;Compatible;2,75;;;6
+OL-NCE3-PAN-OLS;OnePlus;Nord CE 3;Pantalla;OLED Soft;43,70;42,39;41,08;6
+OL-NCE3-PAN-OLH;OnePlus;Nord CE 3;Pantalla;OLED Hard;39,95;38,75;37,55;6
+OL-NCE3-PAN-INC;OnePlus;Nord CE 3;Pantalla;Incell;20,05;19,45;18,85;6
+OL-NCE3-BAT-COM;OnePlus;Nord CE 3;Batería;Compatible;9,10;;;6
+OL-NCE3-CON-COM;OnePlus;Nord CE 3;Conector de carga;Compatible;4,99;;;6
+OL-NCE3-TAP-COM;OnePlus;Nord CE 3;Tapa trasera;Compatible;6,30;;;6
+OL-NCE3-CTR-COM;OnePlus;Nord CE 3;Cámara trasera;Compatible;8,29;;;6
+OL-NCE3-CFR-COM;OnePlus;Nord CE 3;Cámara frontal;Compatible;4,75;;;6
+OL-NCE3-LEN-COM;OnePlus;Nord CE 3;Lente de cámara;Compatible;2,55;;;6
+OL-NCE3-ALT-COM;OnePlus;Nord CE 3;Altavoz;Compatible;3,70;;;6
+OL-NCE3-AUR-COM;OnePlus;Nord CE 3;Auricular de llamada;Compatible;2,65;;;6
+OL-NCE3-FLX-COM;OnePlus;Nord CE 3;Flex de encendido y volumen;Compatible;2,79;;;6
+OL-NCE3-SIM-COM;OnePlus;Nord CE 3;Bandeja SIM;Compatible;2,65;;;6
+OL-NN30-PAN-COM;OnePlus;Nord N30;Pantalla;Compatible;15,45;14,99;14,52;6
+OL-NN30-BAT-COM;OnePlus;Nord N30;Batería;Compatible;8,45;;;6
+OL-NN30-CON-COM;OnePlus;Nord N30;Conector de carga;Compatible;4,00;;;6
+OL-NN30-TAP-COM;OnePlus;Nord N30;Tapa trasera;Compatible;5,60;;;6
+OL-NN30-CTR-COM;OnePlus;Nord N30;Cámara trasera;Compatible;7,29;;;6
+OL-NN30-CFR-COM;OnePlus;Nord N30;Cámara frontal;Compatible;4,45;;;6
+OL-NN30-LEN-COM;OnePlus;Nord N30;Lente de cámara;Compatible;2,60;;;6
+OL-NN30-ALT-COM;OnePlus;Nord N30;Altavoz;Compatible;3,65;;;6
+OL-NN30-AUR-COM;OnePlus;Nord N30;Auricular de llamada;Compatible;2,65;;;6
+OL-NN30-FLX-COM;OnePlus;Nord N30;Flex de encendido y volumen;Compatible;2,85;;;6
+OL-NN30-SIM-COM;OnePlus;Nord N30;Bandeja SIM;Compatible;2,75;;;6
+OL-ACEP-PAN-OLS;OnePlus;Ace Pro;Pantalla;OLED Soft;58,05;56,31;54,57;6
+OL-ACEP-PAN-OLH;OnePlus;Ace Pro;Pantalla;OLED Hard;53,05;51,46;49,87;6
+OL-ACEP-PAN-INC;OnePlus;Ace Pro;Pantalla;Incell;26,60;25,80;25,00;6
+OL-ACEP-BAT-COM;OnePlus;Ace Pro;Batería;Compatible;8,25;;;6
+OL-ACEP-CON-COM;OnePlus;Ace Pro;Conector de carga;Compatible;5,45;;;6
+OL-ACEP-TAP-COM;OnePlus;Ace Pro;Tapa trasera;Compatible;6,99;;;6
+OL-ACEP-CTR-COM;OnePlus;Ace Pro;Cámara trasera;Compatible;8,99;;;6
+OL-ACEP-CFR-COM;OnePlus;Ace Pro;Cámara frontal;Compatible;4,29;;;6
+OL-ACEP-LEN-COM;OnePlus;Ace Pro;Lente de cámara;Compatible;3,35;;;6
+OL-ACEP-ALT-COM;OnePlus;Ace Pro;Altavoz;Compatible;4,35;;;6
+OL-ACEP-AUR-COM;OnePlus;Ace Pro;Auricular de llamada;Compatible;3,25;;;6
+OL-ACEP-FLX-COM;OnePlus;Ace Pro;Flex de encendido y volumen;Compatible;3,25;;;6
+OL-ACEP-SIM-COM;OnePlus;Ace Pro;Bandeja SIM;Compatible;3,30;;;6
+OL-ACER-PAN-OLS;OnePlus;Ace Racing;Pantalla;OLED Soft;58,05;56,31;54,57;6
+OL-ACER-PAN-OLH;OnePlus;Ace Racing;Pantalla;OLED Hard;53,05;51,46;49,87;6
+OL-ACER-PAN-INC;OnePlus;Ace Racing;Pantalla;Incell;26,60;25,80;25,00;6
+OL-ACER-BAT-COM;OnePlus;Ace Racing;Batería;Compatible;8,25;;;6
+OL-ACER-CON-COM;OnePlus;Ace Racing;Conector de carga;Compatible;5,45;;;6
+OL-ACER-TAP-COM;OnePlus;Ace Racing;Tapa trasera;Compatible;6,99;;;6
+OL-ACER-CTR-COM;OnePlus;Ace Racing;Cámara trasera;Compatible;8,99;;;6
+OL-ACER-CFR-COM;OnePlus;Ace Racing;Cámara frontal;Compatible;4,29;;;6
+OL-ACER-LEN-COM;OnePlus;Ace Racing;Lente de cámara;Compatible;3,35;;;6
+OL-ACER-ALT-COM;OnePlus;Ace Racing;Altavoz;Compatible;4,35;;;6
+OL-ACER-AUR-COM;OnePlus;Ace Racing;Auricular de llamada;Compatible;3,25;;;6
+OL-ACER-FLX-COM;OnePlus;Ace Racing;Flex de encendido y volumen;Compatible;3,25;;;6
+OL-ACER-SIM-COM;OnePlus;Ace Racing;Bandeja SIM;Compatible;3,30;;;6
+OL-ACE-PAN-OLS;OnePlus;Ace;Pantalla;OLED Soft;58,05;56,31;54,57;6
+OL-ACE-PAN-OLH;OnePlus;Ace;Pantalla;OLED Hard;53,05;51,46;49,87;6
+OL-ACE-PAN-INC;OnePlus;Ace;Pantalla;Incell;26,60;25,80;25,00;6
+OL-ACE-BAT-COM;OnePlus;Ace;Batería;Compatible;8,25;;;6
+OL-ACE-CON-COM;OnePlus;Ace;Conector de carga;Compatible;5,45;;;6
+OL-ACE-TAP-COM;OnePlus;Ace;Tapa trasera;Compatible;6,99;;;6
+OL-ACE-CTR-COM;OnePlus;Ace;Cámara trasera;Compatible;8,99;;;6
+OL-ACE-CFR-COM;OnePlus;Ace;Cámara frontal;Compatible;4,29;;;6
+OL-ACE-LEN-COM;OnePlus;Ace;Lente de cámara;Compatible;3,35;;;6
+OL-ACE-ALT-COM;OnePlus;Ace;Altavoz;Compatible;4,35;;;6
+OL-ACE-AUR-COM;OnePlus;Ace;Auricular de llamada;Compatible;3,25;;;6
+OL-ACE-FLX-COM;OnePlus;Ace;Flex de encendido y volumen;Compatible;3,25;;;6
+OL-ACE-SIM-COM;OnePlus;Ace;Bandeja SIM;Compatible;3,30;;;6
+OL-NN2005-PAN-COM;OnePlus;Nord N200 5G;Pantalla;Compatible;14,55;14,11;13,68;6
+OL-NN2005-BAT-COM;OnePlus;Nord N200 5G;Batería;Compatible;7,40;;;6
+OL-NN2005-CON-COM;OnePlus;Nord N200 5G;Conector de carga;Compatible;3,50;;;6
+OL-NN2005-TAP-COM;OnePlus;Nord N200 5G;Tapa trasera;Compatible;5,00;;;6
+OL-NN2005-CTR-COM;OnePlus;Nord N200 5G;Cámara trasera;Compatible;5,20;;;6
+OL-NN2005-CFR-COM;OnePlus;Nord N200 5G;Cámara frontal;Compatible;3,00;;;6
+OL-NN2005-LEN-COM;OnePlus;Nord N200 5G;Lente de cámara;Compatible;2,49;;;6
+OL-NN2005-ALT-COM;OnePlus;Nord N200 5G;Altavoz;Compatible;3,39;;;6
+OL-NN2005-AUR-COM;OnePlus;Nord N200 5G;Auricular de llamada;Compatible;2,45;;;6
+OL-NN2005-FLX-COM;OnePlus;Nord N200 5G;Flex de encendido y volumen;Compatible;2,35;;;6
+OL-NN2005-SIM-COM;OnePlus;Nord N200 5G;Bandeja SIM;Compatible;2,80;;;6
+OL-ONE-PAN-COM;OnePlus;One;Pantalla;Compatible;21,35;20,71;20,07;6
+OL-ONE-BAT-COM;OnePlus;One;Batería;Compatible;9,65;;;6
+OL-ONE-CON-COM;OnePlus;One;Conector de carga;Compatible;5,70;;;6
+OL-ONE-TAP-COM;OnePlus;One;Tapa trasera;Compatible;6,85;;;6
+OL-ONE-CTR-COM;OnePlus;One;Cámara trasera;Compatible;11,05;10,72;10,39;6
+OL-ONE-CFR-COM;OnePlus;One;Cámara frontal;Compatible;5,80;;;6
+OL-ONE-LEN-COM;OnePlus;One;Lente de cámara;Compatible;3,35;;;6
+OL-ONE-ALT-COM;OnePlus;One;Altavoz;Compatible;4,75;;;6
+OL-ONE-AUR-COM;OnePlus;One;Auricular de llamada;Compatible;3,60;;;6
+OL-ONE-FLX-COM;OnePlus;One;Flex de encendido y volumen;Compatible;3,50;;;6
+OL-ONE-SIM-COM;OnePlus;One;Bandeja SIM;Compatible;3,25;;;6
+OL-13S-PAN-COM;OnePlus;13s;Pantalla;Compatible;25,39;24,63;23,87;6
+OL-13S-BAT-COM;OnePlus;13s;Batería;Compatible;8,90;;;6
+OL-13S-CON-COM;OnePlus;13s;Conector de carga;Compatible;7,45;;;6
+OL-13S-TAP-COM;OnePlus;13s;Tapa trasera;Compatible;8,40;;;6
+OL-13S-CTR-COM;OnePlus;13s;Cámara trasera;Compatible;17,25;16,73;16,22;6
+OL-13S-CFR-COM;OnePlus;13s;Cámara frontal;Compatible;8,75;;;6
+OL-13S-LEN-COM;OnePlus;13s;Lente de cámara;Compatible;4,50;;;6
+OL-13S-ALT-COM;OnePlus;13s;Altavoz;Compatible;6,20;;;6
+OL-13S-AUR-COM;OnePlus;13s;Auricular de llamada;Compatible;5,05;;;6
+OL-13S-FLX-COM;OnePlus;13s;Flex de encendido y volumen;Compatible;4,29;;;6
+OL-13S-SIM-COM;OnePlus;13s;Bandeja SIM;Compatible;3,85;;;6
+OL-13T-PAN-COM;OnePlus;13T;Pantalla;Compatible;25,39;24,63;23,87;6
+OL-13T-BAT-COM;OnePlus;13T;Batería;Compatible;8,90;;;6
+OL-13T-CON-COM;OnePlus;13T;Conector de carga;Compatible;7,45;;;6
+OL-13T-TAP-COM;OnePlus;13T;Tapa trasera;Compatible;8,40;;;6
+OL-13T-CTR-COM;OnePlus;13T;Cámara trasera;Compatible;17,25;16,73;16,22;6
+OL-13T-CFR-COM;OnePlus;13T;Cámara frontal;Compatible;8,75;;;6
+OL-13T-LEN-COM;OnePlus;13T;Lente de cámara;Compatible;4,50;;;6
+OL-13T-ALT-COM;OnePlus;13T;Altavoz;Compatible;6,20;;;6
+OL-13T-AUR-COM;OnePlus;13T;Auricular de llamada;Compatible;5,05;;;6
+OL-13T-FLX-COM;OnePlus;13T;Flex de encendido y volumen;Compatible;4,29;;;6
+OL-13T-SIM-COM;OnePlus;13T;Bandeja SIM;Compatible;3,85;;;6
+OL-15T-PAN-COM;OnePlus;15T;Pantalla;Compatible;25,39;24,63;23,87;6
+OL-15T-BAT-COM;OnePlus;15T;Batería;Compatible;8,90;;;6
+OL-15T-CON-COM;OnePlus;15T;Conector de carga;Compatible;7,45;;;6
+OL-15T-TAP-COM;OnePlus;15T;Tapa trasera;Compatible;8,40;;;6
+OL-15T-CTR-COM;OnePlus;15T;Cámara trasera;Compatible;17,25;16,73;16,22;6
+OL-15T-CFR-COM;OnePlus;15T;Cámara frontal;Compatible;8,75;;;6
+OL-15T-LEN-COM;OnePlus;15T;Lente de cámara;Compatible;4,50;;;6
+OL-15T-ALT-COM;OnePlus;15T;Altavoz;Compatible;6,20;;;6
+OL-15T-AUR-COM;OnePlus;15T;Auricular de llamada;Compatible;5,05;;;6
+OL-15T-FLX-COM;OnePlus;15T;Flex de encendido y volumen;Compatible;4,29;;;6
+OL-15T-SIM-COM;OnePlus;15T;Bandeja SIM;Compatible;3,85;;;6
+OL-2-PAN-COM;OnePlus;2;Pantalla;Compatible;21,35;20,71;20,07;6
+OL-2-BAT-COM;OnePlus;2;Batería;Compatible;9,65;;;6
+OL-2-CON-COM;OnePlus;2;Conector de carga;Compatible;5,70;;;6
+OL-2-TAP-COM-NEG;OnePlus;2;Tapa trasera;Negro (Sandstone Black);6,85;;;6
+OL-2-CTR-COM;OnePlus;2;Cámara trasera;Compatible;11,05;10,72;10,39;6
+OL-2-CFR-COM;OnePlus;2;Cámara frontal;Compatible;5,80;;;6
+OL-2-LEN-COM;OnePlus;2;Lente de cámara;Compatible;3,35;;;6
+OL-2-ALT-COM;OnePlus;2;Altavoz;Compatible;4,75;;;6
+OL-2-AUR-COM;OnePlus;2;Auricular de llamada;Compatible;3,60;;;6
+OL-2-FLX-COM;OnePlus;2;Flex de encendido y volumen;Compatible;3,50;;;6
+OL-2-SIM-COM;OnePlus;2;Bandeja SIM;Compatible;3,25;;;6
+OL-X-PAN-OLS;OnePlus;X;Pantalla;OLED Soft;54,69;53,05;51,41;6
+OL-X-PAN-OLH;OnePlus;X;Pantalla;OLED Hard;49,95;48,45;46,95;6
+OL-X-PAN-INC;OnePlus;X;Pantalla;Incell;25,09;24,34;23,58;6
+OL-X-BAT-COM;OnePlus;X;Batería;Compatible;9,65;;;6
+OL-X-CON-COM;OnePlus;X;Conector de carga;Compatible;5,70;;;6
+OL-X-TAP-COM-ONY;OnePlus;X;Tapa trasera;Onyx;6,85;;;6
+OL-X-TAP-COM-CER;OnePlus;X;Tapa trasera;Ceramic;6,85;;;6
+OL-X-CTR-COM;OnePlus;X;Cámara trasera;Compatible;11,05;10,72;10,39;6
+OL-X-CFR-COM;OnePlus;X;Cámara frontal;Compatible;5,80;;;6
+OL-X-LEN-COM;OnePlus;X;Lente de cámara;Compatible;3,35;;;6
+OL-X-ALT-COM;OnePlus;X;Altavoz;Compatible;4,75;;;6
+OL-X-AUR-COM;OnePlus;X;Auricular de llamada;Compatible;3,60;;;6
+OL-X-FLX-COM;OnePlus;X;Flex de encendido y volumen;Compatible;3,50;;;6
+OL-X-SIM-COM;OnePlus;X;Bandeja SIM;Compatible;3,25;;;6
+OL-3-PAN-OLS;OnePlus;3;Pantalla;OLED Soft;54,69;53,05;51,41;6
+OL-3-PAN-OLH;OnePlus;3;Pantalla;OLED Hard;49,95;48,45;46,95;6
+OL-3-PAN-INC;OnePlus;3;Pantalla;Incell;25,09;24,34;23,58;6
+OL-3-BAT-COM;OnePlus;3;Batería;Compatible;9,65;;;6
+OL-3-CON-COM;OnePlus;3;Conector de carga;Compatible;5,70;;;6
+OL-3-TAP-COM-GRA;OnePlus;3;Tapa trasera;Grafito;6,85;;;6
+OL-3-TAP-COM-DOR;OnePlus;3;Tapa trasera;Dorado (Soft Gold);6,85;;;6
+OL-3-CTR-COM;OnePlus;3;Cámara trasera;Compatible;11,05;10,72;10,39;6
+OL-3-CFR-COM;OnePlus;3;Cámara frontal;Compatible;5,80;;;6
+OL-3-LEN-COM;OnePlus;3;Lente de cámara;Compatible;3,35;;;6
+OL-3-ALT-COM;OnePlus;3;Altavoz;Compatible;4,75;;;6
+OL-3-AUR-COM;OnePlus;3;Auricular de llamada;Compatible;3,60;;;6
+OL-3-FLX-COM;OnePlus;3;Flex de encendido y volumen;Compatible;3,50;;;6
+OL-3-SIM-COM;OnePlus;3;Bandeja SIM;Compatible;3,25;;;6
+OL-3T-PAN-OLS;OnePlus;3T;Pantalla;OLED Soft;54,69;53,05;51,41;6
+OL-3T-PAN-OLH;OnePlus;3T;Pantalla;OLED Hard;49,95;48,45;46,95;6
+OL-3T-PAN-INC;OnePlus;3T;Pantalla;Incell;25,09;24,34;23,58;6
+OL-3T-BAT-COM;OnePlus;3T;Batería;Compatible;9,65;;;6
+OL-3T-CON-COM;OnePlus;3T;Conector de carga;Compatible;5,70;;;6
+OL-3T-TAP-COM-GUN;OnePlus;3T;Tapa trasera;Gunmetal;6,85;;;6
+OL-3T-TAP-COM-DOR;OnePlus;3T;Tapa trasera;Dorado (Soft Gold);6,85;;;6
+OL-3T-CTR-COM;OnePlus;3T;Cámara trasera;Compatible;11,05;10,72;10,39;6
+OL-3T-CFR-COM;OnePlus;3T;Cámara frontal;Compatible;5,80;;;6
+OL-3T-LEN-COM;OnePlus;3T;Lente de cámara;Compatible;3,35;;;6
+OL-3T-ALT-COM;OnePlus;3T;Altavoz;Compatible;4,75;;;6
+OL-3T-AUR-COM;OnePlus;3T;Auricular de llamada;Compatible;3,60;;;6
+OL-3T-FLX-COM;OnePlus;3T;Flex de encendido y volumen;Compatible;3,50;;;6
+OL-3T-SIM-COM;OnePlus;3T;Bandeja SIM;Compatible;3,25;;;6
+OL-5-PAN-OLS;OnePlus;5;Pantalla;OLED Soft;54,69;53,05;51,41;6
+OL-5-PAN-OLH;OnePlus;5;Pantalla;OLED Hard;49,95;48,45;46,95;6
+OL-5-PAN-INC;OnePlus;5;Pantalla;Incell;25,09;24,34;23,58;6
+OL-5-BAT-COM;OnePlus;5;Batería;Compatible;9,65;;;6
+OL-5-CON-COM;OnePlus;5;Conector de carga;Compatible;5,70;;;6
+OL-5-TAP-COM-NEG;OnePlus;5;Tapa trasera;Negro (Midnight Black);6,85;;;6
+OL-5-TAP-COM-GRI;OnePlus;5;Tapa trasera;Gris (Slate Gray);6,85;;;6
+OL-5-CTR-COM;OnePlus;5;Cámara trasera;Compatible;11,05;10,72;10,39;6
+OL-5-CFR-COM;OnePlus;5;Cámara frontal;Compatible;5,80;;;6
+OL-5-LEN-COM;OnePlus;5;Lente de cámara;Compatible;3,35;;;6
+OL-5-ALT-COM;OnePlus;5;Altavoz;Compatible;4,75;;;6
+OL-5-AUR-COM;OnePlus;5;Auricular de llamada;Compatible;3,60;;;6
+OL-5-FLX-COM;OnePlus;5;Flex de encendido y volumen;Compatible;3,50;;;6
+OL-5-SIM-COM;OnePlus;5;Bandeja SIM;Compatible;3,25;;;6
+OL-5T-PAN-OLS;OnePlus;5T;Pantalla;OLED Soft;54,69;53,05;51,41;6
+OL-5T-PAN-OLH;OnePlus;5T;Pantalla;OLED Hard;49,95;48,45;46,95;6
+OL-5T-PAN-INC;OnePlus;5T;Pantalla;Incell;25,09;24,34;23,58;6
+OL-5T-BAT-COM;OnePlus;5T;Batería;Compatible;9,65;;;6
+OL-5T-CON-COM;OnePlus;5T;Conector de carga;Compatible;5,70;;;6
+OL-5T-TAP-COM-NEG;OnePlus;5T;Tapa trasera;Negro (Midnight Black);6,85;;;6
+OL-5T-TAP-COM-BLA;OnePlus;5T;Tapa trasera;Blanco (Sandstone White);6,85;;;6
+OL-5T-CTR-COM;OnePlus;5T;Cámara trasera;Compatible;11,05;10,72;10,39;6
+OL-5T-CFR-COM;OnePlus;5T;Cámara frontal;Compatible;5,80;;;6
+OL-5T-LEN-COM;OnePlus;5T;Lente de cámara;Compatible;3,35;;;6
+OL-5T-ALT-COM;OnePlus;5T;Altavoz;Compatible;4,75;;;6
+OL-5T-AUR-COM;OnePlus;5T;Auricular de llamada;Compatible;3,60;;;6
+OL-5T-FLX-COM;OnePlus;5T;Flex de encendido y volumen;Compatible;3,50;;;6
+OL-5T-SIM-COM;OnePlus;5T;Bandeja SIM;Compatible;3,25;;;6
+OL-6-PAN-OLS;OnePlus;6;Pantalla;OLED Soft;54,69;53,05;51,41;6
+OL-6-PAN-OLH;OnePlus;6;Pantalla;OLED Hard;49,95;48,45;46,95;6
+OL-6-PAN-INC;OnePlus;6;Pantalla;Incell;25,09;24,34;23,58;6
+OL-6-BAT-COM;OnePlus;6;Batería;Compatible;9,65;;;6
+OL-6-CON-COM;OnePlus;6;Conector de carga;Compatible;5,70;;;6
+OL-6-TAP-COM-NEG;OnePlus;6;Tapa trasera;Negro (Mirror Black);6,85;;;6
+OL-6-TAP-COM-NMI;OnePlus;6;Tapa trasera;Negro (Midnight Black);6,85;;;6
+OL-6-TAP-COM-BLA;OnePlus;6;Tapa trasera;Blanco (Silk White);6,85;;;6
+OL-6-TAP-COM-ROJ;OnePlus;6;Tapa trasera;Rojo;6,85;;;6
+OL-6-CTR-COM;OnePlus;6;Cámara trasera;Compatible;11,05;10,72;10,39;6
+OL-6-CFR-COM;OnePlus;6;Cámara frontal;Compatible;5,80;;;6
+OL-6-LEN-COM;OnePlus;6;Lente de cámara;Compatible;3,35;;;6
+OL-6-ALT-COM;OnePlus;6;Altavoz;Compatible;4,75;;;6
+OL-6-AUR-COM;OnePlus;6;Auricular de llamada;Compatible;3,60;;;6
+OL-6-FLX-COM;OnePlus;6;Flex de encendido y volumen;Compatible;3,50;;;6
+OL-6-SIM-COM;OnePlus;6;Bandeja SIM;Compatible;3,25;;;6
+OL-6T-PAN-OLS;OnePlus;6T;Pantalla;OLED Soft;54,69;53,05;51,41;6
+OL-6T-PAN-OLH;OnePlus;6T;Pantalla;OLED Hard;49,95;48,45;46,95;6
+OL-6T-PAN-INC;OnePlus;6T;Pantalla;Incell;25,09;24,34;23,58;6
+OL-6T-BAT-COM;OnePlus;6T;Batería;Compatible;9,65;;;6
+OL-6T-CON-COM;OnePlus;6T;Conector de carga;Compatible;5,70;;;6
+OL-6T-TAP-COM-NEG;OnePlus;6T;Tapa trasera;Negro (Mirror Black);6,85;;;6
+OL-6T-TAP-COM-NMI;OnePlus;6T;Tapa trasera;Negro (Midnight Black);6,85;;;6
+OL-6T-CTR-COM;OnePlus;6T;Cámara trasera;Compatible;11,05;10,72;10,39;6
+OL-6T-CFR-COM;OnePlus;6T;Cámara frontal;Compatible;5,80;;;6
+OL-6T-LEN-COM;OnePlus;6T;Lente de cámara;Compatible;3,35;;;6
+OL-6T-ALT-COM;OnePlus;6T;Altavoz;Compatible;4,75;;;6
+OL-6T-AUR-COM;OnePlus;6T;Auricular de llamada;Compatible;3,60;;;6
+OL-6T-FLX-COM;OnePlus;6T;Flex de encendido y volumen;Compatible;3,50;;;6
+OL-6T-SIM-COM;OnePlus;6T;Bandeja SIM;Compatible;3,25;;;6
+OL-7P-PRO-NA;OnePlus;7 Pro;Cristal templado;Estándar;1,30;;;
+OL-7P-PRO-NA-FG;OnePlus;7 Pro;Cristal templado;UV full glue;4,15;;;
+OL-7P-PRO-PRI;OnePlus;7 Pro;Cristal templado;Privacidad;4,00;;;
+OL-7P-FUN-SIL;OnePlus;7 Pro;Funda;Silicona;2,50;;;
+OL-7P-FUN-TPU;OnePlus;7 Pro;Funda;Transparente;2,95;;;
+OL-7P-FUN-LIB;OnePlus;7 Pro;Funda;Libro;3,70;;;
+OL-7P-FUN-ANT;OnePlus;7 Pro;Funda;Antigolpes;3,10;;;
+OL-7P-PCA-NA;OnePlus;7 Pro;Protector de cámara;Cristal;2,90;;;
+OL-7-PRO-NA;OnePlus;7;Cristal templado;Estándar;1,30;;;
+OL-7-PRO-NA-FG;OnePlus;7;Cristal templado;UV full glue;4,15;;;
+OL-7-PRO-PRI;OnePlus;7;Cristal templado;Privacidad;4,00;;;
+OL-7-FUN-SIL;OnePlus;7;Funda;Silicona;2,50;;;
+OL-7-FUN-TPU;OnePlus;7;Funda;Transparente;2,95;;;
+OL-7-FUN-LIB;OnePlus;7;Funda;Libro;3,70;;;
+OL-7-FUN-ANT;OnePlus;7;Funda;Antigolpes;3,10;;;
+OL-7-PCA-NA;OnePlus;7;Protector de cámara;Cristal;2,90;;;
+OL-7T-PRO-NA;OnePlus;7T;Cristal templado;Estándar;1,30;;;
+OL-7T-PRO-NA-FG;OnePlus;7T;Cristal templado;UV full glue;4,15;;;
+OL-7T-PRO-PRI;OnePlus;7T;Cristal templado;Privacidad;4,00;;;
+OL-7T-FUN-SIL;OnePlus;7T;Funda;Silicona;2,50;;;
+OL-7T-FUN-TPU;OnePlus;7T;Funda;Transparente;2,95;;;
+OL-7T-FUN-LIB;OnePlus;7T;Funda;Libro;3,70;;;
+OL-7T-FUN-ANT;OnePlus;7T;Funda;Antigolpes;3,10;;;
+OL-7T-PCA-NA;OnePlus;7T;Protector de cámara;Cristal;2,90;;;
+OL-7TP-PRO-NA;OnePlus;7T Pro;Cristal templado;Estándar;1,30;;;
+OL-7TP-PRO-NA-FG;OnePlus;7T Pro;Cristal templado;UV full glue;4,15;;;
+OL-7TP-PRO-PRI;OnePlus;7T Pro;Cristal templado;Privacidad;4,00;;;
+OL-7TP-FUN-SIL;OnePlus;7T Pro;Funda;Silicona;2,50;;;
+OL-7TP-FUN-TPU;OnePlus;7T Pro;Funda;Transparente;2,95;;;
+OL-7TP-FUN-LIB;OnePlus;7T Pro;Funda;Libro;3,70;;;
+OL-7TP-FUN-ANT;OnePlus;7T Pro;Funda;Antigolpes;3,10;;;
+OL-7TP-PCA-NA;OnePlus;7T Pro;Protector de cámara;Cristal;2,90;;;
+OL-8-PRO-NA;OnePlus;8;Cristal templado;Estándar;1,30;;;
+OL-8-PRO-NA-FG;OnePlus;8;Cristal templado;UV full glue;4,15;;;
+OL-8-PRO-PRI;OnePlus;8;Cristal templado;Privacidad;4,00;;;
+OL-8-FUN-SIL;OnePlus;8;Funda;Silicona;2,50;;;
+OL-8-FUN-TPU;OnePlus;8;Funda;Transparente;2,95;;;
+OL-8-FUN-LIB;OnePlus;8;Funda;Libro;3,70;;;
+OL-8-FUN-ANT;OnePlus;8;Funda;Antigolpes;3,10;;;
+OL-8-PCA-NA;OnePlus;8;Protector de cámara;Cristal;2,90;;;
+OL-8P-PRO-NA;OnePlus;8 Pro;Cristal templado;Estándar;1,30;;;
+OL-8P-PRO-NA-FG;OnePlus;8 Pro;Cristal templado;UV full glue;4,15;;;
+OL-8P-PRO-PRI;OnePlus;8 Pro;Cristal templado;Privacidad;4,00;;;
+OL-8P-FUN-SIL;OnePlus;8 Pro;Funda;Silicona;2,50;;;
+OL-8P-FUN-TPU;OnePlus;8 Pro;Funda;Transparente;2,95;;;
+OL-8P-FUN-LIB;OnePlus;8 Pro;Funda;Libro;3,70;;;
+OL-8P-FUN-ANT;OnePlus;8 Pro;Funda;Antigolpes;3,10;;;
+OL-8P-PCA-NA;OnePlus;8 Pro;Protector de cámara;Cristal;2,90;;;
+OL-8T-PRO-NA;OnePlus;8T;Cristal templado;Estándar;1,30;;;
+OL-8T-PRO-NA-FG;OnePlus;8T;Cristal templado;UV full glue;4,15;;;
+OL-8T-PRO-PRI;OnePlus;8T;Cristal templado;Privacidad;4,00;;;
+OL-8T-FUN-SIL;OnePlus;8T;Funda;Silicona;2,50;;;
+OL-8T-FUN-TPU;OnePlus;8T;Funda;Transparente;2,95;;;
+OL-8T-FUN-LIB;OnePlus;8T;Funda;Libro;3,70;;;
+OL-8T-FUN-ANT;OnePlus;8T;Funda;Antigolpes;3,10;;;
+OL-8T-PCA-NA;OnePlus;8T;Protector de cámara;Cristal;2,90;;;
+OL-9-PRO-NA;OnePlus;9;Cristal templado;Estándar;1,30;;;
+OL-9-PRO-NA-FG;OnePlus;9;Cristal templado;UV full glue;4,15;;;
+OL-9-PRO-PRI;OnePlus;9;Cristal templado;Privacidad;4,00;;;
+OL-9-FUN-SIL;OnePlus;9;Funda;Silicona;2,50;;;
+OL-9-FUN-TPU;OnePlus;9;Funda;Transparente;2,95;;;
+OL-9-FUN-LIB;OnePlus;9;Funda;Libro;3,70;;;
+OL-9-FUN-ANT;OnePlus;9;Funda;Antigolpes;3,10;;;
+OL-9-PCA-NA;OnePlus;9;Protector de cámara;Cristal;2,90;;;
+OL-9P-PRO-NA;OnePlus;9 Pro;Cristal templado;Estándar;1,30;;;
+OL-9P-PRO-NA-FG;OnePlus;9 Pro;Cristal templado;UV full glue;4,15;;;
+OL-9P-PRO-PRI;OnePlus;9 Pro;Cristal templado;Privacidad;4,00;;;
+OL-9P-FUN-SIL;OnePlus;9 Pro;Funda;Silicona;2,50;;;
+OL-9P-FUN-TPU;OnePlus;9 Pro;Funda;Transparente;2,95;;;
+OL-9P-FUN-LIB;OnePlus;9 Pro;Funda;Libro;3,70;;;
+OL-9P-FUN-ANT;OnePlus;9 Pro;Funda;Antigolpes;3,10;;;
+OL-9P-PCA-NA;OnePlus;9 Pro;Protector de cámara;Cristal;2,90;;;
+OL-10P-PRO-NA;OnePlus;10 Pro;Cristal templado;Estándar;1,30;;;
+OL-10P-PRO-NA-FG;OnePlus;10 Pro;Cristal templado;UV full glue;4,15;;;
+OL-10P-PRO-PRI;OnePlus;10 Pro;Cristal templado;Privacidad;4,00;;;
+OL-10P-FUN-SIL;OnePlus;10 Pro;Funda;Silicona;2,50;;;
+OL-10P-FUN-TPU;OnePlus;10 Pro;Funda;Transparente;2,95;;;
+OL-10P-FUN-LIB;OnePlus;10 Pro;Funda;Libro;3,70;;;
+OL-10P-FUN-ANT;OnePlus;10 Pro;Funda;Antigolpes;3,10;;;
+OL-10P-PCA-NA;OnePlus;10 Pro;Protector de cámara;Cristal;2,90;;;
+OL-10T-PRO-NA;OnePlus;10T;Cristal templado;Estándar;1,30;;;
+OL-10T-PRO-NA-FG;OnePlus;10T;Cristal templado;UV full glue;4,15;;;
+OL-10T-PRO-PRI;OnePlus;10T;Cristal templado;Privacidad;4,00;;;
+OL-10T-FUN-SIL;OnePlus;10T;Funda;Silicona;2,50;;;
+OL-10T-FUN-TPU;OnePlus;10T;Funda;Transparente;2,95;;;
+OL-10T-FUN-LIB;OnePlus;10T;Funda;Libro;3,70;;;
+OL-10T-FUN-ANT;OnePlus;10T;Funda;Antigolpes;3,10;;;
+OL-10T-PCA-NA;OnePlus;10T;Protector de cámara;Cristal;2,90;;;
+OL-11-PRO-NA;OnePlus;11;Cristal templado;Estándar;1,30;;;
+OL-11-PRO-NA-FG;OnePlus;11;Cristal templado;UV full glue;4,15;;;
+OL-11-PRO-PRI;OnePlus;11;Cristal templado;Privacidad;4,00;;;
+OL-11-FUN-SIL;OnePlus;11;Funda;Silicona;2,50;;;
+OL-11-FUN-TPU;OnePlus;11;Funda;Transparente;2,95;;;
+OL-11-FUN-LIB;OnePlus;11;Funda;Libro;3,70;;;
+OL-11-FUN-ANT;OnePlus;11;Funda;Antigolpes;3,10;;;
+OL-11-PCA-NA;OnePlus;11;Protector de cámara;Cristal;2,90;;;
+OL-12-PRO-NA;OnePlus;12;Cristal templado;Estándar;1,30;;;
+OL-12-PRO-NA-FG;OnePlus;12;Cristal templado;UV full glue;4,15;;;
+OL-12-PRO-PRI;OnePlus;12;Cristal templado;Privacidad;4,00;;;
+OL-12-FUN-SIL;OnePlus;12;Funda;Silicona;2,50;;;
+OL-12-FUN-TPU;OnePlus;12;Funda;Transparente;2,95;;;
+OL-12-FUN-LIB;OnePlus;12;Funda;Libro;3,70;;;
+OL-12-FUN-ANT;OnePlus;12;Funda;Antigolpes;3,10;;;
+OL-12-PCA-NA;OnePlus;12;Protector de cámara;Cristal;2,90;;;
+OL-12R-PRO-NA;OnePlus;12R;Cristal templado;Estándar;1,30;;;
+OL-12R-PRO-PRI;OnePlus;12R;Cristal templado;Privacidad;4,00;;;
+OL-12R-FUN-SIL;OnePlus;12R;Funda;Silicona;2,50;;;
+OL-12R-FUN-TPU;OnePlus;12R;Funda;Transparente;2,95;;;
+OL-12R-FUN-LIB;OnePlus;12R;Funda;Libro;3,70;;;
+OL-12R-FUN-ANT;OnePlus;12R;Funda;Antigolpes;3,10;;;
+OL-12R-PCA-NA;OnePlus;12R;Protector de cámara;Cristal;2,90;;;
+OL-13-PRO-NA;OnePlus;13;Cristal templado;Estándar;1,30;;;
+OL-13-PRO-NA-FG;OnePlus;13;Cristal templado;UV full glue;4,15;;;
+OL-13-PRO-PRI;OnePlus;13;Cristal templado;Privacidad;4,00;;;
+OL-13-FUN-SIL;OnePlus;13;Funda;Silicona;2,50;;;
+OL-13-FUN-TPU;OnePlus;13;Funda;Transparente;2,95;;;
+OL-13-FUN-LIB;OnePlus;13;Funda;Libro;3,70;;;
+OL-13-FUN-ANT;OnePlus;13;Funda;Antigolpes;3,10;;;
+OL-13-PCA-NA;OnePlus;13;Protector de cámara;Cristal;2,90;;;
+OL-13R-PRO-NA;OnePlus;13R;Cristal templado;Estándar;1,30;;;
+OL-13R-PRO-PRI;OnePlus;13R;Cristal templado;Privacidad;4,00;;;
+OL-13R-FUN-SIL;OnePlus;13R;Funda;Silicona;2,50;;;
+OL-13R-FUN-TPU;OnePlus;13R;Funda;Transparente;2,95;;;
+OL-13R-FUN-LIB;OnePlus;13R;Funda;Libro;3,70;;;
+OL-13R-FUN-ANT;OnePlus;13R;Funda;Antigolpes;3,10;;;
+OL-13R-PCA-NA;OnePlus;13R;Protector de cámara;Cristal;2,90;;;
+OL-15-PRO-NA;OnePlus;15;Cristal templado;Estándar;1,30;;;
+OL-15-PRO-NA-FG;OnePlus;15;Cristal templado;UV full glue;4,15;;;
+OL-15-PRO-PRI;OnePlus;15;Cristal templado;Privacidad;4,00;;;
+OL-15-FUN-SIL;OnePlus;15;Funda;Silicona;2,50;;;
+OL-15-FUN-TPU;OnePlus;15;Funda;Transparente;2,95;;;
+OL-15-FUN-LIB;OnePlus;15;Funda;Libro;3,70;;;
+OL-15-FUN-ANT;OnePlus;15;Funda;Antigolpes;3,10;;;
+OL-15-PCA-NA;OnePlus;15;Protector de cámara;Cristal;2,90;;;
+OL-15R-PRO-NA;OnePlus;15R;Cristal templado;Estándar;1,30;;;
+OL-15R-PRO-PRI;OnePlus;15R;Cristal templado;Privacidad;4,00;;;
+OL-15R-FUN-SIL;OnePlus;15R;Funda;Silicona;2,50;;;
+OL-15R-FUN-TPU;OnePlus;15R;Funda;Transparente;2,95;;;
+OL-15R-FUN-LIB;OnePlus;15R;Funda;Libro;3,70;;;
+OL-15R-FUN-ANT;OnePlus;15R;Funda;Antigolpes;3,10;;;
+OL-15R-PCA-NA;OnePlus;15R;Protector de cámara;Cristal;2,90;;;
+OL-O-PRO-NA;OnePlus;Open;Cristal templado;Estándar;1,30;;;
+OL-O-FUN-SIL;OnePlus;Open;Funda;Silicona;2,50;;;
+OL-O-FUN-TPU;OnePlus;Open;Funda;Transparente;2,95;;;
+OL-O-PCA-NA;OnePlus;Open;Protector de cámara;Cristal;2,90;;;
+OL-N-PRO-NA;OnePlus;Nord;Cristal templado;Estándar;1,30;;;
+OL-N-PRO-PRI;OnePlus;Nord;Cristal templado;Privacidad;4,00;;;
+OL-N-FUN-SIL;OnePlus;Nord;Funda;Silicona;2,50;;;
+OL-N-FUN-TPU;OnePlus;Nord;Funda;Transparente;2,95;;;
+OL-N-FUN-LIB;OnePlus;Nord;Funda;Libro;3,70;;;
+OL-N-FUN-ANT;OnePlus;Nord;Funda;Antigolpes;3,10;;;
+OL-N-PCA-NA;OnePlus;Nord;Protector de cámara;Cristal;2,90;;;
+OL-NN105-PRO-NA;OnePlus;Nord N10 5G;Cristal templado;Estándar;1,30;;;
+OL-NN105-PRO-PRI;OnePlus;Nord N10 5G;Cristal templado;Privacidad;4,00;;;
+OL-NN105-FUN-SIL;OnePlus;Nord N10 5G;Funda;Silicona;2,50;;;
+OL-NN105-FUN-TPU;OnePlus;Nord N10 5G;Funda;Transparente;2,95;;;
+OL-NN105-FUN-LIB;OnePlus;Nord N10 5G;Funda;Libro;3,70;;;
+OL-NN105-FUN-ANT;OnePlus;Nord N10 5G;Funda;Antigolpes;3,10;;;
+OL-NN105-PCA-NA;OnePlus;Nord N10 5G;Protector de cámara;Cristal;2,90;;;
+OL-NN100-PRO-NA;OnePlus;Nord N100;Cristal templado;Estándar;1,30;;;
+OL-NN100-PRO-PRI;OnePlus;Nord N100;Cristal templado;Privacidad;4,00;;;
+OL-NN100-FUN-SIL;OnePlus;Nord N100;Funda;Silicona;2,50;;;
+OL-NN100-FUN-TPU;OnePlus;Nord N100;Funda;Transparente;2,95;;;
+OL-NN100-FUN-LIB;OnePlus;Nord N100;Funda;Libro;3,70;;;
+OL-NN100-FUN-ANT;OnePlus;Nord N100;Funda;Antigolpes;3,10;;;
+OL-NN100-PCA-NA;OnePlus;Nord N100;Protector de cámara;Cristal;2,90;;;
+OL-N25-PRO-NA;OnePlus;Nord 2 5G;Cristal templado;Estándar;1,30;;;
+OL-N25-PRO-PRI;OnePlus;Nord 2 5G;Cristal templado;Privacidad;4,00;;;
+OL-N25-FUN-SIL;OnePlus;Nord 2 5G;Funda;Silicona;2,50;;;
+OL-N25-FUN-TPU;OnePlus;Nord 2 5G;Funda;Transparente;2,95;;;
+OL-N25-FUN-LIB;OnePlus;Nord 2 5G;Funda;Libro;3,70;;;
+OL-N25-FUN-ANT;OnePlus;Nord 2 5G;Funda;Antigolpes;3,10;;;
+OL-N25-PCA-NA;OnePlus;Nord 2 5G;Protector de cámara;Cristal;2,90;;;
+OL-N2T5-PRO-NA;OnePlus;Nord 2T 5G;Cristal templado;Estándar;1,30;;;
+OL-N2T5-PRO-PRI;OnePlus;Nord 2T 5G;Cristal templado;Privacidad;4,00;;;
+OL-N2T5-FUN-SIL;OnePlus;Nord 2T 5G;Funda;Silicona;2,50;;;
+OL-N2T5-FUN-TPU;OnePlus;Nord 2T 5G;Funda;Transparente;2,95;;;
+OL-N2T5-FUN-LIB;OnePlus;Nord 2T 5G;Funda;Libro;3,70;;;
+OL-N2T5-FUN-ANT;OnePlus;Nord 2T 5G;Funda;Antigolpes;3,10;;;
+OL-N2T5-PCA-NA;OnePlus;Nord 2T 5G;Protector de cámara;Cristal;2,90;;;
+OL-N35-PRO-NA;OnePlus;Nord 3 5G;Cristal templado;Estándar;1,70;;;
+OL-N35-PRO-PRI;OnePlus;Nord 3 5G;Cristal templado;Privacidad;4,00;;;
+OL-N35-FUN-SIL;OnePlus;Nord 3 5G;Funda;Silicona;2,50;;;
+OL-N35-FUN-TPU;OnePlus;Nord 3 5G;Funda;Transparente;2,95;;;
+OL-N35-FUN-LIB;OnePlus;Nord 3 5G;Funda;Libro;3,70;;;
+OL-N35-FUN-ANT;OnePlus;Nord 3 5G;Funda;Antigolpes;3,10;;;
+OL-N35-PCA-NA;OnePlus;Nord 3 5G;Protector de cámara;Cristal;2,90;;;
+OL-N4-PRO-NA;OnePlus;Nord 4;Cristal templado;Estándar;1,30;;;
+OL-N4-PRO-PRI;OnePlus;Nord 4;Cristal templado;Privacidad;4,00;;;
+OL-N4-FUN-SIL;OnePlus;Nord 4;Funda;Silicona;2,50;;;
+OL-N4-FUN-TPU;OnePlus;Nord 4;Funda;Transparente;2,95;;;
+OL-N4-FUN-LIB;OnePlus;Nord 4;Funda;Libro;3,70;;;
+OL-N4-FUN-ANT;OnePlus;Nord 4;Funda;Antigolpes;3,10;;;
+OL-N4-PCA-NA;OnePlus;Nord 4;Protector de cámara;Cristal;2,90;;;
+OL-N5-PRO-NA;OnePlus;Nord 5;Cristal templado;Estándar;1,30;;;
+OL-N5-PRO-PRI;OnePlus;Nord 5;Cristal templado;Privacidad;4,00;;;
+OL-N5-FUN-SIL;OnePlus;Nord 5;Funda;Silicona;2,50;;;
+OL-N5-FUN-TPU;OnePlus;Nord 5;Funda;Transparente;2,95;;;
+OL-N5-FUN-LIB;OnePlus;Nord 5;Funda;Libro;3,70;;;
+OL-N5-FUN-ANT;OnePlus;Nord 5;Funda;Antigolpes;3,10;;;
+OL-N5-PCA-NA;OnePlus;Nord 5;Protector de cámara;Cristal;2,90;;;
+OL-NCE5-PRO-NA;OnePlus;Nord CE 5G;Cristal templado;Estándar;1,30;;;
+OL-NCE5-PRO-PRI;OnePlus;Nord CE 5G;Cristal templado;Privacidad;4,00;;;
+OL-NCE5-FUN-SIL;OnePlus;Nord CE 5G;Funda;Silicona;2,50;;;
+OL-NCE5-FUN-TPU;OnePlus;Nord CE 5G;Funda;Transparente;2,95;;;
+OL-NCE5-FUN-LIB;OnePlus;Nord CE 5G;Funda;Libro;3,70;;;
+OL-NCE5-FUN-ANT;OnePlus;Nord CE 5G;Funda;Antigolpes;3,10;;;
+OL-NCE5-PCA-NA;OnePlus;Nord CE 5G;Protector de cámara;Cristal;2,90;;;
+OL-NCE25-PRO-NA;OnePlus;Nord CE 2 5G;Cristal templado;Estándar;1,30;;;
+OL-NCE25-PRO-PRI;OnePlus;Nord CE 2 5G;Cristal templado;Privacidad;4,00;;;
+OL-NCE25-FUN-SIL;OnePlus;Nord CE 2 5G;Funda;Silicona;2,50;;;
+OL-NCE25-FUN-TPU;OnePlus;Nord CE 2 5G;Funda;Transparente;2,95;;;
+OL-NCE25-FUN-LIB;OnePlus;Nord CE 2 5G;Funda;Libro;3,70;;;
+OL-NCE25-FUN-ANT;OnePlus;Nord CE 2 5G;Funda;Antigolpes;3,10;;;
+OL-NCE25-PCA-NA;OnePlus;Nord CE 2 5G;Protector de cámara;Cristal;2,90;;;
+OL-NCE2L5-PRO-NA;OnePlus;Nord CE 2 Lite 5G;Cristal templado;Estándar;1,30;;;
+OL-NCE2L5-PRO-PRI;OnePlus;Nord CE 2 Lite 5G;Cristal templado;Privacidad;4,00;;;
+OL-NCE2L5-FUN-SIL;OnePlus;Nord CE 2 Lite 5G;Funda;Silicona;2,50;;;
+OL-NCE2L5-FUN-TPU;OnePlus;Nord CE 2 Lite 5G;Funda;Transparente;2,95;;;
+OL-NCE2L5-FUN-LIB;OnePlus;Nord CE 2 Lite 5G;Funda;Libro;3,70;;;
+OL-NCE2L5-FUN-ANT;OnePlus;Nord CE 2 Lite 5G;Funda;Antigolpes;3,10;;;
+OL-NCE2L5-PCA-NA;OnePlus;Nord CE 2 Lite 5G;Protector de cámara;Cristal;2,90;;;
+OL-NCE3L5-PRO-NA;OnePlus;Nord CE 3 Lite 5G;Cristal templado;Estándar;1,30;;;
+OL-NCE3L5-PRO-PRI;OnePlus;Nord CE 3 Lite 5G;Cristal templado;Privacidad;4,00;;;
+OL-NCE3L5-FUN-SIL;OnePlus;Nord CE 3 Lite 5G;Funda;Silicona;2,50;;;
+OL-NCE3L5-FUN-TPU;OnePlus;Nord CE 3 Lite 5G;Funda;Transparente;2,95;;;
+OL-NCE3L5-FUN-LIB;OnePlus;Nord CE 3 Lite 5G;Funda;Libro;3,70;;;
+OL-NCE3L5-FUN-ANT;OnePlus;Nord CE 3 Lite 5G;Funda;Antigolpes;3,10;;;
+OL-NCE3L5-PCA-NA;OnePlus;Nord CE 3 Lite 5G;Protector de cámara;Cristal;2,90;;;
+OL-NCE4L5-PRO-NA;OnePlus;Nord CE4 Lite 5G;Cristal templado;Estándar;1,30;;;
+OL-NCE4L5-PRO-PRI;OnePlus;Nord CE4 Lite 5G;Cristal templado;Privacidad;4,00;;;
+OL-NCE4L5-FUN-SIL;OnePlus;Nord CE4 Lite 5G;Funda;Silicona;2,50;;;
+OL-NCE4L5-FUN-TPU;OnePlus;Nord CE4 Lite 5G;Funda;Transparente;2,95;;;
+OL-NCE4L5-FUN-LIB;OnePlus;Nord CE4 Lite 5G;Funda;Libro;3,70;;;
+OL-NCE4L5-FUN-ANT;OnePlus;Nord CE4 Lite 5G;Funda;Antigolpes;3,10;;;
+OL-NCE4L5-PCA-NA;OnePlus;Nord CE4 Lite 5G;Protector de cámara;Cristal;2,90;;;
+OL-NORDCE5-PRO-NA;OnePlus;Nord CE5;Cristal templado;Estándar;1,30;;;
+OL-NORDCE5-PRO-PRI;OnePlus;Nord CE5;Cristal templado;Privacidad;4,00;;;
+OL-NORDCE5-FUN-SIL;OnePlus;Nord CE5;Funda;Silicona;2,50;;;
+OL-NORDCE5-FUN-TPU;OnePlus;Nord CE5;Funda;Transparente;2,95;;;
+OL-NORDCE5-FUN-LIB;OnePlus;Nord CE5;Funda;Libro;3,70;;;
+OL-NORDCE5-FUN-ANT;OnePlus;Nord CE5;Funda;Antigolpes;3,10;;;
+OL-NORDCE5-PCA-NA;OnePlus;Nord CE5;Protector de cámara;Cristal;2,90;;;
+OL-NCE4-PRO-NA;OnePlus;Nord CE4;Cristal templado;Estándar;1,30;;;
+OL-NCE4-PRO-PRI;OnePlus;Nord CE4;Cristal templado;Privacidad;4,00;;;
+OL-NCE4-FUN-SIL;OnePlus;Nord CE4;Funda;Silicona;2,50;;;
+OL-NCE4-FUN-TPU;OnePlus;Nord CE4;Funda;Transparente;2,95;;;
+OL-NCE4-FUN-LIB;OnePlus;Nord CE4;Funda;Libro;3,70;;;
+OL-NCE4-FUN-ANT;OnePlus;Nord CE4;Funda;Antigolpes;3,10;;;
+OL-NCE4-PCA-NA;OnePlus;Nord CE4;Protector de cámara;Cristal;2,90;;;
+OL-NN30SE-PRO-NA;OnePlus;Nord N30 SE;Cristal templado;Estándar;1,30;;;
+OL-NN30SE-PRO-PRI;OnePlus;Nord N30 SE;Cristal templado;Privacidad;4,00;;;
+OL-NN30SE-FUN-SIL;OnePlus;Nord N30 SE;Funda;Silicona;2,50;;;
+OL-NN30SE-FUN-TPU;OnePlus;Nord N30 SE;Funda;Transparente;2,95;;;
+OL-NN30SE-FUN-LIB;OnePlus;Nord N30 SE;Funda;Libro;3,70;;;
+OL-NN30SE-FUN-ANT;OnePlus;Nord N30 SE;Funda;Antigolpes;3,10;;;
+OL-NCE3-PRO-NA;OnePlus;Nord CE 3;Cristal templado;Estándar;1,30;;;
+OL-NCE3-PRO-PRI;OnePlus;Nord CE 3;Cristal templado;Privacidad;4,00;;;
+OL-NCE3-FUN-SIL;OnePlus;Nord CE 3;Funda;Silicona;2,50;;;
+OL-NCE3-FUN-TPU;OnePlus;Nord CE 3;Funda;Transparente;2,95;;;
+OL-NCE3-FUN-LIB;OnePlus;Nord CE 3;Funda;Libro;3,70;;;
+OL-NCE3-FUN-ANT;OnePlus;Nord CE 3;Funda;Antigolpes;3,10;;;
+OL-NN30-PRO-NA;OnePlus;Nord N30;Cristal templado;Estándar;1,30;;;
+OL-NN30-PRO-PRI;OnePlus;Nord N30;Cristal templado;Privacidad;4,00;;;
+OL-NN30-FUN-SIL;OnePlus;Nord N30;Funda;Silicona;2,50;;;
+OL-NN30-FUN-TPU;OnePlus;Nord N30;Funda;Transparente;2,95;;;
+OL-NN30-FUN-LIB;OnePlus;Nord N30;Funda;Libro;3,70;;;
+OL-NN30-FUN-ANT;OnePlus;Nord N30;Funda;Antigolpes;3,10;;;
+OL-ACEP-PRO-NA;OnePlus;Ace Pro;Cristal templado;Estándar;1,30;;;
+OL-ACEP-PRO-NA-FG;OnePlus;Ace Pro;Cristal templado;UV full glue;4,15;;;
+OL-ACEP-PRO-PRI;OnePlus;Ace Pro;Cristal templado;Privacidad;4,00;;;
+OL-ACEP-FUN-SIL;OnePlus;Ace Pro;Funda;Silicona;2,50;;;
+OL-ACEP-FUN-TPU;OnePlus;Ace Pro;Funda;Transparente;2,95;;;
+OL-ACEP-FUN-LIB;OnePlus;Ace Pro;Funda;Libro;3,70;;;
+OL-ACEP-FUN-ANT;OnePlus;Ace Pro;Funda;Antigolpes;3,10;;;
+OL-ACEP-PCA-NA;OnePlus;Ace Pro;Protector de cámara;Cristal;2,90;;;
+OL-ACER-PRO-NA;OnePlus;Ace Racing;Cristal templado;Estándar;1,30;;;
+OL-ACER-PRO-NA-FG;OnePlus;Ace Racing;Cristal templado;UV full glue;4,15;;;
+OL-ACER-PRO-PRI;OnePlus;Ace Racing;Cristal templado;Privacidad;4,00;;;
+OL-ACER-FUN-SIL;OnePlus;Ace Racing;Funda;Silicona;2,50;;;
+OL-ACER-FUN-TPU;OnePlus;Ace Racing;Funda;Transparente;2,95;;;
+OL-ACER-FUN-LIB;OnePlus;Ace Racing;Funda;Libro;3,70;;;
+OL-ACER-FUN-ANT;OnePlus;Ace Racing;Funda;Antigolpes;3,10;;;
+OL-ACER-PCA-NA;OnePlus;Ace Racing;Protector de cámara;Cristal;2,90;;;
+OL-ACE-PRO-NA;OnePlus;Ace;Cristal templado;Estándar;1,30;;;
+OL-ACE-PRO-NA-FG;OnePlus;Ace;Cristal templado;UV full glue;4,15;;;
+OL-ACE-PRO-PRI;OnePlus;Ace;Cristal templado;Privacidad;4,00;;;
+OL-ACE-FUN-SIL;OnePlus;Ace;Funda;Silicona;2,50;;;
+OL-ACE-FUN-TPU;OnePlus;Ace;Funda;Transparente;2,95;;;
+OL-ACE-FUN-LIB;OnePlus;Ace;Funda;Libro;3,70;;;
+OL-ACE-FUN-ANT;OnePlus;Ace;Funda;Antigolpes;3,10;;;
+OL-ACE-PCA-NA;OnePlus;Ace;Protector de cámara;Cristal;2,90;;;
+OL-NN2005-PRO-NA;OnePlus;Nord N200 5G;Cristal templado;Estándar;1,30;;;
+OL-NN2005-PRO-PRI;OnePlus;Nord N200 5G;Cristal templado;Privacidad;4,00;;;
+OL-NN2005-FUN-SIL;OnePlus;Nord N200 5G;Funda;Silicona;2,50;;;
+OL-NN2005-FUN-TPU;OnePlus;Nord N200 5G;Funda;Transparente;2,95;;;
+OL-NN2005-FUN-LIB;OnePlus;Nord N200 5G;Funda;Libro;3,70;;;
+OL-NN2005-FUN-ANT;OnePlus;Nord N200 5G;Funda;Antigolpes;3,10;;;
+OL-NN2005-PCA-NA;OnePlus;Nord N200 5G;Protector de cámara;Cristal;2,90;;;
+OL-ONE-PRO-NA;OnePlus;One;Cristal templado;Estándar;1,30;;;
+OL-ONE-PRO-NA-FG;OnePlus;One;Cristal templado;UV full glue;4,15;;;
+OL-ONE-PRO-PRI;OnePlus;One;Cristal templado;Privacidad;4,00;;;
+OL-ONE-FUN-SIL;OnePlus;One;Funda;Silicona;2,50;;;
+OL-ONE-FUN-TPU;OnePlus;One;Funda;Transparente;2,95;;;
+OL-ONE-FUN-LIB;OnePlus;One;Funda;Libro;3,70;;;
+OL-ONE-FUN-ANT;OnePlus;One;Funda;Antigolpes;3,10;;;
+OL-13S-PRO-NA;OnePlus;13s;Cristal templado;Estándar;1,30;;;
+OL-13S-PRO-NA-FG;OnePlus;13s;Cristal templado;UV full glue;4,15;;;
+OL-13S-PRO-PRI;OnePlus;13s;Cristal templado;Privacidad;4,00;;;
+OL-13S-FUN-SIL;OnePlus;13s;Funda;Silicona;2,50;;;
+OL-13S-FUN-TPU;OnePlus;13s;Funda;Transparente;2,95;;;
+OL-13S-FUN-LIB;OnePlus;13s;Funda;Libro;3,70;;;
+OL-13S-FUN-ANT;OnePlus;13s;Funda;Antigolpes;3,10;;;
+OL-13T-PRO-NA;OnePlus;13T;Cristal templado;Estándar;1,30;;;
+OL-13T-PRO-NA-FG;OnePlus;13T;Cristal templado;UV full glue;4,15;;;
+OL-13T-PRO-PRI;OnePlus;13T;Cristal templado;Privacidad;4,00;;;
+OL-13T-FUN-SIL;OnePlus;13T;Funda;Silicona;2,50;;;
+OL-13T-FUN-TPU;OnePlus;13T;Funda;Transparente;2,95;;;
+OL-13T-FUN-LIB;OnePlus;13T;Funda;Libro;3,70;;;
+OL-13T-FUN-ANT;OnePlus;13T;Funda;Antigolpes;3,10;;;
+OL-15T-PRO-NA;OnePlus;15T;Cristal templado;Estándar;1,30;;;
+OL-15T-PRO-NA-FG;OnePlus;15T;Cristal templado;UV full glue;4,15;;;
+OL-15T-PRO-PRI;OnePlus;15T;Cristal templado;Privacidad;4,00;;;
+OL-15T-FUN-SIL;OnePlus;15T;Funda;Silicona;2,50;;;
+OL-15T-FUN-TPU;OnePlus;15T;Funda;Transparente;2,95;;;
+OL-15T-FUN-LIB;OnePlus;15T;Funda;Libro;3,70;;;
+OL-15T-FUN-ANT;OnePlus;15T;Funda;Antigolpes;3,10;;;
+OL-2-PRO-NA;OnePlus;2;Cristal templado;Estándar;1,30;;;
+OL-2-PRO-NA-FG;OnePlus;2;Cristal templado;UV full glue;4,15;;;
+OL-2-PRO-PRI;OnePlus;2;Cristal templado;Privacidad;4,00;;;
+OL-2-FUN-SIL;OnePlus;2;Funda;Silicona;2,50;;;
+OL-2-FUN-TPU;OnePlus;2;Funda;Transparente;2,95;;;
+OL-2-FUN-LIB;OnePlus;2;Funda;Libro;3,70;;;
+OL-2-FUN-ANT;OnePlus;2;Funda;Antigolpes;3,10;;;
+OL-X-PRO-NA;OnePlus;X;Cristal templado;Estándar;1,30;;;
+OL-X-PRO-NA-FG;OnePlus;X;Cristal templado;UV full glue;4,15;;;
+OL-X-PRO-PRI;OnePlus;X;Cristal templado;Privacidad;4,00;;;
+OL-X-FUN-SIL;OnePlus;X;Funda;Silicona;2,50;;;
+OL-X-FUN-TPU;OnePlus;X;Funda;Transparente;2,95;;;
+OL-X-FUN-LIB;OnePlus;X;Funda;Libro;3,70;;;
+OL-X-FUN-ANT;OnePlus;X;Funda;Antigolpes;3,10;;;
+OL-3-PRO-NA;OnePlus;3;Cristal templado;Estándar;1,30;;;
+OL-3-PRO-NA-FG;OnePlus;3;Cristal templado;UV full glue;4,15;;;
+OL-3-PRO-PRI;OnePlus;3;Cristal templado;Privacidad;4,00;;;
+OL-3-FUN-SIL;OnePlus;3;Funda;Silicona;2,50;;;
+OL-3-FUN-TPU;OnePlus;3;Funda;Transparente;2,95;;;
+OL-3-FUN-LIB;OnePlus;3;Funda;Libro;3,70;;;
+OL-3-FUN-ANT;OnePlus;3;Funda;Antigolpes;3,10;;;
+OL-3T-PRO-NA;OnePlus;3T;Cristal templado;Estándar;1,30;;;
+OL-3T-PRO-NA-FG;OnePlus;3T;Cristal templado;UV full glue;4,15;;;
+OL-3T-PRO-PRI;OnePlus;3T;Cristal templado;Privacidad;4,00;;;
+OL-3T-FUN-SIL;OnePlus;3T;Funda;Silicona;2,50;;;
+OL-3T-FUN-TPU;OnePlus;3T;Funda;Transparente;2,95;;;
+OL-3T-FUN-LIB;OnePlus;3T;Funda;Libro;3,70;;;
+OL-3T-FUN-ANT;OnePlus;3T;Funda;Antigolpes;3,10;;;
+OL-5-PRO-NA;OnePlus;5;Cristal templado;Estándar;1,30;;;
+OL-5-PRO-NA-FG;OnePlus;5;Cristal templado;UV full glue;4,15;;;
+OL-5-PRO-PRI;OnePlus;5;Cristal templado;Privacidad;4,00;;;
+OL-5-FUN-SIL;OnePlus;5;Funda;Silicona;2,50;;;
+OL-5-FUN-TPU;OnePlus;5;Funda;Transparente;2,95;;;
+OL-5-FUN-LIB;OnePlus;5;Funda;Libro;3,70;;;
+OL-5-FUN-ANT;OnePlus;5;Funda;Antigolpes;3,10;;;
+OL-5T-PRO-NA;OnePlus;5T;Cristal templado;Estándar;1,30;;;
+OL-5T-PRO-NA-FG;OnePlus;5T;Cristal templado;UV full glue;4,15;;;
+OL-5T-PRO-PRI;OnePlus;5T;Cristal templado;Privacidad;4,00;;;
+OL-5T-FUN-SIL;OnePlus;5T;Funda;Silicona;2,50;;;
+OL-5T-FUN-TPU;OnePlus;5T;Funda;Transparente;2,95;;;
+OL-5T-FUN-LIB;OnePlus;5T;Funda;Libro;3,70;;;
+OL-5T-FUN-ANT;OnePlus;5T;Funda;Antigolpes;3,10;;;
+OL-6-PRO-NA;OnePlus;6;Cristal templado;Estándar;1,30;;;
+OL-6-PRO-NA-FG;OnePlus;6;Cristal templado;UV full glue;4,15;;;
+OL-6-PRO-PRI;OnePlus;6;Cristal templado;Privacidad;4,00;;;
+OL-6-FUN-SIL;OnePlus;6;Funda;Silicona;2,50;;;
+OL-6-FUN-TPU;OnePlus;6;Funda;Transparente;2,95;;;
+OL-6-FUN-LIB;OnePlus;6;Funda;Libro;3,70;;;
+OL-6-FUN-ANT;OnePlus;6;Funda;Antigolpes;3,10;;;
+OL-6T-PRO-NA;OnePlus;6T;Cristal templado;Estándar;1,30;;;
+OL-6T-PRO-NA-FG;OnePlus;6T;Cristal templado;UV full glue;4,15;;;
+OL-6T-PRO-PRI;OnePlus;6T;Cristal templado;Privacidad;4,00;;;
+OL-6T-FUN-SIL;OnePlus;6T;Funda;Silicona;2,50;;;
+OL-6T-FUN-TPU;OnePlus;6T;Funda;Transparente;2,95;;;
+OL-6T-FUN-LIB;OnePlus;6T;Funda;Libro;3,70;;;
+OL-6T-FUN-ANT;OnePlus;6T;Funda;Antigolpes;3,10;;;
+OL-7P-MAR-COM;OnePlus;7 Pro;Marco / chasis;Compatible;8,80;;;6
+OL-7P-BOT-COM;OnePlus;7 Pro;Botones laterales;Compatible;4,50;;;6
+OL-7P-CRI-COM;OnePlus;7 Pro;Cristal de pantalla;Compatible;4,50;;;6
+OL-7P-FPR-COM;OnePlus;7 Pro;Flex principal;Compatible;3,70;;;6
+OL-7P-VIB-COM;OnePlus;7 Pro;Vibrador;Compatible;4,35;;;6
+OL-7P-ANT-COM;OnePlus;7 Pro;Antena / coaxial;Compatible;3,90;;;6
+OL-7P-HUE-COM;OnePlus;7 Pro;Botón home / huella;Compatible;6,50;;;6
+OL-7P-NFC-COM;OnePlus;7 Pro;NFC y carga inalámbrica;Compatible;8,75;;;6
+OL-7-MAR-COM;OnePlus;7;Marco / chasis;Compatible;8,80;;;6
+OL-7-BOT-COM;OnePlus;7;Botones laterales;Compatible;4,50;;;6
+OL-7-CRI-COM;OnePlus;7;Cristal de pantalla;Compatible;4,50;;;6
+OL-7-FPR-COM;OnePlus;7;Flex principal;Compatible;3,70;;;6
+OL-7-VIB-COM;OnePlus;7;Vibrador;Compatible;4,35;;;6
+OL-7-ANT-COM;OnePlus;7;Antena / coaxial;Compatible;3,90;;;6
+OL-7-HUE-COM;OnePlus;7;Botón home / huella;Compatible;6,50;;;6
+OL-7-NFC-COM;OnePlus;7;NFC y carga inalámbrica;Compatible;8,75;;;6
+OL-7T-MAR-COM;OnePlus;7T;Marco / chasis;Compatible;8,80;;;6
+OL-7T-BOT-COM;OnePlus;7T;Botones laterales;Compatible;4,50;;;6
+OL-7T-CRI-COM;OnePlus;7T;Cristal de pantalla;Compatible;4,50;;;6
+OL-7T-FPR-COM;OnePlus;7T;Flex principal;Compatible;3,70;;;6
+OL-7T-VIB-COM;OnePlus;7T;Vibrador;Compatible;4,35;;;6
+OL-7T-ANT-COM;OnePlus;7T;Antena / coaxial;Compatible;3,90;;;6
+OL-7T-HUE-COM;OnePlus;7T;Botón home / huella;Compatible;6,50;;;6
+OL-7T-NFC-COM;OnePlus;7T;NFC y carga inalámbrica;Compatible;8,75;;;6
+OL-7TP-MAR-COM;OnePlus;7T Pro;Marco / chasis;Compatible;8,80;;;6
+OL-7TP-BOT-COM;OnePlus;7T Pro;Botones laterales;Compatible;4,50;;;6
+OL-7TP-CRI-COM;OnePlus;7T Pro;Cristal de pantalla;Compatible;4,50;;;6
+OL-7TP-FPR-COM;OnePlus;7T Pro;Flex principal;Compatible;3,70;;;6
+OL-7TP-VIB-COM;OnePlus;7T Pro;Vibrador;Compatible;4,35;;;6
+OL-7TP-ANT-COM;OnePlus;7T Pro;Antena / coaxial;Compatible;3,90;;;6
+OL-7TP-HUE-COM;OnePlus;7T Pro;Botón home / huella;Compatible;6,50;;;6
+OL-7TP-NFC-COM;OnePlus;7T Pro;NFC y carga inalámbrica;Compatible;8,75;;;6
+OL-8-MAR-COM;OnePlus;8;Marco / chasis;Compatible;9,79;;;6
+OL-8-BOT-COM;OnePlus;8;Botones laterales;Compatible;5,00;;;6
+OL-8-CRI-COM;OnePlus;8;Cristal de pantalla;Compatible;5,00;;;6
+OL-8-FPR-COM;OnePlus;8;Flex principal;Compatible;4,15;;;6
+OL-8-VIB-COM;OnePlus;8;Vibrador;Compatible;4,85;;;6
+OL-8-ANT-COM;OnePlus;8;Antena / coaxial;Compatible;4,35;;;6
+OL-8-HUE-COM;OnePlus;8;Botón home / huella;Compatible;7,25;;;6
+OL-8-NFC-COM;OnePlus;8;NFC y carga inalámbrica;Compatible;9,70;;;6
+OL-8P-MAR-COM;OnePlus;8 Pro;Marco / chasis;Compatible;9,79;;;6
+OL-8P-BOT-COM;OnePlus;8 Pro;Botones laterales;Compatible;5,00;;;6
+OL-8P-CRI-COM;OnePlus;8 Pro;Cristal de pantalla;Compatible;5,00;;;6
+OL-8P-FPR-COM;OnePlus;8 Pro;Flex principal;Compatible;4,15;;;6
+OL-8P-VIB-COM;OnePlus;8 Pro;Vibrador;Compatible;4,85;;;6
+OL-8P-ANT-COM;OnePlus;8 Pro;Antena / coaxial;Compatible;4,35;;;6
+OL-8P-HUE-COM;OnePlus;8 Pro;Botón home / huella;Compatible;7,25;;;6
+OL-8P-NFC-COM;OnePlus;8 Pro;NFC y carga inalámbrica;Compatible;9,70;;;6
+OL-8T-MAR-COM;OnePlus;8T;Marco / chasis;Compatible;9,79;;;6
+OL-8T-BOT-COM;OnePlus;8T;Botones laterales;Compatible;5,00;;;6
+OL-8T-CRI-COM;OnePlus;8T;Cristal de pantalla;Compatible;5,00;;;6
+OL-8T-FPR-COM;OnePlus;8T;Flex principal;Compatible;4,15;;;6
+OL-8T-VIB-COM;OnePlus;8T;Vibrador;Compatible;4,85;;;6
+OL-8T-ANT-COM;OnePlus;8T;Antena / coaxial;Compatible;4,35;;;6
+OL-8T-HUE-COM;OnePlus;8T;Botón home / huella;Compatible;7,25;;;6
+OL-8T-NFC-COM;OnePlus;8T;NFC y carga inalámbrica;Compatible;9,70;;;6
+OL-9-MAR-COM;OnePlus;9;Marco / chasis;Compatible;9,79;;;6
+OL-9-BOT-COM;OnePlus;9;Botones laterales;Compatible;5,00;;;6
+OL-9-CRI-COM;OnePlus;9;Cristal de pantalla;Compatible;5,00;;;6
+OL-9-FPR-COM;OnePlus;9;Flex principal;Compatible;4,15;;;6
+OL-9-VIB-COM;OnePlus;9;Vibrador;Compatible;4,85;;;6
+OL-9-ANT-COM;OnePlus;9;Antena / coaxial;Compatible;4,35;;;6
+OL-9-HUE-COM;OnePlus;9;Botón home / huella;Compatible;7,25;;;6
+OL-9-NFC-COM;OnePlus;9;NFC y carga inalámbrica;Compatible;9,70;;;6
+OL-9P-MAR-COM;OnePlus;9 Pro;Marco / chasis;Compatible;9,79;;;6
+OL-9P-BOT-COM;OnePlus;9 Pro;Botones laterales;Compatible;5,00;;;6
+OL-9P-CRI-COM;OnePlus;9 Pro;Cristal de pantalla;Compatible;5,00;;;6
+OL-9P-FPR-COM;OnePlus;9 Pro;Flex principal;Compatible;4,15;;;6
+OL-9P-VIB-COM;OnePlus;9 Pro;Vibrador;Compatible;4,85;;;6
+OL-9P-ANT-COM;OnePlus;9 Pro;Antena / coaxial;Compatible;4,35;;;6
+OL-9P-HUE-COM;OnePlus;9 Pro;Botón home / huella;Compatible;7,25;;;6
+OL-9P-NFC-COM;OnePlus;9 Pro;NFC y carga inalámbrica;Compatible;9,70;;;6
+OL-10P-MAR-COM;OnePlus;10 Pro;Marco / chasis;Compatible;9,79;;;6
+OL-10P-BOT-COM;OnePlus;10 Pro;Botones laterales;Compatible;5,00;;;6
+OL-10P-CRI-COM;OnePlus;10 Pro;Cristal de pantalla;Compatible;5,00;;;6
+OL-10P-FPR-COM;OnePlus;10 Pro;Flex principal;Compatible;4,15;;;6
+OL-10P-VIB-COM;OnePlus;10 Pro;Vibrador;Compatible;4,85;;;6
+OL-10P-ANT-COM;OnePlus;10 Pro;Antena / coaxial;Compatible;4,35;;;6
+OL-10P-HUE-COM;OnePlus;10 Pro;Botón home / huella;Compatible;7,25;;;6
+OL-10P-NFC-COM;OnePlus;10 Pro;NFC y carga inalámbrica;Compatible;9,70;;;6
+OL-10T-MAR-COM;OnePlus;10T;Marco / chasis;Compatible;9,79;;;6
+OL-10T-BOT-COM;OnePlus;10T;Botones laterales;Compatible;5,00;;;6
+OL-10T-CRI-COM;OnePlus;10T;Cristal de pantalla;Compatible;5,00;;;6
+OL-10T-FPR-COM;OnePlus;10T;Flex principal;Compatible;4,15;;;6
+OL-10T-VIB-COM;OnePlus;10T;Vibrador;Compatible;4,85;;;6
+OL-10T-ANT-COM;OnePlus;10T;Antena / coaxial;Compatible;4,35;;;6
+OL-10T-HUE-COM;OnePlus;10T;Botón home / huella;Compatible;7,25;;;6
+OL-10T-NFC-COM;OnePlus;10T;NFC y carga inalámbrica;Compatible;9,70;;;6
+OL-11-MAR-COM;OnePlus;11;Marco / chasis;Compatible;9,79;;;6
+OL-11-BOT-COM;OnePlus;11;Botones laterales;Compatible;5,00;;;6
+OL-11-CRI-COM;OnePlus;11;Cristal de pantalla;Compatible;5,00;;;6
+OL-11-FPR-COM;OnePlus;11;Flex principal;Compatible;4,15;;;6
+OL-11-VIB-COM;OnePlus;11;Vibrador;Compatible;4,85;;;6
+OL-11-ANT-COM;OnePlus;11;Antena / coaxial;Compatible;4,35;;;6
+OL-11-HUE-COM;OnePlus;11;Botón home / huella;Compatible;7,25;;;6
+OL-11-NFC-COM;OnePlus;11;NFC y carga inalámbrica;Compatible;9,70;;;6
+OL-12-MAR-COM;OnePlus;12;Marco / chasis;Compatible;10,75;10,43;10,10;6
+OL-12-BOT-COM;OnePlus;12;Botones laterales;Compatible;5,55;;;6
+OL-12-CRI-COM;OnePlus;12;Cristal de pantalla;Compatible;5,50;;;6
+OL-12-FPR-COM;OnePlus;12;Flex principal;Compatible;4,55;;;6
+OL-12-VIB-COM;OnePlus;12;Vibrador;Compatible;5,35;;;6
+OL-12-ANT-COM;OnePlus;12;Antena / coaxial;Compatible;4,79;;;6
+OL-12-HUE-COM;OnePlus;12;Botón home / huella;Compatible;7,95;;;6
+OL-12-NFC-COM;OnePlus;12;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+OL-12R-MAR-COM;OnePlus;12R;Marco / chasis;Compatible;9,05;;;6
+OL-12R-BOT-COM;OnePlus;12R;Botones laterales;Compatible;4,65;;;6
+OL-12R-CRI-COM;OnePlus;12R;Cristal de pantalla;Compatible;4,60;;;6
+OL-12R-FPR-COM;OnePlus;12R;Flex principal;Compatible;3,80;;;6
+OL-12R-VIB-COM;OnePlus;12R;Vibrador;Compatible;4,49;;;6
+OL-12R-ANT-COM;OnePlus;12R;Antena / coaxial;Compatible;4,00;;;6
+OL-12R-HUE-COM;OnePlus;12R;Botón home / huella;Compatible;6,69;;;6
+OL-13-MAR-COM;OnePlus;13;Marco / chasis;Compatible;10,75;10,43;10,10;6
+OL-13-BOT-COM;OnePlus;13;Botones laterales;Compatible;5,55;;;6
+OL-13-CRI-COM;OnePlus;13;Cristal de pantalla;Compatible;5,50;;;6
+OL-13-FPR-COM;OnePlus;13;Flex principal;Compatible;4,55;;;6
+OL-13-VIB-COM;OnePlus;13;Vibrador;Compatible;5,35;;;6
+OL-13-ANT-COM;OnePlus;13;Antena / coaxial;Compatible;4,79;;;6
+OL-13-HUE-COM;OnePlus;13;Botón home / huella;Compatible;7,95;;;6
+OL-13-NFC-COM;OnePlus;13;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+OL-13R-MAR-COM;OnePlus;13R;Marco / chasis;Compatible;9,05;;;6
+OL-13R-BOT-COM;OnePlus;13R;Botones laterales;Compatible;4,65;;;6
+OL-13R-CRI-COM;OnePlus;13R;Cristal de pantalla;Compatible;4,60;;;6
+OL-13R-FPR-COM;OnePlus;13R;Flex principal;Compatible;3,80;;;6
+OL-13R-VIB-COM;OnePlus;13R;Vibrador;Compatible;4,49;;;6
+OL-13R-ANT-COM;OnePlus;13R;Antena / coaxial;Compatible;4,00;;;6
+OL-13R-HUE-COM;OnePlus;13R;Botón home / huella;Compatible;6,69;;;6
+OL-15-MAR-COM;OnePlus;15;Marco / chasis;Compatible;10,75;10,43;10,10;6
+OL-15-BOT-COM;OnePlus;15;Botones laterales;Compatible;5,55;;;6
+OL-15-CRI-COM;OnePlus;15;Cristal de pantalla;Compatible;5,50;;;6
+OL-15-FPR-COM;OnePlus;15;Flex principal;Compatible;4,55;;;6
+OL-15-VIB-COM;OnePlus;15;Vibrador;Compatible;5,35;;;6
+OL-15-ANT-COM;OnePlus;15;Antena / coaxial;Compatible;4,79;;;6
+OL-15-HUE-COM;OnePlus;15;Botón home / huella;Compatible;7,95;;;6
+OL-15-NFC-COM;OnePlus;15;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+OL-15R-MAR-COM;OnePlus;15R;Marco / chasis;Compatible;9,05;;;6
+OL-15R-BOT-COM;OnePlus;15R;Botones laterales;Compatible;4,65;;;6
+OL-15R-CRI-COM;OnePlus;15R;Cristal de pantalla;Compatible;4,60;;;6
+OL-15R-FPR-COM;OnePlus;15R;Flex principal;Compatible;3,80;;;6
+OL-15R-VIB-COM;OnePlus;15R;Vibrador;Compatible;4,49;;;6
+OL-15R-ANT-COM;OnePlus;15R;Antena / coaxial;Compatible;4,00;;;6
+OL-15R-HUE-COM;OnePlus;15R;Botón home / huella;Compatible;6,69;;;6
+OL-O-FPR-COM;OnePlus;Open;Flex principal;Compatible;7,45;;;6
+OL-O-VIB-COM;OnePlus;Open;Vibrador;Compatible;8,75;;;6
+OL-O-ANT-COM;OnePlus;Open;Antena / coaxial;Compatible;7,85;;;6
+OL-O-HUE-COM;OnePlus;Open;Botón home / huella;Compatible;13,00;12,61;12,22;6
+OL-O-NFC-COM;OnePlus;Open;NFC y carga inalámbrica;Compatible;17,49;16,97;16,44;6
+OL-N-MAR-COM;OnePlus;Nord;Marco / chasis;Compatible;7,20;;;6
+OL-N-BOT-COM;OnePlus;Nord;Botones laterales;Compatible;3,70;;;6
+OL-N-CRI-COM;OnePlus;Nord;Cristal de pantalla;Compatible;3,69;;;6
+OL-N-FPR-COM;OnePlus;Nord;Flex principal;Compatible;3,05;;;6
+OL-N-VIB-COM;OnePlus;Nord;Vibrador;Compatible;3,55;;;6
+OL-N-ANT-COM;OnePlus;Nord;Antena / coaxial;Compatible;3,20;;;6
+OL-N-HUE-COM;OnePlus;Nord;Botón home / huella;Compatible;5,30;;;6
+OL-NN105-MAR-COM;OnePlus;Nord N10 5G;Marco / chasis;Compatible;6,25;;;6
+OL-NN105-BOT-COM;OnePlus;Nord N10 5G;Botones laterales;Compatible;3,20;;;6
+OL-NN105-CRI-COM;OnePlus;Nord N10 5G;Cristal de pantalla;Compatible;3,20;;;6
+OL-NN105-FPR-COM;OnePlus;Nord N10 5G;Flex principal;Compatible;2,65;;;6
+OL-NN105-VIB-COM;OnePlus;Nord N10 5G;Vibrador;Compatible;3,10;;;6
+OL-NN105-ANT-COM;OnePlus;Nord N10 5G;Antena / coaxial;Compatible;2,79;;;6
+OL-NN105-HUE-COM;OnePlus;Nord N10 5G;Botón home / huella;Compatible;4,60;;;6
+OL-NN100-MAR-COM;OnePlus;Nord N100;Marco / chasis;Compatible;6,25;;;6
+OL-NN100-BOT-COM;OnePlus;Nord N100;Botones laterales;Compatible;3,20;;;6
+OL-NN100-CRI-COM;OnePlus;Nord N100;Cristal de pantalla;Compatible;3,20;;;6
+OL-NN100-FPR-COM;OnePlus;Nord N100;Flex principal;Compatible;2,65;;;6
+OL-NN100-VIB-COM;OnePlus;Nord N100;Vibrador;Compatible;3,10;;;6
+OL-NN100-ANT-COM;OnePlus;Nord N100;Antena / coaxial;Compatible;2,79;;;6
+OL-NN100-HUE-COM;OnePlus;Nord N100;Botón home / huella;Compatible;4,60;;;6
+OL-N25-MAR-COM;OnePlus;Nord 2 5G;Marco / chasis;Compatible;7,20;;;6
+OL-N25-BOT-COM;OnePlus;Nord 2 5G;Botones laterales;Compatible;3,70;;;6
+OL-N25-CRI-COM;OnePlus;Nord 2 5G;Cristal de pantalla;Compatible;3,69;;;6
+OL-N25-FPR-COM;OnePlus;Nord 2 5G;Flex principal;Compatible;3,05;;;6
+OL-N25-VIB-COM;OnePlus;Nord 2 5G;Vibrador;Compatible;3,55;;;6
+OL-N25-ANT-COM;OnePlus;Nord 2 5G;Antena / coaxial;Compatible;3,20;;;6
+OL-N25-HUE-COM;OnePlus;Nord 2 5G;Botón home / huella;Compatible;5,30;;;6
+OL-N2T5-MAR-COM;OnePlus;Nord 2T 5G;Marco / chasis;Compatible;7,20;;;6
+OL-N2T5-BOT-COM;OnePlus;Nord 2T 5G;Botones laterales;Compatible;3,70;;;6
+OL-N2T5-CRI-COM;OnePlus;Nord 2T 5G;Cristal de pantalla;Compatible;3,69;;;6
+OL-N2T5-FPR-COM;OnePlus;Nord 2T 5G;Flex principal;Compatible;3,05;;;6
+OL-N2T5-VIB-COM;OnePlus;Nord 2T 5G;Vibrador;Compatible;3,55;;;6
+OL-N2T5-ANT-COM;OnePlus;Nord 2T 5G;Antena / coaxial;Compatible;3,20;;;6
+OL-N2T5-HUE-COM;OnePlus;Nord 2T 5G;Botón home / huella;Compatible;5,30;;;6
+OL-N35-MAR-COM;OnePlus;Nord 3 5G;Marco / chasis;Compatible;7,20;;;6
+OL-N35-BOT-COM;OnePlus;Nord 3 5G;Botones laterales;Compatible;3,70;;;6
+OL-N35-CRI-COM;OnePlus;Nord 3 5G;Cristal de pantalla;Compatible;3,69;;;6
+OL-N35-FPR-COM;OnePlus;Nord 3 5G;Flex principal;Compatible;3,05;;;6
+OL-N35-VIB-COM;OnePlus;Nord 3 5G;Vibrador;Compatible;3,55;;;6
+OL-N35-ANT-COM;OnePlus;Nord 3 5G;Antena / coaxial;Compatible;3,20;;;6
+OL-N35-HUE-COM;OnePlus;Nord 3 5G;Botón home / huella;Compatible;5,30;;;6
+OL-N4-MAR-COM;OnePlus;Nord 4;Marco / chasis;Compatible;7,90;;;6
+OL-N4-BOT-COM;OnePlus;Nord 4;Botones laterales;Compatible;4,05;;;6
+OL-N4-CRI-COM;OnePlus;Nord 4;Cristal de pantalla;Compatible;4,05;;;6
+OL-N4-FPR-COM;OnePlus;Nord 4;Flex principal;Compatible;3,35;;;6
+OL-N4-VIB-COM;OnePlus;Nord 4;Vibrador;Compatible;3,95;;;6
+OL-N4-ANT-COM;OnePlus;Nord 4;Antena / coaxial;Compatible;3,50;;;6
+OL-N4-HUE-COM;OnePlus;Nord 4;Botón home / huella;Compatible;5,85;;;6
+OL-N5-MAR-COM;OnePlus;Nord 5;Marco / chasis;Compatible;7,90;;;6
+OL-N5-BOT-COM;OnePlus;Nord 5;Botones laterales;Compatible;4,05;;;6
+OL-N5-CRI-COM;OnePlus;Nord 5;Cristal de pantalla;Compatible;4,05;;;6
+OL-N5-FPR-COM;OnePlus;Nord 5;Flex principal;Compatible;3,35;;;6
+OL-N5-VIB-COM;OnePlus;Nord 5;Vibrador;Compatible;3,95;;;6
+OL-N5-ANT-COM;OnePlus;Nord 5;Antena / coaxial;Compatible;3,50;;;6
+OL-N5-HUE-COM;OnePlus;Nord 5;Botón home / huella;Compatible;5,85;;;6
+OL-NCE5-MAR-COM;OnePlus;Nord CE 5G;Marco / chasis;Compatible;7,20;;;6
+OL-NCE5-BOT-COM;OnePlus;Nord CE 5G;Botones laterales;Compatible;3,70;;;6
+OL-NCE5-CRI-COM;OnePlus;Nord CE 5G;Cristal de pantalla;Compatible;3,69;;;6
+OL-NCE5-FPR-COM;OnePlus;Nord CE 5G;Flex principal;Compatible;3,05;;;6
+OL-NCE5-VIB-COM;OnePlus;Nord CE 5G;Vibrador;Compatible;3,55;;;6
+OL-NCE5-ANT-COM;OnePlus;Nord CE 5G;Antena / coaxial;Compatible;3,20;;;6
+OL-NCE5-HUE-COM;OnePlus;Nord CE 5G;Botón home / huella;Compatible;5,30;;;6
+OL-NCE25-MAR-COM;OnePlus;Nord CE 2 5G;Marco / chasis;Compatible;7,20;;;6
+OL-NCE25-BOT-COM;OnePlus;Nord CE 2 5G;Botones laterales;Compatible;3,70;;;6
+OL-NCE25-CRI-COM;OnePlus;Nord CE 2 5G;Cristal de pantalla;Compatible;3,69;;;6
+OL-NCE25-FPR-COM;OnePlus;Nord CE 2 5G;Flex principal;Compatible;3,05;;;6
+OL-NCE25-VIB-COM;OnePlus;Nord CE 2 5G;Vibrador;Compatible;3,55;;;6
+OL-NCE25-ANT-COM;OnePlus;Nord CE 2 5G;Antena / coaxial;Compatible;3,20;;;6
+OL-NCE25-HUE-COM;OnePlus;Nord CE 2 5G;Botón home / huella;Compatible;5,30;;;6
+OL-NCE2L5-MAR-COM;OnePlus;Nord CE 2 Lite 5G;Marco / chasis;Compatible;6,25;;;6
+OL-NCE2L5-BOT-COM;OnePlus;Nord CE 2 Lite 5G;Botones laterales;Compatible;3,20;;;6
+OL-NCE2L5-CRI-COM;OnePlus;Nord CE 2 Lite 5G;Cristal de pantalla;Compatible;3,20;;;6
+OL-NCE2L5-FPR-COM;OnePlus;Nord CE 2 Lite 5G;Flex principal;Compatible;2,65;;;6
+OL-NCE2L5-VIB-COM;OnePlus;Nord CE 2 Lite 5G;Vibrador;Compatible;3,10;;;6
+OL-NCE2L5-ANT-COM;OnePlus;Nord CE 2 Lite 5G;Antena / coaxial;Compatible;2,79;;;6
+OL-NCE2L5-HUE-COM;OnePlus;Nord CE 2 Lite 5G;Botón home / huella;Compatible;4,60;;;6
+OL-NCE3L5-MAR-COM;OnePlus;Nord CE 3 Lite 5G;Marco / chasis;Compatible;6,25;;;6
+OL-NCE3L5-BOT-COM;OnePlus;Nord CE 3 Lite 5G;Botones laterales;Compatible;3,20;;;6
+OL-NCE3L5-CRI-COM;OnePlus;Nord CE 3 Lite 5G;Cristal de pantalla;Compatible;3,20;;;6
+OL-NCE3L5-FPR-COM;OnePlus;Nord CE 3 Lite 5G;Flex principal;Compatible;2,65;;;6
+OL-NCE3L5-VIB-COM;OnePlus;Nord CE 3 Lite 5G;Vibrador;Compatible;3,10;;;6
+OL-NCE3L5-ANT-COM;OnePlus;Nord CE 3 Lite 5G;Antena / coaxial;Compatible;2,79;;;6
+OL-NCE3L5-HUE-COM;OnePlus;Nord CE 3 Lite 5G;Botón home / huella;Compatible;4,60;;;6
+OL-NCE4L5-MAR-COM;OnePlus;Nord CE4 Lite 5G;Marco / chasis;Compatible;6,89;;;6
+OL-NCE4L5-BOT-COM;OnePlus;Nord CE4 Lite 5G;Botones laterales;Compatible;3,55;;;6
+OL-NCE4L5-CRI-COM;OnePlus;Nord CE4 Lite 5G;Cristal de pantalla;Compatible;3,50;;;6
+OL-NCE4L5-FPR-COM;OnePlus;Nord CE4 Lite 5G;Flex principal;Compatible;2,90;;;6
+OL-NCE4L5-VIB-COM;OnePlus;Nord CE4 Lite 5G;Vibrador;Compatible;3,40;;;6
+OL-NCE4L5-ANT-COM;OnePlus;Nord CE4 Lite 5G;Antena / coaxial;Compatible;3,05;;;6
+OL-NCE4L5-HUE-COM;OnePlus;Nord CE4 Lite 5G;Botón home / huella;Compatible;5,09;;;6
+OL-NORDCE5-MAR-COM;OnePlus;Nord CE5;Marco / chasis;Compatible;7,90;;;6
+OL-NORDCE5-BOT-COM;OnePlus;Nord CE5;Botones laterales;Compatible;4,05;;;6
+OL-NORDCE5-CRI-COM;OnePlus;Nord CE5;Cristal de pantalla;Compatible;4,05;;;6
+OL-NORDCE5-FPR-COM;OnePlus;Nord CE5;Flex principal;Compatible;3,35;;;6
+OL-NORDCE5-VIB-COM;OnePlus;Nord CE5;Vibrador;Compatible;3,95;;;6
+OL-NORDCE5-ANT-COM;OnePlus;Nord CE5;Antena / coaxial;Compatible;3,50;;;6
+OL-NORDCE5-HUE-COM;OnePlus;Nord CE5;Botón home / huella;Compatible;5,85;;;6
+OL-NCE4-MAR-COM;OnePlus;Nord CE4;Marco / chasis;Compatible;7,90;;;6
+OL-NCE4-BOT-COM;OnePlus;Nord CE4;Botones laterales;Compatible;4,05;;;6
+OL-NCE4-CRI-COM;OnePlus;Nord CE4;Cristal de pantalla;Compatible;4,05;;;6
+OL-NCE4-FPR-COM;OnePlus;Nord CE4;Flex principal;Compatible;3,35;;;6
+OL-NCE4-VIB-COM;OnePlus;Nord CE4;Vibrador;Compatible;3,95;;;6
+OL-NCE4-ANT-COM;OnePlus;Nord CE4;Antena / coaxial;Compatible;3,50;;;6
+OL-NCE4-HUE-COM;OnePlus;Nord CE4;Botón home / huella;Compatible;5,85;;;6
+OL-NN30SE-MAR-COM;OnePlus;Nord N30 SE;Marco / chasis;Compatible;6,89;;;6
+OL-NN30SE-BOT-COM;OnePlus;Nord N30 SE;Botones laterales;Compatible;3,55;;;6
+OL-NN30SE-CRI-COM;OnePlus;Nord N30 SE;Cristal de pantalla;Compatible;3,50;;;6
+OL-NN30SE-FPR-COM;OnePlus;Nord N30 SE;Flex principal;Compatible;2,90;;;6
+OL-NN30SE-VIB-COM;OnePlus;Nord N30 SE;Vibrador;Compatible;3,40;;;6
+OL-NN30SE-ANT-COM;OnePlus;Nord N30 SE;Antena / coaxial;Compatible;3,05;;;6
+OL-NN30SE-HUE-COM;OnePlus;Nord N30 SE;Botón home / huella;Compatible;5,09;;;6
+OL-NCE3-MAR-COM;OnePlus;Nord CE 3;Marco / chasis;Compatible;7,20;;;6
+OL-NCE3-BOT-COM;OnePlus;Nord CE 3;Botones laterales;Compatible;3,70;;;6
+OL-NCE3-CRI-COM;OnePlus;Nord CE 3;Cristal de pantalla;Compatible;3,69;;;6
+OL-NCE3-FPR-COM;OnePlus;Nord CE 3;Flex principal;Compatible;3,05;;;6
+OL-NCE3-VIB-COM;OnePlus;Nord CE 3;Vibrador;Compatible;3,55;;;6
+OL-NCE3-ANT-COM;OnePlus;Nord CE 3;Antena / coaxial;Compatible;3,20;;;6
+OL-NCE3-HUE-COM;OnePlus;Nord CE 3;Botón home / huella;Compatible;5,30;;;6
+OL-NN30-MAR-COM;OnePlus;Nord N30;Marco / chasis;Compatible;6,25;;;6
+OL-NN30-BOT-COM;OnePlus;Nord N30;Botones laterales;Compatible;3,20;;;6
+OL-NN30-CRI-COM;OnePlus;Nord N30;Cristal de pantalla;Compatible;3,20;;;6
+OL-NN30-FPR-COM;OnePlus;Nord N30;Flex principal;Compatible;2,65;;;6
+OL-NN30-VIB-COM;OnePlus;Nord N30;Vibrador;Compatible;3,10;;;6
+OL-NN30-ANT-COM;OnePlus;Nord N30;Antena / coaxial;Compatible;2,79;;;6
+OL-NN30-HUE-COM;OnePlus;Nord N30;Botón home / huella;Compatible;4,60;;;6
+OL-ACEP-MAR-COM;OnePlus;Ace Pro;Marco / chasis;Compatible;9,79;;;6
+OL-ACEP-BOT-COM;OnePlus;Ace Pro;Botones laterales;Compatible;5,00;;;6
+OL-ACEP-CRI-COM;OnePlus;Ace Pro;Cristal de pantalla;Compatible;5,00;;;6
+OL-ACEP-FPR-COM;OnePlus;Ace Pro;Flex principal;Compatible;4,15;;;6
+OL-ACEP-VIB-COM;OnePlus;Ace Pro;Vibrador;Compatible;4,85;;;6
+OL-ACEP-ANT-COM;OnePlus;Ace Pro;Antena / coaxial;Compatible;4,35;;;6
+OL-ACEP-HUE-COM;OnePlus;Ace Pro;Botón home / huella;Compatible;7,25;;;6
+OL-ACEP-NFC-COM;OnePlus;Ace Pro;NFC y carga inalámbrica;Compatible;9,70;;;6
+OL-ACER-MAR-COM;OnePlus;Ace Racing;Marco / chasis;Compatible;9,79;;;6
+OL-ACER-BOT-COM;OnePlus;Ace Racing;Botones laterales;Compatible;5,00;;;6
+OL-ACER-CRI-COM;OnePlus;Ace Racing;Cristal de pantalla;Compatible;5,00;;;6
+OL-ACER-FPR-COM;OnePlus;Ace Racing;Flex principal;Compatible;4,15;;;6
+OL-ACER-VIB-COM;OnePlus;Ace Racing;Vibrador;Compatible;4,85;;;6
+OL-ACER-ANT-COM;OnePlus;Ace Racing;Antena / coaxial;Compatible;4,35;;;6
+OL-ACER-HUE-COM;OnePlus;Ace Racing;Botón home / huella;Compatible;7,25;;;6
+OL-ACER-NFC-COM;OnePlus;Ace Racing;NFC y carga inalámbrica;Compatible;9,70;;;6
+OL-ACE-MAR-COM;OnePlus;Ace;Marco / chasis;Compatible;9,79;;;6
+OL-ACE-BOT-COM;OnePlus;Ace;Botones laterales;Compatible;5,00;;;6
+OL-ACE-CRI-COM;OnePlus;Ace;Cristal de pantalla;Compatible;5,00;;;6
+OL-ACE-FPR-COM;OnePlus;Ace;Flex principal;Compatible;4,15;;;6
+OL-ACE-VIB-COM;OnePlus;Ace;Vibrador;Compatible;4,85;;;6
+OL-ACE-ANT-COM;OnePlus;Ace;Antena / coaxial;Compatible;4,35;;;6
+OL-ACE-HUE-COM;OnePlus;Ace;Botón home / huella;Compatible;7,25;;;6
+OL-ACE-NFC-COM;OnePlus;Ace;NFC y carga inalámbrica;Compatible;9,70;;;6
+OL-NN2005-MAR-COM;OnePlus;Nord N200 5G;Marco / chasis;Compatible;6,25;;;6
+OL-NN2005-BOT-COM;OnePlus;Nord N200 5G;Botones laterales;Compatible;3,20;;;6
+OL-NN2005-CRI-COM;OnePlus;Nord N200 5G;Cristal de pantalla;Compatible;3,20;;;6
+OL-NN2005-FPR-COM;OnePlus;Nord N200 5G;Flex principal;Compatible;2,65;;;6
+OL-NN2005-VIB-COM;OnePlus;Nord N200 5G;Vibrador;Compatible;3,10;;;6
+OL-NN2005-ANT-COM;OnePlus;Nord N200 5G;Antena / coaxial;Compatible;2,79;;;6
+OL-NN2005-HUE-COM;OnePlus;Nord N200 5G;Botón home / huella;Compatible;4,60;;;6
+OL-ONE-MAR-COM;OnePlus;One;Marco / chasis;Compatible;7,85;;;6
+OL-ONE-BOT-COM;OnePlus;One;Botones laterales;Compatible;4,00;;;6
+OL-ONE-ANT-COM;OnePlus;One;Antena / coaxial;Compatible;3,49;;;6
+OL-13S-MAR-COM;OnePlus;13s;Marco / chasis;Compatible;10,75;10,43;10,10;6
+OL-13S-BOT-COM;OnePlus;13s;Botones laterales;Compatible;5,55;;;6
+OL-13S-CRI-COM;OnePlus;13s;Cristal de pantalla;Compatible;5,50;;;6
+OL-13S-FPR-COM;OnePlus;13s;Flex principal;Compatible;4,55;;;6
+OL-13S-VIB-COM;OnePlus;13s;Vibrador;Compatible;5,35;;;6
+OL-13S-ANT-COM;OnePlus;13s;Antena / coaxial;Compatible;4,79;;;6
+OL-13S-HUE-COM;OnePlus;13s;Botón home / huella;Compatible;7,95;;;6
+OL-13S-NFC-COM;OnePlus;13s;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+OL-13T-MAR-COM;OnePlus;13T;Marco / chasis;Compatible;10,75;10,43;10,10;6
+OL-13T-BOT-COM;OnePlus;13T;Botones laterales;Compatible;5,55;;;6
+OL-13T-CRI-COM;OnePlus;13T;Cristal de pantalla;Compatible;5,50;;;6
+OL-13T-FPR-COM;OnePlus;13T;Flex principal;Compatible;4,55;;;6
+OL-13T-VIB-COM;OnePlus;13T;Vibrador;Compatible;5,35;;;6
+OL-13T-ANT-COM;OnePlus;13T;Antena / coaxial;Compatible;4,79;;;6
+OL-13T-HUE-COM;OnePlus;13T;Botón home / huella;Compatible;7,95;;;6
+OL-13T-NFC-COM;OnePlus;13T;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+OL-15T-MAR-COM;OnePlus;15T;Marco / chasis;Compatible;10,75;10,43;10,10;6
+OL-15T-BOT-COM;OnePlus;15T;Botones laterales;Compatible;5,55;;;6
+OL-15T-CRI-COM;OnePlus;15T;Cristal de pantalla;Compatible;5,50;;;6
+OL-15T-FPR-COM;OnePlus;15T;Flex principal;Compatible;4,55;;;6
+OL-15T-VIB-COM;OnePlus;15T;Vibrador;Compatible;5,35;;;6
+OL-15T-ANT-COM;OnePlus;15T;Antena / coaxial;Compatible;4,79;;;6
+OL-15T-HUE-COM;OnePlus;15T;Botón home / huella;Compatible;7,95;;;6
+OL-15T-NFC-COM;OnePlus;15T;NFC y carga inalámbrica;Compatible;10,69;10,37;10,05;6
+OL-2-MAR-COM;OnePlus;2;Marco / chasis;Compatible;7,85;;;6
+OL-2-BOT-COM;OnePlus;2;Botones laterales;Compatible;4,00;;;6
+OL-2-CRI-COM;OnePlus;2;Cristal de pantalla;Compatible;4,00;;;6
+OL-2-VIB-COM;OnePlus;2;Vibrador;Compatible;3,89;;;6
+OL-2-ANT-COM;OnePlus;2;Antena / coaxial;Compatible;3,49;;;6
+OL-X-MAR-COM;OnePlus;X;Marco / chasis;Compatible;7,85;;;6
+OL-X-BOT-COM;OnePlus;X;Botones laterales;Compatible;4,00;;;6
+OL-X-CRI-COM;OnePlus;X;Cristal de pantalla;Compatible;4,00;;;6
+OL-X-VIB-COM;OnePlus;X;Vibrador;Compatible;3,89;;;6
+OL-X-ANT-COM;OnePlus;X;Antena / coaxial;Compatible;3,49;;;6
+OL-3-MAR-COM;OnePlus;3;Marco / chasis;Compatible;7,85;;;6
+OL-3-BOT-COM;OnePlus;3;Botones laterales;Compatible;4,00;;;6
+OL-3-CRI-COM;OnePlus;3;Cristal de pantalla;Compatible;4,00;;;6
+OL-3-FPR-COM;OnePlus;3;Flex principal;Compatible;3,30;;;6
+OL-3-VIB-COM;OnePlus;3;Vibrador;Compatible;3,89;;;6
+OL-3-ANT-COM;OnePlus;3;Antena / coaxial;Compatible;3,49;;;6
+OL-3-HUE-COM;OnePlus;3;Botón home / huella;Compatible;5,79;;;6
+OL-3T-MAR-COM;OnePlus;3T;Marco / chasis;Compatible;7,85;;;6
+OL-3T-BOT-COM;OnePlus;3T;Botones laterales;Compatible;4,00;;;6
+OL-3T-CRI-COM;OnePlus;3T;Cristal de pantalla;Compatible;4,00;;;6
+OL-3T-FPR-COM;OnePlus;3T;Flex principal;Compatible;3,30;;;6
+OL-3T-VIB-COM;OnePlus;3T;Vibrador;Compatible;3,89;;;6
+OL-3T-ANT-COM;OnePlus;3T;Antena / coaxial;Compatible;3,49;;;6
+OL-3T-HUE-COM;OnePlus;3T;Botón home / huella;Compatible;5,79;;;6
+OL-5-MAR-COM;OnePlus;5;Marco / chasis;Compatible;8,80;;;6
+OL-5-BOT-COM;OnePlus;5;Botones laterales;Compatible;4,50;;;6
+OL-5-CRI-COM;OnePlus;5;Cristal de pantalla;Compatible;4,50;;;6
+OL-5-FPR-COM;OnePlus;5;Flex principal;Compatible;3,70;;;6
+OL-5-VIB-COM;OnePlus;5;Vibrador;Compatible;4,35;;;6
+OL-5-ANT-COM;OnePlus;5;Antena / coaxial;Compatible;3,90;;;6
+OL-5-HUE-COM;OnePlus;5;Botón home / huella;Compatible;6,50;;;6
+OL-5T-MAR-COM;OnePlus;5T;Marco / chasis;Compatible;8,80;;;6
+OL-5T-BOT-COM;OnePlus;5T;Botones laterales;Compatible;4,50;;;6
+OL-5T-CRI-COM;OnePlus;5T;Cristal de pantalla;Compatible;4,50;;;6
+OL-5T-FPR-COM;OnePlus;5T;Flex principal;Compatible;3,70;;;6
+OL-5T-VIB-COM;OnePlus;5T;Vibrador;Compatible;4,35;;;6
+OL-5T-ANT-COM;OnePlus;5T;Antena / coaxial;Compatible;3,90;;;6
+OL-5T-HUE-COM;OnePlus;5T;Botón home / huella;Compatible;6,50;;;6
+OL-6-MAR-COM;OnePlus;6;Marco / chasis;Compatible;8,80;;;6
+OL-6-BOT-COM;OnePlus;6;Botones laterales;Compatible;4,50;;;6
+OL-6-CRI-COM;OnePlus;6;Cristal de pantalla;Compatible;4,50;;;6
+OL-6-FPR-COM;OnePlus;6;Flex principal;Compatible;3,70;;;6
+OL-6-VIB-COM;OnePlus;6;Vibrador;Compatible;4,35;;;6
+OL-6-ANT-COM;OnePlus;6;Antena / coaxial;Compatible;3,90;;;6
+OL-6-HUE-COM;OnePlus;6;Botón home / huella;Compatible;6,50;;;6
+OL-6T-MAR-COM;OnePlus;6T;Marco / chasis;Compatible;8,80;;;6
+OL-6T-BOT-COM;OnePlus;6T;Botones laterales;Compatible;4,50;;;6
+OL-6T-CRI-COM;OnePlus;6T;Cristal de pantalla;Compatible;4,50;;;6
+OL-6T-FPR-COM;OnePlus;6T;Flex principal;Compatible;3,70;;;6
+OL-6T-VIB-COM;OnePlus;6T;Vibrador;Compatible;4,35;;;6
+OL-6T-ANT-COM;OnePlus;6T;Antena / coaxial;Compatible;3,90;;;6
+OL-6T-HUE-COM;OnePlus;6T;Botón home / huella;Compatible;6,50;;;6

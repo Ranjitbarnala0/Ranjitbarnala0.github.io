@@ -1,0 +1,45 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+JI-J2-PAN-COM;Jio;JioPhone 2;Pantalla;Compatible;15,15;14,70;14,24;6
+JI-J2-BAT-COM;Jio;JioPhone 2;Batería;Compatible;9,65;;;6
+JI-J2-CON-COM;Jio;JioPhone 2;Conector de carga;Compatible;4,60;;;6
+JI-J2-TAP-COM;Jio;JioPhone 2;Tapa trasera;Compatible;5,40;;;6
+JI-J2-CTR-COM;Jio;JioPhone 2;Cámara trasera;Compatible;7,59;;;6
+JI-J2-CFR-COM;Jio;JioPhone 2;Cámara frontal;Compatible;4,99;;;6
+JI-J2-LEN-COM;Jio;JioPhone 2;Lente de cámara;Compatible;2,19;;;6
+JI-J2-ALT-COM;Jio;JioPhone 2;Altavoz;Compatible;3,65;;;6
+JI-J2-AUR-COM;Jio;JioPhone 2;Auricular de llamada;Compatible;2,65;;;6
+JI-J2-FLX-COM;Jio;JioPhone 2;Flex de encendido y volumen;Compatible;2,49;;;6
+JI-J2-SIM-COM;Jio;JioPhone 2;Bandeja SIM;Compatible;2,55;;;6
+JI-J-PAN-COM;Jio;JioPhone;Pantalla;Compatible;15,15;14,70;14,24;6
+JI-J-BAT-COM;Jio;JioPhone;Batería;Compatible;9,65;;;6
+JI-J-CON-COM;Jio;JioPhone;Conector de carga;Compatible;4,60;;;6
+JI-J-TAP-COM;Jio;JioPhone;Tapa trasera;Compatible;5,40;;;6
+JI-J-CTR-COM;Jio;JioPhone;Cámara trasera;Compatible;7,59;;;6
+JI-J-CFR-COM;Jio;JioPhone;Cámara frontal;Compatible;4,99;;;6
+JI-J-LEN-COM;Jio;JioPhone;Lente de cámara;Compatible;2,19;;;6
+JI-J-ALT-COM;Jio;JioPhone;Altavoz;Compatible;3,65;;;6
+JI-J-AUR-COM;Jio;JioPhone;Auricular de llamada;Compatible;2,65;;;6
+JI-J-FLX-COM;Jio;JioPhone;Flex de encendido y volumen;Compatible;2,49;;;6
+JI-J-SIM-COM;Jio;JioPhone;Bandeja SIM;Compatible;2,55;;;6
+JI-J2-PRO-NA;Jio;JioPhone 2;Cristal templado;Estándar;1,30;;;
+JI-J2-PRO-PRI;Jio;JioPhone 2;Cristal templado;Privacidad;4,00;;;
+JI-J2-FUN-SIL;Jio;JioPhone 2;Funda;Silicona;2,50;;;
+JI-J2-FUN-TPU;Jio;JioPhone 2;Funda;Transparente;2,95;;;
+JI-J2-FUN-LIB;Jio;JioPhone 2;Funda;Libro;3,70;;;
+JI-J2-FUN-ANT;Jio;JioPhone 2;Funda;Antigolpes;3,10;;;
+JI-J-PRO-NA;Jio;JioPhone;Cristal templado;Estándar;1,30;;;
+JI-J-PRO-PRI;Jio;JioPhone;Cristal templado;Privacidad;4,00;;;
+JI-J-FUN-SIL;Jio;JioPhone;Funda;Silicona;2,50;;;
+JI-J-FUN-TPU;Jio;JioPhone;Funda;Transparente;2,95;;;
+JI-J-FUN-LIB;Jio;JioPhone;Funda;Libro;3,70;;;
+JI-J-FUN-ANT;Jio;JioPhone;Funda;Antigolpes;3,10;;;
+JI-J2-MAR-COM;Jio;JioPhone 2;Marco / chasis;Compatible;6,49;;;6
+JI-J2-BOT-COM;Jio;JioPhone 2;Botones laterales;Compatible;3,35;;;6
+JI-J2-CRI-COM;Jio;JioPhone 2;Cristal de pantalla;Compatible;3,30;;;6
+JI-J2-ANT-COM;Jio;JioPhone 2;Antena / coaxial;Compatible;2,89;;;6
+JI-J2-HUE-COM;Jio;JioPhone 2;Botón home / huella;Compatible;4,79;;;6
+JI-J-MAR-COM;Jio;JioPhone;Marco / chasis;Compatible;6,49;;;6
+JI-J-BOT-COM;Jio;JioPhone;Botones laterales;Compatible;3,35;;;6
+JI-J-CRI-COM;Jio;JioPhone;Cristal de pantalla;Compatible;3,30;;;6
+JI-J-ANT-COM;Jio;JioPhone;Antena / coaxial;Compatible;2,89;;;6
+JI-J-HUE-COM;Jio;JioPhone;Botón home / huella;Compatible;4,79;;;6

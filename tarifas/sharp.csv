@@ -1,0 +1,200 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+SH-AKSHF32-PAN-COM;Sharp;Aquos K SHF32;Pantalla;Compatible;55,10;53,45;51,79;6
+SH-AKSHF32-PAN-COM-EXT;Sharp;Aquos K SHF32;Pantalla exterior;Compatible;10,89;10,56;10,24;6
+SH-AKSHF32-BAT-COM;Sharp;Aquos K SHF32;Batería;Compatible;9,89;;;6
+SH-AKSHF32-CON-COM;Sharp;Aquos K SHF32;Conector de carga;Compatible;4,25;;;6
+SH-AKSHF32-TAP-COM;Sharp;Aquos K SHF32;Tapa trasera;Compatible;5,00;;;6
+SH-AKSHF32-CTR-COM;Sharp;Aquos K SHF32;Cámara trasera;Compatible;6,85;;;6
+SH-AKSHF32-CFR-COM;Sharp;Aquos K SHF32;Cámara frontal;Compatible;4,69;;;6
+SH-AKSHF32-LEN-COM;Sharp;Aquos K SHF32;Lente de cámara;Compatible;2,05;;;6
+SH-AKSHF32-ALT-COM;Sharp;Aquos K SHF32;Altavoz;Compatible;3,35;;;6
+SH-AKSHF32-AUR-COM;Sharp;Aquos K SHF32;Auricular de llamada;Compatible;2,45;;;6
+SH-AKSHF32-FLX-COM;Sharp;Aquos K SHF32;Flex de encendido y volumen;Compatible;2,25;;;6
+SH-AKSHF32-SIM-COM;Sharp;Aquos K SHF32;Bandeja SIM;Compatible;2,45;;;6
+SH-ASSHL25-PAN-COM;Sharp;Aquos Serie SHL25;Pantalla;Compatible;15,15;14,70;14,24;6
+SH-ASSHL25-BAT-COM;Sharp;Aquos Serie SHL25;Batería;Compatible;9,65;;;6
+SH-ASSHL25-CON-COM;Sharp;Aquos Serie SHL25;Conector de carga;Compatible;4,60;;;6
+SH-ASSHL25-TAP-COM;Sharp;Aquos Serie SHL25;Tapa trasera;Compatible;5,40;;;6
+SH-ASSHL25-CTR-COM;Sharp;Aquos Serie SHL25;Cámara trasera;Compatible;7,59;;;6
+SH-ASSHL25-CFR-COM;Sharp;Aquos Serie SHL25;Cámara frontal;Compatible;4,99;;;6
+SH-ASSHL25-LEN-COM;Sharp;Aquos Serie SHL25;Lente de cámara;Compatible;2,19;;;6
+SH-ASSHL25-ALT-COM;Sharp;Aquos Serie SHL25;Altavoz;Compatible;3,65;;;6
+SH-ASSHL25-AUR-COM;Sharp;Aquos Serie SHL25;Auricular de llamada;Compatible;2,65;;;6
+SH-ASSHL25-FLX-COM;Sharp;Aquos Serie SHL25;Flex de encendido y volumen;Compatible;2,49;;;6
+SH-ASSHL25-SIM-COM;Sharp;Aquos Serie SHL25;Bandeja SIM;Compatible;2,55;;;6
+SH-SH07F-PAN-COM;Sharp;SH-07F;Pantalla;Compatible;55,10;53,45;51,79;6
+SH-SH07F-BAT-COM;Sharp;SH-07F;Batería;Compatible;9,89;;;6
+SH-SH07F-CON-COM;Sharp;SH-07F;Conector de carga;Compatible;4,25;;;6
+SH-SH07F-TAP-COM;Sharp;SH-07F;Tapa trasera;Compatible;5,00;;;6
+SH-SH07F-CTR-COM;Sharp;SH-07F;Cámara trasera;Compatible;6,85;;;6
+SH-SH07F-CFR-COM;Sharp;SH-07F;Cámara frontal;Compatible;4,69;;;6
+SH-SH07F-LEN-COM;Sharp;SH-07F;Lente de cámara;Compatible;2,05;;;6
+SH-SH07F-ALT-COM;Sharp;SH-07F;Altavoz;Compatible;3,35;;;6
+SH-SH07F-AUR-COM;Sharp;SH-07F;Auricular de llamada;Compatible;2,45;;;6
+SH-SH07F-FLX-COM;Sharp;SH-07F;Flex de encendido y volumen;Compatible;2,25;;;6
+SH-SH07F-SIM-COM;Sharp;SH-07F;Bandeja SIM;Compatible;2,45;;;6
+SH-APXXMN-PAN-COM;Sharp;Aquos Phone Xx mini;Pantalla;Compatible;15,15;14,70;14,24;6
+SH-APXXMN-BAT-COM;Sharp;Aquos Phone Xx mini;Batería;Compatible;9,65;;;6
+SH-APXXMN-CON-COM;Sharp;Aquos Phone Xx mini;Conector de carga;Compatible;4,60;;;6
+SH-APXXMN-TAP-COM;Sharp;Aquos Phone Xx mini;Tapa trasera;Compatible;5,40;;;6
+SH-APXXMN-CTR-COM;Sharp;Aquos Phone Xx mini;Cámara trasera;Compatible;7,59;;;6
+SH-APXXMN-CFR-COM;Sharp;Aquos Phone Xx mini;Cámara frontal;Compatible;4,99;;;6
+SH-APXXMN-LEN-COM;Sharp;Aquos Phone Xx mini;Lente de cámara;Compatible;2,19;;;6
+SH-APXXMN-ALT-COM;Sharp;Aquos Phone Xx mini;Altavoz;Compatible;3,65;;;6
+SH-APXXMN-AUR-COM;Sharp;Aquos Phone Xx mini;Auricular de llamada;Compatible;2,65;;;6
+SH-APXXMN-FLX-COM;Sharp;Aquos Phone Xx mini;Flex de encendido y volumen;Compatible;2,49;;;6
+SH-APXXMN-SIM-COM;Sharp;Aquos Phone Xx mini;Bandeja SIM;Compatible;2,55;;;6
+SH-APXX203S-PAN-COM;Sharp;Aquos Phone Xx 203SH;Pantalla;Compatible;15,15;14,70;14,24;6
+SH-APXX203S-BAT-COM;Sharp;Aquos Phone Xx 203SH;Batería;Compatible;9,65;;;6
+SH-APXX203S-CON-COM;Sharp;Aquos Phone Xx 203SH;Conector de carga;Compatible;4,60;;;6
+SH-APXX203S-TAP-COM;Sharp;Aquos Phone Xx 203SH;Tapa trasera;Compatible;5,40;;;6
+SH-APXX203S-CTR-COM;Sharp;Aquos Phone Xx 203SH;Cámara trasera;Compatible;7,59;;;6
+SH-APXX203S-CFR-COM;Sharp;Aquos Phone Xx 203SH;Cámara frontal;Compatible;4,99;;;6
+SH-APXX203S-LEN-COM;Sharp;Aquos Phone Xx 203SH;Lente de cámara;Compatible;2,19;;;6
+SH-APXX203S-ALT-COM;Sharp;Aquos Phone Xx 203SH;Altavoz;Compatible;3,65;;;6
+SH-APXX203S-AUR-COM;Sharp;Aquos Phone Xx 203SH;Auricular de llamada;Compatible;2,65;;;6
+SH-APXX203S-FLX-COM;Sharp;Aquos Phone Xx 203SH;Flex de encendido y volumen;Compatible;2,49;;;6
+SH-APXX203S-SIM-COM;Sharp;Aquos Phone Xx 203SH;Bandeja SIM;Compatible;2,55;;;6
+SH-APCLIS17-PAN-COM;Sharp;Aquos Phone CL IS17SH;Pantalla;Compatible;15,15;14,70;14,24;6
+SH-APCLIS17-BAT-COM;Sharp;Aquos Phone CL IS17SH;Batería;Compatible;9,65;;;6
+SH-APCLIS17-CON-COM;Sharp;Aquos Phone CL IS17SH;Conector de carga;Compatible;4,60;;;6
+SH-APCLIS17-TAP-COM;Sharp;Aquos Phone CL IS17SH;Tapa trasera;Compatible;5,40;;;6
+SH-APCLIS17-CTR-COM;Sharp;Aquos Phone CL IS17SH;Cámara trasera;Compatible;7,59;;;6
+SH-APCLIS17-CFR-COM;Sharp;Aquos Phone CL IS17SH;Cámara frontal;Compatible;4,99;;;6
+SH-APCLIS17-LEN-COM;Sharp;Aquos Phone CL IS17SH;Lente de cámara;Compatible;2,19;;;6
+SH-APCLIS17-ALT-COM;Sharp;Aquos Phone CL IS17SH;Altavoz;Compatible;3,65;;;6
+SH-APCLIS17-AUR-COM;Sharp;Aquos Phone CL IS17SH;Auricular de llamada;Compatible;2,65;;;6
+SH-APCLIS17-FLX-COM;Sharp;Aquos Phone CL IS17SH;Flex de encendido y volumen;Compatible;2,49;;;6
+SH-APCLIS17-SIM-COM;Sharp;Aquos Phone CL IS17SH;Bandeja SIM;Compatible;2,55;;;6
+SH-APSLIS15-PAN-COM;Sharp;Aquos Phone SL IS15SH;Pantalla;Compatible;15,15;14,70;14,24;6
+SH-APSLIS15-BAT-COM;Sharp;Aquos Phone SL IS15SH;Batería;Compatible;9,65;;;6
+SH-APSLIS15-CON-COM;Sharp;Aquos Phone SL IS15SH;Conector de carga;Compatible;4,60;;;6
+SH-APSLIS15-TAP-COM;Sharp;Aquos Phone SL IS15SH;Tapa trasera;Compatible;5,40;;;6
+SH-APSLIS15-CTR-COM;Sharp;Aquos Phone SL IS15SH;Cámara trasera;Compatible;7,59;;;6
+SH-APSLIS15-CFR-COM;Sharp;Aquos Phone SL IS15SH;Cámara frontal;Compatible;4,99;;;6
+SH-APSLIS15-LEN-COM;Sharp;Aquos Phone SL IS15SH;Lente de cámara;Compatible;2,19;;;6
+SH-APSLIS15-ALT-COM;Sharp;Aquos Phone SL IS15SH;Altavoz;Compatible;3,65;;;6
+SH-APSLIS15-AUR-COM;Sharp;Aquos Phone SL IS15SH;Auricular de llamada;Compatible;2,65;;;6
+SH-APSLIS15-FLX-COM;Sharp;Aquos Phone SL IS15SH;Flex de encendido y volumen;Compatible;2,49;;;6
+SH-APSLIS15-SIM-COM;Sharp;Aquos Phone SL IS15SH;Bandeja SIM;Compatible;2,55;;;6
+SH-APXX106S-PAN-COM;Sharp;Aquos Phone Xx 106SH;Pantalla;Compatible;15,15;14,70;14,24;6
+SH-APXX106S-BAT-COM;Sharp;Aquos Phone Xx 106SH;Batería;Compatible;9,65;;;6
+SH-APXX106S-CON-COM;Sharp;Aquos Phone Xx 106SH;Conector de carga;Compatible;4,60;;;6
+SH-APXX106S-TAP-COM;Sharp;Aquos Phone Xx 106SH;Tapa trasera;Compatible;5,40;;;6
+SH-APXX106S-CTR-COM;Sharp;Aquos Phone Xx 106SH;Cámara trasera;Compatible;7,59;;;6
+SH-APXX106S-CFR-COM;Sharp;Aquos Phone Xx 106SH;Cámara frontal;Compatible;4,99;;;6
+SH-APXX106S-LEN-COM;Sharp;Aquos Phone Xx 106SH;Lente de cámara;Compatible;2,19;;;6
+SH-APXX106S-ALT-COM;Sharp;Aquos Phone Xx 106SH;Altavoz;Compatible;3,65;;;6
+SH-APXX106S-AUR-COM;Sharp;Aquos Phone Xx 106SH;Auricular de llamada;Compatible;2,65;;;6
+SH-APXX106S-FLX-COM;Sharp;Aquos Phone Xx 106SH;Flex de encendido y volumen;Compatible;2,49;;;6
+SH-APXX106S-SIM-COM;Sharp;Aquos Phone Xx 106SH;Bandeja SIM;Compatible;2,55;;;6
+SH-APSISW16-PAN-COM;Sharp;Aquos Phone Serie ISW16SH;Pantalla;Compatible;15,15;14,70;14,24;6
+SH-APSISW16-BAT-COM;Sharp;Aquos Phone Serie ISW16SH;Batería;Compatible;9,65;;;6
+SH-APSISW16-CON-COM;Sharp;Aquos Phone Serie ISW16SH;Conector de carga;Compatible;4,60;;;6
+SH-APSISW16-TAP-COM;Sharp;Aquos Phone Serie ISW16SH;Tapa trasera;Compatible;5,40;;;6
+SH-APSISW16-CTR-COM;Sharp;Aquos Phone Serie ISW16SH;Cámara trasera;Compatible;7,59;;;6
+SH-APSISW16-CFR-COM;Sharp;Aquos Phone Serie ISW16SH;Cámara frontal;Compatible;4,99;;;6
+SH-APSISW16-LEN-COM;Sharp;Aquos Phone Serie ISW16SH;Lente de cámara;Compatible;2,19;;;6
+SH-APSISW16-ALT-COM;Sharp;Aquos Phone Serie ISW16SH;Altavoz;Compatible;3,65;;;6
+SH-APSISW16-AUR-COM;Sharp;Aquos Phone Serie ISW16SH;Auricular de llamada;Compatible;2,65;;;6
+SH-APSISW16-FLX-COM;Sharp;Aquos Phone Serie ISW16SH;Flex de encendido y volumen;Compatible;2,49;;;6
+SH-APSISW16-SIM-COM;Sharp;Aquos Phone Serie ISW16SH;Bandeja SIM;Compatible;2,55;;;6
+SH-APSH06D-PAN-COM;Sharp;Aquos Phone SH-06D;Pantalla;Compatible;15,15;14,70;14,24;6
+SH-APSH06D-BAT-COM;Sharp;Aquos Phone SH-06D;Batería;Compatible;9,65;;;6
+SH-APSH06D-CON-COM;Sharp;Aquos Phone SH-06D;Conector de carga;Compatible;4,60;;;6
+SH-APSH06D-TAP-COM;Sharp;Aquos Phone SH-06D;Tapa trasera;Compatible;5,40;;;6
+SH-APSH06D-CTR-COM;Sharp;Aquos Phone SH-06D;Cámara trasera;Compatible;7,59;;;6
+SH-APSH06D-CFR-COM;Sharp;Aquos Phone SH-06D;Cámara frontal;Compatible;4,99;;;6
+SH-APSH06D-LEN-COM;Sharp;Aquos Phone SH-06D;Lente de cámara;Compatible;2,19;;;6
+SH-APSH06D-ALT-COM;Sharp;Aquos Phone SH-06D;Altavoz;Compatible;3,65;;;6
+SH-APSH06D-AUR-COM;Sharp;Aquos Phone SH-06D;Auricular de llamada;Compatible;2,65;;;6
+SH-APSH06D-FLX-COM;Sharp;Aquos Phone SH-06D;Flex de encendido y volumen;Compatible;2,49;;;6
+SH-APSH06D-SIM-COM;Sharp;Aquos Phone SH-06D;Bandeja SIM;Compatible;2,55;;;6
+SH-IC01-PAN-COM;Sharp;Infobar C01;Pantalla;Compatible;15,15;14,70;14,24;6
+SH-IC01-BAT-COM;Sharp;Infobar C01;Batería;Compatible;9,65;;;6
+SH-IC01-CON-COM;Sharp;Infobar C01;Conector de carga;Compatible;4,60;;;6
+SH-IC01-TAP-COM;Sharp;Infobar C01;Tapa trasera;Compatible;5,40;;;6
+SH-IC01-CTR-COM;Sharp;Infobar C01;Cámara trasera;Compatible;7,59;;;6
+SH-IC01-CFR-COM;Sharp;Infobar C01;Cámara frontal;Compatible;4,99;;;6
+SH-IC01-LEN-COM;Sharp;Infobar C01;Lente de cámara;Compatible;2,19;;;6
+SH-IC01-ALT-COM;Sharp;Infobar C01;Altavoz;Compatible;3,65;;;6
+SH-IC01-AUR-COM;Sharp;Infobar C01;Auricular de llamada;Compatible;2,65;;;6
+SH-IC01-FLX-COM;Sharp;Infobar C01;Flex de encendido y volumen;Compatible;2,49;;;6
+SH-IC01-SIM-COM;Sharp;Infobar C01;Bandeja SIM;Compatible;2,55;;;6
+SH-AKSHF32-PRO-NA;Sharp;Aquos K SHF32;Cristal templado;Estándar;1,30;;;
+SH-AKSHF32-FUN-SIL;Sharp;Aquos K SHF32;Funda;Silicona;2,50;;;
+SH-AKSHF32-FUN-TPU;Sharp;Aquos K SHF32;Funda;Transparente;2,95;;;
+SH-ASSHL25-PRO-NA;Sharp;Aquos Serie SHL25;Cristal templado;Estándar;1,30;;;
+SH-ASSHL25-PRO-PRI;Sharp;Aquos Serie SHL25;Cristal templado;Privacidad;4,00;;;
+SH-ASSHL25-FUN-SIL;Sharp;Aquos Serie SHL25;Funda;Silicona;2,50;;;
+SH-ASSHL25-FUN-TPU;Sharp;Aquos Serie SHL25;Funda;Transparente;2,95;;;
+SH-ASSHL25-FUN-LIB;Sharp;Aquos Serie SHL25;Funda;Libro;3,70;;;
+SH-ASSHL25-FUN-ANT;Sharp;Aquos Serie SHL25;Funda;Antigolpes;3,10;;;
+SH-SH07F-PRO-NA;Sharp;SH-07F;Cristal templado;Estándar;1,30;;;
+SH-SH07F-FUN-SIL;Sharp;SH-07F;Funda;Silicona;2,50;;;
+SH-SH07F-FUN-TPU;Sharp;SH-07F;Funda;Transparente;2,95;;;
+SH-APXXMN-PRO-NA;Sharp;Aquos Phone Xx mini;Cristal templado;Estándar;1,30;;;
+SH-APXXMN-PRO-PRI;Sharp;Aquos Phone Xx mini;Cristal templado;Privacidad;4,00;;;
+SH-APXXMN-FUN-SIL;Sharp;Aquos Phone Xx mini;Funda;Silicona;2,50;;;
+SH-APXXMN-FUN-TPU;Sharp;Aquos Phone Xx mini;Funda;Transparente;2,95;;;
+SH-APXXMN-FUN-LIB;Sharp;Aquos Phone Xx mini;Funda;Libro;3,70;;;
+SH-APXXMN-FUN-ANT;Sharp;Aquos Phone Xx mini;Funda;Antigolpes;3,10;;;
+SH-APXX203S-PRO-NA;Sharp;Aquos Phone Xx 203SH;Cristal templado;Estándar;1,30;;;
+SH-APXX203S-PRO-PRI;Sharp;Aquos Phone Xx 203SH;Cristal templado;Privacidad;4,00;;;
+SH-APXX203S-FUN-SIL;Sharp;Aquos Phone Xx 203SH;Funda;Silicona;2,50;;;
+SH-APXX203S-FUN-TPU;Sharp;Aquos Phone Xx 203SH;Funda;Transparente;2,95;;;
+SH-APXX203S-FUN-LIB;Sharp;Aquos Phone Xx 203SH;Funda;Libro;3,70;;;
+SH-APXX203S-FUN-ANT;Sharp;Aquos Phone Xx 203SH;Funda;Antigolpes;3,10;;;
+SH-APCLIS17-PRO-NA;Sharp;Aquos Phone CL IS17SH;Cristal templado;Estándar;1,30;;;
+SH-APCLIS17-PRO-PRI;Sharp;Aquos Phone CL IS17SH;Cristal templado;Privacidad;4,00;;;
+SH-APCLIS17-FUN-SIL;Sharp;Aquos Phone CL IS17SH;Funda;Silicona;2,50;;;
+SH-APCLIS17-FUN-TPU;Sharp;Aquos Phone CL IS17SH;Funda;Transparente;2,95;;;
+SH-APCLIS17-FUN-LIB;Sharp;Aquos Phone CL IS17SH;Funda;Libro;3,70;;;
+SH-APCLIS17-FUN-ANT;Sharp;Aquos Phone CL IS17SH;Funda;Antigolpes;3,10;;;
+SH-APSLIS15-PRO-NA;Sharp;Aquos Phone SL IS15SH;Cristal templado;Estándar;1,30;;;
+SH-APSLIS15-PRO-PRI;Sharp;Aquos Phone SL IS15SH;Cristal templado;Privacidad;4,00;;;
+SH-APSLIS15-FUN-SIL;Sharp;Aquos Phone SL IS15SH;Funda;Silicona;2,50;;;
+SH-APSLIS15-FUN-TPU;Sharp;Aquos Phone SL IS15SH;Funda;Transparente;2,95;;;
+SH-APSLIS15-FUN-LIB;Sharp;Aquos Phone SL IS15SH;Funda;Libro;3,70;;;
+SH-APSLIS15-FUN-ANT;Sharp;Aquos Phone SL IS15SH;Funda;Antigolpes;3,10;;;
+SH-APXX106S-PRO-NA;Sharp;Aquos Phone Xx 106SH;Cristal templado;Estándar;1,30;;;
+SH-APXX106S-PRO-PRI;Sharp;Aquos Phone Xx 106SH;Cristal templado;Privacidad;4,00;;;
+SH-APXX106S-FUN-SIL;Sharp;Aquos Phone Xx 106SH;Funda;Silicona;2,50;;;
+SH-APXX106S-FUN-TPU;Sharp;Aquos Phone Xx 106SH;Funda;Transparente;2,95;;;
+SH-APXX106S-FUN-LIB;Sharp;Aquos Phone Xx 106SH;Funda;Libro;3,70;;;
+SH-APXX106S-FUN-ANT;Sharp;Aquos Phone Xx 106SH;Funda;Antigolpes;3,10;;;
+SH-APSISW16-PRO-NA;Sharp;Aquos Phone Serie ISW16SH;Cristal templado;Estándar;1,30;;;
+SH-APSISW16-PRO-PRI;Sharp;Aquos Phone Serie ISW16SH;Cristal templado;Privacidad;4,00;;;
+SH-APSISW16-FUN-SIL;Sharp;Aquos Phone Serie ISW16SH;Funda;Silicona;2,50;;;
+SH-APSISW16-FUN-TPU;Sharp;Aquos Phone Serie ISW16SH;Funda;Transparente;2,95;;;
+SH-APSISW16-FUN-LIB;Sharp;Aquos Phone Serie ISW16SH;Funda;Libro;3,70;;;
+SH-APSISW16-FUN-ANT;Sharp;Aquos Phone Serie ISW16SH;Funda;Antigolpes;3,10;;;
+SH-APSH06D-PRO-NA;Sharp;Aquos Phone SH-06D;Cristal templado;Estándar;1,30;;;
+SH-APSH06D-PRO-PRI;Sharp;Aquos Phone SH-06D;Cristal templado;Privacidad;4,00;;;
+SH-APSH06D-FUN-SIL;Sharp;Aquos Phone SH-06D;Funda;Silicona;2,50;;;
+SH-APSH06D-FUN-TPU;Sharp;Aquos Phone SH-06D;Funda;Transparente;2,95;;;
+SH-APSH06D-FUN-LIB;Sharp;Aquos Phone SH-06D;Funda;Libro;3,70;;;
+SH-APSH06D-FUN-ANT;Sharp;Aquos Phone SH-06D;Funda;Antigolpes;3,10;;;
+SH-IC01-PRO-NA;Sharp;Infobar C01;Cristal templado;Estándar;1,30;;;
+SH-IC01-PRO-PRI;Sharp;Infobar C01;Cristal templado;Privacidad;4,00;;;
+SH-IC01-FUN-SIL;Sharp;Infobar C01;Funda;Silicona;2,50;;;
+SH-IC01-FUN-TPU;Sharp;Infobar C01;Funda;Transparente;2,95;;;
+SH-IC01-FUN-LIB;Sharp;Infobar C01;Funda;Libro;3,70;;;
+SH-IC01-FUN-ANT;Sharp;Infobar C01;Funda;Antigolpes;3,10;;;
+SH-AKSHF32-ANT-COM;Sharp;Aquos K SHF32;Antena / coaxial;Compatible;3,59;;;6
+SH-ASSHL25-MAR-COM;Sharp;Aquos Serie SHL25;Marco / chasis;Compatible;5,75;;;6
+SH-ASSHL25-BOT-COM;Sharp;Aquos Serie SHL25;Botones laterales;Compatible;2,95;;;6
+SH-ASSHL25-ANT-COM;Sharp;Aquos Serie SHL25;Antena / coaxial;Compatible;2,55;;;6
+SH-SH07F-ANT-COM;Sharp;SH-07F;Antena / coaxial;Compatible;3,59;;;6
+SH-APXXMN-MAR-COM;Sharp;Aquos Phone Xx mini;Marco / chasis;Compatible;5,75;;;6
+SH-APXXMN-BOT-COM;Sharp;Aquos Phone Xx mini;Botones laterales;Compatible;2,95;;;6
+SH-APXXMN-ANT-COM;Sharp;Aquos Phone Xx mini;Antena / coaxial;Compatible;2,55;;;6
+SH-APXX203S-MAR-COM;Sharp;Aquos Phone Xx 203SH;Marco / chasis;Compatible;5,75;;;6
+SH-APXX203S-BOT-COM;Sharp;Aquos Phone Xx 203SH;Botones laterales;Compatible;2,95;;;6
+SH-APXX203S-ANT-COM;Sharp;Aquos Phone Xx 203SH;Antena / coaxial;Compatible;2,55;;;6
+SH-APCLIS17-ANT-COM;Sharp;Aquos Phone CL IS17SH;Antena / coaxial;Compatible;2,55;;;6
+SH-APSLIS15-ANT-COM;Sharp;Aquos Phone SL IS15SH;Antena / coaxial;Compatible;2,55;;;6
+SH-APXX106S-ANT-COM;Sharp;Aquos Phone Xx 106SH;Antena / coaxial;Compatible;2,55;;;6
+SH-APSISW16-ANT-COM;Sharp;Aquos Phone Serie ISW16SH;Antena / coaxial;Compatible;2,55;;;6
+SH-APSH06D-ANT-COM;Sharp;Aquos Phone SH-06D;Antena / coaxial;Compatible;2,55;;;6
+SH-IC01-ANT-COM;Sharp;Infobar C01;Antena / coaxial;Compatible;2,55;;;6

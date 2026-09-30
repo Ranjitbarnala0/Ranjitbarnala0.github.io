@@ -1,0 +1,372 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+CH-FS8-PAN-COM;Cherry Mobile;Flare S8;Pantalla;Compatible;15,15;14,70;14,24;6
+CH-FS8-BAT-COM;Cherry Mobile;Flare S8;Batería;Compatible;9,65;;;6
+CH-FS8-CON-COM;Cherry Mobile;Flare S8;Conector de carga;Compatible;4,60;;;6
+CH-FS8-TAP-COM;Cherry Mobile;Flare S8;Tapa trasera;Compatible;5,40;;;6
+CH-FS8-CTR-COM;Cherry Mobile;Flare S8;Cámara trasera;Compatible;7,59;;;6
+CH-FS8-CFR-COM;Cherry Mobile;Flare S8;Cámara frontal;Compatible;4,99;;;6
+CH-FS8-LEN-COM;Cherry Mobile;Flare S8;Lente de cámara;Compatible;2,19;;;6
+CH-FS8-ALT-COM;Cherry Mobile;Flare S8;Altavoz;Compatible;3,65;;;6
+CH-FS8-AUR-COM;Cherry Mobile;Flare S8;Auricular de llamada;Compatible;2,65;;;6
+CH-FS8-FLX-COM;Cherry Mobile;Flare S8;Flex de encendido y volumen;Compatible;2,49;;;6
+CH-FS8-SIM-COM;Cherry Mobile;Flare S8;Bandeja SIM;Compatible;2,55;;;6
+CH-FS8D-PAN-COM;Cherry Mobile;Flare S8 Deluxe;Pantalla;Compatible;15,15;14,70;14,24;6
+CH-FS8D-BAT-COM;Cherry Mobile;Flare S8 Deluxe;Batería;Compatible;9,65;;;6
+CH-FS8D-CON-COM;Cherry Mobile;Flare S8 Deluxe;Conector de carga;Compatible;4,60;;;6
+CH-FS8D-TAP-COM;Cherry Mobile;Flare S8 Deluxe;Tapa trasera;Compatible;5,40;;;6
+CH-FS8D-CTR-COM;Cherry Mobile;Flare S8 Deluxe;Cámara trasera;Compatible;7,59;;;6
+CH-FS8D-CFR-COM;Cherry Mobile;Flare S8 Deluxe;Cámara frontal;Compatible;4,99;;;6
+CH-FS8D-LEN-COM;Cherry Mobile;Flare S8 Deluxe;Lente de cámara;Compatible;2,19;;;6
+CH-FS8D-ALT-COM;Cherry Mobile;Flare S8 Deluxe;Altavoz;Compatible;3,65;;;6
+CH-FS8D-AUR-COM;Cherry Mobile;Flare S8 Deluxe;Auricular de llamada;Compatible;2,65;;;6
+CH-FS8D-FLX-COM;Cherry Mobile;Flare S8 Deluxe;Flex de encendido y volumen;Compatible;2,49;;;6
+CH-FS8D-SIM-COM;Cherry Mobile;Flare S8 Deluxe;Bandeja SIM;Compatible;2,55;;;6
+CH-FS8L-PAN-COM;Cherry Mobile;Flare S8 Lite;Pantalla;Compatible;15,15;14,70;14,24;6
+CH-FS8L-BAT-COM;Cherry Mobile;Flare S8 Lite;Batería;Compatible;9,65;;;6
+CH-FS8L-CON-COM;Cherry Mobile;Flare S8 Lite;Conector de carga;Compatible;4,60;;;6
+CH-FS8L-TAP-COM;Cherry Mobile;Flare S8 Lite;Tapa trasera;Compatible;5,40;;;6
+CH-FS8L-CTR-COM;Cherry Mobile;Flare S8 Lite;Cámara trasera;Compatible;7,59;;;6
+CH-FS8L-CFR-COM;Cherry Mobile;Flare S8 Lite;Cámara frontal;Compatible;4,99;;;6
+CH-FS8L-LEN-COM;Cherry Mobile;Flare S8 Lite;Lente de cámara;Compatible;2,19;;;6
+CH-FS8L-ALT-COM;Cherry Mobile;Flare S8 Lite;Altavoz;Compatible;3,65;;;6
+CH-FS8L-AUR-COM;Cherry Mobile;Flare S8 Lite;Auricular de llamada;Compatible;2,65;;;6
+CH-FS8L-FLX-COM;Cherry Mobile;Flare S8 Lite;Flex de encendido y volumen;Compatible;2,49;;;6
+CH-FS8L-SIM-COM;Cherry Mobile;Flare S8 Lite;Bandeja SIM;Compatible;2,55;;;6
+CH-FS8PL-PAN-COM;Cherry Mobile;Flare S8 Plus;Pantalla;Compatible;15,15;14,70;14,24;6
+CH-FS8PL-BAT-COM;Cherry Mobile;Flare S8 Plus;Batería;Compatible;9,65;;;6
+CH-FS8PL-CON-COM;Cherry Mobile;Flare S8 Plus;Conector de carga;Compatible;4,60;;;6
+CH-FS8PL-TAP-COM;Cherry Mobile;Flare S8 Plus;Tapa trasera;Compatible;5,40;;;6
+CH-FS8PL-CTR-COM;Cherry Mobile;Flare S8 Plus;Cámara trasera;Compatible;7,59;;;6
+CH-FS8PL-CFR-COM;Cherry Mobile;Flare S8 Plus;Cámara frontal;Compatible;4,99;;;6
+CH-FS8PL-LEN-COM;Cherry Mobile;Flare S8 Plus;Lente de cámara;Compatible;2,19;;;6
+CH-FS8PL-ALT-COM;Cherry Mobile;Flare S8 Plus;Altavoz;Compatible;3,65;;;6
+CH-FS8PL-AUR-COM;Cherry Mobile;Flare S8 Plus;Auricular de llamada;Compatible;2,65;;;6
+CH-FS8PL-FLX-COM;Cherry Mobile;Flare S8 Plus;Flex de encendido y volumen;Compatible;2,49;;;6
+CH-FS8PL-SIM-COM;Cherry Mobile;Flare S8 Plus;Bandeja SIM;Compatible;2,55;;;6
+CH-FS8P-PAN-COM;Cherry Mobile;Flare S8 Pro;Pantalla;Compatible;15,15;14,70;14,24;6
+CH-FS8P-BAT-COM;Cherry Mobile;Flare S8 Pro;Batería;Compatible;9,65;;;6
+CH-FS8P-CON-COM;Cherry Mobile;Flare S8 Pro;Conector de carga;Compatible;4,60;;;6
+CH-FS8P-TAP-COM;Cherry Mobile;Flare S8 Pro;Tapa trasera;Compatible;5,40;;;6
+CH-FS8P-CTR-COM;Cherry Mobile;Flare S8 Pro;Cámara trasera;Compatible;7,59;;;6
+CH-FS8P-CFR-COM;Cherry Mobile;Flare S8 Pro;Cámara frontal;Compatible;4,99;;;6
+CH-FS8P-LEN-COM;Cherry Mobile;Flare S8 Pro;Lente de cámara;Compatible;2,19;;;6
+CH-FS8P-ALT-COM;Cherry Mobile;Flare S8 Pro;Altavoz;Compatible;3,65;;;6
+CH-FS8P-AUR-COM;Cherry Mobile;Flare S8 Pro;Auricular de llamada;Compatible;2,65;;;6
+CH-FS8P-FLX-COM;Cherry Mobile;Flare S8 Pro;Flex de encendido y volumen;Compatible;2,49;;;6
+CH-FS8P-SIM-COM;Cherry Mobile;Flare S8 Pro;Bandeja SIM;Compatible;2,55;;;6
+CH-FS7-PAN-COM;Cherry Mobile;Flare S7;Pantalla;Compatible;15,15;14,70;14,24;6
+CH-FS7-BAT-COM;Cherry Mobile;Flare S7;Batería;Compatible;9,65;;;6
+CH-FS7-CON-COM;Cherry Mobile;Flare S7;Conector de carga;Compatible;4,60;;;6
+CH-FS7-TAP-COM;Cherry Mobile;Flare S7;Tapa trasera;Compatible;5,40;;;6
+CH-FS7-CTR-COM;Cherry Mobile;Flare S7;Cámara trasera;Compatible;7,59;;;6
+CH-FS7-CFR-COM;Cherry Mobile;Flare S7;Cámara frontal;Compatible;4,99;;;6
+CH-FS7-LEN-COM;Cherry Mobile;Flare S7;Lente de cámara;Compatible;2,19;;;6
+CH-FS7-ALT-COM;Cherry Mobile;Flare S7;Altavoz;Compatible;3,65;;;6
+CH-FS7-AUR-COM;Cherry Mobile;Flare S7;Auricular de llamada;Compatible;2,65;;;6
+CH-FS7-FLX-COM;Cherry Mobile;Flare S7;Flex de encendido y volumen;Compatible;2,49;;;6
+CH-FS7-SIM-COM;Cherry Mobile;Flare S7;Bandeja SIM;Compatible;2,55;;;6
+CH-FS7L-PAN-COM;Cherry Mobile;Flare S7 Lite;Pantalla;Compatible;15,15;14,70;14,24;6
+CH-FS7L-BAT-COM;Cherry Mobile;Flare S7 Lite;Batería;Compatible;9,65;;;6
+CH-FS7L-CON-COM;Cherry Mobile;Flare S7 Lite;Conector de carga;Compatible;4,60;;;6
+CH-FS7L-TAP-COM;Cherry Mobile;Flare S7 Lite;Tapa trasera;Compatible;5,40;;;6
+CH-FS7L-CTR-COM;Cherry Mobile;Flare S7 Lite;Cámara trasera;Compatible;7,59;;;6
+CH-FS7L-CFR-COM;Cherry Mobile;Flare S7 Lite;Cámara frontal;Compatible;4,99;;;6
+CH-FS7L-LEN-COM;Cherry Mobile;Flare S7 Lite;Lente de cámara;Compatible;2,19;;;6
+CH-FS7L-ALT-COM;Cherry Mobile;Flare S7 Lite;Altavoz;Compatible;3,65;;;6
+CH-FS7L-AUR-COM;Cherry Mobile;Flare S7 Lite;Auricular de llamada;Compatible;2,65;;;6
+CH-FS7L-FLX-COM;Cherry Mobile;Flare S7 Lite;Flex de encendido y volumen;Compatible;2,49;;;6
+CH-FS7L-SIM-COM;Cherry Mobile;Flare S7 Lite;Bandeja SIM;Compatible;2,55;;;6
+CH-FS7MN-PAN-COM;Cherry Mobile;Flare S7 Mini;Pantalla;Compatible;15,15;14,70;14,24;6
+CH-FS7MN-BAT-COM;Cherry Mobile;Flare S7 Mini;Batería;Compatible;9,65;;;6
+CH-FS7MN-CON-COM;Cherry Mobile;Flare S7 Mini;Conector de carga;Compatible;4,60;;;6
+CH-FS7MN-TAP-COM;Cherry Mobile;Flare S7 Mini;Tapa trasera;Compatible;5,40;;;6
+CH-FS7MN-CTR-COM;Cherry Mobile;Flare S7 Mini;Cámara trasera;Compatible;7,59;;;6
+CH-FS7MN-CFR-COM;Cherry Mobile;Flare S7 Mini;Cámara frontal;Compatible;4,99;;;6
+CH-FS7MN-LEN-COM;Cherry Mobile;Flare S7 Mini;Lente de cámara;Compatible;2,19;;;6
+CH-FS7MN-ALT-COM;Cherry Mobile;Flare S7 Mini;Altavoz;Compatible;3,65;;;6
+CH-FS7MN-AUR-COM;Cherry Mobile;Flare S7 Mini;Auricular de llamada;Compatible;2,65;;;6
+CH-FS7MN-FLX-COM;Cherry Mobile;Flare S7 Mini;Flex de encendido y volumen;Compatible;2,49;;;6
+CH-FS7MN-SIM-COM;Cherry Mobile;Flare S7 Mini;Bandeja SIM;Compatible;2,55;;;6
+CH-FS7PW-PAN-COM;Cherry Mobile;Flare S7 Power;Pantalla;Compatible;15,15;14,70;14,24;6
+CH-FS7PW-BAT-COM;Cherry Mobile;Flare S7 Power;Batería;Compatible;9,65;;;6
+CH-FS7PW-CON-COM;Cherry Mobile;Flare S7 Power;Conector de carga;Compatible;4,60;;;6
+CH-FS7PW-TAP-COM;Cherry Mobile;Flare S7 Power;Tapa trasera;Compatible;5,40;;;6
+CH-FS7PW-CTR-COM;Cherry Mobile;Flare S7 Power;Cámara trasera;Compatible;7,59;;;6
+CH-FS7PW-CFR-COM;Cherry Mobile;Flare S7 Power;Cámara frontal;Compatible;4,99;;;6
+CH-FS7PW-LEN-COM;Cherry Mobile;Flare S7 Power;Lente de cámara;Compatible;2,19;;;6
+CH-FS7PW-ALT-COM;Cherry Mobile;Flare S7 Power;Altavoz;Compatible;3,65;;;6
+CH-FS7PW-AUR-COM;Cherry Mobile;Flare S7 Power;Auricular de llamada;Compatible;2,65;;;6
+CH-FS7PW-FLX-COM;Cherry Mobile;Flare S7 Power;Flex de encendido y volumen;Compatible;2,49;;;6
+CH-FS7PW-SIM-COM;Cherry Mobile;Flare S7 Power;Bandeja SIM;Compatible;2,55;;;6
+CH-FS7P-PAN-COM;Cherry Mobile;Flare S7 Prime;Pantalla;Compatible;15,15;14,70;14,24;6
+CH-FS7P-BAT-COM;Cherry Mobile;Flare S7 Prime;Batería;Compatible;9,65;;;6
+CH-FS7P-CON-COM;Cherry Mobile;Flare S7 Prime;Conector de carga;Compatible;4,60;;;6
+CH-FS7P-TAP-COM;Cherry Mobile;Flare S7 Prime;Tapa trasera;Compatible;5,40;;;6
+CH-FS7P-CTR-COM;Cherry Mobile;Flare S7 Prime;Cámara trasera;Compatible;7,59;;;6
+CH-FS7P-CFR-COM;Cherry Mobile;Flare S7 Prime;Cámara frontal;Compatible;4,99;;;6
+CH-FS7P-LEN-COM;Cherry Mobile;Flare S7 Prime;Lente de cámara;Compatible;2,19;;;6
+CH-FS7P-ALT-COM;Cherry Mobile;Flare S7 Prime;Altavoz;Compatible;3,65;;;6
+CH-FS7P-AUR-COM;Cherry Mobile;Flare S7 Prime;Auricular de llamada;Compatible;2,65;;;6
+CH-FS7P-FLX-COM;Cherry Mobile;Flare S7 Prime;Flex de encendido y volumen;Compatible;2,49;;;6
+CH-FS7P-SIM-COM;Cherry Mobile;Flare S7 Prime;Bandeja SIM;Compatible;2,55;;;6
+CH-FS7PL-PAN-COM;Cherry Mobile;Flare S7 Plus;Pantalla;Compatible;15,15;14,70;14,24;6
+CH-FS7PL-BAT-COM;Cherry Mobile;Flare S7 Plus;Batería;Compatible;9,65;;;6
+CH-FS7PL-CON-COM;Cherry Mobile;Flare S7 Plus;Conector de carga;Compatible;4,60;;;6
+CH-FS7PL-TAP-COM;Cherry Mobile;Flare S7 Plus;Tapa trasera;Compatible;5,40;;;6
+CH-FS7PL-CTR-COM;Cherry Mobile;Flare S7 Plus;Cámara trasera;Compatible;7,59;;;6
+CH-FS7PL-CFR-COM;Cherry Mobile;Flare S7 Plus;Cámara frontal;Compatible;4,99;;;6
+CH-FS7PL-LEN-COM;Cherry Mobile;Flare S7 Plus;Lente de cámara;Compatible;2,19;;;6
+CH-FS7PL-ALT-COM;Cherry Mobile;Flare S7 Plus;Altavoz;Compatible;3,65;;;6
+CH-FS7PL-AUR-COM;Cherry Mobile;Flare S7 Plus;Auricular de llamada;Compatible;2,65;;;6
+CH-FS7PL-FLX-COM;Cherry Mobile;Flare S7 Plus;Flex de encendido y volumen;Compatible;2,49;;;6
+CH-FS7PL-SIM-COM;Cherry Mobile;Flare S7 Plus;Bandeja SIM;Compatible;2,55;;;6
+CH-AP4-PAN-COM;Cherry Mobile;Alpha Prime 4;Pantalla;Compatible;15,15;14,70;14,24;6
+CH-AP4-BAT-COM;Cherry Mobile;Alpha Prime 4;Batería;Compatible;9,65;;;6
+CH-AP4-CON-COM;Cherry Mobile;Alpha Prime 4;Conector de carga;Compatible;4,60;;;6
+CH-AP4-TAP-COM;Cherry Mobile;Alpha Prime 4;Tapa trasera;Compatible;5,40;;;6
+CH-AP4-CTR-COM;Cherry Mobile;Alpha Prime 4;Cámara trasera;Compatible;7,59;;;6
+CH-AP4-CFR-COM;Cherry Mobile;Alpha Prime 4;Cámara frontal;Compatible;4,99;;;6
+CH-AP4-LEN-COM;Cherry Mobile;Alpha Prime 4;Lente de cámara;Compatible;2,19;;;6
+CH-AP4-ALT-COM;Cherry Mobile;Alpha Prime 4;Altavoz;Compatible;3,65;;;6
+CH-AP4-AUR-COM;Cherry Mobile;Alpha Prime 4;Auricular de llamada;Compatible;2,65;;;6
+CH-AP4-FLX-COM;Cherry Mobile;Alpha Prime 4;Flex de encendido y volumen;Compatible;2,49;;;6
+CH-AP4-SIM-COM;Cherry Mobile;Alpha Prime 4;Bandeja SIM;Compatible;2,55;;;6
+CH-AP5-PAN-COM;Cherry Mobile;Alpha Prime 5;Pantalla;Compatible;15,15;14,70;14,24;6
+CH-AP5-BAT-COM;Cherry Mobile;Alpha Prime 5;Batería;Compatible;9,65;;;6
+CH-AP5-CON-COM;Cherry Mobile;Alpha Prime 5;Conector de carga;Compatible;4,60;;;6
+CH-AP5-TAP-COM;Cherry Mobile;Alpha Prime 5;Tapa trasera;Compatible;5,40;;;6
+CH-AP5-CTR-COM;Cherry Mobile;Alpha Prime 5;Cámara trasera;Compatible;7,59;;;6
+CH-AP5-CFR-COM;Cherry Mobile;Alpha Prime 5;Cámara frontal;Compatible;4,99;;;6
+CH-AP5-LEN-COM;Cherry Mobile;Alpha Prime 5;Lente de cámara;Compatible;2,19;;;6
+CH-AP5-ALT-COM;Cherry Mobile;Alpha Prime 5;Altavoz;Compatible;3,65;;;6
+CH-AP5-AUR-COM;Cherry Mobile;Alpha Prime 5;Auricular de llamada;Compatible;2,65;;;6
+CH-AP5-FLX-COM;Cherry Mobile;Alpha Prime 5;Flex de encendido y volumen;Compatible;2,49;;;6
+CH-AP5-SIM-COM;Cherry Mobile;Alpha Prime 5;Bandeja SIM;Compatible;2,55;;;6
+CH-AN-PAN-COM;Cherry Mobile;Alpha Neon;Pantalla;Compatible;15,15;14,70;14,24;6
+CH-AN-BAT-COM;Cherry Mobile;Alpha Neon;Batería;Compatible;9,65;;;6
+CH-AN-CON-COM;Cherry Mobile;Alpha Neon;Conector de carga;Compatible;4,60;;;6
+CH-AN-TAP-COM;Cherry Mobile;Alpha Neon;Tapa trasera;Compatible;5,40;;;6
+CH-AN-CTR-COM;Cherry Mobile;Alpha Neon;Cámara trasera;Compatible;7,59;;;6
+CH-AN-CFR-COM;Cherry Mobile;Alpha Neon;Cámara frontal;Compatible;4,99;;;6
+CH-AN-LEN-COM;Cherry Mobile;Alpha Neon;Lente de cámara;Compatible;2,19;;;6
+CH-AN-ALT-COM;Cherry Mobile;Alpha Neon;Altavoz;Compatible;3,65;;;6
+CH-AN-AUR-COM;Cherry Mobile;Alpha Neon;Auricular de llamada;Compatible;2,65;;;6
+CH-AN-FLX-COM;Cherry Mobile;Alpha Neon;Flex de encendido y volumen;Compatible;2,49;;;6
+CH-AN-SIM-COM;Cherry Mobile;Alpha Neon;Bandeja SIM;Compatible;2,55;;;6
+CH-AV-PAN-COM;Cherry Mobile;Alpha View;Pantalla;Compatible;15,15;14,70;14,24;6
+CH-AV-BAT-COM;Cherry Mobile;Alpha View;Batería;Compatible;9,65;;;6
+CH-AV-CON-COM;Cherry Mobile;Alpha View;Conector de carga;Compatible;4,60;;;6
+CH-AV-TAP-COM;Cherry Mobile;Alpha View;Tapa trasera;Compatible;5,40;;;6
+CH-AV-CTR-COM;Cherry Mobile;Alpha View;Cámara trasera;Compatible;7,59;;;6
+CH-AV-CFR-COM;Cherry Mobile;Alpha View;Cámara frontal;Compatible;4,99;;;6
+CH-AV-LEN-COM;Cherry Mobile;Alpha View;Lente de cámara;Compatible;2,19;;;6
+CH-AV-ALT-COM;Cherry Mobile;Alpha View;Altavoz;Compatible;3,65;;;6
+CH-AV-AUR-COM;Cherry Mobile;Alpha View;Auricular de llamada;Compatible;2,65;;;6
+CH-AV-FLX-COM;Cherry Mobile;Alpha View;Flex de encendido y volumen;Compatible;2,49;;;6
+CH-AV-SIM-COM;Cherry Mobile;Alpha View;Bandeja SIM;Compatible;2,55;;;6
+CH-AL-PAN-COM;Cherry Mobile;Alpha Luxe;Pantalla;Compatible;15,15;14,70;14,24;6
+CH-AL-BAT-COM;Cherry Mobile;Alpha Luxe;Batería;Compatible;9,65;;;6
+CH-AL-CON-COM;Cherry Mobile;Alpha Luxe;Conector de carga;Compatible;4,60;;;6
+CH-AL-TAP-COM;Cherry Mobile;Alpha Luxe;Tapa trasera;Compatible;5,40;;;6
+CH-AL-CTR-COM;Cherry Mobile;Alpha Luxe;Cámara trasera;Compatible;7,59;;;6
+CH-AL-CFR-COM;Cherry Mobile;Alpha Luxe;Cámara frontal;Compatible;4,99;;;6
+CH-AL-LEN-COM;Cherry Mobile;Alpha Luxe;Lente de cámara;Compatible;2,19;;;6
+CH-AL-ALT-COM;Cherry Mobile;Alpha Luxe;Altavoz;Compatible;3,65;;;6
+CH-AL-AUR-COM;Cherry Mobile;Alpha Luxe;Auricular de llamada;Compatible;2,65;;;6
+CH-AL-FLX-COM;Cherry Mobile;Alpha Luxe;Flex de encendido y volumen;Compatible;2,49;;;6
+CH-AL-SIM-COM;Cherry Mobile;Alpha Luxe;Bandeja SIM;Compatible;2,55;;;6
+CH-AS-PAN-COM;Cherry Mobile;Alpha Style;Pantalla;Compatible;15,15;14,70;14,24;6
+CH-AS-BAT-COM;Cherry Mobile;Alpha Style;Batería;Compatible;9,65;;;6
+CH-AS-CON-COM;Cherry Mobile;Alpha Style;Conector de carga;Compatible;4,60;;;6
+CH-AS-TAP-COM;Cherry Mobile;Alpha Style;Tapa trasera;Compatible;5,40;;;6
+CH-AS-CTR-COM;Cherry Mobile;Alpha Style;Cámara trasera;Compatible;7,59;;;6
+CH-AS-CFR-COM;Cherry Mobile;Alpha Style;Cámara frontal;Compatible;4,99;;;6
+CH-AS-LEN-COM;Cherry Mobile;Alpha Style;Lente de cámara;Compatible;2,19;;;6
+CH-AS-ALT-COM;Cherry Mobile;Alpha Style;Altavoz;Compatible;3,65;;;6
+CH-AS-AUR-COM;Cherry Mobile;Alpha Style;Auricular de llamada;Compatible;2,65;;;6
+CH-AS-FLX-COM;Cherry Mobile;Alpha Style;Flex de encendido y volumen;Compatible;2,49;;;6
+CH-AS-SIM-COM;Cherry Mobile;Alpha Style;Bandeja SIM;Compatible;2,55;;;6
+CH-FS8-PRO-NA;Cherry Mobile;Flare S8;Cristal templado;Estándar;1,30;;;
+CH-FS8-PRO-PRI;Cherry Mobile;Flare S8;Cristal templado;Privacidad;4,00;;;
+CH-FS8-FUN-SIL;Cherry Mobile;Flare S8;Funda;Silicona;2,50;;;
+CH-FS8-FUN-TPU;Cherry Mobile;Flare S8;Funda;Transparente;2,95;;;
+CH-FS8-FUN-LIB;Cherry Mobile;Flare S8;Funda;Libro;3,70;;;
+CH-FS8-FUN-ANT;Cherry Mobile;Flare S8;Funda;Antigolpes;3,10;;;
+CH-FS8-PCA-NA;Cherry Mobile;Flare S8;Protector de cámara;Cristal;2,90;;;
+CH-FS8D-PRO-NA;Cherry Mobile;Flare S8 Deluxe;Cristal templado;Estándar;1,30;;;
+CH-FS8D-PRO-PRI;Cherry Mobile;Flare S8 Deluxe;Cristal templado;Privacidad;4,00;;;
+CH-FS8D-FUN-SIL;Cherry Mobile;Flare S8 Deluxe;Funda;Silicona;2,50;;;
+CH-FS8D-FUN-TPU;Cherry Mobile;Flare S8 Deluxe;Funda;Transparente;2,95;;;
+CH-FS8D-FUN-LIB;Cherry Mobile;Flare S8 Deluxe;Funda;Libro;3,70;;;
+CH-FS8D-FUN-ANT;Cherry Mobile;Flare S8 Deluxe;Funda;Antigolpes;3,10;;;
+CH-FS8L-PRO-NA;Cherry Mobile;Flare S8 Lite;Cristal templado;Estándar;1,30;;;
+CH-FS8L-PRO-PRI;Cherry Mobile;Flare S8 Lite;Cristal templado;Privacidad;4,00;;;
+CH-FS8L-FUN-SIL;Cherry Mobile;Flare S8 Lite;Funda;Silicona;2,50;;;
+CH-FS8L-FUN-TPU;Cherry Mobile;Flare S8 Lite;Funda;Transparente;2,95;;;
+CH-FS8L-FUN-LIB;Cherry Mobile;Flare S8 Lite;Funda;Libro;3,70;;;
+CH-FS8L-FUN-ANT;Cherry Mobile;Flare S8 Lite;Funda;Antigolpes;3,10;;;
+CH-FS8PL-PRO-NA;Cherry Mobile;Flare S8 Plus;Cristal templado;Estándar;1,30;;;
+CH-FS8PL-PRO-PRI;Cherry Mobile;Flare S8 Plus;Cristal templado;Privacidad;4,00;;;
+CH-FS8PL-FUN-SIL;Cherry Mobile;Flare S8 Plus;Funda;Silicona;2,50;;;
+CH-FS8PL-FUN-TPU;Cherry Mobile;Flare S8 Plus;Funda;Transparente;2,95;;;
+CH-FS8PL-FUN-LIB;Cherry Mobile;Flare S8 Plus;Funda;Libro;3,70;;;
+CH-FS8PL-FUN-ANT;Cherry Mobile;Flare S8 Plus;Funda;Antigolpes;3,10;;;
+CH-FS8PL-PCA-NA;Cherry Mobile;Flare S8 Plus;Protector de cámara;Cristal;2,90;;;
+CH-FS8P-PRO-NA;Cherry Mobile;Flare S8 Pro;Cristal templado;Estándar;1,30;;;
+CH-FS8P-PRO-PRI;Cherry Mobile;Flare S8 Pro;Cristal templado;Privacidad;4,00;;;
+CH-FS8P-FUN-SIL;Cherry Mobile;Flare S8 Pro;Funda;Silicona;2,50;;;
+CH-FS8P-FUN-TPU;Cherry Mobile;Flare S8 Pro;Funda;Transparente;2,95;;;
+CH-FS8P-FUN-LIB;Cherry Mobile;Flare S8 Pro;Funda;Libro;3,70;;;
+CH-FS8P-FUN-ANT;Cherry Mobile;Flare S8 Pro;Funda;Antigolpes;3,10;;;
+CH-FS8P-PCA-NA;Cherry Mobile;Flare S8 Pro;Protector de cámara;Cristal;2,90;;;
+CH-FS7-PRO-NA;Cherry Mobile;Flare S7;Cristal templado;Estándar;1,30;;;
+CH-FS7-PRO-PRI;Cherry Mobile;Flare S7;Cristal templado;Privacidad;4,00;;;
+CH-FS7-FUN-SIL;Cherry Mobile;Flare S7;Funda;Silicona;2,50;;;
+CH-FS7-FUN-TPU;Cherry Mobile;Flare S7;Funda;Transparente;2,95;;;
+CH-FS7-FUN-LIB;Cherry Mobile;Flare S7;Funda;Libro;3,70;;;
+CH-FS7-FUN-ANT;Cherry Mobile;Flare S7;Funda;Antigolpes;3,10;;;
+CH-FS7L-PRO-NA;Cherry Mobile;Flare S7 Lite;Cristal templado;Estándar;1,30;;;
+CH-FS7L-PRO-PRI;Cherry Mobile;Flare S7 Lite;Cristal templado;Privacidad;4,00;;;
+CH-FS7L-FUN-SIL;Cherry Mobile;Flare S7 Lite;Funda;Silicona;2,50;;;
+CH-FS7L-FUN-TPU;Cherry Mobile;Flare S7 Lite;Funda;Transparente;2,95;;;
+CH-FS7L-FUN-LIB;Cherry Mobile;Flare S7 Lite;Funda;Libro;3,70;;;
+CH-FS7L-FUN-ANT;Cherry Mobile;Flare S7 Lite;Funda;Antigolpes;3,10;;;
+CH-FS7MN-PRO-NA;Cherry Mobile;Flare S7 Mini;Cristal templado;Estándar;1,30;;;
+CH-FS7MN-PRO-PRI;Cherry Mobile;Flare S7 Mini;Cristal templado;Privacidad;4,00;;;
+CH-FS7MN-FUN-SIL;Cherry Mobile;Flare S7 Mini;Funda;Silicona;2,50;;;
+CH-FS7MN-FUN-TPU;Cherry Mobile;Flare S7 Mini;Funda;Transparente;2,95;;;
+CH-FS7MN-FUN-LIB;Cherry Mobile;Flare S7 Mini;Funda;Libro;3,70;;;
+CH-FS7MN-FUN-ANT;Cherry Mobile;Flare S7 Mini;Funda;Antigolpes;3,10;;;
+CH-FS7PW-PRO-NA;Cherry Mobile;Flare S7 Power;Cristal templado;Estándar;1,30;;;
+CH-FS7PW-PRO-PRI;Cherry Mobile;Flare S7 Power;Cristal templado;Privacidad;4,00;;;
+CH-FS7PW-FUN-SIL;Cherry Mobile;Flare S7 Power;Funda;Silicona;2,50;;;
+CH-FS7PW-FUN-TPU;Cherry Mobile;Flare S7 Power;Funda;Transparente;2,95;;;
+CH-FS7PW-FUN-LIB;Cherry Mobile;Flare S7 Power;Funda;Libro;3,70;;;
+CH-FS7PW-FUN-ANT;Cherry Mobile;Flare S7 Power;Funda;Antigolpes;3,10;;;
+CH-FS7P-PRO-NA;Cherry Mobile;Flare S7 Prime;Cristal templado;Estándar;1,30;;;
+CH-FS7P-PRO-PRI;Cherry Mobile;Flare S7 Prime;Cristal templado;Privacidad;4,00;;;
+CH-FS7P-FUN-SIL;Cherry Mobile;Flare S7 Prime;Funda;Silicona;2,50;;;
+CH-FS7P-FUN-TPU;Cherry Mobile;Flare S7 Prime;Funda;Transparente;2,95;;;
+CH-FS7P-FUN-LIB;Cherry Mobile;Flare S7 Prime;Funda;Libro;3,70;;;
+CH-FS7P-FUN-ANT;Cherry Mobile;Flare S7 Prime;Funda;Antigolpes;3,10;;;
+CH-FS7PL-PRO-NA;Cherry Mobile;Flare S7 Plus;Cristal templado;Estándar;1,30;;;
+CH-FS7PL-PRO-PRI;Cherry Mobile;Flare S7 Plus;Cristal templado;Privacidad;4,00;;;
+CH-FS7PL-FUN-SIL;Cherry Mobile;Flare S7 Plus;Funda;Silicona;2,50;;;
+CH-FS7PL-FUN-TPU;Cherry Mobile;Flare S7 Plus;Funda;Transparente;2,95;;;
+CH-FS7PL-FUN-LIB;Cherry Mobile;Flare S7 Plus;Funda;Libro;3,70;;;
+CH-FS7PL-FUN-ANT;Cherry Mobile;Flare S7 Plus;Funda;Antigolpes;3,10;;;
+CH-AP4-PRO-NA;Cherry Mobile;Alpha Prime 4;Cristal templado;Estándar;1,30;;;
+CH-AP4-PRO-PRI;Cherry Mobile;Alpha Prime 4;Cristal templado;Privacidad;4,00;;;
+CH-AP4-FUN-SIL;Cherry Mobile;Alpha Prime 4;Funda;Silicona;2,50;;;
+CH-AP4-FUN-TPU;Cherry Mobile;Alpha Prime 4;Funda;Transparente;2,95;;;
+CH-AP4-FUN-LIB;Cherry Mobile;Alpha Prime 4;Funda;Libro;3,70;;;
+CH-AP4-FUN-ANT;Cherry Mobile;Alpha Prime 4;Funda;Antigolpes;3,10;;;
+CH-AP5-PRO-NA;Cherry Mobile;Alpha Prime 5;Cristal templado;Estándar;1,30;;;
+CH-AP5-PRO-PRI;Cherry Mobile;Alpha Prime 5;Cristal templado;Privacidad;4,00;;;
+CH-AP5-FUN-SIL;Cherry Mobile;Alpha Prime 5;Funda;Silicona;2,50;;;
+CH-AP5-FUN-TPU;Cherry Mobile;Alpha Prime 5;Funda;Transparente;2,95;;;
+CH-AP5-FUN-LIB;Cherry Mobile;Alpha Prime 5;Funda;Libro;3,70;;;
+CH-AP5-FUN-ANT;Cherry Mobile;Alpha Prime 5;Funda;Antigolpes;3,10;;;
+CH-AN-PRO-NA;Cherry Mobile;Alpha Neon;Cristal templado;Estándar;1,30;;;
+CH-AN-PRO-PRI;Cherry Mobile;Alpha Neon;Cristal templado;Privacidad;4,00;;;
+CH-AN-FUN-SIL;Cherry Mobile;Alpha Neon;Funda;Silicona;2,50;;;
+CH-AN-FUN-TPU;Cherry Mobile;Alpha Neon;Funda;Transparente;2,95;;;
+CH-AN-FUN-LIB;Cherry Mobile;Alpha Neon;Funda;Libro;3,70;;;
+CH-AN-FUN-ANT;Cherry Mobile;Alpha Neon;Funda;Antigolpes;3,10;;;
+CH-AV-PRO-NA;Cherry Mobile;Alpha View;Cristal templado;Estándar;1,30;;;
+CH-AV-PRO-PRI;Cherry Mobile;Alpha View;Cristal templado;Privacidad;4,00;;;
+CH-AV-FUN-SIL;Cherry Mobile;Alpha View;Funda;Silicona;2,50;;;
+CH-AV-FUN-TPU;Cherry Mobile;Alpha View;Funda;Transparente;2,95;;;
+CH-AV-FUN-LIB;Cherry Mobile;Alpha View;Funda;Libro;3,70;;;
+CH-AV-FUN-ANT;Cherry Mobile;Alpha View;Funda;Antigolpes;3,10;;;
+CH-AL-PRO-NA;Cherry Mobile;Alpha Luxe;Cristal templado;Estándar;1,30;;;
+CH-AL-PRO-PRI;Cherry Mobile;Alpha Luxe;Cristal templado;Privacidad;4,00;;;
+CH-AL-FUN-SIL;Cherry Mobile;Alpha Luxe;Funda;Silicona;2,50;;;
+CH-AL-FUN-TPU;Cherry Mobile;Alpha Luxe;Funda;Transparente;2,95;;;
+CH-AL-FUN-LIB;Cherry Mobile;Alpha Luxe;Funda;Libro;3,70;;;
+CH-AL-FUN-ANT;Cherry Mobile;Alpha Luxe;Funda;Antigolpes;3,10;;;
+CH-AS-PRO-NA;Cherry Mobile;Alpha Style;Cristal templado;Estándar;1,30;;;
+CH-AS-PRO-PRI;Cherry Mobile;Alpha Style;Cristal templado;Privacidad;4,00;;;
+CH-AS-FUN-SIL;Cherry Mobile;Alpha Style;Funda;Silicona;2,50;;;
+CH-AS-FUN-TPU;Cherry Mobile;Alpha Style;Funda;Transparente;2,95;;;
+CH-AS-FUN-LIB;Cherry Mobile;Alpha Style;Funda;Libro;3,70;;;
+CH-AS-FUN-ANT;Cherry Mobile;Alpha Style;Funda;Antigolpes;3,10;;;
+CH-FS8-MAR-COM;Cherry Mobile;Flare S8;Marco / chasis;Compatible;6,49;;;6
+CH-FS8-BOT-COM;Cherry Mobile;Flare S8;Botones laterales;Compatible;3,35;;;6
+CH-FS8-CRI-COM;Cherry Mobile;Flare S8;Cristal de pantalla;Compatible;3,30;;;6
+CH-FS8-ANT-COM;Cherry Mobile;Flare S8;Antena / coaxial;Compatible;2,89;;;6
+CH-FS8-HUE-COM;Cherry Mobile;Flare S8;Botón home / huella;Compatible;4,79;;;6
+CH-FS8D-MAR-COM;Cherry Mobile;Flare S8 Deluxe;Marco / chasis;Compatible;6,49;;;6
+CH-FS8D-BOT-COM;Cherry Mobile;Flare S8 Deluxe;Botones laterales;Compatible;3,35;;;6
+CH-FS8D-CRI-COM;Cherry Mobile;Flare S8 Deluxe;Cristal de pantalla;Compatible;3,30;;;6
+CH-FS8D-ANT-COM;Cherry Mobile;Flare S8 Deluxe;Antena / coaxial;Compatible;2,89;;;6
+CH-FS8D-HUE-COM;Cherry Mobile;Flare S8 Deluxe;Botón home / huella;Compatible;4,79;;;6
+CH-FS8L-MAR-COM;Cherry Mobile;Flare S8 Lite;Marco / chasis;Compatible;6,49;;;6
+CH-FS8L-BOT-COM;Cherry Mobile;Flare S8 Lite;Botones laterales;Compatible;3,35;;;6
+CH-FS8L-CRI-COM;Cherry Mobile;Flare S8 Lite;Cristal de pantalla;Compatible;3,30;;;6
+CH-FS8L-ANT-COM;Cherry Mobile;Flare S8 Lite;Antena / coaxial;Compatible;2,89;;;6
+CH-FS8L-HUE-COM;Cherry Mobile;Flare S8 Lite;Botón home / huella;Compatible;4,79;;;6
+CH-FS8PL-MAR-COM;Cherry Mobile;Flare S8 Plus;Marco / chasis;Compatible;6,49;;;6
+CH-FS8PL-BOT-COM;Cherry Mobile;Flare S8 Plus;Botones laterales;Compatible;3,35;;;6
+CH-FS8PL-CRI-COM;Cherry Mobile;Flare S8 Plus;Cristal de pantalla;Compatible;3,30;;;6
+CH-FS8PL-ANT-COM;Cherry Mobile;Flare S8 Plus;Antena / coaxial;Compatible;2,89;;;6
+CH-FS8PL-HUE-COM;Cherry Mobile;Flare S8 Plus;Botón home / huella;Compatible;4,79;;;6
+CH-FS8P-MAR-COM;Cherry Mobile;Flare S8 Pro;Marco / chasis;Compatible;6,49;;;6
+CH-FS8P-BOT-COM;Cherry Mobile;Flare S8 Pro;Botones laterales;Compatible;3,35;;;6
+CH-FS8P-CRI-COM;Cherry Mobile;Flare S8 Pro;Cristal de pantalla;Compatible;3,30;;;6
+CH-FS8P-ANT-COM;Cherry Mobile;Flare S8 Pro;Antena / coaxial;Compatible;2,89;;;6
+CH-FS8P-HUE-COM;Cherry Mobile;Flare S8 Pro;Botón home / huella;Compatible;4,79;;;6
+CH-FS7-MAR-COM;Cherry Mobile;Flare S7;Marco / chasis;Compatible;6,49;;;6
+CH-FS7-BOT-COM;Cherry Mobile;Flare S7;Botones laterales;Compatible;3,35;;;6
+CH-FS7-CRI-COM;Cherry Mobile;Flare S7;Cristal de pantalla;Compatible;3,30;;;6
+CH-FS7-ANT-COM;Cherry Mobile;Flare S7;Antena / coaxial;Compatible;2,89;;;6
+CH-FS7-HUE-COM;Cherry Mobile;Flare S7;Botón home / huella;Compatible;4,79;;;6
+CH-FS7L-MAR-COM;Cherry Mobile;Flare S7 Lite;Marco / chasis;Compatible;6,49;;;6
+CH-FS7L-BOT-COM;Cherry Mobile;Flare S7 Lite;Botones laterales;Compatible;3,35;;;6
+CH-FS7L-CRI-COM;Cherry Mobile;Flare S7 Lite;Cristal de pantalla;Compatible;3,30;;;6
+CH-FS7L-ANT-COM;Cherry Mobile;Flare S7 Lite;Antena / coaxial;Compatible;2,89;;;6
+CH-FS7L-HUE-COM;Cherry Mobile;Flare S7 Lite;Botón home / huella;Compatible;4,79;;;6
+CH-FS7MN-MAR-COM;Cherry Mobile;Flare S7 Mini;Marco / chasis;Compatible;6,49;;;6
+CH-FS7MN-BOT-COM;Cherry Mobile;Flare S7 Mini;Botones laterales;Compatible;3,35;;;6
+CH-FS7MN-CRI-COM;Cherry Mobile;Flare S7 Mini;Cristal de pantalla;Compatible;3,30;;;6
+CH-FS7MN-ANT-COM;Cherry Mobile;Flare S7 Mini;Antena / coaxial;Compatible;2,89;;;6
+CH-FS7MN-HUE-COM;Cherry Mobile;Flare S7 Mini;Botón home / huella;Compatible;4,79;;;6
+CH-FS7PW-MAR-COM;Cherry Mobile;Flare S7 Power;Marco / chasis;Compatible;6,49;;;6
+CH-FS7PW-BOT-COM;Cherry Mobile;Flare S7 Power;Botones laterales;Compatible;3,35;;;6
+CH-FS7PW-CRI-COM;Cherry Mobile;Flare S7 Power;Cristal de pantalla;Compatible;3,30;;;6
+CH-FS7PW-ANT-COM;Cherry Mobile;Flare S7 Power;Antena / coaxial;Compatible;2,89;;;6
+CH-FS7PW-HUE-COM;Cherry Mobile;Flare S7 Power;Botón home / huella;Compatible;4,79;;;6
+CH-FS7P-MAR-COM;Cherry Mobile;Flare S7 Prime;Marco / chasis;Compatible;6,49;;;6
+CH-FS7P-BOT-COM;Cherry Mobile;Flare S7 Prime;Botones laterales;Compatible;3,35;;;6
+CH-FS7P-CRI-COM;Cherry Mobile;Flare S7 Prime;Cristal de pantalla;Compatible;3,30;;;6
+CH-FS7P-ANT-COM;Cherry Mobile;Flare S7 Prime;Antena / coaxial;Compatible;2,89;;;6
+CH-FS7P-HUE-COM;Cherry Mobile;Flare S7 Prime;Botón home / huella;Compatible;4,79;;;6
+CH-FS7PL-MAR-COM;Cherry Mobile;Flare S7 Plus;Marco / chasis;Compatible;6,49;;;6
+CH-FS7PL-BOT-COM;Cherry Mobile;Flare S7 Plus;Botones laterales;Compatible;3,35;;;6
+CH-FS7PL-CRI-COM;Cherry Mobile;Flare S7 Plus;Cristal de pantalla;Compatible;3,30;;;6
+CH-FS7PL-ANT-COM;Cherry Mobile;Flare S7 Plus;Antena / coaxial;Compatible;2,89;;;6
+CH-FS7PL-HUE-COM;Cherry Mobile;Flare S7 Plus;Botón home / huella;Compatible;4,79;;;6
+CH-AP4-MAR-COM;Cherry Mobile;Alpha Prime 4;Marco / chasis;Compatible;5,75;;;6
+CH-AP4-BOT-COM;Cherry Mobile;Alpha Prime 4;Botones laterales;Compatible;2,95;;;6
+CH-AP4-CRI-COM;Cherry Mobile;Alpha Prime 4;Cristal de pantalla;Compatible;2,95;;;6
+CH-AP4-ANT-COM;Cherry Mobile;Alpha Prime 4;Antena / coaxial;Compatible;2,55;;;6
+CH-AP4-HUE-COM;Cherry Mobile;Alpha Prime 4;Botón home / huella;Compatible;4,25;;;6
+CH-AP5-MAR-COM;Cherry Mobile;Alpha Prime 5;Marco / chasis;Compatible;5,75;;;6
+CH-AP5-BOT-COM;Cherry Mobile;Alpha Prime 5;Botones laterales;Compatible;2,95;;;6
+CH-AP5-CRI-COM;Cherry Mobile;Alpha Prime 5;Cristal de pantalla;Compatible;2,95;;;6
+CH-AP5-ANT-COM;Cherry Mobile;Alpha Prime 5;Antena / coaxial;Compatible;2,55;;;6
+CH-AP5-HUE-COM;Cherry Mobile;Alpha Prime 5;Botón home / huella;Compatible;4,25;;;6
+CH-AN-MAR-COM;Cherry Mobile;Alpha Neon;Marco / chasis;Compatible;5,75;;;6
+CH-AN-BOT-COM;Cherry Mobile;Alpha Neon;Botones laterales;Compatible;2,95;;;6
+CH-AN-CRI-COM;Cherry Mobile;Alpha Neon;Cristal de pantalla;Compatible;2,95;;;6
+CH-AN-ANT-COM;Cherry Mobile;Alpha Neon;Antena / coaxial;Compatible;2,55;;;6
+CH-AV-MAR-COM;Cherry Mobile;Alpha View;Marco / chasis;Compatible;5,75;;;6
+CH-AV-BOT-COM;Cherry Mobile;Alpha View;Botones laterales;Compatible;2,95;;;6
+CH-AV-CRI-COM;Cherry Mobile;Alpha View;Cristal de pantalla;Compatible;2,95;;;6
+CH-AV-ANT-COM;Cherry Mobile;Alpha View;Antena / coaxial;Compatible;2,55;;;6
+CH-AL-MAR-COM;Cherry Mobile;Alpha Luxe;Marco / chasis;Compatible;5,75;;;6
+CH-AL-BOT-COM;Cherry Mobile;Alpha Luxe;Botones laterales;Compatible;2,95;;;6
+CH-AL-ANT-COM;Cherry Mobile;Alpha Luxe;Antena / coaxial;Compatible;2,55;;;6
+CH-AS-MAR-COM;Cherry Mobile;Alpha Style;Marco / chasis;Compatible;5,75;;;6
+CH-AS-BOT-COM;Cherry Mobile;Alpha Style;Botones laterales;Compatible;2,95;;;6
+CH-AS-ANT-COM;Cherry Mobile;Alpha Style;Antena / coaxial;Compatible;2,55;;;6

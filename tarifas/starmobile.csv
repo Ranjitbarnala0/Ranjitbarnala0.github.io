@@ -1,0 +1,101 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+ST-UPS-PAN-COM;Starmobile;Up Snap;Pantalla;Compatible;15,15;14,70;14,24;6
+ST-UPS-BAT-COM;Starmobile;Up Snap;Batería;Compatible;9,65;;;6
+ST-UPS-CON-COM;Starmobile;Up Snap;Conector de carga;Compatible;4,60;;;6
+ST-UPS-TAP-COM;Starmobile;Up Snap;Tapa trasera;Compatible;5,40;;;6
+ST-UPS-CTR-COM;Starmobile;Up Snap;Cámara trasera;Compatible;7,59;;;6
+ST-UPS-CFR-COM;Starmobile;Up Snap;Cámara frontal;Compatible;4,99;;;6
+ST-UPS-LEN-COM;Starmobile;Up Snap;Lente de cámara;Compatible;2,19;;;6
+ST-UPS-ALT-COM;Starmobile;Up Snap;Altavoz;Compatible;3,65;;;6
+ST-UPS-AUR-COM;Starmobile;Up Snap;Auricular de llamada;Compatible;2,65;;;6
+ST-UPS-FLX-COM;Starmobile;Up Snap;Flex de encendido y volumen;Compatible;2,49;;;6
+ST-UPS-SIM-COM;Starmobile;Up Snap;Bandeja SIM;Compatible;2,55;;;6
+ST-UPMN-PAN-COM;Starmobile;Up Mini;Pantalla;Compatible;15,15;14,70;14,24;6
+ST-UPMN-BAT-COM;Starmobile;Up Mini;Batería;Compatible;9,65;;;6
+ST-UPMN-CON-COM;Starmobile;Up Mini;Conector de carga;Compatible;4,60;;;6
+ST-UPMN-TAP-COM;Starmobile;Up Mini;Tapa trasera;Compatible;5,40;;;6
+ST-UPMN-CTR-COM;Starmobile;Up Mini;Cámara trasera;Compatible;7,59;;;6
+ST-UPMN-CFR-COM;Starmobile;Up Mini;Cámara frontal;Compatible;4,99;;;6
+ST-UPMN-LEN-COM;Starmobile;Up Mini;Lente de cámara;Compatible;2,19;;;6
+ST-UPMN-ALT-COM;Starmobile;Up Mini;Altavoz;Compatible;3,65;;;6
+ST-UPMN-AUR-COM;Starmobile;Up Mini;Auricular de llamada;Compatible;2,65;;;6
+ST-UPMN-FLX-COM;Starmobile;Up Mini;Flex de encendido y volumen;Compatible;2,49;;;6
+ST-UPMN-SIM-COM;Starmobile;Up Mini;Bandeja SIM;Compatible;2,55;;;6
+ST-O-PAN-COM;Starmobile;Octa;Pantalla;Compatible;15,15;14,70;14,24;6
+ST-O-BAT-COM;Starmobile;Octa;Batería;Compatible;9,65;;;6
+ST-O-CON-COM;Starmobile;Octa;Conector de carga;Compatible;4,60;;;6
+ST-O-TAP-COM;Starmobile;Octa;Tapa trasera;Compatible;5,40;;;6
+ST-O-CTR-COM;Starmobile;Octa;Cámara trasera;Compatible;7,59;;;6
+ST-O-CFR-COM;Starmobile;Octa;Cámara frontal;Compatible;4,99;;;6
+ST-O-LEN-COM;Starmobile;Octa;Lente de cámara;Compatible;2,19;;;6
+ST-O-ALT-COM;Starmobile;Octa;Altavoz;Compatible;3,65;;;6
+ST-O-AUR-COM;Starmobile;Octa;Auricular de llamada;Compatible;2,65;;;6
+ST-O-FLX-COM;Starmobile;Octa;Flex de encendido y volumen;Compatible;2,49;;;6
+ST-O-SIM-COM;Starmobile;Octa;Bandeja SIM;Compatible;2,55;;;6
+ST-DD3-PAN-COM;Starmobile;Diamond D3;Pantalla;Compatible;15,15;14,70;14,24;6
+ST-DD3-BAT-COM;Starmobile;Diamond D3;Batería;Compatible;9,65;;;6
+ST-DD3-CON-COM;Starmobile;Diamond D3;Conector de carga;Compatible;4,60;;;6
+ST-DD3-TAP-COM;Starmobile;Diamond D3;Tapa trasera;Compatible;5,40;;;6
+ST-DD3-CTR-COM;Starmobile;Diamond D3;Cámara trasera;Compatible;7,59;;;6
+ST-DD3-CFR-COM;Starmobile;Diamond D3;Cámara frontal;Compatible;4,99;;;6
+ST-DD3-LEN-COM;Starmobile;Diamond D3;Lente de cámara;Compatible;2,19;;;6
+ST-DD3-ALT-COM;Starmobile;Diamond D3;Altavoz;Compatible;3,65;;;6
+ST-DD3-AUR-COM;Starmobile;Diamond D3;Auricular de llamada;Compatible;2,65;;;6
+ST-DD3-FLX-COM;Starmobile;Diamond D3;Flex de encendido y volumen;Compatible;2,49;;;6
+ST-DD3-SIM-COM;Starmobile;Diamond D3;Bandeja SIM;Compatible;2,55;;;6
+ST-DX1-PAN-COM;Starmobile;Diamond X1;Pantalla;Compatible;15,15;14,70;14,24;6
+ST-DX1-BAT-COM;Starmobile;Diamond X1;Batería;Compatible;9,65;;;6
+ST-DX1-CON-COM;Starmobile;Diamond X1;Conector de carga;Compatible;4,60;;;6
+ST-DX1-TAP-COM;Starmobile;Diamond X1;Tapa trasera;Compatible;5,40;;;6
+ST-DX1-CTR-COM;Starmobile;Diamond X1;Cámara trasera;Compatible;7,59;;;6
+ST-DX1-CFR-COM;Starmobile;Diamond X1;Cámara frontal;Compatible;4,99;;;6
+ST-DX1-LEN-COM;Starmobile;Diamond X1;Lente de cámara;Compatible;2,19;;;6
+ST-DX1-ALT-COM;Starmobile;Diamond X1;Altavoz;Compatible;3,65;;;6
+ST-DX1-AUR-COM;Starmobile;Diamond X1;Auricular de llamada;Compatible;2,65;;;6
+ST-DX1-FLX-COM;Starmobile;Diamond X1;Flex de encendido y volumen;Compatible;2,49;;;6
+ST-DX1-SIM-COM;Starmobile;Diamond X1;Bandeja SIM;Compatible;2,55;;;6
+ST-UPS-PRO-NA;Starmobile;Up Snap;Cristal templado;Estándar;1,30;;;
+ST-UPS-PRO-PRI;Starmobile;Up Snap;Cristal templado;Privacidad;4,00;;;
+ST-UPS-FUN-SIL;Starmobile;Up Snap;Funda;Silicona;2,50;;;
+ST-UPS-FUN-TPU;Starmobile;Up Snap;Funda;Transparente;2,95;;;
+ST-UPS-FUN-LIB;Starmobile;Up Snap;Funda;Libro;3,70;;;
+ST-UPS-FUN-ANT;Starmobile;Up Snap;Funda;Antigolpes;3,10;;;
+ST-UPMN-PRO-NA;Starmobile;Up Mini;Cristal templado;Estándar;1,30;;;
+ST-UPMN-PRO-PRI;Starmobile;Up Mini;Cristal templado;Privacidad;4,00;;;
+ST-UPMN-FUN-SIL;Starmobile;Up Mini;Funda;Silicona;2,50;;;
+ST-UPMN-FUN-TPU;Starmobile;Up Mini;Funda;Transparente;2,95;;;
+ST-UPMN-FUN-LIB;Starmobile;Up Mini;Funda;Libro;3,70;;;
+ST-UPMN-FUN-ANT;Starmobile;Up Mini;Funda;Antigolpes;3,10;;;
+ST-O-PRO-NA;Starmobile;Octa;Cristal templado;Estándar;1,30;;;
+ST-O-PRO-PRI;Starmobile;Octa;Cristal templado;Privacidad;4,00;;;
+ST-O-FUN-SIL;Starmobile;Octa;Funda;Silicona;2,50;;;
+ST-O-FUN-TPU;Starmobile;Octa;Funda;Transparente;2,95;;;
+ST-O-FUN-LIB;Starmobile;Octa;Funda;Libro;3,70;;;
+ST-O-FUN-ANT;Starmobile;Octa;Funda;Antigolpes;3,10;;;
+ST-DD3-PRO-NA;Starmobile;Diamond D3;Cristal templado;Estándar;1,30;;;
+ST-DD3-PRO-PRI;Starmobile;Diamond D3;Cristal templado;Privacidad;4,00;;;
+ST-DD3-FUN-SIL;Starmobile;Diamond D3;Funda;Silicona;2,50;;;
+ST-DD3-FUN-TPU;Starmobile;Diamond D3;Funda;Transparente;2,95;;;
+ST-DD3-FUN-LIB;Starmobile;Diamond D3;Funda;Libro;3,70;;;
+ST-DD3-FUN-ANT;Starmobile;Diamond D3;Funda;Antigolpes;3,10;;;
+ST-DX1-PRO-NA;Starmobile;Diamond X1;Cristal templado;Estándar;1,30;;;
+ST-DX1-PRO-PRI;Starmobile;Diamond X1;Cristal templado;Privacidad;4,00;;;
+ST-DX1-FUN-SIL;Starmobile;Diamond X1;Funda;Silicona;2,50;;;
+ST-DX1-FUN-TPU;Starmobile;Diamond X1;Funda;Transparente;2,95;;;
+ST-DX1-FUN-LIB;Starmobile;Diamond X1;Funda;Libro;3,70;;;
+ST-DX1-FUN-ANT;Starmobile;Diamond X1;Funda;Antigolpes;3,10;;;
+ST-UPS-MAR-COM;Starmobile;Up Snap;Marco / chasis;Compatible;5,75;;;6
+ST-UPS-BOT-COM;Starmobile;Up Snap;Botones laterales;Compatible;2,95;;;6
+ST-UPS-ANT-COM;Starmobile;Up Snap;Antena / coaxial;Compatible;2,55;;;6
+ST-UPMN-MAR-COM;Starmobile;Up Mini;Marco / chasis;Compatible;5,75;;;6
+ST-UPMN-BOT-COM;Starmobile;Up Mini;Botones laterales;Compatible;2,95;;;6
+ST-UPMN-ANT-COM;Starmobile;Up Mini;Antena / coaxial;Compatible;2,55;;;6
+ST-O-MAR-COM;Starmobile;Octa;Marco / chasis;Compatible;5,75;;;6
+ST-O-BOT-COM;Starmobile;Octa;Botones laterales;Compatible;2,95;;;6
+ST-O-ANT-COM;Starmobile;Octa;Antena / coaxial;Compatible;2,55;;;6
+ST-DD3-MAR-COM;Starmobile;Diamond D3;Marco / chasis;Compatible;5,75;;;6
+ST-DD3-BOT-COM;Starmobile;Diamond D3;Botones laterales;Compatible;2,95;;;6
+ST-DD3-ANT-COM;Starmobile;Diamond D3;Antena / coaxial;Compatible;2,55;;;6
+ST-DX1-MAR-COM;Starmobile;Diamond X1;Marco / chasis;Compatible;5,75;;;6
+ST-DX1-BOT-COM;Starmobile;Diamond X1;Botones laterales;Compatible;2,95;;;6
+ST-DX1-ANT-COM;Starmobile;Diamond X1;Antena / coaxial;Compatible;2,55;;;6

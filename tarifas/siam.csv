@@ -1,0 +1,22 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+SM-7X-PAN-COM;Siam;7X;Pantalla;Compatible;15,15;14,70;14,24;6
+SM-7X-BAT-COM;Siam;7X;Batería;Compatible;9,65;;;6
+SM-7X-CON-COM;Siam;7X;Conector de carga;Compatible;4,60;;;6
+SM-7X-TAP-COM;Siam;7X;Tapa trasera;Compatible;5,40;;;6
+SM-7X-CTR-COM;Siam;7X;Cámara trasera;Compatible;7,59;;;6
+SM-7X-CFR-COM;Siam;7X;Cámara frontal;Compatible;4,99;;;6
+SM-7X-LEN-COM;Siam;7X;Lente de cámara;Compatible;2,19;;;6
+SM-7X-ALT-COM;Siam;7X;Altavoz;Compatible;3,65;;;6
+SM-7X-AUR-COM;Siam;7X;Auricular de llamada;Compatible;2,65;;;6
+SM-7X-FLX-COM;Siam;7X;Flex de encendido y volumen;Compatible;2,49;;;6
+SM-7X-SIM-COM;Siam;7X;Bandeja SIM;Compatible;2,55;;;6
+SM-7X-PRO-NA;Siam;7X;Cristal templado;Estándar;1,30;;;
+SM-7X-PRO-PRI;Siam;7X;Cristal templado;Privacidad;4,00;;;
+SM-7X-FUN-SIL;Siam;7X;Funda;Silicona;2,50;;;
+SM-7X-FUN-TPU;Siam;7X;Funda;Transparente;2,95;;;
+SM-7X-FUN-LIB;Siam;7X;Funda;Libro;3,70;;;
+SM-7X-FUN-ANT;Siam;7X;Funda;Antigolpes;3,10;;;
+SM-7X-MAR-COM;Siam;7X;Marco / chasis;Compatible;5,75;;;6
+SM-7X-BOT-COM;Siam;7X;Botones laterales;Compatible;2,95;;;6
+SM-7X-CRI-COM;Siam;7X;Cristal de pantalla;Compatible;2,95;;;6
+SM-7X-ANT-COM;Siam;7X;Antena / coaxial;Compatible;2,55;;;6

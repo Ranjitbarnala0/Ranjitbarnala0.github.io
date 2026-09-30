@@ -1,0 +1,155 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+UN-T2EP-PAN-INC;Unihertz;Titan 2 Elite Pro;Pantalla;Incell;21,05;20,42;19,79;6
+UN-T2EP-BAT-COM;Unihertz;Titan 2 Elite Pro;Batería;Compatible;8,89;;;6
+UN-T2EP-CON-COM;Unihertz;Titan 2 Elite Pro;Conector de carga;Compatible;6,00;;;6
+UN-T2EP-TAP-COM;Unihertz;Titan 2 Elite Pro;Tapa trasera;Compatible;6,65;;;6
+UN-T2EP-CTR-COM;Unihertz;Titan 2 Elite Pro;Cámara trasera;Compatible;11,85;11,49;11,14;6
+UN-T2EP-CFR-COM;Unihertz;Titan 2 Elite Pro;Cámara frontal;Compatible;7,49;;;6
+UN-T2EP-LEN-COM;Unihertz;Titan 2 Elite Pro;Lente de cámara;Compatible;2,95;;;6
+UN-T2EP-ALT-COM;Unihertz;Titan 2 Elite Pro;Altavoz;Compatible;4,75;;;6
+UN-T2EP-AUR-COM;Unihertz;Titan 2 Elite Pro;Auricular de llamada;Compatible;3,70;;;6
+UN-T2EP-FLX-COM;Unihertz;Titan 2 Elite Pro;Flex de encendido y volumen;Compatible;3,05;;;6
+UN-T2EP-SIM-COM;Unihertz;Titan 2 Elite Pro;Bandeja SIM;Compatible;3,00;;;6
+UN-T2E-PAN-INC;Unihertz;Titan 2 Elite;Pantalla;Incell;21,05;20,42;19,79;6
+UN-T2E-BAT-COM;Unihertz;Titan 2 Elite;Batería;Compatible;8,89;;;6
+UN-T2E-CON-COM;Unihertz;Titan 2 Elite;Conector de carga;Compatible;6,00;;;6
+UN-T2E-TAP-COM;Unihertz;Titan 2 Elite;Tapa trasera;Compatible;6,65;;;6
+UN-T2E-CTR-COM;Unihertz;Titan 2 Elite;Cámara trasera;Compatible;11,85;11,49;11,14;6
+UN-T2E-CFR-COM;Unihertz;Titan 2 Elite;Cámara frontal;Compatible;7,49;;;6
+UN-T2E-LEN-COM;Unihertz;Titan 2 Elite;Lente de cámara;Compatible;2,95;;;6
+UN-T2E-ALT-COM;Unihertz;Titan 2 Elite;Altavoz;Compatible;4,75;;;6
+UN-T2E-AUR-COM;Unihertz;Titan 2 Elite;Auricular de llamada;Compatible;3,70;;;6
+UN-T2E-FLX-COM;Unihertz;Titan 2 Elite;Flex de encendido y volumen;Compatible;3,05;;;6
+UN-T2E-SIM-COM;Unihertz;Titan 2 Elite;Bandeja SIM;Compatible;3,00;;;6
+UN-T2-PAN-COM;Unihertz;Titan 2;Pantalla;Compatible;18,05;17,51;16,97;6
+UN-T2-BAT-COM;Unihertz;Titan 2;Batería;Compatible;8,89;;;6
+UN-T2-CON-COM;Unihertz;Titan 2;Conector de carga;Compatible;6,00;;;6
+UN-T2-TAP-COM;Unihertz;Titan 2;Tapa trasera;Compatible;6,65;;;6
+UN-T2-CTR-COM;Unihertz;Titan 2;Cámara trasera;Compatible;11,85;11,49;11,14;6
+UN-T2-CFR-COM;Unihertz;Titan 2;Cámara frontal;Compatible;7,49;;;6
+UN-T2-LEN-COM;Unihertz;Titan 2;Lente de cámara;Compatible;2,95;;;6
+UN-T2-ALT-COM;Unihertz;Titan 2;Altavoz;Compatible;4,75;;;6
+UN-T2-AUR-COM;Unihertz;Titan 2;Auricular de llamada;Compatible;3,70;;;6
+UN-T2-FLX-COM;Unihertz;Titan 2;Flex de encendido y volumen;Compatible;3,05;;;6
+UN-T2-SIM-COM;Unihertz;Titan 2;Bandeja SIM;Compatible;3,00;;;6
+UN-TS-PAN-COM;Unihertz;Titan Slim;Pantalla;Compatible;16,10;15,62;15,13;6
+UN-TS-BAT-COM;Unihertz;Titan Slim;Batería;Compatible;8,25;;;6
+UN-TS-CON-COM;Unihertz;Titan Slim;Conector de carga;Compatible;4,40;;;6
+UN-TS-TAP-COM;Unihertz;Titan Slim;Tapa trasera;Compatible;5,55;;;6
+UN-TS-CTR-COM;Unihertz;Titan Slim;Cámara trasera;Compatible;6,19;;;6
+UN-TS-CFR-COM;Unihertz;Titan Slim;Cámara frontal;Compatible;3,65;;;6
+UN-TS-LEN-COM;Unihertz;Titan Slim;Lente de cámara;Compatible;2,20;;;6
+UN-TS-ALT-COM;Unihertz;Titan Slim;Altavoz;Compatible;3,35;;;6
+UN-TS-AUR-COM;Unihertz;Titan Slim;Auricular de llamada;Compatible;2,40;;;6
+UN-TS-FLX-COM;Unihertz;Titan Slim;Flex de encendido y volumen;Compatible;2,29;;;6
+UN-TS-SIM-COM;Unihertz;Titan Slim;Bandeja SIM;Compatible;2,60;;;6
+UN-TICKTOCK-PAN-COM;Unihertz;TickTock;Pantalla;Compatible;16,10;15,62;15,13;6
+UN-TICKTOCK-BAT-COM;Unihertz;TickTock;Batería;Compatible;8,25;;;6
+UN-TICKTOCK-CON-COM;Unihertz;TickTock;Conector de carga;Compatible;4,40;;;6
+UN-TICKTOCK-TAP-COM;Unihertz;TickTock;Tapa trasera;Compatible;5,55;;;6
+UN-TICKTOCK-CTR-COM;Unihertz;TickTock;Cámara trasera;Compatible;6,19;;;6
+UN-TICKTOCK-CFR-COM;Unihertz;TickTock;Cámara frontal;Compatible;3,65;;;6
+UN-TICKTOCK-LEN-COM;Unihertz;TickTock;Lente de cámara;Compatible;2,20;;;6
+UN-TICKTOCK-ALT-COM;Unihertz;TickTock;Altavoz;Compatible;3,35;;;6
+UN-TICKTOCK-AUR-COM;Unihertz;TickTock;Auricular de llamada;Compatible;2,40;;;6
+UN-TICKTOCK-FLX-COM;Unihertz;TickTock;Flex de encendido y volumen;Compatible;2,29;;;6
+UN-TICKTOCK-SIM-COM;Unihertz;TickTock;Bandeja SIM;Compatible;2,60;;;6
+UN-TPK-PAN-COM;Unihertz;Titan Pocket;Pantalla;Compatible;16,10;15,62;15,13;6
+UN-TPK-BAT-COM;Unihertz;Titan Pocket;Batería;Compatible;8,25;;;6
+UN-TPK-CON-COM;Unihertz;Titan Pocket;Conector de carga;Compatible;4,40;;;6
+UN-TPK-TAP-COM;Unihertz;Titan Pocket;Tapa trasera;Compatible;5,55;;;6
+UN-TPK-CTR-COM;Unihertz;Titan Pocket;Cámara trasera;Compatible;6,19;;;6
+UN-TPK-CFR-COM;Unihertz;Titan Pocket;Cámara frontal;Compatible;3,65;;;6
+UN-TPK-LEN-COM;Unihertz;Titan Pocket;Lente de cámara;Compatible;2,20;;;6
+UN-TPK-ALT-COM;Unihertz;Titan Pocket;Altavoz;Compatible;3,35;;;6
+UN-TPK-AUR-COM;Unihertz;Titan Pocket;Auricular de llamada;Compatible;2,40;;;6
+UN-TPK-FLX-COM;Unihertz;Titan Pocket;Flex de encendido y volumen;Compatible;2,29;;;6
+UN-TPK-SIM-COM;Unihertz;Titan Pocket;Bandeja SIM;Compatible;2,60;;;6
+UN-T-PAN-COM;Unihertz;Titan;Pantalla;Compatible;15,15;14,70;14,24;6
+UN-T-BAT-COM;Unihertz;Titan;Batería;Compatible;9,65;;;6
+UN-T-CON-COM;Unihertz;Titan;Conector de carga;Compatible;4,60;;;6
+UN-T-TAP-COM;Unihertz;Titan;Tapa trasera;Compatible;5,40;;;6
+UN-T-CTR-COM;Unihertz;Titan;Cámara trasera;Compatible;7,59;;;6
+UN-T-CFR-COM;Unihertz;Titan;Cámara frontal;Compatible;4,99;;;6
+UN-T-LEN-COM;Unihertz;Titan;Lente de cámara;Compatible;2,19;;;6
+UN-T-ALT-COM;Unihertz;Titan;Altavoz;Compatible;3,65;;;6
+UN-T-AUR-COM;Unihertz;Titan;Auricular de llamada;Compatible;2,65;;;6
+UN-T-FLX-COM;Unihertz;Titan;Flex de encendido y volumen;Compatible;2,49;;;6
+UN-T-SIM-COM;Unihertz;Titan;Bandeja SIM;Compatible;2,55;;;6
+UN-T2EP-PRO-NA;Unihertz;Titan 2 Elite Pro;Cristal templado;Estándar;1,30;;;
+UN-T2EP-PRO-PRI;Unihertz;Titan 2 Elite Pro;Cristal templado;Privacidad;4,00;;;
+UN-T2EP-FUN-SIL;Unihertz;Titan 2 Elite Pro;Funda;Silicona;2,50;;;
+UN-T2EP-FUN-TPU;Unihertz;Titan 2 Elite Pro;Funda;Transparente;2,95;;;
+UN-T2EP-FUN-LIB;Unihertz;Titan 2 Elite Pro;Funda;Libro;3,70;;;
+UN-T2EP-FUN-ANT;Unihertz;Titan 2 Elite Pro;Funda;Antigolpes;3,10;;;
+UN-T2E-PRO-NA;Unihertz;Titan 2 Elite;Cristal templado;Estándar;1,30;;;
+UN-T2E-PRO-PRI;Unihertz;Titan 2 Elite;Cristal templado;Privacidad;4,00;;;
+UN-T2E-FUN-SIL;Unihertz;Titan 2 Elite;Funda;Silicona;2,50;;;
+UN-T2E-FUN-TPU;Unihertz;Titan 2 Elite;Funda;Transparente;2,95;;;
+UN-T2E-FUN-LIB;Unihertz;Titan 2 Elite;Funda;Libro;3,70;;;
+UN-T2E-FUN-ANT;Unihertz;Titan 2 Elite;Funda;Antigolpes;3,10;;;
+UN-T2-PRO-NA;Unihertz;Titan 2;Cristal templado;Estándar;1,30;;;
+UN-T2-PRO-PRI;Unihertz;Titan 2;Cristal templado;Privacidad;4,00;;;
+UN-T2-FUN-SIL;Unihertz;Titan 2;Funda;Silicona;2,50;;;
+UN-T2-FUN-TPU;Unihertz;Titan 2;Funda;Transparente;2,95;;;
+UN-T2-FUN-LIB;Unihertz;Titan 2;Funda;Libro;3,70;;;
+UN-T2-FUN-ANT;Unihertz;Titan 2;Funda;Antigolpes;3,10;;;
+UN-TS-PRO-NA;Unihertz;Titan Slim;Cristal templado;Estándar;1,30;;;
+UN-TS-PRO-PRI;Unihertz;Titan Slim;Cristal templado;Privacidad;4,00;;;
+UN-TS-FUN-SIL;Unihertz;Titan Slim;Funda;Silicona;2,50;;;
+UN-TS-FUN-TPU;Unihertz;Titan Slim;Funda;Transparente;2,95;;;
+UN-TS-FUN-LIB;Unihertz;Titan Slim;Funda;Libro;3,70;;;
+UN-TS-FUN-ANT;Unihertz;Titan Slim;Funda;Antigolpes;3,10;;;
+UN-TICKTOCK-PRO-NA;Unihertz;TickTock;Cristal templado;Estándar;1,30;;;
+UN-TICKTOCK-PRO-PRI;Unihertz;TickTock;Cristal templado;Privacidad;4,00;;;
+UN-TICKTOCK-FUN-SIL;Unihertz;TickTock;Funda;Silicona;2,50;;;
+UN-TICKTOCK-FUN-TPU;Unihertz;TickTock;Funda;Transparente;2,95;;;
+UN-TICKTOCK-FUN-LIB;Unihertz;TickTock;Funda;Libro;3,70;;;
+UN-TICKTOCK-FUN-ANT;Unihertz;TickTock;Funda;Antigolpes;3,10;;;
+UN-TPK-PRO-NA;Unihertz;Titan Pocket;Cristal templado;Estándar;1,30;;;
+UN-TPK-PRO-PRI;Unihertz;Titan Pocket;Cristal templado;Privacidad;4,00;;;
+UN-TPK-FUN-SIL;Unihertz;Titan Pocket;Funda;Silicona;2,50;;;
+UN-TPK-FUN-TPU;Unihertz;Titan Pocket;Funda;Transparente;2,95;;;
+UN-TPK-FUN-LIB;Unihertz;Titan Pocket;Funda;Libro;3,70;;;
+UN-TPK-FUN-ANT;Unihertz;Titan Pocket;Funda;Antigolpes;3,10;;;
+UN-T-PRO-NA;Unihertz;Titan;Cristal templado;Estándar;1,30;;;
+UN-T-PRO-PRI;Unihertz;Titan;Cristal templado;Privacidad;4,00;;;
+UN-T-FUN-SIL;Unihertz;Titan;Funda;Silicona;2,50;;;
+UN-T-FUN-TPU;Unihertz;Titan;Funda;Transparente;2,95;;;
+UN-T-FUN-LIB;Unihertz;Titan;Funda;Libro;3,70;;;
+UN-T-FUN-ANT;Unihertz;Titan;Funda;Antigolpes;3,10;;;
+UN-T2EP-MAR-COM;Unihertz;Titan 2 Elite Pro;Marco / chasis;Compatible;7,90;;;6
+UN-T2EP-BOT-COM;Unihertz;Titan 2 Elite Pro;Botones laterales;Compatible;4,05;;;6
+UN-T2EP-CRI-COM;Unihertz;Titan 2 Elite Pro;Cristal de pantalla;Compatible;4,05;;;6
+UN-T2EP-ANT-COM;Unihertz;Titan 2 Elite Pro;Antena / coaxial;Compatible;3,50;;;6
+UN-T2EP-HUE-COM;Unihertz;Titan 2 Elite Pro;Botón home / huella;Compatible;5,85;;;6
+UN-T2E-MAR-COM;Unihertz;Titan 2 Elite;Marco / chasis;Compatible;7,90;;;6
+UN-T2E-BOT-COM;Unihertz;Titan 2 Elite;Botones laterales;Compatible;4,05;;;6
+UN-T2E-CRI-COM;Unihertz;Titan 2 Elite;Cristal de pantalla;Compatible;4,05;;;6
+UN-T2E-ANT-COM;Unihertz;Titan 2 Elite;Antena / coaxial;Compatible;3,50;;;6
+UN-T2E-HUE-COM;Unihertz;Titan 2 Elite;Botón home / huella;Compatible;5,85;;;6
+UN-T2-MAR-COM;Unihertz;Titan 2;Marco / chasis;Compatible;7,90;;;6
+UN-T2-BOT-COM;Unihertz;Titan 2;Botones laterales;Compatible;4,05;;;6
+UN-T2-CRI-COM;Unihertz;Titan 2;Cristal de pantalla;Compatible;4,05;;;6
+UN-T2-ANT-COM;Unihertz;Titan 2;Antena / coaxial;Compatible;3,50;;;6
+UN-T2-HUE-COM;Unihertz;Titan 2;Botón home / huella;Compatible;5,85;;;6
+UN-TS-MAR-COM;Unihertz;Titan Slim;Marco / chasis;Compatible;7,20;;;6
+UN-TS-BOT-COM;Unihertz;Titan Slim;Botones laterales;Compatible;3,70;;;6
+UN-TS-CRI-COM;Unihertz;Titan Slim;Cristal de pantalla;Compatible;3,69;;;6
+UN-TS-ANT-COM;Unihertz;Titan Slim;Antena / coaxial;Compatible;3,20;;;6
+UN-TS-HUE-COM;Unihertz;Titan Slim;Botón home / huella;Compatible;5,30;;;6
+UN-TICKTOCK-MAR-COM;Unihertz;TickTock;Marco / chasis;Compatible;7,20;;;6
+UN-TICKTOCK-BOT-COM;Unihertz;TickTock;Botones laterales;Compatible;3,70;;;6
+UN-TICKTOCK-CRI-COM;Unihertz;TickTock;Cristal de pantalla;Compatible;3,69;;;6
+UN-TICKTOCK-ANT-COM;Unihertz;TickTock;Antena / coaxial;Compatible;3,20;;;6
+UN-TICKTOCK-HUE-COM;Unihertz;TickTock;Botón home / huella;Compatible;5,30;;;6
+UN-TPK-MAR-COM;Unihertz;Titan Pocket;Marco / chasis;Compatible;7,20;;;6
+UN-TPK-BOT-COM;Unihertz;Titan Pocket;Botones laterales;Compatible;3,70;;;6
+UN-TPK-CRI-COM;Unihertz;Titan Pocket;Cristal de pantalla;Compatible;3,69;;;6
+UN-TPK-ANT-COM;Unihertz;Titan Pocket;Antena / coaxial;Compatible;3,20;;;6
+UN-TPK-HUE-COM;Unihertz;Titan Pocket;Botón home / huella;Compatible;5,30;;;6
+UN-T-MAR-COM;Unihertz;Titan;Marco / chasis;Compatible;6,49;;;6
+UN-T-BOT-COM;Unihertz;Titan;Botones laterales;Compatible;3,35;;;6
+UN-T-CRI-COM;Unihertz;Titan;Cristal de pantalla;Compatible;3,30;;;6
+UN-T-ANT-COM;Unihertz;Titan;Antena / coaxial;Compatible;2,89;;;6
+UN-T-HUE-COM;Unihertz;Titan;Botón home / huella;Compatible;4,79;;;6

@@ -1,0 +1,1812 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+AP-IP6S-PAN-COM;Apple;iPhone 6s;Pantalla;Compatible;17,99;17,45;16,91;6
+AP-IP6S-BAT-COM;Apple;iPhone 6s;Batería;Compatible;12,45;12,08;11,70;6
+AP-IP6S-CON-COM;Apple;iPhone 6s;Conector de carga;Compatible;5,99;;;6
+AP-IP6S-TAP-COM-GRI;Apple;iPhone 6s;Tapa trasera;Gris espacial;5,25;;;6
+AP-IP6S-TAP-COM-PLA;Apple;iPhone 6s;Tapa trasera;Plateado;5,25;;;6
+AP-IP6S-TAP-COM-DOR;Apple;iPhone 6s;Tapa trasera;Dorado;5,25;;;6
+AP-IP6S-TAP-COM-ORO;Apple;iPhone 6s;Tapa trasera;Oro rosa;5,25;;;6
+AP-IP6S-CTR-COM;Apple;iPhone 6s;Cámara trasera;Compatible;11,25;10,91;10,58;6
+AP-IP6S-CFR-COM;Apple;iPhone 6s;Cámara frontal;Compatible;5,70;;;6
+AP-IP6S-LEN-COM;Apple;iPhone 6s;Lente de cámara;Compatible;3,00;;;6
+AP-IP6S-ALT-COM;Apple;iPhone 6s;Altavoz;Compatible;4,29;;;6
+AP-IP6S-AUR-COM;Apple;iPhone 6s;Auricular de llamada;Compatible;5,05;;;6
+AP-IP6S-FLX-COM;Apple;iPhone 6s;Flex de encendido y volumen;Compatible;4,30;;;6
+AP-IP6S-SIM-COM-GRI;Apple;iPhone 6s;Bandeja SIM;Gris espacial;2,60;;;6
+AP-IP6S-SIM-COM-PLA;Apple;iPhone 6s;Bandeja SIM;Plateado;2,60;;;6
+AP-IP6S-SIM-COM-DOR;Apple;iPhone 6s;Bandeja SIM;Dorado;2,60;;;6
+AP-IP6S-SIM-COM-ORO;Apple;iPhone 6s;Bandeja SIM;Oro rosa;2,60;;;6
+AP-IP6SPL-PAN-COM;Apple;iPhone 6s Plus;Pantalla;Compatible;17,99;17,45;16,91;6
+AP-IP6SPL-BAT-COM;Apple;iPhone 6s Plus;Batería;Compatible;12,45;12,08;11,70;6
+AP-IP6SPL-CON-COM;Apple;iPhone 6s Plus;Conector de carga;Compatible;5,99;;;6
+AP-IP6SPL-TAP-COM-GRI;Apple;iPhone 6s Plus;Tapa trasera;Gris espacial;5,25;;;6
+AP-IP6SPL-TAP-COM-PLA;Apple;iPhone 6s Plus;Tapa trasera;Plateado;5,25;;;6
+AP-IP6SPL-TAP-COM-DOR;Apple;iPhone 6s Plus;Tapa trasera;Dorado;5,25;;;6
+AP-IP6SPL-TAP-COM-ORO;Apple;iPhone 6s Plus;Tapa trasera;Oro rosa;5,25;;;6
+AP-IP6SPL-CTR-COM;Apple;iPhone 6s Plus;Cámara trasera;Compatible;11,25;10,91;10,58;6
+AP-IP6SPL-CFR-COM;Apple;iPhone 6s Plus;Cámara frontal;Compatible;5,70;;;6
+AP-IP6SPL-LEN-COM;Apple;iPhone 6s Plus;Lente de cámara;Compatible;3,00;;;6
+AP-IP6SPL-ALT-COM;Apple;iPhone 6s Plus;Altavoz;Compatible;4,29;;;6
+AP-IP6SPL-AUR-COM;Apple;iPhone 6s Plus;Auricular de llamada;Compatible;5,05;;;6
+AP-IP6SPL-FLX-COM;Apple;iPhone 6s Plus;Flex de encendido y volumen;Compatible;4,30;;;6
+AP-IP6SPL-SIM-COM-GRI;Apple;iPhone 6s Plus;Bandeja SIM;Gris espacial;2,60;;;6
+AP-IP6SPL-SIM-COM-PLA;Apple;iPhone 6s Plus;Bandeja SIM;Plateado;2,60;;;6
+AP-IP6SPL-SIM-COM-DOR;Apple;iPhone 6s Plus;Bandeja SIM;Dorado;2,60;;;6
+AP-IP6SPL-SIM-COM-ORO;Apple;iPhone 6s Plus;Bandeja SIM;Oro rosa;2,60;;;6
+AP-IPSE1-PAN-COM;Apple;iPhone SE (1.ª generación);Pantalla;Compatible;7,40;;;6
+AP-IPSE1-BAT-COM;Apple;iPhone SE (1.ª generación);Batería;Compatible;12,95;12,56;12,17;6
+AP-IPSE1-CON-COM;Apple;iPhone SE (1.ª generación);Conector de carga;Compatible;6,49;;;6
+AP-IPSE1-TAP-COM-GRI;Apple;iPhone SE (1.ª generación);Tapa trasera;Gris espacial;5,45;;;6
+AP-IPSE1-TAP-COM-PLA;Apple;iPhone SE (1.ª generación);Tapa trasera;Plateado;5,45;;;6
+AP-IPSE1-TAP-COM-DOR;Apple;iPhone SE (1.ª generación);Tapa trasera;Dorado;5,45;;;6
+AP-IPSE1-TAP-COM-ORO;Apple;iPhone SE (1.ª generación);Tapa trasera;Oro rosa;5,45;;;6
+AP-IPSE1-CTR-COM;Apple;iPhone SE (1.ª generación);Cámara trasera;Compatible;13,85;13,43;13,02;6
+AP-IPSE1-CFR-COM;Apple;iPhone SE (1.ª generación);Cámara frontal;Compatible;6,19;;;6
+AP-IPSE1-LEN-COM;Apple;iPhone SE (1.ª generación);Lente de cámara;Compatible;3,30;;;6
+AP-IPSE1-ALT-COM;Apple;iPhone SE (1.ª generación);Altavoz;Compatible;4,65;;;6
+AP-IPSE1-AUR-COM;Apple;iPhone SE (1.ª generación);Auricular de llamada;Compatible;5,05;;;6
+AP-IPSE1-FLX-COM;Apple;iPhone SE (1.ª generación);Flex de encendido y volumen;Compatible;4,55;;;6
+AP-IPSE1-SIM-COM-GRI;Apple;iPhone SE (1.ª generación);Bandeja SIM;Gris espacial;2,80;;;6
+AP-IPSE1-SIM-COM-PLA;Apple;iPhone SE (1.ª generación);Bandeja SIM;Plateado;2,80;;;6
+AP-IPSE1-SIM-COM-DOR;Apple;iPhone SE (1.ª generación);Bandeja SIM;Dorado;2,80;;;6
+AP-IPSE1-SIM-COM-ORO;Apple;iPhone SE (1.ª generación);Bandeja SIM;Oro rosa;2,80;;;6
+AP-IP7-PAN-COM;Apple;iPhone 7;Pantalla;Compatible;15,65;15,18;14,71;6
+AP-IP7-BAT-COM;Apple;iPhone 7;Batería;Compatible;12,45;12,08;11,70;6
+AP-IP7-CON-COM;Apple;iPhone 7;Conector de carga;Compatible;5,99;;;6
+AP-IP7-TAP-COM-NEG;Apple;iPhone 7;Tapa trasera;Negro;5,25;;;6
+AP-IP7-TAP-COM-NBR;Apple;iPhone 7;Tapa trasera;Negro brillante;5,25;;;6
+AP-IP7-TAP-COM-ORO;Apple;iPhone 7;Tapa trasera;Oro;5,25;;;6
+AP-IP7-TAP-COM-ROS;Apple;iPhone 7;Tapa trasera;Oro rosa;5,25;;;6
+AP-IP7-TAP-COM-PLA;Apple;iPhone 7;Tapa trasera;Plateado;5,25;;;6
+AP-IP7-TAP-COM-RED;Apple;iPhone 7;Tapa trasera;(PRODUCT)RED;5,25;;;6
+AP-IP7-CTR-COM;Apple;iPhone 7;Cámara trasera;Compatible;11,25;10,91;10,58;6
+AP-IP7-CFR-COM;Apple;iPhone 7;Cámara frontal;Compatible;5,70;;;6
+AP-IP7-LEN-COM;Apple;iPhone 7;Lente de cámara;Compatible;3,00;;;6
+AP-IP7-ALT-COM;Apple;iPhone 7;Altavoz;Compatible;4,29;;;6
+AP-IP7-AUR-COM;Apple;iPhone 7;Auricular de llamada;Compatible;5,05;;;6
+AP-IP7-FLX-COM;Apple;iPhone 7;Flex de encendido y volumen;Compatible;4,30;;;6
+AP-IP7-SIM-COM-NEG;Apple;iPhone 7;Bandeja SIM;Negro;2,60;;;6
+AP-IP7-SIM-COM-NBR;Apple;iPhone 7;Bandeja SIM;Negro brillante;2,60;;;6
+AP-IP7-SIM-COM-ORO;Apple;iPhone 7;Bandeja SIM;Oro;2,60;;;6
+AP-IP7-SIM-COM-ROS;Apple;iPhone 7;Bandeja SIM;Oro rosa;2,60;;;6
+AP-IP7-SIM-COM-PLA;Apple;iPhone 7;Bandeja SIM;Plateado;2,60;;;6
+AP-IP7-SIM-COM-RED;Apple;iPhone 7;Bandeja SIM;(PRODUCT)RED;2,60;;;6
+AP-IP7PL-PAN-COM;Apple;iPhone 7 Plus;Pantalla;Compatible;16,95;16,44;15,93;6
+AP-IP7PL-BAT-COM;Apple;iPhone 7 Plus;Batería;Compatible;12,45;12,08;11,70;6
+AP-IP7PL-CON-COM;Apple;iPhone 7 Plus;Conector de carga;Compatible;5,99;;;6
+AP-IP7PL-TAP-COM-NEG;Apple;iPhone 7 Plus;Tapa trasera;Negro;5,25;;;6
+AP-IP7PL-TAP-COM-NBR;Apple;iPhone 7 Plus;Tapa trasera;Negro brillante;5,25;;;6
+AP-IP7PL-TAP-COM-ORO;Apple;iPhone 7 Plus;Tapa trasera;Oro;5,25;;;6
+AP-IP7PL-TAP-COM-ROS;Apple;iPhone 7 Plus;Tapa trasera;Oro rosa;5,25;;;6
+AP-IP7PL-TAP-COM-PLA;Apple;iPhone 7 Plus;Tapa trasera;Plateado;5,25;;;6
+AP-IP7PL-TAP-COM-RED;Apple;iPhone 7 Plus;Tapa trasera;(PRODUCT)RED;5,25;;;6
+AP-IP7PL-CTR-COM;Apple;iPhone 7 Plus;Cámara trasera;Compatible;11,25;10,91;10,58;6
+AP-IP7PL-CFR-COM;Apple;iPhone 7 Plus;Cámara frontal;Compatible;5,70;;;6
+AP-IP7PL-LEN-COM;Apple;iPhone 7 Plus;Lente de cámara;Compatible;3,00;;;6
+AP-IP7PL-ALT-COM;Apple;iPhone 7 Plus;Altavoz;Compatible;4,29;;;6
+AP-IP7PL-AUR-COM;Apple;iPhone 7 Plus;Auricular de llamada;Compatible;5,05;;;6
+AP-IP7PL-FLX-COM;Apple;iPhone 7 Plus;Flex de encendido y volumen;Compatible;4,30;;;6
+AP-IP7PL-SIM-COM-NEG;Apple;iPhone 7 Plus;Bandeja SIM;Negro;2,60;;;6
+AP-IP7PL-SIM-COM-NBR;Apple;iPhone 7 Plus;Bandeja SIM;Negro brillante;2,60;;;6
+AP-IP7PL-SIM-COM-ORO;Apple;iPhone 7 Plus;Bandeja SIM;Oro;2,60;;;6
+AP-IP7PL-SIM-COM-ROS;Apple;iPhone 7 Plus;Bandeja SIM;Oro rosa;2,60;;;6
+AP-IP7PL-SIM-COM-PLA;Apple;iPhone 7 Plus;Bandeja SIM;Plateado;2,60;;;6
+AP-IP7PL-SIM-COM-RED;Apple;iPhone 7 Plus;Bandeja SIM;(PRODUCT)RED;2,60;;;6
+AP-IP8-PAN-COM;Apple;iPhone 8;Pantalla;Compatible;15,65;15,18;14,71;6
+AP-IP8-BAT-COM;Apple;iPhone 8;Batería;Compatible;9,70;;;6
+AP-IP8-CON-COM;Apple;iPhone 8;Conector de carga;Compatible;5,60;;;6
+AP-IP8-TAP-COM-DOR;Apple;iPhone 8;Tapa trasera;Dorado;3,99;;;6
+AP-IP8-TAP-COM-PLA;Apple;iPhone 8;Tapa trasera;Plateado;3,99;;;6
+AP-IP8-TAP-COM-GRI;Apple;iPhone 8;Tapa trasera;Gris espacial;3,99;;;6
+AP-IP8-TAP-COM-RED;Apple;iPhone 8;Tapa trasera;(PRODUCT)RED;3,99;;;6
+AP-IP8-CTR-COM;Apple;iPhone 8;Cámara trasera;Compatible;8,55;;;6
+AP-IP8-CFR-COM;Apple;iPhone 8;Cámara frontal;Compatible;5,35;;;6
+AP-IP8-LEN-COM;Apple;iPhone 8;Lente de cámara;Compatible;3,50;;;6
+AP-IP8-ALT-COM;Apple;iPhone 8;Altavoz;Compatible;3,99;;;6
+AP-IP8-AUR-COM;Apple;iPhone 8;Auricular de llamada;Compatible;3,80;;;6
+AP-IP8-FLX-COM;Apple;iPhone 8;Flex de encendido y volumen;Compatible;4,99;;;6
+AP-IP8-SIM-COM-DOR;Apple;iPhone 8;Bandeja SIM;Dorado;3,65;;;6
+AP-IP8-SIM-COM-PLA;Apple;iPhone 8;Bandeja SIM;Plateado;3,65;;;6
+AP-IP8-SIM-COM-GRI;Apple;iPhone 8;Bandeja SIM;Gris espacial;3,65;;;6
+AP-IP8-SIM-COM-RED;Apple;iPhone 8;Bandeja SIM;(PRODUCT)RED;3,65;;;6
+AP-IP8PL-PAN-COM;Apple;iPhone 8 Plus;Pantalla;Compatible;16,95;16,44;15,93;6
+AP-IP8PL-BAT-COM;Apple;iPhone 8 Plus;Batería;Compatible;12,35;11,98;11,61;6
+AP-IP8PL-CON-COM;Apple;iPhone 8 Plus;Conector de carga;Compatible;5,89;;;6
+AP-IP8PL-TAP-COM-DOR;Apple;iPhone 8 Plus;Tapa trasera;Dorado;5,00;;;6
+AP-IP8PL-TAP-COM-PLA;Apple;iPhone 8 Plus;Tapa trasera;Plateado;5,00;;;6
+AP-IP8PL-TAP-COM-GRI;Apple;iPhone 8 Plus;Tapa trasera;Gris espacial;5,00;;;6
+AP-IP8PL-TAP-COM-RED;Apple;iPhone 8 Plus;Tapa trasera;(PRODUCT)RED;5,00;;;6
+AP-IP8PL-CTR-COM;Apple;iPhone 8 Plus;Cámara trasera;Compatible;10,75;10,43;10,10;6
+AP-IP8PL-CFR-COM;Apple;iPhone 8 Plus;Cámara frontal;Compatible;5,60;;;6
+AP-IP8PL-LEN-COM;Apple;iPhone 8 Plus;Lente de cámara;Compatible;3,05;;;6
+AP-IP8PL-ALT-COM;Apple;iPhone 8 Plus;Altavoz;Compatible;4,20;;;6
+AP-IP8PL-AUR-COM;Apple;iPhone 8 Plus;Auricular de llamada;Compatible;4,85;;;6
+AP-IP8PL-FLX-COM;Apple;iPhone 8 Plus;Flex de encendido y volumen;Compatible;4,39;;;6
+AP-IP8PL-SIM-COM-DOR;Apple;iPhone 8 Plus;Bandeja SIM;Dorado;2,80;;;6
+AP-IP8PL-SIM-COM-PLA;Apple;iPhone 8 Plus;Bandeja SIM;Plateado;2,80;;;6
+AP-IP8PL-SIM-COM-GRI;Apple;iPhone 8 Plus;Bandeja SIM;Gris espacial;2,80;;;6
+AP-IP8PL-SIM-COM-RED;Apple;iPhone 8 Plus;Bandeja SIM;(PRODUCT)RED;2,80;;;6
+AP-IPX-PAN-REA;Apple;iPhone X;Pantalla;Reacondicionada;47,00;45,59;44,18;3
+AP-IPX-PAN-OLS;Apple;iPhone X;Pantalla;OLED Soft;27,95;27,11;26,27;6
+AP-IPX-PAN-OLH;Apple;iPhone X;Pantalla;OLED Hard;26,60;25,80;25,00;6
+AP-IPX-PAN-INC;Apple;iPhone X;Pantalla;Incell;15,55;15,08;14,62;6
+AP-IPX-BAT-COM;Apple;iPhone X;Batería;Compatible;11,35;11,01;10,67;6
+AP-IPX-CON-COM;Apple;iPhone X;Conector de carga;Compatible;6,00;;;6
+AP-IPX-TAP-COM-PLA;Apple;iPhone X;Tapa trasera;Plata;3,89;;;6
+AP-IPX-TAP-COM-GRI;Apple;iPhone X;Tapa trasera;Gris espacial;3,89;;;6
+AP-IPX-CTR-COM;Apple;iPhone X;Cámara trasera;Compatible;13,50;13,10;12,69;6
+AP-IPX-CFR-COM;Apple;iPhone X;Cámara frontal;Compatible;5,20;;;6
+AP-IPX-LEN-COM;Apple;iPhone X;Lente de cámara;Compatible;3,75;;;6
+AP-IPX-ALT-COM;Apple;iPhone X;Altavoz;Compatible;3,99;;;6
+AP-IPX-AUR-COM;Apple;iPhone X;Auricular de llamada;Compatible;5,90;;;6
+AP-IPX-FLX-COM;Apple;iPhone X;Flex de encendido y volumen;Compatible;4,79;;;6
+AP-IPX-SIM-COM-PLA;Apple;iPhone X;Bandeja SIM;Plata;4,25;;;6
+AP-IPX-SIM-COM-GRI;Apple;iPhone X;Bandeja SIM;Gris espacial;4,25;;;6
+AP-IPXS-PAN-REA;Apple;iPhone XS;Pantalla;Reacondicionada;49,39;47,91;46,43;3
+AP-IPXS-PAN-OLS;Apple;iPhone XS;Pantalla;OLED Soft;24,60;23,86;23,12;6
+AP-IPXS-PAN-OLH;Apple;iPhone XS;Pantalla;OLED Hard;21,85;21,19;20,54;6
+AP-IPXS-PAN-INC;Apple;iPhone XS;Pantalla;Incell;16,00;15,52;15,04;6
+AP-IPXS-BAT-COM;Apple;iPhone XS;Batería;Compatible;14,65;14,21;13,77;6
+AP-IPXS-CON-COM;Apple;iPhone XS;Conector de carga;Compatible;7,00;;;6
+AP-IPXS-TAP-COM-PLA;Apple;iPhone XS;Tapa trasera;Plata;5,49;;;6
+AP-IPXS-TAP-COM-GRI;Apple;iPhone XS;Tapa trasera;Gris espacial;5,49;;;6
+AP-IPXS-TAP-COM-ORO;Apple;iPhone XS;Tapa trasera;Oro;5,49;;;6
+AP-IPXS-CTR-COM;Apple;iPhone XS;Cámara trasera;Compatible;17,65;17,12;16,59;6
+AP-IPXS-CFR-COM;Apple;iPhone XS;Cámara frontal;Compatible;6,65;;;6
+AP-IPXS-LEN-COM;Apple;iPhone XS;Lente de cámara;Compatible;3,70;;;6
+AP-IPXS-ALT-COM;Apple;iPhone XS;Altavoz;Compatible;5,20;;;6
+AP-IPXS-AUR-COM;Apple;iPhone XS;Auricular de llamada;Compatible;5,05;;;6
+AP-IPXS-FLX-COM;Apple;iPhone XS;Flex de encendido y volumen;Compatible;4,79;;;6
+AP-IPXS-SIM-COM-PLA;Apple;iPhone XS;Bandeja SIM;Plata;3,05;;;6
+AP-IPXS-SIM-COM-GRI;Apple;iPhone XS;Bandeja SIM;Gris espacial;3,05;;;6
+AP-IPXS-SIM-COM-ORO;Apple;iPhone XS;Bandeja SIM;Oro;3,05;;;6
+AP-IPXSM-PAN-REA;Apple;iPhone XS Max;Pantalla;Reacondicionada;49,39;47,91;46,43;3
+AP-IPXSM-PAN-OLS;Apple;iPhone XS Max;Pantalla;OLED Soft;27,35;26,53;25,71;6
+AP-IPXSM-PAN-OLH;Apple;iPhone XS Max;Pantalla;OLED Hard;24,29;23,56;22,83;6
+AP-IPXSM-PAN-INC;Apple;iPhone XS Max;Pantalla;Incell;22,00;21,34;20,68;6
+AP-IPXSM-BAT-COM;Apple;iPhone XS Max;Batería;Compatible;14,65;14,21;13,77;6
+AP-IPXSM-CON-COM;Apple;iPhone XS Max;Conector de carga;Compatible;7,00;;;6
+AP-IPXSM-TAP-COM-PLA;Apple;iPhone XS Max;Tapa trasera;Plata;5,49;;;6
+AP-IPXSM-TAP-COM-GRI;Apple;iPhone XS Max;Tapa trasera;Gris espacial;5,49;;;6
+AP-IPXSM-TAP-COM-ORO;Apple;iPhone XS Max;Tapa trasera;Oro;5,49;;;6
+AP-IPXSM-CTR-COM;Apple;iPhone XS Max;Cámara trasera;Compatible;17,65;17,12;16,59;6
+AP-IPXSM-CFR-COM;Apple;iPhone XS Max;Cámara frontal;Compatible;6,65;;;6
+AP-IPXSM-LEN-COM;Apple;iPhone XS Max;Lente de cámara;Compatible;3,70;;;6
+AP-IPXSM-ALT-COM;Apple;iPhone XS Max;Altavoz;Compatible;5,20;;;6
+AP-IPXSM-AUR-COM;Apple;iPhone XS Max;Auricular de llamada;Compatible;5,05;;;6
+AP-IPXSM-FLX-COM;Apple;iPhone XS Max;Flex de encendido y volumen;Compatible;4,79;;;6
+AP-IPXSM-SIM-COM-PLA;Apple;iPhone XS Max;Bandeja SIM;Plata;3,05;;;6
+AP-IPXSM-SIM-COM-GRI;Apple;iPhone XS Max;Bandeja SIM;Gris espacial;3,05;;;6
+AP-IPXSM-SIM-COM-ORO;Apple;iPhone XS Max;Bandeja SIM;Oro;3,05;;;6
+AP-IPXR-PAN-COM;Apple;iPhone XR;Pantalla;Compatible;17,45;16,93;16,40;6
+AP-IPXR-BAT-COM;Apple;iPhone XR;Batería;Compatible;9,45;;;6
+AP-IPXR-CON-COM;Apple;iPhone XR;Conector de carga;Compatible;5,85;;;6
+AP-IPXR-TAP-COM-NEG;Apple;iPhone XR;Tapa trasera;Negro;4,90;;;6
+AP-IPXR-TAP-COM-BLA;Apple;iPhone XR;Tapa trasera;Blanco;4,90;;;6
+AP-IPXR-TAP-COM-AZU;Apple;iPhone XR;Tapa trasera;Azul;4,90;;;6
+AP-IPXR-TAP-COM-AMA;Apple;iPhone XR;Tapa trasera;Amarillo;4,90;;;6
+AP-IPXR-TAP-COM-COR;Apple;iPhone XR;Tapa trasera;Coral;4,90;;;6
+AP-IPXR-TAP-COM-RED;Apple;iPhone XR;Tapa trasera;(PRODUCT)RED;4,90;;;6
+AP-IPXR-CTR-COM;Apple;iPhone XR;Cámara trasera;Compatible;13,30;12,90;12,50;6
+AP-IPXR-CFR-COM;Apple;iPhone XR;Cámara frontal;Compatible;5,60;;;6
+AP-IPXR-LEN-COM;Apple;iPhone XR;Lente de cámara;Compatible;4,35;;;6
+AP-IPXR-ALT-COM;Apple;iPhone XR;Altavoz;Compatible;5,29;;;6
+AP-IPXR-AUR-COM;Apple;iPhone XR;Auricular de llamada;Compatible;4,80;;;6
+AP-IPXR-FLX-COM;Apple;iPhone XR;Flex de encendido y volumen;Compatible;4,30;;;6
+AP-IPXR-SIM-COM-NEG;Apple;iPhone XR;Bandeja SIM;Negro;2,75;;;6
+AP-IPXR-SIM-COM-BLA;Apple;iPhone XR;Bandeja SIM;Blanco;2,75;;;6
+AP-IPXR-SIM-COM-AZU;Apple;iPhone XR;Bandeja SIM;Azul;2,75;;;6
+AP-IPXR-SIM-COM-AMA;Apple;iPhone XR;Bandeja SIM;Amarillo;2,75;;;6
+AP-IPXR-SIM-COM-COR;Apple;iPhone XR;Bandeja SIM;Coral;2,75;;;6
+AP-IPXR-SIM-COM-RED;Apple;iPhone XR;Bandeja SIM;(PRODUCT)RED;2,75;;;6
+AP-IP11-PAN-ORI;Apple;iPhone 11;Pantalla;Original;48,00;46,56;45,12;12
+AP-IP11-PAN-COM;Apple;iPhone 11;Pantalla;Compatible;17,70;17,17;16,64;6
+AP-IP11-BAT-COM;Apple;iPhone 11;Batería;Compatible;11,20;10,86;10,53;6
+AP-IP11-CON-COM;Apple;iPhone 11;Conector de carga;Compatible;6,59;;;6
+AP-IP11-TAP-COM-MAL;Apple;iPhone 11;Tapa trasera;Malva;5,40;;;6
+AP-IP11-TAP-COM-VER;Apple;iPhone 11;Tapa trasera;Verde;5,40;;;6
+AP-IP11-TAP-COM-AMA;Apple;iPhone 11;Tapa trasera;Amarillo;5,40;;;6
+AP-IP11-TAP-COM-NEG;Apple;iPhone 11;Tapa trasera;Negro;5,40;;;6
+AP-IP11-TAP-COM-BLA;Apple;iPhone 11;Tapa trasera;Blanco;5,40;;;6
+AP-IP11-TAP-COM-RED;Apple;iPhone 11;Tapa trasera;(PRODUCT)RED;5,40;;;6
+AP-IP11-CTR-COM;Apple;iPhone 11;Cámara trasera;Compatible;10,40;10,09;9,78;6
+AP-IP11-CFR-COM;Apple;iPhone 11;Cámara frontal;Compatible;5,95;;;6
+AP-IP11-LEN-COM;Apple;iPhone 11;Lente de cámara;Compatible;3,75;;;6
+AP-IP11-ALT-COM;Apple;iPhone 11;Altavoz;Compatible;3,30;;;6
+AP-IP11-AUR-COM;Apple;iPhone 11;Auricular de llamada;Compatible;6,65;;;6
+AP-IP11-FLX-COM;Apple;iPhone 11;Flex de encendido y volumen;Compatible;4,95;;;6
+AP-IP11-SIM-COM-MAL;Apple;iPhone 11;Bandeja SIM;Malva;2,45;;;6
+AP-IP11-SIM-COM-VER;Apple;iPhone 11;Bandeja SIM;Verde;2,45;;;6
+AP-IP11-SIM-COM-AMA;Apple;iPhone 11;Bandeja SIM;Amarillo;2,45;;;6
+AP-IP11-SIM-COM-NEG;Apple;iPhone 11;Bandeja SIM;Negro;2,45;;;6
+AP-IP11-SIM-COM-BLA;Apple;iPhone 11;Bandeja SIM;Blanco;2,45;;;6
+AP-IP11-SIM-COM-RED;Apple;iPhone 11;Bandeja SIM;(PRODUCT)RED;2,45;;;6
+AP-IP11P-PAN-REA;Apple;iPhone 11 Pro;Pantalla;Reacondicionada;49,35;47,87;46,39;3
+AP-IP11P-PAN-OLS;Apple;iPhone 11 Pro;Pantalla;OLED Soft;25,85;25,07;24,30;6
+AP-IP11P-PAN-OLH;Apple;iPhone 11 Pro;Pantalla;OLED Hard;22,95;22,26;21,57;6
+AP-IP11P-PAN-INC;Apple;iPhone 11 Pro;Pantalla;Incell;17,00;16,49;15,98;6
+AP-IP11P-BAT-COM;Apple;iPhone 11 Pro;Batería;Compatible;15,00;14,55;14,10;6
+AP-IP11P-CON-COM;Apple;iPhone 11 Pro;Conector de carga;Compatible;8,25;;;6
+AP-IP11P-TAP-COM-PLA;Apple;iPhone 11 Pro;Tapa trasera;Plata;6,00;;;6
+AP-IP11P-TAP-COM-GRI;Apple;iPhone 11 Pro;Tapa trasera;Gris espacial;6,00;;;6
+AP-IP11P-TAP-COM-ORO;Apple;iPhone 11 Pro;Tapa trasera;Oro;6,00;;;6
+AP-IP11P-TAP-COM-VER;Apple;iPhone 11 Pro;Tapa trasera;Verde noche;6,00;;;6
+AP-IP11P-CTR-COM;Apple;iPhone 11 Pro;Cámara trasera;Compatible;19,35;18,77;18,19;6
+AP-IP11P-CFR-COM;Apple;iPhone 11 Pro;Cámara frontal;Compatible;6,95;;;6
+AP-IP11P-LEN-COM;Apple;iPhone 11 Pro;Lente de cámara;Compatible;3,50;;;6
+AP-IP11P-ALT-COM;Apple;iPhone 11 Pro;Altavoz;Compatible;5,20;;;6
+AP-IP11P-AUR-COM;Apple;iPhone 11 Pro;Auricular de llamada;Compatible;5,35;;;6
+AP-IP11P-FLX-COM;Apple;iPhone 11 Pro;Flex de encendido y volumen;Compatible;4,95;;;6
+AP-IP11P-SIM-COM-PLA;Apple;iPhone 11 Pro;Bandeja SIM;Plata;2,89;;;6
+AP-IP11P-SIM-COM-GRI;Apple;iPhone 11 Pro;Bandeja SIM;Gris espacial;2,89;;;6
+AP-IP11P-SIM-COM-ORO;Apple;iPhone 11 Pro;Bandeja SIM;Oro;2,89;;;6
+AP-IP11P-SIM-COM-VER;Apple;iPhone 11 Pro;Bandeja SIM;Verde noche;2,89;;;6
+AP-IP11PM-PAN-REA;Apple;iPhone 11 Pro Max;Pantalla;Reacondicionada;49,35;47,87;46,39;3
+AP-IP11PM-PAN-OLS;Apple;iPhone 11 Pro Max;Pantalla;OLED Soft;31,20;30,26;29,33;6
+AP-IP11PM-PAN-OLH;Apple;iPhone 11 Pro Max;Pantalla;OLED Hard;25,89;25,11;24,34;6
+AP-IP11PM-PAN-INC;Apple;iPhone 11 Pro Max;Pantalla;Incell;19,15;18,58;18,00;6
+AP-IP11PM-BAT-COM;Apple;iPhone 11 Pro Max;Batería;Compatible;14,60;14,16;13,72;6
+AP-IP11PM-CON-COM;Apple;iPhone 11 Pro Max;Conector de carga;Compatible;13,29;12,89;12,49;6
+AP-IP11PM-TAP-COM-PLA;Apple;iPhone 11 Pro Max;Tapa trasera;Plata;7,49;;;6
+AP-IP11PM-TAP-COM-GRI;Apple;iPhone 11 Pro Max;Tapa trasera;Gris espacial;7,49;;;6
+AP-IP11PM-TAP-COM-ORO;Apple;iPhone 11 Pro Max;Tapa trasera;Oro;7,49;;;6
+AP-IP11PM-TAP-COM-VER;Apple;iPhone 11 Pro Max;Tapa trasera;Verde noche;7,49;;;6
+AP-IP11PM-CTR-COM;Apple;iPhone 11 Pro Max;Cámara trasera;Compatible;25,85;25,07;24,30;6
+AP-IP11PM-CFR-COM;Apple;iPhone 11 Pro Max;Cámara frontal;Compatible;6,60;;;6
+AP-IP11PM-LEN-COM;Apple;iPhone 11 Pro Max;Lente de cámara;Compatible;4,40;;;6
+AP-IP11PM-ALT-COM;Apple;iPhone 11 Pro Max;Altavoz;Compatible;6,69;;;6
+AP-IP11PM-AUR-COM;Apple;iPhone 11 Pro Max;Auricular de llamada;Compatible;5,59;;;6
+AP-IP11PM-FLX-COM;Apple;iPhone 11 Pro Max;Flex de encendido y volumen;Compatible;5,20;;;6
+AP-IP11PM-SIM-COM-PLA;Apple;iPhone 11 Pro Max;Bandeja SIM;Plata;2,95;;;6
+AP-IP11PM-SIM-COM-GRI;Apple;iPhone 11 Pro Max;Bandeja SIM;Gris espacial;2,95;;;6
+AP-IP11PM-SIM-COM-ORO;Apple;iPhone 11 Pro Max;Bandeja SIM;Oro;2,95;;;6
+AP-IP11PM-SIM-COM-VER;Apple;iPhone 11 Pro Max;Bandeja SIM;Verde noche;2,95;;;6
+AP-IPSE2-BAT-COM;Apple;iPhone SE (2.ª generación);Batería;Compatible;13,85;13,43;13,02;6
+AP-IPSE2-CON-COM;Apple;iPhone SE (2.ª generación);Conector de carga;Compatible;7,05;;;6
+AP-IPSE2-TAP-COM-BLA;Apple;iPhone SE (2.ª generación);Tapa trasera;Blanco;7,55;;;6
+AP-IPSE2-TAP-COM-NEG;Apple;iPhone SE (2.ª generación);Tapa trasera;Negro;7,55;;;6
+AP-IPSE2-TAP-COM-RED;Apple;iPhone SE (2.ª generación);Tapa trasera;(PRODUCT)RED;7,55;;;6
+AP-IPSE2-CTR-COM;Apple;iPhone SE (2.ª generación);Cámara trasera;Compatible;22,45;21,78;21,10;6
+AP-IPSE2-CFR-COM;Apple;iPhone SE (2.ª generación);Cámara frontal;Compatible;8,05;;;6
+AP-IPSE2-LEN-COM;Apple;iPhone SE (2.ª generación);Lente de cámara;Compatible;4,09;;;6
+AP-IPSE2-ALT-COM;Apple;iPhone SE (2.ª generación);Altavoz;Compatible;6,00;;;6
+AP-IPSE2-AUR-COM;Apple;iPhone SE (2.ª generación);Auricular de llamada;Compatible;5,85;;;6
+AP-IPSE2-FLX-COM;Apple;iPhone SE (2.ª generación);Flex de encendido y volumen;Compatible;5,20;;;6
+AP-IPSE2-SIM-COM-BLA;Apple;iPhone SE (2.ª generación);Bandeja SIM;Blanco;3,10;;;6
+AP-IPSE2-SIM-COM-NEG;Apple;iPhone SE (2.ª generación);Bandeja SIM;Negro;3,10;;;6
+AP-IPSE2-SIM-COM-RED;Apple;iPhone SE (2.ª generación);Bandeja SIM;(PRODUCT)RED;3,10;;;6
+AP-IP12MN-PAN-REA;Apple;iPhone 12 mini;Pantalla;Reacondicionada;70,35;68,24;66,13;3
+AP-IP12MN-PAN-OLS;Apple;iPhone 12 mini;Pantalla;OLED Soft;45,90;44,52;43,15;6
+AP-IP12MN-PAN-OLH;Apple;iPhone 12 mini;Pantalla;OLED Hard;40,95;39,72;38,49;6
+AP-IP12MN-PAN-INC;Apple;iPhone 12 mini;Pantalla;Incell;38,99;37,82;36,65;6
+AP-IP12MN-BAT-COM;Apple;iPhone 12 mini;Batería;Compatible;13,05;12,66;12,27;6
+AP-IP12MN-CON-COM;Apple;iPhone 12 mini;Conector de carga;Compatible;6,50;;;6
+AP-IP12MN-TAP-COM-NEG;Apple;iPhone 12 mini;Tapa trasera;Negro;7,05;;;6
+AP-IP12MN-TAP-COM-BLA;Apple;iPhone 12 mini;Tapa trasera;Blanco;7,05;;;6
+AP-IP12MN-TAP-COM-RED;Apple;iPhone 12 mini;Tapa trasera;(PRODUCT)RED;7,05;;;6
+AP-IP12MN-TAP-COM-VER;Apple;iPhone 12 mini;Tapa trasera;Verde;7,05;;;6
+AP-IP12MN-TAP-COM-AZU;Apple;iPhone 12 mini;Tapa trasera;Azul;7,05;;;6
+AP-IP12MN-TAP-COM-MOR;Apple;iPhone 12 mini;Tapa trasera;Morado;7,05;;;6
+AP-IP12MN-CTR-COM;Apple;iPhone 12 mini;Cámara trasera;Compatible;17,45;16,93;16,40;6
+AP-IP12MN-CFR-COM;Apple;iPhone 12 mini;Cámara frontal;Compatible;7,05;;;6
+AP-IP12MN-LEN-COM;Apple;iPhone 12 mini;Lente de cámara;Compatible;3,60;;;6
+AP-IP12MN-ALT-COM;Apple;iPhone 12 mini;Altavoz;Compatible;5,25;;;6
+AP-IP12MN-AUR-COM;Apple;iPhone 12 mini;Auricular de llamada;Compatible;6,10;;;6
+AP-IP12MN-FLX-COM;Apple;iPhone 12 mini;Flex de encendido y volumen;Compatible;4,80;;;6
+AP-IP12MN-SIM-COM-NEG;Apple;iPhone 12 mini;Bandeja SIM;Negro;2,85;;;6
+AP-IP12MN-SIM-COM-BLA;Apple;iPhone 12 mini;Bandeja SIM;Blanco;2,85;;;6
+AP-IP12MN-SIM-COM-RED;Apple;iPhone 12 mini;Bandeja SIM;(PRODUCT)RED;2,85;;;6
+AP-IP12MN-SIM-COM-VER;Apple;iPhone 12 mini;Bandeja SIM;Verde;2,85;;;6
+AP-IP12MN-SIM-COM-AZU;Apple;iPhone 12 mini;Bandeja SIM;Azul;2,85;;;6
+AP-IP12MN-SIM-COM-MOR;Apple;iPhone 12 mini;Bandeja SIM;Morado;2,85;;;6
+AP-IP12-PAN-REA;Apple;iPhone 12;Pantalla;Reacondicionada;70,00;67,90;65,80;3
+AP-IP12-PAN-OLS;Apple;iPhone 12;Pantalla;OLED Soft;45,89;44,51;43,14;6
+AP-IP12-PAN-OLH;Apple;iPhone 12;Pantalla;OLED Hard;36,60;35,50;34,40;6
+AP-IP12-PAN-INC;Apple;iPhone 12;Pantalla;Incell;24,00;23,28;22,56;6
+AP-IP12-BAT-COM;Apple;iPhone 12;Batería;Compatible;11,99;11,63;11,27;6
+AP-IP12-CON-COM;Apple;iPhone 12;Conector de carga;Compatible;6,45;;;6
+AP-IP12-TAP-COM-NEG;Apple;iPhone 12;Tapa trasera;Negro;6,19;;;6
+AP-IP12-TAP-COM-BLA;Apple;iPhone 12;Tapa trasera;Blanco;6,19;;;6
+AP-IP12-TAP-COM-RED;Apple;iPhone 12;Tapa trasera;(PRODUCT)RED;6,19;;;6
+AP-IP12-TAP-COM-VER;Apple;iPhone 12;Tapa trasera;Verde;6,19;;;6
+AP-IP12-TAP-COM-AZU;Apple;iPhone 12;Tapa trasera;Azul;6,19;;;6
+AP-IP12-TAP-COM-MOR;Apple;iPhone 12;Tapa trasera;Morado;6,19;;;6
+AP-IP12-CTR-COM;Apple;iPhone 12;Cámara trasera;Compatible;14,20;13,77;13,35;6
+AP-IP12-CFR-COM;Apple;iPhone 12;Cámara frontal;Compatible;5,55;;;6
+AP-IP12-LEN-COM;Apple;iPhone 12;Lente de cámara;Compatible;3,40;;;6
+AP-IP12-ALT-COM;Apple;iPhone 12;Altavoz;Compatible;4,30;;;6
+AP-IP12-AUR-COM;Apple;iPhone 12;Auricular de llamada;Compatible;7,25;;;6
+AP-IP12-FLX-COM;Apple;iPhone 12;Flex de encendido y volumen;Compatible;4,30;;;6
+AP-IP12-SIM-COM-NEG;Apple;iPhone 12;Bandeja SIM;Negro;2,75;;;6
+AP-IP12-SIM-COM-BLA;Apple;iPhone 12;Bandeja SIM;Blanco;2,75;;;6
+AP-IP12-SIM-COM-RED;Apple;iPhone 12;Bandeja SIM;(PRODUCT)RED;2,75;;;6
+AP-IP12-SIM-COM-VER;Apple;iPhone 12;Bandeja SIM;Verde;2,75;;;6
+AP-IP12-SIM-COM-AZU;Apple;iPhone 12;Bandeja SIM;Azul;2,75;;;6
+AP-IP12-SIM-COM-MOR;Apple;iPhone 12;Bandeja SIM;Morado;2,75;;;6
+AP-IP12P-CON-COM;Apple;iPhone 12 Pro;Conector de carga;Compatible;7,90;;;6
+AP-IP12P-TAP-COM-PLA;Apple;iPhone 12 Pro;Tapa trasera;Plata;7,85;;;6
+AP-IP12P-TAP-COM-GRA;Apple;iPhone 12 Pro;Tapa trasera;Grafito;7,85;;;6
+AP-IP12P-TAP-COM-ORO;Apple;iPhone 12 Pro;Tapa trasera;Oro;7,85;;;6
+AP-IP12P-TAP-COM-AZU;Apple;iPhone 12 Pro;Tapa trasera;Azul pacífico;7,85;;;6
+AP-IP12P-CTR-COM;Apple;iPhone 12 Pro;Cámara trasera;Compatible;29,55;28,66;27,78;6
+AP-IP12P-CFR-COM;Apple;iPhone 12 Pro;Cámara frontal;Compatible;8,70;;;6
+AP-IP12P-LEN-COM;Apple;iPhone 12 Pro;Lente de cámara;Compatible;4,30;;;6
+AP-IP12P-ALT-COM;Apple;iPhone 12 Pro;Altavoz;Compatible;6,40;;;6
+AP-IP12P-AUR-COM;Apple;iPhone 12 Pro;Auricular de llamada;Compatible;6,15;;;6
+AP-IP12P-FLX-COM;Apple;iPhone 12 Pro;Flex de encendido y volumen;Compatible;5,39;;;6
+AP-IP12P-SIM-COM-PLA;Apple;iPhone 12 Pro;Bandeja SIM;Plata;3,15;;;6
+AP-IP12P-SIM-COM-GRA;Apple;iPhone 12 Pro;Bandeja SIM;Grafito;3,15;;;6
+AP-IP12P-SIM-COM-ORO;Apple;iPhone 12 Pro;Bandeja SIM;Oro;3,15;;;6
+AP-IP12P-SIM-COM-AZU;Apple;iPhone 12 Pro;Bandeja SIM;Azul pacífico;3,15;;;6
+AP-IP12PM-PAN-REA;Apple;iPhone 12 Pro Max;Pantalla;Reacondicionada;111,40;108,06;104,72;3
+AP-IP12PM-PAN-OLS;Apple;iPhone 12 Pro Max;Pantalla;OLED Soft;60,00;58,20;56,40;6
+AP-IP12PM-PAN-OLH;Apple;iPhone 12 Pro Max;Pantalla;OLED Hard;37,25;36,13;35,02;6
+AP-IP12PM-PAN-INC;Apple;iPhone 12 Pro Max;Pantalla;Incell;25,00;24,25;23,50;6
+AP-IP12PM-BAT-COM;Apple;iPhone 12 Pro Max;Batería;Compatible;15,70;15,23;14,76;6
+AP-IP12PM-CON-COM;Apple;iPhone 12 Pro Max;Conector de carga;Compatible;7,90;;;6
+AP-IP12PM-TAP-COM-PLA;Apple;iPhone 12 Pro Max;Tapa trasera;Plata;7,85;;;6
+AP-IP12PM-TAP-COM-GRA;Apple;iPhone 12 Pro Max;Tapa trasera;Grafito;7,85;;;6
+AP-IP12PM-TAP-COM-ORO;Apple;iPhone 12 Pro Max;Tapa trasera;Oro;7,85;;;6
+AP-IP12PM-TAP-COM-AZU;Apple;iPhone 12 Pro Max;Tapa trasera;Azul pacífico;7,85;;;6
+AP-IP12PM-CTR-COM;Apple;iPhone 12 Pro Max;Cámara trasera;Compatible;29,55;28,66;27,78;6
+AP-IP12PM-CFR-COM;Apple;iPhone 12 Pro Max;Cámara frontal;Compatible;8,70;;;6
+AP-IP12PM-LEN-COM;Apple;iPhone 12 Pro Max;Lente de cámara;Compatible;4,30;;;6
+AP-IP12PM-ALT-COM;Apple;iPhone 12 Pro Max;Altavoz;Compatible;6,40;;;6
+AP-IP12PM-AUR-COM;Apple;iPhone 12 Pro Max;Auricular de llamada;Compatible;6,15;;;6
+AP-IP12PM-FLX-COM;Apple;iPhone 12 Pro Max;Flex de encendido y volumen;Compatible;5,39;;;6
+AP-IP12PM-SIM-COM-PLA;Apple;iPhone 12 Pro Max;Bandeja SIM;Plata;3,15;;;6
+AP-IP12PM-SIM-COM-GRA;Apple;iPhone 12 Pro Max;Bandeja SIM;Grafito;3,15;;;6
+AP-IP12PM-SIM-COM-ORO;Apple;iPhone 12 Pro Max;Bandeja SIM;Oro;3,15;;;6
+AP-IP12PM-SIM-COM-AZU;Apple;iPhone 12 Pro Max;Bandeja SIM;Azul pacífico;3,15;;;6
+AP-IP13MN-PAN-REA;Apple;iPhone 13 mini;Pantalla;Reacondicionada;82,25;79,78;77,32;3
+AP-IP13MN-PAN-OLS;Apple;iPhone 13 mini;Pantalla;OLED Soft;47,19;45,77;44,36;6
+AP-IP13MN-PAN-OLH;Apple;iPhone 13 mini;Pantalla;OLED Hard;41,85;40,59;39,34;6
+AP-IP13MN-PAN-INC;Apple;iPhone 13 mini;Pantalla;Incell;38,99;37,82;36,65;6
+AP-IP13MN-BAT-COM;Apple;iPhone 13 mini;Batería;Compatible;13,45;13,05;12,64;6
+AP-IP13MN-CON-COM;Apple;iPhone 13 mini;Conector de carga;Compatible;6,30;;;6
+AP-IP13MN-TAP-COM-RED;Apple;iPhone 13 mini;Tapa trasera;(PRODUCT)RED;7,15;;;6
+AP-IP13MN-TAP-COM-BLA;Apple;iPhone 13 mini;Tapa trasera;Blanco estrella;7,15;;;6
+AP-IP13MN-TAP-COM-MED;Apple;iPhone 13 mini;Tapa trasera;Medianoche;7,15;;;6
+AP-IP13MN-TAP-COM-AZU;Apple;iPhone 13 mini;Tapa trasera;Azul;7,15;;;6
+AP-IP13MN-TAP-COM-ROS;Apple;iPhone 13 mini;Tapa trasera;Rosa;7,15;;;6
+AP-IP13MN-TAP-COM-VER;Apple;iPhone 13 mini;Tapa trasera;Verde;7,15;;;6
+AP-IP13MN-CTR-COM;Apple;iPhone 13 mini;Cámara trasera;Compatible;18,75;18,19;17,63;6
+AP-IP13MN-CFR-COM;Apple;iPhone 13 mini;Cámara frontal;Compatible;6,55;;;6
+AP-IP13MN-LEN-COM;Apple;iPhone 13 mini;Lente de cámara;Compatible;3,95;;;6
+AP-IP13MN-ALT-COM;Apple;iPhone 13 mini;Altavoz;Compatible;5,45;;;6
+AP-IP13MN-AUR-COM;Apple;iPhone 13 mini;Auricular de llamada;Compatible;5,55;;;6
+AP-IP13MN-FLX-COM;Apple;iPhone 13 mini;Flex de encendido y volumen;Compatible;4,95;;;6
+AP-IP13MN-SIM-COM-RED;Apple;iPhone 13 mini;Bandeja SIM;(PRODUCT)RED;2,95;;;6
+AP-IP13MN-SIM-COM-BLA;Apple;iPhone 13 mini;Bandeja SIM;Blanco estrella;2,95;;;6
+AP-IP13MN-SIM-COM-MED;Apple;iPhone 13 mini;Bandeja SIM;Medianoche;2,95;;;6
+AP-IP13MN-SIM-COM-AZU;Apple;iPhone 13 mini;Bandeja SIM;Azul;2,95;;;6
+AP-IP13MN-SIM-COM-ROS;Apple;iPhone 13 mini;Bandeja SIM;Rosa;2,95;;;6
+AP-IP13MN-SIM-COM-VER;Apple;iPhone 13 mini;Bandeja SIM;Verde;2,95;;;6
+AP-IP13-PAN-REA;Apple;iPhone 13;Pantalla;Reacondicionada;98,00;95,06;92,12;3
+AP-IP13-PAN-OLS;Apple;iPhone 13;Pantalla;OLED Soft;54,50;52,87;51,23;6
+AP-IP13-PAN-OLH;Apple;iPhone 13;Pantalla;OLED Hard;40,60;39,38;38,16;6
+AP-IP13-PAN-INC;Apple;iPhone 13;Pantalla;Incell;33,99;32,97;31,95;6
+AP-IP13-BAT-COM;Apple;iPhone 13;Batería;Compatible;14,99;14,54;14,09;6
+AP-IP13-CON-COM;Apple;iPhone 13;Conector de carga;Compatible;6,85;;;6
+AP-IP13-TAP-COM-RED;Apple;iPhone 13;Tapa trasera;(PRODUCT)RED;6,80;;;6
+AP-IP13-TAP-COM-BLA;Apple;iPhone 13;Tapa trasera;Blanco estrella;6,80;;;6
+AP-IP13-TAP-COM-MED;Apple;iPhone 13;Tapa trasera;Medianoche;6,80;;;6
+AP-IP13-TAP-COM-AZU;Apple;iPhone 13;Tapa trasera;Azul;6,80;;;6
+AP-IP13-TAP-COM-ROS;Apple;iPhone 13;Tapa trasera;Rosa;6,80;;;6
+AP-IP13-TAP-COM-VER;Apple;iPhone 13;Tapa trasera;Verde;6,80;;;6
+AP-IP13-CTR-COM;Apple;iPhone 13;Cámara trasera;Compatible;15,35;14,89;14,43;6
+AP-IP13-CFR-COM;Apple;iPhone 13;Cámara frontal;Compatible;5,39;;;6
+AP-IP13-LEN-COM;Apple;iPhone 13;Lente de cámara;Compatible;4,90;;;6
+AP-IP13-ALT-COM;Apple;iPhone 13;Altavoz;Compatible;5,99;;;6
+AP-IP13-AUR-COM;Apple;iPhone 13;Auricular de llamada;Compatible;5,15;;;6
+AP-IP13-FLX-COM;Apple;iPhone 13;Flex de encendido y volumen;Compatible;5,20;;;6
+AP-IP13-SIM-COM-RED;Apple;iPhone 13;Bandeja SIM;(PRODUCT)RED;2,69;;;6
+AP-IP13-SIM-COM-BLA;Apple;iPhone 13;Bandeja SIM;Blanco estrella;2,69;;;6
+AP-IP13-SIM-COM-MED;Apple;iPhone 13;Bandeja SIM;Medianoche;2,69;;;6
+AP-IP13-SIM-COM-AZU;Apple;iPhone 13;Bandeja SIM;Azul;2,69;;;6
+AP-IP13-SIM-COM-ROS;Apple;iPhone 13;Bandeja SIM;Rosa;2,69;;;6
+AP-IP13-SIM-COM-VER;Apple;iPhone 13;Bandeja SIM;Verde;2,69;;;6
+AP-IP13P-PAN-REA;Apple;iPhone 13 Pro;Pantalla;Reacondicionada;203,95;197,83;191,71;3
+AP-IP13P-PAN-OLS;Apple;iPhone 13 Pro;Pantalla;OLED Soft;54,50;52,87;51,23;6
+AP-IP13P-PAN-OLH;Apple;iPhone 13 Pro;Pantalla;OLED Hard;40,60;39,38;38,16;6
+AP-IP13P-PAN-INC;Apple;iPhone 13 Pro;Pantalla;Incell;36,39;35,30;34,21;6
+AP-IP13P-BAT-COM;Apple;iPhone 13 Pro;Batería;Compatible;14,99;14,54;14,09;6
+AP-IP13P-CON-COM;Apple;iPhone 13 Pro;Conector de carga;Compatible;7,69;;;6
+AP-IP13P-TAP-COM-GRA;Apple;iPhone 13 Pro;Tapa trasera;Grafito;7,95;;;6
+AP-IP13P-TAP-COM-ORO;Apple;iPhone 13 Pro;Tapa trasera;Oro;7,95;;;6
+AP-IP13P-TAP-COM-PLA;Apple;iPhone 13 Pro;Tapa trasera;Plata;7,95;;;6
+AP-IP13P-TAP-COM-AZU;Apple;iPhone 13 Pro;Tapa trasera;Azul sierra;7,95;;;6
+AP-IP13P-TAP-COM-VER;Apple;iPhone 13 Pro;Tapa trasera;Verde alpino;7,95;;;6
+AP-IP13P-CTR-COM;Apple;iPhone 13 Pro;Cámara trasera;Compatible;31,69;30,74;29,79;6
+AP-IP13P-CFR-COM;Apple;iPhone 13 Pro;Cámara frontal;Compatible;8,10;;;6
+AP-IP13P-LEN-COM;Apple;iPhone 13 Pro;Lente de cámara;Compatible;4,69;;;6
+AP-IP13P-ALT-COM;Apple;iPhone 13 Pro;Altavoz;Compatible;6,60;;;6
+AP-IP13P-AUR-COM;Apple;iPhone 13 Pro;Auricular de llamada;Compatible;5,59;;;6
+AP-IP13P-FLX-COM;Apple;iPhone 13 Pro;Flex de encendido y volumen;Compatible;5,55;;;6
+AP-IP13P-SIM-COM-GRA;Apple;iPhone 13 Pro;Bandeja SIM;Grafito;3,25;;;6
+AP-IP13P-SIM-COM-ORO;Apple;iPhone 13 Pro;Bandeja SIM;Oro;3,25;;;6
+AP-IP13P-SIM-COM-PLA;Apple;iPhone 13 Pro;Bandeja SIM;Plata;3,25;;;6
+AP-IP13P-SIM-COM-AZU;Apple;iPhone 13 Pro;Bandeja SIM;Azul sierra;3,25;;;6
+AP-IP13P-SIM-COM-VER;Apple;iPhone 13 Pro;Bandeja SIM;Verde alpino;3,25;;;6
+AP-IP13PM-PAN-REA;Apple;iPhone 13 Pro Max;Pantalla;Reacondicionada;218,35;211,80;205,25;3
+AP-IP13PM-PAN-OLS;Apple;iPhone 13 Pro Max;Pantalla;OLED Soft;59,99;58,19;56,39;6
+AP-IP13PM-PAN-OLH;Apple;iPhone 13 Pro Max;Pantalla;OLED Hard;40,60;39,38;38,16;6
+AP-IP13PM-PAN-INC;Apple;iPhone 13 Pro Max;Pantalla;Incell;36,39;35,30;34,21;6
+AP-IP13PM-BAT-COM;Apple;iPhone 13 Pro Max;Batería;Compatible;14,99;14,54;14,09;6
+AP-IP13PM-CON-COM;Apple;iPhone 13 Pro Max;Conector de carga;Compatible;5,99;;;6
+AP-IP13PM-TAP-COM-GRA;Apple;iPhone 13 Pro Max;Tapa trasera;Grafito;7,95;;;6
+AP-IP13PM-TAP-COM-ORO;Apple;iPhone 13 Pro Max;Tapa trasera;Oro;7,95;;;6
+AP-IP13PM-TAP-COM-PLA;Apple;iPhone 13 Pro Max;Tapa trasera;Plata;7,95;;;6
+AP-IP13PM-TAP-COM-AZU;Apple;iPhone 13 Pro Max;Tapa trasera;Azul sierra;7,95;;;6
+AP-IP13PM-TAP-COM-VER;Apple;iPhone 13 Pro Max;Tapa trasera;Verde alpino;7,95;;;6
+AP-IP13PM-CTR-COM;Apple;iPhone 13 Pro Max;Cámara trasera;Compatible;46,75;45,35;43,95;6
+AP-IP13PM-CFR-COM;Apple;iPhone 13 Pro Max;Cámara frontal;Compatible;6,79;;;6
+AP-IP13PM-LEN-COM;Apple;iPhone 13 Pro Max;Lente de cámara;Compatible;5,15;;;6
+AP-IP13PM-ALT-COM;Apple;iPhone 13 Pro Max;Altavoz;Compatible;5,95;;;6
+AP-IP13PM-AUR-COM;Apple;iPhone 13 Pro Max;Auricular de llamada;Compatible;4,75;;;6
+AP-IP13PM-FLX-COM;Apple;iPhone 13 Pro Max;Flex de encendido y volumen;Compatible;5,55;;;6
+AP-IP13PM-SIM-COM-GRA;Apple;iPhone 13 Pro Max;Bandeja SIM;Grafito;4,35;;;6
+AP-IP13PM-SIM-COM-ORO;Apple;iPhone 13 Pro Max;Bandeja SIM;Oro;4,35;;;6
+AP-IP13PM-SIM-COM-PLA;Apple;iPhone 13 Pro Max;Bandeja SIM;Plata;4,35;;;6
+AP-IP13PM-SIM-COM-AZU;Apple;iPhone 13 Pro Max;Bandeja SIM;Azul sierra;4,35;;;6
+AP-IP13PM-SIM-COM-VER;Apple;iPhone 13 Pro Max;Bandeja SIM;Verde alpino;4,35;;;6
+AP-IPSE3-BAT-COM;Apple;iPhone SE (3.ª generación);Batería;Compatible;10,95;10,62;10,29;6
+AP-IPSE3-CON-COM;Apple;iPhone SE (3.ª generación);Conector de carga;Compatible;7,45;;;6
+AP-IPSE3-TAP-COM-RED;Apple;iPhone SE (3.ª generación);Tapa trasera;(PRODUCT)RED;7,55;;;6
+AP-IPSE3-TAP-COM-BLA;Apple;iPhone SE (3.ª generación);Tapa trasera;Blanco estrella;7,55;;;6
+AP-IPSE3-TAP-COM-MED;Apple;iPhone SE (3.ª generación);Tapa trasera;Medianoche;7,55;;;6
+AP-IPSE3-CTR-COM;Apple;iPhone SE (3.ª generación);Cámara trasera;Compatible;22,45;21,78;21,10;6
+AP-IPSE3-CFR-COM;Apple;iPhone SE (3.ª generación);Cámara frontal;Compatible;8,05;;;6
+AP-IPSE3-LEN-COM;Apple;iPhone SE (3.ª generación);Lente de cámara;Compatible;4,09;;;6
+AP-IPSE3-ALT-COM;Apple;iPhone SE (3.ª generación);Altavoz;Compatible;6,29;;;6
+AP-IPSE3-AUR-COM;Apple;iPhone SE (3.ª generación);Auricular de llamada;Compatible;5,85;;;6
+AP-IPSE3-FLX-COM;Apple;iPhone SE (3.ª generación);Flex de encendido y volumen;Compatible;5,20;;;6
+AP-IPSE3-SIM-COM-RED;Apple;iPhone SE (3.ª generación);Bandeja SIM;(PRODUCT)RED;3,10;;;6
+AP-IPSE3-SIM-COM-BLA;Apple;iPhone SE (3.ª generación);Bandeja SIM;Blanco estrella;3,10;;;6
+AP-IPSE3-SIM-COM-MED;Apple;iPhone SE (3.ª generación);Bandeja SIM;Medianoche;3,10;;;6
+AP-IP14-PAN-REA;Apple;iPhone 14;Pantalla;Reacondicionada;98,00;95,06;92,12;3
+AP-IP14-PAN-OLS;Apple;iPhone 14;Pantalla;OLED Soft;54,50;52,87;51,23;6
+AP-IP14-PAN-OLH;Apple;iPhone 14;Pantalla;OLED Hard;40,19;38,98;37,78;6
+AP-IP14-PAN-INC;Apple;iPhone 14;Pantalla;Incell;33,95;32,93;31,91;6
+AP-IP14-BAT-COM;Apple;iPhone 14;Batería;Compatible;10,85;10,52;10,20;6
+AP-IP14-CON-COM;Apple;iPhone 14;Conector de carga;Compatible;6,99;;;6
+AP-IP14-TAP-COM-MED;Apple;iPhone 14;Tapa trasera;Medianoche;10,45;10,14;9,82;6
+AP-IP14-TAP-COM-BLA;Apple;iPhone 14;Tapa trasera;Blanco estrella;10,45;10,14;9,82;6
+AP-IP14-TAP-COM-RED;Apple;iPhone 14;Tapa trasera;(PRODUCT)RED;10,45;10,14;9,82;6
+AP-IP14-TAP-COM-AZU;Apple;iPhone 14;Tapa trasera;Azul;10,45;10,14;9,82;6
+AP-IP14-TAP-COM-MOR;Apple;iPhone 14;Tapa trasera;Morado;10,45;10,14;9,82;6
+AP-IP14-TAP-COM-AMA;Apple;iPhone 14;Tapa trasera;Amarillo;10,45;10,14;9,82;6
+AP-IP14-CTR-COM;Apple;iPhone 14;Cámara trasera;Compatible;26,29;25,50;24,71;6
+AP-IP14-CFR-COM;Apple;iPhone 14;Cámara frontal;Compatible;12,39;12,02;11,65;6
+AP-IP14-LEN-COM;Apple;iPhone 14;Lente de cámara;Compatible;3,49;;;6
+AP-IP14-ALT-COM;Apple;iPhone 14;Altavoz;Compatible;7,00;;;6
+AP-IP14-AUR-COM;Apple;iPhone 14;Auricular de llamada;Compatible;5,95;;;6
+AP-IP14-FLX-COM;Apple;iPhone 14;Flex de encendido y volumen;Compatible;4,95;;;6
+AP-IP14-SIM-COM-MED;Apple;iPhone 14;Bandeja SIM;Medianoche;3,95;;;6
+AP-IP14-SIM-COM-BLA;Apple;iPhone 14;Bandeja SIM;Blanco estrella;3,95;;;6
+AP-IP14-SIM-COM-RED;Apple;iPhone 14;Bandeja SIM;(PRODUCT)RED;3,95;;;6
+AP-IP14-SIM-COM-AZU;Apple;iPhone 14;Bandeja SIM;Azul;3,95;;;6
+AP-IP14-SIM-COM-MOR;Apple;iPhone 14;Bandeja SIM;Morado;3,95;;;6
+AP-IP14-SIM-COM-AMA;Apple;iPhone 14;Bandeja SIM;Amarillo;3,95;;;6
+AP-IP14PL-PAN-REA;Apple;iPhone 14 Plus;Pantalla;Reacondicionada;98,00;95,06;92,12;3
+AP-IP14PL-PAN-OLS;Apple;iPhone 14 Plus;Pantalla;OLED Soft;54,50;52,87;51,23;6
+AP-IP14PL-PAN-OLH;Apple;iPhone 14 Plus;Pantalla;OLED Hard;40,85;39,62;38,40;6
+AP-IP14PL-PAN-INC;Apple;iPhone 14 Plus;Pantalla;Incell;33,95;32,93;31,91;6
+AP-IP14PL-BAT-COM;Apple;iPhone 14 Plus;Batería;Compatible;13,15;12,76;12,36;6
+AP-IP14PL-CON-COM;Apple;iPhone 14 Plus;Conector de carga;Compatible;6,45;;;6
+AP-IP14PL-TAP-COM-MED;Apple;iPhone 14 Plus;Tapa trasera;Medianoche;10,45;10,14;9,82;6
+AP-IP14PL-TAP-COM-BLA;Apple;iPhone 14 Plus;Tapa trasera;Blanco estrella;10,45;10,14;9,82;6
+AP-IP14PL-TAP-COM-RED;Apple;iPhone 14 Plus;Tapa trasera;(PRODUCT)RED;10,45;10,14;9,82;6
+AP-IP14PL-TAP-COM-AZU;Apple;iPhone 14 Plus;Tapa trasera;Azul;10,45;10,14;9,82;6
+AP-IP14PL-TAP-COM-MOR;Apple;iPhone 14 Plus;Tapa trasera;Morado;10,45;10,14;9,82;6
+AP-IP14PL-TAP-COM-AMA;Apple;iPhone 14 Plus;Tapa trasera;Amarillo;10,45;10,14;9,82;6
+AP-IP14PL-CTR-COM;Apple;iPhone 14 Plus;Cámara trasera;Compatible;26,29;25,50;24,71;6
+AP-IP14PL-CFR-COM;Apple;iPhone 14 Plus;Cámara frontal;Compatible;8,90;;;6
+AP-IP14PL-LEN-COM;Apple;iPhone 14 Plus;Lente de cámara;Compatible;3,70;;;6
+AP-IP14PL-ALT-COM;Apple;iPhone 14 Plus;Altavoz;Compatible;5,80;;;6
+AP-IP14PL-AUR-COM;Apple;iPhone 14 Plus;Auricular de llamada;Compatible;5,70;;;6
+AP-IP14PL-FLX-COM;Apple;iPhone 14 Plus;Flex de encendido y volumen;Compatible;4,95;;;6
+AP-IP14PL-SIM-COM-MED;Apple;iPhone 14 Plus;Bandeja SIM;Medianoche;2,95;;;6
+AP-IP14PL-SIM-COM-BLA;Apple;iPhone 14 Plus;Bandeja SIM;Blanco estrella;2,95;;;6
+AP-IP14PL-SIM-COM-RED;Apple;iPhone 14 Plus;Bandeja SIM;(PRODUCT)RED;2,95;;;6
+AP-IP14PL-SIM-COM-AZU;Apple;iPhone 14 Plus;Bandeja SIM;Azul;2,95;;;6
+AP-IP14PL-SIM-COM-MOR;Apple;iPhone 14 Plus;Bandeja SIM;Morado;2,95;;;6
+AP-IP14PL-SIM-COM-AMA;Apple;iPhone 14 Plus;Bandeja SIM;Amarillo;2,95;;;6
+AP-IP14P-PAN-REA;Apple;iPhone 14 Pro;Pantalla;Reacondicionada;199,00;193,03;187,06;3
+AP-IP14P-PAN-OLS;Apple;iPhone 14 Pro;Pantalla;OLED Soft;58,85;57,08;55,32;6
+AP-IP14P-PAN-OLH;Apple;iPhone 14 Pro;Pantalla;OLED Hard;48,40;46,95;45,50;6
+AP-IP14P-PAN-INC;Apple;iPhone 14 Pro;Pantalla;Incell;37,49;36,37;35,24;6
+AP-IP14P-BAT-COM;Apple;iPhone 14 Pro;Batería;Compatible;16,99;16,48;15,97;6
+AP-IP14P-CON-COM;Apple;iPhone 14 Pro;Conector de carga;Compatible;7,35;;;6
+AP-IP14P-TAP-COM-PLA;Apple;iPhone 14 Pro;Tapa trasera;Plata;10,45;10,14;9,82;6
+AP-IP14P-TAP-COM-ORO;Apple;iPhone 14 Pro;Tapa trasera;Oro;10,45;10,14;9,82;6
+AP-IP14P-TAP-COM-NEG;Apple;iPhone 14 Pro;Tapa trasera;Negro espacial;10,45;10,14;9,82;6
+AP-IP14P-TAP-COM-MOR;Apple;iPhone 14 Pro;Tapa trasera;Morado oscuro;10,45;10,14;9,82;6
+AP-IP14P-CTR-COM;Apple;iPhone 14 Pro;Cámara trasera;Compatible;43,80;42,49;41,17;6
+AP-IP14P-CFR-COM;Apple;iPhone 14 Pro;Cámara frontal;Compatible;15,25;14,79;14,34;6
+AP-IP14P-LEN-COM;Apple;iPhone 14 Pro;Lente de cámara;Compatible;4,75;;;6
+AP-IP14P-ALT-COM;Apple;iPhone 14 Pro;Altavoz;Compatible;7,75;;;6
+AP-IP14P-AUR-COM;Apple;iPhone 14 Pro;Auricular de llamada;Compatible;5,20;;;6
+AP-IP14P-FLX-COM;Apple;iPhone 14 Pro;Flex de encendido y volumen;Compatible;5,55;;;6
+AP-IP14P-SIM-COM-PLA;Apple;iPhone 14 Pro;Bandeja SIM;Plata;3,05;;;6
+AP-IP14P-SIM-COM-ORO;Apple;iPhone 14 Pro;Bandeja SIM;Oro;3,05;;;6
+AP-IP14P-SIM-COM-NEG;Apple;iPhone 14 Pro;Bandeja SIM;Negro espacial;3,05;;;6
+AP-IP14P-SIM-COM-MOR;Apple;iPhone 14 Pro;Bandeja SIM;Morado oscuro;3,05;;;6
+AP-IP14PM-PAN-REA;Apple;iPhone 14 Pro Max;Pantalla;Reacondicionada;239,65;232,46;225,27;3
+AP-IP14PM-PAN-OLS;Apple;iPhone 14 Pro Max;Pantalla;OLED Soft;59,99;58,19;56,39;6
+AP-IP14PM-PAN-OLH;Apple;iPhone 14 Pro Max;Pantalla;OLED Hard;49,99;48,49;46,99;6
+AP-IP14PM-PAN-INC;Apple;iPhone 14 Pro Max;Pantalla;Incell;37,49;36,37;35,24;6
+AP-IP14PM-BAT-COM;Apple;iPhone 14 Pro Max;Batería;Compatible;16,99;16,48;15,97;6
+AP-IP14PM-CON-COM;Apple;iPhone 14 Pro Max;Conector de carga;Compatible;7,85;;;6
+AP-IP14PM-TAP-COM-PLA;Apple;iPhone 14 Pro Max;Tapa trasera;Plata;10,45;10,14;9,82;6
+AP-IP14PM-TAP-COM-ORO;Apple;iPhone 14 Pro Max;Tapa trasera;Oro;10,45;10,14;9,82;6
+AP-IP14PM-TAP-COM-NEG;Apple;iPhone 14 Pro Max;Tapa trasera;Negro espacial;10,45;10,14;9,82;6
+AP-IP14PM-TAP-COM-MOR;Apple;iPhone 14 Pro Max;Tapa trasera;Morado oscuro;10,45;10,14;9,82;6
+AP-IP14PM-CTR-COM;Apple;iPhone 14 Pro Max;Cámara trasera;Compatible;43,80;42,49;41,17;6
+AP-IP14PM-CFR-COM;Apple;iPhone 14 Pro Max;Cámara frontal;Compatible;10,99;10,66;10,33;6
+AP-IP14PM-LEN-COM;Apple;iPhone 14 Pro Max;Lente de cámara;Compatible;4,39;;;6
+AP-IP14PM-ALT-COM;Apple;iPhone 14 Pro Max;Altavoz;Compatible;7,05;;;6
+AP-IP14PM-AUR-COM;Apple;iPhone 14 Pro Max;Auricular de llamada;Compatible;5,75;;;6
+AP-IP14PM-FLX-COM;Apple;iPhone 14 Pro Max;Flex de encendido y volumen;Compatible;5,55;;;6
+AP-IP14PM-SIM-COM-PLA;Apple;iPhone 14 Pro Max;Bandeja SIM;Plata;3,30;;;6
+AP-IP14PM-SIM-COM-ORO;Apple;iPhone 14 Pro Max;Bandeja SIM;Oro;3,30;;;6
+AP-IP14PM-SIM-COM-NEG;Apple;iPhone 14 Pro Max;Bandeja SIM;Negro espacial;3,30;;;6
+AP-IP14PM-SIM-COM-MOR;Apple;iPhone 14 Pro Max;Bandeja SIM;Morado oscuro;3,30;;;6
+AP-IP15-PAN-REA;Apple;iPhone 15;Pantalla;Reacondicionada;130,99;127,06;123,13;3
+AP-IP15-PAN-OLS;Apple;iPhone 15;Pantalla;OLED Soft;54,50;52,87;51,23;6
+AP-IP15-PAN-OLH;Apple;iPhone 15;Pantalla;OLED Hard;40,19;38,98;37,78;6
+AP-IP15-PAN-INC;Apple;iPhone 15;Pantalla;Incell;35,00;33,95;32,90;6
+AP-IP15-BAT-COM;Apple;iPhone 15;Batería;Compatible;18,99;18,42;17,85;6
+AP-IP15-CON-COM;Apple;iPhone 15;Conector de carga;Compatible;8,89;;;6
+AP-IP15-TAP-COM-NEG;Apple;iPhone 15;Tapa trasera;Negro;13,65;13,24;12,83;6
+AP-IP15-TAP-COM-AZU;Apple;iPhone 15;Tapa trasera;Azul;13,65;13,24;12,83;6
+AP-IP15-TAP-COM-VER;Apple;iPhone 15;Tapa trasera;Verde;13,65;13,24;12,83;6
+AP-IP15-TAP-COM-AMA;Apple;iPhone 15;Tapa trasera;Amarillo;13,65;13,24;12,83;6
+AP-IP15-TAP-COM-ROS;Apple;iPhone 15;Tapa trasera;Rosa;13,65;13,24;12,83;6
+AP-IP15-CTR-COM;Apple;iPhone 15;Cámara trasera;Compatible;26,89;26,08;25,28;6
+AP-IP15-CFR-COM;Apple;iPhone 15;Cámara frontal;Compatible;14,50;14,07;13,63;6
+AP-IP15-LEN-COM;Apple;iPhone 15;Lente de cámara;Compatible;3,75;;;6
+AP-IP15-ALT-COM;Apple;iPhone 15;Altavoz;Compatible;6,60;;;6
+AP-IP15-AUR-COM;Apple;iPhone 15;Auricular de llamada;Compatible;8,05;;;6
+AP-IP15-FLX-COM;Apple;iPhone 15;Flex de encendido y volumen;Compatible;7,29;;;6
+AP-IP15-SIM-COM-NEG;Apple;iPhone 15;Bandeja SIM;Negro;3,00;;;6
+AP-IP15-SIM-COM-AZU;Apple;iPhone 15;Bandeja SIM;Azul;3,00;;;6
+AP-IP15-SIM-COM-VER;Apple;iPhone 15;Bandeja SIM;Verde;3,00;;;6
+AP-IP15-SIM-COM-AMA;Apple;iPhone 15;Bandeja SIM;Amarillo;3,00;;;6
+AP-IP15-SIM-COM-ROS;Apple;iPhone 15;Bandeja SIM;Rosa;3,00;;;6
+AP-IP15PL-PAN-REA;Apple;iPhone 15 Plus;Pantalla;Reacondicionada;160,00;155,20;150,40;3
+AP-IP15PL-PAN-OLS;Apple;iPhone 15 Plus;Pantalla;OLED Soft;68,00;65,96;63,92;6
+AP-IP15PL-PAN-OLH;Apple;iPhone 15 Plus;Pantalla;OLED Hard;63,00;61,11;59,22;6
+AP-IP15PL-PAN-INC;Apple;iPhone 15 Plus;Pantalla;Incell;60,00;58,20;56,40;6
+AP-IP15PL-BAT-COM;Apple;iPhone 15 Plus;Batería;Compatible;18,99;18,42;17,85;6
+AP-IP15PL-CON-COM;Apple;iPhone 15 Plus;Conector de carga;Compatible;9,75;;;6
+AP-IP15PL-TAP-COM-NEG;Apple;iPhone 15 Plus;Tapa trasera;Negro;13,65;13,24;12,83;6
+AP-IP15PL-TAP-COM-AZU;Apple;iPhone 15 Plus;Tapa trasera;Azul;13,65;13,24;12,83;6
+AP-IP15PL-TAP-COM-VER;Apple;iPhone 15 Plus;Tapa trasera;Verde;13,65;13,24;12,83;6
+AP-IP15PL-TAP-COM-AMA;Apple;iPhone 15 Plus;Tapa trasera;Amarillo;13,65;13,24;12,83;6
+AP-IP15PL-TAP-COM-ROS;Apple;iPhone 15 Plus;Tapa trasera;Rosa;13,65;13,24;12,83;6
+AP-IP15PL-CTR-COM;Apple;iPhone 15 Plus;Cámara trasera;Compatible;26,39;25,60;24,81;6
+AP-IP15PL-CFR-COM;Apple;iPhone 15 Plus;Cámara frontal;Compatible;13,40;13,00;12,60;6
+AP-IP15PL-LEN-COM;Apple;iPhone 15 Plus;Lente de cámara;Compatible;4,35;;;6
+AP-IP15PL-ALT-COM;Apple;iPhone 15 Plus;Altavoz;Compatible;8,15;;;6
+AP-IP15PL-AUR-COM;Apple;iPhone 15 Plus;Auricular de llamada;Compatible;8,99;;;6
+AP-IP15PL-FLX-COM;Apple;iPhone 15 Plus;Flex de encendido y volumen;Compatible;7,05;;;6
+AP-IP15PL-SIM-COM-NEG;Apple;iPhone 15 Plus;Bandeja SIM;Negro;3,45;;;6
+AP-IP15PL-SIM-COM-AZU;Apple;iPhone 15 Plus;Bandeja SIM;Azul;3,45;;;6
+AP-IP15PL-SIM-COM-VER;Apple;iPhone 15 Plus;Bandeja SIM;Verde;3,45;;;6
+AP-IP15PL-SIM-COM-AMA;Apple;iPhone 15 Plus;Bandeja SIM;Amarillo;3,45;;;6
+AP-IP15PL-SIM-COM-ROS;Apple;iPhone 15 Plus;Bandeja SIM;Rosa;3,45;;;6
+AP-IP15P-PAN-REA;Apple;iPhone 15 Pro;Pantalla;Reacondicionada;210,40;204,09;197,78;3
+AP-IP15P-PAN-OLS;Apple;iPhone 15 Pro;Pantalla;OLED Soft;65,10;63,15;61,19;6
+AP-IP15P-PAN-OLH;Apple;iPhone 15 Pro;Pantalla;OLED Hard;57,75;56,02;54,29;6
+AP-IP15P-PAN-INC;Apple;iPhone 15 Pro;Pantalla;Incell;40,00;38,80;37,60;6
+AP-IP15P-BAT-COM;Apple;iPhone 15 Pro;Batería;Compatible;18,75;18,19;17,63;6
+AP-IP15P-CON-COM;Apple;iPhone 15 Pro;Conector de carga;Compatible;11,85;11,49;11,14;6
+AP-IP15P-TAP-COM-TIT;Apple;iPhone 15 Pro;Tapa trasera;Titanio negro;13,65;13,24;12,83;6
+AP-IP15P-TAP-COM-TBL;Apple;iPhone 15 Pro;Tapa trasera;Titanio blanco;13,65;13,24;12,83;6
+AP-IP15P-TAP-COM-TAZ;Apple;iPhone 15 Pro;Tapa trasera;Titanio azul;13,65;13,24;12,83;6
+AP-IP15P-TAP-COM-TNA;Apple;iPhone 15 Pro;Tapa trasera;Titanio natural;13,65;13,24;12,83;6
+AP-IP15P-CTR-COM;Apple;iPhone 15 Pro;Cámara trasera;Compatible;44,65;43,31;41,97;6
+AP-IP15P-CFR-COM;Apple;iPhone 15 Pro;Cámara frontal;Compatible;16,55;16,05;15,56;6
+AP-IP15P-LEN-COM;Apple;iPhone 15 Pro;Lente de cámara;Compatible;5,15;;;6
+AP-IP15P-ALT-COM;Apple;iPhone 15 Pro;Altavoz;Compatible;9,89;;;6
+AP-IP15P-AUR-COM;Apple;iPhone 15 Pro;Auricular de llamada;Compatible;9,00;;;6
+AP-IP15P-FLX-COM;Apple;iPhone 15 Pro;Flex de encendido y volumen;Compatible;7,85;;;6
+AP-IP15P-SIM-COM-TIT;Apple;iPhone 15 Pro;Bandeja SIM;Titanio negro;3,85;;;6
+AP-IP15P-SIM-COM-TBL;Apple;iPhone 15 Pro;Bandeja SIM;Titanio blanco;3,85;;;6
+AP-IP15P-SIM-COM-TAZ;Apple;iPhone 15 Pro;Bandeja SIM;Titanio azul;3,85;;;6
+AP-IP15P-SIM-COM-TNA;Apple;iPhone 15 Pro;Bandeja SIM;Titanio natural;3,85;;;6
+AP-IP15PM-PAN-REA;Apple;iPhone 15 Pro Max;Pantalla;Reacondicionada;239,65;232,46;225,27;3
+AP-IP15PM-PAN-OLS;Apple;iPhone 15 Pro Max;Pantalla;OLED Soft;68,40;66,35;64,30;6
+AP-IP15PM-PAN-OLH;Apple;iPhone 15 Pro Max;Pantalla;OLED Hard;60,65;58,83;57,01;6
+AP-IP15PM-PAN-INC;Apple;iPhone 15 Pro Max;Pantalla;Incell;44,99;43,64;42,29;6
+AP-IP15PM-BAT-COM;Apple;iPhone 15 Pro Max;Batería;Compatible;18,99;18,42;17,85;6
+AP-IP15PM-CON-COM;Apple;iPhone 15 Pro Max;Conector de carga;Compatible;14,29;13,86;13,43;6
+AP-IP15PM-TAP-COM-TIT;Apple;iPhone 15 Pro Max;Tapa trasera;Titanio negro;17,09;16,58;16,06;6
+AP-IP15PM-TAP-COM-TBL;Apple;iPhone 15 Pro Max;Tapa trasera;Titanio blanco;17,09;16,58;16,06;6
+AP-IP15PM-TAP-COM-TAZ;Apple;iPhone 15 Pro Max;Tapa trasera;Titanio azul;17,09;16,58;16,06;6
+AP-IP15PM-TAP-COM-TNA;Apple;iPhone 15 Pro Max;Tapa trasera;Titanio natural;17,09;16,58;16,06;6
+AP-IP15PM-CTR-COM;Apple;iPhone 15 Pro Max;Cámara trasera;Compatible;45,35;43,99;42,63;6
+AP-IP15PM-CFR-COM;Apple;iPhone 15 Pro Max;Cámara frontal;Compatible;18,05;17,51;16,97;6
+AP-IP15PM-LEN-COM;Apple;iPhone 15 Pro Max;Lente de cámara;Compatible;4,45;;;6
+AP-IP15PM-ALT-COM;Apple;iPhone 15 Pro Max;Altavoz;Compatible;13,75;13,34;12,93;6
+AP-IP15PM-AUR-COM;Apple;iPhone 15 Pro Max;Auricular de llamada;Compatible;10,25;9,94;9,64;6
+AP-IP15PM-FLX-COM;Apple;iPhone 15 Pro Max;Flex de encendido y volumen;Compatible;5,89;;;6
+AP-IP15PM-SIM-COM-TIT;Apple;iPhone 15 Pro Max;Bandeja SIM;Titanio negro;3,89;;;6
+AP-IP15PM-SIM-COM-TBL;Apple;iPhone 15 Pro Max;Bandeja SIM;Titanio blanco;3,89;;;6
+AP-IP15PM-SIM-COM-TAZ;Apple;iPhone 15 Pro Max;Bandeja SIM;Titanio azul;3,89;;;6
+AP-IP15PM-SIM-COM-TNA;Apple;iPhone 15 Pro Max;Bandeja SIM;Titanio natural;3,89;;;6
+AP-IP16-PAN-REA;Apple;iPhone 16;Pantalla;Reacondicionada;162,65;157,77;152,89;3
+AP-IP16-PAN-OLS;Apple;iPhone 16;Pantalla;OLED Soft;54,50;52,87;51,23;6
+AP-IP16-PAN-OLH;Apple;iPhone 16;Pantalla;OLED Hard;47,25;45,83;44,42;6
+AP-IP16-PAN-INC;Apple;iPhone 16;Pantalla;Incell;44,99;43,64;42,29;6
+AP-IP16-BAT-COM;Apple;iPhone 16;Batería;Compatible;13,75;13,34;12,93;6
+AP-IP16-CON-COM;Apple;iPhone 16;Conector de carga;Compatible;13,55;13,14;12,74;6
+AP-IP16-TAP-COM-NEG;Apple;iPhone 16;Tapa trasera;Negro;13,30;12,90;12,50;6
+AP-IP16-TAP-COM-BLA;Apple;iPhone 16;Tapa trasera;Blanco;13,30;12,90;12,50;6
+AP-IP16-TAP-COM-ROS;Apple;iPhone 16;Tapa trasera;Rosa;13,30;12,90;12,50;6
+AP-IP16-TAP-COM-VER;Apple;iPhone 16;Tapa trasera;Verde azulado;13,30;12,90;12,50;6
+AP-IP16-TAP-COM-AZU;Apple;iPhone 16;Tapa trasera;Azul ultramar;13,30;12,90;12,50;6
+AP-IP16-CTR-COM;Apple;iPhone 16;Cámara trasera;Compatible;35,40;34,34;33,28;6
+AP-IP16-CFR-COM;Apple;iPhone 16;Cámara frontal;Compatible;17,19;16,67;16,16;6
+AP-IP16-LEN-COM;Apple;iPhone 16;Lente de cámara;Compatible;4,70;;;6
+AP-IP16-ALT-COM;Apple;iPhone 16;Altavoz;Compatible;7,45;;;6
+AP-IP16-AUR-COM;Apple;iPhone 16;Auricular de llamada;Compatible;12,79;12,41;12,02;6
+AP-IP16-FLX-COM;Apple;iPhone 16;Flex de encendido y volumen;Compatible;7,55;;;6
+AP-IP16-SIM-COM-NEG;Apple;iPhone 16;Bandeja SIM;Negro;3,35;;;6
+AP-IP16-SIM-COM-BLA;Apple;iPhone 16;Bandeja SIM;Blanco;3,35;;;6
+AP-IP16-SIM-COM-ROS;Apple;iPhone 16;Bandeja SIM;Rosa;3,35;;;6
+AP-IP16-SIM-COM-VER;Apple;iPhone 16;Bandeja SIM;Verde azulado;3,35;;;6
+AP-IP16-SIM-COM-AZU;Apple;iPhone 16;Bandeja SIM;Azul ultramar;3,35;;;6
+AP-IP16PL-PAN-REA;Apple;iPhone 16 Plus;Pantalla;Reacondicionada;246,39;239,00;231,61;3
+AP-IP16PL-PAN-OLS;Apple;iPhone 16 Plus;Pantalla;OLED Soft;83,79;81,28;78,76;6
+AP-IP16PL-PAN-OLH;Apple;iPhone 16 Plus;Pantalla;OLED Hard;74,30;72,07;69,84;6
+AP-IP16PL-PAN-INC;Apple;iPhone 16 Plus;Pantalla;Incell;70,00;67,90;65,80;6
+AP-IP16PL-BAT-COM;Apple;iPhone 16 Plus;Batería;Compatible;15,90;15,42;14,95;6
+AP-IP16PL-CON-COM;Apple;iPhone 16 Plus;Conector de carga;Compatible;9,79;;;6
+AP-IP16PL-TAP-COM-NEG;Apple;iPhone 16 Plus;Tapa trasera;Negro;13,30;12,90;12,50;6
+AP-IP16PL-TAP-COM-BLA;Apple;iPhone 16 Plus;Tapa trasera;Blanco;13,30;12,90;12,50;6
+AP-IP16PL-TAP-COM-ROS;Apple;iPhone 16 Plus;Tapa trasera;Rosa;13,30;12,90;12,50;6
+AP-IP16PL-TAP-COM-VER;Apple;iPhone 16 Plus;Tapa trasera;Verde azulado;13,30;12,90;12,50;6
+AP-IP16PL-TAP-COM-AZU;Apple;iPhone 16 Plus;Tapa trasera;Azul ultramar;13,30;12,90;12,50;6
+AP-IP16PL-CTR-COM;Apple;iPhone 16 Plus;Cámara trasera;Compatible;35,40;34,34;33,28;6
+AP-IP16PL-CFR-COM;Apple;iPhone 16 Plus;Cámara frontal;Compatible;13,89;13,47;13,06;6
+AP-IP16PL-LEN-COM;Apple;iPhone 16 Plus;Lente de cámara;Compatible;4,60;;;6
+AP-IP16PL-ALT-COM;Apple;iPhone 16 Plus;Altavoz;Compatible;7,80;;;6
+AP-IP16PL-AUR-COM;Apple;iPhone 16 Plus;Auricular de llamada;Compatible;9,39;;;6
+AP-IP16PL-FLX-COM;Apple;iPhone 16 Plus;Flex de encendido y volumen;Compatible;7,55;;;6
+AP-IP16PL-SIM-COM-NEG;Apple;iPhone 16 Plus;Bandeja SIM;Negro;3,55;;;6
+AP-IP16PL-SIM-COM-BLA;Apple;iPhone 16 Plus;Bandeja SIM;Blanco;3,55;;;6
+AP-IP16PL-SIM-COM-ROS;Apple;iPhone 16 Plus;Bandeja SIM;Rosa;3,55;;;6
+AP-IP16PL-SIM-COM-VER;Apple;iPhone 16 Plus;Bandeja SIM;Verde azulado;3,55;;;6
+AP-IP16PL-SIM-COM-AZU;Apple;iPhone 16 Plus;Bandeja SIM;Azul ultramar;3,55;;;6
+AP-IP16P-PAN-REA;Apple;iPhone 16 Pro;Pantalla;Reacondicionada;304,60;295,46;286,32;3
+AP-IP16P-PAN-OLS;Apple;iPhone 16 Pro;Pantalla;OLED Soft;71,80;69,65;67,49;6
+AP-IP16P-PAN-OLH;Apple;iPhone 16 Pro;Pantalla;OLED Hard;59,10;57,33;55,55;6
+AP-IP16P-PAN-INC;Apple;iPhone 16 Pro;Pantalla;Incell;44,99;43,64;42,29;6
+AP-IP16P-BAT-COM;Apple;iPhone 16 Pro;Batería;Compatible;19,15;18,58;18,00;6
+AP-IP16P-CON-COM;Apple;iPhone 16 Pro;Conector de carga;Compatible;11,90;11,54;11,19;6
+AP-IP16P-TAP-COM-TIT;Apple;iPhone 16 Pro;Tapa trasera;Titanio negro;13,65;13,24;12,83;6
+AP-IP16P-TAP-COM-TBL;Apple;iPhone 16 Pro;Tapa trasera;Titanio blanco;13,65;13,24;12,83;6
+AP-IP16P-TAP-COM-TNA;Apple;iPhone 16 Pro;Tapa trasera;Titanio natural;13,65;13,24;12,83;6
+AP-IP16P-TAP-COM-TDE;Apple;iPhone 16 Pro;Tapa trasera;Titanio desierto;13,65;13,24;12,83;6
+AP-IP16P-CTR-COM;Apple;iPhone 16 Pro;Cámara trasera;Compatible;44,00;42,68;41,36;6
+AP-IP16P-CFR-COM;Apple;iPhone 16 Pro;Cámara frontal;Compatible;17,15;16,64;16,12;6
+AP-IP16P-LEN-COM;Apple;iPhone 16 Pro;Lente de cámara;Compatible;5,49;;;6
+AP-IP16P-ALT-COM;Apple;iPhone 16 Pro;Altavoz;Compatible;9,50;;;6
+AP-IP16P-AUR-COM;Apple;iPhone 16 Pro;Auricular de llamada;Compatible;9,40;;;6
+AP-IP16P-FLX-COM;Apple;iPhone 16 Pro;Flex de encendido y volumen;Compatible;8,45;;;6
+AP-IP16P-SIM-COM-TIT;Apple;iPhone 16 Pro;Bandeja SIM;Titanio negro;3,95;;;6
+AP-IP16P-SIM-COM-TBL;Apple;iPhone 16 Pro;Bandeja SIM;Titanio blanco;3,95;;;6
+AP-IP16P-SIM-COM-TNA;Apple;iPhone 16 Pro;Bandeja SIM;Titanio natural;3,95;;;6
+AP-IP16P-SIM-COM-TDE;Apple;iPhone 16 Pro;Bandeja SIM;Titanio desierto;3,95;;;6
+AP-IP16PM-PAN-REA;Apple;iPhone 16 Pro Max;Pantalla;Reacondicionada;304,60;295,46;286,32;3
+AP-IP16PM-PAN-OLS;Apple;iPhone 16 Pro Max;Pantalla;OLED Soft;71,80;69,65;67,49;6
+AP-IP16PM-PAN-OLH;Apple;iPhone 16 Pro Max;Pantalla;OLED Hard;59,10;57,33;55,55;6
+AP-IP16PM-PAN-INC;Apple;iPhone 16 Pro Max;Pantalla;Incell;44,99;43,64;42,29;6
+AP-IP16PM-BAT-COM;Apple;iPhone 16 Pro Max;Batería;Compatible;20,00;19,40;18,80;6
+AP-IP16PM-CON-COM;Apple;iPhone 16 Pro Max;Conector de carga;Compatible;10,10;9,80;9,49;6
+AP-IP16PM-TAP-COM-TIT;Apple;iPhone 16 Pro Max;Tapa trasera;Titanio negro;17,75;17,22;16,68;6
+AP-IP16PM-TAP-COM-TBL;Apple;iPhone 16 Pro Max;Tapa trasera;Titanio blanco;17,75;17,22;16,68;6
+AP-IP16PM-TAP-COM-TNA;Apple;iPhone 16 Pro Max;Tapa trasera;Titanio natural;17,75;17,22;16,68;6
+AP-IP16PM-TAP-COM-TDE;Apple;iPhone 16 Pro Max;Tapa trasera;Titanio desierto;17,75;17,22;16,68;6
+AP-IP16PM-CTR-COM;Apple;iPhone 16 Pro Max;Cámara trasera;Compatible;43,99;42,67;41,35;6
+AP-IP16PM-CFR-COM;Apple;iPhone 16 Pro Max;Cámara frontal;Compatible;19,69;19,10;18,51;6
+AP-IP16PM-LEN-COM;Apple;iPhone 16 Pro Max;Lente de cámara;Compatible;5,49;;;6
+AP-IP16PM-ALT-COM;Apple;iPhone 16 Pro Max;Altavoz;Compatible;9,85;;;6
+AP-IP16PM-AUR-COM;Apple;iPhone 16 Pro Max;Auricular de llamada;Compatible;9,09;;;6
+AP-IP16PM-FLX-COM;Apple;iPhone 16 Pro Max;Flex de encendido y volumen;Compatible;9,50;;;6
+AP-IP16PM-SIM-COM-TIT;Apple;iPhone 16 Pro Max;Bandeja SIM;Titanio negro;4,00;;;6
+AP-IP16PM-SIM-COM-TBL;Apple;iPhone 16 Pro Max;Bandeja SIM;Titanio blanco;4,00;;;6
+AP-IP16PM-SIM-COM-TNA;Apple;iPhone 16 Pro Max;Bandeja SIM;Titanio natural;4,00;;;6
+AP-IP16PM-SIM-COM-TDE;Apple;iPhone 16 Pro Max;Bandeja SIM;Titanio desierto;4,00;;;6
+AP-IP16E-PAN-REA;Apple;iPhone 16e;Pantalla;Reacondicionada;100,00;97,00;94,00;3
+AP-IP16E-PAN-OLS;Apple;iPhone 16e;Pantalla;OLED Soft;70,70;68,58;66,46;6
+AP-IP16E-PAN-OLH;Apple;iPhone 16e;Pantalla;OLED Hard;62,75;60,87;58,99;6
+AP-IP16E-PAN-INC;Apple;iPhone 16e;Pantalla;Incell;40,85;39,62;38,40;6
+AP-IP16E-BAT-COM;Apple;iPhone 16e;Batería;Compatible;17,10;16,59;16,07;6
+AP-IP16E-CON-COM;Apple;iPhone 16e;Conector de carga;Compatible;11,15;10,82;10,48;6
+AP-IP16E-TAP-COM-NEG;Apple;iPhone 16e;Tapa trasera;Negro;13,25;12,85;12,46;6
+AP-IP16E-TAP-COM-BLA;Apple;iPhone 16e;Tapa trasera;Blanco;13,25;12,85;12,46;6
+AP-IP16E-CTR-COM;Apple;iPhone 16e;Cámara trasera;Compatible;33,69;32,68;31,67;6
+AP-IP16E-CFR-COM;Apple;iPhone 16e;Cámara frontal;Compatible;16,55;16,05;15,56;6
+AP-IP16E-LEN-COM;Apple;iPhone 16e;Lente de cámara;Compatible;5,80;;;6
+AP-IP16E-ALT-COM;Apple;iPhone 16e;Altavoz;Compatible;9,15;;;6
+AP-IP16E-AUR-COM;Apple;iPhone 16e;Auricular de llamada;Compatible;11,45;11,11;10,76;6
+AP-IP16E-FLX-COM;Apple;iPhone 16e;Flex de encendido y volumen;Compatible;8,95;;;6
+AP-IP16E-SIM-COM-NEG;Apple;iPhone 16e;Bandeja SIM;Negro;3,99;;;6
+AP-IP16E-SIM-COM-BLA;Apple;iPhone 16e;Bandeja SIM;Blanco;3,99;;;6
+AP-IP17-PAN-REA;Apple;iPhone 17;Pantalla;Reacondicionada;162,65;157,77;152,89;3
+AP-IP17-PAN-OLS;Apple;iPhone 17;Pantalla;OLED Soft;71,95;69,79;67,63;6
+AP-IP17-PAN-OLH;Apple;iPhone 17;Pantalla;OLED Hard;68,50;66,44;64,39;6
+AP-IP17-PAN-INC;Apple;iPhone 17;Pantalla;Incell;56,85;55,14;53,44;6
+AP-IP17-BAT-COM;Apple;iPhone 17;Batería;Compatible;23,99;23,27;22,55;6
+AP-IP17-CON-COM;Apple;iPhone 17;Conector de carga;Compatible;8,60;;;6
+AP-IP17-TAP-COM-NEG;Apple;iPhone 17;Tapa trasera;Negro;14,05;13,63;13,21;6
+AP-IP17-TAP-COM-BLA;Apple;iPhone 17;Tapa trasera;Blanco;14,05;13,63;13,21;6
+AP-IP17-TAP-COM-AZU;Apple;iPhone 17;Tapa trasera;Azul neblina;14,05;13,63;13,21;6
+AP-IP17-TAP-COM-VER;Apple;iPhone 17;Tapa trasera;Verde salvia;14,05;13,63;13,21;6
+AP-IP17-TAP-COM-LAV;Apple;iPhone 17;Tapa trasera;Lavanda;14,05;13,63;13,21;6
+AP-IP17-CTR-COM;Apple;iPhone 17;Cámara trasera;Compatible;39,45;38,27;37,08;6
+AP-IP17-CFR-COM;Apple;iPhone 17;Cámara frontal;Compatible;15,60;15,13;14,66;6
+AP-IP17-LEN-COM;Apple;iPhone 17;Lente de cámara;Compatible;5,75;;;6
+AP-IP17-ALT-COM;Apple;iPhone 17;Altavoz;Compatible;10,10;9,80;9,49;6
+AP-IP17-AUR-COM;Apple;iPhone 17;Auricular de llamada;Compatible;14,50;14,07;13,63;6
+AP-IP17-FLX-COM;Apple;iPhone 17;Flex de encendido y volumen;Compatible;8,70;;;6
+AP-IP17-SIM-COM-NEG;Apple;iPhone 17;Bandeja SIM;Negro;3,10;;;6
+AP-IP17-SIM-COM-BLA;Apple;iPhone 17;Bandeja SIM;Blanco;3,10;;;6
+AP-IP17-SIM-COM-AZU;Apple;iPhone 17;Bandeja SIM;Azul neblina;3,10;;;6
+AP-IP17-SIM-COM-VER;Apple;iPhone 17;Bandeja SIM;Verde salvia;3,10;;;6
+AP-IP17-SIM-COM-LAV;Apple;iPhone 17;Bandeja SIM;Lavanda;3,10;;;6
+AP-IPAIR-PAN-REA;Apple;iPhone Air;Pantalla;Reacondicionada;94,85;92,00;89,16;3
+AP-IPAIR-PAN-OLS;Apple;iPhone Air;Pantalla;OLED Soft;71,99;69,83;67,67;6
+AP-IPAIR-PAN-OLH;Apple;iPhone Air;Pantalla;OLED Hard;63,85;61,93;60,02;6
+AP-IPAIR-PAN-INC;Apple;iPhone Air;Pantalla;Incell;41,55;40,30;39,06;6
+AP-IPAIR-BAT-COM;Apple;iPhone Air;Batería;Compatible;17,30;16,78;16,26;6
+AP-IPAIR-CON-COM;Apple;iPhone Air;Conector de carga;Compatible;10,65;10,33;10,01;6
+AP-IPAIR-TAP-COM-NEG;Apple;iPhone Air;Tapa trasera;Negro espacial;13,00;12,61;12,22;6
+AP-IPAIR-TAP-COM-BLA;Apple;iPhone Air;Tapa trasera;Blanco nube;13,00;12,61;12,22;6
+AP-IPAIR-TAP-COM-DOR;Apple;iPhone Air;Tapa trasera;Dorado claro;13,00;12,61;12,22;6
+AP-IPAIR-TAP-COM-AZU;Apple;iPhone Air;Tapa trasera;Azul cielo;13,00;12,61;12,22;6
+AP-IPAIR-CTR-COM;Apple;iPhone Air;Cámara trasera;Compatible;34,15;33,13;32,10;6
+AP-IPAIR-CFR-COM;Apple;iPhone Air;Cámara frontal;Compatible;15,60;15,13;14,66;6
+AP-IPAIR-LEN-COM;Apple;iPhone Air;Lente de cámara;Compatible;5,70;;;6
+AP-IPAIR-ALT-COM;Apple;iPhone Air;Altavoz;Compatible;9,35;;;6
+AP-IPAIR-AUR-COM;Apple;iPhone Air;Auricular de llamada;Compatible;11,65;11,30;10,95;6
+AP-IPAIR-FLX-COM;Apple;iPhone Air;Flex de encendido y volumen;Compatible;8,70;;;6
+AP-IP17P-PAN-REA;Apple;iPhone 17 Pro;Pantalla;Reacondicionada;304,60;295,46;286,32;3
+AP-IP17P-PAN-OLS;Apple;iPhone 17 Pro;Pantalla;OLED Soft;73,59;71,38;69,17;6
+AP-IP17P-PAN-OLH;Apple;iPhone 17 Pro;Pantalla;OLED Hard;68,50;66,44;64,39;6
+AP-IP17P-PAN-INC;Apple;iPhone 17 Pro;Pantalla;Incell;56,85;55,14;53,44;6
+AP-IP17P-BAT-COM;Apple;iPhone 17 Pro;Batería;Compatible;23,99;23,27;22,55;6
+AP-IP17P-CON-COM;Apple;iPhone 17 Pro;Conector de carga;Compatible;12,95;12,56;12,17;6
+AP-IP17P-TAP-COM-PLA;Apple;iPhone 17 Pro;Tapa trasera;Plata;14,05;13,63;13,21;6
+AP-IP17P-TAP-COM-NAR;Apple;iPhone 17 Pro;Tapa trasera;Naranja cósmico;14,05;13,63;13,21;6
+AP-IP17P-TAP-COM-AZU;Apple;iPhone 17 Pro;Tapa trasera;Azul oscuro;14,05;13,63;13,21;6
+AP-IP17P-CTR-COM;Apple;iPhone 17 Pro;Cámara trasera;Compatible;57,80;56,07;54,33;6
+AP-IP17P-CFR-COM;Apple;iPhone 17 Pro;Cámara frontal;Compatible;19,25;18,67;18,10;6
+AP-IP17P-LEN-COM;Apple;iPhone 17 Pro;Lente de cámara;Compatible;6,79;;;6
+AP-IP17P-ALT-COM;Apple;iPhone 17 Pro;Altavoz;Compatible;11,39;11,05;10,71;6
+AP-IP17P-AUR-COM;Apple;iPhone 17 Pro;Auricular de llamada;Compatible;11,65;11,30;10,95;6
+AP-IP17P-FLX-COM;Apple;iPhone 17 Pro;Flex de encendido y volumen;Compatible;9,75;;;6
+AP-IP17P-SIM-COM-PLA;Apple;iPhone 17 Pro;Bandeja SIM;Plata;4,09;;;6
+AP-IP17P-SIM-COM-NAR;Apple;iPhone 17 Pro;Bandeja SIM;Naranja cósmico;4,09;;;6
+AP-IP17P-SIM-COM-AZU;Apple;iPhone 17 Pro;Bandeja SIM;Azul oscuro;4,09;;;6
+AP-IP17PM-PAN-REA;Apple;iPhone 17 Pro Max;Pantalla;Reacondicionada;304,60;295,46;286,32;3
+AP-IP17PM-PAN-OLS;Apple;iPhone 17 Pro Max;Pantalla;OLED Soft;73,59;71,38;69,17;6
+AP-IP17PM-PAN-OLH;Apple;iPhone 17 Pro Max;Pantalla;OLED Hard;68,50;66,44;64,39;6
+AP-IP17PM-PAN-INC;Apple;iPhone 17 Pro Max;Pantalla;Incell;56,85;55,14;53,44;6
+AP-IP17PM-BAT-COM;Apple;iPhone 17 Pro Max;Batería;Compatible;23,99;23,27;22,55;6
+AP-IP17PM-CON-COM;Apple;iPhone 17 Pro Max;Conector de carga;Compatible;12,95;12,56;12,17;6
+AP-IP17PM-TAP-COM-PLA;Apple;iPhone 17 Pro Max;Tapa trasera;Plata;14,05;13,63;13,21;6
+AP-IP17PM-TAP-COM-NAR;Apple;iPhone 17 Pro Max;Tapa trasera;Naranja cósmico;14,05;13,63;13,21;6
+AP-IP17PM-TAP-COM-AZU;Apple;iPhone 17 Pro Max;Tapa trasera;Azul oscuro;14,05;13,63;13,21;6
+AP-IP17PM-CTR-COM;Apple;iPhone 17 Pro Max;Cámara trasera;Compatible;66,00;64,02;62,04;6
+AP-IP17PM-CFR-COM;Apple;iPhone 17 Pro Max;Cámara frontal;Compatible;19,25;18,67;18,10;6
+AP-IP17PM-LEN-COM;Apple;iPhone 17 Pro Max;Lente de cámara;Compatible;6,20;;;6
+AP-IP17PM-ALT-COM;Apple;iPhone 17 Pro Max;Altavoz;Compatible;11,10;10,77;10,43;6
+AP-IP17PM-AUR-COM;Apple;iPhone 17 Pro Max;Auricular de llamada;Compatible;11,49;11,15;10,80;6
+AP-IP17PM-FLX-COM;Apple;iPhone 17 Pro Max;Flex de encendido y volumen;Compatible;9,75;;;6
+AP-IP17PM-SIM-COM-PLA;Apple;iPhone 17 Pro Max;Bandeja SIM;Plata;2,89;;;6
+AP-IP17PM-SIM-COM-NAR;Apple;iPhone 17 Pro Max;Bandeja SIM;Naranja cósmico;2,89;;;6
+AP-IP17PM-SIM-COM-AZU;Apple;iPhone 17 Pro Max;Bandeja SIM;Azul oscuro;2,89;;;6
+AP-IP17E-PAN-REA;Apple;iPhone 17e;Pantalla;Reacondicionada;100,00;97,00;94,00;3
+AP-IP17E-PAN-OLS;Apple;iPhone 17e;Pantalla;OLED Soft;71,99;69,83;67,67;6
+AP-IP17E-PAN-OLH;Apple;iPhone 17e;Pantalla;OLED Hard;63,85;61,93;60,02;6
+AP-IP17E-PAN-INC;Apple;iPhone 17e;Pantalla;Incell;41,55;40,30;39,06;6
+AP-IP17E-BAT-COM;Apple;iPhone 17e;Batería;Compatible;17,30;16,78;16,26;6
+AP-IP17E-CON-COM;Apple;iPhone 17e;Conector de carga;Compatible;10,65;10,33;10,01;6
+AP-IP17E-TAP-COM-NEG;Apple;iPhone 17e;Tapa trasera;Negro;13,00;12,61;12,22;6
+AP-IP17E-TAP-COM-BLA;Apple;iPhone 17e;Tapa trasera;Blanco;13,00;12,61;12,22;6
+AP-IP17E-TAP-COM-ROS;Apple;iPhone 17e;Tapa trasera;Rosa palo;13,00;12,61;12,22;6
+AP-IP17E-CTR-COM;Apple;iPhone 17e;Cámara trasera;Compatible;34,15;33,13;32,10;6
+AP-IP17E-CFR-COM;Apple;iPhone 17e;Cámara frontal;Compatible;15,60;15,13;14,66;6
+AP-IP17E-LEN-COM;Apple;iPhone 17e;Lente de cámara;Compatible;5,70;;;6
+AP-IP17E-ALT-COM;Apple;iPhone 17e;Altavoz;Compatible;9,35;;;6
+AP-IP17E-AUR-COM;Apple;iPhone 17e;Auricular de llamada;Compatible;11,65;11,30;10,95;6
+AP-IP17E-FLX-COM;Apple;iPhone 17e;Flex de encendido y volumen;Compatible;8,70;;;6
+AP-IP17E-SIM-COM-NEG;Apple;iPhone 17e;Bandeja SIM;Negro;3,65;;;6
+AP-IP17E-SIM-COM-BLA;Apple;iPhone 17e;Bandeja SIM;Blanco;3,65;;;6
+AP-IP17E-SIM-COM-ROS;Apple;iPhone 17e;Bandeja SIM;Rosa palo;3,65;;;6
+AP-IP18P-PAN-REA;Apple;iPhone 18 Pro;Pantalla;Reacondicionada;304,60;295,46;286,32;3
+AP-IP18P-PAN-OLS;Apple;iPhone 18 Pro;Pantalla;OLED Soft;73,59;71,38;69,17;6
+AP-IP18P-PAN-OLH;Apple;iPhone 18 Pro;Pantalla;OLED Hard;68,50;66,44;64,39;6
+AP-IP18P-PAN-INC;Apple;iPhone 18 Pro;Pantalla;Incell;56,85;55,14;53,44;6
+AP-IP18P-BAT-COM;Apple;iPhone 18 Pro;Batería;Compatible;20,35;19,74;19,13;6
+AP-IP18P-CON-COM;Apple;iPhone 18 Pro;Conector de carga;Compatible;13,55;13,14;12,74;6
+AP-IP18P-TAP-COM-NEG;Apple;iPhone 18 Pro;Tapa trasera;Negro;14,20;13,77;13,35;6
+AP-IP18P-TAP-COM-PLA;Apple;iPhone 18 Pro;Tapa trasera;Plata;14,20;13,77;13,35;6
+AP-IP18P-TAP-COM-AZU;Apple;iPhone 18 Pro;Tapa trasera;Azul glacial;14,20;13,77;13,35;6
+AP-IP18P-TAP-COM-BUR;Apple;iPhone 18 Pro;Tapa trasera;Burdeos;14,20;13,77;13,35;6
+AP-IP18P-CTR-COM;Apple;iPhone 18 Pro;Cámara trasera;Compatible;53,40;51,80;50,20;6
+AP-IP18P-CFR-COM;Apple;iPhone 18 Pro;Cámara frontal;Compatible;19,25;18,67;18,10;6
+AP-IP18P-LEN-COM;Apple;iPhone 18 Pro;Lente de cámara;Compatible;6,95;;;6
+AP-IP18P-ALT-COM;Apple;iPhone 18 Pro;Altavoz;Compatible;11,35;11,01;10,67;6
+AP-IP18P-AUR-COM;Apple;iPhone 18 Pro;Auricular de llamada;Compatible;11,20;10,86;10,53;6
+AP-IP18P-FLX-COM;Apple;iPhone 18 Pro;Flex de encendido y volumen;Compatible;9,75;;;6
+AP-IP18P-SIM-COM-NEG;Apple;iPhone 18 Pro;Bandeja SIM;Negro;4,55;;;6
+AP-IP18P-SIM-COM-PLA;Apple;iPhone 18 Pro;Bandeja SIM;Plata;4,55;;;6
+AP-IP18P-SIM-COM-AZU;Apple;iPhone 18 Pro;Bandeja SIM;Azul glacial;4,55;;;6
+AP-IP18P-SIM-COM-BUR;Apple;iPhone 18 Pro;Bandeja SIM;Burdeos;4,55;;;6
+AP-IP18PM-PAN-REA;Apple;iPhone 18 Pro Max;Pantalla;Reacondicionada;304,60;295,46;286,32;3
+AP-IP18PM-PAN-OLS;Apple;iPhone 18 Pro Max;Pantalla;OLED Soft;72,95;70,76;68,57;6
+AP-IP18PM-PAN-OLH;Apple;iPhone 18 Pro Max;Pantalla;OLED Hard;68,50;66,44;64,39;6
+AP-IP18PM-PAN-INC;Apple;iPhone 18 Pro Max;Pantalla;Incell;56,85;55,14;53,44;6
+AP-IP18PM-BAT-COM;Apple;iPhone 18 Pro Max;Batería;Compatible;20,35;19,74;19,13;6
+AP-IP18PM-CON-COM;Apple;iPhone 18 Pro Max;Conector de carga;Compatible;13,55;13,14;12,74;6
+AP-IP18PM-TAP-COM-NEG;Apple;iPhone 18 Pro Max;Tapa trasera;Negro;14,20;13,77;13,35;6
+AP-IP18PM-TAP-COM-PLA;Apple;iPhone 18 Pro Max;Tapa trasera;Plata;14,20;13,77;13,35;6
+AP-IP18PM-TAP-COM-AZU;Apple;iPhone 18 Pro Max;Tapa trasera;Azul glacial;14,20;13,77;13,35;6
+AP-IP18PM-TAP-COM-BUR;Apple;iPhone 18 Pro Max;Tapa trasera;Burdeos;14,20;13,77;13,35;6
+AP-IP18PM-CTR-COM;Apple;iPhone 18 Pro Max;Cámara trasera;Compatible;53,40;51,80;50,20;6
+AP-IP18PM-CFR-COM;Apple;iPhone 18 Pro Max;Cámara frontal;Compatible;19,25;18,67;18,10;6
+AP-IP18PM-LEN-COM;Apple;iPhone 18 Pro Max;Lente de cámara;Compatible;6,95;;;6
+AP-IP18PM-ALT-COM;Apple;iPhone 18 Pro Max;Altavoz;Compatible;11,35;11,01;10,67;6
+AP-IP18PM-AUR-COM;Apple;iPhone 18 Pro Max;Auricular de llamada;Compatible;11,20;10,86;10,53;6
+AP-IP18PM-FLX-COM;Apple;iPhone 18 Pro Max;Flex de encendido y volumen;Compatible;9,75;;;6
+AP-IP18PM-SIM-COM-NEG;Apple;iPhone 18 Pro Max;Bandeja SIM;Negro;4,55;;;6
+AP-IP18PM-SIM-COM-PLA;Apple;iPhone 18 Pro Max;Bandeja SIM;Plata;4,55;;;6
+AP-IP18PM-SIM-COM-AZU;Apple;iPhone 18 Pro Max;Bandeja SIM;Azul glacial;4,55;;;6
+AP-IP18PM-SIM-COM-BUR;Apple;iPhone 18 Pro Max;Bandeja SIM;Burdeos;4,55;;;6
+AP-IPDUO-PAN-COM;Apple;iPhone Duo;Pantalla;Compatible;60,65;58,83;57,01;6
+AP-IPDUO-BAT-COM;Apple;iPhone Duo;Batería;Compatible;16,90;16,39;15,89;6
+AP-IPDUO-CON-COM;Apple;iPhone Duo;Conector de carga;Compatible;11,15;10,82;10,48;6
+AP-IPDUO-TAP-COM;Apple;iPhone Duo;Tapa trasera;Compatible;12,75;12,37;11,99;6
+AP-IPDUO-CTR-COM;Apple;iPhone Duo;Cámara trasera;Compatible;31,55;30,60;29,66;6
+AP-IPDUO-CFR-COM;Apple;iPhone Duo;Cámara frontal;Compatible;15,60;15,13;14,66;6
+AP-IPDUO-LEN-COM;Apple;iPhone Duo;Lente de cámara;Compatible;5,85;;;6
+AP-IPDUO-ALT-COM;Apple;iPhone Duo;Altavoz;Compatible;9,30;;;6
+AP-IPDUO-AUR-COM;Apple;iPhone Duo;Auricular de llamada;Compatible;11,20;10,86;10,53;6
+AP-IPDUO-FLX-COM;Apple;iPhone Duo;Flex de encendido y volumen;Compatible;8,70;;;6
+AP-IPDUO-SIM-COM;Apple;iPhone Duo;Bandeja SIM;Compatible;4,09;;;6
+AP-IP5C-PAN-COM;Apple;iPhone 5c;Pantalla;Compatible;17,99;17,45;16,91;6
+AP-IP5C-BAT-COM;Apple;iPhone 5c;Batería;Compatible;12,45;12,08;11,70;6
+AP-IP5C-CON-COM;Apple;iPhone 5c;Conector de carga;Compatible;5,99;;;6
+AP-IP5C-TAP-COM;Apple;iPhone 5c;Tapa trasera;Compatible;5,25;;;6
+AP-IP5C-CTR-COM;Apple;iPhone 5c;Cámara trasera;Compatible;11,25;10,91;10,58;6
+AP-IP5C-CFR-COM;Apple;iPhone 5c;Cámara frontal;Compatible;5,70;;;6
+AP-IP5C-LEN-COM;Apple;iPhone 5c;Lente de cámara;Compatible;3,00;;;6
+AP-IP5C-ALT-COM;Apple;iPhone 5c;Altavoz;Compatible;4,29;;;6
+AP-IP5C-AUR-COM;Apple;iPhone 5c;Auricular de llamada;Compatible;5,05;;;6
+AP-IP5C-FLX-COM;Apple;iPhone 5c;Flex de encendido y volumen;Compatible;4,30;;;6
+AP-IP5C-SIM-COM;Apple;iPhone 5c;Bandeja SIM;Compatible;2,60;;;6
+AP-IP5S-PAN-COM;Apple;iPhone 5s;Pantalla;Compatible;17,99;17,45;16,91;6
+AP-IP5S-BAT-COM;Apple;iPhone 5s;Batería;Compatible;12,45;12,08;11,70;6
+AP-IP5S-CON-COM;Apple;iPhone 5s;Conector de carga;Compatible;5,99;;;6
+AP-IP5S-TAP-COM;Apple;iPhone 5s;Tapa trasera;Compatible;5,25;;;6
+AP-IP5S-CTR-COM;Apple;iPhone 5s;Cámara trasera;Compatible;11,25;10,91;10,58;6
+AP-IP5S-CFR-COM;Apple;iPhone 5s;Cámara frontal;Compatible;5,70;;;6
+AP-IP5S-LEN-COM;Apple;iPhone 5s;Lente de cámara;Compatible;3,00;;;6
+AP-IP5S-ALT-COM;Apple;iPhone 5s;Altavoz;Compatible;4,29;;;6
+AP-IP5S-AUR-COM;Apple;iPhone 5s;Auricular de llamada;Compatible;5,05;;;6
+AP-IP5S-FLX-COM;Apple;iPhone 5s;Flex de encendido y volumen;Compatible;4,30;;;6
+AP-IP5S-SIM-COM;Apple;iPhone 5s;Bandeja SIM;Compatible;2,60;;;6
+AP-IP5-PAN-COM;Apple;iPhone 5;Pantalla;Compatible;15,65;15,18;14,71;6
+AP-IP5-BAT-COM;Apple;iPhone 5;Batería;Compatible;12,45;12,08;11,70;6
+AP-IP5-CON-COM;Apple;iPhone 5;Conector de carga;Compatible;5,99;;;6
+AP-IP5-TAP-COM;Apple;iPhone 5;Tapa trasera;Compatible;5,25;;;6
+AP-IP5-CTR-COM;Apple;iPhone 5;Cámara trasera;Compatible;11,25;10,91;10,58;6
+AP-IP5-CFR-COM;Apple;iPhone 5;Cámara frontal;Compatible;5,70;;;6
+AP-IP5-LEN-COM;Apple;iPhone 5;Lente de cámara;Compatible;3,00;;;6
+AP-IP5-ALT-COM;Apple;iPhone 5;Altavoz;Compatible;4,29;;;6
+AP-IP5-AUR-COM;Apple;iPhone 5;Auricular de llamada;Compatible;5,05;;;6
+AP-IP5-FLX-COM;Apple;iPhone 5;Flex de encendido y volumen;Compatible;4,30;;;6
+AP-IP5-SIM-COM;Apple;iPhone 5;Bandeja SIM;Compatible;2,60;;;6
+AP-IP4S-PAN-COM;Apple;iPhone 4S;Pantalla;Compatible;17,99;17,45;16,91;6
+AP-IP4S-BAT-COM;Apple;iPhone 4S;Batería;Compatible;12,45;12,08;11,70;6
+AP-IP4S-CON-COM;Apple;iPhone 4S;Conector de carga;Compatible;5,99;;;6
+AP-IP4S-TAP-COM;Apple;iPhone 4S;Tapa trasera;Compatible;5,25;;;6
+AP-IP4S-CTR-COM;Apple;iPhone 4S;Cámara trasera;Compatible;11,25;10,91;10,58;6
+AP-IP4S-CFR-COM;Apple;iPhone 4S;Cámara frontal;Compatible;5,70;;;6
+AP-IP4S-LEN-COM;Apple;iPhone 4S;Lente de cámara;Compatible;3,00;;;6
+AP-IP4S-ALT-COM;Apple;iPhone 4S;Altavoz;Compatible;4,29;;;6
+AP-IP4S-AUR-COM;Apple;iPhone 4S;Auricular de llamada;Compatible;5,05;;;6
+AP-IP4S-FLX-COM;Apple;iPhone 4S;Flex de encendido y volumen;Compatible;4,30;;;6
+AP-IP4S-SIM-COM;Apple;iPhone 4S;Bandeja SIM;Compatible;2,60;;;6
+AP-IP4-PAN-COM;Apple;iPhone 4;Pantalla;Compatible;15,65;15,18;14,71;6
+AP-IP4-BAT-COM;Apple;iPhone 4;Batería;Compatible;12,45;12,08;11,70;6
+AP-IP4-CON-COM;Apple;iPhone 4;Conector de carga;Compatible;5,99;;;6
+AP-IP4-TAP-COM;Apple;iPhone 4;Tapa trasera;Compatible;5,25;;;6
+AP-IP4-CTR-COM;Apple;iPhone 4;Cámara trasera;Compatible;11,25;10,91;10,58;6
+AP-IP4-CFR-COM;Apple;iPhone 4;Cámara frontal;Compatible;5,70;;;6
+AP-IP4-LEN-COM;Apple;iPhone 4;Lente de cámara;Compatible;3,00;;;6
+AP-IP4-ALT-COM;Apple;iPhone 4;Altavoz;Compatible;4,29;;;6
+AP-IP4-AUR-COM;Apple;iPhone 4;Auricular de llamada;Compatible;5,05;;;6
+AP-IP4-FLX-COM;Apple;iPhone 4;Flex de encendido y volumen;Compatible;4,30;;;6
+AP-IP4-SIM-COM;Apple;iPhone 4;Bandeja SIM;Compatible;2,60;;;6
+AP-IP6-PAN-COM;Apple;iPhone 6;Pantalla;Compatible;15,65;15,18;14,71;6
+AP-IP6-BAT-COM;Apple;iPhone 6;Batería;Compatible;12,45;12,08;11,70;6
+AP-IP6-CON-COM;Apple;iPhone 6;Conector de carga;Compatible;5,99;;;6
+AP-IP6-TAP-COM-PLA;Apple;iPhone 6;Tapa trasera;Plata;5,25;;;6
+AP-IP6-TAP-COM-ORO;Apple;iPhone 6;Tapa trasera;Oro;5,25;;;6
+AP-IP6-TAP-COM-GRI;Apple;iPhone 6;Tapa trasera;Gris espacial;5,25;;;6
+AP-IP6-CTR-COM;Apple;iPhone 6;Cámara trasera;Compatible;11,25;10,91;10,58;6
+AP-IP6-CFR-COM;Apple;iPhone 6;Cámara frontal;Compatible;5,70;;;6
+AP-IP6-LEN-COM;Apple;iPhone 6;Lente de cámara;Compatible;3,00;;;6
+AP-IP6-ALT-COM;Apple;iPhone 6;Altavoz;Compatible;4,29;;;6
+AP-IP6-AUR-COM;Apple;iPhone 6;Auricular de llamada;Compatible;5,05;;;6
+AP-IP6-FLX-COM;Apple;iPhone 6;Flex de encendido y volumen;Compatible;4,30;;;6
+AP-IP6-SIM-COM-PLA;Apple;iPhone 6;Bandeja SIM;Plata;2,60;;;6
+AP-IP6-SIM-COM-ORO;Apple;iPhone 6;Bandeja SIM;Oro;2,60;;;6
+AP-IP6-SIM-COM-GRI;Apple;iPhone 6;Bandeja SIM;Gris espacial;2,60;;;6
+AP-IP6PL-PAN-COM;Apple;iPhone 6 Plus;Pantalla;Compatible;16,95;16,44;15,93;6
+AP-IP6PL-BAT-COM;Apple;iPhone 6 Plus;Batería;Compatible;12,45;12,08;11,70;6
+AP-IP6PL-CON-COM;Apple;iPhone 6 Plus;Conector de carga;Compatible;5,99;;;6
+AP-IP6PL-TAP-COM-PLA;Apple;iPhone 6 Plus;Tapa trasera;Plata;5,25;;;6
+AP-IP6PL-TAP-COM-ORO;Apple;iPhone 6 Plus;Tapa trasera;Oro;5,25;;;6
+AP-IP6PL-TAP-COM-GRI;Apple;iPhone 6 Plus;Tapa trasera;Gris espacial;5,25;;;6
+AP-IP6PL-CTR-COM;Apple;iPhone 6 Plus;Cámara trasera;Compatible;11,25;10,91;10,58;6
+AP-IP6PL-CFR-COM;Apple;iPhone 6 Plus;Cámara frontal;Compatible;5,70;;;6
+AP-IP6PL-LEN-COM;Apple;iPhone 6 Plus;Lente de cámara;Compatible;3,00;;;6
+AP-IP6PL-ALT-COM;Apple;iPhone 6 Plus;Altavoz;Compatible;4,29;;;6
+AP-IP6PL-AUR-COM;Apple;iPhone 6 Plus;Auricular de llamada;Compatible;5,05;;;6
+AP-IP6PL-FLX-COM;Apple;iPhone 6 Plus;Flex de encendido y volumen;Compatible;4,30;;;6
+AP-IP6PL-SIM-COM-PLA;Apple;iPhone 6 Plus;Bandeja SIM;Plata;2,60;;;6
+AP-IP6PL-SIM-COM-ORO;Apple;iPhone 6 Plus;Bandeja SIM;Oro;2,60;;;6
+AP-IP6PL-SIM-COM-GRI;Apple;iPhone 6 Plus;Bandeja SIM;Gris espacial;2,60;;;6
+AP-IP6S-PRO-NA;Apple;iPhone 6s;Cristal templado;Estándar;1,30;;;
+AP-IP6S-PRO-PRI;Apple;iPhone 6s;Cristal templado;Privacidad;4,00;;;
+AP-IP6S-OTR-ADP;Apple;iPhone 6s;Adhesivo de pantalla;;1,65;;;
+AP-IP6S-FUN-SIL;Apple;iPhone 6s;Funda;Silicona;2,50;;;
+AP-IP6S-FUN-TPU;Apple;iPhone 6s;Funda;Transparente;2,95;;;
+AP-IP6S-FUN-LIB;Apple;iPhone 6s;Funda;Libro;3,70;;;
+AP-IP6S-FUN-ANT;Apple;iPhone 6s;Funda;Antigolpes;3,10;;;
+AP-IP6SPL-PRO-NA;Apple;iPhone 6s Plus;Cristal templado;Estándar;1,30;;;
+AP-IP6SPL-PRO-PRI;Apple;iPhone 6s Plus;Cristal templado;Privacidad;4,00;;;
+AP-IP6SPL-OTR-ADP;Apple;iPhone 6s Plus;Adhesivo de pantalla;;1,65;;;
+AP-IP6SPL-FUN-SIL;Apple;iPhone 6s Plus;Funda;Silicona;2,50;;;
+AP-IP6SPL-FUN-TPU;Apple;iPhone 6s Plus;Funda;Transparente;2,95;;;
+AP-IP6SPL-FUN-LIB;Apple;iPhone 6s Plus;Funda;Libro;3,70;;;
+AP-IP6SPL-FUN-ANT;Apple;iPhone 6s Plus;Funda;Antigolpes;3,10;;;
+AP-IPSE1-PRO-NA;Apple;iPhone SE (1.ª generación);Cristal templado;Estándar;1,30;;;
+AP-IPSE1-PRO-PRI;Apple;iPhone SE (1.ª generación);Cristal templado;Privacidad;4,00;;;
+AP-IPSE1-OTR-ADP;Apple;iPhone SE (1.ª generación);Adhesivo de pantalla;;1,65;;;
+AP-IPSE1-FUN-SIL;Apple;iPhone SE (1.ª generación);Funda;Silicona;2,50;;;
+AP-IPSE1-FUN-TPU;Apple;iPhone SE (1.ª generación);Funda;Transparente;2,95;;;
+AP-IPSE1-FUN-LIB;Apple;iPhone SE (1.ª generación);Funda;Libro;3,70;;;
+AP-IPSE1-FUN-ANT;Apple;iPhone SE (1.ª generación);Funda;Antigolpes;3,10;;;
+AP-IP7-PRO-NA;Apple;iPhone 7;Cristal templado;Estándar;1,30;;;
+AP-IP7-PRO-PRI;Apple;iPhone 7;Cristal templado;Privacidad;4,00;;;
+AP-IP7-OTR-ADP;Apple;iPhone 7;Adhesivo de pantalla;;1,65;;;
+AP-IP7-FUN-SIL;Apple;iPhone 7;Funda;Silicona;2,50;;;
+AP-IP7-FUN-TPU;Apple;iPhone 7;Funda;Transparente;2,95;;;
+AP-IP7-FUN-LIB;Apple;iPhone 7;Funda;Libro;3,70;;;
+AP-IP7-FUN-ANT;Apple;iPhone 7;Funda;Antigolpes;3,10;;;
+AP-IP7PL-PRO-NA;Apple;iPhone 7 Plus;Cristal templado;Estándar;1,30;;;
+AP-IP7PL-PRO-PRI;Apple;iPhone 7 Plus;Cristal templado;Privacidad;4,00;;;
+AP-IP7PL-OTR-ADP;Apple;iPhone 7 Plus;Adhesivo de pantalla;;1,65;;;
+AP-IP7PL-FUN-SIL;Apple;iPhone 7 Plus;Funda;Silicona;2,50;;;
+AP-IP7PL-FUN-TPU;Apple;iPhone 7 Plus;Funda;Transparente;2,95;;;
+AP-IP7PL-FUN-LIB;Apple;iPhone 7 Plus;Funda;Libro;3,70;;;
+AP-IP7PL-FUN-ANT;Apple;iPhone 7 Plus;Funda;Antigolpes;3,10;;;
+AP-IP8-PRO-NA;Apple;iPhone 8;Cristal templado;Estándar;1,30;;;
+AP-IP8-PRO-PRI;Apple;iPhone 8;Cristal templado;Privacidad;4,00;;;
+AP-IP8-OTR-ADT;Apple;iPhone 8;Adhesivo de tapa;;1,65;;;
+AP-IP8-OTR-ADP;Apple;iPhone 8;Adhesivo de pantalla;;1,65;;;
+AP-IP8-FUN-SIL;Apple;iPhone 8;Funda;Silicona;2,50;;;
+AP-IP8-FUN-TPU;Apple;iPhone 8;Funda;Transparente;2,95;;;
+AP-IP8-FUN-LIB;Apple;iPhone 8;Funda;Libro;3,70;;;
+AP-IP8-FUN-ANT;Apple;iPhone 8;Funda;Antigolpes;3,10;;;
+AP-IP8PL-PRO-NA;Apple;iPhone 8 Plus;Cristal templado;Estándar;1,30;;;
+AP-IP8PL-PRO-PRI;Apple;iPhone 8 Plus;Cristal templado;Privacidad;4,00;;;
+AP-IP8PL-OTR-ADT;Apple;iPhone 8 Plus;Adhesivo de tapa;;1,65;;;
+AP-IP8PL-OTR-ADP;Apple;iPhone 8 Plus;Adhesivo de pantalla;;1,65;;;
+AP-IP8PL-FUN-SIL;Apple;iPhone 8 Plus;Funda;Silicona;2,50;;;
+AP-IP8PL-FUN-TPU;Apple;iPhone 8 Plus;Funda;Transparente;2,95;;;
+AP-IP8PL-FUN-LIB;Apple;iPhone 8 Plus;Funda;Libro;3,70;;;
+AP-IP8PL-FUN-ANT;Apple;iPhone 8 Plus;Funda;Antigolpes;3,10;;;
+AP-IPX-PRO-NA;Apple;iPhone X;Cristal templado;Estándar;1,30;;;
+AP-IPX-PRO-PRI;Apple;iPhone X;Cristal templado;Privacidad;4,00;;;
+AP-IPX-OTR-ADT;Apple;iPhone X;Adhesivo de tapa;;1,65;;;
+AP-IPX-OTR-ADP;Apple;iPhone X;Adhesivo de pantalla;;1,65;;;
+AP-IPX-FUN-SIL;Apple;iPhone X;Funda;Silicona;1,69;;;
+AP-IPX-FUN-TPU;Apple;iPhone X;Funda;Transparente;2,95;;;
+AP-IPX-FUN-LIB;Apple;iPhone X;Funda;Libro;3,70;;;
+AP-IPX-FUN-ANT;Apple;iPhone X;Funda;Antigolpes;3,10;;;
+AP-IPXS-PRO-NA;Apple;iPhone XS;Cristal templado;Estándar;1,30;;;
+AP-IPXS-PRO-PRI;Apple;iPhone XS;Cristal templado;Privacidad;4,00;;;
+AP-IPXS-OTR-ADT;Apple;iPhone XS;Adhesivo de tapa;;1,65;;;
+AP-IPXS-OTR-ADP;Apple;iPhone XS;Adhesivo de pantalla;;1,65;;;
+AP-IPXS-FUN-SIL;Apple;iPhone XS;Funda;Silicona;2,50;;;
+AP-IPXS-FUN-TPU;Apple;iPhone XS;Funda;Transparente;2,95;;;
+AP-IPXS-FUN-LIB;Apple;iPhone XS;Funda;Libro;3,70;;;
+AP-IPXS-FUN-ANT;Apple;iPhone XS;Funda;Antigolpes;3,10;;;
+AP-IPXSM-PRO-NA;Apple;iPhone XS Max;Cristal templado;Estándar;1,30;;;
+AP-IPXSM-PRO-PRI;Apple;iPhone XS Max;Cristal templado;Privacidad;4,00;;;
+AP-IPXSM-OTR-ADT;Apple;iPhone XS Max;Adhesivo de tapa;;1,65;;;
+AP-IPXSM-OTR-ADP;Apple;iPhone XS Max;Adhesivo de pantalla;;1,65;;;
+AP-IPXSM-FUN-SIL;Apple;iPhone XS Max;Funda;Silicona;1,95;;;
+AP-IPXSM-FUN-TPU;Apple;iPhone XS Max;Funda;Transparente;2,95;;;
+AP-IPXSM-FUN-LIB;Apple;iPhone XS Max;Funda;Libro;2,99;;;
+AP-IPXSM-FUN-ANT;Apple;iPhone XS Max;Funda;Antigolpes;3,10;;;
+AP-IPXR-PRO-NA;Apple;iPhone XR;Cristal templado;Estándar;1,30;;;
+AP-IPXR-PRO-PRI;Apple;iPhone XR;Cristal templado;Privacidad;4,00;;;
+AP-IPXR-OTR-ADT;Apple;iPhone XR;Adhesivo de tapa;;1,65;;;
+AP-IPXR-OTR-ADP;Apple;iPhone XR;Adhesivo de pantalla;;1,65;;;
+AP-IPXR-FUN-SIL;Apple;iPhone XR;Funda;Silicona;1,95;;;
+AP-IPXR-FUN-TPU;Apple;iPhone XR;Funda;Transparente;2,95;;;
+AP-IPXR-FUN-LIB;Apple;iPhone XR;Funda;Libro;4,95;;;
+AP-IPXR-FUN-ANT;Apple;iPhone XR;Funda;Antigolpes;3,10;;;
+AP-IP11-PRO-NA;Apple;iPhone 11;Cristal templado;Estándar;1,30;;;
+AP-IP11-PRO-PRI;Apple;iPhone 11;Cristal templado;Privacidad;5,25;;;
+AP-IP11-OTR-ADT;Apple;iPhone 11;Adhesivo de tapa;;1,65;;;
+AP-IP11-OTR-ADP;Apple;iPhone 11;Adhesivo de pantalla;;1,65;;;
+AP-IP11-FUN-SIL;Apple;iPhone 11;Funda;Silicona;3,10;;;
+AP-IP11-FUN-TPU;Apple;iPhone 11;Funda;Transparente;2,45;;;
+AP-IP11-FUN-LIB;Apple;iPhone 11;Funda;Libro;4,09;;;
+AP-IP11-FUN-ANT;Apple;iPhone 11;Funda;Antigolpes;3,10;;;
+AP-IP11-PCA-NA;Apple;iPhone 11;Protector de cámara;Cristal;2,90;;;
+AP-IP11P-PRO-NA;Apple;iPhone 11 Pro;Cristal templado;Estándar;1,30;;;
+AP-IP11P-PRO-PRI;Apple;iPhone 11 Pro;Cristal templado;Privacidad;3,65;;;
+AP-IP11P-OTR-ADT;Apple;iPhone 11 Pro;Adhesivo de tapa;;1,65;;;
+AP-IP11P-OTR-ADP;Apple;iPhone 11 Pro;Adhesivo de pantalla;;1,65;;;
+AP-IP11P-FUN-SIL;Apple;iPhone 11 Pro;Funda;Silicona;2,45;;;
+AP-IP11P-FUN-TPU;Apple;iPhone 11 Pro;Funda;Transparente;2,95;;;
+AP-IP11P-FUN-LIB;Apple;iPhone 11 Pro;Funda;Libro;4,65;;;
+AP-IP11P-FUN-ANT;Apple;iPhone 11 Pro;Funda;Antigolpes;3,10;;;
+AP-IP11P-PCA-NA;Apple;iPhone 11 Pro;Protector de cámara;Cristal;2,90;;;
+AP-IP11PM-PRO-NA;Apple;iPhone 11 Pro Max;Cristal templado;Estándar;1,30;;;
+AP-IP11PM-PRO-PRI;Apple;iPhone 11 Pro Max;Cristal templado;Privacidad;4,00;;;
+AP-IP11PM-OTR-ADT;Apple;iPhone 11 Pro Max;Adhesivo de tapa;;1,65;;;
+AP-IP11PM-OTR-ADP;Apple;iPhone 11 Pro Max;Adhesivo de pantalla;;1,65;;;
+AP-IP11PM-FUN-SIL;Apple;iPhone 11 Pro Max;Funda;Silicona;2,89;;;
+AP-IP11PM-FUN-TPU;Apple;iPhone 11 Pro Max;Funda;Transparente;2,25;;;
+AP-IP11PM-FUN-LIB;Apple;iPhone 11 Pro Max;Funda;Libro;3,90;;;
+AP-IP11PM-FUN-ANT;Apple;iPhone 11 Pro Max;Funda;Antigolpes;3,10;;;
+AP-IP11PM-PCA-NA;Apple;iPhone 11 Pro Max;Protector de cámara;Cristal;2,90;;;
+AP-IPSE2-PRO-NA;Apple;iPhone SE (2.ª generación);Cristal templado;Estándar;1,30;;;
+AP-IPSE2-PRO-PRI;Apple;iPhone SE (2.ª generación);Cristal templado;Privacidad;4,00;;;
+AP-IPSE2-OTR-ADT;Apple;iPhone SE (2.ª generación);Adhesivo de tapa;;1,65;;;
+AP-IPSE2-OTR-ADP;Apple;iPhone SE (2.ª generación);Adhesivo de pantalla;;1,65;;;
+AP-IPSE2-FUN-SIL;Apple;iPhone SE (2.ª generación);Funda;Silicona;2,50;;;
+AP-IPSE2-FUN-TPU;Apple;iPhone SE (2.ª generación);Funda;Transparente;2,95;;;
+AP-IPSE2-FUN-LIB;Apple;iPhone SE (2.ª generación);Funda;Libro;3,70;;;
+AP-IPSE2-FUN-ANT;Apple;iPhone SE (2.ª generación);Funda;Antigolpes;3,10;;;
+AP-IP12MN-PRO-NA;Apple;iPhone 12 mini;Cristal templado;Estándar;1,30;;;
+AP-IP12MN-PRO-PRI;Apple;iPhone 12 mini;Cristal templado;Privacidad;4,00;;;
+AP-IP12MN-OTR-ADT;Apple;iPhone 12 mini;Adhesivo de tapa;;1,65;;;
+AP-IP12MN-OTR-ADP;Apple;iPhone 12 mini;Adhesivo de pantalla;;1,65;;;
+AP-IP12MN-FUN-SIL;Apple;iPhone 12 mini;Funda;Silicona;2,50;;;
+AP-IP12MN-FUN-TPU;Apple;iPhone 12 mini;Funda;Transparente;2,95;;;
+AP-IP12MN-FUN-LIB;Apple;iPhone 12 mini;Funda;Libro;3,70;;;
+AP-IP12MN-FUN-ANT;Apple;iPhone 12 mini;Funda;Antigolpes;3,10;;;
+AP-IP12MN-PCA-NA;Apple;iPhone 12 mini;Protector de cámara;Cristal;2,90;;;
+AP-IP12-PRO-NA;Apple;iPhone 12;Cristal templado;Estándar;1,30;;;
+AP-IP12-PRO-PRI;Apple;iPhone 12;Cristal templado;Privacidad;4,90;;;
+AP-IP12-OTR-ADT;Apple;iPhone 12;Adhesivo de tapa;;1,65;;;
+AP-IP12-OTR-ADP;Apple;iPhone 12;Adhesivo de pantalla;;1,65;;;
+AP-IP12-FUN-SIL;Apple;iPhone 12;Funda;Silicona;3,20;;;
+AP-IP12-FUN-TPU;Apple;iPhone 12;Funda;Transparente;3,60;;;
+AP-IP12-FUN-LIB;Apple;iPhone 12;Funda;Libro;3,70;;;
+AP-IP12-FUN-ANT;Apple;iPhone 12;Funda;Antigolpes;3,10;;;
+AP-IP12-PCA-NA;Apple;iPhone 12;Protector de cámara;Cristal;2,59;;;
+AP-IP12P-PRO-NA;Apple;iPhone 12 Pro;Cristal templado;Estándar;1,30;;;
+AP-IP12P-PRO-PRI;Apple;iPhone 12 Pro;Cristal templado;Privacidad;4,00;;;
+AP-IP12P-OTR-ADT;Apple;iPhone 12 Pro;Adhesivo de tapa;;1,65;;;
+AP-IP12P-OTR-ADP;Apple;iPhone 12 Pro;Adhesivo de pantalla;;1,65;;;
+AP-IP12P-FUN-SIL;Apple;iPhone 12 Pro;Funda;Silicona;2,50;;;
+AP-IP12P-FUN-TPU;Apple;iPhone 12 Pro;Funda;Transparente;2,95;;;
+AP-IP12P-FUN-LIB;Apple;iPhone 12 Pro;Funda;Libro;3,70;;;
+AP-IP12P-FUN-ANT;Apple;iPhone 12 Pro;Funda;Antigolpes;3,10;;;
+AP-IP12P-PCA-NA;Apple;iPhone 12 Pro;Protector de cámara;Cristal;2,85;;;
+AP-IP12PM-PRO-NA;Apple;iPhone 12 Pro Max;Cristal templado;Estándar;1,30;;;
+AP-IP12PM-PRO-PRI;Apple;iPhone 12 Pro Max;Cristal templado;Privacidad;4,00;;;
+AP-IP12PM-OTR-ADT;Apple;iPhone 12 Pro Max;Adhesivo de tapa;;1,65;;;
+AP-IP12PM-OTR-ADP;Apple;iPhone 12 Pro Max;Adhesivo de pantalla;;1,65;;;
+AP-IP12PM-FUN-SIL;Apple;iPhone 12 Pro Max;Funda;Silicona;2,50;;;
+AP-IP12PM-FUN-TPU;Apple;iPhone 12 Pro Max;Funda;Transparente;2,95;;;
+AP-IP12PM-FUN-LIB;Apple;iPhone 12 Pro Max;Funda;Libro;3,70;;;
+AP-IP12PM-FUN-ANT;Apple;iPhone 12 Pro Max;Funda;Antigolpes;3,10;;;
+AP-IP12PM-PCA-NA;Apple;iPhone 12 Pro Max;Protector de cámara;Cristal;2,90;;;
+AP-IP13MN-PRO-NA;Apple;iPhone 13 mini;Cristal templado;Estándar;1,30;;;
+AP-IP13MN-PRO-PRI;Apple;iPhone 13 mini;Cristal templado;Privacidad;4,00;;;
+AP-IP13MN-OTR-ADT;Apple;iPhone 13 mini;Adhesivo de tapa;;1,65;;;
+AP-IP13MN-OTR-ADP;Apple;iPhone 13 mini;Adhesivo de pantalla;;1,65;;;
+AP-IP13MN-FUN-SIL;Apple;iPhone 13 mini;Funda;Silicona;2,50;;;
+AP-IP13MN-FUN-TPU;Apple;iPhone 13 mini;Funda;Transparente;2,95;;;
+AP-IP13MN-FUN-LIB;Apple;iPhone 13 mini;Funda;Libro;3,70;;;
+AP-IP13MN-FUN-ANT;Apple;iPhone 13 mini;Funda;Antigolpes;3,10;;;
+AP-IP13MN-PCA-NA;Apple;iPhone 13 mini;Protector de cámara;Cristal;2,90;;;
+AP-IP13-PRO-NA;Apple;iPhone 13;Cristal templado;Estándar;1,30;;;
+AP-IP13-PRO-PRI;Apple;iPhone 13;Cristal templado;Privacidad;5,19;;;
+AP-IP13-OTR-ADT;Apple;iPhone 13;Adhesivo de tapa;;1,65;;;
+AP-IP13-OTR-ADP;Apple;iPhone 13;Adhesivo de pantalla;;1,65;;;
+AP-IP13-FUN-SIL;Apple;iPhone 13;Funda;Silicona;3,50;;;
+AP-IP13-FUN-TPU;Apple;iPhone 13;Funda;Transparente;2,85;;;
+AP-IP13-FUN-LIB;Apple;iPhone 13;Funda;Libro;3,70;;;
+AP-IP13-FUN-ANT;Apple;iPhone 13;Funda;Antigolpes;2,80;;;
+AP-IP13-PCA-NA;Apple;iPhone 13;Protector de cámara;Cristal;2,90;;;
+AP-IP13P-PRO-NA;Apple;iPhone 13 Pro;Cristal templado;Estándar;1,30;;;
+AP-IP13P-PRO-PRI;Apple;iPhone 13 Pro;Cristal templado;Privacidad;4,00;;;
+AP-IP13P-OTR-ADT;Apple;iPhone 13 Pro;Adhesivo de tapa;;1,65;;;
+AP-IP13P-OTR-ADP;Apple;iPhone 13 Pro;Adhesivo de pantalla;;1,65;;;
+AP-IP13P-FUN-SIL;Apple;iPhone 13 Pro;Funda;Silicona;2,50;;;
+AP-IP13P-FUN-TPU;Apple;iPhone 13 Pro;Funda;Transparente;2,95;;;
+AP-IP13P-FUN-LIB;Apple;iPhone 13 Pro;Funda;Libro;3,70;;;
+AP-IP13P-FUN-ANT;Apple;iPhone 13 Pro;Funda;Antigolpes;3,10;;;
+AP-IP13P-PCA-NA;Apple;iPhone 13 Pro;Protector de cámara;Cristal;2,50;;;
+AP-IP13PM-PRO-NA;Apple;iPhone 13 Pro Max;Cristal templado;Estándar;1,30;;;
+AP-IP13PM-PRO-PRI;Apple;iPhone 13 Pro Max;Cristal templado;Privacidad;4,69;;;
+AP-IP13PM-OTR-ADT;Apple;iPhone 13 Pro Max;Adhesivo de tapa;;1,65;;;
+AP-IP13PM-OTR-ADP;Apple;iPhone 13 Pro Max;Adhesivo de pantalla;;1,65;;;
+AP-IP13PM-FUN-SIL;Apple;iPhone 13 Pro Max;Funda;Silicona;2,50;;;
+AP-IP13PM-FUN-TPU;Apple;iPhone 13 Pro Max;Funda;Transparente;2,95;;;
+AP-IP13PM-FUN-LIB;Apple;iPhone 13 Pro Max;Funda;Libro;3,70;;;
+AP-IP13PM-FUN-ANT;Apple;iPhone 13 Pro Max;Funda;Antigolpes;3,10;;;
+AP-IP13PM-PCA-NA;Apple;iPhone 13 Pro Max;Protector de cámara;Cristal;2,90;;;
+AP-IPSE3-PRO-NA;Apple;iPhone SE (3.ª generación);Cristal templado;Estándar;1,30;;;
+AP-IPSE3-PRO-PRI;Apple;iPhone SE (3.ª generación);Cristal templado;Privacidad;4,00;;;
+AP-IPSE3-OTR-ADT;Apple;iPhone SE (3.ª generación);Adhesivo de tapa;;1,65;;;
+AP-IPSE3-OTR-ADP;Apple;iPhone SE (3.ª generación);Adhesivo de pantalla;;1,65;;;
+AP-IPSE3-FUN-SIL;Apple;iPhone SE (3.ª generación);Funda;Silicona;2,50;;;
+AP-IPSE3-FUN-TPU;Apple;iPhone SE (3.ª generación);Funda;Transparente;2,95;;;
+AP-IPSE3-FUN-LIB;Apple;iPhone SE (3.ª generación);Funda;Libro;3,70;;;
+AP-IPSE3-FUN-ANT;Apple;iPhone SE (3.ª generación);Funda;Antigolpes;3,10;;;
+AP-IP14-PRO-NA;Apple;iPhone 14;Cristal templado;Estándar;1,30;;;
+AP-IP14-PRO-PRI;Apple;iPhone 14;Cristal templado;Privacidad;4,00;;;
+AP-IP14-OTR-ADT;Apple;iPhone 14;Adhesivo de tapa;;1,65;;;
+AP-IP14-OTR-ADP;Apple;iPhone 14;Adhesivo de pantalla;;1,65;;;
+AP-IP14-FUN-SIL;Apple;iPhone 14;Funda;Silicona;2,05;;;
+AP-IP14-FUN-TPU;Apple;iPhone 14;Funda;Transparente;2,40;;;
+AP-IP14-FUN-LIB;Apple;iPhone 14;Funda;Libro;3,70;;;
+AP-IP14-FUN-ANT;Apple;iPhone 14;Funda;Antigolpes;3,20;;;
+AP-IP14-PCA-NA;Apple;iPhone 14;Protector de cámara;Cristal;2,90;;;
+AP-IP14PL-PRO-NA;Apple;iPhone 14 Plus;Cristal templado;Estándar;1,30;;;
+AP-IP14PL-PRO-PRI;Apple;iPhone 14 Plus;Cristal templado;Privacidad;4,00;;;
+AP-IP14PL-OTR-ADT;Apple;iPhone 14 Plus;Adhesivo de tapa;;1,65;;;
+AP-IP14PL-OTR-ADP;Apple;iPhone 14 Plus;Adhesivo de pantalla;;1,65;;;
+AP-IP14PL-FUN-SIL;Apple;iPhone 14 Plus;Funda;Silicona;2,50;;;
+AP-IP14PL-FUN-TPU;Apple;iPhone 14 Plus;Funda;Transparente;2,95;;;
+AP-IP14PL-FUN-LIB;Apple;iPhone 14 Plus;Funda;Libro;3,70;;;
+AP-IP14PL-FUN-ANT;Apple;iPhone 14 Plus;Funda;Antigolpes;3,10;;;
+AP-IP14PL-PCA-NA;Apple;iPhone 14 Plus;Protector de cámara;Cristal;2,05;;;
+AP-IP14P-PRO-NA;Apple;iPhone 14 Pro;Cristal templado;Estándar;1,30;;;
+AP-IP14P-PRO-PRI;Apple;iPhone 14 Pro;Cristal templado;Privacidad;4,70;;;
+AP-IP14P-OTR-ADT;Apple;iPhone 14 Pro;Adhesivo de tapa;;1,65;;;
+AP-IP14P-OTR-ADP;Apple;iPhone 14 Pro;Adhesivo de pantalla;;1,65;;;
+AP-IP14P-FUN-SIL;Apple;iPhone 14 Pro;Funda;Silicona;2,50;;;
+AP-IP14P-FUN-TPU;Apple;iPhone 14 Pro;Funda;Transparente;3,15;;;
+AP-IP14P-FUN-LIB;Apple;iPhone 14 Pro;Funda;Libro;3,70;;;
+AP-IP14P-FUN-ANT;Apple;iPhone 14 Pro;Funda;Antigolpes;3,10;;;
+AP-IP14P-PCA-NA;Apple;iPhone 14 Pro;Protector de cámara;Cristal;2,90;;;
+AP-IP14PM-PRO-NA;Apple;iPhone 14 Pro Max;Cristal templado;Estándar;1,30;;;
+AP-IP14PM-PRO-PRI;Apple;iPhone 14 Pro Max;Cristal templado;Privacidad;4,70;;;
+AP-IP14PM-OTR-ADT;Apple;iPhone 14 Pro Max;Adhesivo de tapa;;1,65;;;
+AP-IP14PM-OTR-ADP;Apple;iPhone 14 Pro Max;Adhesivo de pantalla;;1,65;;;
+AP-IP14PM-FUN-SIL;Apple;iPhone 14 Pro Max;Funda;Silicona;2,50;;;
+AP-IP14PM-FUN-TPU;Apple;iPhone 14 Pro Max;Funda;Transparente;2,95;;;
+AP-IP14PM-FUN-LIB;Apple;iPhone 14 Pro Max;Funda;Libro;3,70;;;
+AP-IP14PM-FUN-ANT;Apple;iPhone 14 Pro Max;Funda;Antigolpes;3,10;;;
+AP-IP14PM-PCA-NA;Apple;iPhone 14 Pro Max;Protector de cámara;Cristal;2,15;;;
+AP-IP15-PRO-NA;Apple;iPhone 15;Cristal templado;Estándar;1,30;;;
+AP-IP15-PRO-PRI;Apple;iPhone 15;Cristal templado;Privacidad;4,00;;;
+AP-IP15-OTR-ADT;Apple;iPhone 15;Adhesivo de tapa;;1,65;;;
+AP-IP15-OTR-ADP;Apple;iPhone 15;Adhesivo de pantalla;;1,65;;;
+AP-IP15-FUN-SIL;Apple;iPhone 15;Funda;Silicona;3,90;;;
+AP-IP15-FUN-TPU;Apple;iPhone 15;Funda;Transparente;3,15;;;
+AP-IP15-FUN-LIB;Apple;iPhone 15;Funda;Libro;3,70;;;
+AP-IP15-FUN-ANT;Apple;iPhone 15;Funda;Antigolpes;3,10;;;
+AP-IP15-PCA-NA;Apple;iPhone 15;Protector de cámara;Cristal;2,55;;;
+AP-IP15PL-PRO-NA;Apple;iPhone 15 Plus;Cristal templado;Estándar;1,30;;;
+AP-IP15PL-PRO-PRI;Apple;iPhone 15 Plus;Cristal templado;Privacidad;4,00;;;
+AP-IP15PL-OTR-ADT;Apple;iPhone 15 Plus;Adhesivo de tapa;;1,65;;;
+AP-IP15PL-OTR-ADP;Apple;iPhone 15 Plus;Adhesivo de pantalla;;1,65;;;
+AP-IP15PL-FUN-SIL;Apple;iPhone 15 Plus;Funda;Silicona;2,50;;;
+AP-IP15PL-FUN-TPU;Apple;iPhone 15 Plus;Funda;Transparente;3,45;;;
+AP-IP15PL-FUN-LIB;Apple;iPhone 15 Plus;Funda;Libro;3,70;;;
+AP-IP15PL-FUN-ANT;Apple;iPhone 15 Plus;Funda;Antigolpes;3,10;;;
+AP-IP15PL-PCA-NA;Apple;iPhone 15 Plus;Protector de cámara;Cristal;2,90;;;
+AP-IP15P-PRO-NA;Apple;iPhone 15 Pro;Cristal templado;Estándar;1,30;;;
+AP-IP15P-PRO-PRI;Apple;iPhone 15 Pro;Cristal templado;Privacidad;3,30;;;
+AP-IP15P-OTR-ADT;Apple;iPhone 15 Pro;Adhesivo de tapa;;1,65;;;
+AP-IP15P-OTR-ADP;Apple;iPhone 15 Pro;Adhesivo de pantalla;;1,65;;;
+AP-IP15P-FUN-SIL;Apple;iPhone 15 Pro;Funda;Silicona;2,50;;;
+AP-IP15P-FUN-TPU;Apple;iPhone 15 Pro;Funda;Transparente;3,15;;;
+AP-IP15P-FUN-LIB;Apple;iPhone 15 Pro;Funda;Libro;3,70;;;
+AP-IP15P-FUN-ANT;Apple;iPhone 15 Pro;Funda;Antigolpes;3,10;;;
+AP-IP15P-PCA-NA;Apple;iPhone 15 Pro;Protector de cámara;Cristal;2,90;;;
+AP-IP15PM-PRO-NA;Apple;iPhone 15 Pro Max;Cristal templado;Estándar;1,30;;;
+AP-IP15PM-PRO-PRI;Apple;iPhone 15 Pro Max;Cristal templado;Privacidad;4,00;;;
+AP-IP15PM-OTR-ADT;Apple;iPhone 15 Pro Max;Adhesivo de tapa;;1,65;;;
+AP-IP15PM-OTR-ADP;Apple;iPhone 15 Pro Max;Adhesivo de pantalla;;1,65;;;
+AP-IP15PM-FUN-SIL;Apple;iPhone 15 Pro Max;Funda;Silicona;2,50;;;
+AP-IP15PM-FUN-TPU;Apple;iPhone 15 Pro Max;Funda;Transparente;2,95;;;
+AP-IP15PM-FUN-LIB;Apple;iPhone 15 Pro Max;Funda;Libro;3,70;;;
+AP-IP15PM-FUN-ANT;Apple;iPhone 15 Pro Max;Funda;Antigolpes;3,10;;;
+AP-IP15PM-PCA-NA;Apple;iPhone 15 Pro Max;Protector de cámara;Cristal;2,90;;;
+AP-IP16-PRO-NA;Apple;iPhone 16;Cristal templado;Estándar;1,30;;;
+AP-IP16-PRO-PRI;Apple;iPhone 16;Cristal templado;Privacidad;4,00;;;
+AP-IP16-OTR-ADT;Apple;iPhone 16;Adhesivo de tapa;;1,65;;;
+AP-IP16-OTR-ADP;Apple;iPhone 16;Adhesivo de pantalla;;1,65;;;
+AP-IP16-FUN-SIL;Apple;iPhone 16;Funda;Silicona;2,05;;;
+AP-IP16-FUN-TPU;Apple;iPhone 16;Funda;Transparente;2,05;;;
+AP-IP16-FUN-LIB;Apple;iPhone 16;Funda;Libro;3,70;;;
+AP-IP16-FUN-ANT;Apple;iPhone 16;Funda;Antigolpes;2,89;;;
+AP-IP16-PCA-NA;Apple;iPhone 16;Protector de cámara;Cristal;2,90;;;
+AP-IP16PL-PRO-NA;Apple;iPhone 16 Plus;Cristal templado;Estándar;1,30;;;
+AP-IP16PL-PRO-PRI;Apple;iPhone 16 Plus;Cristal templado;Privacidad;4,00;;;
+AP-IP16PL-OTR-ADT;Apple;iPhone 16 Plus;Adhesivo de tapa;;1,65;;;
+AP-IP16PL-OTR-ADP;Apple;iPhone 16 Plus;Adhesivo de pantalla;;1,65;;;
+AP-IP16PL-FUN-SIL;Apple;iPhone 16 Plus;Funda;Silicona;2,50;;;
+AP-IP16PL-FUN-TPU;Apple;iPhone 16 Plus;Funda;Transparente;2,95;;;
+AP-IP16PL-FUN-LIB;Apple;iPhone 16 Plus;Funda;Libro;3,70;;;
+AP-IP16PL-FUN-ANT;Apple;iPhone 16 Plus;Funda;Antigolpes;3,10;;;
+AP-IP16PL-PCA-NA;Apple;iPhone 16 Plus;Protector de cámara;Cristal;2,90;;;
+AP-IP16P-PRO-NA;Apple;iPhone 16 Pro;Cristal templado;Estándar;1,30;;;
+AP-IP16P-PRO-PRI;Apple;iPhone 16 Pro;Cristal templado;Privacidad;4,50;;;
+AP-IP16P-OTR-ADT;Apple;iPhone 16 Pro;Adhesivo de tapa;;1,65;;;
+AP-IP16P-OTR-ADP;Apple;iPhone 16 Pro;Adhesivo de pantalla;;1,65;;;
+AP-IP16P-FUN-SIL;Apple;iPhone 16 Pro;Funda;Silicona;2,50;;;
+AP-IP16P-FUN-TPU;Apple;iPhone 16 Pro;Funda;Transparente;2,95;;;
+AP-IP16P-FUN-LIB;Apple;iPhone 16 Pro;Funda;Libro;3,70;;;
+AP-IP16P-FUN-ANT;Apple;iPhone 16 Pro;Funda;Antigolpes;3,10;;;
+AP-IP16P-PCA-NA;Apple;iPhone 16 Pro;Protector de cámara;Cristal;2,90;;;
+AP-IP16PM-PRO-NA;Apple;iPhone 16 Pro Max;Cristal templado;Estándar;1,30;;;
+AP-IP16PM-PRO-PRI;Apple;iPhone 16 Pro Max;Cristal templado;Privacidad;3,30;;;
+AP-IP16PM-OTR-ADT;Apple;iPhone 16 Pro Max;Adhesivo de tapa;;1,65;;;
+AP-IP16PM-OTR-ADP;Apple;iPhone 16 Pro Max;Adhesivo de pantalla;;1,65;;;
+AP-IP16PM-FUN-SIL;Apple;iPhone 16 Pro Max;Funda;Silicona;2,50;;;
+AP-IP16PM-FUN-TPU;Apple;iPhone 16 Pro Max;Funda;Transparente;2,95;;;
+AP-IP16PM-FUN-LIB;Apple;iPhone 16 Pro Max;Funda;Libro;3,70;;;
+AP-IP16PM-FUN-ANT;Apple;iPhone 16 Pro Max;Funda;Antigolpes;3,10;;;
+AP-IP16PM-PCA-NA;Apple;iPhone 16 Pro Max;Protector de cámara;Cristal;2,90;;;
+AP-IP16E-PRO-NA;Apple;iPhone 16e;Cristal templado;Estándar;1,30;;;
+AP-IP16E-PRO-PRI;Apple;iPhone 16e;Cristal templado;Privacidad;4,00;;;
+AP-IP16E-OTR-ADT;Apple;iPhone 16e;Adhesivo de tapa;;1,65;;;
+AP-IP16E-OTR-ADP;Apple;iPhone 16e;Adhesivo de pantalla;;1,65;;;
+AP-IP16E-FUN-SIL;Apple;iPhone 16e;Funda;Silicona;2,50;;;
+AP-IP16E-FUN-TPU;Apple;iPhone 16e;Funda;Transparente;3,95;;;
+AP-IP16E-FUN-LIB;Apple;iPhone 16e;Funda;Libro;3,70;;;
+AP-IP16E-FUN-ANT;Apple;iPhone 16e;Funda;Antigolpes;3,10;;;
+AP-IP17-PRO-NA;Apple;iPhone 17;Cristal templado;Estándar;1,30;;;
+AP-IP17-PRO-PRI;Apple;iPhone 17;Cristal templado;Privacidad;4,00;;;
+AP-IP17-OTR-ADT;Apple;iPhone 17;Adhesivo de tapa;;1,65;;;
+AP-IP17-OTR-ADP;Apple;iPhone 17;Adhesivo de pantalla;;1,65;;;
+AP-IP17-FUN-SIL;Apple;iPhone 17;Funda;Silicona;2,50;;;
+AP-IP17-FUN-TPU;Apple;iPhone 17;Funda;Transparente;2,95;;;
+AP-IP17-FUN-LIB;Apple;iPhone 17;Funda;Libro;3,70;;;
+AP-IP17-FUN-ANT;Apple;iPhone 17;Funda;Antigolpes;3,95;;;
+AP-IP17-PCA-NA;Apple;iPhone 17;Protector de cámara;Cristal;2,90;;;
+AP-IPAIR-PRO-NA;Apple;iPhone Air;Cristal templado;Estándar;1,30;;;
+AP-IPAIR-PRO-PRI;Apple;iPhone Air;Cristal templado;Privacidad;4,00;;;
+AP-IPAIR-OTR-ADT;Apple;iPhone Air;Adhesivo de tapa;;1,65;;;
+AP-IPAIR-OTR-ADP;Apple;iPhone Air;Adhesivo de pantalla;;1,65;;;
+AP-IPAIR-FUN-SIL;Apple;iPhone Air;Funda;Silicona;2,50;;;
+AP-IPAIR-FUN-TPU;Apple;iPhone Air;Funda;Transparente;2,95;;;
+AP-IPAIR-FUN-LIB;Apple;iPhone Air;Funda;Libro;3,70;;;
+AP-IPAIR-FUN-ANT;Apple;iPhone Air;Funda;Antigolpes;3,10;;;
+AP-IPAIR-PCA-NA;Apple;iPhone Air;Protector de cámara;Cristal;2,90;;;
+AP-IP17P-PRO-NA;Apple;iPhone 17 Pro;Cristal templado;Estándar;1,30;;;
+AP-IP17P-PRO-PRI;Apple;iPhone 17 Pro;Cristal templado;Privacidad;4,00;;;
+AP-IP17P-OTR-ADP;Apple;iPhone 17 Pro;Adhesivo de pantalla;;1,65;;;
+AP-IP17P-FUN-SIL;Apple;iPhone 17 Pro;Funda;Silicona;2,50;;;
+AP-IP17P-FUN-TPU;Apple;iPhone 17 Pro;Funda;Transparente;2,95;;;
+AP-IP17P-FUN-LIB;Apple;iPhone 17 Pro;Funda;Libro;3,70;;;
+AP-IP17P-FUN-ANT;Apple;iPhone 17 Pro;Funda;Antigolpes;3,95;;;
+AP-IP17P-PCA-NA;Apple;iPhone 17 Pro;Protector de cámara;Cristal;2,90;;;
+AP-IP17PM-PRO-NA;Apple;iPhone 17 Pro Max;Cristal templado;Estándar;1,30;;;
+AP-IP17PM-PRO-PRI;Apple;iPhone 17 Pro Max;Cristal templado;Privacidad;4,00;;;
+AP-IP17PM-OTR-ADP;Apple;iPhone 17 Pro Max;Adhesivo de pantalla;;1,65;;;
+AP-IP17PM-FUN-SIL;Apple;iPhone 17 Pro Max;Funda;Silicona;2,50;;;
+AP-IP17PM-FUN-TPU;Apple;iPhone 17 Pro Max;Funda;Transparente;2,95;;;
+AP-IP17PM-FUN-LIB;Apple;iPhone 17 Pro Max;Funda;Libro;3,70;;;
+AP-IP17PM-FUN-ANT;Apple;iPhone 17 Pro Max;Funda;Antigolpes;3,10;;;
+AP-IP17PM-PCA-NA;Apple;iPhone 17 Pro Max;Protector de cámara;Cristal;2,90;;;
+AP-IP17E-PRO-NA;Apple;iPhone 17e;Cristal templado;Estándar;1,30;;;
+AP-IP17E-PRO-PRI;Apple;iPhone 17e;Cristal templado;Privacidad;4,00;;;
+AP-IP17E-OTR-ADT;Apple;iPhone 17e;Adhesivo de tapa;;1,65;;;
+AP-IP17E-OTR-ADP;Apple;iPhone 17e;Adhesivo de pantalla;;1,65;;;
+AP-IP17E-FUN-SIL;Apple;iPhone 17e;Funda;Silicona;2,50;;;
+AP-IP17E-FUN-TPU;Apple;iPhone 17e;Funda;Transparente;2,95;;;
+AP-IP17E-FUN-LIB;Apple;iPhone 17e;Funda;Libro;3,70;;;
+AP-IP17E-FUN-ANT;Apple;iPhone 17e;Funda;Antigolpes;3,10;;;
+AP-IP18P-PRO-NA;Apple;iPhone 18 Pro;Cristal templado;Estándar;1,30;;;
+AP-IP18P-PRO-PRI;Apple;iPhone 18 Pro;Cristal templado;Privacidad;4,00;;;
+AP-IP18P-OTR-ADP;Apple;iPhone 18 Pro;Adhesivo de pantalla;;1,65;;;
+AP-IP18P-FUN-SIL;Apple;iPhone 18 Pro;Funda;Silicona;2,50;;;
+AP-IP18P-FUN-TPU;Apple;iPhone 18 Pro;Funda;Transparente;2,95;;;
+AP-IP18P-FUN-LIB;Apple;iPhone 18 Pro;Funda;Libro;3,70;;;
+AP-IP18P-FUN-ANT;Apple;iPhone 18 Pro;Funda;Antigolpes;3,10;;;
+AP-IP18P-PCA-NA;Apple;iPhone 18 Pro;Protector de cámara;Cristal;2,90;;;
+AP-IP18PM-PRO-NA;Apple;iPhone 18 Pro Max;Cristal templado;Estándar;1,30;;;
+AP-IP18PM-PRO-PRI;Apple;iPhone 18 Pro Max;Cristal templado;Privacidad;4,00;;;
+AP-IP18PM-OTR-ADP;Apple;iPhone 18 Pro Max;Adhesivo de pantalla;;1,65;;;
+AP-IP18PM-FUN-SIL;Apple;iPhone 18 Pro Max;Funda;Silicona;2,50;;;
+AP-IP18PM-FUN-TPU;Apple;iPhone 18 Pro Max;Funda;Transparente;2,95;;;
+AP-IP18PM-FUN-LIB;Apple;iPhone 18 Pro Max;Funda;Libro;3,70;;;
+AP-IP18PM-FUN-ANT;Apple;iPhone 18 Pro Max;Funda;Antigolpes;3,10;;;
+AP-IP18PM-PCA-NA;Apple;iPhone 18 Pro Max;Protector de cámara;Cristal;2,90;;;
+AP-IPDUO-PRO-NA;Apple;iPhone Duo;Cristal templado;Estándar;1,30;;;
+AP-IPDUO-OTR-ADT;Apple;iPhone Duo;Adhesivo de tapa;;1,65;;;
+AP-IPDUO-OTR-ADP;Apple;iPhone Duo;Adhesivo de pantalla;;1,65;;;
+AP-IPDUO-FUN-SIL;Apple;iPhone Duo;Funda;Silicona;2,50;;;
+AP-IPDUO-FUN-TPU;Apple;iPhone Duo;Funda;Transparente;2,95;;;
+AP-IP5C-PRO-NA;Apple;iPhone 5c;Cristal templado;Estándar;1,30;;;
+AP-IP5C-PRO-PRI;Apple;iPhone 5c;Cristal templado;Privacidad;4,00;;;
+AP-IP5C-OTR-ADT;Apple;iPhone 5c;Adhesivo de tapa;;1,65;;;
+AP-IP5C-OTR-ADP;Apple;iPhone 5c;Adhesivo de pantalla;;1,65;;;
+AP-IP5C-FUN-SIL;Apple;iPhone 5c;Funda;Silicona;2,50;;;
+AP-IP5C-FUN-TPU;Apple;iPhone 5c;Funda;Transparente;2,95;;;
+AP-IP5C-FUN-LIB;Apple;iPhone 5c;Funda;Libro;3,70;;;
+AP-IP5C-FUN-ANT;Apple;iPhone 5c;Funda;Antigolpes;3,10;;;
+AP-IP5S-PRO-NA;Apple;iPhone 5s;Cristal templado;Estándar;1,30;;;
+AP-IP5S-PRO-PRI;Apple;iPhone 5s;Cristal templado;Privacidad;4,00;;;
+AP-IP5S-OTR-ADT;Apple;iPhone 5s;Adhesivo de tapa;;1,65;;;
+AP-IP5S-OTR-ADP;Apple;iPhone 5s;Adhesivo de pantalla;;1,65;;;
+AP-IP5S-FUN-SIL;Apple;iPhone 5s;Funda;Silicona;2,50;;;
+AP-IP5S-FUN-TPU;Apple;iPhone 5s;Funda;Transparente;2,95;;;
+AP-IP5S-FUN-LIB;Apple;iPhone 5s;Funda;Libro;3,70;;;
+AP-IP5S-FUN-ANT;Apple;iPhone 5s;Funda;Antigolpes;3,10;;;
+AP-IP5-PRO-NA;Apple;iPhone 5;Cristal templado;Estándar;1,30;;;
+AP-IP5-PRO-PRI;Apple;iPhone 5;Cristal templado;Privacidad;4,00;;;
+AP-IP5-OTR-ADT;Apple;iPhone 5;Adhesivo de tapa;;1,65;;;
+AP-IP5-OTR-ADP;Apple;iPhone 5;Adhesivo de pantalla;;1,65;;;
+AP-IP5-FUN-SIL;Apple;iPhone 5;Funda;Silicona;2,50;;;
+AP-IP5-FUN-TPU;Apple;iPhone 5;Funda;Transparente;2,95;;;
+AP-IP5-FUN-LIB;Apple;iPhone 5;Funda;Libro;3,70;;;
+AP-IP5-FUN-ANT;Apple;iPhone 5;Funda;Antigolpes;3,10;;;
+AP-IP4S-PRO-NA;Apple;iPhone 4S;Cristal templado;Estándar;1,30;;;
+AP-IP4S-PRO-PRI;Apple;iPhone 4S;Cristal templado;Privacidad;4,00;;;
+AP-IP4S-OTR-ADT;Apple;iPhone 4S;Adhesivo de tapa;;1,65;;;
+AP-IP4S-OTR-ADP;Apple;iPhone 4S;Adhesivo de pantalla;;1,65;;;
+AP-IP4S-FUN-SIL;Apple;iPhone 4S;Funda;Silicona;2,50;;;
+AP-IP4S-FUN-TPU;Apple;iPhone 4S;Funda;Transparente;2,95;;;
+AP-IP4S-FUN-LIB;Apple;iPhone 4S;Funda;Libro;3,70;;;
+AP-IP4S-FUN-ANT;Apple;iPhone 4S;Funda;Antigolpes;3,10;;;
+AP-IP4-PRO-NA;Apple;iPhone 4;Cristal templado;Estándar;1,30;;;
+AP-IP4-PRO-PRI;Apple;iPhone 4;Cristal templado;Privacidad;4,00;;;
+AP-IP4-OTR-ADT;Apple;iPhone 4;Adhesivo de tapa;;1,65;;;
+AP-IP4-OTR-ADP;Apple;iPhone 4;Adhesivo de pantalla;;1,65;;;
+AP-IP4-FUN-SIL;Apple;iPhone 4;Funda;Silicona;2,50;;;
+AP-IP4-FUN-TPU;Apple;iPhone 4;Funda;Transparente;2,95;;;
+AP-IP4-FUN-LIB;Apple;iPhone 4;Funda;Libro;3,70;;;
+AP-IP4-FUN-ANT;Apple;iPhone 4;Funda;Antigolpes;3,10;;;
+AP-IP6-PRO-NA;Apple;iPhone 6;Cristal templado;Estándar;1,30;;;
+AP-IP6-PRO-PRI;Apple;iPhone 6;Cristal templado;Privacidad;4,00;;;
+AP-IP6-FUN-SIL;Apple;iPhone 6;Funda;Silicona;2,50;;;
+AP-IP6-FUN-TPU;Apple;iPhone 6;Funda;Transparente;2,95;;;
+AP-IP6-FUN-LIB;Apple;iPhone 6;Funda;Libro;3,70;;;
+AP-IP6-FUN-ANT;Apple;iPhone 6;Funda;Antigolpes;3,10;;;
+AP-IP6PL-PRO-NA;Apple;iPhone 6 Plus;Cristal templado;Estándar;1,30;;;
+AP-IP6PL-PRO-PRI;Apple;iPhone 6 Plus;Cristal templado;Privacidad;4,00;;;
+AP-IP6PL-FUN-SIL;Apple;iPhone 6 Plus;Funda;Silicona;2,50;;;
+AP-IP6PL-FUN-TPU;Apple;iPhone 6 Plus;Funda;Transparente;2,95;;;
+AP-IP6PL-FUN-LIB;Apple;iPhone 6 Plus;Funda;Libro;3,70;;;
+AP-IP6PL-FUN-ANT;Apple;iPhone 6 Plus;Funda;Antigolpes;3,10;;;
+AP-IP6S-MAR-COM;Apple;iPhone 6s;Marco / chasis;Compatible;20,45;19,84;19,22;6
+AP-IP6S-BOT-COM;Apple;iPhone 6s;Botones laterales;Compatible;2,95;;;6
+AP-IP6S-CRI-COM;Apple;iPhone 6s;Cristal de pantalla;Compatible;4,55;;;6
+AP-IP6S-VIB-COM;Apple;iPhone 6s;Vibrador;Compatible;3,29;;;6
+AP-IP6S-ANT-COM;Apple;iPhone 6s;Antena / coaxial;Compatible;3,85;;;6
+AP-IP6S-HUE-COM;Apple;iPhone 6s;Botón home / huella;Compatible;2,95;;;6
+AP-IP6S-TOR-COM;Apple;iPhone 6s;Tornillos;Compatible;1,89;;;6
+AP-IP6SPL-MAR-COM;Apple;iPhone 6s Plus;Marco / chasis;Compatible;20,45;19,84;19,22;6
+AP-IP6SPL-BOT-COM;Apple;iPhone 6s Plus;Botones laterales;Compatible;2,95;;;6
+AP-IP6SPL-CRI-COM;Apple;iPhone 6s Plus;Cristal de pantalla;Compatible;4,55;;;6
+AP-IP6SPL-VIB-COM;Apple;iPhone 6s Plus;Vibrador;Compatible;3,29;;;6
+AP-IP6SPL-ANT-COM;Apple;iPhone 6s Plus;Antena / coaxial;Compatible;3,85;;;6
+AP-IP6SPL-HUE-COM;Apple;iPhone 6s Plus;Botón home / huella;Compatible;2,95;;;6
+AP-IP6SPL-TOR-COM;Apple;iPhone 6s Plus;Tornillos;Compatible;1,89;;;6
+AP-IPSE1-MAR-COM;Apple;iPhone SE (1.ª generación);Marco / chasis;Compatible;17,95;17,41;16,87;6
+AP-IPSE1-BOT-COM;Apple;iPhone SE (1.ª generación);Botones laterales;Compatible;2,59;;;6
+AP-IPSE1-CRI-COM;Apple;iPhone SE (1.ª generación);Cristal de pantalla;Compatible;3,95;;;6
+AP-IPSE1-VIB-COM;Apple;iPhone SE (1.ª generación);Vibrador;Compatible;2,85;;;6
+AP-IPSE1-ANT-COM;Apple;iPhone SE (1.ª generación);Antena / coaxial;Compatible;3,39;;;6
+AP-IPSE1-HUE-COM;Apple;iPhone SE (1.ª generación);Botón home / huella;Compatible;2,59;;;6
+AP-IPSE1-TOR-COM;Apple;iPhone SE (1.ª generación);Tornillos;Compatible;1,65;;;6
+AP-IP7-MAR-COM;Apple;iPhone 7;Marco / chasis;Compatible;20,45;19,84;19,22;6
+AP-IP7-BOT-COM;Apple;iPhone 7;Botones laterales;Compatible;2,95;;;6
+AP-IP7-CRI-COM;Apple;iPhone 7;Cristal de pantalla;Compatible;4,55;;;6
+AP-IP7-VIB-COM;Apple;iPhone 7;Vibrador;Compatible;3,29;;;6
+AP-IP7-ANT-COM;Apple;iPhone 7;Antena / coaxial;Compatible;3,85;;;6
+AP-IP7-HUE-COM;Apple;iPhone 7;Botón home / huella;Compatible;2,95;;;6
+AP-IP7-TOR-COM;Apple;iPhone 7;Tornillos;Compatible;1,89;;;6
+AP-IP7PL-MAR-COM;Apple;iPhone 7 Plus;Marco / chasis;Compatible;20,45;19,84;19,22;6
+AP-IP7PL-BOT-COM;Apple;iPhone 7 Plus;Botones laterales;Compatible;2,95;;;6
+AP-IP7PL-CRI-COM;Apple;iPhone 7 Plus;Cristal de pantalla;Compatible;4,55;;;6
+AP-IP7PL-VIB-COM;Apple;iPhone 7 Plus;Vibrador;Compatible;3,29;;;6
+AP-IP7PL-ANT-COM;Apple;iPhone 7 Plus;Antena / coaxial;Compatible;3,85;;;6
+AP-IP7PL-HUE-COM;Apple;iPhone 7 Plus;Botón home / huella;Compatible;2,95;;;6
+AP-IP7PL-TOR-COM;Apple;iPhone 7 Plus;Tornillos;Compatible;1,89;;;6
+AP-IP8-MAR-COM;Apple;iPhone 8;Marco / chasis;Compatible;23,05;22,36;21,67;6
+AP-IP8-BOT-COM;Apple;iPhone 8;Botones laterales;Compatible;3,30;;;6
+AP-IP8-CRI-COM;Apple;iPhone 8;Cristal de pantalla;Compatible;5,09;;;6
+AP-IP8-VIB-COM;Apple;iPhone 8;Vibrador;Compatible;3,69;;;6
+AP-IP8-ANT-COM;Apple;iPhone 8;Antena / coaxial;Compatible;4,35;;;6
+AP-IP8-HUE-COM;Apple;iPhone 8;Botón home / huella;Compatible;3,30;;;6
+AP-IP8-NFC-COM;Apple;iPhone 8;NFC y carga inalámbrica;Compatible;6,25;;;6
+AP-IP8-TOR-COM;Apple;iPhone 8;Tornillos;Compatible;2,15;;;6
+AP-IP8PL-MAR-COM;Apple;iPhone 8 Plus;Marco / chasis;Compatible;23,05;22,36;21,67;6
+AP-IP8PL-BOT-COM;Apple;iPhone 8 Plus;Botones laterales;Compatible;3,30;;;6
+AP-IP8PL-CRI-COM;Apple;iPhone 8 Plus;Cristal de pantalla;Compatible;5,09;;;6
+AP-IP8PL-VIB-COM;Apple;iPhone 8 Plus;Vibrador;Compatible;3,69;;;6
+AP-IP8PL-ANT-COM;Apple;iPhone 8 Plus;Antena / coaxial;Compatible;4,35;;;6
+AP-IP8PL-HUE-COM;Apple;iPhone 8 Plus;Botón home / huella;Compatible;3,30;;;6
+AP-IP8PL-NFC-COM;Apple;iPhone 8 Plus;NFC y carga inalámbrica;Compatible;6,25;;;6
+AP-IP8PL-TOR-COM;Apple;iPhone 8 Plus;Tornillos;Compatible;2,15;;;6
+AP-IPX-MAR-COM;Apple;iPhone X;Marco / chasis;Compatible;27,40;26,58;25,76;6
+AP-IPX-BOT-COM;Apple;iPhone X;Botones laterales;Compatible;3,95;;;6
+AP-IPX-CRI-COM;Apple;iPhone X;Cristal de pantalla;Compatible;6,05;;;6
+AP-IPX-VIB-COM;Apple;iPhone X;Vibrador;Compatible;4,39;;;6
+AP-IPX-ANT-COM;Apple;iPhone X;Antena / coaxial;Compatible;5,19;;;6
+AP-IPX-FID-COM;Apple;iPhone X;Flex de sensor y Face ID;Compatible;11,35;11,01;10,67;6
+AP-IPX-NFC-COM;Apple;iPhone X;NFC y carga inalámbrica;Compatible;7,45;;;6
+AP-IPX-TOR-COM;Apple;iPhone X;Tornillos;Compatible;2,55;;;6
+AP-IPXS-MAR-COM;Apple;iPhone XS;Marco / chasis;Compatible;27,40;26,58;25,76;6
+AP-IPXS-BOT-COM;Apple;iPhone XS;Botones laterales;Compatible;3,95;;;6
+AP-IPXS-CRI-COM;Apple;iPhone XS;Cristal de pantalla;Compatible;6,05;;;6
+AP-IPXS-VIB-COM;Apple;iPhone XS;Vibrador;Compatible;4,39;;;6
+AP-IPXS-ANT-COM;Apple;iPhone XS;Antena / coaxial;Compatible;5,19;;;6
+AP-IPXS-FID-COM;Apple;iPhone XS;Flex de sensor y Face ID;Compatible;11,35;11,01;10,67;6
+AP-IPXS-NFC-COM;Apple;iPhone XS;NFC y carga inalámbrica;Compatible;7,45;;;6
+AP-IPXS-TOR-COM;Apple;iPhone XS;Tornillos;Compatible;2,55;;;6
+AP-IPXSM-MAR-COM;Apple;iPhone XS Max;Marco / chasis;Compatible;27,40;26,58;25,76;6
+AP-IPXSM-BOT-COM;Apple;iPhone XS Max;Botones laterales;Compatible;3,95;;;6
+AP-IPXSM-CRI-COM;Apple;iPhone XS Max;Cristal de pantalla;Compatible;6,05;;;6
+AP-IPXSM-VIB-COM;Apple;iPhone XS Max;Vibrador;Compatible;4,39;;;6
+AP-IPXSM-ANT-COM;Apple;iPhone XS Max;Antena / coaxial;Compatible;5,19;;;6
+AP-IPXSM-FID-COM;Apple;iPhone XS Max;Flex de sensor y Face ID;Compatible;11,35;11,01;10,67;6
+AP-IPXSM-NFC-COM;Apple;iPhone XS Max;NFC y carga inalámbrica;Compatible;7,45;;;6
+AP-IPXSM-TOR-COM;Apple;iPhone XS Max;Tornillos;Compatible;2,55;;;6
+AP-IPXR-MAR-COM;Apple;iPhone XR;Marco / chasis;Compatible;23,05;22,36;21,67;6
+AP-IPXR-BOT-COM;Apple;iPhone XR;Botones laterales;Compatible;3,30;;;6
+AP-IPXR-CRI-COM;Apple;iPhone XR;Cristal de pantalla;Compatible;5,09;;;6
+AP-IPXR-VIB-COM;Apple;iPhone XR;Vibrador;Compatible;3,69;;;6
+AP-IPXR-ANT-COM;Apple;iPhone XR;Antena / coaxial;Compatible;4,35;;;6
+AP-IPXR-FID-COM;Apple;iPhone XR;Flex de sensor y Face ID;Compatible;9,55;;;6
+AP-IPXR-NFC-COM;Apple;iPhone XR;NFC y carga inalámbrica;Compatible;6,25;;;6
+AP-IPXR-TOR-COM;Apple;iPhone XR;Tornillos;Compatible;2,15;;;6
+AP-IP11-MAR-COM;Apple;iPhone 11;Marco / chasis;Compatible;23,05;22,36;21,67;6
+AP-IP11-BOT-COM;Apple;iPhone 11;Botones laterales;Compatible;3,30;;;6
+AP-IP11-CRI-COM;Apple;iPhone 11;Cristal de pantalla;Compatible;5,09;;;6
+AP-IP11-VIB-COM;Apple;iPhone 11;Vibrador;Compatible;3,69;;;6
+AP-IP11-ANT-COM;Apple;iPhone 11;Antena / coaxial;Compatible;4,35;;;6
+AP-IP11-FID-COM;Apple;iPhone 11;Flex de sensor y Face ID;Compatible;9,55;;;6
+AP-IP11-NFC-COM;Apple;iPhone 11;NFC y carga inalámbrica;Compatible;6,25;;;6
+AP-IP11-TOR-COM;Apple;iPhone 11;Tornillos;Compatible;2,15;;;6
+AP-IP11P-MAR-COM;Apple;iPhone 11 Pro;Marco / chasis;Compatible;27,40;26,58;25,76;6
+AP-IP11P-BOT-COM;Apple;iPhone 11 Pro;Botones laterales;Compatible;3,95;;;6
+AP-IP11P-CRI-COM;Apple;iPhone 11 Pro;Cristal de pantalla;Compatible;6,05;;;6
+AP-IP11P-VIB-COM;Apple;iPhone 11 Pro;Vibrador;Compatible;4,39;;;6
+AP-IP11P-ANT-COM;Apple;iPhone 11 Pro;Antena / coaxial;Compatible;5,19;;;6
+AP-IP11P-FID-COM;Apple;iPhone 11 Pro;Flex de sensor y Face ID;Compatible;11,35;11,01;10,67;6
+AP-IP11P-NFC-COM;Apple;iPhone 11 Pro;NFC y carga inalámbrica;Compatible;7,45;;;6
+AP-IP11P-TOR-COM;Apple;iPhone 11 Pro;Tornillos;Compatible;2,55;;;6
+AP-IP11PM-MAR-COM;Apple;iPhone 11 Pro Max;Marco / chasis;Compatible;27,40;26,58;25,76;6
+AP-IP11PM-BOT-COM;Apple;iPhone 11 Pro Max;Botones laterales;Compatible;3,95;;;6
+AP-IP11PM-CRI-COM;Apple;iPhone 11 Pro Max;Cristal de pantalla;Compatible;6,05;;;6
+AP-IP11PM-VIB-COM;Apple;iPhone 11 Pro Max;Vibrador;Compatible;4,39;;;6
+AP-IP11PM-ANT-COM;Apple;iPhone 11 Pro Max;Antena / coaxial;Compatible;5,19;;;6
+AP-IP11PM-FID-COM;Apple;iPhone 11 Pro Max;Flex de sensor y Face ID;Compatible;11,35;11,01;10,67;6
+AP-IP11PM-NFC-COM;Apple;iPhone 11 Pro Max;NFC y carga inalámbrica;Compatible;7,45;;;6
+AP-IP11PM-TOR-COM;Apple;iPhone 11 Pro Max;Tornillos;Compatible;2,55;;;6
+AP-IPSE2-MAR-COM;Apple;iPhone SE (2.ª generación);Marco / chasis;Compatible;22,40;21,73;21,06;6
+AP-IPSE2-BOT-COM;Apple;iPhone SE (2.ª generación);Botones laterales;Compatible;3,20;;;6
+AP-IPSE2-CRI-COM;Apple;iPhone SE (2.ª generación);Cristal de pantalla;Compatible;4,95;;;6
+AP-IPSE2-VIB-COM;Apple;iPhone SE (2.ª generación);Vibrador;Compatible;3,59;;;6
+AP-IPSE2-ANT-COM;Apple;iPhone SE (2.ª generación);Antena / coaxial;Compatible;4,25;;;6
+AP-IPSE2-HUE-COM;Apple;iPhone SE (2.ª generación);Botón home / huella;Compatible;3,20;;;6
+AP-IPSE2-NFC-COM;Apple;iPhone SE (2.ª generación);NFC y carga inalámbrica;Compatible;6,05;;;6
+AP-IPSE2-TOR-COM;Apple;iPhone SE (2.ª generación);Tornillos;Compatible;2,05;;;6
+AP-IP12MN-MAR-COM;Apple;iPhone 12 mini;Marco / chasis;Compatible;25,59;24,82;24,05;6
+AP-IP12MN-BOT-COM;Apple;iPhone 12 mini;Botones laterales;Compatible;3,69;;;6
+AP-IP12MN-CRI-COM;Apple;iPhone 12 mini;Cristal de pantalla;Compatible;5,65;;;6
+AP-IP12MN-VIB-COM;Apple;iPhone 12 mini;Vibrador;Compatible;4,10;;;6
+AP-IP12MN-ANT-COM;Apple;iPhone 12 mini;Antena / coaxial;Compatible;4,85;;;6
+AP-IP12MN-FID-COM;Apple;iPhone 12 mini;Flex de sensor y Face ID;Compatible;10,60;10,28;9,96;6
+AP-IP12MN-NFC-COM;Apple;iPhone 12 mini;NFC y carga inalámbrica;Compatible;6,95;;;6
+AP-IP12MN-TOR-COM;Apple;iPhone 12 mini;Tornillos;Compatible;2,35;;;6
+AP-IP12MN-IMA-COM;Apple;iPhone 12 mini;Imán MagSafe;Compatible;2,80;;;6
+AP-IP12-MAR-COM;Apple;iPhone 12;Marco / chasis;Compatible;25,59;24,82;24,05;6
+AP-IP12-BOT-COM;Apple;iPhone 12;Botones laterales;Compatible;3,69;;;6
+AP-IP12-CRI-COM;Apple;iPhone 12;Cristal de pantalla;Compatible;5,65;;;6
+AP-IP12-VIB-COM;Apple;iPhone 12;Vibrador;Compatible;4,10;;;6
+AP-IP12-ANT-COM;Apple;iPhone 12;Antena / coaxial;Compatible;4,85;;;6
+AP-IP12-FID-COM;Apple;iPhone 12;Flex de sensor y Face ID;Compatible;10,60;10,28;9,96;6
+AP-IP12-NFC-COM;Apple;iPhone 12;NFC y carga inalámbrica;Compatible;6,95;;;6
+AP-IP12-TOR-COM;Apple;iPhone 12;Tornillos;Compatible;2,35;;;6
+AP-IP12-IMA-COM;Apple;iPhone 12;Imán MagSafe;Compatible;2,80;;;6
+AP-IP12P-MAR-COM;Apple;iPhone 12 Pro;Marco / chasis;Compatible;30,45;29,54;28,62;6
+AP-IP12P-BOT-COM;Apple;iPhone 12 Pro;Botones laterales;Compatible;4,39;;;6
+AP-IP12P-CRI-COM;Apple;iPhone 12 Pro;Cristal de pantalla;Compatible;6,75;;;6
+AP-IP12P-VIB-COM;Apple;iPhone 12 Pro;Vibrador;Compatible;4,89;;;6
+AP-IP12P-ANT-COM;Apple;iPhone 12 Pro;Antena / coaxial;Compatible;5,75;;;6
+AP-IP12P-FID-COM;Apple;iPhone 12 Pro;Flex de sensor y Face ID;Compatible;12,65;12,27;11,89;6
+AP-IP12P-NFC-COM;Apple;iPhone 12 Pro;NFC y carga inalámbrica;Compatible;8,25;;;6
+AP-IP12P-TOR-COM;Apple;iPhone 12 Pro;Tornillos;Compatible;2,80;;;6
+AP-IP12P-IMA-COM;Apple;iPhone 12 Pro;Imán MagSafe;Compatible;3,35;;;6
+AP-IP12PM-MAR-COM;Apple;iPhone 12 Pro Max;Marco / chasis;Compatible;30,45;29,54;28,62;6
+AP-IP12PM-BOT-COM;Apple;iPhone 12 Pro Max;Botones laterales;Compatible;4,39;;;6
+AP-IP12PM-CRI-COM;Apple;iPhone 12 Pro Max;Cristal de pantalla;Compatible;6,75;;;6
+AP-IP12PM-VIB-COM;Apple;iPhone 12 Pro Max;Vibrador;Compatible;4,89;;;6
+AP-IP12PM-ANT-COM;Apple;iPhone 12 Pro Max;Antena / coaxial;Compatible;5,75;;;6
+AP-IP12PM-FID-COM;Apple;iPhone 12 Pro Max;Flex de sensor y Face ID;Compatible;12,65;12,27;11,89;6
+AP-IP12PM-NFC-COM;Apple;iPhone 12 Pro Max;NFC y carga inalámbrica;Compatible;8,25;;;6
+AP-IP12PM-TOR-COM;Apple;iPhone 12 Pro Max;Tornillos;Compatible;2,80;;;6
+AP-IP12PM-IMA-COM;Apple;iPhone 12 Pro Max;Imán MagSafe;Compatible;3,35;;;6
+AP-IP13MN-MAR-COM;Apple;iPhone 13 mini;Marco / chasis;Compatible;25,59;24,82;24,05;6
+AP-IP13MN-BOT-COM;Apple;iPhone 13 mini;Botones laterales;Compatible;3,69;;;6
+AP-IP13MN-CRI-COM;Apple;iPhone 13 mini;Cristal de pantalla;Compatible;5,65;;;6
+AP-IP13MN-VIB-COM;Apple;iPhone 13 mini;Vibrador;Compatible;4,10;;;6
+AP-IP13MN-ANT-COM;Apple;iPhone 13 mini;Antena / coaxial;Compatible;4,85;;;6
+AP-IP13MN-FID-COM;Apple;iPhone 13 mini;Flex de sensor y Face ID;Compatible;10,60;10,28;9,96;6
+AP-IP13MN-NFC-COM;Apple;iPhone 13 mini;NFC y carga inalámbrica;Compatible;6,95;;;6
+AP-IP13MN-TOR-COM;Apple;iPhone 13 mini;Tornillos;Compatible;2,35;;;6
+AP-IP13MN-IMA-COM;Apple;iPhone 13 mini;Imán MagSafe;Compatible;2,80;;;6
+AP-IP13-MAR-COM;Apple;iPhone 13;Marco / chasis;Compatible;25,59;24,82;24,05;6
+AP-IP13-BOT-COM;Apple;iPhone 13;Botones laterales;Compatible;3,69;;;6
+AP-IP13-CRI-COM;Apple;iPhone 13;Cristal de pantalla;Compatible;5,65;;;6
+AP-IP13-VIB-COM;Apple;iPhone 13;Vibrador;Compatible;4,10;;;6
+AP-IP13-ANT-COM;Apple;iPhone 13;Antena / coaxial;Compatible;4,85;;;6
+AP-IP13-FID-COM;Apple;iPhone 13;Flex de sensor y Face ID;Compatible;10,60;10,28;9,96;6
+AP-IP13-NFC-COM;Apple;iPhone 13;NFC y carga inalámbrica;Compatible;6,95;;;6
+AP-IP13-TOR-COM;Apple;iPhone 13;Tornillos;Compatible;2,35;;;6
+AP-IP13-IMA-COM;Apple;iPhone 13;Imán MagSafe;Compatible;2,80;;;6
+AP-IP13P-MAR-COM;Apple;iPhone 13 Pro;Marco / chasis;Compatible;30,45;29,54;28,62;6
+AP-IP13P-BOT-COM;Apple;iPhone 13 Pro;Botones laterales;Compatible;4,39;;;6
+AP-IP13P-CRI-COM;Apple;iPhone 13 Pro;Cristal de pantalla;Compatible;6,75;;;6
+AP-IP13P-VIB-COM;Apple;iPhone 13 Pro;Vibrador;Compatible;4,89;;;6
+AP-IP13P-ANT-COM;Apple;iPhone 13 Pro;Antena / coaxial;Compatible;5,75;;;6
+AP-IP13P-FID-COM;Apple;iPhone 13 Pro;Flex de sensor y Face ID;Compatible;12,65;12,27;11,89;6
+AP-IP13P-NFC-COM;Apple;iPhone 13 Pro;NFC y carga inalámbrica;Compatible;8,25;;;6
+AP-IP13P-TOR-COM;Apple;iPhone 13 Pro;Tornillos;Compatible;2,80;;;6
+AP-IP13P-IMA-COM;Apple;iPhone 13 Pro;Imán MagSafe;Compatible;3,35;;;6
+AP-IP13PM-MAR-COM;Apple;iPhone 13 Pro Max;Marco / chasis;Compatible;30,45;29,54;28,62;6
+AP-IP13PM-BOT-COM;Apple;iPhone 13 Pro Max;Botones laterales;Compatible;4,39;;;6
+AP-IP13PM-CRI-COM;Apple;iPhone 13 Pro Max;Cristal de pantalla;Compatible;6,75;;;6
+AP-IP13PM-VIB-COM;Apple;iPhone 13 Pro Max;Vibrador;Compatible;4,89;;;6
+AP-IP13PM-ANT-COM;Apple;iPhone 13 Pro Max;Antena / coaxial;Compatible;5,75;;;6
+AP-IP13PM-FID-COM;Apple;iPhone 13 Pro Max;Flex de sensor y Face ID;Compatible;12,65;12,27;11,89;6
+AP-IP13PM-NFC-COM;Apple;iPhone 13 Pro Max;NFC y carga inalámbrica;Compatible;8,25;;;6
+AP-IP13PM-TOR-COM;Apple;iPhone 13 Pro Max;Tornillos;Compatible;2,80;;;6
+AP-IP13PM-IMA-COM;Apple;iPhone 13 Pro Max;Imán MagSafe;Compatible;3,35;;;6
+AP-IPSE3-MAR-COM;Apple;iPhone SE (3.ª generación);Marco / chasis;Compatible;22,40;21,73;21,06;6
+AP-IPSE3-BOT-COM;Apple;iPhone SE (3.ª generación);Botones laterales;Compatible;3,20;;;6
+AP-IPSE3-CRI-COM;Apple;iPhone SE (3.ª generación);Cristal de pantalla;Compatible;4,95;;;6
+AP-IPSE3-VIB-COM;Apple;iPhone SE (3.ª generación);Vibrador;Compatible;3,59;;;6
+AP-IPSE3-ANT-COM;Apple;iPhone SE (3.ª generación);Antena / coaxial;Compatible;4,25;;;6
+AP-IPSE3-HUE-COM;Apple;iPhone SE (3.ª generación);Botón home / huella;Compatible;3,20;;;6
+AP-IPSE3-NFC-COM;Apple;iPhone SE (3.ª generación);NFC y carga inalámbrica;Compatible;6,05;;;6
+AP-IPSE3-TOR-COM;Apple;iPhone SE (3.ª generación);Tornillos;Compatible;2,05;;;6
+AP-IP14-MAR-COM;Apple;iPhone 14;Marco / chasis;Compatible;25,59;24,82;24,05;6
+AP-IP14-BOT-COM;Apple;iPhone 14;Botones laterales;Compatible;3,69;;;6
+AP-IP14-CRI-COM;Apple;iPhone 14;Cristal de pantalla;Compatible;5,65;;;6
+AP-IP14-VIB-COM;Apple;iPhone 14;Vibrador;Compatible;4,10;;;6
+AP-IP14-ANT-COM;Apple;iPhone 14;Antena / coaxial;Compatible;4,85;;;6
+AP-IP14-FID-COM;Apple;iPhone 14;Flex de sensor y Face ID;Compatible;10,60;10,28;9,96;6
+AP-IP14-NFC-COM;Apple;iPhone 14;NFC y carga inalámbrica;Compatible;6,95;;;6
+AP-IP14-TOR-COM;Apple;iPhone 14;Tornillos;Compatible;2,35;;;6
+AP-IP14-IMA-COM;Apple;iPhone 14;Imán MagSafe;Compatible;2,80;;;6
+AP-IP14PL-MAR-COM;Apple;iPhone 14 Plus;Marco / chasis;Compatible;25,59;24,82;24,05;6
+AP-IP14PL-BOT-COM;Apple;iPhone 14 Plus;Botones laterales;Compatible;3,69;;;6
+AP-IP14PL-CRI-COM;Apple;iPhone 14 Plus;Cristal de pantalla;Compatible;5,65;;;6
+AP-IP14PL-VIB-COM;Apple;iPhone 14 Plus;Vibrador;Compatible;4,10;;;6
+AP-IP14PL-ANT-COM;Apple;iPhone 14 Plus;Antena / coaxial;Compatible;4,85;;;6
+AP-IP14PL-FID-COM;Apple;iPhone 14 Plus;Flex de sensor y Face ID;Compatible;10,60;10,28;9,96;6
+AP-IP14PL-NFC-COM;Apple;iPhone 14 Plus;NFC y carga inalámbrica;Compatible;6,95;;;6
+AP-IP14PL-TOR-COM;Apple;iPhone 14 Plus;Tornillos;Compatible;2,35;;;6
+AP-IP14PL-IMA-COM;Apple;iPhone 14 Plus;Imán MagSafe;Compatible;2,80;;;6
+AP-IP14P-MAR-COM;Apple;iPhone 14 Pro;Marco / chasis;Compatible;30,45;29,54;28,62;6
+AP-IP14P-BOT-COM;Apple;iPhone 14 Pro;Botones laterales;Compatible;4,39;;;6
+AP-IP14P-CRI-COM;Apple;iPhone 14 Pro;Cristal de pantalla;Compatible;6,75;;;6
+AP-IP14P-VIB-COM;Apple;iPhone 14 Pro;Vibrador;Compatible;4,89;;;6
+AP-IP14P-ANT-COM;Apple;iPhone 14 Pro;Antena / coaxial;Compatible;5,75;;;6
+AP-IP14P-FID-COM;Apple;iPhone 14 Pro;Flex de sensor y Face ID;Compatible;12,65;12,27;11,89;6
+AP-IP14P-NFC-COM;Apple;iPhone 14 Pro;NFC y carga inalámbrica;Compatible;8,25;;;6
+AP-IP14P-TOR-COM;Apple;iPhone 14 Pro;Tornillos;Compatible;2,80;;;6
+AP-IP14P-IMA-COM;Apple;iPhone 14 Pro;Imán MagSafe;Compatible;3,35;;;6
+AP-IP14PM-MAR-COM;Apple;iPhone 14 Pro Max;Marco / chasis;Compatible;30,45;29,54;28,62;6
+AP-IP14PM-BOT-COM;Apple;iPhone 14 Pro Max;Botones laterales;Compatible;4,39;;;6
+AP-IP14PM-CRI-COM;Apple;iPhone 14 Pro Max;Cristal de pantalla;Compatible;6,75;;;6
+AP-IP14PM-VIB-COM;Apple;iPhone 14 Pro Max;Vibrador;Compatible;4,89;;;6
+AP-IP14PM-ANT-COM;Apple;iPhone 14 Pro Max;Antena / coaxial;Compatible;5,75;;;6
+AP-IP14PM-FID-COM;Apple;iPhone 14 Pro Max;Flex de sensor y Face ID;Compatible;12,65;12,27;11,89;6
+AP-IP14PM-NFC-COM;Apple;iPhone 14 Pro Max;NFC y carga inalámbrica;Compatible;8,25;;;6
+AP-IP14PM-TOR-COM;Apple;iPhone 14 Pro Max;Tornillos;Compatible;2,80;;;6
+AP-IP14PM-IMA-COM;Apple;iPhone 14 Pro Max;Imán MagSafe;Compatible;3,35;;;6
+AP-IP15-MAR-COM;Apple;iPhone 15;Marco / chasis;Compatible;25,59;24,82;24,05;6
+AP-IP15-BOT-COM;Apple;iPhone 15;Botones laterales;Compatible;3,69;;;6
+AP-IP15-CRI-COM;Apple;iPhone 15;Cristal de pantalla;Compatible;5,65;;;6
+AP-IP15-VIB-COM;Apple;iPhone 15;Vibrador;Compatible;4,10;;;6
+AP-IP15-ANT-COM;Apple;iPhone 15;Antena / coaxial;Compatible;4,85;;;6
+AP-IP15-FID-COM;Apple;iPhone 15;Flex de sensor y Face ID;Compatible;10,60;10,28;9,96;6
+AP-IP15-NFC-COM;Apple;iPhone 15;NFC y carga inalámbrica;Compatible;6,95;;;6
+AP-IP15-TOR-COM;Apple;iPhone 15;Tornillos;Compatible;2,35;;;6
+AP-IP15-IMA-COM;Apple;iPhone 15;Imán MagSafe;Compatible;2,80;;;6
+AP-IP15PL-MAR-COM;Apple;iPhone 15 Plus;Marco / chasis;Compatible;25,59;24,82;24,05;6
+AP-IP15PL-BOT-COM;Apple;iPhone 15 Plus;Botones laterales;Compatible;3,69;;;6
+AP-IP15PL-CRI-COM;Apple;iPhone 15 Plus;Cristal de pantalla;Compatible;5,65;;;6
+AP-IP15PL-VIB-COM;Apple;iPhone 15 Plus;Vibrador;Compatible;4,10;;;6
+AP-IP15PL-ANT-COM;Apple;iPhone 15 Plus;Antena / coaxial;Compatible;4,85;;;6
+AP-IP15PL-FID-COM;Apple;iPhone 15 Plus;Flex de sensor y Face ID;Compatible;10,60;10,28;9,96;6
+AP-IP15PL-NFC-COM;Apple;iPhone 15 Plus;NFC y carga inalámbrica;Compatible;6,95;;;6
+AP-IP15PL-TOR-COM;Apple;iPhone 15 Plus;Tornillos;Compatible;2,35;;;6
+AP-IP15PL-IMA-COM;Apple;iPhone 15 Plus;Imán MagSafe;Compatible;2,80;;;6
+AP-IP15P-MAR-COM;Apple;iPhone 15 Pro;Marco / chasis;Compatible;30,45;29,54;28,62;6
+AP-IP15P-BOT-COM;Apple;iPhone 15 Pro;Botones laterales;Compatible;4,39;;;6
+AP-IP15P-CRI-COM;Apple;iPhone 15 Pro;Cristal de pantalla;Compatible;6,75;;;6
+AP-IP15P-VIB-COM;Apple;iPhone 15 Pro;Vibrador;Compatible;4,89;;;6
+AP-IP15P-ANT-COM;Apple;iPhone 15 Pro;Antena / coaxial;Compatible;5,75;;;6
+AP-IP15P-FID-COM;Apple;iPhone 15 Pro;Flex de sensor y Face ID;Compatible;12,65;12,27;11,89;6
+AP-IP15P-NFC-COM;Apple;iPhone 15 Pro;NFC y carga inalámbrica;Compatible;8,25;;;6
+AP-IP15P-TOR-COM;Apple;iPhone 15 Pro;Tornillos;Compatible;2,80;;;6
+AP-IP15P-IMA-COM;Apple;iPhone 15 Pro;Imán MagSafe;Compatible;3,35;;;6
+AP-IP15PM-MAR-COM;Apple;iPhone 15 Pro Max;Marco / chasis;Compatible;30,45;29,54;28,62;6
+AP-IP15PM-BOT-COM;Apple;iPhone 15 Pro Max;Botones laterales;Compatible;4,39;;;6
+AP-IP15PM-CRI-COM;Apple;iPhone 15 Pro Max;Cristal de pantalla;Compatible;6,75;;;6
+AP-IP15PM-VIB-COM;Apple;iPhone 15 Pro Max;Vibrador;Compatible;4,89;;;6
+AP-IP15PM-ANT-COM;Apple;iPhone 15 Pro Max;Antena / coaxial;Compatible;5,75;;;6
+AP-IP15PM-FID-COM;Apple;iPhone 15 Pro Max;Flex de sensor y Face ID;Compatible;12,65;12,27;11,89;6
+AP-IP15PM-NFC-COM;Apple;iPhone 15 Pro Max;NFC y carga inalámbrica;Compatible;8,25;;;6
+AP-IP15PM-TOR-COM;Apple;iPhone 15 Pro Max;Tornillos;Compatible;2,80;;;6
+AP-IP15PM-IMA-COM;Apple;iPhone 15 Pro Max;Imán MagSafe;Compatible;3,35;;;6
+AP-IP16-MAR-COM;Apple;iPhone 16;Marco / chasis;Compatible;28,15;27,31;26,46;6
+AP-IP16-BOT-COM;Apple;iPhone 16;Botones laterales;Compatible;4,05;;;6
+AP-IP16-CRI-COM;Apple;iPhone 16;Cristal de pantalla;Compatible;6,25;;;6
+AP-IP16-VIB-COM;Apple;iPhone 16;Vibrador;Compatible;4,50;;;6
+AP-IP16-ANT-COM;Apple;iPhone 16;Antena / coaxial;Compatible;5,30;;;6
+AP-IP16-FID-COM;Apple;iPhone 16;Flex de sensor y Face ID;Compatible;11,65;11,30;10,95;6
+AP-IP16-NFC-COM;Apple;iPhone 16;NFC y carga inalámbrica;Compatible;7,60;;;6
+AP-IP16-TOR-COM;Apple;iPhone 16;Tornillos;Compatible;2,60;;;6
+AP-IP16-IMA-COM;Apple;iPhone 16;Imán MagSafe;Compatible;3,10;;;6
+AP-IP16-BCA-COM;Apple;iPhone 16;Botón de cámara (Camera Control);Compatible;26,75;25,95;25,15;6
+AP-IP16PL-MAR-COM;Apple;iPhone 16 Plus;Marco / chasis;Compatible;28,15;27,31;26,46;6
+AP-IP16PL-BOT-COM;Apple;iPhone 16 Plus;Botones laterales;Compatible;4,05;;;6
+AP-IP16PL-CRI-COM;Apple;iPhone 16 Plus;Cristal de pantalla;Compatible;6,25;;;6
+AP-IP16PL-VIB-COM;Apple;iPhone 16 Plus;Vibrador;Compatible;4,50;;;6
+AP-IP16PL-ANT-COM;Apple;iPhone 16 Plus;Antena / coaxial;Compatible;5,30;;;6
+AP-IP16PL-FID-COM;Apple;iPhone 16 Plus;Flex de sensor y Face ID;Compatible;11,65;11,30;10,95;6
+AP-IP16PL-NFC-COM;Apple;iPhone 16 Plus;NFC y carga inalámbrica;Compatible;7,60;;;6
+AP-IP16PL-TOR-COM;Apple;iPhone 16 Plus;Tornillos;Compatible;2,60;;;6
+AP-IP16PL-IMA-COM;Apple;iPhone 16 Plus;Imán MagSafe;Compatible;3,10;;;6
+AP-IP16PL-BCA-COM;Apple;iPhone 16 Plus;Botón de cámara (Camera Control);Compatible;26,75;25,95;25,15;6
+AP-IP16P-MAR-COM;Apple;iPhone 16 Pro;Marco / chasis;Compatible;33,50;32,49;31,49;6
+AP-IP16P-BOT-COM;Apple;iPhone 16 Pro;Botones laterales;Compatible;4,80;;;6
+AP-IP16P-CRI-COM;Apple;iPhone 16 Pro;Cristal de pantalla;Compatible;7,40;;;6
+AP-IP16P-VIB-COM;Apple;iPhone 16 Pro;Vibrador;Compatible;5,35;;;6
+AP-IP16P-ANT-COM;Apple;iPhone 16 Pro;Antena / coaxial;Compatible;6,35;;;6
+AP-IP16P-FID-COM;Apple;iPhone 16 Pro;Flex de sensor y Face ID;Compatible;13,89;13,47;13,06;6
+AP-IP16P-NFC-COM;Apple;iPhone 16 Pro;NFC y carga inalámbrica;Compatible;9,09;;;6
+AP-IP16P-TOR-COM;Apple;iPhone 16 Pro;Tornillos;Compatible;3,09;;;6
+AP-IP16P-IMA-COM;Apple;iPhone 16 Pro;Imán MagSafe;Compatible;3,69;;;6
+AP-IP16P-BCA-COM;Apple;iPhone 16 Pro;Botón de cámara (Camera Control);Compatible;31,85;30,89;29,94;6
+AP-IP16PM-MAR-COM;Apple;iPhone 16 Pro Max;Marco / chasis;Compatible;33,50;32,49;31,49;6
+AP-IP16PM-BOT-COM;Apple;iPhone 16 Pro Max;Botones laterales;Compatible;4,80;;;6
+AP-IP16PM-CRI-COM;Apple;iPhone 16 Pro Max;Cristal de pantalla;Compatible;7,40;;;6
+AP-IP16PM-VIB-COM;Apple;iPhone 16 Pro Max;Vibrador;Compatible;5,35;;;6
+AP-IP16PM-ANT-COM;Apple;iPhone 16 Pro Max;Antena / coaxial;Compatible;6,35;;;6
+AP-IP16PM-FID-COM;Apple;iPhone 16 Pro Max;Flex de sensor y Face ID;Compatible;13,89;13,47;13,06;6
+AP-IP16PM-NFC-COM;Apple;iPhone 16 Pro Max;NFC y carga inalámbrica;Compatible;9,09;;;6
+AP-IP16PM-TOR-COM;Apple;iPhone 16 Pro Max;Tornillos;Compatible;3,09;;;6
+AP-IP16PM-IMA-COM;Apple;iPhone 16 Pro Max;Imán MagSafe;Compatible;3,69;;;6
+AP-IP16PM-BCA-COM;Apple;iPhone 16 Pro Max;Botón de cámara (Camera Control);Compatible;31,85;30,89;29,94;6
+AP-IP16E-MAR-COM;Apple;iPhone 16e;Marco / chasis;Compatible;28,15;27,31;26,46;6
+AP-IP16E-BOT-COM;Apple;iPhone 16e;Botones laterales;Compatible;4,05;;;6
+AP-IP16E-CRI-COM;Apple;iPhone 16e;Cristal de pantalla;Compatible;6,25;;;6
+AP-IP16E-VIB-COM;Apple;iPhone 16e;Vibrador;Compatible;4,50;;;6
+AP-IP16E-ANT-COM;Apple;iPhone 16e;Antena / coaxial;Compatible;5,30;;;6
+AP-IP16E-FID-COM;Apple;iPhone 16e;Flex de sensor y Face ID;Compatible;11,65;11,30;10,95;6
+AP-IP16E-NFC-COM;Apple;iPhone 16e;NFC y carga inalámbrica;Compatible;7,60;;;6
+AP-IP16E-TOR-COM;Apple;iPhone 16e;Tornillos;Compatible;2,60;;;6
+AP-IP17-MAR-COM;Apple;iPhone 17;Marco / chasis;Compatible;28,15;27,31;26,46;6
+AP-IP17-BOT-COM;Apple;iPhone 17;Botones laterales;Compatible;4,05;;;6
+AP-IP17-CRI-COM;Apple;iPhone 17;Cristal de pantalla;Compatible;6,25;;;6
+AP-IP17-VIB-COM;Apple;iPhone 17;Vibrador;Compatible;4,50;;;6
+AP-IP17-ANT-COM;Apple;iPhone 17;Antena / coaxial;Compatible;5,30;;;6
+AP-IP17-FID-COM;Apple;iPhone 17;Flex de sensor y Face ID;Compatible;11,65;11,30;10,95;6
+AP-IP17-NFC-COM;Apple;iPhone 17;NFC y carga inalámbrica;Compatible;7,60;;;6
+AP-IP17-TOR-COM;Apple;iPhone 17;Tornillos;Compatible;2,60;;;6
+AP-IP17-IMA-COM;Apple;iPhone 17;Imán MagSafe;Compatible;3,10;;;6
+AP-IP17-BCA-COM;Apple;iPhone 17;Botón de cámara (Camera Control);Compatible;26,75;25,95;25,15;6
+AP-IPAIR-MAR-COM;Apple;iPhone Air;Marco / chasis;Compatible;28,15;27,31;26,46;6
+AP-IPAIR-BOT-COM;Apple;iPhone Air;Botones laterales;Compatible;4,05;;;6
+AP-IPAIR-CRI-COM;Apple;iPhone Air;Cristal de pantalla;Compatible;6,25;;;6
+AP-IPAIR-VIB-COM;Apple;iPhone Air;Vibrador;Compatible;4,50;;;6
+AP-IPAIR-ANT-COM;Apple;iPhone Air;Antena / coaxial;Compatible;5,30;;;6
+AP-IPAIR-FID-COM;Apple;iPhone Air;Flex de sensor y Face ID;Compatible;11,65;11,30;10,95;6
+AP-IPAIR-NFC-COM;Apple;iPhone Air;NFC y carga inalámbrica;Compatible;7,60;;;6
+AP-IPAIR-TOR-COM;Apple;iPhone Air;Tornillos;Compatible;2,60;;;6
+AP-IPAIR-IMA-COM;Apple;iPhone Air;Imán MagSafe;Compatible;3,10;;;6
+AP-IPAIR-BCA-COM;Apple;iPhone Air;Botón de cámara (Camera Control);Compatible;26,75;25,95;25,15;6
+AP-IP17P-MAR-COM;Apple;iPhone 17 Pro;Marco / chasis;Compatible;33,50;32,49;31,49;6
+AP-IP17P-BOT-COM;Apple;iPhone 17 Pro;Botones laterales;Compatible;4,80;;;6
+AP-IP17P-CRI-COM;Apple;iPhone 17 Pro;Cristal de pantalla;Compatible;7,40;;;6
+AP-IP17P-VIB-COM;Apple;iPhone 17 Pro;Vibrador;Compatible;5,35;;;6
+AP-IP17P-ANT-COM;Apple;iPhone 17 Pro;Antena / coaxial;Compatible;6,35;;;6
+AP-IP17P-FID-COM;Apple;iPhone 17 Pro;Flex de sensor y Face ID;Compatible;13,89;13,47;13,06;6
+AP-IP17P-NFC-COM;Apple;iPhone 17 Pro;NFC y carga inalámbrica;Compatible;9,09;;;6
+AP-IP17P-TOR-COM;Apple;iPhone 17 Pro;Tornillos;Compatible;3,09;;;6
+AP-IP17P-IMA-COM;Apple;iPhone 17 Pro;Imán MagSafe;Compatible;3,69;;;6
+AP-IP17P-BCA-COM;Apple;iPhone 17 Pro;Botón de cámara (Camera Control);Compatible;31,85;30,89;29,94;6
+AP-IP17PM-MAR-COM;Apple;iPhone 17 Pro Max;Marco / chasis;Compatible;33,50;32,49;31,49;6
+AP-IP17PM-BOT-COM;Apple;iPhone 17 Pro Max;Botones laterales;Compatible;4,80;;;6
+AP-IP17PM-CRI-COM;Apple;iPhone 17 Pro Max;Cristal de pantalla;Compatible;7,40;;;6
+AP-IP17PM-VIB-COM;Apple;iPhone 17 Pro Max;Vibrador;Compatible;5,35;;;6
+AP-IP17PM-ANT-COM;Apple;iPhone 17 Pro Max;Antena / coaxial;Compatible;6,35;;;6
+AP-IP17PM-FID-COM;Apple;iPhone 17 Pro Max;Flex de sensor y Face ID;Compatible;13,89;13,47;13,06;6
+AP-IP17PM-NFC-COM;Apple;iPhone 17 Pro Max;NFC y carga inalámbrica;Compatible;9,09;;;6
+AP-IP17PM-TOR-COM;Apple;iPhone 17 Pro Max;Tornillos;Compatible;3,09;;;6
+AP-IP17PM-IMA-COM;Apple;iPhone 17 Pro Max;Imán MagSafe;Compatible;3,69;;;6
+AP-IP17PM-BCA-COM;Apple;iPhone 17 Pro Max;Botón de cámara (Camera Control);Compatible;31,85;30,89;29,94;6
+AP-IP17E-MAR-COM;Apple;iPhone 17e;Marco / chasis;Compatible;28,15;27,31;26,46;6
+AP-IP17E-BOT-COM;Apple;iPhone 17e;Botones laterales;Compatible;4,05;;;6
+AP-IP17E-CRI-COM;Apple;iPhone 17e;Cristal de pantalla;Compatible;6,25;;;6
+AP-IP17E-VIB-COM;Apple;iPhone 17e;Vibrador;Compatible;4,50;;;6
+AP-IP17E-ANT-COM;Apple;iPhone 17e;Antena / coaxial;Compatible;5,30;;;6
+AP-IP17E-FID-COM;Apple;iPhone 17e;Flex de sensor y Face ID;Compatible;11,65;11,30;10,95;6
+AP-IP17E-NFC-COM;Apple;iPhone 17e;NFC y carga inalámbrica;Compatible;7,60;;;6
+AP-IP17E-TOR-COM;Apple;iPhone 17e;Tornillos;Compatible;2,60;;;6
+AP-IP18P-MAR-COM;Apple;iPhone 18 Pro;Marco / chasis;Compatible;33,50;32,49;31,49;6
+AP-IP18P-BOT-COM;Apple;iPhone 18 Pro;Botones laterales;Compatible;4,80;;;6
+AP-IP18P-CRI-COM;Apple;iPhone 18 Pro;Cristal de pantalla;Compatible;7,40;;;6
+AP-IP18P-VIB-COM;Apple;iPhone 18 Pro;Vibrador;Compatible;5,35;;;6
+AP-IP18P-ANT-COM;Apple;iPhone 18 Pro;Antena / coaxial;Compatible;6,35;;;6
+AP-IP18P-FID-COM;Apple;iPhone 18 Pro;Flex de sensor y Face ID;Compatible;13,89;13,47;13,06;6
+AP-IP18P-NFC-COM;Apple;iPhone 18 Pro;NFC y carga inalámbrica;Compatible;9,09;;;6
+AP-IP18P-TOR-COM;Apple;iPhone 18 Pro;Tornillos;Compatible;3,09;;;6
+AP-IP18P-IMA-COM;Apple;iPhone 18 Pro;Imán MagSafe;Compatible;3,69;;;6
+AP-IP18P-BCA-COM;Apple;iPhone 18 Pro;Botón de cámara (Camera Control);Compatible;31,85;30,89;29,94;6
+AP-IP18PM-MAR-COM;Apple;iPhone 18 Pro Max;Marco / chasis;Compatible;33,50;32,49;31,49;6
+AP-IP18PM-BOT-COM;Apple;iPhone 18 Pro Max;Botones laterales;Compatible;4,80;;;6
+AP-IP18PM-CRI-COM;Apple;iPhone 18 Pro Max;Cristal de pantalla;Compatible;7,40;;;6
+AP-IP18PM-VIB-COM;Apple;iPhone 18 Pro Max;Vibrador;Compatible;5,35;;;6
+AP-IP18PM-ANT-COM;Apple;iPhone 18 Pro Max;Antena / coaxial;Compatible;6,35;;;6
+AP-IP18PM-FID-COM;Apple;iPhone 18 Pro Max;Flex de sensor y Face ID;Compatible;13,89;13,47;13,06;6
+AP-IP18PM-NFC-COM;Apple;iPhone 18 Pro Max;NFC y carga inalámbrica;Compatible;9,09;;;6
+AP-IP18PM-TOR-COM;Apple;iPhone 18 Pro Max;Tornillos;Compatible;3,09;;;6
+AP-IP18PM-IMA-COM;Apple;iPhone 18 Pro Max;Imán MagSafe;Compatible;3,69;;;6
+AP-IP18PM-BCA-COM;Apple;iPhone 18 Pro Max;Botón de cámara (Camera Control);Compatible;31,85;30,89;29,94;6
+AP-IPDUO-VIB-COM;Apple;iPhone Duo;Vibrador;Compatible;8,10;;;6
+AP-IPDUO-ANT-COM;Apple;iPhone Duo;Antena / coaxial;Compatible;9,59;;;6
+AP-IPDUO-NFC-COM;Apple;iPhone Duo;NFC y carga inalámbrica;Compatible;13,70;13,29;12,88;6
+AP-IPDUO-TOR-COM;Apple;iPhone Duo;Tornillos;Compatible;4,69;;;6
+AP-IPDUO-IMA-COM;Apple;iPhone Duo;Imán MagSafe;Compatible;5,55;;;6
+AP-IPDUO-BCA-COM;Apple;iPhone Duo;Botón de cámara (Camera Control);Compatible;48,15;46,71;45,26;6
+AP-IP5C-MAR-COM;Apple;iPhone 5c;Marco / chasis;Compatible;20,45;19,84;19,22;6
+AP-IP5C-BOT-COM;Apple;iPhone 5c;Botones laterales;Compatible;2,95;;;6
+AP-IP5C-VIB-COM;Apple;iPhone 5c;Vibrador;Compatible;3,29;;;6
+AP-IP5C-ANT-COM;Apple;iPhone 5c;Antena / coaxial;Compatible;3,85;;;6
+AP-IP5C-TOR-COM;Apple;iPhone 5c;Tornillos;Compatible;1,89;;;6
+AP-IP5S-MAR-COM;Apple;iPhone 5s;Marco / chasis;Compatible;20,45;19,84;19,22;6
+AP-IP5S-BOT-COM;Apple;iPhone 5s;Botones laterales;Compatible;2,95;;;6
+AP-IP5S-VIB-COM;Apple;iPhone 5s;Vibrador;Compatible;3,29;;;6
+AP-IP5S-ANT-COM;Apple;iPhone 5s;Antena / coaxial;Compatible;3,85;;;6
+AP-IP5S-HUE-COM;Apple;iPhone 5s;Botón home / huella;Compatible;2,95;;;6
+AP-IP5S-TOR-COM;Apple;iPhone 5s;Tornillos;Compatible;1,89;;;6
+AP-IP5-VIB-COM;Apple;iPhone 5;Vibrador;Compatible;3,29;;;6
+AP-IP5-ANT-COM;Apple;iPhone 5;Antena / coaxial;Compatible;3,85;;;6
+AP-IP5-TOR-COM;Apple;iPhone 5;Tornillos;Compatible;1,89;;;6
+AP-IP4S-TOR-COM;Apple;iPhone 4S;Tornillos;Compatible;1,89;;;6
+AP-IP4-TOR-COM;Apple;iPhone 4;Tornillos;Compatible;1,89;;;6
+AP-IP6-MAR-COM;Apple;iPhone 6;Marco / chasis;Compatible;20,45;19,84;19,22;6
+AP-IP6-BOT-COM;Apple;iPhone 6;Botones laterales;Compatible;2,95;;;6
+AP-IP6-VIB-COM;Apple;iPhone 6;Vibrador;Compatible;3,29;;;6
+AP-IP6-ANT-COM;Apple;iPhone 6;Antena / coaxial;Compatible;3,85;;;6
+AP-IP6-HUE-COM;Apple;iPhone 6;Botón home / huella;Compatible;2,95;;;6
+AP-IP6-TOR-COM;Apple;iPhone 6;Tornillos;Compatible;1,89;;;6
+AP-IP6PL-MAR-COM;Apple;iPhone 6 Plus;Marco / chasis;Compatible;20,45;19,84;19,22;6
+AP-IP6PL-BOT-COM;Apple;iPhone 6 Plus;Botones laterales;Compatible;2,95;;;6
+AP-IP6PL-VIB-COM;Apple;iPhone 6 Plus;Vibrador;Compatible;3,29;;;6
+AP-IP6PL-ANT-COM;Apple;iPhone 6 Plus;Antena / coaxial;Compatible;3,85;;;6
+AP-IP6PL-HUE-COM;Apple;iPhone 6 Plus;Botón home / huella;Compatible;2,95;;;6
+AP-IP6PL-TOR-COM;Apple;iPhone 6 Plus;Tornillos;Compatible;1,89;;;6

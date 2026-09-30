@@ -1,0 +1,18 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+RO-F-PAN-COM;Royole;FlexPai;Pantalla;Compatible;91,55;88,80;86,06;6
+RO-F-PAN-COM-EXT;Royole;FlexPai;Pantalla exterior;Compatible;15,40;14,94;14,48;6
+RO-F-BAT-COM;Royole;FlexPai;Batería;Compatible;9,65;;;6
+RO-F-CON-COM;Royole;FlexPai;Conector de carga;Compatible;7,05;;;6
+RO-F-TAP-COM;Royole;FlexPai;Tapa trasera;Compatible;7,70;;;6
+RO-F-CTR-COM;Royole;FlexPai;Cámara trasera;Compatible;11,55;11,20;10,86;6
+RO-F-CFR-COM;Royole;FlexPai;Cámara frontal;Compatible;6,65;;;6
+RO-F-LEN-COM;Royole;FlexPai;Lente de cámara;Compatible;3,20;;;6
+RO-F-ALT-COM;Royole;FlexPai;Altavoz;Compatible;5,65;;;6
+RO-F-AUR-COM;Royole;FlexPai;Auricular de llamada;Compatible;3,89;;;6
+RO-F-FLX-COM;Royole;FlexPai;Flex de encendido y volumen;Compatible;3,65;;;6
+RO-F-SIM-COM;Royole;FlexPai;Bandeja SIM;Compatible;3,75;;;6
+RO-F-PRO-NA;Royole;FlexPai;Cristal templado;Estándar;1,30;;;
+RO-F-FUN-SIL;Royole;FlexPai;Funda;Silicona;2,50;;;
+RO-F-FUN-TPU;Royole;FlexPai;Funda;Transparente;2,95;;;
+RO-F-ANT-COM;Royole;FlexPai;Antena / coaxial;Compatible;5,19;;;6
+RO-F-HUE-COM;Royole;FlexPai;Botón home / huella;Compatible;8,60;;;6

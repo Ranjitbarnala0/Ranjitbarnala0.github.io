@@ -1,0 +1,1761 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+CU-J3-PAN-COM;Cubot;J3;Pantalla;Compatible;13,00;12,61;12,22;6
+CU-J3-BAT-COM;Cubot;J3;Batería;Compatible;8,90;;;6
+CU-J3-CON-COM;Cubot;J3;Conector de carga;Compatible;3,70;;;6
+CU-J3-TAP-COM-NEG;Cubot;J3;Tapa trasera;Negro;4,80;;;6
+CU-J3-TAP-COM-GRI;Cubot;J3;Tapa trasera;Gris;4,80;;;6
+CU-J3-TAP-COM-AZU;Cubot;J3;Tapa trasera;Azul;4,80;;;6
+CU-J3-CTR-COM;Cubot;J3;Cámara trasera;Compatible;6,65;;;6
+CU-J3-CFR-COM;Cubot;J3;Cámara frontal;Compatible;4,65;;;6
+CU-J3-LEN-COM;Cubot;J3;Lente de cámara;Compatible;2,25;;;6
+CU-J3-ALT-COM;Cubot;J3;Altavoz;Compatible;3,59;;;6
+CU-J3-AUR-COM;Cubot;J3;Auricular de llamada;Compatible;2,69;;;6
+CU-J3-FLX-COM;Cubot;J3;Flex de encendido y volumen;Compatible;2,55;;;6
+CU-J3-SIM-COM;Cubot;J3;Bandeja SIM;Compatible;2,65;;;6
+CU-J3P-PAN-COM;Cubot;J3 Pro;Pantalla;Compatible;13,00;12,61;12,22;6
+CU-J3P-BAT-COM;Cubot;J3 Pro;Batería;Compatible;8,90;;;6
+CU-J3P-CON-COM;Cubot;J3 Pro;Conector de carga;Compatible;3,70;;;6
+CU-J3P-TAP-COM-NEG;Cubot;J3 Pro;Tapa trasera;Negro;4,80;;;6
+CU-J3P-TAP-COM-GRI;Cubot;J3 Pro;Tapa trasera;Gris;4,80;;;6
+CU-J3P-TAP-COM-AZU;Cubot;J3 Pro;Tapa trasera;Azul;4,80;;;6
+CU-J3P-CTR-COM;Cubot;J3 Pro;Cámara trasera;Compatible;6,65;;;6
+CU-J3P-CFR-COM;Cubot;J3 Pro;Cámara frontal;Compatible;4,65;;;6
+CU-J3P-LEN-COM;Cubot;J3 Pro;Lente de cámara;Compatible;2,25;;;6
+CU-J3P-ALT-COM;Cubot;J3 Pro;Altavoz;Compatible;3,59;;;6
+CU-J3P-AUR-COM;Cubot;J3 Pro;Auricular de llamada;Compatible;2,69;;;6
+CU-J3P-FLX-COM;Cubot;J3 Pro;Flex de encendido y volumen;Compatible;2,55;;;6
+CU-J3P-SIM-COM;Cubot;J3 Pro;Bandeja SIM;Compatible;2,65;;;6
+CU-K-PAN-COM;Cubot;KingKong;Pantalla;Compatible;15,15;14,70;14,24;6
+CU-K-BAT-COM;Cubot;KingKong;Batería;Compatible;9,65;;;6
+CU-K-CON-COM;Cubot;KingKong;Conector de carga;Compatible;4,60;;;6
+CU-K-TAP-COM-NEG;Cubot;KingKong;Tapa trasera;Negro;5,40;;;6
+CU-K-CTR-COM;Cubot;KingKong;Cámara trasera;Compatible;7,59;;;6
+CU-K-CFR-COM;Cubot;KingKong;Cámara frontal;Compatible;4,99;;;6
+CU-K-LEN-COM;Cubot;KingKong;Lente de cámara;Compatible;2,19;;;6
+CU-K-ALT-COM;Cubot;KingKong;Altavoz;Compatible;3,65;;;6
+CU-K-AUR-COM;Cubot;KingKong;Auricular de llamada;Compatible;2,65;;;6
+CU-K-FLX-COM;Cubot;KingKong;Flex de encendido y volumen;Compatible;2,49;;;6
+CU-K-SIM-COM;Cubot;KingKong;Bandeja SIM;Compatible;2,55;;;6
+CU-K3-PAN-COM;Cubot;KingKong 3;Pantalla;Compatible;15,15;14,70;14,24;6
+CU-K3-BAT-COM;Cubot;KingKong 3;Batería;Compatible;9,65;;;6
+CU-K3-CON-COM;Cubot;KingKong 3;Conector de carga;Compatible;4,60;;;6
+CU-K3-TAP-COM-NEG;Cubot;KingKong 3;Tapa trasera;Negro;5,40;;;6
+CU-K3-CTR-COM;Cubot;KingKong 3;Cámara trasera;Compatible;7,59;;;6
+CU-K3-CFR-COM;Cubot;KingKong 3;Cámara frontal;Compatible;4,99;;;6
+CU-K3-LEN-COM;Cubot;KingKong 3;Lente de cámara;Compatible;2,19;;;6
+CU-K3-ALT-COM;Cubot;KingKong 3;Altavoz;Compatible;3,65;;;6
+CU-K3-AUR-COM;Cubot;KingKong 3;Auricular de llamada;Compatible;2,65;;;6
+CU-K3-FLX-COM;Cubot;KingKong 3;Flex de encendido y volumen;Compatible;2,49;;;6
+CU-K3-SIM-COM;Cubot;KingKong 3;Bandeja SIM;Compatible;2,55;;;6
+CU-N-PAN-COM;Cubot;Nova;Pantalla;Compatible;13,00;12,61;12,22;6
+CU-N-BAT-COM;Cubot;Nova;Batería;Compatible;8,90;;;6
+CU-N-CON-COM;Cubot;Nova;Conector de carga;Compatible;3,70;;;6
+CU-N-TAP-COM-NEG;Cubot;Nova;Tapa trasera;Negro;4,80;;;6
+CU-N-TAP-COM-DOR;Cubot;Nova;Tapa trasera;Dorado;4,80;;;6
+CU-N-TAP-COM-AZU;Cubot;Nova;Tapa trasera;Azul (Starry Blue);4,80;;;6
+CU-N-CTR-COM;Cubot;Nova;Cámara trasera;Compatible;6,65;;;6
+CU-N-CFR-COM;Cubot;Nova;Cámara frontal;Compatible;4,65;;;6
+CU-N-LEN-COM;Cubot;Nova;Lente de cámara;Compatible;2,25;;;6
+CU-N-ALT-COM;Cubot;Nova;Altavoz;Compatible;3,59;;;6
+CU-N-AUR-COM;Cubot;Nova;Auricular de llamada;Compatible;2,69;;;6
+CU-N-FLX-COM;Cubot;Nova;Flex de encendido y volumen;Compatible;2,55;;;6
+CU-N-SIM-COM;Cubot;Nova;Bandeja SIM;Compatible;2,65;;;6
+CU-P20-PAN-COM;Cubot;P20;Pantalla;Compatible;13,00;12,61;12,22;6
+CU-P20-BAT-COM;Cubot;P20;Batería;Compatible;8,90;;;6
+CU-P20-CON-COM;Cubot;P20;Conector de carga;Compatible;3,70;;;6
+CU-P20-TAP-COM-NEG;Cubot;P20;Tapa trasera;Negro;4,80;;;6
+CU-P20-TAP-COM-AZU;Cubot;P20;Tapa trasera;Azul;4,80;;;6
+CU-P20-TAP-COM-GRA;Cubot;P20;Tapa trasera;Gradient;4,80;;;6
+CU-P20-CTR-COM;Cubot;P20;Cámara trasera;Compatible;6,65;;;6
+CU-P20-CFR-COM;Cubot;P20;Cámara frontal;Compatible;4,65;;;6
+CU-P20-LEN-COM;Cubot;P20;Lente de cámara;Compatible;2,25;;;6
+CU-P20-ALT-COM;Cubot;P20;Altavoz;Compatible;3,59;;;6
+CU-P20-AUR-COM;Cubot;P20;Auricular de llamada;Compatible;2,69;;;6
+CU-P20-FLX-COM;Cubot;P20;Flex de encendido y volumen;Compatible;2,55;;;6
+CU-P20-SIM-COM;Cubot;P20;Bandeja SIM;Compatible;2,65;;;6
+CU-PW-PAN-COM;Cubot;Power;Pantalla;Compatible;13,00;12,61;12,22;6
+CU-PW-BAT-COM;Cubot;Power;Batería;Compatible;8,90;;;6
+CU-PW-CON-COM;Cubot;Power;Conector de carga;Compatible;3,70;;;6
+CU-PW-TAP-COM-AZU;Cubot;Power;Tapa trasera;Azul;4,80;;;6
+CU-PW-TAP-COM-NEG;Cubot;Power;Tapa trasera;Negro;4,80;;;6
+CU-PW-CTR-COM;Cubot;Power;Cámara trasera;Compatible;6,65;;;6
+CU-PW-CFR-COM;Cubot;Power;Cámara frontal;Compatible;4,65;;;6
+CU-PW-LEN-COM;Cubot;Power;Lente de cámara;Compatible;2,25;;;6
+CU-PW-ALT-COM;Cubot;Power;Altavoz;Compatible;3,59;;;6
+CU-PW-AUR-COM;Cubot;Power;Auricular de llamada;Compatible;2,69;;;6
+CU-PW-FLX-COM;Cubot;Power;Flex de encendido y volumen;Compatible;2,55;;;6
+CU-PW-SIM-COM;Cubot;Power;Bandeja SIM;Compatible;2,65;;;6
+CU-J5-PAN-COM;Cubot;J5;Pantalla;Compatible;13,00;12,61;12,22;6
+CU-J5-BAT-COM;Cubot;J5;Batería;Compatible;8,90;;;6
+CU-J5-CON-COM;Cubot;J5;Conector de carga;Compatible;3,70;;;6
+CU-J5-TAP-COM-GRA;Cubot;J5;Tapa trasera;Gradient;4,80;;;6
+CU-J5-TAP-COM-AZU;Cubot;J5;Tapa trasera;Azul;4,80;;;6
+CU-J5-TAP-COM-NEG;Cubot;J5;Tapa trasera;Negro;4,80;;;6
+CU-J5-CTR-COM;Cubot;J5;Cámara trasera;Compatible;6,65;;;6
+CU-J5-CFR-COM;Cubot;J5;Cámara frontal;Compatible;4,65;;;6
+CU-J5-LEN-COM;Cubot;J5;Lente de cámara;Compatible;2,25;;;6
+CU-J5-ALT-COM;Cubot;J5;Altavoz;Compatible;3,59;;;6
+CU-J5-AUR-COM;Cubot;J5;Auricular de llamada;Compatible;2,69;;;6
+CU-J5-FLX-COM;Cubot;J5;Flex de encendido y volumen;Compatible;2,55;;;6
+CU-J5-SIM-COM;Cubot;J5;Bandeja SIM;Compatible;2,65;;;6
+CU-J7-PAN-COM;Cubot;J7;Pantalla;Compatible;13,00;12,61;12,22;6
+CU-J7-BAT-COM;Cubot;J7;Batería;Compatible;8,90;;;6
+CU-J7-CON-COM;Cubot;J7;Conector de carga;Compatible;3,70;;;6
+CU-J7-TAP-COM-GRA;Cubot;J7;Tapa trasera;Gradient;4,80;;;6
+CU-J7-TAP-COM-AZU;Cubot;J7;Tapa trasera;Azul;4,80;;;6
+CU-J7-TAP-COM-NEG;Cubot;J7;Tapa trasera;Negro;4,80;;;6
+CU-J7-CTR-COM;Cubot;J7;Cámara trasera;Compatible;6,65;;;6
+CU-J7-CFR-COM;Cubot;J7;Cámara frontal;Compatible;4,65;;;6
+CU-J7-LEN-COM;Cubot;J7;Lente de cámara;Compatible;2,25;;;6
+CU-J7-ALT-COM;Cubot;J7;Altavoz;Compatible;3,59;;;6
+CU-J7-AUR-COM;Cubot;J7;Auricular de llamada;Compatible;2,69;;;6
+CU-J7-FLX-COM;Cubot;J7;Flex de encendido y volumen;Compatible;2,55;;;6
+CU-J7-SIM-COM;Cubot;J7;Bandeja SIM;Compatible;2,65;;;6
+CU-KMN-PAN-COM;Cubot;KingKong Mini;Pantalla;Compatible;15,15;14,70;14,24;6
+CU-KMN-BAT-COM;Cubot;KingKong Mini;Batería;Compatible;9,65;;;6
+CU-KMN-CON-COM;Cubot;KingKong Mini;Conector de carga;Compatible;4,60;;;6
+CU-KMN-TAP-COM-RED;Cubot;KingKong Mini;Tapa trasera;Red/Black;5,40;;;6
+CU-KMN-TAP-COM-ORA;Cubot;KingKong Mini;Tapa trasera;Orange/Black;5,40;;;6
+CU-KMN-CTR-COM;Cubot;KingKong Mini;Cámara trasera;Compatible;7,59;;;6
+CU-KMN-CFR-COM;Cubot;KingKong Mini;Cámara frontal;Compatible;4,99;;;6
+CU-KMN-LEN-COM;Cubot;KingKong Mini;Lente de cámara;Compatible;2,19;;;6
+CU-KMN-ALT-COM;Cubot;KingKong Mini;Altavoz;Compatible;3,65;;;6
+CU-KMN-AUR-COM;Cubot;KingKong Mini;Auricular de llamada;Compatible;2,65;;;6
+CU-KMN-FLX-COM;Cubot;KingKong Mini;Flex de encendido y volumen;Compatible;2,49;;;6
+CU-KMN-SIM-COM;Cubot;KingKong Mini;Bandeja SIM;Compatible;2,55;;;6
+CU-M2-PAN-COM;Cubot;Max 2;Pantalla;Compatible;13,00;12,61;12,22;6
+CU-M2-BAT-COM;Cubot;Max 2;Batería;Compatible;8,90;;;6
+CU-M2-CON-COM;Cubot;Max 2;Conector de carga;Compatible;3,70;;;6
+CU-M2-TAP-COM-GRA;Cubot;Max 2;Tapa trasera;Gradient;4,80;;;6
+CU-M2-TAP-COM-NEG;Cubot;Max 2;Tapa trasera;Negro;4,80;;;6
+CU-M2-CTR-COM;Cubot;Max 2;Cámara trasera;Compatible;6,65;;;6
+CU-M2-CFR-COM;Cubot;Max 2;Cámara frontal;Compatible;4,65;;;6
+CU-M2-LEN-COM;Cubot;Max 2;Lente de cámara;Compatible;2,25;;;6
+CU-M2-ALT-COM;Cubot;Max 2;Altavoz;Compatible;3,59;;;6
+CU-M2-AUR-COM;Cubot;Max 2;Auricular de llamada;Compatible;2,69;;;6
+CU-M2-FLX-COM;Cubot;Max 2;Flex de encendido y volumen;Compatible;2,55;;;6
+CU-M2-SIM-COM;Cubot;Max 2;Bandeja SIM;Compatible;2,65;;;6
+CU-Q-PAN-COM;Cubot;Quest;Pantalla;Compatible;13,00;12,61;12,22;6
+CU-Q-BAT-COM;Cubot;Quest;Batería;Compatible;8,90;;;6
+CU-Q-CON-COM;Cubot;Quest;Conector de carga;Compatible;3,70;;;6
+CU-Q-TAP-COM-RED;Cubot;Quest;Tapa trasera;Red/Black;4,80;;;6
+CU-Q-TAP-COM-NEG;Cubot;Quest;Tapa trasera;Negro;4,80;;;6
+CU-Q-CTR-COM;Cubot;Quest;Cámara trasera;Compatible;6,65;;;6
+CU-Q-CFR-COM;Cubot;Quest;Cámara frontal;Compatible;4,65;;;6
+CU-Q-LEN-COM;Cubot;Quest;Lente de cámara;Compatible;2,25;;;6
+CU-Q-ALT-COM;Cubot;Quest;Altavoz;Compatible;3,59;;;6
+CU-Q-AUR-COM;Cubot;Quest;Auricular de llamada;Compatible;2,69;;;6
+CU-Q-FLX-COM;Cubot;Quest;Flex de encendido y volumen;Compatible;2,55;;;6
+CU-Q-SIM-COM;Cubot;Quest;Bandeja SIM;Compatible;2,65;;;6
+CU-QL-PAN-COM;Cubot;Quest Lite;Pantalla;Compatible;13,00;12,61;12,22;6
+CU-QL-BAT-COM;Cubot;Quest Lite;Batería;Compatible;8,90;;;6
+CU-QL-CON-COM;Cubot;Quest Lite;Conector de carga;Compatible;3,70;;;6
+CU-QL-TAP-COM-RED;Cubot;Quest Lite;Tapa trasera;Red/Black;4,80;;;6
+CU-QL-TAP-COM-NEG;Cubot;Quest Lite;Tapa trasera;Negro;4,80;;;6
+CU-QL-CTR-COM;Cubot;Quest Lite;Cámara trasera;Compatible;6,65;;;6
+CU-QL-CFR-COM;Cubot;Quest Lite;Cámara frontal;Compatible;4,65;;;6
+CU-QL-LEN-COM;Cubot;Quest Lite;Lente de cámara;Compatible;2,25;;;6
+CU-QL-ALT-COM;Cubot;Quest Lite;Altavoz;Compatible;3,59;;;6
+CU-QL-AUR-COM;Cubot;Quest Lite;Auricular de llamada;Compatible;2,69;;;6
+CU-QL-FLX-COM;Cubot;Quest Lite;Flex de encendido y volumen;Compatible;2,55;;;6
+CU-QL-SIM-COM;Cubot;Quest Lite;Bandeja SIM;Compatible;2,65;;;6
+CU-R15-PAN-COM;Cubot;R15;Pantalla;Compatible;13,00;12,61;12,22;6
+CU-R15-BAT-COM;Cubot;R15;Batería;Compatible;8,90;;;6
+CU-R15-CON-COM;Cubot;R15;Conector de carga;Compatible;3,70;;;6
+CU-R15-TAP-COM-GRA;Cubot;R15;Tapa trasera;Gradient;4,80;;;6
+CU-R15-TAP-COM-VER;Cubot;R15;Tapa trasera;Verde;4,80;;;6
+CU-R15-TAP-COM-NEG;Cubot;R15;Tapa trasera;Negro;4,80;;;6
+CU-R15-TAP-COM-AUR;Cubot;R15;Tapa trasera;Aurora;4,80;;;6
+CU-R15-CTR-COM;Cubot;R15;Cámara trasera;Compatible;6,65;;;6
+CU-R15-CFR-COM;Cubot;R15;Cámara frontal;Compatible;4,65;;;6
+CU-R15-LEN-COM;Cubot;R15;Lente de cámara;Compatible;2,25;;;6
+CU-R15-ALT-COM;Cubot;R15;Altavoz;Compatible;3,59;;;6
+CU-R15-AUR-COM;Cubot;R15;Auricular de llamada;Compatible;2,69;;;6
+CU-R15-FLX-COM;Cubot;R15;Flex de encendido y volumen;Compatible;2,55;;;6
+CU-R15-SIM-COM;Cubot;R15;Bandeja SIM;Compatible;2,65;;;6
+CU-R15P-PAN-COM;Cubot;R15 Pro;Pantalla;Compatible;13,00;12,61;12,22;6
+CU-R15P-BAT-COM;Cubot;R15 Pro;Batería;Compatible;8,90;;;6
+CU-R15P-CON-COM;Cubot;R15 Pro;Conector de carga;Compatible;3,70;;;6
+CU-R15P-TAP-COM-AUR;Cubot;R15 Pro;Tapa trasera;Aurora;4,80;;;6
+CU-R15P-TAP-COM-VER;Cubot;R15 Pro;Tapa trasera;Verde;4,80;;;6
+CU-R15P-TAP-COM-NEG;Cubot;R15 Pro;Tapa trasera;Negro;4,80;;;6
+CU-R15P-CTR-COM;Cubot;R15 Pro;Cámara trasera;Compatible;6,65;;;6
+CU-R15P-CFR-COM;Cubot;R15 Pro;Cámara frontal;Compatible;4,65;;;6
+CU-R15P-LEN-COM;Cubot;R15 Pro;Lente de cámara;Compatible;2,25;;;6
+CU-R15P-ALT-COM;Cubot;R15 Pro;Altavoz;Compatible;3,59;;;6
+CU-R15P-AUR-COM;Cubot;R15 Pro;Auricular de llamada;Compatible;2,69;;;6
+CU-R15P-FLX-COM;Cubot;R15 Pro;Flex de encendido y volumen;Compatible;2,55;;;6
+CU-R15P-SIM-COM;Cubot;R15 Pro;Bandeja SIM;Compatible;2,65;;;6
+CU-R19-PAN-COM;Cubot;R19;Pantalla;Compatible;13,00;12,61;12,22;6
+CU-R19-BAT-COM;Cubot;R19;Batería;Compatible;8,90;;;6
+CU-R19-CON-COM;Cubot;R19;Conector de carga;Compatible;3,70;;;6
+CU-R19-TAP-COM-GRA;Cubot;R19;Tapa trasera;Gradient;4,80;;;6
+CU-R19-TAP-COM-VER;Cubot;R19;Tapa trasera;Verde;4,80;;;6
+CU-R19-TAP-COM-NEG;Cubot;R19;Tapa trasera;Negro;4,80;;;6
+CU-R19-CTR-COM;Cubot;R19;Cámara trasera;Compatible;6,65;;;6
+CU-R19-CFR-COM;Cubot;R19;Cámara frontal;Compatible;4,65;;;6
+CU-R19-LEN-COM;Cubot;R19;Lente de cámara;Compatible;2,25;;;6
+CU-R19-ALT-COM;Cubot;R19;Altavoz;Compatible;3,59;;;6
+CU-R19-AUR-COM;Cubot;R19;Auricular de llamada;Compatible;2,69;;;6
+CU-R19-FLX-COM;Cubot;R19;Flex de encendido y volumen;Compatible;2,55;;;6
+CU-R19-SIM-COM;Cubot;R19;Bandeja SIM;Compatible;2,65;;;6
+CU-X19-PAN-COM;Cubot;X19;Pantalla;Compatible;13,00;12,61;12,22;6
+CU-X19-BAT-COM;Cubot;X19;Batería;Compatible;8,90;;;6
+CU-X19-CON-COM;Cubot;X19;Conector de carga;Compatible;3,70;;;6
+CU-X19-TAP-COM-GRA;Cubot;X19;Tapa trasera;Gradient;4,80;;;6
+CU-X19-TAP-COM-NEG;Cubot;X19;Tapa trasera;Negro;4,80;;;6
+CU-X19-CTR-COM;Cubot;X19;Cámara trasera;Compatible;6,65;;;6
+CU-X19-CFR-COM;Cubot;X19;Cámara frontal;Compatible;4,65;;;6
+CU-X19-LEN-COM;Cubot;X19;Lente de cámara;Compatible;2,25;;;6
+CU-X19-ALT-COM;Cubot;X19;Altavoz;Compatible;3,59;;;6
+CU-X19-AUR-COM;Cubot;X19;Auricular de llamada;Compatible;2,69;;;6
+CU-X19-FLX-COM;Cubot;X19;Flex de encendido y volumen;Compatible;2,55;;;6
+CU-X19-SIM-COM;Cubot;X19;Bandeja SIM;Compatible;2,65;;;6
+CU-X20P-PAN-COM;Cubot;X20 Pro;Pantalla;Compatible;13,00;12,61;12,22;6
+CU-X20P-BAT-COM;Cubot;X20 Pro;Batería;Compatible;8,90;;;6
+CU-X20P-CON-COM;Cubot;X20 Pro;Conector de carga;Compatible;3,70;;;6
+CU-X20P-TAP-COM-AZU;Cubot;X20 Pro;Tapa trasera;Azul;4,80;;;6
+CU-X20P-TAP-COM-DOR;Cubot;X20 Pro;Tapa trasera;Dorado;4,80;;;6
+CU-X20P-TAP-COM-NEG;Cubot;X20 Pro;Tapa trasera;Negro;4,80;;;6
+CU-X20P-CTR-COM;Cubot;X20 Pro;Cámara trasera;Compatible;6,65;;;6
+CU-X20P-CFR-COM;Cubot;X20 Pro;Cámara frontal;Compatible;4,65;;;6
+CU-X20P-LEN-COM;Cubot;X20 Pro;Lente de cámara;Compatible;2,25;;;6
+CU-X20P-ALT-COM;Cubot;X20 Pro;Altavoz;Compatible;3,59;;;6
+CU-X20P-AUR-COM;Cubot;X20 Pro;Auricular de llamada;Compatible;2,69;;;6
+CU-X20P-FLX-COM;Cubot;X20 Pro;Flex de encendido y volumen;Compatible;2,55;;;6
+CU-X20P-SIM-COM;Cubot;X20 Pro;Bandeja SIM;Compatible;2,65;;;6
+CU-C20-PAN-COM;Cubot;C20;Pantalla;Compatible;13,80;13,39;12,97;6
+CU-C20-BAT-COM;Cubot;C20;Batería;Compatible;7,60;;;6
+CU-C20-CON-COM;Cubot;C20;Conector de carga;Compatible;3,55;;;6
+CU-C20-TAP-COM-NEG;Cubot;C20;Tapa trasera;Negro;4,95;;;6
+CU-C20-TAP-COM-AZU;Cubot;C20;Tapa trasera;Azul;4,95;;;6
+CU-C20-CTR-COM;Cubot;C20;Cámara trasera;Compatible;5,45;;;6
+CU-C20-CFR-COM;Cubot;C20;Cámara frontal;Compatible;3,45;;;6
+CU-C20-LEN-COM;Cubot;C20;Lente de cámara;Compatible;2,25;;;6
+CU-C20-ALT-COM;Cubot;C20;Altavoz;Compatible;3,29;;;6
+CU-C20-AUR-COM;Cubot;C20;Auricular de llamada;Compatible;2,45;;;6
+CU-C20-FLX-COM;Cubot;C20;Flex de encendido y volumen;Compatible;2,35;;;6
+CU-C20-SIM-COM;Cubot;C20;Bandeja SIM;Compatible;2,75;;;6
+CU-C30-PAN-COM;Cubot;C30;Pantalla;Compatible;13,80;13,39;12,97;6
+CU-C30-BAT-COM;Cubot;C30;Batería;Compatible;7,60;;;6
+CU-C30-CON-COM;Cubot;C30;Conector de carga;Compatible;3,55;;;6
+CU-C30-TAP-COM-NEG;Cubot;C30;Tapa trasera;Negro;4,95;;;6
+CU-C30-TAP-COM-VER;Cubot;C30;Tapa trasera;Verde;4,95;;;6
+CU-C30-CTR-COM;Cubot;C30;Cámara trasera;Compatible;5,45;;;6
+CU-C30-CFR-COM;Cubot;C30;Cámara frontal;Compatible;3,45;;;6
+CU-C30-LEN-COM;Cubot;C30;Lente de cámara;Compatible;2,25;;;6
+CU-C30-ALT-COM;Cubot;C30;Altavoz;Compatible;3,29;;;6
+CU-C30-AUR-COM;Cubot;C30;Auricular de llamada;Compatible;2,45;;;6
+CU-C30-FLX-COM;Cubot;C30;Flex de encendido y volumen;Compatible;2,35;;;6
+CU-C30-SIM-COM;Cubot;C30;Bandeja SIM;Compatible;2,75;;;6
+CU-J8-PAN-COM;Cubot;J8;Pantalla;Compatible;13,80;13,39;12,97;6
+CU-J8-BAT-COM;Cubot;J8;Batería;Compatible;7,60;;;6
+CU-J8-CON-COM;Cubot;J8;Conector de carga;Compatible;3,55;;;6
+CU-J8-TAP-COM-NEG;Cubot;J8;Tapa trasera;Negro;4,95;;;6
+CU-J8-TAP-COM-ROJ;Cubot;J8;Tapa trasera;Rojo;4,95;;;6
+CU-J8-TAP-COM-AZU;Cubot;J8;Tapa trasera;Azul;4,95;;;6
+CU-J8-TAP-COM-VER;Cubot;J8;Tapa trasera;Verde;4,95;;;6
+CU-J8-CTR-COM;Cubot;J8;Cámara trasera;Compatible;5,45;;;6
+CU-J8-CFR-COM;Cubot;J8;Cámara frontal;Compatible;3,45;;;6
+CU-J8-LEN-COM;Cubot;J8;Lente de cámara;Compatible;2,25;;;6
+CU-J8-ALT-COM;Cubot;J8;Altavoz;Compatible;3,29;;;6
+CU-J8-AUR-COM;Cubot;J8;Auricular de llamada;Compatible;2,45;;;6
+CU-J8-FLX-COM;Cubot;J8;Flex de encendido y volumen;Compatible;2,35;;;6
+CU-J8-SIM-COM;Cubot;J8;Bandeja SIM;Compatible;2,75;;;6
+CU-J9-PAN-COM;Cubot;J9;Pantalla;Compatible;13,80;13,39;12,97;6
+CU-J9-BAT-COM;Cubot;J9;Batería;Compatible;7,60;;;6
+CU-J9-CON-COM;Cubot;J9;Conector de carga;Compatible;3,55;;;6
+CU-J9-TAP-COM-NEG;Cubot;J9;Tapa trasera;Negro;4,95;;;6
+CU-J9-TAP-COM-AZU;Cubot;J9;Tapa trasera;Azul;4,95;;;6
+CU-J9-TAP-COM-VER;Cubot;J9;Tapa trasera;Verde;4,95;;;6
+CU-J9-CTR-COM;Cubot;J9;Cámara trasera;Compatible;5,45;;;6
+CU-J9-CFR-COM;Cubot;J9;Cámara frontal;Compatible;3,45;;;6
+CU-J9-LEN-COM;Cubot;J9;Lente de cámara;Compatible;2,25;;;6
+CU-J9-ALT-COM;Cubot;J9;Altavoz;Compatible;3,29;;;6
+CU-J9-AUR-COM;Cubot;J9;Auricular de llamada;Compatible;2,45;;;6
+CU-J9-FLX-COM;Cubot;J9;Flex de encendido y volumen;Compatible;2,35;;;6
+CU-J9-SIM-COM;Cubot;J9;Bandeja SIM;Compatible;2,75;;;6
+CU-KCS-PAN-COM;Cubot;KingKong CS;Pantalla;Compatible;16,10;15,62;15,13;6
+CU-KCS-BAT-COM;Cubot;KingKong CS;Batería;Compatible;8,25;;;6
+CU-KCS-CON-COM;Cubot;KingKong CS;Conector de carga;Compatible;4,40;;;6
+CU-KCS-TAP-COM-NEG;Cubot;KingKong CS;Tapa trasera;Negro;5,55;;;6
+CU-KCS-CTR-COM;Cubot;KingKong CS;Cámara trasera;Compatible;6,19;;;6
+CU-KCS-CFR-COM;Cubot;KingKong CS;Cámara frontal;Compatible;3,65;;;6
+CU-KCS-LEN-COM;Cubot;KingKong CS;Lente de cámara;Compatible;2,20;;;6
+CU-KCS-ALT-COM;Cubot;KingKong CS;Altavoz;Compatible;3,35;;;6
+CU-KCS-AUR-COM;Cubot;KingKong CS;Auricular de llamada;Compatible;2,40;;;6
+CU-KCS-FLX-COM;Cubot;KingKong CS;Flex de encendido y volumen;Compatible;2,29;;;6
+CU-KCS-SIM-COM;Cubot;KingKong CS;Bandeja SIM;Compatible;2,60;;;6
+CU-KMN2-PAN-COM;Cubot;KingKong Mini 2;Pantalla;Compatible;16,10;15,62;15,13;6
+CU-KMN2-BAT-COM;Cubot;KingKong Mini 2;Batería;Compatible;8,25;;;6
+CU-KMN2-CON-COM;Cubot;KingKong Mini 2;Conector de carga;Compatible;4,40;;;6
+CU-KMN2-TAP-COM-RED;Cubot;KingKong Mini 2;Tapa trasera;Red/Black;5,55;;;6
+CU-KMN2-TAP-COM-ORA;Cubot;KingKong Mini 2;Tapa trasera;Orange/Black;5,55;;;6
+CU-KMN2-CTR-COM;Cubot;KingKong Mini 2;Cámara trasera;Compatible;6,19;;;6
+CU-KMN2-CFR-COM;Cubot;KingKong Mini 2;Cámara frontal;Compatible;3,65;;;6
+CU-KMN2-LEN-COM;Cubot;KingKong Mini 2;Lente de cámara;Compatible;2,20;;;6
+CU-KMN2-ALT-COM;Cubot;KingKong Mini 2;Altavoz;Compatible;3,35;;;6
+CU-KMN2-AUR-COM;Cubot;KingKong Mini 2;Auricular de llamada;Compatible;2,40;;;6
+CU-KMN2-FLX-COM;Cubot;KingKong Mini 2;Flex de encendido y volumen;Compatible;2,29;;;6
+CU-KMN2-SIM-COM;Cubot;KingKong Mini 2;Bandeja SIM;Compatible;2,60;;;6
+CU-N20-PAN-COM;Cubot;Note 20;Pantalla;Compatible;13,80;13,39;12,97;6
+CU-N20-BAT-COM;Cubot;Note 20;Batería;Compatible;7,60;;;6
+CU-N20-CON-COM;Cubot;Note 20;Conector de carga;Compatible;3,55;;;6
+CU-N20-TAP-COM-AZU;Cubot;Note 20;Tapa trasera;Azul;4,95;;;6
+CU-N20-TAP-COM-VER;Cubot;Note 20;Tapa trasera;Verde;4,95;;;6
+CU-N20-TAP-COM-NEG;Cubot;Note 20;Tapa trasera;Negro;4,95;;;6
+CU-N20-CTR-COM;Cubot;Note 20;Cámara trasera;Compatible;5,45;;;6
+CU-N20-CFR-COM;Cubot;Note 20;Cámara frontal;Compatible;3,45;;;6
+CU-N20-LEN-COM;Cubot;Note 20;Lente de cámara;Compatible;2,25;;;6
+CU-N20-ALT-COM;Cubot;Note 20;Altavoz;Compatible;3,29;;;6
+CU-N20-AUR-COM;Cubot;Note 20;Auricular de llamada;Compatible;2,45;;;6
+CU-N20-FLX-COM;Cubot;Note 20;Flex de encendido y volumen;Compatible;2,35;;;6
+CU-N20-SIM-COM;Cubot;Note 20;Bandeja SIM;Compatible;2,75;;;6
+CU-N20P-PAN-COM;Cubot;Note 20 Pro;Pantalla;Compatible;13,80;13,39;12,97;6
+CU-N20P-BAT-COM;Cubot;Note 20 Pro;Batería;Compatible;7,60;;;6
+CU-N20P-CON-COM;Cubot;Note 20 Pro;Conector de carga;Compatible;3,55;;;6
+CU-N20P-TAP-COM-AZU;Cubot;Note 20 Pro;Tapa trasera;Azul;4,95;;;6
+CU-N20P-TAP-COM-VER;Cubot;Note 20 Pro;Tapa trasera;Verde;4,95;;;6
+CU-N20P-TAP-COM-NEG;Cubot;Note 20 Pro;Tapa trasera;Negro;4,95;;;6
+CU-N20P-CTR-COM;Cubot;Note 20 Pro;Cámara trasera;Compatible;5,45;;;6
+CU-N20P-CFR-COM;Cubot;Note 20 Pro;Cámara frontal;Compatible;3,45;;;6
+CU-N20P-LEN-COM;Cubot;Note 20 Pro;Lente de cámara;Compatible;2,25;;;6
+CU-N20P-ALT-COM;Cubot;Note 20 Pro;Altavoz;Compatible;3,29;;;6
+CU-N20P-AUR-COM;Cubot;Note 20 Pro;Auricular de llamada;Compatible;2,45;;;6
+CU-N20P-FLX-COM;Cubot;Note 20 Pro;Flex de encendido y volumen;Compatible;2,35;;;6
+CU-N20P-SIM-COM;Cubot;Note 20 Pro;Bandeja SIM;Compatible;2,75;;;6
+CU-N7-PAN-COM;Cubot;Note 7;Pantalla;Compatible;13,80;13,39;12,97;6
+CU-N7-BAT-COM;Cubot;Note 7;Batería;Compatible;7,60;;;6
+CU-N7-CON-COM;Cubot;Note 7;Conector de carga;Compatible;3,55;;;6
+CU-N7-TAP-COM-NEG;Cubot;Note 7;Tapa trasera;Negro;4,95;;;6
+CU-N7-TAP-COM-ROJ;Cubot;Note 7;Tapa trasera;Rojo;4,95;;;6
+CU-N7-TAP-COM-AZU;Cubot;Note 7;Tapa trasera;Azul;4,95;;;6
+CU-N7-TAP-COM-VER;Cubot;Note 7;Tapa trasera;Verde;4,95;;;6
+CU-N7-CTR-COM;Cubot;Note 7;Cámara trasera;Compatible;5,45;;;6
+CU-N7-CFR-COM;Cubot;Note 7;Cámara frontal;Compatible;3,45;;;6
+CU-N7-LEN-COM;Cubot;Note 7;Lente de cámara;Compatible;2,25;;;6
+CU-N7-ALT-COM;Cubot;Note 7;Altavoz;Compatible;3,29;;;6
+CU-N7-AUR-COM;Cubot;Note 7;Auricular de llamada;Compatible;2,45;;;6
+CU-N7-FLX-COM;Cubot;Note 7;Flex de encendido y volumen;Compatible;2,35;;;6
+CU-N7-SIM-COM;Cubot;Note 7;Bandeja SIM;Compatible;2,75;;;6
+CU-P40-PAN-COM;Cubot;P40;Pantalla;Compatible;13,80;13,39;12,97;6
+CU-P40-BAT-COM;Cubot;P40;Batería;Compatible;7,60;;;6
+CU-P40-CON-COM;Cubot;P40;Conector de carga;Compatible;3,55;;;6
+CU-P40-TAP-COM-AZU;Cubot;P40;Tapa trasera;Azul;4,95;;;6
+CU-P40-TAP-COM-VER;Cubot;P40;Tapa trasera;Verde;4,95;;;6
+CU-P40-TAP-COM-NEG;Cubot;P40;Tapa trasera;Negro;4,95;;;6
+CU-P40-CTR-COM;Cubot;P40;Cámara trasera;Compatible;5,45;;;6
+CU-P40-CFR-COM;Cubot;P40;Cámara frontal;Compatible;3,45;;;6
+CU-P40-LEN-COM;Cubot;P40;Lente de cámara;Compatible;2,25;;;6
+CU-P40-ALT-COM;Cubot;P40;Altavoz;Compatible;3,29;;;6
+CU-P40-AUR-COM;Cubot;P40;Auricular de llamada;Compatible;2,45;;;6
+CU-P40-FLX-COM;Cubot;P40;Flex de encendido y volumen;Compatible;2,35;;;6
+CU-P40-SIM-COM;Cubot;P40;Bandeja SIM;Compatible;2,75;;;6
+CU-X30-PAN-COM;Cubot;X30;Pantalla;Compatible;13,80;13,39;12,97;6
+CU-X30-BAT-COM;Cubot;X30;Batería;Compatible;7,60;;;6
+CU-X30-CON-COM;Cubot;X30;Conector de carga;Compatible;3,55;;;6
+CU-X30-TAP-COM-AZU;Cubot;X30;Tapa trasera;Azul;4,95;;;6
+CU-X30-TAP-COM-NEG;Cubot;X30;Tapa trasera;Negro;4,95;;;6
+CU-X30-TAP-COM-VER;Cubot;X30;Tapa trasera;Verde (Gradient Green);4,95;;;6
+CU-X30-CTR-COM;Cubot;X30;Cámara trasera;Compatible;5,45;;;6
+CU-X30-CFR-COM;Cubot;X30;Cámara frontal;Compatible;3,45;;;6
+CU-X30-LEN-COM;Cubot;X30;Lente de cámara;Compatible;2,25;;;6
+CU-X30-ALT-COM;Cubot;X30;Altavoz;Compatible;3,29;;;6
+CU-X30-AUR-COM;Cubot;X30;Auricular de llamada;Compatible;2,45;;;6
+CU-X30-FLX-COM;Cubot;X30;Flex de encendido y volumen;Compatible;2,35;;;6
+CU-X30-SIM-COM;Cubot;X30;Bandeja SIM;Compatible;2,75;;;6
+CU-J10-PAN-COM;Cubot;J10;Pantalla;Compatible;13,80;13,39;12,97;6
+CU-J10-BAT-COM;Cubot;J10;Batería;Compatible;7,60;;;6
+CU-J10-CON-COM;Cubot;J10;Conector de carga;Compatible;3,55;;;6
+CU-J10-TAP-COM-NEG;Cubot;J10;Tapa trasera;Negro;4,95;;;6
+CU-J10-TAP-COM-AZU;Cubot;J10;Tapa trasera;Azul;4,95;;;6
+CU-J10-TAP-COM-VER;Cubot;J10;Tapa trasera;Verde;4,95;;;6
+CU-J10-CTR-COM;Cubot;J10;Cámara trasera;Compatible;5,45;;;6
+CU-J10-CFR-COM;Cubot;J10;Cámara frontal;Compatible;3,45;;;6
+CU-J10-LEN-COM;Cubot;J10;Lente de cámara;Compatible;2,25;;;6
+CU-J10-ALT-COM;Cubot;J10;Altavoz;Compatible;3,29;;;6
+CU-J10-AUR-COM;Cubot;J10;Auricular de llamada;Compatible;2,45;;;6
+CU-J10-FLX-COM;Cubot;J10;Flex de encendido y volumen;Compatible;2,35;;;6
+CU-J10-SIM-COM;Cubot;J10;Bandeja SIM;Compatible;2,75;;;6
+CU-K5-PAN-COM;Cubot;KingKong 5;Pantalla;Compatible;16,10;15,62;15,13;6
+CU-K5-BAT-COM;Cubot;KingKong 5;Batería;Compatible;8,25;;;6
+CU-K5-CON-COM;Cubot;KingKong 5;Conector de carga;Compatible;4,40;;;6
+CU-K5-TAP-COM;Cubot;KingKong 5;Tapa trasera;Compatible;5,55;;;6
+CU-K5-CTR-COM;Cubot;KingKong 5;Cámara trasera;Compatible;6,19;;;6
+CU-K5-CFR-COM;Cubot;KingKong 5;Cámara frontal;Compatible;3,65;;;6
+CU-K5-LEN-COM;Cubot;KingKong 5;Lente de cámara;Compatible;2,20;;;6
+CU-K5-ALT-COM;Cubot;KingKong 5;Altavoz;Compatible;3,35;;;6
+CU-K5-AUR-COM;Cubot;KingKong 5;Auricular de llamada;Compatible;2,40;;;6
+CU-K5-FLX-COM;Cubot;KingKong 5;Flex de encendido y volumen;Compatible;2,29;;;6
+CU-K5-SIM-COM;Cubot;KingKong 5;Bandeja SIM;Compatible;2,60;;;6
+CU-K5P-PAN-COM;Cubot;KingKong 5 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+CU-K5P-BAT-COM;Cubot;KingKong 5 Pro;Batería;Compatible;8,25;;;6
+CU-K5P-CON-COM;Cubot;KingKong 5 Pro;Conector de carga;Compatible;4,40;;;6
+CU-K5P-TAP-COM;Cubot;KingKong 5 Pro;Tapa trasera;Compatible;5,55;;;6
+CU-K5P-CTR-COM;Cubot;KingKong 5 Pro;Cámara trasera;Compatible;6,19;;;6
+CU-K5P-CFR-COM;Cubot;KingKong 5 Pro;Cámara frontal;Compatible;3,65;;;6
+CU-K5P-LEN-COM;Cubot;KingKong 5 Pro;Lente de cámara;Compatible;2,20;;;6
+CU-K5P-ALT-COM;Cubot;KingKong 5 Pro;Altavoz;Compatible;3,35;;;6
+CU-K5P-AUR-COM;Cubot;KingKong 5 Pro;Auricular de llamada;Compatible;2,40;;;6
+CU-K5P-FLX-COM;Cubot;KingKong 5 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+CU-K5P-SIM-COM;Cubot;KingKong 5 Pro;Bandeja SIM;Compatible;2,60;;;6
+CU-K7-PAN-COM;Cubot;KingKong 7;Pantalla;Compatible;16,10;15,62;15,13;6
+CU-K7-BAT-COM;Cubot;KingKong 7;Batería;Compatible;8,25;;;6
+CU-K7-CON-COM;Cubot;KingKong 7;Conector de carga;Compatible;4,40;;;6
+CU-K7-TAP-COM-NEG;Cubot;KingKong 7;Tapa trasera;Negro;5,55;;;6
+CU-K7-CTR-COM;Cubot;KingKong 7;Cámara trasera;Compatible;6,19;;;6
+CU-K7-CFR-COM;Cubot;KingKong 7;Cámara frontal;Compatible;3,65;;;6
+CU-K7-LEN-COM;Cubot;KingKong 7;Lente de cámara;Compatible;2,20;;;6
+CU-K7-ALT-COM;Cubot;KingKong 7;Altavoz;Compatible;3,35;;;6
+CU-K7-AUR-COM;Cubot;KingKong 7;Auricular de llamada;Compatible;2,40;;;6
+CU-K7-FLX-COM;Cubot;KingKong 7;Flex de encendido y volumen;Compatible;2,29;;;6
+CU-K7-SIM-COM;Cubot;KingKong 7;Bandeja SIM;Compatible;2,60;;;6
+CU-M3-PAN-COM;Cubot;Max 3;Pantalla;Compatible;13,80;13,39;12,97;6
+CU-M3-BAT-COM;Cubot;Max 3;Batería;Compatible;7,60;;;6
+CU-M3-CON-COM;Cubot;Max 3;Conector de carga;Compatible;3,55;;;6
+CU-M3-TAP-COM-NEG;Cubot;Max 3;Tapa trasera;Negro;4,95;;;6
+CU-M3-TAP-COM-VER;Cubot;Max 3;Tapa trasera;Verde;4,95;;;6
+CU-M3-CTR-COM;Cubot;Max 3;Cámara trasera;Compatible;5,45;;;6
+CU-M3-CFR-COM;Cubot;Max 3;Cámara frontal;Compatible;3,45;;;6
+CU-M3-LEN-COM;Cubot;Max 3;Lente de cámara;Compatible;2,25;;;6
+CU-M3-ALT-COM;Cubot;Max 3;Altavoz;Compatible;3,29;;;6
+CU-M3-AUR-COM;Cubot;Max 3;Auricular de llamada;Compatible;2,45;;;6
+CU-M3-FLX-COM;Cubot;Max 3;Flex de encendido y volumen;Compatible;2,35;;;6
+CU-M3-SIM-COM;Cubot;Max 3;Bandeja SIM;Compatible;2,75;;;6
+CU-N9-PAN-COM;Cubot;Note 9;Pantalla;Compatible;13,80;13,39;12,97;6
+CU-N9-BAT-COM;Cubot;Note 9;Batería;Compatible;7,60;;;6
+CU-N9-CON-COM;Cubot;Note 9;Conector de carga;Compatible;3,55;;;6
+CU-N9-TAP-COM-NEG;Cubot;Note 9;Tapa trasera;Negro;4,95;;;6
+CU-N9-TAP-COM-VER;Cubot;Note 9;Tapa trasera;Verde;4,95;;;6
+CU-N9-CTR-COM;Cubot;Note 9;Cámara trasera;Compatible;5,45;;;6
+CU-N9-CFR-COM;Cubot;Note 9;Cámara frontal;Compatible;3,45;;;6
+CU-N9-LEN-COM;Cubot;Note 9;Lente de cámara;Compatible;2,25;;;6
+CU-N9-ALT-COM;Cubot;Note 9;Altavoz;Compatible;3,29;;;6
+CU-N9-AUR-COM;Cubot;Note 9;Auricular de llamada;Compatible;2,45;;;6
+CU-N9-FLX-COM;Cubot;Note 9;Flex de encendido y volumen;Compatible;2,35;;;6
+CU-N9-SIM-COM;Cubot;Note 9;Bandeja SIM;Compatible;2,75;;;6
+CU-X50-PAN-COM;Cubot;X50;Pantalla;Compatible;13,80;13,39;12,97;6
+CU-X50-BAT-COM;Cubot;X50;Batería;Compatible;7,60;;;6
+CU-X50-CON-COM;Cubot;X50;Conector de carga;Compatible;3,55;;;6
+CU-X50-TAP-COM-NEG;Cubot;X50;Tapa trasera;Negro;4,95;;;6
+CU-X50-TAP-COM-VER;Cubot;X50;Tapa trasera;Verde;4,95;;;6
+CU-X50-CTR-COM;Cubot;X50;Cámara trasera;Compatible;5,45;;;6
+CU-X50-CFR-COM;Cubot;X50;Cámara frontal;Compatible;3,45;;;6
+CU-X50-LEN-COM;Cubot;X50;Lente de cámara;Compatible;2,25;;;6
+CU-X50-ALT-COM;Cubot;X50;Altavoz;Compatible;3,29;;;6
+CU-X50-AUR-COM;Cubot;X50;Auricular de llamada;Compatible;2,45;;;6
+CU-X50-FLX-COM;Cubot;X50;Flex de encendido y volumen;Compatible;2,35;;;6
+CU-X50-SIM-COM;Cubot;X50;Bandeja SIM;Compatible;2,75;;;6
+CU-K6-PAN-COM;Cubot;KingKong 6;Pantalla;Compatible;16,10;15,62;15,13;6
+CU-K6-BAT-COM;Cubot;KingKong 6;Batería;Compatible;8,25;;;6
+CU-K6-CON-COM;Cubot;KingKong 6;Conector de carga;Compatible;4,40;;;6
+CU-K6-TAP-COM-BLA;Cubot;KingKong 6;Tapa trasera;Black+Orange;5,55;;;6
+CU-K6-CTR-COM;Cubot;KingKong 6;Cámara trasera;Compatible;6,19;;;6
+CU-K6-CFR-COM;Cubot;KingKong 6;Cámara frontal;Compatible;3,65;;;6
+CU-K6-LEN-COM;Cubot;KingKong 6;Lente de cámara;Compatible;2,20;;;6
+CU-K6-ALT-COM;Cubot;KingKong 6;Altavoz;Compatible;3,35;;;6
+CU-K6-AUR-COM;Cubot;KingKong 6;Auricular de llamada;Compatible;2,40;;;6
+CU-K6-FLX-COM;Cubot;KingKong 6;Flex de encendido y volumen;Compatible;2,29;;;6
+CU-K6-SIM-COM;Cubot;KingKong 6;Bandeja SIM;Compatible;2,60;;;6
+CU-KMN2P-PAN-COM;Cubot;KingKong Mini 2 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+CU-KMN2P-BAT-COM;Cubot;KingKong Mini 2 Pro;Batería;Compatible;8,25;;;6
+CU-KMN2P-CON-COM;Cubot;KingKong Mini 2 Pro;Conector de carga;Compatible;4,40;;;6
+CU-KMN2P-TAP-COM-RED;Cubot;KingKong Mini 2 Pro;Tapa trasera;Red/Black;5,55;;;6
+CU-KMN2P-TAP-COM-ORA;Cubot;KingKong Mini 2 Pro;Tapa trasera;Orange/Black;5,55;;;6
+CU-KMN2P-CTR-COM;Cubot;KingKong Mini 2 Pro;Cámara trasera;Compatible;6,19;;;6
+CU-KMN2P-CFR-COM;Cubot;KingKong Mini 2 Pro;Cámara frontal;Compatible;3,65;;;6
+CU-KMN2P-LEN-COM;Cubot;KingKong Mini 2 Pro;Lente de cámara;Compatible;2,20;;;6
+CU-KMN2P-ALT-COM;Cubot;KingKong Mini 2 Pro;Altavoz;Compatible;3,35;;;6
+CU-KMN2P-AUR-COM;Cubot;KingKong Mini 2 Pro;Auricular de llamada;Compatible;2,40;;;6
+CU-KMN2P-FLX-COM;Cubot;KingKong Mini 2 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+CU-KMN2P-SIM-COM;Cubot;KingKong Mini 2 Pro;Bandeja SIM;Compatible;2,60;;;6
+CU-KMN3-PAN-COM;Cubot;KingKong Mini 3;Pantalla;Compatible;16,10;15,62;15,13;6
+CU-KMN3-BAT-COM;Cubot;KingKong Mini 3;Batería;Compatible;8,25;;;6
+CU-KMN3-CON-COM;Cubot;KingKong Mini 3;Conector de carga;Compatible;4,40;;;6
+CU-KMN3-TAP-COM-RED;Cubot;KingKong Mini 3;Tapa trasera;Red/Black;5,55;;;6
+CU-KMN3-CTR-COM;Cubot;KingKong Mini 3;Cámara trasera;Compatible;6,19;;;6
+CU-KMN3-CFR-COM;Cubot;KingKong Mini 3;Cámara frontal;Compatible;3,65;;;6
+CU-KMN3-LEN-COM;Cubot;KingKong Mini 3;Lente de cámara;Compatible;2,20;;;6
+CU-KMN3-ALT-COM;Cubot;KingKong Mini 3;Altavoz;Compatible;3,35;;;6
+CU-KMN3-AUR-COM;Cubot;KingKong Mini 3;Auricular de llamada;Compatible;2,40;;;6
+CU-KMN3-FLX-COM;Cubot;KingKong Mini 3;Flex de encendido y volumen;Compatible;2,29;;;6
+CU-KMN3-SIM-COM;Cubot;KingKong Mini 3;Bandeja SIM;Compatible;2,60;;;6
+CU-N30-PAN-COM;Cubot;Note 30;Pantalla;Compatible;13,80;13,39;12,97;6
+CU-N30-BAT-COM;Cubot;Note 30;Batería;Compatible;7,60;;;6
+CU-N30-CON-COM;Cubot;Note 30;Conector de carga;Compatible;3,55;;;6
+CU-N30-TAP-COM-NEG;Cubot;Note 30;Tapa trasera;Negro;4,95;;;6
+CU-N30-TAP-COM-VER;Cubot;Note 30;Tapa trasera;Verde;4,95;;;6
+CU-N30-CTR-COM;Cubot;Note 30;Cámara trasera;Compatible;5,45;;;6
+CU-N30-CFR-COM;Cubot;Note 30;Cámara frontal;Compatible;3,45;;;6
+CU-N30-LEN-COM;Cubot;Note 30;Lente de cámara;Compatible;2,25;;;6
+CU-N30-ALT-COM;Cubot;Note 30;Altavoz;Compatible;3,29;;;6
+CU-N30-AUR-COM;Cubot;Note 30;Auricular de llamada;Compatible;2,45;;;6
+CU-N30-FLX-COM;Cubot;Note 30;Flex de encendido y volumen;Compatible;2,35;;;6
+CU-N30-SIM-COM;Cubot;Note 30;Bandeja SIM;Compatible;2,75;;;6
+CU-N8-PAN-COM;Cubot;Note 8;Pantalla;Compatible;13,80;13,39;12,97;6
+CU-N8-BAT-COM;Cubot;Note 8;Batería;Compatible;7,60;;;6
+CU-N8-CON-COM;Cubot;Note 8;Conector de carga;Compatible;3,55;;;6
+CU-N8-TAP-COM-NEG;Cubot;Note 8;Tapa trasera;Negro;4,95;;;6
+CU-N8-TAP-COM-VER;Cubot;Note 8;Tapa trasera;Verde;4,95;;;6
+CU-N8-CTR-COM;Cubot;Note 8;Cámara trasera;Compatible;5,45;;;6
+CU-N8-CFR-COM;Cubot;Note 8;Cámara frontal;Compatible;3,45;;;6
+CU-N8-LEN-COM;Cubot;Note 8;Lente de cámara;Compatible;2,25;;;6
+CU-N8-ALT-COM;Cubot;Note 8;Altavoz;Compatible;3,29;;;6
+CU-N8-AUR-COM;Cubot;Note 8;Auricular de llamada;Compatible;2,45;;;6
+CU-N8-FLX-COM;Cubot;Note 8;Flex de encendido y volumen;Compatible;2,35;;;6
+CU-N8-SIM-COM;Cubot;Note 8;Bandeja SIM;Compatible;2,75;;;6
+CU-P50-PAN-COM;Cubot;P50;Pantalla;Compatible;13,80;13,39;12,97;6
+CU-P50-BAT-COM;Cubot;P50;Batería;Compatible;7,60;;;6
+CU-P50-CON-COM;Cubot;P50;Conector de carga;Compatible;3,55;;;6
+CU-P50-TAP-COM-NEG;Cubot;P50;Tapa trasera;Negro;4,95;;;6
+CU-P50-TAP-COM-VER;Cubot;P50;Tapa trasera;Verde;4,95;;;6
+CU-P50-CTR-COM;Cubot;P50;Cámara trasera;Compatible;5,45;;;6
+CU-P50-CFR-COM;Cubot;P50;Cámara frontal;Compatible;3,45;;;6
+CU-P50-LEN-COM;Cubot;P50;Lente de cámara;Compatible;2,25;;;6
+CU-P50-ALT-COM;Cubot;P50;Altavoz;Compatible;3,29;;;6
+CU-P50-AUR-COM;Cubot;P50;Auricular de llamada;Compatible;2,45;;;6
+CU-P50-FLX-COM;Cubot;P50;Flex de encendido y volumen;Compatible;2,35;;;6
+CU-P50-SIM-COM;Cubot;P50;Bandeja SIM;Compatible;2,75;;;6
+CU-P60-PAN-COM;Cubot;P60;Pantalla;Compatible;13,80;13,39;12,97;6
+CU-P60-BAT-COM;Cubot;P60;Batería;Compatible;7,60;;;6
+CU-P60-CON-COM;Cubot;P60;Conector de carga;Compatible;3,55;;;6
+CU-P60-TAP-COM-NEG;Cubot;P60;Tapa trasera;Negro;4,95;;;6
+CU-P60-TAP-COM-BLA;Cubot;P60;Tapa trasera;Blanco;4,95;;;6
+CU-P60-CTR-COM;Cubot;P60;Cámara trasera;Compatible;5,45;;;6
+CU-P60-CFR-COM;Cubot;P60;Cámara frontal;Compatible;3,45;;;6
+CU-P60-LEN-COM;Cubot;P60;Lente de cámara;Compatible;2,25;;;6
+CU-P60-ALT-COM;Cubot;P60;Altavoz;Compatible;3,29;;;6
+CU-P60-AUR-COM;Cubot;P60;Auricular de llamada;Compatible;2,45;;;6
+CU-P60-FLX-COM;Cubot;P60;Flex de encendido y volumen;Compatible;2,35;;;6
+CU-P60-SIM-COM;Cubot;P60;Bandeja SIM;Compatible;2,75;;;6
+CU-PK-PAN-COM;Cubot;Pocket;Pantalla;Compatible;13,80;13,39;12,97;6
+CU-PK-BAT-COM;Cubot;Pocket;Batería;Compatible;7,60;;;6
+CU-PK-CON-COM;Cubot;Pocket;Conector de carga;Compatible;3,55;;;6
+CU-PK-TAP-COM-NEG;Cubot;Pocket;Tapa trasera;Negro;4,95;;;6
+CU-PK-TAP-COM-BLA;Cubot;Pocket;Tapa trasera;Black/Red;4,95;;;6
+CU-PK-TAP-COM-GRE;Cubot;Pocket;Tapa trasera;Green/Gold;4,95;;;6
+CU-PK-CTR-COM;Cubot;Pocket;Cámara trasera;Compatible;5,45;;;6
+CU-PK-CFR-COM;Cubot;Pocket;Cámara frontal;Compatible;3,45;;;6
+CU-PK-LEN-COM;Cubot;Pocket;Lente de cámara;Compatible;2,25;;;6
+CU-PK-ALT-COM;Cubot;Pocket;Altavoz;Compatible;3,29;;;6
+CU-PK-AUR-COM;Cubot;Pocket;Auricular de llamada;Compatible;2,45;;;6
+CU-PK-FLX-COM;Cubot;Pocket;Flex de encendido y volumen;Compatible;2,35;;;6
+CU-PK-SIM-COM;Cubot;Pocket;Bandeja SIM;Compatible;2,75;;;6
+CU-PK3-PAN-COM;Cubot;Pocket 3;Pantalla;Compatible;13,80;13,39;12,97;6
+CU-PK3-BAT-COM;Cubot;Pocket 3;Batería;Compatible;7,60;;;6
+CU-PK3-CON-COM;Cubot;Pocket 3;Conector de carga;Compatible;3,55;;;6
+CU-PK3-TAP-COM-NEG;Cubot;Pocket 3;Tapa trasera;Negro;4,95;;;6
+CU-PK3-TAP-COM-AZU;Cubot;Pocket 3;Tapa trasera;Azul;4,95;;;6
+CU-PK3-TAP-COM-VER;Cubot;Pocket 3;Tapa trasera;Verde;4,95;;;6
+CU-PK3-CTR-COM;Cubot;Pocket 3;Cámara trasera;Compatible;5,45;;;6
+CU-PK3-CFR-COM;Cubot;Pocket 3;Cámara frontal;Compatible;3,45;;;6
+CU-PK3-LEN-COM;Cubot;Pocket 3;Lente de cámara;Compatible;2,25;;;6
+CU-PK3-ALT-COM;Cubot;Pocket 3;Altavoz;Compatible;3,29;;;6
+CU-PK3-AUR-COM;Cubot;Pocket 3;Auricular de llamada;Compatible;2,45;;;6
+CU-PK3-FLX-COM;Cubot;Pocket 3;Flex de encendido y volumen;Compatible;2,35;;;6
+CU-PK3-SIM-COM;Cubot;Pocket 3;Bandeja SIM;Compatible;2,75;;;6
+CU-J20-PAN-COM;Cubot;J20;Pantalla;Compatible;14,69;14,25;13,81;6
+CU-J20-BAT-COM;Cubot;J20;Batería;Compatible;8,69;;;6
+CU-J20-CON-COM;Cubot;J20;Conector de carga;Compatible;4,05;;;6
+CU-J20-TAP-COM-AZU;Cubot;J20;Tapa trasera;Azul;5,55;;;6
+CU-J20-TAP-COM-NEG;Cubot;J20;Tapa trasera;Negro;5,55;;;6
+CU-J20-TAP-COM-VER;Cubot;J20;Tapa trasera;Verde;5,55;;;6
+CU-J20-CTR-COM;Cubot;J20;Cámara trasera;Compatible;7,60;;;6
+CU-J20-CFR-COM;Cubot;J20;Cámara frontal;Compatible;5,00;;;6
+CU-J20-LEN-COM;Cubot;J20;Lente de cámara;Compatible;2,35;;;6
+CU-J20-ALT-COM;Cubot;J20;Altavoz;Compatible;3,55;;;6
+CU-J20-AUR-COM;Cubot;J20;Auricular de llamada;Compatible;2,65;;;6
+CU-J20-FLX-COM;Cubot;J20;Flex de encendido y volumen;Compatible;2,85;;;6
+CU-J20-SIM-COM;Cubot;J20;Bandeja SIM;Compatible;2,69;;;6
+CU-K9-PAN-COM;Cubot;KingKong 9;Pantalla;Compatible;17,15;16,64;16,12;6
+CU-K9-BAT-COM;Cubot;KingKong 9;Batería;Compatible;9,40;;;6
+CU-K9-CON-COM;Cubot;KingKong 9;Conector de carga;Compatible;5,05;;;6
+CU-K9-TAP-COM-NEG;Cubot;KingKong 9;Tapa trasera;Negro;6,20;;;6
+CU-K9-CTR-COM;Cubot;KingKong 9;Cámara trasera;Compatible;8,65;;;6
+CU-K9-CFR-COM;Cubot;KingKong 9;Cámara frontal;Compatible;5,35;;;6
+CU-K9-LEN-COM;Cubot;KingKong 9;Lente de cámara;Compatible;2,30;;;6
+CU-K9-ALT-COM;Cubot;KingKong 9;Altavoz;Compatible;3,60;;;6
+CU-K9-AUR-COM;Cubot;KingKong 9;Auricular de llamada;Compatible;2,65;;;6
+CU-K9-FLX-COM;Cubot;KingKong 9;Flex de encendido y volumen;Compatible;2,79;;;6
+CU-K9-SIM-COM;Cubot;KingKong 9;Bandeja SIM;Compatible;2,55;;;6
+CU-KPW-PAN-COM;Cubot;KingKong Power;Pantalla;Compatible;17,15;16,64;16,12;6
+CU-KPW-BAT-COM;Cubot;KingKong Power;Batería;Compatible;9,40;;;6
+CU-KPW-CON-COM;Cubot;KingKong Power;Conector de carga;Compatible;5,05;;;6
+CU-KPW-TAP-COM-NEG;Cubot;KingKong Power;Tapa trasera;Negro;6,20;;;6
+CU-KPW-TAP-COM-NAR;Cubot;KingKong Power;Tapa trasera;Naranja;6,20;;;6
+CU-KPW-TAP-COM-VER;Cubot;KingKong Power;Tapa trasera;Verde;6,20;;;6
+CU-KPW-CTR-COM;Cubot;KingKong Power;Cámara trasera;Compatible;8,65;;;6
+CU-KPW-CFR-COM;Cubot;KingKong Power;Cámara frontal;Compatible;5,35;;;6
+CU-KPW-LEN-COM;Cubot;KingKong Power;Lente de cámara;Compatible;2,30;;;6
+CU-KPW-ALT-COM;Cubot;KingKong Power;Altavoz;Compatible;3,60;;;6
+CU-KPW-AUR-COM;Cubot;KingKong Power;Auricular de llamada;Compatible;2,65;;;6
+CU-KPW-FLX-COM;Cubot;KingKong Power;Flex de encendido y volumen;Compatible;2,79;;;6
+CU-KPW-SIM-COM;Cubot;KingKong Power;Bandeja SIM;Compatible;2,55;;;6
+CU-P80-PAN-COM;Cubot;P80;Pantalla;Compatible;14,69;14,25;13,81;6
+CU-P80-BAT-COM;Cubot;P80;Batería;Compatible;8,69;;;6
+CU-P80-CON-COM;Cubot;P80;Conector de carga;Compatible;4,05;;;6
+CU-P80-TAP-COM-NEG;Cubot;P80;Tapa trasera;Negro;5,55;;;6
+CU-P80-TAP-COM-AZU;Cubot;P80;Tapa trasera;Azul;5,55;;;6
+CU-P80-TAP-COM-MOR;Cubot;P80;Tapa trasera;Morado;5,55;;;6
+CU-P80-TAP-COM-ACL;Cubot;P80;Tapa trasera;Azul claro;5,55;;;6
+CU-P80-TAP-COM-ROS;Cubot;P80;Tapa trasera;Rosa;5,55;;;6
+CU-P80-CTR-COM;Cubot;P80;Cámara trasera;Compatible;7,60;;;6
+CU-P80-CFR-COM;Cubot;P80;Cámara frontal;Compatible;5,00;;;6
+CU-P80-LEN-COM;Cubot;P80;Lente de cámara;Compatible;2,35;;;6
+CU-P80-ALT-COM;Cubot;P80;Altavoz;Compatible;3,55;;;6
+CU-P80-AUR-COM;Cubot;P80;Auricular de llamada;Compatible;2,65;;;6
+CU-P80-FLX-COM;Cubot;P80;Flex de encendido y volumen;Compatible;2,85;;;6
+CU-P80-SIM-COM;Cubot;P80;Bandeja SIM;Compatible;2,69;;;6
+CU-X70-PAN-COM;Cubot;X70;Pantalla;Compatible;14,69;14,25;13,81;6
+CU-X70-BAT-COM;Cubot;X70;Batería;Compatible;8,69;;;6
+CU-X70-CON-COM;Cubot;X70;Conector de carga;Compatible;4,05;;;6
+CU-X70-TAP-COM-NEG;Cubot;X70;Tapa trasera;Negro espacial;5,55;;;6
+CU-X70-TAP-COM-NTE;Cubot;X70;Tapa trasera;Negro (Tech Black);5,55;;;6
+CU-X70-CTR-COM;Cubot;X70;Cámara trasera;Compatible;7,60;;;6
+CU-X70-CFR-COM;Cubot;X70;Cámara frontal;Compatible;5,00;;;6
+CU-X70-LEN-COM;Cubot;X70;Lente de cámara;Compatible;2,35;;;6
+CU-X70-ALT-COM;Cubot;X70;Altavoz;Compatible;3,55;;;6
+CU-X70-AUR-COM;Cubot;X70;Auricular de llamada;Compatible;2,65;;;6
+CU-X70-FLX-COM;Cubot;X70;Flex de encendido y volumen;Compatible;2,85;;;6
+CU-X70-SIM-COM;Cubot;X70;Bandeja SIM;Compatible;2,69;;;6
+CU-KS-PAN-COM;Cubot;KingKong Star;Pantalla;Compatible;17,15;16,64;16,12;6
+CU-KS-BAT-COM;Cubot;KingKong Star;Batería;Compatible;9,40;;;6
+CU-KS-CON-COM;Cubot;KingKong Star;Conector de carga;Compatible;5,05;;;6
+CU-KS-TAP-COM-NEG;Cubot;KingKong Star;Tapa trasera;Negro;6,20;;;6
+CU-KS-TAP-COM-BLA;Cubot;KingKong Star;Tapa trasera;Black+Red;6,20;;;6
+CU-KS-CTR-COM;Cubot;KingKong Star;Cámara trasera;Compatible;8,65;;;6
+CU-KS-CFR-COM;Cubot;KingKong Star;Cámara frontal;Compatible;5,35;;;6
+CU-KS-LEN-COM;Cubot;KingKong Star;Lente de cámara;Compatible;2,30;;;6
+CU-KS-ALT-COM;Cubot;KingKong Star;Altavoz;Compatible;3,60;;;6
+CU-KS-AUR-COM;Cubot;KingKong Star;Auricular de llamada;Compatible;2,65;;;6
+CU-KS-FLX-COM;Cubot;KingKong Star;Flex de encendido y volumen;Compatible;2,79;;;6
+CU-KS-SIM-COM;Cubot;KingKong Star;Bandeja SIM;Compatible;2,55;;;6
+CU-N50-PAN-COM;Cubot;Note 50;Pantalla;Compatible;14,69;14,25;13,81;6
+CU-N50-BAT-COM;Cubot;Note 50;Batería;Compatible;8,69;;;6
+CU-N50-CON-COM;Cubot;Note 50;Conector de carga;Compatible;4,05;;;6
+CU-N50-TAP-COM-NEG;Cubot;Note 50;Tapa trasera;Negro;5,55;;;6
+CU-N50-TAP-COM-MOR;Cubot;Note 50;Tapa trasera;Morado;5,55;;;6
+CU-N50-TAP-COM-VER;Cubot;Note 50;Tapa trasera;Verde;5,55;;;6
+CU-N50-TAP-COM-AZU;Cubot;Note 50;Tapa trasera;Azul;5,55;;;6
+CU-N50-CTR-COM;Cubot;Note 50;Cámara trasera;Compatible;7,60;;;6
+CU-N50-CFR-COM;Cubot;Note 50;Cámara frontal;Compatible;5,00;;;6
+CU-N50-LEN-COM;Cubot;Note 50;Lente de cámara;Compatible;2,35;;;6
+CU-N50-ALT-COM;Cubot;Note 50;Altavoz;Compatible;3,55;;;6
+CU-N50-AUR-COM;Cubot;Note 50;Auricular de llamada;Compatible;2,65;;;6
+CU-N50-FLX-COM;Cubot;Note 50;Flex de encendido y volumen;Compatible;2,85;;;6
+CU-N50-SIM-COM;Cubot;Note 50;Bandeja SIM;Compatible;2,69;;;6
+CU-N21-PAN-COM;Cubot;Note 21;Pantalla;Compatible;14,69;14,25;13,81;6
+CU-N21-BAT-COM;Cubot;Note 21;Batería;Compatible;8,69;;;6
+CU-N21-CON-COM;Cubot;Note 21;Conector de carga;Compatible;4,05;;;6
+CU-N21-TAP-COM-NEG;Cubot;Note 21;Tapa trasera;Negro;5,55;;;6
+CU-N21-TAP-COM-NAR;Cubot;Note 21;Tapa trasera;Naranja;5,55;;;6
+CU-N21-TAP-COM-VER;Cubot;Note 21;Tapa trasera;Verde;5,55;;;6
+CU-N21-CTR-COM;Cubot;Note 21;Cámara trasera;Compatible;7,60;;;6
+CU-N21-CFR-COM;Cubot;Note 21;Cámara frontal;Compatible;5,00;;;6
+CU-N21-LEN-COM;Cubot;Note 21;Lente de cámara;Compatible;2,35;;;6
+CU-N21-ALT-COM;Cubot;Note 21;Altavoz;Compatible;3,55;;;6
+CU-N21-AUR-COM;Cubot;Note 21;Auricular de llamada;Compatible;2,65;;;6
+CU-N21-FLX-COM;Cubot;Note 21;Flex de encendido y volumen;Compatible;2,85;;;6
+CU-N21-SIM-COM;Cubot;Note 21;Bandeja SIM;Compatible;2,69;;;6
+CU-N40-PAN-COM;Cubot;Note 40;Pantalla;Compatible;14,69;14,25;13,81;6
+CU-N40-BAT-COM;Cubot;Note 40;Batería;Compatible;8,69;;;6
+CU-N40-CON-COM;Cubot;Note 40;Conector de carga;Compatible;4,05;;;6
+CU-N40-TAP-COM-NEG;Cubot;Note 40;Tapa trasera;Negro;5,55;;;6
+CU-N40-TAP-COM-MOR;Cubot;Note 40;Tapa trasera;Morado;5,55;;;6
+CU-N40-TAP-COM-VER;Cubot;Note 40;Tapa trasera;Verde;5,55;;;6
+CU-N40-TAP-COM-AZU;Cubot;Note 40;Tapa trasera;Azul;5,55;;;6
+CU-N40-CTR-COM;Cubot;Note 40;Cámara trasera;Compatible;7,60;;;6
+CU-N40-CFR-COM;Cubot;Note 40;Cámara frontal;Compatible;5,00;;;6
+CU-N40-LEN-COM;Cubot;Note 40;Lente de cámara;Compatible;2,35;;;6
+CU-N40-ALT-COM;Cubot;Note 40;Altavoz;Compatible;3,55;;;6
+CU-N40-AUR-COM;Cubot;Note 40;Auricular de llamada;Compatible;2,65;;;6
+CU-N40-FLX-COM;Cubot;Note 40;Flex de encendido y volumen;Compatible;2,85;;;6
+CU-N40-SIM-COM;Cubot;Note 40;Bandeja SIM;Compatible;2,69;;;6
+CU-K8-PAN-COM;Cubot;KingKong 8;Pantalla;Compatible;17,15;16,64;16,12;6
+CU-K8-BAT-COM;Cubot;KingKong 8;Batería;Compatible;9,40;;;6
+CU-K8-CON-COM;Cubot;KingKong 8;Conector de carga;Compatible;5,05;;;6
+CU-K8-TAP-COM-NEG;Cubot;KingKong 8;Tapa trasera;Negro;6,20;;;6
+CU-K8-TAP-COM-BLA;Cubot;KingKong 8;Tapa trasera;Black+Red;6,20;;;6
+CU-K8-TAP-COM-BGR;Cubot;KingKong 8;Tapa trasera;Black+Green;6,20;;;6
+CU-K8-CTR-COM;Cubot;KingKong 8;Cámara trasera;Compatible;8,65;;;6
+CU-K8-CFR-COM;Cubot;KingKong 8;Cámara frontal;Compatible;5,35;;;6
+CU-K8-LEN-COM;Cubot;KingKong 8;Lente de cámara;Compatible;2,30;;;6
+CU-K8-ALT-COM;Cubot;KingKong 8;Altavoz;Compatible;3,60;;;6
+CU-K8-AUR-COM;Cubot;KingKong 8;Auricular de llamada;Compatible;2,65;;;6
+CU-K8-FLX-COM;Cubot;KingKong 8;Flex de encendido y volumen;Compatible;2,79;;;6
+CU-K8-SIM-COM;Cubot;KingKong 8;Bandeja SIM;Compatible;2,55;;;6
+CU-A10-PAN-COM;Cubot;A10;Pantalla;Compatible;14,69;14,25;13,81;6
+CU-A10-BAT-COM;Cubot;A10;Batería;Compatible;8,69;;;6
+CU-A10-CON-COM;Cubot;A10;Conector de carga;Compatible;4,05;;;6
+CU-A10-TAP-COM-NEG;Cubot;A10;Tapa trasera;Negro;5,55;;;6
+CU-A10-TAP-COM-AZU;Cubot;A10;Tapa trasera;Azul;5,55;;;6
+CU-A10-TAP-COM-MOR;Cubot;A10;Tapa trasera;Morado;5,55;;;6
+CU-A10-CTR-COM;Cubot;A10;Cámara trasera;Compatible;7,60;;;6
+CU-A10-CFR-COM;Cubot;A10;Cámara frontal;Compatible;5,00;;;6
+CU-A10-LEN-COM;Cubot;A10;Lente de cámara;Compatible;2,35;;;6
+CU-A10-ALT-COM;Cubot;A10;Altavoz;Compatible;3,55;;;6
+CU-A10-AUR-COM;Cubot;A10;Auricular de llamada;Compatible;2,65;;;6
+CU-A10-FLX-COM;Cubot;A10;Flex de encendido y volumen;Compatible;2,85;;;6
+CU-A10-SIM-COM;Cubot;A10;Bandeja SIM;Compatible;2,69;;;6
+CU-A20-PAN-COM;Cubot;A20;Pantalla;Compatible;14,69;14,25;13,81;6
+CU-A20-BAT-COM;Cubot;A20;Batería;Compatible;8,69;;;6
+CU-A20-CON-COM;Cubot;A20;Conector de carga;Compatible;4,05;;;6
+CU-A20-TAP-COM-NEG;Cubot;A20;Tapa trasera;Negro;5,55;;;6
+CU-A20-TAP-COM-ROS;Cubot;A20;Tapa trasera;Rosa;5,55;;;6
+CU-A20-TAP-COM-AZU;Cubot;A20;Tapa trasera;Azul;5,55;;;6
+CU-A20-CTR-COM;Cubot;A20;Cámara trasera;Compatible;7,60;;;6
+CU-A20-CFR-COM;Cubot;A20;Cámara frontal;Compatible;5,00;;;6
+CU-A20-LEN-COM;Cubot;A20;Lente de cámara;Compatible;2,35;;;6
+CU-A20-ALT-COM;Cubot;A20;Altavoz;Compatible;3,55;;;6
+CU-A20-AUR-COM;Cubot;A20;Auricular de llamada;Compatible;2,65;;;6
+CU-A20-FLX-COM;Cubot;A20;Flex de encendido y volumen;Compatible;2,85;;;6
+CU-A20-SIM-COM;Cubot;A20;Bandeja SIM;Compatible;2,69;;;6
+CU-A30-PAN-COM;Cubot;A30;Pantalla;Compatible;14,69;14,25;13,81;6
+CU-A30-BAT-COM;Cubot;A30;Batería;Compatible;8,69;;;6
+CU-A30-CON-COM;Cubot;A30;Conector de carga;Compatible;4,05;;;6
+CU-A30-TAP-COM-GRI;Cubot;A30;Tapa trasera;Gris;5,55;;;6
+CU-A30-TAP-COM-ROS;Cubot;A30;Tapa trasera;Rosa;5,55;;;6
+CU-A30-CTR-COM;Cubot;A30;Cámara trasera;Compatible;7,60;;;6
+CU-A30-CFR-COM;Cubot;A30;Cámara frontal;Compatible;5,00;;;6
+CU-A30-LEN-COM;Cubot;A30;Lente de cámara;Compatible;2,35;;;6
+CU-A30-ALT-COM;Cubot;A30;Altavoz;Compatible;3,55;;;6
+CU-A30-AUR-COM;Cubot;A30;Auricular de llamada;Compatible;2,65;;;6
+CU-A30-FLX-COM;Cubot;A30;Flex de encendido y volumen;Compatible;2,85;;;6
+CU-A30-SIM-COM;Cubot;A30;Bandeja SIM;Compatible;2,69;;;6
+CU-KACE2-PAN-COM;Cubot;KingKong Ace 2;Pantalla;Compatible;17,15;16,64;16,12;6
+CU-KACE2-BAT-COM;Cubot;KingKong Ace 2;Batería;Compatible;9,40;;;6
+CU-KACE2-CON-COM;Cubot;KingKong Ace 2;Conector de carga;Compatible;5,05;;;6
+CU-KACE2-TAP-COM-BLA;Cubot;KingKong Ace 2;Tapa trasera;Black+orange;6,20;;;6
+CU-KACE2-TAP-COM-BGR;Cubot;KingKong Ace 2;Tapa trasera;black+green;6,20;;;6
+CU-KACE2-CTR-COM;Cubot;KingKong Ace 2;Cámara trasera;Compatible;8,65;;;6
+CU-KACE2-CFR-COM;Cubot;KingKong Ace 2;Cámara frontal;Compatible;5,35;;;6
+CU-KACE2-LEN-COM;Cubot;KingKong Ace 2;Lente de cámara;Compatible;2,30;;;6
+CU-KACE2-ALT-COM;Cubot;KingKong Ace 2;Altavoz;Compatible;3,60;;;6
+CU-KACE2-AUR-COM;Cubot;KingKong Ace 2;Auricular de llamada;Compatible;2,65;;;6
+CU-KACE2-FLX-COM;Cubot;KingKong Ace 2;Flex de encendido y volumen;Compatible;2,79;;;6
+CU-KACE2-SIM-COM;Cubot;KingKong Ace 2;Bandeja SIM;Compatible;2,55;;;6
+CU-KES-PAN-COM;Cubot;KingKong ES;Pantalla;Compatible;17,15;16,64;16,12;6
+CU-KES-BAT-COM;Cubot;KingKong ES;Batería;Compatible;9,15;;;6
+CU-KES-CON-COM;Cubot;KingKong ES;Conector de carga;Compatible;5,05;;;6
+CU-KES-TAP-COM-BLA;Cubot;KingKong ES;Tapa trasera;Black+Orange;6,20;;;6
+CU-KES-CTR-COM;Cubot;KingKong ES;Cámara trasera;Compatible;8,65;;;6
+CU-KES-CFR-COM;Cubot;KingKong ES;Cámara frontal;Compatible;5,35;;;6
+CU-KES-LEN-COM;Cubot;KingKong ES;Lente de cámara;Compatible;2,30;;;6
+CU-KES-ALT-COM;Cubot;KingKong ES;Altavoz;Compatible;3,60;;;6
+CU-KES-AUR-COM;Cubot;KingKong ES;Auricular de llamada;Compatible;2,65;;;6
+CU-KES-FLX-COM;Cubot;KingKong ES;Flex de encendido y volumen;Compatible;2,79;;;6
+CU-KES-SIM-COM;Cubot;KingKong ES;Bandeja SIM;Compatible;2,55;;;6
+CU-KPW3-PAN-COM;Cubot;KingKong Power 3;Pantalla;Compatible;17,15;16,64;16,12;6
+CU-KPW3-BAT-COM;Cubot;KingKong Power 3;Batería;Compatible;9,40;;;6
+CU-KPW3-CON-COM;Cubot;KingKong Power 3;Conector de carga;Compatible;5,05;;;6
+CU-KPW3-TAP-COM-NEG;Cubot;KingKong Power 3;Tapa trasera;Negro;6,20;;;6
+CU-KPW3-CTR-COM;Cubot;KingKong Power 3;Cámara trasera;Compatible;8,65;;;6
+CU-KPW3-CFR-COM;Cubot;KingKong Power 3;Cámara frontal;Compatible;5,35;;;6
+CU-KPW3-LEN-COM;Cubot;KingKong Power 3;Lente de cámara;Compatible;2,30;;;6
+CU-KPW3-ALT-COM;Cubot;KingKong Power 3;Altavoz;Compatible;3,60;;;6
+CU-KPW3-AUR-COM;Cubot;KingKong Power 3;Auricular de llamada;Compatible;2,65;;;6
+CU-KPW3-FLX-COM;Cubot;KingKong Power 3;Flex de encendido y volumen;Compatible;2,79;;;6
+CU-KPW3-SIM-COM;Cubot;KingKong Power 3;Bandeja SIM;Compatible;2,55;;;6
+CU-KS2-PAN-COM;Cubot;KingKong Star 2;Pantalla;Compatible;17,15;16,64;16,12;6
+CU-KS2-BAT-COM;Cubot;KingKong Star 2;Batería;Compatible;9,40;;;6
+CU-KS2-CON-COM;Cubot;KingKong Star 2;Conector de carga;Compatible;5,05;;;6
+CU-KS2-TAP-COM-NEG;Cubot;KingKong Star 2;Tapa trasera;Negro;6,20;;;6
+CU-KS2-CTR-COM;Cubot;KingKong Star 2;Cámara trasera;Compatible;8,65;;;6
+CU-KS2-CFR-COM;Cubot;KingKong Star 2;Cámara frontal;Compatible;5,35;;;6
+CU-KS2-LEN-COM;Cubot;KingKong Star 2;Lente de cámara;Compatible;2,30;;;6
+CU-KS2-ALT-COM;Cubot;KingKong Star 2;Altavoz;Compatible;3,60;;;6
+CU-KS2-AUR-COM;Cubot;KingKong Star 2;Auricular de llamada;Compatible;2,65;;;6
+CU-KS2-FLX-COM;Cubot;KingKong Star 2;Flex de encendido y volumen;Compatible;2,79;;;6
+CU-KS2-SIM-COM;Cubot;KingKong Star 2;Bandeja SIM;Compatible;2,55;;;6
+CU-KXP-PAN-COM;Cubot;KingKong X Pro;Pantalla;Compatible;17,15;16,64;16,12;6
+CU-KXP-BAT-COM;Cubot;KingKong X Pro;Batería;Compatible;9,40;;;6
+CU-KXP-CON-COM;Cubot;KingKong X Pro;Conector de carga;Compatible;5,05;;;6
+CU-KXP-TAP-COM-NEG;Cubot;KingKong X Pro;Tapa trasera;Negro;6,20;;;6
+CU-KXP-CTR-COM;Cubot;KingKong X Pro;Cámara trasera;Compatible;8,65;;;6
+CU-KXP-CFR-COM;Cubot;KingKong X Pro;Cámara frontal;Compatible;5,35;;;6
+CU-KXP-LEN-COM;Cubot;KingKong X Pro;Lente de cámara;Compatible;2,30;;;6
+CU-KXP-ALT-COM;Cubot;KingKong X Pro;Altavoz;Compatible;3,60;;;6
+CU-KXP-AUR-COM;Cubot;KingKong X Pro;Auricular de llamada;Compatible;2,65;;;6
+CU-KXP-FLX-COM;Cubot;KingKong X Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+CU-KXP-SIM-COM;Cubot;KingKong X Pro;Bandeja SIM;Compatible;2,55;;;6
+CU-A1-PAN-COM;Cubot;A1;Pantalla;Compatible;14,69;14,25;13,81;6
+CU-A1-BAT-COM;Cubot;A1;Batería;Compatible;8,69;;;6
+CU-A1-CON-COM;Cubot;A1;Conector de carga;Compatible;4,05;;;6
+CU-A1-TAP-COM-NEG;Cubot;A1;Tapa trasera;Negro;5,55;;;6
+CU-A1-TAP-COM-AZU;Cubot;A1;Tapa trasera;Azul;5,55;;;6
+CU-A1-TAP-COM-VER;Cubot;A1;Tapa trasera;Verde;5,55;;;6
+CU-A1-CTR-COM;Cubot;A1;Cámara trasera;Compatible;7,60;;;6
+CU-A1-CFR-COM;Cubot;A1;Cámara frontal;Compatible;5,00;;;6
+CU-A1-LEN-COM;Cubot;A1;Lente de cámara;Compatible;2,35;;;6
+CU-A1-ALT-COM;Cubot;A1;Altavoz;Compatible;3,55;;;6
+CU-A1-AUR-COM;Cubot;A1;Auricular de llamada;Compatible;2,65;;;6
+CU-A1-FLX-COM;Cubot;A1;Flex de encendido y volumen;Compatible;2,85;;;6
+CU-A1-SIM-COM;Cubot;A1;Bandeja SIM;Compatible;2,69;;;6
+CU-KAX-PAN-COM;Cubot;KingKong AX;Pantalla;Compatible;17,15;16,64;16,12;6
+CU-KAX-BAT-COM;Cubot;KingKong AX;Batería;Compatible;9,40;;;6
+CU-KAX-CON-COM;Cubot;KingKong AX;Conector de carga;Compatible;5,05;;;6
+CU-KAX-TAP-COM-NEG;Cubot;KingKong AX;Tapa trasera;Negro;6,20;;;6
+CU-KAX-CTR-COM;Cubot;KingKong AX;Cámara trasera;Compatible;8,65;;;6
+CU-KAX-CFR-COM;Cubot;KingKong AX;Cámara frontal;Compatible;5,35;;;6
+CU-KAX-LEN-COM;Cubot;KingKong AX;Lente de cámara;Compatible;2,30;;;6
+CU-KAX-ALT-COM;Cubot;KingKong AX;Altavoz;Compatible;3,60;;;6
+CU-KAX-AUR-COM;Cubot;KingKong AX;Auricular de llamada;Compatible;2,65;;;6
+CU-KAX-FLX-COM;Cubot;KingKong AX;Flex de encendido y volumen;Compatible;2,79;;;6
+CU-KAX-SIM-COM;Cubot;KingKong AX;Bandeja SIM;Compatible;2,55;;;6
+CU-X90-PAN-INC;Cubot;X90;Pantalla;Incell;17,15;16,64;16,12;6
+CU-X90-BAT-COM;Cubot;X90;Batería;Compatible;8,69;;;6
+CU-X90-CON-COM;Cubot;X90;Conector de carga;Compatible;4,05;;;6
+CU-X90-TAP-COM-NEG;Cubot;X90;Tapa trasera;Negro (Yadan black);5,55;;;6
+CU-X90-TAP-COM-VER;Cubot;X90;Tapa trasera;Verde (Yachuan green);5,55;;;6
+CU-X90-CTR-COM;Cubot;X90;Cámara trasera;Compatible;7,60;;;6
+CU-X90-CFR-COM;Cubot;X90;Cámara frontal;Compatible;5,00;;;6
+CU-X90-LEN-COM;Cubot;X90;Lente de cámara;Compatible;2,35;;;6
+CU-X90-ALT-COM;Cubot;X90;Altavoz;Compatible;3,55;;;6
+CU-X90-AUR-COM;Cubot;X90;Auricular de llamada;Compatible;2,65;;;6
+CU-X90-FLX-COM;Cubot;X90;Flex de encendido y volumen;Compatible;2,85;;;6
+CU-X90-SIM-COM;Cubot;X90;Bandeja SIM;Compatible;2,69;;;6
+CU-KACE3-PAN-COM;Cubot;KingKong Ace 3;Pantalla;Compatible;17,15;16,64;16,12;6
+CU-KACE3-BAT-COM;Cubot;KingKong Ace 3;Batería;Compatible;9,40;;;6
+CU-KACE3-CON-COM;Cubot;KingKong Ace 3;Conector de carga;Compatible;5,05;;;6
+CU-KACE3-TAP-COM-BLA;Cubot;KingKong Ace 3;Tapa trasera;Black+orange;6,20;;;6
+CU-KACE3-CTR-COM;Cubot;KingKong Ace 3;Cámara trasera;Compatible;8,65;;;6
+CU-KACE3-CFR-COM;Cubot;KingKong Ace 3;Cámara frontal;Compatible;5,35;;;6
+CU-KACE3-LEN-COM;Cubot;KingKong Ace 3;Lente de cámara;Compatible;2,30;;;6
+CU-KACE3-ALT-COM;Cubot;KingKong Ace 3;Altavoz;Compatible;3,60;;;6
+CU-KACE3-AUR-COM;Cubot;KingKong Ace 3;Auricular de llamada;Compatible;2,65;;;6
+CU-KACE3-FLX-COM;Cubot;KingKong Ace 3;Flex de encendido y volumen;Compatible;2,79;;;6
+CU-KACE3-SIM-COM;Cubot;KingKong Ace 3;Bandeja SIM;Compatible;2,55;;;6
+CU-KX-PAN-COM;Cubot;KingKong X;Pantalla;Compatible;17,15;16,64;16,12;6
+CU-KX-BAT-COM;Cubot;KingKong X;Batería;Compatible;9,40;;;6
+CU-KX-CON-COM;Cubot;KingKong X;Conector de carga;Compatible;5,05;;;6
+CU-KX-TAP-COM-NEG;Cubot;KingKong X;Tapa trasera;Negro;6,20;;;6
+CU-KX-CTR-COM;Cubot;KingKong X;Cámara trasera;Compatible;8,65;;;6
+CU-KX-CFR-COM;Cubot;KingKong X;Cámara frontal;Compatible;5,35;;;6
+CU-KX-LEN-COM;Cubot;KingKong X;Lente de cámara;Compatible;2,30;;;6
+CU-KX-ALT-COM;Cubot;KingKong X;Altavoz;Compatible;3,60;;;6
+CU-KX-AUR-COM;Cubot;KingKong X;Auricular de llamada;Compatible;2,65;;;6
+CU-KX-FLX-COM;Cubot;KingKong X;Flex de encendido y volumen;Compatible;2,79;;;6
+CU-KX-SIM-COM;Cubot;KingKong X;Bandeja SIM;Compatible;2,55;;;6
+CU-M5-PAN-COM;Cubot;Max 5;Pantalla;Compatible;14,69;14,25;13,81;6
+CU-M5-BAT-COM;Cubot;Max 5;Batería;Compatible;8,69;;;6
+CU-M5-CON-COM;Cubot;Max 5;Conector de carga;Compatible;4,05;;;6
+CU-M5-TAP-COM-NEG;Cubot;Max 5;Tapa trasera;Negro (TECH Black);5,55;;;6
+CU-M5-TAP-COM-BLA;Cubot;Max 5;Tapa trasera;Blanco (Pearl White);5,55;;;6
+CU-M5-CTR-COM;Cubot;Max 5;Cámara trasera;Compatible;7,60;;;6
+CU-M5-CFR-COM;Cubot;Max 5;Cámara frontal;Compatible;5,00;;;6
+CU-M5-LEN-COM;Cubot;Max 5;Lente de cámara;Compatible;2,35;;;6
+CU-M5-ALT-COM;Cubot;Max 5;Altavoz;Compatible;3,55;;;6
+CU-M5-AUR-COM;Cubot;Max 5;Auricular de llamada;Compatible;2,65;;;6
+CU-M5-FLX-COM;Cubot;Max 5;Flex de encendido y volumen;Compatible;2,85;;;6
+CU-M5-SIM-COM;Cubot;Max 5;Bandeja SIM;Compatible;2,69;;;6
+CU-A40-PAN-COM;Cubot;A40;Pantalla;Compatible;15,45;14,99;14,52;6
+CU-A40-BAT-COM;Cubot;A40;Batería;Compatible;8,20;;;6
+CU-A40-CON-COM;Cubot;A40;Conector de carga;Compatible;4,85;;;6
+CU-A40-TAP-COM-NEG;Cubot;A40;Tapa trasera;Negro;5,95;;;6
+CU-A40-TAP-COM-MOR;Cubot;A40;Tapa trasera;Morado;5,95;;;6
+CU-A40-TAP-COM-GRI;Cubot;A40;Tapa trasera;Gris (Titan Grey);5,95;;;6
+CU-A40-CTR-COM;Cubot;A40;Cámara trasera;Compatible;10,45;10,14;9,82;6
+CU-A40-CFR-COM;Cubot;A40;Cámara frontal;Compatible;7,00;;;6
+CU-A40-LEN-COM;Cubot;A40;Lente de cámara;Compatible;3,05;;;6
+CU-A40-ALT-COM;Cubot;A40;Altavoz;Compatible;4,65;;;6
+CU-A40-AUR-COM;Cubot;A40;Auricular de llamada;Compatible;3,75;;;6
+CU-A40-FLX-COM;Cubot;A40;Flex de encendido y volumen;Compatible;3,10;;;6
+CU-A40-SIM-COM;Cubot;A40;Bandeja SIM;Compatible;3,19;;;6
+CU-KACE5-PAN-COM;Cubot;KingKong Ace 5;Pantalla;Compatible;18,05;17,51;16,97;6
+CU-KACE5-BAT-COM;Cubot;KingKong Ace 5;Batería;Compatible;8,89;;;6
+CU-KACE5-CON-COM;Cubot;KingKong Ace 5;Conector de carga;Compatible;6,00;;;6
+CU-KACE5-TAP-COM-NEG;Cubot;KingKong Ace 5;Tapa trasera;Negro;6,65;;;6
+CU-KACE5-CTR-COM;Cubot;KingKong Ace 5;Cámara trasera;Compatible;11,85;11,49;11,14;6
+CU-KACE5-CFR-COM;Cubot;KingKong Ace 5;Cámara frontal;Compatible;7,49;;;6
+CU-KACE5-LEN-COM;Cubot;KingKong Ace 5;Lente de cámara;Compatible;2,95;;;6
+CU-KACE5-ALT-COM;Cubot;KingKong Ace 5;Altavoz;Compatible;4,75;;;6
+CU-KACE5-AUR-COM;Cubot;KingKong Ace 5;Auricular de llamada;Compatible;3,70;;;6
+CU-KACE5-FLX-COM;Cubot;KingKong Ace 5;Flex de encendido y volumen;Compatible;3,05;;;6
+CU-KACE5-SIM-COM;Cubot;KingKong Ace 5;Bandeja SIM;Compatible;3,00;;;6
+CU-N60-PAN-COM;Cubot;Note 60;Pantalla;Compatible;15,45;14,99;14,52;6
+CU-N60-BAT-COM;Cubot;Note 60;Batería;Compatible;8,20;;;6
+CU-N60-CON-COM;Cubot;Note 60;Conector de carga;Compatible;4,85;;;6
+CU-N60-TAP-COM-NEG;Cubot;Note 60;Tapa trasera;Negro;5,95;;;6
+CU-N60-TAP-COM-GRI;Cubot;Note 60;Tapa trasera;Gris (Titan Grey);5,95;;;6
+CU-N60-CTR-COM;Cubot;Note 60;Cámara trasera;Compatible;10,45;10,14;9,82;6
+CU-N60-CFR-COM;Cubot;Note 60;Cámara frontal;Compatible;7,00;;;6
+CU-N60-LEN-COM;Cubot;Note 60;Lente de cámara;Compatible;3,05;;;6
+CU-N60-ALT-COM;Cubot;Note 60;Altavoz;Compatible;4,65;;;6
+CU-N60-AUR-COM;Cubot;Note 60;Auricular de llamada;Compatible;3,75;;;6
+CU-N60-FLX-COM;Cubot;Note 60;Flex de encendido y volumen;Compatible;3,10;;;6
+CU-N60-SIM-COM;Cubot;Note 60;Bandeja SIM;Compatible;3,19;;;6
+CU-P90-PAN-COM;Cubot;P90;Pantalla;Compatible;15,45;14,99;14,52;6
+CU-P90-BAT-COM;Cubot;P90;Batería;Compatible;8,20;;;6
+CU-P90-CON-COM;Cubot;P90;Conector de carga;Compatible;4,85;;;6
+CU-P90-TAP-COM-NEG;Cubot;P90;Tapa trasera;Negro;5,95;;;6
+CU-P90-TAP-COM-MOR;Cubot;P90;Tapa trasera;Morado;5,95;;;6
+CU-P90-CTR-COM;Cubot;P90;Cámara trasera;Compatible;10,45;10,14;9,82;6
+CU-P90-CFR-COM;Cubot;P90;Cámara frontal;Compatible;7,00;;;6
+CU-P90-LEN-COM;Cubot;P90;Lente de cámara;Compatible;3,05;;;6
+CU-P90-ALT-COM;Cubot;P90;Altavoz;Compatible;4,65;;;6
+CU-P90-AUR-COM;Cubot;P90;Auricular de llamada;Compatible;3,75;;;6
+CU-P90-FLX-COM;Cubot;P90;Flex de encendido y volumen;Compatible;3,10;;;6
+CU-P90-SIM-COM;Cubot;P90;Bandeja SIM;Compatible;3,19;;;6
+CU-X100-PAN-COM;Cubot;X100;Pantalla;Compatible;15,45;14,99;14,52;6
+CU-X100-BAT-COM;Cubot;X100;Batería;Compatible;8,20;;;6
+CU-X100-CON-COM;Cubot;X100;Conector de carga;Compatible;4,85;;;6
+CU-X100-TAP-COM-NEG;Cubot;X100;Tapa trasera;Negro;5,95;;;6
+CU-X100-TAP-COM-DOR;Cubot;X100;Tapa trasera;Dorado;5,95;;;6
+CU-X100-CTR-COM;Cubot;X100;Cámara trasera;Compatible;10,45;10,14;9,82;6
+CU-X100-CFR-COM;Cubot;X100;Cámara frontal;Compatible;7,00;;;6
+CU-X100-LEN-COM;Cubot;X100;Lente de cámara;Compatible;3,05;;;6
+CU-X100-ALT-COM;Cubot;X100;Altavoz;Compatible;4,65;;;6
+CU-X100-AUR-COM;Cubot;X100;Auricular de llamada;Compatible;3,75;;;6
+CU-X100-FLX-COM;Cubot;X100;Flex de encendido y volumen;Compatible;3,10;;;6
+CU-X100-SIM-COM;Cubot;X100;Bandeja SIM;Compatible;3,19;;;6
+CU-KPW5-PAN-COM;Cubot;KingKong Power 5;Pantalla;Compatible;18,05;17,51;16,97;6
+CU-KPW5-BAT-COM;Cubot;KingKong Power 5;Batería;Compatible;8,89;;;6
+CU-KPW5-CON-COM;Cubot;KingKong Power 5;Conector de carga;Compatible;6,00;;;6
+CU-KPW5-TAP-COM-NEG;Cubot;KingKong Power 5;Tapa trasera;Negro;6,65;;;6
+CU-KPW5-CTR-COM;Cubot;KingKong Power 5;Cámara trasera;Compatible;11,85;11,49;11,14;6
+CU-KPW5-CFR-COM;Cubot;KingKong Power 5;Cámara frontal;Compatible;7,49;;;6
+CU-KPW5-LEN-COM;Cubot;KingKong Power 5;Lente de cámara;Compatible;2,95;;;6
+CU-KPW5-ALT-COM;Cubot;KingKong Power 5;Altavoz;Compatible;4,75;;;6
+CU-KPW5-AUR-COM;Cubot;KingKong Power 5;Auricular de llamada;Compatible;3,70;;;6
+CU-KPW5-FLX-COM;Cubot;KingKong Power 5;Flex de encendido y volumen;Compatible;3,05;;;6
+CU-KPW5-SIM-COM;Cubot;KingKong Power 5;Bandeja SIM;Compatible;3,00;;;6
+CU-K11-PAN-COM;Cubot;KingKong 11;Pantalla;Compatible;18,05;17,51;16,97;6
+CU-K11-BAT-COM;Cubot;KingKong 11;Batería;Compatible;8,89;;;6
+CU-K11-CON-COM;Cubot;KingKong 11;Conector de carga;Compatible;6,00;;;6
+CU-K11-TAP-COM-NEG;Cubot;KingKong 11;Tapa trasera;Negro;6,65;;;6
+CU-K11-CTR-COM;Cubot;KingKong 11;Cámara trasera;Compatible;11,85;11,49;11,14;6
+CU-K11-CFR-COM;Cubot;KingKong 11;Cámara frontal;Compatible;7,49;;;6
+CU-K11-LEN-COM;Cubot;KingKong 11;Lente de cámara;Compatible;2,95;;;6
+CU-K11-ALT-COM;Cubot;KingKong 11;Altavoz;Compatible;4,75;;;6
+CU-K11-AUR-COM;Cubot;KingKong 11;Auricular de llamada;Compatible;3,70;;;6
+CU-K11-FLX-COM;Cubot;KingKong 11;Flex de encendido y volumen;Compatible;3,05;;;6
+CU-K11-SIM-COM;Cubot;KingKong 11;Bandeja SIM;Compatible;3,00;;;6
+CU-KES3-PAN-COM;Cubot;KingKong ES 3;Pantalla;Compatible;18,05;17,51;16,97;6
+CU-KES3-BAT-COM;Cubot;KingKong ES 3;Batería;Compatible;8,89;;;6
+CU-KES3-CON-COM;Cubot;KingKong ES 3;Conector de carga;Compatible;6,00;;;6
+CU-KES3-TAP-COM-NEG;Cubot;KingKong ES 3;Tapa trasera;Negro;6,65;;;6
+CU-KES3-CTR-COM;Cubot;KingKong ES 3;Cámara trasera;Compatible;11,85;11,49;11,14;6
+CU-KES3-CFR-COM;Cubot;KingKong ES 3;Cámara frontal;Compatible;7,49;;;6
+CU-KES3-LEN-COM;Cubot;KingKong ES 3;Lente de cámara;Compatible;2,95;;;6
+CU-KES3-ALT-COM;Cubot;KingKong ES 3;Altavoz;Compatible;4,75;;;6
+CU-KES3-AUR-COM;Cubot;KingKong ES 3;Auricular de llamada;Compatible;3,70;;;6
+CU-KES3-FLX-COM;Cubot;KingKong ES 3;Flex de encendido y volumen;Compatible;3,05;;;6
+CU-KES3-SIM-COM;Cubot;KingKong ES 3;Bandeja SIM;Compatible;3,00;;;6
+CU-KMN4-PAN-COM;Cubot;KingKong Mini 4;Pantalla;Compatible;18,05;17,51;16,97;6
+CU-KMN4-BAT-COM;Cubot;KingKong Mini 4;Batería;Compatible;8,89;;;6
+CU-KMN4-CON-COM;Cubot;KingKong Mini 4;Conector de carga;Compatible;6,00;;;6
+CU-KMN4-TAP-COM-BLA;Cubot;KingKong Mini 4;Tapa trasera;Black+Green;6,65;;;6
+CU-KMN4-TAP-COM-BGR;Cubot;KingKong Mini 4;Tapa trasera;Black+Grey;6,65;;;6
+CU-KMN4-CTR-COM;Cubot;KingKong Mini 4;Cámara trasera;Compatible;11,85;11,49;11,14;6
+CU-KMN4-CFR-COM;Cubot;KingKong Mini 4;Cámara frontal;Compatible;7,49;;;6
+CU-KMN4-LEN-COM;Cubot;KingKong Mini 4;Lente de cámara;Compatible;2,95;;;6
+CU-KMN4-ALT-COM;Cubot;KingKong Mini 4;Altavoz;Compatible;4,75;;;6
+CU-KMN4-AUR-COM;Cubot;KingKong Mini 4;Auricular de llamada;Compatible;3,70;;;6
+CU-KMN4-FLX-COM;Cubot;KingKong Mini 4;Flex de encendido y volumen;Compatible;3,05;;;6
+CU-KMN4-SIM-COM;Cubot;KingKong Mini 4;Bandeja SIM;Compatible;3,00;;;6
+CU-KESP-PAN-COM;Cubot;KingKong ES Pro;Pantalla;Compatible;18,05;17,51;16,97;6
+CU-KESP-BAT-COM;Cubot;KingKong ES Pro;Batería;Compatible;9,15;;;6
+CU-KESP-CON-COM;Cubot;KingKong ES Pro;Conector de carga;Compatible;6,00;;;6
+CU-KESP-TAP-COM-BLA;Cubot;KingKong ES Pro;Tapa trasera;black+orange;6,65;;;6
+CU-KESP-CTR-COM;Cubot;KingKong ES Pro;Cámara trasera;Compatible;11,85;11,49;11,14;6
+CU-KESP-CFR-COM;Cubot;KingKong ES Pro;Cámara frontal;Compatible;7,49;;;6
+CU-KESP-LEN-COM;Cubot;KingKong ES Pro;Lente de cámara;Compatible;2,95;;;6
+CU-KESP-ALT-COM;Cubot;KingKong ES Pro;Altavoz;Compatible;4,75;;;6
+CU-KESP-AUR-COM;Cubot;KingKong ES Pro;Auricular de llamada;Compatible;3,70;;;6
+CU-KESP-FLX-COM;Cubot;KingKong ES Pro;Flex de encendido y volumen;Compatible;3,05;;;6
+CU-KESP-SIM-COM;Cubot;KingKong ES Pro;Bandeja SIM;Compatible;3,00;;;6
+CU-KES5-PAN-COM;Cubot;KingKong ES 5;Pantalla;Compatible;18,05;17,51;16,97;6
+CU-KES5-BAT-COM;Cubot;KingKong ES 5;Batería;Compatible;8,89;;;6
+CU-KES5-CON-COM;Cubot;KingKong ES 5;Conector de carga;Compatible;6,00;;;6
+CU-KES5-TAP-COM-GRI;Cubot;KingKong ES 5;Tapa trasera;Gris;6,65;;;6
+CU-KES5-TAP-COM-VER;Cubot;KingKong ES 5;Tapa trasera;Verde;6,65;;;6
+CU-KES5-TAP-COM-AMA;Cubot;KingKong ES 5;Tapa trasera;Amarillo;6,65;;;6
+CU-KES5-TAP-COM-NAR;Cubot;KingKong ES 5;Tapa trasera;Naranja;6,65;;;6
+CU-KES5-CTR-COM;Cubot;KingKong ES 5;Cámara trasera;Compatible;11,85;11,49;11,14;6
+CU-KES5-CFR-COM;Cubot;KingKong ES 5;Cámara frontal;Compatible;7,49;;;6
+CU-KES5-LEN-COM;Cubot;KingKong ES 5;Lente de cámara;Compatible;2,95;;;6
+CU-KES5-ALT-COM;Cubot;KingKong ES 5;Altavoz;Compatible;4,75;;;6
+CU-KES5-AUR-COM;Cubot;KingKong ES 5;Auricular de llamada;Compatible;3,70;;;6
+CU-KES5-FLX-COM;Cubot;KingKong ES 5;Flex de encendido y volumen;Compatible;3,05;;;6
+CU-KES5-SIM-COM;Cubot;KingKong ES 5;Bandeja SIM;Compatible;3,00;;;6
+CU-A50-PAN-COM;Cubot;A50;Pantalla;Compatible;15,45;14,99;14,52;6
+CU-A50-BAT-COM;Cubot;A50;Batería;Compatible;8,20;;;6
+CU-A50-CON-COM;Cubot;A50;Conector de carga;Compatible;4,85;;;6
+CU-A50-TAP-COM-NEG;Cubot;A50;Tapa trasera;Negro;5,95;;;6
+CU-A50-TAP-COM-AZU;Cubot;A50;Tapa trasera;Azul;5,95;;;6
+CU-A50-TAP-COM-NAR;Cubot;A50;Tapa trasera;Naranja;5,95;;;6
+CU-A50-CTR-COM;Cubot;A50;Cámara trasera;Compatible;10,45;10,14;9,82;6
+CU-A50-CFR-COM;Cubot;A50;Cámara frontal;Compatible;7,00;;;6
+CU-A50-LEN-COM;Cubot;A50;Lente de cámara;Compatible;3,05;;;6
+CU-A50-ALT-COM;Cubot;A50;Altavoz;Compatible;4,65;;;6
+CU-A50-AUR-COM;Cubot;A50;Auricular de llamada;Compatible;3,75;;;6
+CU-A50-FLX-COM;Cubot;A50;Flex de encendido y volumen;Compatible;3,10;;;6
+CU-A50-SIM-COM;Cubot;A50;Bandeja SIM;Compatible;3,19;;;6
+CU-KD-PAN-COM;Cubot;KingKong Dura;Pantalla;Compatible;18,05;17,51;16,97;6
+CU-KD-BAT-COM;Cubot;KingKong Dura;Batería;Compatible;8,89;;;6
+CU-KD-CON-COM;Cubot;KingKong Dura;Conector de carga;Compatible;6,00;;;6
+CU-KD-TAP-COM-NEG;Cubot;KingKong Dura;Tapa trasera;Negro;6,65;;;6
+CU-KD-TAP-COM-VER;Cubot;KingKong Dura;Tapa trasera;Verde;6,65;;;6
+CU-KD-CTR-COM;Cubot;KingKong Dura;Cámara trasera;Compatible;11,85;11,49;11,14;6
+CU-KD-CFR-COM;Cubot;KingKong Dura;Cámara frontal;Compatible;7,49;;;6
+CU-KD-LEN-COM;Cubot;KingKong Dura;Lente de cámara;Compatible;2,95;;;6
+CU-KD-ALT-COM;Cubot;KingKong Dura;Altavoz;Compatible;4,75;;;6
+CU-KD-AUR-COM;Cubot;KingKong Dura;Auricular de llamada;Compatible;3,70;;;6
+CU-KD-FLX-COM;Cubot;KingKong Dura;Flex de encendido y volumen;Compatible;3,05;;;6
+CU-KD-SIM-COM;Cubot;KingKong Dura;Bandeja SIM;Compatible;3,00;;;6
+CU-J3-PRO-NA;Cubot;J3;Cristal templado;Estándar;1,30;;;
+CU-J3-PRO-PRI;Cubot;J3;Cristal templado;Privacidad;4,00;;;
+CU-J3-FUN-SIL;Cubot;J3;Funda;Silicona;2,50;;;
+CU-J3-FUN-TPU;Cubot;J3;Funda;Transparente;2,95;;;
+CU-J3-FUN-LIB;Cubot;J3;Funda;Libro;3,70;;;
+CU-J3-FUN-ANT;Cubot;J3;Funda;Antigolpes;3,10;;;
+CU-J3P-PRO-NA;Cubot;J3 Pro;Cristal templado;Estándar;1,30;;;
+CU-J3P-PRO-PRI;Cubot;J3 Pro;Cristal templado;Privacidad;4,00;;;
+CU-J3P-FUN-SIL;Cubot;J3 Pro;Funda;Silicona;2,50;;;
+CU-J3P-FUN-TPU;Cubot;J3 Pro;Funda;Transparente;2,95;;;
+CU-J3P-FUN-LIB;Cubot;J3 Pro;Funda;Libro;3,70;;;
+CU-J3P-FUN-ANT;Cubot;J3 Pro;Funda;Antigolpes;3,10;;;
+CU-K-PRO-NA;Cubot;KingKong;Cristal templado;Estándar;1,30;;;
+CU-K3-PRO-NA;Cubot;KingKong 3;Cristal templado;Estándar;1,30;;;
+CU-N-PRO-NA;Cubot;Nova;Cristal templado;Estándar;1,30;;;
+CU-N-PRO-PRI;Cubot;Nova;Cristal templado;Privacidad;4,00;;;
+CU-N-FUN-SIL;Cubot;Nova;Funda;Silicona;2,50;;;
+CU-N-FUN-TPU;Cubot;Nova;Funda;Transparente;2,95;;;
+CU-N-FUN-LIB;Cubot;Nova;Funda;Libro;3,70;;;
+CU-N-FUN-ANT;Cubot;Nova;Funda;Antigolpes;3,10;;;
+CU-P20-PRO-NA;Cubot;P20;Cristal templado;Estándar;1,30;;;
+CU-P20-PRO-PRI;Cubot;P20;Cristal templado;Privacidad;4,00;;;
+CU-P20-FUN-SIL;Cubot;P20;Funda;Silicona;2,50;;;
+CU-P20-FUN-TPU;Cubot;P20;Funda;Transparente;2,95;;;
+CU-P20-FUN-LIB;Cubot;P20;Funda;Libro;3,70;;;
+CU-P20-FUN-ANT;Cubot;P20;Funda;Antigolpes;3,10;;;
+CU-PW-PRO-NA;Cubot;Power;Cristal templado;Estándar;1,30;;;
+CU-PW-PRO-PRI;Cubot;Power;Cristal templado;Privacidad;4,00;;;
+CU-PW-FUN-SIL;Cubot;Power;Funda;Silicona;2,50;;;
+CU-PW-FUN-TPU;Cubot;Power;Funda;Transparente;2,95;;;
+CU-PW-FUN-LIB;Cubot;Power;Funda;Libro;3,70;;;
+CU-PW-FUN-ANT;Cubot;Power;Funda;Antigolpes;3,10;;;
+CU-J5-PRO-NA;Cubot;J5;Cristal templado;Estándar;1,30;;;
+CU-J5-PRO-PRI;Cubot;J5;Cristal templado;Privacidad;4,00;;;
+CU-J5-FUN-SIL;Cubot;J5;Funda;Silicona;2,50;;;
+CU-J5-FUN-TPU;Cubot;J5;Funda;Transparente;2,95;;;
+CU-J5-FUN-LIB;Cubot;J5;Funda;Libro;3,70;;;
+CU-J5-FUN-ANT;Cubot;J5;Funda;Antigolpes;3,10;;;
+CU-J7-PRO-NA;Cubot;J7;Cristal templado;Estándar;1,30;;;
+CU-J7-PRO-PRI;Cubot;J7;Cristal templado;Privacidad;4,00;;;
+CU-J7-FUN-SIL;Cubot;J7;Funda;Silicona;2,50;;;
+CU-J7-FUN-TPU;Cubot;J7;Funda;Transparente;2,95;;;
+CU-J7-FUN-LIB;Cubot;J7;Funda;Libro;3,70;;;
+CU-J7-FUN-ANT;Cubot;J7;Funda;Antigolpes;3,10;;;
+CU-J7-PCA-NA;Cubot;J7;Protector de cámara;Cristal;2,90;;;
+CU-KMN-PRO-NA;Cubot;KingKong Mini;Cristal templado;Estándar;1,30;;;
+CU-M2-PRO-NA;Cubot;Max 2;Cristal templado;Estándar;1,30;;;
+CU-M2-PRO-PRI;Cubot;Max 2;Cristal templado;Privacidad;4,00;;;
+CU-M2-FUN-SIL;Cubot;Max 2;Funda;Silicona;2,50;;;
+CU-M2-FUN-TPU;Cubot;Max 2;Funda;Transparente;2,95;;;
+CU-M2-FUN-LIB;Cubot;Max 2;Funda;Libro;3,70;;;
+CU-M2-FUN-ANT;Cubot;Max 2;Funda;Antigolpes;3,10;;;
+CU-M2-PCA-NA;Cubot;Max 2;Protector de cámara;Cristal;2,90;;;
+CU-Q-PRO-NA;Cubot;Quest;Cristal templado;Estándar;1,30;;;
+CU-Q-PRO-PRI;Cubot;Quest;Cristal templado;Privacidad;4,00;;;
+CU-Q-FUN-SIL;Cubot;Quest;Funda;Silicona;2,50;;;
+CU-Q-FUN-TPU;Cubot;Quest;Funda;Transparente;2,95;;;
+CU-Q-FUN-LIB;Cubot;Quest;Funda;Libro;3,70;;;
+CU-Q-FUN-ANT;Cubot;Quest;Funda;Antigolpes;3,10;;;
+CU-Q-PCA-NA;Cubot;Quest;Protector de cámara;Cristal;2,90;;;
+CU-QL-PRO-NA;Cubot;Quest Lite;Cristal templado;Estándar;1,30;;;
+CU-QL-PRO-PRI;Cubot;Quest Lite;Cristal templado;Privacidad;4,00;;;
+CU-QL-FUN-SIL;Cubot;Quest Lite;Funda;Silicona;2,50;;;
+CU-QL-FUN-TPU;Cubot;Quest Lite;Funda;Transparente;2,95;;;
+CU-QL-FUN-LIB;Cubot;Quest Lite;Funda;Libro;3,70;;;
+CU-QL-FUN-ANT;Cubot;Quest Lite;Funda;Antigolpes;3,10;;;
+CU-QL-PCA-NA;Cubot;Quest Lite;Protector de cámara;Cristal;2,90;;;
+CU-R15-PRO-NA;Cubot;R15;Cristal templado;Estándar;1,30;;;
+CU-R15-PRO-PRI;Cubot;R15;Cristal templado;Privacidad;4,00;;;
+CU-R15-FUN-SIL;Cubot;R15;Funda;Silicona;2,50;;;
+CU-R15-FUN-TPU;Cubot;R15;Funda;Transparente;2,95;;;
+CU-R15-FUN-LIB;Cubot;R15;Funda;Libro;3,70;;;
+CU-R15-FUN-ANT;Cubot;R15;Funda;Antigolpes;3,10;;;
+CU-R15-PCA-NA;Cubot;R15;Protector de cámara;Cristal;2,90;;;
+CU-R15P-PRO-NA;Cubot;R15 Pro;Cristal templado;Estándar;1,30;;;
+CU-R15P-PRO-PRI;Cubot;R15 Pro;Cristal templado;Privacidad;4,00;;;
+CU-R15P-FUN-SIL;Cubot;R15 Pro;Funda;Silicona;2,50;;;
+CU-R15P-FUN-TPU;Cubot;R15 Pro;Funda;Transparente;2,95;;;
+CU-R15P-FUN-LIB;Cubot;R15 Pro;Funda;Libro;3,70;;;
+CU-R15P-FUN-ANT;Cubot;R15 Pro;Funda;Antigolpes;3,10;;;
+CU-R15P-PCA-NA;Cubot;R15 Pro;Protector de cámara;Cristal;2,90;;;
+CU-R19-PRO-NA;Cubot;R19;Cristal templado;Estándar;1,30;;;
+CU-R19-PRO-PRI;Cubot;R19;Cristal templado;Privacidad;4,00;;;
+CU-R19-FUN-SIL;Cubot;R19;Funda;Silicona;2,50;;;
+CU-R19-FUN-TPU;Cubot;R19;Funda;Transparente;2,95;;;
+CU-R19-FUN-LIB;Cubot;R19;Funda;Libro;3,70;;;
+CU-R19-FUN-ANT;Cubot;R19;Funda;Antigolpes;3,10;;;
+CU-R19-PCA-NA;Cubot;R19;Protector de cámara;Cristal;2,90;;;
+CU-X19-PRO-NA;Cubot;X19;Cristal templado;Estándar;1,30;;;
+CU-X19-PRO-PRI;Cubot;X19;Cristal templado;Privacidad;4,00;;;
+CU-X19-FUN-SIL;Cubot;X19;Funda;Silicona;2,50;;;
+CU-X19-FUN-TPU;Cubot;X19;Funda;Transparente;2,95;;;
+CU-X19-FUN-LIB;Cubot;X19;Funda;Libro;3,70;;;
+CU-X19-FUN-ANT;Cubot;X19;Funda;Antigolpes;3,10;;;
+CU-X19-PCA-NA;Cubot;X19;Protector de cámara;Cristal;2,90;;;
+CU-X20P-PRO-NA;Cubot;X20 Pro;Cristal templado;Estándar;1,30;;;
+CU-X20P-PRO-PRI;Cubot;X20 Pro;Cristal templado;Privacidad;4,00;;;
+CU-X20P-FUN-SIL;Cubot;X20 Pro;Funda;Silicona;2,50;;;
+CU-X20P-FUN-TPU;Cubot;X20 Pro;Funda;Transparente;2,95;;;
+CU-X20P-FUN-LIB;Cubot;X20 Pro;Funda;Libro;3,70;;;
+CU-X20P-FUN-ANT;Cubot;X20 Pro;Funda;Antigolpes;3,10;;;
+CU-X20P-PCA-NA;Cubot;X20 Pro;Protector de cámara;Cristal;2,90;;;
+CU-C20-PRO-NA;Cubot;C20;Cristal templado;Estándar;1,30;;;
+CU-C20-PRO-PRI;Cubot;C20;Cristal templado;Privacidad;4,00;;;
+CU-C20-FUN-SIL;Cubot;C20;Funda;Silicona;2,50;;;
+CU-C20-FUN-TPU;Cubot;C20;Funda;Transparente;2,95;;;
+CU-C20-FUN-LIB;Cubot;C20;Funda;Libro;3,70;;;
+CU-C20-FUN-ANT;Cubot;C20;Funda;Antigolpes;3,10;;;
+CU-C20-PCA-NA;Cubot;C20;Protector de cámara;Cristal;2,90;;;
+CU-C30-PRO-NA;Cubot;C30;Cristal templado;Estándar;1,30;;;
+CU-C30-PRO-PRI;Cubot;C30;Cristal templado;Privacidad;4,00;;;
+CU-C30-FUN-SIL;Cubot;C30;Funda;Silicona;2,50;;;
+CU-C30-FUN-TPU;Cubot;C30;Funda;Transparente;2,95;;;
+CU-C30-FUN-LIB;Cubot;C30;Funda;Libro;3,70;;;
+CU-C30-FUN-ANT;Cubot;C30;Funda;Antigolpes;3,10;;;
+CU-C30-PCA-NA;Cubot;C30;Protector de cámara;Cristal;2,90;;;
+CU-J8-PRO-NA;Cubot;J8;Cristal templado;Estándar;1,30;;;
+CU-J8-PRO-PRI;Cubot;J8;Cristal templado;Privacidad;4,00;;;
+CU-J8-FUN-SIL;Cubot;J8;Funda;Silicona;2,50;;;
+CU-J8-FUN-TPU;Cubot;J8;Funda;Transparente;2,95;;;
+CU-J8-FUN-LIB;Cubot;J8;Funda;Libro;3,70;;;
+CU-J8-FUN-ANT;Cubot;J8;Funda;Antigolpes;3,10;;;
+CU-J8-PCA-NA;Cubot;J8;Protector de cámara;Cristal;2,90;;;
+CU-J9-PRO-NA;Cubot;J9;Cristal templado;Estándar;1,30;;;
+CU-J9-PRO-PRI;Cubot;J9;Cristal templado;Privacidad;4,00;;;
+CU-J9-FUN-SIL;Cubot;J9;Funda;Silicona;2,50;;;
+CU-J9-FUN-TPU;Cubot;J9;Funda;Transparente;2,95;;;
+CU-J9-FUN-LIB;Cubot;J9;Funda;Libro;3,70;;;
+CU-J9-FUN-ANT;Cubot;J9;Funda;Antigolpes;3,10;;;
+CU-J9-PCA-NA;Cubot;J9;Protector de cámara;Cristal;2,90;;;
+CU-KCS-PRO-NA;Cubot;KingKong CS;Cristal templado;Estándar;1,30;;;
+CU-KMN2-PRO-NA;Cubot;KingKong Mini 2;Cristal templado;Estándar;1,30;;;
+CU-N20-PRO-NA;Cubot;Note 20;Cristal templado;Estándar;1,30;;;
+CU-N20-PRO-PRI;Cubot;Note 20;Cristal templado;Privacidad;4,00;;;
+CU-N20-FUN-SIL;Cubot;Note 20;Funda;Silicona;2,50;;;
+CU-N20-FUN-TPU;Cubot;Note 20;Funda;Transparente;2,95;;;
+CU-N20-FUN-LIB;Cubot;Note 20;Funda;Libro;3,70;;;
+CU-N20-FUN-ANT;Cubot;Note 20;Funda;Antigolpes;3,10;;;
+CU-N20-PCA-NA;Cubot;Note 20;Protector de cámara;Cristal;2,90;;;
+CU-N20P-PRO-NA;Cubot;Note 20 Pro;Cristal templado;Estándar;1,30;;;
+CU-N20P-PRO-PRI;Cubot;Note 20 Pro;Cristal templado;Privacidad;4,00;;;
+CU-N20P-FUN-SIL;Cubot;Note 20 Pro;Funda;Silicona;2,50;;;
+CU-N20P-FUN-TPU;Cubot;Note 20 Pro;Funda;Transparente;2,95;;;
+CU-N20P-FUN-LIB;Cubot;Note 20 Pro;Funda;Libro;3,70;;;
+CU-N20P-FUN-ANT;Cubot;Note 20 Pro;Funda;Antigolpes;3,10;;;
+CU-N20P-PCA-NA;Cubot;Note 20 Pro;Protector de cámara;Cristal;2,90;;;
+CU-N7-PRO-NA;Cubot;Note 7;Cristal templado;Estándar;1,30;;;
+CU-N7-PRO-PRI;Cubot;Note 7;Cristal templado;Privacidad;4,00;;;
+CU-N7-FUN-SIL;Cubot;Note 7;Funda;Silicona;2,50;;;
+CU-N7-FUN-TPU;Cubot;Note 7;Funda;Transparente;2,95;;;
+CU-N7-FUN-LIB;Cubot;Note 7;Funda;Libro;3,70;;;
+CU-N7-FUN-ANT;Cubot;Note 7;Funda;Antigolpes;3,10;;;
+CU-N7-PCA-NA;Cubot;Note 7;Protector de cámara;Cristal;2,90;;;
+CU-P40-PRO-NA;Cubot;P40;Cristal templado;Estándar;1,30;;;
+CU-P40-PRO-PRI;Cubot;P40;Cristal templado;Privacidad;4,00;;;
+CU-P40-FUN-SIL;Cubot;P40;Funda;Silicona;2,50;;;
+CU-P40-FUN-TPU;Cubot;P40;Funda;Transparente;2,95;;;
+CU-P40-FUN-LIB;Cubot;P40;Funda;Libro;3,70;;;
+CU-P40-FUN-ANT;Cubot;P40;Funda;Antigolpes;3,10;;;
+CU-P40-PCA-NA;Cubot;P40;Protector de cámara;Cristal;2,90;;;
+CU-X30-PRO-NA;Cubot;X30;Cristal templado;Estándar;1,30;;;
+CU-X30-PRO-PRI;Cubot;X30;Cristal templado;Privacidad;4,00;;;
+CU-X30-FUN-SIL;Cubot;X30;Funda;Silicona;2,50;;;
+CU-X30-FUN-TPU;Cubot;X30;Funda;Transparente;2,95;;;
+CU-X30-FUN-LIB;Cubot;X30;Funda;Libro;3,70;;;
+CU-X30-FUN-ANT;Cubot;X30;Funda;Antigolpes;3,10;;;
+CU-X30-PCA-NA;Cubot;X30;Protector de cámara;Cristal;2,90;;;
+CU-J10-PRO-NA;Cubot;J10;Cristal templado;Estándar;1,30;;;
+CU-J10-PRO-PRI;Cubot;J10;Cristal templado;Privacidad;4,00;;;
+CU-J10-FUN-SIL;Cubot;J10;Funda;Silicona;2,50;;;
+CU-J10-FUN-TPU;Cubot;J10;Funda;Transparente;2,95;;;
+CU-J10-FUN-LIB;Cubot;J10;Funda;Libro;3,70;;;
+CU-J10-FUN-ANT;Cubot;J10;Funda;Antigolpes;3,10;;;
+CU-K5-PRO-NA;Cubot;KingKong 5;Cristal templado;Estándar;1,30;;;
+CU-K5P-PRO-NA;Cubot;KingKong 5 Pro;Cristal templado;Estándar;1,30;;;
+CU-K7-PRO-NA;Cubot;KingKong 7;Cristal templado;Estándar;1,30;;;
+CU-M3-PRO-NA;Cubot;Max 3;Cristal templado;Estándar;1,30;;;
+CU-M3-PRO-PRI;Cubot;Max 3;Cristal templado;Privacidad;4,00;;;
+CU-M3-FUN-SIL;Cubot;Max 3;Funda;Silicona;2,50;;;
+CU-M3-FUN-TPU;Cubot;Max 3;Funda;Transparente;2,95;;;
+CU-M3-FUN-LIB;Cubot;Max 3;Funda;Libro;3,70;;;
+CU-M3-FUN-ANT;Cubot;Max 3;Funda;Antigolpes;3,10;;;
+CU-M3-PCA-NA;Cubot;Max 3;Protector de cámara;Cristal;2,90;;;
+CU-N9-PRO-NA;Cubot;Note 9;Cristal templado;Estándar;1,30;;;
+CU-N9-PRO-PRI;Cubot;Note 9;Cristal templado;Privacidad;4,00;;;
+CU-N9-FUN-SIL;Cubot;Note 9;Funda;Silicona;2,50;;;
+CU-N9-FUN-TPU;Cubot;Note 9;Funda;Transparente;2,95;;;
+CU-N9-FUN-LIB;Cubot;Note 9;Funda;Libro;3,70;;;
+CU-N9-FUN-ANT;Cubot;Note 9;Funda;Antigolpes;3,10;;;
+CU-X50-PRO-NA;Cubot;X50;Cristal templado;Estándar;1,30;;;
+CU-X50-PRO-PRI;Cubot;X50;Cristal templado;Privacidad;4,00;;;
+CU-X50-FUN-SIL;Cubot;X50;Funda;Silicona;2,50;;;
+CU-X50-FUN-TPU;Cubot;X50;Funda;Transparente;2,95;;;
+CU-X50-FUN-LIB;Cubot;X50;Funda;Libro;3,70;;;
+CU-X50-FUN-ANT;Cubot;X50;Funda;Antigolpes;3,10;;;
+CU-X50-PCA-NA;Cubot;X50;Protector de cámara;Cristal;2,90;;;
+CU-K6-PRO-NA;Cubot;KingKong 6;Cristal templado;Estándar;1,30;;;
+CU-KMN2P-PRO-NA;Cubot;KingKong Mini 2 Pro;Cristal templado;Estándar;1,30;;;
+CU-KMN3-PRO-NA;Cubot;KingKong Mini 3;Cristal templado;Estándar;1,30;;;
+CU-N30-PRO-NA;Cubot;Note 30;Cristal templado;Estándar;1,30;;;
+CU-N30-PRO-PRI;Cubot;Note 30;Cristal templado;Privacidad;4,00;;;
+CU-N30-FUN-SIL;Cubot;Note 30;Funda;Silicona;2,50;;;
+CU-N30-FUN-TPU;Cubot;Note 30;Funda;Transparente;2,95;;;
+CU-N30-FUN-LIB;Cubot;Note 30;Funda;Libro;3,70;;;
+CU-N30-FUN-ANT;Cubot;Note 30;Funda;Antigolpes;3,10;;;
+CU-N30-PCA-NA;Cubot;Note 30;Protector de cámara;Cristal;2,90;;;
+CU-N8-PRO-NA;Cubot;Note 8;Cristal templado;Estándar;1,30;;;
+CU-N8-PRO-PRI;Cubot;Note 8;Cristal templado;Privacidad;4,00;;;
+CU-N8-FUN-SIL;Cubot;Note 8;Funda;Silicona;2,50;;;
+CU-N8-FUN-TPU;Cubot;Note 8;Funda;Transparente;2,95;;;
+CU-N8-FUN-LIB;Cubot;Note 8;Funda;Libro;3,70;;;
+CU-N8-FUN-ANT;Cubot;Note 8;Funda;Antigolpes;3,10;;;
+CU-N8-PCA-NA;Cubot;Note 8;Protector de cámara;Cristal;2,90;;;
+CU-P50-PRO-NA;Cubot;P50;Cristal templado;Estándar;1,30;;;
+CU-P50-PRO-PRI;Cubot;P50;Cristal templado;Privacidad;4,00;;;
+CU-P50-FUN-SIL;Cubot;P50;Funda;Silicona;2,50;;;
+CU-P50-FUN-TPU;Cubot;P50;Funda;Transparente;2,95;;;
+CU-P50-FUN-LIB;Cubot;P50;Funda;Libro;3,70;;;
+CU-P50-FUN-ANT;Cubot;P50;Funda;Antigolpes;3,10;;;
+CU-P50-PCA-NA;Cubot;P50;Protector de cámara;Cristal;2,90;;;
+CU-P60-PRO-NA;Cubot;P60;Cristal templado;Estándar;1,30;;;
+CU-P60-PRO-PRI;Cubot;P60;Cristal templado;Privacidad;4,00;;;
+CU-P60-FUN-SIL;Cubot;P60;Funda;Silicona;2,50;;;
+CU-P60-FUN-TPU;Cubot;P60;Funda;Transparente;2,95;;;
+CU-P60-FUN-LIB;Cubot;P60;Funda;Libro;3,70;;;
+CU-P60-FUN-ANT;Cubot;P60;Funda;Antigolpes;3,10;;;
+CU-P60-PCA-NA;Cubot;P60;Protector de cámara;Cristal;2,90;;;
+CU-PK-PRO-NA;Cubot;Pocket;Cristal templado;Estándar;1,30;;;
+CU-PK-PRO-PRI;Cubot;Pocket;Cristal templado;Privacidad;4,00;;;
+CU-PK-FUN-SIL;Cubot;Pocket;Funda;Silicona;2,50;;;
+CU-PK-FUN-TPU;Cubot;Pocket;Funda;Transparente;2,95;;;
+CU-PK-FUN-LIB;Cubot;Pocket;Funda;Libro;3,70;;;
+CU-PK-FUN-ANT;Cubot;Pocket;Funda;Antigolpes;3,10;;;
+CU-PK3-PRO-NA;Cubot;Pocket 3;Cristal templado;Estándar;1,30;;;
+CU-PK3-PRO-PRI;Cubot;Pocket 3;Cristal templado;Privacidad;4,00;;;
+CU-PK3-FUN-SIL;Cubot;Pocket 3;Funda;Silicona;2,50;;;
+CU-PK3-FUN-TPU;Cubot;Pocket 3;Funda;Transparente;2,95;;;
+CU-PK3-FUN-LIB;Cubot;Pocket 3;Funda;Libro;3,70;;;
+CU-PK3-FUN-ANT;Cubot;Pocket 3;Funda;Antigolpes;3,10;;;
+CU-J20-PRO-NA;Cubot;J20;Cristal templado;Estándar;1,30;;;
+CU-J20-PRO-PRI;Cubot;J20;Cristal templado;Privacidad;4,00;;;
+CU-J20-FUN-SIL;Cubot;J20;Funda;Silicona;2,50;;;
+CU-J20-FUN-TPU;Cubot;J20;Funda;Transparente;2,95;;;
+CU-J20-FUN-LIB;Cubot;J20;Funda;Libro;3,70;;;
+CU-J20-FUN-ANT;Cubot;J20;Funda;Antigolpes;3,10;;;
+CU-K9-PRO-NA;Cubot;KingKong 9;Cristal templado;Estándar;1,30;;;
+CU-KPW-PRO-NA;Cubot;KingKong Power;Cristal templado;Estándar;1,30;;;
+CU-P80-PRO-NA;Cubot;P80;Cristal templado;Estándar;1,30;;;
+CU-P80-PRO-PRI;Cubot;P80;Cristal templado;Privacidad;4,00;;;
+CU-P80-FUN-SIL;Cubot;P80;Funda;Silicona;2,50;;;
+CU-P80-FUN-TPU;Cubot;P80;Funda;Transparente;2,95;;;
+CU-P80-FUN-LIB;Cubot;P80;Funda;Libro;3,70;;;
+CU-P80-FUN-ANT;Cubot;P80;Funda;Antigolpes;3,10;;;
+CU-P80-PCA-NA;Cubot;P80;Protector de cámara;Cristal;2,90;;;
+CU-X70-PRO-NA;Cubot;X70;Cristal templado;Estándar;1,30;;;
+CU-X70-PRO-PRI;Cubot;X70;Cristal templado;Privacidad;4,00;;;
+CU-X70-FUN-SIL;Cubot;X70;Funda;Silicona;2,50;;;
+CU-X70-FUN-TPU;Cubot;X70;Funda;Transparente;2,95;;;
+CU-X70-FUN-LIB;Cubot;X70;Funda;Libro;3,70;;;
+CU-X70-FUN-ANT;Cubot;X70;Funda;Antigolpes;3,10;;;
+CU-X70-PCA-NA;Cubot;X70;Protector de cámara;Cristal;2,90;;;
+CU-KS-PRO-NA;Cubot;KingKong Star;Cristal templado;Estándar;1,30;;;
+CU-N50-PRO-NA;Cubot;Note 50;Cristal templado;Estándar;1,30;;;
+CU-N50-PRO-PRI;Cubot;Note 50;Cristal templado;Privacidad;4,00;;;
+CU-N50-FUN-SIL;Cubot;Note 50;Funda;Silicona;2,50;;;
+CU-N50-FUN-TPU;Cubot;Note 50;Funda;Transparente;2,95;;;
+CU-N50-FUN-LIB;Cubot;Note 50;Funda;Libro;3,70;;;
+CU-N50-FUN-ANT;Cubot;Note 50;Funda;Antigolpes;3,10;;;
+CU-N50-PCA-NA;Cubot;Note 50;Protector de cámara;Cristal;2,90;;;
+CU-N21-PRO-NA;Cubot;Note 21;Cristal templado;Estándar;1,30;;;
+CU-N21-PRO-PRI;Cubot;Note 21;Cristal templado;Privacidad;4,00;;;
+CU-N21-FUN-SIL;Cubot;Note 21;Funda;Silicona;2,50;;;
+CU-N21-FUN-TPU;Cubot;Note 21;Funda;Transparente;2,95;;;
+CU-N21-FUN-LIB;Cubot;Note 21;Funda;Libro;3,70;;;
+CU-N21-FUN-ANT;Cubot;Note 21;Funda;Antigolpes;3,10;;;
+CU-N21-PCA-NA;Cubot;Note 21;Protector de cámara;Cristal;2,90;;;
+CU-N40-PRO-NA;Cubot;Note 40;Cristal templado;Estándar;1,30;;;
+CU-N40-PRO-PRI;Cubot;Note 40;Cristal templado;Privacidad;4,00;;;
+CU-N40-FUN-SIL;Cubot;Note 40;Funda;Silicona;2,50;;;
+CU-N40-FUN-TPU;Cubot;Note 40;Funda;Transparente;2,95;;;
+CU-N40-FUN-LIB;Cubot;Note 40;Funda;Libro;3,70;;;
+CU-N40-FUN-ANT;Cubot;Note 40;Funda;Antigolpes;3,10;;;
+CU-N40-PCA-NA;Cubot;Note 40;Protector de cámara;Cristal;2,90;;;
+CU-K8-PRO-NA;Cubot;KingKong 8;Cristal templado;Estándar;1,30;;;
+CU-A10-PRO-NA;Cubot;A10;Cristal templado;Estándar;1,30;;;
+CU-A10-PRO-PRI;Cubot;A10;Cristal templado;Privacidad;4,00;;;
+CU-A10-FUN-SIL;Cubot;A10;Funda;Silicona;2,50;;;
+CU-A10-FUN-TPU;Cubot;A10;Funda;Transparente;2,95;;;
+CU-A10-FUN-LIB;Cubot;A10;Funda;Libro;3,70;;;
+CU-A10-FUN-ANT;Cubot;A10;Funda;Antigolpes;3,10;;;
+CU-A10-PCA-NA;Cubot;A10;Protector de cámara;Cristal;2,90;;;
+CU-A20-PRO-NA;Cubot;A20;Cristal templado;Estándar;1,30;;;
+CU-A20-PRO-PRI;Cubot;A20;Cristal templado;Privacidad;4,00;;;
+CU-A20-FUN-SIL;Cubot;A20;Funda;Silicona;2,50;;;
+CU-A20-FUN-TPU;Cubot;A20;Funda;Transparente;2,95;;;
+CU-A20-FUN-LIB;Cubot;A20;Funda;Libro;3,70;;;
+CU-A20-FUN-ANT;Cubot;A20;Funda;Antigolpes;3,10;;;
+CU-A20-PCA-NA;Cubot;A20;Protector de cámara;Cristal;2,90;;;
+CU-A30-PRO-NA;Cubot;A30;Cristal templado;Estándar;1,30;;;
+CU-A30-PRO-PRI;Cubot;A30;Cristal templado;Privacidad;4,00;;;
+CU-A30-FUN-SIL;Cubot;A30;Funda;Silicona;2,50;;;
+CU-A30-FUN-TPU;Cubot;A30;Funda;Transparente;2,95;;;
+CU-A30-FUN-LIB;Cubot;A30;Funda;Libro;3,70;;;
+CU-A30-FUN-ANT;Cubot;A30;Funda;Antigolpes;3,10;;;
+CU-A30-PCA-NA;Cubot;A30;Protector de cámara;Cristal;2,90;;;
+CU-KACE2-PRO-NA;Cubot;KingKong Ace 2;Cristal templado;Estándar;1,30;;;
+CU-KES-PRO-NA;Cubot;KingKong ES;Cristal templado;Estándar;1,30;;;
+CU-KPW3-PRO-NA;Cubot;KingKong Power 3;Cristal templado;Estándar;1,30;;;
+CU-KS2-PRO-NA;Cubot;KingKong Star 2;Cristal templado;Estándar;1,30;;;
+CU-KXP-PRO-NA;Cubot;KingKong X Pro;Cristal templado;Estándar;1,30;;;
+CU-A1-PRO-NA;Cubot;A1;Cristal templado;Estándar;1,30;;;
+CU-A1-PRO-PRI;Cubot;A1;Cristal templado;Privacidad;4,00;;;
+CU-A1-FUN-SIL;Cubot;A1;Funda;Silicona;2,50;;;
+CU-A1-FUN-TPU;Cubot;A1;Funda;Transparente;2,95;;;
+CU-A1-FUN-LIB;Cubot;A1;Funda;Libro;3,70;;;
+CU-A1-FUN-ANT;Cubot;A1;Funda;Antigolpes;3,10;;;
+CU-A1-PCA-NA;Cubot;A1;Protector de cámara;Cristal;2,90;;;
+CU-KAX-PRO-NA;Cubot;KingKong AX;Cristal templado;Estándar;1,30;;;
+CU-X90-PRO-NA;Cubot;X90;Cristal templado;Estándar;1,30;;;
+CU-X90-PRO-PRI;Cubot;X90;Cristal templado;Privacidad;4,00;;;
+CU-X90-FUN-SIL;Cubot;X90;Funda;Silicona;2,50;;;
+CU-X90-FUN-TPU;Cubot;X90;Funda;Transparente;2,95;;;
+CU-X90-FUN-LIB;Cubot;X90;Funda;Libro;3,70;;;
+CU-X90-FUN-ANT;Cubot;X90;Funda;Antigolpes;3,10;;;
+CU-X90-PCA-NA;Cubot;X90;Protector de cámara;Cristal;2,90;;;
+CU-KACE3-PRO-NA;Cubot;KingKong Ace 3;Cristal templado;Estándar;1,30;;;
+CU-KX-PRO-NA;Cubot;KingKong X;Cristal templado;Estándar;1,30;;;
+CU-M5-PRO-NA;Cubot;Max 5;Cristal templado;Estándar;1,30;;;
+CU-M5-PRO-PRI;Cubot;Max 5;Cristal templado;Privacidad;4,00;;;
+CU-M5-FUN-SIL;Cubot;Max 5;Funda;Silicona;2,50;;;
+CU-M5-FUN-TPU;Cubot;Max 5;Funda;Transparente;2,95;;;
+CU-M5-FUN-LIB;Cubot;Max 5;Funda;Libro;3,70;;;
+CU-M5-FUN-ANT;Cubot;Max 5;Funda;Antigolpes;3,10;;;
+CU-M5-PCA-NA;Cubot;Max 5;Protector de cámara;Cristal;2,90;;;
+CU-A40-PRO-NA;Cubot;A40;Cristal templado;Estándar;1,30;;;
+CU-A40-PRO-PRI;Cubot;A40;Cristal templado;Privacidad;4,00;;;
+CU-A40-FUN-SIL;Cubot;A40;Funda;Silicona;2,50;;;
+CU-A40-FUN-TPU;Cubot;A40;Funda;Transparente;2,95;;;
+CU-A40-FUN-LIB;Cubot;A40;Funda;Libro;3,70;;;
+CU-A40-FUN-ANT;Cubot;A40;Funda;Antigolpes;3,10;;;
+CU-A40-PCA-NA;Cubot;A40;Protector de cámara;Cristal;2,90;;;
+CU-KACE5-PRO-NA;Cubot;KingKong Ace 5;Cristal templado;Estándar;1,30;;;
+CU-N60-PRO-NA;Cubot;Note 60;Cristal templado;Estándar;1,30;;;
+CU-N60-PRO-PRI;Cubot;Note 60;Cristal templado;Privacidad;4,00;;;
+CU-N60-FUN-SIL;Cubot;Note 60;Funda;Silicona;2,50;;;
+CU-N60-FUN-TPU;Cubot;Note 60;Funda;Transparente;2,95;;;
+CU-N60-FUN-LIB;Cubot;Note 60;Funda;Libro;3,70;;;
+CU-N60-FUN-ANT;Cubot;Note 60;Funda;Antigolpes;3,10;;;
+CU-N60-PCA-NA;Cubot;Note 60;Protector de cámara;Cristal;2,90;;;
+CU-P90-PRO-NA;Cubot;P90;Cristal templado;Estándar;1,30;;;
+CU-P90-PRO-PRI;Cubot;P90;Cristal templado;Privacidad;4,00;;;
+CU-P90-FUN-SIL;Cubot;P90;Funda;Silicona;2,50;;;
+CU-P90-FUN-TPU;Cubot;P90;Funda;Transparente;2,95;;;
+CU-P90-FUN-LIB;Cubot;P90;Funda;Libro;3,70;;;
+CU-P90-FUN-ANT;Cubot;P90;Funda;Antigolpes;3,10;;;
+CU-P90-PCA-NA;Cubot;P90;Protector de cámara;Cristal;2,90;;;
+CU-X100-PRO-NA;Cubot;X100;Cristal templado;Estándar;1,30;;;
+CU-X100-PRO-PRI;Cubot;X100;Cristal templado;Privacidad;4,00;;;
+CU-X100-FUN-SIL;Cubot;X100;Funda;Silicona;2,50;;;
+CU-X100-FUN-TPU;Cubot;X100;Funda;Transparente;2,95;;;
+CU-X100-FUN-LIB;Cubot;X100;Funda;Libro;3,70;;;
+CU-X100-FUN-ANT;Cubot;X100;Funda;Antigolpes;3,10;;;
+CU-X100-PCA-NA;Cubot;X100;Protector de cámara;Cristal;2,90;;;
+CU-KPW5-PRO-NA;Cubot;KingKong Power 5;Cristal templado;Estándar;1,30;;;
+CU-K11-PRO-NA;Cubot;KingKong 11;Cristal templado;Estándar;1,30;;;
+CU-KES3-PRO-NA;Cubot;KingKong ES 3;Cristal templado;Estándar;1,30;;;
+CU-KMN4-PRO-NA;Cubot;KingKong Mini 4;Cristal templado;Estándar;1,30;;;
+CU-KESP-PRO-NA;Cubot;KingKong ES Pro;Cristal templado;Estándar;1,30;;;
+CU-KES5-PRO-NA;Cubot;KingKong ES 5;Cristal templado;Estándar;1,30;;;
+CU-A50-PRO-NA;Cubot;A50;Cristal templado;Estándar;1,30;;;
+CU-A50-PRO-PRI;Cubot;A50;Cristal templado;Privacidad;4,00;;;
+CU-A50-FUN-SIL;Cubot;A50;Funda;Silicona;2,50;;;
+CU-A50-FUN-TPU;Cubot;A50;Funda;Transparente;2,95;;;
+CU-A50-FUN-LIB;Cubot;A50;Funda;Libro;3,70;;;
+CU-A50-FUN-ANT;Cubot;A50;Funda;Antigolpes;3,10;;;
+CU-A50-PCA-NA;Cubot;A50;Protector de cámara;Cristal;2,90;;;
+CU-KD-PRO-NA;Cubot;KingKong Dura;Cristal templado;Estándar;1,30;;;
+CU-J3-MAR-COM;Cubot;J3;Marco / chasis;Compatible;5,65;;;6
+CU-J3-BOT-COM;Cubot;J3;Botones laterales;Compatible;2,89;;;6
+CU-J3-CRI-COM;Cubot;J3;Cristal de pantalla;Compatible;2,89;;;6
+CU-J3-ANT-COM;Cubot;J3;Antena / coaxial;Compatible;2,50;;;6
+CU-J3-HUE-COM;Cubot;J3;Botón home / huella;Compatible;4,15;;;6
+CU-J3P-MAR-COM;Cubot;J3 Pro;Marco / chasis;Compatible;5,65;;;6
+CU-J3P-BOT-COM;Cubot;J3 Pro;Botones laterales;Compatible;2,89;;;6
+CU-J3P-CRI-COM;Cubot;J3 Pro;Cristal de pantalla;Compatible;2,89;;;6
+CU-J3P-ANT-COM;Cubot;J3 Pro;Antena / coaxial;Compatible;2,50;;;6
+CU-J3P-HUE-COM;Cubot;J3 Pro;Botón home / huella;Compatible;4,15;;;6
+CU-K-MAR-COM;Cubot;KingKong;Marco / chasis;Compatible;6,49;;;6
+CU-K-BOT-COM;Cubot;KingKong;Botones laterales;Compatible;3,35;;;6
+CU-K-ANT-COM;Cubot;KingKong;Antena / coaxial;Compatible;2,89;;;6
+CU-K-HUE-COM;Cubot;KingKong;Botón home / huella;Compatible;4,79;;;6
+CU-K3-MAR-COM;Cubot;KingKong 3;Marco / chasis;Compatible;6,49;;;6
+CU-K3-BOT-COM;Cubot;KingKong 3;Botones laterales;Compatible;3,35;;;6
+CU-K3-ANT-COM;Cubot;KingKong 3;Antena / coaxial;Compatible;2,89;;;6
+CU-K3-HUE-COM;Cubot;KingKong 3;Botón home / huella;Compatible;4,79;;;6
+CU-N-MAR-COM;Cubot;Nova;Marco / chasis;Compatible;5,65;;;6
+CU-N-BOT-COM;Cubot;Nova;Botones laterales;Compatible;2,89;;;6
+CU-N-CRI-COM;Cubot;Nova;Cristal de pantalla;Compatible;2,89;;;6
+CU-N-ANT-COM;Cubot;Nova;Antena / coaxial;Compatible;2,50;;;6
+CU-N-HUE-COM;Cubot;Nova;Botón home / huella;Compatible;4,15;;;6
+CU-P20-MAR-COM;Cubot;P20;Marco / chasis;Compatible;5,65;;;6
+CU-P20-BOT-COM;Cubot;P20;Botones laterales;Compatible;2,89;;;6
+CU-P20-CRI-COM;Cubot;P20;Cristal de pantalla;Compatible;2,89;;;6
+CU-P20-ANT-COM;Cubot;P20;Antena / coaxial;Compatible;2,50;;;6
+CU-P20-HUE-COM;Cubot;P20;Botón home / huella;Compatible;4,15;;;6
+CU-PW-MAR-COM;Cubot;Power;Marco / chasis;Compatible;5,65;;;6
+CU-PW-BOT-COM;Cubot;Power;Botones laterales;Compatible;2,89;;;6
+CU-PW-CRI-COM;Cubot;Power;Cristal de pantalla;Compatible;2,89;;;6
+CU-PW-ANT-COM;Cubot;Power;Antena / coaxial;Compatible;2,50;;;6
+CU-PW-HUE-COM;Cubot;Power;Botón home / huella;Compatible;4,15;;;6
+CU-J5-MAR-COM;Cubot;J5;Marco / chasis;Compatible;5,65;;;6
+CU-J5-BOT-COM;Cubot;J5;Botones laterales;Compatible;2,89;;;6
+CU-J5-CRI-COM;Cubot;J5;Cristal de pantalla;Compatible;2,89;;;6
+CU-J5-ANT-COM;Cubot;J5;Antena / coaxial;Compatible;2,50;;;6
+CU-J5-HUE-COM;Cubot;J5;Botón home / huella;Compatible;4,15;;;6
+CU-J7-MAR-COM;Cubot;J7;Marco / chasis;Compatible;5,65;;;6
+CU-J7-BOT-COM;Cubot;J7;Botones laterales;Compatible;2,89;;;6
+CU-J7-CRI-COM;Cubot;J7;Cristal de pantalla;Compatible;2,89;;;6
+CU-J7-ANT-COM;Cubot;J7;Antena / coaxial;Compatible;2,50;;;6
+CU-J7-HUE-COM;Cubot;J7;Botón home / huella;Compatible;4,15;;;6
+CU-KMN-MAR-COM;Cubot;KingKong Mini;Marco / chasis;Compatible;6,49;;;6
+CU-KMN-BOT-COM;Cubot;KingKong Mini;Botones laterales;Compatible;3,35;;;6
+CU-KMN-ANT-COM;Cubot;KingKong Mini;Antena / coaxial;Compatible;2,89;;;6
+CU-KMN-HUE-COM;Cubot;KingKong Mini;Botón home / huella;Compatible;4,79;;;6
+CU-M2-MAR-COM;Cubot;Max 2;Marco / chasis;Compatible;5,65;;;6
+CU-M2-BOT-COM;Cubot;Max 2;Botones laterales;Compatible;2,89;;;6
+CU-M2-CRI-COM;Cubot;Max 2;Cristal de pantalla;Compatible;2,89;;;6
+CU-M2-ANT-COM;Cubot;Max 2;Antena / coaxial;Compatible;2,50;;;6
+CU-M2-HUE-COM;Cubot;Max 2;Botón home / huella;Compatible;4,15;;;6
+CU-Q-MAR-COM;Cubot;Quest;Marco / chasis;Compatible;5,65;;;6
+CU-Q-BOT-COM;Cubot;Quest;Botones laterales;Compatible;2,89;;;6
+CU-Q-CRI-COM;Cubot;Quest;Cristal de pantalla;Compatible;2,89;;;6
+CU-Q-ANT-COM;Cubot;Quest;Antena / coaxial;Compatible;2,50;;;6
+CU-Q-HUE-COM;Cubot;Quest;Botón home / huella;Compatible;4,15;;;6
+CU-QL-MAR-COM;Cubot;Quest Lite;Marco / chasis;Compatible;5,65;;;6
+CU-QL-BOT-COM;Cubot;Quest Lite;Botones laterales;Compatible;2,89;;;6
+CU-QL-CRI-COM;Cubot;Quest Lite;Cristal de pantalla;Compatible;2,89;;;6
+CU-QL-ANT-COM;Cubot;Quest Lite;Antena / coaxial;Compatible;2,50;;;6
+CU-QL-HUE-COM;Cubot;Quest Lite;Botón home / huella;Compatible;4,15;;;6
+CU-R15-MAR-COM;Cubot;R15;Marco / chasis;Compatible;5,65;;;6
+CU-R15-BOT-COM;Cubot;R15;Botones laterales;Compatible;2,89;;;6
+CU-R15-CRI-COM;Cubot;R15;Cristal de pantalla;Compatible;2,89;;;6
+CU-R15-ANT-COM;Cubot;R15;Antena / coaxial;Compatible;2,50;;;6
+CU-R15-HUE-COM;Cubot;R15;Botón home / huella;Compatible;4,15;;;6
+CU-R15P-MAR-COM;Cubot;R15 Pro;Marco / chasis;Compatible;5,65;;;6
+CU-R15P-BOT-COM;Cubot;R15 Pro;Botones laterales;Compatible;2,89;;;6
+CU-R15P-CRI-COM;Cubot;R15 Pro;Cristal de pantalla;Compatible;2,89;;;6
+CU-R15P-ANT-COM;Cubot;R15 Pro;Antena / coaxial;Compatible;2,50;;;6
+CU-R15P-HUE-COM;Cubot;R15 Pro;Botón home / huella;Compatible;4,15;;;6
+CU-R19-MAR-COM;Cubot;R19;Marco / chasis;Compatible;5,65;;;6
+CU-R19-BOT-COM;Cubot;R19;Botones laterales;Compatible;2,89;;;6
+CU-R19-CRI-COM;Cubot;R19;Cristal de pantalla;Compatible;2,89;;;6
+CU-R19-ANT-COM;Cubot;R19;Antena / coaxial;Compatible;2,50;;;6
+CU-R19-HUE-COM;Cubot;R19;Botón home / huella;Compatible;4,15;;;6
+CU-X19-MAR-COM;Cubot;X19;Marco / chasis;Compatible;5,65;;;6
+CU-X19-BOT-COM;Cubot;X19;Botones laterales;Compatible;2,89;;;6
+CU-X19-CRI-COM;Cubot;X19;Cristal de pantalla;Compatible;2,89;;;6
+CU-X19-ANT-COM;Cubot;X19;Antena / coaxial;Compatible;2,50;;;6
+CU-X19-HUE-COM;Cubot;X19;Botón home / huella;Compatible;4,15;;;6
+CU-X20P-MAR-COM;Cubot;X20 Pro;Marco / chasis;Compatible;5,65;;;6
+CU-X20P-BOT-COM;Cubot;X20 Pro;Botones laterales;Compatible;2,89;;;6
+CU-X20P-CRI-COM;Cubot;X20 Pro;Cristal de pantalla;Compatible;2,89;;;6
+CU-X20P-ANT-COM;Cubot;X20 Pro;Antena / coaxial;Compatible;2,50;;;6
+CU-X20P-HUE-COM;Cubot;X20 Pro;Botón home / huella;Compatible;4,15;;;6
+CU-C20-MAR-COM;Cubot;C20;Marco / chasis;Compatible;6,25;;;6
+CU-C20-BOT-COM;Cubot;C20;Botones laterales;Compatible;3,20;;;6
+CU-C20-CRI-COM;Cubot;C20;Cristal de pantalla;Compatible;3,20;;;6
+CU-C20-ANT-COM;Cubot;C20;Antena / coaxial;Compatible;2,79;;;6
+CU-C20-HUE-COM;Cubot;C20;Botón home / huella;Compatible;4,60;;;6
+CU-C30-MAR-COM;Cubot;C30;Marco / chasis;Compatible;6,25;;;6
+CU-C30-BOT-COM;Cubot;C30;Botones laterales;Compatible;3,20;;;6
+CU-C30-CRI-COM;Cubot;C30;Cristal de pantalla;Compatible;3,20;;;6
+CU-C30-ANT-COM;Cubot;C30;Antena / coaxial;Compatible;2,79;;;6
+CU-C30-HUE-COM;Cubot;C30;Botón home / huella;Compatible;4,60;;;6
+CU-J8-MAR-COM;Cubot;J8;Marco / chasis;Compatible;6,25;;;6
+CU-J8-BOT-COM;Cubot;J8;Botones laterales;Compatible;3,20;;;6
+CU-J8-CRI-COM;Cubot;J8;Cristal de pantalla;Compatible;3,20;;;6
+CU-J8-ANT-COM;Cubot;J8;Antena / coaxial;Compatible;2,79;;;6
+CU-J8-HUE-COM;Cubot;J8;Botón home / huella;Compatible;4,60;;;6
+CU-J9-MAR-COM;Cubot;J9;Marco / chasis;Compatible;6,25;;;6
+CU-J9-BOT-COM;Cubot;J9;Botones laterales;Compatible;3,20;;;6
+CU-J9-CRI-COM;Cubot;J9;Cristal de pantalla;Compatible;3,20;;;6
+CU-J9-ANT-COM;Cubot;J9;Antena / coaxial;Compatible;2,79;;;6
+CU-J9-HUE-COM;Cubot;J9;Botón home / huella;Compatible;4,60;;;6
+CU-KCS-MAR-COM;Cubot;KingKong CS;Marco / chasis;Compatible;7,20;;;6
+CU-KCS-BOT-COM;Cubot;KingKong CS;Botones laterales;Compatible;3,70;;;6
+CU-KCS-ANT-COM;Cubot;KingKong CS;Antena / coaxial;Compatible;3,20;;;6
+CU-KCS-HUE-COM;Cubot;KingKong CS;Botón home / huella;Compatible;5,30;;;6
+CU-KMN2-MAR-COM;Cubot;KingKong Mini 2;Marco / chasis;Compatible;7,20;;;6
+CU-KMN2-BOT-COM;Cubot;KingKong Mini 2;Botones laterales;Compatible;3,70;;;6
+CU-KMN2-ANT-COM;Cubot;KingKong Mini 2;Antena / coaxial;Compatible;3,20;;;6
+CU-KMN2-HUE-COM;Cubot;KingKong Mini 2;Botón home / huella;Compatible;5,30;;;6
+CU-N20-MAR-COM;Cubot;Note 20;Marco / chasis;Compatible;6,25;;;6
+CU-N20-BOT-COM;Cubot;Note 20;Botones laterales;Compatible;3,20;;;6
+CU-N20-CRI-COM;Cubot;Note 20;Cristal de pantalla;Compatible;3,20;;;6
+CU-N20-ANT-COM;Cubot;Note 20;Antena / coaxial;Compatible;2,79;;;6
+CU-N20-HUE-COM;Cubot;Note 20;Botón home / huella;Compatible;4,60;;;6
+CU-N20P-MAR-COM;Cubot;Note 20 Pro;Marco / chasis;Compatible;6,25;;;6
+CU-N20P-BOT-COM;Cubot;Note 20 Pro;Botones laterales;Compatible;3,20;;;6
+CU-N20P-CRI-COM;Cubot;Note 20 Pro;Cristal de pantalla;Compatible;3,20;;;6
+CU-N20P-ANT-COM;Cubot;Note 20 Pro;Antena / coaxial;Compatible;2,79;;;6
+CU-N20P-HUE-COM;Cubot;Note 20 Pro;Botón home / huella;Compatible;4,60;;;6
+CU-N7-MAR-COM;Cubot;Note 7;Marco / chasis;Compatible;6,25;;;6
+CU-N7-BOT-COM;Cubot;Note 7;Botones laterales;Compatible;3,20;;;6
+CU-N7-CRI-COM;Cubot;Note 7;Cristal de pantalla;Compatible;3,20;;;6
+CU-N7-ANT-COM;Cubot;Note 7;Antena / coaxial;Compatible;2,79;;;6
+CU-N7-HUE-COM;Cubot;Note 7;Botón home / huella;Compatible;4,60;;;6
+CU-P40-MAR-COM;Cubot;P40;Marco / chasis;Compatible;6,25;;;6
+CU-P40-BOT-COM;Cubot;P40;Botones laterales;Compatible;3,20;;;6
+CU-P40-CRI-COM;Cubot;P40;Cristal de pantalla;Compatible;3,20;;;6
+CU-P40-ANT-COM;Cubot;P40;Antena / coaxial;Compatible;2,79;;;6
+CU-P40-HUE-COM;Cubot;P40;Botón home / huella;Compatible;4,60;;;6
+CU-X30-MAR-COM;Cubot;X30;Marco / chasis;Compatible;6,25;;;6
+CU-X30-BOT-COM;Cubot;X30;Botones laterales;Compatible;3,20;;;6
+CU-X30-CRI-COM;Cubot;X30;Cristal de pantalla;Compatible;3,20;;;6
+CU-X30-ANT-COM;Cubot;X30;Antena / coaxial;Compatible;2,79;;;6
+CU-X30-HUE-COM;Cubot;X30;Botón home / huella;Compatible;4,60;;;6
+CU-J10-MAR-COM;Cubot;J10;Marco / chasis;Compatible;6,25;;;6
+CU-J10-BOT-COM;Cubot;J10;Botones laterales;Compatible;3,20;;;6
+CU-J10-CRI-COM;Cubot;J10;Cristal de pantalla;Compatible;3,20;;;6
+CU-J10-ANT-COM;Cubot;J10;Antena / coaxial;Compatible;2,79;;;6
+CU-J10-HUE-COM;Cubot;J10;Botón home / huella;Compatible;4,60;;;6
+CU-K5-MAR-COM;Cubot;KingKong 5;Marco / chasis;Compatible;7,20;;;6
+CU-K5-BOT-COM;Cubot;KingKong 5;Botones laterales;Compatible;3,70;;;6
+CU-K5-ANT-COM;Cubot;KingKong 5;Antena / coaxial;Compatible;3,20;;;6
+CU-K5-HUE-COM;Cubot;KingKong 5;Botón home / huella;Compatible;5,30;;;6
+CU-K5P-MAR-COM;Cubot;KingKong 5 Pro;Marco / chasis;Compatible;7,20;;;6
+CU-K5P-BOT-COM;Cubot;KingKong 5 Pro;Botones laterales;Compatible;3,70;;;6
+CU-K5P-ANT-COM;Cubot;KingKong 5 Pro;Antena / coaxial;Compatible;3,20;;;6
+CU-K5P-HUE-COM;Cubot;KingKong 5 Pro;Botón home / huella;Compatible;5,30;;;6
+CU-K7-MAR-COM;Cubot;KingKong 7;Marco / chasis;Compatible;7,20;;;6
+CU-K7-BOT-COM;Cubot;KingKong 7;Botones laterales;Compatible;3,70;;;6
+CU-K7-ANT-COM;Cubot;KingKong 7;Antena / coaxial;Compatible;3,20;;;6
+CU-K7-HUE-COM;Cubot;KingKong 7;Botón home / huella;Compatible;5,30;;;6
+CU-M3-MAR-COM;Cubot;Max 3;Marco / chasis;Compatible;6,25;;;6
+CU-M3-BOT-COM;Cubot;Max 3;Botones laterales;Compatible;3,20;;;6
+CU-M3-CRI-COM;Cubot;Max 3;Cristal de pantalla;Compatible;3,20;;;6
+CU-M3-ANT-COM;Cubot;Max 3;Antena / coaxial;Compatible;2,79;;;6
+CU-M3-HUE-COM;Cubot;Max 3;Botón home / huella;Compatible;4,60;;;6
+CU-N9-MAR-COM;Cubot;Note 9;Marco / chasis;Compatible;6,25;;;6
+CU-N9-BOT-COM;Cubot;Note 9;Botones laterales;Compatible;3,20;;;6
+CU-N9-CRI-COM;Cubot;Note 9;Cristal de pantalla;Compatible;3,20;;;6
+CU-N9-ANT-COM;Cubot;Note 9;Antena / coaxial;Compatible;2,79;;;6
+CU-N9-HUE-COM;Cubot;Note 9;Botón home / huella;Compatible;4,60;;;6
+CU-X50-MAR-COM;Cubot;X50;Marco / chasis;Compatible;6,25;;;6
+CU-X50-BOT-COM;Cubot;X50;Botones laterales;Compatible;3,20;;;6
+CU-X50-CRI-COM;Cubot;X50;Cristal de pantalla;Compatible;3,20;;;6
+CU-X50-ANT-COM;Cubot;X50;Antena / coaxial;Compatible;2,79;;;6
+CU-X50-HUE-COM;Cubot;X50;Botón home / huella;Compatible;4,60;;;6
+CU-K6-MAR-COM;Cubot;KingKong 6;Marco / chasis;Compatible;7,20;;;6
+CU-K6-BOT-COM;Cubot;KingKong 6;Botones laterales;Compatible;3,70;;;6
+CU-K6-ANT-COM;Cubot;KingKong 6;Antena / coaxial;Compatible;3,20;;;6
+CU-K6-HUE-COM;Cubot;KingKong 6;Botón home / huella;Compatible;5,30;;;6
+CU-KMN2P-MAR-COM;Cubot;KingKong Mini 2 Pro;Marco / chasis;Compatible;7,20;;;6
+CU-KMN2P-BOT-COM;Cubot;KingKong Mini 2 Pro;Botones laterales;Compatible;3,70;;;6
+CU-KMN2P-ANT-COM;Cubot;KingKong Mini 2 Pro;Antena / coaxial;Compatible;3,20;;;6
+CU-KMN2P-HUE-COM;Cubot;KingKong Mini 2 Pro;Botón home / huella;Compatible;5,30;;;6
+CU-KMN3-MAR-COM;Cubot;KingKong Mini 3;Marco / chasis;Compatible;7,20;;;6
+CU-KMN3-BOT-COM;Cubot;KingKong Mini 3;Botones laterales;Compatible;3,70;;;6
+CU-KMN3-ANT-COM;Cubot;KingKong Mini 3;Antena / coaxial;Compatible;3,20;;;6
+CU-KMN3-HUE-COM;Cubot;KingKong Mini 3;Botón home / huella;Compatible;5,30;;;6
+CU-N30-MAR-COM;Cubot;Note 30;Marco / chasis;Compatible;6,25;;;6
+CU-N30-BOT-COM;Cubot;Note 30;Botones laterales;Compatible;3,20;;;6
+CU-N30-CRI-COM;Cubot;Note 30;Cristal de pantalla;Compatible;3,20;;;6
+CU-N30-ANT-COM;Cubot;Note 30;Antena / coaxial;Compatible;2,79;;;6
+CU-N30-HUE-COM;Cubot;Note 30;Botón home / huella;Compatible;4,60;;;6
+CU-N8-MAR-COM;Cubot;Note 8;Marco / chasis;Compatible;6,25;;;6
+CU-N8-BOT-COM;Cubot;Note 8;Botones laterales;Compatible;3,20;;;6
+CU-N8-CRI-COM;Cubot;Note 8;Cristal de pantalla;Compatible;3,20;;;6
+CU-N8-ANT-COM;Cubot;Note 8;Antena / coaxial;Compatible;2,79;;;6
+CU-N8-HUE-COM;Cubot;Note 8;Botón home / huella;Compatible;4,60;;;6
+CU-P50-MAR-COM;Cubot;P50;Marco / chasis;Compatible;6,25;;;6
+CU-P50-BOT-COM;Cubot;P50;Botones laterales;Compatible;3,20;;;6
+CU-P50-CRI-COM;Cubot;P50;Cristal de pantalla;Compatible;3,20;;;6
+CU-P50-ANT-COM;Cubot;P50;Antena / coaxial;Compatible;2,79;;;6
+CU-P50-HUE-COM;Cubot;P50;Botón home / huella;Compatible;4,60;;;6
+CU-P60-MAR-COM;Cubot;P60;Marco / chasis;Compatible;6,25;;;6
+CU-P60-BOT-COM;Cubot;P60;Botones laterales;Compatible;3,20;;;6
+CU-P60-CRI-COM;Cubot;P60;Cristal de pantalla;Compatible;3,20;;;6
+CU-P60-ANT-COM;Cubot;P60;Antena / coaxial;Compatible;2,79;;;6
+CU-P60-HUE-COM;Cubot;P60;Botón home / huella;Compatible;4,60;;;6
+CU-PK-MAR-COM;Cubot;Pocket;Marco / chasis;Compatible;6,25;;;6
+CU-PK-BOT-COM;Cubot;Pocket;Botones laterales;Compatible;3,20;;;6
+CU-PK-CRI-COM;Cubot;Pocket;Cristal de pantalla;Compatible;3,20;;;6
+CU-PK-ANT-COM;Cubot;Pocket;Antena / coaxial;Compatible;2,79;;;6
+CU-PK-HUE-COM;Cubot;Pocket;Botón home / huella;Compatible;4,60;;;6
+CU-PK3-MAR-COM;Cubot;Pocket 3;Marco / chasis;Compatible;6,25;;;6
+CU-PK3-BOT-COM;Cubot;Pocket 3;Botones laterales;Compatible;3,20;;;6
+CU-PK3-CRI-COM;Cubot;Pocket 3;Cristal de pantalla;Compatible;3,20;;;6
+CU-PK3-ANT-COM;Cubot;Pocket 3;Antena / coaxial;Compatible;2,79;;;6
+CU-PK3-HUE-COM;Cubot;Pocket 3;Botón home / huella;Compatible;4,60;;;6
+CU-J20-MAR-COM;Cubot;J20;Marco / chasis;Compatible;6,25;;;6
+CU-J20-BOT-COM;Cubot;J20;Botones laterales;Compatible;3,20;;;6
+CU-J20-CRI-COM;Cubot;J20;Cristal de pantalla;Compatible;3,20;;;6
+CU-J20-ANT-COM;Cubot;J20;Antena / coaxial;Compatible;2,79;;;6
+CU-J20-HUE-COM;Cubot;J20;Botón home / huella;Compatible;4,60;;;6
+CU-K9-MAR-COM;Cubot;KingKong 9;Marco / chasis;Compatible;7,20;;;6
+CU-K9-BOT-COM;Cubot;KingKong 9;Botones laterales;Compatible;3,70;;;6
+CU-K9-ANT-COM;Cubot;KingKong 9;Antena / coaxial;Compatible;3,20;;;6
+CU-K9-HUE-COM;Cubot;KingKong 9;Botón home / huella;Compatible;5,30;;;6
+CU-KPW-MAR-COM;Cubot;KingKong Power;Marco / chasis;Compatible;7,20;;;6
+CU-KPW-BOT-COM;Cubot;KingKong Power;Botones laterales;Compatible;3,70;;;6
+CU-KPW-ANT-COM;Cubot;KingKong Power;Antena / coaxial;Compatible;3,20;;;6
+CU-KPW-HUE-COM;Cubot;KingKong Power;Botón home / huella;Compatible;5,30;;;6
+CU-P80-MAR-COM;Cubot;P80;Marco / chasis;Compatible;6,25;;;6
+CU-P80-BOT-COM;Cubot;P80;Botones laterales;Compatible;3,20;;;6
+CU-P80-CRI-COM;Cubot;P80;Cristal de pantalla;Compatible;3,20;;;6
+CU-P80-ANT-COM;Cubot;P80;Antena / coaxial;Compatible;2,79;;;6
+CU-P80-HUE-COM;Cubot;P80;Botón home / huella;Compatible;4,60;;;6
+CU-X70-MAR-COM;Cubot;X70;Marco / chasis;Compatible;6,25;;;6
+CU-X70-BOT-COM;Cubot;X70;Botones laterales;Compatible;3,20;;;6
+CU-X70-CRI-COM;Cubot;X70;Cristal de pantalla;Compatible;3,20;;;6
+CU-X70-ANT-COM;Cubot;X70;Antena / coaxial;Compatible;2,79;;;6
+CU-X70-HUE-COM;Cubot;X70;Botón home / huella;Compatible;4,60;;;6
+CU-KS-MAR-COM;Cubot;KingKong Star;Marco / chasis;Compatible;7,20;;;6
+CU-KS-BOT-COM;Cubot;KingKong Star;Botones laterales;Compatible;3,70;;;6
+CU-KS-ANT-COM;Cubot;KingKong Star;Antena / coaxial;Compatible;3,20;;;6
+CU-KS-HUE-COM;Cubot;KingKong Star;Botón home / huella;Compatible;5,30;;;6
+CU-N50-MAR-COM;Cubot;Note 50;Marco / chasis;Compatible;6,25;;;6
+CU-N50-BOT-COM;Cubot;Note 50;Botones laterales;Compatible;3,20;;;6
+CU-N50-CRI-COM;Cubot;Note 50;Cristal de pantalla;Compatible;3,20;;;6
+CU-N50-ANT-COM;Cubot;Note 50;Antena / coaxial;Compatible;2,79;;;6
+CU-N50-HUE-COM;Cubot;Note 50;Botón home / huella;Compatible;4,60;;;6
+CU-N21-MAR-COM;Cubot;Note 21;Marco / chasis;Compatible;6,25;;;6
+CU-N21-BOT-COM;Cubot;Note 21;Botones laterales;Compatible;3,20;;;6
+CU-N21-CRI-COM;Cubot;Note 21;Cristal de pantalla;Compatible;3,20;;;6
+CU-N21-ANT-COM;Cubot;Note 21;Antena / coaxial;Compatible;2,79;;;6
+CU-N21-HUE-COM;Cubot;Note 21;Botón home / huella;Compatible;4,60;;;6
+CU-N40-MAR-COM;Cubot;Note 40;Marco / chasis;Compatible;6,25;;;6
+CU-N40-BOT-COM;Cubot;Note 40;Botones laterales;Compatible;3,20;;;6
+CU-N40-CRI-COM;Cubot;Note 40;Cristal de pantalla;Compatible;3,20;;;6
+CU-N40-ANT-COM;Cubot;Note 40;Antena / coaxial;Compatible;2,79;;;6
+CU-N40-HUE-COM;Cubot;Note 40;Botón home / huella;Compatible;4,60;;;6
+CU-K8-MAR-COM;Cubot;KingKong 8;Marco / chasis;Compatible;7,20;;;6
+CU-K8-BOT-COM;Cubot;KingKong 8;Botones laterales;Compatible;3,70;;;6
+CU-K8-ANT-COM;Cubot;KingKong 8;Antena / coaxial;Compatible;3,20;;;6
+CU-K8-HUE-COM;Cubot;KingKong 8;Botón home / huella;Compatible;5,30;;;6
+CU-A10-MAR-COM;Cubot;A10;Marco / chasis;Compatible;6,89;;;6
+CU-A10-BOT-COM;Cubot;A10;Botones laterales;Compatible;3,55;;;6
+CU-A10-CRI-COM;Cubot;A10;Cristal de pantalla;Compatible;3,50;;;6
+CU-A10-ANT-COM;Cubot;A10;Antena / coaxial;Compatible;3,05;;;6
+CU-A10-HUE-COM;Cubot;A10;Botón home / huella;Compatible;5,09;;;6
+CU-A20-MAR-COM;Cubot;A20;Marco / chasis;Compatible;6,89;;;6
+CU-A20-BOT-COM;Cubot;A20;Botones laterales;Compatible;3,55;;;6
+CU-A20-CRI-COM;Cubot;A20;Cristal de pantalla;Compatible;3,50;;;6
+CU-A20-ANT-COM;Cubot;A20;Antena / coaxial;Compatible;3,05;;;6
+CU-A20-HUE-COM;Cubot;A20;Botón home / huella;Compatible;5,09;;;6
+CU-A30-MAR-COM;Cubot;A30;Marco / chasis;Compatible;6,89;;;6
+CU-A30-BOT-COM;Cubot;A30;Botones laterales;Compatible;3,55;;;6
+CU-A30-CRI-COM;Cubot;A30;Cristal de pantalla;Compatible;3,50;;;6
+CU-A30-ANT-COM;Cubot;A30;Antena / coaxial;Compatible;3,05;;;6
+CU-A30-HUE-COM;Cubot;A30;Botón home / huella;Compatible;5,09;;;6
+CU-KACE2-MAR-COM;Cubot;KingKong Ace 2;Marco / chasis;Compatible;7,90;;;6
+CU-KACE2-BOT-COM;Cubot;KingKong Ace 2;Botones laterales;Compatible;4,05;;;6
+CU-KACE2-ANT-COM;Cubot;KingKong Ace 2;Antena / coaxial;Compatible;3,50;;;6
+CU-KACE2-HUE-COM;Cubot;KingKong Ace 2;Botón home / huella;Compatible;5,85;;;6
+CU-KES-MAR-COM;Cubot;KingKong ES;Marco / chasis;Compatible;7,90;;;6
+CU-KES-BOT-COM;Cubot;KingKong ES;Botones laterales;Compatible;4,05;;;6
+CU-KES-ANT-COM;Cubot;KingKong ES;Antena / coaxial;Compatible;3,50;;;6
+CU-KES-HUE-COM;Cubot;KingKong ES;Botón home / huella;Compatible;5,85;;;6
+CU-KPW3-MAR-COM;Cubot;KingKong Power 3;Marco / chasis;Compatible;7,90;;;6
+CU-KPW3-BOT-COM;Cubot;KingKong Power 3;Botones laterales;Compatible;4,05;;;6
+CU-KPW3-ANT-COM;Cubot;KingKong Power 3;Antena / coaxial;Compatible;3,50;;;6
+CU-KPW3-HUE-COM;Cubot;KingKong Power 3;Botón home / huella;Compatible;5,85;;;6
+CU-KS2-MAR-COM;Cubot;KingKong Star 2;Marco / chasis;Compatible;7,90;;;6
+CU-KS2-BOT-COM;Cubot;KingKong Star 2;Botones laterales;Compatible;4,05;;;6
+CU-KS2-ANT-COM;Cubot;KingKong Star 2;Antena / coaxial;Compatible;3,50;;;6
+CU-KS2-HUE-COM;Cubot;KingKong Star 2;Botón home / huella;Compatible;5,85;;;6
+CU-KXP-MAR-COM;Cubot;KingKong X Pro;Marco / chasis;Compatible;7,90;;;6
+CU-KXP-BOT-COM;Cubot;KingKong X Pro;Botones laterales;Compatible;4,05;;;6
+CU-KXP-ANT-COM;Cubot;KingKong X Pro;Antena / coaxial;Compatible;3,50;;;6
+CU-KXP-HUE-COM;Cubot;KingKong X Pro;Botón home / huella;Compatible;5,85;;;6
+CU-A1-MAR-COM;Cubot;A1;Marco / chasis;Compatible;6,89;;;6
+CU-A1-BOT-COM;Cubot;A1;Botones laterales;Compatible;3,55;;;6
+CU-A1-CRI-COM;Cubot;A1;Cristal de pantalla;Compatible;3,50;;;6
+CU-A1-ANT-COM;Cubot;A1;Antena / coaxial;Compatible;3,05;;;6
+CU-A1-HUE-COM;Cubot;A1;Botón home / huella;Compatible;5,09;;;6
+CU-KAX-MAR-COM;Cubot;KingKong AX;Marco / chasis;Compatible;7,90;;;6
+CU-KAX-BOT-COM;Cubot;KingKong AX;Botones laterales;Compatible;4,05;;;6
+CU-KAX-ANT-COM;Cubot;KingKong AX;Antena / coaxial;Compatible;3,50;;;6
+CU-KAX-HUE-COM;Cubot;KingKong AX;Botón home / huella;Compatible;5,85;;;6
+CU-X90-MAR-COM;Cubot;X90;Marco / chasis;Compatible;6,89;;;6
+CU-X90-BOT-COM;Cubot;X90;Botones laterales;Compatible;3,55;;;6
+CU-X90-CRI-COM;Cubot;X90;Cristal de pantalla;Compatible;3,50;;;6
+CU-X90-ANT-COM;Cubot;X90;Antena / coaxial;Compatible;3,05;;;6
+CU-X90-HUE-COM;Cubot;X90;Botón home / huella;Compatible;5,09;;;6
+CU-KACE3-MAR-COM;Cubot;KingKong Ace 3;Marco / chasis;Compatible;7,90;;;6
+CU-KACE3-BOT-COM;Cubot;KingKong Ace 3;Botones laterales;Compatible;4,05;;;6
+CU-KACE3-ANT-COM;Cubot;KingKong Ace 3;Antena / coaxial;Compatible;3,50;;;6
+CU-KACE3-HUE-COM;Cubot;KingKong Ace 3;Botón home / huella;Compatible;5,85;;;6
+CU-KX-MAR-COM;Cubot;KingKong X;Marco / chasis;Compatible;7,90;;;6
+CU-KX-BOT-COM;Cubot;KingKong X;Botones laterales;Compatible;4,05;;;6
+CU-KX-ANT-COM;Cubot;KingKong X;Antena / coaxial;Compatible;3,50;;;6
+CU-KX-HUE-COM;Cubot;KingKong X;Botón home / huella;Compatible;5,85;;;6
+CU-M5-MAR-COM;Cubot;Max 5;Marco / chasis;Compatible;6,89;;;6
+CU-M5-BOT-COM;Cubot;Max 5;Botones laterales;Compatible;3,55;;;6
+CU-M5-CRI-COM;Cubot;Max 5;Cristal de pantalla;Compatible;3,50;;;6
+CU-M5-ANT-COM;Cubot;Max 5;Antena / coaxial;Compatible;3,05;;;6
+CU-M5-HUE-COM;Cubot;Max 5;Botón home / huella;Compatible;5,09;;;6
+CU-A40-MAR-COM;Cubot;A40;Marco / chasis;Compatible;6,89;;;6
+CU-A40-BOT-COM;Cubot;A40;Botones laterales;Compatible;3,55;;;6
+CU-A40-CRI-COM;Cubot;A40;Cristal de pantalla;Compatible;3,50;;;6
+CU-A40-ANT-COM;Cubot;A40;Antena / coaxial;Compatible;3,05;;;6
+CU-A40-HUE-COM;Cubot;A40;Botón home / huella;Compatible;5,09;;;6
+CU-KACE5-MAR-COM;Cubot;KingKong Ace 5;Marco / chasis;Compatible;7,90;;;6
+CU-KACE5-BOT-COM;Cubot;KingKong Ace 5;Botones laterales;Compatible;4,05;;;6
+CU-KACE5-ANT-COM;Cubot;KingKong Ace 5;Antena / coaxial;Compatible;3,50;;;6
+CU-KACE5-HUE-COM;Cubot;KingKong Ace 5;Botón home / huella;Compatible;5,85;;;6
+CU-N60-MAR-COM;Cubot;Note 60;Marco / chasis;Compatible;6,89;;;6
+CU-N60-BOT-COM;Cubot;Note 60;Botones laterales;Compatible;3,55;;;6
+CU-N60-CRI-COM;Cubot;Note 60;Cristal de pantalla;Compatible;3,50;;;6
+CU-N60-ANT-COM;Cubot;Note 60;Antena / coaxial;Compatible;3,05;;;6
+CU-N60-HUE-COM;Cubot;Note 60;Botón home / huella;Compatible;5,09;;;6
+CU-P90-MAR-COM;Cubot;P90;Marco / chasis;Compatible;6,89;;;6
+CU-P90-BOT-COM;Cubot;P90;Botones laterales;Compatible;3,55;;;6
+CU-P90-CRI-COM;Cubot;P90;Cristal de pantalla;Compatible;3,50;;;6
+CU-P90-ANT-COM;Cubot;P90;Antena / coaxial;Compatible;3,05;;;6
+CU-P90-HUE-COM;Cubot;P90;Botón home / huella;Compatible;5,09;;;6
+CU-X100-MAR-COM;Cubot;X100;Marco / chasis;Compatible;6,89;;;6
+CU-X100-BOT-COM;Cubot;X100;Botones laterales;Compatible;3,55;;;6
+CU-X100-CRI-COM;Cubot;X100;Cristal de pantalla;Compatible;3,50;;;6
+CU-X100-ANT-COM;Cubot;X100;Antena / coaxial;Compatible;3,05;;;6
+CU-X100-HUE-COM;Cubot;X100;Botón home / huella;Compatible;5,09;;;6
+CU-KPW5-MAR-COM;Cubot;KingKong Power 5;Marco / chasis;Compatible;7,90;;;6
+CU-KPW5-BOT-COM;Cubot;KingKong Power 5;Botones laterales;Compatible;4,05;;;6
+CU-KPW5-ANT-COM;Cubot;KingKong Power 5;Antena / coaxial;Compatible;3,50;;;6
+CU-KPW5-HUE-COM;Cubot;KingKong Power 5;Botón home / huella;Compatible;5,85;;;6
+CU-K11-MAR-COM;Cubot;KingKong 11;Marco / chasis;Compatible;7,90;;;6
+CU-K11-BOT-COM;Cubot;KingKong 11;Botones laterales;Compatible;4,05;;;6
+CU-K11-ANT-COM;Cubot;KingKong 11;Antena / coaxial;Compatible;3,50;;;6
+CU-K11-HUE-COM;Cubot;KingKong 11;Botón home / huella;Compatible;5,85;;;6
+CU-KES3-MAR-COM;Cubot;KingKong ES 3;Marco / chasis;Compatible;7,90;;;6
+CU-KES3-BOT-COM;Cubot;KingKong ES 3;Botones laterales;Compatible;4,05;;;6
+CU-KES3-ANT-COM;Cubot;KingKong ES 3;Antena / coaxial;Compatible;3,50;;;6
+CU-KES3-HUE-COM;Cubot;KingKong ES 3;Botón home / huella;Compatible;5,85;;;6
+CU-KMN4-MAR-COM;Cubot;KingKong Mini 4;Marco / chasis;Compatible;7,90;;;6
+CU-KMN4-BOT-COM;Cubot;KingKong Mini 4;Botones laterales;Compatible;4,05;;;6
+CU-KMN4-ANT-COM;Cubot;KingKong Mini 4;Antena / coaxial;Compatible;3,50;;;6
+CU-KMN4-HUE-COM;Cubot;KingKong Mini 4;Botón home / huella;Compatible;5,85;;;6
+CU-KESP-MAR-COM;Cubot;KingKong ES Pro;Marco / chasis;Compatible;7,90;;;6
+CU-KESP-BOT-COM;Cubot;KingKong ES Pro;Botones laterales;Compatible;4,05;;;6
+CU-KESP-ANT-COM;Cubot;KingKong ES Pro;Antena / coaxial;Compatible;3,50;;;6
+CU-KESP-HUE-COM;Cubot;KingKong ES Pro;Botón home / huella;Compatible;5,85;;;6
+CU-KES5-MAR-COM;Cubot;KingKong ES 5;Marco / chasis;Compatible;7,90;;;6
+CU-KES5-BOT-COM;Cubot;KingKong ES 5;Botones laterales;Compatible;4,05;;;6
+CU-KES5-ANT-COM;Cubot;KingKong ES 5;Antena / coaxial;Compatible;3,50;;;6
+CU-KES5-HUE-COM;Cubot;KingKong ES 5;Botón home / huella;Compatible;5,85;;;6
+CU-A50-MAR-COM;Cubot;A50;Marco / chasis;Compatible;6,89;;;6
+CU-A50-BOT-COM;Cubot;A50;Botones laterales;Compatible;3,55;;;6
+CU-A50-CRI-COM;Cubot;A50;Cristal de pantalla;Compatible;3,50;;;6
+CU-A50-ANT-COM;Cubot;A50;Antena / coaxial;Compatible;3,05;;;6
+CU-A50-HUE-COM;Cubot;A50;Botón home / huella;Compatible;5,09;;;6
+CU-KD-MAR-COM;Cubot;KingKong Dura;Marco / chasis;Compatible;7,90;;;6
+CU-KD-BOT-COM;Cubot;KingKong Dura;Botones laterales;Compatible;4,05;;;6
+CU-KD-ANT-COM;Cubot;KingKong Dura;Antena / coaxial;Compatible;3,50;;;6
+CU-KD-HUE-COM;Cubot;KingKong Dura;Botón home / huella;Compatible;5,85;;;6

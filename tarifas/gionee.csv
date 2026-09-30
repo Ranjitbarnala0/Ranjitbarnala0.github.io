@@ -1,0 +1,626 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+GN-M7PL-PAN-COM;Gionee;M7 Plus;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-M7PL-BAT-COM;Gionee;M7 Plus;Batería;Compatible;9,65;;;6
+GN-M7PL-CON-COM;Gionee;M7 Plus;Conector de carga;Compatible;4,60;;;6
+GN-M7PL-TAP-COM;Gionee;M7 Plus;Tapa trasera;Compatible;5,40;;;6
+GN-M7PL-CTR-COM;Gionee;M7 Plus;Cámara trasera;Compatible;7,59;;;6
+GN-M7PL-CFR-COM;Gionee;M7 Plus;Cámara frontal;Compatible;4,99;;;6
+GN-M7PL-LEN-COM;Gionee;M7 Plus;Lente de cámara;Compatible;2,19;;;6
+GN-M7PL-ALT-COM;Gionee;M7 Plus;Altavoz;Compatible;3,65;;;6
+GN-M7PL-AUR-COM;Gionee;M7 Plus;Auricular de llamada;Compatible;2,65;;;6
+GN-M7PL-FLX-COM;Gionee;M7 Plus;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-M7PL-SIM-COM;Gionee;M7 Plus;Bandeja SIM;Compatible;2,55;;;6
+GN-F205-PAN-COM;Gionee;F205;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-F205-BAT-COM;Gionee;F205;Batería;Compatible;9,65;;;6
+GN-F205-CON-COM;Gionee;F205;Conector de carga;Compatible;4,60;;;6
+GN-F205-TAP-COM;Gionee;F205;Tapa trasera;Compatible;5,40;;;6
+GN-F205-CTR-COM;Gionee;F205;Cámara trasera;Compatible;7,59;;;6
+GN-F205-CFR-COM;Gionee;F205;Cámara frontal;Compatible;4,99;;;6
+GN-F205-LEN-COM;Gionee;F205;Lente de cámara;Compatible;2,19;;;6
+GN-F205-ALT-COM;Gionee;F205;Altavoz;Compatible;3,65;;;6
+GN-F205-AUR-COM;Gionee;F205;Auricular de llamada;Compatible;2,65;;;6
+GN-F205-FLX-COM;Gionee;F205;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-F205-SIM-COM;Gionee;F205;Bandeja SIM;Compatible;2,55;;;6
+GN-F6-PAN-COM;Gionee;F6;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-F6-BAT-COM;Gionee;F6;Batería;Compatible;9,65;;;6
+GN-F6-CON-COM;Gionee;F6;Conector de carga;Compatible;4,60;;;6
+GN-F6-TAP-COM;Gionee;F6;Tapa trasera;Compatible;5,40;;;6
+GN-F6-CTR-COM;Gionee;F6;Cámara trasera;Compatible;7,59;;;6
+GN-F6-CFR-COM;Gionee;F6;Cámara frontal;Compatible;4,99;;;6
+GN-F6-LEN-COM;Gionee;F6;Lente de cámara;Compatible;2,19;;;6
+GN-F6-ALT-COM;Gionee;F6;Altavoz;Compatible;3,65;;;6
+GN-F6-AUR-COM;Gionee;F6;Auricular de llamada;Compatible;2,65;;;6
+GN-F6-FLX-COM;Gionee;F6;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-F6-SIM-COM;Gionee;F6;Bandeja SIM;Compatible;2,55;;;6
+GN-M7PW-PAN-COM;Gionee;M7 Power;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-M7PW-BAT-COM;Gionee;M7 Power;Batería;Compatible;9,65;;;6
+GN-M7PW-CON-COM;Gionee;M7 Power;Conector de carga;Compatible;4,60;;;6
+GN-M7PW-TAP-COM;Gionee;M7 Power;Tapa trasera;Compatible;5,40;;;6
+GN-M7PW-CTR-COM;Gionee;M7 Power;Cámara trasera;Compatible;7,59;;;6
+GN-M7PW-CFR-COM;Gionee;M7 Power;Cámara frontal;Compatible;4,99;;;6
+GN-M7PW-LEN-COM;Gionee;M7 Power;Lente de cámara;Compatible;2,19;;;6
+GN-M7PW-ALT-COM;Gionee;M7 Power;Altavoz;Compatible;3,65;;;6
+GN-M7PW-AUR-COM;Gionee;M7 Power;Auricular de llamada;Compatible;2,65;;;6
+GN-M7PW-FLX-COM;Gionee;M7 Power;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-M7PW-SIM-COM;Gionee;M7 Power;Bandeja SIM;Compatible;2,55;;;6
+GN-S11-PAN-COM;Gionee;S11;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-S11-BAT-COM;Gionee;S11;Batería;Compatible;9,65;;;6
+GN-S11-CON-COM;Gionee;S11;Conector de carga;Compatible;4,60;;;6
+GN-S11-TAP-COM;Gionee;S11;Tapa trasera;Compatible;5,40;;;6
+GN-S11-CTR-COM;Gionee;S11;Cámara trasera;Compatible;7,59;;;6
+GN-S11-CFR-COM;Gionee;S11;Cámara frontal;Compatible;4,99;;;6
+GN-S11-LEN-COM;Gionee;S11;Lente de cámara;Compatible;2,19;;;6
+GN-S11-ALT-COM;Gionee;S11;Altavoz;Compatible;3,65;;;6
+GN-S11-AUR-COM;Gionee;S11;Auricular de llamada;Compatible;2,65;;;6
+GN-S11-FLX-COM;Gionee;S11;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-S11-SIM-COM;Gionee;S11;Bandeja SIM;Compatible;2,55;;;6
+GN-S11L-PAN-COM;Gionee;S11 Lite;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-S11L-BAT-COM;Gionee;S11 Lite;Batería;Compatible;9,65;;;6
+GN-S11L-CON-COM;Gionee;S11 Lite;Conector de carga;Compatible;4,60;;;6
+GN-S11L-TAP-COM;Gionee;S11 Lite;Tapa trasera;Compatible;5,40;;;6
+GN-S11L-CTR-COM;Gionee;S11 Lite;Cámara trasera;Compatible;7,59;;;6
+GN-S11L-CFR-COM;Gionee;S11 Lite;Cámara frontal;Compatible;4,99;;;6
+GN-S11L-LEN-COM;Gionee;S11 Lite;Lente de cámara;Compatible;2,19;;;6
+GN-S11L-ALT-COM;Gionee;S11 Lite;Altavoz;Compatible;3,65;;;6
+GN-S11L-AUR-COM;Gionee;S11 Lite;Auricular de llamada;Compatible;2,65;;;6
+GN-S11L-FLX-COM;Gionee;S11 Lite;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-S11L-SIM-COM;Gionee;S11 Lite;Bandeja SIM;Compatible;2,55;;;6
+GN-S11S-PAN-COM;Gionee;S11 S;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-S11S-BAT-COM;Gionee;S11 S;Batería;Compatible;9,65;;;6
+GN-S11S-CON-COM;Gionee;S11 S;Conector de carga;Compatible;4,60;;;6
+GN-S11S-TAP-COM;Gionee;S11 S;Tapa trasera;Compatible;5,40;;;6
+GN-S11S-CTR-COM;Gionee;S11 S;Cámara trasera;Compatible;7,59;;;6
+GN-S11S-CFR-COM;Gionee;S11 S;Cámara frontal;Compatible;4,99;;;6
+GN-S11S-LEN-COM;Gionee;S11 S;Lente de cámara;Compatible;2,19;;;6
+GN-S11S-ALT-COM;Gionee;S11 S;Altavoz;Compatible;3,65;;;6
+GN-S11S-AUR-COM;Gionee;S11 S;Auricular de llamada;Compatible;2,65;;;6
+GN-S11S-FLX-COM;Gionee;S11 S;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-S11S-SIM-COM;Gionee;S11 S;Bandeja SIM;Compatible;2,55;;;6
+GN-M7-PAN-COM;Gionee;M7;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-M7-BAT-COM;Gionee;M7;Batería;Compatible;9,65;;;6
+GN-M7-CON-COM;Gionee;M7;Conector de carga;Compatible;4,60;;;6
+GN-M7-TAP-COM;Gionee;M7;Tapa trasera;Compatible;5,40;;;6
+GN-M7-CTR-COM;Gionee;M7;Cámara trasera;Compatible;7,59;;;6
+GN-M7-CFR-COM;Gionee;M7;Cámara frontal;Compatible;4,99;;;6
+GN-M7-LEN-COM;Gionee;M7;Lente de cámara;Compatible;2,19;;;6
+GN-M7-ALT-COM;Gionee;M7;Altavoz;Compatible;3,65;;;6
+GN-M7-AUR-COM;Gionee;M7;Auricular de llamada;Compatible;2,65;;;6
+GN-M7-FLX-COM;Gionee;M7;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-M7-SIM-COM;Gionee;M7;Bandeja SIM;Compatible;2,55;;;6
+GN-A1L-PAN-COM;Gionee;A1 Lite;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-A1L-BAT-COM;Gionee;A1 Lite;Batería;Compatible;9,65;;;6
+GN-A1L-CON-COM;Gionee;A1 Lite;Conector de carga;Compatible;4,60;;;6
+GN-A1L-TAP-COM;Gionee;A1 Lite;Tapa trasera;Compatible;5,40;;;6
+GN-A1L-CTR-COM;Gionee;A1 Lite;Cámara trasera;Compatible;7,59;;;6
+GN-A1L-CFR-COM;Gionee;A1 Lite;Cámara frontal;Compatible;4,99;;;6
+GN-A1L-LEN-COM;Gionee;A1 Lite;Lente de cámara;Compatible;2,19;;;6
+GN-A1L-ALT-COM;Gionee;A1 Lite;Altavoz;Compatible;3,65;;;6
+GN-A1L-AUR-COM;Gionee;A1 Lite;Auricular de llamada;Compatible;2,65;;;6
+GN-A1L-FLX-COM;Gionee;A1 Lite;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-A1L-SIM-COM;Gionee;A1 Lite;Bandeja SIM;Compatible;2,55;;;6
+GN-S10-PAN-COM;Gionee;S10;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-S10-BAT-COM;Gionee;S10;Batería;Compatible;9,65;;;6
+GN-S10-CON-COM;Gionee;S10;Conector de carga;Compatible;4,60;;;6
+GN-S10-TAP-COM;Gionee;S10;Tapa trasera;Compatible;5,40;;;6
+GN-S10-CTR-COM;Gionee;S10;Cámara trasera;Compatible;7,59;;;6
+GN-S10-CFR-COM;Gionee;S10;Cámara frontal;Compatible;4,99;;;6
+GN-S10-LEN-COM;Gionee;S10;Lente de cámara;Compatible;2,19;;;6
+GN-S10-ALT-COM;Gionee;S10;Altavoz;Compatible;3,65;;;6
+GN-S10-AUR-COM;Gionee;S10;Auricular de llamada;Compatible;2,65;;;6
+GN-S10-FLX-COM;Gionee;S10;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-S10-SIM-COM;Gionee;S10;Bandeja SIM;Compatible;2,55;;;6
+GN-A1PL-PAN-COM;Gionee;A1 Plus;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-A1PL-BAT-COM;Gionee;A1 Plus;Batería;Compatible;9,65;;;6
+GN-A1PL-CON-COM;Gionee;A1 Plus;Conector de carga;Compatible;4,60;;;6
+GN-A1PL-TAP-COM;Gionee;A1 Plus;Tapa trasera;Compatible;5,40;;;6
+GN-A1PL-CTR-COM;Gionee;A1 Plus;Cámara trasera;Compatible;7,59;;;6
+GN-A1PL-CFR-COM;Gionee;A1 Plus;Cámara frontal;Compatible;4,99;;;6
+GN-A1PL-LEN-COM;Gionee;A1 Plus;Lente de cámara;Compatible;2,19;;;6
+GN-A1PL-ALT-COM;Gionee;A1 Plus;Altavoz;Compatible;3,65;;;6
+GN-A1PL-AUR-COM;Gionee;A1 Plus;Auricular de llamada;Compatible;2,65;;;6
+GN-A1PL-FLX-COM;Gionee;A1 Plus;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-A1PL-SIM-COM;Gionee;A1 Plus;Bandeja SIM;Compatible;2,55;;;6
+GN-M6SPL-PAN-COM;Gionee;M6 s Plus;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-M6SPL-BAT-COM;Gionee;M6 s Plus;Batería;Compatible;9,65;;;6
+GN-M6SPL-CON-COM;Gionee;M6 s Plus;Conector de carga;Compatible;4,60;;;6
+GN-M6SPL-TAP-COM;Gionee;M6 s Plus;Tapa trasera;Compatible;5,40;;;6
+GN-M6SPL-CTR-COM;Gionee;M6 s Plus;Cámara trasera;Compatible;7,59;;;6
+GN-M6SPL-CFR-COM;Gionee;M6 s Plus;Cámara frontal;Compatible;4,99;;;6
+GN-M6SPL-LEN-COM;Gionee;M6 s Plus;Lente de cámara;Compatible;2,19;;;6
+GN-M6SPL-ALT-COM;Gionee;M6 s Plus;Altavoz;Compatible;3,65;;;6
+GN-M6SPL-AUR-COM;Gionee;M6 s Plus;Auricular de llamada;Compatible;2,65;;;6
+GN-M6SPL-FLX-COM;Gionee;M6 s Plus;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-M6SPL-SIM-COM;Gionee;M6 s Plus;Bandeja SIM;Compatible;2,55;;;6
+GN-A1-PAN-COM;Gionee;A1;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-A1-BAT-COM;Gionee;A1;Batería;Compatible;9,65;;;6
+GN-A1-CON-COM;Gionee;A1;Conector de carga;Compatible;4,60;;;6
+GN-A1-TAP-COM;Gionee;A1;Tapa trasera;Compatible;5,40;;;6
+GN-A1-CTR-COM;Gionee;A1;Cámara trasera;Compatible;7,59;;;6
+GN-A1-CFR-COM;Gionee;A1;Cámara frontal;Compatible;4,99;;;6
+GN-A1-LEN-COM;Gionee;A1;Lente de cámara;Compatible;2,19;;;6
+GN-A1-ALT-COM;Gionee;A1;Altavoz;Compatible;3,65;;;6
+GN-A1-AUR-COM;Gionee;A1;Auricular de llamada;Compatible;2,65;;;6
+GN-A1-FLX-COM;Gionee;A1;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-A1-SIM-COM;Gionee;A1;Bandeja SIM;Compatible;2,55;;;6
+GN-F5-PAN-COM;Gionee;F5;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-F5-BAT-COM;Gionee;F5;Batería;Compatible;9,65;;;6
+GN-F5-CON-COM;Gionee;F5;Conector de carga;Compatible;4,60;;;6
+GN-F5-TAP-COM;Gionee;F5;Tapa trasera;Compatible;5,40;;;6
+GN-F5-CTR-COM;Gionee;F5;Cámara trasera;Compatible;7,59;;;6
+GN-F5-CFR-COM;Gionee;F5;Cámara frontal;Compatible;4,99;;;6
+GN-F5-LEN-COM;Gionee;F5;Lente de cámara;Compatible;2,19;;;6
+GN-F5-ALT-COM;Gionee;F5;Altavoz;Compatible;3,65;;;6
+GN-F5-AUR-COM;Gionee;F5;Auricular de llamada;Compatible;2,65;;;6
+GN-F5-FLX-COM;Gionee;F5;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-F5-SIM-COM;Gionee;F5;Bandeja SIM;Compatible;2,55;;;6
+GN-S2-PAN-COM;Gionee;Steel 2;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-S2-BAT-COM;Gionee;Steel 2;Batería;Compatible;9,65;;;6
+GN-S2-CON-COM;Gionee;Steel 2;Conector de carga;Compatible;4,60;;;6
+GN-S2-TAP-COM;Gionee;Steel 2;Tapa trasera;Compatible;5,40;;;6
+GN-S2-CTR-COM;Gionee;Steel 2;Cámara trasera;Compatible;7,59;;;6
+GN-S2-CFR-COM;Gionee;Steel 2;Cámara frontal;Compatible;4,99;;;6
+GN-S2-LEN-COM;Gionee;Steel 2;Lente de cámara;Compatible;2,19;;;6
+GN-S2-ALT-COM;Gionee;Steel 2;Altavoz;Compatible;3,65;;;6
+GN-S2-AUR-COM;Gionee;Steel 2;Auricular de llamada;Compatible;2,65;;;6
+GN-S2-FLX-COM;Gionee;Steel 2;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-S2-SIM-COM;Gionee;Steel 2;Bandeja SIM;Compatible;2,55;;;6
+GN-M2017-PAN-COM;Gionee;M2017;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-M2017-BAT-COM;Gionee;M2017;Batería;Compatible;9,65;;;6
+GN-M2017-CON-COM;Gionee;M2017;Conector de carga;Compatible;4,60;;;6
+GN-M2017-TAP-COM;Gionee;M2017;Tapa trasera;Compatible;5,40;;;6
+GN-M2017-CTR-COM;Gionee;M2017;Cámara trasera;Compatible;7,59;;;6
+GN-M2017-CFR-COM;Gionee;M2017;Cámara frontal;Compatible;4,99;;;6
+GN-M2017-LEN-COM;Gionee;M2017;Lente de cámara;Compatible;2,19;;;6
+GN-M2017-ALT-COM;Gionee;M2017;Altavoz;Compatible;3,65;;;6
+GN-M2017-AUR-COM;Gionee;M2017;Auricular de llamada;Compatible;2,65;;;6
+GN-M2017-FLX-COM;Gionee;M2017;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-M2017-SIM-COM;Gionee;M2017;Bandeja SIM;Compatible;2,55;;;6
+GN-S9-PAN-COM;Gionee;S9;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-S9-BAT-COM;Gionee;S9;Batería;Compatible;9,65;;;6
+GN-S9-CON-COM;Gionee;S9;Conector de carga;Compatible;4,60;;;6
+GN-S9-TAP-COM;Gionee;S9;Tapa trasera;Compatible;5,40;;;6
+GN-S9-CTR-COM;Gionee;S9;Cámara trasera;Compatible;7,59;;;6
+GN-S9-CFR-COM;Gionee;S9;Cámara frontal;Compatible;4,99;;;6
+GN-S9-LEN-COM;Gionee;S9;Lente de cámara;Compatible;2,19;;;6
+GN-S9-ALT-COM;Gionee;S9;Altavoz;Compatible;3,65;;;6
+GN-S9-AUR-COM;Gionee;S9;Auricular de llamada;Compatible;2,65;;;6
+GN-S9-FLX-COM;Gionee;S9;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-S9-SIM-COM;Gionee;S9;Bandeja SIM;Compatible;2,55;;;6
+GN-S6S2-PAN-COM;Gionee;S6s;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-S6S2-BAT-COM;Gionee;S6s;Batería;Compatible;9,65;;;6
+GN-S6S2-CON-COM;Gionee;S6s;Conector de carga;Compatible;4,60;;;6
+GN-S6S2-TAP-COM;Gionee;S6s;Tapa trasera;Compatible;5,40;;;6
+GN-S6S2-CTR-COM;Gionee;S6s;Cámara trasera;Compatible;7,59;;;6
+GN-S6S2-CFR-COM;Gionee;S6s;Cámara frontal;Compatible;4,99;;;6
+GN-S6S2-LEN-COM;Gionee;S6s;Lente de cámara;Compatible;2,19;;;6
+GN-S6S2-ALT-COM;Gionee;S6s;Altavoz;Compatible;3,65;;;6
+GN-S6S2-AUR-COM;Gionee;S6s;Auricular de llamada;Compatible;2,65;;;6
+GN-S6S2-FLX-COM;Gionee;S6s;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-S6S2-SIM-COM;Gionee;S6s;Bandeja SIM;Compatible;2,55;;;6
+GN-S6P-PAN-COM;Gionee;S6 Pro;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-S6P-BAT-COM;Gionee;S6 Pro;Batería;Compatible;9,65;;;6
+GN-S6P-CON-COM;Gionee;S6 Pro;Conector de carga;Compatible;4,60;;;6
+GN-S6P-TAP-COM;Gionee;S6 Pro;Tapa trasera;Compatible;5,40;;;6
+GN-S6P-CTR-COM;Gionee;S6 Pro;Cámara trasera;Compatible;7,59;;;6
+GN-S6P-CFR-COM;Gionee;S6 Pro;Cámara frontal;Compatible;4,99;;;6
+GN-S6P-LEN-COM;Gionee;S6 Pro;Lente de cámara;Compatible;2,19;;;6
+GN-S6P-ALT-COM;Gionee;S6 Pro;Altavoz;Compatible;3,65;;;6
+GN-S6P-AUR-COM;Gionee;S6 Pro;Auricular de llamada;Compatible;2,65;;;6
+GN-S6P-FLX-COM;Gionee;S6 Pro;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-S6P-SIM-COM;Gionee;S6 Pro;Bandeja SIM;Compatible;2,55;;;6
+GN-S8-PAN-COM;Gionee;S8;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-S8-BAT-COM;Gionee;S8;Batería;Compatible;9,65;;;6
+GN-S8-CON-COM;Gionee;S8;Conector de carga;Compatible;4,60;;;6
+GN-S8-TAP-COM;Gionee;S8;Tapa trasera;Compatible;5,40;;;6
+GN-S8-CTR-COM;Gionee;S8;Cámara trasera;Compatible;7,59;;;6
+GN-S8-CFR-COM;Gionee;S8;Cámara frontal;Compatible;4,99;;;6
+GN-S8-LEN-COM;Gionee;S8;Lente de cámara;Compatible;2,19;;;6
+GN-S8-ALT-COM;Gionee;S8;Altavoz;Compatible;3,65;;;6
+GN-S8-AUR-COM;Gionee;S8;Auricular de llamada;Compatible;2,65;;;6
+GN-S8-FLX-COM;Gionee;S8;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-S8-SIM-COM;Gionee;S8;Bandeja SIM;Compatible;2,55;;;6
+GN-ES51P-PAN-COM;Gionee;Elife S5.1 Pro;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-ES51P-BAT-COM;Gionee;Elife S5.1 Pro;Batería;Compatible;9,65;;;6
+GN-ES51P-CON-COM;Gionee;Elife S5.1 Pro;Conector de carga;Compatible;4,60;;;6
+GN-ES51P-TAP-COM;Gionee;Elife S5.1 Pro;Tapa trasera;Compatible;5,40;;;6
+GN-ES51P-CTR-COM;Gionee;Elife S5.1 Pro;Cámara trasera;Compatible;7,59;;;6
+GN-ES51P-CFR-COM;Gionee;Elife S5.1 Pro;Cámara frontal;Compatible;4,99;;;6
+GN-ES51P-LEN-COM;Gionee;Elife S5.1 Pro;Lente de cámara;Compatible;2,19;;;6
+GN-ES51P-ALT-COM;Gionee;Elife S5.1 Pro;Altavoz;Compatible;3,65;;;6
+GN-ES51P-AUR-COM;Gionee;Elife S5.1 Pro;Auricular de llamada;Compatible;2,65;;;6
+GN-ES51P-FLX-COM;Gionee;Elife S5.1 Pro;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-ES51P-SIM-COM;Gionee;Elife S5.1 Pro;Bandeja SIM;Compatible;2,55;;;6
+GN-S6-PAN-COM;Gionee;S6;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-S6-BAT-COM;Gionee;S6;Batería;Compatible;9,65;;;6
+GN-S6-CON-COM;Gionee;S6;Conector de carga;Compatible;4,60;;;6
+GN-S6-TAP-COM;Gionee;S6;Tapa trasera;Compatible;5,40;;;6
+GN-S6-CTR-COM;Gionee;S6;Cámara trasera;Compatible;7,59;;;6
+GN-S6-CFR-COM;Gionee;S6;Cámara frontal;Compatible;4,99;;;6
+GN-S6-LEN-COM;Gionee;S6;Lente de cámara;Compatible;2,19;;;6
+GN-S6-ALT-COM;Gionee;S6;Altavoz;Compatible;3,65;;;6
+GN-S6-AUR-COM;Gionee;S6;Auricular de llamada;Compatible;2,65;;;6
+GN-S6-FLX-COM;Gionee;S6;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-S6-SIM-COM;Gionee;S6;Bandeja SIM;Compatible;2,55;;;6
+GN-ES7-PAN-COM;Gionee;Elife S7;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-ES7-BAT-COM;Gionee;Elife S7;Batería;Compatible;9,65;;;6
+GN-ES7-CON-COM;Gionee;Elife S7;Conector de carga;Compatible;4,60;;;6
+GN-ES7-TAP-COM;Gionee;Elife S7;Tapa trasera;Compatible;5,40;;;6
+GN-ES7-CTR-COM;Gionee;Elife S7;Cámara trasera;Compatible;7,59;;;6
+GN-ES7-CFR-COM;Gionee;Elife S7;Cámara frontal;Compatible;4,99;;;6
+GN-ES7-LEN-COM;Gionee;Elife S7;Lente de cámara;Compatible;2,19;;;6
+GN-ES7-ALT-COM;Gionee;Elife S7;Altavoz;Compatible;3,65;;;6
+GN-ES7-AUR-COM;Gionee;Elife S7;Auricular de llamada;Compatible;2,65;;;6
+GN-ES7-FLX-COM;Gionee;Elife S7;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-ES7-SIM-COM;Gionee;Elife S7;Bandeja SIM;Compatible;2,55;;;6
+GN-ES51-PAN-COM;Gionee;Elife S5.1;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-ES51-BAT-COM;Gionee;Elife S5.1;Batería;Compatible;9,65;;;6
+GN-ES51-CON-COM;Gionee;Elife S5.1;Conector de carga;Compatible;4,60;;;6
+GN-ES51-TAP-COM;Gionee;Elife S5.1;Tapa trasera;Compatible;5,40;;;6
+GN-ES51-CTR-COM;Gionee;Elife S5.1;Cámara trasera;Compatible;7,59;;;6
+GN-ES51-CFR-COM;Gionee;Elife S5.1;Cámara frontal;Compatible;4,99;;;6
+GN-ES51-LEN-COM;Gionee;Elife S5.1;Lente de cámara;Compatible;2,19;;;6
+GN-ES51-ALT-COM;Gionee;Elife S5.1;Altavoz;Compatible;3,65;;;6
+GN-ES51-AUR-COM;Gionee;Elife S5.1;Auricular de llamada;Compatible;2,65;;;6
+GN-ES51-FLX-COM;Gionee;Elife S5.1;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-ES51-SIM-COM;Gionee;Elife S5.1;Bandeja SIM;Compatible;2,55;;;6
+GN-EE7MN-PAN-COM;Gionee;Elife E7 Mini;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-EE7MN-BAT-COM;Gionee;Elife E7 Mini;Batería;Compatible;9,65;;;6
+GN-EE7MN-CON-COM;Gionee;Elife E7 Mini;Conector de carga;Compatible;4,60;;;6
+GN-EE7MN-TAP-COM;Gionee;Elife E7 Mini;Tapa trasera;Compatible;5,40;;;6
+GN-EE7MN-CTR-COM;Gionee;Elife E7 Mini;Cámara trasera;Compatible;7,59;;;6
+GN-EE7MN-CFR-COM;Gionee;Elife E7 Mini;Cámara frontal;Compatible;4,99;;;6
+GN-EE7MN-LEN-COM;Gionee;Elife E7 Mini;Lente de cámara;Compatible;2,19;;;6
+GN-EE7MN-ALT-COM;Gionee;Elife E7 Mini;Altavoz;Compatible;3,65;;;6
+GN-EE7MN-AUR-COM;Gionee;Elife E7 Mini;Auricular de llamada;Compatible;2,65;;;6
+GN-EE7MN-FLX-COM;Gionee;Elife E7 Mini;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-EE7MN-SIM-COM;Gionee;Elife E7 Mini;Bandeja SIM;Compatible;2,55;;;6
+GN-ES55-PAN-COM;Gionee;Elife S5.5;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-ES55-BAT-COM;Gionee;Elife S5.5;Batería;Compatible;9,65;;;6
+GN-ES55-CON-COM;Gionee;Elife S5.5;Conector de carga;Compatible;4,60;;;6
+GN-ES55-TAP-COM;Gionee;Elife S5.5;Tapa trasera;Compatible;5,40;;;6
+GN-ES55-CTR-COM;Gionee;Elife S5.5;Cámara trasera;Compatible;7,59;;;6
+GN-ES55-CFR-COM;Gionee;Elife S5.5;Cámara frontal;Compatible;4,99;;;6
+GN-ES55-LEN-COM;Gionee;Elife S5.5;Lente de cámara;Compatible;2,19;;;6
+GN-ES55-ALT-COM;Gionee;Elife S5.5;Altavoz;Compatible;3,65;;;6
+GN-ES55-AUR-COM;Gionee;Elife S5.5;Auricular de llamada;Compatible;2,65;;;6
+GN-ES55-FLX-COM;Gionee;Elife S5.5;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-ES55-SIM-COM;Gionee;Elife S5.5;Bandeja SIM;Compatible;2,55;;;6
+GN-EE7-PAN-COM;Gionee;Elife E7;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-EE7-BAT-COM;Gionee;Elife E7;Batería;Compatible;9,65;;;6
+GN-EE7-CON-COM;Gionee;Elife E7;Conector de carga;Compatible;4,60;;;6
+GN-EE7-TAP-COM;Gionee;Elife E7;Tapa trasera;Compatible;5,40;;;6
+GN-EE7-CTR-COM;Gionee;Elife E7;Cámara trasera;Compatible;7,59;;;6
+GN-EE7-CFR-COM;Gionee;Elife E7;Cámara frontal;Compatible;4,99;;;6
+GN-EE7-LEN-COM;Gionee;Elife E7;Lente de cámara;Compatible;2,19;;;6
+GN-EE7-ALT-COM;Gionee;Elife E7;Altavoz;Compatible;3,65;;;6
+GN-EE7-AUR-COM;Gionee;Elife E7;Auricular de llamada;Compatible;2,65;;;6
+GN-EE7-FLX-COM;Gionee;Elife E7;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-EE7-SIM-COM;Gionee;Elife E7;Bandeja SIM;Compatible;2,55;;;6
+GN-EE6-PAN-COM;Gionee;Elife E6;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-EE6-BAT-COM;Gionee;Elife E6;Batería;Compatible;9,65;;;6
+GN-EE6-CON-COM;Gionee;Elife E6;Conector de carga;Compatible;4,60;;;6
+GN-EE6-TAP-COM;Gionee;Elife E6;Tapa trasera;Compatible;5,40;;;6
+GN-EE6-CTR-COM;Gionee;Elife E6;Cámara trasera;Compatible;7,59;;;6
+GN-EE6-CFR-COM;Gionee;Elife E6;Cámara frontal;Compatible;4,99;;;6
+GN-EE6-LEN-COM;Gionee;Elife E6;Lente de cámara;Compatible;2,19;;;6
+GN-EE6-ALT-COM;Gionee;Elife E6;Altavoz;Compatible;3,65;;;6
+GN-EE6-AUR-COM;Gionee;Elife E6;Auricular de llamada;Compatible;2,65;;;6
+GN-EE6-FLX-COM;Gionee;Elife E6;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-EE6-SIM-COM;Gionee;Elife E6;Bandeja SIM;Compatible;2,55;;;6
+GN-S10L-PAN-COM;Gionee;S10 lite;Pantalla;Compatible;15,15;14,70;14,24;6
+GN-S10L-BAT-COM;Gionee;S10 lite;Batería;Compatible;9,65;;;6
+GN-S10L-CON-COM;Gionee;S10 lite;Conector de carga;Compatible;4,60;;;6
+GN-S10L-TAP-COM;Gionee;S10 lite;Tapa trasera;Compatible;5,40;;;6
+GN-S10L-CTR-COM;Gionee;S10 lite;Cámara trasera;Compatible;7,59;;;6
+GN-S10L-CFR-COM;Gionee;S10 lite;Cámara frontal;Compatible;4,99;;;6
+GN-S10L-LEN-COM;Gionee;S10 lite;Lente de cámara;Compatible;2,19;;;6
+GN-S10L-ALT-COM;Gionee;S10 lite;Altavoz;Compatible;3,65;;;6
+GN-S10L-AUR-COM;Gionee;S10 lite;Auricular de llamada;Compatible;2,65;;;6
+GN-S10L-FLX-COM;Gionee;S10 lite;Flex de encendido y volumen;Compatible;2,49;;;6
+GN-S10L-SIM-COM;Gionee;S10 lite;Bandeja SIM;Compatible;2,55;;;6
+GN-M7PL-PRO-NA;Gionee;M7 Plus;Cristal templado;Estándar;1,30;;;
+GN-M7PL-PRO-PRI;Gionee;M7 Plus;Cristal templado;Privacidad;4,00;;;
+GN-M7PL-FUN-SIL;Gionee;M7 Plus;Funda;Silicona;2,50;;;
+GN-M7PL-FUN-TPU;Gionee;M7 Plus;Funda;Transparente;2,95;;;
+GN-M7PL-FUN-LIB;Gionee;M7 Plus;Funda;Libro;3,70;;;
+GN-M7PL-FUN-ANT;Gionee;M7 Plus;Funda;Antigolpes;3,10;;;
+GN-F205-PRO-NA;Gionee;F205;Cristal templado;Estándar;1,30;;;
+GN-F205-PRO-PRI;Gionee;F205;Cristal templado;Privacidad;4,00;;;
+GN-F205-FUN-SIL;Gionee;F205;Funda;Silicona;2,50;;;
+GN-F205-FUN-TPU;Gionee;F205;Funda;Transparente;2,95;;;
+GN-F205-FUN-LIB;Gionee;F205;Funda;Libro;3,70;;;
+GN-F205-FUN-ANT;Gionee;F205;Funda;Antigolpes;3,10;;;
+GN-F6-PRO-NA;Gionee;F6;Cristal templado;Estándar;1,30;;;
+GN-F6-PRO-PRI;Gionee;F6;Cristal templado;Privacidad;4,00;;;
+GN-F6-FUN-SIL;Gionee;F6;Funda;Silicona;2,50;;;
+GN-F6-FUN-TPU;Gionee;F6;Funda;Transparente;2,95;;;
+GN-F6-FUN-LIB;Gionee;F6;Funda;Libro;3,70;;;
+GN-F6-FUN-ANT;Gionee;F6;Funda;Antigolpes;3,10;;;
+GN-M7PW-PRO-NA;Gionee;M7 Power;Cristal templado;Estándar;1,30;;;
+GN-M7PW-PRO-PRI;Gionee;M7 Power;Cristal templado;Privacidad;4,00;;;
+GN-M7PW-FUN-SIL;Gionee;M7 Power;Funda;Silicona;2,50;;;
+GN-M7PW-FUN-TPU;Gionee;M7 Power;Funda;Transparente;2,95;;;
+GN-M7PW-FUN-LIB;Gionee;M7 Power;Funda;Libro;3,70;;;
+GN-M7PW-FUN-ANT;Gionee;M7 Power;Funda;Antigolpes;3,10;;;
+GN-S11-PRO-NA;Gionee;S11;Cristal templado;Estándar;1,30;;;
+GN-S11-PRO-PRI;Gionee;S11;Cristal templado;Privacidad;4,00;;;
+GN-S11-FUN-SIL;Gionee;S11;Funda;Silicona;2,50;;;
+GN-S11-FUN-TPU;Gionee;S11;Funda;Transparente;2,95;;;
+GN-S11-FUN-LIB;Gionee;S11;Funda;Libro;3,70;;;
+GN-S11-FUN-ANT;Gionee;S11;Funda;Antigolpes;3,10;;;
+GN-S11L-PRO-NA;Gionee;S11 Lite;Cristal templado;Estándar;1,30;;;
+GN-S11L-PRO-PRI;Gionee;S11 Lite;Cristal templado;Privacidad;4,00;;;
+GN-S11L-FUN-SIL;Gionee;S11 Lite;Funda;Silicona;2,50;;;
+GN-S11L-FUN-TPU;Gionee;S11 Lite;Funda;Transparente;2,95;;;
+GN-S11L-FUN-LIB;Gionee;S11 Lite;Funda;Libro;3,70;;;
+GN-S11L-FUN-ANT;Gionee;S11 Lite;Funda;Antigolpes;3,10;;;
+GN-S11S-PRO-NA;Gionee;S11 S;Cristal templado;Estándar;1,30;;;
+GN-S11S-PRO-PRI;Gionee;S11 S;Cristal templado;Privacidad;4,00;;;
+GN-S11S-FUN-SIL;Gionee;S11 S;Funda;Silicona;2,50;;;
+GN-S11S-FUN-TPU;Gionee;S11 S;Funda;Transparente;2,95;;;
+GN-S11S-FUN-LIB;Gionee;S11 S;Funda;Libro;3,70;;;
+GN-S11S-FUN-ANT;Gionee;S11 S;Funda;Antigolpes;3,10;;;
+GN-M7-PRO-NA;Gionee;M7;Cristal templado;Estándar;1,30;;;
+GN-M7-PRO-PRI;Gionee;M7;Cristal templado;Privacidad;4,00;;;
+GN-M7-FUN-SIL;Gionee;M7;Funda;Silicona;2,50;;;
+GN-M7-FUN-TPU;Gionee;M7;Funda;Transparente;2,95;;;
+GN-M7-FUN-LIB;Gionee;M7;Funda;Libro;3,70;;;
+GN-M7-FUN-ANT;Gionee;M7;Funda;Antigolpes;3,10;;;
+GN-A1L-PRO-NA;Gionee;A1 Lite;Cristal templado;Estándar;1,30;;;
+GN-A1L-PRO-PRI;Gionee;A1 Lite;Cristal templado;Privacidad;4,00;;;
+GN-A1L-FUN-SIL;Gionee;A1 Lite;Funda;Silicona;2,50;;;
+GN-A1L-FUN-TPU;Gionee;A1 Lite;Funda;Transparente;2,95;;;
+GN-A1L-FUN-LIB;Gionee;A1 Lite;Funda;Libro;3,70;;;
+GN-A1L-FUN-ANT;Gionee;A1 Lite;Funda;Antigolpes;3,10;;;
+GN-S10-PRO-NA;Gionee;S10;Cristal templado;Estándar;1,30;;;
+GN-S10-PRO-PRI;Gionee;S10;Cristal templado;Privacidad;4,00;;;
+GN-S10-FUN-SIL;Gionee;S10;Funda;Silicona;2,50;;;
+GN-S10-FUN-TPU;Gionee;S10;Funda;Transparente;2,95;;;
+GN-S10-FUN-LIB;Gionee;S10;Funda;Libro;3,70;;;
+GN-S10-FUN-ANT;Gionee;S10;Funda;Antigolpes;3,10;;;
+GN-A1PL-PRO-NA;Gionee;A1 Plus;Cristal templado;Estándar;1,30;;;
+GN-A1PL-PRO-PRI;Gionee;A1 Plus;Cristal templado;Privacidad;4,00;;;
+GN-A1PL-FUN-SIL;Gionee;A1 Plus;Funda;Silicona;2,50;;;
+GN-A1PL-FUN-TPU;Gionee;A1 Plus;Funda;Transparente;2,95;;;
+GN-A1PL-FUN-LIB;Gionee;A1 Plus;Funda;Libro;3,70;;;
+GN-A1PL-FUN-ANT;Gionee;A1 Plus;Funda;Antigolpes;3,10;;;
+GN-M6SPL-PRO-NA;Gionee;M6 s Plus;Cristal templado;Estándar;1,30;;;
+GN-M6SPL-PRO-PRI;Gionee;M6 s Plus;Cristal templado;Privacidad;4,00;;;
+GN-M6SPL-FUN-SIL;Gionee;M6 s Plus;Funda;Silicona;2,50;;;
+GN-M6SPL-FUN-TPU;Gionee;M6 s Plus;Funda;Transparente;2,95;;;
+GN-M6SPL-FUN-LIB;Gionee;M6 s Plus;Funda;Libro;3,70;;;
+GN-M6SPL-FUN-ANT;Gionee;M6 s Plus;Funda;Antigolpes;3,10;;;
+GN-A1-PRO-NA;Gionee;A1;Cristal templado;Estándar;1,30;;;
+GN-A1-PRO-PRI;Gionee;A1;Cristal templado;Privacidad;4,00;;;
+GN-A1-FUN-SIL;Gionee;A1;Funda;Silicona;2,50;;;
+GN-A1-FUN-TPU;Gionee;A1;Funda;Transparente;2,95;;;
+GN-A1-FUN-LIB;Gionee;A1;Funda;Libro;3,70;;;
+GN-A1-FUN-ANT;Gionee;A1;Funda;Antigolpes;3,10;;;
+GN-F5-PRO-NA;Gionee;F5;Cristal templado;Estándar;1,30;;;
+GN-F5-PRO-PRI;Gionee;F5;Cristal templado;Privacidad;4,00;;;
+GN-F5-FUN-SIL;Gionee;F5;Funda;Silicona;2,50;;;
+GN-F5-FUN-TPU;Gionee;F5;Funda;Transparente;2,95;;;
+GN-F5-FUN-LIB;Gionee;F5;Funda;Libro;3,70;;;
+GN-F5-FUN-ANT;Gionee;F5;Funda;Antigolpes;3,10;;;
+GN-S2-PRO-NA;Gionee;Steel 2;Cristal templado;Estándar;1,30;;;
+GN-S2-PRO-PRI;Gionee;Steel 2;Cristal templado;Privacidad;4,00;;;
+GN-S2-FUN-SIL;Gionee;Steel 2;Funda;Silicona;2,50;;;
+GN-S2-FUN-TPU;Gionee;Steel 2;Funda;Transparente;2,95;;;
+GN-S2-FUN-LIB;Gionee;Steel 2;Funda;Libro;3,70;;;
+GN-S2-FUN-ANT;Gionee;Steel 2;Funda;Antigolpes;3,10;;;
+GN-M2017-PRO-NA;Gionee;M2017;Cristal templado;Estándar;1,30;;;
+GN-M2017-PRO-PRI;Gionee;M2017;Cristal templado;Privacidad;4,00;;;
+GN-M2017-FUN-SIL;Gionee;M2017;Funda;Silicona;2,50;;;
+GN-M2017-FUN-TPU;Gionee;M2017;Funda;Transparente;2,95;;;
+GN-M2017-FUN-LIB;Gionee;M2017;Funda;Libro;3,70;;;
+GN-M2017-FUN-ANT;Gionee;M2017;Funda;Antigolpes;3,10;;;
+GN-S9-PRO-NA;Gionee;S9;Cristal templado;Estándar;1,30;;;
+GN-S9-PRO-PRI;Gionee;S9;Cristal templado;Privacidad;4,00;;;
+GN-S9-FUN-SIL;Gionee;S9;Funda;Silicona;2,50;;;
+GN-S9-FUN-TPU;Gionee;S9;Funda;Transparente;2,95;;;
+GN-S9-FUN-LIB;Gionee;S9;Funda;Libro;3,70;;;
+GN-S9-FUN-ANT;Gionee;S9;Funda;Antigolpes;3,10;;;
+GN-S6S2-PRO-NA;Gionee;S6s;Cristal templado;Estándar;1,30;;;
+GN-S6S2-PRO-PRI;Gionee;S6s;Cristal templado;Privacidad;4,00;;;
+GN-S6S2-FUN-SIL;Gionee;S6s;Funda;Silicona;2,50;;;
+GN-S6S2-FUN-TPU;Gionee;S6s;Funda;Transparente;2,95;;;
+GN-S6S2-FUN-LIB;Gionee;S6s;Funda;Libro;3,70;;;
+GN-S6S2-FUN-ANT;Gionee;S6s;Funda;Antigolpes;3,10;;;
+GN-S6P-PRO-NA;Gionee;S6 Pro;Cristal templado;Estándar;1,30;;;
+GN-S6P-PRO-PRI;Gionee;S6 Pro;Cristal templado;Privacidad;4,00;;;
+GN-S6P-FUN-SIL;Gionee;S6 Pro;Funda;Silicona;2,50;;;
+GN-S6P-FUN-TPU;Gionee;S6 Pro;Funda;Transparente;2,95;;;
+GN-S6P-FUN-LIB;Gionee;S6 Pro;Funda;Libro;3,70;;;
+GN-S6P-FUN-ANT;Gionee;S6 Pro;Funda;Antigolpes;3,10;;;
+GN-S8-PRO-NA;Gionee;S8;Cristal templado;Estándar;1,30;;;
+GN-S8-PRO-PRI;Gionee;S8;Cristal templado;Privacidad;4,00;;;
+GN-S8-FUN-SIL;Gionee;S8;Funda;Silicona;2,50;;;
+GN-S8-FUN-TPU;Gionee;S8;Funda;Transparente;2,95;;;
+GN-S8-FUN-LIB;Gionee;S8;Funda;Libro;3,70;;;
+GN-S8-FUN-ANT;Gionee;S8;Funda;Antigolpes;3,10;;;
+GN-ES51P-PRO-NA;Gionee;Elife S5.1 Pro;Cristal templado;Estándar;1,30;;;
+GN-ES51P-PRO-PRI;Gionee;Elife S5.1 Pro;Cristal templado;Privacidad;4,00;;;
+GN-ES51P-FUN-SIL;Gionee;Elife S5.1 Pro;Funda;Silicona;2,50;;;
+GN-ES51P-FUN-TPU;Gionee;Elife S5.1 Pro;Funda;Transparente;2,95;;;
+GN-ES51P-FUN-LIB;Gionee;Elife S5.1 Pro;Funda;Libro;3,70;;;
+GN-ES51P-FUN-ANT;Gionee;Elife S5.1 Pro;Funda;Antigolpes;3,10;;;
+GN-S6-PRO-NA;Gionee;S6;Cristal templado;Estándar;1,30;;;
+GN-S6-PRO-PRI;Gionee;S6;Cristal templado;Privacidad;4,00;;;
+GN-S6-FUN-SIL;Gionee;S6;Funda;Silicona;2,50;;;
+GN-S6-FUN-TPU;Gionee;S6;Funda;Transparente;2,95;;;
+GN-S6-FUN-LIB;Gionee;S6;Funda;Libro;3,70;;;
+GN-S6-FUN-ANT;Gionee;S6;Funda;Antigolpes;3,10;;;
+GN-ES7-PRO-NA;Gionee;Elife S7;Cristal templado;Estándar;1,30;;;
+GN-ES7-PRO-PRI;Gionee;Elife S7;Cristal templado;Privacidad;4,00;;;
+GN-ES7-FUN-SIL;Gionee;Elife S7;Funda;Silicona;2,50;;;
+GN-ES7-FUN-TPU;Gionee;Elife S7;Funda;Transparente;2,95;;;
+GN-ES7-FUN-LIB;Gionee;Elife S7;Funda;Libro;3,70;;;
+GN-ES7-FUN-ANT;Gionee;Elife S7;Funda;Antigolpes;3,10;;;
+GN-ES51-PRO-NA;Gionee;Elife S5.1;Cristal templado;Estándar;1,30;;;
+GN-ES51-PRO-PRI;Gionee;Elife S5.1;Cristal templado;Privacidad;4,00;;;
+GN-ES51-FUN-SIL;Gionee;Elife S5.1;Funda;Silicona;2,50;;;
+GN-ES51-FUN-TPU;Gionee;Elife S5.1;Funda;Transparente;2,95;;;
+GN-ES51-FUN-LIB;Gionee;Elife S5.1;Funda;Libro;3,70;;;
+GN-ES51-FUN-ANT;Gionee;Elife S5.1;Funda;Antigolpes;3,10;;;
+GN-EE7MN-PRO-NA;Gionee;Elife E7 Mini;Cristal templado;Estándar;1,30;;;
+GN-EE7MN-PRO-PRI;Gionee;Elife E7 Mini;Cristal templado;Privacidad;4,00;;;
+GN-EE7MN-FUN-SIL;Gionee;Elife E7 Mini;Funda;Silicona;2,50;;;
+GN-EE7MN-FUN-TPU;Gionee;Elife E7 Mini;Funda;Transparente;2,95;;;
+GN-EE7MN-FUN-LIB;Gionee;Elife E7 Mini;Funda;Libro;3,70;;;
+GN-EE7MN-FUN-ANT;Gionee;Elife E7 Mini;Funda;Antigolpes;3,10;;;
+GN-ES55-PRO-NA;Gionee;Elife S5.5;Cristal templado;Estándar;1,30;;;
+GN-ES55-PRO-PRI;Gionee;Elife S5.5;Cristal templado;Privacidad;4,00;;;
+GN-ES55-FUN-SIL;Gionee;Elife S5.5;Funda;Silicona;2,50;;;
+GN-ES55-FUN-TPU;Gionee;Elife S5.5;Funda;Transparente;2,95;;;
+GN-ES55-FUN-LIB;Gionee;Elife S5.5;Funda;Libro;3,70;;;
+GN-ES55-FUN-ANT;Gionee;Elife S5.5;Funda;Antigolpes;3,10;;;
+GN-EE7-PRO-NA;Gionee;Elife E7;Cristal templado;Estándar;1,30;;;
+GN-EE7-PRO-PRI;Gionee;Elife E7;Cristal templado;Privacidad;4,00;;;
+GN-EE7-FUN-SIL;Gionee;Elife E7;Funda;Silicona;2,50;;;
+GN-EE7-FUN-TPU;Gionee;Elife E7;Funda;Transparente;2,95;;;
+GN-EE7-FUN-LIB;Gionee;Elife E7;Funda;Libro;3,70;;;
+GN-EE7-FUN-ANT;Gionee;Elife E7;Funda;Antigolpes;3,10;;;
+GN-EE6-PRO-NA;Gionee;Elife E6;Cristal templado;Estándar;1,30;;;
+GN-EE6-PRO-PRI;Gionee;Elife E6;Cristal templado;Privacidad;4,00;;;
+GN-EE6-FUN-SIL;Gionee;Elife E6;Funda;Silicona;2,50;;;
+GN-EE6-FUN-TPU;Gionee;Elife E6;Funda;Transparente;2,95;;;
+GN-EE6-FUN-LIB;Gionee;Elife E6;Funda;Libro;3,70;;;
+GN-EE6-FUN-ANT;Gionee;Elife E6;Funda;Antigolpes;3,10;;;
+GN-S10L-PRO-NA;Gionee;S10 lite;Cristal templado;Estándar;1,30;;;
+GN-S10L-PRO-PRI;Gionee;S10 lite;Cristal templado;Privacidad;4,00;;;
+GN-S10L-FUN-SIL;Gionee;S10 lite;Funda;Silicona;2,50;;;
+GN-S10L-FUN-TPU;Gionee;S10 lite;Funda;Transparente;2,95;;;
+GN-S10L-FUN-LIB;Gionee;S10 lite;Funda;Libro;3,70;;;
+GN-S10L-FUN-ANT;Gionee;S10 lite;Funda;Antigolpes;3,10;;;
+GN-M7PL-MAR-COM;Gionee;M7 Plus;Marco / chasis;Compatible;6,49;;;6
+GN-M7PL-BOT-COM;Gionee;M7 Plus;Botones laterales;Compatible;3,35;;;6
+GN-M7PL-CRI-COM;Gionee;M7 Plus;Cristal de pantalla;Compatible;3,30;;;6
+GN-M7PL-ANT-COM;Gionee;M7 Plus;Antena / coaxial;Compatible;2,89;;;6
+GN-M7PL-HUE-COM;Gionee;M7 Plus;Botón home / huella;Compatible;4,79;;;6
+GN-F205-MAR-COM;Gionee;F205;Marco / chasis;Compatible;6,49;;;6
+GN-F205-BOT-COM;Gionee;F205;Botones laterales;Compatible;3,35;;;6
+GN-F205-CRI-COM;Gionee;F205;Cristal de pantalla;Compatible;3,30;;;6
+GN-F205-ANT-COM;Gionee;F205;Antena / coaxial;Compatible;2,89;;;6
+GN-F205-HUE-COM;Gionee;F205;Botón home / huella;Compatible;4,79;;;6
+GN-F6-MAR-COM;Gionee;F6;Marco / chasis;Compatible;6,49;;;6
+GN-F6-BOT-COM;Gionee;F6;Botones laterales;Compatible;3,35;;;6
+GN-F6-CRI-COM;Gionee;F6;Cristal de pantalla;Compatible;3,30;;;6
+GN-F6-ANT-COM;Gionee;F6;Antena / coaxial;Compatible;2,89;;;6
+GN-F6-HUE-COM;Gionee;F6;Botón home / huella;Compatible;4,79;;;6
+GN-M7PW-MAR-COM;Gionee;M7 Power;Marco / chasis;Compatible;6,49;;;6
+GN-M7PW-BOT-COM;Gionee;M7 Power;Botones laterales;Compatible;3,35;;;6
+GN-M7PW-CRI-COM;Gionee;M7 Power;Cristal de pantalla;Compatible;3,30;;;6
+GN-M7PW-ANT-COM;Gionee;M7 Power;Antena / coaxial;Compatible;2,89;;;6
+GN-M7PW-HUE-COM;Gionee;M7 Power;Botón home / huella;Compatible;4,79;;;6
+GN-S11-MAR-COM;Gionee;S11;Marco / chasis;Compatible;6,49;;;6
+GN-S11-BOT-COM;Gionee;S11;Botones laterales;Compatible;3,35;;;6
+GN-S11-CRI-COM;Gionee;S11;Cristal de pantalla;Compatible;3,30;;;6
+GN-S11-ANT-COM;Gionee;S11;Antena / coaxial;Compatible;2,89;;;6
+GN-S11-HUE-COM;Gionee;S11;Botón home / huella;Compatible;4,79;;;6
+GN-S11L-MAR-COM;Gionee;S11 Lite;Marco / chasis;Compatible;6,49;;;6
+GN-S11L-BOT-COM;Gionee;S11 Lite;Botones laterales;Compatible;3,35;;;6
+GN-S11L-CRI-COM;Gionee;S11 Lite;Cristal de pantalla;Compatible;3,30;;;6
+GN-S11L-ANT-COM;Gionee;S11 Lite;Antena / coaxial;Compatible;2,89;;;6
+GN-S11L-HUE-COM;Gionee;S11 Lite;Botón home / huella;Compatible;4,79;;;6
+GN-S11S-MAR-COM;Gionee;S11 S;Marco / chasis;Compatible;6,49;;;6
+GN-S11S-BOT-COM;Gionee;S11 S;Botones laterales;Compatible;3,35;;;6
+GN-S11S-CRI-COM;Gionee;S11 S;Cristal de pantalla;Compatible;3,30;;;6
+GN-S11S-ANT-COM;Gionee;S11 S;Antena / coaxial;Compatible;2,89;;;6
+GN-S11S-HUE-COM;Gionee;S11 S;Botón home / huella;Compatible;4,79;;;6
+GN-M7-MAR-COM;Gionee;M7;Marco / chasis;Compatible;6,49;;;6
+GN-M7-BOT-COM;Gionee;M7;Botones laterales;Compatible;3,35;;;6
+GN-M7-CRI-COM;Gionee;M7;Cristal de pantalla;Compatible;3,30;;;6
+GN-M7-ANT-COM;Gionee;M7;Antena / coaxial;Compatible;2,89;;;6
+GN-M7-HUE-COM;Gionee;M7;Botón home / huella;Compatible;4,79;;;6
+GN-A1L-MAR-COM;Gionee;A1 Lite;Marco / chasis;Compatible;6,49;;;6
+GN-A1L-BOT-COM;Gionee;A1 Lite;Botones laterales;Compatible;3,35;;;6
+GN-A1L-CRI-COM;Gionee;A1 Lite;Cristal de pantalla;Compatible;3,30;;;6
+GN-A1L-ANT-COM;Gionee;A1 Lite;Antena / coaxial;Compatible;2,89;;;6
+GN-A1L-HUE-COM;Gionee;A1 Lite;Botón home / huella;Compatible;4,79;;;6
+GN-S10-MAR-COM;Gionee;S10;Marco / chasis;Compatible;6,49;;;6
+GN-S10-BOT-COM;Gionee;S10;Botones laterales;Compatible;3,35;;;6
+GN-S10-CRI-COM;Gionee;S10;Cristal de pantalla;Compatible;3,30;;;6
+GN-S10-ANT-COM;Gionee;S10;Antena / coaxial;Compatible;2,89;;;6
+GN-S10-HUE-COM;Gionee;S10;Botón home / huella;Compatible;4,79;;;6
+GN-A1PL-MAR-COM;Gionee;A1 Plus;Marco / chasis;Compatible;6,49;;;6
+GN-A1PL-BOT-COM;Gionee;A1 Plus;Botones laterales;Compatible;3,35;;;6
+GN-A1PL-CRI-COM;Gionee;A1 Plus;Cristal de pantalla;Compatible;3,30;;;6
+GN-A1PL-ANT-COM;Gionee;A1 Plus;Antena / coaxial;Compatible;2,89;;;6
+GN-A1PL-HUE-COM;Gionee;A1 Plus;Botón home / huella;Compatible;4,79;;;6
+GN-M6SPL-MAR-COM;Gionee;M6 s Plus;Marco / chasis;Compatible;6,49;;;6
+GN-M6SPL-BOT-COM;Gionee;M6 s Plus;Botones laterales;Compatible;3,35;;;6
+GN-M6SPL-CRI-COM;Gionee;M6 s Plus;Cristal de pantalla;Compatible;3,30;;;6
+GN-M6SPL-ANT-COM;Gionee;M6 s Plus;Antena / coaxial;Compatible;2,89;;;6
+GN-M6SPL-HUE-COM;Gionee;M6 s Plus;Botón home / huella;Compatible;4,79;;;6
+GN-A1-MAR-COM;Gionee;A1;Marco / chasis;Compatible;6,49;;;6
+GN-A1-BOT-COM;Gionee;A1;Botones laterales;Compatible;3,35;;;6
+GN-A1-CRI-COM;Gionee;A1;Cristal de pantalla;Compatible;3,30;;;6
+GN-A1-ANT-COM;Gionee;A1;Antena / coaxial;Compatible;2,89;;;6
+GN-A1-HUE-COM;Gionee;A1;Botón home / huella;Compatible;4,79;;;6
+GN-F5-MAR-COM;Gionee;F5;Marco / chasis;Compatible;6,49;;;6
+GN-F5-BOT-COM;Gionee;F5;Botones laterales;Compatible;3,35;;;6
+GN-F5-CRI-COM;Gionee;F5;Cristal de pantalla;Compatible;3,30;;;6
+GN-F5-ANT-COM;Gionee;F5;Antena / coaxial;Compatible;2,89;;;6
+GN-F5-HUE-COM;Gionee;F5;Botón home / huella;Compatible;4,79;;;6
+GN-S2-MAR-COM;Gionee;Steel 2;Marco / chasis;Compatible;6,49;;;6
+GN-S2-BOT-COM;Gionee;Steel 2;Botones laterales;Compatible;3,35;;;6
+GN-S2-CRI-COM;Gionee;Steel 2;Cristal de pantalla;Compatible;3,30;;;6
+GN-S2-ANT-COM;Gionee;Steel 2;Antena / coaxial;Compatible;2,89;;;6
+GN-S2-HUE-COM;Gionee;Steel 2;Botón home / huella;Compatible;4,79;;;6
+GN-M2017-MAR-COM;Gionee;M2017;Marco / chasis;Compatible;5,75;;;6
+GN-M2017-BOT-COM;Gionee;M2017;Botones laterales;Compatible;2,95;;;6
+GN-M2017-CRI-COM;Gionee;M2017;Cristal de pantalla;Compatible;2,95;;;6
+GN-M2017-ANT-COM;Gionee;M2017;Antena / coaxial;Compatible;2,55;;;6
+GN-M2017-HUE-COM;Gionee;M2017;Botón home / huella;Compatible;4,25;;;6
+GN-S9-MAR-COM;Gionee;S9;Marco / chasis;Compatible;5,75;;;6
+GN-S9-BOT-COM;Gionee;S9;Botones laterales;Compatible;2,95;;;6
+GN-S9-CRI-COM;Gionee;S9;Cristal de pantalla;Compatible;2,95;;;6
+GN-S9-ANT-COM;Gionee;S9;Antena / coaxial;Compatible;2,55;;;6
+GN-S9-HUE-COM;Gionee;S9;Botón home / huella;Compatible;4,25;;;6
+GN-S6S2-MAR-COM;Gionee;S6s;Marco / chasis;Compatible;5,75;;;6
+GN-S6S2-BOT-COM;Gionee;S6s;Botones laterales;Compatible;2,95;;;6
+GN-S6S2-CRI-COM;Gionee;S6s;Cristal de pantalla;Compatible;2,95;;;6
+GN-S6S2-ANT-COM;Gionee;S6s;Antena / coaxial;Compatible;2,55;;;6
+GN-S6S2-HUE-COM;Gionee;S6s;Botón home / huella;Compatible;4,25;;;6
+GN-S6P-MAR-COM;Gionee;S6 Pro;Marco / chasis;Compatible;5,75;;;6
+GN-S6P-BOT-COM;Gionee;S6 Pro;Botones laterales;Compatible;2,95;;;6
+GN-S6P-CRI-COM;Gionee;S6 Pro;Cristal de pantalla;Compatible;2,95;;;6
+GN-S6P-ANT-COM;Gionee;S6 Pro;Antena / coaxial;Compatible;2,55;;;6
+GN-S6P-HUE-COM;Gionee;S6 Pro;Botón home / huella;Compatible;4,25;;;6
+GN-S8-MAR-COM;Gionee;S8;Marco / chasis;Compatible;5,75;;;6
+GN-S8-BOT-COM;Gionee;S8;Botones laterales;Compatible;2,95;;;6
+GN-S8-CRI-COM;Gionee;S8;Cristal de pantalla;Compatible;2,95;;;6
+GN-S8-ANT-COM;Gionee;S8;Antena / coaxial;Compatible;2,55;;;6
+GN-S8-HUE-COM;Gionee;S8;Botón home / huella;Compatible;4,25;;;6
+GN-ES51P-MAR-COM;Gionee;Elife S5.1 Pro;Marco / chasis;Compatible;5,75;;;6
+GN-ES51P-BOT-COM;Gionee;Elife S5.1 Pro;Botones laterales;Compatible;2,95;;;6
+GN-ES51P-CRI-COM;Gionee;Elife S5.1 Pro;Cristal de pantalla;Compatible;2,95;;;6
+GN-ES51P-ANT-COM;Gionee;Elife S5.1 Pro;Antena / coaxial;Compatible;2,55;;;6
+GN-S6-MAR-COM;Gionee;S6;Marco / chasis;Compatible;5,75;;;6
+GN-S6-BOT-COM;Gionee;S6;Botones laterales;Compatible;2,95;;;6
+GN-S6-CRI-COM;Gionee;S6;Cristal de pantalla;Compatible;2,95;;;6
+GN-S6-ANT-COM;Gionee;S6;Antena / coaxial;Compatible;2,55;;;6
+GN-ES7-MAR-COM;Gionee;Elife S7;Marco / chasis;Compatible;5,75;;;6
+GN-ES7-BOT-COM;Gionee;Elife S7;Botones laterales;Compatible;2,95;;;6
+GN-ES7-CRI-COM;Gionee;Elife S7;Cristal de pantalla;Compatible;2,95;;;6
+GN-ES7-ANT-COM;Gionee;Elife S7;Antena / coaxial;Compatible;2,55;;;6
+GN-ES51-MAR-COM;Gionee;Elife S5.1;Marco / chasis;Compatible;5,75;;;6
+GN-ES51-BOT-COM;Gionee;Elife S5.1;Botones laterales;Compatible;2,95;;;6
+GN-ES51-ANT-COM;Gionee;Elife S5.1;Antena / coaxial;Compatible;2,55;;;6
+GN-EE7MN-MAR-COM;Gionee;Elife E7 Mini;Marco / chasis;Compatible;5,75;;;6
+GN-EE7MN-BOT-COM;Gionee;Elife E7 Mini;Botones laterales;Compatible;2,95;;;6
+GN-EE7MN-ANT-COM;Gionee;Elife E7 Mini;Antena / coaxial;Compatible;2,55;;;6
+GN-ES55-MAR-COM;Gionee;Elife S5.5;Marco / chasis;Compatible;5,75;;;6
+GN-ES55-BOT-COM;Gionee;Elife S5.5;Botones laterales;Compatible;2,95;;;6
+GN-ES55-ANT-COM;Gionee;Elife S5.5;Antena / coaxial;Compatible;2,55;;;6
+GN-EE7-MAR-COM;Gionee;Elife E7;Marco / chasis;Compatible;5,75;;;6
+GN-EE7-BOT-COM;Gionee;Elife E7;Botones laterales;Compatible;2,95;;;6
+GN-EE7-ANT-COM;Gionee;Elife E7;Antena / coaxial;Compatible;2,55;;;6
+GN-EE6-MAR-COM;Gionee;Elife E6;Marco / chasis;Compatible;5,75;;;6
+GN-EE6-BOT-COM;Gionee;Elife E6;Botones laterales;Compatible;2,95;;;6
+GN-EE6-ANT-COM;Gionee;Elife E6;Antena / coaxial;Compatible;2,55;;;6
+GN-S10L-MAR-COM;Gionee;S10 lite;Marco / chasis;Compatible;6,49;;;6
+GN-S10L-BOT-COM;Gionee;S10 lite;Botones laterales;Compatible;3,35;;;6
+GN-S10L-CRI-COM;Gionee;S10 lite;Cristal de pantalla;Compatible;3,30;;;6
+GN-S10L-ANT-COM;Gionee;S10 lite;Antena / coaxial;Compatible;2,89;;;6
+GN-S10L-HUE-COM;Gionee;S10 lite;Botón home / huella;Compatible;4,79;;;6

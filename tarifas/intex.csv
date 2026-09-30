@@ -1,0 +1,21 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+IE-CFX-PAN-COM;Intex;Cloud FX;Pantalla;Compatible;15,15;14,70;14,24;6
+IE-CFX-BAT-COM;Intex;Cloud FX;Batería;Compatible;9,65;;;6
+IE-CFX-CON-COM;Intex;Cloud FX;Conector de carga;Compatible;4,60;;;6
+IE-CFX-TAP-COM;Intex;Cloud FX;Tapa trasera;Compatible;5,40;;;6
+IE-CFX-CTR-COM;Intex;Cloud FX;Cámara trasera;Compatible;7,59;;;6
+IE-CFX-CFR-COM;Intex;Cloud FX;Cámara frontal;Compatible;4,99;;;6
+IE-CFX-LEN-COM;Intex;Cloud FX;Lente de cámara;Compatible;2,19;;;6
+IE-CFX-ALT-COM;Intex;Cloud FX;Altavoz;Compatible;3,65;;;6
+IE-CFX-AUR-COM;Intex;Cloud FX;Auricular de llamada;Compatible;2,65;;;6
+IE-CFX-FLX-COM;Intex;Cloud FX;Flex de encendido y volumen;Compatible;2,49;;;6
+IE-CFX-SIM-COM;Intex;Cloud FX;Bandeja SIM;Compatible;2,55;;;6
+IE-CFX-PRO-NA;Intex;Cloud FX;Cristal templado;Estándar;1,30;;;
+IE-CFX-PRO-PRI;Intex;Cloud FX;Cristal templado;Privacidad;4,00;;;
+IE-CFX-FUN-SIL;Intex;Cloud FX;Funda;Silicona;2,50;;;
+IE-CFX-FUN-TPU;Intex;Cloud FX;Funda;Transparente;2,95;;;
+IE-CFX-FUN-LIB;Intex;Cloud FX;Funda;Libro;3,70;;;
+IE-CFX-FUN-ANT;Intex;Cloud FX;Funda;Antigolpes;3,10;;;
+IE-CFX-MAR-COM;Intex;Cloud FX;Marco / chasis;Compatible;5,75;;;6
+IE-CFX-BOT-COM;Intex;Cloud FX;Botones laterales;Compatible;2,95;;;6
+IE-CFX-ANT-COM;Intex;Cloud FX;Antena / coaxial;Compatible;2,55;;;6

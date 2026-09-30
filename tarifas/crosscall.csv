@@ -1,0 +1,318 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+CC-CX4NEO-PAN-COM;Crosscall;Core-X4 Neo;Pantalla;Compatible;16,50;16,01;15,51;6
+CC-CX4NEO-BAT-COM;Crosscall;Core-X4 Neo;Batería;Compatible;8,89;;;6
+CC-CX4NEO-CON-COM;Crosscall;Core-X4 Neo;Conector de carga;Compatible;4,10;;;6
+CC-CX4NEO-TAP-COM;Crosscall;Core-X4 Neo;Tapa trasera;Compatible;5,60;;;6
+CC-CX4NEO-CTR-COM;Crosscall;Core-X4 Neo;Cámara trasera;Compatible;7,50;;;6
+CC-CX4NEO-CFR-COM;Crosscall;Core-X4 Neo;Cámara frontal;Compatible;3,89;;;6
+CC-CX4NEO-LEN-COM;Crosscall;Core-X4 Neo;Lente de cámara;Compatible;2,65;;;6
+CC-CX4NEO-ALT-COM;Crosscall;Core-X4 Neo;Altavoz;Compatible;3,70;;;6
+CC-CX4NEO-AUR-COM;Crosscall;Core-X4 Neo;Auricular de llamada;Compatible;2,99;;;6
+CC-CX4NEO-FLX-COM;Crosscall;Core-X4 Neo;Flex de encendido y volumen;Compatible;2,99;;;6
+CC-CX4NEO-SIM-COM;Crosscall;Core-X4 Neo;Bandeja SIM;Compatible;2,99;;;6
+CC-TM1C-PAN-COM;Crosscall;Trekker-M1 Core;Pantalla;Compatible;17,30;16,78;16,26;6
+CC-TM1C-BAT-COM;Crosscall;Trekker-M1 Core;Batería;Compatible;9,80;;;6
+CC-TM1C-CON-COM;Crosscall;Trekker-M1 Core;Conector de carga;Compatible;4,65;;;6
+CC-TM1C-TAP-COM-GRI;Crosscall;Trekker-M1 Core;Tapa trasera;Gris / Rojo;5,95;;;6
+CC-TM1C-CTR-COM;Crosscall;Trekker-M1 Core;Cámara trasera;Compatible;9,95;;;6
+CC-TM1C-CFR-COM;Crosscall;Trekker-M1 Core;Cámara frontal;Compatible;5,49;;;6
+CC-TM1C-LEN-COM;Crosscall;Trekker-M1 Core;Lente de cámara;Compatible;2,89;;;6
+CC-TM1C-ALT-COM;Crosscall;Trekker-M1 Core;Altavoz;Compatible;4,20;;;6
+CC-TM1C-AUR-COM;Crosscall;Trekker-M1 Core;Auricular de llamada;Compatible;3,50;;;6
+CC-TM1C-FLX-COM;Crosscall;Trekker-M1 Core;Flex de encendido y volumen;Compatible;3,45;;;6
+CC-TM1C-SIM-COM;Crosscall;Trekker-M1 Core;Bandeja SIM;Compatible;3,09;;;6
+CC-TM1-PAN-COM;Crosscall;Trekker-M1;Pantalla;Compatible;15,55;15,08;14,62;6
+CC-TM1-BAT-COM;Crosscall;Trekker-M1;Batería;Compatible;10,40;10,09;9,78;6
+CC-TM1-CON-COM;Crosscall;Trekker-M1;Conector de carga;Compatible;4,30;;;6
+CC-TM1-TAP-COM-NEG;Crosscall;Trekker-M1;Tapa trasera;Negro;5,49;;;6
+CC-TM1-CTR-COM;Crosscall;Trekker-M1;Cámara trasera;Compatible;9,20;;;6
+CC-TM1-CFR-COM;Crosscall;Trekker-M1;Cámara frontal;Compatible;5,25;;;6
+CC-TM1-LEN-COM;Crosscall;Trekker-M1;Lente de cámara;Compatible;2,60;;;6
+CC-TM1-ALT-COM;Crosscall;Trekker-M1;Altavoz;Compatible;4,05;;;6
+CC-TM1-AUR-COM;Crosscall;Trekker-M1;Auricular de llamada;Compatible;3,30;;;6
+CC-TM1-FLX-COM;Crosscall;Trekker-M1;Flex de encendido y volumen;Compatible;3,25;;;6
+CC-TM1-SIM-COM;Crosscall;Trekker-M1;Bandeja SIM;Compatible;2,90;;;6
+CC-AX3-PAN-COM;Crosscall;Action-X3;Pantalla;Compatible;15,55;15,08;14,62;6
+CC-AX3-BAT-COM;Crosscall;Action-X3;Batería;Compatible;10,40;10,09;9,78;6
+CC-AX3-CON-COM;Crosscall;Action-X3;Conector de carga;Compatible;4,30;;;6
+CC-AX3-TAP-COM-NEG;Crosscall;Action-X3;Tapa trasera;Negro;5,49;;;6
+CC-AX3-CTR-COM;Crosscall;Action-X3;Cámara trasera;Compatible;9,20;;;6
+CC-AX3-CFR-COM;Crosscall;Action-X3;Cámara frontal;Compatible;5,25;;;6
+CC-AX3-LEN-COM;Crosscall;Action-X3;Lente de cámara;Compatible;2,60;;;6
+CC-AX3-ALT-COM;Crosscall;Action-X3;Altavoz;Compatible;4,05;;;6
+CC-AX3-AUR-COM;Crosscall;Action-X3;Auricular de llamada;Compatible;3,30;;;6
+CC-AX3-FLX-COM;Crosscall;Action-X3;Flex de encendido y volumen;Compatible;3,25;;;6
+CC-AX3-SIM-COM;Crosscall;Action-X3;Bandeja SIM;Compatible;2,90;;;6
+CC-TX3-PAN-COM;Crosscall;Trekker-X3;Pantalla;Compatible;15,55;15,08;14,62;6
+CC-TX3-BAT-COM;Crosscall;Trekker-X3;Batería;Compatible;10,40;10,09;9,78;6
+CC-TX3-CON-COM;Crosscall;Trekker-X3;Conector de carga;Compatible;4,30;;;6
+CC-TX3-TAP-COM-NEG;Crosscall;Trekker-X3;Tapa trasera;Negro y rojo;5,49;;;6
+CC-TX3-CTR-COM;Crosscall;Trekker-X3;Cámara trasera;Compatible;9,20;;;6
+CC-TX3-CFR-COM;Crosscall;Trekker-X3;Cámara frontal;Compatible;5,25;;;6
+CC-TX3-LEN-COM;Crosscall;Trekker-X3;Lente de cámara;Compatible;2,60;;;6
+CC-TX3-ALT-COM;Crosscall;Trekker-X3;Altavoz;Compatible;4,05;;;6
+CC-TX3-AUR-COM;Crosscall;Trekker-X3;Auricular de llamada;Compatible;3,30;;;6
+CC-TX3-FLX-COM;Crosscall;Trekker-X3;Flex de encendido y volumen;Compatible;3,25;;;6
+CC-TX3-SIM-COM;Crosscall;Trekker-X3;Bandeja SIM;Compatible;2,90;;;6
+CC-CX3-PAN-COM;Crosscall;Core-X3;Pantalla;Compatible;15,55;15,08;14,62;6
+CC-CX3-BAT-COM;Crosscall;Core-X3;Batería;Compatible;10,40;10,09;9,78;6
+CC-CX3-CON-COM;Crosscall;Core-X3;Conector de carga;Compatible;4,30;;;6
+CC-CX3-TAP-COM-AZU;Crosscall;Core-X3;Tapa trasera;Azul oscuro;5,49;;;6
+CC-CX3-TAP-COM-ROJ;Crosscall;Core-X3;Tapa trasera;rojo;5,49;;;6
+CC-CX3-CTR-COM;Crosscall;Core-X3;Cámara trasera;Compatible;9,20;;;6
+CC-CX3-CFR-COM;Crosscall;Core-X3;Cámara frontal;Compatible;5,25;;;6
+CC-CX3-LEN-COM;Crosscall;Core-X3;Lente de cámara;Compatible;2,60;;;6
+CC-CX3-ALT-COM;Crosscall;Core-X3;Altavoz;Compatible;4,05;;;6
+CC-CX3-AUR-COM;Crosscall;Core-X3;Auricular de llamada;Compatible;3,30;;;6
+CC-CX3-FLX-COM;Crosscall;Core-X3;Flex de encendido y volumen;Compatible;3,25;;;6
+CC-CX3-SIM-COM;Crosscall;Core-X3;Bandeja SIM;Compatible;2,90;;;6
+CC-TX4-PAN-COM;Crosscall;Trekker-X4;Pantalla;Compatible;15,55;15,08;14,62;6
+CC-TX4-BAT-COM;Crosscall;Trekker-X4;Batería;Compatible;10,40;10,09;9,78;6
+CC-TX4-CON-COM;Crosscall;Trekker-X4;Conector de carga;Compatible;4,30;;;6
+CC-TX4-TAP-COM;Crosscall;Trekker-X4;Tapa trasera;Compatible;5,49;;;6
+CC-TX4-CTR-COM;Crosscall;Trekker-X4;Cámara trasera;Compatible;9,20;;;6
+CC-TX4-CFR-COM;Crosscall;Trekker-X4;Cámara frontal;Compatible;5,25;;;6
+CC-TX4-LEN-COM;Crosscall;Trekker-X4;Lente de cámara;Compatible;2,60;;;6
+CC-TX4-ALT-COM;Crosscall;Trekker-X4;Altavoz;Compatible;4,05;;;6
+CC-TX4-AUR-COM;Crosscall;Trekker-X4;Auricular de llamada;Compatible;3,30;;;6
+CC-TX4-FLX-COM;Crosscall;Trekker-X4;Flex de encendido y volumen;Compatible;3,25;;;6
+CC-TX4-SIM-COM;Crosscall;Trekker-X4;Bandeja SIM;Compatible;2,90;;;6
+CC-CM4-PAN-COM;Crosscall;Core-M4;Pantalla;Compatible;16,50;16,01;15,51;6
+CC-CM4-BAT-COM;Crosscall;Core-M4;Batería;Compatible;8,89;;;6
+CC-CM4-CON-COM;Crosscall;Core-M4;Conector de carga;Compatible;4,10;;;6
+CC-CM4-TAP-COM;Crosscall;Core-M4;Tapa trasera;Compatible;5,60;;;6
+CC-CM4-CTR-COM;Crosscall;Core-M4;Cámara trasera;Compatible;7,50;;;6
+CC-CM4-CFR-COM;Crosscall;Core-M4;Cámara frontal;Compatible;3,89;;;6
+CC-CM4-LEN-COM;Crosscall;Core-M4;Lente de cámara;Compatible;2,65;;;6
+CC-CM4-ALT-COM;Crosscall;Core-M4;Altavoz;Compatible;3,70;;;6
+CC-CM4-AUR-COM;Crosscall;Core-M4;Auricular de llamada;Compatible;2,99;;;6
+CC-CM4-FLX-COM;Crosscall;Core-M4;Flex de encendido y volumen;Compatible;2,99;;;6
+CC-CM4-SIM-COM;Crosscall;Core-M4;Bandeja SIM;Compatible;2,99;;;6
+CC-CM4GO-PAN-COM;Crosscall;Core-M4 Go;Pantalla;Compatible;16,50;16,01;15,51;6
+CC-CM4GO-BAT-COM;Crosscall;Core-M4 Go;Batería;Compatible;8,89;;;6
+CC-CM4GO-CON-COM;Crosscall;Core-M4 Go;Conector de carga;Compatible;4,10;;;6
+CC-CM4GO-TAP-COM-GRI;Crosscall;Core-M4 Go;Tapa trasera;Gris celdaon;5,60;;;6
+CC-CM4GO-CTR-COM;Crosscall;Core-M4 Go;Cámara trasera;Compatible;7,50;;;6
+CC-CM4GO-CFR-COM;Crosscall;Core-M4 Go;Cámara frontal;Compatible;3,89;;;6
+CC-CM4GO-LEN-COM;Crosscall;Core-M4 Go;Lente de cámara;Compatible;2,65;;;6
+CC-CM4GO-ALT-COM;Crosscall;Core-M4 Go;Altavoz;Compatible;3,70;;;6
+CC-CM4GO-AUR-COM;Crosscall;Core-M4 Go;Auricular de llamada;Compatible;2,99;;;6
+CC-CM4GO-FLX-COM;Crosscall;Core-M4 Go;Flex de encendido y volumen;Compatible;2,99;;;6
+CC-CM4GO-SIM-COM;Crosscall;Core-M4 Go;Bandeja SIM;Compatible;2,99;;;6
+CC-CX4-PAN-COM;Crosscall;Core-X4;Pantalla;Compatible;16,50;16,01;15,51;6
+CC-CX4-BAT-COM;Crosscall;Core-X4;Batería;Compatible;8,89;;;6
+CC-CX4-CON-COM;Crosscall;Core-X4;Conector de carga;Compatible;4,10;;;6
+CC-CX4-TAP-COM-NEG;Crosscall;Core-X4;Tapa trasera;negro;5,60;;;6
+CC-CX4-CTR-COM;Crosscall;Core-X4;Cámara trasera;Compatible;7,50;;;6
+CC-CX4-CFR-COM;Crosscall;Core-X4;Cámara frontal;Compatible;3,89;;;6
+CC-CX4-LEN-COM;Crosscall;Core-X4;Lente de cámara;Compatible;2,65;;;6
+CC-CX4-ALT-COM;Crosscall;Core-X4;Altavoz;Compatible;3,70;;;6
+CC-CX4-AUR-COM;Crosscall;Core-X4;Auricular de llamada;Compatible;2,99;;;6
+CC-CX4-FLX-COM;Crosscall;Core-X4;Flex de encendido y volumen;Compatible;2,99;;;6
+CC-CX4-SIM-COM;Crosscall;Core-X4;Bandeja SIM;Compatible;2,99;;;6
+CC-CM5-PAN-COM;Crosscall;Core-M5;Pantalla;Compatible;16,50;16,01;15,51;6
+CC-CM5-BAT-COM;Crosscall;Core-M5;Batería;Compatible;8,89;;;6
+CC-CM5-CON-COM;Crosscall;Core-M5;Conector de carga;Compatible;4,10;;;6
+CC-CM5-TAP-COM-NEG;Crosscall;Core-M5;Tapa trasera;Negro;5,60;;;6
+CC-CM5-CTR-COM;Crosscall;Core-M5;Cámara trasera;Compatible;7,50;;;6
+CC-CM5-CFR-COM;Crosscall;Core-M5;Cámara frontal;Compatible;3,89;;;6
+CC-CM5-LEN-COM;Crosscall;Core-M5;Lente de cámara;Compatible;2,65;;;6
+CC-CM5-ALT-COM;Crosscall;Core-M5;Altavoz;Compatible;3,70;;;6
+CC-CM5-AUR-COM;Crosscall;Core-M5;Auricular de llamada;Compatible;2,99;;;6
+CC-CM5-FLX-COM;Crosscall;Core-M5;Flex de encendido y volumen;Compatible;2,99;;;6
+CC-CM5-SIM-COM;Crosscall;Core-M5;Bandeja SIM;Compatible;2,99;;;6
+CC-AX5-PAN-COM;Crosscall;Action-X5;Pantalla;Compatible;16,50;16,01;15,51;6
+CC-AX5-BAT-COM;Crosscall;Action-X5;Batería;Compatible;8,89;;;6
+CC-AX5-CON-COM;Crosscall;Action-X5;Conector de carga;Compatible;4,10;;;6
+CC-AX5-TAP-COM-NEG;Crosscall;Action-X5;Tapa trasera;Negro;5,60;;;6
+CC-AX5-CTR-COM;Crosscall;Action-X5;Cámara trasera;Compatible;7,50;;;6
+CC-AX5-CFR-COM;Crosscall;Action-X5;Cámara frontal;Compatible;3,89;;;6
+CC-AX5-LEN-COM;Crosscall;Action-X5;Lente de cámara;Compatible;2,65;;;6
+CC-AX5-ALT-COM;Crosscall;Action-X5;Altavoz;Compatible;3,70;;;6
+CC-AX5-AUR-COM;Crosscall;Action-X5;Auricular de llamada;Compatible;2,99;;;6
+CC-AX5-FLX-COM;Crosscall;Action-X5;Flex de encendido y volumen;Compatible;2,99;;;6
+CC-AX5-SIM-COM;Crosscall;Action-X5;Bandeja SIM;Compatible;2,99;;;6
+CC-CX5-PAN-COM;Crosscall;Core-X5;Pantalla;Compatible;16,50;16,01;15,51;6
+CC-CX5-BAT-COM;Crosscall;Core-X5;Batería;Compatible;8,89;;;6
+CC-CX5-CON-COM;Crosscall;Core-X5;Conector de carga;Compatible;4,10;;;6
+CC-CX5-TAP-COM-NEG;Crosscall;Core-X5;Tapa trasera;Negro;5,60;;;6
+CC-CX5-CTR-COM;Crosscall;Core-X5;Cámara trasera;Compatible;7,50;;;6
+CC-CX5-CFR-COM;Crosscall;Core-X5;Cámara frontal;Compatible;3,89;;;6
+CC-CX5-LEN-COM;Crosscall;Core-X5;Lente de cámara;Compatible;2,65;;;6
+CC-CX5-ALT-COM;Crosscall;Core-X5;Altavoz;Compatible;3,70;;;6
+CC-CX5-AUR-COM;Crosscall;Core-X5;Auricular de llamada;Compatible;2,99;;;6
+CC-CX5-FLX-COM;Crosscall;Core-X5;Flex de encendido y volumen;Compatible;2,99;;;6
+CC-CX5-SIM-COM;Crosscall;Core-X5;Bandeja SIM;Compatible;2,99;;;6
+CC-CZ5-PAN-COM;Crosscall;Core-Z5;Pantalla;Compatible;16,50;16,01;15,51;6
+CC-CZ5-BAT-COM;Crosscall;Core-Z5;Batería;Compatible;8,89;;;6
+CC-CZ5-CON-COM;Crosscall;Core-Z5;Conector de carga;Compatible;4,10;;;6
+CC-CZ5-TAP-COM-NEG;Crosscall;Core-Z5;Tapa trasera;Negro;5,60;;;6
+CC-CZ5-CTR-COM;Crosscall;Core-Z5;Cámara trasera;Compatible;7,50;;;6
+CC-CZ5-CFR-COM;Crosscall;Core-Z5;Cámara frontal;Compatible;3,89;;;6
+CC-CZ5-LEN-COM;Crosscall;Core-Z5;Lente de cámara;Compatible;2,65;;;6
+CC-CZ5-ALT-COM;Crosscall;Core-Z5;Altavoz;Compatible;3,70;;;6
+CC-CZ5-AUR-COM;Crosscall;Core-Z5;Auricular de llamada;Compatible;2,99;;;6
+CC-CZ5-FLX-COM;Crosscall;Core-Z5;Flex de encendido y volumen;Compatible;2,99;;;6
+CC-CZ5-SIM-COM;Crosscall;Core-Z5;Bandeja SIM;Compatible;2,99;;;6
+CC-SX5-PAN-COM;Crosscall;Stellar-X5;Pantalla;Compatible;17,59;17,06;16,53;6
+CC-SX5-BAT-COM;Crosscall;Stellar-X5;Batería;Compatible;10,15;9,85;9,54;6
+CC-SX5-CON-COM;Crosscall;Stellar-X5;Conector de carga;Compatible;4,70;;;6
+CC-SX5-TAP-COM-NEG;Crosscall;Stellar-X5;Tapa trasera;Negro;6,29;;;6
+CC-SX5-CTR-COM;Crosscall;Stellar-X5;Cámara trasera;Compatible;10,55;10,23;9,92;6
+CC-SX5-CFR-COM;Crosscall;Stellar-X5;Cámara frontal;Compatible;5,69;;;6
+CC-SX5-LEN-COM;Crosscall;Stellar-X5;Lente de cámara;Compatible;2,75;;;6
+CC-SX5-ALT-COM;Crosscall;Stellar-X5;Altavoz;Compatible;3,99;;;6
+CC-SX5-AUR-COM;Crosscall;Stellar-X5;Auricular de llamada;Compatible;3,29;;;6
+CC-SX5-FLX-COM;Crosscall;Stellar-X5;Flex de encendido y volumen;Compatible;3,60;;;6
+CC-SX5-SIM-COM;Crosscall;Stellar-X5;Bandeja SIM;Compatible;2,95;;;6
+CC-SM6-PAN-COM;Crosscall;Stellar-M6;Pantalla;Compatible;17,59;17,06;16,53;6
+CC-SM6-BAT-COM;Crosscall;Stellar-M6;Batería;Compatible;10,15;9,85;9,54;6
+CC-SM6-CON-COM;Crosscall;Stellar-M6;Conector de carga;Compatible;4,70;;;6
+CC-SM6-TAP-COM-NEG;Crosscall;Stellar-M6;Tapa trasera;Negro;6,29;;;6
+CC-SM6-CTR-COM;Crosscall;Stellar-M6;Cámara trasera;Compatible;10,55;10,23;9,92;6
+CC-SM6-CFR-COM;Crosscall;Stellar-M6;Cámara frontal;Compatible;5,69;;;6
+CC-SM6-LEN-COM;Crosscall;Stellar-M6;Lente de cámara;Compatible;2,75;;;6
+CC-SM6-ALT-COM;Crosscall;Stellar-M6;Altavoz;Compatible;3,99;;;6
+CC-SM6-AUR-COM;Crosscall;Stellar-M6;Auricular de llamada;Compatible;3,29;;;6
+CC-SM6-FLX-COM;Crosscall;Stellar-M6;Flex de encendido y volumen;Compatible;3,60;;;6
+CC-SM6-SIM-COM;Crosscall;Stellar-M6;Bandeja SIM;Compatible;2,95;;;6
+CC-SM6E-PAN-COM;Crosscall;Stellar-M6E;Pantalla;Compatible;17,59;17,06;16,53;6
+CC-SM6E-BAT-COM;Crosscall;Stellar-M6E;Batería;Compatible;10,15;9,85;9,54;6
+CC-SM6E-CON-COM;Crosscall;Stellar-M6E;Conector de carga;Compatible;4,70;;;6
+CC-SM6E-TAP-COM-NEG;Crosscall;Stellar-M6E;Tapa trasera;Negro;6,29;;;6
+CC-SM6E-CTR-COM;Crosscall;Stellar-M6E;Cámara trasera;Compatible;10,55;10,23;9,92;6
+CC-SM6E-CFR-COM;Crosscall;Stellar-M6E;Cámara frontal;Compatible;5,69;;;6
+CC-SM6E-LEN-COM;Crosscall;Stellar-M6E;Lente de cámara;Compatible;2,75;;;6
+CC-SM6E-ALT-COM;Crosscall;Stellar-M6E;Altavoz;Compatible;3,99;;;6
+CC-SM6E-AUR-COM;Crosscall;Stellar-M6E;Auricular de llamada;Compatible;3,29;;;6
+CC-SM6E-FLX-COM;Crosscall;Stellar-M6E;Flex de encendido y volumen;Compatible;3,60;;;6
+CC-SM6E-SIM-COM;Crosscall;Stellar-M6E;Bandeja SIM;Compatible;2,95;;;6
+CC-CM6-PAN-COM;Crosscall;Core-M6;Pantalla;Compatible;18,50;17,95;17,39;6
+CC-CM6-BAT-COM;Crosscall;Core-M6;Batería;Compatible;9,55;;;6
+CC-CM6-CON-COM;Crosscall;Core-M6;Conector de carga;Compatible;5,60;;;6
+CC-CM6-TAP-COM-NEG;Crosscall;Core-M6;Tapa trasera;Negro;6,75;;;6
+CC-CM6-CTR-COM;Crosscall;Core-M6;Cámara trasera;Compatible;14,40;13,97;13,54;6
+CC-CM6-CFR-COM;Crosscall;Core-M6;Cámara frontal;Compatible;7,90;;;6
+CC-CM6-LEN-COM;Crosscall;Core-M6;Lente de cámara;Compatible;3,55;;;6
+CC-CM6-ALT-COM;Crosscall;Core-M6;Altavoz;Compatible;5,25;;;6
+CC-CM6-AUR-COM;Crosscall;Core-M6;Auricular de llamada;Compatible;4,60;;;6
+CC-CM6-FLX-COM;Crosscall;Core-M6;Flex de encendido y volumen;Compatible;3,95;;;6
+CC-CM6-SIM-COM;Crosscall;Core-M6;Bandeja SIM;Compatible;3,45;;;6
+CC-SX5S-PAN-COM;Crosscall;Stellar-X5s;Pantalla;Compatible;18,50;17,95;17,39;6
+CC-SX5S-BAT-COM;Crosscall;Stellar-X5s;Batería;Compatible;9,55;;;6
+CC-SX5S-CON-COM;Crosscall;Stellar-X5s;Conector de carga;Compatible;5,60;;;6
+CC-SX5S-TAP-COM-NEG;Crosscall;Stellar-X5s;Tapa trasera;Negro;6,75;;;6
+CC-SX5S-CTR-COM;Crosscall;Stellar-X5s;Cámara trasera;Compatible;14,40;13,97;13,54;6
+CC-SX5S-CFR-COM;Crosscall;Stellar-X5s;Cámara frontal;Compatible;7,90;;;6
+CC-SX5S-LEN-COM;Crosscall;Stellar-X5s;Lente de cámara;Compatible;3,55;;;6
+CC-SX5S-ALT-COM;Crosscall;Stellar-X5s;Altavoz;Compatible;5,25;;;6
+CC-SX5S-AUR-COM;Crosscall;Stellar-X5s;Auricular de llamada;Compatible;4,60;;;6
+CC-SX5S-FLX-COM;Crosscall;Stellar-X5s;Flex de encendido y volumen;Compatible;3,95;;;6
+CC-SX5S-SIM-COM;Crosscall;Stellar-X5s;Bandeja SIM;Compatible;3,45;;;6
+CC-CZ6450-PAN-COM;Crosscall;Core-Z6 450;Pantalla;Compatible;18,50;17,95;17,39;6
+CC-CZ6450-BAT-COM;Crosscall;Core-Z6 450;Batería;Compatible;9,55;;;6
+CC-CZ6450-CON-COM;Crosscall;Core-Z6 450;Conector de carga;Compatible;5,60;;;6
+CC-CZ6450-TAP-COM-NEG;Crosscall;Core-Z6 450;Tapa trasera;Negro;6,75;;;6
+CC-CZ6450-CTR-COM;Crosscall;Core-Z6 450;Cámara trasera;Compatible;14,40;13,97;13,54;6
+CC-CZ6450-CFR-COM;Crosscall;Core-Z6 450;Cámara frontal;Compatible;7,90;;;6
+CC-CZ6450-LEN-COM;Crosscall;Core-Z6 450;Lente de cámara;Compatible;3,55;;;6
+CC-CZ6450-ALT-COM;Crosscall;Core-Z6 450;Altavoz;Compatible;5,25;;;6
+CC-CZ6450-AUR-COM;Crosscall;Core-Z6 450;Auricular de llamada;Compatible;4,60;;;6
+CC-CZ6450-FLX-COM;Crosscall;Core-Z6 450;Flex de encendido y volumen;Compatible;3,95;;;6
+CC-CZ6450-SIM-COM;Crosscall;Core-Z6 450;Bandeja SIM;Compatible;3,45;;;6
+CC-CX4NEO-PRO-NA;Crosscall;Core-X4 Neo;Cristal templado;Estándar;1,30;;;
+CC-TM1C-PRO-NA;Crosscall;Trekker-M1 Core;Cristal templado;Estándar;1,30;;;
+CC-TM1-PRO-NA;Crosscall;Trekker-M1;Cristal templado;Estándar;1,30;;;
+CC-AX3-PRO-NA;Crosscall;Action-X3;Cristal templado;Estándar;1,30;;;
+CC-TX3-PRO-NA;Crosscall;Trekker-X3;Cristal templado;Estándar;1,30;;;
+CC-CX3-PRO-NA;Crosscall;Core-X3;Cristal templado;Estándar;1,30;;;
+CC-TX4-PRO-NA;Crosscall;Trekker-X4;Cristal templado;Estándar;1,30;;;
+CC-CM4-PRO-NA;Crosscall;Core-M4;Cristal templado;Estándar;1,30;;;
+CC-CM4GO-PRO-NA;Crosscall;Core-M4 Go;Cristal templado;Estándar;1,30;;;
+CC-CX4-PRO-NA;Crosscall;Core-X4;Cristal templado;Estándar;1,30;;;
+CC-CM5-PRO-NA;Crosscall;Core-M5;Cristal templado;Estándar;1,30;;;
+CC-AX5-PRO-NA;Crosscall;Action-X5;Cristal templado;Estándar;1,30;;;
+CC-CX5-PRO-NA;Crosscall;Core-X5;Cristal templado;Estándar;1,30;;;
+CC-CZ5-PRO-NA;Crosscall;Core-Z5;Cristal templado;Estándar;1,30;;;
+CC-SX5-PRO-NA;Crosscall;Stellar-X5;Cristal templado;Estándar;1,30;;;
+CC-SM6-PRO-NA;Crosscall;Stellar-M6;Cristal templado;Estándar;1,30;;;
+CC-SM6E-PRO-NA;Crosscall;Stellar-M6E;Cristal templado;Estándar;1,30;;;
+CC-CM6-PRO-NA;Crosscall;Core-M6;Cristal templado;Estándar;1,30;;;
+CC-SX5S-PRO-NA;Crosscall;Stellar-X5s;Cristal templado;Estándar;1,30;;;
+CC-CZ6450-PRO-NA;Crosscall;Core-Z6 450;Cristal templado;Estándar;1,30;;;
+CC-CX4NEO-MAR-COM;Crosscall;Core-X4 Neo;Marco / chasis;Compatible;8,20;;;6
+CC-CX4NEO-BOT-COM;Crosscall;Core-X4 Neo;Botones laterales;Compatible;4,20;;;6
+CC-CX4NEO-ANT-COM;Crosscall;Core-X4 Neo;Antena / coaxial;Compatible;3,65;;;6
+CC-CX4NEO-HUE-COM;Crosscall;Core-X4 Neo;Botón home / huella;Compatible;6,05;;;6
+CC-TM1-MAR-COM;Crosscall;Trekker-M1;Marco / chasis;Compatible;6,59;;;6
+CC-TM1-BOT-COM;Crosscall;Trekker-M1;Botones laterales;Compatible;3,39;;;6
+CC-TM1-ANT-COM;Crosscall;Trekker-M1;Antena / coaxial;Compatible;2,90;;;6
+CC-TM1-HUE-COM;Crosscall;Trekker-M1;Botón home / huella;Compatible;4,85;;;6
+CC-AX3-MAR-COM;Crosscall;Action-X3;Marco / chasis;Compatible;7,40;;;6
+CC-AX3-BOT-COM;Crosscall;Action-X3;Botones laterales;Compatible;3,80;;;6
+CC-AX3-ANT-COM;Crosscall;Action-X3;Antena / coaxial;Compatible;3,29;;;6
+CC-AX3-HUE-COM;Crosscall;Action-X3;Botón home / huella;Compatible;5,45;;;6
+CC-TX3-MAR-COM;Crosscall;Trekker-X3;Marco / chasis;Compatible;7,40;;;6
+CC-TX3-BOT-COM;Crosscall;Trekker-X3;Botones laterales;Compatible;3,80;;;6
+CC-TX3-ANT-COM;Crosscall;Trekker-X3;Antena / coaxial;Compatible;3,29;;;6
+CC-TX3-HUE-COM;Crosscall;Trekker-X3;Botón home / huella;Compatible;5,45;;;6
+CC-CX3-MAR-COM;Crosscall;Core-X3;Marco / chasis;Compatible;7,40;;;6
+CC-CX3-BOT-COM;Crosscall;Core-X3;Botones laterales;Compatible;3,80;;;6
+CC-CX3-ANT-COM;Crosscall;Core-X3;Antena / coaxial;Compatible;3,29;;;6
+CC-CX3-HUE-COM;Crosscall;Core-X3;Botón home / huella;Compatible;5,45;;;6
+CC-TX4-MAR-COM;Crosscall;Trekker-X4;Marco / chasis;Compatible;7,40;;;6
+CC-TX4-BOT-COM;Crosscall;Trekker-X4;Botones laterales;Compatible;3,80;;;6
+CC-TX4-ANT-COM;Crosscall;Trekker-X4;Antena / coaxial;Compatible;3,29;;;6
+CC-TX4-HUE-COM;Crosscall;Trekker-X4;Botón home / huella;Compatible;5,45;;;6
+CC-CM4-MAR-COM;Crosscall;Core-M4;Marco / chasis;Compatible;8,20;;;6
+CC-CM4-BOT-COM;Crosscall;Core-M4;Botones laterales;Compatible;4,20;;;6
+CC-CM4-ANT-COM;Crosscall;Core-M4;Antena / coaxial;Compatible;3,65;;;6
+CC-CM4-HUE-COM;Crosscall;Core-M4;Botón home / huella;Compatible;6,05;;;6
+CC-CM4GO-MAR-COM;Crosscall;Core-M4 Go;Marco / chasis;Compatible;8,20;;;6
+CC-CM4GO-BOT-COM;Crosscall;Core-M4 Go;Botones laterales;Compatible;4,20;;;6
+CC-CM4GO-ANT-COM;Crosscall;Core-M4 Go;Antena / coaxial;Compatible;3,65;;;6
+CC-CM4GO-HUE-COM;Crosscall;Core-M4 Go;Botón home / huella;Compatible;6,05;;;6
+CC-CX4-MAR-COM;Crosscall;Core-X4;Marco / chasis;Compatible;8,20;;;6
+CC-CX4-BOT-COM;Crosscall;Core-X4;Botones laterales;Compatible;4,20;;;6
+CC-CX4-ANT-COM;Crosscall;Core-X4;Antena / coaxial;Compatible;3,65;;;6
+CC-CX4-HUE-COM;Crosscall;Core-X4;Botón home / huella;Compatible;6,05;;;6
+CC-CM5-MAR-COM;Crosscall;Core-M5;Marco / chasis;Compatible;8,20;;;6
+CC-CM5-BOT-COM;Crosscall;Core-M5;Botones laterales;Compatible;4,20;;;6
+CC-CM5-ANT-COM;Crosscall;Core-M5;Antena / coaxial;Compatible;3,65;;;6
+CC-CM5-HUE-COM;Crosscall;Core-M5;Botón home / huella;Compatible;6,05;;;6
+CC-AX5-MAR-COM;Crosscall;Action-X5;Marco / chasis;Compatible;8,20;;;6
+CC-AX5-BOT-COM;Crosscall;Action-X5;Botones laterales;Compatible;4,20;;;6
+CC-AX5-ANT-COM;Crosscall;Action-X5;Antena / coaxial;Compatible;3,65;;;6
+CC-AX5-HUE-COM;Crosscall;Action-X5;Botón home / huella;Compatible;6,05;;;6
+CC-CX5-MAR-COM;Crosscall;Core-X5;Marco / chasis;Compatible;8,20;;;6
+CC-CX5-BOT-COM;Crosscall;Core-X5;Botones laterales;Compatible;4,20;;;6
+CC-CX5-ANT-COM;Crosscall;Core-X5;Antena / coaxial;Compatible;3,65;;;6
+CC-CX5-HUE-COM;Crosscall;Core-X5;Botón home / huella;Compatible;6,05;;;6
+CC-CZ5-MAR-COM;Crosscall;Core-Z5;Marco / chasis;Compatible;8,20;;;6
+CC-CZ5-BOT-COM;Crosscall;Core-Z5;Botones laterales;Compatible;4,20;;;6
+CC-CZ5-ANT-COM;Crosscall;Core-Z5;Antena / coaxial;Compatible;3,65;;;6
+CC-CZ5-HUE-COM;Crosscall;Core-Z5;Botón home / huella;Compatible;6,05;;;6
+CC-SX5-MAR-COM;Crosscall;Stellar-X5;Marco / chasis;Compatible;8,20;;;6
+CC-SX5-BOT-COM;Crosscall;Stellar-X5;Botones laterales;Compatible;4,20;;;6
+CC-SX5-ANT-COM;Crosscall;Stellar-X5;Antena / coaxial;Compatible;3,65;;;6
+CC-SX5-HUE-COM;Crosscall;Stellar-X5;Botón home / huella;Compatible;6,05;;;6
+CC-SM6-MAR-COM;Crosscall;Stellar-M6;Marco / chasis;Compatible;9,05;;;6
+CC-SM6-BOT-COM;Crosscall;Stellar-M6;Botones laterales;Compatible;4,65;;;6
+CC-SM6-ANT-COM;Crosscall;Stellar-M6;Antena / coaxial;Compatible;4,00;;;6
+CC-SM6-HUE-COM;Crosscall;Stellar-M6;Botón home / huella;Compatible;6,69;;;6
+CC-SM6E-MAR-COM;Crosscall;Stellar-M6E;Marco / chasis;Compatible;9,05;;;6
+CC-SM6E-BOT-COM;Crosscall;Stellar-M6E;Botones laterales;Compatible;4,65;;;6
+CC-SM6E-ANT-COM;Crosscall;Stellar-M6E;Antena / coaxial;Compatible;4,00;;;6
+CC-SM6E-HUE-COM;Crosscall;Stellar-M6E;Botón home / huella;Compatible;6,69;;;6
+CC-CM6-MAR-COM;Crosscall;Core-M6;Marco / chasis;Compatible;9,05;;;6
+CC-CM6-BOT-COM;Crosscall;Core-M6;Botones laterales;Compatible;4,65;;;6
+CC-CM6-ANT-COM;Crosscall;Core-M6;Antena / coaxial;Compatible;4,00;;;6
+CC-CM6-HUE-COM;Crosscall;Core-M6;Botón home / huella;Compatible;6,69;;;6
+CC-SX5S-MAR-COM;Crosscall;Stellar-X5s;Marco / chasis;Compatible;9,05;;;6
+CC-SX5S-BOT-COM;Crosscall;Stellar-X5s;Botones laterales;Compatible;4,65;;;6
+CC-SX5S-ANT-COM;Crosscall;Stellar-X5s;Antena / coaxial;Compatible;4,00;;;6
+CC-SX5S-HUE-COM;Crosscall;Stellar-X5s;Botón home / huella;Compatible;6,69;;;6
+CC-CZ6450-MAR-COM;Crosscall;Core-Z6 450;Marco / chasis;Compatible;9,05;;;6
+CC-CZ6450-BOT-COM;Crosscall;Core-Z6 450;Botones laterales;Compatible;4,65;;;6
+CC-CZ6450-ANT-COM;Crosscall;Core-Z6 450;Antena / coaxial;Compatible;4,00;;;6
+CC-CZ6450-HUE-COM;Crosscall;Core-Z6 450;Botón home / huella;Compatible;6,69;;;6

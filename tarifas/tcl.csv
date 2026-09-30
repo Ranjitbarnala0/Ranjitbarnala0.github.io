@@ -1,0 +1,1286 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+TC-205-PAN-COM;TCL;20 5G;Pantalla;Compatible;13,80;13,39;12,97;6
+TC-205-BAT-COM;TCL;20 5G;Batería;Compatible;7,60;;;6
+TC-205-CON-COM;TCL;20 5G;Conector de carga;Compatible;3,55;;;6
+TC-205-TAP-COM-AZU;TCL;20 5G;Tapa trasera;Azul (Placid Blue);4,95;;;6
+TC-205-TAP-COM-GRI;TCL;20 5G;Tapa trasera;Gris (Mist Gray);4,95;;;6
+TC-205-CTR-COM;TCL;20 5G;Cámara trasera;Compatible;5,45;;;6
+TC-205-CFR-COM;TCL;20 5G;Cámara frontal;Compatible;3,45;;;6
+TC-205-LEN-COM;TCL;20 5G;Lente de cámara;Compatible;2,25;;;6
+TC-205-ALT-COM;TCL;20 5G;Altavoz;Compatible;3,29;;;6
+TC-205-AUR-COM;TCL;20 5G;Auricular de llamada;Compatible;2,45;;;6
+TC-205-FLX-COM;TCL;20 5G;Flex de encendido y volumen;Compatible;2,35;;;6
+TC-205-SIM-COM;TCL;20 5G;Bandeja SIM;Compatible;2,75;;;6
+TC-20L-PAN-COM;TCL;20L;Pantalla;Compatible;13,80;13,39;12,97;6
+TC-20L-BAT-COM;TCL;20L;Batería;Compatible;7,60;;;6
+TC-20L-CON-COM;TCL;20L;Conector de carga;Compatible;3,55;;;6
+TC-20L-TAP-COM-NEG;TCL;20L;Tapa trasera;Negro (Luna Black);4,95;;;6
+TC-20L-TAP-COM-AZU;TCL;20L;Tapa trasera;Azul (Eclipse Blue);4,95;;;6
+TC-20L-CTR-COM;TCL;20L;Cámara trasera;Compatible;5,45;;;6
+TC-20L-CFR-COM;TCL;20L;Cámara frontal;Compatible;3,45;;;6
+TC-20L-LEN-COM;TCL;20L;Lente de cámara;Compatible;2,25;;;6
+TC-20L-ALT-COM;TCL;20L;Altavoz;Compatible;3,29;;;6
+TC-20L-AUR-COM;TCL;20L;Auricular de llamada;Compatible;2,45;;;6
+TC-20L-FLX-COM;TCL;20L;Flex de encendido y volumen;Compatible;2,35;;;6
+TC-20L-SIM-COM;TCL;20L;Bandeja SIM;Compatible;2,75;;;6
+TC-20LPL-PAN-COM;TCL;20L+;Pantalla;Compatible;13,80;13,39;12,97;6
+TC-20LPL-BAT-COM;TCL;20L+;Batería;Compatible;7,60;;;6
+TC-20LPL-CON-COM;TCL;20L+;Conector de carga;Compatible;3,55;;;6
+TC-20LPL-TAP-COM-GRI;TCL;20L+;Tapa trasera;Gris (Milky Way Gray);4,95;;;6
+TC-20LPL-TAP-COM-AZU;TCL;20L+;Tapa trasera;Azul (North Star Blue);4,95;;;6
+TC-20LPL-CTR-COM;TCL;20L+;Cámara trasera;Compatible;5,45;;;6
+TC-20LPL-CFR-COM;TCL;20L+;Cámara frontal;Compatible;3,45;;;6
+TC-20LPL-LEN-COM;TCL;20L+;Lente de cámara;Compatible;2,25;;;6
+TC-20LPL-ALT-COM;TCL;20L+;Altavoz;Compatible;3,29;;;6
+TC-20LPL-AUR-COM;TCL;20L+;Auricular de llamada;Compatible;2,45;;;6
+TC-20LPL-FLX-COM;TCL;20L+;Flex de encendido y volumen;Compatible;2,35;;;6
+TC-20LPL-SIM-COM;TCL;20L+;Bandeja SIM;Compatible;2,75;;;6
+TC-20P5-PAN-INC;TCL;20 Pro 5G;Pantalla;Incell;18,79;18,23;17,66;6
+TC-20P5-BAT-COM;TCL;20 Pro 5G;Batería;Compatible;8,25;;;6
+TC-20P5-CON-COM;TCL;20 Pro 5G;Conector de carga;Compatible;4,40;;;6
+TC-20P5-TAP-COM-AZU;TCL;20 Pro 5G;Tapa trasera;Azul (Marine Blue);5,55;;;6
+TC-20P5-TAP-COM-GRI;TCL;20 Pro 5G;Tapa trasera;Gris (Moondust Gray);5,55;;;6
+TC-20P5-CTR-COM;TCL;20 Pro 5G;Cámara trasera;Compatible;6,19;;;6
+TC-20P5-CFR-COM;TCL;20 Pro 5G;Cámara frontal;Compatible;3,65;;;6
+TC-20P5-LEN-COM;TCL;20 Pro 5G;Lente de cámara;Compatible;2,20;;;6
+TC-20P5-ALT-COM;TCL;20 Pro 5G;Altavoz;Compatible;3,35;;;6
+TC-20P5-AUR-COM;TCL;20 Pro 5G;Auricular de llamada;Compatible;2,40;;;6
+TC-20P5-FLX-COM;TCL;20 Pro 5G;Flex de encendido y volumen;Compatible;2,29;;;6
+TC-20P5-SIM-COM;TCL;20 Pro 5G;Bandeja SIM;Compatible;2,60;;;6
+TC-20SE-PAN-COM;TCL;20 SE;Pantalla;Compatible;13,80;13,39;12,97;6
+TC-20SE-BAT-COM;TCL;20 SE;Batería;Compatible;7,60;;;6
+TC-20SE-CON-COM;TCL;20 SE;Conector de carga;Compatible;3,55;;;6
+TC-20SE-TAP-COM-VER;TCL;20 SE;Tapa trasera;Verde (Aurora Green);4,95;;;6
+TC-20SE-TAP-COM-NEG;TCL;20 SE;Tapa trasera;Negro (Nuit Black);4,95;;;6
+TC-20SE-CTR-COM;TCL;20 SE;Cámara trasera;Compatible;5,45;;;6
+TC-20SE-CFR-COM;TCL;20 SE;Cámara frontal;Compatible;3,45;;;6
+TC-20SE-LEN-COM;TCL;20 SE;Lente de cámara;Compatible;2,25;;;6
+TC-20SE-ALT-COM;TCL;20 SE;Altavoz;Compatible;3,29;;;6
+TC-20SE-AUR-COM;TCL;20 SE;Auricular de llamada;Compatible;2,45;;;6
+TC-20SE-FLX-COM;TCL;20 SE;Flex de encendido y volumen;Compatible;2,35;;;6
+TC-20SE-SIM-COM;TCL;20 SE;Bandeja SIM;Compatible;2,75;;;6
+TC-20R5-PAN-COM;TCL;20 R 5G;Pantalla;Compatible;13,80;13,39;12,97;6
+TC-20R5-BAT-COM;TCL;20 R 5G;Batería;Compatible;7,60;;;6
+TC-20R5-CON-COM;TCL;20 R 5G;Conector de carga;Compatible;3,55;;;6
+TC-20R5-TAP-COM-AZU;TCL;20 R 5G;Tapa trasera;Azul (Lazurite Blue);4,95;;;6
+TC-20R5-TAP-COM-GRI;TCL;20 R 5G;Tapa trasera;Gris (Granite Grey);4,95;;;6
+TC-20R5-CTR-COM;TCL;20 R 5G;Cámara trasera;Compatible;5,45;;;6
+TC-20R5-CFR-COM;TCL;20 R 5G;Cámara frontal;Compatible;3,45;;;6
+TC-20R5-LEN-COM;TCL;20 R 5G;Lente de cámara;Compatible;2,25;;;6
+TC-20R5-ALT-COM;TCL;20 R 5G;Altavoz;Compatible;3,29;;;6
+TC-20R5-AUR-COM;TCL;20 R 5G;Auricular de llamada;Compatible;2,45;;;6
+TC-20R5-FLX-COM;TCL;20 R 5G;Flex de encendido y volumen;Compatible;2,35;;;6
+TC-20R5-SIM-COM;TCL;20 R 5G;Bandeja SIM;Compatible;2,75;;;6
+TC-2052-PAN-COM;TCL;205;Pantalla;Compatible;13,80;13,39;12,97;6
+TC-2052-BAT-COM;TCL;205;Batería;Compatible;7,60;;;6
+TC-2052-CON-COM;TCL;205;Conector de carga;Compatible;3,55;;;6
+TC-2052-TAP-COM-GRI;TCL;205;Tapa trasera;Gris (Power Gray);4,95;;;6
+TC-2052-TAP-COM-AZU;TCL;205;Tapa trasera;Azul (Atlantic Blue);4,95;;;6
+TC-2052-CTR-COM;TCL;205;Cámara trasera;Compatible;5,45;;;6
+TC-2052-CFR-COM;TCL;205;Cámara frontal;Compatible;3,45;;;6
+TC-2052-LEN-COM;TCL;205;Lente de cámara;Compatible;2,25;;;6
+TC-2052-ALT-COM;TCL;205;Altavoz;Compatible;3,29;;;6
+TC-2052-AUR-COM;TCL;205;Auricular de llamada;Compatible;2,45;;;6
+TC-2052-FLX-COM;TCL;205;Flex de encendido y volumen;Compatible;2,35;;;6
+TC-2052-SIM-COM;TCL;205;Bandeja SIM;Compatible;2,75;;;6
+TC-30-PAN-INC;TCL;30;Pantalla;Incell;16,09;15,61;15,12;6
+TC-30-BAT-COM;TCL;30;Batería;Compatible;7,60;;;6
+TC-30-CON-COM;TCL;30;Conector de carga;Compatible;3,55;;;6
+TC-30-TAP-COM-NEG;TCL;30;Tapa trasera;Negro (Tech Black);4,95;;;6
+TC-30-TAP-COM-AZU;TCL;30;Tapa trasera;Azul (Muse Blue);4,95;;;6
+TC-30-CTR-COM;TCL;30;Cámara trasera;Compatible;5,45;;;6
+TC-30-CFR-COM;TCL;30;Cámara frontal;Compatible;3,45;;;6
+TC-30-LEN-COM;TCL;30;Lente de cámara;Compatible;2,25;;;6
+TC-30-ALT-COM;TCL;30;Altavoz;Compatible;3,29;;;6
+TC-30-AUR-COM;TCL;30;Auricular de llamada;Compatible;2,45;;;6
+TC-30-FLX-COM;TCL;30;Flex de encendido y volumen;Compatible;2,35;;;6
+TC-30-SIM-COM;TCL;30;Bandeja SIM;Compatible;2,75;;;6
+TC-30PL-PAN-INC;TCL;30+;Pantalla;Incell;16,09;15,61;15,12;6
+TC-30PL-BAT-COM;TCL;30+;Batería;Compatible;7,60;;;6
+TC-30PL-CON-COM;TCL;30+;Conector de carga;Compatible;3,55;;;6
+TC-30PL-TAP-COM-NEG;TCL;30+;Tapa trasera;Negro (Tech Black);4,95;;;6
+TC-30PL-TAP-COM-AZU;TCL;30+;Tapa trasera;Azul (Muse Blue);4,95;;;6
+TC-30PL-CTR-COM;TCL;30+;Cámara trasera;Compatible;5,45;;;6
+TC-30PL-CFR-COM;TCL;30+;Cámara frontal;Compatible;3,45;;;6
+TC-30PL-LEN-COM;TCL;30+;Lente de cámara;Compatible;2,25;;;6
+TC-30PL-ALT-COM;TCL;30+;Altavoz;Compatible;3,29;;;6
+TC-30PL-AUR-COM;TCL;30+;Auricular de llamada;Compatible;2,45;;;6
+TC-30PL-FLX-COM;TCL;30+;Flex de encendido y volumen;Compatible;2,35;;;6
+TC-30PL-SIM-COM;TCL;30+;Bandeja SIM;Compatible;2,75;;;6
+TC-30SE-PAN-COM;TCL;30 SE;Pantalla;Compatible;13,80;13,39;12,97;6
+TC-30SE-BAT-COM;TCL;30 SE;Batería;Compatible;7,60;;;6
+TC-30SE-CON-COM;TCL;30 SE;Conector de carga;Compatible;3,55;;;6
+TC-30SE-TAP-COM-GRI;TCL;30 SE;Tapa trasera;Gris espacial;4,95;;;6
+TC-30SE-TAP-COM-AZU;TCL;30 SE;Tapa trasera;Azul (Atlantic Blue);4,95;;;6
+TC-30SE-TAP-COM-AGL;TCL;30 SE;Tapa trasera;Azul (Glacial Blue);4,95;;;6
+TC-30SE-CTR-COM;TCL;30 SE;Cámara trasera;Compatible;5,45;;;6
+TC-30SE-CFR-COM;TCL;30 SE;Cámara frontal;Compatible;3,45;;;6
+TC-30SE-LEN-COM;TCL;30 SE;Lente de cámara;Compatible;2,25;;;6
+TC-30SE-ALT-COM;TCL;30 SE;Altavoz;Compatible;3,29;;;6
+TC-30SE-AUR-COM;TCL;30 SE;Auricular de llamada;Compatible;2,45;;;6
+TC-30SE-FLX-COM;TCL;30 SE;Flex de encendido y volumen;Compatible;2,35;;;6
+TC-30SE-SIM-COM;TCL;30 SE;Bandeja SIM;Compatible;2,75;;;6
+TC-305-PAN-COM;TCL;30 5G;Pantalla;Compatible;13,80;13,39;12,97;6
+TC-305-BAT-COM;TCL;30 5G;Batería;Compatible;7,60;;;6
+TC-305-CON-COM;TCL;30 5G;Conector de carga;Compatible;3,55;;;6
+TC-305-TAP-COM-NEG;TCL;30 5G;Tapa trasera;Negro (Tech Black);4,95;;;6
+TC-305-TAP-COM-AZU;TCL;30 5G;Tapa trasera;Azul (Dreamy Blue);4,95;;;6
+TC-305-CTR-COM;TCL;30 5G;Cámara trasera;Compatible;5,45;;;6
+TC-305-CFR-COM;TCL;30 5G;Cámara frontal;Compatible;3,45;;;6
+TC-305-LEN-COM;TCL;30 5G;Lente de cámara;Compatible;2,25;;;6
+TC-305-ALT-COM;TCL;30 5G;Altavoz;Compatible;3,29;;;6
+TC-305-AUR-COM;TCL;30 5G;Auricular de llamada;Compatible;2,45;;;6
+TC-305-FLX-COM;TCL;30 5G;Flex de encendido y volumen;Compatible;2,35;;;6
+TC-305-SIM-COM;TCL;30 5G;Bandeja SIM;Compatible;2,75;;;6
+TC-30E-PAN-COM;TCL;30E;Pantalla;Compatible;13,80;13,39;12,97;6
+TC-30E-BAT-COM;TCL;30E;Batería;Compatible;7,60;;;6
+TC-30E-CON-COM;TCL;30E;Conector de carga;Compatible;3,55;;;6
+TC-30E-TAP-COM-GRI;TCL;30E;Tapa trasera;Gris espacial;4,95;;;6
+TC-30E-TAP-COM-AZU;TCL;30E;Tapa trasera;Azul (Atlantic Blue);4,95;;;6
+TC-30E-CTR-COM;TCL;30E;Cámara trasera;Compatible;5,45;;;6
+TC-30E-CFR-COM;TCL;30E;Cámara frontal;Compatible;3,45;;;6
+TC-30E-LEN-COM;TCL;30E;Lente de cámara;Compatible;2,25;;;6
+TC-30E-ALT-COM;TCL;30E;Altavoz;Compatible;3,29;;;6
+TC-30E-AUR-COM;TCL;30E;Auricular de llamada;Compatible;2,45;;;6
+TC-30E-FLX-COM;TCL;30E;Flex de encendido y volumen;Compatible;2,35;;;6
+TC-30E-SIM-COM;TCL;30E;Bandeja SIM;Compatible;2,75;;;6
+TC-306-PAN-COM;TCL;306;Pantalla;Compatible;13,80;13,39;12,97;6
+TC-306-BAT-COM;TCL;306;Batería;Compatible;7,60;;;6
+TC-306-CON-COM;TCL;306;Conector de carga;Compatible;3,55;;;6
+TC-306-TAP-COM-GRI;TCL;306;Tapa trasera;Gris espacial;4,95;;;6
+TC-306-TAP-COM-AZU;TCL;306;Tapa trasera;Azul (Atlantic Blue);4,95;;;6
+TC-306-CTR-COM;TCL;306;Cámara trasera;Compatible;5,45;;;6
+TC-306-CFR-COM;TCL;306;Cámara frontal;Compatible;3,45;;;6
+TC-306-LEN-COM;TCL;306;Lente de cámara;Compatible;2,25;;;6
+TC-306-ALT-COM;TCL;306;Altavoz;Compatible;3,29;;;6
+TC-306-AUR-COM;TCL;306;Auricular de llamada;Compatible;2,45;;;6
+TC-306-FLX-COM;TCL;306;Flex de encendido y volumen;Compatible;2,35;;;6
+TC-306-SIM-COM;TCL;306;Bandeja SIM;Compatible;2,75;;;6
+TC-305I-PAN-COM;TCL;305i;Pantalla;Compatible;14,69;14,25;13,81;6
+TC-305I-BAT-COM;TCL;305i;Batería;Compatible;8,69;;;6
+TC-305I-CON-COM;TCL;305i;Conector de carga;Compatible;4,05;;;6
+TC-305I-TAP-COM-NEG;TCL;305i;Tapa trasera;Negro (Prime Black);5,55;;;6
+TC-305I-TAP-COM-AZU;TCL;305i;Tapa trasera;Azul (Muse Blue);5,55;;;6
+TC-305I-CTR-COM;TCL;305i;Cámara trasera;Compatible;7,60;;;6
+TC-305I-CFR-COM;TCL;305i;Cámara frontal;Compatible;5,00;;;6
+TC-305I-LEN-COM;TCL;305i;Lente de cámara;Compatible;2,35;;;6
+TC-305I-ALT-COM;TCL;305i;Altavoz;Compatible;3,55;;;6
+TC-305I-AUR-COM;TCL;305i;Auricular de llamada;Compatible;2,65;;;6
+TC-305I-FLX-COM;TCL;305i;Flex de encendido y volumen;Compatible;2,85;;;6
+TC-305I-SIM-COM;TCL;305i;Bandeja SIM;Compatible;2,69;;;6
+TC-40SE-PAN-COM;TCL;40 SE;Pantalla;Compatible;14,69;14,25;13,81;6
+TC-40SE-BAT-COM;TCL;40 SE;Batería;Compatible;8,69;;;6
+TC-40SE-CON-COM;TCL;40 SE;Conector de carga;Compatible;4,05;;;6
+TC-40SE-TAP-COM-GRI;TCL;40 SE;Tapa trasera;Gris (Dark Grey);5,55;;;6
+TC-40SE-TAP-COM-MOR;TCL;40 SE;Tapa trasera;Morado (Twilight Purple);5,55;;;6
+TC-40SE-CTR-COM;TCL;40 SE;Cámara trasera;Compatible;7,60;;;6
+TC-40SE-CFR-COM;TCL;40 SE;Cámara frontal;Compatible;5,00;;;6
+TC-40SE-LEN-COM;TCL;40 SE;Lente de cámara;Compatible;2,35;;;6
+TC-40SE-ALT-COM;TCL;40 SE;Altavoz;Compatible;3,55;;;6
+TC-40SE-AUR-COM;TCL;40 SE;Auricular de llamada;Compatible;2,65;;;6
+TC-40SE-FLX-COM;TCL;40 SE;Flex de encendido y volumen;Compatible;2,85;;;6
+TC-40SE-SIM-COM;TCL;40 SE;Bandeja SIM;Compatible;2,69;;;6
+TC-40R5-PAN-COM;TCL;40 R 5G;Pantalla;Compatible;14,69;14,25;13,81;6
+TC-40R5-BAT-COM;TCL;40 R 5G;Batería;Compatible;8,69;;;6
+TC-40R5-CON-COM;TCL;40 R 5G;Conector de carga;Compatible;4,05;;;6
+TC-40R5-TAP-COM-MOR;TCL;40 R 5G;Tapa trasera;Morado (Stardust Purple);5,55;;;6
+TC-40R5-TAP-COM-NEG;TCL;40 R 5G;Tapa trasera;Negro (Starlight Black);5,55;;;6
+TC-40R5-CTR-COM;TCL;40 R 5G;Cámara trasera;Compatible;7,60;;;6
+TC-40R5-CFR-COM;TCL;40 R 5G;Cámara frontal;Compatible;5,00;;;6
+TC-40R5-LEN-COM;TCL;40 R 5G;Lente de cámara;Compatible;2,35;;;6
+TC-40R5-ALT-COM;TCL;40 R 5G;Altavoz;Compatible;3,55;;;6
+TC-40R5-AUR-COM;TCL;40 R 5G;Auricular de llamada;Compatible;2,65;;;6
+TC-40R5-FLX-COM;TCL;40 R 5G;Flex de encendido y volumen;Compatible;2,85;;;6
+TC-40R5-SIM-COM;TCL;40 R 5G;Bandeja SIM;Compatible;2,69;;;6
+TC-403-PAN-COM;TCL;403;Pantalla;Compatible;14,69;14,25;13,81;6
+TC-403-BAT-COM;TCL;403;Batería;Compatible;8,69;;;6
+TC-403-CON-COM;TCL;403;Conector de carga;Compatible;4,05;;;6
+TC-403-TAP-COM-NEG;TCL;403;Tapa trasera;Negro (Prime Black);5,55;;;6
+TC-403-TAP-COM-MAU;TCL;403;Tapa trasera;Mauve Mist;5,55;;;6
+TC-403-CTR-COM;TCL;403;Cámara trasera;Compatible;7,60;;;6
+TC-403-CFR-COM;TCL;403;Cámara frontal;Compatible;5,00;;;6
+TC-403-LEN-COM;TCL;403;Lente de cámara;Compatible;2,35;;;6
+TC-403-ALT-COM;TCL;403;Altavoz;Compatible;3,55;;;6
+TC-403-AUR-COM;TCL;403;Auricular de llamada;Compatible;2,65;;;6
+TC-403-FLX-COM;TCL;403;Flex de encendido y volumen;Compatible;2,85;;;6
+TC-403-SIM-COM;TCL;403;Bandeja SIM;Compatible;2,69;;;6
+TC-408-PAN-COM;TCL;408;Pantalla;Compatible;14,69;14,25;13,81;6
+TC-408-BAT-COM;TCL;408;Batería;Compatible;8,69;;;6
+TC-408-CON-COM;TCL;408;Conector de carga;Compatible;4,05;;;6
+TC-408-TAP-COM-GRI;TCL;408;Tapa trasera;Gris (Gravity Grey);5,55;;;6
+TC-408-TAP-COM-AZU;TCL;408;Tapa trasera;Azul (Midnight Blue);5,55;;;6
+TC-408-CTR-COM;TCL;408;Cámara trasera;Compatible;7,60;;;6
+TC-408-CFR-COM;TCL;408;Cámara frontal;Compatible;5,00;;;6
+TC-408-LEN-COM;TCL;408;Lente de cámara;Compatible;2,35;;;6
+TC-408-ALT-COM;TCL;408;Altavoz;Compatible;3,55;;;6
+TC-408-AUR-COM;TCL;408;Auricular de llamada;Compatible;2,65;;;6
+TC-408-FLX-COM;TCL;408;Flex de encendido y volumen;Compatible;2,85;;;6
+TC-408-SIM-COM;TCL;408;Bandeja SIM;Compatible;2,69;;;6
+TC-406-PAN-COM;TCL;406;Pantalla;Compatible;14,69;14,25;13,81;6
+TC-406-BAT-COM;TCL;406;Batería;Compatible;8,69;;;6
+TC-406-CON-COM;TCL;406;Conector de carga;Compatible;4,05;;;6
+TC-406-TAP-COM-MOR;TCL;406;Tapa trasera;Morado (Lavender Purple);5,55;;;6
+TC-406-TAP-COM-GRI;TCL;406;Tapa trasera;Gris (Dark Grey);5,55;;;6
+TC-406-CTR-COM;TCL;406;Cámara trasera;Compatible;7,60;;;6
+TC-406-CFR-COM;TCL;406;Cámara frontal;Compatible;5,00;;;6
+TC-406-LEN-COM;TCL;406;Lente de cámara;Compatible;2,35;;;6
+TC-406-ALT-COM;TCL;406;Altavoz;Compatible;3,55;;;6
+TC-406-AUR-COM;TCL;406;Auricular de llamada;Compatible;2,65;;;6
+TC-406-FLX-COM;TCL;406;Flex de encendido y volumen;Compatible;2,85;;;6
+TC-406-SIM-COM;TCL;406;Bandeja SIM;Compatible;2,69;;;6
+TC-405-PAN-COM;TCL;405;Pantalla;Compatible;13,80;13,39;12,97;6
+TC-405-BAT-COM;TCL;405;Batería;Compatible;7,60;;;6
+TC-405-CON-COM;TCL;405;Conector de carga;Compatible;3,55;;;6
+TC-405-TAP-COM-MOR;TCL;405;Tapa trasera;Morado (Lavender Purple);4,95;;;6
+TC-405-TAP-COM-GRI;TCL;405;Tapa trasera;Gris (Dark Grey);4,95;;;6
+TC-405-CTR-COM;TCL;405;Cámara trasera;Compatible;5,45;;;6
+TC-405-CFR-COM;TCL;405;Cámara frontal;Compatible;3,45;;;6
+TC-405-LEN-COM;TCL;405;Lente de cámara;Compatible;2,25;;;6
+TC-405-ALT-COM;TCL;405;Altavoz;Compatible;3,29;;;6
+TC-405-AUR-COM;TCL;405;Auricular de llamada;Compatible;2,45;;;6
+TC-405-FLX-COM;TCL;405;Flex de encendido y volumen;Compatible;2,35;;;6
+TC-405-SIM-COM;TCL;405;Bandeja SIM;Compatible;2,75;;;6
+TC-40NXT-PAN-COM;TCL;40 NXTPAPER;Pantalla;Compatible;17,15;16,64;16,12;6
+TC-40NXT-BAT-COM;TCL;40 NXTPAPER;Batería;Compatible;9,40;;;6
+TC-40NXT-CON-COM;TCL;40 NXTPAPER;Conector de carga;Compatible;5,05;;;6
+TC-40NXT-TAP-COM-OPA;TCL;40 NXTPAPER;Tapa trasera;Opalescent;6,20;;;6
+TC-40NXT-TAP-COM-AZU;TCL;40 NXTPAPER;Tapa trasera;Azul (Midnight Blue);6,20;;;6
+TC-40NXT-CTR-COM;TCL;40 NXTPAPER;Cámara trasera;Compatible;8,65;;;6
+TC-40NXT-CFR-COM;TCL;40 NXTPAPER;Cámara frontal;Compatible;5,35;;;6
+TC-40NXT-LEN-COM;TCL;40 NXTPAPER;Lente de cámara;Compatible;2,30;;;6
+TC-40NXT-ALT-COM;TCL;40 NXTPAPER;Altavoz;Compatible;3,60;;;6
+TC-40NXT-AUR-COM;TCL;40 NXTPAPER;Auricular de llamada;Compatible;2,65;;;6
+TC-40NXT-FLX-COM;TCL;40 NXTPAPER;Flex de encendido y volumen;Compatible;2,79;;;6
+TC-40NXT-SIM-COM;TCL;40 NXTPAPER;Bandeja SIM;Compatible;2,55;;;6
+TC-50SE-PAN-COM;TCL;50 SE;Pantalla;Compatible;14,69;14,25;13,81;6
+TC-50SE-BAT-COM;TCL;50 SE;Batería;Compatible;8,69;;;6
+TC-50SE-CON-COM;TCL;50 SE;Conector de carga;Compatible;4,05;;;6
+TC-50SE-TAP-COM-AZU;TCL;50 SE;Tapa trasera;Azul medianoche;5,55;;;6
+TC-50SE-TAP-COM-GRI;TCL;50 SE;Tapa trasera;Gris espacial;5,55;;;6
+TC-50SE-CTR-COM;TCL;50 SE;Cámara trasera;Compatible;7,60;;;6
+TC-50SE-CFR-COM;TCL;50 SE;Cámara frontal;Compatible;5,00;;;6
+TC-50SE-LEN-COM;TCL;50 SE;Lente de cámara;Compatible;2,35;;;6
+TC-50SE-ALT-COM;TCL;50 SE;Altavoz;Compatible;3,55;;;6
+TC-50SE-AUR-COM;TCL;50 SE;Auricular de llamada;Compatible;2,65;;;6
+TC-50SE-FLX-COM;TCL;50 SE;Flex de encendido y volumen;Compatible;2,85;;;6
+TC-50SE-SIM-COM;TCL;50 SE;Bandeja SIM;Compatible;2,69;;;6
+TC-505-PAN-COM;TCL;505;Pantalla;Compatible;14,69;14,25;13,81;6
+TC-505-BAT-COM;TCL;505;Batería;Compatible;8,69;;;6
+TC-505-CON-COM;TCL;505;Conector de carga;Compatible;4,05;;;6
+TC-505-TAP-COM-AZU;TCL;505;Tapa trasera;Azul (Ocean Blue);5,55;;;6
+TC-505-TAP-COM-SPA;TCL;505;Tapa trasera;Space Gray;5,55;;;6
+TC-505-CTR-COM;TCL;505;Cámara trasera;Compatible;7,60;;;6
+TC-505-CFR-COM;TCL;505;Cámara frontal;Compatible;5,00;;;6
+TC-505-LEN-COM;TCL;505;Lente de cámara;Compatible;2,35;;;6
+TC-505-ALT-COM;TCL;505;Altavoz;Compatible;3,55;;;6
+TC-505-AUR-COM;TCL;505;Auricular de llamada;Compatible;2,65;;;6
+TC-505-FLX-COM;TCL;505;Flex de encendido y volumen;Compatible;2,85;;;6
+TC-505-SIM-COM;TCL;505;Bandeja SIM;Compatible;2,69;;;6
+TC-505G-PAN-COM;TCL;50 5G;Pantalla;Compatible;14,69;14,25;13,81;6
+TC-505G-BAT-COM;TCL;50 5G;Batería;Compatible;8,69;;;6
+TC-505G-CON-COM;TCL;50 5G;Conector de carga;Compatible;4,05;;;6
+TC-505G-TAP-COM;TCL;50 5G;Tapa trasera;Compatible;5,55;;;6
+TC-505G-CTR-COM;TCL;50 5G;Cámara trasera;Compatible;7,60;;;6
+TC-505G-CFR-COM;TCL;50 5G;Cámara frontal;Compatible;5,00;;;6
+TC-505G-LEN-COM;TCL;50 5G;Lente de cámara;Compatible;2,35;;;6
+TC-505G-ALT-COM;TCL;50 5G;Altavoz;Compatible;3,55;;;6
+TC-505G-AUR-COM;TCL;50 5G;Auricular de llamada;Compatible;2,65;;;6
+TC-505G-FLX-COM;TCL;50 5G;Flex de encendido y volumen;Compatible;2,85;;;6
+TC-505G-SIM-COM;TCL;50 5G;Bandeja SIM;Compatible;2,69;;;6
+TC-50NXT5-PAN-COM;TCL;50 NXTPAPER 5G;Pantalla;Compatible;17,15;16,64;16,12;6
+TC-50NXT5-BAT-COM;TCL;50 NXTPAPER 5G;Batería;Compatible;9,40;;;6
+TC-50NXT5-CON-COM;TCL;50 NXTPAPER 5G;Conector de carga;Compatible;5,05;;;6
+TC-50NXT5-TAP-COM-GRI;TCL;50 NXTPAPER 5G;Tapa trasera;Gris (Moon Gray);6,20;;;6
+TC-50NXT5-TAP-COM-AZU;TCL;50 NXTPAPER 5G;Tapa trasera;Azul (Midnight Blue);6,20;;;6
+TC-50NXT5-TAP-COM-DOR;TCL;50 NXTPAPER 5G;Tapa trasera;Dorado (Pale Gold);6,20;;;6
+TC-50NXT5-TAP-COM-MOR;TCL;50 NXTPAPER 5G;Tapa trasera;Morado (Rosy Purple);6,20;;;6
+TC-50NXT5-CTR-COM;TCL;50 NXTPAPER 5G;Cámara trasera;Compatible;8,65;;;6
+TC-50NXT5-CFR-COM;TCL;50 NXTPAPER 5G;Cámara frontal;Compatible;5,35;;;6
+TC-50NXT5-LEN-COM;TCL;50 NXTPAPER 5G;Lente de cámara;Compatible;2,30;;;6
+TC-50NXT5-ALT-COM;TCL;50 NXTPAPER 5G;Altavoz;Compatible;3,60;;;6
+TC-50NXT5-AUR-COM;TCL;50 NXTPAPER 5G;Auricular de llamada;Compatible;2,65;;;6
+TC-50NXT5-FLX-COM;TCL;50 NXTPAPER 5G;Flex de encendido y volumen;Compatible;2,79;;;6
+TC-50NXT5-SIM-COM;TCL;50 NXTPAPER 5G;Bandeja SIM;Compatible;2,55;;;6
+TC-60SE-PAN-COM;TCL;60 SE;Pantalla;Compatible;15,45;14,99;14,52;6
+TC-60SE-BAT-COM;TCL;60 SE;Batería;Compatible;8,20;;;6
+TC-60SE-CON-COM;TCL;60 SE;Conector de carga;Compatible;4,85;;;6
+TC-60SE-TAP-COM;TCL;60 SE;Tapa trasera;Compatible;5,95;;;6
+TC-60SE-CTR-COM;TCL;60 SE;Cámara trasera;Compatible;10,45;10,14;9,82;6
+TC-60SE-CFR-COM;TCL;60 SE;Cámara frontal;Compatible;7,00;;;6
+TC-60SE-LEN-COM;TCL;60 SE;Lente de cámara;Compatible;3,05;;;6
+TC-60SE-ALT-COM;TCL;60 SE;Altavoz;Compatible;4,65;;;6
+TC-60SE-AUR-COM;TCL;60 SE;Auricular de llamada;Compatible;3,75;;;6
+TC-60SE-FLX-COM;TCL;60 SE;Flex de encendido y volumen;Compatible;3,10;;;6
+TC-60SE-SIM-COM;TCL;60 SE;Bandeja SIM;Compatible;3,19;;;6
+TC-605-PAN-COM;TCL;605;Pantalla;Compatible;15,45;14,99;14,52;6
+TC-605-BAT-COM;TCL;605;Batería;Compatible;8,20;;;6
+TC-605-CON-COM;TCL;605;Conector de carga;Compatible;4,85;;;6
+TC-605-TAP-COM-NEG;TCL;605;Tapa trasera;Negro (Starry Black);5,95;;;6
+TC-605-TAP-COM-BLA;TCL;605;Tapa trasera;Blanco (Blizzard White);5,95;;;6
+TC-605-TAP-COM-AZU;TCL;605;Tapa trasera;Azul (Quartz Blue);5,95;;;6
+TC-605-TAP-COM-NOB;TCL;605;Tapa trasera;Negro (Obsidian Black);5,95;;;6
+TC-605-CTR-COM;TCL;605;Cámara trasera;Compatible;10,45;10,14;9,82;6
+TC-605-CFR-COM;TCL;605;Cámara frontal;Compatible;7,00;;;6
+TC-605-LEN-COM;TCL;605;Lente de cámara;Compatible;3,05;;;6
+TC-605-ALT-COM;TCL;605;Altavoz;Compatible;4,65;;;6
+TC-605-AUR-COM;TCL;605;Auricular de llamada;Compatible;3,75;;;6
+TC-605-FLX-COM;TCL;605;Flex de encendido y volumen;Compatible;3,10;;;6
+TC-605-SIM-COM;TCL;605;Bandeja SIM;Compatible;3,19;;;6
+TC-10PL-PAN-COM;TCL;10 Plus;Pantalla;Compatible;13,80;13,39;12,97;6
+TC-10PL-BAT-COM;TCL;10 Plus;Batería;Compatible;7,60;;;6
+TC-10PL-CON-COM;TCL;10 Plus;Conector de carga;Compatible;3,55;;;6
+TC-10PL-TAP-COM;TCL;10 Plus;Tapa trasera;Compatible;4,95;;;6
+TC-10PL-CTR-COM;TCL;10 Plus;Cámara trasera;Compatible;5,45;;;6
+TC-10PL-CFR-COM;TCL;10 Plus;Cámara frontal;Compatible;3,45;;;6
+TC-10PL-LEN-COM;TCL;10 Plus;Lente de cámara;Compatible;2,25;;;6
+TC-10PL-ALT-COM;TCL;10 Plus;Altavoz;Compatible;3,29;;;6
+TC-10PL-AUR-COM;TCL;10 Plus;Auricular de llamada;Compatible;2,45;;;6
+TC-10PL-FLX-COM;TCL;10 Plus;Flex de encendido y volumen;Compatible;2,35;;;6
+TC-10PL-SIM-COM;TCL;10 Plus;Bandeja SIM;Compatible;2,75;;;6
+TC-10SE-PAN-COM;TCL;10 SE;Pantalla;Compatible;13,80;13,39;12,97;6
+TC-10SE-BAT-COM;TCL;10 SE;Batería;Compatible;7,60;;;6
+TC-10SE-CON-COM;TCL;10 SE;Conector de carga;Compatible;3,55;;;6
+TC-10SE-TAP-COM;TCL;10 SE;Tapa trasera;Compatible;4,95;;;6
+TC-10SE-CTR-COM;TCL;10 SE;Cámara trasera;Compatible;5,45;;;6
+TC-10SE-CFR-COM;TCL;10 SE;Cámara frontal;Compatible;3,45;;;6
+TC-10SE-LEN-COM;TCL;10 SE;Lente de cámara;Compatible;2,25;;;6
+TC-10SE-ALT-COM;TCL;10 SE;Altavoz;Compatible;3,29;;;6
+TC-10SE-AUR-COM;TCL;10 SE;Auricular de llamada;Compatible;2,45;;;6
+TC-10SE-FLX-COM;TCL;10 SE;Flex de encendido y volumen;Compatible;2,35;;;6
+TC-10SE-SIM-COM;TCL;10 SE;Bandeja SIM;Compatible;2,75;;;6
+TC-P-PAN-COM;TCL;Plex;Pantalla;Compatible;13,00;12,61;12,22;6
+TC-P-BAT-COM;TCL;Plex;Batería;Compatible;8,90;;;6
+TC-P-CON-COM;TCL;Plex;Conector de carga;Compatible;3,70;;;6
+TC-P-TAP-COM;TCL;Plex;Tapa trasera;Compatible;4,80;;;6
+TC-P-CTR-COM;TCL;Plex;Cámara trasera;Compatible;6,65;;;6
+TC-P-CFR-COM;TCL;Plex;Cámara frontal;Compatible;4,65;;;6
+TC-P-LEN-COM;TCL;Plex;Lente de cámara;Compatible;2,25;;;6
+TC-P-ALT-COM;TCL;Plex;Altavoz;Compatible;3,59;;;6
+TC-P-AUR-COM;TCL;Plex;Auricular de llamada;Compatible;2,69;;;6
+TC-P-FLX-COM;TCL;Plex;Flex de encendido y volumen;Compatible;2,55;;;6
+TC-P-SIM-COM;TCL;Plex;Bandeja SIM;Compatible;2,65;;;6
+TC-10L-PAN-COM;TCL;10L;Pantalla;Compatible;13,80;13,39;12,97;6
+TC-10L-BAT-COM;TCL;10L;Batería;Compatible;7,60;;;6
+TC-10L-CON-COM;TCL;10L;Conector de carga;Compatible;3,55;;;6
+TC-10L-TAP-COM-BLA;TCL;10L;Tapa trasera;Blanco (Arctic White);4,95;;;6
+TC-10L-TAP-COM-AZU;TCL;10L;Tapa trasera;Azul (Mariana Blue);4,95;;;6
+TC-10L-CTR-COM;TCL;10L;Cámara trasera;Compatible;5,45;;;6
+TC-10L-CFR-COM;TCL;10L;Cámara frontal;Compatible;3,45;;;6
+TC-10L-LEN-COM;TCL;10L;Lente de cámara;Compatible;2,25;;;6
+TC-10L-ALT-COM;TCL;10L;Altavoz;Compatible;3,29;;;6
+TC-10L-AUR-COM;TCL;10L;Auricular de llamada;Compatible;2,45;;;6
+TC-10L-FLX-COM;TCL;10L;Flex de encendido y volumen;Compatible;2,35;;;6
+TC-10L-SIM-COM;TCL;10L;Bandeja SIM;Compatible;2,75;;;6
+TC-10P-PAN-INC;TCL;10 Pro;Pantalla;Incell;18,79;18,23;17,66;6
+TC-10P-BAT-COM;TCL;10 Pro;Batería;Compatible;8,25;;;6
+TC-10P-CON-COM;TCL;10 Pro;Conector de carga;Compatible;4,40;;;6
+TC-10P-TAP-COM-VER;TCL;10 Pro;Tapa trasera;Verde (Forest Mist Green);5,55;;;6
+TC-10P-TAP-COM-GRI;TCL;10 Pro;Tapa trasera;Gris (Ember Gray);5,55;;;6
+TC-10P-CTR-COM;TCL;10 Pro;Cámara trasera;Compatible;6,19;;;6
+TC-10P-CFR-COM;TCL;10 Pro;Cámara frontal;Compatible;3,65;;;6
+TC-10P-LEN-COM;TCL;10 Pro;Lente de cámara;Compatible;2,20;;;6
+TC-10P-ALT-COM;TCL;10 Pro;Altavoz;Compatible;3,35;;;6
+TC-10P-AUR-COM;TCL;10 Pro;Auricular de llamada;Compatible;2,40;;;6
+TC-10P-FLX-COM;TCL;10 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+TC-10P-SIM-COM;TCL;10 Pro;Bandeja SIM;Compatible;2,60;;;6
+TC-105-PAN-COM;TCL;10 5G;Pantalla;Compatible;13,80;13,39;12,97;6
+TC-105-BAT-COM;TCL;10 5G;Batería;Compatible;7,60;;;6
+TC-105-CON-COM;TCL;10 5G;Conector de carga;Compatible;3,55;;;6
+TC-105-TAP-COM-AZU;TCL;10 5G;Tapa trasera;Azul (Chrome Blue);4,95;;;6
+TC-105-TAP-COM-GRI;TCL;10 5G;Tapa trasera;Gris (Mercury Gray);4,95;;;6
+TC-105-CTR-COM;TCL;10 5G;Cámara trasera;Compatible;5,45;;;6
+TC-105-CFR-COM;TCL;10 5G;Cámara frontal;Compatible;3,45;;;6
+TC-105-LEN-COM;TCL;10 5G;Lente de cámara;Compatible;2,25;;;6
+TC-105-ALT-COM;TCL;10 5G;Altavoz;Compatible;3,29;;;6
+TC-105-AUR-COM;TCL;10 5G;Auricular de llamada;Compatible;2,45;;;6
+TC-105-FLX-COM;TCL;10 5G;Flex de encendido y volumen;Compatible;2,35;;;6
+TC-105-SIM-COM;TCL;10 5G;Bandeja SIM;Compatible;2,75;;;6
+TC-40NXT5-PAN-COM;TCL;40 NXTPAPER 5G;Pantalla;Compatible;17,15;16,64;16,12;6
+TC-40NXT5-BAT-COM;TCL;40 NXTPAPER 5G;Batería;Compatible;9,40;;;6
+TC-40NXT5-CON-COM;TCL;40 NXTPAPER 5G;Conector de carga;Compatible;5,05;;;6
+TC-40NXT5-TAP-COM-NEG;TCL;40 NXTPAPER 5G;Tapa trasera;Negro (Starlight Black);6,20;;;6
+TC-40NXT5-CTR-COM;TCL;40 NXTPAPER 5G;Cámara trasera;Compatible;8,65;;;6
+TC-40NXT5-CFR-COM;TCL;40 NXTPAPER 5G;Cámara frontal;Compatible;5,35;;;6
+TC-40NXT5-LEN-COM;TCL;40 NXTPAPER 5G;Lente de cámara;Compatible;2,30;;;6
+TC-40NXT5-ALT-COM;TCL;40 NXTPAPER 5G;Altavoz;Compatible;3,60;;;6
+TC-40NXT5-AUR-COM;TCL;40 NXTPAPER 5G;Auricular de llamada;Compatible;2,65;;;6
+TC-40NXT5-FLX-COM;TCL;40 NXTPAPER 5G;Flex de encendido y volumen;Compatible;2,79;;;6
+TC-40NXT5-SIM-COM;TCL;40 NXTPAPER 5G;Bandeja SIM;Compatible;2,55;;;6
+TC-406I-PAN-COM;TCL;406i;Pantalla;Compatible;14,69;14,25;13,81;6
+TC-406I-BAT-COM;TCL;406i;Batería;Compatible;8,69;;;6
+TC-406I-CON-COM;TCL;406i;Conector de carga;Compatible;4,05;;;6
+TC-406I-TAP-COM-NEG;TCL;406i;Tapa trasera;Negro (Midnight Black);5,55;;;6
+TC-406I-CTR-COM;TCL;406i;Cámara trasera;Compatible;7,60;;;6
+TC-406I-CFR-COM;TCL;406i;Cámara frontal;Compatible;5,00;;;6
+TC-406I-LEN-COM;TCL;406i;Lente de cámara;Compatible;2,35;;;6
+TC-406I-ALT-COM;TCL;406i;Altavoz;Compatible;3,55;;;6
+TC-406I-AUR-COM;TCL;406i;Auricular de llamada;Compatible;2,65;;;6
+TC-406I-FLX-COM;TCL;406i;Flex de encendido y volumen;Compatible;2,85;;;6
+TC-406I-SIM-COM;TCL;406i;Bandeja SIM;Compatible;2,69;;;6
+TC-501-PAN-COM;TCL;501;Pantalla;Compatible;14,69;14,25;13,81;6
+TC-501-BAT-COM;TCL;501;Batería;Compatible;8,69;;;6
+TC-501-CON-COM;TCL;501;Conector de carga;Compatible;4,05;;;6
+TC-501-TAP-COM-NEG;TCL;501;Tapa trasera;Negro (Prime Black);5,55;;;6
+TC-501-TAP-COM-AZU;TCL;501;Tapa trasera;Azul (Glacial blue);5,55;;;6
+TC-501-CTR-COM;TCL;501;Cámara trasera;Compatible;7,60;;;6
+TC-501-CFR-COM;TCL;501;Cámara frontal;Compatible;5,00;;;6
+TC-501-LEN-COM;TCL;501;Lente de cámara;Compatible;2,35;;;6
+TC-501-ALT-COM;TCL;501;Altavoz;Compatible;3,55;;;6
+TC-501-AUR-COM;TCL;501;Auricular de llamada;Compatible;2,65;;;6
+TC-501-FLX-COM;TCL;501;Flex de encendido y volumen;Compatible;2,85;;;6
+TC-501-SIM-COM;TCL;501;Bandeja SIM;Compatible;2,69;;;6
+TC-50PNXT5-PAN-COM;TCL;50 PRO NXTPAPER 5G;Pantalla;Compatible;17,15;16,64;16,12;6
+TC-50PNXT5-BAT-COM;TCL;50 PRO NXTPAPER 5G;Batería;Compatible;9,40;;;6
+TC-50PNXT5-CON-COM;TCL;50 PRO NXTPAPER 5G;Conector de carga;Compatible;5,05;;;6
+TC-50PNXT5-TAP-COM-GRI;TCL;50 PRO NXTPAPER 5G;Tapa trasera;Gris (Moon Gray);6,20;;;6
+TC-50PNXT5-TAP-COM-AZU;TCL;50 PRO NXTPAPER 5G;Tapa trasera;Azul (Midnight Blue);6,20;;;6
+TC-50PNXT5-TAP-COM-BLA;TCL;50 PRO NXTPAPER 5G;Tapa trasera;Blanco (Alps White);6,20;;;6
+TC-50PNXT5-TAP-COM-DOR;TCL;50 PRO NXTPAPER 5G;Tapa trasera;Dorado (Pale Gold);6,20;;;6
+TC-50PNXT5-TAP-COM-MOR;TCL;50 PRO NXTPAPER 5G;Tapa trasera;Morado (Rosy Purple);6,20;;;6
+TC-50PNXT5-CTR-COM;TCL;50 PRO NXTPAPER 5G;Cámara trasera;Compatible;8,65;;;6
+TC-50PNXT5-CFR-COM;TCL;50 PRO NXTPAPER 5G;Cámara frontal;Compatible;5,35;;;6
+TC-50PNXT5-LEN-COM;TCL;50 PRO NXTPAPER 5G;Lente de cámara;Compatible;2,30;;;6
+TC-50PNXT5-ALT-COM;TCL;50 PRO NXTPAPER 5G;Altavoz;Compatible;3,60;;;6
+TC-50PNXT5-AUR-COM;TCL;50 PRO NXTPAPER 5G;Auricular de llamada;Compatible;2,65;;;6
+TC-50PNXT5-FLX-COM;TCL;50 PRO NXTPAPER 5G;Flex de encendido y volumen;Compatible;2,79;;;6
+TC-50PNXT5-SIM-COM;TCL;50 PRO NXTPAPER 5G;Bandeja SIM;Compatible;2,55;;;6
+TC-605G-PAN-COM;TCL;60 5G;Pantalla;Compatible;15,45;14,99;14,52;6
+TC-605G-BAT-COM;TCL;60 5G;Batería;Compatible;8,20;;;6
+TC-605G-CON-COM;TCL;60 5G;Conector de carga;Compatible;4,85;;;6
+TC-605G-TAP-COM-GRI;TCL;60 5G;Tapa trasera;Gris espacial;5,95;;;6
+TC-605G-TAP-COM-AZU;TCL;60 5G;Tapa trasera;Azul (Midnight Blue);5,95;;;6
+TC-605G-CTR-COM;TCL;60 5G;Cámara trasera;Compatible;10,45;10,14;9,82;6
+TC-605G-CFR-COM;TCL;60 5G;Cámara frontal;Compatible;7,00;;;6
+TC-605G-LEN-COM;TCL;60 5G;Lente de cámara;Compatible;3,05;;;6
+TC-605G-ALT-COM;TCL;60 5G;Altavoz;Compatible;4,65;;;6
+TC-605G-AUR-COM;TCL;60 5G;Auricular de llamada;Compatible;3,75;;;6
+TC-605G-FLX-COM;TCL;60 5G;Flex de encendido y volumen;Compatible;3,10;;;6
+TC-605G-SIM-COM;TCL;60 5G;Bandeja SIM;Compatible;3,19;;;6
+TC-60NXT-PAN-COM;TCL;60 NXTPAPER;Pantalla;Compatible;18,05;17,51;16,97;6
+TC-60NXT-BAT-COM;TCL;60 NXTPAPER;Batería;Compatible;8,89;;;6
+TC-60NXT-CON-COM;TCL;60 NXTPAPER;Conector de carga;Compatible;6,00;;;6
+TC-60NXT-TAP-COM-NEG;TCL;60 NXTPAPER;Tapa trasera;Negro (Dark Black);6,65;;;6
+TC-60NXT-TAP-COM-BLA;TCL;60 NXTPAPER;Tapa trasera;Blanco (Alps White);6,65;;;6
+TC-60NXT-CTR-COM;TCL;60 NXTPAPER;Cámara trasera;Compatible;11,85;11,49;11,14;6
+TC-60NXT-CFR-COM;TCL;60 NXTPAPER;Cámara frontal;Compatible;7,49;;;6
+TC-60NXT-LEN-COM;TCL;60 NXTPAPER;Lente de cámara;Compatible;2,95;;;6
+TC-60NXT-ALT-COM;TCL;60 NXTPAPER;Altavoz;Compatible;4,75;;;6
+TC-60NXT-AUR-COM;TCL;60 NXTPAPER;Auricular de llamada;Compatible;3,70;;;6
+TC-60NXT-FLX-COM;TCL;60 NXTPAPER;Flex de encendido y volumen;Compatible;3,05;;;6
+TC-60NXT-SIM-COM;TCL;60 NXTPAPER;Bandeja SIM;Compatible;3,00;;;6
+TC-60SENXT5-PAN-COM;TCL;60 SE NXTPAPER 5G;Pantalla;Compatible;18,05;17,51;16,97;6
+TC-60SENXT5-BAT-COM;TCL;60 SE NXTPAPER 5G;Batería;Compatible;8,89;;;6
+TC-60SENXT5-CON-COM;TCL;60 SE NXTPAPER 5G;Conector de carga;Compatible;6,00;;;6
+TC-60SENXT5-TAP-COM-GRI;TCL;60 SE NXTPAPER 5G;Tapa trasera;Gris espacial;6,65;;;6
+TC-60SENXT5-TAP-COM-AZU;TCL;60 SE NXTPAPER 5G;Tapa trasera;Azul (Midnight Blue);6,65;;;6
+TC-60SENXT5-CTR-COM;TCL;60 SE NXTPAPER 5G;Cámara trasera;Compatible;11,85;11,49;11,14;6
+TC-60SENXT5-CFR-COM;TCL;60 SE NXTPAPER 5G;Cámara frontal;Compatible;7,49;;;6
+TC-60SENXT5-LEN-COM;TCL;60 SE NXTPAPER 5G;Lente de cámara;Compatible;2,95;;;6
+TC-60SENXT5-ALT-COM;TCL;60 SE NXTPAPER 5G;Altavoz;Compatible;4,75;;;6
+TC-60SENXT5-AUR-COM;TCL;60 SE NXTPAPER 5G;Auricular de llamada;Compatible;3,70;;;6
+TC-60SENXT5-FLX-COM;TCL;60 SE NXTPAPER 5G;Flex de encendido y volumen;Compatible;3,05;;;6
+TC-60SENXT5-SIM-COM;TCL;60 SE NXTPAPER 5G;Bandeja SIM;Compatible;3,00;;;6
+TC-60R5-PAN-COM;TCL;60R 5G;Pantalla;Compatible;15,45;14,99;14,52;6
+TC-60R5-BAT-COM;TCL;60R 5G;Batería;Compatible;8,20;;;6
+TC-60R5-CON-COM;TCL;60R 5G;Conector de carga;Compatible;4,85;;;6
+TC-60R5-TAP-COM-GRI;TCL;60R 5G;Tapa trasera;Gris espacial;5,95;;;6
+TC-60R5-TAP-COM-BLA;TCL;60R 5G;Tapa trasera;Blanco (Pure White);5,95;;;6
+TC-60R5-CTR-COM;TCL;60R 5G;Cámara trasera;Compatible;10,45;10,14;9,82;6
+TC-60R5-CFR-COM;TCL;60R 5G;Cámara frontal;Compatible;7,00;;;6
+TC-60R5-LEN-COM;TCL;60R 5G;Lente de cámara;Compatible;3,05;;;6
+TC-60R5-ALT-COM;TCL;60R 5G;Altavoz;Compatible;4,65;;;6
+TC-60R5-AUR-COM;TCL;60R 5G;Auricular de llamada;Compatible;3,75;;;6
+TC-60R5-FLX-COM;TCL;60R 5G;Flex de encendido y volumen;Compatible;3,10;;;6
+TC-60R5-SIM-COM;TCL;60R 5G;Bandeja SIM;Compatible;3,19;;;6
+TC-NXT60U-PAN-COM;TCL;NXTPAPER 60 Ultra;Pantalla;Compatible;19,85;19,25;18,66;6
+TC-NXT60U-BAT-COM;TCL;NXTPAPER 60 Ultra;Batería;Compatible;8,89;;;6
+TC-NXT60U-CON-COM;TCL;NXTPAPER 60 Ultra;Conector de carga;Compatible;6,00;;;6
+TC-NXT60U-TAP-COM-BLA;TCL;NXTPAPER 60 Ultra;Tapa trasera;Blanco (Lunar White);6,65;;;6
+TC-NXT60U-TAP-COM-NEG;TCL;NXTPAPER 60 Ultra;Tapa trasera;Negro (Nebula Black);6,65;;;6
+TC-NXT60U-CTR-COM;TCL;NXTPAPER 60 Ultra;Cámara trasera;Compatible;11,85;11,49;11,14;6
+TC-NXT60U-CFR-COM;TCL;NXTPAPER 60 Ultra;Cámara frontal;Compatible;7,49;;;6
+TC-NXT60U-LEN-COM;TCL;NXTPAPER 60 Ultra;Lente de cámara;Compatible;2,95;;;6
+TC-NXT60U-ALT-COM;TCL;NXTPAPER 60 Ultra;Altavoz;Compatible;4,75;;;6
+TC-NXT60U-AUR-COM;TCL;NXTPAPER 60 Ultra;Auricular de llamada;Compatible;3,70;;;6
+TC-NXT60U-FLX-COM;TCL;NXTPAPER 60 Ultra;Flex de encendido y volumen;Compatible;3,05;;;6
+TC-NXT60U-SIM-COM;TCL;NXTPAPER 60 Ultra;Bandeja SIM;Compatible;3,00;;;6
+TC-K704-PAN-COM;TCL;K70 4G;Pantalla;Compatible;15,45;14,99;14,52;6
+TC-K704-BAT-COM;TCL;K70 4G;Batería;Compatible;8,20;;;6
+TC-K704-CON-COM;TCL;K70 4G;Conector de carga;Compatible;4,85;;;6
+TC-K704-TAP-COM-NEG;TCL;K70 4G;Tapa trasera;Negro (Midnight Black);5,95;;;6
+TC-K704-TAP-COM-AZU;TCL;K70 4G;Tapa trasera;Azul (Stardust Blue);5,95;;;6
+TC-K704-CTR-COM;TCL;K70 4G;Cámara trasera;Compatible;10,45;10,14;9,82;6
+TC-K704-CFR-COM;TCL;K70 4G;Cámara frontal;Compatible;7,00;;;6
+TC-K704-LEN-COM;TCL;K70 4G;Lente de cámara;Compatible;3,05;;;6
+TC-K704-ALT-COM;TCL;K70 4G;Altavoz;Compatible;4,65;;;6
+TC-K704-AUR-COM;TCL;K70 4G;Auricular de llamada;Compatible;3,75;;;6
+TC-K704-FLX-COM;TCL;K70 4G;Flex de encendido y volumen;Compatible;3,10;;;6
+TC-K704-SIM-COM;TCL;K70 4G;Bandeja SIM;Compatible;3,19;;;6
+TC-K70PW4-PAN-COM;TCL;K70 Power 4G;Pantalla;Compatible;15,45;14,99;14,52;6
+TC-K70PW4-BAT-COM;TCL;K70 Power 4G;Batería;Compatible;8,20;;;6
+TC-K70PW4-CON-COM;TCL;K70 Power 4G;Conector de carga;Compatible;4,85;;;6
+TC-K70PW4-TAP-COM-AZU;TCL;K70 Power 4G;Tapa trasera;Azul (Nebula Blue);5,95;;;6
+TC-K70PW4-TAP-COM-GRI;TCL;K70 Power 4G;Tapa trasera;Gris espacial;5,95;;;6
+TC-K70PW4-CTR-COM;TCL;K70 Power 4G;Cámara trasera;Compatible;10,45;10,14;9,82;6
+TC-K70PW4-CFR-COM;TCL;K70 Power 4G;Cámara frontal;Compatible;7,00;;;6
+TC-K70PW4-LEN-COM;TCL;K70 Power 4G;Lente de cámara;Compatible;3,05;;;6
+TC-K70PW4-ALT-COM;TCL;K70 Power 4G;Altavoz;Compatible;4,65;;;6
+TC-K70PW4-AUR-COM;TCL;K70 Power 4G;Auricular de llamada;Compatible;3,75;;;6
+TC-K70PW4-FLX-COM;TCL;K70 Power 4G;Flex de encendido y volumen;Compatible;3,10;;;6
+TC-K70PW4-SIM-COM;TCL;K70 Power 4G;Bandeja SIM;Compatible;3,19;;;6
+TC-K70SE-PAN-COM;TCL;K70 SE;Pantalla;Compatible;15,45;14,99;14,52;6
+TC-K70SE-BAT-COM;TCL;K70 SE;Batería;Compatible;8,20;;;6
+TC-K70SE-CON-COM;TCL;K70 SE;Conector de carga;Compatible;4,85;;;6
+TC-K70SE-TAP-COM-NEG;TCL;K70 SE;Tapa trasera;Negro (Indigo Black);5,95;;;6
+TC-K70SE-CTR-COM;TCL;K70 SE;Cámara trasera;Compatible;10,45;10,14;9,82;6
+TC-K70SE-CFR-COM;TCL;K70 SE;Cámara frontal;Compatible;7,00;;;6
+TC-K70SE-LEN-COM;TCL;K70 SE;Lente de cámara;Compatible;3,05;;;6
+TC-K70SE-ALT-COM;TCL;K70 SE;Altavoz;Compatible;4,65;;;6
+TC-K70SE-AUR-COM;TCL;K70 SE;Auricular de llamada;Compatible;3,75;;;6
+TC-K70SE-FLX-COM;TCL;K70 SE;Flex de encendido y volumen;Compatible;3,10;;;6
+TC-K70SE-SIM-COM;TCL;K70 SE;Bandeja SIM;Compatible;3,19;;;6
+TC-NXT70P-PAN-COM;TCL;NXTPAPER 70 Pro;Pantalla;Compatible;18,05;17,51;16,97;6
+TC-NXT70P-BAT-COM;TCL;NXTPAPER 70 Pro;Batería;Compatible;8,89;;;6
+TC-NXT70P-CON-COM;TCL;NXTPAPER 70 Pro;Conector de carga;Compatible;6,00;;;6
+TC-NXT70P-TAP-COM-DOR;TCL;NXTPAPER 70 Pro;Tapa trasera;Dorado (Nebula Gold);6,65;;;6
+TC-NXT70P-TAP-COM-AZU;TCL;NXTPAPER 70 Pro;Tapa trasera;Azul (Stellar Blue);6,65;;;6
+TC-NXT70P-CTR-COM;TCL;NXTPAPER 70 Pro;Cámara trasera;Compatible;11,85;11,49;11,14;6
+TC-NXT70P-CFR-COM;TCL;NXTPAPER 70 Pro;Cámara frontal;Compatible;7,49;;;6
+TC-NXT70P-LEN-COM;TCL;NXTPAPER 70 Pro;Lente de cámara;Compatible;2,95;;;6
+TC-NXT70P-ALT-COM;TCL;NXTPAPER 70 Pro;Altavoz;Compatible;4,75;;;6
+TC-NXT70P-AUR-COM;TCL;NXTPAPER 70 Pro;Auricular de llamada;Compatible;3,70;;;6
+TC-NXT70P-FLX-COM;TCL;NXTPAPER 70 Pro;Flex de encendido y volumen;Compatible;3,05;;;6
+TC-NXT70P-SIM-COM;TCL;NXTPAPER 70 Pro;Bandeja SIM;Compatible;3,00;;;6
+TC-K705-PAN-COM;TCL;K70 5G;Pantalla;Compatible;15,45;14,99;14,52;6
+TC-K705-BAT-COM;TCL;K70 5G;Batería;Compatible;8,20;;;6
+TC-K705-CON-COM;TCL;K70 5G;Conector de carga;Compatible;4,85;;;6
+TC-K705-TAP-COM-NEG;TCL;K70 5G;Tapa trasera;Negro (Midnight Black);5,95;;;6
+TC-K705-TAP-COM-AZU;TCL;K70 5G;Tapa trasera;Azul (Stardust Blue);5,95;;;6
+TC-K705-CTR-COM;TCL;K70 5G;Cámara trasera;Compatible;10,45;10,14;9,82;6
+TC-K705-CFR-COM;TCL;K70 5G;Cámara frontal;Compatible;7,00;;;6
+TC-K705-LEN-COM;TCL;K70 5G;Lente de cámara;Compatible;3,05;;;6
+TC-K705-ALT-COM;TCL;K70 5G;Altavoz;Compatible;4,65;;;6
+TC-K705-AUR-COM;TCL;K70 5G;Auricular de llamada;Compatible;3,75;;;6
+TC-K705-FLX-COM;TCL;K70 5G;Flex de encendido y volumen;Compatible;3,10;;;6
+TC-K705-SIM-COM;TCL;K70 5G;Bandeja SIM;Compatible;3,19;;;6
+TC-P80-PAN-INC;TCL;P80;Pantalla;Incell;18,05;17,51;16,97;6
+TC-P80-BAT-COM;TCL;P80;Batería;Compatible;8,20;;;6
+TC-P80-CON-COM;TCL;P80;Conector de carga;Compatible;4,85;;;6
+TC-P80-TAP-COM-DOR;TCL;P80;Tapa trasera;Dorado (Sunlit Gold);5,95;;;6
+TC-P80-TAP-COM-AZU;TCL;P80;Tapa trasera;Azul (Midnight Blue);5,95;;;6
+TC-P80-CTR-COM;TCL;P80;Cámara trasera;Compatible;10,45;10,14;9,82;6
+TC-P80-CFR-COM;TCL;P80;Cámara frontal;Compatible;7,00;;;6
+TC-P80-LEN-COM;TCL;P80;Lente de cámara;Compatible;3,05;;;6
+TC-P80-ALT-COM;TCL;P80;Altavoz;Compatible;4,65;;;6
+TC-P80-AUR-COM;TCL;P80;Auricular de llamada;Compatible;3,75;;;6
+TC-P80-FLX-COM;TCL;P80;Flex de encendido y volumen;Compatible;3,10;;;6
+TC-P80-SIM-COM;TCL;P80;Bandeja SIM;Compatible;3,19;;;6
+TC-P80P-PAN-INC;TCL;P80 Pro;Pantalla;Incell;20,45;19,84;19,22;6
+TC-P80P-BAT-COM;TCL;P80 Pro;Batería;Compatible;8,55;;;6
+TC-P80P-CON-COM;TCL;P80 Pro;Conector de carga;Compatible;6,00;;;6
+TC-P80P-TAP-COM-DOR;TCL;P80 Pro;Tapa trasera;Dorado (Sunlit Gold);6,29;;;6
+TC-P80P-TAP-COM-AZU;TCL;P80 Pro;Tapa trasera;Azul (Midnight Blue);6,29;;;6
+TC-P80P-CTR-COM;TCL;P80 Pro;Cámara trasera;Compatible;11,15;10,82;10,48;6
+TC-P80P-CFR-COM;TCL;P80 Pro;Cámara frontal;Compatible;7,49;;;6
+TC-P80P-LEN-COM;TCL;P80 Pro;Lente de cámara;Compatible;2,95;;;6
+TC-P80P-ALT-COM;TCL;P80 Pro;Altavoz;Compatible;4,75;;;6
+TC-P80P-AUR-COM;TCL;P80 Pro;Auricular de llamada;Compatible;3,70;;;6
+TC-P80P-FLX-COM;TCL;P80 Pro;Flex de encendido y volumen;Compatible;3,05;;;6
+TC-P80P-SIM-COM;TCL;P80 Pro;Bandeja SIM;Compatible;3,00;;;6
+TC-P80U-PAN-INC;TCL;P80 Ultra;Pantalla;Incell;20,45;19,84;19,22;6
+TC-P80U-BAT-COM;TCL;P80 Ultra;Batería;Compatible;8,55;;;6
+TC-P80U-CON-COM;TCL;P80 Ultra;Conector de carga;Compatible;4,85;;;6
+TC-P80U-TAP-COM-DOR;TCL;P80 Ultra;Tapa trasera;Dorado (Sunlit Gold);6,29;;;6
+TC-P80U-TAP-COM-AZU;TCL;P80 Ultra;Tapa trasera;Azul (Midnight Blue);6,29;;;6
+TC-P80U-TAP-COM-BUR;TCL;P80 Ultra;Tapa trasera;Burdeos;6,29;;;6
+TC-P80U-CTR-COM;TCL;P80 Ultra;Cámara trasera;Compatible;11,15;10,82;10,48;6
+TC-P80U-CFR-COM;TCL;P80 Ultra;Cámara frontal;Compatible;7,00;;;6
+TC-P80U-LEN-COM;TCL;P80 Ultra;Lente de cámara;Compatible;3,05;;;6
+TC-P80U-ALT-COM;TCL;P80 Ultra;Altavoz;Compatible;4,65;;;6
+TC-P80U-AUR-COM;TCL;P80 Ultra;Auricular de llamada;Compatible;3,75;;;6
+TC-P80U-FLX-COM;TCL;P80 Ultra;Flex de encendido y volumen;Compatible;3,10;;;6
+TC-P80U-SIM-COM;TCL;P80 Ultra;Bandeja SIM;Compatible;3,19;;;6
+TC-205-PRO-NA;TCL;20 5G;Cristal templado;Estándar;1,30;;;
+TC-205-PRO-PRI;TCL;20 5G;Cristal templado;Privacidad;4,00;;;
+TC-205-FUN-SIL;TCL;20 5G;Funda;Silicona;2,50;;;
+TC-205-FUN-TPU;TCL;20 5G;Funda;Transparente;2,95;;;
+TC-205-FUN-LIB;TCL;20 5G;Funda;Libro;3,70;;;
+TC-205-FUN-ANT;TCL;20 5G;Funda;Antigolpes;3,10;;;
+TC-205-PCA-NA;TCL;20 5G;Protector de cámara;Cristal;2,90;;;
+TC-20L-PRO-NA;TCL;20L;Cristal templado;Estándar;1,30;;;
+TC-20L-PRO-PRI;TCL;20L;Cristal templado;Privacidad;4,00;;;
+TC-20L-FUN-SIL;TCL;20L;Funda;Silicona;2,50;;;
+TC-20L-FUN-TPU;TCL;20L;Funda;Transparente;2,95;;;
+TC-20L-FUN-LIB;TCL;20L;Funda;Libro;3,70;;;
+TC-20L-FUN-ANT;TCL;20L;Funda;Antigolpes;3,10;;;
+TC-20L-PCA-NA;TCL;20L;Protector de cámara;Cristal;2,90;;;
+TC-20LPL-PRO-NA;TCL;20L+;Cristal templado;Estándar;1,30;;;
+TC-20LPL-PRO-PRI;TCL;20L+;Cristal templado;Privacidad;4,00;;;
+TC-20LPL-FUN-SIL;TCL;20L+;Funda;Silicona;2,50;;;
+TC-20LPL-FUN-TPU;TCL;20L+;Funda;Transparente;2,95;;;
+TC-20LPL-FUN-LIB;TCL;20L+;Funda;Libro;3,70;;;
+TC-20LPL-FUN-ANT;TCL;20L+;Funda;Antigolpes;3,10;;;
+TC-20LPL-PCA-NA;TCL;20L+;Protector de cámara;Cristal;2,90;;;
+TC-20P5-PRO-NA;TCL;20 Pro 5G;Cristal templado;Estándar;1,30;;;
+TC-20P5-PRO-PRI;TCL;20 Pro 5G;Cristal templado;Privacidad;4,00;;;
+TC-20P5-FUN-SIL;TCL;20 Pro 5G;Funda;Silicona;2,50;;;
+TC-20P5-FUN-TPU;TCL;20 Pro 5G;Funda;Transparente;2,95;;;
+TC-20P5-FUN-LIB;TCL;20 Pro 5G;Funda;Libro;3,70;;;
+TC-20P5-FUN-ANT;TCL;20 Pro 5G;Funda;Antigolpes;3,10;;;
+TC-20P5-PCA-NA;TCL;20 Pro 5G;Protector de cámara;Cristal;2,90;;;
+TC-20SE-PRO-NA;TCL;20 SE;Cristal templado;Estándar;1,30;;;
+TC-20SE-PRO-PRI;TCL;20 SE;Cristal templado;Privacidad;4,00;;;
+TC-20SE-FUN-SIL;TCL;20 SE;Funda;Silicona;2,50;;;
+TC-20SE-FUN-TPU;TCL;20 SE;Funda;Transparente;2,95;;;
+TC-20SE-FUN-LIB;TCL;20 SE;Funda;Libro;3,70;;;
+TC-20SE-FUN-ANT;TCL;20 SE;Funda;Antigolpes;3,10;;;
+TC-20SE-PCA-NA;TCL;20 SE;Protector de cámara;Cristal;2,90;;;
+TC-20R5-PRO-NA;TCL;20 R 5G;Cristal templado;Estándar;1,30;;;
+TC-20R5-PRO-PRI;TCL;20 R 5G;Cristal templado;Privacidad;4,00;;;
+TC-20R5-FUN-SIL;TCL;20 R 5G;Funda;Silicona;2,50;;;
+TC-20R5-FUN-TPU;TCL;20 R 5G;Funda;Transparente;2,95;;;
+TC-20R5-FUN-LIB;TCL;20 R 5G;Funda;Libro;3,70;;;
+TC-20R5-FUN-ANT;TCL;20 R 5G;Funda;Antigolpes;3,10;;;
+TC-20R5-PCA-NA;TCL;20 R 5G;Protector de cámara;Cristal;2,90;;;
+TC-2052-PRO-NA;TCL;205;Cristal templado;Estándar;1,30;;;
+TC-2052-PRO-PRI;TCL;205;Cristal templado;Privacidad;4,00;;;
+TC-2052-FUN-SIL;TCL;205;Funda;Silicona;2,50;;;
+TC-2052-FUN-TPU;TCL;205;Funda;Transparente;2,95;;;
+TC-2052-FUN-LIB;TCL;205;Funda;Libro;3,70;;;
+TC-2052-FUN-ANT;TCL;205;Funda;Antigolpes;3,10;;;
+TC-2052-PCA-NA;TCL;205;Protector de cámara;Cristal;2,90;;;
+TC-30-PRO-NA;TCL;30;Cristal templado;Estándar;1,30;;;
+TC-30-PRO-PRI;TCL;30;Cristal templado;Privacidad;4,00;;;
+TC-30-FUN-SIL;TCL;30;Funda;Silicona;2,50;;;
+TC-30-FUN-TPU;TCL;30;Funda;Transparente;2,95;;;
+TC-30-FUN-LIB;TCL;30;Funda;Libro;3,70;;;
+TC-30-FUN-ANT;TCL;30;Funda;Antigolpes;3,10;;;
+TC-30-PCA-NA;TCL;30;Protector de cámara;Cristal;2,90;;;
+TC-30PL-PRO-NA;TCL;30+;Cristal templado;Estándar;1,30;;;
+TC-30PL-PRO-PRI;TCL;30+;Cristal templado;Privacidad;4,00;;;
+TC-30PL-FUN-SIL;TCL;30+;Funda;Silicona;2,50;;;
+TC-30PL-FUN-TPU;TCL;30+;Funda;Transparente;2,95;;;
+TC-30PL-FUN-LIB;TCL;30+;Funda;Libro;3,70;;;
+TC-30PL-FUN-ANT;TCL;30+;Funda;Antigolpes;3,10;;;
+TC-30PL-PCA-NA;TCL;30+;Protector de cámara;Cristal;2,90;;;
+TC-30SE-PRO-NA;TCL;30 SE;Cristal templado;Estándar;1,30;;;
+TC-30SE-PRO-PRI;TCL;30 SE;Cristal templado;Privacidad;4,00;;;
+TC-30SE-FUN-SIL;TCL;30 SE;Funda;Silicona;2,50;;;
+TC-30SE-FUN-TPU;TCL;30 SE;Funda;Transparente;2,95;;;
+TC-30SE-FUN-LIB;TCL;30 SE;Funda;Libro;3,70;;;
+TC-30SE-FUN-ANT;TCL;30 SE;Funda;Antigolpes;3,10;;;
+TC-30SE-PCA-NA;TCL;30 SE;Protector de cámara;Cristal;2,90;;;
+TC-305-PRO-NA;TCL;30 5G;Cristal templado;Estándar;1,30;;;
+TC-305-PRO-PRI;TCL;30 5G;Cristal templado;Privacidad;4,00;;;
+TC-305-FUN-SIL;TCL;30 5G;Funda;Silicona;2,50;;;
+TC-305-FUN-TPU;TCL;30 5G;Funda;Transparente;2,95;;;
+TC-305-FUN-LIB;TCL;30 5G;Funda;Libro;3,70;;;
+TC-305-FUN-ANT;TCL;30 5G;Funda;Antigolpes;3,10;;;
+TC-305-PCA-NA;TCL;30 5G;Protector de cámara;Cristal;2,90;;;
+TC-30E-PRO-NA;TCL;30E;Cristal templado;Estándar;1,30;;;
+TC-30E-PRO-PRI;TCL;30E;Cristal templado;Privacidad;4,00;;;
+TC-30E-FUN-SIL;TCL;30E;Funda;Silicona;2,50;;;
+TC-30E-FUN-TPU;TCL;30E;Funda;Transparente;2,95;;;
+TC-30E-FUN-LIB;TCL;30E;Funda;Libro;3,70;;;
+TC-30E-FUN-ANT;TCL;30E;Funda;Antigolpes;3,10;;;
+TC-30E-PCA-NA;TCL;30E;Protector de cámara;Cristal;2,90;;;
+TC-306-PRO-NA;TCL;306;Cristal templado;Estándar;1,30;;;
+TC-306-PRO-PRI;TCL;306;Cristal templado;Privacidad;4,00;;;
+TC-306-FUN-SIL;TCL;306;Funda;Silicona;2,50;;;
+TC-306-FUN-TPU;TCL;306;Funda;Transparente;2,95;;;
+TC-306-FUN-LIB;TCL;306;Funda;Libro;3,70;;;
+TC-306-FUN-ANT;TCL;306;Funda;Antigolpes;3,10;;;
+TC-306-PCA-NA;TCL;306;Protector de cámara;Cristal;2,90;;;
+TC-305I-PRO-NA;TCL;305i;Cristal templado;Estándar;1,30;;;
+TC-305I-PRO-PRI;TCL;305i;Cristal templado;Privacidad;4,00;;;
+TC-305I-FUN-SIL;TCL;305i;Funda;Silicona;2,50;;;
+TC-305I-FUN-TPU;TCL;305i;Funda;Transparente;2,95;;;
+TC-305I-FUN-LIB;TCL;305i;Funda;Libro;3,70;;;
+TC-305I-FUN-ANT;TCL;305i;Funda;Antigolpes;3,10;;;
+TC-40SE-PRO-NA;TCL;40 SE;Cristal templado;Estándar;1,30;;;
+TC-40SE-PRO-PRI;TCL;40 SE;Cristal templado;Privacidad;4,00;;;
+TC-40SE-FUN-SIL;TCL;40 SE;Funda;Silicona;2,50;;;
+TC-40SE-FUN-TPU;TCL;40 SE;Funda;Transparente;2,95;;;
+TC-40SE-FUN-LIB;TCL;40 SE;Funda;Libro;3,70;;;
+TC-40SE-FUN-ANT;TCL;40 SE;Funda;Antigolpes;3,10;;;
+TC-40R5-PRO-NA;TCL;40 R 5G;Cristal templado;Estándar;1,30;;;
+TC-40R5-PRO-PRI;TCL;40 R 5G;Cristal templado;Privacidad;4,00;;;
+TC-40R5-FUN-SIL;TCL;40 R 5G;Funda;Silicona;2,50;;;
+TC-40R5-FUN-TPU;TCL;40 R 5G;Funda;Transparente;2,95;;;
+TC-40R5-FUN-LIB;TCL;40 R 5G;Funda;Libro;3,70;;;
+TC-40R5-FUN-ANT;TCL;40 R 5G;Funda;Antigolpes;3,10;;;
+TC-403-PRO-NA;TCL;403;Cristal templado;Estándar;1,30;;;
+TC-403-PRO-PRI;TCL;403;Cristal templado;Privacidad;4,00;;;
+TC-403-FUN-SIL;TCL;403;Funda;Silicona;2,50;;;
+TC-403-FUN-TPU;TCL;403;Funda;Transparente;2,95;;;
+TC-403-FUN-LIB;TCL;403;Funda;Libro;3,70;;;
+TC-403-FUN-ANT;TCL;403;Funda;Antigolpes;3,10;;;
+TC-408-PRO-NA;TCL;408;Cristal templado;Estándar;1,30;;;
+TC-408-PRO-PRI;TCL;408;Cristal templado;Privacidad;4,00;;;
+TC-408-FUN-SIL;TCL;408;Funda;Silicona;2,50;;;
+TC-408-FUN-TPU;TCL;408;Funda;Transparente;2,95;;;
+TC-408-FUN-LIB;TCL;408;Funda;Libro;3,70;;;
+TC-408-FUN-ANT;TCL;408;Funda;Antigolpes;3,10;;;
+TC-408-PCA-NA;TCL;408;Protector de cámara;Cristal;2,90;;;
+TC-406-PRO-NA;TCL;406;Cristal templado;Estándar;1,30;;;
+TC-406-PRO-PRI;TCL;406;Cristal templado;Privacidad;4,00;;;
+TC-406-FUN-SIL;TCL;406;Funda;Silicona;2,50;;;
+TC-406-FUN-TPU;TCL;406;Funda;Transparente;2,95;;;
+TC-406-FUN-LIB;TCL;406;Funda;Libro;3,70;;;
+TC-406-FUN-ANT;TCL;406;Funda;Antigolpes;3,10;;;
+TC-406-PCA-NA;TCL;406;Protector de cámara;Cristal;2,90;;;
+TC-405-PRO-NA;TCL;405;Cristal templado;Estándar;1,30;;;
+TC-405-PRO-PRI;TCL;405;Cristal templado;Privacidad;4,00;;;
+TC-405-FUN-SIL;TCL;405;Funda;Silicona;2,50;;;
+TC-405-FUN-TPU;TCL;405;Funda;Transparente;2,95;;;
+TC-405-FUN-LIB;TCL;405;Funda;Libro;3,70;;;
+TC-405-FUN-ANT;TCL;405;Funda;Antigolpes;3,10;;;
+TC-405-PCA-NA;TCL;405;Protector de cámara;Cristal;2,90;;;
+TC-40NXT-PRO-NA;TCL;40 NXTPAPER;Cristal templado;Estándar;1,30;;;
+TC-40NXT-PRO-PRI;TCL;40 NXTPAPER;Cristal templado;Privacidad;4,00;;;
+TC-40NXT-FUN-SIL;TCL;40 NXTPAPER;Funda;Silicona;2,50;;;
+TC-40NXT-FUN-TPU;TCL;40 NXTPAPER;Funda;Transparente;2,95;;;
+TC-40NXT-FUN-LIB;TCL;40 NXTPAPER;Funda;Libro;3,70;;;
+TC-40NXT-FUN-ANT;TCL;40 NXTPAPER;Funda;Antigolpes;3,10;;;
+TC-50SE-PRO-NA;TCL;50 SE;Cristal templado;Estándar;1,30;;;
+TC-50SE-PRO-PRI;TCL;50 SE;Cristal templado;Privacidad;4,00;;;
+TC-50SE-FUN-SIL;TCL;50 SE;Funda;Silicona;2,50;;;
+TC-50SE-FUN-TPU;TCL;50 SE;Funda;Transparente;2,95;;;
+TC-50SE-FUN-LIB;TCL;50 SE;Funda;Libro;3,70;;;
+TC-50SE-FUN-ANT;TCL;50 SE;Funda;Antigolpes;3,10;;;
+TC-50SE-PCA-NA;TCL;50 SE;Protector de cámara;Cristal;2,90;;;
+TC-505-PRO-NA;TCL;505;Cristal templado;Estándar;1,30;;;
+TC-505-PRO-PRI;TCL;505;Cristal templado;Privacidad;4,00;;;
+TC-505-FUN-SIL;TCL;505;Funda;Silicona;2,50;;;
+TC-505-FUN-TPU;TCL;505;Funda;Transparente;2,95;;;
+TC-505-FUN-LIB;TCL;505;Funda;Libro;3,70;;;
+TC-505-FUN-ANT;TCL;505;Funda;Antigolpes;3,10;;;
+TC-505-PCA-NA;TCL;505;Protector de cámara;Cristal;2,90;;;
+TC-505G-PRO-NA;TCL;50 5G;Cristal templado;Estándar;1,30;;;
+TC-505G-PRO-PRI;TCL;50 5G;Cristal templado;Privacidad;4,00;;;
+TC-505G-FUN-SIL;TCL;50 5G;Funda;Silicona;2,50;;;
+TC-505G-FUN-TPU;TCL;50 5G;Funda;Transparente;2,95;;;
+TC-505G-FUN-LIB;TCL;50 5G;Funda;Libro;3,70;;;
+TC-505G-FUN-ANT;TCL;50 5G;Funda;Antigolpes;3,10;;;
+TC-505G-PCA-NA;TCL;50 5G;Protector de cámara;Cristal;2,90;;;
+TC-50NXT5-PRO-NA;TCL;50 NXTPAPER 5G;Cristal templado;Estándar;1,30;;;
+TC-50NXT5-PRO-PRI;TCL;50 NXTPAPER 5G;Cristal templado;Privacidad;4,00;;;
+TC-50NXT5-FUN-SIL;TCL;50 NXTPAPER 5G;Funda;Silicona;2,50;;;
+TC-50NXT5-FUN-TPU;TCL;50 NXTPAPER 5G;Funda;Transparente;2,95;;;
+TC-50NXT5-FUN-LIB;TCL;50 NXTPAPER 5G;Funda;Libro;3,70;;;
+TC-50NXT5-FUN-ANT;TCL;50 NXTPAPER 5G;Funda;Antigolpes;3,10;;;
+TC-60SE-PRO-NA;TCL;60 SE;Cristal templado;Estándar;1,30;;;
+TC-60SE-PRO-PRI;TCL;60 SE;Cristal templado;Privacidad;4,00;;;
+TC-60SE-FUN-SIL;TCL;60 SE;Funda;Silicona;2,50;;;
+TC-60SE-FUN-TPU;TCL;60 SE;Funda;Transparente;2,95;;;
+TC-60SE-FUN-LIB;TCL;60 SE;Funda;Libro;3,70;;;
+TC-60SE-FUN-ANT;TCL;60 SE;Funda;Antigolpes;3,10;;;
+TC-605-PRO-NA;TCL;605;Cristal templado;Estándar;1,30;;;
+TC-605-PRO-PRI;TCL;605;Cristal templado;Privacidad;4,00;;;
+TC-605-FUN-SIL;TCL;605;Funda;Silicona;2,50;;;
+TC-605-FUN-TPU;TCL;605;Funda;Transparente;2,95;;;
+TC-605-FUN-LIB;TCL;605;Funda;Libro;3,70;;;
+TC-605-FUN-ANT;TCL;605;Funda;Antigolpes;3,10;;;
+TC-10PL-PRO-NA;TCL;10 Plus;Cristal templado;Estándar;1,30;;;
+TC-10PL-PRO-PRI;TCL;10 Plus;Cristal templado;Privacidad;4,00;;;
+TC-10PL-FUN-SIL;TCL;10 Plus;Funda;Silicona;2,50;;;
+TC-10PL-FUN-TPU;TCL;10 Plus;Funda;Transparente;2,95;;;
+TC-10PL-FUN-LIB;TCL;10 Plus;Funda;Libro;3,70;;;
+TC-10PL-FUN-ANT;TCL;10 Plus;Funda;Antigolpes;3,10;;;
+TC-10SE-PRO-NA;TCL;10 SE;Cristal templado;Estándar;1,30;;;
+TC-10SE-PRO-PRI;TCL;10 SE;Cristal templado;Privacidad;4,00;;;
+TC-10SE-FUN-SIL;TCL;10 SE;Funda;Silicona;2,50;;;
+TC-10SE-FUN-TPU;TCL;10 SE;Funda;Transparente;2,95;;;
+TC-10SE-FUN-LIB;TCL;10 SE;Funda;Libro;3,70;;;
+TC-10SE-FUN-ANT;TCL;10 SE;Funda;Antigolpes;3,10;;;
+TC-P-PRO-NA;TCL;Plex;Cristal templado;Estándar;1,30;;;
+TC-P-PRO-PRI;TCL;Plex;Cristal templado;Privacidad;4,00;;;
+TC-P-FUN-SIL;TCL;Plex;Funda;Silicona;2,50;;;
+TC-P-FUN-TPU;TCL;Plex;Funda;Transparente;2,95;;;
+TC-P-FUN-LIB;TCL;Plex;Funda;Libro;3,70;;;
+TC-P-FUN-ANT;TCL;Plex;Funda;Antigolpes;3,10;;;
+TC-10L-PRO-NA;TCL;10L;Cristal templado;Estándar;1,30;;;
+TC-10L-PRO-PRI;TCL;10L;Cristal templado;Privacidad;4,00;;;
+TC-10L-FUN-SIL;TCL;10L;Funda;Silicona;2,50;;;
+TC-10L-FUN-TPU;TCL;10L;Funda;Transparente;2,95;;;
+TC-10L-FUN-LIB;TCL;10L;Funda;Libro;3,70;;;
+TC-10L-FUN-ANT;TCL;10L;Funda;Antigolpes;3,10;;;
+TC-10L-PCA-NA;TCL;10L;Protector de cámara;Cristal;2,90;;;
+TC-10P-PRO-NA;TCL;10 Pro;Cristal templado;Estándar;1,30;;;
+TC-10P-PRO-PRI;TCL;10 Pro;Cristal templado;Privacidad;4,00;;;
+TC-10P-FUN-SIL;TCL;10 Pro;Funda;Silicona;2,50;;;
+TC-10P-FUN-TPU;TCL;10 Pro;Funda;Transparente;2,95;;;
+TC-10P-FUN-LIB;TCL;10 Pro;Funda;Libro;3,70;;;
+TC-10P-FUN-ANT;TCL;10 Pro;Funda;Antigolpes;3,10;;;
+TC-10P-PCA-NA;TCL;10 Pro;Protector de cámara;Cristal;2,90;;;
+TC-105-PRO-NA;TCL;10 5G;Cristal templado;Estándar;1,30;;;
+TC-105-PRO-PRI;TCL;10 5G;Cristal templado;Privacidad;4,00;;;
+TC-105-FUN-SIL;TCL;10 5G;Funda;Silicona;2,50;;;
+TC-105-FUN-TPU;TCL;10 5G;Funda;Transparente;2,95;;;
+TC-105-FUN-LIB;TCL;10 5G;Funda;Libro;3,70;;;
+TC-105-FUN-ANT;TCL;10 5G;Funda;Antigolpes;3,10;;;
+TC-105-PCA-NA;TCL;10 5G;Protector de cámara;Cristal;2,90;;;
+TC-40NXT5-PRO-NA;TCL;40 NXTPAPER 5G;Cristal templado;Estándar;1,30;;;
+TC-40NXT5-PRO-PRI;TCL;40 NXTPAPER 5G;Cristal templado;Privacidad;4,00;;;
+TC-40NXT5-FUN-SIL;TCL;40 NXTPAPER 5G;Funda;Silicona;2,50;;;
+TC-40NXT5-FUN-TPU;TCL;40 NXTPAPER 5G;Funda;Transparente;2,95;;;
+TC-40NXT5-FUN-LIB;TCL;40 NXTPAPER 5G;Funda;Libro;3,70;;;
+TC-40NXT5-FUN-ANT;TCL;40 NXTPAPER 5G;Funda;Antigolpes;3,10;;;
+TC-40NXT5-PCA-NA;TCL;40 NXTPAPER 5G;Protector de cámara;Cristal;2,90;;;
+TC-406I-PRO-NA;TCL;406i;Cristal templado;Estándar;1,30;;;
+TC-406I-PRO-PRI;TCL;406i;Cristal templado;Privacidad;4,00;;;
+TC-406I-FUN-SIL;TCL;406i;Funda;Silicona;2,50;;;
+TC-406I-FUN-TPU;TCL;406i;Funda;Transparente;2,95;;;
+TC-406I-FUN-LIB;TCL;406i;Funda;Libro;3,70;;;
+TC-406I-FUN-ANT;TCL;406i;Funda;Antigolpes;3,10;;;
+TC-406I-PCA-NA;TCL;406i;Protector de cámara;Cristal;2,90;;;
+TC-501-PRO-NA;TCL;501;Cristal templado;Estándar;1,30;;;
+TC-501-PRO-PRI;TCL;501;Cristal templado;Privacidad;4,00;;;
+TC-501-FUN-SIL;TCL;501;Funda;Silicona;2,50;;;
+TC-501-FUN-TPU;TCL;501;Funda;Transparente;2,95;;;
+TC-501-FUN-LIB;TCL;501;Funda;Libro;3,70;;;
+TC-501-FUN-ANT;TCL;501;Funda;Antigolpes;3,10;;;
+TC-50PNXT5-PRO-NA;TCL;50 PRO NXTPAPER 5G;Cristal templado;Estándar;1,30;;;
+TC-50PNXT5-PRO-PRI;TCL;50 PRO NXTPAPER 5G;Cristal templado;Privacidad;4,00;;;
+TC-50PNXT5-FUN-SIL;TCL;50 PRO NXTPAPER 5G;Funda;Silicona;2,50;;;
+TC-50PNXT5-FUN-TPU;TCL;50 PRO NXTPAPER 5G;Funda;Transparente;2,95;;;
+TC-50PNXT5-FUN-LIB;TCL;50 PRO NXTPAPER 5G;Funda;Libro;3,70;;;
+TC-50PNXT5-FUN-ANT;TCL;50 PRO NXTPAPER 5G;Funda;Antigolpes;3,10;;;
+TC-50PNXT5-PCA-NA;TCL;50 PRO NXTPAPER 5G;Protector de cámara;Cristal;2,90;;;
+TC-605G-PRO-NA;TCL;60 5G;Cristal templado;Estándar;1,30;;;
+TC-605G-PRO-PRI;TCL;60 5G;Cristal templado;Privacidad;4,00;;;
+TC-605G-FUN-SIL;TCL;60 5G;Funda;Silicona;2,50;;;
+TC-605G-FUN-TPU;TCL;60 5G;Funda;Transparente;2,95;;;
+TC-605G-FUN-LIB;TCL;60 5G;Funda;Libro;3,70;;;
+TC-605G-FUN-ANT;TCL;60 5G;Funda;Antigolpes;3,10;;;
+TC-605G-PCA-NA;TCL;60 5G;Protector de cámara;Cristal;2,90;;;
+TC-60NXT-PRO-NA;TCL;60 NXTPAPER;Cristal templado;Estándar;1,30;;;
+TC-60NXT-PRO-PRI;TCL;60 NXTPAPER;Cristal templado;Privacidad;4,00;;;
+TC-60NXT-FUN-SIL;TCL;60 NXTPAPER;Funda;Silicona;2,50;;;
+TC-60NXT-FUN-TPU;TCL;60 NXTPAPER;Funda;Transparente;2,95;;;
+TC-60NXT-FUN-LIB;TCL;60 NXTPAPER;Funda;Libro;3,70;;;
+TC-60NXT-FUN-ANT;TCL;60 NXTPAPER;Funda;Antigolpes;3,10;;;
+TC-60NXT-PCA-NA;TCL;60 NXTPAPER;Protector de cámara;Cristal;2,90;;;
+TC-60SENXT5-PRO-NA;TCL;60 SE NXTPAPER 5G;Cristal templado;Estándar;1,30;;;
+TC-60SENXT5-PRO-PRI;TCL;60 SE NXTPAPER 5G;Cristal templado;Privacidad;4,00;;;
+TC-60SENXT5-FUN-SIL;TCL;60 SE NXTPAPER 5G;Funda;Silicona;2,50;;;
+TC-60SENXT5-FUN-TPU;TCL;60 SE NXTPAPER 5G;Funda;Transparente;2,95;;;
+TC-60SENXT5-FUN-LIB;TCL;60 SE NXTPAPER 5G;Funda;Libro;3,70;;;
+TC-60SENXT5-FUN-ANT;TCL;60 SE NXTPAPER 5G;Funda;Antigolpes;3,10;;;
+TC-60SENXT5-PCA-NA;TCL;60 SE NXTPAPER 5G;Protector de cámara;Cristal;2,90;;;
+TC-60R5-PRO-NA;TCL;60R 5G;Cristal templado;Estándar;1,30;;;
+TC-60R5-PRO-PRI;TCL;60R 5G;Cristal templado;Privacidad;4,00;;;
+TC-60R5-FUN-SIL;TCL;60R 5G;Funda;Silicona;2,50;;;
+TC-60R5-FUN-TPU;TCL;60R 5G;Funda;Transparente;2,95;;;
+TC-60R5-FUN-LIB;TCL;60R 5G;Funda;Libro;3,70;;;
+TC-60R5-FUN-ANT;TCL;60R 5G;Funda;Antigolpes;3,10;;;
+TC-60R5-PCA-NA;TCL;60R 5G;Protector de cámara;Cristal;2,90;;;
+TC-NXT60U-PRO-NA;TCL;NXTPAPER 60 Ultra;Cristal templado;Estándar;1,30;;;
+TC-NXT60U-PRO-PRI;TCL;NXTPAPER 60 Ultra;Cristal templado;Privacidad;4,00;;;
+TC-NXT60U-FUN-SIL;TCL;NXTPAPER 60 Ultra;Funda;Silicona;2,50;;;
+TC-NXT60U-FUN-TPU;TCL;NXTPAPER 60 Ultra;Funda;Transparente;2,95;;;
+TC-NXT60U-FUN-LIB;TCL;NXTPAPER 60 Ultra;Funda;Libro;3,70;;;
+TC-NXT60U-FUN-ANT;TCL;NXTPAPER 60 Ultra;Funda;Antigolpes;3,10;;;
+TC-NXT60U-PCA-NA;TCL;NXTPAPER 60 Ultra;Protector de cámara;Cristal;2,90;;;
+TC-K704-PRO-NA;TCL;K70 4G;Cristal templado;Estándar;1,30;;;
+TC-K704-PRO-PRI;TCL;K70 4G;Cristal templado;Privacidad;4,00;;;
+TC-K704-FUN-SIL;TCL;K70 4G;Funda;Silicona;2,50;;;
+TC-K704-FUN-TPU;TCL;K70 4G;Funda;Transparente;2,95;;;
+TC-K704-FUN-LIB;TCL;K70 4G;Funda;Libro;3,70;;;
+TC-K704-FUN-ANT;TCL;K70 4G;Funda;Antigolpes;3,10;;;
+TC-K704-PCA-NA;TCL;K70 4G;Protector de cámara;Cristal;2,90;;;
+TC-K70PW4-PRO-NA;TCL;K70 Power 4G;Cristal templado;Estándar;1,30;;;
+TC-K70PW4-PRO-PRI;TCL;K70 Power 4G;Cristal templado;Privacidad;4,00;;;
+TC-K70PW4-FUN-SIL;TCL;K70 Power 4G;Funda;Silicona;2,50;;;
+TC-K70PW4-FUN-TPU;TCL;K70 Power 4G;Funda;Transparente;2,95;;;
+TC-K70PW4-FUN-LIB;TCL;K70 Power 4G;Funda;Libro;3,70;;;
+TC-K70PW4-FUN-ANT;TCL;K70 Power 4G;Funda;Antigolpes;3,10;;;
+TC-K70PW4-PCA-NA;TCL;K70 Power 4G;Protector de cámara;Cristal;2,90;;;
+TC-K70SE-PRO-NA;TCL;K70 SE;Cristal templado;Estándar;1,30;;;
+TC-K70SE-PRO-PRI;TCL;K70 SE;Cristal templado;Privacidad;4,00;;;
+TC-K70SE-FUN-SIL;TCL;K70 SE;Funda;Silicona;2,50;;;
+TC-K70SE-FUN-TPU;TCL;K70 SE;Funda;Transparente;2,95;;;
+TC-K70SE-FUN-LIB;TCL;K70 SE;Funda;Libro;3,70;;;
+TC-K70SE-FUN-ANT;TCL;K70 SE;Funda;Antigolpes;3,10;;;
+TC-NXT70P-PRO-NA;TCL;NXTPAPER 70 Pro;Cristal templado;Estándar;1,30;;;
+TC-NXT70P-PRO-PRI;TCL;NXTPAPER 70 Pro;Cristal templado;Privacidad;4,00;;;
+TC-NXT70P-FUN-SIL;TCL;NXTPAPER 70 Pro;Funda;Silicona;2,50;;;
+TC-NXT70P-FUN-TPU;TCL;NXTPAPER 70 Pro;Funda;Transparente;2,95;;;
+TC-NXT70P-FUN-LIB;TCL;NXTPAPER 70 Pro;Funda;Libro;3,70;;;
+TC-NXT70P-FUN-ANT;TCL;NXTPAPER 70 Pro;Funda;Antigolpes;3,10;;;
+TC-NXT70P-PCA-NA;TCL;NXTPAPER 70 Pro;Protector de cámara;Cristal;2,90;;;
+TC-K705-PRO-NA;TCL;K70 5G;Cristal templado;Estándar;1,30;;;
+TC-K705-PRO-PRI;TCL;K70 5G;Cristal templado;Privacidad;4,00;;;
+TC-K705-FUN-SIL;TCL;K70 5G;Funda;Silicona;2,50;;;
+TC-K705-FUN-TPU;TCL;K70 5G;Funda;Transparente;2,95;;;
+TC-K705-FUN-LIB;TCL;K70 5G;Funda;Libro;3,70;;;
+TC-K705-FUN-ANT;TCL;K70 5G;Funda;Antigolpes;3,10;;;
+TC-K705-PCA-NA;TCL;K70 5G;Protector de cámara;Cristal;2,90;;;
+TC-P80-PRO-NA;TCL;P80;Cristal templado;Estándar;1,30;;;
+TC-P80-PRO-PRI;TCL;P80;Cristal templado;Privacidad;4,00;;;
+TC-P80-FUN-SIL;TCL;P80;Funda;Silicona;2,50;;;
+TC-P80-FUN-TPU;TCL;P80;Funda;Transparente;2,95;;;
+TC-P80-FUN-LIB;TCL;P80;Funda;Libro;3,70;;;
+TC-P80-FUN-ANT;TCL;P80;Funda;Antigolpes;3,10;;;
+TC-P80P-PRO-NA;TCL;P80 Pro;Cristal templado;Estándar;1,30;;;
+TC-P80P-PRO-PRI;TCL;P80 Pro;Cristal templado;Privacidad;4,00;;;
+TC-P80P-FUN-SIL;TCL;P80 Pro;Funda;Silicona;2,50;;;
+TC-P80P-FUN-TPU;TCL;P80 Pro;Funda;Transparente;2,95;;;
+TC-P80P-FUN-LIB;TCL;P80 Pro;Funda;Libro;3,70;;;
+TC-P80P-FUN-ANT;TCL;P80 Pro;Funda;Antigolpes;3,10;;;
+TC-P80U-PRO-NA;TCL;P80 Ultra;Cristal templado;Estándar;1,30;;;
+TC-P80U-PRO-PRI;TCL;P80 Ultra;Cristal templado;Privacidad;4,00;;;
+TC-P80U-FUN-SIL;TCL;P80 Ultra;Funda;Silicona;2,50;;;
+TC-P80U-FUN-TPU;TCL;P80 Ultra;Funda;Transparente;2,95;;;
+TC-P80U-FUN-LIB;TCL;P80 Ultra;Funda;Libro;3,70;;;
+TC-P80U-FUN-ANT;TCL;P80 Ultra;Funda;Antigolpes;3,10;;;
+TC-205-MAR-COM;TCL;20 5G;Marco / chasis;Compatible;6,25;;;6
+TC-205-BOT-COM;TCL;20 5G;Botones laterales;Compatible;3,20;;;6
+TC-205-CRI-COM;TCL;20 5G;Cristal de pantalla;Compatible;3,20;;;6
+TC-205-FPR-COM;TCL;20 5G;Flex principal;Compatible;2,65;;;6
+TC-205-VIB-COM;TCL;20 5G;Vibrador;Compatible;3,10;;;6
+TC-205-ANT-COM;TCL;20 5G;Antena / coaxial;Compatible;2,79;;;6
+TC-205-HUE-COM;TCL;20 5G;Botón home / huella;Compatible;4,60;;;6
+TC-20L-MAR-COM;TCL;20L;Marco / chasis;Compatible;6,25;;;6
+TC-20L-BOT-COM;TCL;20L;Botones laterales;Compatible;3,20;;;6
+TC-20L-CRI-COM;TCL;20L;Cristal de pantalla;Compatible;3,20;;;6
+TC-20L-FPR-COM;TCL;20L;Flex principal;Compatible;2,65;;;6
+TC-20L-VIB-COM;TCL;20L;Vibrador;Compatible;3,10;;;6
+TC-20L-ANT-COM;TCL;20L;Antena / coaxial;Compatible;2,79;;;6
+TC-20L-HUE-COM;TCL;20L;Botón home / huella;Compatible;4,60;;;6
+TC-20LPL-MAR-COM;TCL;20L+;Marco / chasis;Compatible;6,25;;;6
+TC-20LPL-BOT-COM;TCL;20L+;Botones laterales;Compatible;3,20;;;6
+TC-20LPL-CRI-COM;TCL;20L+;Cristal de pantalla;Compatible;3,20;;;6
+TC-20LPL-FPR-COM;TCL;20L+;Flex principal;Compatible;2,65;;;6
+TC-20LPL-VIB-COM;TCL;20L+;Vibrador;Compatible;3,10;;;6
+TC-20LPL-ANT-COM;TCL;20L+;Antena / coaxial;Compatible;2,79;;;6
+TC-20LPL-HUE-COM;TCL;20L+;Botón home / huella;Compatible;4,60;;;6
+TC-20P5-MAR-COM;TCL;20 Pro 5G;Marco / chasis;Compatible;7,20;;;6
+TC-20P5-BOT-COM;TCL;20 Pro 5G;Botones laterales;Compatible;3,70;;;6
+TC-20P5-CRI-COM;TCL;20 Pro 5G;Cristal de pantalla;Compatible;3,69;;;6
+TC-20P5-FPR-COM;TCL;20 Pro 5G;Flex principal;Compatible;3,05;;;6
+TC-20P5-VIB-COM;TCL;20 Pro 5G;Vibrador;Compatible;3,55;;;6
+TC-20P5-ANT-COM;TCL;20 Pro 5G;Antena / coaxial;Compatible;3,20;;;6
+TC-20P5-HUE-COM;TCL;20 Pro 5G;Botón home / huella;Compatible;5,30;;;6
+TC-20SE-MAR-COM;TCL;20 SE;Marco / chasis;Compatible;6,25;;;6
+TC-20SE-BOT-COM;TCL;20 SE;Botones laterales;Compatible;3,20;;;6
+TC-20SE-CRI-COM;TCL;20 SE;Cristal de pantalla;Compatible;3,20;;;6
+TC-20SE-FPR-COM;TCL;20 SE;Flex principal;Compatible;2,65;;;6
+TC-20SE-VIB-COM;TCL;20 SE;Vibrador;Compatible;3,10;;;6
+TC-20SE-ANT-COM;TCL;20 SE;Antena / coaxial;Compatible;2,79;;;6
+TC-20SE-HUE-COM;TCL;20 SE;Botón home / huella;Compatible;4,60;;;6
+TC-20R5-MAR-COM;TCL;20 R 5G;Marco / chasis;Compatible;6,25;;;6
+TC-20R5-BOT-COM;TCL;20 R 5G;Botones laterales;Compatible;3,20;;;6
+TC-20R5-CRI-COM;TCL;20 R 5G;Cristal de pantalla;Compatible;3,20;;;6
+TC-20R5-FPR-COM;TCL;20 R 5G;Flex principal;Compatible;2,65;;;6
+TC-20R5-VIB-COM;TCL;20 R 5G;Vibrador;Compatible;3,10;;;6
+TC-20R5-ANT-COM;TCL;20 R 5G;Antena / coaxial;Compatible;2,79;;;6
+TC-20R5-HUE-COM;TCL;20 R 5G;Botón home / huella;Compatible;4,60;;;6
+TC-2052-MAR-COM;TCL;205;Marco / chasis;Compatible;6,25;;;6
+TC-2052-BOT-COM;TCL;205;Botones laterales;Compatible;3,20;;;6
+TC-2052-CRI-COM;TCL;205;Cristal de pantalla;Compatible;3,20;;;6
+TC-2052-FPR-COM;TCL;205;Flex principal;Compatible;2,65;;;6
+TC-2052-VIB-COM;TCL;205;Vibrador;Compatible;3,10;;;6
+TC-2052-ANT-COM;TCL;205;Antena / coaxial;Compatible;2,79;;;6
+TC-2052-HUE-COM;TCL;205;Botón home / huella;Compatible;4,60;;;6
+TC-30-MAR-COM;TCL;30;Marco / chasis;Compatible;6,25;;;6
+TC-30-BOT-COM;TCL;30;Botones laterales;Compatible;3,20;;;6
+TC-30-CRI-COM;TCL;30;Cristal de pantalla;Compatible;3,20;;;6
+TC-30-FPR-COM;TCL;30;Flex principal;Compatible;2,65;;;6
+TC-30-VIB-COM;TCL;30;Vibrador;Compatible;3,10;;;6
+TC-30-ANT-COM;TCL;30;Antena / coaxial;Compatible;2,79;;;6
+TC-30-HUE-COM;TCL;30;Botón home / huella;Compatible;4,60;;;6
+TC-30PL-MAR-COM;TCL;30+;Marco / chasis;Compatible;6,25;;;6
+TC-30PL-BOT-COM;TCL;30+;Botones laterales;Compatible;3,20;;;6
+TC-30PL-CRI-COM;TCL;30+;Cristal de pantalla;Compatible;3,20;;;6
+TC-30PL-FPR-COM;TCL;30+;Flex principal;Compatible;2,65;;;6
+TC-30PL-VIB-COM;TCL;30+;Vibrador;Compatible;3,10;;;6
+TC-30PL-ANT-COM;TCL;30+;Antena / coaxial;Compatible;2,79;;;6
+TC-30PL-HUE-COM;TCL;30+;Botón home / huella;Compatible;4,60;;;6
+TC-30SE-MAR-COM;TCL;30 SE;Marco / chasis;Compatible;6,25;;;6
+TC-30SE-BOT-COM;TCL;30 SE;Botones laterales;Compatible;3,20;;;6
+TC-30SE-CRI-COM;TCL;30 SE;Cristal de pantalla;Compatible;3,20;;;6
+TC-30SE-FPR-COM;TCL;30 SE;Flex principal;Compatible;2,65;;;6
+TC-30SE-VIB-COM;TCL;30 SE;Vibrador;Compatible;3,10;;;6
+TC-30SE-ANT-COM;TCL;30 SE;Antena / coaxial;Compatible;2,79;;;6
+TC-30SE-HUE-COM;TCL;30 SE;Botón home / huella;Compatible;4,60;;;6
+TC-305-MAR-COM;TCL;30 5G;Marco / chasis;Compatible;6,25;;;6
+TC-305-BOT-COM;TCL;30 5G;Botones laterales;Compatible;3,20;;;6
+TC-305-CRI-COM;TCL;30 5G;Cristal de pantalla;Compatible;3,20;;;6
+TC-305-FPR-COM;TCL;30 5G;Flex principal;Compatible;2,65;;;6
+TC-305-VIB-COM;TCL;30 5G;Vibrador;Compatible;3,10;;;6
+TC-305-ANT-COM;TCL;30 5G;Antena / coaxial;Compatible;2,79;;;6
+TC-305-HUE-COM;TCL;30 5G;Botón home / huella;Compatible;4,60;;;6
+TC-30E-MAR-COM;TCL;30E;Marco / chasis;Compatible;6,25;;;6
+TC-30E-BOT-COM;TCL;30E;Botones laterales;Compatible;3,20;;;6
+TC-30E-CRI-COM;TCL;30E;Cristal de pantalla;Compatible;3,20;;;6
+TC-30E-FPR-COM;TCL;30E;Flex principal;Compatible;2,65;;;6
+TC-30E-VIB-COM;TCL;30E;Vibrador;Compatible;3,10;;;6
+TC-30E-ANT-COM;TCL;30E;Antena / coaxial;Compatible;2,79;;;6
+TC-30E-HUE-COM;TCL;30E;Botón home / huella;Compatible;4,60;;;6
+TC-306-MAR-COM;TCL;306;Marco / chasis;Compatible;6,25;;;6
+TC-306-BOT-COM;TCL;306;Botones laterales;Compatible;3,20;;;6
+TC-306-CRI-COM;TCL;306;Cristal de pantalla;Compatible;3,20;;;6
+TC-306-FPR-COM;TCL;306;Flex principal;Compatible;2,65;;;6
+TC-306-VIB-COM;TCL;306;Vibrador;Compatible;3,10;;;6
+TC-306-ANT-COM;TCL;306;Antena / coaxial;Compatible;2,79;;;6
+TC-306-HUE-COM;TCL;306;Botón home / huella;Compatible;4,60;;;6
+TC-305I-MAR-COM;TCL;305i;Marco / chasis;Compatible;6,25;;;6
+TC-305I-BOT-COM;TCL;305i;Botones laterales;Compatible;3,20;;;6
+TC-305I-CRI-COM;TCL;305i;Cristal de pantalla;Compatible;3,20;;;6
+TC-305I-FPR-COM;TCL;305i;Flex principal;Compatible;2,65;;;6
+TC-305I-VIB-COM;TCL;305i;Vibrador;Compatible;3,10;;;6
+TC-305I-ANT-COM;TCL;305i;Antena / coaxial;Compatible;2,79;;;6
+TC-305I-HUE-COM;TCL;305i;Botón home / huella;Compatible;4,60;;;6
+TC-40SE-MAR-COM;TCL;40 SE;Marco / chasis;Compatible;6,25;;;6
+TC-40SE-BOT-COM;TCL;40 SE;Botones laterales;Compatible;3,20;;;6
+TC-40SE-CRI-COM;TCL;40 SE;Cristal de pantalla;Compatible;3,20;;;6
+TC-40SE-FPR-COM;TCL;40 SE;Flex principal;Compatible;2,65;;;6
+TC-40SE-VIB-COM;TCL;40 SE;Vibrador;Compatible;3,10;;;6
+TC-40SE-ANT-COM;TCL;40 SE;Antena / coaxial;Compatible;2,79;;;6
+TC-40SE-HUE-COM;TCL;40 SE;Botón home / huella;Compatible;4,60;;;6
+TC-40R5-MAR-COM;TCL;40 R 5G;Marco / chasis;Compatible;6,25;;;6
+TC-40R5-BOT-COM;TCL;40 R 5G;Botones laterales;Compatible;3,20;;;6
+TC-40R5-CRI-COM;TCL;40 R 5G;Cristal de pantalla;Compatible;3,20;;;6
+TC-40R5-FPR-COM;TCL;40 R 5G;Flex principal;Compatible;2,65;;;6
+TC-40R5-VIB-COM;TCL;40 R 5G;Vibrador;Compatible;3,10;;;6
+TC-40R5-ANT-COM;TCL;40 R 5G;Antena / coaxial;Compatible;2,79;;;6
+TC-40R5-HUE-COM;TCL;40 R 5G;Botón home / huella;Compatible;4,60;;;6
+TC-403-MAR-COM;TCL;403;Marco / chasis;Compatible;6,25;;;6
+TC-403-BOT-COM;TCL;403;Botones laterales;Compatible;3,20;;;6
+TC-403-CRI-COM;TCL;403;Cristal de pantalla;Compatible;3,20;;;6
+TC-403-FPR-COM;TCL;403;Flex principal;Compatible;2,65;;;6
+TC-403-VIB-COM;TCL;403;Vibrador;Compatible;3,10;;;6
+TC-403-ANT-COM;TCL;403;Antena / coaxial;Compatible;2,79;;;6
+TC-403-HUE-COM;TCL;403;Botón home / huella;Compatible;4,60;;;6
+TC-408-MAR-COM;TCL;408;Marco / chasis;Compatible;6,25;;;6
+TC-408-BOT-COM;TCL;408;Botones laterales;Compatible;3,20;;;6
+TC-408-CRI-COM;TCL;408;Cristal de pantalla;Compatible;3,20;;;6
+TC-408-FPR-COM;TCL;408;Flex principal;Compatible;2,65;;;6
+TC-408-VIB-COM;TCL;408;Vibrador;Compatible;3,10;;;6
+TC-408-ANT-COM;TCL;408;Antena / coaxial;Compatible;2,79;;;6
+TC-408-HUE-COM;TCL;408;Botón home / huella;Compatible;4,60;;;6
+TC-406-MAR-COM;TCL;406;Marco / chasis;Compatible;6,25;;;6
+TC-406-BOT-COM;TCL;406;Botones laterales;Compatible;3,20;;;6
+TC-406-CRI-COM;TCL;406;Cristal de pantalla;Compatible;3,20;;;6
+TC-406-FPR-COM;TCL;406;Flex principal;Compatible;2,65;;;6
+TC-406-VIB-COM;TCL;406;Vibrador;Compatible;3,10;;;6
+TC-406-ANT-COM;TCL;406;Antena / coaxial;Compatible;2,79;;;6
+TC-406-HUE-COM;TCL;406;Botón home / huella;Compatible;4,60;;;6
+TC-405-MAR-COM;TCL;405;Marco / chasis;Compatible;6,25;;;6
+TC-405-BOT-COM;TCL;405;Botones laterales;Compatible;3,20;;;6
+TC-405-CRI-COM;TCL;405;Cristal de pantalla;Compatible;3,20;;;6
+TC-405-FPR-COM;TCL;405;Flex principal;Compatible;2,65;;;6
+TC-405-VIB-COM;TCL;405;Vibrador;Compatible;3,10;;;6
+TC-405-ANT-COM;TCL;405;Antena / coaxial;Compatible;2,79;;;6
+TC-405-HUE-COM;TCL;405;Botón home / huella;Compatible;4,60;;;6
+TC-40NXT-MAR-COM;TCL;40 NXTPAPER;Marco / chasis;Compatible;7,20;;;6
+TC-40NXT-BOT-COM;TCL;40 NXTPAPER;Botones laterales;Compatible;3,70;;;6
+TC-40NXT-CRI-COM;TCL;40 NXTPAPER;Cristal de pantalla;Compatible;3,69;;;6
+TC-40NXT-FPR-COM;TCL;40 NXTPAPER;Flex principal;Compatible;3,05;;;6
+TC-40NXT-VIB-COM;TCL;40 NXTPAPER;Vibrador;Compatible;3,55;;;6
+TC-40NXT-ANT-COM;TCL;40 NXTPAPER;Antena / coaxial;Compatible;3,20;;;6
+TC-40NXT-HUE-COM;TCL;40 NXTPAPER;Botón home / huella;Compatible;5,30;;;6
+TC-50SE-MAR-COM;TCL;50 SE;Marco / chasis;Compatible;6,89;;;6
+TC-50SE-BOT-COM;TCL;50 SE;Botones laterales;Compatible;3,55;;;6
+TC-50SE-CRI-COM;TCL;50 SE;Cristal de pantalla;Compatible;3,50;;;6
+TC-50SE-FPR-COM;TCL;50 SE;Flex principal;Compatible;2,90;;;6
+TC-50SE-VIB-COM;TCL;50 SE;Vibrador;Compatible;3,40;;;6
+TC-50SE-ANT-COM;TCL;50 SE;Antena / coaxial;Compatible;3,05;;;6
+TC-50SE-HUE-COM;TCL;50 SE;Botón home / huella;Compatible;5,09;;;6
+TC-505-MAR-COM;TCL;505;Marco / chasis;Compatible;6,89;;;6
+TC-505-BOT-COM;TCL;505;Botones laterales;Compatible;3,55;;;6
+TC-505-CRI-COM;TCL;505;Cristal de pantalla;Compatible;3,50;;;6
+TC-505-FPR-COM;TCL;505;Flex principal;Compatible;2,90;;;6
+TC-505-VIB-COM;TCL;505;Vibrador;Compatible;3,40;;;6
+TC-505-ANT-COM;TCL;505;Antena / coaxial;Compatible;3,05;;;6
+TC-505-HUE-COM;TCL;505;Botón home / huella;Compatible;5,09;;;6
+TC-505G-MAR-COM;TCL;50 5G;Marco / chasis;Compatible;6,89;;;6
+TC-505G-BOT-COM;TCL;50 5G;Botones laterales;Compatible;3,55;;;6
+TC-505G-CRI-COM;TCL;50 5G;Cristal de pantalla;Compatible;3,50;;;6
+TC-505G-FPR-COM;TCL;50 5G;Flex principal;Compatible;2,90;;;6
+TC-505G-VIB-COM;TCL;50 5G;Vibrador;Compatible;3,40;;;6
+TC-505G-ANT-COM;TCL;50 5G;Antena / coaxial;Compatible;3,05;;;6
+TC-505G-HUE-COM;TCL;50 5G;Botón home / huella;Compatible;5,09;;;6
+TC-50NXT5-MAR-COM;TCL;50 NXTPAPER 5G;Marco / chasis;Compatible;7,90;;;6
+TC-50NXT5-BOT-COM;TCL;50 NXTPAPER 5G;Botones laterales;Compatible;4,05;;;6
+TC-50NXT5-CRI-COM;TCL;50 NXTPAPER 5G;Cristal de pantalla;Compatible;4,05;;;6
+TC-50NXT5-FPR-COM;TCL;50 NXTPAPER 5G;Flex principal;Compatible;3,35;;;6
+TC-50NXT5-VIB-COM;TCL;50 NXTPAPER 5G;Vibrador;Compatible;3,95;;;6
+TC-50NXT5-ANT-COM;TCL;50 NXTPAPER 5G;Antena / coaxial;Compatible;3,50;;;6
+TC-50NXT5-HUE-COM;TCL;50 NXTPAPER 5G;Botón home / huella;Compatible;5,85;;;6
+TC-60SE-MAR-COM;TCL;60 SE;Marco / chasis;Compatible;6,89;;;6
+TC-60SE-BOT-COM;TCL;60 SE;Botones laterales;Compatible;3,55;;;6
+TC-60SE-CRI-COM;TCL;60 SE;Cristal de pantalla;Compatible;3,50;;;6
+TC-60SE-FPR-COM;TCL;60 SE;Flex principal;Compatible;2,90;;;6
+TC-60SE-VIB-COM;TCL;60 SE;Vibrador;Compatible;3,40;;;6
+TC-60SE-ANT-COM;TCL;60 SE;Antena / coaxial;Compatible;3,05;;;6
+TC-60SE-HUE-COM;TCL;60 SE;Botón home / huella;Compatible;5,09;;;6
+TC-605-MAR-COM;TCL;605;Marco / chasis;Compatible;6,89;;;6
+TC-605-BOT-COM;TCL;605;Botones laterales;Compatible;3,55;;;6
+TC-605-CRI-COM;TCL;605;Cristal de pantalla;Compatible;3,50;;;6
+TC-605-FPR-COM;TCL;605;Flex principal;Compatible;2,90;;;6
+TC-605-VIB-COM;TCL;605;Vibrador;Compatible;3,40;;;6
+TC-605-ANT-COM;TCL;605;Antena / coaxial;Compatible;3,05;;;6
+TC-605-HUE-COM;TCL;605;Botón home / huella;Compatible;5,09;;;6
+TC-10PL-MAR-COM;TCL;10 Plus;Marco / chasis;Compatible;6,25;;;6
+TC-10PL-BOT-COM;TCL;10 Plus;Botones laterales;Compatible;3,20;;;6
+TC-10PL-CRI-COM;TCL;10 Plus;Cristal de pantalla;Compatible;3,20;;;6
+TC-10PL-FPR-COM;TCL;10 Plus;Flex principal;Compatible;2,65;;;6
+TC-10PL-VIB-COM;TCL;10 Plus;Vibrador;Compatible;3,10;;;6
+TC-10PL-ANT-COM;TCL;10 Plus;Antena / coaxial;Compatible;2,79;;;6
+TC-10PL-HUE-COM;TCL;10 Plus;Botón home / huella;Compatible;4,60;;;6
+TC-10SE-MAR-COM;TCL;10 SE;Marco / chasis;Compatible;6,25;;;6
+TC-10SE-BOT-COM;TCL;10 SE;Botones laterales;Compatible;3,20;;;6
+TC-10SE-CRI-COM;TCL;10 SE;Cristal de pantalla;Compatible;3,20;;;6
+TC-10SE-FPR-COM;TCL;10 SE;Flex principal;Compatible;2,65;;;6
+TC-10SE-VIB-COM;TCL;10 SE;Vibrador;Compatible;3,10;;;6
+TC-10SE-ANT-COM;TCL;10 SE;Antena / coaxial;Compatible;2,79;;;6
+TC-10SE-HUE-COM;TCL;10 SE;Botón home / huella;Compatible;4,60;;;6
+TC-P-MAR-COM;TCL;Plex;Marco / chasis;Compatible;5,65;;;6
+TC-P-BOT-COM;TCL;Plex;Botones laterales;Compatible;2,89;;;6
+TC-P-CRI-COM;TCL;Plex;Cristal de pantalla;Compatible;2,89;;;6
+TC-P-FPR-COM;TCL;Plex;Flex principal;Compatible;2,39;;;6
+TC-P-VIB-COM;TCL;Plex;Vibrador;Compatible;2,79;;;6
+TC-P-ANT-COM;TCL;Plex;Antena / coaxial;Compatible;2,50;;;6
+TC-P-HUE-COM;TCL;Plex;Botón home / huella;Compatible;4,15;;;6
+TC-10L-MAR-COM;TCL;10L;Marco / chasis;Compatible;6,25;;;6
+TC-10L-BOT-COM;TCL;10L;Botones laterales;Compatible;3,20;;;6
+TC-10L-CRI-COM;TCL;10L;Cristal de pantalla;Compatible;3,20;;;6
+TC-10L-FPR-COM;TCL;10L;Flex principal;Compatible;2,65;;;6
+TC-10L-VIB-COM;TCL;10L;Vibrador;Compatible;3,10;;;6
+TC-10L-ANT-COM;TCL;10L;Antena / coaxial;Compatible;2,79;;;6
+TC-10L-HUE-COM;TCL;10L;Botón home / huella;Compatible;4,60;;;6
+TC-10P-MAR-COM;TCL;10 Pro;Marco / chasis;Compatible;7,20;;;6
+TC-10P-BOT-COM;TCL;10 Pro;Botones laterales;Compatible;3,70;;;6
+TC-10P-CRI-COM;TCL;10 Pro;Cristal de pantalla;Compatible;3,69;;;6
+TC-10P-FPR-COM;TCL;10 Pro;Flex principal;Compatible;3,05;;;6
+TC-10P-VIB-COM;TCL;10 Pro;Vibrador;Compatible;3,55;;;6
+TC-10P-ANT-COM;TCL;10 Pro;Antena / coaxial;Compatible;3,20;;;6
+TC-10P-HUE-COM;TCL;10 Pro;Botón home / huella;Compatible;5,30;;;6
+TC-105-MAR-COM;TCL;10 5G;Marco / chasis;Compatible;6,25;;;6
+TC-105-BOT-COM;TCL;10 5G;Botones laterales;Compatible;3,20;;;6
+TC-105-CRI-COM;TCL;10 5G;Cristal de pantalla;Compatible;3,20;;;6
+TC-105-FPR-COM;TCL;10 5G;Flex principal;Compatible;2,65;;;6
+TC-105-VIB-COM;TCL;10 5G;Vibrador;Compatible;3,10;;;6
+TC-105-ANT-COM;TCL;10 5G;Antena / coaxial;Compatible;2,79;;;6
+TC-105-HUE-COM;TCL;10 5G;Botón home / huella;Compatible;4,60;;;6
+TC-40NXT5-MAR-COM;TCL;40 NXTPAPER 5G;Marco / chasis;Compatible;7,20;;;6
+TC-40NXT5-BOT-COM;TCL;40 NXTPAPER 5G;Botones laterales;Compatible;3,70;;;6
+TC-40NXT5-CRI-COM;TCL;40 NXTPAPER 5G;Cristal de pantalla;Compatible;3,69;;;6
+TC-40NXT5-FPR-COM;TCL;40 NXTPAPER 5G;Flex principal;Compatible;3,05;;;6
+TC-40NXT5-VIB-COM;TCL;40 NXTPAPER 5G;Vibrador;Compatible;3,55;;;6
+TC-40NXT5-ANT-COM;TCL;40 NXTPAPER 5G;Antena / coaxial;Compatible;3,20;;;6
+TC-40NXT5-HUE-COM;TCL;40 NXTPAPER 5G;Botón home / huella;Compatible;5,30;;;6
+TC-406I-MAR-COM;TCL;406i;Marco / chasis;Compatible;6,25;;;6
+TC-406I-BOT-COM;TCL;406i;Botones laterales;Compatible;3,20;;;6
+TC-406I-CRI-COM;TCL;406i;Cristal de pantalla;Compatible;3,20;;;6
+TC-406I-FPR-COM;TCL;406i;Flex principal;Compatible;2,65;;;6
+TC-406I-VIB-COM;TCL;406i;Vibrador;Compatible;3,10;;;6
+TC-406I-ANT-COM;TCL;406i;Antena / coaxial;Compatible;2,79;;;6
+TC-406I-HUE-COM;TCL;406i;Botón home / huella;Compatible;4,60;;;6
+TC-501-MAR-COM;TCL;501;Marco / chasis;Compatible;6,89;;;6
+TC-501-BOT-COM;TCL;501;Botones laterales;Compatible;3,55;;;6
+TC-501-CRI-COM;TCL;501;Cristal de pantalla;Compatible;3,50;;;6
+TC-501-FPR-COM;TCL;501;Flex principal;Compatible;2,90;;;6
+TC-501-VIB-COM;TCL;501;Vibrador;Compatible;3,40;;;6
+TC-501-ANT-COM;TCL;501;Antena / coaxial;Compatible;3,05;;;6
+TC-501-HUE-COM;TCL;501;Botón home / huella;Compatible;5,09;;;6
+TC-50PNXT5-MAR-COM;TCL;50 PRO NXTPAPER 5G;Marco / chasis;Compatible;7,90;;;6
+TC-50PNXT5-BOT-COM;TCL;50 PRO NXTPAPER 5G;Botones laterales;Compatible;4,05;;;6
+TC-50PNXT5-CRI-COM;TCL;50 PRO NXTPAPER 5G;Cristal de pantalla;Compatible;4,05;;;6
+TC-50PNXT5-FPR-COM;TCL;50 PRO NXTPAPER 5G;Flex principal;Compatible;3,35;;;6
+TC-50PNXT5-VIB-COM;TCL;50 PRO NXTPAPER 5G;Vibrador;Compatible;3,95;;;6
+TC-50PNXT5-ANT-COM;TCL;50 PRO NXTPAPER 5G;Antena / coaxial;Compatible;3,50;;;6
+TC-50PNXT5-HUE-COM;TCL;50 PRO NXTPAPER 5G;Botón home / huella;Compatible;5,85;;;6
+TC-605G-MAR-COM;TCL;60 5G;Marco / chasis;Compatible;6,89;;;6
+TC-605G-BOT-COM;TCL;60 5G;Botones laterales;Compatible;3,55;;;6
+TC-605G-CRI-COM;TCL;60 5G;Cristal de pantalla;Compatible;3,50;;;6
+TC-605G-FPR-COM;TCL;60 5G;Flex principal;Compatible;2,90;;;6
+TC-605G-VIB-COM;TCL;60 5G;Vibrador;Compatible;3,40;;;6
+TC-605G-ANT-COM;TCL;60 5G;Antena / coaxial;Compatible;3,05;;;6
+TC-605G-HUE-COM;TCL;60 5G;Botón home / huella;Compatible;5,09;;;6
+TC-60NXT-MAR-COM;TCL;60 NXTPAPER;Marco / chasis;Compatible;7,90;;;6
+TC-60NXT-BOT-COM;TCL;60 NXTPAPER;Botones laterales;Compatible;4,05;;;6
+TC-60NXT-CRI-COM;TCL;60 NXTPAPER;Cristal de pantalla;Compatible;4,05;;;6
+TC-60NXT-FPR-COM;TCL;60 NXTPAPER;Flex principal;Compatible;3,35;;;6
+TC-60NXT-VIB-COM;TCL;60 NXTPAPER;Vibrador;Compatible;3,95;;;6
+TC-60NXT-ANT-COM;TCL;60 NXTPAPER;Antena / coaxial;Compatible;3,50;;;6
+TC-60NXT-HUE-COM;TCL;60 NXTPAPER;Botón home / huella;Compatible;5,85;;;6
+TC-60SENXT5-MAR-COM;TCL;60 SE NXTPAPER 5G;Marco / chasis;Compatible;7,90;;;6
+TC-60SENXT5-BOT-COM;TCL;60 SE NXTPAPER 5G;Botones laterales;Compatible;4,05;;;6
+TC-60SENXT5-CRI-COM;TCL;60 SE NXTPAPER 5G;Cristal de pantalla;Compatible;4,05;;;6
+TC-60SENXT5-FPR-COM;TCL;60 SE NXTPAPER 5G;Flex principal;Compatible;3,35;;;6
+TC-60SENXT5-VIB-COM;TCL;60 SE NXTPAPER 5G;Vibrador;Compatible;3,95;;;6
+TC-60SENXT5-ANT-COM;TCL;60 SE NXTPAPER 5G;Antena / coaxial;Compatible;3,50;;;6
+TC-60SENXT5-HUE-COM;TCL;60 SE NXTPAPER 5G;Botón home / huella;Compatible;5,85;;;6
+TC-60R5-MAR-COM;TCL;60R 5G;Marco / chasis;Compatible;6,89;;;6
+TC-60R5-BOT-COM;TCL;60R 5G;Botones laterales;Compatible;3,55;;;6
+TC-60R5-CRI-COM;TCL;60R 5G;Cristal de pantalla;Compatible;3,50;;;6
+TC-60R5-FPR-COM;TCL;60R 5G;Flex principal;Compatible;2,90;;;6
+TC-60R5-VIB-COM;TCL;60R 5G;Vibrador;Compatible;3,40;;;6
+TC-60R5-ANT-COM;TCL;60R 5G;Antena / coaxial;Compatible;3,05;;;6
+TC-60R5-HUE-COM;TCL;60R 5G;Botón home / huella;Compatible;5,09;;;6
+TC-NXT60U-MAR-COM;TCL;NXTPAPER 60 Ultra;Marco / chasis;Compatible;7,90;;;6
+TC-NXT60U-BOT-COM;TCL;NXTPAPER 60 Ultra;Botones laterales;Compatible;4,05;;;6
+TC-NXT60U-CRI-COM;TCL;NXTPAPER 60 Ultra;Cristal de pantalla;Compatible;4,05;;;6
+TC-NXT60U-FPR-COM;TCL;NXTPAPER 60 Ultra;Flex principal;Compatible;3,35;;;6
+TC-NXT60U-VIB-COM;TCL;NXTPAPER 60 Ultra;Vibrador;Compatible;3,95;;;6
+TC-NXT60U-ANT-COM;TCL;NXTPAPER 60 Ultra;Antena / coaxial;Compatible;3,50;;;6
+TC-NXT60U-HUE-COM;TCL;NXTPAPER 60 Ultra;Botón home / huella;Compatible;5,85;;;6
+TC-K704-MAR-COM;TCL;K70 4G;Marco / chasis;Compatible;6,89;;;6
+TC-K704-BOT-COM;TCL;K70 4G;Botones laterales;Compatible;3,55;;;6
+TC-K704-CRI-COM;TCL;K70 4G;Cristal de pantalla;Compatible;3,50;;;6
+TC-K704-FPR-COM;TCL;K70 4G;Flex principal;Compatible;2,90;;;6
+TC-K704-VIB-COM;TCL;K70 4G;Vibrador;Compatible;3,40;;;6
+TC-K704-ANT-COM;TCL;K70 4G;Antena / coaxial;Compatible;3,05;;;6
+TC-K704-HUE-COM;TCL;K70 4G;Botón home / huella;Compatible;5,09;;;6
+TC-K70PW4-MAR-COM;TCL;K70 Power 4G;Marco / chasis;Compatible;6,89;;;6
+TC-K70PW4-BOT-COM;TCL;K70 Power 4G;Botones laterales;Compatible;3,55;;;6
+TC-K70PW4-CRI-COM;TCL;K70 Power 4G;Cristal de pantalla;Compatible;3,50;;;6
+TC-K70PW4-FPR-COM;TCL;K70 Power 4G;Flex principal;Compatible;2,90;;;6
+TC-K70PW4-VIB-COM;TCL;K70 Power 4G;Vibrador;Compatible;3,40;;;6
+TC-K70PW4-ANT-COM;TCL;K70 Power 4G;Antena / coaxial;Compatible;3,05;;;6
+TC-K70PW4-HUE-COM;TCL;K70 Power 4G;Botón home / huella;Compatible;5,09;;;6
+TC-K70SE-MAR-COM;TCL;K70 SE;Marco / chasis;Compatible;6,89;;;6
+TC-K70SE-BOT-COM;TCL;K70 SE;Botones laterales;Compatible;3,55;;;6
+TC-K70SE-CRI-COM;TCL;K70 SE;Cristal de pantalla;Compatible;3,50;;;6
+TC-K70SE-FPR-COM;TCL;K70 SE;Flex principal;Compatible;2,90;;;6
+TC-K70SE-VIB-COM;TCL;K70 SE;Vibrador;Compatible;3,40;;;6
+TC-K70SE-ANT-COM;TCL;K70 SE;Antena / coaxial;Compatible;3,05;;;6
+TC-K70SE-HUE-COM;TCL;K70 SE;Botón home / huella;Compatible;5,09;;;6
+TC-NXT70P-MAR-COM;TCL;NXTPAPER 70 Pro;Marco / chasis;Compatible;7,90;;;6
+TC-NXT70P-BOT-COM;TCL;NXTPAPER 70 Pro;Botones laterales;Compatible;4,05;;;6
+TC-NXT70P-CRI-COM;TCL;NXTPAPER 70 Pro;Cristal de pantalla;Compatible;4,05;;;6
+TC-NXT70P-FPR-COM;TCL;NXTPAPER 70 Pro;Flex principal;Compatible;3,35;;;6
+TC-NXT70P-VIB-COM;TCL;NXTPAPER 70 Pro;Vibrador;Compatible;3,95;;;6
+TC-NXT70P-ANT-COM;TCL;NXTPAPER 70 Pro;Antena / coaxial;Compatible;3,50;;;6
+TC-NXT70P-HUE-COM;TCL;NXTPAPER 70 Pro;Botón home / huella;Compatible;5,85;;;6
+TC-K705-MAR-COM;TCL;K70 5G;Marco / chasis;Compatible;6,89;;;6
+TC-K705-BOT-COM;TCL;K70 5G;Botones laterales;Compatible;3,55;;;6
+TC-K705-CRI-COM;TCL;K70 5G;Cristal de pantalla;Compatible;3,50;;;6
+TC-K705-FPR-COM;TCL;K70 5G;Flex principal;Compatible;2,90;;;6
+TC-K705-VIB-COM;TCL;K70 5G;Vibrador;Compatible;3,40;;;6
+TC-K705-ANT-COM;TCL;K70 5G;Antena / coaxial;Compatible;3,05;;;6
+TC-K705-HUE-COM;TCL;K70 5G;Botón home / huella;Compatible;5,09;;;6
+TC-P80-MAR-COM;TCL;P80;Marco / chasis;Compatible;6,89;;;6
+TC-P80-BOT-COM;TCL;P80;Botones laterales;Compatible;3,55;;;6
+TC-P80-CRI-COM;TCL;P80;Cristal de pantalla;Compatible;3,50;;;6
+TC-P80-FPR-COM;TCL;P80;Flex principal;Compatible;2,90;;;6
+TC-P80-VIB-COM;TCL;P80;Vibrador;Compatible;3,40;;;6
+TC-P80-ANT-COM;TCL;P80;Antena / coaxial;Compatible;3,05;;;6
+TC-P80-HUE-COM;TCL;P80;Botón home / huella;Compatible;5,09;;;6
+TC-P80P-MAR-COM;TCL;P80 Pro;Marco / chasis;Compatible;7,90;;;6
+TC-P80P-BOT-COM;TCL;P80 Pro;Botones laterales;Compatible;4,05;;;6
+TC-P80P-CRI-COM;TCL;P80 Pro;Cristal de pantalla;Compatible;4,05;;;6
+TC-P80P-FPR-COM;TCL;P80 Pro;Flex principal;Compatible;3,35;;;6
+TC-P80P-VIB-COM;TCL;P80 Pro;Vibrador;Compatible;3,95;;;6
+TC-P80P-ANT-COM;TCL;P80 Pro;Antena / coaxial;Compatible;3,50;;;6
+TC-P80P-HUE-COM;TCL;P80 Pro;Botón home / huella;Compatible;5,85;;;6
+TC-P80U-MAR-COM;TCL;P80 Ultra;Marco / chasis;Compatible;6,89;;;6
+TC-P80U-BOT-COM;TCL;P80 Ultra;Botones laterales;Compatible;3,55;;;6
+TC-P80U-CRI-COM;TCL;P80 Ultra;Cristal de pantalla;Compatible;3,50;;;6
+TC-P80U-FPR-COM;TCL;P80 Ultra;Flex principal;Compatible;2,90;;;6
+TC-P80U-VIB-COM;TCL;P80 Ultra;Vibrador;Compatible;3,40;;;6
+TC-P80U-ANT-COM;TCL;P80 Ultra;Antena / coaxial;Compatible;3,05;;;6
+TC-P80U-HUE-COM;TCL;P80 Ultra;Botón home / huella;Compatible;5,09;;;6

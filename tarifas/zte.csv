@@ -1,0 +1,2688 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+ZT-A30U5-PAN-COM;ZTE;Axon 30 Ultra 5G;Pantalla;Compatible;25,45;24,69;23,92;6
+ZT-A30U5-BAT-COM;ZTE;Axon 30 Ultra 5G;Batería;Compatible;8,65;;;6
+ZT-A30U5-CON-COM;ZTE;Axon 30 Ultra 5G;Conector de carga;Compatible;5,55;;;6
+ZT-A30U5-TAP-COM;ZTE;Axon 30 Ultra 5G;Tapa trasera;Compatible;6,89;;;6
+ZT-A30U5-CTR-COM;ZTE;Axon 30 Ultra 5G;Cámara trasera;Compatible;9,40;;;6
+ZT-A30U5-CFR-COM;ZTE;Axon 30 Ultra 5G;Cámara frontal;Compatible;4,85;;;6
+ZT-A30U5-LEN-COM;ZTE;Axon 30 Ultra 5G;Lente de cámara;Compatible;3,05;;;6
+ZT-A30U5-ALT-COM;ZTE;Axon 30 Ultra 5G;Altavoz;Compatible;4,25;;;6
+ZT-A30U5-AUR-COM;ZTE;Axon 30 Ultra 5G;Auricular de llamada;Compatible;3,25;;;6
+ZT-A30U5-FLX-COM;ZTE;Axon 30 Ultra 5G;Flex de encendido y volumen;Compatible;3,25;;;6
+ZT-A30U5-SIM-COM;ZTE;Axon 30 Ultra 5G;Bandeja SIM;Compatible;3,25;;;6
+ZT-BA3L-PAN-COM;ZTE;Blade A3 Lite;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BA3L-BAT-COM;ZTE;Blade A3 Lite;Batería;Compatible;8,90;;;6
+ZT-BA3L-CON-COM;ZTE;Blade A3 Lite;Conector de carga;Compatible;3,70;;;6
+ZT-BA3L-TAP-COM;ZTE;Blade A3 Lite;Tapa trasera;Compatible;4,80;;;6
+ZT-BA3L-CTR-COM;ZTE;Blade A3 Lite;Cámara trasera;Compatible;6,65;;;6
+ZT-BA3L-CFR-COM;ZTE;Blade A3 Lite;Cámara frontal;Compatible;4,65;;;6
+ZT-BA3L-LEN-COM;ZTE;Blade A3 Lite;Lente de cámara;Compatible;2,25;;;6
+ZT-BA3L-ALT-COM;ZTE;Blade A3 Lite;Altavoz;Compatible;3,59;;;6
+ZT-BA3L-AUR-COM;ZTE;Blade A3 Lite;Auricular de llamada;Compatible;2,69;;;6
+ZT-BA3L-FLX-COM;ZTE;Blade A3 Lite;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BA3L-SIM-COM;ZTE;Blade A3 Lite;Bandeja SIM;Compatible;2,65;;;6
+ZT-BA3PL-PAN-COM;ZTE;Blade A3 Plus;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BA3PL-BAT-COM;ZTE;Blade A3 Plus;Batería;Compatible;8,90;;;6
+ZT-BA3PL-CON-COM;ZTE;Blade A3 Plus;Conector de carga;Compatible;3,70;;;6
+ZT-BA3PL-TAP-COM;ZTE;Blade A3 Plus;Tapa trasera;Compatible;4,80;;;6
+ZT-BA3PL-CTR-COM;ZTE;Blade A3 Plus;Cámara trasera;Compatible;6,65;;;6
+ZT-BA3PL-CFR-COM;ZTE;Blade A3 Plus;Cámara frontal;Compatible;4,65;;;6
+ZT-BA3PL-LEN-COM;ZTE;Blade A3 Plus;Lente de cámara;Compatible;2,25;;;6
+ZT-BA3PL-ALT-COM;ZTE;Blade A3 Plus;Altavoz;Compatible;3,59;;;6
+ZT-BA3PL-AUR-COM;ZTE;Blade A3 Plus;Auricular de llamada;Compatible;2,69;;;6
+ZT-BA3PL-FLX-COM;ZTE;Blade A3 Plus;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BA3PL-SIM-COM;ZTE;Blade A3 Plus;Bandeja SIM;Compatible;2,65;;;6
+ZT-BA3SE-PAN-COM;ZTE;Blade A3 SE;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BA3SE-BAT-COM;ZTE;Blade A3 SE;Batería;Compatible;8,90;;;6
+ZT-BA3SE-CON-COM;ZTE;Blade A3 SE;Conector de carga;Compatible;3,70;;;6
+ZT-BA3SE-TAP-COM;ZTE;Blade A3 SE;Tapa trasera;Compatible;4,80;;;6
+ZT-BA3SE-CTR-COM;ZTE;Blade A3 SE;Cámara trasera;Compatible;6,65;;;6
+ZT-BA3SE-CFR-COM;ZTE;Blade A3 SE;Cámara frontal;Compatible;4,65;;;6
+ZT-BA3SE-LEN-COM;ZTE;Blade A3 SE;Lente de cámara;Compatible;2,25;;;6
+ZT-BA3SE-ALT-COM;ZTE;Blade A3 SE;Altavoz;Compatible;3,59;;;6
+ZT-BA3SE-AUR-COM;ZTE;Blade A3 SE;Auricular de llamada;Compatible;2,69;;;6
+ZT-BA3SE-FLX-COM;ZTE;Blade A3 SE;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BA3SE-SIM-COM;ZTE;Blade A3 SE;Bandeja SIM;Compatible;2,65;;;6
+ZT-BA31L-PAN-COM;ZTE;Blade A31 Lite;Pantalla;Compatible;13,80;13,39;12,97;6
+ZT-BA31L-BAT-COM;ZTE;Blade A31 Lite;Batería;Compatible;7,60;;;6
+ZT-BA31L-CON-COM;ZTE;Blade A31 Lite;Conector de carga;Compatible;3,55;;;6
+ZT-BA31L-TAP-COM;ZTE;Blade A31 Lite;Tapa trasera;Compatible;4,95;;;6
+ZT-BA31L-CTR-COM;ZTE;Blade A31 Lite;Cámara trasera;Compatible;5,45;;;6
+ZT-BA31L-CFR-COM;ZTE;Blade A31 Lite;Cámara frontal;Compatible;3,45;;;6
+ZT-BA31L-LEN-COM;ZTE;Blade A31 Lite;Lente de cámara;Compatible;2,25;;;6
+ZT-BA31L-ALT-COM;ZTE;Blade A31 Lite;Altavoz;Compatible;3,29;;;6
+ZT-BA31L-AUR-COM;ZTE;Blade A31 Lite;Auricular de llamada;Compatible;2,45;;;6
+ZT-BA31L-FLX-COM;ZTE;Blade A31 Lite;Flex de encendido y volumen;Compatible;2,35;;;6
+ZT-BA31L-SIM-COM;ZTE;Blade A31 Lite;Bandeja SIM;Compatible;2,75;;;6
+ZT-BA51L-PAN-COM;ZTE;Blade A51 Lite;Pantalla;Compatible;13,80;13,39;12,97;6
+ZT-BA51L-BAT-COM;ZTE;Blade A51 Lite;Batería;Compatible;7,60;;;6
+ZT-BA51L-CON-COM;ZTE;Blade A51 Lite;Conector de carga;Compatible;3,55;;;6
+ZT-BA51L-TAP-COM;ZTE;Blade A51 Lite;Tapa trasera;Compatible;4,95;;;6
+ZT-BA51L-CTR-COM;ZTE;Blade A51 Lite;Cámara trasera;Compatible;5,45;;;6
+ZT-BA51L-CFR-COM;ZTE;Blade A51 Lite;Cámara frontal;Compatible;3,45;;;6
+ZT-BA51L-LEN-COM;ZTE;Blade A51 Lite;Lente de cámara;Compatible;2,25;;;6
+ZT-BA51L-ALT-COM;ZTE;Blade A51 Lite;Altavoz;Compatible;3,29;;;6
+ZT-BA51L-AUR-COM;ZTE;Blade A51 Lite;Auricular de llamada;Compatible;2,45;;;6
+ZT-BA51L-FLX-COM;ZTE;Blade A51 Lite;Flex de encendido y volumen;Compatible;2,35;;;6
+ZT-BA51L-SIM-COM;ZTE;Blade A51 Lite;Bandeja SIM;Compatible;2,75;;;6
+ZT-BD6L4-PAN-COM;ZTE;Blade D6 Lite 4G;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BD6L4-BAT-COM;ZTE;Blade D6 Lite 4G;Batería;Compatible;8,90;;;6
+ZT-BD6L4-CON-COM;ZTE;Blade D6 Lite 4G;Conector de carga;Compatible;3,70;;;6
+ZT-BD6L4-TAP-COM;ZTE;Blade D6 Lite 4G;Tapa trasera;Compatible;4,80;;;6
+ZT-BD6L4-CTR-COM;ZTE;Blade D6 Lite 4G;Cámara trasera;Compatible;6,65;;;6
+ZT-BD6L4-CFR-COM;ZTE;Blade D6 Lite 4G;Cámara frontal;Compatible;4,65;;;6
+ZT-BD6L4-LEN-COM;ZTE;Blade D6 Lite 4G;Lente de cámara;Compatible;2,25;;;6
+ZT-BD6L4-ALT-COM;ZTE;Blade D6 Lite 4G;Altavoz;Compatible;3,59;;;6
+ZT-BD6L4-AUR-COM;ZTE;Blade D6 Lite 4G;Auricular de llamada;Compatible;2,69;;;6
+ZT-BD6L4-FLX-COM;ZTE;Blade D6 Lite 4G;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BD6L4-SIM-COM;ZTE;Blade D6 Lite 4G;Bandeja SIM;Compatible;2,65;;;6
+ZT-BL2PL-PAN-COM;ZTE;Blade L2 Plus;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BL2PL-BAT-COM;ZTE;Blade L2 Plus;Batería;Compatible;8,90;;;6
+ZT-BL2PL-CON-COM;ZTE;Blade L2 Plus;Conector de carga;Compatible;3,70;;;6
+ZT-BL2PL-TAP-COM;ZTE;Blade L2 Plus;Tapa trasera;Compatible;4,80;;;6
+ZT-BL2PL-CTR-COM;ZTE;Blade L2 Plus;Cámara trasera;Compatible;6,65;;;6
+ZT-BL2PL-CFR-COM;ZTE;Blade L2 Plus;Cámara frontal;Compatible;4,65;;;6
+ZT-BL2PL-LEN-COM;ZTE;Blade L2 Plus;Lente de cámara;Compatible;2,25;;;6
+ZT-BL2PL-ALT-COM;ZTE;Blade L2 Plus;Altavoz;Compatible;3,59;;;6
+ZT-BL2PL-AUR-COM;ZTE;Blade L2 Plus;Auricular de llamada;Compatible;2,69;;;6
+ZT-BL2PL-FLX-COM;ZTE;Blade L2 Plus;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BL2PL-SIM-COM;ZTE;Blade L2 Plus;Bandeja SIM;Compatible;2,65;;;6
+ZT-BL3L-PAN-COM;ZTE;Blade L3 Lite;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BL3L-BAT-COM;ZTE;Blade L3 Lite;Batería;Compatible;8,90;;;6
+ZT-BL3L-CON-COM;ZTE;Blade L3 Lite;Conector de carga;Compatible;3,70;;;6
+ZT-BL3L-TAP-COM;ZTE;Blade L3 Lite;Tapa trasera;Compatible;4,80;;;6
+ZT-BL3L-CTR-COM;ZTE;Blade L3 Lite;Cámara trasera;Compatible;6,65;;;6
+ZT-BL3L-CFR-COM;ZTE;Blade L3 Lite;Cámara frontal;Compatible;4,65;;;6
+ZT-BL3L-LEN-COM;ZTE;Blade L3 Lite;Lente de cámara;Compatible;2,25;;;6
+ZT-BL3L-ALT-COM;ZTE;Blade L3 Lite;Altavoz;Compatible;3,59;;;6
+ZT-BL3L-AUR-COM;ZTE;Blade L3 Lite;Auricular de llamada;Compatible;2,69;;;6
+ZT-BL3L-FLX-COM;ZTE;Blade L3 Lite;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BL3L-SIM-COM;ZTE;Blade L3 Lite;Bandeja SIM;Compatible;2,65;;;6
+ZT-BS6L-PAN-COM;ZTE;Blade S6 Lite;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BS6L-BAT-COM;ZTE;Blade S6 Lite;Batería;Compatible;8,90;;;6
+ZT-BS6L-CON-COM;ZTE;Blade S6 Lite;Conector de carga;Compatible;3,70;;;6
+ZT-BS6L-TAP-COM;ZTE;Blade S6 Lite;Tapa trasera;Compatible;4,80;;;6
+ZT-BS6L-CTR-COM;ZTE;Blade S6 Lite;Cámara trasera;Compatible;6,65;;;6
+ZT-BS6L-CFR-COM;ZTE;Blade S6 Lite;Cámara frontal;Compatible;4,65;;;6
+ZT-BS6L-LEN-COM;ZTE;Blade S6 Lite;Lente de cámara;Compatible;2,25;;;6
+ZT-BS6L-ALT-COM;ZTE;Blade S6 Lite;Altavoz;Compatible;3,59;;;6
+ZT-BS6L-AUR-COM;ZTE;Blade S6 Lite;Auricular de llamada;Compatible;2,69;;;6
+ZT-BS6L-FLX-COM;ZTE;Blade S6 Lite;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BS6L-SIM-COM;ZTE;Blade S6 Lite;Bandeja SIM;Compatible;2,65;;;6
+ZT-BA31PL-PAN-COM;ZTE;Blade A31 Plus;Pantalla;Compatible;13,80;13,39;12,97;6
+ZT-BA31PL-BAT-COM;ZTE;Blade A31 Plus;Batería;Compatible;7,60;;;6
+ZT-BA31PL-CON-COM;ZTE;Blade A31 Plus;Conector de carga;Compatible;3,55;;;6
+ZT-BA31PL-TAP-COM;ZTE;Blade A31 Plus;Tapa trasera;Compatible;4,95;;;6
+ZT-BA31PL-CTR-COM;ZTE;Blade A31 Plus;Cámara trasera;Compatible;5,45;;;6
+ZT-BA31PL-CFR-COM;ZTE;Blade A31 Plus;Cámara frontal;Compatible;3,45;;;6
+ZT-BA31PL-LEN-COM;ZTE;Blade A31 Plus;Lente de cámara;Compatible;2,25;;;6
+ZT-BA31PL-ALT-COM;ZTE;Blade A31 Plus;Altavoz;Compatible;3,29;;;6
+ZT-BA31PL-AUR-COM;ZTE;Blade A31 Plus;Auricular de llamada;Compatible;2,45;;;6
+ZT-BA31PL-FLX-COM;ZTE;Blade A31 Plus;Flex de encendido y volumen;Compatible;2,35;;;6
+ZT-BA31PL-SIM-COM;ZTE;Blade A31 Plus;Bandeja SIM;Compatible;2,75;;;6
+ZT-BA71-PAN-COM;ZTE;Blade A71;Pantalla;Compatible;13,80;13,39;12,97;6
+ZT-BA71-BAT-COM;ZTE;Blade A71;Batería;Compatible;7,60;;;6
+ZT-BA71-CON-COM;ZTE;Blade A71;Conector de carga;Compatible;3,55;;;6
+ZT-BA71-TAP-COM;ZTE;Blade A71;Tapa trasera;Compatible;4,95;;;6
+ZT-BA71-CTR-COM;ZTE;Blade A71;Cámara trasera;Compatible;5,45;;;6
+ZT-BA71-CFR-COM;ZTE;Blade A71;Cámara frontal;Compatible;3,45;;;6
+ZT-BA71-LEN-COM;ZTE;Blade A71;Lente de cámara;Compatible;2,25;;;6
+ZT-BA71-ALT-COM;ZTE;Blade A71;Altavoz;Compatible;3,29;;;6
+ZT-BA71-AUR-COM;ZTE;Blade A71;Auricular de llamada;Compatible;2,45;;;6
+ZT-BA71-FLX-COM;ZTE;Blade A71;Flex de encendido y volumen;Compatible;2,35;;;6
+ZT-BA71-SIM-COM;ZTE;Blade A71;Bandeja SIM;Compatible;2,75;;;6
+ZT-BL9-PAN-COM;ZTE;Blade L9;Pantalla;Compatible;13,80;13,39;12,97;6
+ZT-BL9-BAT-COM;ZTE;Blade L9;Batería;Compatible;7,60;;;6
+ZT-BL9-CON-COM;ZTE;Blade L9;Conector de carga;Compatible;3,55;;;6
+ZT-BL9-TAP-COM;ZTE;Blade L9;Tapa trasera;Compatible;4,95;;;6
+ZT-BL9-CTR-COM;ZTE;Blade L9;Cámara trasera;Compatible;5,45;;;6
+ZT-BL9-CFR-COM;ZTE;Blade L9;Cámara frontal;Compatible;3,45;;;6
+ZT-BL9-LEN-COM;ZTE;Blade L9;Lente de cámara;Compatible;2,25;;;6
+ZT-BL9-ALT-COM;ZTE;Blade L9;Altavoz;Compatible;3,29;;;6
+ZT-BL9-AUR-COM;ZTE;Blade L9;Auricular de llamada;Compatible;2,45;;;6
+ZT-BL9-FLX-COM;ZTE;Blade L9;Flex de encendido y volumen;Compatible;2,35;;;6
+ZT-BL9-SIM-COM;ZTE;Blade L9;Bandeja SIM;Compatible;2,75;;;6
+ZT-A30-PAN-COM;ZTE;Axon 30;Pantalla;Compatible;16,50;16,01;15,51;6
+ZT-A30-BAT-COM;ZTE;Axon 30;Batería;Compatible;8,65;;;6
+ZT-A30-CON-COM;ZTE;Axon 30;Conector de carga;Compatible;4,10;;;6
+ZT-A30-TAP-COM;ZTE;Axon 30;Tapa trasera;Compatible;5,60;;;6
+ZT-A30-CTR-COM;ZTE;Axon 30;Cámara trasera;Compatible;7,50;;;6
+ZT-A30-CFR-COM;ZTE;Axon 30;Cámara frontal;Compatible;3,89;;;6
+ZT-A30-LEN-COM;ZTE;Axon 30;Lente de cámara;Compatible;2,65;;;6
+ZT-A30-ALT-COM;ZTE;Axon 30;Altavoz;Compatible;3,70;;;6
+ZT-A30-AUR-COM;ZTE;Axon 30;Auricular de llamada;Compatible;2,99;;;6
+ZT-A30-FLX-COM;ZTE;Axon 30;Flex de encendido y volumen;Compatible;2,99;;;6
+ZT-A30-SIM-COM;ZTE;Axon 30;Bandeja SIM;Compatible;2,99;;;6
+ZT-V20P-PAN-COM;ZTE;Voyage 20 Pro;Pantalla;Compatible;13,80;13,39;12,97;6
+ZT-V20P-BAT-COM;ZTE;Voyage 20 Pro;Batería;Compatible;7,60;;;6
+ZT-V20P-CON-COM;ZTE;Voyage 20 Pro;Conector de carga;Compatible;3,55;;;6
+ZT-V20P-TAP-COM;ZTE;Voyage 20 Pro;Tapa trasera;Compatible;4,95;;;6
+ZT-V20P-CTR-COM;ZTE;Voyage 20 Pro;Cámara trasera;Compatible;5,45;;;6
+ZT-V20P-CFR-COM;ZTE;Voyage 20 Pro;Cámara frontal;Compatible;3,45;;;6
+ZT-V20P-LEN-COM;ZTE;Voyage 20 Pro;Lente de cámara;Compatible;2,25;;;6
+ZT-V20P-ALT-COM;ZTE;Voyage 20 Pro;Altavoz;Compatible;3,29;;;6
+ZT-V20P-AUR-COM;ZTE;Voyage 20 Pro;Auricular de llamada;Compatible;2,45;;;6
+ZT-V20P-FLX-COM;ZTE;Voyage 20 Pro;Flex de encendido y volumen;Compatible;2,35;;;6
+ZT-V20P-SIM-COM;ZTE;Voyage 20 Pro;Bandeja SIM;Compatible;2,75;;;6
+ZT-BA31-PAN-COM;ZTE;Blade A31;Pantalla;Compatible;13,80;13,39;12,97;6
+ZT-BA31-BAT-COM;ZTE;Blade A31;Batería;Compatible;7,60;;;6
+ZT-BA31-CON-COM;ZTE;Blade A31;Conector de carga;Compatible;3,55;;;6
+ZT-BA31-TAP-COM;ZTE;Blade A31;Tapa trasera;Compatible;4,95;;;6
+ZT-BA31-CTR-COM;ZTE;Blade A31;Cámara trasera;Compatible;5,45;;;6
+ZT-BA31-CFR-COM;ZTE;Blade A31;Cámara frontal;Compatible;3,45;;;6
+ZT-BA31-LEN-COM;ZTE;Blade A31;Lente de cámara;Compatible;2,25;;;6
+ZT-BA31-ALT-COM;ZTE;Blade A31;Altavoz;Compatible;3,29;;;6
+ZT-BA31-AUR-COM;ZTE;Blade A31;Auricular de llamada;Compatible;2,45;;;6
+ZT-BA31-FLX-COM;ZTE;Blade A31;Flex de encendido y volumen;Compatible;2,35;;;6
+ZT-BA31-SIM-COM;ZTE;Blade A31;Bandeja SIM;Compatible;2,75;;;6
+ZT-BA51-PAN-COM;ZTE;Blade A51;Pantalla;Compatible;13,80;13,39;12,97;6
+ZT-BA51-BAT-COM;ZTE;Blade A51;Batería;Compatible;7,60;;;6
+ZT-BA51-CON-COM;ZTE;Blade A51;Conector de carga;Compatible;3,55;;;6
+ZT-BA51-TAP-COM;ZTE;Blade A51;Tapa trasera;Compatible;4,95;;;6
+ZT-BA51-CTR-COM;ZTE;Blade A51;Cámara trasera;Compatible;5,45;;;6
+ZT-BA51-CFR-COM;ZTE;Blade A51;Cámara frontal;Compatible;3,45;;;6
+ZT-BA51-LEN-COM;ZTE;Blade A51;Lente de cámara;Compatible;2,25;;;6
+ZT-BA51-ALT-COM;ZTE;Blade A51;Altavoz;Compatible;3,29;;;6
+ZT-BA51-AUR-COM;ZTE;Blade A51;Auricular de llamada;Compatible;2,45;;;6
+ZT-BA51-FLX-COM;ZTE;Blade A51;Flex de encendido y volumen;Compatible;2,35;;;6
+ZT-BA51-SIM-COM;ZTE;Blade A51;Bandeja SIM;Compatible;2,75;;;6
+ZT-A30P-PAN-COM;ZTE;Axon 30 Pro;Pantalla;Compatible;23,15;22,46;21,76;6
+ZT-A30P-BAT-COM;ZTE;Axon 30 Pro;Batería;Compatible;8,65;;;6
+ZT-A30P-CON-COM;ZTE;Axon 30 Pro;Conector de carga;Compatible;5,55;;;6
+ZT-A30P-TAP-COM;ZTE;Axon 30 Pro;Tapa trasera;Compatible;6,89;;;6
+ZT-A30P-CTR-COM;ZTE;Axon 30 Pro;Cámara trasera;Compatible;9,40;;;6
+ZT-A30P-CFR-COM;ZTE;Axon 30 Pro;Cámara frontal;Compatible;4,85;;;6
+ZT-A30P-LEN-COM;ZTE;Axon 30 Pro;Lente de cámara;Compatible;3,05;;;6
+ZT-A30P-ALT-COM;ZTE;Axon 30 Pro;Altavoz;Compatible;4,25;;;6
+ZT-A30P-AUR-COM;ZTE;Axon 30 Pro;Auricular de llamada;Compatible;3,25;;;6
+ZT-A30P-FLX-COM;ZTE;Axon 30 Pro;Flex de encendido y volumen;Compatible;3,25;;;6
+ZT-A30P-SIM-COM;ZTE;Axon 30 Pro;Bandeja SIM;Compatible;3,25;;;6
+ZT-A30PU-PAN-COM;ZTE;Axon 30 Pro Ultra;Pantalla;Compatible;25,45;24,69;23,92;6
+ZT-A30PU-BAT-COM;ZTE;Axon 30 Pro Ultra;Batería;Compatible;8,50;;;6
+ZT-A30PU-CON-COM;ZTE;Axon 30 Pro Ultra;Conector de carga;Compatible;5,55;;;6
+ZT-A30PU-TAP-COM;ZTE;Axon 30 Pro Ultra;Tapa trasera;Compatible;6,89;;;6
+ZT-A30PU-CTR-COM;ZTE;Axon 30 Pro Ultra;Cámara trasera;Compatible;9,40;;;6
+ZT-A30PU-CFR-COM;ZTE;Axon 30 Pro Ultra;Cámara frontal;Compatible;4,85;;;6
+ZT-A30PU-LEN-COM;ZTE;Axon 30 Pro Ultra;Lente de cámara;Compatible;3,05;;;6
+ZT-A30PU-ALT-COM;ZTE;Axon 30 Pro Ultra;Altavoz;Compatible;4,25;;;6
+ZT-A30PU-AUR-COM;ZTE;Axon 30 Pro Ultra;Auricular de llamada;Compatible;3,25;;;6
+ZT-A30PU-FLX-COM;ZTE;Axon 30 Pro Ultra;Flex de encendido y volumen;Compatible;3,25;;;6
+ZT-A30PU-SIM-COM;ZTE;Axon 30 Pro Ultra;Bandeja SIM;Compatible;3,25;;;6
+ZT-B11P-PAN-COM;ZTE;Blade 11 Prime;Pantalla;Compatible;13,80;13,39;12,97;6
+ZT-B11P-BAT-COM;ZTE;Blade 11 Prime;Batería;Compatible;7,60;;;6
+ZT-B11P-CON-COM;ZTE;Blade 11 Prime;Conector de carga;Compatible;3,55;;;6
+ZT-B11P-TAP-COM;ZTE;Blade 11 Prime;Tapa trasera;Compatible;4,95;;;6
+ZT-B11P-CTR-COM;ZTE;Blade 11 Prime;Cámara trasera;Compatible;5,45;;;6
+ZT-B11P-CFR-COM;ZTE;Blade 11 Prime;Cámara frontal;Compatible;3,45;;;6
+ZT-B11P-LEN-COM;ZTE;Blade 11 Prime;Lente de cámara;Compatible;2,25;;;6
+ZT-B11P-ALT-COM;ZTE;Blade 11 Prime;Altavoz;Compatible;3,29;;;6
+ZT-B11P-AUR-COM;ZTE;Blade 11 Prime;Auricular de llamada;Compatible;2,45;;;6
+ZT-B11P-FLX-COM;ZTE;Blade 11 Prime;Flex de encendido y volumen;Compatible;2,35;;;6
+ZT-B11P-SIM-COM;ZTE;Blade 11 Prime;Bandeja SIM;Compatible;2,75;;;6
+ZT-S30-PAN-COM;ZTE;S30;Pantalla;Compatible;13,80;13,39;12,97;6
+ZT-S30-BAT-COM;ZTE;S30;Batería;Compatible;7,60;;;6
+ZT-S30-CON-COM;ZTE;S30;Conector de carga;Compatible;3,55;;;6
+ZT-S30-TAP-COM;ZTE;S30;Tapa trasera;Compatible;4,95;;;6
+ZT-S30-CTR-COM;ZTE;S30;Cámara trasera;Compatible;5,45;;;6
+ZT-S30-CFR-COM;ZTE;S30;Cámara frontal;Compatible;3,45;;;6
+ZT-S30-LEN-COM;ZTE;S30;Lente de cámara;Compatible;2,25;;;6
+ZT-S30-ALT-COM;ZTE;S30;Altavoz;Compatible;3,29;;;6
+ZT-S30-AUR-COM;ZTE;S30;Auricular de llamada;Compatible;2,45;;;6
+ZT-S30-FLX-COM;ZTE;S30;Flex de encendido y volumen;Compatible;2,35;;;6
+ZT-S30-SIM-COM;ZTE;S30;Bandeja SIM;Compatible;2,75;;;6
+ZT-S30P-PAN-COM;ZTE;S30 Pro;Pantalla;Compatible;13,80;13,39;12,97;6
+ZT-S30P-BAT-COM;ZTE;S30 Pro;Batería;Compatible;7,60;;;6
+ZT-S30P-CON-COM;ZTE;S30 Pro;Conector de carga;Compatible;3,55;;;6
+ZT-S30P-TAP-COM;ZTE;S30 Pro;Tapa trasera;Compatible;4,95;;;6
+ZT-S30P-CTR-COM;ZTE;S30 Pro;Cámara trasera;Compatible;5,45;;;6
+ZT-S30P-CFR-COM;ZTE;S30 Pro;Cámara frontal;Compatible;3,45;;;6
+ZT-S30P-LEN-COM;ZTE;S30 Pro;Lente de cámara;Compatible;2,25;;;6
+ZT-S30P-ALT-COM;ZTE;S30 Pro;Altavoz;Compatible;3,29;;;6
+ZT-S30P-AUR-COM;ZTE;S30 Pro;Auricular de llamada;Compatible;2,45;;;6
+ZT-S30P-FLX-COM;ZTE;S30 Pro;Flex de encendido y volumen;Compatible;2,35;;;6
+ZT-S30P-SIM-COM;ZTE;S30 Pro;Bandeja SIM;Compatible;2,75;;;6
+ZT-S30SE-PAN-COM;ZTE;S30 SE;Pantalla;Compatible;13,80;13,39;12,97;6
+ZT-S30SE-BAT-COM;ZTE;S30 SE;Batería;Compatible;7,60;;;6
+ZT-S30SE-CON-COM;ZTE;S30 SE;Conector de carga;Compatible;3,55;;;6
+ZT-S30SE-TAP-COM;ZTE;S30 SE;Tapa trasera;Compatible;4,95;;;6
+ZT-S30SE-CTR-COM;ZTE;S30 SE;Cámara trasera;Compatible;5,45;;;6
+ZT-S30SE-CFR-COM;ZTE;S30 SE;Cámara frontal;Compatible;3,45;;;6
+ZT-S30SE-LEN-COM;ZTE;S30 SE;Lente de cámara;Compatible;2,25;;;6
+ZT-S30SE-ALT-COM;ZTE;S30 SE;Altavoz;Compatible;3,29;;;6
+ZT-S30SE-AUR-COM;ZTE;S30 SE;Auricular de llamada;Compatible;2,45;;;6
+ZT-S30SE-FLX-COM;ZTE;S30 SE;Flex de encendido y volumen;Compatible;2,35;;;6
+ZT-S30SE-SIM-COM;ZTE;S30 SE;Bandeja SIM;Compatible;2,75;;;6
+ZT-A204-PAN-COM;ZTE;Axon 20 4G;Pantalla;Compatible;16,50;16,01;15,51;6
+ZT-A204-BAT-COM;ZTE;Axon 20 4G;Batería;Compatible;8,89;;;6
+ZT-A204-CON-COM;ZTE;Axon 20 4G;Conector de carga;Compatible;4,10;;;6
+ZT-A204-TAP-COM;ZTE;Axon 20 4G;Tapa trasera;Compatible;5,60;;;6
+ZT-A204-CTR-COM;ZTE;Axon 20 4G;Cámara trasera;Compatible;7,50;;;6
+ZT-A204-CFR-COM;ZTE;Axon 20 4G;Cámara frontal;Compatible;3,89;;;6
+ZT-A204-LEN-COM;ZTE;Axon 20 4G;Lente de cámara;Compatible;2,65;;;6
+ZT-A204-ALT-COM;ZTE;Axon 20 4G;Altavoz;Compatible;3,70;;;6
+ZT-A204-AUR-COM;ZTE;Axon 20 4G;Auricular de llamada;Compatible;2,99;;;6
+ZT-A204-FLX-COM;ZTE;Axon 20 4G;Flex de encendido y volumen;Compatible;2,99;;;6
+ZT-A204-SIM-COM;ZTE;Axon 20 4G;Bandeja SIM;Compatible;2,99;;;6
+ZT-A205-PAN-COM;ZTE;Axon 20 5G;Pantalla;Compatible;16,50;16,01;15,51;6
+ZT-A205-BAT-COM;ZTE;Axon 20 5G;Batería;Compatible;8,89;;;6
+ZT-A205-CON-COM;ZTE;Axon 20 5G;Conector de carga;Compatible;4,10;;;6
+ZT-A205-TAP-COM;ZTE;Axon 20 5G;Tapa trasera;Compatible;5,60;;;6
+ZT-A205-CTR-COM;ZTE;Axon 20 5G;Cámara trasera;Compatible;7,50;;;6
+ZT-A205-CFR-COM;ZTE;Axon 20 5G;Cámara frontal;Compatible;3,89;;;6
+ZT-A205-LEN-COM;ZTE;Axon 20 5G;Lente de cámara;Compatible;2,65;;;6
+ZT-A205-ALT-COM;ZTE;Axon 20 5G;Altavoz;Compatible;3,70;;;6
+ZT-A205-AUR-COM;ZTE;Axon 20 5G;Auricular de llamada;Compatible;2,99;;;6
+ZT-A205-FLX-COM;ZTE;Axon 20 5G;Flex de encendido y volumen;Compatible;2,99;;;6
+ZT-A205-SIM-COM;ZTE;Axon 20 5G;Bandeja SIM;Compatible;2,99;;;6
+ZT-B205-PAN-COM;ZTE;Blade 20 5G;Pantalla;Compatible;13,80;13,39;12,97;6
+ZT-B205-BAT-COM;ZTE;Blade 20 5G;Batería;Compatible;7,60;;;6
+ZT-B205-CON-COM;ZTE;Blade 20 5G;Conector de carga;Compatible;3,55;;;6
+ZT-B205-TAP-COM;ZTE;Blade 20 5G;Tapa trasera;Compatible;4,95;;;6
+ZT-B205-CTR-COM;ZTE;Blade 20 5G;Cámara trasera;Compatible;5,45;;;6
+ZT-B205-CFR-COM;ZTE;Blade 20 5G;Cámara frontal;Compatible;3,45;;;6
+ZT-B205-LEN-COM;ZTE;Blade 20 5G;Lente de cámara;Compatible;2,25;;;6
+ZT-B205-ALT-COM;ZTE;Blade 20 5G;Altavoz;Compatible;3,29;;;6
+ZT-B205-AUR-COM;ZTE;Blade 20 5G;Auricular de llamada;Compatible;2,45;;;6
+ZT-B205-FLX-COM;ZTE;Blade 20 5G;Flex de encendido y volumen;Compatible;2,35;;;6
+ZT-B205-SIM-COM;ZTE;Blade 20 5G;Bandeja SIM;Compatible;2,75;;;6
+ZT-BA7S20-PAN-COM;ZTE;Blade A7s 2020;Pantalla;Compatible;13,80;13,39;12,97;6
+ZT-BA7S20-BAT-COM;ZTE;Blade A7s 2020;Batería;Compatible;7,60;;;6
+ZT-BA7S20-CON-COM;ZTE;Blade A7s 2020;Conector de carga;Compatible;3,55;;;6
+ZT-BA7S20-TAP-COM;ZTE;Blade A7s 2020;Tapa trasera;Compatible;4,95;;;6
+ZT-BA7S20-CTR-COM;ZTE;Blade A7s 2020;Cámara trasera;Compatible;5,45;;;6
+ZT-BA7S20-CFR-COM;ZTE;Blade A7s 2020;Cámara frontal;Compatible;3,45;;;6
+ZT-BA7S20-LEN-COM;ZTE;Blade A7s 2020;Lente de cámara;Compatible;2,25;;;6
+ZT-BA7S20-ALT-COM;ZTE;Blade A7s 2020;Altavoz;Compatible;3,29;;;6
+ZT-BA7S20-AUR-COM;ZTE;Blade A7s 2020;Auricular de llamada;Compatible;2,45;;;6
+ZT-BA7S20-FLX-COM;ZTE;Blade A7s 2020;Flex de encendido y volumen;Compatible;2,35;;;6
+ZT-BA7S20-SIM-COM;ZTE;Blade A7s 2020;Bandeja SIM;Compatible;2,75;;;6
+ZT-A11SE5-PAN-COM;ZTE;Axon 11 SE 5G;Pantalla;Compatible;16,50;16,01;15,51;6
+ZT-A11SE5-BAT-COM;ZTE;Axon 11 SE 5G;Batería;Compatible;8,89;;;6
+ZT-A11SE5-CON-COM;ZTE;Axon 11 SE 5G;Conector de carga;Compatible;4,10;;;6
+ZT-A11SE5-TAP-COM;ZTE;Axon 11 SE 5G;Tapa trasera;Compatible;5,60;;;6
+ZT-A11SE5-CTR-COM;ZTE;Axon 11 SE 5G;Cámara trasera;Compatible;7,50;;;6
+ZT-A11SE5-CFR-COM;ZTE;Axon 11 SE 5G;Cámara frontal;Compatible;3,89;;;6
+ZT-A11SE5-LEN-COM;ZTE;Axon 11 SE 5G;Lente de cámara;Compatible;2,65;;;6
+ZT-A11SE5-ALT-COM;ZTE;Axon 11 SE 5G;Altavoz;Compatible;3,70;;;6
+ZT-A11SE5-AUR-COM;ZTE;Axon 11 SE 5G;Auricular de llamada;Compatible;2,99;;;6
+ZT-A11SE5-FLX-COM;ZTE;Axon 11 SE 5G;Flex de encendido y volumen;Compatible;2,99;;;6
+ZT-A11SE5-SIM-COM;ZTE;Axon 11 SE 5G;Bandeja SIM;Compatible;2,99;;;6
+ZT-BV20-PAN-COM;ZTE;Blade V 2020;Pantalla;Compatible;16,10;15,62;15,13;6
+ZT-BV20-BAT-COM;ZTE;Blade V 2020;Batería;Compatible;8,25;;;6
+ZT-BV20-CON-COM;ZTE;Blade V 2020;Conector de carga;Compatible;4,40;;;6
+ZT-BV20-TAP-COM;ZTE;Blade V 2020;Tapa trasera;Compatible;5,55;;;6
+ZT-BV20-CTR-COM;ZTE;Blade V 2020;Cámara trasera;Compatible;6,19;;;6
+ZT-BV20-CFR-COM;ZTE;Blade V 2020;Cámara frontal;Compatible;3,65;;;6
+ZT-BV20-LEN-COM;ZTE;Blade V 2020;Lente de cámara;Compatible;2,20;;;6
+ZT-BV20-ALT-COM;ZTE;Blade V 2020;Altavoz;Compatible;3,35;;;6
+ZT-BV20-AUR-COM;ZTE;Blade V 2020;Auricular de llamada;Compatible;2,40;;;6
+ZT-BV20-FLX-COM;ZTE;Blade V 2020;Flex de encendido y volumen;Compatible;2,29;;;6
+ZT-BV20-SIM-COM;ZTE;Blade V 2020;Bandeja SIM;Compatible;2,60;;;6
+ZT-A114-PAN-COM;ZTE;Axon 11 4G;Pantalla;Compatible;16,50;16,01;15,51;6
+ZT-A114-BAT-COM;ZTE;Axon 11 4G;Batería;Compatible;8,89;;;6
+ZT-A114-CON-COM;ZTE;Axon 11 4G;Conector de carga;Compatible;4,10;;;6
+ZT-A114-TAP-COM;ZTE;Axon 11 4G;Tapa trasera;Compatible;5,60;;;6
+ZT-A114-CTR-COM;ZTE;Axon 11 4G;Cámara trasera;Compatible;7,50;;;6
+ZT-A114-CFR-COM;ZTE;Axon 11 4G;Cámara frontal;Compatible;3,89;;;6
+ZT-A114-LEN-COM;ZTE;Axon 11 4G;Lente de cámara;Compatible;2,65;;;6
+ZT-A114-ALT-COM;ZTE;Axon 11 4G;Altavoz;Compatible;3,70;;;6
+ZT-A114-AUR-COM;ZTE;Axon 11 4G;Auricular de llamada;Compatible;2,99;;;6
+ZT-A114-FLX-COM;ZTE;Axon 11 4G;Flex de encendido y volumen;Compatible;2,99;;;6
+ZT-A114-SIM-COM;ZTE;Axon 11 4G;Bandeja SIM;Compatible;2,99;;;6
+ZT-A115-PAN-COM;ZTE;Axon 11 5G;Pantalla;Compatible;16,50;16,01;15,51;6
+ZT-A115-BAT-COM;ZTE;Axon 11 5G;Batería;Compatible;8,89;;;6
+ZT-A115-CON-COM;ZTE;Axon 11 5G;Conector de carga;Compatible;4,10;;;6
+ZT-A115-TAP-COM;ZTE;Axon 11 5G;Tapa trasera;Compatible;5,60;;;6
+ZT-A115-CTR-COM;ZTE;Axon 11 5G;Cámara trasera;Compatible;7,50;;;6
+ZT-A115-CFR-COM;ZTE;Axon 11 5G;Cámara frontal;Compatible;3,89;;;6
+ZT-A115-LEN-COM;ZTE;Axon 11 5G;Lente de cámara;Compatible;2,65;;;6
+ZT-A115-ALT-COM;ZTE;Axon 11 5G;Altavoz;Compatible;3,70;;;6
+ZT-A115-AUR-COM;ZTE;Axon 11 5G;Auricular de llamada;Compatible;2,99;;;6
+ZT-A115-FLX-COM;ZTE;Axon 11 5G;Flex de encendido y volumen;Compatible;2,99;;;6
+ZT-A115-SIM-COM;ZTE;Axon 11 5G;Bandeja SIM;Compatible;2,99;;;6
+ZT-A10SP5-PAN-COM;ZTE;Axon 10s Pro 5G;Pantalla;Compatible;23,15;22,46;21,76;6
+ZT-A10SP5-BAT-COM;ZTE;Axon 10s Pro 5G;Batería;Compatible;8,50;;;6
+ZT-A10SP5-CON-COM;ZTE;Axon 10s Pro 5G;Conector de carga;Compatible;5,55;;;6
+ZT-A10SP5-TAP-COM;ZTE;Axon 10s Pro 5G;Tapa trasera;Compatible;6,89;;;6
+ZT-A10SP5-CTR-COM;ZTE;Axon 10s Pro 5G;Cámara trasera;Compatible;9,40;;;6
+ZT-A10SP5-CFR-COM;ZTE;Axon 10s Pro 5G;Cámara frontal;Compatible;4,85;;;6
+ZT-A10SP5-LEN-COM;ZTE;Axon 10s Pro 5G;Lente de cámara;Compatible;3,05;;;6
+ZT-A10SP5-ALT-COM;ZTE;Axon 10s Pro 5G;Altavoz;Compatible;4,25;;;6
+ZT-A10SP5-AUR-COM;ZTE;Axon 10s Pro 5G;Auricular de llamada;Compatible;3,25;;;6
+ZT-A10SP5-FLX-COM;ZTE;Axon 10s Pro 5G;Flex de encendido y volumen;Compatible;3,25;;;6
+ZT-A10SP5-SIM-COM;ZTE;Axon 10s Pro 5G;Bandeja SIM;Compatible;3,25;;;6
+ZT-B10P-PAN-COM;ZTE;Blade 10 Prime;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-B10P-BAT-COM;ZTE;Blade 10 Prime;Batería;Compatible;8,90;;;6
+ZT-B10P-CON-COM;ZTE;Blade 10 Prime;Conector de carga;Compatible;3,70;;;6
+ZT-B10P-TAP-COM;ZTE;Blade 10 Prime;Tapa trasera;Compatible;4,80;;;6
+ZT-B10P-CTR-COM;ZTE;Blade 10 Prime;Cámara trasera;Compatible;6,65;;;6
+ZT-B10P-CFR-COM;ZTE;Blade 10 Prime;Cámara frontal;Compatible;4,65;;;6
+ZT-B10P-LEN-COM;ZTE;Blade 10 Prime;Lente de cámara;Compatible;2,25;;;6
+ZT-B10P-ALT-COM;ZTE;Blade 10 Prime;Altavoz;Compatible;3,59;;;6
+ZT-B10P-AUR-COM;ZTE;Blade 10 Prime;Auricular de llamada;Compatible;2,69;;;6
+ZT-B10P-FLX-COM;ZTE;Blade 10 Prime;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-B10P-SIM-COM;ZTE;Blade 10 Prime;Bandeja SIM;Compatible;2,65;;;6
+ZT-BA7P-PAN-COM;ZTE;Blade A7 Prime;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BA7P-BAT-COM;ZTE;Blade A7 Prime;Batería;Compatible;8,90;;;6
+ZT-BA7P-CON-COM;ZTE;Blade A7 Prime;Conector de carga;Compatible;3,70;;;6
+ZT-BA7P-TAP-COM;ZTE;Blade A7 Prime;Tapa trasera;Compatible;4,80;;;6
+ZT-BA7P-CTR-COM;ZTE;Blade A7 Prime;Cámara trasera;Compatible;6,65;;;6
+ZT-BA7P-CFR-COM;ZTE;Blade A7 Prime;Cámara frontal;Compatible;4,65;;;6
+ZT-BA7P-LEN-COM;ZTE;Blade A7 Prime;Lente de cámara;Compatible;2,25;;;6
+ZT-BA7P-ALT-COM;ZTE;Blade A7 Prime;Altavoz;Compatible;3,59;;;6
+ZT-BA7P-AUR-COM;ZTE;Blade A7 Prime;Auricular de llamada;Compatible;2,69;;;6
+ZT-BA7P-FLX-COM;ZTE;Blade A7 Prime;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BA7P-SIM-COM;ZTE;Blade A7 Prime;Bandeja SIM;Compatible;2,65;;;6
+ZT-BMV-PAN-COM;ZTE;Blade Max View;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BMV-BAT-COM;ZTE;Blade Max View;Batería;Compatible;8,90;;;6
+ZT-BMV-CON-COM;ZTE;Blade Max View;Conector de carga;Compatible;3,70;;;6
+ZT-BMV-TAP-COM;ZTE;Blade Max View;Tapa trasera;Compatible;4,80;;;6
+ZT-BMV-CTR-COM;ZTE;Blade Max View;Cámara trasera;Compatible;6,65;;;6
+ZT-BMV-CFR-COM;ZTE;Blade Max View;Cámara frontal;Compatible;4,65;;;6
+ZT-BMV-LEN-COM;ZTE;Blade Max View;Lente de cámara;Compatible;2,25;;;6
+ZT-BMV-ALT-COM;ZTE;Blade Max View;Altavoz;Compatible;3,59;;;6
+ZT-BMV-AUR-COM;ZTE;Blade Max View;Auricular de llamada;Compatible;2,69;;;6
+ZT-BMV-FLX-COM;ZTE;Blade Max View;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BMV-SIM-COM;ZTE;Blade Max View;Bandeja SIM;Compatible;2,65;;;6
+ZT-BA20-PAN-COM;ZTE;Blade A20;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BA20-BAT-COM;ZTE;Blade A20;Batería;Compatible;8,90;;;6
+ZT-BA20-CON-COM;ZTE;Blade A20;Conector de carga;Compatible;3,70;;;6
+ZT-BA20-TAP-COM;ZTE;Blade A20;Tapa trasera;Compatible;4,80;;;6
+ZT-BA20-CTR-COM;ZTE;Blade A20;Cámara trasera;Compatible;6,65;;;6
+ZT-BA20-CFR-COM;ZTE;Blade A20;Cámara frontal;Compatible;4,65;;;6
+ZT-BA20-LEN-COM;ZTE;Blade A20;Lente de cámara;Compatible;2,25;;;6
+ZT-BA20-ALT-COM;ZTE;Blade A20;Altavoz;Compatible;3,59;;;6
+ZT-BA20-AUR-COM;ZTE;Blade A20;Auricular de llamada;Compatible;2,69;;;6
+ZT-BA20-FLX-COM;ZTE;Blade A20;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BA20-SIM-COM;ZTE;Blade A20;Bandeja SIM;Compatible;2,65;;;6
+ZT-BA519-PAN-COM;ZTE;Blade A5 2019;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BA519-BAT-COM;ZTE;Blade A5 2019;Batería;Compatible;8,90;;;6
+ZT-BA519-CON-COM;ZTE;Blade A5 2019;Conector de carga;Compatible;3,70;;;6
+ZT-BA519-TAP-COM;ZTE;Blade A5 2019;Tapa trasera;Compatible;4,80;;;6
+ZT-BA519-CTR-COM;ZTE;Blade A5 2019;Cámara trasera;Compatible;6,65;;;6
+ZT-BA519-CFR-COM;ZTE;Blade A5 2019;Cámara frontal;Compatible;4,65;;;6
+ZT-BA519-LEN-COM;ZTE;Blade A5 2019;Lente de cámara;Compatible;2,25;;;6
+ZT-BA519-ALT-COM;ZTE;Blade A5 2019;Altavoz;Compatible;3,59;;;6
+ZT-BA519-AUR-COM;ZTE;Blade A5 2019;Auricular de llamada;Compatible;2,69;;;6
+ZT-BA519-FLX-COM;ZTE;Blade A5 2019;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BA519-SIM-COM;ZTE;Blade A5 2019;Bandeja SIM;Compatible;2,65;;;6
+ZT-BA7-PAN-COM;ZTE;Blade A7;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BA7-BAT-COM;ZTE;Blade A7;Batería;Compatible;8,90;;;6
+ZT-BA7-CON-COM;ZTE;Blade A7;Conector de carga;Compatible;3,70;;;6
+ZT-BA7-TAP-COM;ZTE;Blade A7;Tapa trasera;Compatible;4,80;;;6
+ZT-BA7-CTR-COM;ZTE;Blade A7;Cámara trasera;Compatible;6,65;;;6
+ZT-BA7-CFR-COM;ZTE;Blade A7;Cámara frontal;Compatible;4,65;;;6
+ZT-BA7-LEN-COM;ZTE;Blade A7;Lente de cámara;Compatible;2,25;;;6
+ZT-BA7-ALT-COM;ZTE;Blade A7;Altavoz;Compatible;3,59;;;6
+ZT-BA7-AUR-COM;ZTE;Blade A7;Auricular de llamada;Compatible;2,69;;;6
+ZT-BA7-FLX-COM;ZTE;Blade A7;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BA7-SIM-COM;ZTE;Blade A7;Bandeja SIM;Compatible;2,65;;;6
+ZT-BA319-PAN-COM;ZTE;Blade A3 2019;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BA319-BAT-COM;ZTE;Blade A3 2019;Batería;Compatible;8,90;;;6
+ZT-BA319-CON-COM;ZTE;Blade A3 2019;Conector de carga;Compatible;3,70;;;6
+ZT-BA319-TAP-COM;ZTE;Blade A3 2019;Tapa trasera;Compatible;4,80;;;6
+ZT-BA319-CTR-COM;ZTE;Blade A3 2019;Cámara trasera;Compatible;6,65;;;6
+ZT-BA319-CFR-COM;ZTE;Blade A3 2019;Cámara frontal;Compatible;4,65;;;6
+ZT-BA319-LEN-COM;ZTE;Blade A3 2019;Lente de cámara;Compatible;2,25;;;6
+ZT-BA319-ALT-COM;ZTE;Blade A3 2019;Altavoz;Compatible;3,59;;;6
+ZT-BA319-AUR-COM;ZTE;Blade A3 2019;Auricular de llamada;Compatible;2,69;;;6
+ZT-BA319-FLX-COM;ZTE;Blade A3 2019;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BA319-SIM-COM;ZTE;Blade A3 2019;Bandeja SIM;Compatible;2,65;;;6
+ZT-BL8-PAN-COM;ZTE;Blade L8;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BL8-BAT-COM;ZTE;Blade L8;Batería;Compatible;8,90;;;6
+ZT-BL8-CON-COM;ZTE;Blade L8;Conector de carga;Compatible;3,70;;;6
+ZT-BL8-TAP-COM;ZTE;Blade L8;Tapa trasera;Compatible;4,80;;;6
+ZT-BL8-CTR-COM;ZTE;Blade L8;Cámara trasera;Compatible;6,65;;;6
+ZT-BL8-CFR-COM;ZTE;Blade L8;Cámara frontal;Compatible;4,65;;;6
+ZT-BL8-LEN-COM;ZTE;Blade L8;Lente de cámara;Compatible;2,25;;;6
+ZT-BL8-ALT-COM;ZTE;Blade L8;Altavoz;Compatible;3,59;;;6
+ZT-BL8-AUR-COM;ZTE;Blade L8;Auricular de llamada;Compatible;2,69;;;6
+ZT-BL8-FLX-COM;ZTE;Blade L8;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BL8-SIM-COM;ZTE;Blade L8;Bandeja SIM;Compatible;2,65;;;6
+ZT-A10P-PAN-COM;ZTE;Axon 10 Pro;Pantalla;Compatible;21,80;21,15;20,49;6
+ZT-A10P-BAT-COM;ZTE;Axon 10 Pro;Batería;Compatible;9,95;;;6
+ZT-A10P-CON-COM;ZTE;Axon 10 Pro;Conector de carga;Compatible;5,79;;;6
+ZT-A10P-TAP-COM;ZTE;Axon 10 Pro;Tapa trasera;Compatible;6,75;;;6
+ZT-A10P-CTR-COM;ZTE;Axon 10 Pro;Cámara trasera;Compatible;11,55;11,20;10,86;6
+ZT-A10P-CFR-COM;ZTE;Axon 10 Pro;Cámara frontal;Compatible;6,59;;;6
+ZT-A10P-LEN-COM;ZTE;Axon 10 Pro;Lente de cámara;Compatible;3,05;;;6
+ZT-A10P-ALT-COM;ZTE;Axon 10 Pro;Altavoz;Compatible;4,60;;;6
+ZT-A10P-AUR-COM;ZTE;Axon 10 Pro;Auricular de llamada;Compatible;3,60;;;6
+ZT-A10P-FLX-COM;ZTE;Axon 10 Pro;Flex de encendido y volumen;Compatible;3,50;;;6
+ZT-A10P-SIM-COM;ZTE;Axon 10 Pro;Bandeja SIM;Compatible;3,15;;;6
+ZT-A10P5-PAN-COM;ZTE;Axon 10 Pro 5G;Pantalla;Compatible;21,80;21,15;20,49;6
+ZT-A10P5-BAT-COM;ZTE;Axon 10 Pro 5G;Batería;Compatible;9,95;;;6
+ZT-A10P5-CON-COM;ZTE;Axon 10 Pro 5G;Conector de carga;Compatible;5,79;;;6
+ZT-A10P5-TAP-COM;ZTE;Axon 10 Pro 5G;Tapa trasera;Compatible;6,75;;;6
+ZT-A10P5-CTR-COM;ZTE;Axon 10 Pro 5G;Cámara trasera;Compatible;11,55;11,20;10,86;6
+ZT-A10P5-CFR-COM;ZTE;Axon 10 Pro 5G;Cámara frontal;Compatible;6,59;;;6
+ZT-A10P5-LEN-COM;ZTE;Axon 10 Pro 5G;Lente de cámara;Compatible;3,05;;;6
+ZT-A10P5-ALT-COM;ZTE;Axon 10 Pro 5G;Altavoz;Compatible;4,60;;;6
+ZT-A10P5-AUR-COM;ZTE;Axon 10 Pro 5G;Auricular de llamada;Compatible;3,60;;;6
+ZT-A10P5-FLX-COM;ZTE;Axon 10 Pro 5G;Flex de encendido y volumen;Compatible;3,50;;;6
+ZT-A10P5-SIM-COM;ZTE;Axon 10 Pro 5G;Bandeja SIM;Compatible;3,15;;;6
+ZT-BV10V-PAN-COM;ZTE;Blade V10 Vita;Pantalla;Compatible;15,15;14,70;14,24;6
+ZT-BV10V-BAT-COM;ZTE;Blade V10 Vita;Batería;Compatible;9,65;;;6
+ZT-BV10V-CON-COM;ZTE;Blade V10 Vita;Conector de carga;Compatible;4,60;;;6
+ZT-BV10V-TAP-COM;ZTE;Blade V10 Vita;Tapa trasera;Compatible;5,40;;;6
+ZT-BV10V-CTR-COM;ZTE;Blade V10 Vita;Cámara trasera;Compatible;7,59;;;6
+ZT-BV10V-CFR-COM;ZTE;Blade V10 Vita;Cámara frontal;Compatible;4,99;;;6
+ZT-BV10V-LEN-COM;ZTE;Blade V10 Vita;Lente de cámara;Compatible;2,19;;;6
+ZT-BV10V-ALT-COM;ZTE;Blade V10 Vita;Altavoz;Compatible;3,65;;;6
+ZT-BV10V-AUR-COM;ZTE;Blade V10 Vita;Auricular de llamada;Compatible;2,65;;;6
+ZT-BV10V-FLX-COM;ZTE;Blade V10 Vita;Flex de encendido y volumen;Compatible;2,49;;;6
+ZT-BV10V-SIM-COM;ZTE;Blade V10 Vita;Bandeja SIM;Compatible;2,55;;;6
+ZT-BA7V-PAN-COM;ZTE;Blade A7 Vita;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BA7V-BAT-COM;ZTE;Blade A7 Vita;Batería;Compatible;8,90;;;6
+ZT-BA7V-CON-COM;ZTE;Blade A7 Vita;Conector de carga;Compatible;3,70;;;6
+ZT-BA7V-TAP-COM;ZTE;Blade A7 Vita;Tapa trasera;Compatible;4,80;;;6
+ZT-BA7V-CTR-COM;ZTE;Blade A7 Vita;Cámara trasera;Compatible;6,65;;;6
+ZT-BA7V-CFR-COM;ZTE;Blade A7 Vita;Cámara frontal;Compatible;4,65;;;6
+ZT-BA7V-LEN-COM;ZTE;Blade A7 Vita;Lente de cámara;Compatible;2,25;;;6
+ZT-BA7V-ALT-COM;ZTE;Blade A7 Vita;Altavoz;Compatible;3,59;;;6
+ZT-BA7V-AUR-COM;ZTE;Blade A7 Vita;Auricular de llamada;Compatible;2,69;;;6
+ZT-BA7V-FLX-COM;ZTE;Blade A7 Vita;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BA7V-SIM-COM;ZTE;Blade A7 Vita;Bandeja SIM;Compatible;2,65;;;6
+ZT-A9P-PAN-COM;ZTE;Axon 9 Pro;Pantalla;Compatible;21,80;21,15;20,49;6
+ZT-A9P-BAT-COM;ZTE;Axon 9 Pro;Batería;Compatible;9,95;;;6
+ZT-A9P-CON-COM;ZTE;Axon 9 Pro;Conector de carga;Compatible;5,79;;;6
+ZT-A9P-TAP-COM;ZTE;Axon 9 Pro;Tapa trasera;Compatible;6,75;;;6
+ZT-A9P-CTR-COM;ZTE;Axon 9 Pro;Cámara trasera;Compatible;11,55;11,20;10,86;6
+ZT-A9P-CFR-COM;ZTE;Axon 9 Pro;Cámara frontal;Compatible;6,59;;;6
+ZT-A9P-LEN-COM;ZTE;Axon 9 Pro;Lente de cámara;Compatible;3,05;;;6
+ZT-A9P-ALT-COM;ZTE;Axon 9 Pro;Altavoz;Compatible;4,60;;;6
+ZT-A9P-AUR-COM;ZTE;Axon 9 Pro;Auricular de llamada;Compatible;3,60;;;6
+ZT-A9P-FLX-COM;ZTE;Axon 9 Pro;Flex de encendido y volumen;Compatible;3,50;;;6
+ZT-A9P-SIM-COM;ZTE;Axon 9 Pro;Bandeja SIM;Compatible;3,15;;;6
+ZT-BV9-PAN-COM;ZTE;Blade V9;Pantalla;Compatible;15,15;14,70;14,24;6
+ZT-BV9-BAT-COM;ZTE;Blade V9;Batería;Compatible;9,65;;;6
+ZT-BV9-CON-COM;ZTE;Blade V9;Conector de carga;Compatible;4,60;;;6
+ZT-BV9-TAP-COM;ZTE;Blade V9;Tapa trasera;Compatible;5,40;;;6
+ZT-BV9-CTR-COM;ZTE;Blade V9;Cámara trasera;Compatible;7,59;;;6
+ZT-BV9-CFR-COM;ZTE;Blade V9;Cámara frontal;Compatible;4,99;;;6
+ZT-BV9-LEN-COM;ZTE;Blade V9;Lente de cámara;Compatible;2,19;;;6
+ZT-BV9-ALT-COM;ZTE;Blade V9;Altavoz;Compatible;3,65;;;6
+ZT-BV9-AUR-COM;ZTE;Blade V9;Auricular de llamada;Compatible;2,65;;;6
+ZT-BV9-FLX-COM;ZTE;Blade V9;Flex de encendido y volumen;Compatible;2,49;;;6
+ZT-BV9-SIM-COM;ZTE;Blade V9;Bandeja SIM;Compatible;2,55;;;6
+ZT-BV9V-PAN-COM;ZTE;Blade V9 Vita;Pantalla;Compatible;15,15;14,70;14,24;6
+ZT-BV9V-BAT-COM;ZTE;Blade V9 Vita;Batería;Compatible;9,65;;;6
+ZT-BV9V-CON-COM;ZTE;Blade V9 Vita;Conector de carga;Compatible;4,60;;;6
+ZT-BV9V-TAP-COM;ZTE;Blade V9 Vita;Tapa trasera;Compatible;5,40;;;6
+ZT-BV9V-CTR-COM;ZTE;Blade V9 Vita;Cámara trasera;Compatible;7,59;;;6
+ZT-BV9V-CFR-COM;ZTE;Blade V9 Vita;Cámara frontal;Compatible;4,99;;;6
+ZT-BV9V-LEN-COM;ZTE;Blade V9 Vita;Lente de cámara;Compatible;2,19;;;6
+ZT-BV9V-ALT-COM;ZTE;Blade V9 Vita;Altavoz;Compatible;3,65;;;6
+ZT-BV9V-AUR-COM;ZTE;Blade V9 Vita;Auricular de llamada;Compatible;2,65;;;6
+ZT-BV9V-FLX-COM;ZTE;Blade V9 Vita;Flex de encendido y volumen;Compatible;2,49;;;6
+ZT-BV9V-SIM-COM;ZTE;Blade V9 Vita;Bandeja SIM;Compatible;2,55;;;6
+ZT-TGO-PAN-COM;ZTE;Tempo Go;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-TGO-BAT-COM;ZTE;Tempo Go;Batería;Compatible;8,90;;;6
+ZT-TGO-CON-COM;ZTE;Tempo Go;Conector de carga;Compatible;3,70;;;6
+ZT-TGO-TAP-COM;ZTE;Tempo Go;Tapa trasera;Compatible;4,80;;;6
+ZT-TGO-CTR-COM;ZTE;Tempo Go;Cámara trasera;Compatible;6,65;;;6
+ZT-TGO-CFR-COM;ZTE;Tempo Go;Cámara frontal;Compatible;4,65;;;6
+ZT-TGO-LEN-COM;ZTE;Tempo Go;Lente de cámara;Compatible;2,25;;;6
+ZT-TGO-ALT-COM;ZTE;Tempo Go;Altavoz;Compatible;3,59;;;6
+ZT-TGO-AUR-COM;ZTE;Tempo Go;Auricular de llamada;Compatible;2,69;;;6
+ZT-TGO-FLX-COM;ZTE;Tempo Go;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-TGO-SIM-COM;ZTE;Tempo Go;Bandeja SIM;Compatible;2,65;;;6
+ZT-BLADEA3-PAN-COM;ZTE;Blade A3;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BLADEA3-BAT-COM;ZTE;Blade A3;Batería;Compatible;8,90;;;6
+ZT-BLADEA3-CON-COM;ZTE;Blade A3;Conector de carga;Compatible;3,70;;;6
+ZT-BLADEA3-TAP-COM;ZTE;Blade A3;Tapa trasera;Compatible;4,80;;;6
+ZT-BLADEA3-CTR-COM;ZTE;Blade A3;Cámara trasera;Compatible;6,65;;;6
+ZT-BLADEA3-CFR-COM;ZTE;Blade A3;Cámara frontal;Compatible;4,65;;;6
+ZT-BLADEA3-LEN-COM;ZTE;Blade A3;Lente de cámara;Compatible;2,25;;;6
+ZT-BLADEA3-ALT-COM;ZTE;Blade A3;Altavoz;Compatible;3,59;;;6
+ZT-BLADEA3-AUR-COM;ZTE;Blade A3;Auricular de llamada;Compatible;2,69;;;6
+ZT-BLADEA3-FLX-COM;ZTE;Blade A3;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BLADEA3-SIM-COM;ZTE;Blade A3;Bandeja SIM;Compatible;2,65;;;6
+ZT-AXONM-PAN-COM;ZTE;Axon M;Pantalla;Compatible;15,55;15,08;14,62;6
+ZT-AXONM-BAT-COM;ZTE;Axon M;Batería;Compatible;10,40;10,09;9,78;6
+ZT-AXONM-CON-COM;ZTE;Axon M;Conector de carga;Compatible;4,30;;;6
+ZT-AXONM-TAP-COM;ZTE;Axon M;Tapa trasera;Compatible;5,49;;;6
+ZT-AXONM-CTR-COM;ZTE;Axon M;Cámara trasera;Compatible;9,20;;;6
+ZT-AXONM-CFR-COM;ZTE;Axon M;Cámara frontal;Compatible;5,25;;;6
+ZT-AXONM-LEN-COM;ZTE;Axon M;Lente de cámara;Compatible;2,60;;;6
+ZT-AXONM-ALT-COM;ZTE;Axon M;Altavoz;Compatible;4,05;;;6
+ZT-AXONM-AUR-COM;ZTE;Axon M;Auricular de llamada;Compatible;3,30;;;6
+ZT-AXONM-FLX-COM;ZTE;Axon M;Flex de encendido y volumen;Compatible;3,25;;;6
+ZT-AXONM-SIM-COM;ZTE;Axon M;Bandeja SIM;Compatible;2,90;;;6
+ZT-BX-PAN-COM;ZTE;Blade X;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BX-BAT-COM;ZTE;Blade X;Batería;Compatible;8,90;;;6
+ZT-BX-CON-COM;ZTE;Blade X;Conector de carga;Compatible;3,70;;;6
+ZT-BX-TAP-COM;ZTE;Blade X;Tapa trasera;Compatible;4,80;;;6
+ZT-BX-CTR-COM;ZTE;Blade X;Cámara trasera;Compatible;6,65;;;6
+ZT-BX-CFR-COM;ZTE;Blade X;Cámara frontal;Compatible;4,65;;;6
+ZT-BX-LEN-COM;ZTE;Blade X;Lente de cámara;Compatible;2,25;;;6
+ZT-BX-ALT-COM;ZTE;Blade X;Altavoz;Compatible;3,59;;;6
+ZT-BX-AUR-COM;ZTE;Blade X;Auricular de llamada;Compatible;2,69;;;6
+ZT-BX-FLX-COM;ZTE;Blade X;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BX-SIM-COM;ZTE;Blade X;Bandeja SIM;Compatible;2,65;;;6
+ZT-BA6-PAN-COM;ZTE;Blade A6;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BA6-BAT-COM;ZTE;Blade A6;Batería;Compatible;8,90;;;6
+ZT-BA6-CON-COM;ZTE;Blade A6;Conector de carga;Compatible;3,70;;;6
+ZT-BA6-TAP-COM;ZTE;Blade A6;Tapa trasera;Compatible;4,80;;;6
+ZT-BA6-CTR-COM;ZTE;Blade A6;Cámara trasera;Compatible;6,65;;;6
+ZT-BA6-CFR-COM;ZTE;Blade A6;Cámara frontal;Compatible;4,65;;;6
+ZT-BA6-LEN-COM;ZTE;Blade A6;Lente de cámara;Compatible;2,25;;;6
+ZT-BA6-ALT-COM;ZTE;Blade A6;Altavoz;Compatible;3,59;;;6
+ZT-BA6-AUR-COM;ZTE;Blade A6;Auricular de llamada;Compatible;2,69;;;6
+ZT-BA6-FLX-COM;ZTE;Blade A6;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BA6-SIM-COM;ZTE;Blade A6;Bandeja SIM;Compatible;2,65;;;6
+ZT-M2-PAN-COM;ZTE;Maven 2;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-M2-BAT-COM;ZTE;Maven 2;Batería;Compatible;8,90;;;6
+ZT-M2-CON-COM;ZTE;Maven 2;Conector de carga;Compatible;3,70;;;6
+ZT-M2-TAP-COM;ZTE;Maven 2;Tapa trasera;Compatible;4,80;;;6
+ZT-M2-CTR-COM;ZTE;Maven 2;Cámara trasera;Compatible;6,65;;;6
+ZT-M2-CFR-COM;ZTE;Maven 2;Cámara frontal;Compatible;4,65;;;6
+ZT-M2-LEN-COM;ZTE;Maven 2;Lente de cámara;Compatible;2,25;;;6
+ZT-M2-ALT-COM;ZTE;Maven 2;Altavoz;Compatible;3,59;;;6
+ZT-M2-AUR-COM;ZTE;Maven 2;Auricular de llamada;Compatible;2,69;;;6
+ZT-M2-FLX-COM;ZTE;Maven 2;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-M2-SIM-COM;ZTE;Maven 2;Bandeja SIM;Compatible;2,65;;;6
+ZT-A7S-PAN-COM;ZTE;Axon 7s;Pantalla;Compatible;15,55;15,08;14,62;6
+ZT-A7S-BAT-COM;ZTE;Axon 7s;Batería;Compatible;10,40;10,09;9,78;6
+ZT-A7S-CON-COM;ZTE;Axon 7s;Conector de carga;Compatible;4,30;;;6
+ZT-A7S-TAP-COM;ZTE;Axon 7s;Tapa trasera;Compatible;5,49;;;6
+ZT-A7S-CTR-COM;ZTE;Axon 7s;Cámara trasera;Compatible;9,20;;;6
+ZT-A7S-CFR-COM;ZTE;Axon 7s;Cámara frontal;Compatible;5,25;;;6
+ZT-A7S-LEN-COM;ZTE;Axon 7s;Lente de cámara;Compatible;2,60;;;6
+ZT-A7S-ALT-COM;ZTE;Axon 7s;Altavoz;Compatible;4,05;;;6
+ZT-A7S-AUR-COM;ZTE;Axon 7s;Auricular de llamada;Compatible;3,30;;;6
+ZT-A7S-FLX-COM;ZTE;Axon 7s;Flex de encendido y volumen;Compatible;3,25;;;6
+ZT-A7S-SIM-COM;ZTE;Axon 7s;Bandeja SIM;Compatible;2,90;;;6
+ZT-A7M-PAN-COM;ZTE;Axon 7 Max;Pantalla;Compatible;15,55;15,08;14,62;6
+ZT-A7M-BAT-COM;ZTE;Axon 7 Max;Batería;Compatible;10,40;10,09;9,78;6
+ZT-A7M-CON-COM;ZTE;Axon 7 Max;Conector de carga;Compatible;4,30;;;6
+ZT-A7M-TAP-COM;ZTE;Axon 7 Max;Tapa trasera;Compatible;5,49;;;6
+ZT-A7M-CTR-COM;ZTE;Axon 7 Max;Cámara trasera;Compatible;9,20;;;6
+ZT-A7M-CFR-COM;ZTE;Axon 7 Max;Cámara frontal;Compatible;5,25;;;6
+ZT-A7M-LEN-COM;ZTE;Axon 7 Max;Lente de cámara;Compatible;2,60;;;6
+ZT-A7M-ALT-COM;ZTE;Axon 7 Max;Altavoz;Compatible;4,05;;;6
+ZT-A7M-AUR-COM;ZTE;Axon 7 Max;Auricular de llamada;Compatible;3,30;;;6
+ZT-A7M-FLX-COM;ZTE;Axon 7 Max;Flex de encendido y volumen;Compatible;3,25;;;6
+ZT-A7M-SIM-COM;ZTE;Axon 7 Max;Bandeja SIM;Compatible;2,90;;;6
+ZT-A7MN-PAN-COM;ZTE;Axon 7 mini;Pantalla;Compatible;15,55;15,08;14,62;6
+ZT-A7MN-BAT-COM;ZTE;Axon 7 mini;Batería;Compatible;10,40;10,09;9,78;6
+ZT-A7MN-CON-COM;ZTE;Axon 7 mini;Conector de carga;Compatible;4,30;;;6
+ZT-A7MN-TAP-COM;ZTE;Axon 7 mini;Tapa trasera;Compatible;5,49;;;6
+ZT-A7MN-CTR-COM;ZTE;Axon 7 mini;Cámara trasera;Compatible;9,20;;;6
+ZT-A7MN-CFR-COM;ZTE;Axon 7 mini;Cámara frontal;Compatible;5,25;;;6
+ZT-A7MN-LEN-COM;ZTE;Axon 7 mini;Lente de cámara;Compatible;2,60;;;6
+ZT-A7MN-ALT-COM;ZTE;Axon 7 mini;Altavoz;Compatible;4,05;;;6
+ZT-A7MN-AUR-COM;ZTE;Axon 7 mini;Auricular de llamada;Compatible;3,30;;;6
+ZT-A7MN-FLX-COM;ZTE;Axon 7 mini;Flex de encendido y volumen;Compatible;3,25;;;6
+ZT-A7MN-SIM-COM;ZTE;Axon 7 mini;Bandeja SIM;Compatible;2,90;;;6
+ZT-A7-PAN-INC;ZTE;Axon 7;Pantalla;Incell;18,15;17,61;17,06;6
+ZT-A7-BAT-COM;ZTE;Axon 7;Batería;Compatible;10,40;10,09;9,78;6
+ZT-A7-CON-COM;ZTE;Axon 7;Conector de carga;Compatible;4,30;;;6
+ZT-A7-TAP-COM;ZTE;Axon 7;Tapa trasera;Compatible;5,49;;;6
+ZT-A7-CTR-COM;ZTE;Axon 7;Cámara trasera;Compatible;9,20;;;6
+ZT-A7-CFR-COM;ZTE;Axon 7;Cámara frontal;Compatible;5,25;;;6
+ZT-A7-LEN-COM;ZTE;Axon 7;Lente de cámara;Compatible;2,60;;;6
+ZT-A7-ALT-COM;ZTE;Axon 7;Altavoz;Compatible;4,05;;;6
+ZT-A7-AUR-COM;ZTE;Axon 7;Auricular de llamada;Compatible;3,30;;;6
+ZT-A7-FLX-COM;ZTE;Axon 7;Flex de encendido y volumen;Compatible;3,25;;;6
+ZT-A7-SIM-COM;ZTE;Axon 7;Bandeja SIM;Compatible;2,90;;;6
+ZT-BV7-PAN-COM;ZTE;Blade V7;Pantalla;Compatible;15,15;14,70;14,24;6
+ZT-BV7-BAT-COM;ZTE;Blade V7;Batería;Compatible;9,65;;;6
+ZT-BV7-CON-COM;ZTE;Blade V7;Conector de carga;Compatible;4,60;;;6
+ZT-BV7-TAP-COM;ZTE;Blade V7;Tapa trasera;Compatible;5,40;;;6
+ZT-BV7-CTR-COM;ZTE;Blade V7;Cámara trasera;Compatible;7,59;;;6
+ZT-BV7-CFR-COM;ZTE;Blade V7;Cámara frontal;Compatible;4,99;;;6
+ZT-BV7-LEN-COM;ZTE;Blade V7;Lente de cámara;Compatible;2,19;;;6
+ZT-BV7-ALT-COM;ZTE;Blade V7;Altavoz;Compatible;3,65;;;6
+ZT-BV7-AUR-COM;ZTE;Blade V7;Auricular de llamada;Compatible;2,65;;;6
+ZT-BV7-FLX-COM;ZTE;Blade V7;Flex de encendido y volumen;Compatible;2,49;;;6
+ZT-BV7-SIM-COM;ZTE;Blade V7;Bandeja SIM;Compatible;2,55;;;6
+ZT-BV7L-PAN-COM;ZTE;Blade V7 Lite;Pantalla;Compatible;15,15;14,70;14,24;6
+ZT-BV7L-BAT-COM;ZTE;Blade V7 Lite;Batería;Compatible;9,65;;;6
+ZT-BV7L-CON-COM;ZTE;Blade V7 Lite;Conector de carga;Compatible;4,60;;;6
+ZT-BV7L-TAP-COM;ZTE;Blade V7 Lite;Tapa trasera;Compatible;5,40;;;6
+ZT-BV7L-CTR-COM;ZTE;Blade V7 Lite;Cámara trasera;Compatible;7,59;;;6
+ZT-BV7L-CFR-COM;ZTE;Blade V7 Lite;Cámara frontal;Compatible;4,99;;;6
+ZT-BV7L-LEN-COM;ZTE;Blade V7 Lite;Lente de cámara;Compatible;2,19;;;6
+ZT-BV7L-ALT-COM;ZTE;Blade V7 Lite;Altavoz;Compatible;3,65;;;6
+ZT-BV7L-AUR-COM;ZTE;Blade V7 Lite;Auricular de llamada;Compatible;2,65;;;6
+ZT-BV7L-FLX-COM;ZTE;Blade V7 Lite;Flex de encendido y volumen;Compatible;2,49;;;6
+ZT-BV7L-SIM-COM;ZTE;Blade V7 Lite;Bandeja SIM;Compatible;2,55;;;6
+ZT-AM-PAN-COM;ZTE;Axon Max;Pantalla;Compatible;15,55;15,08;14,62;6
+ZT-AM-BAT-COM;ZTE;Axon Max;Batería;Compatible;10,40;10,09;9,78;6
+ZT-AM-CON-COM;ZTE;Axon Max;Conector de carga;Compatible;4,30;;;6
+ZT-AM-TAP-COM;ZTE;Axon Max;Tapa trasera;Compatible;5,49;;;6
+ZT-AM-CTR-COM;ZTE;Axon Max;Cámara trasera;Compatible;9,20;;;6
+ZT-AM-CFR-COM;ZTE;Axon Max;Cámara frontal;Compatible;5,25;;;6
+ZT-AM-LEN-COM;ZTE;Axon Max;Lente de cámara;Compatible;2,60;;;6
+ZT-AM-ALT-COM;ZTE;Axon Max;Altavoz;Compatible;4,05;;;6
+ZT-AM-AUR-COM;ZTE;Axon Max;Auricular de llamada;Compatible;3,30;;;6
+ZT-AM-FLX-COM;ZTE;Axon Max;Flex de encendido y volumen;Compatible;3,25;;;6
+ZT-AM-SIM-COM;ZTE;Axon Max;Bandeja SIM;Compatible;2,90;;;6
+ZT-BX3-PAN-COM;ZTE;Blade X3;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BX3-BAT-COM;ZTE;Blade X3;Batería;Compatible;8,90;;;6
+ZT-BX3-CON-COM;ZTE;Blade X3;Conector de carga;Compatible;3,70;;;6
+ZT-BX3-TAP-COM;ZTE;Blade X3;Tapa trasera;Compatible;4,80;;;6
+ZT-BX3-CTR-COM;ZTE;Blade X3;Cámara trasera;Compatible;6,65;;;6
+ZT-BX3-CFR-COM;ZTE;Blade X3;Cámara frontal;Compatible;4,65;;;6
+ZT-BX3-LEN-COM;ZTE;Blade X3;Lente de cámara;Compatible;2,25;;;6
+ZT-BX3-ALT-COM;ZTE;Blade X3;Altavoz;Compatible;3,59;;;6
+ZT-BX3-AUR-COM;ZTE;Blade X3;Auricular de llamada;Compatible;2,69;;;6
+ZT-BX3-FLX-COM;ZTE;Blade X3;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BX3-SIM-COM;ZTE;Blade X3;Bandeja SIM;Compatible;2,65;;;6
+ZT-BX5-PAN-COM;ZTE;Blade X5;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BX5-BAT-COM;ZTE;Blade X5;Batería;Compatible;8,90;;;6
+ZT-BX5-CON-COM;ZTE;Blade X5;Conector de carga;Compatible;3,70;;;6
+ZT-BX5-TAP-COM;ZTE;Blade X5;Tapa trasera;Compatible;4,80;;;6
+ZT-BX5-CTR-COM;ZTE;Blade X5;Cámara trasera;Compatible;6,65;;;6
+ZT-BX5-CFR-COM;ZTE;Blade X5;Cámara frontal;Compatible;4,65;;;6
+ZT-BX5-LEN-COM;ZTE;Blade X5;Lente de cámara;Compatible;2,25;;;6
+ZT-BX5-ALT-COM;ZTE;Blade X5;Altavoz;Compatible;3,59;;;6
+ZT-BX5-AUR-COM;ZTE;Blade X5;Auricular de llamada;Compatible;2,69;;;6
+ZT-BX5-FLX-COM;ZTE;Blade X5;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BX5-SIM-COM;ZTE;Blade X5;Bandeja SIM;Compatible;2,65;;;6
+ZT-BX9-PAN-COM;ZTE;Blade X9;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BX9-BAT-COM;ZTE;Blade X9;Batería;Compatible;8,90;;;6
+ZT-BX9-CON-COM;ZTE;Blade X9;Conector de carga;Compatible;3,70;;;6
+ZT-BX9-TAP-COM;ZTE;Blade X9;Tapa trasera;Compatible;4,80;;;6
+ZT-BX9-CTR-COM;ZTE;Blade X9;Cámara trasera;Compatible;6,65;;;6
+ZT-BX9-CFR-COM;ZTE;Blade X9;Cámara frontal;Compatible;4,65;;;6
+ZT-BX9-LEN-COM;ZTE;Blade X9;Lente de cámara;Compatible;2,25;;;6
+ZT-BX9-ALT-COM;ZTE;Blade X9;Altavoz;Compatible;3,59;;;6
+ZT-BX9-AUR-COM;ZTE;Blade X9;Auricular de llamada;Compatible;2,69;;;6
+ZT-BX9-FLX-COM;ZTE;Blade X9;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BX9-SIM-COM;ZTE;Blade X9;Bandeja SIM;Compatible;2,65;;;6
+ZT-A-PAN-COM;ZTE;Axon;Pantalla;Compatible;15,55;15,08;14,62;6
+ZT-A-BAT-COM;ZTE;Axon;Batería;Compatible;10,19;9,88;9,58;6
+ZT-A-CON-COM;ZTE;Axon;Conector de carga;Compatible;4,30;;;6
+ZT-A-TAP-COM;ZTE;Axon;Tapa trasera;Compatible;5,49;;;6
+ZT-A-CTR-COM;ZTE;Axon;Cámara trasera;Compatible;9,20;;;6
+ZT-A-CFR-COM;ZTE;Axon;Cámara frontal;Compatible;5,25;;;6
+ZT-A-LEN-COM;ZTE;Axon;Lente de cámara;Compatible;2,60;;;6
+ZT-A-ALT-COM;ZTE;Axon;Altavoz;Compatible;4,05;;;6
+ZT-A-AUR-COM;ZTE;Axon;Auricular de llamada;Compatible;3,30;;;6
+ZT-A-FLX-COM;ZTE;Axon;Flex de encendido y volumen;Compatible;3,25;;;6
+ZT-A-SIM-COM;ZTE;Axon;Bandeja SIM;Compatible;2,90;;;6
+ZT-AMN-PAN-COM;ZTE;Axon mini;Pantalla;Compatible;15,55;15,08;14,62;6
+ZT-AMN-BAT-COM;ZTE;Axon mini;Batería;Compatible;10,40;10,09;9,78;6
+ZT-AMN-CON-COM;ZTE;Axon mini;Conector de carga;Compatible;4,30;;;6
+ZT-AMN-TAP-COM;ZTE;Axon mini;Tapa trasera;Compatible;5,49;;;6
+ZT-AMN-CTR-COM;ZTE;Axon mini;Cámara trasera;Compatible;9,20;;;6
+ZT-AMN-CFR-COM;ZTE;Axon mini;Cámara frontal;Compatible;5,25;;;6
+ZT-AMN-LEN-COM;ZTE;Axon mini;Lente de cámara;Compatible;2,60;;;6
+ZT-AMN-ALT-COM;ZTE;Axon mini;Altavoz;Compatible;4,05;;;6
+ZT-AMN-AUR-COM;ZTE;Axon mini;Auricular de llamada;Compatible;3,30;;;6
+ZT-AMN-FLX-COM;ZTE;Axon mini;Flex de encendido y volumen;Compatible;3,25;;;6
+ZT-AMN-SIM-COM;ZTE;Axon mini;Bandeja SIM;Compatible;2,90;;;6
+ZT-BS7-PAN-COM;ZTE;Blade S7;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BS7-BAT-COM;ZTE;Blade S7;Batería;Compatible;8,90;;;6
+ZT-BS7-CON-COM;ZTE;Blade S7;Conector de carga;Compatible;3,70;;;6
+ZT-BS7-TAP-COM;ZTE;Blade S7;Tapa trasera;Compatible;4,80;;;6
+ZT-BS7-CTR-COM;ZTE;Blade S7;Cámara trasera;Compatible;6,65;;;6
+ZT-BS7-CFR-COM;ZTE;Blade S7;Cámara frontal;Compatible;4,65;;;6
+ZT-BS7-LEN-COM;ZTE;Blade S7;Lente de cámara;Compatible;2,25;;;6
+ZT-BS7-ALT-COM;ZTE;Blade S7;Altavoz;Compatible;3,59;;;6
+ZT-BS7-AUR-COM;ZTE;Blade S7;Auricular de llamada;Compatible;2,69;;;6
+ZT-BS7-FLX-COM;ZTE;Blade S7;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BS7-SIM-COM;ZTE;Blade S7;Bandeja SIM;Compatible;2,65;;;6
+ZT-AE-PAN-COM;ZTE;Axon Elite;Pantalla;Compatible;15,55;15,08;14,62;6
+ZT-AE-BAT-COM;ZTE;Axon Elite;Batería;Compatible;10,40;10,09;9,78;6
+ZT-AE-CON-COM;ZTE;Axon Elite;Conector de carga;Compatible;4,30;;;6
+ZT-AE-TAP-COM;ZTE;Axon Elite;Tapa trasera;Compatible;5,49;;;6
+ZT-AE-CTR-COM;ZTE;Axon Elite;Cámara trasera;Compatible;9,20;;;6
+ZT-AE-CFR-COM;ZTE;Axon Elite;Cámara frontal;Compatible;5,25;;;6
+ZT-AE-LEN-COM;ZTE;Axon Elite;Lente de cámara;Compatible;2,60;;;6
+ZT-AE-ALT-COM;ZTE;Axon Elite;Altavoz;Compatible;4,05;;;6
+ZT-AE-AUR-COM;ZTE;Axon Elite;Auricular de llamada;Compatible;3,30;;;6
+ZT-AE-FLX-COM;ZTE;Axon Elite;Flex de encendido y volumen;Compatible;3,25;;;6
+ZT-AE-SIM-COM;ZTE;Axon Elite;Bandeja SIM;Compatible;2,90;;;6
+ZT-MDUO-PAN-COM;ZTE;Max Duo;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-MDUO-BAT-COM;ZTE;Max Duo;Batería;Compatible;8,90;;;6
+ZT-MDUO-CON-COM;ZTE;Max Duo;Conector de carga;Compatible;3,70;;;6
+ZT-MDUO-TAP-COM;ZTE;Max Duo;Tapa trasera;Compatible;4,80;;;6
+ZT-MDUO-CTR-COM;ZTE;Max Duo;Cámara trasera;Compatible;6,65;;;6
+ZT-MDUO-CFR-COM;ZTE;Max Duo;Cámara frontal;Compatible;4,65;;;6
+ZT-MDUO-LEN-COM;ZTE;Max Duo;Lente de cámara;Compatible;2,25;;;6
+ZT-MDUO-ALT-COM;ZTE;Max Duo;Altavoz;Compatible;3,59;;;6
+ZT-MDUO-AUR-COM;ZTE;Max Duo;Auricular de llamada;Compatible;2,69;;;6
+ZT-MDUO-FLX-COM;ZTE;Max Duo;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-MDUO-SIM-COM;ZTE;Max Duo;Bandeja SIM;Compatible;2,65;;;6
+ZT-AP-PAN-COM;ZTE;Axon Pro;Pantalla;Compatible;21,80;21,15;20,49;6
+ZT-AP-BAT-COM;ZTE;Axon Pro;Batería;Compatible;10,19;9,88;9,58;6
+ZT-AP-CON-COM;ZTE;Axon Pro;Conector de carga;Compatible;5,79;;;6
+ZT-AP-TAP-COM;ZTE;Axon Pro;Tapa trasera;Compatible;6,75;;;6
+ZT-AP-CTR-COM;ZTE;Axon Pro;Cámara trasera;Compatible;11,55;11,20;10,86;6
+ZT-AP-CFR-COM;ZTE;Axon Pro;Cámara frontal;Compatible;6,59;;;6
+ZT-AP-LEN-COM;ZTE;Axon Pro;Lente de cámara;Compatible;3,05;;;6
+ZT-AP-ALT-COM;ZTE;Axon Pro;Altavoz;Compatible;4,60;;;6
+ZT-AP-AUR-COM;ZTE;Axon Pro;Auricular de llamada;Compatible;3,60;;;6
+ZT-AP-FLX-COM;ZTE;Axon Pro;Flex de encendido y volumen;Compatible;3,50;;;6
+ZT-AP-SIM-COM;ZTE;Axon Pro;Bandeja SIM;Compatible;3,15;;;6
+ZT-BD6-PAN-COM;ZTE;Blade D6;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BD6-BAT-COM;ZTE;Blade D6;Batería;Compatible;8,90;;;6
+ZT-BD6-CON-COM;ZTE;Blade D6;Conector de carga;Compatible;3,70;;;6
+ZT-BD6-TAP-COM;ZTE;Blade D6;Tapa trasera;Compatible;4,80;;;6
+ZT-BD6-CTR-COM;ZTE;Blade D6;Cámara trasera;Compatible;6,65;;;6
+ZT-BD6-CFR-COM;ZTE;Blade D6;Cámara frontal;Compatible;4,65;;;6
+ZT-BD6-LEN-COM;ZTE;Blade D6;Lente de cámara;Compatible;2,25;;;6
+ZT-BD6-ALT-COM;ZTE;Blade D6;Altavoz;Compatible;3,59;;;6
+ZT-BD6-AUR-COM;ZTE;Blade D6;Auricular de llamada;Compatible;2,69;;;6
+ZT-BD6-FLX-COM;ZTE;Blade D6;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BD6-SIM-COM;ZTE;Blade D6;Bandeja SIM;Compatible;2,65;;;6
+ZT-BA410-PAN-COM;ZTE;Blade A410;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BA410-BAT-COM;ZTE;Blade A410;Batería;Compatible;8,90;;;6
+ZT-BA410-CON-COM;ZTE;Blade A410;Conector de carga;Compatible;3,70;;;6
+ZT-BA410-TAP-COM;ZTE;Blade A410;Tapa trasera;Compatible;4,80;;;6
+ZT-BA410-CTR-COM;ZTE;Blade A410;Cámara trasera;Compatible;6,65;;;6
+ZT-BA410-CFR-COM;ZTE;Blade A410;Cámara frontal;Compatible;4,65;;;6
+ZT-BA410-LEN-COM;ZTE;Blade A410;Lente de cámara;Compatible;2,25;;;6
+ZT-BA410-ALT-COM;ZTE;Blade A410;Altavoz;Compatible;3,59;;;6
+ZT-BA410-AUR-COM;ZTE;Blade A410;Auricular de llamada;Compatible;2,69;;;6
+ZT-BA410-FLX-COM;ZTE;Blade A410;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BA410-SIM-COM;ZTE;Blade A410;Bandeja SIM;Compatible;2,65;;;6
+ZT-BA460-PAN-COM;ZTE;Blade A460;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BA460-BAT-COM;ZTE;Blade A460;Batería;Compatible;8,90;;;6
+ZT-BA460-CON-COM;ZTE;Blade A460;Conector de carga;Compatible;3,70;;;6
+ZT-BA460-TAP-COM;ZTE;Blade A460;Tapa trasera;Compatible;4,80;;;6
+ZT-BA460-CTR-COM;ZTE;Blade A460;Cámara trasera;Compatible;6,65;;;6
+ZT-BA460-CFR-COM;ZTE;Blade A460;Cámara frontal;Compatible;4,65;;;6
+ZT-BA460-LEN-COM;ZTE;Blade A460;Lente de cámara;Compatible;2,25;;;6
+ZT-BA460-ALT-COM;ZTE;Blade A460;Altavoz;Compatible;3,59;;;6
+ZT-BA460-AUR-COM;ZTE;Blade A460;Auricular de llamada;Compatible;2,69;;;6
+ZT-BA460-FLX-COM;ZTE;Blade A460;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BA460-SIM-COM;ZTE;Blade A460;Bandeja SIM;Compatible;2,65;;;6
+ZT-BA3-PAN-COM;ZTE;Blade Apex 3;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BA3-BAT-COM;ZTE;Blade Apex 3;Batería;Compatible;8,90;;;6
+ZT-BA3-CON-COM;ZTE;Blade Apex 3;Conector de carga;Compatible;3,70;;;6
+ZT-BA3-TAP-COM;ZTE;Blade Apex 3;Tapa trasera;Compatible;4,80;;;6
+ZT-BA3-CTR-COM;ZTE;Blade Apex 3;Cámara trasera;Compatible;6,65;;;6
+ZT-BA3-CFR-COM;ZTE;Blade Apex 3;Cámara frontal;Compatible;4,65;;;6
+ZT-BA3-LEN-COM;ZTE;Blade Apex 3;Lente de cámara;Compatible;2,25;;;6
+ZT-BA3-ALT-COM;ZTE;Blade Apex 3;Altavoz;Compatible;3,59;;;6
+ZT-BA3-AUR-COM;ZTE;Blade Apex 3;Auricular de llamada;Compatible;2,69;;;6
+ZT-BA3-FLX-COM;ZTE;Blade Apex 3;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BA3-SIM-COM;ZTE;Blade Apex 3;Bandeja SIM;Compatible;2,65;;;6
+ZT-BQ4-PAN-COM;ZTE;Blade Qlux 4G;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BQ4-BAT-COM;ZTE;Blade Qlux 4G;Batería;Compatible;8,90;;;6
+ZT-BQ4-CON-COM;ZTE;Blade Qlux 4G;Conector de carga;Compatible;3,70;;;6
+ZT-BQ4-TAP-COM;ZTE;Blade Qlux 4G;Tapa trasera;Compatible;4,80;;;6
+ZT-BQ4-CTR-COM;ZTE;Blade Qlux 4G;Cámara trasera;Compatible;6,65;;;6
+ZT-BQ4-CFR-COM;ZTE;Blade Qlux 4G;Cámara frontal;Compatible;4,65;;;6
+ZT-BQ4-LEN-COM;ZTE;Blade Qlux 4G;Lente de cámara;Compatible;2,25;;;6
+ZT-BQ4-ALT-COM;ZTE;Blade Qlux 4G;Altavoz;Compatible;3,59;;;6
+ZT-BQ4-AUR-COM;ZTE;Blade Qlux 4G;Auricular de llamada;Compatible;2,69;;;6
+ZT-BQ4-FLX-COM;ZTE;Blade Qlux 4G;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BQ4-SIM-COM;ZTE;Blade Qlux 4G;Bandeja SIM;Compatible;2,65;;;6
+ZT-BS6PL-PAN-COM;ZTE;Blade S6 Plus;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BS6PL-BAT-COM;ZTE;Blade S6 Plus;Batería;Compatible;8,90;;;6
+ZT-BS6PL-CON-COM;ZTE;Blade S6 Plus;Conector de carga;Compatible;3,70;;;6
+ZT-BS6PL-TAP-COM;ZTE;Blade S6 Plus;Tapa trasera;Compatible;4,80;;;6
+ZT-BS6PL-CTR-COM;ZTE;Blade S6 Plus;Cámara trasera;Compatible;6,65;;;6
+ZT-BS6PL-CFR-COM;ZTE;Blade S6 Plus;Cámara frontal;Compatible;4,65;;;6
+ZT-BS6PL-LEN-COM;ZTE;Blade S6 Plus;Lente de cámara;Compatible;2,25;;;6
+ZT-BS6PL-ALT-COM;ZTE;Blade S6 Plus;Altavoz;Compatible;3,59;;;6
+ZT-BS6PL-AUR-COM;ZTE;Blade S6 Plus;Auricular de llamada;Compatible;2,69;;;6
+ZT-BS6PL-FLX-COM;ZTE;Blade S6 Plus;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BS6PL-SIM-COM;ZTE;Blade S6 Plus;Bandeja SIM;Compatible;2,65;;;6
+ZT-BL3PL-PAN-COM;ZTE;Blade L3 Plus;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BL3PL-BAT-COM;ZTE;Blade L3 Plus;Batería;Compatible;8,90;;;6
+ZT-BL3PL-CON-COM;ZTE;Blade L3 Plus;Conector de carga;Compatible;3,70;;;6
+ZT-BL3PL-TAP-COM;ZTE;Blade L3 Plus;Tapa trasera;Compatible;4,80;;;6
+ZT-BL3PL-CTR-COM;ZTE;Blade L3 Plus;Cámara trasera;Compatible;6,65;;;6
+ZT-BL3PL-CFR-COM;ZTE;Blade L3 Plus;Cámara frontal;Compatible;4,65;;;6
+ZT-BL3PL-LEN-COM;ZTE;Blade L3 Plus;Lente de cámara;Compatible;2,25;;;6
+ZT-BL3PL-ALT-COM;ZTE;Blade L3 Plus;Altavoz;Compatible;3,59;;;6
+ZT-BL3PL-AUR-COM;ZTE;Blade L3 Plus;Auricular de llamada;Compatible;2,69;;;6
+ZT-BL3PL-FLX-COM;ZTE;Blade L3 Plus;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BL3PL-SIM-COM;ZTE;Blade L3 Plus;Bandeja SIM;Compatible;2,65;;;6
+ZT-BG-PAN-COM;ZTE;Blade G;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BG-BAT-COM;ZTE;Blade G;Batería;Compatible;8,90;;;6
+ZT-BG-CON-COM;ZTE;Blade G;Conector de carga;Compatible;3,70;;;6
+ZT-BG-TAP-COM;ZTE;Blade G;Tapa trasera;Compatible;4,80;;;6
+ZT-BG-CTR-COM;ZTE;Blade G;Cámara trasera;Compatible;6,65;;;6
+ZT-BG-CFR-COM;ZTE;Blade G;Cámara frontal;Compatible;4,65;;;6
+ZT-BG-LEN-COM;ZTE;Blade G;Lente de cámara;Compatible;2,25;;;6
+ZT-BG-ALT-COM;ZTE;Blade G;Altavoz;Compatible;3,59;;;6
+ZT-BG-AUR-COM;ZTE;Blade G;Auricular de llamada;Compatible;2,69;;;6
+ZT-BG-FLX-COM;ZTE;Blade G;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BG-SIM-COM;ZTE;Blade G;Bandeja SIM;Compatible;2,65;;;6
+ZT-BL3-PAN-COM;ZTE;Blade L3;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BL3-BAT-COM;ZTE;Blade L3;Batería;Compatible;8,90;;;6
+ZT-BL3-CON-COM;ZTE;Blade L3;Conector de carga;Compatible;3,70;;;6
+ZT-BL3-TAP-COM;ZTE;Blade L3;Tapa trasera;Compatible;4,80;;;6
+ZT-BL3-CTR-COM;ZTE;Blade L3;Cámara trasera;Compatible;6,65;;;6
+ZT-BL3-CFR-COM;ZTE;Blade L3;Cámara frontal;Compatible;4,65;;;6
+ZT-BL3-LEN-COM;ZTE;Blade L3;Lente de cámara;Compatible;2,25;;;6
+ZT-BL3-ALT-COM;ZTE;Blade L3;Altavoz;Compatible;3,59;;;6
+ZT-BL3-AUR-COM;ZTE;Blade L3;Auricular de llamada;Compatible;2,69;;;6
+ZT-BL3-FLX-COM;ZTE;Blade L3;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BL3-SIM-COM;ZTE;Blade L3;Bandeja SIM;Compatible;2,65;;;6
+ZT-BS6-PAN-COM;ZTE;Blade S6;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BS6-BAT-COM;ZTE;Blade S6;Batería;Compatible;8,90;;;6
+ZT-BS6-CON-COM;ZTE;Blade S6;Conector de carga;Compatible;3,70;;;6
+ZT-BS6-TAP-COM;ZTE;Blade S6;Tapa trasera;Compatible;4,80;;;6
+ZT-BS6-CTR-COM;ZTE;Blade S6;Cámara trasera;Compatible;6,65;;;6
+ZT-BS6-CFR-COM;ZTE;Blade S6;Cámara frontal;Compatible;4,65;;;6
+ZT-BS6-LEN-COM;ZTE;Blade S6;Lente de cámara;Compatible;2,25;;;6
+ZT-BS6-ALT-COM;ZTE;Blade S6;Altavoz;Compatible;3,59;;;6
+ZT-BS6-AUR-COM;ZTE;Blade S6;Auricular de llamada;Compatible;2,69;;;6
+ZT-BS6-FLX-COM;ZTE;Blade S6;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BS6-SIM-COM;ZTE;Blade S6;Bandeja SIM;Compatible;2,65;;;6
+ZT-BQP-PAN-COM;ZTE;Blade Q Pro;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BQP-BAT-COM;ZTE;Blade Q Pro;Batería;Compatible;8,90;;;6
+ZT-BQP-CON-COM;ZTE;Blade Q Pro;Conector de carga;Compatible;3,70;;;6
+ZT-BQP-TAP-COM;ZTE;Blade Q Pro;Tapa trasera;Compatible;4,80;;;6
+ZT-BQP-CTR-COM;ZTE;Blade Q Pro;Cámara trasera;Compatible;6,65;;;6
+ZT-BQP-CFR-COM;ZTE;Blade Q Pro;Cámara frontal;Compatible;4,65;;;6
+ZT-BQP-LEN-COM;ZTE;Blade Q Pro;Lente de cámara;Compatible;2,25;;;6
+ZT-BQP-ALT-COM;ZTE;Blade Q Pro;Altavoz;Compatible;3,59;;;6
+ZT-BQP-AUR-COM;ZTE;Blade Q Pro;Auricular de llamada;Compatible;2,69;;;6
+ZT-BQP-FLX-COM;ZTE;Blade Q Pro;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BQP-SIM-COM;ZTE;Blade Q Pro;Bandeja SIM;Compatible;2,65;;;6
+ZT-BVEC3G-PAN-COM;ZTE;Blade Vec 3G;Pantalla;Compatible;15,15;14,70;14,24;6
+ZT-BVEC3G-BAT-COM;ZTE;Blade Vec 3G;Batería;Compatible;9,65;;;6
+ZT-BVEC3G-CON-COM;ZTE;Blade Vec 3G;Conector de carga;Compatible;4,60;;;6
+ZT-BVEC3G-TAP-COM;ZTE;Blade Vec 3G;Tapa trasera;Compatible;5,40;;;6
+ZT-BVEC3G-CTR-COM;ZTE;Blade Vec 3G;Cámara trasera;Compatible;7,59;;;6
+ZT-BVEC3G-CFR-COM;ZTE;Blade Vec 3G;Cámara frontal;Compatible;4,99;;;6
+ZT-BVEC3G-LEN-COM;ZTE;Blade Vec 3G;Lente de cámara;Compatible;2,19;;;6
+ZT-BVEC3G-ALT-COM;ZTE;Blade Vec 3G;Altavoz;Compatible;3,65;;;6
+ZT-BVEC3G-AUR-COM;ZTE;Blade Vec 3G;Auricular de llamada;Compatible;2,65;;;6
+ZT-BVEC3G-FLX-COM;ZTE;Blade Vec 3G;Flex de encendido y volumen;Compatible;2,49;;;6
+ZT-BVEC3G-SIM-COM;ZTE;Blade Vec 3G;Bandeja SIM;Compatible;2,55;;;6
+ZT-BL2-PAN-COM;ZTE;Blade L2;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BL2-BAT-COM;ZTE;Blade L2;Batería;Compatible;8,90;;;6
+ZT-BL2-CON-COM;ZTE;Blade L2;Conector de carga;Compatible;3,70;;;6
+ZT-BL2-TAP-COM;ZTE;Blade L2;Tapa trasera;Compatible;4,80;;;6
+ZT-BL2-CTR-COM;ZTE;Blade L2;Cámara trasera;Compatible;6,65;;;6
+ZT-BL2-CFR-COM;ZTE;Blade L2;Cámara frontal;Compatible;4,65;;;6
+ZT-BL2-LEN-COM;ZTE;Blade L2;Lente de cámara;Compatible;2,25;;;6
+ZT-BL2-ALT-COM;ZTE;Blade L2;Altavoz;Compatible;3,59;;;6
+ZT-BL2-AUR-COM;ZTE;Blade L2;Auricular de llamada;Compatible;2,69;;;6
+ZT-BL2-FLX-COM;ZTE;Blade L2;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BL2-SIM-COM;ZTE;Blade L2;Bandeja SIM;Compatible;2,65;;;6
+ZT-BQ-PAN-COM;ZTE;Blade Q;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BQ-BAT-COM;ZTE;Blade Q;Batería;Compatible;8,90;;;6
+ZT-BQ-CON-COM;ZTE;Blade Q;Conector de carga;Compatible;3,70;;;6
+ZT-BQ-TAP-COM;ZTE;Blade Q;Tapa trasera;Compatible;4,80;;;6
+ZT-BQ-CTR-COM;ZTE;Blade Q;Cámara trasera;Compatible;6,65;;;6
+ZT-BQ-CFR-COM;ZTE;Blade Q;Cámara frontal;Compatible;4,65;;;6
+ZT-BQ-LEN-COM;ZTE;Blade Q;Lente de cámara;Compatible;2,25;;;6
+ZT-BQ-ALT-COM;ZTE;Blade Q;Altavoz;Compatible;3,59;;;6
+ZT-BQ-AUR-COM;ZTE;Blade Q;Auricular de llamada;Compatible;2,69;;;6
+ZT-BQ-FLX-COM;ZTE;Blade Q;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BQ-SIM-COM;ZTE;Blade Q;Bandeja SIM;Compatible;2,65;;;6
+ZT-BQMN-PAN-COM;ZTE;Blade Q Mini;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BQMN-BAT-COM;ZTE;Blade Q Mini;Batería;Compatible;8,90;;;6
+ZT-BQMN-CON-COM;ZTE;Blade Q Mini;Conector de carga;Compatible;3,70;;;6
+ZT-BQMN-TAP-COM;ZTE;Blade Q Mini;Tapa trasera;Compatible;4,80;;;6
+ZT-BQMN-CTR-COM;ZTE;Blade Q Mini;Cámara trasera;Compatible;6,65;;;6
+ZT-BQMN-CFR-COM;ZTE;Blade Q Mini;Cámara frontal;Compatible;4,65;;;6
+ZT-BQMN-LEN-COM;ZTE;Blade Q Mini;Lente de cámara;Compatible;2,25;;;6
+ZT-BQMN-ALT-COM;ZTE;Blade Q Mini;Altavoz;Compatible;3,59;;;6
+ZT-BQMN-AUR-COM;ZTE;Blade Q Mini;Auricular de llamada;Compatible;2,69;;;6
+ZT-BQMN-FLX-COM;ZTE;Blade Q Mini;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BQMN-SIM-COM;ZTE;Blade Q Mini;Bandeja SIM;Compatible;2,65;;;6
+ZT-BV-PAN-COM;ZTE;Blade V;Pantalla;Compatible;15,15;14,70;14,24;6
+ZT-BV-BAT-COM;ZTE;Blade V;Batería;Compatible;9,65;;;6
+ZT-BV-CON-COM;ZTE;Blade V;Conector de carga;Compatible;4,60;;;6
+ZT-BV-TAP-COM;ZTE;Blade V;Tapa trasera;Compatible;5,40;;;6
+ZT-BV-CTR-COM;ZTE;Blade V;Cámara trasera;Compatible;7,59;;;6
+ZT-BV-CFR-COM;ZTE;Blade V;Cámara frontal;Compatible;4,99;;;6
+ZT-BV-LEN-COM;ZTE;Blade V;Lente de cámara;Compatible;2,19;;;6
+ZT-BV-ALT-COM;ZTE;Blade V;Altavoz;Compatible;3,65;;;6
+ZT-BV-AUR-COM;ZTE;Blade V;Auricular de llamada;Compatible;2,65;;;6
+ZT-BV-FLX-COM;ZTE;Blade V;Flex de encendido y volumen;Compatible;2,49;;;6
+ZT-BV-SIM-COM;ZTE;Blade V;Bandeja SIM;Compatible;2,55;;;6
+ZT-BG2-PAN-COM;ZTE;Blade G2;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BG2-BAT-COM;ZTE;Blade G2;Batería;Compatible;8,90;;;6
+ZT-BG2-CON-COM;ZTE;Blade G2;Conector de carga;Compatible;3,70;;;6
+ZT-BG2-TAP-COM;ZTE;Blade G2;Tapa trasera;Compatible;4,80;;;6
+ZT-BG2-CTR-COM;ZTE;Blade G2;Cámara trasera;Compatible;6,65;;;6
+ZT-BG2-CFR-COM;ZTE;Blade G2;Cámara frontal;Compatible;4,65;;;6
+ZT-BG2-LEN-COM;ZTE;Blade G2;Lente de cámara;Compatible;2,25;;;6
+ZT-BG2-ALT-COM;ZTE;Blade G2;Altavoz;Compatible;3,59;;;6
+ZT-BG2-AUR-COM;ZTE;Blade G2;Auricular de llamada;Compatible;2,69;;;6
+ZT-BG2-FLX-COM;ZTE;Blade G2;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BG2-SIM-COM;ZTE;Blade G2;Bandeja SIM;Compatible;2,65;;;6
+ZT-OPEN-PAN-COM;ZTE;Open;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-OPEN-BAT-COM;ZTE;Open;Batería;Compatible;8,90;;;6
+ZT-OPEN-CON-COM;ZTE;Open;Conector de carga;Compatible;3,70;;;6
+ZT-OPEN-TAP-COM;ZTE;Open;Tapa trasera;Compatible;4,80;;;6
+ZT-OPEN-CTR-COM;ZTE;Open;Cámara trasera;Compatible;6,65;;;6
+ZT-OPEN-CFR-COM;ZTE;Open;Cámara frontal;Compatible;4,65;;;6
+ZT-OPEN-LEN-COM;ZTE;Open;Lente de cámara;Compatible;2,25;;;6
+ZT-OPEN-ALT-COM;ZTE;Open;Altavoz;Compatible;3,59;;;6
+ZT-OPEN-AUR-COM;ZTE;Open;Auricular de llamada;Compatible;2,69;;;6
+ZT-OPEN-FLX-COM;ZTE;Open;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-OPEN-SIM-COM;ZTE;Open;Bandeja SIM;Compatible;2,65;;;6
+ZT-BCV807-PAN-COM;ZTE;Blade C V807;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BCV807-BAT-COM;ZTE;Blade C V807;Batería;Compatible;8,90;;;6
+ZT-BCV807-CON-COM;ZTE;Blade C V807;Conector de carga;Compatible;3,70;;;6
+ZT-BCV807-TAP-COM;ZTE;Blade C V807;Tapa trasera;Compatible;4,80;;;6
+ZT-BCV807-CTR-COM;ZTE;Blade C V807;Cámara trasera;Compatible;6,65;;;6
+ZT-BCV807-CFR-COM;ZTE;Blade C V807;Cámara frontal;Compatible;4,65;;;6
+ZT-BCV807-LEN-COM;ZTE;Blade C V807;Lente de cámara;Compatible;2,25;;;6
+ZT-BCV807-ALT-COM;ZTE;Blade C V807;Altavoz;Compatible;3,59;;;6
+ZT-BCV807-AUR-COM;ZTE;Blade C V807;Auricular de llamada;Compatible;2,69;;;6
+ZT-BCV807-FLX-COM;ZTE;Blade C V807;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BCV807-SIM-COM;ZTE;Blade C V807;Bandeja SIM;Compatible;2,65;;;6
+ZT-BGV880G-PAN-COM;ZTE;Blade G V880G;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BGV880G-BAT-COM;ZTE;Blade G V880G;Batería;Compatible;8,90;;;6
+ZT-BGV880G-CON-COM;ZTE;Blade G V880G;Conector de carga;Compatible;3,70;;;6
+ZT-BGV880G-TAP-COM;ZTE;Blade G V880G;Tapa trasera;Compatible;4,80;;;6
+ZT-BGV880G-CTR-COM;ZTE;Blade G V880G;Cámara trasera;Compatible;6,65;;;6
+ZT-BGV880G-CFR-COM;ZTE;Blade G V880G;Cámara frontal;Compatible;4,65;;;6
+ZT-BGV880G-LEN-COM;ZTE;Blade G V880G;Lente de cámara;Compatible;2,25;;;6
+ZT-BGV880G-ALT-COM;ZTE;Blade G V880G;Altavoz;Compatible;3,59;;;6
+ZT-BGV880G-AUR-COM;ZTE;Blade G V880G;Auricular de llamada;Compatible;2,69;;;6
+ZT-BGV880G-FLX-COM;ZTE;Blade G V880G;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BGV880G-SIM-COM;ZTE;Blade G V880G;Bandeja SIM;Compatible;2,65;;;6
+ZT-BIIIP-PAN-COM;ZTE;Blade III Pro;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BIIIP-BAT-COM;ZTE;Blade III Pro;Batería;Compatible;8,90;;;6
+ZT-BIIIP-CON-COM;ZTE;Blade III Pro;Conector de carga;Compatible;3,70;;;6
+ZT-BIIIP-TAP-COM;ZTE;Blade III Pro;Tapa trasera;Compatible;4,80;;;6
+ZT-BIIIP-CTR-COM;ZTE;Blade III Pro;Cámara trasera;Compatible;6,65;;;6
+ZT-BIIIP-CFR-COM;ZTE;Blade III Pro;Cámara frontal;Compatible;4,65;;;6
+ZT-BIIIP-LEN-COM;ZTE;Blade III Pro;Lente de cámara;Compatible;2,25;;;6
+ZT-BIIIP-ALT-COM;ZTE;Blade III Pro;Altavoz;Compatible;3,59;;;6
+ZT-BIIIP-AUR-COM;ZTE;Blade III Pro;Auricular de llamada;Compatible;2,69;;;6
+ZT-BIIIP-FLX-COM;ZTE;Blade III Pro;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BIIIP-SIM-COM;ZTE;Blade III Pro;Bandeja SIM;Compatible;2,65;;;6
+ZT-D-PAN-COM;ZTE;Director;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-D-BAT-COM;ZTE;Director;Batería;Compatible;8,90;;;6
+ZT-D-CON-COM;ZTE;Director;Conector de carga;Compatible;3,70;;;6
+ZT-D-TAP-COM;ZTE;Director;Tapa trasera;Compatible;4,80;;;6
+ZT-D-CTR-COM;ZTE;Director;Cámara trasera;Compatible;6,65;;;6
+ZT-D-CFR-COM;ZTE;Director;Cámara frontal;Compatible;4,65;;;6
+ZT-D-LEN-COM;ZTE;Director;Lente de cámara;Compatible;2,25;;;6
+ZT-D-ALT-COM;ZTE;Director;Altavoz;Compatible;3,59;;;6
+ZT-D-AUR-COM;ZTE;Director;Auricular de llamada;Compatible;2,69;;;6
+ZT-D-FLX-COM;ZTE;Director;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-D-SIM-COM;ZTE;Director;Bandeja SIM;Compatible;2,65;;;6
+ZT-ELT-PAN-COM;ZTE;Engage LT;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-ELT-BAT-COM;ZTE;Engage LT;Batería;Compatible;8,90;;;6
+ZT-ELT-CON-COM;ZTE;Engage LT;Conector de carga;Compatible;3,70;;;6
+ZT-ELT-TAP-COM;ZTE;Engage LT;Tapa trasera;Compatible;4,80;;;6
+ZT-ELT-CTR-COM;ZTE;Engage LT;Cámara trasera;Compatible;6,65;;;6
+ZT-ELT-CFR-COM;ZTE;Engage LT;Cámara frontal;Compatible;4,65;;;6
+ZT-ELT-LEN-COM;ZTE;Engage LT;Lente de cámara;Compatible;2,25;;;6
+ZT-ELT-ALT-COM;ZTE;Engage LT;Altavoz;Compatible;3,59;;;6
+ZT-ELT-AUR-COM;ZTE;Engage LT;Auricular de llamada;Compatible;2,69;;;6
+ZT-ELT-FLX-COM;ZTE;Engage LT;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-ELT-SIM-COM;ZTE;Engage LT;Bandeja SIM;Compatible;2,65;;;6
+ZT-GS-PAN-COM;ZTE;Grand S;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-GS-BAT-COM;ZTE;Grand S;Batería;Compatible;8,90;;;6
+ZT-GS-CON-COM;ZTE;Grand S;Conector de carga;Compatible;3,70;;;6
+ZT-GS-TAP-COM;ZTE;Grand S;Tapa trasera;Compatible;4,80;;;6
+ZT-GS-CTR-COM;ZTE;Grand S;Cámara trasera;Compatible;6,65;;;6
+ZT-GS-CFR-COM;ZTE;Grand S;Cámara frontal;Compatible;4,65;;;6
+ZT-GS-LEN-COM;ZTE;Grand S;Lente de cámara;Compatible;2,25;;;6
+ZT-GS-ALT-COM;ZTE;Grand S;Altavoz;Compatible;3,59;;;6
+ZT-GS-AUR-COM;ZTE;Grand S;Auricular de llamada;Compatible;2,69;;;6
+ZT-GS-FLX-COM;ZTE;Grand S;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-GS-SIM-COM;ZTE;Grand S;Bandeja SIM;Compatible;2,65;;;6
+ZT-A4-PAN-COM;ZTE;Avid 4G;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-A4-BAT-COM;ZTE;Avid 4G;Batería;Compatible;8,90;;;6
+ZT-A4-CON-COM;ZTE;Avid 4G;Conector de carga;Compatible;3,70;;;6
+ZT-A4-TAP-COM;ZTE;Avid 4G;Tapa trasera;Compatible;4,80;;;6
+ZT-A4-CTR-COM;ZTE;Avid 4G;Cámara trasera;Compatible;6,65;;;6
+ZT-A4-CFR-COM;ZTE;Avid 4G;Cámara frontal;Compatible;4,65;;;6
+ZT-A4-LEN-COM;ZTE;Avid 4G;Lente de cámara;Compatible;2,25;;;6
+ZT-A4-ALT-COM;ZTE;Avid 4G;Altavoz;Compatible;3,59;;;6
+ZT-A4-AUR-COM;ZTE;Avid 4G;Auricular de llamada;Compatible;2,69;;;6
+ZT-A4-FLX-COM;ZTE;Avid 4G;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-A4-SIM-COM;ZTE;Avid 4G;Bandeja SIM;Compatible;2,65;;;6
+ZT-ERA-PAN-COM;ZTE;Era;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-ERA-BAT-COM;ZTE;Era;Batería;Compatible;8,90;;;6
+ZT-ERA-CON-COM;ZTE;Era;Conector de carga;Compatible;3,70;;;6
+ZT-ERA-TAP-COM;ZTE;Era;Tapa trasera;Compatible;4,80;;;6
+ZT-ERA-CTR-COM;ZTE;Era;Cámara trasera;Compatible;6,65;;;6
+ZT-ERA-CFR-COM;ZTE;Era;Cámara frontal;Compatible;4,65;;;6
+ZT-ERA-LEN-COM;ZTE;Era;Lente de cámara;Compatible;2,25;;;6
+ZT-ERA-ALT-COM;ZTE;Era;Altavoz;Compatible;3,59;;;6
+ZT-ERA-AUR-COM;ZTE;Era;Auricular de llamada;Compatible;2,69;;;6
+ZT-ERA-FLX-COM;ZTE;Era;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-ERA-SIM-COM;ZTE;Era;Bandeja SIM;Compatible;2,65;;;6
+ZT-N910-PAN-COM;ZTE;N910;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-N910-BAT-COM;ZTE;N910;Batería;Compatible;8,90;;;6
+ZT-N910-CON-COM;ZTE;N910;Conector de carga;Compatible;3,70;;;6
+ZT-N910-TAP-COM;ZTE;N910;Tapa trasera;Compatible;4,80;;;6
+ZT-N910-CTR-COM;ZTE;N910;Cámara trasera;Compatible;6,65;;;6
+ZT-N910-CFR-COM;ZTE;N910;Cámara frontal;Compatible;4,65;;;6
+ZT-N910-LEN-COM;ZTE;N910;Lente de cámara;Compatible;2,25;;;6
+ZT-N910-ALT-COM;ZTE;N910;Altavoz;Compatible;3,59;;;6
+ZT-N910-AUR-COM;ZTE;N910;Auricular de llamada;Compatible;2,69;;;6
+ZT-N910-FLX-COM;ZTE;N910;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-N910-SIM-COM;ZTE;N910;Bandeja SIM;Compatible;2,65;;;6
+ZT-V887-PAN-COM;ZTE;V887;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-V887-BAT-COM;ZTE;V887;Batería;Compatible;8,90;;;6
+ZT-V887-CON-COM;ZTE;V887;Conector de carga;Compatible;3,70;;;6
+ZT-V887-TAP-COM;ZTE;V887;Tapa trasera;Compatible;4,80;;;6
+ZT-V887-CTR-COM;ZTE;V887;Cámara trasera;Compatible;6,65;;;6
+ZT-V887-CFR-COM;ZTE;V887;Cámara frontal;Compatible;4,65;;;6
+ZT-V887-LEN-COM;ZTE;V887;Lente de cámara;Compatible;2,25;;;6
+ZT-V887-ALT-COM;ZTE;V887;Altavoz;Compatible;3,59;;;6
+ZT-V887-AUR-COM;ZTE;V887;Auricular de llamada;Compatible;2,69;;;6
+ZT-V887-FLX-COM;ZTE;V887;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-V887-SIM-COM;ZTE;V887;Bandeja SIM;Compatible;2,65;;;6
+ZT-V889M-PAN-COM;ZTE;V889M;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-V889M-BAT-COM;ZTE;V889M;Batería;Compatible;8,90;;;6
+ZT-V889M-CON-COM;ZTE;V889M;Conector de carga;Compatible;3,70;;;6
+ZT-V889M-TAP-COM;ZTE;V889M;Tapa trasera;Compatible;4,80;;;6
+ZT-V889M-CTR-COM;ZTE;V889M;Cámara trasera;Compatible;6,65;;;6
+ZT-V889M-CFR-COM;ZTE;V889M;Cámara frontal;Compatible;4,65;;;6
+ZT-V889M-LEN-COM;ZTE;V889M;Lente de cámara;Compatible;2,25;;;6
+ZT-V889M-ALT-COM;ZTE;V889M;Altavoz;Compatible;3,59;;;6
+ZT-V889M-AUR-COM;ZTE;V889M;Auricular de llamada;Compatible;2,69;;;6
+ZT-V889M-FLX-COM;ZTE;V889M;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-V889M-SIM-COM;ZTE;V889M;Bandeja SIM;Compatible;2,65;;;6
+ZT-F-PAN-COM;ZTE;Flash;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-F-BAT-COM;ZTE;Flash;Batería;Compatible;8,90;;;6
+ZT-F-CON-COM;ZTE;Flash;Conector de carga;Compatible;3,70;;;6
+ZT-F-TAP-COM;ZTE;Flash;Tapa trasera;Compatible;4,80;;;6
+ZT-F-CTR-COM;ZTE;Flash;Cámara trasera;Compatible;6,65;;;6
+ZT-F-CFR-COM;ZTE;Flash;Cámara frontal;Compatible;4,65;;;6
+ZT-F-LEN-COM;ZTE;Flash;Lente de cámara;Compatible;2,25;;;6
+ZT-F-ALT-COM;ZTE;Flash;Altavoz;Compatible;3,59;;;6
+ZT-F-AUR-COM;ZTE;Flash;Auricular de llamada;Compatible;2,69;;;6
+ZT-F-FLX-COM;ZTE;Flash;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-F-SIM-COM;ZTE;Flash;Bandeja SIM;Compatible;2,65;;;6
+ZT-GXLTE-PAN-COM;ZTE;Grand X LTE;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-GXLTE-BAT-COM;ZTE;Grand X LTE;Batería;Compatible;8,90;;;6
+ZT-GXLTE-CON-COM;ZTE;Grand X LTE;Conector de carga;Compatible;3,70;;;6
+ZT-GXLTE-TAP-COM;ZTE;Grand X LTE;Tapa trasera;Compatible;4,80;;;6
+ZT-GXLTE-CTR-COM;ZTE;Grand X LTE;Cámara trasera;Compatible;6,65;;;6
+ZT-GXLTE-CFR-COM;ZTE;Grand X LTE;Cámara frontal;Compatible;4,65;;;6
+ZT-GXLTE-LEN-COM;ZTE;Grand X LTE;Lente de cámara;Compatible;2,25;;;6
+ZT-GXLTE-ALT-COM;ZTE;Grand X LTE;Altavoz;Compatible;3,59;;;6
+ZT-GXLTE-AUR-COM;ZTE;Grand X LTE;Auricular de llamada;Compatible;2,69;;;6
+ZT-GXLTE-FLX-COM;ZTE;Grand X LTE;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-GXLTE-SIM-COM;ZTE;Grand X LTE;Bandeja SIM;Compatible;2,65;;;6
+ZT-G-PAN-COM;ZTE;Groove;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-G-BAT-COM;ZTE;Groove;Batería;Compatible;8,90;;;6
+ZT-G-CON-COM;ZTE;Groove;Conector de carga;Compatible;3,70;;;6
+ZT-G-TAP-COM;ZTE;Groove;Tapa trasera;Compatible;4,80;;;6
+ZT-G-CTR-COM;ZTE;Groove;Cámara trasera;Compatible;6,65;;;6
+ZT-G-CFR-COM;ZTE;Groove;Cámara frontal;Compatible;4,65;;;6
+ZT-G-LEN-COM;ZTE;Groove;Lente de cámara;Compatible;2,25;;;6
+ZT-G-ALT-COM;ZTE;Groove;Altavoz;Compatible;3,59;;;6
+ZT-G-AUR-COM;ZTE;Groove;Auricular de llamada;Compatible;2,69;;;6
+ZT-G-FLX-COM;ZTE;Groove;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-G-SIM-COM;ZTE;Groove;Bandeja SIM;Compatible;2,65;;;6
+ZT-GX501-PAN-COM;ZTE;Groove X501;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-GX501-BAT-COM;ZTE;Groove X501;Batería;Compatible;8,90;;;6
+ZT-GX501-CON-COM;ZTE;Groove X501;Conector de carga;Compatible;3,70;;;6
+ZT-GX501-TAP-COM;ZTE;Groove X501;Tapa trasera;Compatible;4,80;;;6
+ZT-GX501-CTR-COM;ZTE;Groove X501;Cámara trasera;Compatible;6,65;;;6
+ZT-GX501-CFR-COM;ZTE;Groove X501;Cámara frontal;Compatible;4,65;;;6
+ZT-GX501-LEN-COM;ZTE;Groove X501;Lente de cámara;Compatible;2,25;;;6
+ZT-GX501-ALT-COM;ZTE;Groove X501;Altavoz;Compatible;3,59;;;6
+ZT-GX501-AUR-COM;ZTE;Groove X501;Auricular de llamada;Compatible;2,69;;;6
+ZT-GX501-FLX-COM;ZTE;Groove X501;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-GX501-SIM-COM;ZTE;Groove X501;Bandeja SIM;Compatible;2,65;;;6
+ZT-KISIIIV7-PAN-COM;ZTE;Kis III V790;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-KISIIIV7-BAT-COM;ZTE;Kis III V790;Batería;Compatible;8,90;;;6
+ZT-KISIIIV7-CON-COM;ZTE;Kis III V790;Conector de carga;Compatible;3,70;;;6
+ZT-KISIIIV7-TAP-COM;ZTE;Kis III V790;Tapa trasera;Compatible;4,80;;;6
+ZT-KISIIIV7-CTR-COM;ZTE;Kis III V790;Cámara trasera;Compatible;6,65;;;6
+ZT-KISIIIV7-CFR-COM;ZTE;Kis III V790;Cámara frontal;Compatible;4,65;;;6
+ZT-KISIIIV7-LEN-COM;ZTE;Kis III V790;Lente de cámara;Compatible;2,25;;;6
+ZT-KISIIIV7-ALT-COM;ZTE;Kis III V790;Altavoz;Compatible;3,59;;;6
+ZT-KISIIIV7-AUR-COM;ZTE;Kis III V790;Auricular de llamada;Compatible;2,69;;;6
+ZT-KISIIIV7-FLX-COM;ZTE;Kis III V790;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-KISIIIV7-SIM-COM;ZTE;Kis III V790;Bandeja SIM;Compatible;2,65;;;6
+ZT-BIII-PAN-COM;ZTE;Blade III;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BIII-BAT-COM;ZTE;Blade III;Batería;Compatible;8,90;;;6
+ZT-BIII-CON-COM;ZTE;Blade III;Conector de carga;Compatible;3,70;;;6
+ZT-BIII-TAP-COM;ZTE;Blade III;Tapa trasera;Compatible;4,80;;;6
+ZT-BIII-CTR-COM;ZTE;Blade III;Cámara trasera;Compatible;6,65;;;6
+ZT-BIII-CFR-COM;ZTE;Blade III;Cámara frontal;Compatible;4,65;;;6
+ZT-BIII-LEN-COM;ZTE;Blade III;Lente de cámara;Compatible;2,25;;;6
+ZT-BIII-ALT-COM;ZTE;Blade III;Altavoz;Compatible;3,59;;;6
+ZT-BIII-AUR-COM;ZTE;Blade III;Auricular de llamada;Compatible;2,69;;;6
+ZT-BIII-FLX-COM;ZTE;Blade III;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BIII-SIM-COM;ZTE;Blade III;Bandeja SIM;Compatible;2,65;;;6
+ZT-GERA-PAN-COM;ZTE;Grand Era;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-GERA-BAT-COM;ZTE;Grand Era;Batería;Compatible;8,90;;;6
+ZT-GERA-CON-COM;ZTE;Grand Era;Conector de carga;Compatible;3,70;;;6
+ZT-GERA-TAP-COM;ZTE;Grand Era;Tapa trasera;Compatible;4,80;;;6
+ZT-GERA-CTR-COM;ZTE;Grand Era;Cámara trasera;Compatible;6,65;;;6
+ZT-GERA-CFR-COM;ZTE;Grand Era;Cámara frontal;Compatible;4,65;;;6
+ZT-GERA-LEN-COM;ZTE;Grand Era;Lente de cámara;Compatible;2,25;;;6
+ZT-GERA-ALT-COM;ZTE;Grand Era;Altavoz;Compatible;3,59;;;6
+ZT-GERA-AUR-COM;ZTE;Grand Era;Auricular de llamada;Compatible;2,69;;;6
+ZT-GERA-FLX-COM;ZTE;Grand Era;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-GERA-SIM-COM;ZTE;Grand Era;Bandeja SIM;Compatible;2,65;;;6
+ZT-GXIN-PAN-COM;ZTE;Grand X IN;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-GXIN-BAT-COM;ZTE;Grand X IN;Batería;Compatible;8,90;;;6
+ZT-GXIN-CON-COM;ZTE;Grand X IN;Conector de carga;Compatible;3,70;;;6
+ZT-GXIN-TAP-COM;ZTE;Grand X IN;Tapa trasera;Compatible;4,80;;;6
+ZT-GXIN-CTR-COM;ZTE;Grand X IN;Cámara trasera;Compatible;6,65;;;6
+ZT-GXIN-CFR-COM;ZTE;Grand X IN;Cámara frontal;Compatible;4,65;;;6
+ZT-GXIN-LEN-COM;ZTE;Grand X IN;Lente de cámara;Compatible;2,25;;;6
+ZT-GXIN-ALT-COM;ZTE;Grand X IN;Altavoz;Compatible;3,59;;;6
+ZT-GXIN-AUR-COM;ZTE;Grand X IN;Auricular de llamada;Compatible;2,69;;;6
+ZT-GXIN-FLX-COM;ZTE;Grand X IN;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-GXIN-SIM-COM;ZTE;Grand X IN;Bandeja SIM;Compatible;2,65;;;6
+ZT-O-PAN-COM;ZTE;Orbit;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-O-BAT-COM;ZTE;Orbit;Batería;Compatible;8,90;;;6
+ZT-O-CON-COM;ZTE;Orbit;Conector de carga;Compatible;3,70;;;6
+ZT-O-TAP-COM;ZTE;Orbit;Tapa trasera;Compatible;4,80;;;6
+ZT-O-CTR-COM;ZTE;Orbit;Cámara trasera;Compatible;6,65;;;6
+ZT-O-CFR-COM;ZTE;Orbit;Cámara frontal;Compatible;4,65;;;6
+ZT-O-LEN-COM;ZTE;Orbit;Lente de cámara;Compatible;2,25;;;6
+ZT-O-ALT-COM;ZTE;Orbit;Altavoz;Compatible;3,59;;;6
+ZT-O-AUR-COM;ZTE;Orbit;Auricular de llamada;Compatible;2,69;;;6
+ZT-O-FLX-COM;ZTE;Orbit;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-O-SIM-COM;ZTE;Orbit;Bandeja SIM;Compatible;2,65;;;6
+ZT-WS-PAN-COM;ZTE;Warp Sequent;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-WS-BAT-COM;ZTE;Warp Sequent;Batería;Compatible;8,90;;;6
+ZT-WS-CON-COM;ZTE;Warp Sequent;Conector de carga;Compatible;3,70;;;6
+ZT-WS-TAP-COM;ZTE;Warp Sequent;Tapa trasera;Compatible;4,80;;;6
+ZT-WS-CTR-COM;ZTE;Warp Sequent;Cámara trasera;Compatible;6,65;;;6
+ZT-WS-CFR-COM;ZTE;Warp Sequent;Cámara frontal;Compatible;4,65;;;6
+ZT-WS-LEN-COM;ZTE;Warp Sequent;Lente de cámara;Compatible;2,25;;;6
+ZT-WS-ALT-COM;ZTE;Warp Sequent;Altavoz;Compatible;3,59;;;6
+ZT-WS-AUR-COM;ZTE;Warp Sequent;Auricular de llamada;Compatible;2,69;;;6
+ZT-WS-FLX-COM;ZTE;Warp Sequent;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-WS-SIM-COM;ZTE;Warp Sequent;Bandeja SIM;Compatible;2,65;;;6
+ZT-GX-PAN-COM;ZTE;Grand X;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-GX-BAT-COM;ZTE;Grand X;Batería;Compatible;8,90;;;6
+ZT-GX-CON-COM;ZTE;Grand X;Conector de carga;Compatible;3,70;;;6
+ZT-GX-TAP-COM;ZTE;Grand X;Tapa trasera;Compatible;4,80;;;6
+ZT-GX-CTR-COM;ZTE;Grand X;Cámara trasera;Compatible;6,65;;;6
+ZT-GX-CFR-COM;ZTE;Grand X;Cámara frontal;Compatible;4,65;;;6
+ZT-GX-LEN-COM;ZTE;Grand X;Lente de cámara;Compatible;2,25;;;6
+ZT-GX-ALT-COM;ZTE;Grand X;Altavoz;Compatible;3,59;;;6
+ZT-GX-AUR-COM;ZTE;Grand X;Auricular de llamada;Compatible;2,69;;;6
+ZT-GX-FLX-COM;ZTE;Grand X;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-GX-SIM-COM;ZTE;Grand X;Bandeja SIM;Compatible;2,65;;;6
+ZT-KISV788-PAN-COM;ZTE;Kis V788;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-KISV788-BAT-COM;ZTE;Kis V788;Batería;Compatible;8,90;;;6
+ZT-KISV788-CON-COM;ZTE;Kis V788;Conector de carga;Compatible;3,70;;;6
+ZT-KISV788-TAP-COM;ZTE;Kis V788;Tapa trasera;Compatible;4,80;;;6
+ZT-KISV788-CTR-COM;ZTE;Kis V788;Cámara trasera;Compatible;6,65;;;6
+ZT-KISV788-CFR-COM;ZTE;Kis V788;Cámara frontal;Compatible;4,65;;;6
+ZT-KISV788-LEN-COM;ZTE;Kis V788;Lente de cámara;Compatible;2,25;;;6
+ZT-KISV788-ALT-COM;ZTE;Kis V788;Altavoz;Compatible;3,59;;;6
+ZT-KISV788-AUR-COM;ZTE;Kis V788;Auricular de llamada;Compatible;2,69;;;6
+ZT-KISV788-FLX-COM;ZTE;Kis V788;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-KISV788-SIM-COM;ZTE;Kis V788;Bandeja SIM;Compatible;2,65;;;6
+ZT-V880E-PAN-COM;ZTE;V880E;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-V880E-BAT-COM;ZTE;V880E;Batería;Compatible;8,90;;;6
+ZT-V880E-CON-COM;ZTE;V880E;Conector de carga;Compatible;3,70;;;6
+ZT-V880E-TAP-COM;ZTE;V880E;Tapa trasera;Compatible;4,80;;;6
+ZT-V880E-CTR-COM;ZTE;V880E;Cámara trasera;Compatible;6,65;;;6
+ZT-V880E-CFR-COM;ZTE;V880E;Cámara frontal;Compatible;4,65;;;6
+ZT-V880E-LEN-COM;ZTE;V880E;Lente de cámara;Compatible;2,25;;;6
+ZT-V880E-ALT-COM;ZTE;V880E;Altavoz;Compatible;3,59;;;6
+ZT-V880E-AUR-COM;ZTE;V880E;Auricular de llamada;Compatible;2,69;;;6
+ZT-V880E-FLX-COM;ZTE;V880E;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-V880E-SIM-COM;ZTE;V880E;Bandeja SIM;Compatible;2,65;;;6
+ZT-BIIV880P-PAN-COM;ZTE;Blade II V880+;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-BIIV880P-BAT-COM;ZTE;Blade II V880+;Batería;Compatible;8,90;;;6
+ZT-BIIV880P-CON-COM;ZTE;Blade II V880+;Conector de carga;Compatible;3,70;;;6
+ZT-BIIV880P-TAP-COM;ZTE;Blade II V880+;Tapa trasera;Compatible;4,80;;;6
+ZT-BIIV880P-CTR-COM;ZTE;Blade II V880+;Cámara trasera;Compatible;6,65;;;6
+ZT-BIIV880P-CFR-COM;ZTE;Blade II V880+;Cámara frontal;Compatible;4,65;;;6
+ZT-BIIV880P-LEN-COM;ZTE;Blade II V880+;Lente de cámara;Compatible;2,25;;;6
+ZT-BIIV880P-ALT-COM;ZTE;Blade II V880+;Altavoz;Compatible;3,59;;;6
+ZT-BIIV880P-AUR-COM;ZTE;Blade II V880+;Auricular de llamada;Compatible;2,69;;;6
+ZT-BIIV880P-FLX-COM;ZTE;Blade II V880+;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-BIIV880P-SIM-COM;ZTE;Blade II V880+;Bandeja SIM;Compatible;2,65;;;6
+ZT-SM-PAN-COM;ZTE;Score M;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-SM-BAT-COM;ZTE;Score M;Batería;Compatible;8,90;;;6
+ZT-SM-CON-COM;ZTE;Score M;Conector de carga;Compatible;3,70;;;6
+ZT-SM-TAP-COM;ZTE;Score M;Tapa trasera;Compatible;4,80;;;6
+ZT-SM-CTR-COM;ZTE;Score M;Cámara trasera;Compatible;6,65;;;6
+ZT-SM-CFR-COM;ZTE;Score M;Cámara frontal;Compatible;4,65;;;6
+ZT-SM-LEN-COM;ZTE;Score M;Lente de cámara;Compatible;2,25;;;6
+ZT-SM-ALT-COM;ZTE;Score M;Altavoz;Compatible;3,59;;;6
+ZT-SM-AUR-COM;ZTE;Score M;Auricular de llamada;Compatible;2,69;;;6
+ZT-SM-FLX-COM;ZTE;Score M;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-SM-SIM-COM;ZTE;Score M;Bandeja SIM;Compatible;2,65;;;6
+ZT-T-PAN-COM;ZTE;Tania;Pantalla;Compatible;13,00;12,61;12,22;6
+ZT-T-BAT-COM;ZTE;Tania;Batería;Compatible;8,90;;;6
+ZT-T-CON-COM;ZTE;Tania;Conector de carga;Compatible;3,70;;;6
+ZT-T-TAP-COM;ZTE;Tania;Tapa trasera;Compatible;4,80;;;6
+ZT-T-CTR-COM;ZTE;Tania;Cámara trasera;Compatible;6,65;;;6
+ZT-T-CFR-COM;ZTE;Tania;Cámara frontal;Compatible;4,65;;;6
+ZT-T-LEN-COM;ZTE;Tania;Lente de cámara;Compatible;2,25;;;6
+ZT-T-ALT-COM;ZTE;Tania;Altavoz;Compatible;3,59;;;6
+ZT-T-AUR-COM;ZTE;Tania;Auricular de llamada;Compatible;2,69;;;6
+ZT-T-FLX-COM;ZTE;Tania;Flex de encendido y volumen;Compatible;2,55;;;6
+ZT-T-SIM-COM;ZTE;Tania;Bandeja SIM;Compatible;2,65;;;6
+ZT-BA33S-PAN-COM;ZTE;Blade A33s;Pantalla;Compatible;14,45;14,02;13,58;6
+ZT-BA33S-BAT-COM;ZTE;Blade A33s;Batería;Compatible;8,40;;;6
+ZT-BA33S-CON-COM;ZTE;Blade A33s;Conector de carga;Compatible;4,00;;;6
+ZT-BA33S-TAP-COM;ZTE;Blade A33s;Tapa trasera;Compatible;5,25;;;6
+ZT-BA33S-CTR-COM;ZTE;Blade A33s;Cámara trasera;Compatible;7,20;;;6
+ZT-BA33S-CFR-COM;ZTE;Blade A33s;Cámara frontal;Compatible;4,85;;;6
+ZT-BA33S-LEN-COM;ZTE;Blade A33s;Lente de cámara;Compatible;2,49;;;6
+ZT-BA33S-ALT-COM;ZTE;Blade A33s;Altavoz;Compatible;3,75;;;6
+ZT-BA33S-AUR-COM;ZTE;Blade A33s;Auricular de llamada;Compatible;2,85;;;6
+ZT-BA33S-FLX-COM;ZTE;Blade A33s;Flex de encendido y volumen;Compatible;2,70;;;6
+ZT-BA33S-SIM-COM;ZTE;Blade A33s;Bandeja SIM;Compatible;2,85;;;6
+ZT-BA34-PAN-COM;ZTE;Blade A34;Pantalla;Compatible;14,45;14,02;13,58;6
+ZT-BA34-BAT-COM;ZTE;Blade A34;Batería;Compatible;8,40;;;6
+ZT-BA34-CON-COM;ZTE;Blade A34;Conector de carga;Compatible;4,00;;;6
+ZT-BA34-TAP-COM;ZTE;Blade A34;Tapa trasera;Compatible;5,25;;;6
+ZT-BA34-CTR-COM;ZTE;Blade A34;Cámara trasera;Compatible;7,20;;;6
+ZT-BA34-CFR-COM;ZTE;Blade A34;Cámara frontal;Compatible;4,85;;;6
+ZT-BA34-LEN-COM;ZTE;Blade A34;Lente de cámara;Compatible;2,49;;;6
+ZT-BA34-ALT-COM;ZTE;Blade A34;Altavoz;Compatible;3,75;;;6
+ZT-BA34-AUR-COM;ZTE;Blade A34;Auricular de llamada;Compatible;2,85;;;6
+ZT-BA34-FLX-COM;ZTE;Blade A34;Flex de encendido y volumen;Compatible;2,70;;;6
+ZT-BA34-SIM-COM;ZTE;Blade A34;Bandeja SIM;Compatible;2,85;;;6
+ZT-BA35-PAN-COM;ZTE;Blade A35;Pantalla;Compatible;14,45;14,02;13,58;6
+ZT-BA35-BAT-COM;ZTE;Blade A35;Batería;Compatible;8,40;;;6
+ZT-BA35-CON-COM;ZTE;Blade A35;Conector de carga;Compatible;4,00;;;6
+ZT-BA35-TAP-COM;ZTE;Blade A35;Tapa trasera;Compatible;5,25;;;6
+ZT-BA35-CTR-COM;ZTE;Blade A35;Cámara trasera;Compatible;7,20;;;6
+ZT-BA35-CFR-COM;ZTE;Blade A35;Cámara frontal;Compatible;4,85;;;6
+ZT-BA35-LEN-COM;ZTE;Blade A35;Lente de cámara;Compatible;2,49;;;6
+ZT-BA35-ALT-COM;ZTE;Blade A35;Altavoz;Compatible;3,75;;;6
+ZT-BA35-AUR-COM;ZTE;Blade A35;Auricular de llamada;Compatible;2,85;;;6
+ZT-BA35-FLX-COM;ZTE;Blade A35;Flex de encendido y volumen;Compatible;2,70;;;6
+ZT-BA35-SIM-COM;ZTE;Blade A35;Bandeja SIM;Compatible;2,85;;;6
+ZT-BA53-PAN-COM;ZTE;Blade A53;Pantalla;Compatible;14,45;14,02;13,58;6
+ZT-BA53-BAT-COM;ZTE;Blade A53;Batería;Compatible;8,40;;;6
+ZT-BA53-CON-COM;ZTE;Blade A53;Conector de carga;Compatible;4,00;;;6
+ZT-BA53-TAP-COM;ZTE;Blade A53;Tapa trasera;Compatible;5,25;;;6
+ZT-BA53-CTR-COM;ZTE;Blade A53;Cámara trasera;Compatible;7,20;;;6
+ZT-BA53-CFR-COM;ZTE;Blade A53;Cámara frontal;Compatible;4,85;;;6
+ZT-BA53-LEN-COM;ZTE;Blade A53;Lente de cámara;Compatible;2,49;;;6
+ZT-BA53-ALT-COM;ZTE;Blade A53;Altavoz;Compatible;3,75;;;6
+ZT-BA53-AUR-COM;ZTE;Blade A53;Auricular de llamada;Compatible;2,85;;;6
+ZT-BA53-FLX-COM;ZTE;Blade A53;Flex de encendido y volumen;Compatible;2,70;;;6
+ZT-BA53-SIM-COM;ZTE;Blade A53;Bandeja SIM;Compatible;2,85;;;6
+ZT-BA53P-PAN-COM;ZTE;Blade A53 Pro;Pantalla;Compatible;14,45;14,02;13,58;6
+ZT-BA53P-BAT-COM;ZTE;Blade A53 Pro;Batería;Compatible;8,40;;;6
+ZT-BA53P-CON-COM;ZTE;Blade A53 Pro;Conector de carga;Compatible;4,00;;;6
+ZT-BA53P-TAP-COM-VER;ZTE;Blade A53 Pro;Tapa trasera;Verde menta;5,25;;;6
+ZT-BA53P-TAP-COM-AZU;ZTE;Blade A53 Pro;Tapa trasera;Azul (Midnight Blue);5,25;;;6
+ZT-BA53P-CTR-COM;ZTE;Blade A53 Pro;Cámara trasera;Compatible;7,20;;;6
+ZT-BA53P-CFR-COM;ZTE;Blade A53 Pro;Cámara frontal;Compatible;4,85;;;6
+ZT-BA53P-LEN-COM;ZTE;Blade A53 Pro;Lente de cámara;Compatible;2,49;;;6
+ZT-BA53P-ALT-COM;ZTE;Blade A53 Pro;Altavoz;Compatible;3,75;;;6
+ZT-BA53P-AUR-COM;ZTE;Blade A53 Pro;Auricular de llamada;Compatible;2,85;;;6
+ZT-BA53P-FLX-COM;ZTE;Blade A53 Pro;Flex de encendido y volumen;Compatible;2,70;;;6
+ZT-BA53P-SIM-COM;ZTE;Blade A53 Pro;Bandeja SIM;Compatible;2,85;;;6
+ZT-BA54-PAN-COM;ZTE;Blade A54;Pantalla;Compatible;14,45;14,02;13,58;6
+ZT-BA54-BAT-COM;ZTE;Blade A54;Batería;Compatible;8,40;;;6
+ZT-BA54-CON-COM;ZTE;Blade A54;Conector de carga;Compatible;4,00;;;6
+ZT-BA54-TAP-COM;ZTE;Blade A54;Tapa trasera;Compatible;5,25;;;6
+ZT-BA54-CTR-COM;ZTE;Blade A54;Cámara trasera;Compatible;7,20;;;6
+ZT-BA54-CFR-COM;ZTE;Blade A54;Cámara frontal;Compatible;4,85;;;6
+ZT-BA54-LEN-COM;ZTE;Blade A54;Lente de cámara;Compatible;2,49;;;6
+ZT-BA54-ALT-COM;ZTE;Blade A54;Altavoz;Compatible;3,75;;;6
+ZT-BA54-AUR-COM;ZTE;Blade A54;Auricular de llamada;Compatible;2,85;;;6
+ZT-BA54-FLX-COM;ZTE;Blade A54;Flex de encendido y volumen;Compatible;2,70;;;6
+ZT-BA54-SIM-COM;ZTE;Blade A54;Bandeja SIM;Compatible;2,85;;;6
+ZT-BA72S-PAN-COM;ZTE;Blade A72s;Pantalla;Compatible;14,45;14,02;13,58;6
+ZT-BA72S-BAT-COM;ZTE;Blade A72s;Batería;Compatible;8,40;;;6
+ZT-BA72S-CON-COM;ZTE;Blade A72s;Conector de carga;Compatible;4,00;;;6
+ZT-BA72S-TAP-COM-GRI;ZTE;Blade A72s;Tapa trasera;Gris espacial;5,25;;;6
+ZT-BA72S-TAP-COM-AZU;ZTE;Blade A72s;Tapa trasera;Azul cielo;5,25;;;6
+ZT-BA72S-CTR-COM;ZTE;Blade A72s;Cámara trasera;Compatible;7,20;;;6
+ZT-BA72S-CFR-COM;ZTE;Blade A72s;Cámara frontal;Compatible;4,85;;;6
+ZT-BA72S-LEN-COM;ZTE;Blade A72s;Lente de cámara;Compatible;2,49;;;6
+ZT-BA72S-ALT-COM;ZTE;Blade A72s;Altavoz;Compatible;3,75;;;6
+ZT-BA72S-AUR-COM;ZTE;Blade A72s;Auricular de llamada;Compatible;2,85;;;6
+ZT-BA72S-FLX-COM;ZTE;Blade A72s;Flex de encendido y volumen;Compatible;2,70;;;6
+ZT-BA72S-SIM-COM;ZTE;Blade A72s;Bandeja SIM;Compatible;2,85;;;6
+ZT-BA73-PAN-COM;ZTE;Blade A73;Pantalla;Compatible;14,45;14,02;13,58;6
+ZT-BA73-BAT-COM;ZTE;Blade A73;Batería;Compatible;8,40;;;6
+ZT-BA73-CON-COM;ZTE;Blade A73;Conector de carga;Compatible;4,00;;;6
+ZT-BA73-TAP-COM;ZTE;Blade A73;Tapa trasera;Compatible;5,25;;;6
+ZT-BA73-CTR-COM;ZTE;Blade A73;Cámara trasera;Compatible;7,20;;;6
+ZT-BA73-CFR-COM;ZTE;Blade A73;Cámara frontal;Compatible;4,85;;;6
+ZT-BA73-LEN-COM;ZTE;Blade A73;Lente de cámara;Compatible;2,49;;;6
+ZT-BA73-ALT-COM;ZTE;Blade A73;Altavoz;Compatible;3,75;;;6
+ZT-BA73-AUR-COM;ZTE;Blade A73;Auricular de llamada;Compatible;2,85;;;6
+ZT-BA73-FLX-COM;ZTE;Blade A73;Flex de encendido y volumen;Compatible;2,70;;;6
+ZT-BA73-SIM-COM;ZTE;Blade A73;Bandeja SIM;Compatible;2,85;;;6
+ZT-BA735-PAN-COM;ZTE;Blade A73 5G;Pantalla;Compatible;14,45;14,02;13,58;6
+ZT-BA735-BAT-COM;ZTE;Blade A73 5G;Batería;Compatible;8,40;;;6
+ZT-BA735-CON-COM;ZTE;Blade A73 5G;Conector de carga;Compatible;4,00;;;6
+ZT-BA735-TAP-COM;ZTE;Blade A73 5G;Tapa trasera;Compatible;5,25;;;6
+ZT-BA735-CTR-COM;ZTE;Blade A73 5G;Cámara trasera;Compatible;7,20;;;6
+ZT-BA735-CFR-COM;ZTE;Blade A73 5G;Cámara frontal;Compatible;4,85;;;6
+ZT-BA735-LEN-COM;ZTE;Blade A73 5G;Lente de cámara;Compatible;2,49;;;6
+ZT-BA735-ALT-COM;ZTE;Blade A73 5G;Altavoz;Compatible;3,75;;;6
+ZT-BA735-AUR-COM;ZTE;Blade A73 5G;Auricular de llamada;Compatible;2,85;;;6
+ZT-BA735-FLX-COM;ZTE;Blade A73 5G;Flex de encendido y volumen;Compatible;2,70;;;6
+ZT-BA735-SIM-COM;ZTE;Blade A73 5G;Bandeja SIM;Compatible;2,85;;;6
+ZT-BA75-PAN-COM;ZTE;Blade A75;Pantalla;Compatible;14,45;14,02;13,58;6
+ZT-BA75-BAT-COM;ZTE;Blade A75;Batería;Compatible;8,40;;;6
+ZT-BA75-CON-COM;ZTE;Blade A75;Conector de carga;Compatible;4,00;;;6
+ZT-BA75-TAP-COM-NEG;ZTE;Blade A75;Tapa trasera;Negro (Basalt Black);5,25;;;6
+ZT-BA75-TAP-COM-VER;ZTE;Blade A75;Tapa trasera;Verde (Aqua Green);5,25;;;6
+ZT-BA75-CTR-COM;ZTE;Blade A75;Cámara trasera;Compatible;7,20;;;6
+ZT-BA75-CFR-COM;ZTE;Blade A75;Cámara frontal;Compatible;4,85;;;6
+ZT-BA75-LEN-COM;ZTE;Blade A75;Lente de cámara;Compatible;2,49;;;6
+ZT-BA75-ALT-COM;ZTE;Blade A75;Altavoz;Compatible;3,75;;;6
+ZT-BA75-AUR-COM;ZTE;Blade A75;Auricular de llamada;Compatible;2,85;;;6
+ZT-BA75-FLX-COM;ZTE;Blade A75;Flex de encendido y volumen;Compatible;2,70;;;6
+ZT-BA75-SIM-COM;ZTE;Blade A75;Bandeja SIM;Compatible;2,85;;;6
+ZT-BA755-PAN-COM;ZTE;Blade A75 5G;Pantalla;Compatible;14,45;14,02;13,58;6
+ZT-BA755-BAT-COM;ZTE;Blade A75 5G;Batería;Compatible;8,40;;;6
+ZT-BA755-CON-COM;ZTE;Blade A75 5G;Conector de carga;Compatible;4,00;;;6
+ZT-BA755-TAP-COM;ZTE;Blade A75 5G;Tapa trasera;Compatible;5,25;;;6
+ZT-BA755-CTR-COM;ZTE;Blade A75 5G;Cámara trasera;Compatible;7,20;;;6
+ZT-BA755-CFR-COM;ZTE;Blade A75 5G;Cámara frontal;Compatible;4,85;;;6
+ZT-BA755-LEN-COM;ZTE;Blade A75 5G;Lente de cámara;Compatible;2,49;;;6
+ZT-BA755-ALT-COM;ZTE;Blade A75 5G;Altavoz;Compatible;3,75;;;6
+ZT-BA755-AUR-COM;ZTE;Blade A75 5G;Auricular de llamada;Compatible;2,85;;;6
+ZT-BA755-FLX-COM;ZTE;Blade A75 5G;Flex de encendido y volumen;Compatible;2,70;;;6
+ZT-BA755-SIM-COM;ZTE;Blade A75 5G;Bandeja SIM;Compatible;2,85;;;6
+ZT-BV505-PAN-INC;ZTE;Blade V50 5G;Pantalla;Incell;19,65;19,06;18,47;6
+ZT-BV505-BAT-COM;ZTE;Blade V50 5G;Batería;Compatible;9,10;;;6
+ZT-BV505-CON-COM;ZTE;Blade V50 5G;Conector de carga;Compatible;4,95;;;6
+ZT-BV505-TAP-COM;ZTE;Blade V50 5G;Tapa trasera;Compatible;5,89;;;6
+ZT-BV505-CTR-COM;ZTE;Blade V50 5G;Cámara trasera;Compatible;8,20;;;6
+ZT-BV505-CFR-COM;ZTE;Blade V50 5G;Cámara frontal;Compatible;5,15;;;6
+ZT-BV505-LEN-COM;ZTE;Blade V50 5G;Lente de cámara;Compatible;2,40;;;6
+ZT-BV505-ALT-COM;ZTE;Blade V50 5G;Altavoz;Compatible;3,80;;;6
+ZT-BV505-AUR-COM;ZTE;Blade V50 5G;Auricular de llamada;Compatible;2,85;;;6
+ZT-BV505-FLX-COM;ZTE;Blade V50 5G;Flex de encendido y volumen;Compatible;2,65;;;6
+ZT-BV505-SIM-COM;ZTE;Blade V50 5G;Bandeja SIM;Compatible;2,69;;;6
+ZT-BV50D-PAN-COM;ZTE;Blade V50 Design;Pantalla;Compatible;16,85;16,34;15,84;6
+ZT-BV50D-BAT-COM;ZTE;Blade V50 Design;Batería;Compatible;9,10;;;6
+ZT-BV50D-CON-COM;ZTE;Blade V50 Design;Conector de carga;Compatible;4,95;;;6
+ZT-BV50D-TAP-COM-NEG;ZTE;Blade V50 Design;Tapa trasera;Negro (Diamond Black);5,89;;;6
+ZT-BV50D-TAP-COM-VER;ZTE;Blade V50 Design;Tapa trasera;Verde (Beach Green);5,89;;;6
+ZT-BV50D-CTR-COM;ZTE;Blade V50 Design;Cámara trasera;Compatible;8,20;;;6
+ZT-BV50D-CFR-COM;ZTE;Blade V50 Design;Cámara frontal;Compatible;5,15;;;6
+ZT-BV50D-LEN-COM;ZTE;Blade V50 Design;Lente de cámara;Compatible;2,40;;;6
+ZT-BV50D-ALT-COM;ZTE;Blade V50 Design;Altavoz;Compatible;3,80;;;6
+ZT-BV50D-AUR-COM;ZTE;Blade V50 Design;Auricular de llamada;Compatible;2,85;;;6
+ZT-BV50D-FLX-COM;ZTE;Blade V50 Design;Flex de encendido y volumen;Compatible;2,65;;;6
+ZT-BV50D-SIM-COM;ZTE;Blade V50 Design;Bandeja SIM;Compatible;2,69;;;6
+ZT-BV50D5-PAN-COM;ZTE;Blade V50 Design 5G;Pantalla;Compatible;16,85;16,34;15,84;6
+ZT-BV50D5-BAT-COM;ZTE;Blade V50 Design 5G;Batería;Compatible;9,10;;;6
+ZT-BV50D5-CON-COM;ZTE;Blade V50 Design 5G;Conector de carga;Compatible;4,95;;;6
+ZT-BV50D5-TAP-COM;ZTE;Blade V50 Design 5G;Tapa trasera;Compatible;5,89;;;6
+ZT-BV50D5-CTR-COM;ZTE;Blade V50 Design 5G;Cámara trasera;Compatible;8,20;;;6
+ZT-BV50D5-CFR-COM;ZTE;Blade V50 Design 5G;Cámara frontal;Compatible;5,15;;;6
+ZT-BV50D5-LEN-COM;ZTE;Blade V50 Design 5G;Lente de cámara;Compatible;2,40;;;6
+ZT-BV50D5-ALT-COM;ZTE;Blade V50 Design 5G;Altavoz;Compatible;3,80;;;6
+ZT-BV50D5-AUR-COM;ZTE;Blade V50 Design 5G;Auricular de llamada;Compatible;2,85;;;6
+ZT-BV50D5-FLX-COM;ZTE;Blade V50 Design 5G;Flex de encendido y volumen;Compatible;2,65;;;6
+ZT-BV50D5-SIM-COM;ZTE;Blade V50 Design 5G;Bandeja SIM;Compatible;2,69;;;6
+ZT-BV50V-PAN-COM;ZTE;Blade V50 Vita;Pantalla;Compatible;16,85;16,34;15,84;6
+ZT-BV50V-BAT-COM;ZTE;Blade V50 Vita;Batería;Compatible;9,10;;;6
+ZT-BV50V-CON-COM;ZTE;Blade V50 Vita;Conector de carga;Compatible;4,95;;;6
+ZT-BV50V-TAP-COM;ZTE;Blade V50 Vita;Tapa trasera;Compatible;5,89;;;6
+ZT-BV50V-CTR-COM;ZTE;Blade V50 Vita;Cámara trasera;Compatible;8,20;;;6
+ZT-BV50V-CFR-COM;ZTE;Blade V50 Vita;Cámara frontal;Compatible;5,15;;;6
+ZT-BV50V-LEN-COM;ZTE;Blade V50 Vita;Lente de cámara;Compatible;2,40;;;6
+ZT-BV50V-ALT-COM;ZTE;Blade V50 Vita;Altavoz;Compatible;3,80;;;6
+ZT-BV50V-AUR-COM;ZTE;Blade V50 Vita;Auricular de llamada;Compatible;2,85;;;6
+ZT-BV50V-FLX-COM;ZTE;Blade V50 Vita;Flex de encendido y volumen;Compatible;2,65;;;6
+ZT-BV50V-SIM-COM;ZTE;Blade V50 Vita;Bandeja SIM;Compatible;2,69;;;6
+ZT-BV60V-PAN-COM;ZTE;Blade V60 Vita;Pantalla;Compatible;16,85;16,34;15,84;6
+ZT-BV60V-BAT-COM;ZTE;Blade V60 Vita;Batería;Compatible;9,10;;;6
+ZT-BV60V-CON-COM;ZTE;Blade V60 Vita;Conector de carga;Compatible;4,95;;;6
+ZT-BV60V-TAP-COM;ZTE;Blade V60 Vita;Tapa trasera;Compatible;5,89;;;6
+ZT-BV60V-CTR-COM;ZTE;Blade V60 Vita;Cámara trasera;Compatible;8,20;;;6
+ZT-BV60V-CFR-COM;ZTE;Blade V60 Vita;Cámara frontal;Compatible;5,15;;;6
+ZT-BV60V-LEN-COM;ZTE;Blade V60 Vita;Lente de cámara;Compatible;2,40;;;6
+ZT-BV60V-ALT-COM;ZTE;Blade V60 Vita;Altavoz;Compatible;3,80;;;6
+ZT-BV60V-AUR-COM;ZTE;Blade V60 Vita;Auricular de llamada;Compatible;2,85;;;6
+ZT-BV60V-FLX-COM;ZTE;Blade V60 Vita;Flex de encendido y volumen;Compatible;2,65;;;6
+ZT-BV60V-SIM-COM;ZTE;Blade V60 Vita;Bandeja SIM;Compatible;2,69;;;6
+ZT-BV10-PAN-COM;ZTE;Blade V10;Pantalla;Compatible;15,15;14,70;14,24;6
+ZT-BV10-BAT-COM;ZTE;Blade V10;Batería;Compatible;9,65;;;6
+ZT-BV10-CON-COM;ZTE;Blade V10;Conector de carga;Compatible;4,60;;;6
+ZT-BV10-TAP-COM-NEG;ZTE;Blade V10;Tapa trasera;Negro;5,40;;;6
+ZT-BV10-TAP-COM-AZU;ZTE;Blade V10;Tapa trasera;Azul;5,40;;;6
+ZT-BV10-TAP-COM-VER;ZTE;Blade V10;Tapa trasera;Verde;5,40;;;6
+ZT-BV10-CTR-COM;ZTE;Blade V10;Cámara trasera;Compatible;7,59;;;6
+ZT-BV10-CFR-COM;ZTE;Blade V10;Cámara frontal;Compatible;4,99;;;6
+ZT-BV10-LEN-COM;ZTE;Blade V10;Lente de cámara;Compatible;2,19;;;6
+ZT-BV10-ALT-COM;ZTE;Blade V10;Altavoz;Compatible;3,65;;;6
+ZT-BV10-AUR-COM;ZTE;Blade V10;Auricular de llamada;Compatible;2,65;;;6
+ZT-BV10-FLX-COM;ZTE;Blade V10;Flex de encendido y volumen;Compatible;2,49;;;6
+ZT-BV10-SIM-COM;ZTE;Blade V10;Bandeja SIM;Compatible;2,55;;;6
+ZT-A30U5-PRO-NA;ZTE;Axon 30 Ultra 5G;Cristal templado;Estándar;1,30;;;
+ZT-A30U5-PRO-NA-FG;ZTE;Axon 30 Ultra 5G;Cristal templado;UV full glue;4,15;;;
+ZT-A30U5-PRO-PRI;ZTE;Axon 30 Ultra 5G;Cristal templado;Privacidad;4,00;;;
+ZT-A30U5-FUN-SIL;ZTE;Axon 30 Ultra 5G;Funda;Silicona;2,50;;;
+ZT-A30U5-FUN-TPU;ZTE;Axon 30 Ultra 5G;Funda;Transparente;2,95;;;
+ZT-A30U5-FUN-LIB;ZTE;Axon 30 Ultra 5G;Funda;Libro;3,70;;;
+ZT-A30U5-FUN-ANT;ZTE;Axon 30 Ultra 5G;Funda;Antigolpes;3,10;;;
+ZT-BA3L-PRO-NA;ZTE;Blade A3 Lite;Cristal templado;Estándar;1,30;;;
+ZT-BA3L-PRO-PRI;ZTE;Blade A3 Lite;Cristal templado;Privacidad;4,00;;;
+ZT-BA3L-FUN-SIL;ZTE;Blade A3 Lite;Funda;Silicona;2,50;;;
+ZT-BA3L-FUN-TPU;ZTE;Blade A3 Lite;Funda;Transparente;2,95;;;
+ZT-BA3L-FUN-LIB;ZTE;Blade A3 Lite;Funda;Libro;3,70;;;
+ZT-BA3L-FUN-ANT;ZTE;Blade A3 Lite;Funda;Antigolpes;3,10;;;
+ZT-BA3PL-PRO-NA;ZTE;Blade A3 Plus;Cristal templado;Estándar;1,30;;;
+ZT-BA3PL-PRO-PRI;ZTE;Blade A3 Plus;Cristal templado;Privacidad;4,00;;;
+ZT-BA3PL-FUN-SIL;ZTE;Blade A3 Plus;Funda;Silicona;2,50;;;
+ZT-BA3PL-FUN-TPU;ZTE;Blade A3 Plus;Funda;Transparente;2,95;;;
+ZT-BA3PL-FUN-LIB;ZTE;Blade A3 Plus;Funda;Libro;3,70;;;
+ZT-BA3PL-FUN-ANT;ZTE;Blade A3 Plus;Funda;Antigolpes;3,10;;;
+ZT-BA3SE-PRO-NA;ZTE;Blade A3 SE;Cristal templado;Estándar;1,30;;;
+ZT-BA3SE-PRO-PRI;ZTE;Blade A3 SE;Cristal templado;Privacidad;4,00;;;
+ZT-BA3SE-FUN-SIL;ZTE;Blade A3 SE;Funda;Silicona;2,50;;;
+ZT-BA3SE-FUN-TPU;ZTE;Blade A3 SE;Funda;Transparente;2,95;;;
+ZT-BA3SE-FUN-LIB;ZTE;Blade A3 SE;Funda;Libro;3,70;;;
+ZT-BA3SE-FUN-ANT;ZTE;Blade A3 SE;Funda;Antigolpes;3,10;;;
+ZT-BA31L-PRO-NA;ZTE;Blade A31 Lite;Cristal templado;Estándar;1,30;;;
+ZT-BA31L-PRO-PRI;ZTE;Blade A31 Lite;Cristal templado;Privacidad;4,00;;;
+ZT-BA31L-FUN-SIL;ZTE;Blade A31 Lite;Funda;Silicona;2,50;;;
+ZT-BA31L-FUN-TPU;ZTE;Blade A31 Lite;Funda;Transparente;2,95;;;
+ZT-BA31L-FUN-LIB;ZTE;Blade A31 Lite;Funda;Libro;3,70;;;
+ZT-BA31L-FUN-ANT;ZTE;Blade A31 Lite;Funda;Antigolpes;3,10;;;
+ZT-BA51L-PRO-NA;ZTE;Blade A51 Lite;Cristal templado;Estándar;1,30;;;
+ZT-BA51L-PRO-PRI;ZTE;Blade A51 Lite;Cristal templado;Privacidad;4,00;;;
+ZT-BA51L-FUN-SIL;ZTE;Blade A51 Lite;Funda;Silicona;2,50;;;
+ZT-BA51L-FUN-TPU;ZTE;Blade A51 Lite;Funda;Transparente;2,95;;;
+ZT-BA51L-FUN-LIB;ZTE;Blade A51 Lite;Funda;Libro;3,70;;;
+ZT-BA51L-FUN-ANT;ZTE;Blade A51 Lite;Funda;Antigolpes;3,10;;;
+ZT-BD6L4-PRO-NA;ZTE;Blade D6 Lite 4G;Cristal templado;Estándar;1,30;;;
+ZT-BD6L4-PRO-PRI;ZTE;Blade D6 Lite 4G;Cristal templado;Privacidad;4,00;;;
+ZT-BD6L4-FUN-SIL;ZTE;Blade D6 Lite 4G;Funda;Silicona;2,50;;;
+ZT-BD6L4-FUN-TPU;ZTE;Blade D6 Lite 4G;Funda;Transparente;2,95;;;
+ZT-BD6L4-FUN-LIB;ZTE;Blade D6 Lite 4G;Funda;Libro;3,70;;;
+ZT-BD6L4-FUN-ANT;ZTE;Blade D6 Lite 4G;Funda;Antigolpes;3,10;;;
+ZT-BL2PL-PRO-NA;ZTE;Blade L2 Plus;Cristal templado;Estándar;1,30;;;
+ZT-BL2PL-PRO-PRI;ZTE;Blade L2 Plus;Cristal templado;Privacidad;4,00;;;
+ZT-BL2PL-FUN-SIL;ZTE;Blade L2 Plus;Funda;Silicona;2,50;;;
+ZT-BL2PL-FUN-TPU;ZTE;Blade L2 Plus;Funda;Transparente;2,95;;;
+ZT-BL2PL-FUN-LIB;ZTE;Blade L2 Plus;Funda;Libro;3,70;;;
+ZT-BL2PL-FUN-ANT;ZTE;Blade L2 Plus;Funda;Antigolpes;3,10;;;
+ZT-BL3L-PRO-NA;ZTE;Blade L3 Lite;Cristal templado;Estándar;1,30;;;
+ZT-BL3L-PRO-PRI;ZTE;Blade L3 Lite;Cristal templado;Privacidad;4,00;;;
+ZT-BL3L-FUN-SIL;ZTE;Blade L3 Lite;Funda;Silicona;2,50;;;
+ZT-BL3L-FUN-TPU;ZTE;Blade L3 Lite;Funda;Transparente;2,95;;;
+ZT-BL3L-FUN-LIB;ZTE;Blade L3 Lite;Funda;Libro;3,70;;;
+ZT-BL3L-FUN-ANT;ZTE;Blade L3 Lite;Funda;Antigolpes;3,10;;;
+ZT-BS6L-PRO-NA;ZTE;Blade S6 Lite;Cristal templado;Estándar;1,30;;;
+ZT-BS6L-PRO-PRI;ZTE;Blade S6 Lite;Cristal templado;Privacidad;4,00;;;
+ZT-BS6L-FUN-SIL;ZTE;Blade S6 Lite;Funda;Silicona;2,50;;;
+ZT-BS6L-FUN-TPU;ZTE;Blade S6 Lite;Funda;Transparente;2,95;;;
+ZT-BS6L-FUN-LIB;ZTE;Blade S6 Lite;Funda;Libro;3,70;;;
+ZT-BS6L-FUN-ANT;ZTE;Blade S6 Lite;Funda;Antigolpes;3,10;;;
+ZT-BA31PL-PRO-NA;ZTE;Blade A31 Plus;Cristal templado;Estándar;1,30;;;
+ZT-BA31PL-PRO-PRI;ZTE;Blade A31 Plus;Cristal templado;Privacidad;4,00;;;
+ZT-BA31PL-FUN-SIL;ZTE;Blade A31 Plus;Funda;Silicona;2,50;;;
+ZT-BA31PL-FUN-TPU;ZTE;Blade A31 Plus;Funda;Transparente;2,95;;;
+ZT-BA31PL-FUN-LIB;ZTE;Blade A31 Plus;Funda;Libro;3,70;;;
+ZT-BA31PL-FUN-ANT;ZTE;Blade A31 Plus;Funda;Antigolpes;3,10;;;
+ZT-BA71-PRO-NA;ZTE;Blade A71;Cristal templado;Estándar;1,30;;;
+ZT-BA71-PRO-PRI;ZTE;Blade A71;Cristal templado;Privacidad;4,00;;;
+ZT-BA71-FUN-SIL;ZTE;Blade A71;Funda;Silicona;2,50;;;
+ZT-BA71-FUN-TPU;ZTE;Blade A71;Funda;Transparente;2,95;;;
+ZT-BA71-FUN-LIB;ZTE;Blade A71;Funda;Libro;3,70;;;
+ZT-BA71-FUN-ANT;ZTE;Blade A71;Funda;Antigolpes;3,10;;;
+ZT-BL9-PRO-NA;ZTE;Blade L9;Cristal templado;Estándar;1,30;;;
+ZT-BL9-PRO-PRI;ZTE;Blade L9;Cristal templado;Privacidad;4,00;;;
+ZT-BL9-FUN-SIL;ZTE;Blade L9;Funda;Silicona;2,50;;;
+ZT-BL9-FUN-TPU;ZTE;Blade L9;Funda;Transparente;2,95;;;
+ZT-BL9-FUN-LIB;ZTE;Blade L9;Funda;Libro;3,70;;;
+ZT-BL9-FUN-ANT;ZTE;Blade L9;Funda;Antigolpes;3,10;;;
+ZT-A30-PRO-NA;ZTE;Axon 30;Cristal templado;Estándar;1,30;;;
+ZT-A30-PRO-PRI;ZTE;Axon 30;Cristal templado;Privacidad;4,00;;;
+ZT-A30-FUN-SIL;ZTE;Axon 30;Funda;Silicona;2,50;;;
+ZT-A30-FUN-TPU;ZTE;Axon 30;Funda;Transparente;2,95;;;
+ZT-A30-FUN-LIB;ZTE;Axon 30;Funda;Libro;3,70;;;
+ZT-A30-FUN-ANT;ZTE;Axon 30;Funda;Antigolpes;3,10;;;
+ZT-V20P-PRO-NA;ZTE;Voyage 20 Pro;Cristal templado;Estándar;1,30;;;
+ZT-V20P-PRO-PRI;ZTE;Voyage 20 Pro;Cristal templado;Privacidad;4,00;;;
+ZT-V20P-FUN-SIL;ZTE;Voyage 20 Pro;Funda;Silicona;2,50;;;
+ZT-V20P-FUN-TPU;ZTE;Voyage 20 Pro;Funda;Transparente;2,95;;;
+ZT-V20P-FUN-LIB;ZTE;Voyage 20 Pro;Funda;Libro;3,70;;;
+ZT-V20P-FUN-ANT;ZTE;Voyage 20 Pro;Funda;Antigolpes;3,10;;;
+ZT-BA31-PRO-NA;ZTE;Blade A31;Cristal templado;Estándar;1,30;;;
+ZT-BA31-PRO-PRI;ZTE;Blade A31;Cristal templado;Privacidad;4,00;;;
+ZT-BA31-FUN-SIL;ZTE;Blade A31;Funda;Silicona;2,50;;;
+ZT-BA31-FUN-TPU;ZTE;Blade A31;Funda;Transparente;2,95;;;
+ZT-BA31-FUN-LIB;ZTE;Blade A31;Funda;Libro;3,70;;;
+ZT-BA31-FUN-ANT;ZTE;Blade A31;Funda;Antigolpes;3,10;;;
+ZT-BA51-PRO-NA;ZTE;Blade A51;Cristal templado;Estándar;1,30;;;
+ZT-BA51-PRO-PRI;ZTE;Blade A51;Cristal templado;Privacidad;4,00;;;
+ZT-BA51-FUN-SIL;ZTE;Blade A51;Funda;Silicona;2,50;;;
+ZT-BA51-FUN-TPU;ZTE;Blade A51;Funda;Transparente;2,95;;;
+ZT-BA51-FUN-LIB;ZTE;Blade A51;Funda;Libro;3,70;;;
+ZT-BA51-FUN-ANT;ZTE;Blade A51;Funda;Antigolpes;3,10;;;
+ZT-A30P-PRO-NA;ZTE;Axon 30 Pro;Cristal templado;Estándar;1,30;;;
+ZT-A30P-PRO-NA-FG;ZTE;Axon 30 Pro;Cristal templado;UV full glue;4,15;;;
+ZT-A30P-PRO-PRI;ZTE;Axon 30 Pro;Cristal templado;Privacidad;4,00;;;
+ZT-A30P-FUN-SIL;ZTE;Axon 30 Pro;Funda;Silicona;2,50;;;
+ZT-A30P-FUN-TPU;ZTE;Axon 30 Pro;Funda;Transparente;2,95;;;
+ZT-A30P-FUN-LIB;ZTE;Axon 30 Pro;Funda;Libro;3,70;;;
+ZT-A30P-FUN-ANT;ZTE;Axon 30 Pro;Funda;Antigolpes;3,10;;;
+ZT-A30PU-PRO-NA;ZTE;Axon 30 Pro Ultra;Cristal templado;Estándar;1,30;;;
+ZT-A30PU-PRO-NA-FG;ZTE;Axon 30 Pro Ultra;Cristal templado;UV full glue;4,15;;;
+ZT-A30PU-PRO-PRI;ZTE;Axon 30 Pro Ultra;Cristal templado;Privacidad;4,00;;;
+ZT-A30PU-FUN-SIL;ZTE;Axon 30 Pro Ultra;Funda;Silicona;2,50;;;
+ZT-A30PU-FUN-TPU;ZTE;Axon 30 Pro Ultra;Funda;Transparente;2,95;;;
+ZT-A30PU-FUN-LIB;ZTE;Axon 30 Pro Ultra;Funda;Libro;3,70;;;
+ZT-A30PU-FUN-ANT;ZTE;Axon 30 Pro Ultra;Funda;Antigolpes;3,10;;;
+ZT-B11P-PRO-NA;ZTE;Blade 11 Prime;Cristal templado;Estándar;1,30;;;
+ZT-B11P-PRO-PRI;ZTE;Blade 11 Prime;Cristal templado;Privacidad;4,00;;;
+ZT-B11P-FUN-SIL;ZTE;Blade 11 Prime;Funda;Silicona;2,50;;;
+ZT-B11P-FUN-TPU;ZTE;Blade 11 Prime;Funda;Transparente;2,95;;;
+ZT-B11P-FUN-LIB;ZTE;Blade 11 Prime;Funda;Libro;3,70;;;
+ZT-B11P-FUN-ANT;ZTE;Blade 11 Prime;Funda;Antigolpes;3,10;;;
+ZT-S30-PRO-NA;ZTE;S30;Cristal templado;Estándar;1,30;;;
+ZT-S30-PRO-PRI;ZTE;S30;Cristal templado;Privacidad;4,00;;;
+ZT-S30-FUN-SIL;ZTE;S30;Funda;Silicona;2,50;;;
+ZT-S30-FUN-TPU;ZTE;S30;Funda;Transparente;2,95;;;
+ZT-S30-FUN-LIB;ZTE;S30;Funda;Libro;3,70;;;
+ZT-S30-FUN-ANT;ZTE;S30;Funda;Antigolpes;3,10;;;
+ZT-S30P-PRO-NA;ZTE;S30 Pro;Cristal templado;Estándar;1,30;;;
+ZT-S30P-PRO-PRI;ZTE;S30 Pro;Cristal templado;Privacidad;4,00;;;
+ZT-S30P-FUN-SIL;ZTE;S30 Pro;Funda;Silicona;2,50;;;
+ZT-S30P-FUN-TPU;ZTE;S30 Pro;Funda;Transparente;2,95;;;
+ZT-S30P-FUN-LIB;ZTE;S30 Pro;Funda;Libro;3,70;;;
+ZT-S30P-FUN-ANT;ZTE;S30 Pro;Funda;Antigolpes;3,10;;;
+ZT-S30SE-PRO-NA;ZTE;S30 SE;Cristal templado;Estándar;1,30;;;
+ZT-S30SE-PRO-PRI;ZTE;S30 SE;Cristal templado;Privacidad;4,00;;;
+ZT-S30SE-FUN-SIL;ZTE;S30 SE;Funda;Silicona;2,50;;;
+ZT-S30SE-FUN-TPU;ZTE;S30 SE;Funda;Transparente;2,95;;;
+ZT-S30SE-FUN-LIB;ZTE;S30 SE;Funda;Libro;3,70;;;
+ZT-S30SE-FUN-ANT;ZTE;S30 SE;Funda;Antigolpes;3,10;;;
+ZT-A204-PRO-NA;ZTE;Axon 20 4G;Cristal templado;Estándar;1,30;;;
+ZT-A204-PRO-PRI;ZTE;Axon 20 4G;Cristal templado;Privacidad;4,00;;;
+ZT-A204-FUN-SIL;ZTE;Axon 20 4G;Funda;Silicona;2,50;;;
+ZT-A204-FUN-TPU;ZTE;Axon 20 4G;Funda;Transparente;2,95;;;
+ZT-A204-FUN-LIB;ZTE;Axon 20 4G;Funda;Libro;3,70;;;
+ZT-A204-FUN-ANT;ZTE;Axon 20 4G;Funda;Antigolpes;3,10;;;
+ZT-A205-PRO-NA;ZTE;Axon 20 5G;Cristal templado;Estándar;1,30;;;
+ZT-A205-PRO-PRI;ZTE;Axon 20 5G;Cristal templado;Privacidad;4,00;;;
+ZT-A205-FUN-SIL;ZTE;Axon 20 5G;Funda;Silicona;2,50;;;
+ZT-A205-FUN-TPU;ZTE;Axon 20 5G;Funda;Transparente;2,95;;;
+ZT-A205-FUN-LIB;ZTE;Axon 20 5G;Funda;Libro;3,70;;;
+ZT-A205-FUN-ANT;ZTE;Axon 20 5G;Funda;Antigolpes;3,10;;;
+ZT-B205-PRO-NA;ZTE;Blade 20 5G;Cristal templado;Estándar;1,30;;;
+ZT-B205-PRO-PRI;ZTE;Blade 20 5G;Cristal templado;Privacidad;4,00;;;
+ZT-B205-FUN-SIL;ZTE;Blade 20 5G;Funda;Silicona;2,50;;;
+ZT-B205-FUN-TPU;ZTE;Blade 20 5G;Funda;Transparente;2,95;;;
+ZT-B205-FUN-LIB;ZTE;Blade 20 5G;Funda;Libro;3,70;;;
+ZT-B205-FUN-ANT;ZTE;Blade 20 5G;Funda;Antigolpes;3,10;;;
+ZT-BA7S20-PRO-NA;ZTE;Blade A7s 2020;Cristal templado;Estándar;1,30;;;
+ZT-BA7S20-PRO-PRI;ZTE;Blade A7s 2020;Cristal templado;Privacidad;4,00;;;
+ZT-BA7S20-FUN-SIL;ZTE;Blade A7s 2020;Funda;Silicona;2,50;;;
+ZT-BA7S20-FUN-TPU;ZTE;Blade A7s 2020;Funda;Transparente;2,95;;;
+ZT-BA7S20-FUN-LIB;ZTE;Blade A7s 2020;Funda;Libro;3,70;;;
+ZT-BA7S20-FUN-ANT;ZTE;Blade A7s 2020;Funda;Antigolpes;3,10;;;
+ZT-A11SE5-PRO-NA;ZTE;Axon 11 SE 5G;Cristal templado;Estándar;1,30;;;
+ZT-A11SE5-PRO-PRI;ZTE;Axon 11 SE 5G;Cristal templado;Privacidad;4,00;;;
+ZT-A11SE5-FUN-SIL;ZTE;Axon 11 SE 5G;Funda;Silicona;2,50;;;
+ZT-A11SE5-FUN-TPU;ZTE;Axon 11 SE 5G;Funda;Transparente;2,95;;;
+ZT-A11SE5-FUN-LIB;ZTE;Axon 11 SE 5G;Funda;Libro;3,70;;;
+ZT-A11SE5-FUN-ANT;ZTE;Axon 11 SE 5G;Funda;Antigolpes;3,10;;;
+ZT-BV20-PRO-NA;ZTE;Blade V 2020;Cristal templado;Estándar;1,30;;;
+ZT-BV20-PRO-PRI;ZTE;Blade V 2020;Cristal templado;Privacidad;4,00;;;
+ZT-BV20-FUN-SIL;ZTE;Blade V 2020;Funda;Silicona;2,50;;;
+ZT-BV20-FUN-TPU;ZTE;Blade V 2020;Funda;Transparente;2,95;;;
+ZT-BV20-FUN-LIB;ZTE;Blade V 2020;Funda;Libro;3,70;;;
+ZT-BV20-FUN-ANT;ZTE;Blade V 2020;Funda;Antigolpes;3,10;;;
+ZT-A114-PRO-NA;ZTE;Axon 11 4G;Cristal templado;Estándar;1,30;;;
+ZT-A114-PRO-PRI;ZTE;Axon 11 4G;Cristal templado;Privacidad;4,00;;;
+ZT-A114-FUN-SIL;ZTE;Axon 11 4G;Funda;Silicona;2,50;;;
+ZT-A114-FUN-TPU;ZTE;Axon 11 4G;Funda;Transparente;2,95;;;
+ZT-A114-FUN-LIB;ZTE;Axon 11 4G;Funda;Libro;3,70;;;
+ZT-A114-FUN-ANT;ZTE;Axon 11 4G;Funda;Antigolpes;3,10;;;
+ZT-A115-PRO-NA;ZTE;Axon 11 5G;Cristal templado;Estándar;1,30;;;
+ZT-A115-PRO-PRI;ZTE;Axon 11 5G;Cristal templado;Privacidad;4,00;;;
+ZT-A115-FUN-SIL;ZTE;Axon 11 5G;Funda;Silicona;2,50;;;
+ZT-A115-FUN-TPU;ZTE;Axon 11 5G;Funda;Transparente;2,95;;;
+ZT-A115-FUN-LIB;ZTE;Axon 11 5G;Funda;Libro;3,70;;;
+ZT-A115-FUN-ANT;ZTE;Axon 11 5G;Funda;Antigolpes;3,10;;;
+ZT-A10SP5-PRO-NA;ZTE;Axon 10s Pro 5G;Cristal templado;Estándar;1,30;;;
+ZT-A10SP5-PRO-NA-FG;ZTE;Axon 10s Pro 5G;Cristal templado;UV full glue;4,15;;;
+ZT-A10SP5-PRO-PRI;ZTE;Axon 10s Pro 5G;Cristal templado;Privacidad;4,00;;;
+ZT-A10SP5-FUN-SIL;ZTE;Axon 10s Pro 5G;Funda;Silicona;2,50;;;
+ZT-A10SP5-FUN-TPU;ZTE;Axon 10s Pro 5G;Funda;Transparente;2,95;;;
+ZT-A10SP5-FUN-LIB;ZTE;Axon 10s Pro 5G;Funda;Libro;3,70;;;
+ZT-A10SP5-FUN-ANT;ZTE;Axon 10s Pro 5G;Funda;Antigolpes;3,10;;;
+ZT-B10P-PRO-NA;ZTE;Blade 10 Prime;Cristal templado;Estándar;1,30;;;
+ZT-B10P-PRO-PRI;ZTE;Blade 10 Prime;Cristal templado;Privacidad;4,00;;;
+ZT-B10P-FUN-SIL;ZTE;Blade 10 Prime;Funda;Silicona;2,50;;;
+ZT-B10P-FUN-TPU;ZTE;Blade 10 Prime;Funda;Transparente;2,95;;;
+ZT-B10P-FUN-LIB;ZTE;Blade 10 Prime;Funda;Libro;3,70;;;
+ZT-B10P-FUN-ANT;ZTE;Blade 10 Prime;Funda;Antigolpes;3,10;;;
+ZT-BA7P-PRO-NA;ZTE;Blade A7 Prime;Cristal templado;Estándar;1,30;;;
+ZT-BA7P-PRO-PRI;ZTE;Blade A7 Prime;Cristal templado;Privacidad;4,00;;;
+ZT-BA7P-FUN-SIL;ZTE;Blade A7 Prime;Funda;Silicona;2,50;;;
+ZT-BA7P-FUN-TPU;ZTE;Blade A7 Prime;Funda;Transparente;2,95;;;
+ZT-BA7P-FUN-LIB;ZTE;Blade A7 Prime;Funda;Libro;3,70;;;
+ZT-BA7P-FUN-ANT;ZTE;Blade A7 Prime;Funda;Antigolpes;3,10;;;
+ZT-BMV-PRO-NA;ZTE;Blade Max View;Cristal templado;Estándar;1,30;;;
+ZT-BMV-PRO-PRI;ZTE;Blade Max View;Cristal templado;Privacidad;4,00;;;
+ZT-BMV-FUN-SIL;ZTE;Blade Max View;Funda;Silicona;2,50;;;
+ZT-BMV-FUN-TPU;ZTE;Blade Max View;Funda;Transparente;2,95;;;
+ZT-BMV-FUN-LIB;ZTE;Blade Max View;Funda;Libro;3,70;;;
+ZT-BMV-FUN-ANT;ZTE;Blade Max View;Funda;Antigolpes;3,10;;;
+ZT-BA20-PRO-NA;ZTE;Blade A20;Cristal templado;Estándar;1,30;;;
+ZT-BA20-PRO-PRI;ZTE;Blade A20;Cristal templado;Privacidad;4,00;;;
+ZT-BA20-FUN-SIL;ZTE;Blade A20;Funda;Silicona;2,50;;;
+ZT-BA20-FUN-TPU;ZTE;Blade A20;Funda;Transparente;2,95;;;
+ZT-BA20-FUN-LIB;ZTE;Blade A20;Funda;Libro;3,70;;;
+ZT-BA20-FUN-ANT;ZTE;Blade A20;Funda;Antigolpes;3,10;;;
+ZT-BA519-PRO-NA;ZTE;Blade A5 2019;Cristal templado;Estándar;1,30;;;
+ZT-BA519-PRO-PRI;ZTE;Blade A5 2019;Cristal templado;Privacidad;4,00;;;
+ZT-BA519-FUN-SIL;ZTE;Blade A5 2019;Funda;Silicona;2,50;;;
+ZT-BA519-FUN-TPU;ZTE;Blade A5 2019;Funda;Transparente;2,95;;;
+ZT-BA519-FUN-LIB;ZTE;Blade A5 2019;Funda;Libro;3,70;;;
+ZT-BA519-FUN-ANT;ZTE;Blade A5 2019;Funda;Antigolpes;3,10;;;
+ZT-BA7-PRO-NA;ZTE;Blade A7;Cristal templado;Estándar;1,30;;;
+ZT-BA7-PRO-PRI;ZTE;Blade A7;Cristal templado;Privacidad;4,00;;;
+ZT-BA7-FUN-SIL;ZTE;Blade A7;Funda;Silicona;2,50;;;
+ZT-BA7-FUN-TPU;ZTE;Blade A7;Funda;Transparente;2,95;;;
+ZT-BA7-FUN-LIB;ZTE;Blade A7;Funda;Libro;3,70;;;
+ZT-BA7-FUN-ANT;ZTE;Blade A7;Funda;Antigolpes;3,10;;;
+ZT-BA319-PRO-NA;ZTE;Blade A3 2019;Cristal templado;Estándar;1,30;;;
+ZT-BA319-PRO-PRI;ZTE;Blade A3 2019;Cristal templado;Privacidad;4,00;;;
+ZT-BA319-FUN-SIL;ZTE;Blade A3 2019;Funda;Silicona;2,50;;;
+ZT-BA319-FUN-TPU;ZTE;Blade A3 2019;Funda;Transparente;2,95;;;
+ZT-BA319-FUN-LIB;ZTE;Blade A3 2019;Funda;Libro;3,70;;;
+ZT-BA319-FUN-ANT;ZTE;Blade A3 2019;Funda;Antigolpes;3,10;;;
+ZT-BL8-PRO-NA;ZTE;Blade L8;Cristal templado;Estándar;1,30;;;
+ZT-BL8-PRO-PRI;ZTE;Blade L8;Cristal templado;Privacidad;4,00;;;
+ZT-BL8-FUN-SIL;ZTE;Blade L8;Funda;Silicona;2,50;;;
+ZT-BL8-FUN-TPU;ZTE;Blade L8;Funda;Transparente;2,95;;;
+ZT-BL8-FUN-LIB;ZTE;Blade L8;Funda;Libro;3,70;;;
+ZT-BL8-FUN-ANT;ZTE;Blade L8;Funda;Antigolpes;3,10;;;
+ZT-A10P-PRO-NA;ZTE;Axon 10 Pro;Cristal templado;Estándar;1,30;;;
+ZT-A10P-PRO-NA-FG;ZTE;Axon 10 Pro;Cristal templado;UV full glue;4,15;;;
+ZT-A10P-PRO-PRI;ZTE;Axon 10 Pro;Cristal templado;Privacidad;4,00;;;
+ZT-A10P-FUN-SIL;ZTE;Axon 10 Pro;Funda;Silicona;2,50;;;
+ZT-A10P-FUN-TPU;ZTE;Axon 10 Pro;Funda;Transparente;2,95;;;
+ZT-A10P-FUN-LIB;ZTE;Axon 10 Pro;Funda;Libro;3,70;;;
+ZT-A10P-FUN-ANT;ZTE;Axon 10 Pro;Funda;Antigolpes;3,10;;;
+ZT-A10P5-PRO-NA;ZTE;Axon 10 Pro 5G;Cristal templado;Estándar;1,30;;;
+ZT-A10P5-PRO-NA-FG;ZTE;Axon 10 Pro 5G;Cristal templado;UV full glue;4,15;;;
+ZT-A10P5-PRO-PRI;ZTE;Axon 10 Pro 5G;Cristal templado;Privacidad;4,00;;;
+ZT-A10P5-FUN-SIL;ZTE;Axon 10 Pro 5G;Funda;Silicona;2,50;;;
+ZT-A10P5-FUN-TPU;ZTE;Axon 10 Pro 5G;Funda;Transparente;2,95;;;
+ZT-A10P5-FUN-LIB;ZTE;Axon 10 Pro 5G;Funda;Libro;3,70;;;
+ZT-A10P5-FUN-ANT;ZTE;Axon 10 Pro 5G;Funda;Antigolpes;3,10;;;
+ZT-BV10V-PRO-NA;ZTE;Blade V10 Vita;Cristal templado;Estándar;1,30;;;
+ZT-BV10V-PRO-PRI;ZTE;Blade V10 Vita;Cristal templado;Privacidad;4,00;;;
+ZT-BV10V-FUN-SIL;ZTE;Blade V10 Vita;Funda;Silicona;2,50;;;
+ZT-BV10V-FUN-TPU;ZTE;Blade V10 Vita;Funda;Transparente;2,95;;;
+ZT-BV10V-FUN-LIB;ZTE;Blade V10 Vita;Funda;Libro;3,70;;;
+ZT-BV10V-FUN-ANT;ZTE;Blade V10 Vita;Funda;Antigolpes;3,10;;;
+ZT-BA7V-PRO-NA;ZTE;Blade A7 Vita;Cristal templado;Estándar;1,30;;;
+ZT-BA7V-PRO-PRI;ZTE;Blade A7 Vita;Cristal templado;Privacidad;4,00;;;
+ZT-BA7V-FUN-SIL;ZTE;Blade A7 Vita;Funda;Silicona;2,50;;;
+ZT-BA7V-FUN-TPU;ZTE;Blade A7 Vita;Funda;Transparente;2,95;;;
+ZT-BA7V-FUN-LIB;ZTE;Blade A7 Vita;Funda;Libro;3,70;;;
+ZT-BA7V-FUN-ANT;ZTE;Blade A7 Vita;Funda;Antigolpes;3,10;;;
+ZT-A9P-PRO-NA;ZTE;Axon 9 Pro;Cristal templado;Estándar;1,30;;;
+ZT-A9P-PRO-NA-FG;ZTE;Axon 9 Pro;Cristal templado;UV full glue;4,15;;;
+ZT-A9P-PRO-PRI;ZTE;Axon 9 Pro;Cristal templado;Privacidad;4,00;;;
+ZT-A9P-FUN-SIL;ZTE;Axon 9 Pro;Funda;Silicona;2,50;;;
+ZT-A9P-FUN-TPU;ZTE;Axon 9 Pro;Funda;Transparente;2,95;;;
+ZT-A9P-FUN-LIB;ZTE;Axon 9 Pro;Funda;Libro;3,70;;;
+ZT-A9P-FUN-ANT;ZTE;Axon 9 Pro;Funda;Antigolpes;3,10;;;
+ZT-BV9-PRO-NA;ZTE;Blade V9;Cristal templado;Estándar;1,30;;;
+ZT-BV9-PRO-PRI;ZTE;Blade V9;Cristal templado;Privacidad;4,00;;;
+ZT-BV9-FUN-SIL;ZTE;Blade V9;Funda;Silicona;2,50;;;
+ZT-BV9-FUN-TPU;ZTE;Blade V9;Funda;Transparente;2,95;;;
+ZT-BV9-FUN-LIB;ZTE;Blade V9;Funda;Libro;3,70;;;
+ZT-BV9-FUN-ANT;ZTE;Blade V9;Funda;Antigolpes;3,10;;;
+ZT-BV9V-PRO-NA;ZTE;Blade V9 Vita;Cristal templado;Estándar;1,30;;;
+ZT-BV9V-PRO-PRI;ZTE;Blade V9 Vita;Cristal templado;Privacidad;4,00;;;
+ZT-BV9V-FUN-SIL;ZTE;Blade V9 Vita;Funda;Silicona;2,50;;;
+ZT-BV9V-FUN-TPU;ZTE;Blade V9 Vita;Funda;Transparente;2,95;;;
+ZT-BV9V-FUN-LIB;ZTE;Blade V9 Vita;Funda;Libro;3,70;;;
+ZT-BV9V-FUN-ANT;ZTE;Blade V9 Vita;Funda;Antigolpes;3,10;;;
+ZT-TGO-PRO-NA;ZTE;Tempo Go;Cristal templado;Estándar;1,30;;;
+ZT-TGO-PRO-PRI;ZTE;Tempo Go;Cristal templado;Privacidad;4,00;;;
+ZT-TGO-FUN-SIL;ZTE;Tempo Go;Funda;Silicona;2,50;;;
+ZT-TGO-FUN-TPU;ZTE;Tempo Go;Funda;Transparente;2,95;;;
+ZT-TGO-FUN-LIB;ZTE;Tempo Go;Funda;Libro;3,70;;;
+ZT-TGO-FUN-ANT;ZTE;Tempo Go;Funda;Antigolpes;3,10;;;
+ZT-BLADEA3-PRO-NA;ZTE;Blade A3;Cristal templado;Estándar;1,30;;;
+ZT-BLADEA3-PRO-PRI;ZTE;Blade A3;Cristal templado;Privacidad;4,00;;;
+ZT-BLADEA3-FUN-SIL;ZTE;Blade A3;Funda;Silicona;2,50;;;
+ZT-BLADEA3-FUN-TPU;ZTE;Blade A3;Funda;Transparente;2,95;;;
+ZT-BLADEA3-FUN-LIB;ZTE;Blade A3;Funda;Libro;3,70;;;
+ZT-BLADEA3-FUN-ANT;ZTE;Blade A3;Funda;Antigolpes;3,10;;;
+ZT-AXONM-PRO-NA;ZTE;Axon M;Cristal templado;Estándar;1,30;;;
+ZT-AXONM-PRO-PRI;ZTE;Axon M;Cristal templado;Privacidad;4,00;;;
+ZT-AXONM-FUN-SIL;ZTE;Axon M;Funda;Silicona;2,50;;;
+ZT-AXONM-FUN-TPU;ZTE;Axon M;Funda;Transparente;2,95;;;
+ZT-AXONM-FUN-LIB;ZTE;Axon M;Funda;Libro;3,70;;;
+ZT-AXONM-FUN-ANT;ZTE;Axon M;Funda;Antigolpes;3,10;;;
+ZT-BX-PRO-NA;ZTE;Blade X;Cristal templado;Estándar;1,30;;;
+ZT-BX-PRO-PRI;ZTE;Blade X;Cristal templado;Privacidad;4,00;;;
+ZT-BX-FUN-SIL;ZTE;Blade X;Funda;Silicona;2,50;;;
+ZT-BX-FUN-TPU;ZTE;Blade X;Funda;Transparente;2,95;;;
+ZT-BX-FUN-LIB;ZTE;Blade X;Funda;Libro;3,70;;;
+ZT-BX-FUN-ANT;ZTE;Blade X;Funda;Antigolpes;3,10;;;
+ZT-BA6-PRO-NA;ZTE;Blade A6;Cristal templado;Estándar;1,30;;;
+ZT-BA6-PRO-PRI;ZTE;Blade A6;Cristal templado;Privacidad;4,00;;;
+ZT-BA6-FUN-SIL;ZTE;Blade A6;Funda;Silicona;2,50;;;
+ZT-BA6-FUN-TPU;ZTE;Blade A6;Funda;Transparente;2,95;;;
+ZT-BA6-FUN-LIB;ZTE;Blade A6;Funda;Libro;3,70;;;
+ZT-BA6-FUN-ANT;ZTE;Blade A6;Funda;Antigolpes;3,10;;;
+ZT-M2-PRO-NA;ZTE;Maven 2;Cristal templado;Estándar;1,30;;;
+ZT-M2-PRO-PRI;ZTE;Maven 2;Cristal templado;Privacidad;4,00;;;
+ZT-M2-FUN-SIL;ZTE;Maven 2;Funda;Silicona;2,50;;;
+ZT-M2-FUN-TPU;ZTE;Maven 2;Funda;Transparente;2,95;;;
+ZT-M2-FUN-LIB;ZTE;Maven 2;Funda;Libro;3,70;;;
+ZT-M2-FUN-ANT;ZTE;Maven 2;Funda;Antigolpes;3,10;;;
+ZT-A7S-PRO-NA;ZTE;Axon 7s;Cristal templado;Estándar;1,30;;;
+ZT-A7S-PRO-PRI;ZTE;Axon 7s;Cristal templado;Privacidad;4,00;;;
+ZT-A7S-FUN-SIL;ZTE;Axon 7s;Funda;Silicona;2,50;;;
+ZT-A7S-FUN-TPU;ZTE;Axon 7s;Funda;Transparente;2,95;;;
+ZT-A7S-FUN-LIB;ZTE;Axon 7s;Funda;Libro;3,70;;;
+ZT-A7S-FUN-ANT;ZTE;Axon 7s;Funda;Antigolpes;3,10;;;
+ZT-A7M-PRO-NA;ZTE;Axon 7 Max;Cristal templado;Estándar;1,30;;;
+ZT-A7M-PRO-PRI;ZTE;Axon 7 Max;Cristal templado;Privacidad;4,00;;;
+ZT-A7M-FUN-SIL;ZTE;Axon 7 Max;Funda;Silicona;2,50;;;
+ZT-A7M-FUN-TPU;ZTE;Axon 7 Max;Funda;Transparente;2,95;;;
+ZT-A7M-FUN-LIB;ZTE;Axon 7 Max;Funda;Libro;3,70;;;
+ZT-A7M-FUN-ANT;ZTE;Axon 7 Max;Funda;Antigolpes;3,10;;;
+ZT-A7MN-PRO-NA;ZTE;Axon 7 mini;Cristal templado;Estándar;1,30;;;
+ZT-A7MN-PRO-PRI;ZTE;Axon 7 mini;Cristal templado;Privacidad;4,00;;;
+ZT-A7MN-FUN-SIL;ZTE;Axon 7 mini;Funda;Silicona;2,50;;;
+ZT-A7MN-FUN-TPU;ZTE;Axon 7 mini;Funda;Transparente;2,95;;;
+ZT-A7MN-FUN-LIB;ZTE;Axon 7 mini;Funda;Libro;3,70;;;
+ZT-A7MN-FUN-ANT;ZTE;Axon 7 mini;Funda;Antigolpes;3,10;;;
+ZT-A7-PRO-NA;ZTE;Axon 7;Cristal templado;Estándar;1,30;;;
+ZT-A7-PRO-PRI;ZTE;Axon 7;Cristal templado;Privacidad;4,00;;;
+ZT-A7-FUN-SIL;ZTE;Axon 7;Funda;Silicona;2,50;;;
+ZT-A7-FUN-TPU;ZTE;Axon 7;Funda;Transparente;2,95;;;
+ZT-A7-FUN-LIB;ZTE;Axon 7;Funda;Libro;3,70;;;
+ZT-A7-FUN-ANT;ZTE;Axon 7;Funda;Antigolpes;3,10;;;
+ZT-BV7-PRO-NA;ZTE;Blade V7;Cristal templado;Estándar;1,30;;;
+ZT-BV7-PRO-PRI;ZTE;Blade V7;Cristal templado;Privacidad;4,00;;;
+ZT-BV7-FUN-SIL;ZTE;Blade V7;Funda;Silicona;2,50;;;
+ZT-BV7-FUN-TPU;ZTE;Blade V7;Funda;Transparente;2,95;;;
+ZT-BV7-FUN-LIB;ZTE;Blade V7;Funda;Libro;3,70;;;
+ZT-BV7-FUN-ANT;ZTE;Blade V7;Funda;Antigolpes;3,10;;;
+ZT-BV7L-PRO-NA;ZTE;Blade V7 Lite;Cristal templado;Estándar;1,30;;;
+ZT-BV7L-PRO-PRI;ZTE;Blade V7 Lite;Cristal templado;Privacidad;4,00;;;
+ZT-BV7L-FUN-SIL;ZTE;Blade V7 Lite;Funda;Silicona;2,50;;;
+ZT-BV7L-FUN-TPU;ZTE;Blade V7 Lite;Funda;Transparente;2,95;;;
+ZT-BV7L-FUN-LIB;ZTE;Blade V7 Lite;Funda;Libro;3,70;;;
+ZT-BV7L-FUN-ANT;ZTE;Blade V7 Lite;Funda;Antigolpes;3,10;;;
+ZT-AM-PRO-NA;ZTE;Axon Max;Cristal templado;Estándar;1,30;;;
+ZT-AM-PRO-PRI;ZTE;Axon Max;Cristal templado;Privacidad;4,00;;;
+ZT-AM-FUN-SIL;ZTE;Axon Max;Funda;Silicona;2,50;;;
+ZT-AM-FUN-TPU;ZTE;Axon Max;Funda;Transparente;2,95;;;
+ZT-AM-FUN-LIB;ZTE;Axon Max;Funda;Libro;3,70;;;
+ZT-AM-FUN-ANT;ZTE;Axon Max;Funda;Antigolpes;3,10;;;
+ZT-BX3-PRO-NA;ZTE;Blade X3;Cristal templado;Estándar;1,30;;;
+ZT-BX3-PRO-PRI;ZTE;Blade X3;Cristal templado;Privacidad;4,00;;;
+ZT-BX3-FUN-SIL;ZTE;Blade X3;Funda;Silicona;2,50;;;
+ZT-BX3-FUN-TPU;ZTE;Blade X3;Funda;Transparente;2,95;;;
+ZT-BX3-FUN-LIB;ZTE;Blade X3;Funda;Libro;3,70;;;
+ZT-BX3-FUN-ANT;ZTE;Blade X3;Funda;Antigolpes;3,10;;;
+ZT-BX5-PRO-NA;ZTE;Blade X5;Cristal templado;Estándar;1,30;;;
+ZT-BX5-PRO-PRI;ZTE;Blade X5;Cristal templado;Privacidad;4,00;;;
+ZT-BX5-FUN-SIL;ZTE;Blade X5;Funda;Silicona;2,50;;;
+ZT-BX5-FUN-TPU;ZTE;Blade X5;Funda;Transparente;2,95;;;
+ZT-BX5-FUN-LIB;ZTE;Blade X5;Funda;Libro;3,70;;;
+ZT-BX5-FUN-ANT;ZTE;Blade X5;Funda;Antigolpes;3,10;;;
+ZT-BX9-PRO-NA;ZTE;Blade X9;Cristal templado;Estándar;1,30;;;
+ZT-BX9-PRO-PRI;ZTE;Blade X9;Cristal templado;Privacidad;4,00;;;
+ZT-BX9-FUN-SIL;ZTE;Blade X9;Funda;Silicona;2,50;;;
+ZT-BX9-FUN-TPU;ZTE;Blade X9;Funda;Transparente;2,95;;;
+ZT-BX9-FUN-LIB;ZTE;Blade X9;Funda;Libro;3,70;;;
+ZT-BX9-FUN-ANT;ZTE;Blade X9;Funda;Antigolpes;3,10;;;
+ZT-A-PRO-NA;ZTE;Axon;Cristal templado;Estándar;1,30;;;
+ZT-A-PRO-PRI;ZTE;Axon;Cristal templado;Privacidad;4,00;;;
+ZT-A-FUN-SIL;ZTE;Axon;Funda;Silicona;2,50;;;
+ZT-A-FUN-TPU;ZTE;Axon;Funda;Transparente;2,95;;;
+ZT-A-FUN-LIB;ZTE;Axon;Funda;Libro;3,70;;;
+ZT-A-FUN-ANT;ZTE;Axon;Funda;Antigolpes;3,10;;;
+ZT-AMN-PRO-NA;ZTE;Axon mini;Cristal templado;Estándar;1,30;;;
+ZT-AMN-PRO-PRI;ZTE;Axon mini;Cristal templado;Privacidad;4,00;;;
+ZT-AMN-FUN-SIL;ZTE;Axon mini;Funda;Silicona;2,50;;;
+ZT-AMN-FUN-TPU;ZTE;Axon mini;Funda;Transparente;2,95;;;
+ZT-AMN-FUN-LIB;ZTE;Axon mini;Funda;Libro;3,70;;;
+ZT-AMN-FUN-ANT;ZTE;Axon mini;Funda;Antigolpes;3,10;;;
+ZT-BS7-PRO-NA;ZTE;Blade S7;Cristal templado;Estándar;1,30;;;
+ZT-BS7-PRO-PRI;ZTE;Blade S7;Cristal templado;Privacidad;4,00;;;
+ZT-BS7-FUN-SIL;ZTE;Blade S7;Funda;Silicona;2,50;;;
+ZT-BS7-FUN-TPU;ZTE;Blade S7;Funda;Transparente;2,95;;;
+ZT-BS7-FUN-LIB;ZTE;Blade S7;Funda;Libro;3,70;;;
+ZT-BS7-FUN-ANT;ZTE;Blade S7;Funda;Antigolpes;3,10;;;
+ZT-AE-PRO-NA;ZTE;Axon Elite;Cristal templado;Estándar;1,30;;;
+ZT-AE-PRO-PRI;ZTE;Axon Elite;Cristal templado;Privacidad;4,00;;;
+ZT-AE-FUN-SIL;ZTE;Axon Elite;Funda;Silicona;2,50;;;
+ZT-AE-FUN-TPU;ZTE;Axon Elite;Funda;Transparente;2,95;;;
+ZT-AE-FUN-LIB;ZTE;Axon Elite;Funda;Libro;3,70;;;
+ZT-AE-FUN-ANT;ZTE;Axon Elite;Funda;Antigolpes;3,10;;;
+ZT-MDUO-PRO-NA;ZTE;Max Duo;Cristal templado;Estándar;1,30;;;
+ZT-MDUO-PRO-PRI;ZTE;Max Duo;Cristal templado;Privacidad;4,00;;;
+ZT-MDUO-FUN-SIL;ZTE;Max Duo;Funda;Silicona;2,50;;;
+ZT-MDUO-FUN-TPU;ZTE;Max Duo;Funda;Transparente;2,95;;;
+ZT-MDUO-FUN-LIB;ZTE;Max Duo;Funda;Libro;3,70;;;
+ZT-MDUO-FUN-ANT;ZTE;Max Duo;Funda;Antigolpes;3,10;;;
+ZT-AP-PRO-NA;ZTE;Axon Pro;Cristal templado;Estándar;1,30;;;
+ZT-AP-PRO-NA-FG;ZTE;Axon Pro;Cristal templado;UV full glue;4,15;;;
+ZT-AP-PRO-PRI;ZTE;Axon Pro;Cristal templado;Privacidad;4,00;;;
+ZT-AP-FUN-SIL;ZTE;Axon Pro;Funda;Silicona;2,50;;;
+ZT-AP-FUN-TPU;ZTE;Axon Pro;Funda;Transparente;2,95;;;
+ZT-AP-FUN-LIB;ZTE;Axon Pro;Funda;Libro;3,70;;;
+ZT-AP-FUN-ANT;ZTE;Axon Pro;Funda;Antigolpes;3,10;;;
+ZT-BD6-PRO-NA;ZTE;Blade D6;Cristal templado;Estándar;1,30;;;
+ZT-BD6-PRO-PRI;ZTE;Blade D6;Cristal templado;Privacidad;4,00;;;
+ZT-BD6-FUN-SIL;ZTE;Blade D6;Funda;Silicona;2,50;;;
+ZT-BD6-FUN-TPU;ZTE;Blade D6;Funda;Transparente;2,95;;;
+ZT-BD6-FUN-LIB;ZTE;Blade D6;Funda;Libro;3,70;;;
+ZT-BD6-FUN-ANT;ZTE;Blade D6;Funda;Antigolpes;3,10;;;
+ZT-BA410-PRO-NA;ZTE;Blade A410;Cristal templado;Estándar;1,30;;;
+ZT-BA410-PRO-PRI;ZTE;Blade A410;Cristal templado;Privacidad;4,00;;;
+ZT-BA410-FUN-SIL;ZTE;Blade A410;Funda;Silicona;2,50;;;
+ZT-BA410-FUN-TPU;ZTE;Blade A410;Funda;Transparente;2,95;;;
+ZT-BA410-FUN-LIB;ZTE;Blade A410;Funda;Libro;3,70;;;
+ZT-BA410-FUN-ANT;ZTE;Blade A410;Funda;Antigolpes;3,10;;;
+ZT-BA460-PRO-NA;ZTE;Blade A460;Cristal templado;Estándar;1,30;;;
+ZT-BA460-PRO-PRI;ZTE;Blade A460;Cristal templado;Privacidad;4,00;;;
+ZT-BA460-FUN-SIL;ZTE;Blade A460;Funda;Silicona;2,50;;;
+ZT-BA460-FUN-TPU;ZTE;Blade A460;Funda;Transparente;2,95;;;
+ZT-BA460-FUN-LIB;ZTE;Blade A460;Funda;Libro;3,70;;;
+ZT-BA460-FUN-ANT;ZTE;Blade A460;Funda;Antigolpes;3,10;;;
+ZT-BA3-PRO-NA;ZTE;Blade Apex 3;Cristal templado;Estándar;1,30;;;
+ZT-BA3-PRO-PRI;ZTE;Blade Apex 3;Cristal templado;Privacidad;4,00;;;
+ZT-BA3-FUN-SIL;ZTE;Blade Apex 3;Funda;Silicona;2,50;;;
+ZT-BA3-FUN-TPU;ZTE;Blade Apex 3;Funda;Transparente;2,95;;;
+ZT-BA3-FUN-LIB;ZTE;Blade Apex 3;Funda;Libro;3,70;;;
+ZT-BA3-FUN-ANT;ZTE;Blade Apex 3;Funda;Antigolpes;3,10;;;
+ZT-BQ4-PRO-NA;ZTE;Blade Qlux 4G;Cristal templado;Estándar;1,30;;;
+ZT-BQ4-PRO-PRI;ZTE;Blade Qlux 4G;Cristal templado;Privacidad;4,00;;;
+ZT-BQ4-FUN-SIL;ZTE;Blade Qlux 4G;Funda;Silicona;2,50;;;
+ZT-BQ4-FUN-TPU;ZTE;Blade Qlux 4G;Funda;Transparente;2,95;;;
+ZT-BQ4-FUN-LIB;ZTE;Blade Qlux 4G;Funda;Libro;3,70;;;
+ZT-BQ4-FUN-ANT;ZTE;Blade Qlux 4G;Funda;Antigolpes;3,10;;;
+ZT-BS6PL-PRO-NA;ZTE;Blade S6 Plus;Cristal templado;Estándar;1,30;;;
+ZT-BS6PL-PRO-PRI;ZTE;Blade S6 Plus;Cristal templado;Privacidad;4,00;;;
+ZT-BS6PL-FUN-SIL;ZTE;Blade S6 Plus;Funda;Silicona;2,50;;;
+ZT-BS6PL-FUN-TPU;ZTE;Blade S6 Plus;Funda;Transparente;2,95;;;
+ZT-BS6PL-FUN-LIB;ZTE;Blade S6 Plus;Funda;Libro;3,70;;;
+ZT-BS6PL-FUN-ANT;ZTE;Blade S6 Plus;Funda;Antigolpes;3,10;;;
+ZT-BL3PL-PRO-NA;ZTE;Blade L3 Plus;Cristal templado;Estándar;1,30;;;
+ZT-BL3PL-PRO-PRI;ZTE;Blade L3 Plus;Cristal templado;Privacidad;4,00;;;
+ZT-BL3PL-FUN-SIL;ZTE;Blade L3 Plus;Funda;Silicona;2,50;;;
+ZT-BL3PL-FUN-TPU;ZTE;Blade L3 Plus;Funda;Transparente;2,95;;;
+ZT-BL3PL-FUN-LIB;ZTE;Blade L3 Plus;Funda;Libro;3,70;;;
+ZT-BL3PL-FUN-ANT;ZTE;Blade L3 Plus;Funda;Antigolpes;3,10;;;
+ZT-BG-PRO-NA;ZTE;Blade G;Cristal templado;Estándar;1,30;;;
+ZT-BG-PRO-PRI;ZTE;Blade G;Cristal templado;Privacidad;4,00;;;
+ZT-BG-FUN-SIL;ZTE;Blade G;Funda;Silicona;2,50;;;
+ZT-BG-FUN-TPU;ZTE;Blade G;Funda;Transparente;2,95;;;
+ZT-BG-FUN-LIB;ZTE;Blade G;Funda;Libro;3,70;;;
+ZT-BG-FUN-ANT;ZTE;Blade G;Funda;Antigolpes;3,10;;;
+ZT-BL3-PRO-NA;ZTE;Blade L3;Cristal templado;Estándar;1,30;;;
+ZT-BL3-PRO-PRI;ZTE;Blade L3;Cristal templado;Privacidad;4,00;;;
+ZT-BL3-FUN-SIL;ZTE;Blade L3;Funda;Silicona;2,50;;;
+ZT-BL3-FUN-TPU;ZTE;Blade L3;Funda;Transparente;2,95;;;
+ZT-BL3-FUN-LIB;ZTE;Blade L3;Funda;Libro;3,70;;;
+ZT-BL3-FUN-ANT;ZTE;Blade L3;Funda;Antigolpes;3,10;;;
+ZT-BS6-PRO-NA;ZTE;Blade S6;Cristal templado;Estándar;1,30;;;
+ZT-BS6-PRO-PRI;ZTE;Blade S6;Cristal templado;Privacidad;4,00;;;
+ZT-BS6-FUN-SIL;ZTE;Blade S6;Funda;Silicona;2,50;;;
+ZT-BS6-FUN-TPU;ZTE;Blade S6;Funda;Transparente;2,95;;;
+ZT-BS6-FUN-LIB;ZTE;Blade S6;Funda;Libro;3,70;;;
+ZT-BS6-FUN-ANT;ZTE;Blade S6;Funda;Antigolpes;3,10;;;
+ZT-BQP-PRO-NA;ZTE;Blade Q Pro;Cristal templado;Estándar;1,30;;;
+ZT-BQP-PRO-PRI;ZTE;Blade Q Pro;Cristal templado;Privacidad;4,00;;;
+ZT-BQP-FUN-SIL;ZTE;Blade Q Pro;Funda;Silicona;2,50;;;
+ZT-BQP-FUN-TPU;ZTE;Blade Q Pro;Funda;Transparente;2,95;;;
+ZT-BQP-FUN-LIB;ZTE;Blade Q Pro;Funda;Libro;3,70;;;
+ZT-BQP-FUN-ANT;ZTE;Blade Q Pro;Funda;Antigolpes;3,10;;;
+ZT-BVEC3G-PRO-NA;ZTE;Blade Vec 3G;Cristal templado;Estándar;1,30;;;
+ZT-BVEC3G-PRO-PRI;ZTE;Blade Vec 3G;Cristal templado;Privacidad;4,00;;;
+ZT-BVEC3G-FUN-SIL;ZTE;Blade Vec 3G;Funda;Silicona;2,50;;;
+ZT-BVEC3G-FUN-TPU;ZTE;Blade Vec 3G;Funda;Transparente;2,95;;;
+ZT-BVEC3G-FUN-LIB;ZTE;Blade Vec 3G;Funda;Libro;3,70;;;
+ZT-BVEC3G-FUN-ANT;ZTE;Blade Vec 3G;Funda;Antigolpes;3,10;;;
+ZT-BL2-PRO-NA;ZTE;Blade L2;Cristal templado;Estándar;1,30;;;
+ZT-BL2-PRO-PRI;ZTE;Blade L2;Cristal templado;Privacidad;4,00;;;
+ZT-BL2-FUN-SIL;ZTE;Blade L2;Funda;Silicona;2,50;;;
+ZT-BL2-FUN-TPU;ZTE;Blade L2;Funda;Transparente;2,95;;;
+ZT-BL2-FUN-LIB;ZTE;Blade L2;Funda;Libro;3,70;;;
+ZT-BL2-FUN-ANT;ZTE;Blade L2;Funda;Antigolpes;3,10;;;
+ZT-BQ-PRO-NA;ZTE;Blade Q;Cristal templado;Estándar;1,30;;;
+ZT-BQ-PRO-PRI;ZTE;Blade Q;Cristal templado;Privacidad;4,00;;;
+ZT-BQ-FUN-SIL;ZTE;Blade Q;Funda;Silicona;2,50;;;
+ZT-BQ-FUN-TPU;ZTE;Blade Q;Funda;Transparente;2,95;;;
+ZT-BQ-FUN-LIB;ZTE;Blade Q;Funda;Libro;3,70;;;
+ZT-BQ-FUN-ANT;ZTE;Blade Q;Funda;Antigolpes;3,10;;;
+ZT-BQMN-PRO-NA;ZTE;Blade Q Mini;Cristal templado;Estándar;1,30;;;
+ZT-BQMN-PRO-PRI;ZTE;Blade Q Mini;Cristal templado;Privacidad;4,00;;;
+ZT-BQMN-FUN-SIL;ZTE;Blade Q Mini;Funda;Silicona;2,50;;;
+ZT-BQMN-FUN-TPU;ZTE;Blade Q Mini;Funda;Transparente;2,95;;;
+ZT-BQMN-FUN-LIB;ZTE;Blade Q Mini;Funda;Libro;3,70;;;
+ZT-BQMN-FUN-ANT;ZTE;Blade Q Mini;Funda;Antigolpes;3,10;;;
+ZT-BV-PRO-NA;ZTE;Blade V;Cristal templado;Estándar;1,30;;;
+ZT-BV-PRO-PRI;ZTE;Blade V;Cristal templado;Privacidad;4,00;;;
+ZT-BV-FUN-SIL;ZTE;Blade V;Funda;Silicona;2,50;;;
+ZT-BV-FUN-TPU;ZTE;Blade V;Funda;Transparente;2,95;;;
+ZT-BV-FUN-LIB;ZTE;Blade V;Funda;Libro;3,70;;;
+ZT-BV-FUN-ANT;ZTE;Blade V;Funda;Antigolpes;3,10;;;
+ZT-BG2-PRO-NA;ZTE;Blade G2;Cristal templado;Estándar;1,30;;;
+ZT-BG2-PRO-PRI;ZTE;Blade G2;Cristal templado;Privacidad;4,00;;;
+ZT-BG2-FUN-SIL;ZTE;Blade G2;Funda;Silicona;2,50;;;
+ZT-BG2-FUN-TPU;ZTE;Blade G2;Funda;Transparente;2,95;;;
+ZT-BG2-FUN-LIB;ZTE;Blade G2;Funda;Libro;3,70;;;
+ZT-BG2-FUN-ANT;ZTE;Blade G2;Funda;Antigolpes;3,10;;;
+ZT-OPEN-PRO-NA;ZTE;Open;Cristal templado;Estándar;1,30;;;
+ZT-OPEN-PRO-PRI;ZTE;Open;Cristal templado;Privacidad;4,00;;;
+ZT-OPEN-FUN-SIL;ZTE;Open;Funda;Silicona;2,50;;;
+ZT-OPEN-FUN-TPU;ZTE;Open;Funda;Transparente;2,95;;;
+ZT-OPEN-FUN-LIB;ZTE;Open;Funda;Libro;3,70;;;
+ZT-OPEN-FUN-ANT;ZTE;Open;Funda;Antigolpes;3,10;;;
+ZT-BCV807-PRO-NA;ZTE;Blade C V807;Cristal templado;Estándar;1,30;;;
+ZT-BCV807-PRO-PRI;ZTE;Blade C V807;Cristal templado;Privacidad;4,00;;;
+ZT-BCV807-FUN-SIL;ZTE;Blade C V807;Funda;Silicona;2,50;;;
+ZT-BCV807-FUN-TPU;ZTE;Blade C V807;Funda;Transparente;2,95;;;
+ZT-BCV807-FUN-LIB;ZTE;Blade C V807;Funda;Libro;3,70;;;
+ZT-BCV807-FUN-ANT;ZTE;Blade C V807;Funda;Antigolpes;3,10;;;
+ZT-BGV880G-PRO-NA;ZTE;Blade G V880G;Cristal templado;Estándar;1,30;;;
+ZT-BGV880G-PRO-PRI;ZTE;Blade G V880G;Cristal templado;Privacidad;4,00;;;
+ZT-BGV880G-FUN-SIL;ZTE;Blade G V880G;Funda;Silicona;2,50;;;
+ZT-BGV880G-FUN-TPU;ZTE;Blade G V880G;Funda;Transparente;2,95;;;
+ZT-BGV880G-FUN-LIB;ZTE;Blade G V880G;Funda;Libro;3,70;;;
+ZT-BGV880G-FUN-ANT;ZTE;Blade G V880G;Funda;Antigolpes;3,10;;;
+ZT-BIIIP-PRO-NA;ZTE;Blade III Pro;Cristal templado;Estándar;1,30;;;
+ZT-BIIIP-PRO-PRI;ZTE;Blade III Pro;Cristal templado;Privacidad;4,00;;;
+ZT-BIIIP-FUN-SIL;ZTE;Blade III Pro;Funda;Silicona;2,50;;;
+ZT-BIIIP-FUN-TPU;ZTE;Blade III Pro;Funda;Transparente;2,95;;;
+ZT-BIIIP-FUN-LIB;ZTE;Blade III Pro;Funda;Libro;3,70;;;
+ZT-BIIIP-FUN-ANT;ZTE;Blade III Pro;Funda;Antigolpes;3,10;;;
+ZT-D-PRO-NA;ZTE;Director;Cristal templado;Estándar;1,30;;;
+ZT-D-PRO-PRI;ZTE;Director;Cristal templado;Privacidad;4,00;;;
+ZT-D-FUN-SIL;ZTE;Director;Funda;Silicona;2,50;;;
+ZT-D-FUN-TPU;ZTE;Director;Funda;Transparente;2,95;;;
+ZT-D-FUN-LIB;ZTE;Director;Funda;Libro;3,70;;;
+ZT-D-FUN-ANT;ZTE;Director;Funda;Antigolpes;3,10;;;
+ZT-ELT-PRO-NA;ZTE;Engage LT;Cristal templado;Estándar;1,30;;;
+ZT-ELT-PRO-PRI;ZTE;Engage LT;Cristal templado;Privacidad;4,00;;;
+ZT-ELT-FUN-SIL;ZTE;Engage LT;Funda;Silicona;2,50;;;
+ZT-ELT-FUN-TPU;ZTE;Engage LT;Funda;Transparente;2,95;;;
+ZT-ELT-FUN-LIB;ZTE;Engage LT;Funda;Libro;3,70;;;
+ZT-ELT-FUN-ANT;ZTE;Engage LT;Funda;Antigolpes;3,10;;;
+ZT-GS-PRO-NA;ZTE;Grand S;Cristal templado;Estándar;1,30;;;
+ZT-GS-PRO-PRI;ZTE;Grand S;Cristal templado;Privacidad;4,00;;;
+ZT-GS-FUN-SIL;ZTE;Grand S;Funda;Silicona;2,50;;;
+ZT-GS-FUN-TPU;ZTE;Grand S;Funda;Transparente;2,95;;;
+ZT-GS-FUN-LIB;ZTE;Grand S;Funda;Libro;3,70;;;
+ZT-GS-FUN-ANT;ZTE;Grand S;Funda;Antigolpes;3,10;;;
+ZT-A4-PRO-NA;ZTE;Avid 4G;Cristal templado;Estándar;1,30;;;
+ZT-A4-PRO-PRI;ZTE;Avid 4G;Cristal templado;Privacidad;4,00;;;
+ZT-A4-FUN-SIL;ZTE;Avid 4G;Funda;Silicona;2,50;;;
+ZT-A4-FUN-TPU;ZTE;Avid 4G;Funda;Transparente;2,95;;;
+ZT-A4-FUN-LIB;ZTE;Avid 4G;Funda;Libro;3,70;;;
+ZT-A4-FUN-ANT;ZTE;Avid 4G;Funda;Antigolpes;3,10;;;
+ZT-ERA-PRO-NA;ZTE;Era;Cristal templado;Estándar;1,30;;;
+ZT-ERA-PRO-PRI;ZTE;Era;Cristal templado;Privacidad;4,00;;;
+ZT-ERA-FUN-SIL;ZTE;Era;Funda;Silicona;2,50;;;
+ZT-ERA-FUN-TPU;ZTE;Era;Funda;Transparente;2,95;;;
+ZT-ERA-FUN-LIB;ZTE;Era;Funda;Libro;3,70;;;
+ZT-ERA-FUN-ANT;ZTE;Era;Funda;Antigolpes;3,10;;;
+ZT-N910-PRO-NA;ZTE;N910;Cristal templado;Estándar;1,30;;;
+ZT-N910-PRO-PRI;ZTE;N910;Cristal templado;Privacidad;4,00;;;
+ZT-N910-FUN-SIL;ZTE;N910;Funda;Silicona;2,50;;;
+ZT-N910-FUN-TPU;ZTE;N910;Funda;Transparente;2,95;;;
+ZT-N910-FUN-LIB;ZTE;N910;Funda;Libro;3,70;;;
+ZT-N910-FUN-ANT;ZTE;N910;Funda;Antigolpes;3,10;;;
+ZT-V887-PRO-NA;ZTE;V887;Cristal templado;Estándar;1,30;;;
+ZT-V887-PRO-PRI;ZTE;V887;Cristal templado;Privacidad;4,00;;;
+ZT-V887-FUN-SIL;ZTE;V887;Funda;Silicona;2,50;;;
+ZT-V887-FUN-TPU;ZTE;V887;Funda;Transparente;2,95;;;
+ZT-V887-FUN-LIB;ZTE;V887;Funda;Libro;3,70;;;
+ZT-V887-FUN-ANT;ZTE;V887;Funda;Antigolpes;3,10;;;
+ZT-V889M-PRO-NA;ZTE;V889M;Cristal templado;Estándar;1,30;;;
+ZT-V889M-PRO-PRI;ZTE;V889M;Cristal templado;Privacidad;4,00;;;
+ZT-V889M-FUN-SIL;ZTE;V889M;Funda;Silicona;2,50;;;
+ZT-V889M-FUN-TPU;ZTE;V889M;Funda;Transparente;2,95;;;
+ZT-V889M-FUN-LIB;ZTE;V889M;Funda;Libro;3,70;;;
+ZT-V889M-FUN-ANT;ZTE;V889M;Funda;Antigolpes;3,10;;;
+ZT-F-PRO-NA;ZTE;Flash;Cristal templado;Estándar;1,30;;;
+ZT-F-PRO-PRI;ZTE;Flash;Cristal templado;Privacidad;4,00;;;
+ZT-F-FUN-SIL;ZTE;Flash;Funda;Silicona;2,50;;;
+ZT-F-FUN-TPU;ZTE;Flash;Funda;Transparente;2,95;;;
+ZT-F-FUN-LIB;ZTE;Flash;Funda;Libro;3,70;;;
+ZT-F-FUN-ANT;ZTE;Flash;Funda;Antigolpes;3,10;;;
+ZT-GXLTE-PRO-NA;ZTE;Grand X LTE;Cristal templado;Estándar;1,30;;;
+ZT-GXLTE-PRO-PRI;ZTE;Grand X LTE;Cristal templado;Privacidad;4,00;;;
+ZT-GXLTE-FUN-SIL;ZTE;Grand X LTE;Funda;Silicona;2,50;;;
+ZT-GXLTE-FUN-TPU;ZTE;Grand X LTE;Funda;Transparente;2,95;;;
+ZT-GXLTE-FUN-LIB;ZTE;Grand X LTE;Funda;Libro;3,70;;;
+ZT-GXLTE-FUN-ANT;ZTE;Grand X LTE;Funda;Antigolpes;3,10;;;
+ZT-G-PRO-NA;ZTE;Groove;Cristal templado;Estándar;1,30;;;
+ZT-G-PRO-PRI;ZTE;Groove;Cristal templado;Privacidad;4,00;;;
+ZT-G-FUN-SIL;ZTE;Groove;Funda;Silicona;2,50;;;
+ZT-G-FUN-TPU;ZTE;Groove;Funda;Transparente;2,95;;;
+ZT-G-FUN-LIB;ZTE;Groove;Funda;Libro;3,70;;;
+ZT-G-FUN-ANT;ZTE;Groove;Funda;Antigolpes;3,10;;;
+ZT-GX501-PRO-NA;ZTE;Groove X501;Cristal templado;Estándar;1,30;;;
+ZT-GX501-PRO-PRI;ZTE;Groove X501;Cristal templado;Privacidad;4,00;;;
+ZT-GX501-FUN-SIL;ZTE;Groove X501;Funda;Silicona;2,50;;;
+ZT-GX501-FUN-TPU;ZTE;Groove X501;Funda;Transparente;2,95;;;
+ZT-GX501-FUN-LIB;ZTE;Groove X501;Funda;Libro;3,70;;;
+ZT-GX501-FUN-ANT;ZTE;Groove X501;Funda;Antigolpes;3,10;;;
+ZT-KISIIIV7-PRO-NA;ZTE;Kis III V790;Cristal templado;Estándar;1,30;;;
+ZT-KISIIIV7-PRO-PRI;ZTE;Kis III V790;Cristal templado;Privacidad;4,00;;;
+ZT-KISIIIV7-FUN-SIL;ZTE;Kis III V790;Funda;Silicona;2,50;;;
+ZT-KISIIIV7-FUN-TPU;ZTE;Kis III V790;Funda;Transparente;2,95;;;
+ZT-KISIIIV7-FUN-LIB;ZTE;Kis III V790;Funda;Libro;3,70;;;
+ZT-KISIIIV7-FUN-ANT;ZTE;Kis III V790;Funda;Antigolpes;3,10;;;
+ZT-BIII-PRO-NA;ZTE;Blade III;Cristal templado;Estándar;1,30;;;
+ZT-BIII-PRO-PRI;ZTE;Blade III;Cristal templado;Privacidad;4,00;;;
+ZT-BIII-FUN-SIL;ZTE;Blade III;Funda;Silicona;2,50;;;
+ZT-BIII-FUN-TPU;ZTE;Blade III;Funda;Transparente;2,95;;;
+ZT-BIII-FUN-LIB;ZTE;Blade III;Funda;Libro;3,70;;;
+ZT-BIII-FUN-ANT;ZTE;Blade III;Funda;Antigolpes;3,10;;;
+ZT-GERA-PRO-NA;ZTE;Grand Era;Cristal templado;Estándar;1,30;;;
+ZT-GERA-PRO-PRI;ZTE;Grand Era;Cristal templado;Privacidad;4,00;;;
+ZT-GERA-FUN-SIL;ZTE;Grand Era;Funda;Silicona;2,50;;;
+ZT-GERA-FUN-TPU;ZTE;Grand Era;Funda;Transparente;2,95;;;
+ZT-GERA-FUN-LIB;ZTE;Grand Era;Funda;Libro;3,70;;;
+ZT-GERA-FUN-ANT;ZTE;Grand Era;Funda;Antigolpes;3,10;;;
+ZT-GXIN-PRO-NA;ZTE;Grand X IN;Cristal templado;Estándar;1,30;;;
+ZT-GXIN-PRO-PRI;ZTE;Grand X IN;Cristal templado;Privacidad;4,00;;;
+ZT-GXIN-FUN-SIL;ZTE;Grand X IN;Funda;Silicona;2,50;;;
+ZT-GXIN-FUN-TPU;ZTE;Grand X IN;Funda;Transparente;2,95;;;
+ZT-GXIN-FUN-LIB;ZTE;Grand X IN;Funda;Libro;3,70;;;
+ZT-GXIN-FUN-ANT;ZTE;Grand X IN;Funda;Antigolpes;3,10;;;
+ZT-O-PRO-NA;ZTE;Orbit;Cristal templado;Estándar;1,30;;;
+ZT-O-PRO-PRI;ZTE;Orbit;Cristal templado;Privacidad;4,00;;;
+ZT-O-FUN-SIL;ZTE;Orbit;Funda;Silicona;2,50;;;
+ZT-O-FUN-TPU;ZTE;Orbit;Funda;Transparente;2,95;;;
+ZT-O-FUN-LIB;ZTE;Orbit;Funda;Libro;3,70;;;
+ZT-O-FUN-ANT;ZTE;Orbit;Funda;Antigolpes;3,10;;;
+ZT-WS-PRO-NA;ZTE;Warp Sequent;Cristal templado;Estándar;1,30;;;
+ZT-WS-PRO-PRI;ZTE;Warp Sequent;Cristal templado;Privacidad;4,00;;;
+ZT-WS-FUN-SIL;ZTE;Warp Sequent;Funda;Silicona;2,50;;;
+ZT-WS-FUN-TPU;ZTE;Warp Sequent;Funda;Transparente;2,95;;;
+ZT-WS-FUN-LIB;ZTE;Warp Sequent;Funda;Libro;3,70;;;
+ZT-WS-FUN-ANT;ZTE;Warp Sequent;Funda;Antigolpes;3,10;;;
+ZT-GX-PRO-NA;ZTE;Grand X;Cristal templado;Estándar;1,30;;;
+ZT-GX-PRO-PRI;ZTE;Grand X;Cristal templado;Privacidad;4,00;;;
+ZT-GX-FUN-SIL;ZTE;Grand X;Funda;Silicona;2,50;;;
+ZT-GX-FUN-TPU;ZTE;Grand X;Funda;Transparente;2,95;;;
+ZT-GX-FUN-LIB;ZTE;Grand X;Funda;Libro;3,70;;;
+ZT-GX-FUN-ANT;ZTE;Grand X;Funda;Antigolpes;3,10;;;
+ZT-KISV788-PRO-NA;ZTE;Kis V788;Cristal templado;Estándar;1,30;;;
+ZT-KISV788-PRO-PRI;ZTE;Kis V788;Cristal templado;Privacidad;4,00;;;
+ZT-KISV788-FUN-SIL;ZTE;Kis V788;Funda;Silicona;2,50;;;
+ZT-KISV788-FUN-TPU;ZTE;Kis V788;Funda;Transparente;2,95;;;
+ZT-KISV788-FUN-LIB;ZTE;Kis V788;Funda;Libro;3,70;;;
+ZT-KISV788-FUN-ANT;ZTE;Kis V788;Funda;Antigolpes;3,10;;;
+ZT-V880E-PRO-NA;ZTE;V880E;Cristal templado;Estándar;1,30;;;
+ZT-V880E-PRO-PRI;ZTE;V880E;Cristal templado;Privacidad;4,00;;;
+ZT-V880E-FUN-SIL;ZTE;V880E;Funda;Silicona;2,50;;;
+ZT-V880E-FUN-TPU;ZTE;V880E;Funda;Transparente;2,95;;;
+ZT-V880E-FUN-LIB;ZTE;V880E;Funda;Libro;3,70;;;
+ZT-V880E-FUN-ANT;ZTE;V880E;Funda;Antigolpes;3,10;;;
+ZT-BIIV880P-PRO-NA;ZTE;Blade II V880+;Cristal templado;Estándar;1,30;;;
+ZT-BIIV880P-PRO-PRI;ZTE;Blade II V880+;Cristal templado;Privacidad;4,00;;;
+ZT-BIIV880P-FUN-SIL;ZTE;Blade II V880+;Funda;Silicona;2,50;;;
+ZT-BIIV880P-FUN-TPU;ZTE;Blade II V880+;Funda;Transparente;2,95;;;
+ZT-BIIV880P-FUN-LIB;ZTE;Blade II V880+;Funda;Libro;3,70;;;
+ZT-BIIV880P-FUN-ANT;ZTE;Blade II V880+;Funda;Antigolpes;3,10;;;
+ZT-SM-PRO-NA;ZTE;Score M;Cristal templado;Estándar;1,30;;;
+ZT-SM-PRO-PRI;ZTE;Score M;Cristal templado;Privacidad;4,00;;;
+ZT-SM-FUN-SIL;ZTE;Score M;Funda;Silicona;2,50;;;
+ZT-SM-FUN-TPU;ZTE;Score M;Funda;Transparente;2,95;;;
+ZT-SM-FUN-LIB;ZTE;Score M;Funda;Libro;3,70;;;
+ZT-SM-FUN-ANT;ZTE;Score M;Funda;Antigolpes;3,10;;;
+ZT-T-PRO-NA;ZTE;Tania;Cristal templado;Estándar;1,30;;;
+ZT-T-PRO-PRI;ZTE;Tania;Cristal templado;Privacidad;4,00;;;
+ZT-T-FUN-SIL;ZTE;Tania;Funda;Silicona;2,50;;;
+ZT-T-FUN-TPU;ZTE;Tania;Funda;Transparente;2,95;;;
+ZT-T-FUN-LIB;ZTE;Tania;Funda;Libro;3,70;;;
+ZT-T-FUN-ANT;ZTE;Tania;Funda;Antigolpes;3,10;;;
+ZT-BA33S-PRO-NA;ZTE;Blade A33s;Cristal templado;Estándar;1,30;;;
+ZT-BA33S-PRO-PRI;ZTE;Blade A33s;Cristal templado;Privacidad;4,00;;;
+ZT-BA33S-FUN-SIL;ZTE;Blade A33s;Funda;Silicona;2,50;;;
+ZT-BA33S-FUN-TPU;ZTE;Blade A33s;Funda;Transparente;2,95;;;
+ZT-BA33S-FUN-LIB;ZTE;Blade A33s;Funda;Libro;3,70;;;
+ZT-BA33S-FUN-ANT;ZTE;Blade A33s;Funda;Antigolpes;3,10;;;
+ZT-BA34-PRO-NA;ZTE;Blade A34;Cristal templado;Estándar;1,30;;;
+ZT-BA34-PRO-PRI;ZTE;Blade A34;Cristal templado;Privacidad;4,00;;;
+ZT-BA34-FUN-SIL;ZTE;Blade A34;Funda;Silicona;2,50;;;
+ZT-BA34-FUN-TPU;ZTE;Blade A34;Funda;Transparente;2,95;;;
+ZT-BA34-FUN-LIB;ZTE;Blade A34;Funda;Libro;3,70;;;
+ZT-BA34-FUN-ANT;ZTE;Blade A34;Funda;Antigolpes;3,10;;;
+ZT-BA35-PRO-NA;ZTE;Blade A35;Cristal templado;Estándar;1,30;;;
+ZT-BA35-PRO-PRI;ZTE;Blade A35;Cristal templado;Privacidad;4,00;;;
+ZT-BA35-FUN-SIL;ZTE;Blade A35;Funda;Silicona;2,50;;;
+ZT-BA35-FUN-TPU;ZTE;Blade A35;Funda;Transparente;2,95;;;
+ZT-BA35-FUN-LIB;ZTE;Blade A35;Funda;Libro;3,70;;;
+ZT-BA35-FUN-ANT;ZTE;Blade A35;Funda;Antigolpes;3,10;;;
+ZT-BA53-PRO-NA;ZTE;Blade A53;Cristal templado;Estándar;1,30;;;
+ZT-BA53-PRO-PRI;ZTE;Blade A53;Cristal templado;Privacidad;4,00;;;
+ZT-BA53-FUN-SIL;ZTE;Blade A53;Funda;Silicona;2,50;;;
+ZT-BA53-FUN-TPU;ZTE;Blade A53;Funda;Transparente;2,95;;;
+ZT-BA53-FUN-LIB;ZTE;Blade A53;Funda;Libro;3,70;;;
+ZT-BA53-FUN-ANT;ZTE;Blade A53;Funda;Antigolpes;3,10;;;
+ZT-BA53P-PRO-NA;ZTE;Blade A53 Pro;Cristal templado;Estándar;1,30;;;
+ZT-BA53P-PRO-PRI;ZTE;Blade A53 Pro;Cristal templado;Privacidad;4,00;;;
+ZT-BA53P-FUN-SIL;ZTE;Blade A53 Pro;Funda;Silicona;2,50;;;
+ZT-BA53P-FUN-TPU;ZTE;Blade A53 Pro;Funda;Transparente;2,95;;;
+ZT-BA53P-FUN-LIB;ZTE;Blade A53 Pro;Funda;Libro;3,70;;;
+ZT-BA53P-FUN-ANT;ZTE;Blade A53 Pro;Funda;Antigolpes;3,10;;;
+ZT-BA54-PRO-NA;ZTE;Blade A54;Cristal templado;Estándar;1,30;;;
+ZT-BA54-PRO-PRI;ZTE;Blade A54;Cristal templado;Privacidad;4,00;;;
+ZT-BA54-FUN-SIL;ZTE;Blade A54;Funda;Silicona;2,50;;;
+ZT-BA54-FUN-TPU;ZTE;Blade A54;Funda;Transparente;2,95;;;
+ZT-BA54-FUN-LIB;ZTE;Blade A54;Funda;Libro;3,70;;;
+ZT-BA54-FUN-ANT;ZTE;Blade A54;Funda;Antigolpes;3,10;;;
+ZT-BA72S-PRO-NA;ZTE;Blade A72s;Cristal templado;Estándar;1,30;;;
+ZT-BA72S-PRO-PRI;ZTE;Blade A72s;Cristal templado;Privacidad;4,00;;;
+ZT-BA72S-FUN-SIL;ZTE;Blade A72s;Funda;Silicona;2,50;;;
+ZT-BA72S-FUN-TPU;ZTE;Blade A72s;Funda;Transparente;2,95;;;
+ZT-BA72S-FUN-LIB;ZTE;Blade A72s;Funda;Libro;3,70;;;
+ZT-BA72S-FUN-ANT;ZTE;Blade A72s;Funda;Antigolpes;3,10;;;
+ZT-BA73-PRO-NA;ZTE;Blade A73;Cristal templado;Estándar;1,30;;;
+ZT-BA73-PRO-PRI;ZTE;Blade A73;Cristal templado;Privacidad;4,00;;;
+ZT-BA73-FUN-SIL;ZTE;Blade A73;Funda;Silicona;2,50;;;
+ZT-BA73-FUN-TPU;ZTE;Blade A73;Funda;Transparente;2,95;;;
+ZT-BA73-FUN-LIB;ZTE;Blade A73;Funda;Libro;3,70;;;
+ZT-BA73-FUN-ANT;ZTE;Blade A73;Funda;Antigolpes;3,10;;;
+ZT-BA735-PRO-NA;ZTE;Blade A73 5G;Cristal templado;Estándar;1,30;;;
+ZT-BA735-PRO-PRI;ZTE;Blade A73 5G;Cristal templado;Privacidad;4,00;;;
+ZT-BA735-FUN-SIL;ZTE;Blade A73 5G;Funda;Silicona;2,50;;;
+ZT-BA735-FUN-TPU;ZTE;Blade A73 5G;Funda;Transparente;2,95;;;
+ZT-BA735-FUN-LIB;ZTE;Blade A73 5G;Funda;Libro;3,70;;;
+ZT-BA735-FUN-ANT;ZTE;Blade A73 5G;Funda;Antigolpes;3,10;;;
+ZT-BA75-PRO-NA;ZTE;Blade A75;Cristal templado;Estándar;1,30;;;
+ZT-BA75-PRO-PRI;ZTE;Blade A75;Cristal templado;Privacidad;4,00;;;
+ZT-BA75-FUN-SIL;ZTE;Blade A75;Funda;Silicona;2,50;;;
+ZT-BA75-FUN-TPU;ZTE;Blade A75;Funda;Transparente;2,95;;;
+ZT-BA75-FUN-LIB;ZTE;Blade A75;Funda;Libro;3,70;;;
+ZT-BA75-FUN-ANT;ZTE;Blade A75;Funda;Antigolpes;3,10;;;
+ZT-BA755-PRO-NA;ZTE;Blade A75 5G;Cristal templado;Estándar;1,30;;;
+ZT-BA755-PRO-PRI;ZTE;Blade A75 5G;Cristal templado;Privacidad;4,00;;;
+ZT-BA755-FUN-SIL;ZTE;Blade A75 5G;Funda;Silicona;2,50;;;
+ZT-BA755-FUN-TPU;ZTE;Blade A75 5G;Funda;Transparente;2,95;;;
+ZT-BA755-FUN-LIB;ZTE;Blade A75 5G;Funda;Libro;3,70;;;
+ZT-BA755-FUN-ANT;ZTE;Blade A75 5G;Funda;Antigolpes;3,10;;;
+ZT-BV505-PRO-NA;ZTE;Blade V50 5G;Cristal templado;Estándar;1,30;;;
+ZT-BV505-PRO-PRI;ZTE;Blade V50 5G;Cristal templado;Privacidad;4,00;;;
+ZT-BV505-FUN-SIL;ZTE;Blade V50 5G;Funda;Silicona;2,50;;;
+ZT-BV505-FUN-TPU;ZTE;Blade V50 5G;Funda;Transparente;2,95;;;
+ZT-BV505-FUN-LIB;ZTE;Blade V50 5G;Funda;Libro;3,70;;;
+ZT-BV505-FUN-ANT;ZTE;Blade V50 5G;Funda;Antigolpes;3,10;;;
+ZT-BV50D-PRO-NA;ZTE;Blade V50 Design;Cristal templado;Estándar;1,30;;;
+ZT-BV50D-PRO-PRI;ZTE;Blade V50 Design;Cristal templado;Privacidad;4,00;;;
+ZT-BV50D-FUN-SIL;ZTE;Blade V50 Design;Funda;Silicona;2,50;;;
+ZT-BV50D-FUN-TPU;ZTE;Blade V50 Design;Funda;Transparente;2,95;;;
+ZT-BV50D-FUN-LIB;ZTE;Blade V50 Design;Funda;Libro;3,70;;;
+ZT-BV50D-FUN-ANT;ZTE;Blade V50 Design;Funda;Antigolpes;3,10;;;
+ZT-BV50D5-PRO-NA;ZTE;Blade V50 Design 5G;Cristal templado;Estándar;1,30;;;
+ZT-BV50D5-PRO-PRI;ZTE;Blade V50 Design 5G;Cristal templado;Privacidad;4,00;;;
+ZT-BV50D5-FUN-SIL;ZTE;Blade V50 Design 5G;Funda;Silicona;2,50;;;
+ZT-BV50D5-FUN-TPU;ZTE;Blade V50 Design 5G;Funda;Transparente;2,95;;;
+ZT-BV50D5-FUN-LIB;ZTE;Blade V50 Design 5G;Funda;Libro;3,70;;;
+ZT-BV50D5-FUN-ANT;ZTE;Blade V50 Design 5G;Funda;Antigolpes;3,10;;;
+ZT-BV50V-PRO-NA;ZTE;Blade V50 Vita;Cristal templado;Estándar;1,30;;;
+ZT-BV50V-PRO-PRI;ZTE;Blade V50 Vita;Cristal templado;Privacidad;4,00;;;
+ZT-BV50V-FUN-SIL;ZTE;Blade V50 Vita;Funda;Silicona;2,50;;;
+ZT-BV50V-FUN-TPU;ZTE;Blade V50 Vita;Funda;Transparente;2,95;;;
+ZT-BV50V-FUN-LIB;ZTE;Blade V50 Vita;Funda;Libro;3,70;;;
+ZT-BV50V-FUN-ANT;ZTE;Blade V50 Vita;Funda;Antigolpes;3,10;;;
+ZT-BV60V-PRO-NA;ZTE;Blade V60 Vita;Cristal templado;Estándar;1,30;;;
+ZT-BV60V-PRO-PRI;ZTE;Blade V60 Vita;Cristal templado;Privacidad;4,00;;;
+ZT-BV60V-FUN-SIL;ZTE;Blade V60 Vita;Funda;Silicona;2,50;;;
+ZT-BV60V-FUN-TPU;ZTE;Blade V60 Vita;Funda;Transparente;2,95;;;
+ZT-BV60V-FUN-LIB;ZTE;Blade V60 Vita;Funda;Libro;3,70;;;
+ZT-BV60V-FUN-ANT;ZTE;Blade V60 Vita;Funda;Antigolpes;3,10;;;
+ZT-BV10-PRO-NA;ZTE;Blade V10;Cristal templado;Estándar;1,30;;;
+ZT-BV10-PRO-PRI;ZTE;Blade V10;Cristal templado;Privacidad;4,00;;;
+ZT-BV10-FUN-SIL;ZTE;Blade V10;Funda;Silicona;2,50;;;
+ZT-BV10-FUN-TPU;ZTE;Blade V10;Funda;Transparente;2,95;;;
+ZT-BV10-FUN-LIB;ZTE;Blade V10;Funda;Libro;3,70;;;
+ZT-BV10-FUN-ANT;ZTE;Blade V10;Funda;Antigolpes;3,10;;;
+ZT-BV10-PCA-NA;ZTE;Blade V10;Protector de cámara;Cristal;2,90;;;
+ZT-A30U5-MAR-COM;ZTE;Axon 30 Ultra 5G;Marco / chasis;Compatible;9,79;;;6
+ZT-A30U5-BOT-COM;ZTE;Axon 30 Ultra 5G;Botones laterales;Compatible;5,00;;;6
+ZT-A30U5-CRI-COM;ZTE;Axon 30 Ultra 5G;Cristal de pantalla;Compatible;5,00;;;6
+ZT-A30U5-ANT-COM;ZTE;Axon 30 Ultra 5G;Antena / coaxial;Compatible;4,35;;;6
+ZT-A30U5-HUE-COM;ZTE;Axon 30 Ultra 5G;Botón home / huella;Compatible;7,25;;;6
+ZT-A30U5-NFC-COM;ZTE;Axon 30 Ultra 5G;NFC y carga inalámbrica;Compatible;9,70;;;6
+ZT-BA3L-MAR-COM;ZTE;Blade A3 Lite;Marco / chasis;Compatible;5,65;;;6
+ZT-BA3L-BOT-COM;ZTE;Blade A3 Lite;Botones laterales;Compatible;2,89;;;6
+ZT-BA3L-CRI-COM;ZTE;Blade A3 Lite;Cristal de pantalla;Compatible;2,89;;;6
+ZT-BA3L-ANT-COM;ZTE;Blade A3 Lite;Antena / coaxial;Compatible;2,50;;;6
+ZT-BA3L-HUE-COM;ZTE;Blade A3 Lite;Botón home / huella;Compatible;4,15;;;6
+ZT-BA3PL-MAR-COM;ZTE;Blade A3 Plus;Marco / chasis;Compatible;5,65;;;6
+ZT-BA3PL-BOT-COM;ZTE;Blade A3 Plus;Botones laterales;Compatible;2,89;;;6
+ZT-BA3PL-CRI-COM;ZTE;Blade A3 Plus;Cristal de pantalla;Compatible;2,89;;;6
+ZT-BA3PL-ANT-COM;ZTE;Blade A3 Plus;Antena / coaxial;Compatible;2,50;;;6
+ZT-BA3PL-HUE-COM;ZTE;Blade A3 Plus;Botón home / huella;Compatible;4,15;;;6
+ZT-BA3SE-MAR-COM;ZTE;Blade A3 SE;Marco / chasis;Compatible;5,65;;;6
+ZT-BA3SE-BOT-COM;ZTE;Blade A3 SE;Botones laterales;Compatible;2,89;;;6
+ZT-BA3SE-CRI-COM;ZTE;Blade A3 SE;Cristal de pantalla;Compatible;2,89;;;6
+ZT-BA3SE-ANT-COM;ZTE;Blade A3 SE;Antena / coaxial;Compatible;2,50;;;6
+ZT-BA3SE-HUE-COM;ZTE;Blade A3 SE;Botón home / huella;Compatible;4,15;;;6
+ZT-BA31L-MAR-COM;ZTE;Blade A31 Lite;Marco / chasis;Compatible;6,25;;;6
+ZT-BA31L-BOT-COM;ZTE;Blade A31 Lite;Botones laterales;Compatible;3,20;;;6
+ZT-BA31L-CRI-COM;ZTE;Blade A31 Lite;Cristal de pantalla;Compatible;3,20;;;6
+ZT-BA31L-ANT-COM;ZTE;Blade A31 Lite;Antena / coaxial;Compatible;2,79;;;6
+ZT-BA31L-HUE-COM;ZTE;Blade A31 Lite;Botón home / huella;Compatible;4,60;;;6
+ZT-BA51L-MAR-COM;ZTE;Blade A51 Lite;Marco / chasis;Compatible;6,25;;;6
+ZT-BA51L-BOT-COM;ZTE;Blade A51 Lite;Botones laterales;Compatible;3,20;;;6
+ZT-BA51L-CRI-COM;ZTE;Blade A51 Lite;Cristal de pantalla;Compatible;3,20;;;6
+ZT-BA51L-ANT-COM;ZTE;Blade A51 Lite;Antena / coaxial;Compatible;2,79;;;6
+ZT-BA51L-HUE-COM;ZTE;Blade A51 Lite;Botón home / huella;Compatible;4,60;;;6
+ZT-BD6L4-MAR-COM;ZTE;Blade D6 Lite 4G;Marco / chasis;Compatible;5,00;;;6
+ZT-BD6L4-BOT-COM;ZTE;Blade D6 Lite 4G;Botones laterales;Compatible;2,55;;;6
+ZT-BD6L4-CRI-COM;ZTE;Blade D6 Lite 4G;Cristal de pantalla;Compatible;2,55;;;6
+ZT-BD6L4-ANT-COM;ZTE;Blade D6 Lite 4G;Antena / coaxial;Compatible;2,25;;;6
+ZT-BL2PL-MAR-COM;ZTE;Blade L2 Plus;Marco / chasis;Compatible;5,00;;;6
+ZT-BL2PL-BOT-COM;ZTE;Blade L2 Plus;Botones laterales;Compatible;2,55;;;6
+ZT-BL2PL-ANT-COM;ZTE;Blade L2 Plus;Antena / coaxial;Compatible;2,25;;;6
+ZT-BL3L-MAR-COM;ZTE;Blade L3 Lite;Marco / chasis;Compatible;5,00;;;6
+ZT-BL3L-BOT-COM;ZTE;Blade L3 Lite;Botones laterales;Compatible;2,55;;;6
+ZT-BL3L-CRI-COM;ZTE;Blade L3 Lite;Cristal de pantalla;Compatible;2,55;;;6
+ZT-BL3L-ANT-COM;ZTE;Blade L3 Lite;Antena / coaxial;Compatible;2,25;;;6
+ZT-BS6L-MAR-COM;ZTE;Blade S6 Lite;Marco / chasis;Compatible;5,00;;;6
+ZT-BS6L-BOT-COM;ZTE;Blade S6 Lite;Botones laterales;Compatible;2,55;;;6
+ZT-BS6L-CRI-COM;ZTE;Blade S6 Lite;Cristal de pantalla;Compatible;2,55;;;6
+ZT-BS6L-ANT-COM;ZTE;Blade S6 Lite;Antena / coaxial;Compatible;2,25;;;6
+ZT-BA31PL-MAR-COM;ZTE;Blade A31 Plus;Marco / chasis;Compatible;6,25;;;6
+ZT-BA31PL-BOT-COM;ZTE;Blade A31 Plus;Botones laterales;Compatible;3,20;;;6
+ZT-BA31PL-CRI-COM;ZTE;Blade A31 Plus;Cristal de pantalla;Compatible;3,20;;;6
+ZT-BA31PL-ANT-COM;ZTE;Blade A31 Plus;Antena / coaxial;Compatible;2,79;;;6
+ZT-BA31PL-HUE-COM;ZTE;Blade A31 Plus;Botón home / huella;Compatible;4,60;;;6
+ZT-BA71-MAR-COM;ZTE;Blade A71;Marco / chasis;Compatible;6,25;;;6
+ZT-BA71-BOT-COM;ZTE;Blade A71;Botones laterales;Compatible;3,20;;;6
+ZT-BA71-CRI-COM;ZTE;Blade A71;Cristal de pantalla;Compatible;3,20;;;6
+ZT-BA71-ANT-COM;ZTE;Blade A71;Antena / coaxial;Compatible;2,79;;;6
+ZT-BA71-HUE-COM;ZTE;Blade A71;Botón home / huella;Compatible;4,60;;;6
+ZT-BL9-MAR-COM;ZTE;Blade L9;Marco / chasis;Compatible;6,25;;;6
+ZT-BL9-BOT-COM;ZTE;Blade L9;Botones laterales;Compatible;3,20;;;6
+ZT-BL9-CRI-COM;ZTE;Blade L9;Cristal de pantalla;Compatible;3,20;;;6
+ZT-BL9-ANT-COM;ZTE;Blade L9;Antena / coaxial;Compatible;2,79;;;6
+ZT-BL9-HUE-COM;ZTE;Blade L9;Botón home / huella;Compatible;4,60;;;6
+ZT-A30-MAR-COM;ZTE;Axon 30;Marco / chasis;Compatible;8,20;;;6
+ZT-A30-BOT-COM;ZTE;Axon 30;Botones laterales;Compatible;4,20;;;6
+ZT-A30-CRI-COM;ZTE;Axon 30;Cristal de pantalla;Compatible;4,20;;;6
+ZT-A30-ANT-COM;ZTE;Axon 30;Antena / coaxial;Compatible;3,65;;;6
+ZT-A30-HUE-COM;ZTE;Axon 30;Botón home / huella;Compatible;6,05;;;6
+ZT-V20P-MAR-COM;ZTE;Voyage 20 Pro;Marco / chasis;Compatible;6,25;;;6
+ZT-V20P-BOT-COM;ZTE;Voyage 20 Pro;Botones laterales;Compatible;3,20;;;6
+ZT-V20P-CRI-COM;ZTE;Voyage 20 Pro;Cristal de pantalla;Compatible;3,20;;;6
+ZT-V20P-ANT-COM;ZTE;Voyage 20 Pro;Antena / coaxial;Compatible;2,79;;;6
+ZT-V20P-HUE-COM;ZTE;Voyage 20 Pro;Botón home / huella;Compatible;4,60;;;6
+ZT-BA31-MAR-COM;ZTE;Blade A31;Marco / chasis;Compatible;6,25;;;6
+ZT-BA31-BOT-COM;ZTE;Blade A31;Botones laterales;Compatible;3,20;;;6
+ZT-BA31-CRI-COM;ZTE;Blade A31;Cristal de pantalla;Compatible;3,20;;;6
+ZT-BA31-ANT-COM;ZTE;Blade A31;Antena / coaxial;Compatible;2,79;;;6
+ZT-BA31-HUE-COM;ZTE;Blade A31;Botón home / huella;Compatible;4,60;;;6
+ZT-BA51-MAR-COM;ZTE;Blade A51;Marco / chasis;Compatible;6,25;;;6
+ZT-BA51-BOT-COM;ZTE;Blade A51;Botones laterales;Compatible;3,20;;;6
+ZT-BA51-CRI-COM;ZTE;Blade A51;Cristal de pantalla;Compatible;3,20;;;6
+ZT-BA51-ANT-COM;ZTE;Blade A51;Antena / coaxial;Compatible;2,79;;;6
+ZT-BA51-HUE-COM;ZTE;Blade A51;Botón home / huella;Compatible;4,60;;;6
+ZT-A30P-MAR-COM;ZTE;Axon 30 Pro;Marco / chasis;Compatible;9,79;;;6
+ZT-A30P-BOT-COM;ZTE;Axon 30 Pro;Botones laterales;Compatible;5,00;;;6
+ZT-A30P-CRI-COM;ZTE;Axon 30 Pro;Cristal de pantalla;Compatible;5,00;;;6
+ZT-A30P-ANT-COM;ZTE;Axon 30 Pro;Antena / coaxial;Compatible;4,35;;;6
+ZT-A30P-HUE-COM;ZTE;Axon 30 Pro;Botón home / huella;Compatible;7,25;;;6
+ZT-A30P-NFC-COM;ZTE;Axon 30 Pro;NFC y carga inalámbrica;Compatible;9,70;;;6
+ZT-A30PU-MAR-COM;ZTE;Axon 30 Pro Ultra;Marco / chasis;Compatible;9,79;;;6
+ZT-A30PU-BOT-COM;ZTE;Axon 30 Pro Ultra;Botones laterales;Compatible;5,00;;;6
+ZT-A30PU-CRI-COM;ZTE;Axon 30 Pro Ultra;Cristal de pantalla;Compatible;5,00;;;6
+ZT-A30PU-ANT-COM;ZTE;Axon 30 Pro Ultra;Antena / coaxial;Compatible;4,35;;;6
+ZT-A30PU-HUE-COM;ZTE;Axon 30 Pro Ultra;Botón home / huella;Compatible;7,25;;;6
+ZT-A30PU-NFC-COM;ZTE;Axon 30 Pro Ultra;NFC y carga inalámbrica;Compatible;9,70;;;6
+ZT-B11P-MAR-COM;ZTE;Blade 11 Prime;Marco / chasis;Compatible;6,25;;;6
+ZT-B11P-BOT-COM;ZTE;Blade 11 Prime;Botones laterales;Compatible;3,20;;;6
+ZT-B11P-CRI-COM;ZTE;Blade 11 Prime;Cristal de pantalla;Compatible;3,20;;;6
+ZT-B11P-ANT-COM;ZTE;Blade 11 Prime;Antena / coaxial;Compatible;2,79;;;6
+ZT-B11P-HUE-COM;ZTE;Blade 11 Prime;Botón home / huella;Compatible;4,60;;;6
+ZT-S30-MAR-COM;ZTE;S30;Marco / chasis;Compatible;6,25;;;6
+ZT-S30-BOT-COM;ZTE;S30;Botones laterales;Compatible;3,20;;;6
+ZT-S30-CRI-COM;ZTE;S30;Cristal de pantalla;Compatible;3,20;;;6
+ZT-S30-ANT-COM;ZTE;S30;Antena / coaxial;Compatible;2,79;;;6
+ZT-S30-HUE-COM;ZTE;S30;Botón home / huella;Compatible;4,60;;;6
+ZT-S30P-MAR-COM;ZTE;S30 Pro;Marco / chasis;Compatible;6,25;;;6
+ZT-S30P-BOT-COM;ZTE;S30 Pro;Botones laterales;Compatible;3,20;;;6
+ZT-S30P-CRI-COM;ZTE;S30 Pro;Cristal de pantalla;Compatible;3,20;;;6
+ZT-S30P-ANT-COM;ZTE;S30 Pro;Antena / coaxial;Compatible;2,79;;;6
+ZT-S30P-HUE-COM;ZTE;S30 Pro;Botón home / huella;Compatible;4,60;;;6
+ZT-S30SE-MAR-COM;ZTE;S30 SE;Marco / chasis;Compatible;6,25;;;6
+ZT-S30SE-BOT-COM;ZTE;S30 SE;Botones laterales;Compatible;3,20;;;6
+ZT-S30SE-CRI-COM;ZTE;S30 SE;Cristal de pantalla;Compatible;3,20;;;6
+ZT-S30SE-ANT-COM;ZTE;S30 SE;Antena / coaxial;Compatible;2,79;;;6
+ZT-S30SE-HUE-COM;ZTE;S30 SE;Botón home / huella;Compatible;4,60;;;6
+ZT-A204-MAR-COM;ZTE;Axon 20 4G;Marco / chasis;Compatible;8,20;;;6
+ZT-A204-BOT-COM;ZTE;Axon 20 4G;Botones laterales;Compatible;4,20;;;6
+ZT-A204-CRI-COM;ZTE;Axon 20 4G;Cristal de pantalla;Compatible;4,20;;;6
+ZT-A204-ANT-COM;ZTE;Axon 20 4G;Antena / coaxial;Compatible;3,65;;;6
+ZT-A204-HUE-COM;ZTE;Axon 20 4G;Botón home / huella;Compatible;6,05;;;6
+ZT-A205-MAR-COM;ZTE;Axon 20 5G;Marco / chasis;Compatible;8,20;;;6
+ZT-A205-BOT-COM;ZTE;Axon 20 5G;Botones laterales;Compatible;4,20;;;6
+ZT-A205-CRI-COM;ZTE;Axon 20 5G;Cristal de pantalla;Compatible;4,20;;;6
+ZT-A205-ANT-COM;ZTE;Axon 20 5G;Antena / coaxial;Compatible;3,65;;;6
+ZT-A205-HUE-COM;ZTE;Axon 20 5G;Botón home / huella;Compatible;6,05;;;6
+ZT-B205-MAR-COM;ZTE;Blade 20 5G;Marco / chasis;Compatible;6,25;;;6
+ZT-B205-BOT-COM;ZTE;Blade 20 5G;Botones laterales;Compatible;3,20;;;6
+ZT-B205-CRI-COM;ZTE;Blade 20 5G;Cristal de pantalla;Compatible;3,20;;;6
+ZT-B205-ANT-COM;ZTE;Blade 20 5G;Antena / coaxial;Compatible;2,79;;;6
+ZT-B205-HUE-COM;ZTE;Blade 20 5G;Botón home / huella;Compatible;4,60;;;6
+ZT-BA7S20-MAR-COM;ZTE;Blade A7s 2020;Marco / chasis;Compatible;6,25;;;6
+ZT-BA7S20-BOT-COM;ZTE;Blade A7s 2020;Botones laterales;Compatible;3,20;;;6
+ZT-BA7S20-CRI-COM;ZTE;Blade A7s 2020;Cristal de pantalla;Compatible;3,20;;;6
+ZT-BA7S20-ANT-COM;ZTE;Blade A7s 2020;Antena / coaxial;Compatible;2,79;;;6
+ZT-BA7S20-HUE-COM;ZTE;Blade A7s 2020;Botón home / huella;Compatible;4,60;;;6
+ZT-A11SE5-MAR-COM;ZTE;Axon 11 SE 5G;Marco / chasis;Compatible;8,20;;;6
+ZT-A11SE5-BOT-COM;ZTE;Axon 11 SE 5G;Botones laterales;Compatible;4,20;;;6
+ZT-A11SE5-CRI-COM;ZTE;Axon 11 SE 5G;Cristal de pantalla;Compatible;4,20;;;6
+ZT-A11SE5-ANT-COM;ZTE;Axon 11 SE 5G;Antena / coaxial;Compatible;3,65;;;6
+ZT-A11SE5-HUE-COM;ZTE;Axon 11 SE 5G;Botón home / huella;Compatible;6,05;;;6
+ZT-BV20-MAR-COM;ZTE;Blade V 2020;Marco / chasis;Compatible;7,20;;;6
+ZT-BV20-BOT-COM;ZTE;Blade V 2020;Botones laterales;Compatible;3,70;;;6
+ZT-BV20-CRI-COM;ZTE;Blade V 2020;Cristal de pantalla;Compatible;3,69;;;6
+ZT-BV20-ANT-COM;ZTE;Blade V 2020;Antena / coaxial;Compatible;3,20;;;6
+ZT-BV20-HUE-COM;ZTE;Blade V 2020;Botón home / huella;Compatible;5,30;;;6
+ZT-A114-MAR-COM;ZTE;Axon 11 4G;Marco / chasis;Compatible;8,20;;;6
+ZT-A114-BOT-COM;ZTE;Axon 11 4G;Botones laterales;Compatible;4,20;;;6
+ZT-A114-CRI-COM;ZTE;Axon 11 4G;Cristal de pantalla;Compatible;4,20;;;6
+ZT-A114-ANT-COM;ZTE;Axon 11 4G;Antena / coaxial;Compatible;3,65;;;6
+ZT-A114-HUE-COM;ZTE;Axon 11 4G;Botón home / huella;Compatible;6,05;;;6
+ZT-A115-MAR-COM;ZTE;Axon 11 5G;Marco / chasis;Compatible;8,20;;;6
+ZT-A115-BOT-COM;ZTE;Axon 11 5G;Botones laterales;Compatible;4,20;;;6
+ZT-A115-CRI-COM;ZTE;Axon 11 5G;Cristal de pantalla;Compatible;4,20;;;6
+ZT-A115-ANT-COM;ZTE;Axon 11 5G;Antena / coaxial;Compatible;3,65;;;6
+ZT-A115-HUE-COM;ZTE;Axon 11 5G;Botón home / huella;Compatible;6,05;;;6
+ZT-A10SP5-MAR-COM;ZTE;Axon 10s Pro 5G;Marco / chasis;Compatible;9,79;;;6
+ZT-A10SP5-BOT-COM;ZTE;Axon 10s Pro 5G;Botones laterales;Compatible;5,00;;;6
+ZT-A10SP5-CRI-COM;ZTE;Axon 10s Pro 5G;Cristal de pantalla;Compatible;5,00;;;6
+ZT-A10SP5-ANT-COM;ZTE;Axon 10s Pro 5G;Antena / coaxial;Compatible;4,35;;;6
+ZT-A10SP5-HUE-COM;ZTE;Axon 10s Pro 5G;Botón home / huella;Compatible;7,25;;;6
+ZT-A10SP5-NFC-COM;ZTE;Axon 10s Pro 5G;NFC y carga inalámbrica;Compatible;9,70;;;6
+ZT-B10P-MAR-COM;ZTE;Blade 10 Prime;Marco / chasis;Compatible;5,65;;;6
+ZT-B10P-BOT-COM;ZTE;Blade 10 Prime;Botones laterales;Compatible;2,89;;;6
+ZT-B10P-CRI-COM;ZTE;Blade 10 Prime;Cristal de pantalla;Compatible;2,89;;;6
+ZT-B10P-ANT-COM;ZTE;Blade 10 Prime;Antena / coaxial;Compatible;2,50;;;6
+ZT-B10P-HUE-COM;ZTE;Blade 10 Prime;Botón home / huella;Compatible;4,15;;;6
+ZT-BA7P-MAR-COM;ZTE;Blade A7 Prime;Marco / chasis;Compatible;5,65;;;6
+ZT-BA7P-BOT-COM;ZTE;Blade A7 Prime;Botones laterales;Compatible;2,89;;;6
+ZT-BA7P-CRI-COM;ZTE;Blade A7 Prime;Cristal de pantalla;Compatible;2,89;;;6
+ZT-BA7P-ANT-COM;ZTE;Blade A7 Prime;Antena / coaxial;Compatible;2,50;;;6
+ZT-BA7P-HUE-COM;ZTE;Blade A7 Prime;Botón home / huella;Compatible;4,15;;;6
+ZT-BMV-MAR-COM;ZTE;Blade Max View;Marco / chasis;Compatible;5,65;;;6
+ZT-BMV-BOT-COM;ZTE;Blade Max View;Botones laterales;Compatible;2,89;;;6
+ZT-BMV-CRI-COM;ZTE;Blade Max View;Cristal de pantalla;Compatible;2,89;;;6
+ZT-BMV-ANT-COM;ZTE;Blade Max View;Antena / coaxial;Compatible;2,50;;;6
+ZT-BMV-HUE-COM;ZTE;Blade Max View;Botón home / huella;Compatible;4,15;;;6
+ZT-BA20-MAR-COM;ZTE;Blade A20;Marco / chasis;Compatible;5,65;;;6
+ZT-BA20-BOT-COM;ZTE;Blade A20;Botones laterales;Compatible;2,89;;;6
+ZT-BA20-CRI-COM;ZTE;Blade A20;Cristal de pantalla;Compatible;2,89;;;6
+ZT-BA20-ANT-COM;ZTE;Blade A20;Antena / coaxial;Compatible;2,50;;;6
+ZT-BA20-HUE-COM;ZTE;Blade A20;Botón home / huella;Compatible;4,15;;;6
+ZT-BA519-MAR-COM;ZTE;Blade A5 2019;Marco / chasis;Compatible;5,65;;;6
+ZT-BA519-BOT-COM;ZTE;Blade A5 2019;Botones laterales;Compatible;2,89;;;6
+ZT-BA519-CRI-COM;ZTE;Blade A5 2019;Cristal de pantalla;Compatible;2,89;;;6
+ZT-BA519-ANT-COM;ZTE;Blade A5 2019;Antena / coaxial;Compatible;2,50;;;6
+ZT-BA519-HUE-COM;ZTE;Blade A5 2019;Botón home / huella;Compatible;4,15;;;6
+ZT-BA7-MAR-COM;ZTE;Blade A7;Marco / chasis;Compatible;5,65;;;6
+ZT-BA7-BOT-COM;ZTE;Blade A7;Botones laterales;Compatible;2,89;;;6
+ZT-BA7-CRI-COM;ZTE;Blade A7;Cristal de pantalla;Compatible;2,89;;;6
+ZT-BA7-ANT-COM;ZTE;Blade A7;Antena / coaxial;Compatible;2,50;;;6
+ZT-BA7-HUE-COM;ZTE;Blade A7;Botón home / huella;Compatible;4,15;;;6
+ZT-BA319-MAR-COM;ZTE;Blade A3 2019;Marco / chasis;Compatible;5,65;;;6
+ZT-BA319-BOT-COM;ZTE;Blade A3 2019;Botones laterales;Compatible;2,89;;;6
+ZT-BA319-CRI-COM;ZTE;Blade A3 2019;Cristal de pantalla;Compatible;2,89;;;6
+ZT-BA319-ANT-COM;ZTE;Blade A3 2019;Antena / coaxial;Compatible;2,50;;;6
+ZT-BA319-HUE-COM;ZTE;Blade A3 2019;Botón home / huella;Compatible;4,15;;;6
+ZT-BL8-MAR-COM;ZTE;Blade L8;Marco / chasis;Compatible;5,65;;;6
+ZT-BL8-BOT-COM;ZTE;Blade L8;Botones laterales;Compatible;2,89;;;6
+ZT-BL8-CRI-COM;ZTE;Blade L8;Cristal de pantalla;Compatible;2,89;;;6
+ZT-BL8-ANT-COM;ZTE;Blade L8;Antena / coaxial;Compatible;2,50;;;6
+ZT-BL8-HUE-COM;ZTE;Blade L8;Botón home / huella;Compatible;4,15;;;6
+ZT-A10P-MAR-COM;ZTE;Axon 10 Pro;Marco / chasis;Compatible;8,80;;;6
+ZT-A10P-BOT-COM;ZTE;Axon 10 Pro;Botones laterales;Compatible;4,50;;;6
+ZT-A10P-CRI-COM;ZTE;Axon 10 Pro;Cristal de pantalla;Compatible;4,50;;;6
+ZT-A10P-ANT-COM;ZTE;Axon 10 Pro;Antena / coaxial;Compatible;3,90;;;6
+ZT-A10P-HUE-COM;ZTE;Axon 10 Pro;Botón home / huella;Compatible;6,50;;;6
+ZT-A10P-NFC-COM;ZTE;Axon 10 Pro;NFC y carga inalámbrica;Compatible;8,75;;;6
+ZT-A10P5-MAR-COM;ZTE;Axon 10 Pro 5G;Marco / chasis;Compatible;8,80;;;6
+ZT-A10P5-BOT-COM;ZTE;Axon 10 Pro 5G;Botones laterales;Compatible;4,50;;;6
+ZT-A10P5-CRI-COM;ZTE;Axon 10 Pro 5G;Cristal de pantalla;Compatible;4,50;;;6
+ZT-A10P5-ANT-COM;ZTE;Axon 10 Pro 5G;Antena / coaxial;Compatible;3,90;;;6
+ZT-A10P5-HUE-COM;ZTE;Axon 10 Pro 5G;Botón home / huella;Compatible;6,50;;;6
+ZT-A10P5-NFC-COM;ZTE;Axon 10 Pro 5G;NFC y carga inalámbrica;Compatible;8,75;;;6
+ZT-BV10V-MAR-COM;ZTE;Blade V10 Vita;Marco / chasis;Compatible;6,49;;;6
+ZT-BV10V-BOT-COM;ZTE;Blade V10 Vita;Botones laterales;Compatible;3,35;;;6
+ZT-BV10V-CRI-COM;ZTE;Blade V10 Vita;Cristal de pantalla;Compatible;3,30;;;6
+ZT-BV10V-ANT-COM;ZTE;Blade V10 Vita;Antena / coaxial;Compatible;2,89;;;6
+ZT-BV10V-HUE-COM;ZTE;Blade V10 Vita;Botón home / huella;Compatible;4,79;;;6
+ZT-BA7V-MAR-COM;ZTE;Blade A7 Vita;Marco / chasis;Compatible;5,65;;;6
+ZT-BA7V-BOT-COM;ZTE;Blade A7 Vita;Botones laterales;Compatible;2,89;;;6
+ZT-BA7V-CRI-COM;ZTE;Blade A7 Vita;Cristal de pantalla;Compatible;2,89;;;6
+ZT-BA7V-ANT-COM;ZTE;Blade A7 Vita;Antena / coaxial;Compatible;2,50;;;6
+ZT-BA7V-HUE-COM;ZTE;Blade A7 Vita;Botón home / huella;Compatible;4,15;;;6
+ZT-A9P-MAR-COM;ZTE;Axon 9 Pro;Marco / chasis;Compatible;8,80;;;6
+ZT-A9P-BOT-COM;ZTE;Axon 9 Pro;Botones laterales;Compatible;4,50;;;6
+ZT-A9P-CRI-COM;ZTE;Axon 9 Pro;Cristal de pantalla;Compatible;4,50;;;6
+ZT-A9P-ANT-COM;ZTE;Axon 9 Pro;Antena / coaxial;Compatible;3,90;;;6
+ZT-A9P-HUE-COM;ZTE;Axon 9 Pro;Botón home / huella;Compatible;6,50;;;6
+ZT-BV9-MAR-COM;ZTE;Blade V9;Marco / chasis;Compatible;6,49;;;6
+ZT-BV9-BOT-COM;ZTE;Blade V9;Botones laterales;Compatible;3,35;;;6
+ZT-BV9-CRI-COM;ZTE;Blade V9;Cristal de pantalla;Compatible;3,30;;;6
+ZT-BV9-ANT-COM;ZTE;Blade V9;Antena / coaxial;Compatible;2,89;;;6
+ZT-BV9-HUE-COM;ZTE;Blade V9;Botón home / huella;Compatible;4,79;;;6
+ZT-BV9V-MAR-COM;ZTE;Blade V9 Vita;Marco / chasis;Compatible;6,49;;;6
+ZT-BV9V-BOT-COM;ZTE;Blade V9 Vita;Botones laterales;Compatible;3,35;;;6
+ZT-BV9V-CRI-COM;ZTE;Blade V9 Vita;Cristal de pantalla;Compatible;3,30;;;6
+ZT-BV9V-ANT-COM;ZTE;Blade V9 Vita;Antena / coaxial;Compatible;2,89;;;6
+ZT-BV9V-HUE-COM;ZTE;Blade V9 Vita;Botón home / huella;Compatible;4,79;;;6
+ZT-TGO-MAR-COM;ZTE;Tempo Go;Marco / chasis;Compatible;5,65;;;6
+ZT-TGO-BOT-COM;ZTE;Tempo Go;Botones laterales;Compatible;2,89;;;6
+ZT-TGO-CRI-COM;ZTE;Tempo Go;Cristal de pantalla;Compatible;2,89;;;6
+ZT-TGO-ANT-COM;ZTE;Tempo Go;Antena / coaxial;Compatible;2,50;;;6
+ZT-TGO-HUE-COM;ZTE;Tempo Go;Botón home / huella;Compatible;4,15;;;6
+ZT-BLADEA3-MAR-COM;ZTE;Blade A3;Marco / chasis;Compatible;5,65;;;6
+ZT-BLADEA3-BOT-COM;ZTE;Blade A3;Botones laterales;Compatible;2,89;;;6
+ZT-BLADEA3-CRI-COM;ZTE;Blade A3;Cristal de pantalla;Compatible;2,89;;;6
+ZT-BLADEA3-ANT-COM;ZTE;Blade A3;Antena / coaxial;Compatible;2,50;;;6
+ZT-BLADEA3-HUE-COM;ZTE;Blade A3;Botón home / huella;Compatible;4,15;;;6
+ZT-AXONM-MAR-COM;ZTE;Axon M;Marco / chasis;Compatible;7,40;;;6
+ZT-AXONM-BOT-COM;ZTE;Axon M;Botones laterales;Compatible;3,80;;;6
+ZT-AXONM-CRI-COM;ZTE;Axon M;Cristal de pantalla;Compatible;3,79;;;6
+ZT-AXONM-ANT-COM;ZTE;Axon M;Antena / coaxial;Compatible;3,29;;;6
+ZT-AXONM-HUE-COM;ZTE;Axon M;Botón home / huella;Compatible;5,45;;;6
+ZT-BX-MAR-COM;ZTE;Blade X;Marco / chasis;Compatible;5,65;;;6
+ZT-BX-BOT-COM;ZTE;Blade X;Botones laterales;Compatible;2,89;;;6
+ZT-BX-CRI-COM;ZTE;Blade X;Cristal de pantalla;Compatible;2,89;;;6
+ZT-BX-ANT-COM;ZTE;Blade X;Antena / coaxial;Compatible;2,50;;;6
+ZT-BX-HUE-COM;ZTE;Blade X;Botón home / huella;Compatible;4,15;;;6
+ZT-BA6-MAR-COM;ZTE;Blade A6;Marco / chasis;Compatible;5,65;;;6
+ZT-BA6-BOT-COM;ZTE;Blade A6;Botones laterales;Compatible;2,89;;;6
+ZT-BA6-CRI-COM;ZTE;Blade A6;Cristal de pantalla;Compatible;2,89;;;6
+ZT-BA6-ANT-COM;ZTE;Blade A6;Antena / coaxial;Compatible;2,50;;;6
+ZT-BA6-HUE-COM;ZTE;Blade A6;Botón home / huella;Compatible;4,15;;;6
+ZT-M2-MAR-COM;ZTE;Maven 2;Marco / chasis;Compatible;5,65;;;6
+ZT-M2-BOT-COM;ZTE;Maven 2;Botones laterales;Compatible;2,89;;;6
+ZT-M2-CRI-COM;ZTE;Maven 2;Cristal de pantalla;Compatible;2,89;;;6
+ZT-M2-ANT-COM;ZTE;Maven 2;Antena / coaxial;Compatible;2,50;;;6
+ZT-M2-HUE-COM;ZTE;Maven 2;Botón home / huella;Compatible;4,15;;;6
+ZT-A7S-MAR-COM;ZTE;Axon 7s;Marco / chasis;Compatible;7,40;;;6
+ZT-A7S-BOT-COM;ZTE;Axon 7s;Botones laterales;Compatible;3,80;;;6
+ZT-A7S-CRI-COM;ZTE;Axon 7s;Cristal de pantalla;Compatible;3,79;;;6
+ZT-A7S-ANT-COM;ZTE;Axon 7s;Antena / coaxial;Compatible;3,29;;;6
+ZT-A7S-HUE-COM;ZTE;Axon 7s;Botón home / huella;Compatible;5,45;;;6
+ZT-A7M-MAR-COM;ZTE;Axon 7 Max;Marco / chasis;Compatible;6,59;;;6
+ZT-A7M-BOT-COM;ZTE;Axon 7 Max;Botones laterales;Compatible;3,39;;;6
+ZT-A7M-CRI-COM;ZTE;Axon 7 Max;Cristal de pantalla;Compatible;3,35;;;6
+ZT-A7M-ANT-COM;ZTE;Axon 7 Max;Antena / coaxial;Compatible;2,90;;;6
+ZT-A7M-HUE-COM;ZTE;Axon 7 Max;Botón home / huella;Compatible;4,85;;;6
+ZT-A7MN-MAR-COM;ZTE;Axon 7 mini;Marco / chasis;Compatible;6,59;;;6
+ZT-A7MN-BOT-COM;ZTE;Axon 7 mini;Botones laterales;Compatible;3,39;;;6
+ZT-A7MN-CRI-COM;ZTE;Axon 7 mini;Cristal de pantalla;Compatible;3,35;;;6
+ZT-A7MN-ANT-COM;ZTE;Axon 7 mini;Antena / coaxial;Compatible;2,90;;;6
+ZT-A7MN-HUE-COM;ZTE;Axon 7 mini;Botón home / huella;Compatible;4,85;;;6
+ZT-A7-MAR-COM;ZTE;Axon 7;Marco / chasis;Compatible;6,59;;;6
+ZT-A7-BOT-COM;ZTE;Axon 7;Botones laterales;Compatible;3,39;;;6
+ZT-A7-CRI-COM;ZTE;Axon 7;Cristal de pantalla;Compatible;3,35;;;6
+ZT-A7-ANT-COM;ZTE;Axon 7;Antena / coaxial;Compatible;2,90;;;6
+ZT-A7-HUE-COM;ZTE;Axon 7;Botón home / huella;Compatible;4,85;;;6
+ZT-BV7-MAR-COM;ZTE;Blade V7;Marco / chasis;Compatible;5,75;;;6
+ZT-BV7-BOT-COM;ZTE;Blade V7;Botones laterales;Compatible;2,95;;;6
+ZT-BV7-CRI-COM;ZTE;Blade V7;Cristal de pantalla;Compatible;2,95;;;6
+ZT-BV7-ANT-COM;ZTE;Blade V7;Antena / coaxial;Compatible;2,55;;;6
+ZT-BV7-HUE-COM;ZTE;Blade V7;Botón home / huella;Compatible;4,25;;;6
+ZT-BV7L-MAR-COM;ZTE;Blade V7 Lite;Marco / chasis;Compatible;5,75;;;6
+ZT-BV7L-BOT-COM;ZTE;Blade V7 Lite;Botones laterales;Compatible;2,95;;;6
+ZT-BV7L-CRI-COM;ZTE;Blade V7 Lite;Cristal de pantalla;Compatible;2,95;;;6
+ZT-BV7L-ANT-COM;ZTE;Blade V7 Lite;Antena / coaxial;Compatible;2,55;;;6
+ZT-BV7L-HUE-COM;ZTE;Blade V7 Lite;Botón home / huella;Compatible;4,25;;;6
+ZT-AM-MAR-COM;ZTE;Axon Max;Marco / chasis;Compatible;6,59;;;6
+ZT-AM-BOT-COM;ZTE;Axon Max;Botones laterales;Compatible;3,39;;;6
+ZT-AM-CRI-COM;ZTE;Axon Max;Cristal de pantalla;Compatible;3,35;;;6
+ZT-AM-ANT-COM;ZTE;Axon Max;Antena / coaxial;Compatible;2,90;;;6
+ZT-BX3-MAR-COM;ZTE;Blade X3;Marco / chasis;Compatible;5,00;;;6
+ZT-BX3-BOT-COM;ZTE;Blade X3;Botones laterales;Compatible;2,55;;;6
+ZT-BX3-CRI-COM;ZTE;Blade X3;Cristal de pantalla;Compatible;2,55;;;6
+ZT-BX3-ANT-COM;ZTE;Blade X3;Antena / coaxial;Compatible;2,25;;;6
+ZT-BX5-MAR-COM;ZTE;Blade X5;Marco / chasis;Compatible;5,00;;;6
+ZT-BX5-BOT-COM;ZTE;Blade X5;Botones laterales;Compatible;2,55;;;6
+ZT-BX5-CRI-COM;ZTE;Blade X5;Cristal de pantalla;Compatible;2,55;;;6
+ZT-BX5-ANT-COM;ZTE;Blade X5;Antena / coaxial;Compatible;2,25;;;6
+ZT-BX9-MAR-COM;ZTE;Blade X9;Marco / chasis;Compatible;5,00;;;6
+ZT-BX9-BOT-COM;ZTE;Blade X9;Botones laterales;Compatible;2,55;;;6
+ZT-BX9-CRI-COM;ZTE;Blade X9;Cristal de pantalla;Compatible;2,55;;;6
+ZT-BX9-ANT-COM;ZTE;Blade X9;Antena / coaxial;Compatible;2,25;;;6
+ZT-A-MAR-COM;ZTE;Axon;Marco / chasis;Compatible;6,59;;;6
+ZT-A-BOT-COM;ZTE;Axon;Botones laterales;Compatible;3,39;;;6
+ZT-A-CRI-COM;ZTE;Axon;Cristal de pantalla;Compatible;3,35;;;6
+ZT-A-ANT-COM;ZTE;Axon;Antena / coaxial;Compatible;2,90;;;6
+ZT-AMN-MAR-COM;ZTE;Axon mini;Marco / chasis;Compatible;6,59;;;6
+ZT-AMN-BOT-COM;ZTE;Axon mini;Botones laterales;Compatible;3,39;;;6
+ZT-AMN-CRI-COM;ZTE;Axon mini;Cristal de pantalla;Compatible;3,35;;;6
+ZT-AMN-ANT-COM;ZTE;Axon mini;Antena / coaxial;Compatible;2,90;;;6
+ZT-BS7-MAR-COM;ZTE;Blade S7;Marco / chasis;Compatible;5,00;;;6
+ZT-BS7-BOT-COM;ZTE;Blade S7;Botones laterales;Compatible;2,55;;;6
+ZT-BS7-CRI-COM;ZTE;Blade S7;Cristal de pantalla;Compatible;2,55;;;6
+ZT-BS7-ANT-COM;ZTE;Blade S7;Antena / coaxial;Compatible;2,25;;;6
+ZT-AE-MAR-COM;ZTE;Axon Elite;Marco / chasis;Compatible;6,59;;;6
+ZT-AE-BOT-COM;ZTE;Axon Elite;Botones laterales;Compatible;3,39;;;6
+ZT-AE-CRI-COM;ZTE;Axon Elite;Cristal de pantalla;Compatible;3,35;;;6
+ZT-AE-ANT-COM;ZTE;Axon Elite;Antena / coaxial;Compatible;2,90;;;6
+ZT-MDUO-MAR-COM;ZTE;Max Duo;Marco / chasis;Compatible;5,00;;;6
+ZT-MDUO-BOT-COM;ZTE;Max Duo;Botones laterales;Compatible;2,55;;;6
+ZT-MDUO-CRI-COM;ZTE;Max Duo;Cristal de pantalla;Compatible;2,55;;;6
+ZT-MDUO-ANT-COM;ZTE;Max Duo;Antena / coaxial;Compatible;2,25;;;6
+ZT-AP-MAR-COM;ZTE;Axon Pro;Marco / chasis;Compatible;7,85;;;6
+ZT-AP-BOT-COM;ZTE;Axon Pro;Botones laterales;Compatible;4,00;;;6
+ZT-AP-CRI-COM;ZTE;Axon Pro;Cristal de pantalla;Compatible;4,00;;;6
+ZT-AP-ANT-COM;ZTE;Axon Pro;Antena / coaxial;Compatible;3,49;;;6
+ZT-BD6-MAR-COM;ZTE;Blade D6;Marco / chasis;Compatible;5,00;;;6
+ZT-BD6-BOT-COM;ZTE;Blade D6;Botones laterales;Compatible;2,55;;;6
+ZT-BD6-CRI-COM;ZTE;Blade D6;Cristal de pantalla;Compatible;2,55;;;6
+ZT-BD6-ANT-COM;ZTE;Blade D6;Antena / coaxial;Compatible;2,25;;;6
+ZT-BA410-MAR-COM;ZTE;Blade A410;Marco / chasis;Compatible;5,00;;;6
+ZT-BA410-BOT-COM;ZTE;Blade A410;Botones laterales;Compatible;2,55;;;6
+ZT-BA410-CRI-COM;ZTE;Blade A410;Cristal de pantalla;Compatible;2,55;;;6
+ZT-BA410-ANT-COM;ZTE;Blade A410;Antena / coaxial;Compatible;2,25;;;6
+ZT-BA460-MAR-COM;ZTE;Blade A460;Marco / chasis;Compatible;5,00;;;6
+ZT-BA460-BOT-COM;ZTE;Blade A460;Botones laterales;Compatible;2,55;;;6
+ZT-BA460-CRI-COM;ZTE;Blade A460;Cristal de pantalla;Compatible;2,55;;;6
+ZT-BA460-ANT-COM;ZTE;Blade A460;Antena / coaxial;Compatible;2,25;;;6
+ZT-BA3-MAR-COM;ZTE;Blade Apex 3;Marco / chasis;Compatible;5,00;;;6
+ZT-BA3-BOT-COM;ZTE;Blade Apex 3;Botones laterales;Compatible;2,55;;;6
+ZT-BA3-CRI-COM;ZTE;Blade Apex 3;Cristal de pantalla;Compatible;2,55;;;6
+ZT-BA3-ANT-COM;ZTE;Blade Apex 3;Antena / coaxial;Compatible;2,25;;;6
+ZT-BQ4-MAR-COM;ZTE;Blade Qlux 4G;Marco / chasis;Compatible;5,00;;;6
+ZT-BQ4-BOT-COM;ZTE;Blade Qlux 4G;Botones laterales;Compatible;2,55;;;6
+ZT-BQ4-CRI-COM;ZTE;Blade Qlux 4G;Cristal de pantalla;Compatible;2,55;;;6
+ZT-BQ4-ANT-COM;ZTE;Blade Qlux 4G;Antena / coaxial;Compatible;2,25;;;6
+ZT-BS6PL-MAR-COM;ZTE;Blade S6 Plus;Marco / chasis;Compatible;5,00;;;6
+ZT-BS6PL-BOT-COM;ZTE;Blade S6 Plus;Botones laterales;Compatible;2,55;;;6
+ZT-BS6PL-CRI-COM;ZTE;Blade S6 Plus;Cristal de pantalla;Compatible;2,55;;;6
+ZT-BS6PL-ANT-COM;ZTE;Blade S6 Plus;Antena / coaxial;Compatible;2,25;;;6
+ZT-BL3PL-MAR-COM;ZTE;Blade L3 Plus;Marco / chasis;Compatible;5,00;;;6
+ZT-BL3PL-BOT-COM;ZTE;Blade L3 Plus;Botones laterales;Compatible;2,55;;;6
+ZT-BL3PL-CRI-COM;ZTE;Blade L3 Plus;Cristal de pantalla;Compatible;2,55;;;6
+ZT-BL3PL-ANT-COM;ZTE;Blade L3 Plus;Antena / coaxial;Compatible;2,25;;;6
+ZT-BG-MAR-COM;ZTE;Blade G;Marco / chasis;Compatible;5,00;;;6
+ZT-BG-BOT-COM;ZTE;Blade G;Botones laterales;Compatible;2,55;;;6
+ZT-BG-CRI-COM;ZTE;Blade G;Cristal de pantalla;Compatible;2,55;;;6
+ZT-BG-ANT-COM;ZTE;Blade G;Antena / coaxial;Compatible;2,25;;;6
+ZT-BL3-MAR-COM;ZTE;Blade L3;Marco / chasis;Compatible;5,00;;;6
+ZT-BL3-BOT-COM;ZTE;Blade L3;Botones laterales;Compatible;2,55;;;6
+ZT-BL3-CRI-COM;ZTE;Blade L3;Cristal de pantalla;Compatible;2,55;;;6
+ZT-BL3-ANT-COM;ZTE;Blade L3;Antena / coaxial;Compatible;2,25;;;6
+ZT-BS6-MAR-COM;ZTE;Blade S6;Marco / chasis;Compatible;5,00;;;6
+ZT-BS6-BOT-COM;ZTE;Blade S6;Botones laterales;Compatible;2,55;;;6
+ZT-BS6-CRI-COM;ZTE;Blade S6;Cristal de pantalla;Compatible;2,55;;;6
+ZT-BS6-ANT-COM;ZTE;Blade S6;Antena / coaxial;Compatible;2,25;;;6
+ZT-BQP-MAR-COM;ZTE;Blade Q Pro;Marco / chasis;Compatible;5,00;;;6
+ZT-BQP-BOT-COM;ZTE;Blade Q Pro;Botones laterales;Compatible;2,55;;;6
+ZT-BQP-CRI-COM;ZTE;Blade Q Pro;Cristal de pantalla;Compatible;2,55;;;6
+ZT-BQP-ANT-COM;ZTE;Blade Q Pro;Antena / coaxial;Compatible;2,25;;;6
+ZT-BVEC3G-MAR-COM;ZTE;Blade Vec 3G;Marco / chasis;Compatible;5,75;;;6
+ZT-BVEC3G-BOT-COM;ZTE;Blade Vec 3G;Botones laterales;Compatible;2,95;;;6
+ZT-BVEC3G-ANT-COM;ZTE;Blade Vec 3G;Antena / coaxial;Compatible;2,55;;;6
+ZT-BL2-MAR-COM;ZTE;Blade L2;Marco / chasis;Compatible;5,00;;;6
+ZT-BL2-BOT-COM;ZTE;Blade L2;Botones laterales;Compatible;2,55;;;6
+ZT-BL2-ANT-COM;ZTE;Blade L2;Antena / coaxial;Compatible;2,25;;;6
+ZT-BQ-MAR-COM;ZTE;Blade Q;Marco / chasis;Compatible;5,00;;;6
+ZT-BQ-BOT-COM;ZTE;Blade Q;Botones laterales;Compatible;2,55;;;6
+ZT-BQ-ANT-COM;ZTE;Blade Q;Antena / coaxial;Compatible;2,25;;;6
+ZT-BQMN-MAR-COM;ZTE;Blade Q Mini;Marco / chasis;Compatible;5,00;;;6
+ZT-BQMN-BOT-COM;ZTE;Blade Q Mini;Botones laterales;Compatible;2,55;;;6
+ZT-BQMN-ANT-COM;ZTE;Blade Q Mini;Antena / coaxial;Compatible;2,25;;;6
+ZT-BV-MAR-COM;ZTE;Blade V;Marco / chasis;Compatible;5,75;;;6
+ZT-BV-BOT-COM;ZTE;Blade V;Botones laterales;Compatible;2,95;;;6
+ZT-BV-ANT-COM;ZTE;Blade V;Antena / coaxial;Compatible;2,55;;;6
+ZT-BG2-MAR-COM;ZTE;Blade G2;Marco / chasis;Compatible;5,00;;;6
+ZT-BG2-BOT-COM;ZTE;Blade G2;Botones laterales;Compatible;2,55;;;6
+ZT-BG2-ANT-COM;ZTE;Blade G2;Antena / coaxial;Compatible;2,25;;;6
+ZT-OPEN-MAR-COM;ZTE;Open;Marco / chasis;Compatible;5,00;;;6
+ZT-OPEN-BOT-COM;ZTE;Open;Botones laterales;Compatible;2,55;;;6
+ZT-OPEN-ANT-COM;ZTE;Open;Antena / coaxial;Compatible;2,25;;;6
+ZT-BCV807-MAR-COM;ZTE;Blade C V807;Marco / chasis;Compatible;5,00;;;6
+ZT-BCV807-BOT-COM;ZTE;Blade C V807;Botones laterales;Compatible;2,55;;;6
+ZT-BCV807-ANT-COM;ZTE;Blade C V807;Antena / coaxial;Compatible;2,25;;;6
+ZT-BGV880G-MAR-COM;ZTE;Blade G V880G;Marco / chasis;Compatible;5,00;;;6
+ZT-BGV880G-BOT-COM;ZTE;Blade G V880G;Botones laterales;Compatible;2,55;;;6
+ZT-BGV880G-ANT-COM;ZTE;Blade G V880G;Antena / coaxial;Compatible;2,25;;;6
+ZT-BIIIP-MAR-COM;ZTE;Blade III Pro;Marco / chasis;Compatible;5,00;;;6
+ZT-BIIIP-BOT-COM;ZTE;Blade III Pro;Botones laterales;Compatible;2,55;;;6
+ZT-BIIIP-ANT-COM;ZTE;Blade III Pro;Antena / coaxial;Compatible;2,25;;;6
+ZT-D-MAR-COM;ZTE;Director;Marco / chasis;Compatible;5,00;;;6
+ZT-D-BOT-COM;ZTE;Director;Botones laterales;Compatible;2,55;;;6
+ZT-D-ANT-COM;ZTE;Director;Antena / coaxial;Compatible;2,25;;;6
+ZT-ELT-MAR-COM;ZTE;Engage LT;Marco / chasis;Compatible;5,00;;;6
+ZT-ELT-BOT-COM;ZTE;Engage LT;Botones laterales;Compatible;2,55;;;6
+ZT-ELT-ANT-COM;ZTE;Engage LT;Antena / coaxial;Compatible;2,25;;;6
+ZT-GS-MAR-COM;ZTE;Grand S;Marco / chasis;Compatible;5,00;;;6
+ZT-GS-BOT-COM;ZTE;Grand S;Botones laterales;Compatible;2,55;;;6
+ZT-GS-ANT-COM;ZTE;Grand S;Antena / coaxial;Compatible;2,25;;;6
+ZT-A4-ANT-COM;ZTE;Avid 4G;Antena / coaxial;Compatible;2,25;;;6
+ZT-ERA-ANT-COM;ZTE;Era;Antena / coaxial;Compatible;2,25;;;6
+ZT-N910-ANT-COM;ZTE;N910;Antena / coaxial;Compatible;2,25;;;6
+ZT-V887-ANT-COM;ZTE;V887;Antena / coaxial;Compatible;2,25;;;6
+ZT-V889M-ANT-COM;ZTE;V889M;Antena / coaxial;Compatible;2,25;;;6
+ZT-F-ANT-COM;ZTE;Flash;Antena / coaxial;Compatible;2,25;;;6
+ZT-GXLTE-ANT-COM;ZTE;Grand X LTE;Antena / coaxial;Compatible;2,25;;;6
+ZT-G-ANT-COM;ZTE;Groove;Antena / coaxial;Compatible;2,25;;;6
+ZT-GX501-ANT-COM;ZTE;Groove X501;Antena / coaxial;Compatible;2,25;;;6
+ZT-KISIIIV7-ANT-COM;ZTE;Kis III V790;Antena / coaxial;Compatible;2,25;;;6
+ZT-BIII-ANT-COM;ZTE;Blade III;Antena / coaxial;Compatible;2,25;;;6
+ZT-GERA-ANT-COM;ZTE;Grand Era;Antena / coaxial;Compatible;2,25;;;6
+ZT-GXIN-ANT-COM;ZTE;Grand X IN;Antena / coaxial;Compatible;2,25;;;6
+ZT-O-ANT-COM;ZTE;Orbit;Antena / coaxial;Compatible;2,25;;;6
+ZT-WS-ANT-COM;ZTE;Warp Sequent;Antena / coaxial;Compatible;2,25;;;6
+ZT-GX-ANT-COM;ZTE;Grand X;Antena / coaxial;Compatible;2,25;;;6
+ZT-KISV788-ANT-COM;ZTE;Kis V788;Antena / coaxial;Compatible;2,25;;;6
+ZT-V880E-ANT-COM;ZTE;V880E;Antena / coaxial;Compatible;2,25;;;6
+ZT-BIIV880P-ANT-COM;ZTE;Blade II V880+;Antena / coaxial;Compatible;2,25;;;6
+ZT-SM-ANT-COM;ZTE;Score M;Antena / coaxial;Compatible;2,25;;;6
+ZT-T-ANT-COM;ZTE;Tania;Antena / coaxial;Compatible;2,25;;;6
+ZT-BV10-MAR-COM;ZTE;Blade V10;Marco / chasis;Compatible;6,49;;;6
+ZT-BV10-BOT-COM;ZTE;Blade V10;Botones laterales;Compatible;3,35;;;6
+ZT-BV10-CRI-COM;ZTE;Blade V10;Cristal de pantalla;Compatible;3,30;;;6
+ZT-BV10-ANT-COM;ZTE;Blade V10;Antena / coaxial;Compatible;2,89;;;6
+ZT-BV10-HUE-COM;ZTE;Blade V10;Botón home / huella;Compatible;4,79;;;6

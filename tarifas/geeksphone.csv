@@ -1,0 +1,81 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+GE-B-PAN-COM;GeeksPhone;Blackphone;Pantalla;Compatible;15,15;14,70;14,24;6
+GE-B-BAT-COM;GeeksPhone;Blackphone;Batería;Compatible;9,65;;;6
+GE-B-CON-COM;GeeksPhone;Blackphone;Conector de carga;Compatible;4,60;;;6
+GE-B-TAP-COM;GeeksPhone;Blackphone;Tapa trasera;Compatible;5,40;;;6
+GE-B-CTR-COM;GeeksPhone;Blackphone;Cámara trasera;Compatible;7,59;;;6
+GE-B-CFR-COM;GeeksPhone;Blackphone;Cámara frontal;Compatible;4,99;;;6
+GE-B-LEN-COM;GeeksPhone;Blackphone;Lente de cámara;Compatible;2,19;;;6
+GE-B-ALT-COM;GeeksPhone;Blackphone;Altavoz;Compatible;3,65;;;6
+GE-B-AUR-COM;GeeksPhone;Blackphone;Auricular de llamada;Compatible;2,65;;;6
+GE-B-FLX-COM;GeeksPhone;Blackphone;Flex de encendido y volumen;Compatible;2,49;;;6
+GE-B-SIM-COM;GeeksPhone;Blackphone;Bandeja SIM;Compatible;2,55;;;6
+GE-R-PAN-COM;GeeksPhone;Revolution;Pantalla;Compatible;15,15;14,70;14,24;6
+GE-R-BAT-COM;GeeksPhone;Revolution;Batería;Compatible;9,65;;;6
+GE-R-CON-COM;GeeksPhone;Revolution;Conector de carga;Compatible;4,60;;;6
+GE-R-TAP-COM;GeeksPhone;Revolution;Tapa trasera;Compatible;5,40;;;6
+GE-R-CTR-COM;GeeksPhone;Revolution;Cámara trasera;Compatible;7,59;;;6
+GE-R-CFR-COM;GeeksPhone;Revolution;Cámara frontal;Compatible;4,99;;;6
+GE-R-LEN-COM;GeeksPhone;Revolution;Lente de cámara;Compatible;2,19;;;6
+GE-R-ALT-COM;GeeksPhone;Revolution;Altavoz;Compatible;3,65;;;6
+GE-R-AUR-COM;GeeksPhone;Revolution;Auricular de llamada;Compatible;2,65;;;6
+GE-R-FLX-COM;GeeksPhone;Revolution;Flex de encendido y volumen;Compatible;2,49;;;6
+GE-R-SIM-COM;GeeksPhone;Revolution;Bandeja SIM;Compatible;2,55;;;6
+GE-K-PAN-COM;GeeksPhone;Keon;Pantalla;Compatible;15,15;14,70;14,24;6
+GE-K-BAT-COM;GeeksPhone;Keon;Batería;Compatible;9,65;;;6
+GE-K-CON-COM;GeeksPhone;Keon;Conector de carga;Compatible;4,60;;;6
+GE-K-TAP-COM;GeeksPhone;Keon;Tapa trasera;Compatible;5,40;;;6
+GE-K-CTR-COM;GeeksPhone;Keon;Cámara trasera;Compatible;7,59;;;6
+GE-K-CFR-COM;GeeksPhone;Keon;Cámara frontal;Compatible;4,99;;;6
+GE-K-LEN-COM;GeeksPhone;Keon;Lente de cámara;Compatible;2,19;;;6
+GE-K-ALT-COM;GeeksPhone;Keon;Altavoz;Compatible;3,65;;;6
+GE-K-AUR-COM;GeeksPhone;Keon;Auricular de llamada;Compatible;2,65;;;6
+GE-K-FLX-COM;GeeksPhone;Keon;Flex de encendido y volumen;Compatible;2,49;;;6
+GE-K-SIM-COM;GeeksPhone;Keon;Bandeja SIM;Compatible;2,55;;;6
+GE-P-PAN-COM;GeeksPhone;Peak;Pantalla;Compatible;15,15;14,70;14,24;6
+GE-P-BAT-COM;GeeksPhone;Peak;Batería;Compatible;9,65;;;6
+GE-P-CON-COM;GeeksPhone;Peak;Conector de carga;Compatible;4,60;;;6
+GE-P-TAP-COM;GeeksPhone;Peak;Tapa trasera;Compatible;5,40;;;6
+GE-P-CTR-COM;GeeksPhone;Peak;Cámara trasera;Compatible;7,59;;;6
+GE-P-CFR-COM;GeeksPhone;Peak;Cámara frontal;Compatible;4,99;;;6
+GE-P-LEN-COM;GeeksPhone;Peak;Lente de cámara;Compatible;2,19;;;6
+GE-P-ALT-COM;GeeksPhone;Peak;Altavoz;Compatible;3,65;;;6
+GE-P-AUR-COM;GeeksPhone;Peak;Auricular de llamada;Compatible;2,65;;;6
+GE-P-FLX-COM;GeeksPhone;Peak;Flex de encendido y volumen;Compatible;2,49;;;6
+GE-P-SIM-COM;GeeksPhone;Peak;Bandeja SIM;Compatible;2,55;;;6
+GE-B-PRO-NA;GeeksPhone;Blackphone;Cristal templado;Estándar;1,30;;;
+GE-B-PRO-PRI;GeeksPhone;Blackphone;Cristal templado;Privacidad;4,00;;;
+GE-B-FUN-SIL;GeeksPhone;Blackphone;Funda;Silicona;2,50;;;
+GE-B-FUN-TPU;GeeksPhone;Blackphone;Funda;Transparente;2,95;;;
+GE-B-FUN-LIB;GeeksPhone;Blackphone;Funda;Libro;3,70;;;
+GE-B-FUN-ANT;GeeksPhone;Blackphone;Funda;Antigolpes;3,10;;;
+GE-R-PRO-NA;GeeksPhone;Revolution;Cristal templado;Estándar;1,30;;;
+GE-R-PRO-PRI;GeeksPhone;Revolution;Cristal templado;Privacidad;4,00;;;
+GE-R-FUN-SIL;GeeksPhone;Revolution;Funda;Silicona;2,50;;;
+GE-R-FUN-TPU;GeeksPhone;Revolution;Funda;Transparente;2,95;;;
+GE-R-FUN-LIB;GeeksPhone;Revolution;Funda;Libro;3,70;;;
+GE-R-FUN-ANT;GeeksPhone;Revolution;Funda;Antigolpes;3,10;;;
+GE-K-PRO-NA;GeeksPhone;Keon;Cristal templado;Estándar;1,30;;;
+GE-K-PRO-PRI;GeeksPhone;Keon;Cristal templado;Privacidad;4,00;;;
+GE-K-FUN-SIL;GeeksPhone;Keon;Funda;Silicona;2,50;;;
+GE-K-FUN-TPU;GeeksPhone;Keon;Funda;Transparente;2,95;;;
+GE-K-FUN-LIB;GeeksPhone;Keon;Funda;Libro;3,70;;;
+GE-K-FUN-ANT;GeeksPhone;Keon;Funda;Antigolpes;3,10;;;
+GE-P-PRO-NA;GeeksPhone;Peak;Cristal templado;Estándar;1,30;;;
+GE-P-PRO-PRI;GeeksPhone;Peak;Cristal templado;Privacidad;4,00;;;
+GE-P-FUN-SIL;GeeksPhone;Peak;Funda;Silicona;2,50;;;
+GE-P-FUN-TPU;GeeksPhone;Peak;Funda;Transparente;2,95;;;
+GE-P-FUN-LIB;GeeksPhone;Peak;Funda;Libro;3,70;;;
+GE-P-FUN-ANT;GeeksPhone;Peak;Funda;Antigolpes;3,10;;;
+GE-B-MAR-COM;GeeksPhone;Blackphone;Marco / chasis;Compatible;5,75;;;6
+GE-B-BOT-COM;GeeksPhone;Blackphone;Botones laterales;Compatible;2,95;;;6
+GE-B-ANT-COM;GeeksPhone;Blackphone;Antena / coaxial;Compatible;2,55;;;6
+GE-R-MAR-COM;GeeksPhone;Revolution;Marco / chasis;Compatible;5,75;;;6
+GE-R-BOT-COM;GeeksPhone;Revolution;Botones laterales;Compatible;2,95;;;6
+GE-R-ANT-COM;GeeksPhone;Revolution;Antena / coaxial;Compatible;2,55;;;6
+GE-K-MAR-COM;GeeksPhone;Keon;Marco / chasis;Compatible;5,75;;;6
+GE-K-BOT-COM;GeeksPhone;Keon;Botones laterales;Compatible;2,95;;;6
+GE-K-ANT-COM;GeeksPhone;Keon;Antena / coaxial;Compatible;2,55;;;6
+GE-P-MAR-COM;GeeksPhone;Peak;Marco / chasis;Compatible;5,75;;;6
+GE-P-BOT-COM;GeeksPhone;Peak;Botones laterales;Compatible;2,95;;;6
+GE-P-ANT-COM;GeeksPhone;Peak;Antena / coaxial;Compatible;2,55;;;6

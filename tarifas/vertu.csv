@@ -1,0 +1,21 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+VE-TI-PAN-COM;Vertu;Ti;Pantalla;Compatible;15,15;14,70;14,24;6
+VE-TI-BAT-COM;Vertu;Ti;Batería;Compatible;9,65;;;6
+VE-TI-CON-COM;Vertu;Ti;Conector de carga;Compatible;4,60;;;6
+VE-TI-TAP-COM;Vertu;Ti;Tapa trasera;Compatible;5,40;;;6
+VE-TI-CTR-COM;Vertu;Ti;Cámara trasera;Compatible;7,59;;;6
+VE-TI-CFR-COM;Vertu;Ti;Cámara frontal;Compatible;4,99;;;6
+VE-TI-LEN-COM;Vertu;Ti;Lente de cámara;Compatible;2,19;;;6
+VE-TI-ALT-COM;Vertu;Ti;Altavoz;Compatible;3,65;;;6
+VE-TI-AUR-COM;Vertu;Ti;Auricular de llamada;Compatible;2,65;;;6
+VE-TI-FLX-COM;Vertu;Ti;Flex de encendido y volumen;Compatible;2,49;;;6
+VE-TI-SIM-COM;Vertu;Ti;Bandeja SIM;Compatible;2,55;;;6
+VE-TI-PRO-NA;Vertu;Ti;Cristal templado;Estándar;1,30;;;
+VE-TI-PRO-PRI;Vertu;Ti;Cristal templado;Privacidad;4,00;;;
+VE-TI-FUN-SIL;Vertu;Ti;Funda;Silicona;2,50;;;
+VE-TI-FUN-TPU;Vertu;Ti;Funda;Transparente;2,95;;;
+VE-TI-FUN-LIB;Vertu;Ti;Funda;Libro;3,70;;;
+VE-TI-FUN-ANT;Vertu;Ti;Funda;Antigolpes;3,10;;;
+VE-TI-MAR-COM;Vertu;Ti;Marco / chasis;Compatible;5,75;;;6
+VE-TI-BOT-COM;Vertu;Ti;Botones laterales;Compatible;2,95;;;6
+VE-TI-ANT-COM;Vertu;Ti;Antena / coaxial;Compatible;2,55;;;6

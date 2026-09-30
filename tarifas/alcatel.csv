@@ -1,0 +1,1403 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+AL-P44-PAN-COM;Alcatel;Pixi 4 (4);Pantalla;Compatible;13,00;12,61;12,22;6
+AL-P44-BAT-COM;Alcatel;Pixi 4 (4);Batería;Compatible;8,90;;;6
+AL-P44-CON-COM;Alcatel;Pixi 4 (4);Conector de carga;Compatible;3,70;;;6
+AL-P44-TAP-COM-NEG;Alcatel;Pixi 4 (4);Tapa trasera;Negro;4,80;;;6
+AL-P44-TAP-COM-BLA;Alcatel;Pixi 4 (4);Tapa trasera;Blanco;4,80;;;6
+AL-P44-TAP-COM-AZU;Alcatel;Pixi 4 (4);Tapa trasera;Azul;4,80;;;6
+AL-P44-TAP-COM-AMA;Alcatel;Pixi 4 (4);Tapa trasera;Amarillo;4,80;;;6
+AL-P44-CTR-COM;Alcatel;Pixi 4 (4);Cámara trasera;Compatible;6,65;;;6
+AL-P44-CFR-COM;Alcatel;Pixi 4 (4);Cámara frontal;Compatible;4,65;;;6
+AL-P44-LEN-COM;Alcatel;Pixi 4 (4);Lente de cámara;Compatible;2,25;;;6
+AL-P44-ALT-COM;Alcatel;Pixi 4 (4);Altavoz;Compatible;3,59;;;6
+AL-P44-AUR-COM;Alcatel;Pixi 4 (4);Auricular de llamada;Compatible;2,69;;;6
+AL-P44-FLX-COM;Alcatel;Pixi 4 (4);Flex de encendido y volumen;Compatible;2,55;;;6
+AL-P44-SIM-COM;Alcatel;Pixi 4 (4);Bandeja SIM;Compatible;2,65;;;6
+AL-P453G-PAN-COM;Alcatel;Pixi 4 (5) 3G;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-P453G-BAT-COM;Alcatel;Pixi 4 (5) 3G;Batería;Compatible;8,90;;;6
+AL-P453G-CON-COM;Alcatel;Pixi 4 (5) 3G;Conector de carga;Compatible;3,70;;;6
+AL-P453G-TAP-COM-NEG;Alcatel;Pixi 4 (5) 3G;Tapa trasera;Negro;4,80;;;6
+AL-P453G-TAP-COM-PLA;Alcatel;Pixi 4 (5) 3G;Tapa trasera;Plata;4,80;;;6
+AL-P453G-CTR-COM;Alcatel;Pixi 4 (5) 3G;Cámara trasera;Compatible;6,65;;;6
+AL-P453G-CFR-COM;Alcatel;Pixi 4 (5) 3G;Cámara frontal;Compatible;4,65;;;6
+AL-P453G-LEN-COM;Alcatel;Pixi 4 (5) 3G;Lente de cámara;Compatible;2,25;;;6
+AL-P453G-ALT-COM;Alcatel;Pixi 4 (5) 3G;Altavoz;Compatible;3,59;;;6
+AL-P453G-AUR-COM;Alcatel;Pixi 4 (5) 3G;Auricular de llamada;Compatible;2,69;;;6
+AL-P453G-FLX-COM;Alcatel;Pixi 4 (5) 3G;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-P453G-SIM-COM;Alcatel;Pixi 4 (5) 3G;Bandeja SIM;Compatible;2,65;;;6
+AL-P454-PAN-COM;Alcatel;Pixi 4 (5) 4G;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-P454-BAT-COM;Alcatel;Pixi 4 (5) 4G;Batería;Compatible;8,90;;;6
+AL-P454-CON-COM;Alcatel;Pixi 4 (5) 4G;Conector de carga;Compatible;3,70;;;6
+AL-P454-TAP-COM-NEG;Alcatel;Pixi 4 (5) 4G;Tapa trasera;Negro volcán;4,80;;;6
+AL-P454-TAP-COM-BLA;Alcatel;Pixi 4 (5) 4G;Tapa trasera;Blanco (Pure White);4,80;;;6
+AL-P454-TAP-COM-PLA;Alcatel;Pixi 4 (5) 4G;Tapa trasera;Plata;4,80;;;6
+AL-P454-CTR-COM;Alcatel;Pixi 4 (5) 4G;Cámara trasera;Compatible;6,65;;;6
+AL-P454-CFR-COM;Alcatel;Pixi 4 (5) 4G;Cámara frontal;Compatible;4,65;;;6
+AL-P454-LEN-COM;Alcatel;Pixi 4 (5) 4G;Lente de cámara;Compatible;2,25;;;6
+AL-P454-ALT-COM;Alcatel;Pixi 4 (5) 4G;Altavoz;Compatible;3,59;;;6
+AL-P454-AUR-COM;Alcatel;Pixi 4 (5) 4G;Auricular de llamada;Compatible;2,69;;;6
+AL-P454-FLX-COM;Alcatel;Pixi 4 (5) 4G;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-P454-SIM-COM;Alcatel;Pixi 4 (5) 4G;Bandeja SIM;Compatible;2,65;;;6
+AL-P463G-PAN-COM;Alcatel;Pixi 4 (6) 3G;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-P463G-BAT-COM;Alcatel;Pixi 4 (6) 3G;Batería;Compatible;8,90;;;6
+AL-P463G-CON-COM;Alcatel;Pixi 4 (6) 3G;Conector de carga;Compatible;3,70;;;6
+AL-P463G-TAP-COM-NEG;Alcatel;Pixi 4 (6) 3G;Tapa trasera;Negro volcán;4,80;;;6
+AL-P463G-TAP-COM-PLA;Alcatel;Pixi 4 (6) 3G;Tapa trasera;Plata (Metallic Silver);4,80;;;6
+AL-P463G-TAP-COM-ORO;Alcatel;Pixi 4 (6) 3G;Tapa trasera;Oro;4,80;;;6
+AL-P463G-CTR-COM;Alcatel;Pixi 4 (6) 3G;Cámara trasera;Compatible;6,65;;;6
+AL-P463G-CFR-COM;Alcatel;Pixi 4 (6) 3G;Cámara frontal;Compatible;4,65;;;6
+AL-P463G-LEN-COM;Alcatel;Pixi 4 (6) 3G;Lente de cámara;Compatible;2,25;;;6
+AL-P463G-ALT-COM;Alcatel;Pixi 4 (6) 3G;Altavoz;Compatible;3,59;;;6
+AL-P463G-AUR-COM;Alcatel;Pixi 4 (6) 3G;Auricular de llamada;Compatible;2,69;;;6
+AL-P463G-FLX-COM;Alcatel;Pixi 4 (6) 3G;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-P463G-SIM-COM;Alcatel;Pixi 4 (6) 3G;Bandeja SIM;Compatible;2,65;;;6
+AL-P464-PAN-COM;Alcatel;Pixi 4 (6) 4G;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-P464-BAT-COM;Alcatel;Pixi 4 (6) 4G;Batería;Compatible;8,90;;;6
+AL-P464-CON-COM;Alcatel;Pixi 4 (6) 4G;Conector de carga;Compatible;3,70;;;6
+AL-P464-TAP-COM-NEG;Alcatel;Pixi 4 (6) 4G;Tapa trasera;Negro volcán;4,80;;;6
+AL-P464-TAP-COM-PLA;Alcatel;Pixi 4 (6) 4G;Tapa trasera;Plata (Metallic Silver);4,80;;;6
+AL-P464-TAP-COM-ORO;Alcatel;Pixi 4 (6) 4G;Tapa trasera;Oro;4,80;;;6
+AL-P464-CTR-COM;Alcatel;Pixi 4 (6) 4G;Cámara trasera;Compatible;6,65;;;6
+AL-P464-CFR-COM;Alcatel;Pixi 4 (6) 4G;Cámara frontal;Compatible;4,65;;;6
+AL-P464-LEN-COM;Alcatel;Pixi 4 (6) 4G;Lente de cámara;Compatible;2,25;;;6
+AL-P464-ALT-COM;Alcatel;Pixi 4 (6) 4G;Altavoz;Compatible;3,59;;;6
+AL-P464-AUR-COM;Alcatel;Pixi 4 (6) 4G;Auricular de llamada;Compatible;2,69;;;6
+AL-P464-FLX-COM;Alcatel;Pixi 4 (6) 4G;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-P464-SIM-COM;Alcatel;Pixi 4 (6) 4G;Bandeja SIM;Compatible;2,65;;;6
+AL-POPUP-PAN-COM;Alcatel;Pop Up;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-POPUP-BAT-COM;Alcatel;Pop Up;Batería;Compatible;8,90;;;6
+AL-POPUP-CON-COM;Alcatel;Pop Up;Conector de carga;Compatible;3,70;;;6
+AL-POPUP-TAP-COM-NEG;Alcatel;Pop Up;Tapa trasera;Negro;4,80;;;6
+AL-POPUP-TAP-COM-BLA;Alcatel;Pop Up;Tapa trasera;Blanco;4,80;;;6
+AL-POPUP-CTR-COM;Alcatel;Pop Up;Cámara trasera;Compatible;6,65;;;6
+AL-POPUP-CFR-COM;Alcatel;Pop Up;Cámara frontal;Compatible;4,65;;;6
+AL-POPUP-LEN-COM;Alcatel;Pop Up;Lente de cámara;Compatible;2,25;;;6
+AL-POPUP-ALT-COM;Alcatel;Pop Up;Altavoz;Compatible;3,59;;;6
+AL-POPUP-AUR-COM;Alcatel;Pop Up;Auricular de llamada;Compatible;2,69;;;6
+AL-POPUP-FLX-COM;Alcatel;Pop Up;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-POPUP-SIM-COM;Alcatel;Pop Up;Bandeja SIM;Compatible;2,65;;;6
+AL-SL-PAN-COM;Alcatel;Shine Lite;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-SL-BAT-COM;Alcatel;Shine Lite;Batería;Compatible;8,90;;;6
+AL-SL-CON-COM;Alcatel;Shine Lite;Conector de carga;Compatible;3,70;;;6
+AL-SL-TAP-COM-NEG;Alcatel;Shine Lite;Tapa trasera;Negro perfecto;4,80;;;6
+AL-SL-TAP-COM-BLA;Alcatel;Shine Lite;Tapa trasera;Blanco puro;4,80;;;6
+AL-SL-TAP-COM-ORO;Alcatel;Shine Lite;Tapa trasera;Oro satinado;4,80;;;6
+AL-SL-CTR-COM;Alcatel;Shine Lite;Cámara trasera;Compatible;6,65;;;6
+AL-SL-CFR-COM;Alcatel;Shine Lite;Cámara frontal;Compatible;4,65;;;6
+AL-SL-LEN-COM;Alcatel;Shine Lite;Lente de cámara;Compatible;2,25;;;6
+AL-SL-ALT-COM;Alcatel;Shine Lite;Altavoz;Compatible;3,59;;;6
+AL-SL-AUR-COM;Alcatel;Shine Lite;Auricular de llamada;Compatible;2,69;;;6
+AL-SL-FLX-COM;Alcatel;Shine Lite;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-SL-SIM-COM;Alcatel;Shine Lite;Bandeja SIM;Compatible;2,65;;;6
+AL-I4-PAN-COM;Alcatel;Idol 4;Pantalla;Compatible;15,15;14,70;14,24;6
+AL-I4-BAT-COM;Alcatel;Idol 4;Batería;Compatible;9,65;;;6
+AL-I4-CON-COM;Alcatel;Idol 4;Conector de carga;Compatible;4,60;;;6
+AL-I4-TAP-COM-GRI;Alcatel;Idol 4;Tapa trasera;Gris (Dark grey);5,40;;;6
+AL-I4-TAP-COM-ORO;Alcatel;Idol 4;Tapa trasera;Oro;5,40;;;6
+AL-I4-CTR-COM;Alcatel;Idol 4;Cámara trasera;Compatible;7,59;;;6
+AL-I4-CFR-COM;Alcatel;Idol 4;Cámara frontal;Compatible;4,99;;;6
+AL-I4-LEN-COM;Alcatel;Idol 4;Lente de cámara;Compatible;2,19;;;6
+AL-I4-ALT-COM;Alcatel;Idol 4;Altavoz;Compatible;3,65;;;6
+AL-I4-AUR-COM;Alcatel;Idol 4;Auricular de llamada;Compatible;2,65;;;6
+AL-I4-FLX-COM;Alcatel;Idol 4;Flex de encendido y volumen;Compatible;2,49;;;6
+AL-I4-SIM-COM;Alcatel;Idol 4;Bandeja SIM;Compatible;2,55;;;6
+AL-I4S-PAN-INC;Alcatel;Idol 4S;Pantalla;Incell;17,69;17,16;16,63;6
+AL-I4S-BAT-COM;Alcatel;Idol 4S;Batería;Compatible;9,65;;;6
+AL-I4S-CON-COM;Alcatel;Idol 4S;Conector de carga;Compatible;4,60;;;6
+AL-I4S-TAP-COM-GRI;Alcatel;Idol 4S;Tapa trasera;Gris (Dark grey);5,40;;;6
+AL-I4S-TAP-COM-ORO;Alcatel;Idol 4S;Tapa trasera;Oro;5,40;;;6
+AL-I4S-CTR-COM;Alcatel;Idol 4S;Cámara trasera;Compatible;7,59;;;6
+AL-I4S-CFR-COM;Alcatel;Idol 4S;Cámara frontal;Compatible;4,99;;;6
+AL-I4S-LEN-COM;Alcatel;Idol 4S;Lente de cámara;Compatible;2,19;;;6
+AL-I4S-ALT-COM;Alcatel;Idol 4S;Altavoz;Compatible;3,65;;;6
+AL-I4S-AUR-COM;Alcatel;Idol 4S;Auricular de llamada;Compatible;2,65;;;6
+AL-I4S-FLX-COM;Alcatel;Idol 4S;Flex de encendido y volumen;Compatible;2,49;;;6
+AL-I4S-SIM-COM;Alcatel;Idol 4S;Bandeja SIM;Compatible;2,55;;;6
+AL-POP4-PAN-COM;Alcatel;Pop 4;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-POP4-BAT-COM;Alcatel;Pop 4;Batería;Compatible;8,90;;;6
+AL-POP4-CON-COM;Alcatel;Pop 4;Conector de carga;Compatible;3,70;;;6
+AL-POP4-TAP-COM-PLA;Alcatel;Pop 4;Tapa trasera;Plata (Metallic Silver);4,80;;;6
+AL-POP4-TAP-COM-USL;Alcatel;Pop 4;Tapa trasera;UV Slate;4,80;;;6
+AL-POP4-TAP-COM-ORO;Alcatel;Pop 4;Tapa trasera;Oro;4,80;;;6
+AL-POP4-CTR-COM;Alcatel;Pop 4;Cámara trasera;Compatible;6,65;;;6
+AL-POP4-CFR-COM;Alcatel;Pop 4;Cámara frontal;Compatible;4,65;;;6
+AL-POP4-LEN-COM;Alcatel;Pop 4;Lente de cámara;Compatible;2,25;;;6
+AL-POP4-ALT-COM;Alcatel;Pop 4;Altavoz;Compatible;3,59;;;6
+AL-POP4-AUR-COM;Alcatel;Pop 4;Auricular de llamada;Compatible;2,69;;;6
+AL-POP4-FLX-COM;Alcatel;Pop 4;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-POP4-SIM-COM;Alcatel;Pop 4;Bandeja SIM;Compatible;2,65;;;6
+AL-POP4PL-PAN-COM;Alcatel;Pop 4+;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-POP4PL-BAT-COM;Alcatel;Pop 4+;Batería;Compatible;8,90;;;6
+AL-POP4PL-CON-COM;Alcatel;Pop 4+;Conector de carga;Compatible;3,70;;;6
+AL-POP4PL-TAP-COM-GRI;Alcatel;Pop 4+;Tapa trasera;Gris (Dark grey);4,80;;;6
+AL-POP4PL-TAP-COM-PLA;Alcatel;Pop 4+;Tapa trasera;Plata (Metallic Silver);4,80;;;6
+AL-POP4PL-TAP-COM-SLA;Alcatel;Pop 4+;Tapa trasera;Slate;4,80;;;6
+AL-POP4PL-CTR-COM;Alcatel;Pop 4+;Cámara trasera;Compatible;6,65;;;6
+AL-POP4PL-CFR-COM;Alcatel;Pop 4+;Cámara frontal;Compatible;4,65;;;6
+AL-POP4PL-LEN-COM;Alcatel;Pop 4+;Lente de cámara;Compatible;2,25;;;6
+AL-POP4PL-ALT-COM;Alcatel;Pop 4+;Altavoz;Compatible;3,59;;;6
+AL-POP4PL-AUR-COM;Alcatel;Pop 4+;Auricular de llamada;Compatible;2,69;;;6
+AL-POP4PL-FLX-COM;Alcatel;Pop 4+;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-POP4PL-SIM-COM;Alcatel;Pop 4+;Bandeja SIM;Compatible;2,65;;;6
+AL-POP4S-PAN-COM;Alcatel;Pop 4S;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-POP4S-BAT-COM;Alcatel;Pop 4S;Batería;Compatible;8,90;;;6
+AL-POP4S-CON-COM;Alcatel;Pop 4S;Conector de carga;Compatible;3,70;;;6
+AL-POP4S-TAP-COM-GRI;Alcatel;Pop 4S;Tapa trasera;Gris (Dark grey);4,80;;;6
+AL-POP4S-TAP-COM-ORO;Alcatel;Pop 4S;Tapa trasera;Oro metálico;4,80;;;6
+AL-POP4S-CTR-COM;Alcatel;Pop 4S;Cámara trasera;Compatible;6,65;;;6
+AL-POP4S-CFR-COM;Alcatel;Pop 4S;Cámara frontal;Compatible;4,65;;;6
+AL-POP4S-LEN-COM;Alcatel;Pop 4S;Lente de cámara;Compatible;2,25;;;6
+AL-POP4S-ALT-COM;Alcatel;Pop 4S;Altavoz;Compatible;3,59;;;6
+AL-POP4S-AUR-COM;Alcatel;Pop 4S;Auricular de llamada;Compatible;2,69;;;6
+AL-POP4S-FLX-COM;Alcatel;Pop 4S;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-POP4S-SIM-COM;Alcatel;Pop 4S;Bandeja SIM;Compatible;2,65;;;6
+AL-A5LED-PAN-COM;Alcatel;A5 LED;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-A5LED-BAT-COM;Alcatel;A5 LED;Batería;Compatible;8,90;;;6
+AL-A5LED-CON-COM;Alcatel;A5 LED;Conector de carga;Compatible;3,70;;;6
+AL-A5LED-TAP-COM-NEG;Alcatel;A5 LED;Tapa trasera;Negro (Metallic Black);4,80;;;6
+AL-A5LED-TAP-COM-PLA;Alcatel;A5 LED;Tapa trasera;Plata (Metallic Silver);4,80;;;6
+AL-A5LED-CTR-COM;Alcatel;A5 LED;Cámara trasera;Compatible;6,65;;;6
+AL-A5LED-CFR-COM;Alcatel;A5 LED;Cámara frontal;Compatible;4,65;;;6
+AL-A5LED-LEN-COM;Alcatel;A5 LED;Lente de cámara;Compatible;2,25;;;6
+AL-A5LED-ALT-COM;Alcatel;A5 LED;Altavoz;Compatible;3,59;;;6
+AL-A5LED-AUR-COM;Alcatel;A5 LED;Auricular de llamada;Compatible;2,69;;;6
+AL-A5LED-FLX-COM;Alcatel;A5 LED;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-A5LED-SIM-COM;Alcatel;A5 LED;Bandeja SIM;Compatible;2,65;;;6
+AL-A7-PAN-COM;Alcatel;A7;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-A7-BAT-COM;Alcatel;A7;Batería;Compatible;8,90;;;6
+AL-A7-CON-COM;Alcatel;A7;Conector de carga;Compatible;3,70;;;6
+AL-A7-TAP-COM-NEG;Alcatel;A7;Tapa trasera;Negro (Metallic Black);4,80;;;6
+AL-A7-CTR-COM;Alcatel;A7;Cámara trasera;Compatible;6,65;;;6
+AL-A7-CFR-COM;Alcatel;A7;Cámara frontal;Compatible;4,65;;;6
+AL-A7-LEN-COM;Alcatel;A7;Lente de cámara;Compatible;2,25;;;6
+AL-A7-ALT-COM;Alcatel;A7;Altavoz;Compatible;3,59;;;6
+AL-A7-AUR-COM;Alcatel;A7;Auricular de llamada;Compatible;2,69;;;6
+AL-A7-FLX-COM;Alcatel;A7;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-A7-SIM-COM;Alcatel;A7;Bandeja SIM;Compatible;2,65;;;6
+AL-A7XL-PAN-COM;Alcatel;A7 XL;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-A7XL-BAT-COM;Alcatel;A7 XL;Batería;Compatible;8,90;;;6
+AL-A7XL-CON-COM;Alcatel;A7 XL;Conector de carga;Compatible;3,70;;;6
+AL-A7XL-TAP-COM-NEG;Alcatel;A7 XL;Tapa trasera;Negro (Metal black);4,80;;;6
+AL-A7XL-CTR-COM;Alcatel;A7 XL;Cámara trasera;Compatible;6,65;;;6
+AL-A7XL-CFR-COM;Alcatel;A7 XL;Cámara frontal;Compatible;4,65;;;6
+AL-A7XL-LEN-COM;Alcatel;A7 XL;Lente de cámara;Compatible;2,25;;;6
+AL-A7XL-ALT-COM;Alcatel;A7 XL;Altavoz;Compatible;3,59;;;6
+AL-A7XL-AUR-COM;Alcatel;A7 XL;Auricular de llamada;Compatible;2,69;;;6
+AL-A7XL-FLX-COM;Alcatel;A7 XL;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-A7XL-SIM-COM;Alcatel;A7 XL;Bandeja SIM;Compatible;2,65;;;6
+AL-POP46-PAN-COM;Alcatel;Pop 4 (6);Pantalla;Compatible;13,00;12,61;12,22;6
+AL-POP46-BAT-COM;Alcatel;Pop 4 (6);Batería;Compatible;8,90;;;6
+AL-POP46-CON-COM;Alcatel;Pop 4 (6);Conector de carga;Compatible;3,70;;;6
+AL-POP46-TAP-COM-DOR;Alcatel;Pop 4 (6);Tapa trasera;Dorado (Metal gold);4,80;;;6
+AL-POP46-TAP-COM-SLA;Alcatel;Pop 4 (6);Tapa trasera;Slate;4,80;;;6
+AL-POP46-CTR-COM;Alcatel;Pop 4 (6);Cámara trasera;Compatible;6,65;;;6
+AL-POP46-CFR-COM;Alcatel;Pop 4 (6);Cámara frontal;Compatible;4,65;;;6
+AL-POP46-LEN-COM;Alcatel;Pop 4 (6);Lente de cámara;Compatible;2,25;;;6
+AL-POP46-ALT-COM;Alcatel;Pop 4 (6);Altavoz;Compatible;3,59;;;6
+AL-POP46-AUR-COM;Alcatel;Pop 4 (6);Auricular de llamada;Compatible;2,69;;;6
+AL-POP46-FLX-COM;Alcatel;Pop 4 (6);Flex de encendido y volumen;Compatible;2,55;;;6
+AL-POP46-SIM-COM;Alcatel;Pop 4 (6);Bandeja SIM;Compatible;2,65;;;6
+AL-U3-PAN-COM;Alcatel;U3;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-U3-BAT-COM;Alcatel;U3;Batería;Compatible;8,90;;;6
+AL-U3-CON-COM;Alcatel;U3;Conector de carga;Compatible;3,70;;;6
+AL-U3-TAP-COM-NEG;Alcatel;U3;Tapa trasera;Negro volcán;4,80;;;6
+AL-U3-CTR-COM;Alcatel;U3;Cámara trasera;Compatible;6,65;;;6
+AL-U3-CFR-COM;Alcatel;U3;Cámara frontal;Compatible;4,65;;;6
+AL-U3-LEN-COM;Alcatel;U3;Lente de cámara;Compatible;2,25;;;6
+AL-U3-ALT-COM;Alcatel;U3;Altavoz;Compatible;3,59;;;6
+AL-U3-AUR-COM;Alcatel;U3;Auricular de llamada;Compatible;2,69;;;6
+AL-U3-FLX-COM;Alcatel;U3;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-U3-SIM-COM;Alcatel;U3;Bandeja SIM;Compatible;2,65;;;6
+AL-U5HD-PAN-COM;Alcatel;U5 HD;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-U5HD-BAT-COM;Alcatel;U5 HD;Batería;Compatible;8,90;;;6
+AL-U5HD-CON-COM;Alcatel;U5 HD;Conector de carga;Compatible;3,70;;;6
+AL-U5HD-TAP-COM-NEG;Alcatel;U5 HD;Tapa trasera;Negro volcán;4,80;;;6
+AL-U5HD-TAP-COM-BLA;Alcatel;U5 HD;Tapa trasera;Blanco (Pure White);4,80;;;6
+AL-U5HD-CTR-COM;Alcatel;U5 HD;Cámara trasera;Compatible;6,65;;;6
+AL-U5HD-CFR-COM;Alcatel;U5 HD;Cámara frontal;Compatible;4,65;;;6
+AL-U5HD-LEN-COM;Alcatel;U5 HD;Lente de cámara;Compatible;2,25;;;6
+AL-U5HD-ALT-COM;Alcatel;U5 HD;Altavoz;Compatible;3,59;;;6
+AL-U5HD-AUR-COM;Alcatel;U5 HD;Auricular de llamada;Compatible;2,69;;;6
+AL-U5HD-FLX-COM;Alcatel;U5 HD;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-U5HD-SIM-COM;Alcatel;U5 HD;Bandeja SIM;Compatible;2,65;;;6
+AL-A3XL-PAN-COM;Alcatel;A3 XL;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-A3XL-BAT-COM;Alcatel;A3 XL;Batería;Compatible;8,90;;;6
+AL-A3XL-CON-COM;Alcatel;A3 XL;Conector de carga;Compatible;3,70;;;6
+AL-A3XL-TAP-COM-PLA;Alcatel;A3 XL;Tapa trasera;Plata (Sideral Gray - Silver);4,80;;;6
+AL-A3XL-TAP-COM-AZU;Alcatel;A3 XL;Tapa trasera;Azul (White - Blue);4,80;;;6
+AL-A3XL-TAP-COM-GRI;Alcatel;A3 XL;Tapa trasera;Gris (White - Grey);4,80;;;6
+AL-A3XL-CTR-COM;Alcatel;A3 XL;Cámara trasera;Compatible;6,65;;;6
+AL-A3XL-CFR-COM;Alcatel;A3 XL;Cámara frontal;Compatible;4,65;;;6
+AL-A3XL-LEN-COM;Alcatel;A3 XL;Lente de cámara;Compatible;2,25;;;6
+AL-A3XL-ALT-COM;Alcatel;A3 XL;Altavoz;Compatible;3,59;;;6
+AL-A3XL-AUR-COM;Alcatel;A3 XL;Auricular de llamada;Compatible;2,69;;;6
+AL-A3XL-FLX-COM;Alcatel;A3 XL;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-A3XL-SIM-COM;Alcatel;A3 XL;Bandeja SIM;Compatible;2,65;;;6
+AL-A3-PAN-COM;Alcatel;A3;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-A3-BAT-COM;Alcatel;A3;Batería;Compatible;8,90;;;6
+AL-A3-CON-COM;Alcatel;A3;Conector de carga;Compatible;3,70;;;6
+AL-A3-TAP-COM-NEG;Alcatel;A3;Tapa trasera;Negro (Prime Black);4,80;;;6
+AL-A3-TAP-COM-BLA;Alcatel;A3;Tapa trasera;Blanco (Pure White);4,80;;;6
+AL-A3-CTR-COM;Alcatel;A3;Cámara trasera;Compatible;6,65;;;6
+AL-A3-CFR-COM;Alcatel;A3;Cámara frontal;Compatible;4,65;;;6
+AL-A3-LEN-COM;Alcatel;A3;Lente de cámara;Compatible;2,25;;;6
+AL-A3-ALT-COM;Alcatel;A3;Altavoz;Compatible;3,59;;;6
+AL-A3-AUR-COM;Alcatel;A3;Auricular de llamada;Compatible;2,69;;;6
+AL-A3-FLX-COM;Alcatel;A3;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-A3-SIM-COM;Alcatel;A3;Bandeja SIM;Compatible;2,65;;;6
+AL-U5-PAN-COM;Alcatel;U5;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-U5-BAT-COM;Alcatel;U5;Batería;Compatible;8,90;;;6
+AL-U5-CON-COM;Alcatel;U5;Conector de carga;Compatible;3,70;;;6
+AL-U5-TAP-COM-BLA;Alcatel;U5;Tapa trasera;Blanco (Pure White);4,80;;;6
+AL-U5-TAP-COM-GRI;Alcatel;U5;Tapa trasera;Gris (Volcano Black with Cocoa Gray);4,80;;;6
+AL-U5-TAP-COM-AZU;Alcatel;U5;Tapa trasera;Azul (Volcano Black with Sharp Blue);4,80;;;6
+AL-U5-CTR-COM;Alcatel;U5;Cámara trasera;Compatible;6,65;;;6
+AL-U5-CFR-COM;Alcatel;U5;Cámara frontal;Compatible;4,65;;;6
+AL-U5-LEN-COM;Alcatel;U5;Lente de cámara;Compatible;2,25;;;6
+AL-U5-ALT-COM;Alcatel;U5;Altavoz;Compatible;3,59;;;6
+AL-U5-AUR-COM;Alcatel;U5;Auricular de llamada;Compatible;2,69;;;6
+AL-U5-FLX-COM;Alcatel;U5;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-U5-SIM-COM;Alcatel;U5;Bandeja SIM;Compatible;2,65;;;6
+AL-I5-PAN-COM;Alcatel;Idol 5;Pantalla;Compatible;15,15;14,70;14,24;6
+AL-I5-BAT-COM;Alcatel;Idol 5;Batería;Compatible;9,65;;;6
+AL-I5-CON-COM;Alcatel;Idol 5;Conector de carga;Compatible;4,60;;;6
+AL-I5-TAP-COM-NEG;Alcatel;Idol 5;Tapa trasera;Negro metalizado;5,40;;;6
+AL-I5-TAP-COM-PLA;Alcatel;Idol 5;Tapa trasera;Plata metalizado;5,40;;;6
+AL-I5-CTR-COM;Alcatel;Idol 5;Cámara trasera;Compatible;7,59;;;6
+AL-I5-CFR-COM;Alcatel;Idol 5;Cámara frontal;Compatible;4,99;;;6
+AL-I5-LEN-COM;Alcatel;Idol 5;Lente de cámara;Compatible;2,19;;;6
+AL-I5-ALT-COM;Alcatel;Idol 5;Altavoz;Compatible;3,65;;;6
+AL-I5-AUR-COM;Alcatel;Idol 5;Auricular de llamada;Compatible;2,65;;;6
+AL-I5-FLX-COM;Alcatel;Idol 5;Flex de encendido y volumen;Compatible;2,49;;;6
+AL-I5-SIM-COM;Alcatel;Idol 5;Bandeja SIM;Compatible;2,55;;;6
+AL-I5S-PAN-COM;Alcatel;Idol 5S;Pantalla;Compatible;15,15;14,70;14,24;6
+AL-I5S-BAT-COM;Alcatel;Idol 5S;Batería;Compatible;9,65;;;6
+AL-I5S-CON-COM;Alcatel;Idol 5S;Conector de carga;Compatible;4,60;;;6
+AL-I5S-TAP-COM;Alcatel;Idol 5S;Tapa trasera;Compatible;5,40;;;6
+AL-I5S-CTR-COM;Alcatel;Idol 5S;Cámara trasera;Compatible;7,59;;;6
+AL-I5S-CFR-COM;Alcatel;Idol 5S;Cámara frontal;Compatible;4,99;;;6
+AL-I5S-LEN-COM;Alcatel;Idol 5S;Lente de cámara;Compatible;2,19;;;6
+AL-I5S-ALT-COM;Alcatel;Idol 5S;Altavoz;Compatible;3,65;;;6
+AL-I5S-AUR-COM;Alcatel;Idol 5S;Auricular de llamada;Compatible;2,65;;;6
+AL-I5S-FLX-COM;Alcatel;Idol 5S;Flex de encendido y volumen;Compatible;2,49;;;6
+AL-I5S-SIM-COM;Alcatel;Idol 5S;Bandeja SIM;Compatible;2,55;;;6
+AL-3C-PAN-COM;Alcatel;3C;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-3C-BAT-COM;Alcatel;3C;Batería;Compatible;8,90;;;6
+AL-3C-CON-COM;Alcatel;3C;Conector de carga;Compatible;3,70;;;6
+AL-3C-TAP-COM;Alcatel;3C;Tapa trasera;Compatible;4,80;;;6
+AL-3C-CTR-COM;Alcatel;3C;Cámara trasera;Compatible;6,65;;;6
+AL-3C-CFR-COM;Alcatel;3C;Cámara frontal;Compatible;4,65;;;6
+AL-3C-LEN-COM;Alcatel;3C;Lente de cámara;Compatible;2,25;;;6
+AL-3C-ALT-COM;Alcatel;3C;Altavoz;Compatible;3,59;;;6
+AL-3C-AUR-COM;Alcatel;3C;Auricular de llamada;Compatible;2,69;;;6
+AL-3C-FLX-COM;Alcatel;3C;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-3C-SIM-COM;Alcatel;3C;Bandeja SIM;Compatible;2,65;;;6
+AL-3V-PAN-COM;Alcatel;3V;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-3V-BAT-COM;Alcatel;3V;Batería;Compatible;8,90;;;6
+AL-3V-CON-COM;Alcatel;3V;Conector de carga;Compatible;3,70;;;6
+AL-3V-TAP-COM-NEG;Alcatel;3V;Tapa trasera;Negro (Spectrum Black);4,80;;;6
+AL-3V-TAP-COM-AZU;Alcatel;3V;Tapa trasera;Azul (Spectrum Blue);4,80;;;6
+AL-3V-TAP-COM-DOR;Alcatel;3V;Tapa trasera;Dorado (Spectrum Gold);4,80;;;6
+AL-3V-CTR-COM;Alcatel;3V;Cámara trasera;Compatible;6,65;;;6
+AL-3V-CFR-COM;Alcatel;3V;Cámara frontal;Compatible;4,65;;;6
+AL-3V-LEN-COM;Alcatel;3V;Lente de cámara;Compatible;2,25;;;6
+AL-3V-ALT-COM;Alcatel;3V;Altavoz;Compatible;3,59;;;6
+AL-3V-AUR-COM;Alcatel;3V;Auricular de llamada;Compatible;2,69;;;6
+AL-3V-FLX-COM;Alcatel;3V;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-3V-SIM-COM;Alcatel;3V;Bandeja SIM;Compatible;2,65;;;6
+AL-5-PAN-COM;Alcatel;5;Pantalla;Compatible;15,15;14,70;14,24;6
+AL-5-BAT-COM;Alcatel;5;Batería;Compatible;9,65;;;6
+AL-5-CON-COM;Alcatel;5;Conector de carga;Compatible;4,60;;;6
+AL-5-TAP-COM-NEG;Alcatel;5;Tapa trasera;Negro (Metallic Black);5,40;;;6
+AL-5-TAP-COM-DOR;Alcatel;5;Tapa trasera;Dorado (Metallic Gold);5,40;;;6
+AL-5-CTR-COM;Alcatel;5;Cámara trasera;Compatible;7,59;;;6
+AL-5-CFR-COM;Alcatel;5;Cámara frontal;Compatible;4,99;;;6
+AL-5-LEN-COM;Alcatel;5;Lente de cámara;Compatible;2,19;;;6
+AL-5-ALT-COM;Alcatel;5;Altavoz;Compatible;3,65;;;6
+AL-5-AUR-COM;Alcatel;5;Auricular de llamada;Compatible;2,65;;;6
+AL-5-FLX-COM;Alcatel;5;Flex de encendido y volumen;Compatible;2,49;;;6
+AL-5-SIM-COM;Alcatel;5;Bandeja SIM;Compatible;2,55;;;6
+AL-3-PAN-COM;Alcatel;3;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-3-BAT-COM;Alcatel;3;Batería;Compatible;8,90;;;6
+AL-3-CON-COM;Alcatel;3;Conector de carga;Compatible;3,70;;;6
+AL-3-TAP-COM-NEG;Alcatel;3;Tapa trasera;Negro (Spectrum Black);4,80;;;6
+AL-3-TAP-COM-AZU;Alcatel;3;Tapa trasera;Azul (Spectrum Blue);4,80;;;6
+AL-3-TAP-COM-DOR;Alcatel;3;Tapa trasera;Dorado (Spectrum Gold);4,80;;;6
+AL-3-CTR-COM;Alcatel;3;Cámara trasera;Compatible;6,65;;;6
+AL-3-CFR-COM;Alcatel;3;Cámara frontal;Compatible;4,65;;;6
+AL-3-LEN-COM;Alcatel;3;Lente de cámara;Compatible;2,25;;;6
+AL-3-ALT-COM;Alcatel;3;Altavoz;Compatible;3,59;;;6
+AL-3-AUR-COM;Alcatel;3;Auricular de llamada;Compatible;2,69;;;6
+AL-3-FLX-COM;Alcatel;3;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-3-SIM-COM;Alcatel;3;Bandeja SIM;Compatible;2,65;;;6
+AL-3X-PAN-COM;Alcatel;3X;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-3X-BAT-COM;Alcatel;3X;Batería;Compatible;8,90;;;6
+AL-3X-CON-COM;Alcatel;3X;Conector de carga;Compatible;3,70;;;6
+AL-3X-TAP-COM-NEG;Alcatel;3X;Tapa trasera;Negro (Metallic Black);4,80;;;6
+AL-3X-TAP-COM-AZU;Alcatel;3X;Tapa trasera;Azul (Metallic Blue);4,80;;;6
+AL-3X-TAP-COM-DOR;Alcatel;3X;Tapa trasera;Dorado (Metallic Gold);4,80;;;6
+AL-3X-TAP-COM-NSP;Alcatel;3X;Tapa trasera;Negro (Spectrum Black);4,80;;;6
+AL-3X-TAP-COM-ASP;Alcatel;3X;Tapa trasera;Azul (Spectrum Blue);4,80;;;6
+AL-3X-TAP-COM-DSP;Alcatel;3X;Tapa trasera;Dorado (Spectrum Gold);4,80;;;6
+AL-3X-CTR-COM;Alcatel;3X;Cámara trasera;Compatible;6,65;;;6
+AL-3X-CFR-COM;Alcatel;3X;Cámara frontal;Compatible;4,65;;;6
+AL-3X-LEN-COM;Alcatel;3X;Lente de cámara;Compatible;2,25;;;6
+AL-3X-ALT-COM;Alcatel;3X;Altavoz;Compatible;3,59;;;6
+AL-3X-AUR-COM;Alcatel;3X;Auricular de llamada;Compatible;2,69;;;6
+AL-3X-FLX-COM;Alcatel;3X;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-3X-SIM-COM;Alcatel;3X;Bandeja SIM;Compatible;2,65;;;6
+AL-1X-PAN-COM;Alcatel;1X;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-1X-BAT-COM;Alcatel;1X;Batería;Compatible;8,90;;;6
+AL-1X-CON-COM;Alcatel;1X;Conector de carga;Compatible;3,70;;;6
+AL-1X-TAP-COM-NEG;Alcatel;1X;Tapa trasera;Negro;4,80;;;6
+AL-1X-TAP-COM-AZU;Alcatel;1X;Tapa trasera;Azul;4,80;;;6
+AL-1X-TAP-COM-DOR;Alcatel;1X;Tapa trasera;Dorado;4,80;;;6
+AL-1X-TAP-COM-ROS;Alcatel;1X;Tapa trasera;Rose;4,80;;;6
+AL-1X-CTR-COM;Alcatel;1X;Cámara trasera;Compatible;6,65;;;6
+AL-1X-CFR-COM;Alcatel;1X;Cámara frontal;Compatible;4,65;;;6
+AL-1X-LEN-COM;Alcatel;1X;Lente de cámara;Compatible;2,25;;;6
+AL-1X-ALT-COM;Alcatel;1X;Altavoz;Compatible;3,59;;;6
+AL-1X-AUR-COM;Alcatel;1X;Auricular de llamada;Compatible;2,69;;;6
+AL-1X-FLX-COM;Alcatel;1X;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-1X-SIM-COM;Alcatel;1X;Bandeja SIM;Compatible;2,65;;;6
+AL-1-PAN-COM;Alcatel;1;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-1-BAT-COM;Alcatel;1;Batería;Compatible;8,90;;;6
+AL-1-CON-COM;Alcatel;1;Conector de carga;Compatible;3,70;;;6
+AL-1-TAP-COM-DOR;Alcatel;1;Tapa trasera;Dorado (Metallic Gold);4,80;;;6
+AL-1-TAP-COM-ORO;Alcatel;1;Tapa trasera;Oro rosa;4,80;;;6
+AL-1-TAP-COM-AZU;Alcatel;1;Tapa trasera;Azul;4,80;;;6
+AL-1-TAP-COM-NEG;Alcatel;1;Tapa trasera;Negro;4,80;;;6
+AL-1-CTR-COM;Alcatel;1;Cámara trasera;Compatible;6,65;;;6
+AL-1-CFR-COM;Alcatel;1;Cámara frontal;Compatible;4,65;;;6
+AL-1-LEN-COM;Alcatel;1;Lente de cámara;Compatible;2,25;;;6
+AL-1-ALT-COM;Alcatel;1;Altavoz;Compatible;3,59;;;6
+AL-1-AUR-COM;Alcatel;1;Auricular de llamada;Compatible;2,69;;;6
+AL-1-FLX-COM;Alcatel;1;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-1-SIM-COM;Alcatel;1;Bandeja SIM;Compatible;2,65;;;6
+AL-5V-PAN-COM;Alcatel;5V;Pantalla;Compatible;15,15;14,70;14,24;6
+AL-5V-BAT-COM;Alcatel;5V;Batería;Compatible;9,65;;;6
+AL-5V-CON-COM;Alcatel;5V;Conector de carga;Compatible;4,60;;;6
+AL-5V-TAP-COM;Alcatel;5V;Tapa trasera;Compatible;5,40;;;6
+AL-5V-CTR-COM;Alcatel;5V;Cámara trasera;Compatible;7,59;;;6
+AL-5V-CFR-COM;Alcatel;5V;Cámara frontal;Compatible;4,99;;;6
+AL-5V-LEN-COM;Alcatel;5V;Lente de cámara;Compatible;2,19;;;6
+AL-5V-ALT-COM;Alcatel;5V;Altavoz;Compatible;3,65;;;6
+AL-5V-AUR-COM;Alcatel;5V;Auricular de llamada;Compatible;2,65;;;6
+AL-5V-FLX-COM;Alcatel;5V;Flex de encendido y volumen;Compatible;2,49;;;6
+AL-5V-SIM-COM;Alcatel;5V;Bandeja SIM;Compatible;2,55;;;6
+AL-1V19-PAN-COM;Alcatel;1V 2019;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-1V19-BAT-COM;Alcatel;1V 2019;Batería;Compatible;8,90;;;6
+AL-1V19-CON-COM;Alcatel;1V 2019;Conector de carga;Compatible;3,70;;;6
+AL-1V19-TAP-COM;Alcatel;1V 2019;Tapa trasera;Compatible;4,80;;;6
+AL-1V19-CTR-COM;Alcatel;1V 2019;Cámara trasera;Compatible;6,65;;;6
+AL-1V19-CFR-COM;Alcatel;1V 2019;Cámara frontal;Compatible;4,65;;;6
+AL-1V19-LEN-COM;Alcatel;1V 2019;Lente de cámara;Compatible;2,25;;;6
+AL-1V19-ALT-COM;Alcatel;1V 2019;Altavoz;Compatible;3,59;;;6
+AL-1V19-AUR-COM;Alcatel;1V 2019;Auricular de llamada;Compatible;2,69;;;6
+AL-1V19-FLX-COM;Alcatel;1V 2019;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-1V19-SIM-COM;Alcatel;1V 2019;Bandeja SIM;Compatible;2,65;;;6
+AL-3X19-PAN-COM;Alcatel;3X 2019;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-3X19-BAT-COM;Alcatel;3X 2019;Batería;Compatible;8,90;;;6
+AL-3X19-CON-COM;Alcatel;3X 2019;Conector de carga;Compatible;3,70;;;6
+AL-3X19-TAP-COM;Alcatel;3X 2019;Tapa trasera;Compatible;4,80;;;6
+AL-3X19-CTR-COM;Alcatel;3X 2019;Cámara trasera;Compatible;6,65;;;6
+AL-3X19-CFR-COM;Alcatel;3X 2019;Cámara frontal;Compatible;4,65;;;6
+AL-3X19-LEN-COM;Alcatel;3X 2019;Lente de cámara;Compatible;2,25;;;6
+AL-3X19-ALT-COM;Alcatel;3X 2019;Altavoz;Compatible;3,59;;;6
+AL-3X19-AUR-COM;Alcatel;3X 2019;Auricular de llamada;Compatible;2,69;;;6
+AL-3X19-FLX-COM;Alcatel;3X 2019;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-3X19-SIM-COM;Alcatel;3X 2019;Bandeja SIM;Compatible;2,65;;;6
+AL-1C19-PAN-COM;Alcatel;1C 2019;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-1C19-BAT-COM;Alcatel;1C 2019;Batería;Compatible;8,90;;;6
+AL-1C19-CON-COM;Alcatel;1C 2019;Conector de carga;Compatible;3,70;;;6
+AL-1C19-TAP-COM-NEG;Alcatel;1C 2019;Tapa trasera;Negro (Volcano Black);4,80;;;6
+AL-1C19-TAP-COM-AZU;Alcatel;1C 2019;Tapa trasera;Azul (Enamel Blue);4,80;;;6
+AL-1C19-TAP-COM-ROS;Alcatel;1C 2019;Tapa trasera;Rosa (Blush Pink);4,80;;;6
+AL-1C19-CTR-COM;Alcatel;1C 2019;Cámara trasera;Compatible;6,65;;;6
+AL-1C19-CFR-COM;Alcatel;1C 2019;Cámara frontal;Compatible;4,65;;;6
+AL-1C19-LEN-COM;Alcatel;1C 2019;Lente de cámara;Compatible;2,25;;;6
+AL-1C19-ALT-COM;Alcatel;1C 2019;Altavoz;Compatible;3,59;;;6
+AL-1C19-AUR-COM;Alcatel;1C 2019;Auricular de llamada;Compatible;2,69;;;6
+AL-1C19-FLX-COM;Alcatel;1C 2019;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-1C19-SIM-COM;Alcatel;1C 2019;Bandeja SIM;Compatible;2,65;;;6
+AL-1X19-PAN-COM;Alcatel;1X 2019;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-1X19-BAT-COM;Alcatel;1X 2019;Batería;Compatible;8,90;;;6
+AL-1X19-CON-COM;Alcatel;1X 2019;Conector de carga;Compatible;3,70;;;6
+AL-1X19-TAP-COM-NEG;Alcatel;1X 2019;Tapa trasera;Negro (Pebble Black);4,80;;;6
+AL-1X19-TAP-COM-AZU;Alcatel;1X 2019;Tapa trasera;Azul (Pebble Blue);4,80;;;6
+AL-1X19-CTR-COM;Alcatel;1X 2019;Cámara trasera;Compatible;6,65;;;6
+AL-1X19-CFR-COM;Alcatel;1X 2019;Cámara frontal;Compatible;4,65;;;6
+AL-1X19-LEN-COM;Alcatel;1X 2019;Lente de cámara;Compatible;2,25;;;6
+AL-1X19-ALT-COM;Alcatel;1X 2019;Altavoz;Compatible;3,59;;;6
+AL-1X19-AUR-COM;Alcatel;1X 2019;Auricular de llamada;Compatible;2,69;;;6
+AL-1X19-FLX-COM;Alcatel;1X 2019;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-1X19-SIM-COM;Alcatel;1X 2019;Bandeja SIM;Compatible;2,65;;;6
+AL-319-PAN-COM;Alcatel;3 2019;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-319-BAT-COM;Alcatel;3 2019;Batería;Compatible;8,90;;;6
+AL-319-CON-COM;Alcatel;3 2019;Conector de carga;Compatible;3,70;;;6
+AL-319-TAP-COM-AZU;Alcatel;3 2019;Tapa trasera;Azul (Gradient Black Blue);4,80;;;6
+AL-319-TAP-COM-MOR;Alcatel;3 2019;Tapa trasera;Morado (Gradient Blue Purple);4,80;;;6
+AL-319-CTR-COM;Alcatel;3 2019;Cámara trasera;Compatible;6,65;;;6
+AL-319-CFR-COM;Alcatel;3 2019;Cámara frontal;Compatible;4,65;;;6
+AL-319-LEN-COM;Alcatel;3 2019;Lente de cámara;Compatible;2,25;;;6
+AL-319-ALT-COM;Alcatel;3 2019;Altavoz;Compatible;3,59;;;6
+AL-319-AUR-COM;Alcatel;3 2019;Auricular de llamada;Compatible;2,69;;;6
+AL-319-FLX-COM;Alcatel;3 2019;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-319-SIM-COM;Alcatel;3 2019;Bandeja SIM;Compatible;2,65;;;6
+AL-3L19-PAN-COM;Alcatel;3L 2019;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-3L19-BAT-COM;Alcatel;3L 2019;Batería;Compatible;8,90;;;6
+AL-3L19-CON-COM;Alcatel;3L 2019;Conector de carga;Compatible;3,70;;;6
+AL-3L19-TAP-COM-NEG;Alcatel;3L 2019;Tapa trasera;Negro (Anthracite Black);4,80;;;6
+AL-3L19-TAP-COM-AZU;Alcatel;3L 2019;Tapa trasera;Azul (Metallic Blue);4,80;;;6
+AL-3L19-CTR-COM;Alcatel;3L 2019;Cámara trasera;Compatible;6,65;;;6
+AL-3L19-CFR-COM;Alcatel;3L 2019;Cámara frontal;Compatible;4,65;;;6
+AL-3L19-LEN-COM;Alcatel;3L 2019;Lente de cámara;Compatible;2,25;;;6
+AL-3L19-ALT-COM;Alcatel;3L 2019;Altavoz;Compatible;3,59;;;6
+AL-3L19-AUR-COM;Alcatel;3L 2019;Auricular de llamada;Compatible;2,69;;;6
+AL-3L19-FLX-COM;Alcatel;3L 2019;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-3L19-SIM-COM;Alcatel;3L 2019;Bandeja SIM;Compatible;2,65;;;6
+AL-1S19-PAN-COM;Alcatel;1S 2019;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-1S19-BAT-COM;Alcatel;1S 2019;Batería;Compatible;8,90;;;6
+AL-1S19-CON-COM;Alcatel;1S 2019;Conector de carga;Compatible;3,70;;;6
+AL-1S19-TAP-COM-NEG;Alcatel;1S 2019;Tapa trasera;Negro;4,80;;;6
+AL-1S19-TAP-COM-AZU;Alcatel;1S 2019;Tapa trasera;Azul;4,80;;;6
+AL-1S19-TAP-COM-ROS;Alcatel;1S 2019;Tapa trasera;Rose;4,80;;;6
+AL-1S19-TAP-COM-DOR;Alcatel;1S 2019;Tapa trasera;Dorado;4,80;;;6
+AL-1S19-CTR-COM;Alcatel;1S 2019;Cámara trasera;Compatible;6,65;;;6
+AL-1S19-CFR-COM;Alcatel;1S 2019;Cámara frontal;Compatible;4,65;;;6
+AL-1S19-LEN-COM;Alcatel;1S 2019;Lente de cámara;Compatible;2,25;;;6
+AL-1S19-ALT-COM;Alcatel;1S 2019;Altavoz;Compatible;3,59;;;6
+AL-1S19-AUR-COM;Alcatel;1S 2019;Auricular de llamada;Compatible;2,69;;;6
+AL-1S19-FLX-COM;Alcatel;1S 2019;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-1S19-SIM-COM;Alcatel;1S 2019;Bandeja SIM;Compatible;2,65;;;6
+AL-3C19-PAN-COM;Alcatel;3C 2019;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-3C19-BAT-COM;Alcatel;3C 2019;Batería;Compatible;8,90;;;6
+AL-3C19-CON-COM;Alcatel;3C 2019;Conector de carga;Compatible;3,70;;;6
+AL-3C19-TAP-COM;Alcatel;3C 2019;Tapa trasera;Compatible;4,80;;;6
+AL-3C19-CTR-COM;Alcatel;3C 2019;Cámara trasera;Compatible;6,65;;;6
+AL-3C19-CFR-COM;Alcatel;3C 2019;Cámara frontal;Compatible;4,65;;;6
+AL-3C19-LEN-COM;Alcatel;3C 2019;Lente de cámara;Compatible;2,25;;;6
+AL-3C19-ALT-COM;Alcatel;3C 2019;Altavoz;Compatible;3,59;;;6
+AL-3C19-AUR-COM;Alcatel;3C 2019;Auricular de llamada;Compatible;2,69;;;6
+AL-3C19-FLX-COM;Alcatel;3C 2019;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-3C19-SIM-COM;Alcatel;3C 2019;Bandeja SIM;Compatible;2,65;;;6
+AL-1SE20-PAN-COM;Alcatel;1SE 2020;Pantalla;Compatible;13,80;13,39;12,97;6
+AL-1SE20-BAT-COM;Alcatel;1SE 2020;Batería;Compatible;7,60;;;6
+AL-1SE20-CON-COM;Alcatel;1SE 2020;Conector de carga;Compatible;3,55;;;6
+AL-1SE20-TAP-COM;Alcatel;1SE 2020;Tapa trasera;Compatible;4,95;;;6
+AL-1SE20-CTR-COM;Alcatel;1SE 2020;Cámara trasera;Compatible;5,45;;;6
+AL-1SE20-CFR-COM;Alcatel;1SE 2020;Cámara frontal;Compatible;3,45;;;6
+AL-1SE20-LEN-COM;Alcatel;1SE 2020;Lente de cámara;Compatible;2,25;;;6
+AL-1SE20-ALT-COM;Alcatel;1SE 2020;Altavoz;Compatible;3,29;;;6
+AL-1SE20-AUR-COM;Alcatel;1SE 2020;Auricular de llamada;Compatible;2,45;;;6
+AL-1SE20-FLX-COM;Alcatel;1SE 2020;Flex de encendido y volumen;Compatible;2,35;;;6
+AL-1SE20-SIM-COM;Alcatel;1SE 2020;Bandeja SIM;Compatible;2,75;;;6
+AL-3X20-PAN-COM;Alcatel;3X 2020;Pantalla;Compatible;13,80;13,39;12,97;6
+AL-3X20-BAT-COM;Alcatel;3X 2020;Batería;Compatible;7,60;;;6
+AL-3X20-CON-COM;Alcatel;3X 2020;Conector de carga;Compatible;3,55;;;6
+AL-3X20-TAP-COM;Alcatel;3X 2020;Tapa trasera;Compatible;4,95;;;6
+AL-3X20-CTR-COM;Alcatel;3X 2020;Cámara trasera;Compatible;5,45;;;6
+AL-3X20-CFR-COM;Alcatel;3X 2020;Cámara frontal;Compatible;3,45;;;6
+AL-3X20-LEN-COM;Alcatel;3X 2020;Lente de cámara;Compatible;2,25;;;6
+AL-3X20-ALT-COM;Alcatel;3X 2020;Altavoz;Compatible;3,29;;;6
+AL-3X20-AUR-COM;Alcatel;3X 2020;Auricular de llamada;Compatible;2,45;;;6
+AL-3X20-FLX-COM;Alcatel;3X 2020;Flex de encendido y volumen;Compatible;2,35;;;6
+AL-3X20-SIM-COM;Alcatel;3X 2020;Bandeja SIM;Compatible;2,75;;;6
+AL-1B20-PAN-COM;Alcatel;1B 2020;Pantalla;Compatible;13,80;13,39;12,97;6
+AL-1B20-BAT-COM;Alcatel;1B 2020;Batería;Compatible;7,60;;;6
+AL-1B20-CON-COM;Alcatel;1B 2020;Conector de carga;Compatible;3,55;;;6
+AL-1B20-TAP-COM;Alcatel;1B 2020;Tapa trasera;Compatible;4,95;;;6
+AL-1B20-CTR-COM;Alcatel;1B 2020;Cámara trasera;Compatible;5,45;;;6
+AL-1B20-CFR-COM;Alcatel;1B 2020;Cámara frontal;Compatible;3,45;;;6
+AL-1B20-LEN-COM;Alcatel;1B 2020;Lente de cámara;Compatible;2,25;;;6
+AL-1B20-ALT-COM;Alcatel;1B 2020;Altavoz;Compatible;3,29;;;6
+AL-1B20-AUR-COM;Alcatel;1B 2020;Auricular de llamada;Compatible;2,45;;;6
+AL-1B20-FLX-COM;Alcatel;1B 2020;Flex de encendido y volumen;Compatible;2,35;;;6
+AL-1B20-SIM-COM;Alcatel;1B 2020;Bandeja SIM;Compatible;2,75;;;6
+AL-1S20-PAN-COM;Alcatel;1S 2020;Pantalla;Compatible;13,80;13,39;12,97;6
+AL-1S20-BAT-COM;Alcatel;1S 2020;Batería;Compatible;7,60;;;6
+AL-1S20-CON-COM;Alcatel;1S 2020;Conector de carga;Compatible;3,55;;;6
+AL-1S20-TAP-COM-VER;Alcatel;1S 2020;Tapa trasera;Verde (Agate Green);4,95;;;6
+AL-1S20-TAP-COM-GRI;Alcatel;1S 2020;Tapa trasera;Gris (Power Gray);4,95;;;6
+AL-1S20-CTR-COM;Alcatel;1S 2020;Cámara trasera;Compatible;5,45;;;6
+AL-1S20-CFR-COM;Alcatel;1S 2020;Cámara frontal;Compatible;3,45;;;6
+AL-1S20-LEN-COM;Alcatel;1S 2020;Lente de cámara;Compatible;2,25;;;6
+AL-1S20-ALT-COM;Alcatel;1S 2020;Altavoz;Compatible;3,29;;;6
+AL-1S20-AUR-COM;Alcatel;1S 2020;Auricular de llamada;Compatible;2,45;;;6
+AL-1S20-FLX-COM;Alcatel;1S 2020;Flex de encendido y volumen;Compatible;2,35;;;6
+AL-1S20-SIM-COM;Alcatel;1S 2020;Bandeja SIM;Compatible;2,75;;;6
+AL-1V20-PAN-COM;Alcatel;1V 2020;Pantalla;Compatible;13,80;13,39;12,97;6
+AL-1V20-BAT-COM;Alcatel;1V 2020;Batería;Compatible;7,60;;;6
+AL-1V20-CON-COM;Alcatel;1V 2020;Conector de carga;Compatible;3,55;;;6
+AL-1V20-TAP-COM-NEG;Alcatel;1V 2020;Tapa trasera;Negro (Prime Black);4,95;;;6
+AL-1V20-TAP-COM-VER;Alcatel;1V 2020;Tapa trasera;Verde (Pine Green);4,95;;;6
+AL-1V20-CTR-COM;Alcatel;1V 2020;Cámara trasera;Compatible;5,45;;;6
+AL-1V20-CFR-COM;Alcatel;1V 2020;Cámara frontal;Compatible;3,45;;;6
+AL-1V20-LEN-COM;Alcatel;1V 2020;Lente de cámara;Compatible;2,25;;;6
+AL-1V20-ALT-COM;Alcatel;1V 2020;Altavoz;Compatible;3,29;;;6
+AL-1V20-AUR-COM;Alcatel;1V 2020;Auricular de llamada;Compatible;2,45;;;6
+AL-1V20-FLX-COM;Alcatel;1V 2020;Flex de encendido y volumen;Compatible;2,35;;;6
+AL-1V20-SIM-COM;Alcatel;1V 2020;Bandeja SIM;Compatible;2,75;;;6
+AL-3L20-PAN-COM;Alcatel;3L 2020;Pantalla;Compatible;13,80;13,39;12,97;6
+AL-3L20-BAT-COM;Alcatel;3L 2020;Batería;Compatible;7,60;;;6
+AL-3L20-CON-COM;Alcatel;3L 2020;Conector de carga;Compatible;3,55;;;6
+AL-3L20-TAP-COM-AZU;Alcatel;3L 2020;Tapa trasera;Azul (Chameleon Blue);4,95;;;6
+AL-3L20-TAP-COM-DAR;Alcatel;3L 2020;Tapa trasera;Dark Chrome;4,95;;;6
+AL-3L20-TAP-COM-VER;Alcatel;3L 2020;Tapa trasera;Verde (Agate Green);4,95;;;6
+AL-3L20-CTR-COM;Alcatel;3L 2020;Cámara trasera;Compatible;5,45;;;6
+AL-3L20-CFR-COM;Alcatel;3L 2020;Cámara frontal;Compatible;3,45;;;6
+AL-3L20-LEN-COM;Alcatel;3L 2020;Lente de cámara;Compatible;2,25;;;6
+AL-3L20-ALT-COM;Alcatel;3L 2020;Altavoz;Compatible;3,29;;;6
+AL-3L20-AUR-COM;Alcatel;3L 2020;Auricular de llamada;Compatible;2,45;;;6
+AL-3L20-FLX-COM;Alcatel;3L 2020;Flex de encendido y volumen;Compatible;2,35;;;6
+AL-3L20-SIM-COM;Alcatel;3L 2020;Bandeja SIM;Compatible;2,75;;;6
+AL-1S21-PAN-COM;Alcatel;1S 2021;Pantalla;Compatible;13,80;13,39;12,97;6
+AL-1S21-BAT-COM;Alcatel;1S 2021;Batería;Compatible;7,60;;;6
+AL-1S21-CON-COM;Alcatel;1S 2021;Conector de carga;Compatible;3,55;;;6
+AL-1S21-TAP-COM-NEG;Alcatel;1S 2021;Tapa trasera;Negro (Elegant Black);4,95;;;6
+AL-1S21-TAP-COM-AZU;Alcatel;1S 2021;Tapa trasera;Azul (Twilight Blue);4,95;;;6
+AL-1S21-CTR-COM;Alcatel;1S 2021;Cámara trasera;Compatible;5,45;;;6
+AL-1S21-CFR-COM;Alcatel;1S 2021;Cámara frontal;Compatible;3,45;;;6
+AL-1S21-LEN-COM;Alcatel;1S 2021;Lente de cámara;Compatible;2,25;;;6
+AL-1S21-ALT-COM;Alcatel;1S 2021;Altavoz;Compatible;3,29;;;6
+AL-1S21-AUR-COM;Alcatel;1S 2021;Auricular de llamada;Compatible;2,45;;;6
+AL-1S21-FLX-COM;Alcatel;1S 2021;Flex de encendido y volumen;Compatible;2,35;;;6
+AL-1S21-SIM-COM;Alcatel;1S 2021;Bandeja SIM;Compatible;2,75;;;6
+AL-1L21-PAN-COM;Alcatel;1L 2021;Pantalla;Compatible;13,80;13,39;12,97;6
+AL-1L21-BAT-COM;Alcatel;1L 2021;Batería;Compatible;7,60;;;6
+AL-1L21-CON-COM;Alcatel;1L 2021;Conector de carga;Compatible;3,55;;;6
+AL-1L21-TAP-COM-GRI;Alcatel;1L 2021;Tapa trasera;Gris (Power Grey);4,95;;;6
+AL-1L21-TAP-COM-AZU;Alcatel;1L 2021;Tapa trasera;Azul (Twilight Blue);4,95;;;6
+AL-1L21-CTR-COM;Alcatel;1L 2021;Cámara trasera;Compatible;5,45;;;6
+AL-1L21-CFR-COM;Alcatel;1L 2021;Cámara frontal;Compatible;3,45;;;6
+AL-1L21-LEN-COM;Alcatel;1L 2021;Lente de cámara;Compatible;2,25;;;6
+AL-1L21-ALT-COM;Alcatel;1L 2021;Altavoz;Compatible;3,29;;;6
+AL-1L21-AUR-COM;Alcatel;1L 2021;Auricular de llamada;Compatible;2,45;;;6
+AL-1L21-FLX-COM;Alcatel;1L 2021;Flex de encendido y volumen;Compatible;2,35;;;6
+AL-1L21-SIM-COM;Alcatel;1L 2021;Bandeja SIM;Compatible;2,75;;;6
+AL-3L21-PAN-COM;Alcatel;3L 2021;Pantalla;Compatible;13,80;13,39;12,97;6
+AL-3L21-BAT-COM;Alcatel;3L 2021;Batería;Compatible;7,60;;;6
+AL-3L21-CON-COM;Alcatel;3L 2021;Conector de carga;Compatible;3,55;;;6
+AL-3L21-TAP-COM-NEG;Alcatel;3L 2021;Tapa trasera;Negro (Jewelry Black);4,95;;;6
+AL-3L21-TAP-COM-AZU;Alcatel;3L 2021;Tapa trasera;Azul (Jewelry Blue);4,95;;;6
+AL-3L21-CTR-COM;Alcatel;3L 2021;Cámara trasera;Compatible;5,45;;;6
+AL-3L21-CFR-COM;Alcatel;3L 2021;Cámara frontal;Compatible;3,45;;;6
+AL-3L21-LEN-COM;Alcatel;3L 2021;Lente de cámara;Compatible;2,25;;;6
+AL-3L21-ALT-COM;Alcatel;3L 2021;Altavoz;Compatible;3,29;;;6
+AL-3L21-AUR-COM;Alcatel;3L 2021;Auricular de llamada;Compatible;2,45;;;6
+AL-3L21-FLX-COM;Alcatel;3L 2021;Flex de encendido y volumen;Compatible;2,35;;;6
+AL-3L21-SIM-COM;Alcatel;3L 2021;Bandeja SIM;Compatible;2,75;;;6
+AL-121-PAN-COM;Alcatel;1 2021;Pantalla;Compatible;13,80;13,39;12,97;6
+AL-121-BAT-COM;Alcatel;1 2021;Batería;Compatible;7,60;;;6
+AL-121-CON-COM;Alcatel;1 2021;Conector de carga;Compatible;3,55;;;6
+AL-121-TAP-COM-NEG;Alcatel;1 2021;Tapa trasera;Negro (Volcano Black);4,95;;;6
+AL-121-TAP-COM-AAQ;Alcatel;1 2021;Tapa trasera;AI Aqua;4,95;;;6
+AL-121-CTR-COM;Alcatel;1 2021;Cámara trasera;Compatible;5,45;;;6
+AL-121-CFR-COM;Alcatel;1 2021;Cámara frontal;Compatible;3,45;;;6
+AL-121-LEN-COM;Alcatel;1 2021;Lente de cámara;Compatible;2,25;;;6
+AL-121-ALT-COM;Alcatel;1 2021;Altavoz;Compatible;3,29;;;6
+AL-121-AUR-COM;Alcatel;1 2021;Auricular de llamada;Compatible;2,45;;;6
+AL-121-FLX-COM;Alcatel;1 2021;Flex de encendido y volumen;Compatible;2,35;;;6
+AL-121-SIM-COM;Alcatel;1 2021;Bandeja SIM;Compatible;2,75;;;6
+AL-1B22-PAN-COM;Alcatel;1B 2022;Pantalla;Compatible;13,80;13,39;12,97;6
+AL-1B22-BAT-COM;Alcatel;1B 2022;Batería;Compatible;7,60;;;6
+AL-1B22-CON-COM;Alcatel;1B 2022;Conector de carga;Compatible;3,55;;;6
+AL-1B22-TAP-COM-NEG;Alcatel;1B 2022;Tapa trasera;Negro (Prime Black);4,95;;;6
+AL-1B22-TAP-COM-AZU;Alcatel;1B 2022;Tapa trasera;Azul (Atlantic Blue);4,95;;;6
+AL-1B22-CTR-COM;Alcatel;1B 2022;Cámara trasera;Compatible;5,45;;;6
+AL-1B22-CFR-COM;Alcatel;1B 2022;Cámara frontal;Compatible;3,45;;;6
+AL-1B22-LEN-COM;Alcatel;1B 2022;Lente de cámara;Compatible;2,25;;;6
+AL-1B22-ALT-COM;Alcatel;1B 2022;Altavoz;Compatible;3,29;;;6
+AL-1B22-AUR-COM;Alcatel;1B 2022;Auricular de llamada;Compatible;2,45;;;6
+AL-1B22-FLX-COM;Alcatel;1B 2022;Flex de encendido y volumen;Compatible;2,35;;;6
+AL-1B22-SIM-COM;Alcatel;1B 2022;Bandeja SIM;Compatible;2,75;;;6
+AL-FXL-PAN-COM;Alcatel;Fierce XL;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-FXL-BAT-COM;Alcatel;Fierce XL;Batería;Compatible;8,90;;;6
+AL-FXL-CON-COM;Alcatel;Fierce XL;Conector de carga;Compatible;3,70;;;6
+AL-FXL-TAP-COM;Alcatel;Fierce XL;Tapa trasera;Compatible;4,80;;;6
+AL-FXL-CTR-COM;Alcatel;Fierce XL;Cámara trasera;Compatible;6,65;;;6
+AL-FXL-CFR-COM;Alcatel;Fierce XL;Cámara frontal;Compatible;4,65;;;6
+AL-FXL-LEN-COM;Alcatel;Fierce XL;Lente de cámara;Compatible;2,25;;;6
+AL-FXL-ALT-COM;Alcatel;Fierce XL;Altavoz;Compatible;3,59;;;6
+AL-FXL-AUR-COM;Alcatel;Fierce XL;Auricular de llamada;Compatible;2,69;;;6
+AL-FXL-FLX-COM;Alcatel;Fierce XL;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-FXL-SIM-COM;Alcatel;Fierce XL;Bandeja SIM;Compatible;2,65;;;6
+AL-P34-PAN-COM;Alcatel;Pixi 3 (4);Pantalla;Compatible;13,00;12,61;12,22;6
+AL-P34-BAT-COM;Alcatel;Pixi 3 (4);Batería;Compatible;8,90;;;6
+AL-P34-CON-COM;Alcatel;Pixi 3 (4);Conector de carga;Compatible;3,70;;;6
+AL-P34-TAP-COM;Alcatel;Pixi 3 (4);Tapa trasera;Compatible;4,80;;;6
+AL-P34-CTR-COM;Alcatel;Pixi 3 (4);Cámara trasera;Compatible;6,65;;;6
+AL-P34-CFR-COM;Alcatel;Pixi 3 (4);Cámara frontal;Compatible;4,65;;;6
+AL-P34-LEN-COM;Alcatel;Pixi 3 (4);Lente de cámara;Compatible;2,25;;;6
+AL-P34-ALT-COM;Alcatel;Pixi 3 (4);Altavoz;Compatible;3,59;;;6
+AL-P34-AUR-COM;Alcatel;Pixi 3 (4);Auricular de llamada;Compatible;2,69;;;6
+AL-P34-FLX-COM;Alcatel;Pixi 3 (4);Flex de encendido y volumen;Compatible;2,55;;;6
+AL-P34-SIM-COM;Alcatel;Pixi 3 (4);Bandeja SIM;Compatible;2,65;;;6
+AL-P345-PAN-COM;Alcatel;Pixi 3 (4.5);Pantalla;Compatible;13,00;12,61;12,22;6
+AL-P345-BAT-COM;Alcatel;Pixi 3 (4.5);Batería;Compatible;8,90;;;6
+AL-P345-CON-COM;Alcatel;Pixi 3 (4.5);Conector de carga;Compatible;3,70;;;6
+AL-P345-TAP-COM;Alcatel;Pixi 3 (4.5);Tapa trasera;Compatible;4,80;;;6
+AL-P345-CTR-COM;Alcatel;Pixi 3 (4.5);Cámara trasera;Compatible;6,65;;;6
+AL-P345-CFR-COM;Alcatel;Pixi 3 (4.5);Cámara frontal;Compatible;4,65;;;6
+AL-P345-LEN-COM;Alcatel;Pixi 3 (4.5);Lente de cámara;Compatible;2,25;;;6
+AL-P345-ALT-COM;Alcatel;Pixi 3 (4.5);Altavoz;Compatible;3,59;;;6
+AL-P345-AUR-COM;Alcatel;Pixi 3 (4.5);Auricular de llamada;Compatible;2,69;;;6
+AL-P345-FLX-COM;Alcatel;Pixi 3 (4.5);Flex de encendido y volumen;Compatible;2,55;;;6
+AL-P345-SIM-COM;Alcatel;Pixi 3 (4.5);Bandeja SIM;Compatible;2,65;;;6
+AL-P35-PAN-COM;Alcatel;Pixi 3 (5);Pantalla;Compatible;13,00;12,61;12,22;6
+AL-P35-BAT-COM;Alcatel;Pixi 3 (5);Batería;Compatible;8,90;;;6
+AL-P35-CON-COM;Alcatel;Pixi 3 (5);Conector de carga;Compatible;3,70;;;6
+AL-P35-TAP-COM;Alcatel;Pixi 3 (5);Tapa trasera;Compatible;4,80;;;6
+AL-P35-CTR-COM;Alcatel;Pixi 3 (5);Cámara trasera;Compatible;6,65;;;6
+AL-P35-CFR-COM;Alcatel;Pixi 3 (5);Cámara frontal;Compatible;4,65;;;6
+AL-P35-LEN-COM;Alcatel;Pixi 3 (5);Lente de cámara;Compatible;2,25;;;6
+AL-P35-ALT-COM;Alcatel;Pixi 3 (5);Altavoz;Compatible;3,59;;;6
+AL-P35-AUR-COM;Alcatel;Pixi 3 (5);Auricular de llamada;Compatible;2,69;;;6
+AL-P35-FLX-COM;Alcatel;Pixi 3 (5);Flex de encendido y volumen;Compatible;2,55;;;6
+AL-P35-SIM-COM;Alcatel;Pixi 3 (5);Bandeja SIM;Compatible;2,65;;;6
+AL-POP24-PAN-COM;Alcatel;Pop 2 (4);Pantalla;Compatible;13,00;12,61;12,22;6
+AL-POP24-BAT-COM;Alcatel;Pop 2 (4);Batería;Compatible;8,90;;;6
+AL-POP24-CON-COM;Alcatel;Pop 2 (4);Conector de carga;Compatible;3,70;;;6
+AL-POP24-TAP-COM;Alcatel;Pop 2 (4);Tapa trasera;Compatible;4,80;;;6
+AL-POP24-CTR-COM;Alcatel;Pop 2 (4);Cámara trasera;Compatible;6,65;;;6
+AL-POP24-CFR-COM;Alcatel;Pop 2 (4);Cámara frontal;Compatible;4,65;;;6
+AL-POP24-LEN-COM;Alcatel;Pop 2 (4);Lente de cámara;Compatible;2,25;;;6
+AL-POP24-ALT-COM;Alcatel;Pop 2 (4);Altavoz;Compatible;3,59;;;6
+AL-POP24-AUR-COM;Alcatel;Pop 2 (4);Auricular de llamada;Compatible;2,69;;;6
+AL-POP24-FLX-COM;Alcatel;Pop 2 (4);Flex de encendido y volumen;Compatible;2,55;;;6
+AL-POP24-SIM-COM;Alcatel;Pop 2 (4);Bandeja SIM;Compatible;2,65;;;6
+AL-POP245-PAN-COM;Alcatel;Pop 2 (4.5);Pantalla;Compatible;13,00;12,61;12,22;6
+AL-POP245-BAT-COM;Alcatel;Pop 2 (4.5);Batería;Compatible;8,90;;;6
+AL-POP245-CON-COM;Alcatel;Pop 2 (4.5);Conector de carga;Compatible;3,70;;;6
+AL-POP245-TAP-COM;Alcatel;Pop 2 (4.5);Tapa trasera;Compatible;4,80;;;6
+AL-POP245-CTR-COM;Alcatel;Pop 2 (4.5);Cámara trasera;Compatible;6,65;;;6
+AL-POP245-CFR-COM;Alcatel;Pop 2 (4.5);Cámara frontal;Compatible;4,65;;;6
+AL-POP245-LEN-COM;Alcatel;Pop 2 (4.5);Lente de cámara;Compatible;2,25;;;6
+AL-POP245-ALT-COM;Alcatel;Pop 2 (4.5);Altavoz;Compatible;3,59;;;6
+AL-POP245-AUR-COM;Alcatel;Pop 2 (4.5);Auricular de llamada;Compatible;2,69;;;6
+AL-POP245-FLX-COM;Alcatel;Pop 2 (4.5);Flex de encendido y volumen;Compatible;2,55;;;6
+AL-POP245-SIM-COM;Alcatel;Pop 2 (4.5);Bandeja SIM;Compatible;2,65;;;6
+AL-FE-PAN-COM;Alcatel;Fire E;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-FE-BAT-COM;Alcatel;Fire E;Batería;Compatible;8,90;;;6
+AL-FE-CON-COM;Alcatel;Fire E;Conector de carga;Compatible;3,70;;;6
+AL-FE-TAP-COM;Alcatel;Fire E;Tapa trasera;Compatible;4,80;;;6
+AL-FE-CTR-COM;Alcatel;Fire E;Cámara trasera;Compatible;6,65;;;6
+AL-FE-CFR-COM;Alcatel;Fire E;Cámara frontal;Compatible;4,65;;;6
+AL-FE-LEN-COM;Alcatel;Fire E;Lente de cámara;Compatible;2,25;;;6
+AL-FE-ALT-COM;Alcatel;Fire E;Altavoz;Compatible;3,59;;;6
+AL-FE-AUR-COM;Alcatel;Fire E;Auricular de llamada;Compatible;2,69;;;6
+AL-FE-FLX-COM;Alcatel;Fire E;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-FE-SIM-COM;Alcatel;Fire E;Bandeja SIM;Compatible;2,65;;;6
+AL-E-PAN-COM;Alcatel;Evolve;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-E-BAT-COM;Alcatel;Evolve;Batería;Compatible;8,90;;;6
+AL-E-CON-COM;Alcatel;Evolve;Conector de carga;Compatible;3,70;;;6
+AL-E-TAP-COM;Alcatel;Evolve;Tapa trasera;Compatible;4,80;;;6
+AL-E-CTR-COM;Alcatel;Evolve;Cámara trasera;Compatible;6,65;;;6
+AL-E-CFR-COM;Alcatel;Evolve;Cámara frontal;Compatible;4,65;;;6
+AL-E-LEN-COM;Alcatel;Evolve;Lente de cámara;Compatible;2,25;;;6
+AL-E-ALT-COM;Alcatel;Evolve;Altavoz;Compatible;3,59;;;6
+AL-E-AUR-COM;Alcatel;Evolve;Auricular de llamada;Compatible;2,69;;;6
+AL-E-FLX-COM;Alcatel;Evolve;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-E-SIM-COM;Alcatel;Evolve;Bandeja SIM;Compatible;2,65;;;6
+AL-F-PAN-COM;Alcatel;Fire;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-F-BAT-COM;Alcatel;Fire;Batería;Compatible;8,90;;;6
+AL-F-CON-COM;Alcatel;Fire;Conector de carga;Compatible;3,70;;;6
+AL-F-TAP-COM;Alcatel;Fire;Tapa trasera;Compatible;4,80;;;6
+AL-F-CTR-COM;Alcatel;Fire;Cámara trasera;Compatible;6,65;;;6
+AL-F-CFR-COM;Alcatel;Fire;Cámara frontal;Compatible;4,65;;;6
+AL-F-LEN-COM;Alcatel;Fire;Lente de cámara;Compatible;2,25;;;6
+AL-F-ALT-COM;Alcatel;Fire;Altavoz;Compatible;3,59;;;6
+AL-F-AUR-COM;Alcatel;Fire;Auricular de llamada;Compatible;2,69;;;6
+AL-F-FLX-COM;Alcatel;Fire;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-F-SIM-COM;Alcatel;Fire;Bandeja SIM;Compatible;2,65;;;6
+AL-960C-PAN-COM;Alcatel;960C;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-960C-BAT-COM;Alcatel;960C;Batería;Compatible;8,90;;;6
+AL-960C-CON-COM;Alcatel;960C;Conector de carga;Compatible;3,70;;;6
+AL-960C-TAP-COM;Alcatel;960C;Tapa trasera;Compatible;4,80;;;6
+AL-960C-CTR-COM;Alcatel;960C;Cámara trasera;Compatible;6,65;;;6
+AL-960C-CFR-COM;Alcatel;960C;Cámara frontal;Compatible;4,65;;;6
+AL-960C-LEN-COM;Alcatel;960C;Lente de cámara;Compatible;2,25;;;6
+AL-960C-ALT-COM;Alcatel;960C;Altavoz;Compatible;3,59;;;6
+AL-960C-AUR-COM;Alcatel;960C;Auricular de llamada;Compatible;2,69;;;6
+AL-960C-FLX-COM;Alcatel;960C;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-960C-SIM-COM;Alcatel;960C;Bandeja SIM;Compatible;2,65;;;6
+AL-3XPL-PAN-COM;Alcatel;3X Plus;Pantalla;Compatible;13,00;12,61;12,22;6
+AL-3XPL-BAT-COM;Alcatel;3X Plus;Batería;Compatible;8,90;;;6
+AL-3XPL-CON-COM;Alcatel;3X Plus;Conector de carga;Compatible;3,70;;;6
+AL-3XPL-TAP-COM;Alcatel;3X Plus;Tapa trasera;Compatible;4,80;;;6
+AL-3XPL-CTR-COM;Alcatel;3X Plus;Cámara trasera;Compatible;6,65;;;6
+AL-3XPL-CFR-COM;Alcatel;3X Plus;Cámara frontal;Compatible;4,65;;;6
+AL-3XPL-LEN-COM;Alcatel;3X Plus;Lente de cámara;Compatible;2,25;;;6
+AL-3XPL-ALT-COM;Alcatel;3X Plus;Altavoz;Compatible;3,59;;;6
+AL-3XPL-AUR-COM;Alcatel;3X Plus;Auricular de llamada;Compatible;2,69;;;6
+AL-3XPL-FLX-COM;Alcatel;3X Plus;Flex de encendido y volumen;Compatible;2,55;;;6
+AL-3XPL-SIM-COM;Alcatel;3X Plus;Bandeja SIM;Compatible;2,65;;;6
+AL-P44-PRO-NA;Alcatel;Pixi 4 (4);Cristal templado;Estándar;1,30;;;
+AL-P44-PRO-PRI;Alcatel;Pixi 4 (4);Cristal templado;Privacidad;4,00;;;
+AL-P44-FUN-SIL;Alcatel;Pixi 4 (4);Funda;Silicona;2,50;;;
+AL-P44-FUN-TPU;Alcatel;Pixi 4 (4);Funda;Transparente;2,95;;;
+AL-P44-FUN-LIB;Alcatel;Pixi 4 (4);Funda;Libro;3,70;;;
+AL-P44-FUN-ANT;Alcatel;Pixi 4 (4);Funda;Antigolpes;3,10;;;
+AL-P453G-PRO-NA;Alcatel;Pixi 4 (5) 3G;Cristal templado;Estándar;1,30;;;
+AL-P453G-PRO-PRI;Alcatel;Pixi 4 (5) 3G;Cristal templado;Privacidad;4,00;;;
+AL-P453G-FUN-SIL;Alcatel;Pixi 4 (5) 3G;Funda;Silicona;2,50;;;
+AL-P453G-FUN-TPU;Alcatel;Pixi 4 (5) 3G;Funda;Transparente;2,95;;;
+AL-P453G-FUN-LIB;Alcatel;Pixi 4 (5) 3G;Funda;Libro;3,70;;;
+AL-P453G-FUN-ANT;Alcatel;Pixi 4 (5) 3G;Funda;Antigolpes;3,10;;;
+AL-P454-PRO-NA;Alcatel;Pixi 4 (5) 4G;Cristal templado;Estándar;1,30;;;
+AL-P454-PRO-PRI;Alcatel;Pixi 4 (5) 4G;Cristal templado;Privacidad;4,00;;;
+AL-P454-FUN-SIL;Alcatel;Pixi 4 (5) 4G;Funda;Silicona;2,50;;;
+AL-P454-FUN-TPU;Alcatel;Pixi 4 (5) 4G;Funda;Transparente;2,95;;;
+AL-P454-FUN-LIB;Alcatel;Pixi 4 (5) 4G;Funda;Libro;3,70;;;
+AL-P454-FUN-ANT;Alcatel;Pixi 4 (5) 4G;Funda;Antigolpes;3,10;;;
+AL-P463G-PRO-NA;Alcatel;Pixi 4 (6) 3G;Cristal templado;Estándar;1,30;;;
+AL-P463G-PRO-PRI;Alcatel;Pixi 4 (6) 3G;Cristal templado;Privacidad;4,00;;;
+AL-P463G-FUN-SIL;Alcatel;Pixi 4 (6) 3G;Funda;Silicona;2,50;;;
+AL-P463G-FUN-TPU;Alcatel;Pixi 4 (6) 3G;Funda;Transparente;2,95;;;
+AL-P463G-FUN-LIB;Alcatel;Pixi 4 (6) 3G;Funda;Libro;3,70;;;
+AL-P463G-FUN-ANT;Alcatel;Pixi 4 (6) 3G;Funda;Antigolpes;3,10;;;
+AL-P464-PRO-NA;Alcatel;Pixi 4 (6) 4G;Cristal templado;Estándar;1,30;;;
+AL-P464-PRO-PRI;Alcatel;Pixi 4 (6) 4G;Cristal templado;Privacidad;4,00;;;
+AL-P464-FUN-SIL;Alcatel;Pixi 4 (6) 4G;Funda;Silicona;2,50;;;
+AL-P464-FUN-TPU;Alcatel;Pixi 4 (6) 4G;Funda;Transparente;2,95;;;
+AL-P464-FUN-LIB;Alcatel;Pixi 4 (6) 4G;Funda;Libro;3,70;;;
+AL-P464-FUN-ANT;Alcatel;Pixi 4 (6) 4G;Funda;Antigolpes;3,10;;;
+AL-POPUP-PRO-NA;Alcatel;Pop Up;Cristal templado;Estándar;1,30;;;
+AL-POPUP-PRO-PRI;Alcatel;Pop Up;Cristal templado;Privacidad;4,00;;;
+AL-POPUP-FUN-SIL;Alcatel;Pop Up;Funda;Silicona;2,50;;;
+AL-POPUP-FUN-TPU;Alcatel;Pop Up;Funda;Transparente;2,95;;;
+AL-POPUP-FUN-LIB;Alcatel;Pop Up;Funda;Libro;3,70;;;
+AL-POPUP-FUN-ANT;Alcatel;Pop Up;Funda;Antigolpes;3,10;;;
+AL-SL-PRO-NA;Alcatel;Shine Lite;Cristal templado;Estándar;1,30;;;
+AL-SL-PRO-PRI;Alcatel;Shine Lite;Cristal templado;Privacidad;4,00;;;
+AL-SL-FUN-SIL;Alcatel;Shine Lite;Funda;Silicona;2,50;;;
+AL-SL-FUN-TPU;Alcatel;Shine Lite;Funda;Transparente;2,95;;;
+AL-SL-FUN-LIB;Alcatel;Shine Lite;Funda;Libro;3,70;;;
+AL-SL-FUN-ANT;Alcatel;Shine Lite;Funda;Antigolpes;3,10;;;
+AL-I4-PRO-NA;Alcatel;Idol 4;Cristal templado;Estándar;1,30;;;
+AL-I4-PRO-PRI;Alcatel;Idol 4;Cristal templado;Privacidad;4,00;;;
+AL-I4-FUN-SIL;Alcatel;Idol 4;Funda;Silicona;2,50;;;
+AL-I4-FUN-TPU;Alcatel;Idol 4;Funda;Transparente;2,95;;;
+AL-I4-FUN-LIB;Alcatel;Idol 4;Funda;Libro;3,70;;;
+AL-I4-FUN-ANT;Alcatel;Idol 4;Funda;Antigolpes;3,10;;;
+AL-I4S-PRO-NA;Alcatel;Idol 4S;Cristal templado;Estándar;1,30;;;
+AL-I4S-PRO-PRI;Alcatel;Idol 4S;Cristal templado;Privacidad;4,00;;;
+AL-I4S-FUN-SIL;Alcatel;Idol 4S;Funda;Silicona;2,50;;;
+AL-I4S-FUN-TPU;Alcatel;Idol 4S;Funda;Transparente;2,95;;;
+AL-I4S-FUN-LIB;Alcatel;Idol 4S;Funda;Libro;3,70;;;
+AL-I4S-FUN-ANT;Alcatel;Idol 4S;Funda;Antigolpes;3,10;;;
+AL-POP4-PRO-NA;Alcatel;Pop 4;Cristal templado;Estándar;1,30;;;
+AL-POP4-PRO-PRI;Alcatel;Pop 4;Cristal templado;Privacidad;4,00;;;
+AL-POP4-FUN-SIL;Alcatel;Pop 4;Funda;Silicona;2,50;;;
+AL-POP4-FUN-TPU;Alcatel;Pop 4;Funda;Transparente;2,95;;;
+AL-POP4-FUN-LIB;Alcatel;Pop 4;Funda;Libro;3,70;;;
+AL-POP4-FUN-ANT;Alcatel;Pop 4;Funda;Antigolpes;3,10;;;
+AL-POP4PL-PRO-NA;Alcatel;Pop 4+;Cristal templado;Estándar;1,30;;;
+AL-POP4PL-PRO-PRI;Alcatel;Pop 4+;Cristal templado;Privacidad;4,00;;;
+AL-POP4PL-FUN-SIL;Alcatel;Pop 4+;Funda;Silicona;2,50;;;
+AL-POP4PL-FUN-TPU;Alcatel;Pop 4+;Funda;Transparente;2,95;;;
+AL-POP4PL-FUN-LIB;Alcatel;Pop 4+;Funda;Libro;3,70;;;
+AL-POP4PL-FUN-ANT;Alcatel;Pop 4+;Funda;Antigolpes;3,10;;;
+AL-POP4S-PRO-NA;Alcatel;Pop 4S;Cristal templado;Estándar;1,30;;;
+AL-POP4S-PRO-PRI;Alcatel;Pop 4S;Cristal templado;Privacidad;4,00;;;
+AL-POP4S-FUN-SIL;Alcatel;Pop 4S;Funda;Silicona;2,50;;;
+AL-POP4S-FUN-TPU;Alcatel;Pop 4S;Funda;Transparente;2,95;;;
+AL-POP4S-FUN-LIB;Alcatel;Pop 4S;Funda;Libro;3,70;;;
+AL-POP4S-FUN-ANT;Alcatel;Pop 4S;Funda;Antigolpes;3,10;;;
+AL-A5LED-PRO-NA;Alcatel;A5 LED;Cristal templado;Estándar;1,30;;;
+AL-A5LED-PRO-PRI;Alcatel;A5 LED;Cristal templado;Privacidad;4,00;;;
+AL-A5LED-FUN-SIL;Alcatel;A5 LED;Funda;Silicona;2,50;;;
+AL-A5LED-FUN-TPU;Alcatel;A5 LED;Funda;Transparente;2,95;;;
+AL-A5LED-FUN-LIB;Alcatel;A5 LED;Funda;Libro;3,70;;;
+AL-A5LED-FUN-ANT;Alcatel;A5 LED;Funda;Antigolpes;3,10;;;
+AL-A7-PRO-NA;Alcatel;A7;Cristal templado;Estándar;1,30;;;
+AL-A7-PRO-PRI;Alcatel;A7;Cristal templado;Privacidad;4,00;;;
+AL-A7-FUN-SIL;Alcatel;A7;Funda;Silicona;2,50;;;
+AL-A7-FUN-TPU;Alcatel;A7;Funda;Transparente;2,95;;;
+AL-A7-FUN-LIB;Alcatel;A7;Funda;Libro;3,70;;;
+AL-A7-FUN-ANT;Alcatel;A7;Funda;Antigolpes;3,10;;;
+AL-A7XL-PRO-NA;Alcatel;A7 XL;Cristal templado;Estándar;1,30;;;
+AL-A7XL-PRO-PRI;Alcatel;A7 XL;Cristal templado;Privacidad;4,00;;;
+AL-A7XL-FUN-SIL;Alcatel;A7 XL;Funda;Silicona;2,50;;;
+AL-A7XL-FUN-TPU;Alcatel;A7 XL;Funda;Transparente;2,95;;;
+AL-A7XL-FUN-LIB;Alcatel;A7 XL;Funda;Libro;3,70;;;
+AL-A7XL-FUN-ANT;Alcatel;A7 XL;Funda;Antigolpes;3,10;;;
+AL-POP46-PRO-NA;Alcatel;Pop 4 (6);Cristal templado;Estándar;1,30;;;
+AL-POP46-PRO-PRI;Alcatel;Pop 4 (6);Cristal templado;Privacidad;4,00;;;
+AL-POP46-FUN-SIL;Alcatel;Pop 4 (6);Funda;Silicona;2,50;;;
+AL-POP46-FUN-TPU;Alcatel;Pop 4 (6);Funda;Transparente;2,95;;;
+AL-POP46-FUN-LIB;Alcatel;Pop 4 (6);Funda;Libro;3,70;;;
+AL-POP46-FUN-ANT;Alcatel;Pop 4 (6);Funda;Antigolpes;3,10;;;
+AL-U3-PRO-NA;Alcatel;U3;Cristal templado;Estándar;1,30;;;
+AL-U3-PRO-PRI;Alcatel;U3;Cristal templado;Privacidad;4,00;;;
+AL-U3-FUN-SIL;Alcatel;U3;Funda;Silicona;2,50;;;
+AL-U3-FUN-TPU;Alcatel;U3;Funda;Transparente;2,95;;;
+AL-U3-FUN-LIB;Alcatel;U3;Funda;Libro;3,70;;;
+AL-U3-FUN-ANT;Alcatel;U3;Funda;Antigolpes;3,10;;;
+AL-U5HD-PRO-NA;Alcatel;U5 HD;Cristal templado;Estándar;1,30;;;
+AL-U5HD-PRO-PRI;Alcatel;U5 HD;Cristal templado;Privacidad;4,00;;;
+AL-U5HD-FUN-SIL;Alcatel;U5 HD;Funda;Silicona;2,50;;;
+AL-U5HD-FUN-TPU;Alcatel;U5 HD;Funda;Transparente;2,95;;;
+AL-U5HD-FUN-LIB;Alcatel;U5 HD;Funda;Libro;3,70;;;
+AL-U5HD-FUN-ANT;Alcatel;U5 HD;Funda;Antigolpes;3,10;;;
+AL-A3XL-PRO-NA;Alcatel;A3 XL;Cristal templado;Estándar;1,30;;;
+AL-A3XL-PRO-PRI;Alcatel;A3 XL;Cristal templado;Privacidad;4,00;;;
+AL-A3XL-FUN-SIL;Alcatel;A3 XL;Funda;Silicona;2,50;;;
+AL-A3XL-FUN-TPU;Alcatel;A3 XL;Funda;Transparente;2,95;;;
+AL-A3XL-FUN-LIB;Alcatel;A3 XL;Funda;Libro;3,70;;;
+AL-A3XL-FUN-ANT;Alcatel;A3 XL;Funda;Antigolpes;3,10;;;
+AL-A3-PRO-NA;Alcatel;A3;Cristal templado;Estándar;1,30;;;
+AL-A3-PRO-PRI;Alcatel;A3;Cristal templado;Privacidad;4,00;;;
+AL-A3-FUN-SIL;Alcatel;A3;Funda;Silicona;2,50;;;
+AL-A3-FUN-TPU;Alcatel;A3;Funda;Transparente;2,95;;;
+AL-A3-FUN-LIB;Alcatel;A3;Funda;Libro;3,70;;;
+AL-A3-FUN-ANT;Alcatel;A3;Funda;Antigolpes;3,10;;;
+AL-U5-PRO-NA;Alcatel;U5;Cristal templado;Estándar;1,30;;;
+AL-U5-PRO-PRI;Alcatel;U5;Cristal templado;Privacidad;4,00;;;
+AL-U5-FUN-SIL;Alcatel;U5;Funda;Silicona;2,50;;;
+AL-U5-FUN-TPU;Alcatel;U5;Funda;Transparente;2,95;;;
+AL-U5-FUN-LIB;Alcatel;U5;Funda;Libro;3,70;;;
+AL-U5-FUN-ANT;Alcatel;U5;Funda;Antigolpes;3,10;;;
+AL-I5-PRO-NA;Alcatel;Idol 5;Cristal templado;Estándar;1,30;;;
+AL-I5-PRO-PRI;Alcatel;Idol 5;Cristal templado;Privacidad;4,00;;;
+AL-I5-FUN-SIL;Alcatel;Idol 5;Funda;Silicona;2,50;;;
+AL-I5-FUN-TPU;Alcatel;Idol 5;Funda;Transparente;2,95;;;
+AL-I5-FUN-LIB;Alcatel;Idol 5;Funda;Libro;3,70;;;
+AL-I5-FUN-ANT;Alcatel;Idol 5;Funda;Antigolpes;3,10;;;
+AL-I5S-PRO-NA;Alcatel;Idol 5S;Cristal templado;Estándar;1,30;;;
+AL-I5S-PRO-PRI;Alcatel;Idol 5S;Cristal templado;Privacidad;4,00;;;
+AL-I5S-FUN-SIL;Alcatel;Idol 5S;Funda;Silicona;2,50;;;
+AL-I5S-FUN-TPU;Alcatel;Idol 5S;Funda;Transparente;2,95;;;
+AL-I5S-FUN-LIB;Alcatel;Idol 5S;Funda;Libro;3,70;;;
+AL-I5S-FUN-ANT;Alcatel;Idol 5S;Funda;Antigolpes;3,10;;;
+AL-3C-PRO-NA;Alcatel;3C;Cristal templado;Estándar;1,30;;;
+AL-3C-PRO-PRI;Alcatel;3C;Cristal templado;Privacidad;4,00;;;
+AL-3C-FUN-SIL;Alcatel;3C;Funda;Silicona;2,50;;;
+AL-3C-FUN-TPU;Alcatel;3C;Funda;Transparente;2,95;;;
+AL-3C-FUN-LIB;Alcatel;3C;Funda;Libro;3,70;;;
+AL-3C-FUN-ANT;Alcatel;3C;Funda;Antigolpes;3,10;;;
+AL-3V-PRO-NA;Alcatel;3V;Cristal templado;Estándar;1,30;;;
+AL-3V-PRO-PRI;Alcatel;3V;Cristal templado;Privacidad;4,00;;;
+AL-3V-FUN-SIL;Alcatel;3V;Funda;Silicona;2,50;;;
+AL-3V-FUN-TPU;Alcatel;3V;Funda;Transparente;2,95;;;
+AL-3V-FUN-LIB;Alcatel;3V;Funda;Libro;3,70;;;
+AL-3V-FUN-ANT;Alcatel;3V;Funda;Antigolpes;3,10;;;
+AL-5-PRO-NA;Alcatel;5;Cristal templado;Estándar;1,30;;;
+AL-5-PRO-PRI;Alcatel;5;Cristal templado;Privacidad;4,00;;;
+AL-5-FUN-SIL;Alcatel;5;Funda;Silicona;2,50;;;
+AL-5-FUN-TPU;Alcatel;5;Funda;Transparente;2,95;;;
+AL-5-FUN-LIB;Alcatel;5;Funda;Libro;3,70;;;
+AL-5-FUN-ANT;Alcatel;5;Funda;Antigolpes;3,10;;;
+AL-3-PRO-NA;Alcatel;3;Cristal templado;Estándar;1,30;;;
+AL-3-PRO-PRI;Alcatel;3;Cristal templado;Privacidad;4,00;;;
+AL-3-FUN-SIL;Alcatel;3;Funda;Silicona;2,50;;;
+AL-3-FUN-TPU;Alcatel;3;Funda;Transparente;2,95;;;
+AL-3-FUN-LIB;Alcatel;3;Funda;Libro;3,70;;;
+AL-3-FUN-ANT;Alcatel;3;Funda;Antigolpes;3,10;;;
+AL-3X-PRO-NA;Alcatel;3X;Cristal templado;Estándar;1,30;;;
+AL-3X-PRO-PRI;Alcatel;3X;Cristal templado;Privacidad;4,00;;;
+AL-3X-FUN-SIL;Alcatel;3X;Funda;Silicona;2,50;;;
+AL-3X-FUN-TPU;Alcatel;3X;Funda;Transparente;2,95;;;
+AL-3X-FUN-LIB;Alcatel;3X;Funda;Libro;3,70;;;
+AL-3X-FUN-ANT;Alcatel;3X;Funda;Antigolpes;3,10;;;
+AL-1X-PRO-NA;Alcatel;1X;Cristal templado;Estándar;1,30;;;
+AL-1X-PRO-PRI;Alcatel;1X;Cristal templado;Privacidad;4,00;;;
+AL-1X-FUN-SIL;Alcatel;1X;Funda;Silicona;2,50;;;
+AL-1X-FUN-TPU;Alcatel;1X;Funda;Transparente;2,95;;;
+AL-1X-FUN-LIB;Alcatel;1X;Funda;Libro;3,70;;;
+AL-1X-FUN-ANT;Alcatel;1X;Funda;Antigolpes;3,10;;;
+AL-1-PRO-NA;Alcatel;1;Cristal templado;Estándar;1,30;;;
+AL-1-PRO-PRI;Alcatel;1;Cristal templado;Privacidad;4,00;;;
+AL-1-FUN-SIL;Alcatel;1;Funda;Silicona;2,50;;;
+AL-1-FUN-TPU;Alcatel;1;Funda;Transparente;2,95;;;
+AL-1-FUN-LIB;Alcatel;1;Funda;Libro;3,70;;;
+AL-1-FUN-ANT;Alcatel;1;Funda;Antigolpes;3,10;;;
+AL-5V-PRO-NA;Alcatel;5V;Cristal templado;Estándar;1,30;;;
+AL-5V-PRO-PRI;Alcatel;5V;Cristal templado;Privacidad;4,00;;;
+AL-5V-FUN-SIL;Alcatel;5V;Funda;Silicona;2,50;;;
+AL-5V-FUN-TPU;Alcatel;5V;Funda;Transparente;2,95;;;
+AL-5V-FUN-LIB;Alcatel;5V;Funda;Libro;3,70;;;
+AL-5V-FUN-ANT;Alcatel;5V;Funda;Antigolpes;3,10;;;
+AL-1V19-PRO-NA;Alcatel;1V 2019;Cristal templado;Estándar;1,30;;;
+AL-1V19-PRO-PRI;Alcatel;1V 2019;Cristal templado;Privacidad;4,00;;;
+AL-1V19-FUN-SIL;Alcatel;1V 2019;Funda;Silicona;2,50;;;
+AL-1V19-FUN-TPU;Alcatel;1V 2019;Funda;Transparente;2,95;;;
+AL-1V19-FUN-LIB;Alcatel;1V 2019;Funda;Libro;3,70;;;
+AL-1V19-FUN-ANT;Alcatel;1V 2019;Funda;Antigolpes;3,10;;;
+AL-3X19-PRO-NA;Alcatel;3X 2019;Cristal templado;Estándar;1,30;;;
+AL-3X19-PRO-PRI;Alcatel;3X 2019;Cristal templado;Privacidad;4,00;;;
+AL-3X19-FUN-SIL;Alcatel;3X 2019;Funda;Silicona;2,50;;;
+AL-3X19-FUN-TPU;Alcatel;3X 2019;Funda;Transparente;2,95;;;
+AL-3X19-FUN-LIB;Alcatel;3X 2019;Funda;Libro;3,70;;;
+AL-3X19-FUN-ANT;Alcatel;3X 2019;Funda;Antigolpes;3,10;;;
+AL-3X19-PCA-NA;Alcatel;3X 2019;Protector de cámara;Cristal;2,90;;;
+AL-1C19-PRO-NA;Alcatel;1C 2019;Cristal templado;Estándar;1,30;;;
+AL-1C19-PRO-PRI;Alcatel;1C 2019;Cristal templado;Privacidad;4,00;;;
+AL-1C19-FUN-SIL;Alcatel;1C 2019;Funda;Silicona;2,50;;;
+AL-1C19-FUN-TPU;Alcatel;1C 2019;Funda;Transparente;2,95;;;
+AL-1C19-FUN-LIB;Alcatel;1C 2019;Funda;Libro;3,70;;;
+AL-1C19-FUN-ANT;Alcatel;1C 2019;Funda;Antigolpes;3,10;;;
+AL-1X19-PRO-NA;Alcatel;1X 2019;Cristal templado;Estándar;1,30;;;
+AL-1X19-PRO-PRI;Alcatel;1X 2019;Cristal templado;Privacidad;4,00;;;
+AL-1X19-FUN-SIL;Alcatel;1X 2019;Funda;Silicona;2,50;;;
+AL-1X19-FUN-TPU;Alcatel;1X 2019;Funda;Transparente;2,95;;;
+AL-1X19-FUN-LIB;Alcatel;1X 2019;Funda;Libro;3,70;;;
+AL-1X19-FUN-ANT;Alcatel;1X 2019;Funda;Antigolpes;3,10;;;
+AL-1X19-PCA-NA;Alcatel;1X 2019;Protector de cámara;Cristal;2,90;;;
+AL-319-PRO-NA;Alcatel;3 2019;Cristal templado;Estándar;1,30;;;
+AL-319-PRO-PRI;Alcatel;3 2019;Cristal templado;Privacidad;4,00;;;
+AL-319-FUN-SIL;Alcatel;3 2019;Funda;Silicona;2,50;;;
+AL-319-FUN-TPU;Alcatel;3 2019;Funda;Transparente;2,95;;;
+AL-319-FUN-LIB;Alcatel;3 2019;Funda;Libro;3,70;;;
+AL-319-FUN-ANT;Alcatel;3 2019;Funda;Antigolpes;3,10;;;
+AL-319-PCA-NA;Alcatel;3 2019;Protector de cámara;Cristal;2,90;;;
+AL-3L19-PRO-NA;Alcatel;3L 2019;Cristal templado;Estándar;1,30;;;
+AL-3L19-PRO-PRI;Alcatel;3L 2019;Cristal templado;Privacidad;4,00;;;
+AL-3L19-FUN-SIL;Alcatel;3L 2019;Funda;Silicona;2,50;;;
+AL-3L19-FUN-TPU;Alcatel;3L 2019;Funda;Transparente;2,95;;;
+AL-3L19-FUN-LIB;Alcatel;3L 2019;Funda;Libro;3,70;;;
+AL-3L19-FUN-ANT;Alcatel;3L 2019;Funda;Antigolpes;3,10;;;
+AL-3L19-PCA-NA;Alcatel;3L 2019;Protector de cámara;Cristal;2,90;;;
+AL-1S19-PRO-NA;Alcatel;1S 2019;Cristal templado;Estándar;1,30;;;
+AL-1S19-PRO-PRI;Alcatel;1S 2019;Cristal templado;Privacidad;4,00;;;
+AL-1S19-FUN-SIL;Alcatel;1S 2019;Funda;Silicona;2,50;;;
+AL-1S19-FUN-TPU;Alcatel;1S 2019;Funda;Transparente;2,95;;;
+AL-1S19-FUN-LIB;Alcatel;1S 2019;Funda;Libro;3,70;;;
+AL-1S19-FUN-ANT;Alcatel;1S 2019;Funda;Antigolpes;3,10;;;
+AL-1S19-PCA-NA;Alcatel;1S 2019;Protector de cámara;Cristal;2,90;;;
+AL-3C19-PRO-NA;Alcatel;3C 2019;Cristal templado;Estándar;1,30;;;
+AL-3C19-PRO-PRI;Alcatel;3C 2019;Cristal templado;Privacidad;4,00;;;
+AL-3C19-FUN-SIL;Alcatel;3C 2019;Funda;Silicona;2,50;;;
+AL-3C19-FUN-TPU;Alcatel;3C 2019;Funda;Transparente;2,95;;;
+AL-3C19-FUN-LIB;Alcatel;3C 2019;Funda;Libro;3,70;;;
+AL-3C19-FUN-ANT;Alcatel;3C 2019;Funda;Antigolpes;3,10;;;
+AL-1SE20-PRO-NA;Alcatel;1SE 2020;Cristal templado;Estándar;1,30;;;
+AL-1SE20-PRO-PRI;Alcatel;1SE 2020;Cristal templado;Privacidad;4,00;;;
+AL-1SE20-FUN-SIL;Alcatel;1SE 2020;Funda;Silicona;2,50;;;
+AL-1SE20-FUN-TPU;Alcatel;1SE 2020;Funda;Transparente;2,95;;;
+AL-1SE20-FUN-LIB;Alcatel;1SE 2020;Funda;Libro;3,70;;;
+AL-1SE20-FUN-ANT;Alcatel;1SE 2020;Funda;Antigolpes;3,10;;;
+AL-1SE20-PCA-NA;Alcatel;1SE 2020;Protector de cámara;Cristal;2,90;;;
+AL-3X20-PRO-NA;Alcatel;3X 2020;Cristal templado;Estándar;1,30;;;
+AL-3X20-PRO-PRI;Alcatel;3X 2020;Cristal templado;Privacidad;4,00;;;
+AL-3X20-FUN-SIL;Alcatel;3X 2020;Funda;Silicona;2,50;;;
+AL-3X20-FUN-TPU;Alcatel;3X 2020;Funda;Transparente;2,95;;;
+AL-3X20-FUN-LIB;Alcatel;3X 2020;Funda;Libro;3,70;;;
+AL-3X20-FUN-ANT;Alcatel;3X 2020;Funda;Antigolpes;3,10;;;
+AL-3X20-PCA-NA;Alcatel;3X 2020;Protector de cámara;Cristal;2,90;;;
+AL-1B20-PRO-NA;Alcatel;1B 2020;Cristal templado;Estándar;1,30;;;
+AL-1B20-PRO-PRI;Alcatel;1B 2020;Cristal templado;Privacidad;4,00;;;
+AL-1B20-FUN-SIL;Alcatel;1B 2020;Funda;Silicona;2,50;;;
+AL-1B20-FUN-TPU;Alcatel;1B 2020;Funda;Transparente;2,95;;;
+AL-1B20-FUN-LIB;Alcatel;1B 2020;Funda;Libro;3,70;;;
+AL-1B20-FUN-ANT;Alcatel;1B 2020;Funda;Antigolpes;3,10;;;
+AL-1S20-PRO-NA;Alcatel;1S 2020;Cristal templado;Estándar;1,30;;;
+AL-1S20-PRO-PRI;Alcatel;1S 2020;Cristal templado;Privacidad;4,00;;;
+AL-1S20-FUN-SIL;Alcatel;1S 2020;Funda;Silicona;2,50;;;
+AL-1S20-FUN-TPU;Alcatel;1S 2020;Funda;Transparente;2,95;;;
+AL-1S20-FUN-LIB;Alcatel;1S 2020;Funda;Libro;3,70;;;
+AL-1S20-FUN-ANT;Alcatel;1S 2020;Funda;Antigolpes;3,10;;;
+AL-1S20-PCA-NA;Alcatel;1S 2020;Protector de cámara;Cristal;2,90;;;
+AL-1V20-PRO-NA;Alcatel;1V 2020;Cristal templado;Estándar;1,30;;;
+AL-1V20-PRO-PRI;Alcatel;1V 2020;Cristal templado;Privacidad;4,00;;;
+AL-1V20-FUN-SIL;Alcatel;1V 2020;Funda;Silicona;2,50;;;
+AL-1V20-FUN-TPU;Alcatel;1V 2020;Funda;Transparente;2,95;;;
+AL-1V20-FUN-LIB;Alcatel;1V 2020;Funda;Libro;3,70;;;
+AL-1V20-FUN-ANT;Alcatel;1V 2020;Funda;Antigolpes;3,10;;;
+AL-1V20-PCA-NA;Alcatel;1V 2020;Protector de cámara;Cristal;2,90;;;
+AL-3L20-PRO-NA;Alcatel;3L 2020;Cristal templado;Estándar;1,30;;;
+AL-3L20-PRO-PRI;Alcatel;3L 2020;Cristal templado;Privacidad;4,00;;;
+AL-3L20-FUN-SIL;Alcatel;3L 2020;Funda;Silicona;2,50;;;
+AL-3L20-FUN-TPU;Alcatel;3L 2020;Funda;Transparente;2,95;;;
+AL-3L20-FUN-LIB;Alcatel;3L 2020;Funda;Libro;3,70;;;
+AL-3L20-FUN-ANT;Alcatel;3L 2020;Funda;Antigolpes;3,10;;;
+AL-3L20-PCA-NA;Alcatel;3L 2020;Protector de cámara;Cristal;2,90;;;
+AL-1S21-PRO-NA;Alcatel;1S 2021;Cristal templado;Estándar;1,30;;;
+AL-1S21-PRO-PRI;Alcatel;1S 2021;Cristal templado;Privacidad;4,00;;;
+AL-1S21-FUN-SIL;Alcatel;1S 2021;Funda;Silicona;2,50;;;
+AL-1S21-FUN-TPU;Alcatel;1S 2021;Funda;Transparente;2,95;;;
+AL-1S21-FUN-LIB;Alcatel;1S 2021;Funda;Libro;3,70;;;
+AL-1S21-FUN-ANT;Alcatel;1S 2021;Funda;Antigolpes;3,10;;;
+AL-1S21-PCA-NA;Alcatel;1S 2021;Protector de cámara;Cristal;2,90;;;
+AL-1L21-PRO-NA;Alcatel;1L 2021;Cristal templado;Estándar;1,30;;;
+AL-1L21-PRO-PRI;Alcatel;1L 2021;Cristal templado;Privacidad;4,00;;;
+AL-1L21-FUN-SIL;Alcatel;1L 2021;Funda;Silicona;2,50;;;
+AL-1L21-FUN-TPU;Alcatel;1L 2021;Funda;Transparente;2,95;;;
+AL-1L21-FUN-LIB;Alcatel;1L 2021;Funda;Libro;3,70;;;
+AL-1L21-FUN-ANT;Alcatel;1L 2021;Funda;Antigolpes;3,10;;;
+AL-1L21-PCA-NA;Alcatel;1L 2021;Protector de cámara;Cristal;2,90;;;
+AL-3L21-PRO-NA;Alcatel;3L 2021;Cristal templado;Estándar;1,30;;;
+AL-3L21-PRO-PRI;Alcatel;3L 2021;Cristal templado;Privacidad;4,00;;;
+AL-3L21-FUN-SIL;Alcatel;3L 2021;Funda;Silicona;2,50;;;
+AL-3L21-FUN-TPU;Alcatel;3L 2021;Funda;Transparente;2,95;;;
+AL-3L21-FUN-LIB;Alcatel;3L 2021;Funda;Libro;3,70;;;
+AL-3L21-FUN-ANT;Alcatel;3L 2021;Funda;Antigolpes;3,10;;;
+AL-3L21-PCA-NA;Alcatel;3L 2021;Protector de cámara;Cristal;2,90;;;
+AL-121-PRO-NA;Alcatel;1 2021;Cristal templado;Estándar;1,30;;;
+AL-121-PRO-PRI;Alcatel;1 2021;Cristal templado;Privacidad;4,00;;;
+AL-121-FUN-SIL;Alcatel;1 2021;Funda;Silicona;2,50;;;
+AL-121-FUN-TPU;Alcatel;1 2021;Funda;Transparente;2,95;;;
+AL-121-FUN-LIB;Alcatel;1 2021;Funda;Libro;3,70;;;
+AL-121-FUN-ANT;Alcatel;1 2021;Funda;Antigolpes;3,10;;;
+AL-1B22-PRO-NA;Alcatel;1B 2022;Cristal templado;Estándar;1,30;;;
+AL-1B22-PRO-PRI;Alcatel;1B 2022;Cristal templado;Privacidad;4,00;;;
+AL-1B22-FUN-SIL;Alcatel;1B 2022;Funda;Silicona;2,50;;;
+AL-1B22-FUN-TPU;Alcatel;1B 2022;Funda;Transparente;2,95;;;
+AL-1B22-FUN-LIB;Alcatel;1B 2022;Funda;Libro;3,70;;;
+AL-1B22-FUN-ANT;Alcatel;1B 2022;Funda;Antigolpes;3,10;;;
+AL-FXL-PRO-NA;Alcatel;Fierce XL;Cristal templado;Estándar;1,30;;;
+AL-FXL-PRO-PRI;Alcatel;Fierce XL;Cristal templado;Privacidad;4,00;;;
+AL-FXL-FUN-SIL;Alcatel;Fierce XL;Funda;Silicona;2,50;;;
+AL-FXL-FUN-TPU;Alcatel;Fierce XL;Funda;Transparente;2,95;;;
+AL-FXL-FUN-LIB;Alcatel;Fierce XL;Funda;Libro;3,70;;;
+AL-FXL-FUN-ANT;Alcatel;Fierce XL;Funda;Antigolpes;3,10;;;
+AL-P34-PRO-NA;Alcatel;Pixi 3 (4);Cristal templado;Estándar;1,30;;;
+AL-P34-PRO-PRI;Alcatel;Pixi 3 (4);Cristal templado;Privacidad;4,00;;;
+AL-P34-FUN-SIL;Alcatel;Pixi 3 (4);Funda;Silicona;2,50;;;
+AL-P34-FUN-TPU;Alcatel;Pixi 3 (4);Funda;Transparente;2,95;;;
+AL-P34-FUN-LIB;Alcatel;Pixi 3 (4);Funda;Libro;3,70;;;
+AL-P34-FUN-ANT;Alcatel;Pixi 3 (4);Funda;Antigolpes;3,10;;;
+AL-P345-PRO-NA;Alcatel;Pixi 3 (4.5);Cristal templado;Estándar;1,30;;;
+AL-P345-PRO-PRI;Alcatel;Pixi 3 (4.5);Cristal templado;Privacidad;4,00;;;
+AL-P345-FUN-SIL;Alcatel;Pixi 3 (4.5);Funda;Silicona;2,50;;;
+AL-P345-FUN-TPU;Alcatel;Pixi 3 (4.5);Funda;Transparente;2,95;;;
+AL-P345-FUN-LIB;Alcatel;Pixi 3 (4.5);Funda;Libro;3,70;;;
+AL-P345-FUN-ANT;Alcatel;Pixi 3 (4.5);Funda;Antigolpes;3,10;;;
+AL-P35-PRO-NA;Alcatel;Pixi 3 (5);Cristal templado;Estándar;1,30;;;
+AL-P35-PRO-PRI;Alcatel;Pixi 3 (5);Cristal templado;Privacidad;4,00;;;
+AL-P35-FUN-SIL;Alcatel;Pixi 3 (5);Funda;Silicona;2,50;;;
+AL-P35-FUN-TPU;Alcatel;Pixi 3 (5);Funda;Transparente;2,95;;;
+AL-P35-FUN-LIB;Alcatel;Pixi 3 (5);Funda;Libro;3,70;;;
+AL-P35-FUN-ANT;Alcatel;Pixi 3 (5);Funda;Antigolpes;3,10;;;
+AL-POP24-PRO-NA;Alcatel;Pop 2 (4);Cristal templado;Estándar;1,30;;;
+AL-POP24-PRO-PRI;Alcatel;Pop 2 (4);Cristal templado;Privacidad;4,00;;;
+AL-POP24-FUN-SIL;Alcatel;Pop 2 (4);Funda;Silicona;2,50;;;
+AL-POP24-FUN-TPU;Alcatel;Pop 2 (4);Funda;Transparente;2,95;;;
+AL-POP24-FUN-LIB;Alcatel;Pop 2 (4);Funda;Libro;3,70;;;
+AL-POP24-FUN-ANT;Alcatel;Pop 2 (4);Funda;Antigolpes;3,10;;;
+AL-POP245-PRO-NA;Alcatel;Pop 2 (4.5);Cristal templado;Estándar;1,30;;;
+AL-POP245-PRO-PRI;Alcatel;Pop 2 (4.5);Cristal templado;Privacidad;4,00;;;
+AL-POP245-FUN-SIL;Alcatel;Pop 2 (4.5);Funda;Silicona;2,50;;;
+AL-POP245-FUN-TPU;Alcatel;Pop 2 (4.5);Funda;Transparente;2,95;;;
+AL-POP245-FUN-LIB;Alcatel;Pop 2 (4.5);Funda;Libro;3,70;;;
+AL-POP245-FUN-ANT;Alcatel;Pop 2 (4.5);Funda;Antigolpes;3,10;;;
+AL-FE-PRO-NA;Alcatel;Fire E;Cristal templado;Estándar;1,30;;;
+AL-FE-PRO-PRI;Alcatel;Fire E;Cristal templado;Privacidad;4,00;;;
+AL-FE-FUN-SIL;Alcatel;Fire E;Funda;Silicona;2,50;;;
+AL-FE-FUN-TPU;Alcatel;Fire E;Funda;Transparente;2,95;;;
+AL-FE-FUN-LIB;Alcatel;Fire E;Funda;Libro;3,70;;;
+AL-FE-FUN-ANT;Alcatel;Fire E;Funda;Antigolpes;3,10;;;
+AL-E-PRO-NA;Alcatel;Evolve;Cristal templado;Estándar;1,30;;;
+AL-E-PRO-PRI;Alcatel;Evolve;Cristal templado;Privacidad;4,00;;;
+AL-E-FUN-SIL;Alcatel;Evolve;Funda;Silicona;2,50;;;
+AL-E-FUN-TPU;Alcatel;Evolve;Funda;Transparente;2,95;;;
+AL-E-FUN-LIB;Alcatel;Evolve;Funda;Libro;3,70;;;
+AL-E-FUN-ANT;Alcatel;Evolve;Funda;Antigolpes;3,10;;;
+AL-F-PRO-NA;Alcatel;Fire;Cristal templado;Estándar;1,30;;;
+AL-F-PRO-PRI;Alcatel;Fire;Cristal templado;Privacidad;4,00;;;
+AL-F-FUN-SIL;Alcatel;Fire;Funda;Silicona;2,50;;;
+AL-F-FUN-TPU;Alcatel;Fire;Funda;Transparente;2,95;;;
+AL-F-FUN-LIB;Alcatel;Fire;Funda;Libro;3,70;;;
+AL-F-FUN-ANT;Alcatel;Fire;Funda;Antigolpes;3,10;;;
+AL-960C-PRO-NA;Alcatel;960C;Cristal templado;Estándar;1,30;;;
+AL-960C-PRO-PRI;Alcatel;960C;Cristal templado;Privacidad;4,00;;;
+AL-960C-FUN-SIL;Alcatel;960C;Funda;Silicona;2,50;;;
+AL-960C-FUN-TPU;Alcatel;960C;Funda;Transparente;2,95;;;
+AL-960C-FUN-LIB;Alcatel;960C;Funda;Libro;3,70;;;
+AL-960C-FUN-ANT;Alcatel;960C;Funda;Antigolpes;3,10;;;
+AL-3XPL-PRO-NA;Alcatel;3X Plus;Cristal templado;Estándar;1,30;;;
+AL-3XPL-PRO-PRI;Alcatel;3X Plus;Cristal templado;Privacidad;4,00;;;
+AL-3XPL-FUN-SIL;Alcatel;3X Plus;Funda;Silicona;2,50;;;
+AL-3XPL-FUN-TPU;Alcatel;3X Plus;Funda;Transparente;2,95;;;
+AL-3XPL-FUN-LIB;Alcatel;3X Plus;Funda;Libro;3,70;;;
+AL-3XPL-FUN-ANT;Alcatel;3X Plus;Funda;Antigolpes;3,10;;;
+AL-P44-MAR-COM;Alcatel;Pixi 4 (4);Marco / chasis;Compatible;5,00;;;6
+AL-P44-BOT-COM;Alcatel;Pixi 4 (4);Botones laterales;Compatible;2,55;;;6
+AL-P44-CRI-COM;Alcatel;Pixi 4 (4);Cristal de pantalla;Compatible;2,55;;;6
+AL-P44-ANT-COM;Alcatel;Pixi 4 (4);Antena / coaxial;Compatible;2,25;;;6
+AL-P44-HUE-COM;Alcatel;Pixi 4 (4);Botón home / huella;Compatible;3,70;;;6
+AL-P453G-MAR-COM;Alcatel;Pixi 4 (5) 3G;Marco / chasis;Compatible;5,00;;;6
+AL-P453G-BOT-COM;Alcatel;Pixi 4 (5) 3G;Botones laterales;Compatible;2,55;;;6
+AL-P453G-CRI-COM;Alcatel;Pixi 4 (5) 3G;Cristal de pantalla;Compatible;2,55;;;6
+AL-P453G-ANT-COM;Alcatel;Pixi 4 (5) 3G;Antena / coaxial;Compatible;2,25;;;6
+AL-P453G-HUE-COM;Alcatel;Pixi 4 (5) 3G;Botón home / huella;Compatible;3,70;;;6
+AL-P454-MAR-COM;Alcatel;Pixi 4 (5) 4G;Marco / chasis;Compatible;5,00;;;6
+AL-P454-BOT-COM;Alcatel;Pixi 4 (5) 4G;Botones laterales;Compatible;2,55;;;6
+AL-P454-CRI-COM;Alcatel;Pixi 4 (5) 4G;Cristal de pantalla;Compatible;2,55;;;6
+AL-P454-ANT-COM;Alcatel;Pixi 4 (5) 4G;Antena / coaxial;Compatible;2,25;;;6
+AL-P454-HUE-COM;Alcatel;Pixi 4 (5) 4G;Botón home / huella;Compatible;3,70;;;6
+AL-P463G-MAR-COM;Alcatel;Pixi 4 (6) 3G;Marco / chasis;Compatible;5,00;;;6
+AL-P463G-BOT-COM;Alcatel;Pixi 4 (6) 3G;Botones laterales;Compatible;2,55;;;6
+AL-P463G-CRI-COM;Alcatel;Pixi 4 (6) 3G;Cristal de pantalla;Compatible;2,55;;;6
+AL-P463G-ANT-COM;Alcatel;Pixi 4 (6) 3G;Antena / coaxial;Compatible;2,25;;;6
+AL-P463G-HUE-COM;Alcatel;Pixi 4 (6) 3G;Botón home / huella;Compatible;3,70;;;6
+AL-P464-MAR-COM;Alcatel;Pixi 4 (6) 4G;Marco / chasis;Compatible;5,00;;;6
+AL-P464-BOT-COM;Alcatel;Pixi 4 (6) 4G;Botones laterales;Compatible;2,55;;;6
+AL-P464-CRI-COM;Alcatel;Pixi 4 (6) 4G;Cristal de pantalla;Compatible;2,55;;;6
+AL-P464-ANT-COM;Alcatel;Pixi 4 (6) 4G;Antena / coaxial;Compatible;2,25;;;6
+AL-P464-HUE-COM;Alcatel;Pixi 4 (6) 4G;Botón home / huella;Compatible;3,70;;;6
+AL-POPUP-MAR-COM;Alcatel;Pop Up;Marco / chasis;Compatible;5,00;;;6
+AL-POPUP-BOT-COM;Alcatel;Pop Up;Botones laterales;Compatible;2,55;;;6
+AL-POPUP-CRI-COM;Alcatel;Pop Up;Cristal de pantalla;Compatible;2,55;;;6
+AL-POPUP-ANT-COM;Alcatel;Pop Up;Antena / coaxial;Compatible;2,25;;;6
+AL-POPUP-HUE-COM;Alcatel;Pop Up;Botón home / huella;Compatible;3,70;;;6
+AL-SL-MAR-COM;Alcatel;Shine Lite;Marco / chasis;Compatible;5,00;;;6
+AL-SL-BOT-COM;Alcatel;Shine Lite;Botones laterales;Compatible;2,55;;;6
+AL-SL-CRI-COM;Alcatel;Shine Lite;Cristal de pantalla;Compatible;2,55;;;6
+AL-SL-ANT-COM;Alcatel;Shine Lite;Antena / coaxial;Compatible;2,25;;;6
+AL-SL-HUE-COM;Alcatel;Shine Lite;Botón home / huella;Compatible;3,70;;;6
+AL-I4-MAR-COM;Alcatel;Idol 4;Marco / chasis;Compatible;5,75;;;6
+AL-I4-BOT-COM;Alcatel;Idol 4;Botones laterales;Compatible;2,95;;;6
+AL-I4-CRI-COM;Alcatel;Idol 4;Cristal de pantalla;Compatible;2,95;;;6
+AL-I4-ANT-COM;Alcatel;Idol 4;Antena / coaxial;Compatible;2,55;;;6
+AL-I4-HUE-COM;Alcatel;Idol 4;Botón home / huella;Compatible;4,25;;;6
+AL-I4S-MAR-COM;Alcatel;Idol 4S;Marco / chasis;Compatible;5,75;;;6
+AL-I4S-BOT-COM;Alcatel;Idol 4S;Botones laterales;Compatible;2,95;;;6
+AL-I4S-CRI-COM;Alcatel;Idol 4S;Cristal de pantalla;Compatible;2,95;;;6
+AL-I4S-ANT-COM;Alcatel;Idol 4S;Antena / coaxial;Compatible;2,55;;;6
+AL-I4S-HUE-COM;Alcatel;Idol 4S;Botón home / huella;Compatible;4,25;;;6
+AL-POP4-MAR-COM;Alcatel;Pop 4;Marco / chasis;Compatible;5,00;;;6
+AL-POP4-BOT-COM;Alcatel;Pop 4;Botones laterales;Compatible;2,55;;;6
+AL-POP4-CRI-COM;Alcatel;Pop 4;Cristal de pantalla;Compatible;2,55;;;6
+AL-POP4-ANT-COM;Alcatel;Pop 4;Antena / coaxial;Compatible;2,25;;;6
+AL-POP4-HUE-COM;Alcatel;Pop 4;Botón home / huella;Compatible;3,70;;;6
+AL-POP4PL-MAR-COM;Alcatel;Pop 4+;Marco / chasis;Compatible;5,00;;;6
+AL-POP4PL-BOT-COM;Alcatel;Pop 4+;Botones laterales;Compatible;2,55;;;6
+AL-POP4PL-CRI-COM;Alcatel;Pop 4+;Cristal de pantalla;Compatible;2,55;;;6
+AL-POP4PL-ANT-COM;Alcatel;Pop 4+;Antena / coaxial;Compatible;2,25;;;6
+AL-POP4PL-HUE-COM;Alcatel;Pop 4+;Botón home / huella;Compatible;3,70;;;6
+AL-POP4S-MAR-COM;Alcatel;Pop 4S;Marco / chasis;Compatible;5,00;;;6
+AL-POP4S-BOT-COM;Alcatel;Pop 4S;Botones laterales;Compatible;2,55;;;6
+AL-POP4S-CRI-COM;Alcatel;Pop 4S;Cristal de pantalla;Compatible;2,55;;;6
+AL-POP4S-ANT-COM;Alcatel;Pop 4S;Antena / coaxial;Compatible;2,25;;;6
+AL-POP4S-HUE-COM;Alcatel;Pop 4S;Botón home / huella;Compatible;3,70;;;6
+AL-A5LED-MAR-COM;Alcatel;A5 LED;Marco / chasis;Compatible;5,65;;;6
+AL-A5LED-BOT-COM;Alcatel;A5 LED;Botones laterales;Compatible;2,89;;;6
+AL-A5LED-CRI-COM;Alcatel;A5 LED;Cristal de pantalla;Compatible;2,89;;;6
+AL-A5LED-ANT-COM;Alcatel;A5 LED;Antena / coaxial;Compatible;2,50;;;6
+AL-A5LED-HUE-COM;Alcatel;A5 LED;Botón home / huella;Compatible;4,15;;;6
+AL-A7-MAR-COM;Alcatel;A7;Marco / chasis;Compatible;5,65;;;6
+AL-A7-BOT-COM;Alcatel;A7;Botones laterales;Compatible;2,89;;;6
+AL-A7-CRI-COM;Alcatel;A7;Cristal de pantalla;Compatible;2,89;;;6
+AL-A7-ANT-COM;Alcatel;A7;Antena / coaxial;Compatible;2,50;;;6
+AL-A7-HUE-COM;Alcatel;A7;Botón home / huella;Compatible;4,15;;;6
+AL-A7XL-MAR-COM;Alcatel;A7 XL;Marco / chasis;Compatible;5,65;;;6
+AL-A7XL-BOT-COM;Alcatel;A7 XL;Botones laterales;Compatible;2,89;;;6
+AL-A7XL-CRI-COM;Alcatel;A7 XL;Cristal de pantalla;Compatible;2,89;;;6
+AL-A7XL-ANT-COM;Alcatel;A7 XL;Antena / coaxial;Compatible;2,50;;;6
+AL-A7XL-HUE-COM;Alcatel;A7 XL;Botón home / huella;Compatible;4,15;;;6
+AL-POP46-MAR-COM;Alcatel;Pop 4 (6);Marco / chasis;Compatible;5,65;;;6
+AL-POP46-BOT-COM;Alcatel;Pop 4 (6);Botones laterales;Compatible;2,89;;;6
+AL-POP46-CRI-COM;Alcatel;Pop 4 (6);Cristal de pantalla;Compatible;2,89;;;6
+AL-POP46-ANT-COM;Alcatel;Pop 4 (6);Antena / coaxial;Compatible;2,50;;;6
+AL-POP46-HUE-COM;Alcatel;Pop 4 (6);Botón home / huella;Compatible;4,15;;;6
+AL-U3-MAR-COM;Alcatel;U3;Marco / chasis;Compatible;5,65;;;6
+AL-U3-BOT-COM;Alcatel;U3;Botones laterales;Compatible;2,89;;;6
+AL-U3-CRI-COM;Alcatel;U3;Cristal de pantalla;Compatible;2,89;;;6
+AL-U3-ANT-COM;Alcatel;U3;Antena / coaxial;Compatible;2,50;;;6
+AL-U3-HUE-COM;Alcatel;U3;Botón home / huella;Compatible;4,15;;;6
+AL-U5HD-MAR-COM;Alcatel;U5 HD;Marco / chasis;Compatible;5,65;;;6
+AL-U5HD-BOT-COM;Alcatel;U5 HD;Botones laterales;Compatible;2,89;;;6
+AL-U5HD-CRI-COM;Alcatel;U5 HD;Cristal de pantalla;Compatible;2,89;;;6
+AL-U5HD-ANT-COM;Alcatel;U5 HD;Antena / coaxial;Compatible;2,50;;;6
+AL-U5HD-HUE-COM;Alcatel;U5 HD;Botón home / huella;Compatible;4,15;;;6
+AL-A3XL-MAR-COM;Alcatel;A3 XL;Marco / chasis;Compatible;5,65;;;6
+AL-A3XL-BOT-COM;Alcatel;A3 XL;Botones laterales;Compatible;2,89;;;6
+AL-A3XL-CRI-COM;Alcatel;A3 XL;Cristal de pantalla;Compatible;2,89;;;6
+AL-A3XL-ANT-COM;Alcatel;A3 XL;Antena / coaxial;Compatible;2,50;;;6
+AL-A3XL-HUE-COM;Alcatel;A3 XL;Botón home / huella;Compatible;4,15;;;6
+AL-A3-MAR-COM;Alcatel;A3;Marco / chasis;Compatible;5,65;;;6
+AL-A3-BOT-COM;Alcatel;A3;Botones laterales;Compatible;2,89;;;6
+AL-A3-CRI-COM;Alcatel;A3;Cristal de pantalla;Compatible;2,89;;;6
+AL-A3-ANT-COM;Alcatel;A3;Antena / coaxial;Compatible;2,50;;;6
+AL-A3-HUE-COM;Alcatel;A3;Botón home / huella;Compatible;4,15;;;6
+AL-U5-MAR-COM;Alcatel;U5;Marco / chasis;Compatible;5,65;;;6
+AL-U5-BOT-COM;Alcatel;U5;Botones laterales;Compatible;2,89;;;6
+AL-U5-CRI-COM;Alcatel;U5;Cristal de pantalla;Compatible;2,89;;;6
+AL-U5-ANT-COM;Alcatel;U5;Antena / coaxial;Compatible;2,50;;;6
+AL-U5-HUE-COM;Alcatel;U5;Botón home / huella;Compatible;4,15;;;6
+AL-I5-MAR-COM;Alcatel;Idol 5;Marco / chasis;Compatible;6,49;;;6
+AL-I5-BOT-COM;Alcatel;Idol 5;Botones laterales;Compatible;3,35;;;6
+AL-I5-CRI-COM;Alcatel;Idol 5;Cristal de pantalla;Compatible;3,30;;;6
+AL-I5-ANT-COM;Alcatel;Idol 5;Antena / coaxial;Compatible;2,89;;;6
+AL-I5-HUE-COM;Alcatel;Idol 5;Botón home / huella;Compatible;4,79;;;6
+AL-I5S-MAR-COM;Alcatel;Idol 5S;Marco / chasis;Compatible;6,49;;;6
+AL-I5S-BOT-COM;Alcatel;Idol 5S;Botones laterales;Compatible;3,35;;;6
+AL-I5S-CRI-COM;Alcatel;Idol 5S;Cristal de pantalla;Compatible;3,30;;;6
+AL-I5S-ANT-COM;Alcatel;Idol 5S;Antena / coaxial;Compatible;2,89;;;6
+AL-I5S-HUE-COM;Alcatel;Idol 5S;Botón home / huella;Compatible;4,79;;;6
+AL-3C-MAR-COM;Alcatel;3C;Marco / chasis;Compatible;5,65;;;6
+AL-3C-BOT-COM;Alcatel;3C;Botones laterales;Compatible;2,89;;;6
+AL-3C-CRI-COM;Alcatel;3C;Cristal de pantalla;Compatible;2,89;;;6
+AL-3C-ANT-COM;Alcatel;3C;Antena / coaxial;Compatible;2,50;;;6
+AL-3C-HUE-COM;Alcatel;3C;Botón home / huella;Compatible;4,15;;;6
+AL-3V-MAR-COM;Alcatel;3V;Marco / chasis;Compatible;5,65;;;6
+AL-3V-BOT-COM;Alcatel;3V;Botones laterales;Compatible;2,89;;;6
+AL-3V-CRI-COM;Alcatel;3V;Cristal de pantalla;Compatible;2,89;;;6
+AL-3V-ANT-COM;Alcatel;3V;Antena / coaxial;Compatible;2,50;;;6
+AL-3V-HUE-COM;Alcatel;3V;Botón home / huella;Compatible;4,15;;;6
+AL-5-MAR-COM;Alcatel;5;Marco / chasis;Compatible;6,49;;;6
+AL-5-BOT-COM;Alcatel;5;Botones laterales;Compatible;3,35;;;6
+AL-5-CRI-COM;Alcatel;5;Cristal de pantalla;Compatible;3,30;;;6
+AL-5-ANT-COM;Alcatel;5;Antena / coaxial;Compatible;2,89;;;6
+AL-5-HUE-COM;Alcatel;5;Botón home / huella;Compatible;4,79;;;6
+AL-3-MAR-COM;Alcatel;3;Marco / chasis;Compatible;5,65;;;6
+AL-3-BOT-COM;Alcatel;3;Botones laterales;Compatible;2,89;;;6
+AL-3-CRI-COM;Alcatel;3;Cristal de pantalla;Compatible;2,89;;;6
+AL-3-ANT-COM;Alcatel;3;Antena / coaxial;Compatible;2,50;;;6
+AL-3-HUE-COM;Alcatel;3;Botón home / huella;Compatible;4,15;;;6
+AL-3X-MAR-COM;Alcatel;3X;Marco / chasis;Compatible;5,65;;;6
+AL-3X-BOT-COM;Alcatel;3X;Botones laterales;Compatible;2,89;;;6
+AL-3X-CRI-COM;Alcatel;3X;Cristal de pantalla;Compatible;2,89;;;6
+AL-3X-ANT-COM;Alcatel;3X;Antena / coaxial;Compatible;2,50;;;6
+AL-3X-HUE-COM;Alcatel;3X;Botón home / huella;Compatible;4,15;;;6
+AL-1X-MAR-COM;Alcatel;1X;Marco / chasis;Compatible;5,65;;;6
+AL-1X-BOT-COM;Alcatel;1X;Botones laterales;Compatible;2,89;;;6
+AL-1X-CRI-COM;Alcatel;1X;Cristal de pantalla;Compatible;2,89;;;6
+AL-1X-ANT-COM;Alcatel;1X;Antena / coaxial;Compatible;2,50;;;6
+AL-1X-HUE-COM;Alcatel;1X;Botón home / huella;Compatible;4,15;;;6
+AL-1-MAR-COM;Alcatel;1;Marco / chasis;Compatible;5,65;;;6
+AL-1-BOT-COM;Alcatel;1;Botones laterales;Compatible;2,89;;;6
+AL-1-CRI-COM;Alcatel;1;Cristal de pantalla;Compatible;2,89;;;6
+AL-1-ANT-COM;Alcatel;1;Antena / coaxial;Compatible;2,50;;;6
+AL-1-HUE-COM;Alcatel;1;Botón home / huella;Compatible;4,15;;;6
+AL-5V-MAR-COM;Alcatel;5V;Marco / chasis;Compatible;6,49;;;6
+AL-5V-BOT-COM;Alcatel;5V;Botones laterales;Compatible;3,35;;;6
+AL-5V-CRI-COM;Alcatel;5V;Cristal de pantalla;Compatible;3,30;;;6
+AL-5V-ANT-COM;Alcatel;5V;Antena / coaxial;Compatible;2,89;;;6
+AL-5V-HUE-COM;Alcatel;5V;Botón home / huella;Compatible;4,79;;;6
+AL-1V19-MAR-COM;Alcatel;1V 2019;Marco / chasis;Compatible;5,65;;;6
+AL-1V19-BOT-COM;Alcatel;1V 2019;Botones laterales;Compatible;2,89;;;6
+AL-1V19-CRI-COM;Alcatel;1V 2019;Cristal de pantalla;Compatible;2,89;;;6
+AL-1V19-ANT-COM;Alcatel;1V 2019;Antena / coaxial;Compatible;2,50;;;6
+AL-1V19-HUE-COM;Alcatel;1V 2019;Botón home / huella;Compatible;4,15;;;6
+AL-3X19-MAR-COM;Alcatel;3X 2019;Marco / chasis;Compatible;5,65;;;6
+AL-3X19-BOT-COM;Alcatel;3X 2019;Botones laterales;Compatible;2,89;;;6
+AL-3X19-CRI-COM;Alcatel;3X 2019;Cristal de pantalla;Compatible;2,89;;;6
+AL-3X19-ANT-COM;Alcatel;3X 2019;Antena / coaxial;Compatible;2,50;;;6
+AL-3X19-HUE-COM;Alcatel;3X 2019;Botón home / huella;Compatible;4,15;;;6
+AL-1C19-MAR-COM;Alcatel;1C 2019;Marco / chasis;Compatible;5,65;;;6
+AL-1C19-BOT-COM;Alcatel;1C 2019;Botones laterales;Compatible;2,89;;;6
+AL-1C19-CRI-COM;Alcatel;1C 2019;Cristal de pantalla;Compatible;2,89;;;6
+AL-1C19-ANT-COM;Alcatel;1C 2019;Antena / coaxial;Compatible;2,50;;;6
+AL-1C19-HUE-COM;Alcatel;1C 2019;Botón home / huella;Compatible;4,15;;;6
+AL-1X19-MAR-COM;Alcatel;1X 2019;Marco / chasis;Compatible;5,65;;;6
+AL-1X19-BOT-COM;Alcatel;1X 2019;Botones laterales;Compatible;2,89;;;6
+AL-1X19-CRI-COM;Alcatel;1X 2019;Cristal de pantalla;Compatible;2,89;;;6
+AL-1X19-ANT-COM;Alcatel;1X 2019;Antena / coaxial;Compatible;2,50;;;6
+AL-1X19-HUE-COM;Alcatel;1X 2019;Botón home / huella;Compatible;4,15;;;6
+AL-319-MAR-COM;Alcatel;3 2019;Marco / chasis;Compatible;5,65;;;6
+AL-319-BOT-COM;Alcatel;3 2019;Botones laterales;Compatible;2,89;;;6
+AL-319-CRI-COM;Alcatel;3 2019;Cristal de pantalla;Compatible;2,89;;;6
+AL-319-ANT-COM;Alcatel;3 2019;Antena / coaxial;Compatible;2,50;;;6
+AL-319-HUE-COM;Alcatel;3 2019;Botón home / huella;Compatible;4,15;;;6
+AL-3L19-MAR-COM;Alcatel;3L 2019;Marco / chasis;Compatible;5,65;;;6
+AL-3L19-BOT-COM;Alcatel;3L 2019;Botones laterales;Compatible;2,89;;;6
+AL-3L19-CRI-COM;Alcatel;3L 2019;Cristal de pantalla;Compatible;2,89;;;6
+AL-3L19-ANT-COM;Alcatel;3L 2019;Antena / coaxial;Compatible;2,50;;;6
+AL-3L19-HUE-COM;Alcatel;3L 2019;Botón home / huella;Compatible;4,15;;;6
+AL-1S19-MAR-COM;Alcatel;1S 2019;Marco / chasis;Compatible;5,65;;;6
+AL-1S19-BOT-COM;Alcatel;1S 2019;Botones laterales;Compatible;2,89;;;6
+AL-1S19-CRI-COM;Alcatel;1S 2019;Cristal de pantalla;Compatible;2,89;;;6
+AL-1S19-ANT-COM;Alcatel;1S 2019;Antena / coaxial;Compatible;2,50;;;6
+AL-1S19-HUE-COM;Alcatel;1S 2019;Botón home / huella;Compatible;4,15;;;6
+AL-3C19-MAR-COM;Alcatel;3C 2019;Marco / chasis;Compatible;5,65;;;6
+AL-3C19-BOT-COM;Alcatel;3C 2019;Botones laterales;Compatible;2,89;;;6
+AL-3C19-CRI-COM;Alcatel;3C 2019;Cristal de pantalla;Compatible;2,89;;;6
+AL-3C19-ANT-COM;Alcatel;3C 2019;Antena / coaxial;Compatible;2,50;;;6
+AL-3C19-HUE-COM;Alcatel;3C 2019;Botón home / huella;Compatible;4,15;;;6
+AL-1SE20-MAR-COM;Alcatel;1SE 2020;Marco / chasis;Compatible;6,25;;;6
+AL-1SE20-BOT-COM;Alcatel;1SE 2020;Botones laterales;Compatible;3,20;;;6
+AL-1SE20-CRI-COM;Alcatel;1SE 2020;Cristal de pantalla;Compatible;3,20;;;6
+AL-1SE20-ANT-COM;Alcatel;1SE 2020;Antena / coaxial;Compatible;2,79;;;6
+AL-1SE20-HUE-COM;Alcatel;1SE 2020;Botón home / huella;Compatible;4,60;;;6
+AL-3X20-MAR-COM;Alcatel;3X 2020;Marco / chasis;Compatible;6,25;;;6
+AL-3X20-BOT-COM;Alcatel;3X 2020;Botones laterales;Compatible;3,20;;;6
+AL-3X20-CRI-COM;Alcatel;3X 2020;Cristal de pantalla;Compatible;3,20;;;6
+AL-3X20-ANT-COM;Alcatel;3X 2020;Antena / coaxial;Compatible;2,79;;;6
+AL-3X20-HUE-COM;Alcatel;3X 2020;Botón home / huella;Compatible;4,60;;;6
+AL-1B20-MAR-COM;Alcatel;1B 2020;Marco / chasis;Compatible;6,25;;;6
+AL-1B20-BOT-COM;Alcatel;1B 2020;Botones laterales;Compatible;3,20;;;6
+AL-1B20-CRI-COM;Alcatel;1B 2020;Cristal de pantalla;Compatible;3,20;;;6
+AL-1B20-ANT-COM;Alcatel;1B 2020;Antena / coaxial;Compatible;2,79;;;6
+AL-1B20-HUE-COM;Alcatel;1B 2020;Botón home / huella;Compatible;4,60;;;6
+AL-1S20-MAR-COM;Alcatel;1S 2020;Marco / chasis;Compatible;6,25;;;6
+AL-1S20-BOT-COM;Alcatel;1S 2020;Botones laterales;Compatible;3,20;;;6
+AL-1S20-CRI-COM;Alcatel;1S 2020;Cristal de pantalla;Compatible;3,20;;;6
+AL-1S20-ANT-COM;Alcatel;1S 2020;Antena / coaxial;Compatible;2,79;;;6
+AL-1S20-HUE-COM;Alcatel;1S 2020;Botón home / huella;Compatible;4,60;;;6
+AL-1V20-MAR-COM;Alcatel;1V 2020;Marco / chasis;Compatible;6,25;;;6
+AL-1V20-BOT-COM;Alcatel;1V 2020;Botones laterales;Compatible;3,20;;;6
+AL-1V20-CRI-COM;Alcatel;1V 2020;Cristal de pantalla;Compatible;3,20;;;6
+AL-1V20-ANT-COM;Alcatel;1V 2020;Antena / coaxial;Compatible;2,79;;;6
+AL-1V20-HUE-COM;Alcatel;1V 2020;Botón home / huella;Compatible;4,60;;;6
+AL-3L20-MAR-COM;Alcatel;3L 2020;Marco / chasis;Compatible;6,25;;;6
+AL-3L20-BOT-COM;Alcatel;3L 2020;Botones laterales;Compatible;3,20;;;6
+AL-3L20-CRI-COM;Alcatel;3L 2020;Cristal de pantalla;Compatible;3,20;;;6
+AL-3L20-ANT-COM;Alcatel;3L 2020;Antena / coaxial;Compatible;2,79;;;6
+AL-3L20-HUE-COM;Alcatel;3L 2020;Botón home / huella;Compatible;4,60;;;6
+AL-1S21-MAR-COM;Alcatel;1S 2021;Marco / chasis;Compatible;6,25;;;6
+AL-1S21-BOT-COM;Alcatel;1S 2021;Botones laterales;Compatible;3,20;;;6
+AL-1S21-CRI-COM;Alcatel;1S 2021;Cristal de pantalla;Compatible;3,20;;;6
+AL-1S21-ANT-COM;Alcatel;1S 2021;Antena / coaxial;Compatible;2,79;;;6
+AL-1S21-HUE-COM;Alcatel;1S 2021;Botón home / huella;Compatible;4,60;;;6
+AL-1L21-MAR-COM;Alcatel;1L 2021;Marco / chasis;Compatible;6,25;;;6
+AL-1L21-BOT-COM;Alcatel;1L 2021;Botones laterales;Compatible;3,20;;;6
+AL-1L21-CRI-COM;Alcatel;1L 2021;Cristal de pantalla;Compatible;3,20;;;6
+AL-1L21-ANT-COM;Alcatel;1L 2021;Antena / coaxial;Compatible;2,79;;;6
+AL-1L21-HUE-COM;Alcatel;1L 2021;Botón home / huella;Compatible;4,60;;;6
+AL-3L21-MAR-COM;Alcatel;3L 2021;Marco / chasis;Compatible;6,25;;;6
+AL-3L21-BOT-COM;Alcatel;3L 2021;Botones laterales;Compatible;3,20;;;6
+AL-3L21-CRI-COM;Alcatel;3L 2021;Cristal de pantalla;Compatible;3,20;;;6
+AL-3L21-ANT-COM;Alcatel;3L 2021;Antena / coaxial;Compatible;2,79;;;6
+AL-3L21-HUE-COM;Alcatel;3L 2021;Botón home / huella;Compatible;4,60;;;6
+AL-121-MAR-COM;Alcatel;1 2021;Marco / chasis;Compatible;6,25;;;6
+AL-121-BOT-COM;Alcatel;1 2021;Botones laterales;Compatible;3,20;;;6
+AL-121-CRI-COM;Alcatel;1 2021;Cristal de pantalla;Compatible;3,20;;;6
+AL-121-ANT-COM;Alcatel;1 2021;Antena / coaxial;Compatible;2,79;;;6
+AL-121-HUE-COM;Alcatel;1 2021;Botón home / huella;Compatible;4,60;;;6
+AL-1B22-MAR-COM;Alcatel;1B 2022;Marco / chasis;Compatible;6,25;;;6
+AL-1B22-BOT-COM;Alcatel;1B 2022;Botones laterales;Compatible;3,20;;;6
+AL-1B22-CRI-COM;Alcatel;1B 2022;Cristal de pantalla;Compatible;3,20;;;6
+AL-1B22-ANT-COM;Alcatel;1B 2022;Antena / coaxial;Compatible;2,79;;;6
+AL-1B22-HUE-COM;Alcatel;1B 2022;Botón home / huella;Compatible;4,60;;;6
+AL-FXL-MAR-COM;Alcatel;Fierce XL;Marco / chasis;Compatible;5,00;;;6
+AL-FXL-BOT-COM;Alcatel;Fierce XL;Botones laterales;Compatible;2,55;;;6
+AL-FXL-CRI-COM;Alcatel;Fierce XL;Cristal de pantalla;Compatible;2,55;;;6
+AL-FXL-ANT-COM;Alcatel;Fierce XL;Antena / coaxial;Compatible;2,25;;;6
+AL-FXL-HUE-COM;Alcatel;Fierce XL;Botón home / huella;Compatible;3,70;;;6
+AL-P34-MAR-COM;Alcatel;Pixi 3 (4);Marco / chasis;Compatible;5,00;;;6
+AL-P34-BOT-COM;Alcatel;Pixi 3 (4);Botones laterales;Compatible;2,55;;;6
+AL-P34-CRI-COM;Alcatel;Pixi 3 (4);Cristal de pantalla;Compatible;2,55;;;6
+AL-P34-ANT-COM;Alcatel;Pixi 3 (4);Antena / coaxial;Compatible;2,25;;;6
+AL-P345-MAR-COM;Alcatel;Pixi 3 (4.5);Marco / chasis;Compatible;5,00;;;6
+AL-P345-BOT-COM;Alcatel;Pixi 3 (4.5);Botones laterales;Compatible;2,55;;;6
+AL-P345-CRI-COM;Alcatel;Pixi 3 (4.5);Cristal de pantalla;Compatible;2,55;;;6
+AL-P345-ANT-COM;Alcatel;Pixi 3 (4.5);Antena / coaxial;Compatible;2,25;;;6
+AL-P35-MAR-COM;Alcatel;Pixi 3 (5);Marco / chasis;Compatible;5,00;;;6
+AL-P35-BOT-COM;Alcatel;Pixi 3 (5);Botones laterales;Compatible;2,55;;;6
+AL-P35-CRI-COM;Alcatel;Pixi 3 (5);Cristal de pantalla;Compatible;2,55;;;6
+AL-P35-ANT-COM;Alcatel;Pixi 3 (5);Antena / coaxial;Compatible;2,25;;;6
+AL-POP24-MAR-COM;Alcatel;Pop 2 (4);Marco / chasis;Compatible;5,00;;;6
+AL-POP24-BOT-COM;Alcatel;Pop 2 (4);Botones laterales;Compatible;2,55;;;6
+AL-POP24-CRI-COM;Alcatel;Pop 2 (4);Cristal de pantalla;Compatible;2,55;;;6
+AL-POP24-ANT-COM;Alcatel;Pop 2 (4);Antena / coaxial;Compatible;2,25;;;6
+AL-POP245-MAR-COM;Alcatel;Pop 2 (4.5);Marco / chasis;Compatible;5,00;;;6
+AL-POP245-BOT-COM;Alcatel;Pop 2 (4.5);Botones laterales;Compatible;2,55;;;6
+AL-POP245-CRI-COM;Alcatel;Pop 2 (4.5);Cristal de pantalla;Compatible;2,55;;;6
+AL-POP245-ANT-COM;Alcatel;Pop 2 (4.5);Antena / coaxial;Compatible;2,25;;;6
+AL-FE-MAR-COM;Alcatel;Fire E;Marco / chasis;Compatible;5,00;;;6
+AL-FE-BOT-COM;Alcatel;Fire E;Botones laterales;Compatible;2,55;;;6
+AL-FE-ANT-COM;Alcatel;Fire E;Antena / coaxial;Compatible;2,25;;;6
+AL-E-MAR-COM;Alcatel;Evolve;Marco / chasis;Compatible;5,00;;;6
+AL-E-BOT-COM;Alcatel;Evolve;Botones laterales;Compatible;2,55;;;6
+AL-E-ANT-COM;Alcatel;Evolve;Antena / coaxial;Compatible;2,25;;;6
+AL-F-MAR-COM;Alcatel;Fire;Marco / chasis;Compatible;5,00;;;6
+AL-F-BOT-COM;Alcatel;Fire;Botones laterales;Compatible;2,55;;;6
+AL-F-ANT-COM;Alcatel;Fire;Antena / coaxial;Compatible;2,25;;;6
+AL-960C-ANT-COM;Alcatel;960C;Antena / coaxial;Compatible;2,25;;;6
+AL-3XPL-MAR-COM;Alcatel;3X Plus;Marco / chasis;Compatible;5,65;;;6
+AL-3XPL-BOT-COM;Alcatel;3X Plus;Botones laterales;Compatible;2,89;;;6
+AL-3XPL-CRI-COM;Alcatel;3X Plus;Cristal de pantalla;Compatible;2,89;;;6
+AL-3XPL-ANT-COM;Alcatel;3X Plus;Antena / coaxial;Compatible;2,50;;;6
+AL-3XPL-HUE-COM;Alcatel;3X Plus;Botón home / huella;Compatible;4,15;;;6

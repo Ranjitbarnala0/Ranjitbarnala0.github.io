@@ -1,0 +1,1811 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+MZ-20I-PAN-INC;Meizu;20 Infinity;Pantalla;Incell;20,50;19,88;19,27;6
+MZ-20I-BAT-COM;Meizu;20 Infinity;Batería;Compatible;10,15;9,85;9,54;6
+MZ-20I-CON-COM;Meizu;20 Infinity;Conector de carga;Compatible;4,70;;;6
+MZ-20I-TAP-COM;Meizu;20 Infinity;Tapa trasera;Compatible;6,29;;;6
+MZ-20I-CTR-COM;Meizu;20 Infinity;Cámara trasera;Compatible;10,55;10,23;9,92;6
+MZ-20I-CFR-COM;Meizu;20 Infinity;Cámara frontal;Compatible;5,69;;;6
+MZ-20I-LEN-COM;Meizu;20 Infinity;Lente de cámara;Compatible;2,75;;;6
+MZ-20I-ALT-COM;Meizu;20 Infinity;Altavoz;Compatible;3,99;;;6
+MZ-20I-AUR-COM;Meizu;20 Infinity;Auricular de llamada;Compatible;3,29;;;6
+MZ-20I-FLX-COM;Meizu;20 Infinity;Flex de encendido y volumen;Compatible;3,60;;;6
+MZ-20I-SIM-COM;Meizu;20 Infinity;Bandeja SIM;Compatible;2,95;;;6
+MZ-18S-PAN-INC;Meizu;18s;Pantalla;Incell;19,25;18,67;18,10;6
+MZ-18S-BAT-COM;Meizu;18s;Batería;Compatible;8,89;;;6
+MZ-18S-CON-COM;Meizu;18s;Conector de carga;Compatible;4,10;;;6
+MZ-18S-TAP-COM;Meizu;18s;Tapa trasera;Compatible;5,60;;;6
+MZ-18S-CTR-COM;Meizu;18s;Cámara trasera;Compatible;7,50;;;6
+MZ-18S-CFR-COM;Meizu;18s;Cámara frontal;Compatible;3,89;;;6
+MZ-18S-LEN-COM;Meizu;18s;Lente de cámara;Compatible;2,65;;;6
+MZ-18S-ALT-COM;Meizu;18s;Altavoz;Compatible;3,70;;;6
+MZ-18S-AUR-COM;Meizu;18s;Auricular de llamada;Compatible;2,99;;;6
+MZ-18S-FLX-COM;Meizu;18s;Flex de encendido y volumen;Compatible;2,99;;;6
+MZ-18S-SIM-COM;Meizu;18s;Bandeja SIM;Compatible;2,99;;;6
+MZ-18SP-PAN-INC;Meizu;18s Pro;Pantalla;Incell;19,25;18,67;18,10;6
+MZ-18SP-BAT-COM;Meizu;18s Pro;Batería;Compatible;8,89;;;6
+MZ-18SP-CON-COM;Meizu;18s Pro;Conector de carga;Compatible;4,10;;;6
+MZ-18SP-TAP-COM;Meizu;18s Pro;Tapa trasera;Compatible;5,60;;;6
+MZ-18SP-CTR-COM;Meizu;18s Pro;Cámara trasera;Compatible;7,50;;;6
+MZ-18SP-CFR-COM;Meizu;18s Pro;Cámara frontal;Compatible;3,89;;;6
+MZ-18SP-LEN-COM;Meizu;18s Pro;Lente de cámara;Compatible;2,65;;;6
+MZ-18SP-ALT-COM;Meizu;18s Pro;Altavoz;Compatible;3,70;;;6
+MZ-18SP-AUR-COM;Meizu;18s Pro;Auricular de llamada;Compatible;2,99;;;6
+MZ-18SP-FLX-COM;Meizu;18s Pro;Flex de encendido y volumen;Compatible;2,99;;;6
+MZ-18SP-SIM-COM;Meizu;18s Pro;Bandeja SIM;Compatible;2,99;;;6
+MZ-18X-PAN-INC;Meizu;18X;Pantalla;Incell;19,25;18,67;18,10;6
+MZ-18X-BAT-COM;Meizu;18X;Batería;Compatible;8,89;;;6
+MZ-18X-CON-COM;Meizu;18X;Conector de carga;Compatible;4,10;;;6
+MZ-18X-TAP-COM;Meizu;18X;Tapa trasera;Compatible;5,60;;;6
+MZ-18X-CTR-COM;Meizu;18X;Cámara trasera;Compatible;7,50;;;6
+MZ-18X-CFR-COM;Meizu;18X;Cámara frontal;Compatible;3,89;;;6
+MZ-18X-LEN-COM;Meizu;18X;Lente de cámara;Compatible;2,65;;;6
+MZ-18X-ALT-COM;Meizu;18X;Altavoz;Compatible;3,70;;;6
+MZ-18X-AUR-COM;Meizu;18X;Auricular de llamada;Compatible;2,99;;;6
+MZ-18X-FLX-COM;Meizu;18X;Flex de encendido y volumen;Compatible;2,99;;;6
+MZ-18X-SIM-COM;Meizu;18X;Bandeja SIM;Compatible;2,99;;;6
+MZ-18-PAN-INC;Meizu;18;Pantalla;Incell;19,25;18,67;18,10;6
+MZ-18-BAT-COM;Meizu;18;Batería;Compatible;8,89;;;6
+MZ-18-CON-COM;Meizu;18;Conector de carga;Compatible;4,10;;;6
+MZ-18-TAP-COM;Meizu;18;Tapa trasera;Compatible;5,60;;;6
+MZ-18-CTR-COM;Meizu;18;Cámara trasera;Compatible;7,50;;;6
+MZ-18-CFR-COM;Meizu;18;Cámara frontal;Compatible;3,89;;;6
+MZ-18-LEN-COM;Meizu;18;Lente de cámara;Compatible;2,65;;;6
+MZ-18-ALT-COM;Meizu;18;Altavoz;Compatible;3,70;;;6
+MZ-18-AUR-COM;Meizu;18;Auricular de llamada;Compatible;2,99;;;6
+MZ-18-FLX-COM;Meizu;18;Flex de encendido y volumen;Compatible;2,99;;;6
+MZ-18-SIM-COM;Meizu;18;Bandeja SIM;Compatible;2,99;;;6
+MZ-18P-PAN-INC;Meizu;18 Pro;Pantalla;Incell;19,25;18,67;18,10;6
+MZ-18P-BAT-COM;Meizu;18 Pro;Batería;Compatible;8,89;;;6
+MZ-18P-CON-COM;Meizu;18 Pro;Conector de carga;Compatible;4,10;;;6
+MZ-18P-TAP-COM;Meizu;18 Pro;Tapa trasera;Compatible;5,60;;;6
+MZ-18P-CTR-COM;Meizu;18 Pro;Cámara trasera;Compatible;7,50;;;6
+MZ-18P-CFR-COM;Meizu;18 Pro;Cámara frontal;Compatible;3,89;;;6
+MZ-18P-LEN-COM;Meizu;18 Pro;Lente de cámara;Compatible;2,65;;;6
+MZ-18P-ALT-COM;Meizu;18 Pro;Altavoz;Compatible;3,70;;;6
+MZ-18P-AUR-COM;Meizu;18 Pro;Auricular de llamada;Compatible;2,99;;;6
+MZ-18P-FLX-COM;Meizu;18 Pro;Flex de encendido y volumen;Compatible;2,99;;;6
+MZ-18P-SIM-COM;Meizu;18 Pro;Bandeja SIM;Compatible;2,99;;;6
+MZ-16T-PAN-COM;Meizu;16T;Pantalla;Compatible;15,55;15,08;14,62;6
+MZ-16T-BAT-COM;Meizu;16T;Batería;Compatible;10,40;10,09;9,78;6
+MZ-16T-CON-COM;Meizu;16T;Conector de carga;Compatible;4,30;;;6
+MZ-16T-TAP-COM;Meizu;16T;Tapa trasera;Compatible;5,49;;;6
+MZ-16T-CTR-COM;Meizu;16T;Cámara trasera;Compatible;9,20;;;6
+MZ-16T-CFR-COM;Meizu;16T;Cámara frontal;Compatible;5,25;;;6
+MZ-16T-LEN-COM;Meizu;16T;Lente de cámara;Compatible;2,60;;;6
+MZ-16T-ALT-COM;Meizu;16T;Altavoz;Compatible;4,05;;;6
+MZ-16T-AUR-COM;Meizu;16T;Auricular de llamada;Compatible;3,30;;;6
+MZ-16T-FLX-COM;Meizu;16T;Flex de encendido y volumen;Compatible;3,25;;;6
+MZ-16T-SIM-COM;Meizu;16T;Bandeja SIM;Compatible;2,90;;;6
+MZ-16SP-PAN-COM;Meizu;16s Pro;Pantalla;Compatible;15,55;15,08;14,62;6
+MZ-16SP-BAT-COM;Meizu;16s Pro;Batería;Compatible;10,40;10,09;9,78;6
+MZ-16SP-CON-COM;Meizu;16s Pro;Conector de carga;Compatible;4,30;;;6
+MZ-16SP-TAP-COM;Meizu;16s Pro;Tapa trasera;Compatible;5,49;;;6
+MZ-16SP-CTR-COM;Meizu;16s Pro;Cámara trasera;Compatible;9,20;;;6
+MZ-16SP-CFR-COM;Meizu;16s Pro;Cámara frontal;Compatible;5,25;;;6
+MZ-16SP-LEN-COM;Meizu;16s Pro;Lente de cámara;Compatible;2,60;;;6
+MZ-16SP-ALT-COM;Meizu;16s Pro;Altavoz;Compatible;4,05;;;6
+MZ-16SP-AUR-COM;Meizu;16s Pro;Auricular de llamada;Compatible;3,30;;;6
+MZ-16SP-FLX-COM;Meizu;16s Pro;Flex de encendido y volumen;Compatible;3,25;;;6
+MZ-16SP-SIM-COM;Meizu;16s Pro;Bandeja SIM;Compatible;2,90;;;6
+MZ-16THPL-PAN-COM;Meizu;16th Plus;Pantalla;Compatible;15,55;15,08;14,62;6
+MZ-16THPL-BAT-COM;Meizu;16th Plus;Batería;Compatible;10,40;10,09;9,78;6
+MZ-16THPL-CON-COM;Meizu;16th Plus;Conector de carga;Compatible;4,30;;;6
+MZ-16THPL-TAP-COM;Meizu;16th Plus;Tapa trasera;Compatible;5,49;;;6
+MZ-16THPL-CTR-COM;Meizu;16th Plus;Cámara trasera;Compatible;9,20;;;6
+MZ-16THPL-CFR-COM;Meizu;16th Plus;Cámara frontal;Compatible;5,25;;;6
+MZ-16THPL-LEN-COM;Meizu;16th Plus;Lente de cámara;Compatible;2,60;;;6
+MZ-16THPL-ALT-COM;Meizu;16th Plus;Altavoz;Compatible;4,05;;;6
+MZ-16THPL-AUR-COM;Meizu;16th Plus;Auricular de llamada;Compatible;3,30;;;6
+MZ-16THPL-FLX-COM;Meizu;16th Plus;Flex de encendido y volumen;Compatible;3,25;;;6
+MZ-16THPL-SIM-COM;Meizu;16th Plus;Bandeja SIM;Compatible;2,90;;;6
+MZ-M8C-PAN-COM;Meizu;M8c;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-M8C-BAT-COM;Meizu;M8c;Batería;Compatible;8,90;;;6
+MZ-M8C-CON-COM;Meizu;M8c;Conector de carga;Compatible;3,70;;;6
+MZ-M8C-TAP-COM;Meizu;M8c;Tapa trasera;Compatible;4,80;;;6
+MZ-M8C-CTR-COM;Meizu;M8c;Cámara trasera;Compatible;6,65;;;6
+MZ-M8C-CFR-COM;Meizu;M8c;Cámara frontal;Compatible;4,65;;;6
+MZ-M8C-LEN-COM;Meizu;M8c;Lente de cámara;Compatible;2,25;;;6
+MZ-M8C-ALT-COM;Meizu;M8c;Altavoz;Compatible;3,59;;;6
+MZ-M8C-AUR-COM;Meizu;M8c;Auricular de llamada;Compatible;2,69;;;6
+MZ-M8C-FLX-COM;Meizu;M8c;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-M8C-SIM-COM;Meizu;M8c;Bandeja SIM;Compatible;2,65;;;6
+MZ-15P-PAN-COM;Meizu;15 Pro;Pantalla;Compatible;15,55;15,08;14,62;6
+MZ-15P-BAT-COM;Meizu;15 Pro;Batería;Compatible;10,40;10,09;9,78;6
+MZ-15P-CON-COM;Meizu;15 Pro;Conector de carga;Compatible;4,30;;;6
+MZ-15P-TAP-COM;Meizu;15 Pro;Tapa trasera;Compatible;5,49;;;6
+MZ-15P-CTR-COM;Meizu;15 Pro;Cámara trasera;Compatible;9,20;;;6
+MZ-15P-CFR-COM;Meizu;15 Pro;Cámara frontal;Compatible;5,25;;;6
+MZ-15P-LEN-COM;Meizu;15 Pro;Lente de cámara;Compatible;2,60;;;6
+MZ-15P-ALT-COM;Meizu;15 Pro;Altavoz;Compatible;4,05;;;6
+MZ-15P-AUR-COM;Meizu;15 Pro;Auricular de llamada;Compatible;3,30;;;6
+MZ-15P-FLX-COM;Meizu;15 Pro;Flex de encendido y volumen;Compatible;3,25;;;6
+MZ-15P-SIM-COM;Meizu;15 Pro;Bandeja SIM;Compatible;2,90;;;6
+MZ-E3-PAN-COM;Meizu;E3;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-E3-BAT-COM;Meizu;E3;Batería;Compatible;8,90;;;6
+MZ-E3-CON-COM;Meizu;E3;Conector de carga;Compatible;3,70;;;6
+MZ-E3-TAP-COM;Meizu;E3;Tapa trasera;Compatible;4,80;;;6
+MZ-E3-CTR-COM;Meizu;E3;Cámara trasera;Compatible;6,65;;;6
+MZ-E3-CFR-COM;Meizu;E3;Cámara frontal;Compatible;4,65;;;6
+MZ-E3-LEN-COM;Meizu;E3;Lente de cámara;Compatible;2,25;;;6
+MZ-E3-ALT-COM;Meizu;E3;Altavoz;Compatible;3,59;;;6
+MZ-E3-AUR-COM;Meizu;E3;Auricular de llamada;Compatible;2,69;;;6
+MZ-E3-FLX-COM;Meizu;E3;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-E3-SIM-COM;Meizu;E3;Bandeja SIM;Compatible;2,65;;;6
+MZ-E2-PAN-COM;Meizu;E2;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-E2-BAT-COM;Meizu;E2;Batería;Compatible;8,90;;;6
+MZ-E2-CON-COM;Meizu;E2;Conector de carga;Compatible;3,70;;;6
+MZ-E2-TAP-COM;Meizu;E2;Tapa trasera;Compatible;4,80;;;6
+MZ-E2-CTR-COM;Meizu;E2;Cámara trasera;Compatible;6,65;;;6
+MZ-E2-CFR-COM;Meizu;E2;Cámara frontal;Compatible;4,65;;;6
+MZ-E2-LEN-COM;Meizu;E2;Lente de cámara;Compatible;2,25;;;6
+MZ-E2-ALT-COM;Meizu;E2;Altavoz;Compatible;3,59;;;6
+MZ-E2-AUR-COM;Meizu;E2;Auricular de llamada;Compatible;2,69;;;6
+MZ-E2-FLX-COM;Meizu;E2;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-E2-SIM-COM;Meizu;E2;Bandeja SIM;Compatible;2,65;;;6
+MZ-M3X-PAN-COM;Meizu;M3x;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-M3X-BAT-COM;Meizu;M3x;Batería;Compatible;8,90;;;6
+MZ-M3X-CON-COM;Meizu;M3x;Conector de carga;Compatible;3,70;;;6
+MZ-M3X-TAP-COM;Meizu;M3x;Tapa trasera;Compatible;4,80;;;6
+MZ-M3X-CTR-COM;Meizu;M3x;Cámara trasera;Compatible;6,65;;;6
+MZ-M3X-CFR-COM;Meizu;M3x;Cámara frontal;Compatible;4,65;;;6
+MZ-M3X-LEN-COM;Meizu;M3x;Lente de cámara;Compatible;2,25;;;6
+MZ-M3X-ALT-COM;Meizu;M3x;Altavoz;Compatible;3,59;;;6
+MZ-M3X-AUR-COM;Meizu;M3x;Auricular de llamada;Compatible;2,69;;;6
+MZ-M3X-FLX-COM;Meizu;M3x;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-M3X-SIM-COM;Meizu;M3x;Bandeja SIM;Compatible;2,65;;;6
+MZ-P6S-PAN-COM;Meizu;PRO 6s;Pantalla;Compatible;15,55;15,08;14,62;6
+MZ-P6S-BAT-COM;Meizu;PRO 6s;Batería;Compatible;10,40;10,09;9,78;6
+MZ-P6S-CON-COM;Meizu;PRO 6s;Conector de carga;Compatible;4,30;;;6
+MZ-P6S-TAP-COM;Meizu;PRO 6s;Tapa trasera;Compatible;5,49;;;6
+MZ-P6S-CTR-COM;Meizu;PRO 6s;Cámara trasera;Compatible;9,20;;;6
+MZ-P6S-CFR-COM;Meizu;PRO 6s;Cámara frontal;Compatible;5,25;;;6
+MZ-P6S-LEN-COM;Meizu;PRO 6s;Lente de cámara;Compatible;2,60;;;6
+MZ-P6S-ALT-COM;Meizu;PRO 6s;Altavoz;Compatible;4,05;;;6
+MZ-P6S-AUR-COM;Meizu;PRO 6s;Auricular de llamada;Compatible;3,30;;;6
+MZ-P6S-FLX-COM;Meizu;PRO 6s;Flex de encendido y volumen;Compatible;3,25;;;6
+MZ-P6S-SIM-COM;Meizu;PRO 6s;Bandeja SIM;Compatible;2,90;;;6
+MZ-M3-PAN-COM;Meizu;M3;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-M3-BAT-COM;Meizu;M3;Batería;Compatible;8,90;;;6
+MZ-M3-CON-COM;Meizu;M3;Conector de carga;Compatible;3,70;;;6
+MZ-M3-TAP-COM;Meizu;M3;Tapa trasera;Compatible;4,80;;;6
+MZ-M3-CTR-COM;Meizu;M3;Cámara trasera;Compatible;6,65;;;6
+MZ-M3-CFR-COM;Meizu;M3;Cámara frontal;Compatible;4,65;;;6
+MZ-M3-LEN-COM;Meizu;M3;Lente de cámara;Compatible;2,25;;;6
+MZ-M3-ALT-COM;Meizu;M3;Altavoz;Compatible;3,59;;;6
+MZ-M3-AUR-COM;Meizu;M3;Auricular de llamada;Compatible;2,69;;;6
+MZ-M3-FLX-COM;Meizu;M3;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-M3-SIM-COM;Meizu;M3;Bandeja SIM;Compatible;2,65;;;6
+MZ-MX5E-PAN-COM;Meizu;MX5e;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-MX5E-BAT-COM;Meizu;MX5e;Batería;Compatible;8,90;;;6
+MZ-MX5E-CON-COM;Meizu;MX5e;Conector de carga;Compatible;3,70;;;6
+MZ-MX5E-TAP-COM;Meizu;MX5e;Tapa trasera;Compatible;4,80;;;6
+MZ-MX5E-CTR-COM;Meizu;MX5e;Cámara trasera;Compatible;6,65;;;6
+MZ-MX5E-CFR-COM;Meizu;MX5e;Cámara frontal;Compatible;4,65;;;6
+MZ-MX5E-LEN-COM;Meizu;MX5e;Lente de cámara;Compatible;2,25;;;6
+MZ-MX5E-ALT-COM;Meizu;MX5e;Altavoz;Compatible;3,59;;;6
+MZ-MX5E-AUR-COM;Meizu;MX5e;Auricular de llamada;Compatible;2,69;;;6
+MZ-MX5E-FLX-COM;Meizu;MX5e;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-MX5E-SIM-COM;Meizu;MX5e;Bandeja SIM;Compatible;2,65;;;6
+MZ-M1M-PAN-COM;Meizu;M1 Metal;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-M1M-BAT-COM;Meizu;M1 Metal;Batería;Compatible;8,90;;;6
+MZ-M1M-CON-COM;Meizu;M1 Metal;Conector de carga;Compatible;3,70;;;6
+MZ-M1M-TAP-COM;Meizu;M1 Metal;Tapa trasera;Compatible;4,80;;;6
+MZ-M1M-CTR-COM;Meizu;M1 Metal;Cámara trasera;Compatible;6,65;;;6
+MZ-M1M-CFR-COM;Meizu;M1 Metal;Cámara frontal;Compatible;4,65;;;6
+MZ-M1M-LEN-COM;Meizu;M1 Metal;Lente de cámara;Compatible;2,25;;;6
+MZ-M1M-ALT-COM;Meizu;M1 Metal;Altavoz;Compatible;3,59;;;6
+MZ-M1M-AUR-COM;Meizu;M1 Metal;Auricular de llamada;Compatible;2,69;;;6
+MZ-M1M-FLX-COM;Meizu;M1 Metal;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-M1M-SIM-COM;Meizu;M1 Metal;Bandeja SIM;Compatible;2,65;;;6
+MZ-MX4UE-PAN-COM;Meizu;MX4 Ubuntu Edition;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-MX4UE-BAT-COM;Meizu;MX4 Ubuntu Edition;Batería;Compatible;8,90;;;6
+MZ-MX4UE-CON-COM;Meizu;MX4 Ubuntu Edition;Conector de carga;Compatible;3,70;;;6
+MZ-MX4UE-TAP-COM;Meizu;MX4 Ubuntu Edition;Tapa trasera;Compatible;4,80;;;6
+MZ-MX4UE-CTR-COM;Meizu;MX4 Ubuntu Edition;Cámara trasera;Compatible;6,65;;;6
+MZ-MX4UE-CFR-COM;Meizu;MX4 Ubuntu Edition;Cámara frontal;Compatible;4,65;;;6
+MZ-MX4UE-LEN-COM;Meizu;MX4 Ubuntu Edition;Lente de cámara;Compatible;2,25;;;6
+MZ-MX4UE-ALT-COM;Meizu;MX4 Ubuntu Edition;Altavoz;Compatible;3,59;;;6
+MZ-MX4UE-AUR-COM;Meizu;MX4 Ubuntu Edition;Auricular de llamada;Compatible;2,69;;;6
+MZ-MX4UE-FLX-COM;Meizu;MX4 Ubuntu Edition;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-MX4UE-SIM-COM;Meizu;MX4 Ubuntu Edition;Bandeja SIM;Compatible;2,65;;;6
+MZ-M1-PAN-COM;Meizu;M1;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-M1-BAT-COM;Meizu;M1;Batería;Compatible;8,90;;;6
+MZ-M1-CON-COM;Meizu;M1;Conector de carga;Compatible;3,70;;;6
+MZ-M1-TAP-COM;Meizu;M1;Tapa trasera;Compatible;4,80;;;6
+MZ-M1-CTR-COM;Meizu;M1;Cámara trasera;Compatible;6,65;;;6
+MZ-M1-CFR-COM;Meizu;M1;Cámara frontal;Compatible;4,65;;;6
+MZ-M1-LEN-COM;Meizu;M1;Lente de cámara;Compatible;2,25;;;6
+MZ-M1-ALT-COM;Meizu;M1;Altavoz;Compatible;3,59;;;6
+MZ-M1-AUR-COM;Meizu;M1;Auricular de llamada;Compatible;2,69;;;6
+MZ-M1-FLX-COM;Meizu;M1;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-M1-SIM-COM;Meizu;M1;Bandeja SIM;Compatible;2,65;;;6
+MZ-M1N-PAN-COM;Meizu;M1 Note;Pantalla;Compatible;15,15;14,70;14,24;6
+MZ-M1N-BAT-COM;Meizu;M1 Note;Batería;Compatible;9,65;;;6
+MZ-M1N-CON-COM;Meizu;M1 Note;Conector de carga;Compatible;4,60;;;6
+MZ-M1N-TAP-COM;Meizu;M1 Note;Tapa trasera;Compatible;5,40;;;6
+MZ-M1N-CTR-COM;Meizu;M1 Note;Cámara trasera;Compatible;7,59;;;6
+MZ-M1N-CFR-COM;Meizu;M1 Note;Cámara frontal;Compatible;4,99;;;6
+MZ-M1N-LEN-COM;Meizu;M1 Note;Lente de cámara;Compatible;2,19;;;6
+MZ-M1N-ALT-COM;Meizu;M1 Note;Altavoz;Compatible;3,65;;;6
+MZ-M1N-AUR-COM;Meizu;M1 Note;Auricular de llamada;Compatible;2,65;;;6
+MZ-M1N-FLX-COM;Meizu;M1 Note;Flex de encendido y volumen;Compatible;2,49;;;6
+MZ-M1N-SIM-COM;Meizu;M1 Note;Bandeja SIM;Compatible;2,55;;;6
+MZ-MX4P-PAN-COM;Meizu;MX4 Pro;Pantalla;Compatible;15,55;15,08;14,62;6
+MZ-MX4P-BAT-COM;Meizu;MX4 Pro;Batería;Compatible;10,40;10,09;9,78;6
+MZ-MX4P-CON-COM;Meizu;MX4 Pro;Conector de carga;Compatible;4,30;;;6
+MZ-MX4P-TAP-COM;Meizu;MX4 Pro;Tapa trasera;Compatible;5,49;;;6
+MZ-MX4P-CTR-COM;Meizu;MX4 Pro;Cámara trasera;Compatible;9,20;;;6
+MZ-MX4P-CFR-COM;Meizu;MX4 Pro;Cámara frontal;Compatible;5,25;;;6
+MZ-MX4P-LEN-COM;Meizu;MX4 Pro;Lente de cámara;Compatible;2,60;;;6
+MZ-MX4P-ALT-COM;Meizu;MX4 Pro;Altavoz;Compatible;4,05;;;6
+MZ-MX4P-AUR-COM;Meizu;MX4 Pro;Auricular de llamada;Compatible;3,30;;;6
+MZ-MX4P-FLX-COM;Meizu;MX4 Pro;Flex de encendido y volumen;Compatible;3,25;;;6
+MZ-MX4P-SIM-COM;Meizu;MX4 Pro;Bandeja SIM;Compatible;2,90;;;6
+MZ-MX4-PAN-COM;Meizu;MX4;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-MX4-BAT-COM;Meizu;MX4;Batería;Compatible;8,90;;;6
+MZ-MX4-CON-COM;Meizu;MX4;Conector de carga;Compatible;3,70;;;6
+MZ-MX4-TAP-COM;Meizu;MX4;Tapa trasera;Compatible;4,80;;;6
+MZ-MX4-CTR-COM;Meizu;MX4;Cámara trasera;Compatible;6,65;;;6
+MZ-MX4-CFR-COM;Meizu;MX4;Cámara frontal;Compatible;4,65;;;6
+MZ-MX4-LEN-COM;Meizu;MX4;Lente de cámara;Compatible;2,25;;;6
+MZ-MX4-ALT-COM;Meizu;MX4;Altavoz;Compatible;3,59;;;6
+MZ-MX4-AUR-COM;Meizu;MX4;Auricular de llamada;Compatible;2,69;;;6
+MZ-MX4-FLX-COM;Meizu;MX4;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-MX4-SIM-COM;Meizu;MX4;Bandeja SIM;Compatible;2,65;;;6
+MZ-MX3-PAN-COM;Meizu;MX3;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-MX3-BAT-COM;Meizu;MX3;Batería;Compatible;8,90;;;6
+MZ-MX3-CON-COM;Meizu;MX3;Conector de carga;Compatible;3,70;;;6
+MZ-MX3-TAP-COM;Meizu;MX3;Tapa trasera;Compatible;4,80;;;6
+MZ-MX3-CTR-COM;Meizu;MX3;Cámara trasera;Compatible;6,65;;;6
+MZ-MX3-CFR-COM;Meizu;MX3;Cámara frontal;Compatible;4,65;;;6
+MZ-MX3-LEN-COM;Meizu;MX3;Lente de cámara;Compatible;2,25;;;6
+MZ-MX3-ALT-COM;Meizu;MX3;Altavoz;Compatible;3,59;;;6
+MZ-MX3-AUR-COM;Meizu;MX3;Auricular de llamada;Compatible;2,69;;;6
+MZ-MX3-FLX-COM;Meizu;MX3;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-MX3-SIM-COM;Meizu;MX3;Bandeja SIM;Compatible;2,65;;;6
+MZ-MX2-PAN-COM;Meizu;MX2;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-MX2-BAT-COM;Meizu;MX2;Batería;Compatible;8,90;;;6
+MZ-MX2-CON-COM;Meizu;MX2;Conector de carga;Compatible;3,70;;;6
+MZ-MX2-TAP-COM;Meizu;MX2;Tapa trasera;Compatible;4,80;;;6
+MZ-MX2-CTR-COM;Meizu;MX2;Cámara trasera;Compatible;6,65;;;6
+MZ-MX2-CFR-COM;Meizu;MX2;Cámara frontal;Compatible;4,65;;;6
+MZ-MX2-LEN-COM;Meizu;MX2;Lente de cámara;Compatible;2,25;;;6
+MZ-MX2-ALT-COM;Meizu;MX2;Altavoz;Compatible;3,59;;;6
+MZ-MX2-AUR-COM;Meizu;MX2;Auricular de llamada;Compatible;2,69;;;6
+MZ-MX2-FLX-COM;Meizu;MX2;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-MX2-SIM-COM;Meizu;MX2;Bandeja SIM;Compatible;2,65;;;6
+MZ-MX4C-PAN-COM;Meizu;MX 4-core;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-MX4C-BAT-COM;Meizu;MX 4-core;Batería;Compatible;8,90;;;6
+MZ-MX4C-CON-COM;Meizu;MX 4-core;Conector de carga;Compatible;3,70;;;6
+MZ-MX4C-TAP-COM;Meizu;MX 4-core;Tapa trasera;Compatible;4,80;;;6
+MZ-MX4C-CTR-COM;Meizu;MX 4-core;Cámara trasera;Compatible;6,65;;;6
+MZ-MX4C-CFR-COM;Meizu;MX 4-core;Cámara frontal;Compatible;4,65;;;6
+MZ-MX4C-LEN-COM;Meizu;MX 4-core;Lente de cámara;Compatible;2,25;;;6
+MZ-MX4C-ALT-COM;Meizu;MX 4-core;Altavoz;Compatible;3,59;;;6
+MZ-MX4C-AUR-COM;Meizu;MX 4-core;Auricular de llamada;Compatible;2,69;;;6
+MZ-MX4C-FLX-COM;Meizu;MX 4-core;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-MX4C-SIM-COM;Meizu;MX 4-core;Bandeja SIM;Compatible;2,65;;;6
+MZ-MX-PAN-COM;Meizu;MX;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-MX-BAT-COM;Meizu;MX;Batería;Compatible;8,90;;;6
+MZ-MX-CON-COM;Meizu;MX;Conector de carga;Compatible;3,70;;;6
+MZ-MX-TAP-COM;Meizu;MX;Tapa trasera;Compatible;4,80;;;6
+MZ-MX-CTR-COM;Meizu;MX;Cámara trasera;Compatible;6,65;;;6
+MZ-MX-CFR-COM;Meizu;MX;Cámara frontal;Compatible;4,65;;;6
+MZ-MX-LEN-COM;Meizu;MX;Lente de cámara;Compatible;2,25;;;6
+MZ-MX-ALT-COM;Meizu;MX;Altavoz;Compatible;3,59;;;6
+MZ-MX-AUR-COM;Meizu;MX;Auricular de llamada;Compatible;2,69;;;6
+MZ-MX-FLX-COM;Meizu;MX;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-MX-SIM-COM;Meizu;MX;Bandeja SIM;Compatible;2,65;;;6
+MZ-M2N-PAN-COM;Meizu;M2 Note;Pantalla;Compatible;15,15;14,70;14,24;6
+MZ-M2N-BAT-COM;Meizu;M2 Note;Batería;Compatible;9,65;;;6
+MZ-M2N-CON-COM;Meizu;M2 Note;Conector de carga;Compatible;4,60;;;6
+MZ-M2N-TAP-COM-BLA;Meizu;M2 Note;Tapa trasera;Blanco;5,40;;;6
+MZ-M2N-TAP-COM-AZU;Meizu;M2 Note;Tapa trasera;Azul;5,40;;;6
+MZ-M2N-TAP-COM-ROS;Meizu;M2 Note;Tapa trasera;Rosa;5,40;;;6
+MZ-M2N-TAP-COM-GRI;Meizu;M2 Note;Tapa trasera;Gris;5,40;;;6
+MZ-M2N-CTR-COM;Meizu;M2 Note;Cámara trasera;Compatible;7,59;;;6
+MZ-M2N-CFR-COM;Meizu;M2 Note;Cámara frontal;Compatible;4,99;;;6
+MZ-M2N-LEN-COM;Meizu;M2 Note;Lente de cámara;Compatible;2,19;;;6
+MZ-M2N-ALT-COM;Meizu;M2 Note;Altavoz;Compatible;3,65;;;6
+MZ-M2N-AUR-COM;Meizu;M2 Note;Auricular de llamada;Compatible;2,65;;;6
+MZ-M2N-FLX-COM;Meizu;M2 Note;Flex de encendido y volumen;Compatible;2,49;;;6
+MZ-M2N-SIM-COM;Meizu;M2 Note;Bandeja SIM;Compatible;2,55;;;6
+MZ-MX5-PAN-INC;Meizu;MX5;Pantalla;Incell;15,15;14,70;14,24;6
+MZ-MX5-BAT-COM;Meizu;MX5;Batería;Compatible;8,90;;;6
+MZ-MX5-CON-COM;Meizu;MX5;Conector de carga;Compatible;3,70;;;6
+MZ-MX5-TAP-COM-DOR;Meizu;MX5;Tapa trasera;Dorado;4,80;;;6
+MZ-MX5-TAP-COM-GRI;Meizu;MX5;Tapa trasera;Gris;4,80;;;6
+MZ-MX5-TAP-COM-SIL;Meizu;MX5;Tapa trasera;Silver-white;4,80;;;6
+MZ-MX5-TAP-COM-SBL;Meizu;MX5;Tapa trasera;Silver-black;4,80;;;6
+MZ-MX5-CTR-COM;Meizu;MX5;Cámara trasera;Compatible;6,65;;;6
+MZ-MX5-CFR-COM;Meizu;MX5;Cámara frontal;Compatible;4,65;;;6
+MZ-MX5-LEN-COM;Meizu;MX5;Lente de cámara;Compatible;2,25;;;6
+MZ-MX5-ALT-COM;Meizu;MX5;Altavoz;Compatible;3,59;;;6
+MZ-MX5-AUR-COM;Meizu;MX5;Auricular de llamada;Compatible;2,69;;;6
+MZ-MX5-FLX-COM;Meizu;MX5;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-MX5-SIM-COM;Meizu;MX5;Bandeja SIM;Compatible;2,65;;;6
+MZ-M2-PAN-COM;Meizu;M2;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-M2-BAT-COM;Meizu;M2;Batería;Compatible;8,90;;;6
+MZ-M2-CON-COM;Meizu;M2;Conector de carga;Compatible;3,70;;;6
+MZ-M2-TAP-COM-BLA;Meizu;M2;Tapa trasera;Blanco;4,80;;;6
+MZ-M2-TAP-COM-GRI;Meizu;M2;Tapa trasera;Gris;4,80;;;6
+MZ-M2-TAP-COM-AZU;Meizu;M2;Tapa trasera;Azul;4,80;;;6
+MZ-M2-TAP-COM-ROS;Meizu;M2;Tapa trasera;Rosa;4,80;;;6
+MZ-M2-CTR-COM;Meizu;M2;Cámara trasera;Compatible;6,65;;;6
+MZ-M2-CFR-COM;Meizu;M2;Cámara frontal;Compatible;4,65;;;6
+MZ-M2-LEN-COM;Meizu;M2;Lente de cámara;Compatible;2,25;;;6
+MZ-M2-ALT-COM;Meizu;M2;Altavoz;Compatible;3,59;;;6
+MZ-M2-AUR-COM;Meizu;M2;Auricular de llamada;Compatible;2,69;;;6
+MZ-M2-FLX-COM;Meizu;M2;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-M2-SIM-COM;Meizu;M2;Bandeja SIM;Compatible;2,65;;;6
+MZ-P5-PAN-INC;Meizu;Pro 5;Pantalla;Incell;18,15;17,61;17,06;6
+MZ-P5-BAT-COM;Meizu;Pro 5;Batería;Compatible;10,40;10,09;9,78;6
+MZ-P5-CON-COM;Meizu;Pro 5;Conector de carga;Compatible;4,30;;;6
+MZ-P5-TAP-COM-DOR;Meizu;Pro 5;Tapa trasera;Dorado;5,49;;;6
+MZ-P5-TAP-COM-GRI;Meizu;Pro 5;Tapa trasera;Gris;5,49;;;6
+MZ-P5-TAP-COM-SIL;Meizu;Pro 5;Tapa trasera;Silver-white;5,49;;;6
+MZ-P5-TAP-COM-SBL;Meizu;Pro 5;Tapa trasera;Silver-black;5,49;;;6
+MZ-P5-CTR-COM;Meizu;Pro 5;Cámara trasera;Compatible;9,20;;;6
+MZ-P5-CFR-COM;Meizu;Pro 5;Cámara frontal;Compatible;5,25;;;6
+MZ-P5-LEN-COM;Meizu;Pro 5;Lente de cámara;Compatible;2,60;;;6
+MZ-P5-ALT-COM;Meizu;Pro 5;Altavoz;Compatible;4,05;;;6
+MZ-P5-AUR-COM;Meizu;Pro 5;Auricular de llamada;Compatible;3,30;;;6
+MZ-P5-FLX-COM;Meizu;Pro 5;Flex de encendido y volumen;Compatible;3,25;;;6
+MZ-P5-SIM-COM;Meizu;Pro 5;Bandeja SIM;Compatible;2,90;;;6
+MZ-M3N-PAN-COM;Meizu;M3 Note;Pantalla;Compatible;15,15;14,70;14,24;6
+MZ-M3N-BAT-COM;Meizu;M3 Note;Batería;Compatible;9,65;;;6
+MZ-M3N-CON-COM;Meizu;M3 Note;Conector de carga;Compatible;4,60;;;6
+MZ-M3N-TAP-COM-DOR;Meizu;M3 Note;Tapa trasera;Dorado;5,40;;;6
+MZ-M3N-TAP-COM-GRI;Meizu;M3 Note;Tapa trasera;Gris;5,40;;;6
+MZ-M3N-TAP-COM-PLA;Meizu;M3 Note;Tapa trasera;Plata;5,40;;;6
+MZ-M3N-CTR-COM;Meizu;M3 Note;Cámara trasera;Compatible;7,59;;;6
+MZ-M3N-CFR-COM;Meizu;M3 Note;Cámara frontal;Compatible;4,99;;;6
+MZ-M3N-LEN-COM;Meizu;M3 Note;Lente de cámara;Compatible;2,19;;;6
+MZ-M3N-ALT-COM;Meizu;M3 Note;Altavoz;Compatible;3,65;;;6
+MZ-M3N-AUR-COM;Meizu;M3 Note;Auricular de llamada;Compatible;2,65;;;6
+MZ-M3N-FLX-COM;Meizu;M3 Note;Flex de encendido y volumen;Compatible;2,49;;;6
+MZ-M3N-SIM-COM;Meizu;M3 Note;Bandeja SIM;Compatible;2,55;;;6
+MZ-P6-PAN-INC;Meizu;Pro 6;Pantalla;Incell;18,15;17,61;17,06;6
+MZ-P6-BAT-COM;Meizu;Pro 6;Batería;Compatible;10,40;10,09;9,78;6
+MZ-P6-CON-COM;Meizu;Pro 6;Conector de carga;Compatible;4,30;;;6
+MZ-P6-TAP-COM-DOR;Meizu;Pro 6;Tapa trasera;Dorado;5,49;;;6
+MZ-P6-TAP-COM-GRI;Meizu;Pro 6;Tapa trasera;Gris;5,49;;;6
+MZ-P6-TAP-COM-PLA;Meizu;Pro 6;Tapa trasera;Plata;5,49;;;6
+MZ-P6-TAP-COM-ROS;Meizu;Pro 6;Tapa trasera;Rosa;5,49;;;6
+MZ-P6-CTR-COM;Meizu;Pro 6;Cámara trasera;Compatible;9,20;;;6
+MZ-P6-CFR-COM;Meizu;Pro 6;Cámara frontal;Compatible;5,25;;;6
+MZ-P6-LEN-COM;Meizu;Pro 6;Lente de cámara;Compatible;2,60;;;6
+MZ-P6-ALT-COM;Meizu;Pro 6;Altavoz;Compatible;4,05;;;6
+MZ-P6-AUR-COM;Meizu;Pro 6;Auricular de llamada;Compatible;3,30;;;6
+MZ-P6-FLX-COM;Meizu;Pro 6;Flex de encendido y volumen;Compatible;3,25;;;6
+MZ-P6-SIM-COM;Meizu;Pro 6;Bandeja SIM;Compatible;2,90;;;6
+MZ-M3S-PAN-COM;Meizu;M3s;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-M3S-BAT-COM;Meizu;M3s;Batería;Compatible;8,90;;;6
+MZ-M3S-CON-COM;Meizu;M3s;Conector de carga;Compatible;3,70;;;6
+MZ-M3S-TAP-COM-DOR;Meizu;M3s;Tapa trasera;Dorado;4,80;;;6
+MZ-M3S-TAP-COM-GRI;Meizu;M3s;Tapa trasera;Gris;4,80;;;6
+MZ-M3S-TAP-COM-PLA;Meizu;M3s;Tapa trasera;Plata;4,80;;;6
+MZ-M3S-CTR-COM;Meizu;M3s;Cámara trasera;Compatible;6,65;;;6
+MZ-M3S-CFR-COM;Meizu;M3s;Cámara frontal;Compatible;4,65;;;6
+MZ-M3S-LEN-COM;Meizu;M3s;Lente de cámara;Compatible;2,25;;;6
+MZ-M3S-ALT-COM;Meizu;M3s;Altavoz;Compatible;3,59;;;6
+MZ-M3S-AUR-COM;Meizu;M3s;Auricular de llamada;Compatible;2,69;;;6
+MZ-M3S-FLX-COM;Meizu;M3s;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-M3S-SIM-COM;Meizu;M3s;Bandeja SIM;Compatible;2,65;;;6
+MZ-MX6-PAN-COM;Meizu;MX6;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-MX6-BAT-COM;Meizu;MX6;Batería;Compatible;8,90;;;6
+MZ-MX6-CON-COM;Meizu;MX6;Conector de carga;Compatible;3,70;;;6
+MZ-MX6-TAP-COM-DOR;Meizu;MX6;Tapa trasera;Dorado (Champagne gold);4,80;;;6
+MZ-MX6-TAP-COM-GRI;Meizu;MX6;Tapa trasera;Gris;4,80;;;6
+MZ-MX6-TAP-COM-PLA;Meizu;MX6;Tapa trasera;Plata;4,80;;;6
+MZ-MX6-CTR-COM;Meizu;MX6;Cámara trasera;Compatible;6,65;;;6
+MZ-MX6-CFR-COM;Meizu;MX6;Cámara frontal;Compatible;4,65;;;6
+MZ-MX6-LEN-COM;Meizu;MX6;Lente de cámara;Compatible;2,25;;;6
+MZ-MX6-ALT-COM;Meizu;MX6;Altavoz;Compatible;3,59;;;6
+MZ-MX6-AUR-COM;Meizu;MX6;Auricular de llamada;Compatible;2,69;;;6
+MZ-MX6-FLX-COM;Meizu;MX6;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-MX6-SIM-COM;Meizu;MX6;Bandeja SIM;Compatible;2,65;;;6
+MZ-M3E-PAN-COM;Meizu;M3E;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-M3E-BAT-COM;Meizu;M3E;Batería;Compatible;8,90;;;6
+MZ-M3E-CON-COM;Meizu;M3E;Conector de carga;Compatible;3,70;;;6
+MZ-M3E-TAP-COM-GRI;Meizu;M3E;Tapa trasera;Gris;4,80;;;6
+MZ-M3E-TAP-COM-PLA;Meizu;M3E;Tapa trasera;Plata;4,80;;;6
+MZ-M3E-TAP-COM-DOR;Meizu;M3E;Tapa trasera;Dorado (champagne gold);4,80;;;6
+MZ-M3E-CTR-COM;Meizu;M3E;Cámara trasera;Compatible;6,65;;;6
+MZ-M3E-CFR-COM;Meizu;M3E;Cámara frontal;Compatible;4,65;;;6
+MZ-M3E-LEN-COM;Meizu;M3E;Lente de cámara;Compatible;2,25;;;6
+MZ-M3E-ALT-COM;Meizu;M3E;Altavoz;Compatible;3,59;;;6
+MZ-M3E-AUR-COM;Meizu;M3E;Auricular de llamada;Compatible;2,69;;;6
+MZ-M3E-FLX-COM;Meizu;M3E;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-M3E-SIM-COM;Meizu;M3E;Bandeja SIM;Compatible;2,65;;;6
+MZ-U10-PAN-COM;Meizu;U10;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-U10-BAT-COM;Meizu;U10;Batería;Compatible;8,90;;;6
+MZ-U10-CON-COM;Meizu;U10;Conector de carga;Compatible;3,70;;;6
+MZ-U10-TAP-COM-BLA;Meizu;U10;Tapa trasera;Blanco;4,80;;;6
+MZ-U10-TAP-COM-DOR;Meizu;U10;Tapa trasera;Dorado (Champagne gold);4,80;;;6
+MZ-U10-TAP-COM-NEG;Meizu;U10;Tapa trasera;Negro;4,80;;;6
+MZ-U10-CTR-COM;Meizu;U10;Cámara trasera;Compatible;6,65;;;6
+MZ-U10-CFR-COM;Meizu;U10;Cámara frontal;Compatible;4,65;;;6
+MZ-U10-LEN-COM;Meizu;U10;Lente de cámara;Compatible;2,25;;;6
+MZ-U10-ALT-COM;Meizu;U10;Altavoz;Compatible;3,59;;;6
+MZ-U10-AUR-COM;Meizu;U10;Auricular de llamada;Compatible;2,69;;;6
+MZ-U10-FLX-COM;Meizu;U10;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-U10-SIM-COM;Meizu;U10;Bandeja SIM;Compatible;2,65;;;6
+MZ-U20-PAN-COM;Meizu;U20;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-U20-BAT-COM;Meizu;U20;Batería;Compatible;8,90;;;6
+MZ-U20-CON-COM;Meizu;U20;Conector de carga;Compatible;3,70;;;6
+MZ-U20-TAP-COM-BLA;Meizu;U20;Tapa trasera;Blanco;4,80;;;6
+MZ-U20-TAP-COM-ORO;Meizu;U20;Tapa trasera;Oro rosa;4,80;;;6
+MZ-U20-TAP-COM-NEG;Meizu;U20;Tapa trasera;Negro;4,80;;;6
+MZ-U20-CTR-COM;Meizu;U20;Cámara trasera;Compatible;6,65;;;6
+MZ-U20-CFR-COM;Meizu;U20;Cámara frontal;Compatible;4,65;;;6
+MZ-U20-LEN-COM;Meizu;U20;Lente de cámara;Compatible;2,25;;;6
+MZ-U20-ALT-COM;Meizu;U20;Altavoz;Compatible;3,59;;;6
+MZ-U20-AUR-COM;Meizu;U20;Auricular de llamada;Compatible;2,69;;;6
+MZ-U20-FLX-COM;Meizu;U20;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-U20-SIM-COM;Meizu;U20;Bandeja SIM;Compatible;2,65;;;6
+MZ-M3M-PAN-COM;Meizu;M3 Max;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-M3M-BAT-COM;Meizu;M3 Max;Batería;Compatible;8,90;;;6
+MZ-M3M-CON-COM;Meizu;M3 Max;Conector de carga;Compatible;3,70;;;6
+MZ-M3M-TAP-COM-GRI;Meizu;M3 Max;Tapa trasera;Gris;4,80;;;6
+MZ-M3M-TAP-COM-PLA;Meizu;M3 Max;Tapa trasera;Plata;4,80;;;6
+MZ-M3M-TAP-COM-DOR;Meizu;M3 Max;Tapa trasera;Dorado;4,80;;;6
+MZ-M3M-CTR-COM;Meizu;M3 Max;Cámara trasera;Compatible;6,65;;;6
+MZ-M3M-CFR-COM;Meizu;M3 Max;Cámara frontal;Compatible;4,65;;;6
+MZ-M3M-LEN-COM;Meizu;M3 Max;Lente de cámara;Compatible;2,25;;;6
+MZ-M3M-ALT-COM;Meizu;M3 Max;Altavoz;Compatible;3,59;;;6
+MZ-M3M-AUR-COM;Meizu;M3 Max;Auricular de llamada;Compatible;2,69;;;6
+MZ-M3M-FLX-COM;Meizu;M3 Max;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-M3M-SIM-COM;Meizu;M3 Max;Bandeja SIM;Compatible;2,65;;;6
+MZ-M5-PAN-COM;Meizu;M5;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-M5-BAT-COM;Meizu;M5;Batería;Compatible;8,90;;;6
+MZ-M5-CON-COM;Meizu;M5;Conector de carga;Compatible;3,70;;;6
+MZ-M5-TAP-COM-AZU;Meizu;M5;Tapa trasera;Azul;4,80;;;6
+MZ-M5-TAP-COM-NEG;Meizu;M5;Tapa trasera;Negro (Matte black);4,80;;;6
+MZ-M5-TAP-COM-DOR;Meizu;M5;Tapa trasera;Dorado (Champagne gold);4,80;;;6
+MZ-M5-CTR-COM;Meizu;M5;Cámara trasera;Compatible;6,65;;;6
+MZ-M5-CFR-COM;Meizu;M5;Cámara frontal;Compatible;4,65;;;6
+MZ-M5-LEN-COM;Meizu;M5;Lente de cámara;Compatible;2,25;;;6
+MZ-M5-ALT-COM;Meizu;M5;Altavoz;Compatible;3,59;;;6
+MZ-M5-AUR-COM;Meizu;M5;Auricular de llamada;Compatible;2,69;;;6
+MZ-M5-FLX-COM;Meizu;M5;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-M5-SIM-COM;Meizu;M5;Bandeja SIM;Compatible;2,65;;;6
+MZ-P6PL-PAN-INC;Meizu;Pro 6 Plus;Pantalla;Incell;18,15;17,61;17,06;6
+MZ-P6PL-BAT-COM;Meizu;Pro 6 Plus;Batería;Compatible;10,40;10,09;9,78;6
+MZ-P6PL-CON-COM;Meizu;Pro 6 Plus;Conector de carga;Compatible;4,30;;;6
+MZ-P6PL-TAP-COM-DOR;Meizu;Pro 6 Plus;Tapa trasera;Dorado (Champagne gold);5,49;;;6
+MZ-P6PL-TAP-COM-GRI;Meizu;Pro 6 Plus;Tapa trasera;Gris;5,49;;;6
+MZ-P6PL-TAP-COM-PLA;Meizu;Pro 6 Plus;Tapa trasera;Plata;5,49;;;6
+MZ-P6PL-CTR-COM;Meizu;Pro 6 Plus;Cámara trasera;Compatible;9,20;;;6
+MZ-P6PL-CFR-COM;Meizu;Pro 6 Plus;Cámara frontal;Compatible;5,25;;;6
+MZ-P6PL-LEN-COM;Meizu;Pro 6 Plus;Lente de cámara;Compatible;2,60;;;6
+MZ-P6PL-ALT-COM;Meizu;Pro 6 Plus;Altavoz;Compatible;4,05;;;6
+MZ-P6PL-AUR-COM;Meizu;Pro 6 Plus;Auricular de llamada;Compatible;3,30;;;6
+MZ-P6PL-FLX-COM;Meizu;Pro 6 Plus;Flex de encendido y volumen;Compatible;3,25;;;6
+MZ-P6PL-SIM-COM;Meizu;Pro 6 Plus;Bandeja SIM;Compatible;2,90;;;6
+MZ-M5N-PAN-COM;Meizu;M5 Note;Pantalla;Compatible;15,15;14,70;14,24;6
+MZ-M5N-BAT-COM;Meizu;M5 Note;Batería;Compatible;9,65;;;6
+MZ-M5N-CON-COM;Meizu;M5 Note;Conector de carga;Compatible;4,60;;;6
+MZ-M5N-TAP-COM-GRI;Meizu;M5 Note;Tapa trasera;Gris;5,40;;;6
+MZ-M5N-TAP-COM-PLA;Meizu;M5 Note;Tapa trasera;Plata;5,40;;;6
+MZ-M5N-TAP-COM-DOR;Meizu;M5 Note;Tapa trasera;Dorado (Champagne Gold);5,40;;;6
+MZ-M5N-CTR-COM;Meizu;M5 Note;Cámara trasera;Compatible;7,59;;;6
+MZ-M5N-CFR-COM;Meizu;M5 Note;Cámara frontal;Compatible;4,99;;;6
+MZ-M5N-LEN-COM;Meizu;M5 Note;Lente de cámara;Compatible;2,19;;;6
+MZ-M5N-ALT-COM;Meizu;M5 Note;Altavoz;Compatible;3,65;;;6
+MZ-M5N-AUR-COM;Meizu;M5 Note;Auricular de llamada;Compatible;2,65;;;6
+MZ-M5N-FLX-COM;Meizu;M5 Note;Flex de encendido y volumen;Compatible;2,49;;;6
+MZ-M5N-SIM-COM;Meizu;M5 Note;Bandeja SIM;Compatible;2,55;;;6
+MZ-M5S-PAN-COM;Meizu;M5s;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-M5S-BAT-COM;Meizu;M5s;Batería;Compatible;8,90;;;6
+MZ-M5S-CON-COM;Meizu;M5s;Conector de carga;Compatible;3,70;;;6
+MZ-M5S-TAP-COM-ORO;Meizu;M5s;Tapa trasera;Oro rosa;4,80;;;6
+MZ-M5S-TAP-COM-PLA;Meizu;M5s;Tapa trasera;Plata;4,80;;;6
+MZ-M5S-TAP-COM-DOR;Meizu;M5s;Tapa trasera;Dorado (Champagne Gold);4,80;;;6
+MZ-M5S-TAP-COM-GRI;Meizu;M5s;Tapa trasera;Gris;4,80;;;6
+MZ-M5S-CTR-COM;Meizu;M5s;Cámara trasera;Compatible;6,65;;;6
+MZ-M5S-CFR-COM;Meizu;M5s;Cámara frontal;Compatible;4,65;;;6
+MZ-M5S-LEN-COM;Meizu;M5s;Lente de cámara;Compatible;2,25;;;6
+MZ-M5S-ALT-COM;Meizu;M5s;Altavoz;Compatible;3,59;;;6
+MZ-M5S-AUR-COM;Meizu;M5s;Auricular de llamada;Compatible;2,69;;;6
+MZ-M5S-FLX-COM;Meizu;M5s;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-M5S-SIM-COM;Meizu;M5s;Bandeja SIM;Compatible;2,65;;;6
+MZ-M5C-PAN-COM;Meizu;M5c;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-M5C-BAT-COM;Meizu;M5c;Batería;Compatible;8,90;;;6
+MZ-M5C-CON-COM;Meizu;M5c;Conector de carga;Compatible;3,70;;;6
+MZ-M5C-TAP-COM-NEG;Meizu;M5c;Tapa trasera;Negro;4,80;;;6
+MZ-M5C-TAP-COM-DOR;Meizu;M5c;Tapa trasera;Dorado;4,80;;;6
+MZ-M5C-TAP-COM-ROS;Meizu;M5c;Tapa trasera;Rosa;4,80;;;6
+MZ-M5C-TAP-COM-AZU;Meizu;M5c;Tapa trasera;Azul;4,80;;;6
+MZ-M5C-TAP-COM-ROJ;Meizu;M5c;Tapa trasera;Rojo;4,80;;;6
+MZ-M5C-CTR-COM;Meizu;M5c;Cámara trasera;Compatible;6,65;;;6
+MZ-M5C-CFR-COM;Meizu;M5c;Cámara frontal;Compatible;4,65;;;6
+MZ-M5C-LEN-COM;Meizu;M5c;Lente de cámara;Compatible;2,25;;;6
+MZ-M5C-ALT-COM;Meizu;M5c;Altavoz;Compatible;3,59;;;6
+MZ-M5C-AUR-COM;Meizu;M5c;Auricular de llamada;Compatible;2,69;;;6
+MZ-M5C-FLX-COM;Meizu;M5c;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-M5C-SIM-COM;Meizu;M5c;Bandeja SIM;Compatible;2,65;;;6
+MZ-P7-PAN-INC;Meizu;Pro 7;Pantalla;Incell;18,15;17,61;17,06;6
+MZ-P7-BAT-COM;Meizu;Pro 7;Batería;Compatible;10,40;10,09;9,78;6
+MZ-P7-CON-COM;Meizu;Pro 7;Conector de carga;Compatible;4,30;;;6
+MZ-P7-TAP-COM-NEG;Meizu;Pro 7;Tapa trasera;Negro;5,49;;;6
+MZ-P7-CTR-COM;Meizu;Pro 7;Cámara trasera;Compatible;9,20;;;6
+MZ-P7-CFR-COM;Meizu;Pro 7;Cámara frontal;Compatible;5,25;;;6
+MZ-P7-LEN-COM;Meizu;Pro 7;Lente de cámara;Compatible;2,60;;;6
+MZ-P7-ALT-COM;Meizu;Pro 7;Altavoz;Compatible;4,05;;;6
+MZ-P7-AUR-COM;Meizu;Pro 7;Auricular de llamada;Compatible;3,30;;;6
+MZ-P7-FLX-COM;Meizu;Pro 7;Flex de encendido y volumen;Compatible;3,25;;;6
+MZ-P7-SIM-COM;Meizu;Pro 7;Bandeja SIM;Compatible;2,90;;;6
+MZ-P7PL-PAN-INC;Meizu;Pro 7 Plus;Pantalla;Incell;18,15;17,61;17,06;6
+MZ-P7PL-BAT-COM;Meizu;Pro 7 Plus;Batería;Compatible;10,40;10,09;9,78;6
+MZ-P7PL-CON-COM;Meizu;Pro 7 Plus;Conector de carga;Compatible;4,30;;;6
+MZ-P7PL-TAP-COM-NEG;Meizu;Pro 7 Plus;Tapa trasera;Negro;5,49;;;6
+MZ-P7PL-CTR-COM;Meizu;Pro 7 Plus;Cámara trasera;Compatible;9,20;;;6
+MZ-P7PL-CFR-COM;Meizu;Pro 7 Plus;Cámara frontal;Compatible;5,25;;;6
+MZ-P7PL-LEN-COM;Meizu;Pro 7 Plus;Lente de cámara;Compatible;2,60;;;6
+MZ-P7PL-ALT-COM;Meizu;Pro 7 Plus;Altavoz;Compatible;4,05;;;6
+MZ-P7PL-AUR-COM;Meizu;Pro 7 Plus;Auricular de llamada;Compatible;3,30;;;6
+MZ-P7PL-FLX-COM;Meizu;Pro 7 Plus;Flex de encendido y volumen;Compatible;3,25;;;6
+MZ-P7PL-SIM-COM;Meizu;Pro 7 Plus;Bandeja SIM;Compatible;2,90;;;6
+MZ-M6-PAN-COM;Meizu;M6;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-M6-BAT-COM;Meizu;M6;Batería;Compatible;8,90;;;6
+MZ-M6-CON-COM;Meizu;M6;Conector de carga;Compatible;3,70;;;6
+MZ-M6-TAP-COM-NEG;Meizu;M6;Tapa trasera;Negro;4,80;;;6
+MZ-M6-TAP-COM-PLA;Meizu;M6;Tapa trasera;Plata;4,80;;;6
+MZ-M6-TAP-COM-AZU;Meizu;M6;Tapa trasera;Azul;4,80;;;6
+MZ-M6-TAP-COM-DOR;Meizu;M6;Tapa trasera;Dorado;4,80;;;6
+MZ-M6-CTR-COM;Meizu;M6;Cámara trasera;Compatible;6,65;;;6
+MZ-M6-CFR-COM;Meizu;M6;Cámara frontal;Compatible;4,65;;;6
+MZ-M6-LEN-COM;Meizu;M6;Lente de cámara;Compatible;2,25;;;6
+MZ-M6-ALT-COM;Meizu;M6;Altavoz;Compatible;3,59;;;6
+MZ-M6-AUR-COM;Meizu;M6;Auricular de llamada;Compatible;2,69;;;6
+MZ-M6-FLX-COM;Meizu;M6;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-M6-SIM-COM;Meizu;M6;Bandeja SIM;Compatible;2,65;;;6
+MZ-M6N-PAN-COM;Meizu;M6 Note;Pantalla;Compatible;15,15;14,70;14,24;6
+MZ-M6N-BAT-COM;Meizu;M6 Note;Batería;Compatible;9,65;;;6
+MZ-M6N-CON-COM;Meizu;M6 Note;Conector de carga;Compatible;4,60;;;6
+MZ-M6N-TAP-COM-NEG;Meizu;M6 Note;Tapa trasera;Negro;5,40;;;6
+MZ-M6N-TAP-COM-AZU;Meizu;M6 Note;Tapa trasera;Azul;5,40;;;6
+MZ-M6N-TAP-COM-DOR;Meizu;M6 Note;Tapa trasera;Dorado;5,40;;;6
+MZ-M6N-CTR-COM;Meizu;M6 Note;Cámara trasera;Compatible;7,59;;;6
+MZ-M6N-CFR-COM;Meizu;M6 Note;Cámara frontal;Compatible;4,99;;;6
+MZ-M6N-LEN-COM;Meizu;M6 Note;Lente de cámara;Compatible;2,19;;;6
+MZ-M6N-ALT-COM;Meizu;M6 Note;Altavoz;Compatible;3,65;;;6
+MZ-M6N-AUR-COM;Meizu;M6 Note;Auricular de llamada;Compatible;2,65;;;6
+MZ-M6N-FLX-COM;Meizu;M6 Note;Flex de encendido y volumen;Compatible;2,49;;;6
+MZ-M6N-SIM-COM;Meizu;M6 Note;Bandeja SIM;Compatible;2,55;;;6
+MZ-M6S-PAN-COM;Meizu;M6s;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-M6S-BAT-COM;Meizu;M6s;Batería;Compatible;8,90;;;6
+MZ-M6S-CON-COM;Meizu;M6s;Conector de carga;Compatible;3,70;;;6
+MZ-M6S-TAP-COM-NEG;Meizu;M6s;Tapa trasera;Negro;4,80;;;6
+MZ-M6S-TAP-COM-SIL;Meizu;M6s;Tapa trasera;silver-white;4,80;;;6
+MZ-M6S-TAP-COM-DOR;Meizu;M6s;Tapa trasera;Dorado;4,80;;;6
+MZ-M6S-TAP-COM-AZU;Meizu;M6s;Tapa trasera;Azul;4,80;;;6
+MZ-M6S-CTR-COM;Meizu;M6s;Cámara trasera;Compatible;6,65;;;6
+MZ-M6S-CFR-COM;Meizu;M6s;Cámara frontal;Compatible;4,65;;;6
+MZ-M6S-LEN-COM;Meizu;M6s;Lente de cámara;Compatible;2,25;;;6
+MZ-M6S-ALT-COM;Meizu;M6s;Altavoz;Compatible;3,59;;;6
+MZ-M6S-AUR-COM;Meizu;M6s;Auricular de llamada;Compatible;2,69;;;6
+MZ-M6S-FLX-COM;Meizu;M6s;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-M6S-SIM-COM;Meizu;M6s;Bandeja SIM;Compatible;2,65;;;6
+MZ-15-PAN-INC;Meizu;15;Pantalla;Incell;18,15;17,61;17,06;6
+MZ-15-BAT-COM;Meizu;15;Batería;Compatible;10,40;10,09;9,78;6
+MZ-15-CON-COM;Meizu;15;Conector de carga;Compatible;4,30;;;6
+MZ-15-TAP-COM;Meizu;15;Tapa trasera;Compatible;5,49;;;6
+MZ-15-CTR-COM;Meizu;15;Cámara trasera;Compatible;9,20;;;6
+MZ-15-CFR-COM;Meizu;15;Cámara frontal;Compatible;5,25;;;6
+MZ-15-LEN-COM;Meizu;15;Lente de cámara;Compatible;2,60;;;6
+MZ-15-ALT-COM;Meizu;15;Altavoz;Compatible;4,05;;;6
+MZ-15-AUR-COM;Meizu;15;Auricular de llamada;Compatible;3,30;;;6
+MZ-15-FLX-COM;Meizu;15;Flex de encendido y volumen;Compatible;3,25;;;6
+MZ-15-SIM-COM;Meizu;15;Bandeja SIM;Compatible;2,90;;;6
+MZ-15L-PAN-COM;Meizu;15 Lite;Pantalla;Compatible;15,55;15,08;14,62;6
+MZ-15L-BAT-COM;Meizu;15 Lite;Batería;Compatible;10,40;10,09;9,78;6
+MZ-15L-CON-COM;Meizu;15 Lite;Conector de carga;Compatible;4,30;;;6
+MZ-15L-TAP-COM-NEG;Meizu;15 Lite;Tapa trasera;Negro;5,49;;;6
+MZ-15L-TAP-COM-DOR;Meizu;15 Lite;Tapa trasera;Dorado;5,49;;;6
+MZ-15L-TAP-COM-ROJ;Meizu;15 Lite;Tapa trasera;Rojo;5,49;;;6
+MZ-15L-CTR-COM;Meizu;15 Lite;Cámara trasera;Compatible;9,20;;;6
+MZ-15L-CFR-COM;Meizu;15 Lite;Cámara frontal;Compatible;5,25;;;6
+MZ-15L-LEN-COM;Meizu;15 Lite;Lente de cámara;Compatible;2,60;;;6
+MZ-15L-ALT-COM;Meizu;15 Lite;Altavoz;Compatible;4,05;;;6
+MZ-15L-AUR-COM;Meizu;15 Lite;Auricular de llamada;Compatible;3,30;;;6
+MZ-15L-FLX-COM;Meizu;15 Lite;Flex de encendido y volumen;Compatible;3,25;;;6
+MZ-15L-SIM-COM;Meizu;15 Lite;Bandeja SIM;Compatible;2,90;;;6
+MZ-15PL-PAN-INC;Meizu;15 Plus;Pantalla;Incell;18,15;17,61;17,06;6
+MZ-15PL-BAT-COM;Meizu;15 Plus;Batería;Compatible;10,40;10,09;9,78;6
+MZ-15PL-CON-COM;Meizu;15 Plus;Conector de carga;Compatible;4,30;;;6
+MZ-15PL-TAP-COM;Meizu;15 Plus;Tapa trasera;Compatible;5,49;;;6
+MZ-15PL-CTR-COM;Meizu;15 Plus;Cámara trasera;Compatible;9,20;;;6
+MZ-15PL-CFR-COM;Meizu;15 Plus;Cámara frontal;Compatible;5,25;;;6
+MZ-15PL-LEN-COM;Meizu;15 Plus;Lente de cámara;Compatible;2,60;;;6
+MZ-15PL-ALT-COM;Meizu;15 Plus;Altavoz;Compatible;4,05;;;6
+MZ-15PL-AUR-COM;Meizu;15 Plus;Auricular de llamada;Compatible;3,30;;;6
+MZ-15PL-FLX-COM;Meizu;15 Plus;Flex de encendido y volumen;Compatible;3,25;;;6
+MZ-15PL-SIM-COM;Meizu;15 Plus;Bandeja SIM;Compatible;2,90;;;6
+MZ-M6T-PAN-COM;Meizu;M6T;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-M6T-BAT-COM;Meizu;M6T;Batería;Compatible;8,90;;;6
+MZ-M6T-CON-COM;Meizu;M6T;Conector de carga;Compatible;3,70;;;6
+MZ-M6T-TAP-COM-NEG;Meizu;M6T;Tapa trasera;Negro;4,80;;;6
+MZ-M6T-TAP-COM-DOR;Meizu;M6T;Tapa trasera;Dorado;4,80;;;6
+MZ-M6T-TAP-COM-ROJ;Meizu;M6T;Tapa trasera;Rojo;4,80;;;6
+MZ-M6T-TAP-COM-AZU;Meizu;M6T;Tapa trasera;Azul;4,80;;;6
+MZ-M6T-CTR-COM;Meizu;M6T;Cámara trasera;Compatible;6,65;;;6
+MZ-M6T-CFR-COM;Meizu;M6T;Cámara frontal;Compatible;4,65;;;6
+MZ-M6T-LEN-COM;Meizu;M6T;Lente de cámara;Compatible;2,25;;;6
+MZ-M6T-ALT-COM;Meizu;M6T;Altavoz;Compatible;3,59;;;6
+MZ-M6T-AUR-COM;Meizu;M6T;Auricular de llamada;Compatible;2,69;;;6
+MZ-M6T-FLX-COM;Meizu;M6T;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-M6T-SIM-COM;Meizu;M6T;Bandeja SIM;Compatible;2,65;;;6
+MZ-16TH-PAN-INC;Meizu;16th;Pantalla;Incell;18,15;17,61;17,06;6
+MZ-16TH-BAT-COM;Meizu;16th;Batería;Compatible;10,40;10,09;9,78;6
+MZ-16TH-CON-COM;Meizu;16th;Conector de carga;Compatible;4,30;;;6
+MZ-16TH-TAP-COM;Meizu;16th;Tapa trasera;Compatible;5,49;;;6
+MZ-16TH-CTR-COM;Meizu;16th;Cámara trasera;Compatible;9,20;;;6
+MZ-16TH-CFR-COM;Meizu;16th;Cámara frontal;Compatible;5,25;;;6
+MZ-16TH-LEN-COM;Meizu;16th;Lente de cámara;Compatible;2,60;;;6
+MZ-16TH-ALT-COM;Meizu;16th;Altavoz;Compatible;4,05;;;6
+MZ-16TH-AUR-COM;Meizu;16th;Auricular de llamada;Compatible;3,30;;;6
+MZ-16TH-FLX-COM;Meizu;16th;Flex de encendido y volumen;Compatible;3,25;;;6
+MZ-16TH-SIM-COM;Meizu;16th;Bandeja SIM;Compatible;2,90;;;6
+MZ-16X-PAN-INC;Meizu;16X;Pantalla;Incell;18,15;17,61;17,06;6
+MZ-16X-BAT-COM;Meizu;16X;Batería;Compatible;10,40;10,09;9,78;6
+MZ-16X-CON-COM;Meizu;16X;Conector de carga;Compatible;4,30;;;6
+MZ-16X-TAP-COM-NEG;Meizu;16X;Tapa trasera;Negro (Ink black);5,49;;;6
+MZ-16X-TAP-COM-BLA;Meizu;16X;Tapa trasera;Blanco (Porcelain white);5,49;;;6
+MZ-16X-CTR-COM;Meizu;16X;Cámara trasera;Compatible;9,20;;;6
+MZ-16X-CFR-COM;Meizu;16X;Cámara frontal;Compatible;5,25;;;6
+MZ-16X-LEN-COM;Meizu;16X;Lente de cámara;Compatible;2,60;;;6
+MZ-16X-ALT-COM;Meizu;16X;Altavoz;Compatible;4,05;;;6
+MZ-16X-AUR-COM;Meizu;16X;Auricular de llamada;Compatible;3,30;;;6
+MZ-16X-FLX-COM;Meizu;16X;Flex de encendido y volumen;Compatible;3,25;;;6
+MZ-16X-SIM-COM;Meizu;16X;Bandeja SIM;Compatible;2,90;;;6
+MZ-V8-PAN-COM;Meizu;V8;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-V8-BAT-COM;Meizu;V8;Batería;Compatible;8,90;;;6
+MZ-V8-CON-COM;Meizu;V8;Conector de carga;Compatible;3,70;;;6
+MZ-V8-TAP-COM-NEG;Meizu;V8;Tapa trasera;Negro (Matte black);4,80;;;6
+MZ-V8-TAP-COM-BLA;Meizu;V8;Tapa trasera;Blanco (pure white);4,80;;;6
+MZ-V8-CTR-COM;Meizu;V8;Cámara trasera;Compatible;6,65;;;6
+MZ-V8-CFR-COM;Meizu;V8;Cámara frontal;Compatible;4,65;;;6
+MZ-V8-LEN-COM;Meizu;V8;Lente de cámara;Compatible;2,25;;;6
+MZ-V8-ALT-COM;Meizu;V8;Altavoz;Compatible;3,59;;;6
+MZ-V8-AUR-COM;Meizu;V8;Auricular de llamada;Compatible;2,69;;;6
+MZ-V8-FLX-COM;Meizu;V8;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-V8-SIM-COM;Meizu;V8;Bandeja SIM;Compatible;2,65;;;6
+MZ-V8P-PAN-COM;Meizu;V8 Pro;Pantalla;Compatible;15,55;15,08;14,62;6
+MZ-V8P-BAT-COM;Meizu;V8 Pro;Batería;Compatible;10,40;10,09;9,78;6
+MZ-V8P-CON-COM;Meizu;V8 Pro;Conector de carga;Compatible;4,30;;;6
+MZ-V8P-TAP-COM-GLO;Meizu;V8 Pro;Tapa trasera;Glory dark;5,49;;;6
+MZ-V8P-TAP-COM-DOR;Meizu;V8 Pro;Tapa trasera;Dorado (elegant gold);5,49;;;6
+MZ-V8P-CTR-COM;Meizu;V8 Pro;Cámara trasera;Compatible;9,20;;;6
+MZ-V8P-CFR-COM;Meizu;V8 Pro;Cámara frontal;Compatible;5,25;;;6
+MZ-V8P-LEN-COM;Meizu;V8 Pro;Lente de cámara;Compatible;2,60;;;6
+MZ-V8P-ALT-COM;Meizu;V8 Pro;Altavoz;Compatible;4,05;;;6
+MZ-V8P-AUR-COM;Meizu;V8 Pro;Auricular de llamada;Compatible;3,30;;;6
+MZ-V8P-FLX-COM;Meizu;V8 Pro;Flex de encendido y volumen;Compatible;3,25;;;6
+MZ-V8P-SIM-COM;Meizu;V8 Pro;Bandeja SIM;Compatible;2,90;;;6
+MZ-X8-PAN-COM;Meizu;X8;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-X8-BAT-COM;Meizu;X8;Batería;Compatible;8,90;;;6
+MZ-X8-CON-COM;Meizu;X8;Conector de carga;Compatible;3,70;;;6
+MZ-X8-TAP-COM-NEG;Meizu;X8;Tapa trasera;Negro (Bright black);4,80;;;6
+MZ-X8-TAP-COM-BLA;Meizu;X8;Tapa trasera;Blanco (jade white);4,80;;;6
+MZ-X8-TAP-COM-AZU;Meizu;X8;Tapa trasera;Azul (magic blue);4,80;;;6
+MZ-X8-CTR-COM;Meizu;X8;Cámara trasera;Compatible;6,65;;;6
+MZ-X8-CFR-COM;Meizu;X8;Cámara frontal;Compatible;4,65;;;6
+MZ-X8-LEN-COM;Meizu;X8;Lente de cámara;Compatible;2,25;;;6
+MZ-X8-ALT-COM;Meizu;X8;Altavoz;Compatible;3,59;;;6
+MZ-X8-AUR-COM;Meizu;X8;Auricular de llamada;Compatible;2,69;;;6
+MZ-X8-FLX-COM;Meizu;X8;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-X8-SIM-COM;Meizu;X8;Bandeja SIM;Compatible;2,65;;;6
+MZ-N8-PAN-COM;Meizu;Note 8;Pantalla;Compatible;15,15;14,70;14,24;6
+MZ-N8-BAT-COM;Meizu;Note 8;Batería;Compatible;9,65;;;6
+MZ-N8-CON-COM;Meizu;Note 8;Conector de carga;Compatible;4,60;;;6
+MZ-N8-TAP-COM-NEG;Meizu;Note 8;Tapa trasera;Negro (Obsidian black);5,40;;;6
+MZ-N8-TAP-COM-AZU;Meizu;Note 8;Tapa trasera;Azul (stone blue);5,40;;;6
+MZ-N8-TAP-COM-GRI;Meizu;Note 8;Tapa trasera;Gris (purple gray);5,40;;;6
+MZ-N8-TAP-COM-ROJ;Meizu;Note 8;Tapa trasera;Rojo (flame red);5,40;;;6
+MZ-N8-CTR-COM;Meizu;Note 8;Cámara trasera;Compatible;7,59;;;6
+MZ-N8-CFR-COM;Meizu;Note 8;Cámara frontal;Compatible;4,99;;;6
+MZ-N8-LEN-COM;Meizu;Note 8;Lente de cámara;Compatible;2,19;;;6
+MZ-N8-ALT-COM;Meizu;Note 8;Altavoz;Compatible;3,65;;;6
+MZ-N8-AUR-COM;Meizu;Note 8;Auricular de llamada;Compatible;2,65;;;6
+MZ-N8-FLX-COM;Meizu;Note 8;Flex de encendido y volumen;Compatible;2,49;;;6
+MZ-N8-SIM-COM;Meizu;Note 8;Bandeja SIM;Compatible;2,55;;;6
+MZ-C9-PAN-COM;Meizu;C9;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-C9-BAT-COM;Meizu;C9;Batería;Compatible;8,90;;;6
+MZ-C9-CON-COM;Meizu;C9;Conector de carga;Compatible;3,70;;;6
+MZ-C9-TAP-COM-NEG;Meizu;C9;Tapa trasera;Negro;4,80;;;6
+MZ-C9-CTR-COM;Meizu;C9;Cámara trasera;Compatible;6,65;;;6
+MZ-C9-CFR-COM;Meizu;C9;Cámara frontal;Compatible;4,65;;;6
+MZ-C9-LEN-COM;Meizu;C9;Lente de cámara;Compatible;2,25;;;6
+MZ-C9-ALT-COM;Meizu;C9;Altavoz;Compatible;3,59;;;6
+MZ-C9-AUR-COM;Meizu;C9;Auricular de llamada;Compatible;2,69;;;6
+MZ-C9-FLX-COM;Meizu;C9;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-C9-SIM-COM;Meizu;C9;Bandeja SIM;Compatible;2,65;;;6
+MZ-C9P-PAN-COM;Meizu;C9 Pro;Pantalla;Compatible;15,55;15,08;14,62;6
+MZ-C9P-BAT-COM;Meizu;C9 Pro;Batería;Compatible;10,40;10,09;9,78;6
+MZ-C9P-CON-COM;Meizu;C9 Pro;Conector de carga;Compatible;4,30;;;6
+MZ-C9P-TAP-COM-NEG;Meizu;C9 Pro;Tapa trasera;Negro;5,49;;;6
+MZ-C9P-CTR-COM;Meizu;C9 Pro;Cámara trasera;Compatible;9,20;;;6
+MZ-C9P-CFR-COM;Meizu;C9 Pro;Cámara frontal;Compatible;5,25;;;6
+MZ-C9P-LEN-COM;Meizu;C9 Pro;Lente de cámara;Compatible;2,60;;;6
+MZ-C9P-ALT-COM;Meizu;C9 Pro;Altavoz;Compatible;4,05;;;6
+MZ-C9P-AUR-COM;Meizu;C9 Pro;Auricular de llamada;Compatible;3,30;;;6
+MZ-C9P-FLX-COM;Meizu;C9 Pro;Flex de encendido y volumen;Compatible;3,25;;;6
+MZ-C9P-SIM-COM;Meizu;C9 Pro;Bandeja SIM;Compatible;2,90;;;6
+MZ-N9-PAN-COM;Meizu;Note 9;Pantalla;Compatible;15,15;14,70;14,24;6
+MZ-N9-BAT-COM;Meizu;Note 9;Batería;Compatible;9,65;;;6
+MZ-N9-CON-COM;Meizu;Note 9;Conector de carga;Compatible;4,60;;;6
+MZ-N9-TAP-COM-NEG;Meizu;Note 9;Tapa trasera;Negro;5,40;;;6
+MZ-N9-TAP-COM-AZU;Meizu;Note 9;Tapa trasera;Azul;5,40;;;6
+MZ-N9-TAP-COM-BLA;Meizu;Note 9;Tapa trasera;Blanco;5,40;;;6
+MZ-N9-CTR-COM;Meizu;Note 9;Cámara trasera;Compatible;7,59;;;6
+MZ-N9-CFR-COM;Meizu;Note 9;Cámara frontal;Compatible;4,99;;;6
+MZ-N9-LEN-COM;Meizu;Note 9;Lente de cámara;Compatible;2,19;;;6
+MZ-N9-ALT-COM;Meizu;Note 9;Altavoz;Compatible;3,65;;;6
+MZ-N9-AUR-COM;Meizu;Note 9;Auricular de llamada;Compatible;2,65;;;6
+MZ-N9-FLX-COM;Meizu;Note 9;Flex de encendido y volumen;Compatible;2,49;;;6
+MZ-N9-SIM-COM;Meizu;Note 9;Bandeja SIM;Compatible;2,55;;;6
+MZ-16S-PAN-INC;Meizu;16s;Pantalla;Incell;18,15;17,61;17,06;6
+MZ-16S-BAT-COM;Meizu;16s;Batería;Compatible;10,40;10,09;9,78;6
+MZ-16S-CON-COM;Meizu;16s;Conector de carga;Compatible;4,30;;;6
+MZ-16S-TAP-COM-NEG;Meizu;16s;Tapa trasera;Negro (Carbon Fiber Black);5,49;;;6
+MZ-16S-TAP-COM-BLA;Meizu;16s;Tapa trasera;Blanco (Jade White);5,49;;;6
+MZ-16S-TAP-COM-AZU;Meizu;16s;Tapa trasera;Azul (Phantom Blue);5,49;;;6
+MZ-16S-CTR-COM;Meizu;16s;Cámara trasera;Compatible;9,20;;;6
+MZ-16S-CFR-COM;Meizu;16s;Cámara frontal;Compatible;5,25;;;6
+MZ-16S-LEN-COM;Meizu;16s;Lente de cámara;Compatible;2,60;;;6
+MZ-16S-ALT-COM;Meizu;16s;Altavoz;Compatible;4,05;;;6
+MZ-16S-AUR-COM;Meizu;16s;Auricular de llamada;Compatible;3,30;;;6
+MZ-16S-FLX-COM;Meizu;16s;Flex de encendido y volumen;Compatible;3,25;;;6
+MZ-16S-SIM-COM;Meizu;16s;Bandeja SIM;Compatible;2,90;;;6
+MZ-16XS-PAN-INC;Meizu;16Xs;Pantalla;Incell;18,15;17,61;17,06;6
+MZ-16XS-BAT-COM;Meizu;16Xs;Batería;Compatible;10,40;10,09;9,78;6
+MZ-16XS-CON-COM;Meizu;16Xs;Conector de carga;Compatible;4,30;;;6
+MZ-16XS-TAP-COM-NEG;Meizu;16Xs;Tapa trasera;Negro (Knight Black);5,49;;;6
+MZ-16XS-TAP-COM-AZU;Meizu;16Xs;Tapa trasera;Azul (Atlantean Blue);5,49;;;6
+MZ-16XS-TAP-COM-NAR;Meizu;16Xs;Tapa trasera;Naranja (Coral Orange);5,49;;;6
+MZ-16XS-TAP-COM-BLA;Meizu;16Xs;Tapa trasera;Blanco (Silky White);5,49;;;6
+MZ-16XS-CTR-COM;Meizu;16Xs;Cámara trasera;Compatible;9,20;;;6
+MZ-16XS-CFR-COM;Meizu;16Xs;Cámara frontal;Compatible;5,25;;;6
+MZ-16XS-LEN-COM;Meizu;16Xs;Lente de cámara;Compatible;2,60;;;6
+MZ-16XS-ALT-COM;Meizu;16Xs;Altavoz;Compatible;4,05;;;6
+MZ-16XS-AUR-COM;Meizu;16Xs;Auricular de llamada;Compatible;3,30;;;6
+MZ-16XS-FLX-COM;Meizu;16Xs;Flex de encendido y volumen;Compatible;3,25;;;6
+MZ-16XS-SIM-COM;Meizu;16Xs;Bandeja SIM;Compatible;2,90;;;6
+MZ-M10-PAN-COM;Meizu;M10;Pantalla;Compatible;13,00;12,61;12,22;6
+MZ-M10-BAT-COM;Meizu;M10;Batería;Compatible;8,90;;;6
+MZ-M10-CON-COM;Meizu;M10;Conector de carga;Compatible;3,70;;;6
+MZ-M10-TAP-COM-NEG;Meizu;M10;Tapa trasera;Negro (Phantom Black);4,80;;;6
+MZ-M10-TAP-COM-ROJ;Meizu;M10;Tapa trasera;Rojo (Purplish Red);4,80;;;6
+MZ-M10-TAP-COM-AZU;Meizu;M10;Tapa trasera;Azul (Sea Blue);4,80;;;6
+MZ-M10-CTR-COM;Meizu;M10;Cámara trasera;Compatible;6,65;;;6
+MZ-M10-CFR-COM;Meizu;M10;Cámara frontal;Compatible;4,65;;;6
+MZ-M10-LEN-COM;Meizu;M10;Lente de cámara;Compatible;2,25;;;6
+MZ-M10-ALT-COM;Meizu;M10;Altavoz;Compatible;3,59;;;6
+MZ-M10-AUR-COM;Meizu;M10;Auricular de llamada;Compatible;2,69;;;6
+MZ-M10-FLX-COM;Meizu;M10;Flex de encendido y volumen;Compatible;2,55;;;6
+MZ-M10-SIM-COM;Meizu;M10;Bandeja SIM;Compatible;2,65;;;6
+MZ-17-PAN-INC;Meizu;17;Pantalla;Incell;19,25;18,67;18,10;6
+MZ-17-BAT-COM;Meizu;17;Batería;Compatible;8,89;;;6
+MZ-17-CON-COM;Meizu;17;Conector de carga;Compatible;4,10;;;6
+MZ-17-TAP-COM-AFA;Meizu;17;Tapa trasera;AG Fantasy Unicorn (white);5,60;;;6
+MZ-17-TAP-COM-GRI;Meizu;17;Tapa trasera;Gris (17 degree grey);5,60;;;6
+MZ-17-TAP-COM-PIN;Meizu;17;Tapa trasera;Pine ink (black);5,60;;;6
+MZ-17-CTR-COM;Meizu;17;Cámara trasera;Compatible;7,50;;;6
+MZ-17-CFR-COM;Meizu;17;Cámara frontal;Compatible;3,89;;;6
+MZ-17-LEN-COM;Meizu;17;Lente de cámara;Compatible;2,65;;;6
+MZ-17-ALT-COM;Meizu;17;Altavoz;Compatible;3,70;;;6
+MZ-17-AUR-COM;Meizu;17;Auricular de llamada;Compatible;2,99;;;6
+MZ-17-FLX-COM;Meizu;17;Flex de encendido y volumen;Compatible;2,99;;;6
+MZ-17-SIM-COM;Meizu;17;Bandeja SIM;Compatible;2,99;;;6
+MZ-17P-PAN-INC;Meizu;17 Pro;Pantalla;Incell;19,25;18,67;18,10;6
+MZ-17P-BAT-COM;Meizu;17 Pro;Batería;Compatible;8,89;;;6
+MZ-17P-CON-COM;Meizu;17 Pro;Conector de carga;Compatible;4,10;;;6
+MZ-17P-TAP-COM-SKY;Meizu;17 Pro;Tapa trasera;Sky-blue;5,60;;;6
+MZ-17P-TAP-COM-POR;Meizu;17 Pro;Tapa trasera;Porcelain-white;5,60;;;6
+MZ-17P-TAP-COM-GOL;Meizu;17 Pro;Tapa trasera;Golden-black;5,60;;;6
+MZ-17P-CTR-COM;Meizu;17 Pro;Cámara trasera;Compatible;7,50;;;6
+MZ-17P-CFR-COM;Meizu;17 Pro;Cámara frontal;Compatible;3,89;;;6
+MZ-17P-LEN-COM;Meizu;17 Pro;Lente de cámara;Compatible;2,65;;;6
+MZ-17P-ALT-COM;Meizu;17 Pro;Altavoz;Compatible;3,70;;;6
+MZ-17P-AUR-COM;Meizu;17 Pro;Auricular de llamada;Compatible;2,99;;;6
+MZ-17P-FLX-COM;Meizu;17 Pro;Flex de encendido y volumen;Compatible;2,99;;;6
+MZ-17P-SIM-COM;Meizu;17 Pro;Bandeja SIM;Compatible;2,99;;;6
+MZ-21-PAN-COM;Meizu;21;Pantalla;Compatible;17,59;17,06;16,53;6
+MZ-21-BAT-COM;Meizu;21;Batería;Compatible;10,15;9,85;9,54;6
+MZ-21-CON-COM;Meizu;21;Conector de carga;Compatible;4,70;;;6
+MZ-21-TAP-COM-BLA;Meizu;21;Tapa trasera;Blanco (Meizu White);6,29;;;6
+MZ-21-TAP-COM-NEG;Meizu;21;Tapa trasera;Negro (Boundless Black);6,29;;;6
+MZ-21-TAP-COM-MOR;Meizu;21;Tapa trasera;Morado (Smart Purple);6,29;;;6
+MZ-21-TAP-COM-CIA;Meizu;21;Tapa trasera;Cian (Bold Cyan);6,29;;;6
+MZ-21-CTR-COM;Meizu;21;Cámara trasera;Compatible;10,55;10,23;9,92;6
+MZ-21-CFR-COM;Meizu;21;Cámara frontal;Compatible;5,69;;;6
+MZ-21-LEN-COM;Meizu;21;Lente de cámara;Compatible;2,75;;;6
+MZ-21-ALT-COM;Meizu;21;Altavoz;Compatible;3,99;;;6
+MZ-21-AUR-COM;Meizu;21;Auricular de llamada;Compatible;3,29;;;6
+MZ-21-FLX-COM;Meizu;21;Flex de encendido y volumen;Compatible;3,60;;;6
+MZ-21-SIM-COM;Meizu;21;Bandeja SIM;Compatible;2,95;;;6
+MZ-M21-PAN-COM;Meizu;mblu 21;Pantalla;Compatible;14,69;14,25;13,81;6
+MZ-M21-BAT-COM;Meizu;mblu 21;Batería;Compatible;8,69;;;6
+MZ-M21-CON-COM;Meizu;mblu 21;Conector de carga;Compatible;4,05;;;6
+MZ-M21-TAP-COM-AZU;Meizu;mblu 21;Tapa trasera;Azul (Ocean Blue);5,55;;;6
+MZ-M21-TAP-COM-BLA;Meizu;mblu 21;Tapa trasera;Blanco (Diamond White);5,55;;;6
+MZ-M21-TAP-COM-NEG;Meizu;mblu 21;Tapa trasera;Negro (Titan Black);5,55;;;6
+MZ-M21-CTR-COM;Meizu;mblu 21;Cámara trasera;Compatible;7,60;;;6
+MZ-M21-CFR-COM;Meizu;mblu 21;Cámara frontal;Compatible;5,00;;;6
+MZ-M21-LEN-COM;Meizu;mblu 21;Lente de cámara;Compatible;2,35;;;6
+MZ-M21-ALT-COM;Meizu;mblu 21;Altavoz;Compatible;3,55;;;6
+MZ-M21-AUR-COM;Meizu;mblu 21;Auricular de llamada;Compatible;2,65;;;6
+MZ-M21-FLX-COM;Meizu;mblu 21;Flex de encendido y volumen;Compatible;2,85;;;6
+MZ-M21-SIM-COM;Meizu;mblu 21;Bandeja SIM;Compatible;2,69;;;6
+MZ-N21-PAN-COM;Meizu;Note 21;Pantalla;Compatible;17,15;16,64;16,12;6
+MZ-N21-BAT-COM;Meizu;Note 21;Batería;Compatible;9,40;;;6
+MZ-N21-CON-COM;Meizu;Note 21;Conector de carga;Compatible;5,05;;;6
+MZ-N21-TAP-COM-NEG;Meizu;Note 21;Tapa trasera;Negro (Diamond Black);6,20;;;6
+MZ-N21-TAP-COM-MAR;Meizu;Note 21;Tapa trasera;Marfil;6,20;;;6
+MZ-N21-TAP-COM-AZU;Meizu;Note 21;Tapa trasera;Azul (Gulf Blue);6,20;;;6
+MZ-N21-CTR-COM;Meizu;Note 21;Cámara trasera;Compatible;8,65;;;6
+MZ-N21-CFR-COM;Meizu;Note 21;Cámara frontal;Compatible;5,35;;;6
+MZ-N21-LEN-COM;Meizu;Note 21;Lente de cámara;Compatible;2,30;;;6
+MZ-N21-ALT-COM;Meizu;Note 21;Altavoz;Compatible;3,60;;;6
+MZ-N21-AUR-COM;Meizu;Note 21;Auricular de llamada;Compatible;2,65;;;6
+MZ-N21-FLX-COM;Meizu;Note 21;Flex de encendido y volumen;Compatible;2,79;;;6
+MZ-N21-SIM-COM;Meizu;Note 21;Bandeja SIM;Compatible;2,55;;;6
+MZ-N21P-PAN-COM;Meizu;Note 21 Pro;Pantalla;Compatible;17,59;17,06;16,53;6
+MZ-N21P-BAT-COM;Meizu;Note 21 Pro;Batería;Compatible;10,15;9,85;9,54;6
+MZ-N21P-CON-COM;Meizu;Note 21 Pro;Conector de carga;Compatible;4,70;;;6
+MZ-N21P-TAP-COM-AZU;Meizu;Note 21 Pro;Tapa trasera;Azul (Bay Blue);6,29;;;6
+MZ-N21P-TAP-COM-SAN;Meizu;Note 21 Pro;Tapa trasera;Sandstone;6,29;;;6
+MZ-N21P-TAP-COM-MAR;Meizu;Note 21 Pro;Tapa trasera;Marble;6,29;;;6
+MZ-N21P-CTR-COM;Meizu;Note 21 Pro;Cámara trasera;Compatible;10,55;10,23;9,92;6
+MZ-N21P-CFR-COM;Meizu;Note 21 Pro;Cámara frontal;Compatible;5,69;;;6
+MZ-N21P-LEN-COM;Meizu;Note 21 Pro;Lente de cámara;Compatible;2,75;;;6
+MZ-N21P-ALT-COM;Meizu;Note 21 Pro;Altavoz;Compatible;3,99;;;6
+MZ-N21P-AUR-COM;Meizu;Note 21 Pro;Auricular de llamada;Compatible;3,29;;;6
+MZ-N21P-FLX-COM;Meizu;Note 21 Pro;Flex de encendido y volumen;Compatible;3,60;;;6
+MZ-N21P-SIM-COM;Meizu;Note 21 Pro;Bandeja SIM;Compatible;2,95;;;6
+MZ-21P-PAN-COM;Meizu;21 Pro;Pantalla;Compatible;17,59;17,06;16,53;6
+MZ-21P-BAT-COM;Meizu;21 Pro;Batería;Compatible;10,15;9,85;9,54;6
+MZ-21P-CON-COM;Meizu;21 Pro;Conector de carga;Compatible;4,70;;;6
+MZ-21P-TAP-COM-BLA;Meizu;21 Pro;Tapa trasera;Blanco (Meizu White);6,29;;;6
+MZ-21P-TAP-COM-NEG;Meizu;21 Pro;Tapa trasera;Negro (Starry Night Black);6,29;;;6
+MZ-21P-TAP-COM-AZU;Meizu;21 Pro;Tapa trasera;Azul (Glacier Blue);6,29;;;6
+MZ-21P-TAP-COM-VER;Meizu;21 Pro;Tapa trasera;Verde (Laurel Green (Silicone));6,29;;;6
+MZ-21P-CTR-COM;Meizu;21 Pro;Cámara trasera;Compatible;10,55;10,23;9,92;6
+MZ-21P-CFR-COM;Meizu;21 Pro;Cámara frontal;Compatible;5,69;;;6
+MZ-21P-LEN-COM;Meizu;21 Pro;Lente de cámara;Compatible;2,75;;;6
+MZ-21P-ALT-COM;Meizu;21 Pro;Altavoz;Compatible;3,99;;;6
+MZ-21P-AUR-COM;Meizu;21 Pro;Auricular de llamada;Compatible;3,29;;;6
+MZ-21P-FLX-COM;Meizu;21 Pro;Flex de encendido y volumen;Compatible;3,60;;;6
+MZ-21P-SIM-COM;Meizu;21 Pro;Bandeja SIM;Compatible;2,95;;;6
+MZ-21N-PAN-COM;Meizu;21 Note;Pantalla;Compatible;17,59;17,06;16,53;6
+MZ-21N-BAT-COM;Meizu;21 Note;Batería;Compatible;10,15;9,85;9,54;6
+MZ-21N-CON-COM;Meizu;21 Note;Conector de carga;Compatible;4,70;;;6
+MZ-21N-TAP-COM-BLA;Meizu;21 Note;Tapa trasera;Blanco (Meizu White);6,29;;;6
+MZ-21N-TAP-COM-NEG;Meizu;21 Note;Tapa trasera;Negro (Boundless Black);6,29;;;6
+MZ-21N-CTR-COM;Meizu;21 Note;Cámara trasera;Compatible;10,55;10,23;9,92;6
+MZ-21N-CFR-COM;Meizu;21 Note;Cámara frontal;Compatible;5,69;;;6
+MZ-21N-LEN-COM;Meizu;21 Note;Lente de cámara;Compatible;2,75;;;6
+MZ-21N-ALT-COM;Meizu;21 Note;Altavoz;Compatible;3,99;;;6
+MZ-21N-AUR-COM;Meizu;21 Note;Auricular de llamada;Compatible;3,29;;;6
+MZ-21N-FLX-COM;Meizu;21 Note;Flex de encendido y volumen;Compatible;3,60;;;6
+MZ-21N-SIM-COM;Meizu;21 Note;Bandeja SIM;Compatible;2,95;;;6
+MZ-M22-PAN-COM;Meizu;mblu 22;Pantalla;Compatible;15,45;14,99;14,52;6
+MZ-M22-BAT-COM;Meizu;mblu 22;Batería;Compatible;8,20;;;6
+MZ-M22-CON-COM;Meizu;mblu 22;Conector de carga;Compatible;4,85;;;6
+MZ-M22-TAP-COM-NEG;Meizu;mblu 22;Tapa trasera;Negro;5,95;;;6
+MZ-M22-TAP-COM-BLA;Meizu;mblu 22;Tapa trasera;Blanco;5,95;;;6
+MZ-M22-TAP-COM-AZU;Meizu;mblu 22;Tapa trasera;Azul;5,95;;;6
+MZ-M22-CTR-COM;Meizu;mblu 22;Cámara trasera;Compatible;10,45;10,14;9,82;6
+MZ-M22-CFR-COM;Meizu;mblu 22;Cámara frontal;Compatible;7,00;;;6
+MZ-M22-LEN-COM;Meizu;mblu 22;Lente de cámara;Compatible;3,05;;;6
+MZ-M22-ALT-COM;Meizu;mblu 22;Altavoz;Compatible;4,65;;;6
+MZ-M22-AUR-COM;Meizu;mblu 22;Auricular de llamada;Compatible;3,75;;;6
+MZ-M22-FLX-COM;Meizu;mblu 22;Flex de encendido y volumen;Compatible;3,10;;;6
+MZ-M22-SIM-COM;Meizu;mblu 22;Bandeja SIM;Compatible;3,19;;;6
+MZ-M22P-PAN-COM;Meizu;mblu 22 Pro;Pantalla;Compatible;18,50;17,95;17,39;6
+MZ-M22P-BAT-COM;Meizu;mblu 22 Pro;Batería;Compatible;9,55;;;6
+MZ-M22P-CON-COM;Meizu;mblu 22 Pro;Conector de carga;Compatible;5,60;;;6
+MZ-M22P-TAP-COM-NEG;Meizu;mblu 22 Pro;Tapa trasera;Negro (Titan Black);6,75;;;6
+MZ-M22P-TAP-COM-BLA;Meizu;mblu 22 Pro;Tapa trasera;Blanco (Snow White);6,75;;;6
+MZ-M22P-TAP-COM-AZU;Meizu;mblu 22 Pro;Tapa trasera;Azul (Deep Sea Blue);6,75;;;6
+MZ-M22P-CTR-COM;Meizu;mblu 22 Pro;Cámara trasera;Compatible;14,40;13,97;13,54;6
+MZ-M22P-CFR-COM;Meizu;mblu 22 Pro;Cámara frontal;Compatible;7,90;;;6
+MZ-M22P-LEN-COM;Meizu;mblu 22 Pro;Lente de cámara;Compatible;3,55;;;6
+MZ-M22P-ALT-COM;Meizu;mblu 22 Pro;Altavoz;Compatible;5,25;;;6
+MZ-M22P-AUR-COM;Meizu;mblu 22 Pro;Auricular de llamada;Compatible;4,60;;;6
+MZ-M22P-FLX-COM;Meizu;mblu 22 Pro;Flex de encendido y volumen;Compatible;3,95;;;6
+MZ-M22P-SIM-COM;Meizu;mblu 22 Pro;Bandeja SIM;Compatible;3,45;;;6
+MZ-N22-PAN-INC;Meizu;Note 22;Pantalla;Incell;21,05;20,42;19,79;6
+MZ-N22-BAT-COM;Meizu;Note 22;Batería;Compatible;8,89;;;6
+MZ-N22-CON-COM;Meizu;Note 22;Conector de carga;Compatible;6,00;;;6
+MZ-N22-TAP-COM-NEG;Meizu;Note 22;Tapa trasera;Negro (Eclipse Black);6,65;;;6
+MZ-N22-TAP-COM-GRA;Meizu;Note 22;Tapa trasera;Grafito (Graphite Mist);6,65;;;6
+MZ-N22-TAP-COM-TIT;Meizu;Note 22;Tapa trasera;Titanio (Titanium Lux);6,65;;;6
+MZ-N22-TAP-COM-AZU;Meizu;Note 22;Tapa trasera;Azul (Steel Blue);6,65;;;6
+MZ-N22-CTR-COM;Meizu;Note 22;Cámara trasera;Compatible;11,85;11,49;11,14;6
+MZ-N22-CFR-COM;Meizu;Note 22;Cámara frontal;Compatible;7,49;;;6
+MZ-N22-LEN-COM;Meizu;Note 22;Lente de cámara;Compatible;2,95;;;6
+MZ-N22-ALT-COM;Meizu;Note 22;Altavoz;Compatible;4,75;;;6
+MZ-N22-AUR-COM;Meizu;Note 22;Auricular de llamada;Compatible;3,70;;;6
+MZ-N22-FLX-COM;Meizu;Note 22;Flex de encendido y volumen;Compatible;3,05;;;6
+MZ-N22-SIM-COM;Meizu;Note 22;Bandeja SIM;Compatible;3,00;;;6
+MZ-N225-PAN-COM;Meizu;Note 22 5G;Pantalla;Compatible;18,05;17,51;16,97;6
+MZ-N225-BAT-COM;Meizu;Note 22 5G;Batería;Compatible;8,89;;;6
+MZ-N225-CON-COM;Meizu;Note 22 5G;Conector de carga;Compatible;6,00;;;6
+MZ-N225-TAP-COM-PUR;Meizu;Note 22 5G;Tapa trasera;Pure Flame;6,65;;;6
+MZ-N225-TAP-COM-NEG;Meizu;Note 22 5G;Tapa trasera;Negro (Stonehold Black);6,65;;;6
+MZ-N225-TAP-COM-BLA;Meizu;Note 22 5G;Tapa trasera;Blanco (Snow White);6,65;;;6
+MZ-N225-CTR-COM;Meizu;Note 22 5G;Cámara trasera;Compatible;11,85;11,49;11,14;6
+MZ-N225-CFR-COM;Meizu;Note 22 5G;Cámara frontal;Compatible;7,49;;;6
+MZ-N225-LEN-COM;Meizu;Note 22 5G;Lente de cámara;Compatible;2,95;;;6
+MZ-N225-ALT-COM;Meizu;Note 22 5G;Altavoz;Compatible;4,75;;;6
+MZ-N225-AUR-COM;Meizu;Note 22 5G;Auricular de llamada;Compatible;3,70;;;6
+MZ-N225-FLX-COM;Meizu;Note 22 5G;Flex de encendido y volumen;Compatible;3,05;;;6
+MZ-N225-SIM-COM;Meizu;Note 22 5G;Bandeja SIM;Compatible;3,00;;;6
+MZ-N22P5-PAN-COM;Meizu;Note 22 Pro 5G;Pantalla;Compatible;18,50;17,95;17,39;6
+MZ-N22P5-BAT-COM;Meizu;Note 22 Pro 5G;Batería;Compatible;9,55;;;6
+MZ-N22P5-CON-COM;Meizu;Note 22 Pro 5G;Conector de carga;Compatible;5,60;;;6
+MZ-N22P5-TAP-COM-LAK;Meizu;Note 22 Pro 5G;Tapa trasera;Lake Glide;6,75;;;6
+MZ-N22P5-TAP-COM-BLA;Meizu;Note 22 Pro 5G;Tapa trasera;Blanco (Cloud White);6,75;;;6
+MZ-N22P5-TAP-COM-STA;Meizu;Note 22 Pro 5G;Tapa trasera;Star Ash;6,75;;;6
+MZ-N22P5-CTR-COM;Meizu;Note 22 Pro 5G;Cámara trasera;Compatible;14,40;13,97;13,54;6
+MZ-N22P5-CFR-COM;Meizu;Note 22 Pro 5G;Cámara frontal;Compatible;7,90;;;6
+MZ-N22P5-LEN-COM;Meizu;Note 22 Pro 5G;Lente de cámara;Compatible;3,55;;;6
+MZ-N22P5-ALT-COM;Meizu;Note 22 Pro 5G;Altavoz;Compatible;5,25;;;6
+MZ-N22P5-AUR-COM;Meizu;Note 22 Pro 5G;Auricular de llamada;Compatible;4,60;;;6
+MZ-N22P5-FLX-COM;Meizu;Note 22 Pro 5G;Flex de encendido y volumen;Compatible;3,95;;;6
+MZ-N22P5-SIM-COM;Meizu;Note 22 Pro 5G;Bandeja SIM;Compatible;3,45;;;6
+MZ-20I-PRO-NA;Meizu;20 Infinity;Cristal templado;Estándar;1,30;;;
+MZ-20I-PRO-PRI;Meizu;20 Infinity;Cristal templado;Privacidad;4,00;;;
+MZ-20I-FUN-SIL;Meizu;20 Infinity;Funda;Silicona;2,50;;;
+MZ-20I-FUN-TPU;Meizu;20 Infinity;Funda;Transparente;2,95;;;
+MZ-20I-FUN-LIB;Meizu;20 Infinity;Funda;Libro;3,70;;;
+MZ-20I-FUN-ANT;Meizu;20 Infinity;Funda;Antigolpes;3,10;;;
+MZ-20I-PCA-NA;Meizu;20 Infinity;Protector de cámara;Cristal;2,90;;;
+MZ-18S-PRO-NA;Meizu;18s;Cristal templado;Estándar;1,30;;;
+MZ-18S-PRO-PRI;Meizu;18s;Cristal templado;Privacidad;4,00;;;
+MZ-18S-FUN-SIL;Meizu;18s;Funda;Silicona;2,50;;;
+MZ-18S-FUN-TPU;Meizu;18s;Funda;Transparente;2,95;;;
+MZ-18S-FUN-LIB;Meizu;18s;Funda;Libro;3,70;;;
+MZ-18S-FUN-ANT;Meizu;18s;Funda;Antigolpes;3,10;;;
+MZ-18S-PCA-NA;Meizu;18s;Protector de cámara;Cristal;2,90;;;
+MZ-18SP-PRO-NA;Meizu;18s Pro;Cristal templado;Estándar;1,30;;;
+MZ-18SP-PRO-PRI;Meizu;18s Pro;Cristal templado;Privacidad;4,00;;;
+MZ-18SP-FUN-SIL;Meizu;18s Pro;Funda;Silicona;2,50;;;
+MZ-18SP-FUN-TPU;Meizu;18s Pro;Funda;Transparente;2,95;;;
+MZ-18SP-FUN-LIB;Meizu;18s Pro;Funda;Libro;3,70;;;
+MZ-18SP-FUN-ANT;Meizu;18s Pro;Funda;Antigolpes;3,10;;;
+MZ-18SP-PCA-NA;Meizu;18s Pro;Protector de cámara;Cristal;2,90;;;
+MZ-18X-PRO-NA;Meizu;18X;Cristal templado;Estándar;1,30;;;
+MZ-18X-PRO-PRI;Meizu;18X;Cristal templado;Privacidad;4,00;;;
+MZ-18X-FUN-SIL;Meizu;18X;Funda;Silicona;2,50;;;
+MZ-18X-FUN-TPU;Meizu;18X;Funda;Transparente;2,95;;;
+MZ-18X-FUN-LIB;Meizu;18X;Funda;Libro;3,70;;;
+MZ-18X-FUN-ANT;Meizu;18X;Funda;Antigolpes;3,10;;;
+MZ-18X-PCA-NA;Meizu;18X;Protector de cámara;Cristal;2,90;;;
+MZ-18-PRO-NA;Meizu;18;Cristal templado;Estándar;1,30;;;
+MZ-18-PRO-PRI;Meizu;18;Cristal templado;Privacidad;4,00;;;
+MZ-18-FUN-SIL;Meizu;18;Funda;Silicona;2,50;;;
+MZ-18-FUN-TPU;Meizu;18;Funda;Transparente;2,95;;;
+MZ-18-FUN-LIB;Meizu;18;Funda;Libro;3,70;;;
+MZ-18-FUN-ANT;Meizu;18;Funda;Antigolpes;3,10;;;
+MZ-18-PCA-NA;Meizu;18;Protector de cámara;Cristal;2,90;;;
+MZ-18P-PRO-NA;Meizu;18 Pro;Cristal templado;Estándar;1,30;;;
+MZ-18P-PRO-PRI;Meizu;18 Pro;Cristal templado;Privacidad;4,00;;;
+MZ-18P-FUN-SIL;Meizu;18 Pro;Funda;Silicona;2,50;;;
+MZ-18P-FUN-TPU;Meizu;18 Pro;Funda;Transparente;2,95;;;
+MZ-18P-FUN-LIB;Meizu;18 Pro;Funda;Libro;3,70;;;
+MZ-18P-FUN-ANT;Meizu;18 Pro;Funda;Antigolpes;3,10;;;
+MZ-18P-PCA-NA;Meizu;18 Pro;Protector de cámara;Cristal;2,90;;;
+MZ-16T-PRO-NA;Meizu;16T;Cristal templado;Estándar;1,30;;;
+MZ-16T-PRO-PRI;Meizu;16T;Cristal templado;Privacidad;4,00;;;
+MZ-16T-FUN-SIL;Meizu;16T;Funda;Silicona;2,50;;;
+MZ-16T-FUN-TPU;Meizu;16T;Funda;Transparente;2,95;;;
+MZ-16T-FUN-LIB;Meizu;16T;Funda;Libro;3,70;;;
+MZ-16T-FUN-ANT;Meizu;16T;Funda;Antigolpes;3,10;;;
+MZ-16SP-PRO-NA;Meizu;16s Pro;Cristal templado;Estándar;1,30;;;
+MZ-16SP-PRO-PRI;Meizu;16s Pro;Cristal templado;Privacidad;4,00;;;
+MZ-16SP-FUN-SIL;Meizu;16s Pro;Funda;Silicona;2,50;;;
+MZ-16SP-FUN-TPU;Meizu;16s Pro;Funda;Transparente;2,95;;;
+MZ-16SP-FUN-LIB;Meizu;16s Pro;Funda;Libro;3,70;;;
+MZ-16SP-FUN-ANT;Meizu;16s Pro;Funda;Antigolpes;3,10;;;
+MZ-16THPL-PRO-NA;Meizu;16th Plus;Cristal templado;Estándar;1,30;;;
+MZ-16THPL-PRO-PRI;Meizu;16th Plus;Cristal templado;Privacidad;4,00;;;
+MZ-16THPL-FUN-SIL;Meizu;16th Plus;Funda;Silicona;2,50;;;
+MZ-16THPL-FUN-TPU;Meizu;16th Plus;Funda;Transparente;2,95;;;
+MZ-16THPL-FUN-LIB;Meizu;16th Plus;Funda;Libro;3,70;;;
+MZ-16THPL-FUN-ANT;Meizu;16th Plus;Funda;Antigolpes;3,10;;;
+MZ-M8C-PRO-NA;Meizu;M8c;Cristal templado;Estándar;1,30;;;
+MZ-M8C-PRO-PRI;Meizu;M8c;Cristal templado;Privacidad;4,00;;;
+MZ-M8C-FUN-SIL;Meizu;M8c;Funda;Silicona;2,50;;;
+MZ-M8C-FUN-TPU;Meizu;M8c;Funda;Transparente;2,95;;;
+MZ-M8C-FUN-LIB;Meizu;M8c;Funda;Libro;3,70;;;
+MZ-M8C-FUN-ANT;Meizu;M8c;Funda;Antigolpes;3,10;;;
+MZ-15P-PRO-NA;Meizu;15 Pro;Cristal templado;Estándar;1,30;;;
+MZ-15P-PRO-PRI;Meizu;15 Pro;Cristal templado;Privacidad;4,00;;;
+MZ-15P-FUN-SIL;Meizu;15 Pro;Funda;Silicona;2,50;;;
+MZ-15P-FUN-TPU;Meizu;15 Pro;Funda;Transparente;2,95;;;
+MZ-15P-FUN-LIB;Meizu;15 Pro;Funda;Libro;3,70;;;
+MZ-15P-FUN-ANT;Meizu;15 Pro;Funda;Antigolpes;3,10;;;
+MZ-E3-PRO-NA;Meizu;E3;Cristal templado;Estándar;1,30;;;
+MZ-E3-PRO-PRI;Meizu;E3;Cristal templado;Privacidad;4,00;;;
+MZ-E3-FUN-SIL;Meizu;E3;Funda;Silicona;2,50;;;
+MZ-E3-FUN-TPU;Meizu;E3;Funda;Transparente;2,95;;;
+MZ-E3-FUN-LIB;Meizu;E3;Funda;Libro;3,70;;;
+MZ-E3-FUN-ANT;Meizu;E3;Funda;Antigolpes;3,10;;;
+MZ-E2-PRO-NA;Meizu;E2;Cristal templado;Estándar;1,30;;;
+MZ-E2-PRO-PRI;Meizu;E2;Cristal templado;Privacidad;4,00;;;
+MZ-E2-FUN-SIL;Meizu;E2;Funda;Silicona;2,50;;;
+MZ-E2-FUN-TPU;Meizu;E2;Funda;Transparente;2,95;;;
+MZ-E2-FUN-LIB;Meizu;E2;Funda;Libro;3,70;;;
+MZ-E2-FUN-ANT;Meizu;E2;Funda;Antigolpes;3,10;;;
+MZ-M3X-PRO-NA;Meizu;M3x;Cristal templado;Estándar;1,30;;;
+MZ-M3X-PRO-PRI;Meizu;M3x;Cristal templado;Privacidad;4,00;;;
+MZ-M3X-FUN-SIL;Meizu;M3x;Funda;Silicona;2,50;;;
+MZ-M3X-FUN-TPU;Meizu;M3x;Funda;Transparente;2,95;;;
+MZ-M3X-FUN-LIB;Meizu;M3x;Funda;Libro;3,70;;;
+MZ-M3X-FUN-ANT;Meizu;M3x;Funda;Antigolpes;3,10;;;
+MZ-P6S-PRO-NA;Meizu;PRO 6s;Cristal templado;Estándar;1,30;;;
+MZ-P6S-PRO-PRI;Meizu;PRO 6s;Cristal templado;Privacidad;4,00;;;
+MZ-P6S-FUN-SIL;Meizu;PRO 6s;Funda;Silicona;2,50;;;
+MZ-P6S-FUN-TPU;Meizu;PRO 6s;Funda;Transparente;2,95;;;
+MZ-P6S-FUN-LIB;Meizu;PRO 6s;Funda;Libro;3,70;;;
+MZ-P6S-FUN-ANT;Meizu;PRO 6s;Funda;Antigolpes;3,10;;;
+MZ-M3-PRO-NA;Meizu;M3;Cristal templado;Estándar;1,30;;;
+MZ-M3-PRO-PRI;Meizu;M3;Cristal templado;Privacidad;4,00;;;
+MZ-M3-FUN-SIL;Meizu;M3;Funda;Silicona;2,50;;;
+MZ-M3-FUN-TPU;Meizu;M3;Funda;Transparente;2,95;;;
+MZ-M3-FUN-LIB;Meizu;M3;Funda;Libro;3,70;;;
+MZ-M3-FUN-ANT;Meizu;M3;Funda;Antigolpes;3,10;;;
+MZ-MX5E-PRO-NA;Meizu;MX5e;Cristal templado;Estándar;1,30;;;
+MZ-MX5E-PRO-PRI;Meizu;MX5e;Cristal templado;Privacidad;4,00;;;
+MZ-MX5E-FUN-SIL;Meizu;MX5e;Funda;Silicona;2,50;;;
+MZ-MX5E-FUN-TPU;Meizu;MX5e;Funda;Transparente;2,95;;;
+MZ-MX5E-FUN-LIB;Meizu;MX5e;Funda;Libro;3,70;;;
+MZ-MX5E-FUN-ANT;Meizu;MX5e;Funda;Antigolpes;3,10;;;
+MZ-M1M-PRO-NA;Meizu;M1 Metal;Cristal templado;Estándar;1,30;;;
+MZ-M1M-PRO-PRI;Meizu;M1 Metal;Cristal templado;Privacidad;4,00;;;
+MZ-M1M-FUN-SIL;Meizu;M1 Metal;Funda;Silicona;2,50;;;
+MZ-M1M-FUN-TPU;Meizu;M1 Metal;Funda;Transparente;2,95;;;
+MZ-M1M-FUN-LIB;Meizu;M1 Metal;Funda;Libro;3,70;;;
+MZ-M1M-FUN-ANT;Meizu;M1 Metal;Funda;Antigolpes;3,10;;;
+MZ-MX4UE-PRO-NA;Meizu;MX4 Ubuntu Edition;Cristal templado;Estándar;1,30;;;
+MZ-MX4UE-PRO-PRI;Meizu;MX4 Ubuntu Edition;Cristal templado;Privacidad;4,00;;;
+MZ-MX4UE-FUN-SIL;Meizu;MX4 Ubuntu Edition;Funda;Silicona;2,50;;;
+MZ-MX4UE-FUN-TPU;Meizu;MX4 Ubuntu Edition;Funda;Transparente;2,95;;;
+MZ-MX4UE-FUN-LIB;Meizu;MX4 Ubuntu Edition;Funda;Libro;3,70;;;
+MZ-MX4UE-FUN-ANT;Meizu;MX4 Ubuntu Edition;Funda;Antigolpes;3,10;;;
+MZ-M1-PRO-NA;Meizu;M1;Cristal templado;Estándar;1,30;;;
+MZ-M1-PRO-PRI;Meizu;M1;Cristal templado;Privacidad;4,00;;;
+MZ-M1-FUN-SIL;Meizu;M1;Funda;Silicona;2,50;;;
+MZ-M1-FUN-TPU;Meizu;M1;Funda;Transparente;2,95;;;
+MZ-M1-FUN-LIB;Meizu;M1;Funda;Libro;3,70;;;
+MZ-M1-FUN-ANT;Meizu;M1;Funda;Antigolpes;3,10;;;
+MZ-M1N-PRO-NA;Meizu;M1 Note;Cristal templado;Estándar;1,30;;;
+MZ-M1N-PRO-PRI;Meizu;M1 Note;Cristal templado;Privacidad;4,00;;;
+MZ-M1N-FUN-SIL;Meizu;M1 Note;Funda;Silicona;2,50;;;
+MZ-M1N-FUN-TPU;Meizu;M1 Note;Funda;Transparente;2,95;;;
+MZ-M1N-FUN-LIB;Meizu;M1 Note;Funda;Libro;3,70;;;
+MZ-M1N-FUN-ANT;Meizu;M1 Note;Funda;Antigolpes;3,10;;;
+MZ-MX4P-PRO-NA;Meizu;MX4 Pro;Cristal templado;Estándar;1,30;;;
+MZ-MX4P-PRO-PRI;Meizu;MX4 Pro;Cristal templado;Privacidad;4,00;;;
+MZ-MX4P-FUN-SIL;Meizu;MX4 Pro;Funda;Silicona;2,50;;;
+MZ-MX4P-FUN-TPU;Meizu;MX4 Pro;Funda;Transparente;2,95;;;
+MZ-MX4P-FUN-LIB;Meizu;MX4 Pro;Funda;Libro;3,70;;;
+MZ-MX4P-FUN-ANT;Meizu;MX4 Pro;Funda;Antigolpes;3,10;;;
+MZ-MX4-PRO-NA;Meizu;MX4;Cristal templado;Estándar;1,30;;;
+MZ-MX4-PRO-PRI;Meizu;MX4;Cristal templado;Privacidad;4,00;;;
+MZ-MX4-FUN-SIL;Meizu;MX4;Funda;Silicona;2,50;;;
+MZ-MX4-FUN-TPU;Meizu;MX4;Funda;Transparente;2,95;;;
+MZ-MX4-FUN-LIB;Meizu;MX4;Funda;Libro;3,70;;;
+MZ-MX4-FUN-ANT;Meizu;MX4;Funda;Antigolpes;3,10;;;
+MZ-MX3-PRO-NA;Meizu;MX3;Cristal templado;Estándar;1,30;;;
+MZ-MX3-PRO-PRI;Meizu;MX3;Cristal templado;Privacidad;4,00;;;
+MZ-MX3-FUN-SIL;Meizu;MX3;Funda;Silicona;2,50;;;
+MZ-MX3-FUN-TPU;Meizu;MX3;Funda;Transparente;2,95;;;
+MZ-MX3-FUN-LIB;Meizu;MX3;Funda;Libro;3,70;;;
+MZ-MX3-FUN-ANT;Meizu;MX3;Funda;Antigolpes;3,10;;;
+MZ-MX2-PRO-NA;Meizu;MX2;Cristal templado;Estándar;1,30;;;
+MZ-MX2-PRO-PRI;Meizu;MX2;Cristal templado;Privacidad;4,00;;;
+MZ-MX2-FUN-SIL;Meizu;MX2;Funda;Silicona;2,50;;;
+MZ-MX2-FUN-TPU;Meizu;MX2;Funda;Transparente;2,95;;;
+MZ-MX2-FUN-LIB;Meizu;MX2;Funda;Libro;3,70;;;
+MZ-MX2-FUN-ANT;Meizu;MX2;Funda;Antigolpes;3,10;;;
+MZ-MX4C-PRO-NA;Meizu;MX 4-core;Cristal templado;Estándar;1,30;;;
+MZ-MX4C-PRO-PRI;Meizu;MX 4-core;Cristal templado;Privacidad;4,00;;;
+MZ-MX4C-FUN-SIL;Meizu;MX 4-core;Funda;Silicona;2,50;;;
+MZ-MX4C-FUN-TPU;Meizu;MX 4-core;Funda;Transparente;2,95;;;
+MZ-MX4C-FUN-LIB;Meizu;MX 4-core;Funda;Libro;3,70;;;
+MZ-MX4C-FUN-ANT;Meizu;MX 4-core;Funda;Antigolpes;3,10;;;
+MZ-MX-PRO-NA;Meizu;MX;Cristal templado;Estándar;1,30;;;
+MZ-MX-PRO-PRI;Meizu;MX;Cristal templado;Privacidad;4,00;;;
+MZ-MX-FUN-SIL;Meizu;MX;Funda;Silicona;2,50;;;
+MZ-MX-FUN-TPU;Meizu;MX;Funda;Transparente;2,95;;;
+MZ-MX-FUN-LIB;Meizu;MX;Funda;Libro;3,70;;;
+MZ-MX-FUN-ANT;Meizu;MX;Funda;Antigolpes;3,10;;;
+MZ-M2N-PRO-NA;Meizu;M2 Note;Cristal templado;Estándar;1,30;;;
+MZ-M2N-PRO-PRI;Meizu;M2 Note;Cristal templado;Privacidad;4,00;;;
+MZ-M2N-FUN-SIL;Meizu;M2 Note;Funda;Silicona;2,50;;;
+MZ-M2N-FUN-TPU;Meizu;M2 Note;Funda;Transparente;2,95;;;
+MZ-M2N-FUN-LIB;Meizu;M2 Note;Funda;Libro;3,70;;;
+MZ-M2N-FUN-ANT;Meizu;M2 Note;Funda;Antigolpes;3,10;;;
+MZ-MX5-PRO-NA;Meizu;MX5;Cristal templado;Estándar;1,30;;;
+MZ-MX5-PRO-PRI;Meizu;MX5;Cristal templado;Privacidad;4,00;;;
+MZ-MX5-FUN-SIL;Meizu;MX5;Funda;Silicona;2,50;;;
+MZ-MX5-FUN-TPU;Meizu;MX5;Funda;Transparente;2,95;;;
+MZ-MX5-FUN-LIB;Meizu;MX5;Funda;Libro;3,70;;;
+MZ-MX5-FUN-ANT;Meizu;MX5;Funda;Antigolpes;3,10;;;
+MZ-M2-PRO-NA;Meizu;M2;Cristal templado;Estándar;1,30;;;
+MZ-M2-PRO-PRI;Meizu;M2;Cristal templado;Privacidad;4,00;;;
+MZ-M2-FUN-SIL;Meizu;M2;Funda;Silicona;2,50;;;
+MZ-M2-FUN-TPU;Meizu;M2;Funda;Transparente;2,95;;;
+MZ-M2-FUN-LIB;Meizu;M2;Funda;Libro;3,70;;;
+MZ-M2-FUN-ANT;Meizu;M2;Funda;Antigolpes;3,10;;;
+MZ-P5-PRO-NA;Meizu;Pro 5;Cristal templado;Estándar;1,30;;;
+MZ-P5-PRO-PRI;Meizu;Pro 5;Cristal templado;Privacidad;4,00;;;
+MZ-P5-FUN-SIL;Meizu;Pro 5;Funda;Silicona;2,50;;;
+MZ-P5-FUN-TPU;Meizu;Pro 5;Funda;Transparente;2,95;;;
+MZ-P5-FUN-LIB;Meizu;Pro 5;Funda;Libro;3,70;;;
+MZ-P5-FUN-ANT;Meizu;Pro 5;Funda;Antigolpes;3,10;;;
+MZ-M3N-PRO-NA;Meizu;M3 Note;Cristal templado;Estándar;1,30;;;
+MZ-M3N-PRO-PRI;Meizu;M3 Note;Cristal templado;Privacidad;4,00;;;
+MZ-M3N-FUN-SIL;Meizu;M3 Note;Funda;Silicona;2,50;;;
+MZ-M3N-FUN-TPU;Meizu;M3 Note;Funda;Transparente;2,95;;;
+MZ-M3N-FUN-LIB;Meizu;M3 Note;Funda;Libro;3,70;;;
+MZ-M3N-FUN-ANT;Meizu;M3 Note;Funda;Antigolpes;3,10;;;
+MZ-P6-PRO-NA;Meizu;Pro 6;Cristal templado;Estándar;1,30;;;
+MZ-P6-PRO-PRI;Meizu;Pro 6;Cristal templado;Privacidad;4,00;;;
+MZ-P6-FUN-SIL;Meizu;Pro 6;Funda;Silicona;2,50;;;
+MZ-P6-FUN-TPU;Meizu;Pro 6;Funda;Transparente;2,95;;;
+MZ-P6-FUN-LIB;Meizu;Pro 6;Funda;Libro;3,70;;;
+MZ-P6-FUN-ANT;Meizu;Pro 6;Funda;Antigolpes;3,10;;;
+MZ-M3S-PRO-NA;Meizu;M3s;Cristal templado;Estándar;1,30;;;
+MZ-M3S-PRO-PRI;Meizu;M3s;Cristal templado;Privacidad;4,00;;;
+MZ-M3S-FUN-SIL;Meizu;M3s;Funda;Silicona;2,50;;;
+MZ-M3S-FUN-TPU;Meizu;M3s;Funda;Transparente;2,95;;;
+MZ-M3S-FUN-LIB;Meizu;M3s;Funda;Libro;3,70;;;
+MZ-M3S-FUN-ANT;Meizu;M3s;Funda;Antigolpes;3,10;;;
+MZ-MX6-PRO-NA;Meizu;MX6;Cristal templado;Estándar;1,30;;;
+MZ-MX6-PRO-PRI;Meizu;MX6;Cristal templado;Privacidad;4,00;;;
+MZ-MX6-FUN-SIL;Meizu;MX6;Funda;Silicona;2,50;;;
+MZ-MX6-FUN-TPU;Meizu;MX6;Funda;Transparente;2,95;;;
+MZ-MX6-FUN-LIB;Meizu;MX6;Funda;Libro;3,70;;;
+MZ-MX6-FUN-ANT;Meizu;MX6;Funda;Antigolpes;3,10;;;
+MZ-M3E-PRO-NA;Meizu;M3E;Cristal templado;Estándar;1,30;;;
+MZ-M3E-PRO-PRI;Meizu;M3E;Cristal templado;Privacidad;4,00;;;
+MZ-M3E-FUN-SIL;Meizu;M3E;Funda;Silicona;2,50;;;
+MZ-M3E-FUN-TPU;Meizu;M3E;Funda;Transparente;2,95;;;
+MZ-M3E-FUN-LIB;Meizu;M3E;Funda;Libro;3,70;;;
+MZ-M3E-FUN-ANT;Meizu;M3E;Funda;Antigolpes;3,10;;;
+MZ-U10-PRO-NA;Meizu;U10;Cristal templado;Estándar;1,30;;;
+MZ-U10-PRO-PRI;Meizu;U10;Cristal templado;Privacidad;4,00;;;
+MZ-U10-FUN-SIL;Meizu;U10;Funda;Silicona;2,50;;;
+MZ-U10-FUN-TPU;Meizu;U10;Funda;Transparente;2,95;;;
+MZ-U10-FUN-LIB;Meizu;U10;Funda;Libro;3,70;;;
+MZ-U10-FUN-ANT;Meizu;U10;Funda;Antigolpes;3,10;;;
+MZ-U20-PRO-NA;Meizu;U20;Cristal templado;Estándar;1,30;;;
+MZ-U20-PRO-PRI;Meizu;U20;Cristal templado;Privacidad;4,00;;;
+MZ-U20-FUN-SIL;Meizu;U20;Funda;Silicona;2,50;;;
+MZ-U20-FUN-TPU;Meizu;U20;Funda;Transparente;2,95;;;
+MZ-U20-FUN-LIB;Meizu;U20;Funda;Libro;3,70;;;
+MZ-U20-FUN-ANT;Meizu;U20;Funda;Antigolpes;3,10;;;
+MZ-M3M-PRO-NA;Meizu;M3 Max;Cristal templado;Estándar;1,30;;;
+MZ-M3M-PRO-PRI;Meizu;M3 Max;Cristal templado;Privacidad;4,00;;;
+MZ-M3M-FUN-SIL;Meizu;M3 Max;Funda;Silicona;2,50;;;
+MZ-M3M-FUN-TPU;Meizu;M3 Max;Funda;Transparente;2,95;;;
+MZ-M3M-FUN-LIB;Meizu;M3 Max;Funda;Libro;3,70;;;
+MZ-M3M-FUN-ANT;Meizu;M3 Max;Funda;Antigolpes;3,10;;;
+MZ-M5-PRO-NA;Meizu;M5;Cristal templado;Estándar;1,30;;;
+MZ-M5-PRO-PRI;Meizu;M5;Cristal templado;Privacidad;4,00;;;
+MZ-M5-FUN-SIL;Meizu;M5;Funda;Silicona;2,50;;;
+MZ-M5-FUN-TPU;Meizu;M5;Funda;Transparente;2,95;;;
+MZ-M5-FUN-LIB;Meizu;M5;Funda;Libro;3,70;;;
+MZ-M5-FUN-ANT;Meizu;M5;Funda;Antigolpes;3,10;;;
+MZ-P6PL-PRO-NA;Meizu;Pro 6 Plus;Cristal templado;Estándar;1,30;;;
+MZ-P6PL-PRO-PRI;Meizu;Pro 6 Plus;Cristal templado;Privacidad;4,00;;;
+MZ-P6PL-FUN-SIL;Meizu;Pro 6 Plus;Funda;Silicona;2,50;;;
+MZ-P6PL-FUN-TPU;Meizu;Pro 6 Plus;Funda;Transparente;2,95;;;
+MZ-P6PL-FUN-LIB;Meizu;Pro 6 Plus;Funda;Libro;3,70;;;
+MZ-P6PL-FUN-ANT;Meizu;Pro 6 Plus;Funda;Antigolpes;3,10;;;
+MZ-M5N-PRO-NA;Meizu;M5 Note;Cristal templado;Estándar;1,30;;;
+MZ-M5N-PRO-PRI;Meizu;M5 Note;Cristal templado;Privacidad;4,00;;;
+MZ-M5N-FUN-SIL;Meizu;M5 Note;Funda;Silicona;2,50;;;
+MZ-M5N-FUN-TPU;Meizu;M5 Note;Funda;Transparente;2,95;;;
+MZ-M5N-FUN-LIB;Meizu;M5 Note;Funda;Libro;3,70;;;
+MZ-M5N-FUN-ANT;Meizu;M5 Note;Funda;Antigolpes;3,10;;;
+MZ-M5S-PRO-NA;Meizu;M5s;Cristal templado;Estándar;1,30;;;
+MZ-M5S-PRO-PRI;Meizu;M5s;Cristal templado;Privacidad;4,00;;;
+MZ-M5S-FUN-SIL;Meizu;M5s;Funda;Silicona;2,50;;;
+MZ-M5S-FUN-TPU;Meizu;M5s;Funda;Transparente;2,95;;;
+MZ-M5S-FUN-LIB;Meizu;M5s;Funda;Libro;3,70;;;
+MZ-M5S-FUN-ANT;Meizu;M5s;Funda;Antigolpes;3,10;;;
+MZ-M5C-PRO-NA;Meizu;M5c;Cristal templado;Estándar;1,30;;;
+MZ-M5C-PRO-PRI;Meizu;M5c;Cristal templado;Privacidad;4,00;;;
+MZ-M5C-FUN-SIL;Meizu;M5c;Funda;Silicona;2,50;;;
+MZ-M5C-FUN-TPU;Meizu;M5c;Funda;Transparente;2,95;;;
+MZ-M5C-FUN-LIB;Meizu;M5c;Funda;Libro;3,70;;;
+MZ-M5C-FUN-ANT;Meizu;M5c;Funda;Antigolpes;3,10;;;
+MZ-P7-PRO-NA;Meizu;Pro 7;Cristal templado;Estándar;1,30;;;
+MZ-P7-PRO-PRI;Meizu;Pro 7;Cristal templado;Privacidad;4,00;;;
+MZ-P7-FUN-SIL;Meizu;Pro 7;Funda;Silicona;2,50;;;
+MZ-P7-FUN-TPU;Meizu;Pro 7;Funda;Transparente;2,95;;;
+MZ-P7-FUN-LIB;Meizu;Pro 7;Funda;Libro;3,70;;;
+MZ-P7-FUN-ANT;Meizu;Pro 7;Funda;Antigolpes;3,10;;;
+MZ-P7PL-PRO-NA;Meizu;Pro 7 Plus;Cristal templado;Estándar;1,30;;;
+MZ-P7PL-PRO-PRI;Meizu;Pro 7 Plus;Cristal templado;Privacidad;4,00;;;
+MZ-P7PL-FUN-SIL;Meizu;Pro 7 Plus;Funda;Silicona;2,50;;;
+MZ-P7PL-FUN-TPU;Meizu;Pro 7 Plus;Funda;Transparente;2,95;;;
+MZ-P7PL-FUN-LIB;Meizu;Pro 7 Plus;Funda;Libro;3,70;;;
+MZ-P7PL-FUN-ANT;Meizu;Pro 7 Plus;Funda;Antigolpes;3,10;;;
+MZ-M6-PRO-NA;Meizu;M6;Cristal templado;Estándar;1,30;;;
+MZ-M6-PRO-PRI;Meizu;M6;Cristal templado;Privacidad;4,00;;;
+MZ-M6-FUN-SIL;Meizu;M6;Funda;Silicona;2,50;;;
+MZ-M6-FUN-TPU;Meizu;M6;Funda;Transparente;2,95;;;
+MZ-M6-FUN-LIB;Meizu;M6;Funda;Libro;3,70;;;
+MZ-M6-FUN-ANT;Meizu;M6;Funda;Antigolpes;3,10;;;
+MZ-M6N-PRO-NA;Meizu;M6 Note;Cristal templado;Estándar;1,30;;;
+MZ-M6N-PRO-PRI;Meizu;M6 Note;Cristal templado;Privacidad;4,00;;;
+MZ-M6N-FUN-SIL;Meizu;M6 Note;Funda;Silicona;2,50;;;
+MZ-M6N-FUN-TPU;Meizu;M6 Note;Funda;Transparente;2,95;;;
+MZ-M6N-FUN-LIB;Meizu;M6 Note;Funda;Libro;3,70;;;
+MZ-M6N-FUN-ANT;Meizu;M6 Note;Funda;Antigolpes;3,10;;;
+MZ-M6S-PRO-NA;Meizu;M6s;Cristal templado;Estándar;1,30;;;
+MZ-M6S-PRO-PRI;Meizu;M6s;Cristal templado;Privacidad;4,00;;;
+MZ-M6S-FUN-SIL;Meizu;M6s;Funda;Silicona;2,50;;;
+MZ-M6S-FUN-TPU;Meizu;M6s;Funda;Transparente;2,95;;;
+MZ-M6S-FUN-LIB;Meizu;M6s;Funda;Libro;3,70;;;
+MZ-M6S-FUN-ANT;Meizu;M6s;Funda;Antigolpes;3,10;;;
+MZ-15-PRO-NA;Meizu;15;Cristal templado;Estándar;1,30;;;
+MZ-15-PRO-PRI;Meizu;15;Cristal templado;Privacidad;4,00;;;
+MZ-15-FUN-SIL;Meizu;15;Funda;Silicona;2,50;;;
+MZ-15-FUN-TPU;Meizu;15;Funda;Transparente;2,95;;;
+MZ-15-FUN-LIB;Meizu;15;Funda;Libro;3,70;;;
+MZ-15-FUN-ANT;Meizu;15;Funda;Antigolpes;3,10;;;
+MZ-15L-PRO-NA;Meizu;15 Lite;Cristal templado;Estándar;1,30;;;
+MZ-15L-PRO-PRI;Meizu;15 Lite;Cristal templado;Privacidad;4,00;;;
+MZ-15L-FUN-SIL;Meizu;15 Lite;Funda;Silicona;2,50;;;
+MZ-15L-FUN-TPU;Meizu;15 Lite;Funda;Transparente;2,95;;;
+MZ-15L-FUN-LIB;Meizu;15 Lite;Funda;Libro;3,70;;;
+MZ-15L-FUN-ANT;Meizu;15 Lite;Funda;Antigolpes;3,10;;;
+MZ-15PL-PRO-NA;Meizu;15 Plus;Cristal templado;Estándar;1,30;;;
+MZ-15PL-PRO-PRI;Meizu;15 Plus;Cristal templado;Privacidad;4,00;;;
+MZ-15PL-FUN-SIL;Meizu;15 Plus;Funda;Silicona;2,50;;;
+MZ-15PL-FUN-TPU;Meizu;15 Plus;Funda;Transparente;2,95;;;
+MZ-15PL-FUN-LIB;Meizu;15 Plus;Funda;Libro;3,70;;;
+MZ-15PL-FUN-ANT;Meizu;15 Plus;Funda;Antigolpes;3,10;;;
+MZ-M6T-PRO-NA;Meizu;M6T;Cristal templado;Estándar;1,30;;;
+MZ-M6T-PRO-PRI;Meizu;M6T;Cristal templado;Privacidad;4,00;;;
+MZ-M6T-FUN-SIL;Meizu;M6T;Funda;Silicona;2,50;;;
+MZ-M6T-FUN-TPU;Meizu;M6T;Funda;Transparente;2,95;;;
+MZ-M6T-FUN-LIB;Meizu;M6T;Funda;Libro;3,70;;;
+MZ-M6T-FUN-ANT;Meizu;M6T;Funda;Antigolpes;3,10;;;
+MZ-16TH-PRO-NA;Meizu;16th;Cristal templado;Estándar;1,30;;;
+MZ-16TH-PRO-PRI;Meizu;16th;Cristal templado;Privacidad;4,00;;;
+MZ-16TH-FUN-SIL;Meizu;16th;Funda;Silicona;2,50;;;
+MZ-16TH-FUN-TPU;Meizu;16th;Funda;Transparente;2,95;;;
+MZ-16TH-FUN-LIB;Meizu;16th;Funda;Libro;3,70;;;
+MZ-16TH-FUN-ANT;Meizu;16th;Funda;Antigolpes;3,10;;;
+MZ-16X-PRO-NA;Meizu;16X;Cristal templado;Estándar;1,30;;;
+MZ-16X-PRO-PRI;Meizu;16X;Cristal templado;Privacidad;4,00;;;
+MZ-16X-FUN-SIL;Meizu;16X;Funda;Silicona;2,50;;;
+MZ-16X-FUN-TPU;Meizu;16X;Funda;Transparente;2,95;;;
+MZ-16X-FUN-LIB;Meizu;16X;Funda;Libro;3,70;;;
+MZ-16X-FUN-ANT;Meizu;16X;Funda;Antigolpes;3,10;;;
+MZ-V8-PRO-NA;Meizu;V8;Cristal templado;Estándar;1,30;;;
+MZ-V8-PRO-PRI;Meizu;V8;Cristal templado;Privacidad;4,00;;;
+MZ-V8-FUN-SIL;Meizu;V8;Funda;Silicona;2,50;;;
+MZ-V8-FUN-TPU;Meizu;V8;Funda;Transparente;2,95;;;
+MZ-V8-FUN-LIB;Meizu;V8;Funda;Libro;3,70;;;
+MZ-V8-FUN-ANT;Meizu;V8;Funda;Antigolpes;3,10;;;
+MZ-V8P-PRO-NA;Meizu;V8 Pro;Cristal templado;Estándar;1,30;;;
+MZ-V8P-PRO-PRI;Meizu;V8 Pro;Cristal templado;Privacidad;4,00;;;
+MZ-V8P-FUN-SIL;Meizu;V8 Pro;Funda;Silicona;2,50;;;
+MZ-V8P-FUN-TPU;Meizu;V8 Pro;Funda;Transparente;2,95;;;
+MZ-V8P-FUN-LIB;Meizu;V8 Pro;Funda;Libro;3,70;;;
+MZ-V8P-FUN-ANT;Meizu;V8 Pro;Funda;Antigolpes;3,10;;;
+MZ-X8-PRO-NA;Meizu;X8;Cristal templado;Estándar;1,30;;;
+MZ-X8-PRO-PRI;Meizu;X8;Cristal templado;Privacidad;4,00;;;
+MZ-X8-FUN-SIL;Meizu;X8;Funda;Silicona;2,50;;;
+MZ-X8-FUN-TPU;Meizu;X8;Funda;Transparente;2,95;;;
+MZ-X8-FUN-LIB;Meizu;X8;Funda;Libro;3,70;;;
+MZ-X8-FUN-ANT;Meizu;X8;Funda;Antigolpes;3,10;;;
+MZ-N8-PRO-NA;Meizu;Note 8;Cristal templado;Estándar;1,30;;;
+MZ-N8-PRO-PRI;Meizu;Note 8;Cristal templado;Privacidad;4,00;;;
+MZ-N8-FUN-SIL;Meizu;Note 8;Funda;Silicona;2,50;;;
+MZ-N8-FUN-TPU;Meizu;Note 8;Funda;Transparente;2,95;;;
+MZ-N8-FUN-LIB;Meizu;Note 8;Funda;Libro;3,70;;;
+MZ-N8-FUN-ANT;Meizu;Note 8;Funda;Antigolpes;3,10;;;
+MZ-C9-PRO-NA;Meizu;C9;Cristal templado;Estándar;1,30;;;
+MZ-C9-PRO-PRI;Meizu;C9;Cristal templado;Privacidad;4,00;;;
+MZ-C9-FUN-SIL;Meizu;C9;Funda;Silicona;2,50;;;
+MZ-C9-FUN-TPU;Meizu;C9;Funda;Transparente;2,95;;;
+MZ-C9-FUN-LIB;Meizu;C9;Funda;Libro;3,70;;;
+MZ-C9-FUN-ANT;Meizu;C9;Funda;Antigolpes;3,10;;;
+MZ-C9P-PRO-NA;Meizu;C9 Pro;Cristal templado;Estándar;1,30;;;
+MZ-C9P-PRO-PRI;Meizu;C9 Pro;Cristal templado;Privacidad;4,00;;;
+MZ-C9P-FUN-SIL;Meizu;C9 Pro;Funda;Silicona;2,50;;;
+MZ-C9P-FUN-TPU;Meizu;C9 Pro;Funda;Transparente;2,95;;;
+MZ-C9P-FUN-LIB;Meizu;C9 Pro;Funda;Libro;3,70;;;
+MZ-C9P-FUN-ANT;Meizu;C9 Pro;Funda;Antigolpes;3,10;;;
+MZ-N9-PRO-NA;Meizu;Note 9;Cristal templado;Estándar;1,30;;;
+MZ-N9-PRO-PRI;Meizu;Note 9;Cristal templado;Privacidad;4,00;;;
+MZ-N9-FUN-SIL;Meizu;Note 9;Funda;Silicona;2,50;;;
+MZ-N9-FUN-TPU;Meizu;Note 9;Funda;Transparente;2,95;;;
+MZ-N9-FUN-LIB;Meizu;Note 9;Funda;Libro;3,70;;;
+MZ-N9-FUN-ANT;Meizu;Note 9;Funda;Antigolpes;3,10;;;
+MZ-N9-PCA-NA;Meizu;Note 9;Protector de cámara;Cristal;2,90;;;
+MZ-16S-PRO-NA;Meizu;16s;Cristal templado;Estándar;1,30;;;
+MZ-16S-PRO-PRI;Meizu;16s;Cristal templado;Privacidad;4,00;;;
+MZ-16S-FUN-SIL;Meizu;16s;Funda;Silicona;2,50;;;
+MZ-16S-FUN-TPU;Meizu;16s;Funda;Transparente;2,95;;;
+MZ-16S-FUN-LIB;Meizu;16s;Funda;Libro;3,70;;;
+MZ-16S-FUN-ANT;Meizu;16s;Funda;Antigolpes;3,10;;;
+MZ-16S-PCA-NA;Meizu;16s;Protector de cámara;Cristal;2,90;;;
+MZ-16XS-PRO-NA;Meizu;16Xs;Cristal templado;Estándar;1,30;;;
+MZ-16XS-PRO-PRI;Meizu;16Xs;Cristal templado;Privacidad;4,00;;;
+MZ-16XS-FUN-SIL;Meizu;16Xs;Funda;Silicona;2,50;;;
+MZ-16XS-FUN-TPU;Meizu;16Xs;Funda;Transparente;2,95;;;
+MZ-16XS-FUN-LIB;Meizu;16Xs;Funda;Libro;3,70;;;
+MZ-16XS-FUN-ANT;Meizu;16Xs;Funda;Antigolpes;3,10;;;
+MZ-16XS-PCA-NA;Meizu;16Xs;Protector de cámara;Cristal;2,90;;;
+MZ-M10-PRO-NA;Meizu;M10;Cristal templado;Estándar;1,30;;;
+MZ-M10-PRO-PRI;Meizu;M10;Cristal templado;Privacidad;4,00;;;
+MZ-M10-FUN-SIL;Meizu;M10;Funda;Silicona;2,50;;;
+MZ-M10-FUN-TPU;Meizu;M10;Funda;Transparente;2,95;;;
+MZ-M10-FUN-LIB;Meizu;M10;Funda;Libro;3,70;;;
+MZ-M10-FUN-ANT;Meizu;M10;Funda;Antigolpes;3,10;;;
+MZ-M10-PCA-NA;Meizu;M10;Protector de cámara;Cristal;2,90;;;
+MZ-17-PRO-NA;Meizu;17;Cristal templado;Estándar;1,30;;;
+MZ-17-PRO-PRI;Meizu;17;Cristal templado;Privacidad;4,00;;;
+MZ-17-FUN-SIL;Meizu;17;Funda;Silicona;2,50;;;
+MZ-17-FUN-TPU;Meizu;17;Funda;Transparente;2,95;;;
+MZ-17-FUN-LIB;Meizu;17;Funda;Libro;3,70;;;
+MZ-17-FUN-ANT;Meizu;17;Funda;Antigolpes;3,10;;;
+MZ-17-PCA-NA;Meizu;17;Protector de cámara;Cristal;2,90;;;
+MZ-17P-PRO-NA;Meizu;17 Pro;Cristal templado;Estándar;1,30;;;
+MZ-17P-PRO-PRI;Meizu;17 Pro;Cristal templado;Privacidad;4,00;;;
+MZ-17P-FUN-SIL;Meizu;17 Pro;Funda;Silicona;2,50;;;
+MZ-17P-FUN-TPU;Meizu;17 Pro;Funda;Transparente;2,95;;;
+MZ-17P-FUN-LIB;Meizu;17 Pro;Funda;Libro;3,70;;;
+MZ-17P-FUN-ANT;Meizu;17 Pro;Funda;Antigolpes;3,10;;;
+MZ-17P-PCA-NA;Meizu;17 Pro;Protector de cámara;Cristal;2,90;;;
+MZ-21-PRO-NA;Meizu;21;Cristal templado;Estándar;1,30;;;
+MZ-21-PRO-PRI;Meizu;21;Cristal templado;Privacidad;4,00;;;
+MZ-21-FUN-SIL;Meizu;21;Funda;Silicona;2,50;;;
+MZ-21-FUN-TPU;Meizu;21;Funda;Transparente;2,95;;;
+MZ-21-FUN-LIB;Meizu;21;Funda;Libro;3,70;;;
+MZ-21-FUN-ANT;Meizu;21;Funda;Antigolpes;3,10;;;
+MZ-21-PCA-NA;Meizu;21;Protector de cámara;Cristal;2,90;;;
+MZ-M21-PRO-NA;Meizu;mblu 21;Cristal templado;Estándar;1,30;;;
+MZ-M21-PRO-PRI;Meizu;mblu 21;Cristal templado;Privacidad;4,00;;;
+MZ-M21-FUN-SIL;Meizu;mblu 21;Funda;Silicona;2,50;;;
+MZ-M21-FUN-TPU;Meizu;mblu 21;Funda;Transparente;2,95;;;
+MZ-M21-FUN-LIB;Meizu;mblu 21;Funda;Libro;3,70;;;
+MZ-M21-FUN-ANT;Meizu;mblu 21;Funda;Antigolpes;3,10;;;
+MZ-N21-PRO-NA;Meizu;Note 21;Cristal templado;Estándar;1,30;;;
+MZ-N21-PRO-PRI;Meizu;Note 21;Cristal templado;Privacidad;4,00;;;
+MZ-N21-FUN-SIL;Meizu;Note 21;Funda;Silicona;2,50;;;
+MZ-N21-FUN-TPU;Meizu;Note 21;Funda;Transparente;2,95;;;
+MZ-N21-FUN-LIB;Meizu;Note 21;Funda;Libro;3,70;;;
+MZ-N21-FUN-ANT;Meizu;Note 21;Funda;Antigolpes;3,10;;;
+MZ-N21-PCA-NA;Meizu;Note 21;Protector de cámara;Cristal;2,90;;;
+MZ-N21P-PRO-NA;Meizu;Note 21 Pro;Cristal templado;Estándar;1,30;;;
+MZ-N21P-PRO-PRI;Meizu;Note 21 Pro;Cristal templado;Privacidad;4,00;;;
+MZ-N21P-FUN-SIL;Meizu;Note 21 Pro;Funda;Silicona;2,50;;;
+MZ-N21P-FUN-TPU;Meizu;Note 21 Pro;Funda;Transparente;2,95;;;
+MZ-N21P-FUN-LIB;Meizu;Note 21 Pro;Funda;Libro;3,70;;;
+MZ-N21P-FUN-ANT;Meizu;Note 21 Pro;Funda;Antigolpes;3,10;;;
+MZ-N21P-PCA-NA;Meizu;Note 21 Pro;Protector de cámara;Cristal;2,90;;;
+MZ-21P-PRO-NA;Meizu;21 Pro;Cristal templado;Estándar;1,30;;;
+MZ-21P-PRO-PRI;Meizu;21 Pro;Cristal templado;Privacidad;4,00;;;
+MZ-21P-FUN-SIL;Meizu;21 Pro;Funda;Silicona;2,50;;;
+MZ-21P-FUN-TPU;Meizu;21 Pro;Funda;Transparente;2,95;;;
+MZ-21P-FUN-LIB;Meizu;21 Pro;Funda;Libro;3,70;;;
+MZ-21P-FUN-ANT;Meizu;21 Pro;Funda;Antigolpes;3,10;;;
+MZ-21P-PCA-NA;Meizu;21 Pro;Protector de cámara;Cristal;2,90;;;
+MZ-21N-PRO-NA;Meizu;21 Note;Cristal templado;Estándar;1,30;;;
+MZ-21N-PRO-PRI;Meizu;21 Note;Cristal templado;Privacidad;4,00;;;
+MZ-21N-FUN-SIL;Meizu;21 Note;Funda;Silicona;2,50;;;
+MZ-21N-FUN-TPU;Meizu;21 Note;Funda;Transparente;2,95;;;
+MZ-21N-FUN-LIB;Meizu;21 Note;Funda;Libro;3,70;;;
+MZ-21N-FUN-ANT;Meizu;21 Note;Funda;Antigolpes;3,10;;;
+MZ-21N-PCA-NA;Meizu;21 Note;Protector de cámara;Cristal;2,90;;;
+MZ-M22-PRO-NA;Meizu;mblu 22;Cristal templado;Estándar;1,30;;;
+MZ-M22-PRO-PRI;Meizu;mblu 22;Cristal templado;Privacidad;4,00;;;
+MZ-M22-FUN-SIL;Meizu;mblu 22;Funda;Silicona;2,50;;;
+MZ-M22-FUN-TPU;Meizu;mblu 22;Funda;Transparente;2,95;;;
+MZ-M22-FUN-LIB;Meizu;mblu 22;Funda;Libro;3,70;;;
+MZ-M22-FUN-ANT;Meizu;mblu 22;Funda;Antigolpes;3,10;;;
+MZ-M22P-PRO-NA;Meizu;mblu 22 Pro;Cristal templado;Estándar;1,30;;;
+MZ-M22P-PRO-PRI;Meizu;mblu 22 Pro;Cristal templado;Privacidad;4,00;;;
+MZ-M22P-FUN-SIL;Meizu;mblu 22 Pro;Funda;Silicona;2,50;;;
+MZ-M22P-FUN-TPU;Meizu;mblu 22 Pro;Funda;Transparente;2,95;;;
+MZ-M22P-FUN-LIB;Meizu;mblu 22 Pro;Funda;Libro;3,70;;;
+MZ-M22P-FUN-ANT;Meizu;mblu 22 Pro;Funda;Antigolpes;3,10;;;
+MZ-M22P-PCA-NA;Meizu;mblu 22 Pro;Protector de cámara;Cristal;2,90;;;
+MZ-N22-PRO-NA;Meizu;Note 22;Cristal templado;Estándar;1,30;;;
+MZ-N22-PRO-PRI;Meizu;Note 22;Cristal templado;Privacidad;4,00;;;
+MZ-N22-FUN-SIL;Meizu;Note 22;Funda;Silicona;2,50;;;
+MZ-N22-FUN-TPU;Meizu;Note 22;Funda;Transparente;2,95;;;
+MZ-N22-FUN-LIB;Meizu;Note 22;Funda;Libro;3,70;;;
+MZ-N22-FUN-ANT;Meizu;Note 22;Funda;Antigolpes;3,10;;;
+MZ-N22-PCA-NA;Meizu;Note 22;Protector de cámara;Cristal;2,90;;;
+MZ-N225-PRO-NA;Meizu;Note 22 5G;Cristal templado;Estándar;1,30;;;
+MZ-N225-PRO-PRI;Meizu;Note 22 5G;Cristal templado;Privacidad;4,00;;;
+MZ-N225-FUN-SIL;Meizu;Note 22 5G;Funda;Silicona;2,50;;;
+MZ-N225-FUN-TPU;Meizu;Note 22 5G;Funda;Transparente;2,95;;;
+MZ-N225-FUN-LIB;Meizu;Note 22 5G;Funda;Libro;3,70;;;
+MZ-N225-FUN-ANT;Meizu;Note 22 5G;Funda;Antigolpes;3,10;;;
+MZ-N225-PCA-NA;Meizu;Note 22 5G;Protector de cámara;Cristal;2,90;;;
+MZ-N22P5-PRO-NA;Meizu;Note 22 Pro 5G;Cristal templado;Estándar;1,30;;;
+MZ-N22P5-PRO-PRI;Meizu;Note 22 Pro 5G;Cristal templado;Privacidad;4,00;;;
+MZ-N22P5-FUN-SIL;Meizu;Note 22 Pro 5G;Funda;Silicona;2,50;;;
+MZ-N22P5-FUN-TPU;Meizu;Note 22 Pro 5G;Funda;Transparente;2,95;;;
+MZ-N22P5-FUN-LIB;Meizu;Note 22 Pro 5G;Funda;Libro;3,70;;;
+MZ-N22P5-FUN-ANT;Meizu;Note 22 Pro 5G;Funda;Antigolpes;3,10;;;
+MZ-N22P5-PCA-NA;Meizu;Note 22 Pro 5G;Protector de cámara;Cristal;2,90;;;
+MZ-20I-MAR-COM;Meizu;20 Infinity;Marco / chasis;Compatible;8,20;;;6
+MZ-20I-BOT-COM;Meizu;20 Infinity;Botones laterales;Compatible;4,20;;;6
+MZ-20I-CRI-COM;Meizu;20 Infinity;Cristal de pantalla;Compatible;4,20;;;6
+MZ-20I-ANT-COM;Meizu;20 Infinity;Antena / coaxial;Compatible;3,65;;;6
+MZ-20I-HUE-COM;Meizu;20 Infinity;Botón home / huella;Compatible;6,05;;;6
+MZ-18S-MAR-COM;Meizu;18s;Marco / chasis;Compatible;8,20;;;6
+MZ-18S-BOT-COM;Meizu;18s;Botones laterales;Compatible;4,20;;;6
+MZ-18S-CRI-COM;Meizu;18s;Cristal de pantalla;Compatible;4,20;;;6
+MZ-18S-ANT-COM;Meizu;18s;Antena / coaxial;Compatible;3,65;;;6
+MZ-18S-HUE-COM;Meizu;18s;Botón home / huella;Compatible;6,05;;;6
+MZ-18SP-MAR-COM;Meizu;18s Pro;Marco / chasis;Compatible;8,20;;;6
+MZ-18SP-BOT-COM;Meizu;18s Pro;Botones laterales;Compatible;4,20;;;6
+MZ-18SP-CRI-COM;Meizu;18s Pro;Cristal de pantalla;Compatible;4,20;;;6
+MZ-18SP-ANT-COM;Meizu;18s Pro;Antena / coaxial;Compatible;3,65;;;6
+MZ-18SP-HUE-COM;Meizu;18s Pro;Botón home / huella;Compatible;6,05;;;6
+MZ-18X-MAR-COM;Meizu;18X;Marco / chasis;Compatible;8,20;;;6
+MZ-18X-BOT-COM;Meizu;18X;Botones laterales;Compatible;4,20;;;6
+MZ-18X-CRI-COM;Meizu;18X;Cristal de pantalla;Compatible;4,20;;;6
+MZ-18X-ANT-COM;Meizu;18X;Antena / coaxial;Compatible;3,65;;;6
+MZ-18X-HUE-COM;Meizu;18X;Botón home / huella;Compatible;6,05;;;6
+MZ-18-MAR-COM;Meizu;18;Marco / chasis;Compatible;8,20;;;6
+MZ-18-BOT-COM;Meizu;18;Botones laterales;Compatible;4,20;;;6
+MZ-18-CRI-COM;Meizu;18;Cristal de pantalla;Compatible;4,20;;;6
+MZ-18-ANT-COM;Meizu;18;Antena / coaxial;Compatible;3,65;;;6
+MZ-18-HUE-COM;Meizu;18;Botón home / huella;Compatible;6,05;;;6
+MZ-18P-MAR-COM;Meizu;18 Pro;Marco / chasis;Compatible;8,20;;;6
+MZ-18P-BOT-COM;Meizu;18 Pro;Botones laterales;Compatible;4,20;;;6
+MZ-18P-CRI-COM;Meizu;18 Pro;Cristal de pantalla;Compatible;4,20;;;6
+MZ-18P-ANT-COM;Meizu;18 Pro;Antena / coaxial;Compatible;3,65;;;6
+MZ-18P-HUE-COM;Meizu;18 Pro;Botón home / huella;Compatible;6,05;;;6
+MZ-16T-MAR-COM;Meizu;16T;Marco / chasis;Compatible;7,40;;;6
+MZ-16T-BOT-COM;Meizu;16T;Botones laterales;Compatible;3,80;;;6
+MZ-16T-CRI-COM;Meizu;16T;Cristal de pantalla;Compatible;3,79;;;6
+MZ-16T-ANT-COM;Meizu;16T;Antena / coaxial;Compatible;3,29;;;6
+MZ-16T-HUE-COM;Meizu;16T;Botón home / huella;Compatible;5,45;;;6
+MZ-16SP-MAR-COM;Meizu;16s Pro;Marco / chasis;Compatible;7,40;;;6
+MZ-16SP-BOT-COM;Meizu;16s Pro;Botones laterales;Compatible;3,80;;;6
+MZ-16SP-CRI-COM;Meizu;16s Pro;Cristal de pantalla;Compatible;3,79;;;6
+MZ-16SP-ANT-COM;Meizu;16s Pro;Antena / coaxial;Compatible;3,29;;;6
+MZ-16SP-HUE-COM;Meizu;16s Pro;Botón home / huella;Compatible;5,45;;;6
+MZ-16THPL-MAR-COM;Meizu;16th Plus;Marco / chasis;Compatible;7,40;;;6
+MZ-16THPL-BOT-COM;Meizu;16th Plus;Botones laterales;Compatible;3,80;;;6
+MZ-16THPL-CRI-COM;Meizu;16th Plus;Cristal de pantalla;Compatible;3,79;;;6
+MZ-16THPL-ANT-COM;Meizu;16th Plus;Antena / coaxial;Compatible;3,29;;;6
+MZ-16THPL-HUE-COM;Meizu;16th Plus;Botón home / huella;Compatible;5,45;;;6
+MZ-M8C-MAR-COM;Meizu;M8c;Marco / chasis;Compatible;5,65;;;6
+MZ-M8C-BOT-COM;Meizu;M8c;Botones laterales;Compatible;2,89;;;6
+MZ-M8C-CRI-COM;Meizu;M8c;Cristal de pantalla;Compatible;2,89;;;6
+MZ-M8C-ANT-COM;Meizu;M8c;Antena / coaxial;Compatible;2,50;;;6
+MZ-M8C-HUE-COM;Meizu;M8c;Botón home / huella;Compatible;4,15;;;6
+MZ-15P-MAR-COM;Meizu;15 Pro;Marco / chasis;Compatible;7,40;;;6
+MZ-15P-BOT-COM;Meizu;15 Pro;Botones laterales;Compatible;3,80;;;6
+MZ-15P-CRI-COM;Meizu;15 Pro;Cristal de pantalla;Compatible;3,79;;;6
+MZ-15P-ANT-COM;Meizu;15 Pro;Antena / coaxial;Compatible;3,29;;;6
+MZ-15P-HUE-COM;Meizu;15 Pro;Botón home / huella;Compatible;5,45;;;6
+MZ-E3-MAR-COM;Meizu;E3;Marco / chasis;Compatible;5,65;;;6
+MZ-E3-BOT-COM;Meizu;E3;Botones laterales;Compatible;2,89;;;6
+MZ-E3-CRI-COM;Meizu;E3;Cristal de pantalla;Compatible;2,89;;;6
+MZ-E3-ANT-COM;Meizu;E3;Antena / coaxial;Compatible;2,50;;;6
+MZ-E3-HUE-COM;Meizu;E3;Botón home / huella;Compatible;4,15;;;6
+MZ-E2-MAR-COM;Meizu;E2;Marco / chasis;Compatible;5,65;;;6
+MZ-E2-BOT-COM;Meizu;E2;Botones laterales;Compatible;2,89;;;6
+MZ-E2-CRI-COM;Meizu;E2;Cristal de pantalla;Compatible;2,89;;;6
+MZ-E2-ANT-COM;Meizu;E2;Antena / coaxial;Compatible;2,50;;;6
+MZ-E2-HUE-COM;Meizu;E2;Botón home / huella;Compatible;4,15;;;6
+MZ-M3X-MAR-COM;Meizu;M3x;Marco / chasis;Compatible;5,00;;;6
+MZ-M3X-BOT-COM;Meizu;M3x;Botones laterales;Compatible;2,55;;;6
+MZ-M3X-CRI-COM;Meizu;M3x;Cristal de pantalla;Compatible;2,55;;;6
+MZ-M3X-ANT-COM;Meizu;M3x;Antena / coaxial;Compatible;2,25;;;6
+MZ-M3X-HUE-COM;Meizu;M3x;Botón home / huella;Compatible;3,70;;;6
+MZ-P6S-MAR-COM;Meizu;PRO 6s;Marco / chasis;Compatible;6,59;;;6
+MZ-P6S-BOT-COM;Meizu;PRO 6s;Botones laterales;Compatible;3,39;;;6
+MZ-P6S-CRI-COM;Meizu;PRO 6s;Cristal de pantalla;Compatible;3,35;;;6
+MZ-P6S-ANT-COM;Meizu;PRO 6s;Antena / coaxial;Compatible;2,90;;;6
+MZ-P6S-HUE-COM;Meizu;PRO 6s;Botón home / huella;Compatible;4,85;;;6
+MZ-M3-MAR-COM;Meizu;M3;Marco / chasis;Compatible;5,00;;;6
+MZ-M3-BOT-COM;Meizu;M3;Botones laterales;Compatible;2,55;;;6
+MZ-M3-CRI-COM;Meizu;M3;Cristal de pantalla;Compatible;2,55;;;6
+MZ-M3-ANT-COM;Meizu;M3;Antena / coaxial;Compatible;2,25;;;6
+MZ-M3-HUE-COM;Meizu;M3;Botón home / huella;Compatible;3,70;;;6
+MZ-MX5E-MAR-COM;Meizu;MX5e;Marco / chasis;Compatible;5,00;;;6
+MZ-MX5E-BOT-COM;Meizu;MX5e;Botones laterales;Compatible;2,55;;;6
+MZ-MX5E-CRI-COM;Meizu;MX5e;Cristal de pantalla;Compatible;2,55;;;6
+MZ-MX5E-ANT-COM;Meizu;MX5e;Antena / coaxial;Compatible;2,25;;;6
+MZ-MX5E-HUE-COM;Meizu;MX5e;Botón home / huella;Compatible;3,70;;;6
+MZ-M1M-MAR-COM;Meizu;M1 Metal;Marco / chasis;Compatible;5,00;;;6
+MZ-M1M-BOT-COM;Meizu;M1 Metal;Botones laterales;Compatible;2,55;;;6
+MZ-M1M-CRI-COM;Meizu;M1 Metal;Cristal de pantalla;Compatible;2,55;;;6
+MZ-M1M-ANT-COM;Meizu;M1 Metal;Antena / coaxial;Compatible;2,25;;;6
+MZ-MX4UE-MAR-COM;Meizu;MX4 Ubuntu Edition;Marco / chasis;Compatible;5,00;;;6
+MZ-MX4UE-BOT-COM;Meizu;MX4 Ubuntu Edition;Botones laterales;Compatible;2,55;;;6
+MZ-MX4UE-CRI-COM;Meizu;MX4 Ubuntu Edition;Cristal de pantalla;Compatible;2,55;;;6
+MZ-MX4UE-ANT-COM;Meizu;MX4 Ubuntu Edition;Antena / coaxial;Compatible;2,25;;;6
+MZ-M1-MAR-COM;Meizu;M1;Marco / chasis;Compatible;5,00;;;6
+MZ-M1-BOT-COM;Meizu;M1;Botones laterales;Compatible;2,55;;;6
+MZ-M1-CRI-COM;Meizu;M1;Cristal de pantalla;Compatible;2,55;;;6
+MZ-M1-ANT-COM;Meizu;M1;Antena / coaxial;Compatible;2,25;;;6
+MZ-M1N-MAR-COM;Meizu;M1 Note;Marco / chasis;Compatible;5,75;;;6
+MZ-M1N-BOT-COM;Meizu;M1 Note;Botones laterales;Compatible;2,95;;;6
+MZ-M1N-ANT-COM;Meizu;M1 Note;Antena / coaxial;Compatible;2,55;;;6
+MZ-MX4P-MAR-COM;Meizu;MX4 Pro;Marco / chasis;Compatible;6,59;;;6
+MZ-MX4P-BOT-COM;Meizu;MX4 Pro;Botones laterales;Compatible;3,39;;;6
+MZ-MX4P-ANT-COM;Meizu;MX4 Pro;Antena / coaxial;Compatible;2,90;;;6
+MZ-MX4-MAR-COM;Meizu;MX4;Marco / chasis;Compatible;5,00;;;6
+MZ-MX4-BOT-COM;Meizu;MX4;Botones laterales;Compatible;2,55;;;6
+MZ-MX4-ANT-COM;Meizu;MX4;Antena / coaxial;Compatible;2,25;;;6
+MZ-MX3-MAR-COM;Meizu;MX3;Marco / chasis;Compatible;5,00;;;6
+MZ-MX3-BOT-COM;Meizu;MX3;Botones laterales;Compatible;2,55;;;6
+MZ-MX3-ANT-COM;Meizu;MX3;Antena / coaxial;Compatible;2,25;;;6
+MZ-MX2-ANT-COM;Meizu;MX2;Antena / coaxial;Compatible;2,25;;;6
+MZ-MX4C-ANT-COM;Meizu;MX 4-core;Antena / coaxial;Compatible;2,25;;;6
+MZ-MX-ANT-COM;Meizu;MX;Antena / coaxial;Compatible;2,25;;;6
+MZ-M2N-MAR-COM;Meizu;M2 Note;Marco / chasis;Compatible;5,75;;;6
+MZ-M2N-BOT-COM;Meizu;M2 Note;Botones laterales;Compatible;2,95;;;6
+MZ-M2N-CRI-COM;Meizu;M2 Note;Cristal de pantalla;Compatible;2,95;;;6
+MZ-M2N-ANT-COM;Meizu;M2 Note;Antena / coaxial;Compatible;2,55;;;6
+MZ-MX5-MAR-COM;Meizu;MX5;Marco / chasis;Compatible;5,00;;;6
+MZ-MX5-BOT-COM;Meizu;MX5;Botones laterales;Compatible;2,55;;;6
+MZ-MX5-CRI-COM;Meizu;MX5;Cristal de pantalla;Compatible;2,55;;;6
+MZ-MX5-ANT-COM;Meizu;MX5;Antena / coaxial;Compatible;2,25;;;6
+MZ-M2-MAR-COM;Meizu;M2;Marco / chasis;Compatible;5,00;;;6
+MZ-M2-BOT-COM;Meizu;M2;Botones laterales;Compatible;2,55;;;6
+MZ-M2-CRI-COM;Meizu;M2;Cristal de pantalla;Compatible;2,55;;;6
+MZ-M2-ANT-COM;Meizu;M2;Antena / coaxial;Compatible;2,25;;;6
+MZ-P5-MAR-COM;Meizu;Pro 5;Marco / chasis;Compatible;6,59;;;6
+MZ-P5-BOT-COM;Meizu;Pro 5;Botones laterales;Compatible;3,39;;;6
+MZ-P5-CRI-COM;Meizu;Pro 5;Cristal de pantalla;Compatible;3,35;;;6
+MZ-P5-ANT-COM;Meizu;Pro 5;Antena / coaxial;Compatible;2,90;;;6
+MZ-M3N-MAR-COM;Meizu;M3 Note;Marco / chasis;Compatible;5,75;;;6
+MZ-M3N-BOT-COM;Meizu;M3 Note;Botones laterales;Compatible;2,95;;;6
+MZ-M3N-CRI-COM;Meizu;M3 Note;Cristal de pantalla;Compatible;2,95;;;6
+MZ-M3N-ANT-COM;Meizu;M3 Note;Antena / coaxial;Compatible;2,55;;;6
+MZ-M3N-HUE-COM;Meizu;M3 Note;Botón home / huella;Compatible;4,25;;;6
+MZ-P6-MAR-COM;Meizu;Pro 6;Marco / chasis;Compatible;6,59;;;6
+MZ-P6-BOT-COM;Meizu;Pro 6;Botones laterales;Compatible;3,39;;;6
+MZ-P6-CRI-COM;Meizu;Pro 6;Cristal de pantalla;Compatible;3,35;;;6
+MZ-P6-ANT-COM;Meizu;Pro 6;Antena / coaxial;Compatible;2,90;;;6
+MZ-P6-HUE-COM;Meizu;Pro 6;Botón home / huella;Compatible;4,85;;;6
+MZ-M3S-MAR-COM;Meizu;M3s;Marco / chasis;Compatible;5,00;;;6
+MZ-M3S-BOT-COM;Meizu;M3s;Botones laterales;Compatible;2,55;;;6
+MZ-M3S-CRI-COM;Meizu;M3s;Cristal de pantalla;Compatible;2,55;;;6
+MZ-M3S-ANT-COM;Meizu;M3s;Antena / coaxial;Compatible;2,25;;;6
+MZ-M3S-HUE-COM;Meizu;M3s;Botón home / huella;Compatible;3,70;;;6
+MZ-MX6-MAR-COM;Meizu;MX6;Marco / chasis;Compatible;5,00;;;6
+MZ-MX6-BOT-COM;Meizu;MX6;Botones laterales;Compatible;2,55;;;6
+MZ-MX6-CRI-COM;Meizu;MX6;Cristal de pantalla;Compatible;2,55;;;6
+MZ-MX6-ANT-COM;Meizu;MX6;Antena / coaxial;Compatible;2,25;;;6
+MZ-MX6-HUE-COM;Meizu;MX6;Botón home / huella;Compatible;3,70;;;6
+MZ-M3E-MAR-COM;Meizu;M3E;Marco / chasis;Compatible;5,00;;;6
+MZ-M3E-BOT-COM;Meizu;M3E;Botones laterales;Compatible;2,55;;;6
+MZ-M3E-CRI-COM;Meizu;M3E;Cristal de pantalla;Compatible;2,55;;;6
+MZ-M3E-ANT-COM;Meizu;M3E;Antena / coaxial;Compatible;2,25;;;6
+MZ-M3E-HUE-COM;Meizu;M3E;Botón home / huella;Compatible;3,70;;;6
+MZ-U10-MAR-COM;Meizu;U10;Marco / chasis;Compatible;5,00;;;6
+MZ-U10-BOT-COM;Meizu;U10;Botones laterales;Compatible;2,55;;;6
+MZ-U10-CRI-COM;Meizu;U10;Cristal de pantalla;Compatible;2,55;;;6
+MZ-U10-ANT-COM;Meizu;U10;Antena / coaxial;Compatible;2,25;;;6
+MZ-U10-HUE-COM;Meizu;U10;Botón home / huella;Compatible;3,70;;;6
+MZ-U20-MAR-COM;Meizu;U20;Marco / chasis;Compatible;5,00;;;6
+MZ-U20-BOT-COM;Meizu;U20;Botones laterales;Compatible;2,55;;;6
+MZ-U20-CRI-COM;Meizu;U20;Cristal de pantalla;Compatible;2,55;;;6
+MZ-U20-ANT-COM;Meizu;U20;Antena / coaxial;Compatible;2,25;;;6
+MZ-U20-HUE-COM;Meizu;U20;Botón home / huella;Compatible;3,70;;;6
+MZ-M3M-MAR-COM;Meizu;M3 Max;Marco / chasis;Compatible;5,00;;;6
+MZ-M3M-BOT-COM;Meizu;M3 Max;Botones laterales;Compatible;2,55;;;6
+MZ-M3M-CRI-COM;Meizu;M3 Max;Cristal de pantalla;Compatible;2,55;;;6
+MZ-M3M-ANT-COM;Meizu;M3 Max;Antena / coaxial;Compatible;2,25;;;6
+MZ-M3M-HUE-COM;Meizu;M3 Max;Botón home / huella;Compatible;3,70;;;6
+MZ-M5-MAR-COM;Meizu;M5;Marco / chasis;Compatible;5,00;;;6
+MZ-M5-BOT-COM;Meizu;M5;Botones laterales;Compatible;2,55;;;6
+MZ-M5-CRI-COM;Meizu;M5;Cristal de pantalla;Compatible;2,55;;;6
+MZ-M5-ANT-COM;Meizu;M5;Antena / coaxial;Compatible;2,25;;;6
+MZ-M5-HUE-COM;Meizu;M5;Botón home / huella;Compatible;3,70;;;6
+MZ-P6PL-MAR-COM;Meizu;Pro 6 Plus;Marco / chasis;Compatible;6,59;;;6
+MZ-P6PL-BOT-COM;Meizu;Pro 6 Plus;Botones laterales;Compatible;3,39;;;6
+MZ-P6PL-CRI-COM;Meizu;Pro 6 Plus;Cristal de pantalla;Compatible;3,35;;;6
+MZ-P6PL-ANT-COM;Meizu;Pro 6 Plus;Antena / coaxial;Compatible;2,90;;;6
+MZ-P6PL-HUE-COM;Meizu;Pro 6 Plus;Botón home / huella;Compatible;4,85;;;6
+MZ-M5N-MAR-COM;Meizu;M5 Note;Marco / chasis;Compatible;5,75;;;6
+MZ-M5N-BOT-COM;Meizu;M5 Note;Botones laterales;Compatible;2,95;;;6
+MZ-M5N-CRI-COM;Meizu;M5 Note;Cristal de pantalla;Compatible;2,95;;;6
+MZ-M5N-ANT-COM;Meizu;M5 Note;Antena / coaxial;Compatible;2,55;;;6
+MZ-M5N-HUE-COM;Meizu;M5 Note;Botón home / huella;Compatible;4,25;;;6
+MZ-M5S-MAR-COM;Meizu;M5s;Marco / chasis;Compatible;5,65;;;6
+MZ-M5S-BOT-COM;Meizu;M5s;Botones laterales;Compatible;2,89;;;6
+MZ-M5S-CRI-COM;Meizu;M5s;Cristal de pantalla;Compatible;2,89;;;6
+MZ-M5S-ANT-COM;Meizu;M5s;Antena / coaxial;Compatible;2,50;;;6
+MZ-M5S-HUE-COM;Meizu;M5s;Botón home / huella;Compatible;4,15;;;6
+MZ-M5C-MAR-COM;Meizu;M5c;Marco / chasis;Compatible;5,65;;;6
+MZ-M5C-BOT-COM;Meizu;M5c;Botones laterales;Compatible;2,89;;;6
+MZ-M5C-CRI-COM;Meizu;M5c;Cristal de pantalla;Compatible;2,89;;;6
+MZ-M5C-ANT-COM;Meizu;M5c;Antena / coaxial;Compatible;2,50;;;6
+MZ-M5C-HUE-COM;Meizu;M5c;Botón home / huella;Compatible;4,15;;;6
+MZ-P7-MAR-COM;Meizu;Pro 7;Marco / chasis;Compatible;7,40;;;6
+MZ-P7-BOT-COM;Meizu;Pro 7;Botones laterales;Compatible;3,80;;;6
+MZ-P7-CRI-COM;Meizu;Pro 7;Cristal de pantalla;Compatible;3,79;;;6
+MZ-P7-ANT-COM;Meizu;Pro 7;Antena / coaxial;Compatible;3,29;;;6
+MZ-P7-HUE-COM;Meizu;Pro 7;Botón home / huella;Compatible;5,45;;;6
+MZ-P7PL-MAR-COM;Meizu;Pro 7 Plus;Marco / chasis;Compatible;7,40;;;6
+MZ-P7PL-BOT-COM;Meizu;Pro 7 Plus;Botones laterales;Compatible;3,80;;;6
+MZ-P7PL-CRI-COM;Meizu;Pro 7 Plus;Cristal de pantalla;Compatible;3,79;;;6
+MZ-P7PL-ANT-COM;Meizu;Pro 7 Plus;Antena / coaxial;Compatible;3,29;;;6
+MZ-P7PL-HUE-COM;Meizu;Pro 7 Plus;Botón home / huella;Compatible;5,45;;;6
+MZ-M6-MAR-COM;Meizu;M6;Marco / chasis;Compatible;5,65;;;6
+MZ-M6-BOT-COM;Meizu;M6;Botones laterales;Compatible;2,89;;;6
+MZ-M6-CRI-COM;Meizu;M6;Cristal de pantalla;Compatible;2,89;;;6
+MZ-M6-ANT-COM;Meizu;M6;Antena / coaxial;Compatible;2,50;;;6
+MZ-M6-HUE-COM;Meizu;M6;Botón home / huella;Compatible;4,15;;;6
+MZ-M6N-MAR-COM;Meizu;M6 Note;Marco / chasis;Compatible;6,49;;;6
+MZ-M6N-BOT-COM;Meizu;M6 Note;Botones laterales;Compatible;3,35;;;6
+MZ-M6N-CRI-COM;Meizu;M6 Note;Cristal de pantalla;Compatible;3,30;;;6
+MZ-M6N-ANT-COM;Meizu;M6 Note;Antena / coaxial;Compatible;2,89;;;6
+MZ-M6N-HUE-COM;Meizu;M6 Note;Botón home / huella;Compatible;4,79;;;6
+MZ-M6S-MAR-COM;Meizu;M6s;Marco / chasis;Compatible;5,65;;;6
+MZ-M6S-BOT-COM;Meizu;M6s;Botones laterales;Compatible;2,89;;;6
+MZ-M6S-CRI-COM;Meizu;M6s;Cristal de pantalla;Compatible;2,89;;;6
+MZ-M6S-ANT-COM;Meizu;M6s;Antena / coaxial;Compatible;2,50;;;6
+MZ-M6S-HUE-COM;Meizu;M6s;Botón home / huella;Compatible;4,15;;;6
+MZ-15-MAR-COM;Meizu;15;Marco / chasis;Compatible;7,40;;;6
+MZ-15-BOT-COM;Meizu;15;Botones laterales;Compatible;3,80;;;6
+MZ-15-CRI-COM;Meizu;15;Cristal de pantalla;Compatible;3,79;;;6
+MZ-15-ANT-COM;Meizu;15;Antena / coaxial;Compatible;3,29;;;6
+MZ-15-HUE-COM;Meizu;15;Botón home / huella;Compatible;5,45;;;6
+MZ-15L-MAR-COM;Meizu;15 Lite;Marco / chasis;Compatible;7,40;;;6
+MZ-15L-BOT-COM;Meizu;15 Lite;Botones laterales;Compatible;3,80;;;6
+MZ-15L-CRI-COM;Meizu;15 Lite;Cristal de pantalla;Compatible;3,79;;;6
+MZ-15L-ANT-COM;Meizu;15 Lite;Antena / coaxial;Compatible;3,29;;;6
+MZ-15L-HUE-COM;Meizu;15 Lite;Botón home / huella;Compatible;5,45;;;6
+MZ-15PL-MAR-COM;Meizu;15 Plus;Marco / chasis;Compatible;7,40;;;6
+MZ-15PL-BOT-COM;Meizu;15 Plus;Botones laterales;Compatible;3,80;;;6
+MZ-15PL-CRI-COM;Meizu;15 Plus;Cristal de pantalla;Compatible;3,79;;;6
+MZ-15PL-ANT-COM;Meizu;15 Plus;Antena / coaxial;Compatible;3,29;;;6
+MZ-15PL-HUE-COM;Meizu;15 Plus;Botón home / huella;Compatible;5,45;;;6
+MZ-M6T-MAR-COM;Meizu;M6T;Marco / chasis;Compatible;5,65;;;6
+MZ-M6T-BOT-COM;Meizu;M6T;Botones laterales;Compatible;2,89;;;6
+MZ-M6T-CRI-COM;Meizu;M6T;Cristal de pantalla;Compatible;2,89;;;6
+MZ-M6T-ANT-COM;Meizu;M6T;Antena / coaxial;Compatible;2,50;;;6
+MZ-M6T-HUE-COM;Meizu;M6T;Botón home / huella;Compatible;4,15;;;6
+MZ-16TH-MAR-COM;Meizu;16th;Marco / chasis;Compatible;7,40;;;6
+MZ-16TH-BOT-COM;Meizu;16th;Botones laterales;Compatible;3,80;;;6
+MZ-16TH-CRI-COM;Meizu;16th;Cristal de pantalla;Compatible;3,79;;;6
+MZ-16TH-ANT-COM;Meizu;16th;Antena / coaxial;Compatible;3,29;;;6
+MZ-16TH-HUE-COM;Meizu;16th;Botón home / huella;Compatible;5,45;;;6
+MZ-16X-MAR-COM;Meizu;16X;Marco / chasis;Compatible;7,40;;;6
+MZ-16X-BOT-COM;Meizu;16X;Botones laterales;Compatible;3,80;;;6
+MZ-16X-CRI-COM;Meizu;16X;Cristal de pantalla;Compatible;3,79;;;6
+MZ-16X-ANT-COM;Meizu;16X;Antena / coaxial;Compatible;3,29;;;6
+MZ-16X-HUE-COM;Meizu;16X;Botón home / huella;Compatible;5,45;;;6
+MZ-V8-MAR-COM;Meizu;V8;Marco / chasis;Compatible;5,65;;;6
+MZ-V8-BOT-COM;Meizu;V8;Botones laterales;Compatible;2,89;;;6
+MZ-V8-CRI-COM;Meizu;V8;Cristal de pantalla;Compatible;2,89;;;6
+MZ-V8-ANT-COM;Meizu;V8;Antena / coaxial;Compatible;2,50;;;6
+MZ-V8-HUE-COM;Meizu;V8;Botón home / huella;Compatible;4,15;;;6
+MZ-V8P-MAR-COM;Meizu;V8 Pro;Marco / chasis;Compatible;7,40;;;6
+MZ-V8P-BOT-COM;Meizu;V8 Pro;Botones laterales;Compatible;3,80;;;6
+MZ-V8P-CRI-COM;Meizu;V8 Pro;Cristal de pantalla;Compatible;3,79;;;6
+MZ-V8P-ANT-COM;Meizu;V8 Pro;Antena / coaxial;Compatible;3,29;;;6
+MZ-V8P-HUE-COM;Meizu;V8 Pro;Botón home / huella;Compatible;5,45;;;6
+MZ-X8-MAR-COM;Meizu;X8;Marco / chasis;Compatible;5,65;;;6
+MZ-X8-BOT-COM;Meizu;X8;Botones laterales;Compatible;2,89;;;6
+MZ-X8-CRI-COM;Meizu;X8;Cristal de pantalla;Compatible;2,89;;;6
+MZ-X8-ANT-COM;Meizu;X8;Antena / coaxial;Compatible;2,50;;;6
+MZ-X8-HUE-COM;Meizu;X8;Botón home / huella;Compatible;4,15;;;6
+MZ-N8-MAR-COM;Meizu;Note 8;Marco / chasis;Compatible;6,49;;;6
+MZ-N8-BOT-COM;Meizu;Note 8;Botones laterales;Compatible;3,35;;;6
+MZ-N8-CRI-COM;Meizu;Note 8;Cristal de pantalla;Compatible;3,30;;;6
+MZ-N8-ANT-COM;Meizu;Note 8;Antena / coaxial;Compatible;2,89;;;6
+MZ-N8-HUE-COM;Meizu;Note 8;Botón home / huella;Compatible;4,79;;;6
+MZ-C9-MAR-COM;Meizu;C9;Marco / chasis;Compatible;5,65;;;6
+MZ-C9-BOT-COM;Meizu;C9;Botones laterales;Compatible;2,89;;;6
+MZ-C9-CRI-COM;Meizu;C9;Cristal de pantalla;Compatible;2,89;;;6
+MZ-C9-ANT-COM;Meizu;C9;Antena / coaxial;Compatible;2,50;;;6
+MZ-C9-HUE-COM;Meizu;C9;Botón home / huella;Compatible;4,15;;;6
+MZ-C9P-MAR-COM;Meizu;C9 Pro;Marco / chasis;Compatible;7,40;;;6
+MZ-C9P-BOT-COM;Meizu;C9 Pro;Botones laterales;Compatible;3,80;;;6
+MZ-C9P-CRI-COM;Meizu;C9 Pro;Cristal de pantalla;Compatible;3,79;;;6
+MZ-C9P-ANT-COM;Meizu;C9 Pro;Antena / coaxial;Compatible;3,29;;;6
+MZ-C9P-HUE-COM;Meizu;C9 Pro;Botón home / huella;Compatible;5,45;;;6
+MZ-N9-MAR-COM;Meizu;Note 9;Marco / chasis;Compatible;6,49;;;6
+MZ-N9-BOT-COM;Meizu;Note 9;Botones laterales;Compatible;3,35;;;6
+MZ-N9-CRI-COM;Meizu;Note 9;Cristal de pantalla;Compatible;3,30;;;6
+MZ-N9-ANT-COM;Meizu;Note 9;Antena / coaxial;Compatible;2,89;;;6
+MZ-N9-HUE-COM;Meizu;Note 9;Botón home / huella;Compatible;4,79;;;6
+MZ-16S-MAR-COM;Meizu;16s;Marco / chasis;Compatible;7,40;;;6
+MZ-16S-BOT-COM;Meizu;16s;Botones laterales;Compatible;3,80;;;6
+MZ-16S-CRI-COM;Meizu;16s;Cristal de pantalla;Compatible;3,79;;;6
+MZ-16S-ANT-COM;Meizu;16s;Antena / coaxial;Compatible;3,29;;;6
+MZ-16S-HUE-COM;Meizu;16s;Botón home / huella;Compatible;5,45;;;6
+MZ-16XS-MAR-COM;Meizu;16Xs;Marco / chasis;Compatible;7,40;;;6
+MZ-16XS-BOT-COM;Meizu;16Xs;Botones laterales;Compatible;3,80;;;6
+MZ-16XS-CRI-COM;Meizu;16Xs;Cristal de pantalla;Compatible;3,79;;;6
+MZ-16XS-ANT-COM;Meizu;16Xs;Antena / coaxial;Compatible;3,29;;;6
+MZ-16XS-HUE-COM;Meizu;16Xs;Botón home / huella;Compatible;5,45;;;6
+MZ-M10-MAR-COM;Meizu;M10;Marco / chasis;Compatible;5,65;;;6
+MZ-M10-BOT-COM;Meizu;M10;Botones laterales;Compatible;2,89;;;6
+MZ-M10-CRI-COM;Meizu;M10;Cristal de pantalla;Compatible;2,89;;;6
+MZ-M10-ANT-COM;Meizu;M10;Antena / coaxial;Compatible;2,50;;;6
+MZ-M10-HUE-COM;Meizu;M10;Botón home / huella;Compatible;4,15;;;6
+MZ-17-MAR-COM;Meizu;17;Marco / chasis;Compatible;8,20;;;6
+MZ-17-BOT-COM;Meizu;17;Botones laterales;Compatible;4,20;;;6
+MZ-17-CRI-COM;Meizu;17;Cristal de pantalla;Compatible;4,20;;;6
+MZ-17-ANT-COM;Meizu;17;Antena / coaxial;Compatible;3,65;;;6
+MZ-17-HUE-COM;Meizu;17;Botón home / huella;Compatible;6,05;;;6
+MZ-17P-MAR-COM;Meizu;17 Pro;Marco / chasis;Compatible;8,20;;;6
+MZ-17P-BOT-COM;Meizu;17 Pro;Botones laterales;Compatible;4,20;;;6
+MZ-17P-CRI-COM;Meizu;17 Pro;Cristal de pantalla;Compatible;4,20;;;6
+MZ-17P-ANT-COM;Meizu;17 Pro;Antena / coaxial;Compatible;3,65;;;6
+MZ-17P-HUE-COM;Meizu;17 Pro;Botón home / huella;Compatible;6,05;;;6
+MZ-21-MAR-COM;Meizu;21;Marco / chasis;Compatible;8,20;;;6
+MZ-21-BOT-COM;Meizu;21;Botones laterales;Compatible;4,20;;;6
+MZ-21-CRI-COM;Meizu;21;Cristal de pantalla;Compatible;4,20;;;6
+MZ-21-ANT-COM;Meizu;21;Antena / coaxial;Compatible;3,65;;;6
+MZ-21-HUE-COM;Meizu;21;Botón home / huella;Compatible;6,05;;;6
+MZ-M21-MAR-COM;Meizu;mblu 21;Marco / chasis;Compatible;6,89;;;6
+MZ-M21-BOT-COM;Meizu;mblu 21;Botones laterales;Compatible;3,55;;;6
+MZ-M21-CRI-COM;Meizu;mblu 21;Cristal de pantalla;Compatible;3,50;;;6
+MZ-M21-ANT-COM;Meizu;mblu 21;Antena / coaxial;Compatible;3,05;;;6
+MZ-M21-HUE-COM;Meizu;mblu 21;Botón home / huella;Compatible;5,09;;;6
+MZ-N21-MAR-COM;Meizu;Note 21;Marco / chasis;Compatible;7,90;;;6
+MZ-N21-BOT-COM;Meizu;Note 21;Botones laterales;Compatible;4,05;;;6
+MZ-N21-CRI-COM;Meizu;Note 21;Cristal de pantalla;Compatible;4,05;;;6
+MZ-N21-ANT-COM;Meizu;Note 21;Antena / coaxial;Compatible;3,50;;;6
+MZ-N21-HUE-COM;Meizu;Note 21;Botón home / huella;Compatible;5,85;;;6
+MZ-N21P-MAR-COM;Meizu;Note 21 Pro;Marco / chasis;Compatible;9,05;;;6
+MZ-N21P-BOT-COM;Meizu;Note 21 Pro;Botones laterales;Compatible;4,65;;;6
+MZ-N21P-CRI-COM;Meizu;Note 21 Pro;Cristal de pantalla;Compatible;4,60;;;6
+MZ-N21P-ANT-COM;Meizu;Note 21 Pro;Antena / coaxial;Compatible;4,00;;;6
+MZ-N21P-HUE-COM;Meizu;Note 21 Pro;Botón home / huella;Compatible;6,69;;;6
+MZ-21P-MAR-COM;Meizu;21 Pro;Marco / chasis;Compatible;9,05;;;6
+MZ-21P-BOT-COM;Meizu;21 Pro;Botones laterales;Compatible;4,65;;;6
+MZ-21P-CRI-COM;Meizu;21 Pro;Cristal de pantalla;Compatible;4,60;;;6
+MZ-21P-ANT-COM;Meizu;21 Pro;Antena / coaxial;Compatible;4,00;;;6
+MZ-21P-HUE-COM;Meizu;21 Pro;Botón home / huella;Compatible;6,69;;;6
+MZ-21N-MAR-COM;Meizu;21 Note;Marco / chasis;Compatible;9,05;;;6
+MZ-21N-BOT-COM;Meizu;21 Note;Botones laterales;Compatible;4,65;;;6
+MZ-21N-CRI-COM;Meizu;21 Note;Cristal de pantalla;Compatible;4,60;;;6
+MZ-21N-ANT-COM;Meizu;21 Note;Antena / coaxial;Compatible;4,00;;;6
+MZ-21N-HUE-COM;Meizu;21 Note;Botón home / huella;Compatible;6,69;;;6
+MZ-M22-MAR-COM;Meizu;mblu 22;Marco / chasis;Compatible;6,89;;;6
+MZ-M22-BOT-COM;Meizu;mblu 22;Botones laterales;Compatible;3,55;;;6
+MZ-M22-CRI-COM;Meizu;mblu 22;Cristal de pantalla;Compatible;3,50;;;6
+MZ-M22-ANT-COM;Meizu;mblu 22;Antena / coaxial;Compatible;3,05;;;6
+MZ-M22-HUE-COM;Meizu;mblu 22;Botón home / huella;Compatible;5,09;;;6
+MZ-M22P-MAR-COM;Meizu;mblu 22 Pro;Marco / chasis;Compatible;9,05;;;6
+MZ-M22P-BOT-COM;Meizu;mblu 22 Pro;Botones laterales;Compatible;4,65;;;6
+MZ-M22P-CRI-COM;Meizu;mblu 22 Pro;Cristal de pantalla;Compatible;4,60;;;6
+MZ-M22P-ANT-COM;Meizu;mblu 22 Pro;Antena / coaxial;Compatible;4,00;;;6
+MZ-M22P-HUE-COM;Meizu;mblu 22 Pro;Botón home / huella;Compatible;6,69;;;6
+MZ-N22-MAR-COM;Meizu;Note 22;Marco / chasis;Compatible;7,90;;;6
+MZ-N22-BOT-COM;Meizu;Note 22;Botones laterales;Compatible;4,05;;;6
+MZ-N22-CRI-COM;Meizu;Note 22;Cristal de pantalla;Compatible;4,05;;;6
+MZ-N22-ANT-COM;Meizu;Note 22;Antena / coaxial;Compatible;3,50;;;6
+MZ-N22-HUE-COM;Meizu;Note 22;Botón home / huella;Compatible;5,85;;;6
+MZ-N225-MAR-COM;Meizu;Note 22 5G;Marco / chasis;Compatible;7,90;;;6
+MZ-N225-BOT-COM;Meizu;Note 22 5G;Botones laterales;Compatible;4,05;;;6
+MZ-N225-CRI-COM;Meizu;Note 22 5G;Cristal de pantalla;Compatible;4,05;;;6
+MZ-N225-ANT-COM;Meizu;Note 22 5G;Antena / coaxial;Compatible;3,50;;;6
+MZ-N225-HUE-COM;Meizu;Note 22 5G;Botón home / huella;Compatible;5,85;;;6
+MZ-N22P5-MAR-COM;Meizu;Note 22 Pro 5G;Marco / chasis;Compatible;9,05;;;6
+MZ-N22P5-BOT-COM;Meizu;Note 22 Pro 5G;Botones laterales;Compatible;4,65;;;6
+MZ-N22P5-CRI-COM;Meizu;Note 22 Pro 5G;Cristal de pantalla;Compatible;4,60;;;6
+MZ-N22P5-ANT-COM;Meizu;Note 22 Pro 5G;Antena / coaxial;Compatible;4,00;;;6
+MZ-N22P5-HUE-COM;Meizu;Note 22 Pro 5G;Botón home / huella;Compatible;6,69;;;6

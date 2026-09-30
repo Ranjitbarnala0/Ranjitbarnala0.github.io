@@ -1,0 +1,23 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+WL-P-PAN-COM;Wileyfox;Pro;Pantalla;Compatible;15,15;14,70;14,24;6
+WL-P-BAT-COM;Wileyfox;Pro;Batería;Compatible;9,65;;;6
+WL-P-CON-COM;Wileyfox;Pro;Conector de carga;Compatible;4,60;;;6
+WL-P-TAP-COM;Wileyfox;Pro;Tapa trasera;Compatible;5,40;;;6
+WL-P-CTR-COM;Wileyfox;Pro;Cámara trasera;Compatible;7,59;;;6
+WL-P-CFR-COM;Wileyfox;Pro;Cámara frontal;Compatible;4,99;;;6
+WL-P-LEN-COM;Wileyfox;Pro;Lente de cámara;Compatible;2,19;;;6
+WL-P-ALT-COM;Wileyfox;Pro;Altavoz;Compatible;3,65;;;6
+WL-P-AUR-COM;Wileyfox;Pro;Auricular de llamada;Compatible;2,65;;;6
+WL-P-FLX-COM;Wileyfox;Pro;Flex de encendido y volumen;Compatible;2,49;;;6
+WL-P-SIM-COM;Wileyfox;Pro;Bandeja SIM;Compatible;2,55;;;6
+WL-P-PRO-NA;Wileyfox;Pro;Cristal templado;Estándar;1,30;;;
+WL-P-PRO-PRI;Wileyfox;Pro;Cristal templado;Privacidad;4,00;;;
+WL-P-FUN-SIL;Wileyfox;Pro;Funda;Silicona;2,50;;;
+WL-P-FUN-TPU;Wileyfox;Pro;Funda;Transparente;2,95;;;
+WL-P-FUN-LIB;Wileyfox;Pro;Funda;Libro;3,70;;;
+WL-P-FUN-ANT;Wileyfox;Pro;Funda;Antigolpes;3,10;;;
+WL-P-MAR-COM;Wileyfox;Pro;Marco / chasis;Compatible;6,49;;;6
+WL-P-BOT-COM;Wileyfox;Pro;Botones laterales;Compatible;3,35;;;6
+WL-P-CRI-COM;Wileyfox;Pro;Cristal de pantalla;Compatible;3,30;;;6
+WL-P-ANT-COM;Wileyfox;Pro;Antena / coaxial;Compatible;2,89;;;6
+WL-P-HUE-COM;Wileyfox;Pro;Botón home / huella;Compatible;4,79;;;6

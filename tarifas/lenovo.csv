@@ -1,0 +1,790 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+LE-LY70-PAN-COM;Lenovo;Legion Y70;Pantalla;Compatible;23,15;22,46;21,76;6
+LE-LY70-BAT-COM;Lenovo;Legion Y70;Batería;Compatible;8,50;;;6
+LE-LY70-CON-COM;Lenovo;Legion Y70;Conector de carga;Compatible;5,55;;;6
+LE-LY70-TAP-COM;Lenovo;Legion Y70;Tapa trasera;Compatible;6,89;;;6
+LE-LY70-CTR-COM;Lenovo;Legion Y70;Cámara trasera;Compatible;9,40;;;6
+LE-LY70-CFR-COM;Lenovo;Legion Y70;Cámara frontal;Compatible;4,85;;;6
+LE-LY70-LEN-COM;Lenovo;Legion Y70;Lente de cámara;Compatible;3,05;;;6
+LE-LY70-ALT-COM;Lenovo;Legion Y70;Altavoz;Compatible;4,25;;;6
+LE-LY70-AUR-COM;Lenovo;Legion Y70;Auricular de llamada;Compatible;3,25;;;6
+LE-LY70-FLX-COM;Lenovo;Legion Y70;Flex de encendido y volumen;Compatible;3,25;;;6
+LE-LY70-SIM-COM;Lenovo;Legion Y70;Bandeja SIM;Compatible;3,25;;;6
+LE-LY90-PAN-COM;Lenovo;Legion Y90;Pantalla;Compatible;23,15;22,46;21,76;6
+LE-LY90-BAT-COM;Lenovo;Legion Y90;Batería;Compatible;8,50;;;6
+LE-LY90-CON-COM;Lenovo;Legion Y90;Conector de carga;Compatible;5,55;;;6
+LE-LY90-TAP-COM;Lenovo;Legion Y90;Tapa trasera;Compatible;6,89;;;6
+LE-LY90-CTR-COM;Lenovo;Legion Y90;Cámara trasera;Compatible;9,40;;;6
+LE-LY90-CFR-COM;Lenovo;Legion Y90;Cámara frontal;Compatible;4,85;;;6
+LE-LY90-LEN-COM;Lenovo;Legion Y90;Lente de cámara;Compatible;3,05;;;6
+LE-LY90-ALT-COM;Lenovo;Legion Y90;Altavoz;Compatible;4,25;;;6
+LE-LY90-AUR-COM;Lenovo;Legion Y90;Auricular de llamada;Compatible;3,25;;;6
+LE-LY90-FLX-COM;Lenovo;Legion Y90;Flex de encendido y volumen;Compatible;3,25;;;6
+LE-LY90-SIM-COM;Lenovo;Legion Y90;Bandeja SIM;Compatible;3,25;;;6
+LE-L2P-PAN-COM;Lenovo;Legion 2 Pro;Pantalla;Compatible;23,15;22,46;21,76;6
+LE-L2P-BAT-COM;Lenovo;Legion 2 Pro;Batería;Compatible;8,50;;;6
+LE-L2P-CON-COM;Lenovo;Legion 2 Pro;Conector de carga;Compatible;5,55;;;6
+LE-L2P-TAP-COM;Lenovo;Legion 2 Pro;Tapa trasera;Compatible;6,89;;;6
+LE-L2P-CTR-COM;Lenovo;Legion 2 Pro;Cámara trasera;Compatible;9,40;;;6
+LE-L2P-CFR-COM;Lenovo;Legion 2 Pro;Cámara frontal;Compatible;4,85;;;6
+LE-L2P-LEN-COM;Lenovo;Legion 2 Pro;Lente de cámara;Compatible;3,05;;;6
+LE-L2P-ALT-COM;Lenovo;Legion 2 Pro;Altavoz;Compatible;4,25;;;6
+LE-L2P-AUR-COM;Lenovo;Legion 2 Pro;Auricular de llamada;Compatible;3,25;;;6
+LE-L2P-FLX-COM;Lenovo;Legion 2 Pro;Flex de encendido y volumen;Compatible;3,25;;;6
+LE-L2P-SIM-COM;Lenovo;Legion 2 Pro;Bandeja SIM;Compatible;3,25;;;6
+LE-LP-PAN-COM;Lenovo;Legion Pro;Pantalla;Compatible;23,15;22,46;21,76;6
+LE-LP-BAT-COM;Lenovo;Legion Pro;Batería;Compatible;8,50;;;6
+LE-LP-CON-COM;Lenovo;Legion Pro;Conector de carga;Compatible;5,55;;;6
+LE-LP-TAP-COM;Lenovo;Legion Pro;Tapa trasera;Compatible;6,89;;;6
+LE-LP-CTR-COM;Lenovo;Legion Pro;Cámara trasera;Compatible;9,40;;;6
+LE-LP-CFR-COM;Lenovo;Legion Pro;Cámara frontal;Compatible;4,85;;;6
+LE-LP-LEN-COM;Lenovo;Legion Pro;Lente de cámara;Compatible;3,05;;;6
+LE-LP-ALT-COM;Lenovo;Legion Pro;Altavoz;Compatible;4,25;;;6
+LE-LP-AUR-COM;Lenovo;Legion Pro;Auricular de llamada;Compatible;3,25;;;6
+LE-LP-FLX-COM;Lenovo;Legion Pro;Flex de encendido y volumen;Compatible;3,25;;;6
+LE-LP-SIM-COM;Lenovo;Legion Pro;Bandeja SIM;Compatible;3,25;;;6
+LE-Z6-PAN-INC;Lenovo;Z6;Pantalla;Incell;17,69;17,16;16,63;6
+LE-Z6-BAT-COM;Lenovo;Z6;Batería;Compatible;9,65;;;6
+LE-Z6-CON-COM;Lenovo;Z6;Conector de carga;Compatible;4,60;;;6
+LE-Z6-TAP-COM;Lenovo;Z6;Tapa trasera;Compatible;5,40;;;6
+LE-Z6-CTR-COM;Lenovo;Z6;Cámara trasera;Compatible;7,59;;;6
+LE-Z6-CFR-COM;Lenovo;Z6;Cámara frontal;Compatible;4,99;;;6
+LE-Z6-LEN-COM;Lenovo;Z6;Lente de cámara;Compatible;2,19;;;6
+LE-Z6-ALT-COM;Lenovo;Z6;Altavoz;Compatible;3,65;;;6
+LE-Z6-AUR-COM;Lenovo;Z6;Auricular de llamada;Compatible;2,65;;;6
+LE-Z6-FLX-COM;Lenovo;Z6;Flex de encendido y volumen;Compatible;2,49;;;6
+LE-Z6-SIM-COM;Lenovo;Z6;Bandeja SIM;Compatible;2,55;;;6
+LE-Z2PL-PAN-COM;Lenovo;Z2 Plus;Pantalla;Compatible;15,15;14,70;14,24;6
+LE-Z2PL-BAT-COM;Lenovo;Z2 Plus;Batería;Compatible;9,65;;;6
+LE-Z2PL-CON-COM;Lenovo;Z2 Plus;Conector de carga;Compatible;4,60;;;6
+LE-Z2PL-TAP-COM;Lenovo;Z2 Plus;Tapa trasera;Compatible;5,40;;;6
+LE-Z2PL-CTR-COM;Lenovo;Z2 Plus;Cámara trasera;Compatible;7,59;;;6
+LE-Z2PL-CFR-COM;Lenovo;Z2 Plus;Cámara frontal;Compatible;4,99;;;6
+LE-Z2PL-LEN-COM;Lenovo;Z2 Plus;Lente de cámara;Compatible;2,19;;;6
+LE-Z2PL-ALT-COM;Lenovo;Z2 Plus;Altavoz;Compatible;3,65;;;6
+LE-Z2PL-AUR-COM;Lenovo;Z2 Plus;Auricular de llamada;Compatible;2,65;;;6
+LE-Z2PL-FLX-COM;Lenovo;Z2 Plus;Flex de encendido y volumen;Compatible;2,49;;;6
+LE-Z2PL-SIM-COM;Lenovo;Z2 Plus;Bandeja SIM;Compatible;2,55;;;6
+LE-K6-PAN-COM;Lenovo;K6;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-K6-BAT-COM;Lenovo;K6;Batería;Compatible;8,90;;;6
+LE-K6-CON-COM;Lenovo;K6;Conector de carga;Compatible;3,70;;;6
+LE-K6-TAP-COM;Lenovo;K6;Tapa trasera;Compatible;4,80;;;6
+LE-K6-CTR-COM;Lenovo;K6;Cámara trasera;Compatible;6,65;;;6
+LE-K6-CFR-COM;Lenovo;K6;Cámara frontal;Compatible;4,65;;;6
+LE-K6-LEN-COM;Lenovo;K6;Lente de cámara;Compatible;2,25;;;6
+LE-K6-ALT-COM;Lenovo;K6;Altavoz;Compatible;3,59;;;6
+LE-K6-AUR-COM;Lenovo;K6;Auricular de llamada;Compatible;2,69;;;6
+LE-K6-FLX-COM;Lenovo;K6;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-K6-SIM-COM;Lenovo;K6;Bandeja SIM;Compatible;2,65;;;6
+LE-K6PW-PAN-COM;Lenovo;K6 Power;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-K6PW-BAT-COM;Lenovo;K6 Power;Batería;Compatible;8,90;;;6
+LE-K6PW-CON-COM;Lenovo;K6 Power;Conector de carga;Compatible;3,70;;;6
+LE-K6PW-TAP-COM;Lenovo;K6 Power;Tapa trasera;Compatible;4,80;;;6
+LE-K6PW-CTR-COM;Lenovo;K6 Power;Cámara trasera;Compatible;6,65;;;6
+LE-K6PW-CFR-COM;Lenovo;K6 Power;Cámara frontal;Compatible;4,65;;;6
+LE-K6PW-LEN-COM;Lenovo;K6 Power;Lente de cámara;Compatible;2,25;;;6
+LE-K6PW-ALT-COM;Lenovo;K6 Power;Altavoz;Compatible;3,59;;;6
+LE-K6PW-AUR-COM;Lenovo;K6 Power;Auricular de llamada;Compatible;2,69;;;6
+LE-K6PW-FLX-COM;Lenovo;K6 Power;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-K6PW-SIM-COM;Lenovo;K6 Power;Bandeja SIM;Compatible;2,65;;;6
+LE-P2PL-PAN-COM;Lenovo;Phab 2 Plus;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-P2PL-BAT-COM;Lenovo;Phab 2 Plus;Batería;Compatible;8,90;;;6
+LE-P2PL-CON-COM;Lenovo;Phab 2 Plus;Conector de carga;Compatible;3,70;;;6
+LE-P2PL-TAP-COM;Lenovo;Phab 2 Plus;Tapa trasera;Compatible;4,80;;;6
+LE-P2PL-CTR-COM;Lenovo;Phab 2 Plus;Cámara trasera;Compatible;6,65;;;6
+LE-P2PL-CFR-COM;Lenovo;Phab 2 Plus;Cámara frontal;Compatible;4,65;;;6
+LE-P2PL-LEN-COM;Lenovo;Phab 2 Plus;Lente de cámara;Compatible;2,25;;;6
+LE-P2PL-ALT-COM;Lenovo;Phab 2 Plus;Altavoz;Compatible;3,59;;;6
+LE-P2PL-AUR-COM;Lenovo;Phab 2 Plus;Auricular de llamada;Compatible;2,69;;;6
+LE-P2PL-FLX-COM;Lenovo;Phab 2 Plus;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-P2PL-SIM-COM;Lenovo;Phab 2 Plus;Bandeja SIM;Compatible;2,65;;;6
+LE-ZUKZ2-PAN-COM;Lenovo;ZUK Z2;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-ZUKZ2-BAT-COM;Lenovo;ZUK Z2;Batería;Compatible;8,90;;;6
+LE-ZUKZ2-CON-COM;Lenovo;ZUK Z2;Conector de carga;Compatible;3,70;;;6
+LE-ZUKZ2-TAP-COM;Lenovo;ZUK Z2;Tapa trasera;Compatible;4,80;;;6
+LE-ZUKZ2-CTR-COM;Lenovo;ZUK Z2;Cámara trasera;Compatible;6,65;;;6
+LE-ZUKZ2-CFR-COM;Lenovo;ZUK Z2;Cámara frontal;Compatible;4,65;;;6
+LE-ZUKZ2-LEN-COM;Lenovo;ZUK Z2;Lente de cámara;Compatible;2,25;;;6
+LE-ZUKZ2-ALT-COM;Lenovo;ZUK Z2;Altavoz;Compatible;3,59;;;6
+LE-ZUKZ2-AUR-COM;Lenovo;ZUK Z2;Auricular de llamada;Compatible;2,69;;;6
+LE-ZUKZ2-FLX-COM;Lenovo;ZUK Z2;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-ZUKZ2-SIM-COM;Lenovo;ZUK Z2;Bandeja SIM;Compatible;2,65;;;6
+LE-VK5PL-PAN-COM;Lenovo;Vibe K5 Plus;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-VK5PL-BAT-COM;Lenovo;Vibe K5 Plus;Batería;Compatible;8,90;;;6
+LE-VK5PL-CON-COM;Lenovo;Vibe K5 Plus;Conector de carga;Compatible;3,70;;;6
+LE-VK5PL-TAP-COM;Lenovo;Vibe K5 Plus;Tapa trasera;Compatible;4,80;;;6
+LE-VK5PL-CTR-COM;Lenovo;Vibe K5 Plus;Cámara trasera;Compatible;6,65;;;6
+LE-VK5PL-CFR-COM;Lenovo;Vibe K5 Plus;Cámara frontal;Compatible;4,65;;;6
+LE-VK5PL-LEN-COM;Lenovo;Vibe K5 Plus;Lente de cámara;Compatible;2,25;;;6
+LE-VK5PL-ALT-COM;Lenovo;Vibe K5 Plus;Altavoz;Compatible;3,59;;;6
+LE-VK5PL-AUR-COM;Lenovo;Vibe K5 Plus;Auricular de llamada;Compatible;2,69;;;6
+LE-VK5PL-FLX-COM;Lenovo;Vibe K5 Plus;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-VK5PL-SIM-COM;Lenovo;Vibe K5 Plus;Bandeja SIM;Compatible;2,65;;;6
+LE-VP1T-PAN-COM;Lenovo;Vibe P1 Turbo;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-VP1T-BAT-COM;Lenovo;Vibe P1 Turbo;Batería;Compatible;8,90;;;6
+LE-VP1T-CON-COM;Lenovo;Vibe P1 Turbo;Conector de carga;Compatible;3,70;;;6
+LE-VP1T-TAP-COM;Lenovo;Vibe P1 Turbo;Tapa trasera;Compatible;4,80;;;6
+LE-VP1T-CTR-COM;Lenovo;Vibe P1 Turbo;Cámara trasera;Compatible;6,65;;;6
+LE-VP1T-CFR-COM;Lenovo;Vibe P1 Turbo;Cámara frontal;Compatible;4,65;;;6
+LE-VP1T-LEN-COM;Lenovo;Vibe P1 Turbo;Lente de cámara;Compatible;2,25;;;6
+LE-VP1T-ALT-COM;Lenovo;Vibe P1 Turbo;Altavoz;Compatible;3,59;;;6
+LE-VP1T-AUR-COM;Lenovo;Vibe P1 Turbo;Auricular de llamada;Compatible;2,69;;;6
+LE-VP1T-FLX-COM;Lenovo;Vibe P1 Turbo;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-VP1T-SIM-COM;Lenovo;Vibe P1 Turbo;Bandeja SIM;Compatible;2,65;;;6
+LE-K5N-PAN-COM;Lenovo;K5 Note;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-K5N-BAT-COM;Lenovo;K5 Note;Batería;Compatible;8,90;;;6
+LE-K5N-CON-COM;Lenovo;K5 Note;Conector de carga;Compatible;3,70;;;6
+LE-K5N-TAP-COM;Lenovo;K5 Note;Tapa trasera;Compatible;4,80;;;6
+LE-K5N-CTR-COM;Lenovo;K5 Note;Cámara trasera;Compatible;6,65;;;6
+LE-K5N-CFR-COM;Lenovo;K5 Note;Cámara frontal;Compatible;4,65;;;6
+LE-K5N-LEN-COM;Lenovo;K5 Note;Lente de cámara;Compatible;2,25;;;6
+LE-K5N-ALT-COM;Lenovo;K5 Note;Altavoz;Compatible;3,59;;;6
+LE-K5N-AUR-COM;Lenovo;K5 Note;Auricular de llamada;Compatible;2,69;;;6
+LE-K5N-FLX-COM;Lenovo;K5 Note;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-K5N-SIM-COM;Lenovo;K5 Note;Bandeja SIM;Compatible;2,65;;;6
+LE-VK4N-PAN-COM;Lenovo;Vibe K4 Note;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-VK4N-BAT-COM;Lenovo;Vibe K4 Note;Batería;Compatible;8,90;;;6
+LE-VK4N-CON-COM;Lenovo;Vibe K4 Note;Conector de carga;Compatible;3,70;;;6
+LE-VK4N-TAP-COM;Lenovo;Vibe K4 Note;Tapa trasera;Compatible;4,80;;;6
+LE-VK4N-CTR-COM;Lenovo;Vibe K4 Note;Cámara trasera;Compatible;6,65;;;6
+LE-VK4N-CFR-COM;Lenovo;Vibe K4 Note;Cámara frontal;Compatible;4,65;;;6
+LE-VK4N-LEN-COM;Lenovo;Vibe K4 Note;Lente de cámara;Compatible;2,25;;;6
+LE-VK4N-ALT-COM;Lenovo;Vibe K4 Note;Altavoz;Compatible;3,59;;;6
+LE-VK4N-AUR-COM;Lenovo;Vibe K4 Note;Auricular de llamada;Compatible;2,69;;;6
+LE-VK4N-FLX-COM;Lenovo;Vibe K4 Note;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-VK4N-SIM-COM;Lenovo;Vibe K4 Note;Bandeja SIM;Compatible;2,65;;;6
+LE-VP1-PAN-COM;Lenovo;Vibe P1;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-VP1-BAT-COM;Lenovo;Vibe P1;Batería;Compatible;8,90;;;6
+LE-VP1-CON-COM;Lenovo;Vibe P1;Conector de carga;Compatible;3,70;;;6
+LE-VP1-TAP-COM;Lenovo;Vibe P1;Tapa trasera;Compatible;4,80;;;6
+LE-VP1-CTR-COM;Lenovo;Vibe P1;Cámara trasera;Compatible;6,65;;;6
+LE-VP1-CFR-COM;Lenovo;Vibe P1;Cámara frontal;Compatible;4,65;;;6
+LE-VP1-LEN-COM;Lenovo;Vibe P1;Lente de cámara;Compatible;2,25;;;6
+LE-VP1-ALT-COM;Lenovo;Vibe P1;Altavoz;Compatible;3,59;;;6
+LE-VP1-AUR-COM;Lenovo;Vibe P1;Auricular de llamada;Compatible;2,69;;;6
+LE-VP1-FLX-COM;Lenovo;Vibe P1;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-VP1-SIM-COM;Lenovo;Vibe P1;Bandeja SIM;Compatible;2,65;;;6
+LE-ZUKZ1-PAN-COM;Lenovo;ZUK Z1;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-ZUKZ1-BAT-COM;Lenovo;ZUK Z1;Batería;Compatible;8,90;;;6
+LE-ZUKZ1-CON-COM;Lenovo;ZUK Z1;Conector de carga;Compatible;3,70;;;6
+LE-ZUKZ1-TAP-COM;Lenovo;ZUK Z1;Tapa trasera;Compatible;4,80;;;6
+LE-ZUKZ1-CTR-COM;Lenovo;ZUK Z1;Cámara trasera;Compatible;6,65;;;6
+LE-ZUKZ1-CFR-COM;Lenovo;ZUK Z1;Cámara frontal;Compatible;4,65;;;6
+LE-ZUKZ1-LEN-COM;Lenovo;ZUK Z1;Lente de cámara;Compatible;2,25;;;6
+LE-ZUKZ1-ALT-COM;Lenovo;ZUK Z1;Altavoz;Compatible;3,59;;;6
+LE-ZUKZ1-AUR-COM;Lenovo;ZUK Z1;Auricular de llamada;Compatible;2,69;;;6
+LE-ZUKZ1-FLX-COM;Lenovo;ZUK Z1;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-ZUKZ1-SIM-COM;Lenovo;ZUK Z1;Bandeja SIM;Compatible;2,65;;;6
+LE-VX2-PAN-COM;Lenovo;Vibe X2;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-VX2-BAT-COM;Lenovo;Vibe X2;Batería;Compatible;8,90;;;6
+LE-VX2-CON-COM;Lenovo;Vibe X2;Conector de carga;Compatible;3,70;;;6
+LE-VX2-TAP-COM;Lenovo;Vibe X2;Tapa trasera;Compatible;4,80;;;6
+LE-VX2-CTR-COM;Lenovo;Vibe X2;Cámara trasera;Compatible;6,65;;;6
+LE-VX2-CFR-COM;Lenovo;Vibe X2;Cámara frontal;Compatible;4,65;;;6
+LE-VX2-LEN-COM;Lenovo;Vibe X2;Lente de cámara;Compatible;2,25;;;6
+LE-VX2-ALT-COM;Lenovo;Vibe X2;Altavoz;Compatible;3,59;;;6
+LE-VX2-AUR-COM;Lenovo;Vibe X2;Auricular de llamada;Compatible;2,69;;;6
+LE-VX2-FLX-COM;Lenovo;Vibe X2;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-VX2-SIM-COM;Lenovo;Vibe X2;Bandeja SIM;Compatible;2,65;;;6
+LE-VZ2-PAN-COM;Lenovo;Vibe Z2;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-VZ2-BAT-COM;Lenovo;Vibe Z2;Batería;Compatible;8,90;;;6
+LE-VZ2-CON-COM;Lenovo;Vibe Z2;Conector de carga;Compatible;3,70;;;6
+LE-VZ2-TAP-COM;Lenovo;Vibe Z2;Tapa trasera;Compatible;4,80;;;6
+LE-VZ2-CTR-COM;Lenovo;Vibe Z2;Cámara trasera;Compatible;6,65;;;6
+LE-VZ2-CFR-COM;Lenovo;Vibe Z2;Cámara frontal;Compatible;4,65;;;6
+LE-VZ2-LEN-COM;Lenovo;Vibe Z2;Lente de cámara;Compatible;2,25;;;6
+LE-VZ2-ALT-COM;Lenovo;Vibe Z2;Altavoz;Compatible;3,59;;;6
+LE-VZ2-AUR-COM;Lenovo;Vibe Z2;Auricular de llamada;Compatible;2,69;;;6
+LE-VZ2-FLX-COM;Lenovo;Vibe Z2;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-VZ2-SIM-COM;Lenovo;Vibe Z2;Bandeja SIM;Compatible;2,65;;;6
+LE-VZ2P-PAN-COM;Lenovo;Vibe Z2 Pro;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-VZ2P-BAT-COM;Lenovo;Vibe Z2 Pro;Batería;Compatible;8,90;;;6
+LE-VZ2P-CON-COM;Lenovo;Vibe Z2 Pro;Conector de carga;Compatible;3,70;;;6
+LE-VZ2P-TAP-COM;Lenovo;Vibe Z2 Pro;Tapa trasera;Compatible;4,80;;;6
+LE-VZ2P-CTR-COM;Lenovo;Vibe Z2 Pro;Cámara trasera;Compatible;6,65;;;6
+LE-VZ2P-CFR-COM;Lenovo;Vibe Z2 Pro;Cámara frontal;Compatible;4,65;;;6
+LE-VZ2P-LEN-COM;Lenovo;Vibe Z2 Pro;Lente de cámara;Compatible;2,25;;;6
+LE-VZ2P-ALT-COM;Lenovo;Vibe Z2 Pro;Altavoz;Compatible;3,59;;;6
+LE-VZ2P-AUR-COM;Lenovo;Vibe Z2 Pro;Auricular de llamada;Compatible;2,69;;;6
+LE-VZ2P-FLX-COM;Lenovo;Vibe Z2 Pro;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-VZ2P-SIM-COM;Lenovo;Vibe Z2 Pro;Bandeja SIM;Compatible;2,65;;;6
+LE-A526-PAN-COM;Lenovo;A526;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-A526-BAT-COM;Lenovo;A526;Batería;Compatible;8,90;;;6
+LE-A526-CON-COM;Lenovo;A526;Conector de carga;Compatible;3,70;;;6
+LE-A526-TAP-COM;Lenovo;A526;Tapa trasera;Compatible;4,80;;;6
+LE-A526-CTR-COM;Lenovo;A526;Cámara trasera;Compatible;6,65;;;6
+LE-A526-CFR-COM;Lenovo;A526;Cámara frontal;Compatible;4,65;;;6
+LE-A526-LEN-COM;Lenovo;A526;Lente de cámara;Compatible;2,25;;;6
+LE-A526-ALT-COM;Lenovo;A526;Altavoz;Compatible;3,59;;;6
+LE-A526-AUR-COM;Lenovo;A526;Auricular de llamada;Compatible;2,69;;;6
+LE-A526-FLX-COM;Lenovo;A526;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-A526-SIM-COM;Lenovo;A526;Bandeja SIM;Compatible;2,65;;;6
+LE-A680-PAN-COM;Lenovo;A680;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-A680-BAT-COM;Lenovo;A680;Batería;Compatible;8,90;;;6
+LE-A680-CON-COM;Lenovo;A680;Conector de carga;Compatible;3,70;;;6
+LE-A680-TAP-COM;Lenovo;A680;Tapa trasera;Compatible;4,80;;;6
+LE-A680-CTR-COM;Lenovo;A680;Cámara trasera;Compatible;6,65;;;6
+LE-A680-CFR-COM;Lenovo;A680;Cámara frontal;Compatible;4,65;;;6
+LE-A680-LEN-COM;Lenovo;A680;Lente de cámara;Compatible;2,25;;;6
+LE-A680-ALT-COM;Lenovo;A680;Altavoz;Compatible;3,59;;;6
+LE-A680-AUR-COM;Lenovo;A680;Auricular de llamada;Compatible;2,69;;;6
+LE-A680-FLX-COM;Lenovo;A680;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-A680-SIM-COM;Lenovo;A680;Bandeja SIM;Compatible;2,65;;;6
+LE-A536-PAN-COM;Lenovo;A536;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-A536-BAT-COM;Lenovo;A536;Batería;Compatible;8,90;;;6
+LE-A536-CON-COM;Lenovo;A536;Conector de carga;Compatible;3,70;;;6
+LE-A536-TAP-COM;Lenovo;A536;Tapa trasera;Compatible;4,80;;;6
+LE-A536-CTR-COM;Lenovo;A536;Cámara trasera;Compatible;6,65;;;6
+LE-A536-CFR-COM;Lenovo;A536;Cámara frontal;Compatible;4,65;;;6
+LE-A536-LEN-COM;Lenovo;A536;Lente de cámara;Compatible;2,25;;;6
+LE-A536-ALT-COM;Lenovo;A536;Altavoz;Compatible;3,59;;;6
+LE-A536-AUR-COM;Lenovo;A536;Auricular de llamada;Compatible;2,69;;;6
+LE-A536-FLX-COM;Lenovo;A536;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-A536-SIM-COM;Lenovo;A536;Bandeja SIM;Compatible;2,65;;;6
+LE-VZ-PAN-COM;Lenovo;Vibe Z;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-VZ-BAT-COM;Lenovo;Vibe Z;Batería;Compatible;8,90;;;6
+LE-VZ-CON-COM;Lenovo;Vibe Z;Conector de carga;Compatible;3,70;;;6
+LE-VZ-TAP-COM;Lenovo;Vibe Z;Tapa trasera;Compatible;4,80;;;6
+LE-VZ-CTR-COM;Lenovo;Vibe Z;Cámara trasera;Compatible;6,65;;;6
+LE-VZ-CFR-COM;Lenovo;Vibe Z;Cámara frontal;Compatible;4,65;;;6
+LE-VZ-LEN-COM;Lenovo;Vibe Z;Lente de cámara;Compatible;2,25;;;6
+LE-VZ-ALT-COM;Lenovo;Vibe Z;Altavoz;Compatible;3,59;;;6
+LE-VZ-AUR-COM;Lenovo;Vibe Z;Auricular de llamada;Compatible;2,69;;;6
+LE-VZ-FLX-COM;Lenovo;Vibe Z;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-VZ-SIM-COM;Lenovo;Vibe Z;Bandeja SIM;Compatible;2,65;;;6
+LE-P780-PAN-COM;Lenovo;P780;Pantalla;Compatible;15,15;14,70;14,24;6
+LE-P780-BAT-COM;Lenovo;P780;Batería;Compatible;9,65;;;6
+LE-P780-CON-COM;Lenovo;P780;Conector de carga;Compatible;4,60;;;6
+LE-P780-TAP-COM;Lenovo;P780;Tapa trasera;Compatible;5,40;;;6
+LE-P780-CTR-COM;Lenovo;P780;Cámara trasera;Compatible;7,59;;;6
+LE-P780-CFR-COM;Lenovo;P780;Cámara frontal;Compatible;4,99;;;6
+LE-P780-LEN-COM;Lenovo;P780;Lente de cámara;Compatible;2,19;;;6
+LE-P780-ALT-COM;Lenovo;P780;Altavoz;Compatible;3,65;;;6
+LE-P780-AUR-COM;Lenovo;P780;Auricular de llamada;Compatible;2,65;;;6
+LE-P780-FLX-COM;Lenovo;P780;Flex de encendido y volumen;Compatible;2,49;;;6
+LE-P780-SIM-COM;Lenovo;P780;Bandeja SIM;Compatible;2,55;;;6
+LE-IA820-PAN-COM;Lenovo;IdeaPhone A820;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-IA820-BAT-COM;Lenovo;IdeaPhone A820;Batería;Compatible;8,90;;;6
+LE-IA820-CON-COM;Lenovo;IdeaPhone A820;Conector de carga;Compatible;3,70;;;6
+LE-IA820-TAP-COM;Lenovo;IdeaPhone A820;Tapa trasera;Compatible;4,80;;;6
+LE-IA820-CTR-COM;Lenovo;IdeaPhone A820;Cámara trasera;Compatible;6,65;;;6
+LE-IA820-CFR-COM;Lenovo;IdeaPhone A820;Cámara frontal;Compatible;4,65;;;6
+LE-IA820-LEN-COM;Lenovo;IdeaPhone A820;Lente de cámara;Compatible;2,25;;;6
+LE-IA820-ALT-COM;Lenovo;IdeaPhone A820;Altavoz;Compatible;3,59;;;6
+LE-IA820-AUR-COM;Lenovo;IdeaPhone A820;Auricular de llamada;Compatible;2,69;;;6
+LE-IA820-FLX-COM;Lenovo;IdeaPhone A820;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-IA820-SIM-COM;Lenovo;IdeaPhone A820;Bandeja SIM;Compatible;2,65;;;6
+LE-Z2-PAN-COM;Lenovo;Z2;Pantalla;Compatible;15,15;14,70;14,24;6
+LE-Z2-BAT-COM;Lenovo;Z2;Batería;Compatible;9,65;;;6
+LE-Z2-CON-COM;Lenovo;Z2;Conector de carga;Compatible;4,60;;;6
+LE-Z2-TAP-COM;Lenovo;Z2;Tapa trasera;Compatible;5,40;;;6
+LE-Z2-CTR-COM;Lenovo;Z2;Cámara trasera;Compatible;7,59;;;6
+LE-Z2-CFR-COM;Lenovo;Z2;Cámara frontal;Compatible;4,99;;;6
+LE-Z2-LEN-COM;Lenovo;Z2;Lente de cámara;Compatible;2,19;;;6
+LE-Z2-ALT-COM;Lenovo;Z2;Altavoz;Compatible;3,65;;;6
+LE-Z2-AUR-COM;Lenovo;Z2;Auricular de llamada;Compatible;2,65;;;6
+LE-Z2-FLX-COM;Lenovo;Z2;Flex de encendido y volumen;Compatible;2,49;;;6
+LE-Z2-SIM-COM;Lenovo;Z2;Bandeja SIM;Compatible;2,55;;;6
+LE-Z6P-PAN-COM;Lenovo;Z6 Pro;Pantalla;Compatible;15,15;14,70;14,24;6
+LE-Z6P-BAT-COM;Lenovo;Z6 Pro;Batería;Compatible;9,65;;;6
+LE-Z6P-CON-COM;Lenovo;Z6 Pro;Conector de carga;Compatible;4,60;;;6
+LE-Z6P-TAP-COM;Lenovo;Z6 Pro;Tapa trasera;Compatible;5,40;;;6
+LE-Z6P-CTR-COM;Lenovo;Z6 Pro;Cámara trasera;Compatible;7,59;;;6
+LE-Z6P-CFR-COM;Lenovo;Z6 Pro;Cámara frontal;Compatible;4,99;;;6
+LE-Z6P-LEN-COM;Lenovo;Z6 Pro;Lente de cámara;Compatible;2,19;;;6
+LE-Z6P-ALT-COM;Lenovo;Z6 Pro;Altavoz;Compatible;3,65;;;6
+LE-Z6P-AUR-COM;Lenovo;Z6 Pro;Auricular de llamada;Compatible;2,65;;;6
+LE-Z6P-FLX-COM;Lenovo;Z6 Pro;Flex de encendido y volumen;Compatible;2,49;;;6
+LE-Z6P-SIM-COM;Lenovo;Z6 Pro;Bandeja SIM;Compatible;2,55;;;6
+LE-Z6P5-PAN-COM;Lenovo;Z6 Pro 5G;Pantalla;Compatible;15,15;14,70;14,24;6
+LE-Z6P5-BAT-COM;Lenovo;Z6 Pro 5G;Batería;Compatible;9,65;;;6
+LE-Z6P5-CON-COM;Lenovo;Z6 Pro 5G;Conector de carga;Compatible;4,60;;;6
+LE-Z6P5-TAP-COM;Lenovo;Z6 Pro 5G;Tapa trasera;Compatible;5,40;;;6
+LE-Z6P5-CTR-COM;Lenovo;Z6 Pro 5G;Cámara trasera;Compatible;7,59;;;6
+LE-Z6P5-CFR-COM;Lenovo;Z6 Pro 5G;Cámara frontal;Compatible;4,99;;;6
+LE-Z6P5-LEN-COM;Lenovo;Z6 Pro 5G;Lente de cámara;Compatible;2,19;;;6
+LE-Z6P5-ALT-COM;Lenovo;Z6 Pro 5G;Altavoz;Compatible;3,65;;;6
+LE-Z6P5-AUR-COM;Lenovo;Z6 Pro 5G;Auricular de llamada;Compatible;2,65;;;6
+LE-Z6P5-FLX-COM;Lenovo;Z6 Pro 5G;Flex de encendido y volumen;Compatible;2,49;;;6
+LE-Z6P5-SIM-COM;Lenovo;Z6 Pro 5G;Bandeja SIM;Compatible;2,55;;;6
+LE-APL-PAN-COM;Lenovo;A Plus;Pantalla;Compatible;14,45;14,02;13,58;6
+LE-APL-BAT-COM;Lenovo;A Plus;Batería;Compatible;8,40;;;6
+LE-APL-CON-COM;Lenovo;A Plus;Conector de carga;Compatible;4,00;;;6
+LE-APL-TAP-COM-NEG;Lenovo;A Plus;Tapa trasera;negro mate;5,25;;;6
+LE-APL-TAP-COM-BLA;Lenovo;A Plus;Tapa trasera;blanco mate;5,25;;;6
+LE-APL-CTR-COM;Lenovo;A Plus;Cámara trasera;Compatible;7,20;;;6
+LE-APL-CFR-COM;Lenovo;A Plus;Cámara frontal;Compatible;4,85;;;6
+LE-APL-LEN-COM;Lenovo;A Plus;Lente de cámara;Compatible;2,49;;;6
+LE-APL-ALT-COM;Lenovo;A Plus;Altavoz;Compatible;3,75;;;6
+LE-APL-AUR-COM;Lenovo;A Plus;Auricular de llamada;Compatible;2,85;;;6
+LE-APL-FLX-COM;Lenovo;A Plus;Flex de encendido y volumen;Compatible;2,70;;;6
+LE-APL-SIM-COM;Lenovo;A Plus;Bandeja SIM;Compatible;2,85;;;6
+LE-VB-PAN-COM;Lenovo;Vibe B;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-VB-BAT-COM;Lenovo;Vibe B;Batería;Compatible;8,90;;;6
+LE-VB-CON-COM;Lenovo;Vibe B;Conector de carga;Compatible;3,70;;;6
+LE-VB-TAP-COM-NEG;Lenovo;Vibe B;Tapa trasera;Negro mate;4,80;;;6
+LE-VB-TAP-COM-BLA;Lenovo;Vibe B;Tapa trasera;Blanco mate;4,80;;;6
+LE-VB-CTR-COM;Lenovo;Vibe B;Cámara trasera;Compatible;6,65;;;6
+LE-VB-CFR-COM;Lenovo;Vibe B;Cámara frontal;Compatible;4,65;;;6
+LE-VB-LEN-COM;Lenovo;Vibe B;Lente de cámara;Compatible;2,25;;;6
+LE-VB-ALT-COM;Lenovo;Vibe B;Altavoz;Compatible;3,59;;;6
+LE-VB-AUR-COM;Lenovo;Vibe B;Auricular de llamada;Compatible;2,69;;;6
+LE-VB-FLX-COM;Lenovo;Vibe B;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-VB-SIM-COM;Lenovo;Vibe B;Bandeja SIM;Compatible;2,65;;;6
+LE-VK5-PAN-COM;Lenovo;Vibe K5;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-VK5-BAT-COM;Lenovo;Vibe K5;Batería;Compatible;8,90;;;6
+LE-VK5-CON-COM;Lenovo;Vibe K5;Conector de carga;Compatible;3,70;;;6
+LE-VK5-TAP-COM-DOR;Lenovo;Vibe K5;Tapa trasera;Dorado (Champagne Gold);4,80;;;6
+LE-VK5-TAP-COM-PLA;Lenovo;Vibe K5;Tapa trasera;Plata (Platinum Silver);4,80;;;6
+LE-VK5-TAP-COM-GRI;Lenovo;Vibe K5;Tapa trasera;Gris (Graphite Gray);4,80;;;6
+LE-VK5-CTR-COM;Lenovo;Vibe K5;Cámara trasera;Compatible;6,65;;;6
+LE-VK5-CFR-COM;Lenovo;Vibe K5;Cámara frontal;Compatible;4,65;;;6
+LE-VK5-LEN-COM;Lenovo;Vibe K5;Lente de cámara;Compatible;2,25;;;6
+LE-VK5-ALT-COM;Lenovo;Vibe K5;Altavoz;Compatible;3,59;;;6
+LE-VK5-AUR-COM;Lenovo;Vibe K5;Auricular de llamada;Compatible;2,69;;;6
+LE-VK5-FLX-COM;Lenovo;Vibe K5;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-VK5-SIM-COM;Lenovo;Vibe K5;Bandeja SIM;Compatible;2,65;;;6
+LE-P2-PAN-COM;Lenovo;Phab 2;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-P2-BAT-COM;Lenovo;Phab 2;Batería;Compatible;8,90;;;6
+LE-P2-CON-COM;Lenovo;Phab 2;Conector de carga;Compatible;3,70;;;6
+LE-P2-TAP-COM-ORO;Lenovo;Phab 2;Tapa trasera;Oro champán;4,80;;;6
+LE-P2-TAP-COM-GRI;Lenovo;Phab 2;Tapa trasera;Gris bronce;4,80;;;6
+LE-P2-CTR-COM;Lenovo;Phab 2;Cámara trasera;Compatible;6,65;;;6
+LE-P2-CFR-COM;Lenovo;Phab 2;Cámara frontal;Compatible;4,65;;;6
+LE-P2-LEN-COM;Lenovo;Phab 2;Lente de cámara;Compatible;2,25;;;6
+LE-P2-ALT-COM;Lenovo;Phab 2;Altavoz;Compatible;3,59;;;6
+LE-P2-AUR-COM;Lenovo;Phab 2;Auricular de llamada;Compatible;2,69;;;6
+LE-P2-FLX-COM;Lenovo;Phab 2;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-P2-SIM-COM;Lenovo;Phab 2;Bandeja SIM;Compatible;2,65;;;6
+LE-P2P-PAN-COM;Lenovo;Phab 2 Pro;Pantalla;Compatible;13,00;12,61;12,22;6
+LE-P2P-BAT-COM;Lenovo;Phab 2 Pro;Batería;Compatible;8,90;;;6
+LE-P2P-CON-COM;Lenovo;Phab 2 Pro;Conector de carga;Compatible;3,70;;;6
+LE-P2P-TAP-COM-ORO;Lenovo;Phab 2 Pro;Tapa trasera;Oro champán;4,80;;;6
+LE-P2P-TAP-COM-GRI;Lenovo;Phab 2 Pro;Tapa trasera;Gris bronce;4,80;;;6
+LE-P2P-CTR-COM;Lenovo;Phab 2 Pro;Cámara trasera;Compatible;6,65;;;6
+LE-P2P-CFR-COM;Lenovo;Phab 2 Pro;Cámara frontal;Compatible;4,65;;;6
+LE-P2P-LEN-COM;Lenovo;Phab 2 Pro;Lente de cámara;Compatible;2,25;;;6
+LE-P2P-ALT-COM;Lenovo;Phab 2 Pro;Altavoz;Compatible;3,59;;;6
+LE-P2P-AUR-COM;Lenovo;Phab 2 Pro;Auricular de llamada;Compatible;2,69;;;6
+LE-P2P-FLX-COM;Lenovo;Phab 2 Pro;Flex de encendido y volumen;Compatible;2,55;;;6
+LE-P2P-SIM-COM;Lenovo;Phab 2 Pro;Bandeja SIM;Compatible;2,65;;;6
+LE-P22-PAN-INC;Lenovo;P2;Pantalla;Incell;17,69;17,16;16,63;6
+LE-P22-BAT-COM;Lenovo;P2;Batería;Compatible;9,65;;;6
+LE-P22-CON-COM;Lenovo;P2;Conector de carga;Compatible;4,60;;;6
+LE-P22-TAP-COM-DOR;Lenovo;P2;Tapa trasera;Dorado (Champagne gold);5,40;;;6
+LE-P22-TAP-COM-GRI;Lenovo;P2;Tapa trasera;Gris (Graphite gray);5,40;;;6
+LE-P22-CTR-COM;Lenovo;P2;Cámara trasera;Compatible;7,59;;;6
+LE-P22-CFR-COM;Lenovo;P2;Cámara frontal;Compatible;4,99;;;6
+LE-P22-LEN-COM;Lenovo;P2;Lente de cámara;Compatible;2,19;;;6
+LE-P22-ALT-COM;Lenovo;P2;Altavoz;Compatible;3,65;;;6
+LE-P22-AUR-COM;Lenovo;P2;Auricular de llamada;Compatible;2,65;;;6
+LE-P22-FLX-COM;Lenovo;P2;Flex de encendido y volumen;Compatible;2,49;;;6
+LE-P22-SIM-COM;Lenovo;P2;Bandeja SIM;Compatible;2,55;;;6
+LE-LPD-PAN-INC;Lenovo;Legion Phone Duel;Pantalla;Incell;27,00;26,19;25,38;6
+LE-LPD-BAT-COM;Lenovo;Legion Phone Duel;Batería;Compatible;8,50;;;6
+LE-LPD-CON-COM;Lenovo;Legion Phone Duel;Conector de carga;Compatible;5,55;;;6
+LE-LPD-TAP-COM;Lenovo;Legion Phone Duel;Tapa trasera;Compatible;6,89;;;6
+LE-LPD-CTR-COM;Lenovo;Legion Phone Duel;Cámara trasera;Compatible;9,40;;;6
+LE-LPD-CFR-COM;Lenovo;Legion Phone Duel;Cámara frontal;Compatible;4,85;;;6
+LE-LPD-LEN-COM;Lenovo;Legion Phone Duel;Lente de cámara;Compatible;3,05;;;6
+LE-LPD-ALT-COM;Lenovo;Legion Phone Duel;Altavoz;Compatible;4,25;;;6
+LE-LPD-AUR-COM;Lenovo;Legion Phone Duel;Auricular de llamada;Compatible;3,25;;;6
+LE-LPD-FLX-COM;Lenovo;Legion Phone Duel;Flex de encendido y volumen;Compatible;3,25;;;6
+LE-LPD-SIM-COM;Lenovo;Legion Phone Duel;Bandeja SIM;Compatible;3,25;;;6
+LE-LPD2-PAN-INC;Lenovo;Legion Phone Duel 2;Pantalla;Incell;27,00;26,19;25,38;6
+LE-LPD2-BAT-COM;Lenovo;Legion Phone Duel 2;Batería;Compatible;8,50;;;6
+LE-LPD2-CON-COM;Lenovo;Legion Phone Duel 2;Conector de carga;Compatible;5,55;;;6
+LE-LPD2-TAP-COM-NEG;Lenovo;Legion Phone Duel 2;Tapa trasera;Negro (Ultimate Black);6,89;;;6
+LE-LPD2-TAP-COM-BLA;Lenovo;Legion Phone Duel 2;Tapa trasera;Blanco (Titanium White);6,89;;;6
+LE-LPD2-CTR-COM;Lenovo;Legion Phone Duel 2;Cámara trasera;Compatible;9,40;;;6
+LE-LPD2-CFR-COM;Lenovo;Legion Phone Duel 2;Cámara frontal;Compatible;4,85;;;6
+LE-LPD2-LEN-COM;Lenovo;Legion Phone Duel 2;Lente de cámara;Compatible;3,05;;;6
+LE-LPD2-ALT-COM;Lenovo;Legion Phone Duel 2;Altavoz;Compatible;4,25;;;6
+LE-LPD2-AUR-COM;Lenovo;Legion Phone Duel 2;Auricular de llamada;Compatible;3,25;;;6
+LE-LPD2-FLX-COM;Lenovo;Legion Phone Duel 2;Flex de encendido y volumen;Compatible;3,25;;;6
+LE-LPD2-SIM-COM;Lenovo;Legion Phone Duel 2;Bandeja SIM;Compatible;3,25;;;6
+LE-LY70-PRO-NA;Lenovo;Legion Y70;Cristal templado;Estándar;1,30;;;
+LE-LY70-PRO-NA-FG;Lenovo;Legion Y70;Cristal templado;UV full glue;4,15;;;
+LE-LY70-PRO-PRI;Lenovo;Legion Y70;Cristal templado;Privacidad;4,00;;;
+LE-LY70-FUN-SIL;Lenovo;Legion Y70;Funda;Silicona;2,50;;;
+LE-LY70-FUN-TPU;Lenovo;Legion Y70;Funda;Transparente;2,95;;;
+LE-LY70-FUN-LIB;Lenovo;Legion Y70;Funda;Libro;3,70;;;
+LE-LY70-FUN-ANT;Lenovo;Legion Y70;Funda;Antigolpes;3,10;;;
+LE-LY90-PRO-NA;Lenovo;Legion Y90;Cristal templado;Estándar;1,30;;;
+LE-LY90-PRO-NA-FG;Lenovo;Legion Y90;Cristal templado;UV full glue;4,15;;;
+LE-LY90-PRO-PRI;Lenovo;Legion Y90;Cristal templado;Privacidad;4,00;;;
+LE-LY90-FUN-SIL;Lenovo;Legion Y90;Funda;Silicona;2,50;;;
+LE-LY90-FUN-TPU;Lenovo;Legion Y90;Funda;Transparente;2,95;;;
+LE-LY90-FUN-LIB;Lenovo;Legion Y90;Funda;Libro;3,70;;;
+LE-LY90-FUN-ANT;Lenovo;Legion Y90;Funda;Antigolpes;3,10;;;
+LE-L2P-PRO-NA;Lenovo;Legion 2 Pro;Cristal templado;Estándar;1,30;;;
+LE-L2P-PRO-NA-FG;Lenovo;Legion 2 Pro;Cristal templado;UV full glue;4,15;;;
+LE-L2P-PRO-PRI;Lenovo;Legion 2 Pro;Cristal templado;Privacidad;4,00;;;
+LE-L2P-FUN-SIL;Lenovo;Legion 2 Pro;Funda;Silicona;2,50;;;
+LE-L2P-FUN-TPU;Lenovo;Legion 2 Pro;Funda;Transparente;2,95;;;
+LE-L2P-FUN-LIB;Lenovo;Legion 2 Pro;Funda;Libro;3,70;;;
+LE-L2P-FUN-ANT;Lenovo;Legion 2 Pro;Funda;Antigolpes;3,10;;;
+LE-LP-PRO-NA;Lenovo;Legion Pro;Cristal templado;Estándar;1,30;;;
+LE-LP-PRO-NA-FG;Lenovo;Legion Pro;Cristal templado;UV full glue;4,15;;;
+LE-LP-PRO-PRI;Lenovo;Legion Pro;Cristal templado;Privacidad;4,00;;;
+LE-LP-FUN-SIL;Lenovo;Legion Pro;Funda;Silicona;2,50;;;
+LE-LP-FUN-TPU;Lenovo;Legion Pro;Funda;Transparente;2,95;;;
+LE-LP-FUN-LIB;Lenovo;Legion Pro;Funda;Libro;3,70;;;
+LE-LP-FUN-ANT;Lenovo;Legion Pro;Funda;Antigolpes;3,10;;;
+LE-Z6-PRO-NA;Lenovo;Z6;Cristal templado;Estándar;1,30;;;
+LE-Z6-PRO-PRI;Lenovo;Z6;Cristal templado;Privacidad;4,00;;;
+LE-Z6-FUN-SIL;Lenovo;Z6;Funda;Silicona;2,50;;;
+LE-Z6-FUN-TPU;Lenovo;Z6;Funda;Transparente;2,95;;;
+LE-Z6-FUN-LIB;Lenovo;Z6;Funda;Libro;3,70;;;
+LE-Z6-FUN-ANT;Lenovo;Z6;Funda;Antigolpes;3,10;;;
+LE-Z6-PCA-NA;Lenovo;Z6;Protector de cámara;Cristal;2,90;;;
+LE-Z2PL-PRO-NA;Lenovo;Z2 Plus;Cristal templado;Estándar;1,30;;;
+LE-Z2PL-PRO-PRI;Lenovo;Z2 Plus;Cristal templado;Privacidad;4,00;;;
+LE-Z2PL-FUN-SIL;Lenovo;Z2 Plus;Funda;Silicona;2,50;;;
+LE-Z2PL-FUN-TPU;Lenovo;Z2 Plus;Funda;Transparente;2,95;;;
+LE-Z2PL-FUN-LIB;Lenovo;Z2 Plus;Funda;Libro;3,70;;;
+LE-Z2PL-FUN-ANT;Lenovo;Z2 Plus;Funda;Antigolpes;3,10;;;
+LE-K6-PRO-NA;Lenovo;K6;Cristal templado;Estándar;1,30;;;
+LE-K6-PRO-PRI;Lenovo;K6;Cristal templado;Privacidad;4,00;;;
+LE-K6-FUN-SIL;Lenovo;K6;Funda;Silicona;2,50;;;
+LE-K6-FUN-TPU;Lenovo;K6;Funda;Transparente;2,95;;;
+LE-K6-FUN-LIB;Lenovo;K6;Funda;Libro;3,70;;;
+LE-K6-FUN-ANT;Lenovo;K6;Funda;Antigolpes;3,10;;;
+LE-K6PW-PRO-NA;Lenovo;K6 Power;Cristal templado;Estándar;1,30;;;
+LE-K6PW-PRO-PRI;Lenovo;K6 Power;Cristal templado;Privacidad;4,00;;;
+LE-K6PW-FUN-SIL;Lenovo;K6 Power;Funda;Silicona;2,50;;;
+LE-K6PW-FUN-TPU;Lenovo;K6 Power;Funda;Transparente;2,95;;;
+LE-K6PW-FUN-LIB;Lenovo;K6 Power;Funda;Libro;3,70;;;
+LE-K6PW-FUN-ANT;Lenovo;K6 Power;Funda;Antigolpes;3,10;;;
+LE-P2PL-PRO-NA;Lenovo;Phab 2 Plus;Cristal templado;Estándar;1,30;;;
+LE-P2PL-PRO-PRI;Lenovo;Phab 2 Plus;Cristal templado;Privacidad;4,00;;;
+LE-P2PL-FUN-SIL;Lenovo;Phab 2 Plus;Funda;Silicona;2,50;;;
+LE-P2PL-FUN-TPU;Lenovo;Phab 2 Plus;Funda;Transparente;2,95;;;
+LE-P2PL-FUN-LIB;Lenovo;Phab 2 Plus;Funda;Libro;3,70;;;
+LE-P2PL-FUN-ANT;Lenovo;Phab 2 Plus;Funda;Antigolpes;3,10;;;
+LE-ZUKZ2-PRO-NA;Lenovo;ZUK Z2;Cristal templado;Estándar;1,30;;;
+LE-ZUKZ2-PRO-PRI;Lenovo;ZUK Z2;Cristal templado;Privacidad;4,00;;;
+LE-ZUKZ2-FUN-SIL;Lenovo;ZUK Z2;Funda;Silicona;2,50;;;
+LE-ZUKZ2-FUN-TPU;Lenovo;ZUK Z2;Funda;Transparente;2,95;;;
+LE-ZUKZ2-FUN-LIB;Lenovo;ZUK Z2;Funda;Libro;3,70;;;
+LE-ZUKZ2-FUN-ANT;Lenovo;ZUK Z2;Funda;Antigolpes;3,10;;;
+LE-VK5PL-PRO-NA;Lenovo;Vibe K5 Plus;Cristal templado;Estándar;1,30;;;
+LE-VK5PL-PRO-PRI;Lenovo;Vibe K5 Plus;Cristal templado;Privacidad;4,00;;;
+LE-VK5PL-FUN-SIL;Lenovo;Vibe K5 Plus;Funda;Silicona;2,50;;;
+LE-VK5PL-FUN-TPU;Lenovo;Vibe K5 Plus;Funda;Transparente;2,95;;;
+LE-VK5PL-FUN-LIB;Lenovo;Vibe K5 Plus;Funda;Libro;3,70;;;
+LE-VK5PL-FUN-ANT;Lenovo;Vibe K5 Plus;Funda;Antigolpes;3,10;;;
+LE-VP1T-PRO-NA;Lenovo;Vibe P1 Turbo;Cristal templado;Estándar;1,30;;;
+LE-VP1T-PRO-PRI;Lenovo;Vibe P1 Turbo;Cristal templado;Privacidad;4,00;;;
+LE-VP1T-FUN-SIL;Lenovo;Vibe P1 Turbo;Funda;Silicona;2,50;;;
+LE-VP1T-FUN-TPU;Lenovo;Vibe P1 Turbo;Funda;Transparente;2,95;;;
+LE-VP1T-FUN-LIB;Lenovo;Vibe P1 Turbo;Funda;Libro;3,70;;;
+LE-VP1T-FUN-ANT;Lenovo;Vibe P1 Turbo;Funda;Antigolpes;3,10;;;
+LE-K5N-PRO-NA;Lenovo;K5 Note;Cristal templado;Estándar;1,30;;;
+LE-K5N-PRO-PRI;Lenovo;K5 Note;Cristal templado;Privacidad;4,00;;;
+LE-K5N-FUN-SIL;Lenovo;K5 Note;Funda;Silicona;2,50;;;
+LE-K5N-FUN-TPU;Lenovo;K5 Note;Funda;Transparente;2,95;;;
+LE-K5N-FUN-LIB;Lenovo;K5 Note;Funda;Libro;3,70;;;
+LE-K5N-FUN-ANT;Lenovo;K5 Note;Funda;Antigolpes;3,10;;;
+LE-VK4N-PRO-NA;Lenovo;Vibe K4 Note;Cristal templado;Estándar;1,30;;;
+LE-VK4N-PRO-PRI;Lenovo;Vibe K4 Note;Cristal templado;Privacidad;4,00;;;
+LE-VK4N-FUN-SIL;Lenovo;Vibe K4 Note;Funda;Silicona;2,50;;;
+LE-VK4N-FUN-TPU;Lenovo;Vibe K4 Note;Funda;Transparente;2,95;;;
+LE-VK4N-FUN-LIB;Lenovo;Vibe K4 Note;Funda;Libro;3,70;;;
+LE-VK4N-FUN-ANT;Lenovo;Vibe K4 Note;Funda;Antigolpes;3,10;;;
+LE-VP1-PRO-NA;Lenovo;Vibe P1;Cristal templado;Estándar;1,30;;;
+LE-VP1-PRO-PRI;Lenovo;Vibe P1;Cristal templado;Privacidad;4,00;;;
+LE-VP1-FUN-SIL;Lenovo;Vibe P1;Funda;Silicona;2,50;;;
+LE-VP1-FUN-TPU;Lenovo;Vibe P1;Funda;Transparente;2,95;;;
+LE-VP1-FUN-LIB;Lenovo;Vibe P1;Funda;Libro;3,70;;;
+LE-VP1-FUN-ANT;Lenovo;Vibe P1;Funda;Antigolpes;3,10;;;
+LE-ZUKZ1-PRO-NA;Lenovo;ZUK Z1;Cristal templado;Estándar;1,30;;;
+LE-ZUKZ1-PRO-PRI;Lenovo;ZUK Z1;Cristal templado;Privacidad;4,00;;;
+LE-ZUKZ1-FUN-SIL;Lenovo;ZUK Z1;Funda;Silicona;2,50;;;
+LE-ZUKZ1-FUN-TPU;Lenovo;ZUK Z1;Funda;Transparente;2,95;;;
+LE-ZUKZ1-FUN-LIB;Lenovo;ZUK Z1;Funda;Libro;3,70;;;
+LE-ZUKZ1-FUN-ANT;Lenovo;ZUK Z1;Funda;Antigolpes;3,10;;;
+LE-VX2-PRO-NA;Lenovo;Vibe X2;Cristal templado;Estándar;1,30;;;
+LE-VX2-PRO-PRI;Lenovo;Vibe X2;Cristal templado;Privacidad;4,00;;;
+LE-VX2-FUN-SIL;Lenovo;Vibe X2;Funda;Silicona;2,50;;;
+LE-VX2-FUN-TPU;Lenovo;Vibe X2;Funda;Transparente;2,95;;;
+LE-VX2-FUN-LIB;Lenovo;Vibe X2;Funda;Libro;3,70;;;
+LE-VX2-FUN-ANT;Lenovo;Vibe X2;Funda;Antigolpes;3,10;;;
+LE-VZ2-PRO-NA;Lenovo;Vibe Z2;Cristal templado;Estándar;1,30;;;
+LE-VZ2-PRO-PRI;Lenovo;Vibe Z2;Cristal templado;Privacidad;4,00;;;
+LE-VZ2-FUN-SIL;Lenovo;Vibe Z2;Funda;Silicona;2,50;;;
+LE-VZ2-FUN-TPU;Lenovo;Vibe Z2;Funda;Transparente;2,95;;;
+LE-VZ2-FUN-LIB;Lenovo;Vibe Z2;Funda;Libro;3,70;;;
+LE-VZ2-FUN-ANT;Lenovo;Vibe Z2;Funda;Antigolpes;3,10;;;
+LE-VZ2P-PRO-NA;Lenovo;Vibe Z2 Pro;Cristal templado;Estándar;1,30;;;
+LE-VZ2P-PRO-PRI;Lenovo;Vibe Z2 Pro;Cristal templado;Privacidad;4,00;;;
+LE-VZ2P-FUN-SIL;Lenovo;Vibe Z2 Pro;Funda;Silicona;2,50;;;
+LE-VZ2P-FUN-TPU;Lenovo;Vibe Z2 Pro;Funda;Transparente;2,95;;;
+LE-VZ2P-FUN-LIB;Lenovo;Vibe Z2 Pro;Funda;Libro;3,70;;;
+LE-VZ2P-FUN-ANT;Lenovo;Vibe Z2 Pro;Funda;Antigolpes;3,10;;;
+LE-A526-PRO-NA;Lenovo;A526;Cristal templado;Estándar;1,30;;;
+LE-A526-PRO-PRI;Lenovo;A526;Cristal templado;Privacidad;4,00;;;
+LE-A526-FUN-SIL;Lenovo;A526;Funda;Silicona;2,50;;;
+LE-A526-FUN-TPU;Lenovo;A526;Funda;Transparente;2,95;;;
+LE-A526-FUN-LIB;Lenovo;A526;Funda;Libro;3,70;;;
+LE-A526-FUN-ANT;Lenovo;A526;Funda;Antigolpes;3,10;;;
+LE-A680-PRO-NA;Lenovo;A680;Cristal templado;Estándar;1,30;;;
+LE-A680-PRO-PRI;Lenovo;A680;Cristal templado;Privacidad;4,00;;;
+LE-A680-FUN-SIL;Lenovo;A680;Funda;Silicona;2,50;;;
+LE-A680-FUN-TPU;Lenovo;A680;Funda;Transparente;2,95;;;
+LE-A680-FUN-LIB;Lenovo;A680;Funda;Libro;3,70;;;
+LE-A680-FUN-ANT;Lenovo;A680;Funda;Antigolpes;3,10;;;
+LE-A536-PRO-NA;Lenovo;A536;Cristal templado;Estándar;1,30;;;
+LE-A536-PRO-PRI;Lenovo;A536;Cristal templado;Privacidad;4,00;;;
+LE-A536-FUN-SIL;Lenovo;A536;Funda;Silicona;2,50;;;
+LE-A536-FUN-TPU;Lenovo;A536;Funda;Transparente;2,95;;;
+LE-A536-FUN-LIB;Lenovo;A536;Funda;Libro;3,70;;;
+LE-A536-FUN-ANT;Lenovo;A536;Funda;Antigolpes;3,10;;;
+LE-VZ-PRO-NA;Lenovo;Vibe Z;Cristal templado;Estándar;1,30;;;
+LE-VZ-PRO-PRI;Lenovo;Vibe Z;Cristal templado;Privacidad;4,00;;;
+LE-VZ-FUN-SIL;Lenovo;Vibe Z;Funda;Silicona;2,50;;;
+LE-VZ-FUN-TPU;Lenovo;Vibe Z;Funda;Transparente;2,95;;;
+LE-VZ-FUN-LIB;Lenovo;Vibe Z;Funda;Libro;3,70;;;
+LE-VZ-FUN-ANT;Lenovo;Vibe Z;Funda;Antigolpes;3,10;;;
+LE-P780-PRO-NA;Lenovo;P780;Cristal templado;Estándar;1,30;;;
+LE-P780-PRO-PRI;Lenovo;P780;Cristal templado;Privacidad;4,00;;;
+LE-P780-FUN-SIL;Lenovo;P780;Funda;Silicona;2,50;;;
+LE-P780-FUN-TPU;Lenovo;P780;Funda;Transparente;2,95;;;
+LE-P780-FUN-LIB;Lenovo;P780;Funda;Libro;3,70;;;
+LE-P780-FUN-ANT;Lenovo;P780;Funda;Antigolpes;3,10;;;
+LE-IA820-PRO-NA;Lenovo;IdeaPhone A820;Cristal templado;Estándar;1,30;;;
+LE-IA820-PRO-PRI;Lenovo;IdeaPhone A820;Cristal templado;Privacidad;4,00;;;
+LE-IA820-FUN-SIL;Lenovo;IdeaPhone A820;Funda;Silicona;2,50;;;
+LE-IA820-FUN-TPU;Lenovo;IdeaPhone A820;Funda;Transparente;2,95;;;
+LE-IA820-FUN-LIB;Lenovo;IdeaPhone A820;Funda;Libro;3,70;;;
+LE-IA820-FUN-ANT;Lenovo;IdeaPhone A820;Funda;Antigolpes;3,10;;;
+LE-Z2-PRO-NA;Lenovo;Z2;Cristal templado;Estándar;1,30;;;
+LE-Z2-PRO-PRI;Lenovo;Z2;Cristal templado;Privacidad;4,00;;;
+LE-Z2-FUN-SIL;Lenovo;Z2;Funda;Silicona;2,50;;;
+LE-Z2-FUN-TPU;Lenovo;Z2;Funda;Transparente;2,95;;;
+LE-Z2-FUN-LIB;Lenovo;Z2;Funda;Libro;3,70;;;
+LE-Z2-FUN-ANT;Lenovo;Z2;Funda;Antigolpes;3,10;;;
+LE-Z6P-PRO-NA;Lenovo;Z6 Pro;Cristal templado;Estándar;1,30;;;
+LE-Z6P-PRO-PRI;Lenovo;Z6 Pro;Cristal templado;Privacidad;4,00;;;
+LE-Z6P-FUN-SIL;Lenovo;Z6 Pro;Funda;Silicona;2,50;;;
+LE-Z6P-FUN-TPU;Lenovo;Z6 Pro;Funda;Transparente;2,95;;;
+LE-Z6P-FUN-LIB;Lenovo;Z6 Pro;Funda;Libro;3,70;;;
+LE-Z6P-FUN-ANT;Lenovo;Z6 Pro;Funda;Antigolpes;3,10;;;
+LE-Z6P5-PRO-NA;Lenovo;Z6 Pro 5G;Cristal templado;Estándar;1,30;;;
+LE-Z6P5-PRO-PRI;Lenovo;Z6 Pro 5G;Cristal templado;Privacidad;4,00;;;
+LE-Z6P5-FUN-SIL;Lenovo;Z6 Pro 5G;Funda;Silicona;2,50;;;
+LE-Z6P5-FUN-TPU;Lenovo;Z6 Pro 5G;Funda;Transparente;2,95;;;
+LE-Z6P5-FUN-LIB;Lenovo;Z6 Pro 5G;Funda;Libro;3,70;;;
+LE-Z6P5-FUN-ANT;Lenovo;Z6 Pro 5G;Funda;Antigolpes;3,10;;;
+LE-APL-PRO-NA;Lenovo;A Plus;Cristal templado;Estándar;1,30;;;
+LE-APL-PRO-PRI;Lenovo;A Plus;Cristal templado;Privacidad;4,00;;;
+LE-APL-FUN-SIL;Lenovo;A Plus;Funda;Silicona;2,50;;;
+LE-APL-FUN-TPU;Lenovo;A Plus;Funda;Transparente;2,95;;;
+LE-APL-FUN-LIB;Lenovo;A Plus;Funda;Libro;3,70;;;
+LE-APL-FUN-ANT;Lenovo;A Plus;Funda;Antigolpes;3,10;;;
+LE-VB-PRO-NA;Lenovo;Vibe B;Cristal templado;Estándar;1,30;;;
+LE-VB-PRO-PRI;Lenovo;Vibe B;Cristal templado;Privacidad;4,00;;;
+LE-VB-FUN-SIL;Lenovo;Vibe B;Funda;Silicona;2,50;;;
+LE-VB-FUN-TPU;Lenovo;Vibe B;Funda;Transparente;2,95;;;
+LE-VB-FUN-LIB;Lenovo;Vibe B;Funda;Libro;3,70;;;
+LE-VB-FUN-ANT;Lenovo;Vibe B;Funda;Antigolpes;3,10;;;
+LE-VK5-PRO-NA;Lenovo;Vibe K5;Cristal templado;Estándar;1,30;;;
+LE-VK5-PRO-PRI;Lenovo;Vibe K5;Cristal templado;Privacidad;4,00;;;
+LE-VK5-FUN-SIL;Lenovo;Vibe K5;Funda;Silicona;2,50;;;
+LE-VK5-FUN-TPU;Lenovo;Vibe K5;Funda;Transparente;2,95;;;
+LE-VK5-FUN-LIB;Lenovo;Vibe K5;Funda;Libro;3,70;;;
+LE-VK5-FUN-ANT;Lenovo;Vibe K5;Funda;Antigolpes;3,10;;;
+LE-P2-PRO-NA;Lenovo;Phab 2;Cristal templado;Estándar;1,30;;;
+LE-P2-PRO-PRI;Lenovo;Phab 2;Cristal templado;Privacidad;4,00;;;
+LE-P2-FUN-SIL;Lenovo;Phab 2;Funda;Silicona;2,50;;;
+LE-P2-FUN-TPU;Lenovo;Phab 2;Funda;Transparente;2,95;;;
+LE-P2-FUN-LIB;Lenovo;Phab 2;Funda;Libro;3,70;;;
+LE-P2-FUN-ANT;Lenovo;Phab 2;Funda;Antigolpes;3,10;;;
+LE-P2P-PRO-NA;Lenovo;Phab 2 Pro;Cristal templado;Estándar;1,30;;;
+LE-P2P-PRO-PRI;Lenovo;Phab 2 Pro;Cristal templado;Privacidad;4,00;;;
+LE-P2P-FUN-SIL;Lenovo;Phab 2 Pro;Funda;Silicona;2,50;;;
+LE-P2P-FUN-TPU;Lenovo;Phab 2 Pro;Funda;Transparente;2,95;;;
+LE-P2P-FUN-LIB;Lenovo;Phab 2 Pro;Funda;Libro;3,70;;;
+LE-P2P-FUN-ANT;Lenovo;Phab 2 Pro;Funda;Antigolpes;3,10;;;
+LE-P22-PRO-NA;Lenovo;P2;Cristal templado;Estándar;1,30;;;
+LE-P22-PRO-PRI;Lenovo;P2;Cristal templado;Privacidad;4,00;;;
+LE-P22-FUN-SIL;Lenovo;P2;Funda;Silicona;2,50;;;
+LE-P22-FUN-TPU;Lenovo;P2;Funda;Transparente;2,95;;;
+LE-P22-FUN-LIB;Lenovo;P2;Funda;Libro;3,70;;;
+LE-P22-FUN-ANT;Lenovo;P2;Funda;Antigolpes;3,10;;;
+LE-LPD-PRO-NA;Lenovo;Legion Phone Duel;Cristal templado;Estándar;1,30;;;
+LE-LPD-PRO-NA-FG;Lenovo;Legion Phone Duel;Cristal templado;UV full glue;4,15;;;
+LE-LPD-PRO-PRI;Lenovo;Legion Phone Duel;Cristal templado;Privacidad;4,00;;;
+LE-LPD-FUN-SIL;Lenovo;Legion Phone Duel;Funda;Silicona;2,50;;;
+LE-LPD-FUN-TPU;Lenovo;Legion Phone Duel;Funda;Transparente;2,95;;;
+LE-LPD-FUN-LIB;Lenovo;Legion Phone Duel;Funda;Libro;3,70;;;
+LE-LPD-FUN-ANT;Lenovo;Legion Phone Duel;Funda;Antigolpes;3,10;;;
+LE-LPD2-PRO-NA;Lenovo;Legion Phone Duel 2;Cristal templado;Estándar;1,30;;;
+LE-LPD2-PRO-NA-FG;Lenovo;Legion Phone Duel 2;Cristal templado;UV full glue;4,15;;;
+LE-LPD2-PRO-PRI;Lenovo;Legion Phone Duel 2;Cristal templado;Privacidad;4,00;;;
+LE-LPD2-FUN-SIL;Lenovo;Legion Phone Duel 2;Funda;Silicona;2,50;;;
+LE-LPD2-FUN-TPU;Lenovo;Legion Phone Duel 2;Funda;Transparente;2,95;;;
+LE-LPD2-FUN-LIB;Lenovo;Legion Phone Duel 2;Funda;Libro;3,70;;;
+LE-LPD2-FUN-ANT;Lenovo;Legion Phone Duel 2;Funda;Antigolpes;3,10;;;
+LE-LPD2-PCA-NA;Lenovo;Legion Phone Duel 2;Protector de cámara;Cristal;2,90;;;
+LE-LY70-MAR-COM;Lenovo;Legion Y70;Marco / chasis;Compatible;9,79;;;6
+LE-LY70-BOT-COM;Lenovo;Legion Y70;Botones laterales;Compatible;5,00;;;6
+LE-LY70-CRI-COM;Lenovo;Legion Y70;Cristal de pantalla;Compatible;5,00;;;6
+LE-LY70-ANT-COM;Lenovo;Legion Y70;Antena / coaxial;Compatible;4,35;;;6
+LE-LY70-HUE-COM;Lenovo;Legion Y70;Botón home / huella;Compatible;7,25;;;6
+LE-LY70-NFC-COM;Lenovo;Legion Y70;NFC y carga inalámbrica;Compatible;9,70;;;6
+LE-LY90-MAR-COM;Lenovo;Legion Y90;Marco / chasis;Compatible;9,79;;;6
+LE-LY90-BOT-COM;Lenovo;Legion Y90;Botones laterales;Compatible;5,00;;;6
+LE-LY90-CRI-COM;Lenovo;Legion Y90;Cristal de pantalla;Compatible;5,00;;;6
+LE-LY90-ANT-COM;Lenovo;Legion Y90;Antena / coaxial;Compatible;4,35;;;6
+LE-LY90-HUE-COM;Lenovo;Legion Y90;Botón home / huella;Compatible;7,25;;;6
+LE-LY90-NFC-COM;Lenovo;Legion Y90;NFC y carga inalámbrica;Compatible;9,70;;;6
+LE-L2P-MAR-COM;Lenovo;Legion 2 Pro;Marco / chasis;Compatible;9,79;;;6
+LE-L2P-BOT-COM;Lenovo;Legion 2 Pro;Botones laterales;Compatible;5,00;;;6
+LE-L2P-CRI-COM;Lenovo;Legion 2 Pro;Cristal de pantalla;Compatible;5,00;;;6
+LE-L2P-ANT-COM;Lenovo;Legion 2 Pro;Antena / coaxial;Compatible;4,35;;;6
+LE-L2P-HUE-COM;Lenovo;Legion 2 Pro;Botón home / huella;Compatible;7,25;;;6
+LE-L2P-NFC-COM;Lenovo;Legion 2 Pro;NFC y carga inalámbrica;Compatible;9,70;;;6
+LE-LP-MAR-COM;Lenovo;Legion Pro;Marco / chasis;Compatible;9,79;;;6
+LE-LP-BOT-COM;Lenovo;Legion Pro;Botones laterales;Compatible;5,00;;;6
+LE-LP-CRI-COM;Lenovo;Legion Pro;Cristal de pantalla;Compatible;5,00;;;6
+LE-LP-ANT-COM;Lenovo;Legion Pro;Antena / coaxial;Compatible;4,35;;;6
+LE-LP-HUE-COM;Lenovo;Legion Pro;Botón home / huella;Compatible;7,25;;;6
+LE-LP-NFC-COM;Lenovo;Legion Pro;NFC y carga inalámbrica;Compatible;9,70;;;6
+LE-Z6-MAR-COM;Lenovo;Z6;Marco / chasis;Compatible;6,49;;;6
+LE-Z6-BOT-COM;Lenovo;Z6;Botones laterales;Compatible;3,35;;;6
+LE-Z6-CRI-COM;Lenovo;Z6;Cristal de pantalla;Compatible;3,30;;;6
+LE-Z6-ANT-COM;Lenovo;Z6;Antena / coaxial;Compatible;2,89;;;6
+LE-Z6-HUE-COM;Lenovo;Z6;Botón home / huella;Compatible;4,79;;;6
+LE-Z2PL-MAR-COM;Lenovo;Z2 Plus;Marco / chasis;Compatible;6,49;;;6
+LE-Z2PL-BOT-COM;Lenovo;Z2 Plus;Botones laterales;Compatible;3,35;;;6
+LE-Z2PL-CRI-COM;Lenovo;Z2 Plus;Cristal de pantalla;Compatible;3,30;;;6
+LE-Z2PL-ANT-COM;Lenovo;Z2 Plus;Antena / coaxial;Compatible;2,89;;;6
+LE-Z2PL-HUE-COM;Lenovo;Z2 Plus;Botón home / huella;Compatible;4,79;;;6
+LE-K6-MAR-COM;Lenovo;K6;Marco / chasis;Compatible;5,00;;;6
+LE-K6-BOT-COM;Lenovo;K6;Botones laterales;Compatible;2,55;;;6
+LE-K6-CRI-COM;Lenovo;K6;Cristal de pantalla;Compatible;2,55;;;6
+LE-K6-ANT-COM;Lenovo;K6;Antena / coaxial;Compatible;2,25;;;6
+LE-K6-HUE-COM;Lenovo;K6;Botón home / huella;Compatible;3,70;;;6
+LE-K6PW-MAR-COM;Lenovo;K6 Power;Marco / chasis;Compatible;5,00;;;6
+LE-K6PW-BOT-COM;Lenovo;K6 Power;Botones laterales;Compatible;2,55;;;6
+LE-K6PW-CRI-COM;Lenovo;K6 Power;Cristal de pantalla;Compatible;2,55;;;6
+LE-K6PW-ANT-COM;Lenovo;K6 Power;Antena / coaxial;Compatible;2,25;;;6
+LE-K6PW-HUE-COM;Lenovo;K6 Power;Botón home / huella;Compatible;3,70;;;6
+LE-P2PL-MAR-COM;Lenovo;Phab 2 Plus;Marco / chasis;Compatible;5,00;;;6
+LE-P2PL-BOT-COM;Lenovo;Phab 2 Plus;Botones laterales;Compatible;2,55;;;6
+LE-P2PL-CRI-COM;Lenovo;Phab 2 Plus;Cristal de pantalla;Compatible;2,55;;;6
+LE-P2PL-ANT-COM;Lenovo;Phab 2 Plus;Antena / coaxial;Compatible;2,25;;;6
+LE-P2PL-HUE-COM;Lenovo;Phab 2 Plus;Botón home / huella;Compatible;3,70;;;6
+LE-ZUKZ2-MAR-COM;Lenovo;ZUK Z2;Marco / chasis;Compatible;5,00;;;6
+LE-ZUKZ2-BOT-COM;Lenovo;ZUK Z2;Botones laterales;Compatible;2,55;;;6
+LE-ZUKZ2-CRI-COM;Lenovo;ZUK Z2;Cristal de pantalla;Compatible;2,55;;;6
+LE-ZUKZ2-ANT-COM;Lenovo;ZUK Z2;Antena / coaxial;Compatible;2,25;;;6
+LE-ZUKZ2-HUE-COM;Lenovo;ZUK Z2;Botón home / huella;Compatible;3,70;;;6
+LE-VK5PL-MAR-COM;Lenovo;Vibe K5 Plus;Marco / chasis;Compatible;5,00;;;6
+LE-VK5PL-BOT-COM;Lenovo;Vibe K5 Plus;Botones laterales;Compatible;2,55;;;6
+LE-VK5PL-CRI-COM;Lenovo;Vibe K5 Plus;Cristal de pantalla;Compatible;2,55;;;6
+LE-VK5PL-ANT-COM;Lenovo;Vibe K5 Plus;Antena / coaxial;Compatible;2,25;;;6
+LE-VK5PL-HUE-COM;Lenovo;Vibe K5 Plus;Botón home / huella;Compatible;3,70;;;6
+LE-VP1T-MAR-COM;Lenovo;Vibe P1 Turbo;Marco / chasis;Compatible;5,00;;;6
+LE-VP1T-BOT-COM;Lenovo;Vibe P1 Turbo;Botones laterales;Compatible;2,55;;;6
+LE-VP1T-CRI-COM;Lenovo;Vibe P1 Turbo;Cristal de pantalla;Compatible;2,55;;;6
+LE-VP1T-ANT-COM;Lenovo;Vibe P1 Turbo;Antena / coaxial;Compatible;2,25;;;6
+LE-VP1T-HUE-COM;Lenovo;Vibe P1 Turbo;Botón home / huella;Compatible;3,70;;;6
+LE-K5N-MAR-COM;Lenovo;K5 Note;Marco / chasis;Compatible;5,00;;;6
+LE-K5N-BOT-COM;Lenovo;K5 Note;Botones laterales;Compatible;2,55;;;6
+LE-K5N-CRI-COM;Lenovo;K5 Note;Cristal de pantalla;Compatible;2,55;;;6
+LE-K5N-ANT-COM;Lenovo;K5 Note;Antena / coaxial;Compatible;2,25;;;6
+LE-K5N-HUE-COM;Lenovo;K5 Note;Botón home / huella;Compatible;3,70;;;6
+LE-VK4N-MAR-COM;Lenovo;Vibe K4 Note;Marco / chasis;Compatible;5,00;;;6
+LE-VK4N-BOT-COM;Lenovo;Vibe K4 Note;Botones laterales;Compatible;2,55;;;6
+LE-VK4N-CRI-COM;Lenovo;Vibe K4 Note;Cristal de pantalla;Compatible;2,55;;;6
+LE-VK4N-ANT-COM;Lenovo;Vibe K4 Note;Antena / coaxial;Compatible;2,25;;;6
+LE-VK4N-HUE-COM;Lenovo;Vibe K4 Note;Botón home / huella;Compatible;3,70;;;6
+LE-VP1-MAR-COM;Lenovo;Vibe P1;Marco / chasis;Compatible;5,00;;;6
+LE-VP1-BOT-COM;Lenovo;Vibe P1;Botones laterales;Compatible;2,55;;;6
+LE-VP1-CRI-COM;Lenovo;Vibe P1;Cristal de pantalla;Compatible;2,55;;;6
+LE-VP1-ANT-COM;Lenovo;Vibe P1;Antena / coaxial;Compatible;2,25;;;6
+LE-ZUKZ1-MAR-COM;Lenovo;ZUK Z1;Marco / chasis;Compatible;5,00;;;6
+LE-ZUKZ1-BOT-COM;Lenovo;ZUK Z1;Botones laterales;Compatible;2,55;;;6
+LE-ZUKZ1-CRI-COM;Lenovo;ZUK Z1;Cristal de pantalla;Compatible;2,55;;;6
+LE-ZUKZ1-ANT-COM;Lenovo;ZUK Z1;Antena / coaxial;Compatible;2,25;;;6
+LE-VX2-MAR-COM;Lenovo;Vibe X2;Marco / chasis;Compatible;5,00;;;6
+LE-VX2-BOT-COM;Lenovo;Vibe X2;Botones laterales;Compatible;2,55;;;6
+LE-VX2-ANT-COM;Lenovo;Vibe X2;Antena / coaxial;Compatible;2,25;;;6
+LE-VZ2-MAR-COM;Lenovo;Vibe Z2;Marco / chasis;Compatible;5,00;;;6
+LE-VZ2-BOT-COM;Lenovo;Vibe Z2;Botones laterales;Compatible;2,55;;;6
+LE-VZ2-ANT-COM;Lenovo;Vibe Z2;Antena / coaxial;Compatible;2,25;;;6
+LE-VZ2P-MAR-COM;Lenovo;Vibe Z2 Pro;Marco / chasis;Compatible;5,00;;;6
+LE-VZ2P-BOT-COM;Lenovo;Vibe Z2 Pro;Botones laterales;Compatible;2,55;;;6
+LE-VZ2P-ANT-COM;Lenovo;Vibe Z2 Pro;Antena / coaxial;Compatible;2,25;;;6
+LE-A526-MAR-COM;Lenovo;A526;Marco / chasis;Compatible;5,00;;;6
+LE-A526-BOT-COM;Lenovo;A526;Botones laterales;Compatible;2,55;;;6
+LE-A526-ANT-COM;Lenovo;A526;Antena / coaxial;Compatible;2,25;;;6
+LE-A680-MAR-COM;Lenovo;A680;Marco / chasis;Compatible;5,00;;;6
+LE-A680-BOT-COM;Lenovo;A680;Botones laterales;Compatible;2,55;;;6
+LE-A680-ANT-COM;Lenovo;A680;Antena / coaxial;Compatible;2,25;;;6
+LE-A536-MAR-COM;Lenovo;A536;Marco / chasis;Compatible;5,00;;;6
+LE-A536-BOT-COM;Lenovo;A536;Botones laterales;Compatible;2,55;;;6
+LE-A536-ANT-COM;Lenovo;A536;Antena / coaxial;Compatible;2,25;;;6
+LE-VZ-MAR-COM;Lenovo;Vibe Z;Marco / chasis;Compatible;5,00;;;6
+LE-VZ-BOT-COM;Lenovo;Vibe Z;Botones laterales;Compatible;2,55;;;6
+LE-VZ-ANT-COM;Lenovo;Vibe Z;Antena / coaxial;Compatible;2,25;;;6
+LE-P780-MAR-COM;Lenovo;P780;Marco / chasis;Compatible;5,75;;;6
+LE-P780-BOT-COM;Lenovo;P780;Botones laterales;Compatible;2,95;;;6
+LE-P780-ANT-COM;Lenovo;P780;Antena / coaxial;Compatible;2,55;;;6
+LE-IA820-MAR-COM;Lenovo;IdeaPhone A820;Marco / chasis;Compatible;5,00;;;6
+LE-IA820-BOT-COM;Lenovo;IdeaPhone A820;Botones laterales;Compatible;2,55;;;6
+LE-IA820-ANT-COM;Lenovo;IdeaPhone A820;Antena / coaxial;Compatible;2,25;;;6
+LE-Z2-MAR-COM;Lenovo;Z2;Marco / chasis;Compatible;6,49;;;6
+LE-Z2-BOT-COM;Lenovo;Z2;Botones laterales;Compatible;3,35;;;6
+LE-Z2-CRI-COM;Lenovo;Z2;Cristal de pantalla;Compatible;3,30;;;6
+LE-Z2-ANT-COM;Lenovo;Z2;Antena / coaxial;Compatible;2,89;;;6
+LE-Z2-HUE-COM;Lenovo;Z2;Botón home / huella;Compatible;4,79;;;6
+LE-Z6P-MAR-COM;Lenovo;Z6 Pro;Marco / chasis;Compatible;6,49;;;6
+LE-Z6P-BOT-COM;Lenovo;Z6 Pro;Botones laterales;Compatible;3,35;;;6
+LE-Z6P-CRI-COM;Lenovo;Z6 Pro;Cristal de pantalla;Compatible;3,30;;;6
+LE-Z6P-ANT-COM;Lenovo;Z6 Pro;Antena / coaxial;Compatible;2,89;;;6
+LE-Z6P-HUE-COM;Lenovo;Z6 Pro;Botón home / huella;Compatible;4,79;;;6
+LE-Z6P5-MAR-COM;Lenovo;Z6 Pro 5G;Marco / chasis;Compatible;6,49;;;6
+LE-Z6P5-BOT-COM;Lenovo;Z6 Pro 5G;Botones laterales;Compatible;3,35;;;6
+LE-Z6P5-CRI-COM;Lenovo;Z6 Pro 5G;Cristal de pantalla;Compatible;3,30;;;6
+LE-Z6P5-ANT-COM;Lenovo;Z6 Pro 5G;Antena / coaxial;Compatible;2,89;;;6
+LE-Z6P5-HUE-COM;Lenovo;Z6 Pro 5G;Botón home / huella;Compatible;4,79;;;6
+LE-VB-MAR-COM;Lenovo;Vibe B;Marco / chasis;Compatible;5,00;;;6
+LE-VB-BOT-COM;Lenovo;Vibe B;Botones laterales;Compatible;2,55;;;6
+LE-VB-CRI-COM;Lenovo;Vibe B;Cristal de pantalla;Compatible;2,55;;;6
+LE-VB-ANT-COM;Lenovo;Vibe B;Antena / coaxial;Compatible;2,25;;;6
+LE-VB-HUE-COM;Lenovo;Vibe B;Botón home / huella;Compatible;3,70;;;6
+LE-VK5-MAR-COM;Lenovo;Vibe K5;Marco / chasis;Compatible;5,00;;;6
+LE-VK5-BOT-COM;Lenovo;Vibe K5;Botones laterales;Compatible;2,55;;;6
+LE-VK5-CRI-COM;Lenovo;Vibe K5;Cristal de pantalla;Compatible;2,55;;;6
+LE-VK5-ANT-COM;Lenovo;Vibe K5;Antena / coaxial;Compatible;2,25;;;6
+LE-VK5-HUE-COM;Lenovo;Vibe K5;Botón home / huella;Compatible;3,70;;;6
+LE-P2-MAR-COM;Lenovo;Phab 2;Marco / chasis;Compatible;5,00;;;6
+LE-P2-BOT-COM;Lenovo;Phab 2;Botones laterales;Compatible;2,55;;;6
+LE-P2-CRI-COM;Lenovo;Phab 2;Cristal de pantalla;Compatible;2,55;;;6
+LE-P2-ANT-COM;Lenovo;Phab 2;Antena / coaxial;Compatible;2,25;;;6
+LE-P2-HUE-COM;Lenovo;Phab 2;Botón home / huella;Compatible;3,70;;;6
+LE-P2P-MAR-COM;Lenovo;Phab 2 Pro;Marco / chasis;Compatible;5,00;;;6
+LE-P2P-BOT-COM;Lenovo;Phab 2 Pro;Botones laterales;Compatible;2,55;;;6
+LE-P2P-CRI-COM;Lenovo;Phab 2 Pro;Cristal de pantalla;Compatible;2,55;;;6
+LE-P2P-ANT-COM;Lenovo;Phab 2 Pro;Antena / coaxial;Compatible;2,25;;;6
+LE-P2P-HUE-COM;Lenovo;Phab 2 Pro;Botón home / huella;Compatible;3,70;;;6
+LE-P22-MAR-COM;Lenovo;P2;Marco / chasis;Compatible;5,75;;;6
+LE-P22-BOT-COM;Lenovo;P2;Botones laterales;Compatible;2,95;;;6
+LE-P22-CRI-COM;Lenovo;P2;Cristal de pantalla;Compatible;2,95;;;6
+LE-P22-ANT-COM;Lenovo;P2;Antena / coaxial;Compatible;2,55;;;6
+LE-P22-HUE-COM;Lenovo;P2;Botón home / huella;Compatible;4,25;;;6
+LE-LPD-MAR-COM;Lenovo;Legion Phone Duel;Marco / chasis;Compatible;9,79;;;6
+LE-LPD-BOT-COM;Lenovo;Legion Phone Duel;Botones laterales;Compatible;5,00;;;6
+LE-LPD-CRI-COM;Lenovo;Legion Phone Duel;Cristal de pantalla;Compatible;5,00;;;6
+LE-LPD-ANT-COM;Lenovo;Legion Phone Duel;Antena / coaxial;Compatible;4,35;;;6
+LE-LPD-HUE-COM;Lenovo;Legion Phone Duel;Botón home / huella;Compatible;7,25;;;6
+LE-LPD-NFC-COM;Lenovo;Legion Phone Duel;NFC y carga inalámbrica;Compatible;9,70;;;6
+LE-LPD2-MAR-COM;Lenovo;Legion Phone Duel 2;Marco / chasis;Compatible;9,79;;;6
+LE-LPD2-BOT-COM;Lenovo;Legion Phone Duel 2;Botones laterales;Compatible;5,00;;;6
+LE-LPD2-CRI-COM;Lenovo;Legion Phone Duel 2;Cristal de pantalla;Compatible;5,00;;;6
+LE-LPD2-ANT-COM;Lenovo;Legion Phone Duel 2;Antena / coaxial;Compatible;4,35;;;6
+LE-LPD2-HUE-COM;Lenovo;Legion Phone Duel 2;Botón home / huella;Compatible;7,25;;;6
+LE-LPD2-NFC-COM;Lenovo;Legion Phone Duel 2;NFC y carga inalámbrica;Compatible;9,70;;;6

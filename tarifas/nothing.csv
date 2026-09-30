@@ -1,0 +1,341 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+NT-P1-PAN-INC;Nothing;Phone (1);Pantalla;Incell;19,25;18,67;18,10;6
+NT-P1-BAT-COM;Nothing;Phone (1);Batería;Compatible;8,89;;;6
+NT-P1-CON-COM;Nothing;Phone (1);Conector de carga;Compatible;4,10;;;6
+NT-P1-TAP-COM-BLA;Nothing;Phone (1);Tapa trasera;Blanco;5,60;;;6
+NT-P1-TAP-COM-NEG;Nothing;Phone (1);Tapa trasera;Negro;5,60;;;6
+NT-P1-CTR-COM;Nothing;Phone (1);Cámara trasera;Compatible;7,50;;;6
+NT-P1-CFR-COM;Nothing;Phone (1);Cámara frontal;Compatible;3,89;;;6
+NT-P1-LEN-COM;Nothing;Phone (1);Lente de cámara;Compatible;2,65;;;6
+NT-P1-ALT-COM;Nothing;Phone (1);Altavoz;Compatible;3,70;;;6
+NT-P1-AUR-COM;Nothing;Phone (1);Auricular de llamada;Compatible;2,99;;;6
+NT-P1-FLX-COM;Nothing;Phone (1);Flex de encendido y volumen;Compatible;2,99;;;6
+NT-P1-SIM-COM;Nothing;Phone (1);Bandeja SIM;Compatible;2,99;;;6
+NT-P2-PAN-INC;Nothing;Phone (2);Pantalla;Incell;20,50;19,88;19,27;6
+NT-P2-BAT-COM;Nothing;Phone (2);Batería;Compatible;10,15;9,85;9,54;6
+NT-P2-CON-COM;Nothing;Phone (2);Conector de carga;Compatible;4,70;;;6
+NT-P2-TAP-COM-BLA;Nothing;Phone (2);Tapa trasera;Blanco;6,29;;;6
+NT-P2-TAP-COM-GRI;Nothing;Phone (2);Tapa trasera;Gris (Dark Grey);6,29;;;6
+NT-P2-CTR-COM;Nothing;Phone (2);Cámara trasera;Compatible;10,55;10,23;9,92;6
+NT-P2-CFR-COM;Nothing;Phone (2);Cámara frontal;Compatible;5,69;;;6
+NT-P2-LEN-COM;Nothing;Phone (2);Lente de cámara;Compatible;2,75;;;6
+NT-P2-ALT-COM;Nothing;Phone (2);Altavoz;Compatible;3,99;;;6
+NT-P2-AUR-COM;Nothing;Phone (2);Auricular de llamada;Compatible;3,29;;;6
+NT-P2-FLX-COM;Nothing;Phone (2);Flex de encendido y volumen;Compatible;3,60;;;6
+NT-P2-SIM-COM;Nothing;Phone (2);Bandeja SIM;Compatible;2,95;;;6
+NT-P2A-PAN-INC;Nothing;Phone (2a);Pantalla;Incell;19,99;19,39;18,79;6
+NT-P2A-BAT-COM;Nothing;Phone (2a);Batería;Compatible;9,40;;;6
+NT-P2A-CON-COM;Nothing;Phone (2a);Conector de carga;Compatible;5,05;;;6
+NT-P2A-TAP-COM-NEG;Nothing;Phone (2a);Tapa trasera;Negro;6,20;;;6
+NT-P2A-TAP-COM-BLA;Nothing;Phone (2a);Tapa trasera;Blanco;6,20;;;6
+NT-P2A-CTR-COM;Nothing;Phone (2a);Cámara trasera;Compatible;8,65;;;6
+NT-P2A-CFR-COM;Nothing;Phone (2a);Cámara frontal;Compatible;5,35;;;6
+NT-P2A-LEN-COM;Nothing;Phone (2a);Lente de cámara;Compatible;2,30;;;6
+NT-P2A-ALT-COM;Nothing;Phone (2a);Altavoz;Compatible;3,60;;;6
+NT-P2A-AUR-COM;Nothing;Phone (2a);Auricular de llamada;Compatible;2,65;;;6
+NT-P2A-FLX-COM;Nothing;Phone (2a);Flex de encendido y volumen;Compatible;2,79;;;6
+NT-P2A-SIM-COM;Nothing;Phone (2a);Bandeja SIM;Compatible;2,55;;;6
+NT-P2APL-PAN-INC;Nothing;Phone (2a) Plus;Pantalla;Incell;19,99;19,39;18,79;6
+NT-P2APL-BAT-COM;Nothing;Phone (2a) Plus;Batería;Compatible;9,40;;;6
+NT-P2APL-CON-COM;Nothing;Phone (2a) Plus;Conector de carga;Compatible;5,05;;;6
+NT-P2APL-TAP-COM-GRI;Nothing;Phone (2a) Plus;Tapa trasera;Gris;6,20;;;6
+NT-P2APL-TAP-COM-NEG;Nothing;Phone (2a) Plus;Tapa trasera;Negro;6,20;;;6
+NT-P2APL-CTR-COM;Nothing;Phone (2a) Plus;Cámara trasera;Compatible;8,65;;;6
+NT-P2APL-CFR-COM;Nothing;Phone (2a) Plus;Cámara frontal;Compatible;5,35;;;6
+NT-P2APL-LEN-COM;Nothing;Phone (2a) Plus;Lente de cámara;Compatible;2,30;;;6
+NT-P2APL-ALT-COM;Nothing;Phone (2a) Plus;Altavoz;Compatible;3,60;;;6
+NT-P2APL-AUR-COM;Nothing;Phone (2a) Plus;Auricular de llamada;Compatible;2,65;;;6
+NT-P2APL-FLX-COM;Nothing;Phone (2a) Plus;Flex de encendido y volumen;Compatible;2,79;;;6
+NT-P2APL-SIM-COM;Nothing;Phone (2a) Plus;Bandeja SIM;Compatible;2,55;;;6
+NT-P3A-PAN-INC;Nothing;Phone (3a);Pantalla;Incell;21,05;20,42;19,79;6
+NT-P3A-BAT-COM;Nothing;Phone (3a);Batería;Compatible;8,89;;;6
+NT-P3A-CON-COM;Nothing;Phone (3a);Conector de carga;Compatible;6,00;;;6
+NT-P3A-TAP-COM-NEG;Nothing;Phone (3a);Tapa trasera;Negro;6,65;;;6
+NT-P3A-TAP-COM-BLA;Nothing;Phone (3a);Tapa trasera;Blanco;6,65;;;6
+NT-P3A-TAP-COM-AZU;Nothing;Phone (3a);Tapa trasera;Azul;6,65;;;6
+NT-P3A-CTR-COM;Nothing;Phone (3a);Cámara trasera;Compatible;11,85;11,49;11,14;6
+NT-P3A-CFR-COM;Nothing;Phone (3a);Cámara frontal;Compatible;7,49;;;6
+NT-P3A-LEN-COM;Nothing;Phone (3a);Lente de cámara;Compatible;2,95;;;6
+NT-P3A-ALT-COM;Nothing;Phone (3a);Altavoz;Compatible;4,75;;;6
+NT-P3A-AUR-COM;Nothing;Phone (3a);Auricular de llamada;Compatible;3,70;;;6
+NT-P3A-FLX-COM;Nothing;Phone (3a);Flex de encendido y volumen;Compatible;3,05;;;6
+NT-P3A-SIM-COM;Nothing;Phone (3a);Bandeja SIM;Compatible;3,00;;;6
+NT-P3AP-PAN-INC;Nothing;Phone (3a) Pro;Pantalla;Incell;21,05;20,42;19,79;6
+NT-P3AP-BAT-COM;Nothing;Phone (3a) Pro;Batería;Compatible;8,89;;;6
+NT-P3AP-CON-COM;Nothing;Phone (3a) Pro;Conector de carga;Compatible;6,00;;;6
+NT-P3AP-TAP-COM-GRI;Nothing;Phone (3a) Pro;Tapa trasera;Gris;6,65;;;6
+NT-P3AP-TAP-COM-NEG;Nothing;Phone (3a) Pro;Tapa trasera;Negro;6,65;;;6
+NT-P3AP-CTR-COM;Nothing;Phone (3a) Pro;Cámara trasera;Compatible;11,85;11,49;11,14;6
+NT-P3AP-CFR-COM;Nothing;Phone (3a) Pro;Cámara frontal;Compatible;7,49;;;6
+NT-P3AP-LEN-COM;Nothing;Phone (3a) Pro;Lente de cámara;Compatible;2,95;;;6
+NT-P3AP-ALT-COM;Nothing;Phone (3a) Pro;Altavoz;Compatible;4,75;;;6
+NT-P3AP-AUR-COM;Nothing;Phone (3a) Pro;Auricular de llamada;Compatible;3,70;;;6
+NT-P3AP-FLX-COM;Nothing;Phone (3a) Pro;Flex de encendido y volumen;Compatible;3,05;;;6
+NT-P3AP-SIM-COM;Nothing;Phone (3a) Pro;Bandeja SIM;Compatible;3,00;;;6
+NT-P3-PAN-INC;Nothing;Phone (3);Pantalla;Incell;21,59;20,94;20,29;6
+NT-P3-BAT-COM;Nothing;Phone (3);Batería;Compatible;9,55;;;6
+NT-P3-CON-COM;Nothing;Phone (3);Conector de carga;Compatible;5,60;;;6
+NT-P3-TAP-COM-BLA;Nothing;Phone (3);Tapa trasera;Blanco;6,75;;;6
+NT-P3-TAP-COM-NEG;Nothing;Phone (3);Tapa trasera;Negro;6,75;;;6
+NT-P3-CTR-COM;Nothing;Phone (3);Cámara trasera;Compatible;14,40;13,97;13,54;6
+NT-P3-CFR-COM;Nothing;Phone (3);Cámara frontal;Compatible;7,90;;;6
+NT-P3-LEN-COM;Nothing;Phone (3);Lente de cámara;Compatible;3,55;;;6
+NT-P3-ALT-COM;Nothing;Phone (3);Altavoz;Compatible;5,25;;;6
+NT-P3-AUR-COM;Nothing;Phone (3);Auricular de llamada;Compatible;4,60;;;6
+NT-P3-FLX-COM;Nothing;Phone (3);Flex de encendido y volumen;Compatible;3,95;;;6
+NT-P3-SIM-COM;Nothing;Phone (3);Bandeja SIM;Compatible;3,45;;;6
+NT-P3AL-PAN-INC;Nothing;Phone (3a) Lite;Pantalla;Incell;21,05;20,42;19,79;6
+NT-P3AL-BAT-COM;Nothing;Phone (3a) Lite;Batería;Compatible;8,89;;;6
+NT-P3AL-CON-COM;Nothing;Phone (3a) Lite;Conector de carga;Compatible;6,00;;;6
+NT-P3AL-TAP-COM-NEG;Nothing;Phone (3a) Lite;Tapa trasera;Negro;6,65;;;6
+NT-P3AL-TAP-COM-BLA;Nothing;Phone (3a) Lite;Tapa trasera;Blanco;6,65;;;6
+NT-P3AL-TAP-COM-AZU;Nothing;Phone (3a) Lite;Tapa trasera;Azul;6,65;;;6
+NT-P3AL-CTR-COM;Nothing;Phone (3a) Lite;Cámara trasera;Compatible;11,85;11,49;11,14;6
+NT-P3AL-CFR-COM;Nothing;Phone (3a) Lite;Cámara frontal;Compatible;7,49;;;6
+NT-P3AL-LEN-COM;Nothing;Phone (3a) Lite;Lente de cámara;Compatible;2,95;;;6
+NT-P3AL-ALT-COM;Nothing;Phone (3a) Lite;Altavoz;Compatible;4,75;;;6
+NT-P3AL-AUR-COM;Nothing;Phone (3a) Lite;Auricular de llamada;Compatible;3,70;;;6
+NT-P3AL-FLX-COM;Nothing;Phone (3a) Lite;Flex de encendido y volumen;Compatible;3,05;;;6
+NT-P3AL-SIM-COM;Nothing;Phone (3a) Lite;Bandeja SIM;Compatible;3,00;;;6
+NT-P4A-PAN-INC;Nothing;Phone (4a);Pantalla;Incell;21,05;20,42;19,79;6
+NT-P4A-BAT-COM;Nothing;Phone (4a);Batería;Compatible;8,89;;;6
+NT-P4A-CON-COM;Nothing;Phone (4a);Conector de carga;Compatible;6,00;;;6
+NT-P4A-TAP-COM-ROS;Nothing;Phone (4a);Tapa trasera;Rosa;6,65;;;6
+NT-P4A-TAP-COM-BLA;Nothing;Phone (4a);Tapa trasera;Blanco;6,65;;;6
+NT-P4A-TAP-COM-NEG;Nothing;Phone (4a);Tapa trasera;Negro;6,65;;;6
+NT-P4A-TAP-COM-AZU;Nothing;Phone (4a);Tapa trasera;Azul;6,65;;;6
+NT-P4A-CTR-COM;Nothing;Phone (4a);Cámara trasera;Compatible;11,85;11,49;11,14;6
+NT-P4A-CFR-COM;Nothing;Phone (4a);Cámara frontal;Compatible;7,49;;;6
+NT-P4A-LEN-COM;Nothing;Phone (4a);Lente de cámara;Compatible;2,95;;;6
+NT-P4A-ALT-COM;Nothing;Phone (4a);Altavoz;Compatible;4,75;;;6
+NT-P4A-AUR-COM;Nothing;Phone (4a);Auricular de llamada;Compatible;3,70;;;6
+NT-P4A-FLX-COM;Nothing;Phone (4a);Flex de encendido y volumen;Compatible;3,05;;;6
+NT-P4A-SIM-COM;Nothing;Phone (4a);Bandeja SIM;Compatible;3,00;;;6
+NT-P4AP-PAN-INC;Nothing;Phone (4a) Pro;Pantalla;Incell;21,05;20,42;19,79;6
+NT-P4AP-BAT-COM;Nothing;Phone (4a) Pro;Batería;Compatible;8,89;;;6
+NT-P4AP-CON-COM;Nothing;Phone (4a) Pro;Conector de carga;Compatible;6,00;;;6
+NT-P4AP-TAP-COM-NEG;Nothing;Phone (4a) Pro;Tapa trasera;Negro;6,65;;;6
+NT-P4AP-TAP-COM-PLA;Nothing;Phone (4a) Pro;Tapa trasera;Plata;6,65;;;6
+NT-P4AP-TAP-COM-ROS;Nothing;Phone (4a) Pro;Tapa trasera;Rosa;6,65;;;6
+NT-P4AP-CTR-COM;Nothing;Phone (4a) Pro;Cámara trasera;Compatible;11,85;11,49;11,14;6
+NT-P4AP-CFR-COM;Nothing;Phone (4a) Pro;Cámara frontal;Compatible;7,49;;;6
+NT-P4AP-LEN-COM;Nothing;Phone (4a) Pro;Lente de cámara;Compatible;2,95;;;6
+NT-P4AP-ALT-COM;Nothing;Phone (4a) Pro;Altavoz;Compatible;4,75;;;6
+NT-P4AP-AUR-COM;Nothing;Phone (4a) Pro;Auricular de llamada;Compatible;3,70;;;6
+NT-P4AP-FLX-COM;Nothing;Phone (4a) Pro;Flex de encendido y volumen;Compatible;3,05;;;6
+NT-P4AP-SIM-COM;Nothing;Phone (4a) Pro;Bandeja SIM;Compatible;3,00;;;6
+NT-P4B-PAN-INC;Nothing;Phone (4b);Pantalla;Incell;21,05;20,42;19,79;6
+NT-P4B-BAT-COM;Nothing;Phone (4b);Batería;Compatible;8,89;;;6
+NT-P4B-CON-COM;Nothing;Phone (4b);Conector de carga;Compatible;6,00;;;6
+NT-P4B-TAP-COM-BLA;Nothing;Phone (4b);Tapa trasera;Blanco;6,65;;;6
+NT-P4B-TAP-COM-NEG;Nothing;Phone (4b);Tapa trasera;Negro;6,65;;;6
+NT-P4B-TAP-COM-AZU;Nothing;Phone (4b);Tapa trasera;Azul;6,65;;;6
+NT-P4B-CTR-COM;Nothing;Phone (4b);Cámara trasera;Compatible;11,85;11,49;11,14;6
+NT-P4B-CFR-COM;Nothing;Phone (4b);Cámara frontal;Compatible;7,49;;;6
+NT-P4B-LEN-COM;Nothing;Phone (4b);Lente de cámara;Compatible;2,95;;;6
+NT-P4B-ALT-COM;Nothing;Phone (4b);Altavoz;Compatible;4,75;;;6
+NT-P4B-AUR-COM;Nothing;Phone (4b);Auricular de llamada;Compatible;3,70;;;6
+NT-P4B-FLX-COM;Nothing;Phone (4b);Flex de encendido y volumen;Compatible;3,05;;;6
+NT-P4B-SIM-COM;Nothing;Phone (4b);Bandeja SIM;Compatible;3,00;;;6
+NT-CMFP2P2-PAN-COM;Nothing;CMF Phone 2 Pro;Pantalla;Compatible;18,50;17,95;17,39;6
+NT-CMFP2P2-BAT-COM;Nothing;CMF Phone 2 Pro;Batería;Compatible;9,55;;;6
+NT-CMFP2P2-CON-COM;Nothing;CMF Phone 2 Pro;Conector de carga;Compatible;5,60;;;6
+NT-CMFP2P2-TAP-COM;Nothing;CMF Phone 2 Pro;Tapa trasera;Compatible;6,75;;;6
+NT-CMFP2P2-CTR-COM;Nothing;CMF Phone 2 Pro;Cámara trasera;Compatible;14,40;13,97;13,54;6
+NT-CMFP2P2-CFR-COM;Nothing;CMF Phone 2 Pro;Cámara frontal;Compatible;7,90;;;6
+NT-CMFP2P2-LEN-COM;Nothing;CMF Phone 2 Pro;Lente de cámara;Compatible;3,55;;;6
+NT-CMFP2P2-ALT-COM;Nothing;CMF Phone 2 Pro;Altavoz;Compatible;5,25;;;6
+NT-CMFP2P2-AUR-COM;Nothing;CMF Phone 2 Pro;Auricular de llamada;Compatible;4,60;;;6
+NT-CMFP2P2-FLX-COM;Nothing;CMF Phone 2 Pro;Flex de encendido y volumen;Compatible;3,95;;;6
+NT-CMFP2P2-SIM-COM;Nothing;CMF Phone 2 Pro;Bandeja SIM;Compatible;3,45;;;6
+NT-CMFPHONE-PAN-COM;Nothing;CMF Phone 1;Pantalla;Compatible;17,59;17,06;16,53;6
+NT-CMFPHONE-BAT-COM;Nothing;CMF Phone 1;Batería;Compatible;10,15;9,85;9,54;6
+NT-CMFPHONE-CON-COM;Nothing;CMF Phone 1;Conector de carga;Compatible;4,70;;;6
+NT-CMFPHONE-TAP-COM;Nothing;CMF Phone 1;Tapa trasera;Compatible;6,29;;;6
+NT-CMFPHONE-CTR-COM;Nothing;CMF Phone 1;Cámara trasera;Compatible;10,55;10,23;9,92;6
+NT-CMFPHONE-CFR-COM;Nothing;CMF Phone 1;Cámara frontal;Compatible;5,69;;;6
+NT-CMFPHONE-LEN-COM;Nothing;CMF Phone 1;Lente de cámara;Compatible;2,75;;;6
+NT-CMFPHONE-ALT-COM;Nothing;CMF Phone 1;Altavoz;Compatible;3,99;;;6
+NT-CMFPHONE-AUR-COM;Nothing;CMF Phone 1;Auricular de llamada;Compatible;3,29;;;6
+NT-CMFPHONE-FLX-COM;Nothing;CMF Phone 1;Flex de encendido y volumen;Compatible;3,60;;;6
+NT-CMFPHONE-SIM-COM;Nothing;CMF Phone 1;Bandeja SIM;Compatible;2,95;;;6
+NT-P1-PRO-NA;Nothing;Phone (1);Cristal templado;Estándar;1,30;;;
+NT-P1-PRO-PRI;Nothing;Phone (1);Cristal templado;Privacidad;4,00;;;
+NT-P1-FUN-SIL;Nothing;Phone (1);Funda;Silicona;2,50;;;
+NT-P1-FUN-TPU;Nothing;Phone (1);Funda;Transparente;2,95;;;
+NT-P1-FUN-LIB;Nothing;Phone (1);Funda;Libro;3,70;;;
+NT-P1-FUN-ANT;Nothing;Phone (1);Funda;Antigolpes;3,10;;;
+NT-P1-PCA-NA;Nothing;Phone (1);Protector de cámara;Cristal;2,90;;;
+NT-P2-PRO-NA;Nothing;Phone (2);Cristal templado;Estándar;1,30;;;
+NT-P2-PRO-PRI;Nothing;Phone (2);Cristal templado;Privacidad;4,00;;;
+NT-P2-FUN-SIL;Nothing;Phone (2);Funda;Silicona;2,50;;;
+NT-P2-FUN-TPU;Nothing;Phone (2);Funda;Transparente;2,95;;;
+NT-P2-FUN-LIB;Nothing;Phone (2);Funda;Libro;3,70;;;
+NT-P2-FUN-ANT;Nothing;Phone (2);Funda;Antigolpes;3,10;;;
+NT-P2-PCA-NA;Nothing;Phone (2);Protector de cámara;Cristal;2,90;;;
+NT-P2A-PRO-NA;Nothing;Phone (2a);Cristal templado;Estándar;1,30;;;
+NT-P2A-PRO-PRI;Nothing;Phone (2a);Cristal templado;Privacidad;4,00;;;
+NT-P2A-FUN-SIL;Nothing;Phone (2a);Funda;Silicona;2,50;;;
+NT-P2A-FUN-TPU;Nothing;Phone (2a);Funda;Transparente;2,95;;;
+NT-P2A-FUN-LIB;Nothing;Phone (2a);Funda;Libro;3,70;;;
+NT-P2A-FUN-ANT;Nothing;Phone (2a);Funda;Antigolpes;3,10;;;
+NT-P2A-PCA-NA;Nothing;Phone (2a);Protector de cámara;Cristal;2,90;;;
+NT-P2APL-PRO-NA;Nothing;Phone (2a) Plus;Cristal templado;Estándar;1,30;;;
+NT-P2APL-PRO-PRI;Nothing;Phone (2a) Plus;Cristal templado;Privacidad;4,00;;;
+NT-P2APL-FUN-SIL;Nothing;Phone (2a) Plus;Funda;Silicona;2,50;;;
+NT-P2APL-FUN-TPU;Nothing;Phone (2a) Plus;Funda;Transparente;2,95;;;
+NT-P2APL-FUN-LIB;Nothing;Phone (2a) Plus;Funda;Libro;3,70;;;
+NT-P2APL-FUN-ANT;Nothing;Phone (2a) Plus;Funda;Antigolpes;3,10;;;
+NT-P2APL-PCA-NA;Nothing;Phone (2a) Plus;Protector de cámara;Cristal;2,90;;;
+NT-P3A-PRO-NA;Nothing;Phone (3a);Cristal templado;Estándar;1,30;;;
+NT-P3A-PRO-PRI;Nothing;Phone (3a);Cristal templado;Privacidad;4,00;;;
+NT-P3A-FUN-SIL;Nothing;Phone (3a);Funda;Silicona;2,50;;;
+NT-P3A-FUN-TPU;Nothing;Phone (3a);Funda;Transparente;2,95;;;
+NT-P3A-FUN-LIB;Nothing;Phone (3a);Funda;Libro;3,70;;;
+NT-P3A-FUN-ANT;Nothing;Phone (3a);Funda;Antigolpes;3,10;;;
+NT-P3A-PCA-NA;Nothing;Phone (3a);Protector de cámara;Cristal;2,90;;;
+NT-P3AP-PRO-NA;Nothing;Phone (3a) Pro;Cristal templado;Estándar;1,30;;;
+NT-P3AP-PRO-PRI;Nothing;Phone (3a) Pro;Cristal templado;Privacidad;4,00;;;
+NT-P3AP-FUN-SIL;Nothing;Phone (3a) Pro;Funda;Silicona;2,50;;;
+NT-P3AP-FUN-TPU;Nothing;Phone (3a) Pro;Funda;Transparente;2,95;;;
+NT-P3AP-FUN-LIB;Nothing;Phone (3a) Pro;Funda;Libro;3,70;;;
+NT-P3AP-FUN-ANT;Nothing;Phone (3a) Pro;Funda;Antigolpes;3,10;;;
+NT-P3AP-PCA-NA;Nothing;Phone (3a) Pro;Protector de cámara;Cristal;2,90;;;
+NT-P3-PRO-NA;Nothing;Phone (3);Cristal templado;Estándar;1,30;;;
+NT-P3-PRO-PRI;Nothing;Phone (3);Cristal templado;Privacidad;4,00;;;
+NT-P3-FUN-SIL;Nothing;Phone (3);Funda;Silicona;2,50;;;
+NT-P3-FUN-TPU;Nothing;Phone (3);Funda;Transparente;2,95;;;
+NT-P3-FUN-LIB;Nothing;Phone (3);Funda;Libro;3,70;;;
+NT-P3-FUN-ANT;Nothing;Phone (3);Funda;Antigolpes;3,10;;;
+NT-P3-PCA-NA;Nothing;Phone (3);Protector de cámara;Cristal;2,90;;;
+NT-P3AL-PRO-NA;Nothing;Phone (3a) Lite;Cristal templado;Estándar;1,30;;;
+NT-P3AL-PRO-PRI;Nothing;Phone (3a) Lite;Cristal templado;Privacidad;4,00;;;
+NT-P3AL-FUN-SIL;Nothing;Phone (3a) Lite;Funda;Silicona;2,50;;;
+NT-P3AL-FUN-TPU;Nothing;Phone (3a) Lite;Funda;Transparente;2,95;;;
+NT-P3AL-FUN-LIB;Nothing;Phone (3a) Lite;Funda;Libro;3,70;;;
+NT-P3AL-FUN-ANT;Nothing;Phone (3a) Lite;Funda;Antigolpes;3,10;;;
+NT-P3AL-PCA-NA;Nothing;Phone (3a) Lite;Protector de cámara;Cristal;2,90;;;
+NT-P4A-PRO-NA;Nothing;Phone (4a);Cristal templado;Estándar;1,30;;;
+NT-P4A-PRO-PRI;Nothing;Phone (4a);Cristal templado;Privacidad;4,00;;;
+NT-P4A-FUN-SIL;Nothing;Phone (4a);Funda;Silicona;2,50;;;
+NT-P4A-FUN-TPU;Nothing;Phone (4a);Funda;Transparente;2,95;;;
+NT-P4A-FUN-LIB;Nothing;Phone (4a);Funda;Libro;3,70;;;
+NT-P4A-FUN-ANT;Nothing;Phone (4a);Funda;Antigolpes;3,10;;;
+NT-P4A-PCA-NA;Nothing;Phone (4a);Protector de cámara;Cristal;2,90;;;
+NT-P4AP-PRO-NA;Nothing;Phone (4a) Pro;Cristal templado;Estándar;1,30;;;
+NT-P4AP-PRO-PRI;Nothing;Phone (4a) Pro;Cristal templado;Privacidad;4,00;;;
+NT-P4AP-FUN-SIL;Nothing;Phone (4a) Pro;Funda;Silicona;2,50;;;
+NT-P4AP-FUN-TPU;Nothing;Phone (4a) Pro;Funda;Transparente;2,95;;;
+NT-P4AP-FUN-LIB;Nothing;Phone (4a) Pro;Funda;Libro;3,70;;;
+NT-P4AP-FUN-ANT;Nothing;Phone (4a) Pro;Funda;Antigolpes;3,10;;;
+NT-P4AP-PCA-NA;Nothing;Phone (4a) Pro;Protector de cámara;Cristal;2,90;;;
+NT-P4B-PRO-NA;Nothing;Phone (4b);Cristal templado;Estándar;1,30;;;
+NT-P4B-PRO-PRI;Nothing;Phone (4b);Cristal templado;Privacidad;4,00;;;
+NT-P4B-FUN-SIL;Nothing;Phone (4b);Funda;Silicona;2,50;;;
+NT-P4B-FUN-TPU;Nothing;Phone (4b);Funda;Transparente;2,95;;;
+NT-P4B-FUN-LIB;Nothing;Phone (4b);Funda;Libro;3,70;;;
+NT-P4B-FUN-ANT;Nothing;Phone (4b);Funda;Antigolpes;3,10;;;
+NT-P4B-PCA-NA;Nothing;Phone (4b);Protector de cámara;Cristal;2,90;;;
+NT-CMFP2P2-PRO-NA;Nothing;CMF Phone 2 Pro;Cristal templado;Estándar;1,30;;;
+NT-CMFP2P2-PRO-PRI;Nothing;CMF Phone 2 Pro;Cristal templado;Privacidad;4,00;;;
+NT-CMFP2P2-FUN-SIL;Nothing;CMF Phone 2 Pro;Funda;Silicona;2,50;;;
+NT-CMFP2P2-FUN-TPU;Nothing;CMF Phone 2 Pro;Funda;Transparente;2,95;;;
+NT-CMFP2P2-FUN-LIB;Nothing;CMF Phone 2 Pro;Funda;Libro;3,70;;;
+NT-CMFP2P2-FUN-ANT;Nothing;CMF Phone 2 Pro;Funda;Antigolpes;3,10;;;
+NT-CMFPHONE-PRO-NA;Nothing;CMF Phone 1;Cristal templado;Estándar;1,30;;;
+NT-CMFPHONE-PRO-PRI;Nothing;CMF Phone 1;Cristal templado;Privacidad;4,00;;;
+NT-CMFPHONE-FUN-SIL;Nothing;CMF Phone 1;Funda;Silicona;2,50;;;
+NT-CMFPHONE-FUN-TPU;Nothing;CMF Phone 1;Funda;Transparente;2,95;;;
+NT-CMFPHONE-FUN-LIB;Nothing;CMF Phone 1;Funda;Libro;3,70;;;
+NT-CMFPHONE-FUN-ANT;Nothing;CMF Phone 1;Funda;Antigolpes;3,10;;;
+NT-P1-MAR-COM;Nothing;Phone (1);Marco / chasis;Compatible;8,20;;;6
+NT-P1-BOT-COM;Nothing;Phone (1);Botones laterales;Compatible;4,20;;;6
+NT-P1-CRI-COM;Nothing;Phone (1);Cristal de pantalla;Compatible;4,20;;;6
+NT-P1-FPR-COM;Nothing;Phone (1);Flex principal;Compatible;3,45;;;6
+NT-P1-VIB-COM;Nothing;Phone (1);Vibrador;Compatible;4,05;;;6
+NT-P1-ANT-COM;Nothing;Phone (1);Antena / coaxial;Compatible;3,65;;;6
+NT-P1-HUE-COM;Nothing;Phone (1);Botón home / huella;Compatible;6,05;;;6
+NT-P2-MAR-COM;Nothing;Phone (2);Marco / chasis;Compatible;8,20;;;6
+NT-P2-BOT-COM;Nothing;Phone (2);Botones laterales;Compatible;4,20;;;6
+NT-P2-CRI-COM;Nothing;Phone (2);Cristal de pantalla;Compatible;4,20;;;6
+NT-P2-FPR-COM;Nothing;Phone (2);Flex principal;Compatible;3,45;;;6
+NT-P2-VIB-COM;Nothing;Phone (2);Vibrador;Compatible;4,05;;;6
+NT-P2-ANT-COM;Nothing;Phone (2);Antena / coaxial;Compatible;3,65;;;6
+NT-P2-HUE-COM;Nothing;Phone (2);Botón home / huella;Compatible;6,05;;;6
+NT-P2A-MAR-COM;Nothing;Phone (2a);Marco / chasis;Compatible;7,90;;;6
+NT-P2A-BOT-COM;Nothing;Phone (2a);Botones laterales;Compatible;4,05;;;6
+NT-P2A-CRI-COM;Nothing;Phone (2a);Cristal de pantalla;Compatible;4,05;;;6
+NT-P2A-FPR-COM;Nothing;Phone (2a);Flex principal;Compatible;3,35;;;6
+NT-P2A-VIB-COM;Nothing;Phone (2a);Vibrador;Compatible;3,95;;;6
+NT-P2A-ANT-COM;Nothing;Phone (2a);Antena / coaxial;Compatible;3,50;;;6
+NT-P2A-HUE-COM;Nothing;Phone (2a);Botón home / huella;Compatible;5,85;;;6
+NT-P2APL-MAR-COM;Nothing;Phone (2a) Plus;Marco / chasis;Compatible;7,90;;;6
+NT-P2APL-BOT-COM;Nothing;Phone (2a) Plus;Botones laterales;Compatible;4,05;;;6
+NT-P2APL-CRI-COM;Nothing;Phone (2a) Plus;Cristal de pantalla;Compatible;4,05;;;6
+NT-P2APL-FPR-COM;Nothing;Phone (2a) Plus;Flex principal;Compatible;3,35;;;6
+NT-P2APL-VIB-COM;Nothing;Phone (2a) Plus;Vibrador;Compatible;3,95;;;6
+NT-P2APL-ANT-COM;Nothing;Phone (2a) Plus;Antena / coaxial;Compatible;3,50;;;6
+NT-P2APL-HUE-COM;Nothing;Phone (2a) Plus;Botón home / huella;Compatible;5,85;;;6
+NT-P3A-MAR-COM;Nothing;Phone (3a);Marco / chasis;Compatible;7,90;;;6
+NT-P3A-BOT-COM;Nothing;Phone (3a);Botones laterales;Compatible;4,05;;;6
+NT-P3A-CRI-COM;Nothing;Phone (3a);Cristal de pantalla;Compatible;4,05;;;6
+NT-P3A-FPR-COM;Nothing;Phone (3a);Flex principal;Compatible;3,35;;;6
+NT-P3A-VIB-COM;Nothing;Phone (3a);Vibrador;Compatible;3,95;;;6
+NT-P3A-ANT-COM;Nothing;Phone (3a);Antena / coaxial;Compatible;3,50;;;6
+NT-P3A-HUE-COM;Nothing;Phone (3a);Botón home / huella;Compatible;5,85;;;6
+NT-P3AP-MAR-COM;Nothing;Phone (3a) Pro;Marco / chasis;Compatible;7,90;;;6
+NT-P3AP-BOT-COM;Nothing;Phone (3a) Pro;Botones laterales;Compatible;4,05;;;6
+NT-P3AP-CRI-COM;Nothing;Phone (3a) Pro;Cristal de pantalla;Compatible;4,05;;;6
+NT-P3AP-FPR-COM;Nothing;Phone (3a) Pro;Flex principal;Compatible;3,35;;;6
+NT-P3AP-VIB-COM;Nothing;Phone (3a) Pro;Vibrador;Compatible;3,95;;;6
+NT-P3AP-ANT-COM;Nothing;Phone (3a) Pro;Antena / coaxial;Compatible;3,50;;;6
+NT-P3AP-HUE-COM;Nothing;Phone (3a) Pro;Botón home / huella;Compatible;5,85;;;6
+NT-P3-MAR-COM;Nothing;Phone (3);Marco / chasis;Compatible;9,05;;;6
+NT-P3-BOT-COM;Nothing;Phone (3);Botones laterales;Compatible;4,65;;;6
+NT-P3-CRI-COM;Nothing;Phone (3);Cristal de pantalla;Compatible;4,60;;;6
+NT-P3-FPR-COM;Nothing;Phone (3);Flex principal;Compatible;3,80;;;6
+NT-P3-VIB-COM;Nothing;Phone (3);Vibrador;Compatible;4,49;;;6
+NT-P3-ANT-COM;Nothing;Phone (3);Antena / coaxial;Compatible;4,00;;;6
+NT-P3-HUE-COM;Nothing;Phone (3);Botón home / huella;Compatible;6,69;;;6
+NT-P3AL-MAR-COM;Nothing;Phone (3a) Lite;Marco / chasis;Compatible;7,90;;;6
+NT-P3AL-BOT-COM;Nothing;Phone (3a) Lite;Botones laterales;Compatible;4,05;;;6
+NT-P3AL-CRI-COM;Nothing;Phone (3a) Lite;Cristal de pantalla;Compatible;4,05;;;6
+NT-P3AL-FPR-COM;Nothing;Phone (3a) Lite;Flex principal;Compatible;3,35;;;6
+NT-P3AL-VIB-COM;Nothing;Phone (3a) Lite;Vibrador;Compatible;3,95;;;6
+NT-P3AL-ANT-COM;Nothing;Phone (3a) Lite;Antena / coaxial;Compatible;3,50;;;6
+NT-P3AL-HUE-COM;Nothing;Phone (3a) Lite;Botón home / huella;Compatible;5,85;;;6
+NT-P4A-MAR-COM;Nothing;Phone (4a);Marco / chasis;Compatible;7,90;;;6
+NT-P4A-BOT-COM;Nothing;Phone (4a);Botones laterales;Compatible;4,05;;;6
+NT-P4A-CRI-COM;Nothing;Phone (4a);Cristal de pantalla;Compatible;4,05;;;6
+NT-P4A-FPR-COM;Nothing;Phone (4a);Flex principal;Compatible;3,35;;;6
+NT-P4A-VIB-COM;Nothing;Phone (4a);Vibrador;Compatible;3,95;;;6
+NT-P4A-ANT-COM;Nothing;Phone (4a);Antena / coaxial;Compatible;3,50;;;6
+NT-P4A-HUE-COM;Nothing;Phone (4a);Botón home / huella;Compatible;5,85;;;6
+NT-P4AP-MAR-COM;Nothing;Phone (4a) Pro;Marco / chasis;Compatible;7,90;;;6
+NT-P4AP-BOT-COM;Nothing;Phone (4a) Pro;Botones laterales;Compatible;4,05;;;6
+NT-P4AP-CRI-COM;Nothing;Phone (4a) Pro;Cristal de pantalla;Compatible;4,05;;;6
+NT-P4AP-FPR-COM;Nothing;Phone (4a) Pro;Flex principal;Compatible;3,35;;;6
+NT-P4AP-VIB-COM;Nothing;Phone (4a) Pro;Vibrador;Compatible;3,95;;;6
+NT-P4AP-ANT-COM;Nothing;Phone (4a) Pro;Antena / coaxial;Compatible;3,50;;;6
+NT-P4AP-HUE-COM;Nothing;Phone (4a) Pro;Botón home / huella;Compatible;5,85;;;6
+NT-P4B-MAR-COM;Nothing;Phone (4b);Marco / chasis;Compatible;7,90;;;6
+NT-P4B-BOT-COM;Nothing;Phone (4b);Botones laterales;Compatible;4,05;;;6
+NT-P4B-CRI-COM;Nothing;Phone (4b);Cristal de pantalla;Compatible;4,05;;;6
+NT-P4B-FPR-COM;Nothing;Phone (4b);Flex principal;Compatible;3,35;;;6
+NT-P4B-VIB-COM;Nothing;Phone (4b);Vibrador;Compatible;3,95;;;6
+NT-P4B-ANT-COM;Nothing;Phone (4b);Antena / coaxial;Compatible;3,50;;;6
+NT-P4B-HUE-COM;Nothing;Phone (4b);Botón home / huella;Compatible;5,85;;;6
+NT-CMFP2P2-MAR-COM;Nothing;CMF Phone 2 Pro;Marco / chasis;Compatible;9,05;;;6
+NT-CMFP2P2-BOT-COM;Nothing;CMF Phone 2 Pro;Botones laterales;Compatible;4,65;;;6
+NT-CMFP2P2-CRI-COM;Nothing;CMF Phone 2 Pro;Cristal de pantalla;Compatible;4,60;;;6
+NT-CMFP2P2-FPR-COM;Nothing;CMF Phone 2 Pro;Flex principal;Compatible;3,80;;;6
+NT-CMFP2P2-VIB-COM;Nothing;CMF Phone 2 Pro;Vibrador;Compatible;4,49;;;6
+NT-CMFP2P2-ANT-COM;Nothing;CMF Phone 2 Pro;Antena / coaxial;Compatible;4,00;;;6
+NT-CMFP2P2-HUE-COM;Nothing;CMF Phone 2 Pro;Botón home / huella;Compatible;6,69;;;6
+NT-CMFPHONE-MAR-COM;Nothing;CMF Phone 1;Marco / chasis;Compatible;9,05;;;6
+NT-CMFPHONE-BOT-COM;Nothing;CMF Phone 1;Botones laterales;Compatible;4,65;;;6
+NT-CMFPHONE-CRI-COM;Nothing;CMF Phone 1;Cristal de pantalla;Compatible;4,60;;;6
+NT-CMFPHONE-FPR-COM;Nothing;CMF Phone 1;Flex principal;Compatible;3,80;;;6
+NT-CMFPHONE-VIB-COM;Nothing;CMF Phone 1;Vibrador;Compatible;4,49;;;6
+NT-CMFPHONE-ANT-COM;Nothing;CMF Phone 1;Antena / coaxial;Compatible;4,00;;;6
+NT-CMFPHONE-HUE-COM;Nothing;CMF Phone 1;Botón home / huella;Compatible;6,69;;;6

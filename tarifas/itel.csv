@@ -1,0 +1,710 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+IL-CITY200S-PAN-COM;itel;City 200s;Pantalla;Compatible;18,05;17,51;16,97;6
+IL-CITY200S-BAT-COM;itel;City 200s;Batería;Compatible;8,89;;;6
+IL-CITY200S-CON-COM;itel;City 200s;Conector de carga;Compatible;6,00;;;6
+IL-CITY200S-TAP-COM;itel;City 200s;Tapa trasera;Compatible;6,65;;;6
+IL-CITY200S-CTR-COM;itel;City 200s;Cámara trasera;Compatible;11,85;11,49;11,14;6
+IL-CITY200S-CFR-COM;itel;City 200s;Cámara frontal;Compatible;7,49;;;6
+IL-CITY200S-LEN-COM;itel;City 200s;Lente de cámara;Compatible;2,95;;;6
+IL-CITY200S-ALT-COM;itel;City 200s;Altavoz;Compatible;4,75;;;6
+IL-CITY200S-AUR-COM;itel;City 200s;Auricular de llamada;Compatible;3,70;;;6
+IL-CITY200S-FLX-COM;itel;City 200s;Flex de encendido y volumen;Compatible;3,05;;;6
+IL-CITY200S-SIM-COM;itel;City 200s;Bandeja SIM;Compatible;3,00;;;6
+IL-PW80-PAN-COM;itel;Power 80;Pantalla;Compatible;18,05;17,51;16,97;6
+IL-PW80-BAT-COM;itel;Power 80;Batería;Compatible;8,89;;;6
+IL-PW80-CON-COM;itel;Power 80;Conector de carga;Compatible;6,00;;;6
+IL-PW80-TAP-COM;itel;Power 80;Tapa trasera;Compatible;6,65;;;6
+IL-PW80-CTR-COM;itel;Power 80;Cámara trasera;Compatible;11,85;11,49;11,14;6
+IL-PW80-CFR-COM;itel;Power 80;Cámara frontal;Compatible;7,49;;;6
+IL-PW80-LEN-COM;itel;Power 80;Lente de cámara;Compatible;2,95;;;6
+IL-PW80-ALT-COM;itel;Power 80;Altavoz;Compatible;4,75;;;6
+IL-PW80-AUR-COM;itel;Power 80;Auricular de llamada;Compatible;3,70;;;6
+IL-PW80-FLX-COM;itel;Power 80;Flex de encendido y volumen;Compatible;3,05;;;6
+IL-PW80-SIM-COM;itel;Power 80;Bandeja SIM;Compatible;3,00;;;6
+IL-A100P-PAN-COM;itel;A100 Pro;Pantalla;Compatible;18,05;17,51;16,97;6
+IL-A100P-BAT-COM;itel;A100 Pro;Batería;Compatible;8,89;;;6
+IL-A100P-CON-COM;itel;A100 Pro;Conector de carga;Compatible;6,00;;;6
+IL-A100P-TAP-COM;itel;A100 Pro;Tapa trasera;Compatible;6,65;;;6
+IL-A100P-CTR-COM;itel;A100 Pro;Cámara trasera;Compatible;11,85;11,49;11,14;6
+IL-A100P-CFR-COM;itel;A100 Pro;Cámara frontal;Compatible;7,49;;;6
+IL-A100P-LEN-COM;itel;A100 Pro;Lente de cámara;Compatible;2,95;;;6
+IL-A100P-ALT-COM;itel;A100 Pro;Altavoz;Compatible;4,75;;;6
+IL-A100P-AUR-COM;itel;A100 Pro;Auricular de llamada;Compatible;3,70;;;6
+IL-A100P-FLX-COM;itel;A100 Pro;Flex de encendido y volumen;Compatible;3,05;;;6
+IL-A100P-SIM-COM;itel;A100 Pro;Bandeja SIM;Compatible;3,00;;;6
+IL-C200-PAN-COM;itel;City 200;Pantalla;Compatible;18,05;17,51;16,97;6
+IL-C200-BAT-COM;itel;City 200;Batería;Compatible;8,89;;;6
+IL-C200-CON-COM;itel;City 200;Conector de carga;Compatible;6,00;;;6
+IL-C200-TAP-COM;itel;City 200;Tapa trasera;Compatible;6,65;;;6
+IL-C200-CTR-COM;itel;City 200;Cámara trasera;Compatible;11,85;11,49;11,14;6
+IL-C200-CFR-COM;itel;City 200;Cámara frontal;Compatible;7,49;;;6
+IL-C200-LEN-COM;itel;City 200;Lente de cámara;Compatible;2,95;;;6
+IL-C200-ALT-COM;itel;City 200;Altavoz;Compatible;4,75;;;6
+IL-C200-AUR-COM;itel;City 200;Auricular de llamada;Compatible;3,70;;;6
+IL-C200-FLX-COM;itel;City 200;Flex de encendido y volumen;Compatible;3,05;;;6
+IL-C200-SIM-COM;itel;City 200;Bandeja SIM;Compatible;3,00;;;6
+IL-S26U-PAN-COM;itel;Super 26 Ultra;Pantalla;Compatible;19,85;19,25;18,66;6
+IL-S26U-BAT-COM;itel;Super 26 Ultra;Batería;Compatible;8,89;;;6
+IL-S26U-CON-COM;itel;Super 26 Ultra;Conector de carga;Compatible;6,00;;;6
+IL-S26U-TAP-COM;itel;Super 26 Ultra;Tapa trasera;Compatible;6,65;;;6
+IL-S26U-CTR-COM;itel;Super 26 Ultra;Cámara trasera;Compatible;11,85;11,49;11,14;6
+IL-S26U-CFR-COM;itel;Super 26 Ultra;Cámara frontal;Compatible;7,49;;;6
+IL-S26U-LEN-COM;itel;Super 26 Ultra;Lente de cámara;Compatible;2,95;;;6
+IL-S26U-ALT-COM;itel;Super 26 Ultra;Altavoz;Compatible;4,75;;;6
+IL-S26U-AUR-COM;itel;Super 26 Ultra;Auricular de llamada;Compatible;3,70;;;6
+IL-S26U-FLX-COM;itel;Super 26 Ultra;Flex de encendido y volumen;Compatible;3,05;;;6
+IL-S26U-SIM-COM;itel;Super 26 Ultra;Bandeja SIM;Compatible;3,00;;;6
+IL-C100-PAN-COM;itel;City 100;Pantalla;Compatible;18,05;17,51;16,97;6
+IL-C100-BAT-COM;itel;City 100;Batería;Compatible;8,89;;;6
+IL-C100-CON-COM;itel;City 100;Conector de carga;Compatible;6,00;;;6
+IL-C100-TAP-COM;itel;City 100;Tapa trasera;Compatible;6,65;;;6
+IL-C100-CTR-COM;itel;City 100;Cámara trasera;Compatible;11,85;11,49;11,14;6
+IL-C100-CFR-COM;itel;City 100;Cámara frontal;Compatible;7,49;;;6
+IL-C100-LEN-COM;itel;City 100;Lente de cámara;Compatible;2,95;;;6
+IL-C100-ALT-COM;itel;City 100;Altavoz;Compatible;4,75;;;6
+IL-C100-AUR-COM;itel;City 100;Auricular de llamada;Compatible;3,70;;;6
+IL-C100-FLX-COM;itel;City 100;Flex de encendido y volumen;Compatible;3,05;;;6
+IL-C100-SIM-COM;itel;City 100;Bandeja SIM;Compatible;3,00;;;6
+IL-PW70-PAN-COM;itel;Power 70;Pantalla;Compatible;18,05;17,51;16,97;6
+IL-PW70-BAT-COM;itel;Power 70;Batería;Compatible;8,89;;;6
+IL-PW70-CON-COM;itel;Power 70;Conector de carga;Compatible;6,00;;;6
+IL-PW70-TAP-COM;itel;Power 70;Tapa trasera;Compatible;6,65;;;6
+IL-PW70-CTR-COM;itel;Power 70;Cámara trasera;Compatible;11,85;11,49;11,14;6
+IL-PW70-CFR-COM;itel;Power 70;Cámara frontal;Compatible;7,49;;;6
+IL-PW70-LEN-COM;itel;Power 70;Lente de cámara;Compatible;2,95;;;6
+IL-PW70-ALT-COM;itel;Power 70;Altavoz;Compatible;4,75;;;6
+IL-PW70-AUR-COM;itel;Power 70;Auricular de llamada;Compatible;3,70;;;6
+IL-PW70-FLX-COM;itel;Power 70;Flex de encendido y volumen;Compatible;3,05;;;6
+IL-PW70-SIM-COM;itel;Power 70;Bandeja SIM;Compatible;3,00;;;6
+IL-S25-PAN-COM;itel;S25;Pantalla;Compatible;17,15;16,64;16,12;6
+IL-S25-BAT-COM;itel;S25;Batería;Compatible;9,40;;;6
+IL-S25-CON-COM;itel;S25;Conector de carga;Compatible;5,05;;;6
+IL-S25-TAP-COM;itel;S25;Tapa trasera;Compatible;6,20;;;6
+IL-S25-CTR-COM;itel;S25;Cámara trasera;Compatible;8,65;;;6
+IL-S25-CFR-COM;itel;S25;Cámara frontal;Compatible;5,35;;;6
+IL-S25-LEN-COM;itel;S25;Lente de cámara;Compatible;2,30;;;6
+IL-S25-ALT-COM;itel;S25;Altavoz;Compatible;3,60;;;6
+IL-S25-AUR-COM;itel;S25;Auricular de llamada;Compatible;2,65;;;6
+IL-S25-FLX-COM;itel;S25;Flex de encendido y volumen;Compatible;2,79;;;6
+IL-S25-SIM-COM;itel;S25;Bandeja SIM;Compatible;2,55;;;6
+IL-S25U-PAN-COM;itel;S25 Ultra;Pantalla;Compatible;18,85;18,28;17,72;6
+IL-S25U-BAT-COM;itel;S25 Ultra;Batería;Compatible;9,40;;;6
+IL-S25U-CON-COM;itel;S25 Ultra;Conector de carga;Compatible;5,05;;;6
+IL-S25U-TAP-COM;itel;S25 Ultra;Tapa trasera;Compatible;6,20;;;6
+IL-S25U-CTR-COM;itel;S25 Ultra;Cámara trasera;Compatible;8,65;;;6
+IL-S25U-CFR-COM;itel;S25 Ultra;Cámara frontal;Compatible;5,35;;;6
+IL-S25U-LEN-COM;itel;S25 Ultra;Lente de cámara;Compatible;2,30;;;6
+IL-S25U-ALT-COM;itel;S25 Ultra;Altavoz;Compatible;3,60;;;6
+IL-S25U-AUR-COM;itel;S25 Ultra;Auricular de llamada;Compatible;2,65;;;6
+IL-S25U-FLX-COM;itel;S25 Ultra;Flex de encendido y volumen;Compatible;2,79;;;6
+IL-S25U-SIM-COM;itel;S25 Ultra;Bandeja SIM;Compatible;2,55;;;6
+IL-A80-PAN-COM;itel;A80;Pantalla;Compatible;17,15;16,64;16,12;6
+IL-A80-BAT-COM;itel;A80;Batería;Compatible;9,40;;;6
+IL-A80-CON-COM;itel;A80;Conector de carga;Compatible;5,05;;;6
+IL-A80-TAP-COM;itel;A80;Tapa trasera;Compatible;6,20;;;6
+IL-A80-CTR-COM;itel;A80;Cámara trasera;Compatible;8,65;;;6
+IL-A80-CFR-COM;itel;A80;Cámara frontal;Compatible;5,35;;;6
+IL-A80-LEN-COM;itel;A80;Lente de cámara;Compatible;2,30;;;6
+IL-A80-ALT-COM;itel;A80;Altavoz;Compatible;3,60;;;6
+IL-A80-AUR-COM;itel;A80;Auricular de llamada;Compatible;2,65;;;6
+IL-A80-FLX-COM;itel;A80;Flex de encendido y volumen;Compatible;2,79;;;6
+IL-A80-SIM-COM;itel;A80;Bandeja SIM;Compatible;2,55;;;6
+IL-A50C-PAN-COM;itel;A50C;Pantalla;Compatible;17,15;16,64;16,12;6
+IL-A50C-BAT-COM;itel;A50C;Batería;Compatible;9,40;;;6
+IL-A50C-CON-COM;itel;A50C;Conector de carga;Compatible;5,05;;;6
+IL-A50C-TAP-COM;itel;A50C;Tapa trasera;Compatible;6,20;;;6
+IL-A50C-CTR-COM;itel;A50C;Cámara trasera;Compatible;8,65;;;6
+IL-A50C-CFR-COM;itel;A50C;Cámara frontal;Compatible;5,35;;;6
+IL-A50C-LEN-COM;itel;A50C;Lente de cámara;Compatible;2,30;;;6
+IL-A50C-ALT-COM;itel;A50C;Altavoz;Compatible;3,60;;;6
+IL-A50C-AUR-COM;itel;A50C;Auricular de llamada;Compatible;2,65;;;6
+IL-A50C-FLX-COM;itel;A50C;Flex de encendido y volumen;Compatible;2,79;;;6
+IL-A50C-SIM-COM;itel;A50C;Bandeja SIM;Compatible;2,55;;;6
+IL-P65-PAN-COM;itel;P65;Pantalla;Compatible;17,15;16,64;16,12;6
+IL-P65-BAT-COM;itel;P65;Batería;Compatible;9,40;;;6
+IL-P65-CON-COM;itel;P65;Conector de carga;Compatible;5,05;;;6
+IL-P65-TAP-COM;itel;P65;Tapa trasera;Compatible;6,20;;;6
+IL-P65-CTR-COM;itel;P65;Cámara trasera;Compatible;8,65;;;6
+IL-P65-CFR-COM;itel;P65;Cámara frontal;Compatible;5,35;;;6
+IL-P65-LEN-COM;itel;P65;Lente de cámara;Compatible;2,30;;;6
+IL-P65-ALT-COM;itel;P65;Altavoz;Compatible;3,60;;;6
+IL-P65-AUR-COM;itel;P65;Auricular de llamada;Compatible;2,65;;;6
+IL-P65-FLX-COM;itel;P65;Flex de encendido y volumen;Compatible;2,79;;;6
+IL-P65-SIM-COM;itel;P65;Bandeja SIM;Compatible;2,55;;;6
+IL-A50-PAN-COM;itel;A50;Pantalla;Compatible;17,15;16,64;16,12;6
+IL-A50-BAT-COM;itel;A50;Batería;Compatible;9,40;;;6
+IL-A50-CON-COM;itel;A50;Conector de carga;Compatible;5,05;;;6
+IL-A50-TAP-COM;itel;A50;Tapa trasera;Compatible;6,20;;;6
+IL-A50-CTR-COM;itel;A50;Cámara trasera;Compatible;8,65;;;6
+IL-A50-CFR-COM;itel;A50;Cámara frontal;Compatible;5,35;;;6
+IL-A50-LEN-COM;itel;A50;Lente de cámara;Compatible;2,30;;;6
+IL-A50-ALT-COM;itel;A50;Altavoz;Compatible;3,60;;;6
+IL-A50-AUR-COM;itel;A50;Auricular de llamada;Compatible;2,65;;;6
+IL-A50-FLX-COM;itel;A50;Flex de encendido y volumen;Compatible;2,79;;;6
+IL-A50-SIM-COM;itel;A50;Bandeja SIM;Compatible;2,55;;;6
+IL-S24-PAN-COM;itel;S24;Pantalla;Compatible;17,15;16,64;16,12;6
+IL-S24-BAT-COM;itel;S24;Batería;Compatible;9,40;;;6
+IL-S24-CON-COM;itel;S24;Conector de carga;Compatible;5,05;;;6
+IL-S24-TAP-COM;itel;S24;Tapa trasera;Compatible;6,20;;;6
+IL-S24-CTR-COM;itel;S24;Cámara trasera;Compatible;8,65;;;6
+IL-S24-CFR-COM;itel;S24;Cámara frontal;Compatible;5,35;;;6
+IL-S24-LEN-COM;itel;S24;Lente de cámara;Compatible;2,30;;;6
+IL-S24-ALT-COM;itel;S24;Altavoz;Compatible;3,60;;;6
+IL-S24-AUR-COM;itel;S24;Auricular de llamada;Compatible;2,65;;;6
+IL-S24-FLX-COM;itel;S24;Flex de encendido y volumen;Compatible;2,79;;;6
+IL-S24-SIM-COM;itel;S24;Bandeja SIM;Compatible;2,55;;;6
+IL-A70-PAN-COM;itel;A70;Pantalla;Compatible;17,15;16,64;16,12;6
+IL-A70-BAT-COM;itel;A70;Batería;Compatible;9,40;;;6
+IL-A70-CON-COM;itel;A70;Conector de carga;Compatible;5,05;;;6
+IL-A70-TAP-COM;itel;A70;Tapa trasera;Compatible;6,20;;;6
+IL-A70-CTR-COM;itel;A70;Cámara trasera;Compatible;8,65;;;6
+IL-A70-CFR-COM;itel;A70;Cámara frontal;Compatible;5,35;;;6
+IL-A70-LEN-COM;itel;A70;Lente de cámara;Compatible;2,30;;;6
+IL-A70-ALT-COM;itel;A70;Altavoz;Compatible;3,60;;;6
+IL-A70-AUR-COM;itel;A70;Auricular de llamada;Compatible;2,65;;;6
+IL-A70-FLX-COM;itel;A70;Flex de encendido y volumen;Compatible;2,79;;;6
+IL-A70-SIM-COM;itel;A70;Bandeja SIM;Compatible;2,55;;;6
+IL-P55-PAN-COM;itel;P55;Pantalla;Compatible;17,15;16,64;16,12;6
+IL-P55-BAT-COM;itel;P55;Batería;Compatible;9,40;;;6
+IL-P55-CON-COM;itel;P55;Conector de carga;Compatible;5,05;;;6
+IL-P55-TAP-COM;itel;P55;Tapa trasera;Compatible;6,20;;;6
+IL-P55-CTR-COM;itel;P55;Cámara trasera;Compatible;8,65;;;6
+IL-P55-CFR-COM;itel;P55;Cámara frontal;Compatible;5,35;;;6
+IL-P55-LEN-COM;itel;P55;Lente de cámara;Compatible;2,30;;;6
+IL-P55-ALT-COM;itel;P55;Altavoz;Compatible;3,60;;;6
+IL-P55-AUR-COM;itel;P55;Auricular de llamada;Compatible;2,65;;;6
+IL-P55-FLX-COM;itel;P55;Flex de encendido y volumen;Compatible;2,79;;;6
+IL-P55-SIM-COM;itel;P55;Bandeja SIM;Compatible;2,55;;;6
+IL-S23PL-PAN-COM;itel;S23+;Pantalla;Compatible;17,15;16,64;16,12;6
+IL-S23PL-BAT-COM;itel;S23+;Batería;Compatible;9,40;;;6
+IL-S23PL-CON-COM;itel;S23+;Conector de carga;Compatible;5,05;;;6
+IL-S23PL-TAP-COM;itel;S23+;Tapa trasera;Compatible;6,20;;;6
+IL-S23PL-CTR-COM;itel;S23+;Cámara trasera;Compatible;8,65;;;6
+IL-S23PL-CFR-COM;itel;S23+;Cámara frontal;Compatible;5,35;;;6
+IL-S23PL-LEN-COM;itel;S23+;Lente de cámara;Compatible;2,30;;;6
+IL-S23PL-ALT-COM;itel;S23+;Altavoz;Compatible;3,60;;;6
+IL-S23PL-AUR-COM;itel;S23+;Auricular de llamada;Compatible;2,65;;;6
+IL-S23PL-FLX-COM;itel;S23+;Flex de encendido y volumen;Compatible;2,79;;;6
+IL-S23PL-SIM-COM;itel;S23+;Bandeja SIM;Compatible;2,55;;;6
+IL-A60S-PAN-COM;itel;A60s;Pantalla;Compatible;17,15;16,64;16,12;6
+IL-A60S-BAT-COM;itel;A60s;Batería;Compatible;9,40;;;6
+IL-A60S-CON-COM;itel;A60s;Conector de carga;Compatible;5,05;;;6
+IL-A60S-TAP-COM;itel;A60s;Tapa trasera;Compatible;6,20;;;6
+IL-A60S-CTR-COM;itel;A60s;Cámara trasera;Compatible;8,65;;;6
+IL-A60S-CFR-COM;itel;A60s;Cámara frontal;Compatible;5,35;;;6
+IL-A60S-LEN-COM;itel;A60s;Lente de cámara;Compatible;2,30;;;6
+IL-A60S-ALT-COM;itel;A60s;Altavoz;Compatible;3,60;;;6
+IL-A60S-AUR-COM;itel;A60s;Auricular de llamada;Compatible;2,65;;;6
+IL-A60S-FLX-COM;itel;A60s;Flex de encendido y volumen;Compatible;2,79;;;6
+IL-A60S-SIM-COM;itel;A60s;Bandeja SIM;Compatible;2,55;;;6
+IL-S234-PAN-COM;itel;S23 4G;Pantalla;Compatible;17,15;16,64;16,12;6
+IL-S234-BAT-COM;itel;S23 4G;Batería;Compatible;9,40;;;6
+IL-S234-CON-COM;itel;S23 4G;Conector de carga;Compatible;5,05;;;6
+IL-S234-TAP-COM;itel;S23 4G;Tapa trasera;Compatible;6,20;;;6
+IL-S234-CTR-COM;itel;S23 4G;Cámara trasera;Compatible;8,65;;;6
+IL-S234-CFR-COM;itel;S23 4G;Cámara frontal;Compatible;5,35;;;6
+IL-S234-LEN-COM;itel;S23 4G;Lente de cámara;Compatible;2,30;;;6
+IL-S234-ALT-COM;itel;S23 4G;Altavoz;Compatible;3,60;;;6
+IL-S234-AUR-COM;itel;S23 4G;Auricular de llamada;Compatible;2,65;;;6
+IL-S234-FLX-COM;itel;S23 4G;Flex de encendido y volumen;Compatible;2,79;;;6
+IL-S234-SIM-COM;itel;S23 4G;Bandeja SIM;Compatible;2,55;;;6
+IL-A60-PAN-COM;itel;A60;Pantalla;Compatible;17,15;16,64;16,12;6
+IL-A60-BAT-COM;itel;A60;Batería;Compatible;9,40;;;6
+IL-A60-CON-COM;itel;A60;Conector de carga;Compatible;5,05;;;6
+IL-A60-TAP-COM;itel;A60;Tapa trasera;Compatible;6,20;;;6
+IL-A60-CTR-COM;itel;A60;Cámara trasera;Compatible;8,65;;;6
+IL-A60-CFR-COM;itel;A60;Cámara frontal;Compatible;5,35;;;6
+IL-A60-LEN-COM;itel;A60;Lente de cámara;Compatible;2,30;;;6
+IL-A60-ALT-COM;itel;A60;Altavoz;Compatible;3,60;;;6
+IL-A60-AUR-COM;itel;A60;Auricular de llamada;Compatible;2,65;;;6
+IL-A60-FLX-COM;itel;A60;Flex de encendido y volumen;Compatible;2,79;;;6
+IL-A60-SIM-COM;itel;A60;Bandeja SIM;Compatible;2,55;;;6
+IL-P38-PAN-COM;itel;P38;Pantalla;Compatible;16,10;15,62;15,13;6
+IL-P38-BAT-COM;itel;P38;Batería;Compatible;8,25;;;6
+IL-P38-CON-COM;itel;P38;Conector de carga;Compatible;4,40;;;6
+IL-P38-TAP-COM;itel;P38;Tapa trasera;Compatible;5,55;;;6
+IL-P38-CTR-COM;itel;P38;Cámara trasera;Compatible;6,19;;;6
+IL-P38-CFR-COM;itel;P38;Cámara frontal;Compatible;3,65;;;6
+IL-P38-LEN-COM;itel;P38;Lente de cámara;Compatible;2,20;;;6
+IL-P38-ALT-COM;itel;P38;Altavoz;Compatible;3,35;;;6
+IL-P38-AUR-COM;itel;P38;Auricular de llamada;Compatible;2,40;;;6
+IL-P38-FLX-COM;itel;P38;Flex de encendido y volumen;Compatible;2,29;;;6
+IL-P38-SIM-COM;itel;P38;Bandeja SIM;Compatible;2,60;;;6
+IL-P38P-PAN-COM;itel;P38 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+IL-P38P-BAT-COM;itel;P38 Pro;Batería;Compatible;8,25;;;6
+IL-P38P-CON-COM;itel;P38 Pro;Conector de carga;Compatible;4,40;;;6
+IL-P38P-TAP-COM;itel;P38 Pro;Tapa trasera;Compatible;5,55;;;6
+IL-P38P-CTR-COM;itel;P38 Pro;Cámara trasera;Compatible;6,19;;;6
+IL-P38P-CFR-COM;itel;P38 Pro;Cámara frontal;Compatible;3,65;;;6
+IL-P38P-LEN-COM;itel;P38 Pro;Lente de cámara;Compatible;2,20;;;6
+IL-P38P-ALT-COM;itel;P38 Pro;Altavoz;Compatible;3,35;;;6
+IL-P38P-AUR-COM;itel;P38 Pro;Auricular de llamada;Compatible;2,40;;;6
+IL-P38P-FLX-COM;itel;P38 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+IL-P38P-SIM-COM;itel;P38 Pro;Bandeja SIM;Compatible;2,60;;;6
+IL-A49-PAN-COM;itel;A49;Pantalla;Compatible;16,10;15,62;15,13;6
+IL-A49-BAT-COM;itel;A49;Batería;Compatible;8,25;;;6
+IL-A49-CON-COM;itel;A49;Conector de carga;Compatible;4,40;;;6
+IL-A49-TAP-COM;itel;A49;Tapa trasera;Compatible;5,55;;;6
+IL-A49-CTR-COM;itel;A49;Cámara trasera;Compatible;6,19;;;6
+IL-A49-CFR-COM;itel;A49;Cámara frontal;Compatible;3,65;;;6
+IL-A49-LEN-COM;itel;A49;Lente de cámara;Compatible;2,20;;;6
+IL-A49-ALT-COM;itel;A49;Altavoz;Compatible;3,35;;;6
+IL-A49-AUR-COM;itel;A49;Auricular de llamada;Compatible;2,40;;;6
+IL-A49-FLX-COM;itel;A49;Flex de encendido y volumen;Compatible;2,29;;;6
+IL-A49-SIM-COM;itel;A49;Bandeja SIM;Compatible;2,60;;;6
+IL-A27-PAN-COM;itel;A27;Pantalla;Compatible;16,10;15,62;15,13;6
+IL-A27-BAT-COM;itel;A27;Batería;Compatible;8,25;;;6
+IL-A27-CON-COM;itel;A27;Conector de carga;Compatible;4,40;;;6
+IL-A27-TAP-COM;itel;A27;Tapa trasera;Compatible;5,55;;;6
+IL-A27-CTR-COM;itel;A27;Cámara trasera;Compatible;6,19;;;6
+IL-A27-CFR-COM;itel;A27;Cámara frontal;Compatible;3,65;;;6
+IL-A27-LEN-COM;itel;A27;Lente de cámara;Compatible;2,20;;;6
+IL-A27-ALT-COM;itel;A27;Altavoz;Compatible;3,35;;;6
+IL-A27-AUR-COM;itel;A27;Auricular de llamada;Compatible;2,40;;;6
+IL-A27-FLX-COM;itel;A27;Flex de encendido y volumen;Compatible;2,29;;;6
+IL-A27-SIM-COM;itel;A27;Bandeja SIM;Compatible;2,60;;;6
+IL-A26-PAN-COM;itel;A26;Pantalla;Compatible;16,10;15,62;15,13;6
+IL-A26-BAT-COM;itel;A26;Batería;Compatible;8,25;;;6
+IL-A26-CON-COM;itel;A26;Conector de carga;Compatible;4,40;;;6
+IL-A26-TAP-COM;itel;A26;Tapa trasera;Compatible;5,55;;;6
+IL-A26-CTR-COM;itel;A26;Cámara trasera;Compatible;6,19;;;6
+IL-A26-CFR-COM;itel;A26;Cámara frontal;Compatible;3,65;;;6
+IL-A26-LEN-COM;itel;A26;Lente de cámara;Compatible;2,20;;;6
+IL-A26-ALT-COM;itel;A26;Altavoz;Compatible;3,35;;;6
+IL-A26-AUR-COM;itel;A26;Auricular de llamada;Compatible;2,40;;;6
+IL-A26-FLX-COM;itel;A26;Flex de encendido y volumen;Compatible;2,29;;;6
+IL-A26-SIM-COM;itel;A26;Bandeja SIM;Compatible;2,60;;;6
+IL-A48-PAN-COM;itel;A48;Pantalla;Compatible;16,10;15,62;15,13;6
+IL-A48-BAT-COM;itel;A48;Batería;Compatible;8,25;;;6
+IL-A48-CON-COM;itel;A48;Conector de carga;Compatible;4,40;;;6
+IL-A48-TAP-COM;itel;A48;Tapa trasera;Compatible;5,55;;;6
+IL-A48-CTR-COM;itel;A48;Cámara trasera;Compatible;6,19;;;6
+IL-A48-CFR-COM;itel;A48;Cámara frontal;Compatible;3,65;;;6
+IL-A48-LEN-COM;itel;A48;Lente de cámara;Compatible;2,20;;;6
+IL-A48-ALT-COM;itel;A48;Altavoz;Compatible;3,35;;;6
+IL-A48-AUR-COM;itel;A48;Auricular de llamada;Compatible;2,40;;;6
+IL-A48-FLX-COM;itel;A48;Flex de encendido y volumen;Compatible;2,29;;;6
+IL-A48-SIM-COM;itel;A48;Bandeja SIM;Compatible;2,60;;;6
+IL-P37-PAN-COM;itel;P37;Pantalla;Compatible;16,10;15,62;15,13;6
+IL-P37-BAT-COM;itel;P37;Batería;Compatible;8,25;;;6
+IL-P37-CON-COM;itel;P37;Conector de carga;Compatible;4,40;;;6
+IL-P37-TAP-COM;itel;P37;Tapa trasera;Compatible;5,55;;;6
+IL-P37-CTR-COM;itel;P37;Cámara trasera;Compatible;6,19;;;6
+IL-P37-CFR-COM;itel;P37;Cámara frontal;Compatible;3,65;;;6
+IL-P37-LEN-COM;itel;P37;Lente de cámara;Compatible;2,20;;;6
+IL-P37-ALT-COM;itel;P37;Altavoz;Compatible;3,35;;;6
+IL-P37-AUR-COM;itel;P37;Auricular de llamada;Compatible;2,40;;;6
+IL-P37-FLX-COM;itel;P37;Flex de encendido y volumen;Compatible;2,29;;;6
+IL-P37-SIM-COM;itel;P37;Bandeja SIM;Compatible;2,60;;;6
+IL-P37P-PAN-COM;itel;P37 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+IL-P37P-BAT-COM;itel;P37 Pro;Batería;Compatible;8,25;;;6
+IL-P37P-CON-COM;itel;P37 Pro;Conector de carga;Compatible;4,40;;;6
+IL-P37P-TAP-COM;itel;P37 Pro;Tapa trasera;Compatible;5,55;;;6
+IL-P37P-CTR-COM;itel;P37 Pro;Cámara trasera;Compatible;6,19;;;6
+IL-P37P-CFR-COM;itel;P37 Pro;Cámara frontal;Compatible;3,65;;;6
+IL-P37P-LEN-COM;itel;P37 Pro;Lente de cámara;Compatible;2,20;;;6
+IL-P37P-ALT-COM;itel;P37 Pro;Altavoz;Compatible;3,35;;;6
+IL-P37P-AUR-COM;itel;P37 Pro;Auricular de llamada;Compatible;2,40;;;6
+IL-P37P-FLX-COM;itel;P37 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+IL-P37P-SIM-COM;itel;P37 Pro;Bandeja SIM;Compatible;2,60;;;6
+IL-A47-PAN-COM;itel;A47;Pantalla;Compatible;16,10;15,62;15,13;6
+IL-A47-BAT-COM;itel;A47;Batería;Compatible;8,25;;;6
+IL-A47-CON-COM;itel;A47;Conector de carga;Compatible;4,40;;;6
+IL-A47-TAP-COM;itel;A47;Tapa trasera;Compatible;5,55;;;6
+IL-A47-CTR-COM;itel;A47;Cámara trasera;Compatible;6,19;;;6
+IL-A47-CFR-COM;itel;A47;Cámara frontal;Compatible;3,65;;;6
+IL-A47-LEN-COM;itel;A47;Lente de cámara;Compatible;2,20;;;6
+IL-A47-ALT-COM;itel;A47;Altavoz;Compatible;3,35;;;6
+IL-A47-AUR-COM;itel;A47;Auricular de llamada;Compatible;2,40;;;6
+IL-A47-FLX-COM;itel;A47;Flex de encendido y volumen;Compatible;2,29;;;6
+IL-A47-SIM-COM;itel;A47;Bandeja SIM;Compatible;2,60;;;6
+IL-P36-PAN-COM;itel;P36;Pantalla;Compatible;16,10;15,62;15,13;6
+IL-P36-BAT-COM;itel;P36;Batería;Compatible;8,25;;;6
+IL-P36-CON-COM;itel;P36;Conector de carga;Compatible;4,40;;;6
+IL-P36-TAP-COM;itel;P36;Tapa trasera;Compatible;5,55;;;6
+IL-P36-CTR-COM;itel;P36;Cámara trasera;Compatible;6,19;;;6
+IL-P36-CFR-COM;itel;P36;Cámara frontal;Compatible;3,65;;;6
+IL-P36-LEN-COM;itel;P36;Lente de cámara;Compatible;2,20;;;6
+IL-P36-ALT-COM;itel;P36;Altavoz;Compatible;3,35;;;6
+IL-P36-AUR-COM;itel;P36;Auricular de llamada;Compatible;2,40;;;6
+IL-P36-FLX-COM;itel;P36;Flex de encendido y volumen;Compatible;2,29;;;6
+IL-P36-SIM-COM;itel;P36;Bandeja SIM;Compatible;2,60;;;6
+IL-P36P-PAN-COM;itel;P36 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+IL-P36P-BAT-COM;itel;P36 Pro;Batería;Compatible;8,25;;;6
+IL-P36P-CON-COM;itel;P36 Pro;Conector de carga;Compatible;4,40;;;6
+IL-P36P-TAP-COM;itel;P36 Pro;Tapa trasera;Compatible;5,55;;;6
+IL-P36P-CTR-COM;itel;P36 Pro;Cámara trasera;Compatible;6,19;;;6
+IL-P36P-CFR-COM;itel;P36 Pro;Cámara frontal;Compatible;3,65;;;6
+IL-P36P-LEN-COM;itel;P36 Pro;Lente de cámara;Compatible;2,20;;;6
+IL-P36P-ALT-COM;itel;P36 Pro;Altavoz;Compatible;3,35;;;6
+IL-P36P-AUR-COM;itel;P36 Pro;Auricular de llamada;Compatible;2,40;;;6
+IL-P36P-FLX-COM;itel;P36 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+IL-P36P-SIM-COM;itel;P36 Pro;Bandeja SIM;Compatible;2,60;;;6
+IL-S42-PAN-COM;itel;S42;Pantalla;Compatible;15,15;14,70;14,24;6
+IL-S42-BAT-COM;itel;S42;Batería;Compatible;9,65;;;6
+IL-S42-CON-COM;itel;S42;Conector de carga;Compatible;4,60;;;6
+IL-S42-TAP-COM;itel;S42;Tapa trasera;Compatible;5,40;;;6
+IL-S42-CTR-COM;itel;S42;Cámara trasera;Compatible;7,59;;;6
+IL-S42-CFR-COM;itel;S42;Cámara frontal;Compatible;4,99;;;6
+IL-S42-LEN-COM;itel;S42;Lente de cámara;Compatible;2,19;;;6
+IL-S42-ALT-COM;itel;S42;Altavoz;Compatible;3,65;;;6
+IL-S42-AUR-COM;itel;S42;Auricular de llamada;Compatible;2,65;;;6
+IL-S42-FLX-COM;itel;S42;Flex de encendido y volumen;Compatible;2,49;;;6
+IL-S42-SIM-COM;itel;S42;Bandeja SIM;Compatible;2,55;;;6
+IL-CITY200S-PRO-NA;itel;City 200s;Cristal templado;Estándar;1,30;;;
+IL-CITY200S-PRO-PRI;itel;City 200s;Cristal templado;Privacidad;4,00;;;
+IL-CITY200S-FUN-SIL;itel;City 200s;Funda;Silicona;2,50;;;
+IL-CITY200S-FUN-TPU;itel;City 200s;Funda;Transparente;2,95;;;
+IL-CITY200S-FUN-LIB;itel;City 200s;Funda;Libro;3,70;;;
+IL-CITY200S-FUN-ANT;itel;City 200s;Funda;Antigolpes;3,10;;;
+IL-PW80-PRO-NA;itel;Power 80;Cristal templado;Estándar;1,30;;;
+IL-PW80-PRO-PRI;itel;Power 80;Cristal templado;Privacidad;4,00;;;
+IL-PW80-FUN-SIL;itel;Power 80;Funda;Silicona;2,50;;;
+IL-PW80-FUN-TPU;itel;Power 80;Funda;Transparente;2,95;;;
+IL-PW80-FUN-LIB;itel;Power 80;Funda;Libro;3,70;;;
+IL-PW80-FUN-ANT;itel;Power 80;Funda;Antigolpes;3,10;;;
+IL-A100P-PRO-NA;itel;A100 Pro;Cristal templado;Estándar;1,30;;;
+IL-A100P-PRO-PRI;itel;A100 Pro;Cristal templado;Privacidad;4,00;;;
+IL-A100P-FUN-SIL;itel;A100 Pro;Funda;Silicona;2,50;;;
+IL-A100P-FUN-TPU;itel;A100 Pro;Funda;Transparente;2,95;;;
+IL-A100P-FUN-LIB;itel;A100 Pro;Funda;Libro;3,70;;;
+IL-A100P-FUN-ANT;itel;A100 Pro;Funda;Antigolpes;3,10;;;
+IL-C200-PRO-NA;itel;City 200;Cristal templado;Estándar;1,30;;;
+IL-C200-PRO-PRI;itel;City 200;Cristal templado;Privacidad;4,00;;;
+IL-C200-FUN-SIL;itel;City 200;Funda;Silicona;2,50;;;
+IL-C200-FUN-TPU;itel;City 200;Funda;Transparente;2,95;;;
+IL-C200-FUN-LIB;itel;City 200;Funda;Libro;3,70;;;
+IL-C200-FUN-ANT;itel;City 200;Funda;Antigolpes;3,10;;;
+IL-S26U-PRO-NA;itel;Super 26 Ultra;Cristal templado;Estándar;1,30;;;
+IL-S26U-PRO-PRI;itel;Super 26 Ultra;Cristal templado;Privacidad;4,00;;;
+IL-S26U-FUN-SIL;itel;Super 26 Ultra;Funda;Silicona;2,50;;;
+IL-S26U-FUN-TPU;itel;Super 26 Ultra;Funda;Transparente;2,95;;;
+IL-S26U-FUN-LIB;itel;Super 26 Ultra;Funda;Libro;3,70;;;
+IL-S26U-FUN-ANT;itel;Super 26 Ultra;Funda;Antigolpes;3,10;;;
+IL-C100-PRO-NA;itel;City 100;Cristal templado;Estándar;1,30;;;
+IL-C100-PRO-PRI;itel;City 100;Cristal templado;Privacidad;4,00;;;
+IL-C100-FUN-SIL;itel;City 100;Funda;Silicona;2,50;;;
+IL-C100-FUN-TPU;itel;City 100;Funda;Transparente;2,95;;;
+IL-C100-FUN-LIB;itel;City 100;Funda;Libro;3,70;;;
+IL-C100-FUN-ANT;itel;City 100;Funda;Antigolpes;3,10;;;
+IL-PW70-PRO-NA;itel;Power 70;Cristal templado;Estándar;1,30;;;
+IL-PW70-PRO-PRI;itel;Power 70;Cristal templado;Privacidad;4,00;;;
+IL-PW70-FUN-SIL;itel;Power 70;Funda;Silicona;2,50;;;
+IL-PW70-FUN-TPU;itel;Power 70;Funda;Transparente;2,95;;;
+IL-PW70-FUN-LIB;itel;Power 70;Funda;Libro;3,70;;;
+IL-PW70-FUN-ANT;itel;Power 70;Funda;Antigolpes;3,10;;;
+IL-S25-PRO-NA;itel;S25;Cristal templado;Estándar;1,30;;;
+IL-S25-PRO-PRI;itel;S25;Cristal templado;Privacidad;4,00;;;
+IL-S25-FUN-SIL;itel;S25;Funda;Silicona;2,50;;;
+IL-S25-FUN-TPU;itel;S25;Funda;Transparente;2,95;;;
+IL-S25-FUN-LIB;itel;S25;Funda;Libro;3,70;;;
+IL-S25-FUN-ANT;itel;S25;Funda;Antigolpes;3,10;;;
+IL-S25U-PRO-NA;itel;S25 Ultra;Cristal templado;Estándar;1,30;;;
+IL-S25U-PRO-PRI;itel;S25 Ultra;Cristal templado;Privacidad;4,00;;;
+IL-S25U-FUN-SIL;itel;S25 Ultra;Funda;Silicona;2,50;;;
+IL-S25U-FUN-TPU;itel;S25 Ultra;Funda;Transparente;2,95;;;
+IL-S25U-FUN-LIB;itel;S25 Ultra;Funda;Libro;3,70;;;
+IL-S25U-FUN-ANT;itel;S25 Ultra;Funda;Antigolpes;3,10;;;
+IL-A80-PRO-NA;itel;A80;Cristal templado;Estándar;1,30;;;
+IL-A80-PRO-PRI;itel;A80;Cristal templado;Privacidad;4,00;;;
+IL-A80-FUN-SIL;itel;A80;Funda;Silicona;2,50;;;
+IL-A80-FUN-TPU;itel;A80;Funda;Transparente;2,95;;;
+IL-A80-FUN-LIB;itel;A80;Funda;Libro;3,70;;;
+IL-A80-FUN-ANT;itel;A80;Funda;Antigolpes;3,10;;;
+IL-A50C-PRO-NA;itel;A50C;Cristal templado;Estándar;1,30;;;
+IL-A50C-PRO-PRI;itel;A50C;Cristal templado;Privacidad;4,00;;;
+IL-A50C-FUN-SIL;itel;A50C;Funda;Silicona;2,50;;;
+IL-A50C-FUN-TPU;itel;A50C;Funda;Transparente;2,95;;;
+IL-A50C-FUN-LIB;itel;A50C;Funda;Libro;3,70;;;
+IL-A50C-FUN-ANT;itel;A50C;Funda;Antigolpes;3,10;;;
+IL-P65-PRO-NA;itel;P65;Cristal templado;Estándar;1,30;;;
+IL-P65-PRO-PRI;itel;P65;Cristal templado;Privacidad;4,00;;;
+IL-P65-FUN-SIL;itel;P65;Funda;Silicona;2,50;;;
+IL-P65-FUN-TPU;itel;P65;Funda;Transparente;2,95;;;
+IL-P65-FUN-LIB;itel;P65;Funda;Libro;3,70;;;
+IL-P65-FUN-ANT;itel;P65;Funda;Antigolpes;3,10;;;
+IL-A50-PRO-NA;itel;A50;Cristal templado;Estándar;1,30;;;
+IL-A50-PRO-PRI;itel;A50;Cristal templado;Privacidad;4,00;;;
+IL-A50-FUN-SIL;itel;A50;Funda;Silicona;2,50;;;
+IL-A50-FUN-TPU;itel;A50;Funda;Transparente;2,95;;;
+IL-A50-FUN-LIB;itel;A50;Funda;Libro;3,70;;;
+IL-A50-FUN-ANT;itel;A50;Funda;Antigolpes;3,10;;;
+IL-A50-PCA-NA;itel;A50;Protector de cámara;Cristal;2,90;;;
+IL-S24-PRO-NA;itel;S24;Cristal templado;Estándar;1,30;;;
+IL-S24-PRO-PRI;itel;S24;Cristal templado;Privacidad;4,00;;;
+IL-S24-FUN-SIL;itel;S24;Funda;Silicona;2,50;;;
+IL-S24-FUN-TPU;itel;S24;Funda;Transparente;2,95;;;
+IL-S24-FUN-LIB;itel;S24;Funda;Libro;3,70;;;
+IL-S24-FUN-ANT;itel;S24;Funda;Antigolpes;3,10;;;
+IL-A70-PRO-NA;itel;A70;Cristal templado;Estándar;1,30;;;
+IL-A70-PRO-PRI;itel;A70;Cristal templado;Privacidad;4,00;;;
+IL-A70-FUN-SIL;itel;A70;Funda;Silicona;2,50;;;
+IL-A70-FUN-TPU;itel;A70;Funda;Transparente;2,95;;;
+IL-A70-FUN-LIB;itel;A70;Funda;Libro;3,70;;;
+IL-A70-FUN-ANT;itel;A70;Funda;Antigolpes;3,10;;;
+IL-P55-PRO-NA;itel;P55;Cristal templado;Estándar;1,30;;;
+IL-P55-PRO-PRI;itel;P55;Cristal templado;Privacidad;4,00;;;
+IL-P55-FUN-SIL;itel;P55;Funda;Silicona;2,50;;;
+IL-P55-FUN-TPU;itel;P55;Funda;Transparente;2,95;;;
+IL-P55-FUN-LIB;itel;P55;Funda;Libro;3,70;;;
+IL-P55-FUN-ANT;itel;P55;Funda;Antigolpes;3,10;;;
+IL-S23PL-PRO-NA;itel;S23+;Cristal templado;Estándar;1,30;;;
+IL-S23PL-PRO-PRI;itel;S23+;Cristal templado;Privacidad;4,00;;;
+IL-S23PL-FUN-SIL;itel;S23+;Funda;Silicona;2,50;;;
+IL-S23PL-FUN-TPU;itel;S23+;Funda;Transparente;2,95;;;
+IL-S23PL-FUN-LIB;itel;S23+;Funda;Libro;3,70;;;
+IL-S23PL-FUN-ANT;itel;S23+;Funda;Antigolpes;3,10;;;
+IL-A60S-PRO-NA;itel;A60s;Cristal templado;Estándar;1,30;;;
+IL-A60S-PRO-PRI;itel;A60s;Cristal templado;Privacidad;4,00;;;
+IL-A60S-FUN-SIL;itel;A60s;Funda;Silicona;2,50;;;
+IL-A60S-FUN-TPU;itel;A60s;Funda;Transparente;2,95;;;
+IL-A60S-FUN-LIB;itel;A60s;Funda;Libro;3,70;;;
+IL-A60S-FUN-ANT;itel;A60s;Funda;Antigolpes;3,10;;;
+IL-A60S-PCA-NA;itel;A60s;Protector de cámara;Cristal;2,90;;;
+IL-S234-PRO-NA;itel;S23 4G;Cristal templado;Estándar;1,30;;;
+IL-S234-PRO-PRI;itel;S23 4G;Cristal templado;Privacidad;4,00;;;
+IL-S234-FUN-SIL;itel;S23 4G;Funda;Silicona;2,50;;;
+IL-S234-FUN-TPU;itel;S23 4G;Funda;Transparente;2,95;;;
+IL-S234-FUN-LIB;itel;S23 4G;Funda;Libro;3,70;;;
+IL-S234-FUN-ANT;itel;S23 4G;Funda;Antigolpes;3,10;;;
+IL-A60-PRO-NA;itel;A60;Cristal templado;Estándar;1,30;;;
+IL-A60-PRO-PRI;itel;A60;Cristal templado;Privacidad;4,00;;;
+IL-A60-FUN-SIL;itel;A60;Funda;Silicona;2,50;;;
+IL-A60-FUN-TPU;itel;A60;Funda;Transparente;2,95;;;
+IL-A60-FUN-LIB;itel;A60;Funda;Libro;3,70;;;
+IL-A60-FUN-ANT;itel;A60;Funda;Antigolpes;3,10;;;
+IL-A60-PCA-NA;itel;A60;Protector de cámara;Cristal;2,90;;;
+IL-P38-PRO-NA;itel;P38;Cristal templado;Estándar;1,30;;;
+IL-P38-PRO-PRI;itel;P38;Cristal templado;Privacidad;4,00;;;
+IL-P38-FUN-SIL;itel;P38;Funda;Silicona;2,50;;;
+IL-P38-FUN-TPU;itel;P38;Funda;Transparente;2,95;;;
+IL-P38-FUN-LIB;itel;P38;Funda;Libro;3,70;;;
+IL-P38-FUN-ANT;itel;P38;Funda;Antigolpes;3,10;;;
+IL-P38P-PRO-NA;itel;P38 Pro;Cristal templado;Estándar;1,30;;;
+IL-P38P-PRO-PRI;itel;P38 Pro;Cristal templado;Privacidad;4,00;;;
+IL-P38P-FUN-SIL;itel;P38 Pro;Funda;Silicona;2,50;;;
+IL-P38P-FUN-TPU;itel;P38 Pro;Funda;Transparente;2,95;;;
+IL-P38P-FUN-LIB;itel;P38 Pro;Funda;Libro;3,70;;;
+IL-P38P-FUN-ANT;itel;P38 Pro;Funda;Antigolpes;3,10;;;
+IL-A49-PRO-NA;itel;A49;Cristal templado;Estándar;1,30;;;
+IL-A49-PRO-PRI;itel;A49;Cristal templado;Privacidad;4,00;;;
+IL-A49-FUN-SIL;itel;A49;Funda;Silicona;2,50;;;
+IL-A49-FUN-TPU;itel;A49;Funda;Transparente;2,95;;;
+IL-A49-FUN-LIB;itel;A49;Funda;Libro;3,70;;;
+IL-A49-FUN-ANT;itel;A49;Funda;Antigolpes;3,10;;;
+IL-A49-PCA-NA;itel;A49;Protector de cámara;Cristal;2,90;;;
+IL-A27-PRO-NA;itel;A27;Cristal templado;Estándar;1,30;;;
+IL-A27-PRO-PRI;itel;A27;Cristal templado;Privacidad;4,00;;;
+IL-A27-FUN-SIL;itel;A27;Funda;Silicona;2,50;;;
+IL-A27-FUN-TPU;itel;A27;Funda;Transparente;2,95;;;
+IL-A27-FUN-LIB;itel;A27;Funda;Libro;3,70;;;
+IL-A27-FUN-ANT;itel;A27;Funda;Antigolpes;3,10;;;
+IL-A26-PRO-NA;itel;A26;Cristal templado;Estándar;1,30;;;
+IL-A26-PRO-PRI;itel;A26;Cristal templado;Privacidad;4,00;;;
+IL-A26-FUN-SIL;itel;A26;Funda;Silicona;2,50;;;
+IL-A26-FUN-TPU;itel;A26;Funda;Transparente;2,95;;;
+IL-A26-FUN-LIB;itel;A26;Funda;Libro;3,70;;;
+IL-A26-FUN-ANT;itel;A26;Funda;Antigolpes;3,10;;;
+IL-A48-PRO-NA;itel;A48;Cristal templado;Estándar;1,30;;;
+IL-A48-PRO-PRI;itel;A48;Cristal templado;Privacidad;4,00;;;
+IL-A48-FUN-SIL;itel;A48;Funda;Silicona;2,50;;;
+IL-A48-FUN-TPU;itel;A48;Funda;Transparente;2,95;;;
+IL-A48-FUN-LIB;itel;A48;Funda;Libro;3,70;;;
+IL-A48-FUN-ANT;itel;A48;Funda;Antigolpes;3,10;;;
+IL-P37-PRO-NA;itel;P37;Cristal templado;Estándar;1,30;;;
+IL-P37-PRO-PRI;itel;P37;Cristal templado;Privacidad;4,00;;;
+IL-P37-FUN-SIL;itel;P37;Funda;Silicona;2,50;;;
+IL-P37-FUN-TPU;itel;P37;Funda;Transparente;2,95;;;
+IL-P37-FUN-LIB;itel;P37;Funda;Libro;3,70;;;
+IL-P37-FUN-ANT;itel;P37;Funda;Antigolpes;3,10;;;
+IL-P37P-PRO-NA;itel;P37 Pro;Cristal templado;Estándar;1,30;;;
+IL-P37P-PRO-PRI;itel;P37 Pro;Cristal templado;Privacidad;4,00;;;
+IL-P37P-FUN-SIL;itel;P37 Pro;Funda;Silicona;2,50;;;
+IL-P37P-FUN-TPU;itel;P37 Pro;Funda;Transparente;2,95;;;
+IL-P37P-FUN-LIB;itel;P37 Pro;Funda;Libro;3,70;;;
+IL-P37P-FUN-ANT;itel;P37 Pro;Funda;Antigolpes;3,10;;;
+IL-A47-PRO-NA;itel;A47;Cristal templado;Estándar;1,30;;;
+IL-A47-PRO-PRI;itel;A47;Cristal templado;Privacidad;4,00;;;
+IL-A47-FUN-SIL;itel;A47;Funda;Silicona;2,50;;;
+IL-A47-FUN-TPU;itel;A47;Funda;Transparente;2,95;;;
+IL-A47-FUN-LIB;itel;A47;Funda;Libro;3,70;;;
+IL-A47-FUN-ANT;itel;A47;Funda;Antigolpes;3,10;;;
+IL-A47-PCA-NA;itel;A47;Protector de cámara;Cristal;2,90;;;
+IL-P36-PRO-NA;itel;P36;Cristal templado;Estándar;1,30;;;
+IL-P36-PRO-PRI;itel;P36;Cristal templado;Privacidad;4,00;;;
+IL-P36-FUN-SIL;itel;P36;Funda;Silicona;2,50;;;
+IL-P36-FUN-TPU;itel;P36;Funda;Transparente;2,95;;;
+IL-P36-FUN-LIB;itel;P36;Funda;Libro;3,70;;;
+IL-P36-FUN-ANT;itel;P36;Funda;Antigolpes;3,10;;;
+IL-P36P-PRO-NA;itel;P36 Pro;Cristal templado;Estándar;1,30;;;
+IL-P36P-PRO-PRI;itel;P36 Pro;Cristal templado;Privacidad;4,00;;;
+IL-P36P-FUN-SIL;itel;P36 Pro;Funda;Silicona;2,50;;;
+IL-P36P-FUN-TPU;itel;P36 Pro;Funda;Transparente;2,95;;;
+IL-P36P-FUN-LIB;itel;P36 Pro;Funda;Libro;3,70;;;
+IL-P36P-FUN-ANT;itel;P36 Pro;Funda;Antigolpes;3,10;;;
+IL-S42-PRO-NA;itel;S42;Cristal templado;Estándar;1,30;;;
+IL-S42-PRO-PRI;itel;S42;Cristal templado;Privacidad;4,00;;;
+IL-S42-FUN-SIL;itel;S42;Funda;Silicona;2,50;;;
+IL-S42-FUN-TPU;itel;S42;Funda;Transparente;2,95;;;
+IL-S42-FUN-LIB;itel;S42;Funda;Libro;3,70;;;
+IL-S42-FUN-ANT;itel;S42;Funda;Antigolpes;3,10;;;
+IL-CITY200S-MAR-COM;itel;City 200s;Marco / chasis;Compatible;7,90;;;6
+IL-CITY200S-BOT-COM;itel;City 200s;Botones laterales;Compatible;4,05;;;6
+IL-CITY200S-CRI-COM;itel;City 200s;Cristal de pantalla;Compatible;4,05;;;6
+IL-CITY200S-ANT-COM;itel;City 200s;Antena / coaxial;Compatible;3,50;;;6
+IL-CITY200S-HUE-COM;itel;City 200s;Botón home / huella;Compatible;5,85;;;6
+IL-PW80-MAR-COM;itel;Power 80;Marco / chasis;Compatible;7,90;;;6
+IL-PW80-BOT-COM;itel;Power 80;Botones laterales;Compatible;4,05;;;6
+IL-PW80-CRI-COM;itel;Power 80;Cristal de pantalla;Compatible;4,05;;;6
+IL-PW80-ANT-COM;itel;Power 80;Antena / coaxial;Compatible;3,50;;;6
+IL-PW80-HUE-COM;itel;Power 80;Botón home / huella;Compatible;5,85;;;6
+IL-A100P-MAR-COM;itel;A100 Pro;Marco / chasis;Compatible;7,90;;;6
+IL-A100P-BOT-COM;itel;A100 Pro;Botones laterales;Compatible;4,05;;;6
+IL-A100P-CRI-COM;itel;A100 Pro;Cristal de pantalla;Compatible;4,05;;;6
+IL-A100P-ANT-COM;itel;A100 Pro;Antena / coaxial;Compatible;3,50;;;6
+IL-A100P-HUE-COM;itel;A100 Pro;Botón home / huella;Compatible;5,85;;;6
+IL-C200-MAR-COM;itel;City 200;Marco / chasis;Compatible;7,90;;;6
+IL-C200-BOT-COM;itel;City 200;Botones laterales;Compatible;4,05;;;6
+IL-C200-CRI-COM;itel;City 200;Cristal de pantalla;Compatible;4,05;;;6
+IL-C200-ANT-COM;itel;City 200;Antena / coaxial;Compatible;3,50;;;6
+IL-C200-HUE-COM;itel;City 200;Botón home / huella;Compatible;5,85;;;6
+IL-S26U-MAR-COM;itel;Super 26 Ultra;Marco / chasis;Compatible;7,90;;;6
+IL-S26U-BOT-COM;itel;Super 26 Ultra;Botones laterales;Compatible;4,05;;;6
+IL-S26U-CRI-COM;itel;Super 26 Ultra;Cristal de pantalla;Compatible;4,05;;;6
+IL-S26U-ANT-COM;itel;Super 26 Ultra;Antena / coaxial;Compatible;3,50;;;6
+IL-S26U-HUE-COM;itel;Super 26 Ultra;Botón home / huella;Compatible;5,85;;;6
+IL-C100-MAR-COM;itel;City 100;Marco / chasis;Compatible;7,90;;;6
+IL-C100-BOT-COM;itel;City 100;Botones laterales;Compatible;4,05;;;6
+IL-C100-CRI-COM;itel;City 100;Cristal de pantalla;Compatible;4,05;;;6
+IL-C100-ANT-COM;itel;City 100;Antena / coaxial;Compatible;3,50;;;6
+IL-C100-HUE-COM;itel;City 100;Botón home / huella;Compatible;5,85;;;6
+IL-PW70-MAR-COM;itel;Power 70;Marco / chasis;Compatible;7,90;;;6
+IL-PW70-BOT-COM;itel;Power 70;Botones laterales;Compatible;4,05;;;6
+IL-PW70-CRI-COM;itel;Power 70;Cristal de pantalla;Compatible;4,05;;;6
+IL-PW70-ANT-COM;itel;Power 70;Antena / coaxial;Compatible;3,50;;;6
+IL-PW70-HUE-COM;itel;Power 70;Botón home / huella;Compatible;5,85;;;6
+IL-S25-MAR-COM;itel;S25;Marco / chasis;Compatible;7,90;;;6
+IL-S25-BOT-COM;itel;S25;Botones laterales;Compatible;4,05;;;6
+IL-S25-CRI-COM;itel;S25;Cristal de pantalla;Compatible;4,05;;;6
+IL-S25-ANT-COM;itel;S25;Antena / coaxial;Compatible;3,50;;;6
+IL-S25-HUE-COM;itel;S25;Botón home / huella;Compatible;5,85;;;6
+IL-S25U-MAR-COM;itel;S25 Ultra;Marco / chasis;Compatible;7,90;;;6
+IL-S25U-BOT-COM;itel;S25 Ultra;Botones laterales;Compatible;4,05;;;6
+IL-S25U-CRI-COM;itel;S25 Ultra;Cristal de pantalla;Compatible;4,05;;;6
+IL-S25U-ANT-COM;itel;S25 Ultra;Antena / coaxial;Compatible;3,50;;;6
+IL-S25U-HUE-COM;itel;S25 Ultra;Botón home / huella;Compatible;5,85;;;6
+IL-A80-MAR-COM;itel;A80;Marco / chasis;Compatible;7,90;;;6
+IL-A80-BOT-COM;itel;A80;Botones laterales;Compatible;4,05;;;6
+IL-A80-CRI-COM;itel;A80;Cristal de pantalla;Compatible;4,05;;;6
+IL-A80-ANT-COM;itel;A80;Antena / coaxial;Compatible;3,50;;;6
+IL-A80-HUE-COM;itel;A80;Botón home / huella;Compatible;5,85;;;6
+IL-A50C-MAR-COM;itel;A50C;Marco / chasis;Compatible;7,90;;;6
+IL-A50C-BOT-COM;itel;A50C;Botones laterales;Compatible;4,05;;;6
+IL-A50C-CRI-COM;itel;A50C;Cristal de pantalla;Compatible;4,05;;;6
+IL-A50C-ANT-COM;itel;A50C;Antena / coaxial;Compatible;3,50;;;6
+IL-A50C-HUE-COM;itel;A50C;Botón home / huella;Compatible;5,85;;;6
+IL-P65-MAR-COM;itel;P65;Marco / chasis;Compatible;7,90;;;6
+IL-P65-BOT-COM;itel;P65;Botones laterales;Compatible;4,05;;;6
+IL-P65-CRI-COM;itel;P65;Cristal de pantalla;Compatible;4,05;;;6
+IL-P65-ANT-COM;itel;P65;Antena / coaxial;Compatible;3,50;;;6
+IL-P65-HUE-COM;itel;P65;Botón home / huella;Compatible;5,85;;;6
+IL-A50-MAR-COM;itel;A50;Marco / chasis;Compatible;7,90;;;6
+IL-A50-BOT-COM;itel;A50;Botones laterales;Compatible;4,05;;;6
+IL-A50-CRI-COM;itel;A50;Cristal de pantalla;Compatible;4,05;;;6
+IL-A50-ANT-COM;itel;A50;Antena / coaxial;Compatible;3,50;;;6
+IL-A50-HUE-COM;itel;A50;Botón home / huella;Compatible;5,85;;;6
+IL-S24-MAR-COM;itel;S24;Marco / chasis;Compatible;7,90;;;6
+IL-S24-BOT-COM;itel;S24;Botones laterales;Compatible;4,05;;;6
+IL-S24-CRI-COM;itel;S24;Cristal de pantalla;Compatible;4,05;;;6
+IL-S24-ANT-COM;itel;S24;Antena / coaxial;Compatible;3,50;;;6
+IL-S24-HUE-COM;itel;S24;Botón home / huella;Compatible;5,85;;;6
+IL-A70-MAR-COM;itel;A70;Marco / chasis;Compatible;7,20;;;6
+IL-A70-BOT-COM;itel;A70;Botones laterales;Compatible;3,70;;;6
+IL-A70-CRI-COM;itel;A70;Cristal de pantalla;Compatible;3,69;;;6
+IL-A70-ANT-COM;itel;A70;Antena / coaxial;Compatible;3,20;;;6
+IL-A70-HUE-COM;itel;A70;Botón home / huella;Compatible;5,30;;;6
+IL-P55-MAR-COM;itel;P55;Marco / chasis;Compatible;7,20;;;6
+IL-P55-BOT-COM;itel;P55;Botones laterales;Compatible;3,70;;;6
+IL-P55-CRI-COM;itel;P55;Cristal de pantalla;Compatible;3,69;;;6
+IL-P55-ANT-COM;itel;P55;Antena / coaxial;Compatible;3,20;;;6
+IL-P55-HUE-COM;itel;P55;Botón home / huella;Compatible;5,30;;;6
+IL-S23PL-MAR-COM;itel;S23+;Marco / chasis;Compatible;7,20;;;6
+IL-S23PL-BOT-COM;itel;S23+;Botones laterales;Compatible;3,70;;;6
+IL-S23PL-CRI-COM;itel;S23+;Cristal de pantalla;Compatible;3,69;;;6
+IL-S23PL-ANT-COM;itel;S23+;Antena / coaxial;Compatible;3,20;;;6
+IL-S23PL-HUE-COM;itel;S23+;Botón home / huella;Compatible;5,30;;;6
+IL-A60S-MAR-COM;itel;A60s;Marco / chasis;Compatible;7,20;;;6
+IL-A60S-BOT-COM;itel;A60s;Botones laterales;Compatible;3,70;;;6
+IL-A60S-CRI-COM;itel;A60s;Cristal de pantalla;Compatible;3,69;;;6
+IL-A60S-ANT-COM;itel;A60s;Antena / coaxial;Compatible;3,20;;;6
+IL-A60S-HUE-COM;itel;A60s;Botón home / huella;Compatible;5,30;;;6
+IL-S234-MAR-COM;itel;S23 4G;Marco / chasis;Compatible;7,20;;;6
+IL-S234-BOT-COM;itel;S23 4G;Botones laterales;Compatible;3,70;;;6
+IL-S234-CRI-COM;itel;S23 4G;Cristal de pantalla;Compatible;3,69;;;6
+IL-S234-ANT-COM;itel;S23 4G;Antena / coaxial;Compatible;3,20;;;6
+IL-S234-HUE-COM;itel;S23 4G;Botón home / huella;Compatible;5,30;;;6
+IL-A60-MAR-COM;itel;A60;Marco / chasis;Compatible;7,20;;;6
+IL-A60-BOT-COM;itel;A60;Botones laterales;Compatible;3,70;;;6
+IL-A60-CRI-COM;itel;A60;Cristal de pantalla;Compatible;3,69;;;6
+IL-A60-ANT-COM;itel;A60;Antena / coaxial;Compatible;3,20;;;6
+IL-A60-HUE-COM;itel;A60;Botón home / huella;Compatible;5,30;;;6
+IL-P38-MAR-COM;itel;P38;Marco / chasis;Compatible;7,20;;;6
+IL-P38-BOT-COM;itel;P38;Botones laterales;Compatible;3,70;;;6
+IL-P38-CRI-COM;itel;P38;Cristal de pantalla;Compatible;3,69;;;6
+IL-P38-ANT-COM;itel;P38;Antena / coaxial;Compatible;3,20;;;6
+IL-P38-HUE-COM;itel;P38;Botón home / huella;Compatible;5,30;;;6
+IL-P38P-MAR-COM;itel;P38 Pro;Marco / chasis;Compatible;7,20;;;6
+IL-P38P-BOT-COM;itel;P38 Pro;Botones laterales;Compatible;3,70;;;6
+IL-P38P-CRI-COM;itel;P38 Pro;Cristal de pantalla;Compatible;3,69;;;6
+IL-P38P-ANT-COM;itel;P38 Pro;Antena / coaxial;Compatible;3,20;;;6
+IL-P38P-HUE-COM;itel;P38 Pro;Botón home / huella;Compatible;5,30;;;6
+IL-A49-MAR-COM;itel;A49;Marco / chasis;Compatible;7,20;;;6
+IL-A49-BOT-COM;itel;A49;Botones laterales;Compatible;3,70;;;6
+IL-A49-CRI-COM;itel;A49;Cristal de pantalla;Compatible;3,69;;;6
+IL-A49-ANT-COM;itel;A49;Antena / coaxial;Compatible;3,20;;;6
+IL-A49-HUE-COM;itel;A49;Botón home / huella;Compatible;5,30;;;6
+IL-A27-MAR-COM;itel;A27;Marco / chasis;Compatible;7,20;;;6
+IL-A27-BOT-COM;itel;A27;Botones laterales;Compatible;3,70;;;6
+IL-A27-CRI-COM;itel;A27;Cristal de pantalla;Compatible;3,69;;;6
+IL-A27-ANT-COM;itel;A27;Antena / coaxial;Compatible;3,20;;;6
+IL-A27-HUE-COM;itel;A27;Botón home / huella;Compatible;5,30;;;6
+IL-A26-MAR-COM;itel;A26;Marco / chasis;Compatible;7,20;;;6
+IL-A26-BOT-COM;itel;A26;Botones laterales;Compatible;3,70;;;6
+IL-A26-CRI-COM;itel;A26;Cristal de pantalla;Compatible;3,69;;;6
+IL-A26-ANT-COM;itel;A26;Antena / coaxial;Compatible;3,20;;;6
+IL-A26-HUE-COM;itel;A26;Botón home / huella;Compatible;5,30;;;6
+IL-A48-MAR-COM;itel;A48;Marco / chasis;Compatible;7,20;;;6
+IL-A48-BOT-COM;itel;A48;Botones laterales;Compatible;3,70;;;6
+IL-A48-CRI-COM;itel;A48;Cristal de pantalla;Compatible;3,69;;;6
+IL-A48-ANT-COM;itel;A48;Antena / coaxial;Compatible;3,20;;;6
+IL-A48-HUE-COM;itel;A48;Botón home / huella;Compatible;5,30;;;6
+IL-P37-MAR-COM;itel;P37;Marco / chasis;Compatible;7,20;;;6
+IL-P37-BOT-COM;itel;P37;Botones laterales;Compatible;3,70;;;6
+IL-P37-CRI-COM;itel;P37;Cristal de pantalla;Compatible;3,69;;;6
+IL-P37-ANT-COM;itel;P37;Antena / coaxial;Compatible;3,20;;;6
+IL-P37-HUE-COM;itel;P37;Botón home / huella;Compatible;5,30;;;6
+IL-P37P-MAR-COM;itel;P37 Pro;Marco / chasis;Compatible;7,20;;;6
+IL-P37P-BOT-COM;itel;P37 Pro;Botones laterales;Compatible;3,70;;;6
+IL-P37P-CRI-COM;itel;P37 Pro;Cristal de pantalla;Compatible;3,69;;;6
+IL-P37P-ANT-COM;itel;P37 Pro;Antena / coaxial;Compatible;3,20;;;6
+IL-P37P-HUE-COM;itel;P37 Pro;Botón home / huella;Compatible;5,30;;;6
+IL-A47-MAR-COM;itel;A47;Marco / chasis;Compatible;7,20;;;6
+IL-A47-BOT-COM;itel;A47;Botones laterales;Compatible;3,70;;;6
+IL-A47-CRI-COM;itel;A47;Cristal de pantalla;Compatible;3,69;;;6
+IL-A47-ANT-COM;itel;A47;Antena / coaxial;Compatible;3,20;;;6
+IL-A47-HUE-COM;itel;A47;Botón home / huella;Compatible;5,30;;;6
+IL-P36-MAR-COM;itel;P36;Marco / chasis;Compatible;7,20;;;6
+IL-P36-BOT-COM;itel;P36;Botones laterales;Compatible;3,70;;;6
+IL-P36-CRI-COM;itel;P36;Cristal de pantalla;Compatible;3,69;;;6
+IL-P36-ANT-COM;itel;P36;Antena / coaxial;Compatible;3,20;;;6
+IL-P36-HUE-COM;itel;P36;Botón home / huella;Compatible;5,30;;;6
+IL-P36P-MAR-COM;itel;P36 Pro;Marco / chasis;Compatible;7,20;;;6
+IL-P36P-BOT-COM;itel;P36 Pro;Botones laterales;Compatible;3,70;;;6
+IL-P36P-CRI-COM;itel;P36 Pro;Cristal de pantalla;Compatible;3,69;;;6
+IL-P36P-ANT-COM;itel;P36 Pro;Antena / coaxial;Compatible;3,20;;;6
+IL-P36P-HUE-COM;itel;P36 Pro;Botón home / huella;Compatible;5,30;;;6
+IL-S42-MAR-COM;itel;S42;Marco / chasis;Compatible;6,49;;;6
+IL-S42-BOT-COM;itel;S42;Botones laterales;Compatible;3,35;;;6
+IL-S42-CRI-COM;itel;S42;Cristal de pantalla;Compatible;3,30;;;6
+IL-S42-ANT-COM;itel;S42;Antena / coaxial;Compatible;2,89;;;6
+IL-S42-HUE-COM;itel;S42;Botón home / huella;Compatible;4,79;;;6

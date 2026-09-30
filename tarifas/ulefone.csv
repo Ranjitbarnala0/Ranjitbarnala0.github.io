@@ -1,0 +1,1103 @@
+﻿referencia;marca;modelo;pieza;calidad_o_variante;precio_sin_iva;precio_5_uds;precio_10_uds;garantia_meses
+UL-A27T-PAN-COM;Ulefone;Armor 27T;Pantalla;Compatible;17,15;16,64;16,12;6
+UL-A27T-BAT-COM;Ulefone;Armor 27T;Batería;Compatible;9,40;;;6
+UL-A27T-CON-COM;Ulefone;Armor 27T;Conector de carga;Compatible;5,05;;;6
+UL-A27T-TAP-COM;Ulefone;Armor 27T;Tapa trasera;Compatible;6,20;;;6
+UL-A27T-CTR-COM;Ulefone;Armor 27T;Cámara trasera;Compatible;8,65;;;6
+UL-A27T-CFR-COM;Ulefone;Armor 27T;Cámara frontal;Compatible;5,35;;;6
+UL-A27T-LEN-COM;Ulefone;Armor 27T;Lente de cámara;Compatible;2,30;;;6
+UL-A27T-ALT-COM;Ulefone;Armor 27T;Altavoz;Compatible;3,60;;;6
+UL-A27T-AUR-COM;Ulefone;Armor 27T;Auricular de llamada;Compatible;2,65;;;6
+UL-A27T-FLX-COM;Ulefone;Armor 27T;Flex de encendido y volumen;Compatible;2,79;;;6
+UL-A27T-SIM-COM;Ulefone;Armor 27T;Bandeja SIM;Compatible;2,55;;;6
+UL-A6E-PAN-COM;Ulefone;Armor 6E;Pantalla;Compatible;15,15;14,70;14,24;6
+UL-A6E-BAT-COM;Ulefone;Armor 6E;Batería;Compatible;9,65;;;6
+UL-A6E-CON-COM;Ulefone;Armor 6E;Conector de carga;Compatible;4,60;;;6
+UL-A6E-TAP-COM;Ulefone;Armor 6E;Tapa trasera;Compatible;5,40;;;6
+UL-A6E-CTR-COM;Ulefone;Armor 6E;Cámara trasera;Compatible;7,59;;;6
+UL-A6E-CFR-COM;Ulefone;Armor 6E;Cámara frontal;Compatible;4,99;;;6
+UL-A6E-LEN-COM;Ulefone;Armor 6E;Lente de cámara;Compatible;2,19;;;6
+UL-A6E-ALT-COM;Ulefone;Armor 6E;Altavoz;Compatible;3,65;;;6
+UL-A6E-AUR-COM;Ulefone;Armor 6E;Auricular de llamada;Compatible;2,65;;;6
+UL-A6E-FLX-COM;Ulefone;Armor 6E;Flex de encendido y volumen;Compatible;2,49;;;6
+UL-A6E-SIM-COM;Ulefone;Armor 6E;Bandeja SIM;Compatible;2,55;;;6
+UL-A6S-PAN-COM;Ulefone;Armor 6S;Pantalla;Compatible;15,15;14,70;14,24;6
+UL-A6S-BAT-COM;Ulefone;Armor 6S;Batería;Compatible;9,65;;;6
+UL-A6S-CON-COM;Ulefone;Armor 6S;Conector de carga;Compatible;4,60;;;6
+UL-A6S-TAP-COM;Ulefone;Armor 6S;Tapa trasera;Compatible;5,40;;;6
+UL-A6S-CTR-COM;Ulefone;Armor 6S;Cámara trasera;Compatible;7,59;;;6
+UL-A6S-CFR-COM;Ulefone;Armor 6S;Cámara frontal;Compatible;4,99;;;6
+UL-A6S-LEN-COM;Ulefone;Armor 6S;Lente de cámara;Compatible;2,19;;;6
+UL-A6S-ALT-COM;Ulefone;Armor 6S;Altavoz;Compatible;3,65;;;6
+UL-A6S-AUR-COM;Ulefone;Armor 6S;Auricular de llamada;Compatible;2,65;;;6
+UL-A6S-FLX-COM;Ulefone;Armor 6S;Flex de encendido y volumen;Compatible;2,49;;;6
+UL-A6S-SIM-COM;Ulefone;Armor 6S;Bandeja SIM;Compatible;2,55;;;6
+UL-A9E-PAN-COM;Ulefone;Armor 9E;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-A9E-BAT-COM;Ulefone;Armor 9E;Batería;Compatible;8,25;;;6
+UL-A9E-CON-COM;Ulefone;Armor 9E;Conector de carga;Compatible;4,40;;;6
+UL-A9E-TAP-COM;Ulefone;Armor 9E;Tapa trasera;Compatible;5,55;;;6
+UL-A9E-CTR-COM;Ulefone;Armor 9E;Cámara trasera;Compatible;6,19;;;6
+UL-A9E-CFR-COM;Ulefone;Armor 9E;Cámara frontal;Compatible;3,65;;;6
+UL-A9E-LEN-COM;Ulefone;Armor 9E;Lente de cámara;Compatible;2,20;;;6
+UL-A9E-ALT-COM;Ulefone;Armor 9E;Altavoz;Compatible;3,35;;;6
+UL-A9E-AUR-COM;Ulefone;Armor 9E;Auricular de llamada;Compatible;2,40;;;6
+UL-A9E-FLX-COM;Ulefone;Armor 9E;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-A9E-SIM-COM;Ulefone;Armor 9E;Bandeja SIM;Compatible;2,60;;;6
+UL-AX10P-PAN-COM;Ulefone;Armor X10 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-AX10P-BAT-COM;Ulefone;Armor X10 Pro;Batería;Compatible;8,25;;;6
+UL-AX10P-CON-COM;Ulefone;Armor X10 Pro;Conector de carga;Compatible;4,40;;;6
+UL-AX10P-TAP-COM;Ulefone;Armor X10 Pro;Tapa trasera;Compatible;5,55;;;6
+UL-AX10P-CTR-COM;Ulefone;Armor X10 Pro;Cámara trasera;Compatible;6,19;;;6
+UL-AX10P-CFR-COM;Ulefone;Armor X10 Pro;Cámara frontal;Compatible;3,65;;;6
+UL-AX10P-LEN-COM;Ulefone;Armor X10 Pro;Lente de cámara;Compatible;2,20;;;6
+UL-AX10P-ALT-COM;Ulefone;Armor X10 Pro;Altavoz;Compatible;3,35;;;6
+UL-AX10P-AUR-COM;Ulefone;Armor X10 Pro;Auricular de llamada;Compatible;2,40;;;6
+UL-AX10P-FLX-COM;Ulefone;Armor X10 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-AX10P-SIM-COM;Ulefone;Armor X10 Pro;Bandeja SIM;Compatible;2,60;;;6
+UL-AX12P-PAN-COM;Ulefone;Armor X12 Pro;Pantalla;Compatible;17,15;16,64;16,12;6
+UL-AX12P-BAT-COM;Ulefone;Armor X12 Pro;Batería;Compatible;9,40;;;6
+UL-AX12P-CON-COM;Ulefone;Armor X12 Pro;Conector de carga;Compatible;5,05;;;6
+UL-AX12P-TAP-COM;Ulefone;Armor X12 Pro;Tapa trasera;Compatible;6,20;;;6
+UL-AX12P-CTR-COM;Ulefone;Armor X12 Pro;Cámara trasera;Compatible;8,65;;;6
+UL-AX12P-CFR-COM;Ulefone;Armor X12 Pro;Cámara frontal;Compatible;5,35;;;6
+UL-AX12P-LEN-COM;Ulefone;Armor X12 Pro;Lente de cámara;Compatible;2,30;;;6
+UL-AX12P-ALT-COM;Ulefone;Armor X12 Pro;Altavoz;Compatible;3,60;;;6
+UL-AX12P-AUR-COM;Ulefone;Armor X12 Pro;Auricular de llamada;Compatible;2,65;;;6
+UL-AX12P-FLX-COM;Ulefone;Armor X12 Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+UL-AX12P-SIM-COM;Ulefone;Armor X12 Pro;Bandeja SIM;Compatible;2,55;;;6
+UL-AX31-PAN-COM;Ulefone;Armor X31;Pantalla;Compatible;17,15;16,64;16,12;6
+UL-AX31-BAT-COM;Ulefone;Armor X31;Batería;Compatible;9,40;;;6
+UL-AX31-CON-COM;Ulefone;Armor X31;Conector de carga;Compatible;5,05;;;6
+UL-AX31-TAP-COM;Ulefone;Armor X31;Tapa trasera;Compatible;6,20;;;6
+UL-AX31-CTR-COM;Ulefone;Armor X31;Cámara trasera;Compatible;8,65;;;6
+UL-AX31-CFR-COM;Ulefone;Armor X31;Cámara frontal;Compatible;5,35;;;6
+UL-AX31-LEN-COM;Ulefone;Armor X31;Lente de cámara;Compatible;2,30;;;6
+UL-AX31-ALT-COM;Ulefone;Armor X31;Altavoz;Compatible;3,60;;;6
+UL-AX31-AUR-COM;Ulefone;Armor X31;Auricular de llamada;Compatible;2,65;;;6
+UL-AX31-FLX-COM;Ulefone;Armor X31;Flex de encendido y volumen;Compatible;2,79;;;6
+UL-AX31-SIM-COM;Ulefone;Armor X31;Bandeja SIM;Compatible;2,55;;;6
+UL-AX5P-PAN-COM;Ulefone;Armor X5 Pro;Pantalla;Compatible;15,15;14,70;14,24;6
+UL-AX5P-BAT-COM;Ulefone;Armor X5 Pro;Batería;Compatible;9,65;;;6
+UL-AX5P-CON-COM;Ulefone;Armor X5 Pro;Conector de carga;Compatible;4,60;;;6
+UL-AX5P-TAP-COM;Ulefone;Armor X5 Pro;Tapa trasera;Compatible;5,40;;;6
+UL-AX5P-CTR-COM;Ulefone;Armor X5 Pro;Cámara trasera;Compatible;7,59;;;6
+UL-AX5P-CFR-COM;Ulefone;Armor X5 Pro;Cámara frontal;Compatible;4,99;;;6
+UL-AX5P-LEN-COM;Ulefone;Armor X5 Pro;Lente de cámara;Compatible;2,19;;;6
+UL-AX5P-ALT-COM;Ulefone;Armor X5 Pro;Altavoz;Compatible;3,65;;;6
+UL-AX5P-AUR-COM;Ulefone;Armor X5 Pro;Auricular de llamada;Compatible;2,65;;;6
+UL-AX5P-FLX-COM;Ulefone;Armor X5 Pro;Flex de encendido y volumen;Compatible;2,49;;;6
+UL-AX5P-SIM-COM;Ulefone;Armor X5 Pro;Bandeja SIM;Compatible;2,55;;;6
+UL-AX6-PAN-COM;Ulefone;Armor X6;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-AX6-BAT-COM;Ulefone;Armor X6;Batería;Compatible;8,25;;;6
+UL-AX6-CON-COM;Ulefone;Armor X6;Conector de carga;Compatible;4,40;;;6
+UL-AX6-TAP-COM;Ulefone;Armor X6;Tapa trasera;Compatible;5,55;;;6
+UL-AX6-CTR-COM;Ulefone;Armor X6;Cámara trasera;Compatible;6,19;;;6
+UL-AX6-CFR-COM;Ulefone;Armor X6;Cámara frontal;Compatible;3,65;;;6
+UL-AX6-LEN-COM;Ulefone;Armor X6;Lente de cámara;Compatible;2,20;;;6
+UL-AX6-ALT-COM;Ulefone;Armor X6;Altavoz;Compatible;3,35;;;6
+UL-AX6-AUR-COM;Ulefone;Armor X6;Auricular de llamada;Compatible;2,40;;;6
+UL-AX6-FLX-COM;Ulefone;Armor X6;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-AX6-SIM-COM;Ulefone;Armor X6;Bandeja SIM;Compatible;2,60;;;6
+UL-AX8I-PAN-COM;Ulefone;Armor X8i;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-AX8I-BAT-COM;Ulefone;Armor X8i;Batería;Compatible;8,25;;;6
+UL-AX8I-CON-COM;Ulefone;Armor X8i;Conector de carga;Compatible;4,40;;;6
+UL-AX8I-TAP-COM;Ulefone;Armor X8i;Tapa trasera;Compatible;5,55;;;6
+UL-AX8I-CTR-COM;Ulefone;Armor X8i;Cámara trasera;Compatible;6,19;;;6
+UL-AX8I-CFR-COM;Ulefone;Armor X8i;Cámara frontal;Compatible;3,65;;;6
+UL-AX8I-LEN-COM;Ulefone;Armor X8i;Lente de cámara;Compatible;2,20;;;6
+UL-AX8I-ALT-COM;Ulefone;Armor X8i;Altavoz;Compatible;3,35;;;6
+UL-AX8I-AUR-COM;Ulefone;Armor X8i;Auricular de llamada;Compatible;2,40;;;6
+UL-AX8I-FLX-COM;Ulefone;Armor X8i;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-AX8I-SIM-COM;Ulefone;Armor X8i;Bandeja SIM;Compatible;2,60;;;6
+UL-AX9P-PAN-COM;Ulefone;Armor X9 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-AX9P-BAT-COM;Ulefone;Armor X9 Pro;Batería;Compatible;8,25;;;6
+UL-AX9P-CON-COM;Ulefone;Armor X9 Pro;Conector de carga;Compatible;4,40;;;6
+UL-AX9P-TAP-COM;Ulefone;Armor X9 Pro;Tapa trasera;Compatible;5,55;;;6
+UL-AX9P-CTR-COM;Ulefone;Armor X9 Pro;Cámara trasera;Compatible;6,19;;;6
+UL-AX9P-CFR-COM;Ulefone;Armor X9 Pro;Cámara frontal;Compatible;3,65;;;6
+UL-AX9P-LEN-COM;Ulefone;Armor X9 Pro;Lente de cámara;Compatible;2,20;;;6
+UL-AX9P-ALT-COM;Ulefone;Armor X9 Pro;Altavoz;Compatible;3,35;;;6
+UL-AX9P-AUR-COM;Ulefone;Armor X9 Pro;Auricular de llamada;Compatible;2,40;;;6
+UL-AX9P-FLX-COM;Ulefone;Armor X9 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-AX9P-SIM-COM;Ulefone;Armor X9 Pro;Bandeja SIM;Compatible;2,60;;;6
+UL-N7T-PAN-COM;Ulefone;Note 7T;Pantalla;Compatible;13,00;12,61;12,22;6
+UL-N7T-BAT-COM;Ulefone;Note 7T;Batería;Compatible;8,90;;;6
+UL-N7T-CON-COM;Ulefone;Note 7T;Conector de carga;Compatible;3,70;;;6
+UL-N7T-TAP-COM;Ulefone;Note 7T;Tapa trasera;Compatible;4,80;;;6
+UL-N7T-CTR-COM;Ulefone;Note 7T;Cámara trasera;Compatible;6,65;;;6
+UL-N7T-CFR-COM;Ulefone;Note 7T;Cámara frontal;Compatible;4,65;;;6
+UL-N7T-LEN-COM;Ulefone;Note 7T;Lente de cámara;Compatible;2,25;;;6
+UL-N7T-ALT-COM;Ulefone;Note 7T;Altavoz;Compatible;3,59;;;6
+UL-N7T-AUR-COM;Ulefone;Note 7T;Auricular de llamada;Compatible;2,69;;;6
+UL-N7T-FLX-COM;Ulefone;Note 7T;Flex de encendido y volumen;Compatible;2,55;;;6
+UL-N7T-SIM-COM;Ulefone;Note 7T;Bandeja SIM;Compatible;2,65;;;6
+UL-PWAX11-PAN-COM;Ulefone;Power Armor X11;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-PWAX11-BAT-COM;Ulefone;Power Armor X11;Batería;Compatible;8,25;;;6
+UL-PWAX11-CON-COM;Ulefone;Power Armor X11;Conector de carga;Compatible;4,40;;;6
+UL-PWAX11-TAP-COM;Ulefone;Power Armor X11;Tapa trasera;Compatible;5,55;;;6
+UL-PWAX11-CTR-COM;Ulefone;Power Armor X11;Cámara trasera;Compatible;6,19;;;6
+UL-PWAX11-CFR-COM;Ulefone;Power Armor X11;Cámara frontal;Compatible;3,65;;;6
+UL-PWAX11-LEN-COM;Ulefone;Power Armor X11;Lente de cámara;Compatible;2,20;;;6
+UL-PWAX11-ALT-COM;Ulefone;Power Armor X11;Altavoz;Compatible;3,35;;;6
+UL-PWAX11-AUR-COM;Ulefone;Power Armor X11;Auricular de llamada;Compatible;2,40;;;6
+UL-PWAX11-FLX-COM;Ulefone;Power Armor X11;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-PWAX11-SIM-COM;Ulefone;Power Armor X11;Bandeja SIM;Compatible;2,60;;;6
+UL-A3-PAN-COM;Ulefone;Armor 3;Pantalla;Compatible;15,15;14,70;14,24;6
+UL-A3-BAT-COM;Ulefone;Armor 3;Batería;Compatible;9,65;;;6
+UL-A3-CON-COM;Ulefone;Armor 3;Conector de carga;Compatible;4,60;;;6
+UL-A3-TAP-COM-NEG;Ulefone;Armor 3;Tapa trasera;Negro;5,40;;;6
+UL-A3-TAP-COM-NAR;Ulefone;Armor 3;Tapa trasera;Naranja;5,40;;;6
+UL-A3-CTR-COM;Ulefone;Armor 3;Cámara trasera;Compatible;7,59;;;6
+UL-A3-CFR-COM;Ulefone;Armor 3;Cámara frontal;Compatible;4,99;;;6
+UL-A3-LEN-COM;Ulefone;Armor 3;Lente de cámara;Compatible;2,19;;;6
+UL-A3-ALT-COM;Ulefone;Armor 3;Altavoz;Compatible;3,65;;;6
+UL-A3-AUR-COM;Ulefone;Armor 3;Auricular de llamada;Compatible;2,65;;;6
+UL-A3-FLX-COM;Ulefone;Armor 3;Flex de encendido y volumen;Compatible;2,49;;;6
+UL-A3-SIM-COM;Ulefone;Armor 3;Bandeja SIM;Compatible;2,55;;;6
+UL-A6-PAN-COM;Ulefone;Armor 6;Pantalla;Compatible;15,15;14,70;14,24;6
+UL-A6-BAT-COM;Ulefone;Armor 6;Batería;Compatible;9,65;;;6
+UL-A6-CON-COM;Ulefone;Armor 6;Conector de carga;Compatible;4,60;;;6
+UL-A6-TAP-COM-NEG;Ulefone;Armor 6;Tapa trasera;Negro;5,40;;;6
+UL-A6-TAP-COM-ROJ;Ulefone;Armor 6;Tapa trasera;Rojo;5,40;;;6
+UL-A6-CTR-COM;Ulefone;Armor 6;Cámara trasera;Compatible;7,59;;;6
+UL-A6-CFR-COM;Ulefone;Armor 6;Cámara frontal;Compatible;4,99;;;6
+UL-A6-LEN-COM;Ulefone;Armor 6;Lente de cámara;Compatible;2,19;;;6
+UL-A6-ALT-COM;Ulefone;Armor 6;Altavoz;Compatible;3,65;;;6
+UL-A6-AUR-COM;Ulefone;Armor 6;Auricular de llamada;Compatible;2,65;;;6
+UL-A6-FLX-COM;Ulefone;Armor 6;Flex de encendido y volumen;Compatible;2,49;;;6
+UL-A6-SIM-COM;Ulefone;Armor 6;Bandeja SIM;Compatible;2,55;;;6
+UL-A7-PAN-COM;Ulefone;Armor 7;Pantalla;Compatible;15,15;14,70;14,24;6
+UL-A7-BAT-COM;Ulefone;Armor 7;Batería;Compatible;9,65;;;6
+UL-A7-CON-COM;Ulefone;Armor 7;Conector de carga;Compatible;4,60;;;6
+UL-A7-TAP-COM-NEG;Ulefone;Armor 7;Tapa trasera;Negro;5,40;;;6
+UL-A7-CTR-COM;Ulefone;Armor 7;Cámara trasera;Compatible;7,59;;;6
+UL-A7-CFR-COM;Ulefone;Armor 7;Cámara frontal;Compatible;4,99;;;6
+UL-A7-LEN-COM;Ulefone;Armor 7;Lente de cámara;Compatible;2,19;;;6
+UL-A7-ALT-COM;Ulefone;Armor 7;Altavoz;Compatible;3,65;;;6
+UL-A7-AUR-COM;Ulefone;Armor 7;Auricular de llamada;Compatible;2,65;;;6
+UL-A7-FLX-COM;Ulefone;Armor 7;Flex de encendido y volumen;Compatible;2,49;;;6
+UL-A7-SIM-COM;Ulefone;Armor 7;Bandeja SIM;Compatible;2,55;;;6
+UL-AX5-PAN-COM;Ulefone;Armor X5;Pantalla;Compatible;15,15;14,70;14,24;6
+UL-AX5-BAT-COM;Ulefone;Armor X5;Batería;Compatible;9,65;;;6
+UL-AX5-CON-COM;Ulefone;Armor X5;Conector de carga;Compatible;4,60;;;6
+UL-AX5-TAP-COM-ROJ;Ulefone;Armor X5;Tapa trasera;Rojo;5,40;;;6
+UL-AX5-TAP-COM-NEG;Ulefone;Armor X5;Tapa trasera;Negro;5,40;;;6
+UL-AX5-TAP-COM-NAR;Ulefone;Armor X5;Tapa trasera;Naranja;5,40;;;6
+UL-AX5-CTR-COM;Ulefone;Armor X5;Cámara trasera;Compatible;7,59;;;6
+UL-AX5-CFR-COM;Ulefone;Armor X5;Cámara frontal;Compatible;4,99;;;6
+UL-AX5-LEN-COM;Ulefone;Armor X5;Lente de cámara;Compatible;2,19;;;6
+UL-AX5-ALT-COM;Ulefone;Armor X5;Altavoz;Compatible;3,65;;;6
+UL-AX5-AUR-COM;Ulefone;Armor X5;Auricular de llamada;Compatible;2,65;;;6
+UL-AX5-FLX-COM;Ulefone;Armor X5;Flex de encendido y volumen;Compatible;2,49;;;6
+UL-AX5-SIM-COM;Ulefone;Armor X5;Bandeja SIM;Compatible;2,55;;;6
+UL-N7-PAN-COM;Ulefone;Note 7;Pantalla;Compatible;13,00;12,61;12,22;6
+UL-N7-BAT-COM;Ulefone;Note 7;Batería;Compatible;8,90;;;6
+UL-N7-CON-COM;Ulefone;Note 7;Conector de carga;Compatible;3,70;;;6
+UL-N7-TAP-COM-TWI;Ulefone;Note 7;Tapa trasera;Twilight;4,80;;;6
+UL-N7-TAP-COM-DOR;Ulefone;Note 7;Tapa trasera;Dorado;4,80;;;6
+UL-N7-TAP-COM-NEG;Ulefone;Note 7;Tapa trasera;Negro;4,80;;;6
+UL-N7-TAP-COM-VER;Ulefone;Note 7;Tapa trasera;Verde;4,80;;;6
+UL-N7-CTR-COM;Ulefone;Note 7;Cámara trasera;Compatible;6,65;;;6
+UL-N7-CFR-COM;Ulefone;Note 7;Cámara frontal;Compatible;4,65;;;6
+UL-N7-LEN-COM;Ulefone;Note 7;Lente de cámara;Compatible;2,25;;;6
+UL-N7-ALT-COM;Ulefone;Note 7;Altavoz;Compatible;3,59;;;6
+UL-N7-AUR-COM;Ulefone;Note 7;Auricular de llamada;Compatible;2,69;;;6
+UL-N7-FLX-COM;Ulefone;Note 7;Flex de encendido y volumen;Compatible;2,55;;;6
+UL-N7-SIM-COM;Ulefone;Note 7;Bandeja SIM;Compatible;2,65;;;6
+UL-A105-PAN-COM;Ulefone;Armor 10 5G;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-A105-BAT-COM;Ulefone;Armor 10 5G;Batería;Compatible;8,25;;;6
+UL-A105-CON-COM;Ulefone;Armor 10 5G;Conector de carga;Compatible;4,40;;;6
+UL-A105-TAP-COM-NEG;Ulefone;Armor 10 5G;Tapa trasera;Negro;5,55;;;6
+UL-A105-CTR-COM;Ulefone;Armor 10 5G;Cámara trasera;Compatible;6,19;;;6
+UL-A105-CFR-COM;Ulefone;Armor 10 5G;Cámara frontal;Compatible;3,65;;;6
+UL-A105-LEN-COM;Ulefone;Armor 10 5G;Lente de cámara;Compatible;2,20;;;6
+UL-A105-ALT-COM;Ulefone;Armor 10 5G;Altavoz;Compatible;3,35;;;6
+UL-A105-AUR-COM;Ulefone;Armor 10 5G;Auricular de llamada;Compatible;2,40;;;6
+UL-A105-FLX-COM;Ulefone;Armor 10 5G;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-A105-SIM-COM;Ulefone;Armor 10 5G;Bandeja SIM;Compatible;2,60;;;6
+UL-A7E-PAN-COM;Ulefone;Armor 7E;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-A7E-BAT-COM;Ulefone;Armor 7E;Batería;Compatible;8,25;;;6
+UL-A7E-CON-COM;Ulefone;Armor 7E;Conector de carga;Compatible;4,40;;;6
+UL-A7E-TAP-COM-NEG;Ulefone;Armor 7E;Tapa trasera;Negro;5,55;;;6
+UL-A7E-CTR-COM;Ulefone;Armor 7E;Cámara trasera;Compatible;6,19;;;6
+UL-A7E-CFR-COM;Ulefone;Armor 7E;Cámara frontal;Compatible;3,65;;;6
+UL-A7E-LEN-COM;Ulefone;Armor 7E;Lente de cámara;Compatible;2,20;;;6
+UL-A7E-ALT-COM;Ulefone;Armor 7E;Altavoz;Compatible;3,35;;;6
+UL-A7E-AUR-COM;Ulefone;Armor 7E;Auricular de llamada;Compatible;2,40;;;6
+UL-A7E-FLX-COM;Ulefone;Armor 7E;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-A7E-SIM-COM;Ulefone;Armor 7E;Bandeja SIM;Compatible;2,60;;;6
+UL-A8-PAN-COM;Ulefone;Armor 8;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-A8-BAT-COM;Ulefone;Armor 8;Batería;Compatible;8,25;;;6
+UL-A8-CON-COM;Ulefone;Armor 8;Conector de carga;Compatible;4,40;;;6
+UL-A8-TAP-COM-NAR;Ulefone;Armor 8;Tapa trasera;Naranja;5,55;;;6
+UL-A8-TAP-COM-ROJ;Ulefone;Armor 8;Tapa trasera;Rojo;5,55;;;6
+UL-A8-TAP-COM-NEG;Ulefone;Armor 8;Tapa trasera;Negro;5,55;;;6
+UL-A8-CTR-COM;Ulefone;Armor 8;Cámara trasera;Compatible;6,19;;;6
+UL-A8-CFR-COM;Ulefone;Armor 8;Cámara frontal;Compatible;3,65;;;6
+UL-A8-LEN-COM;Ulefone;Armor 8;Lente de cámara;Compatible;2,20;;;6
+UL-A8-ALT-COM;Ulefone;Armor 8;Altavoz;Compatible;3,35;;;6
+UL-A8-AUR-COM;Ulefone;Armor 8;Auricular de llamada;Compatible;2,40;;;6
+UL-A8-FLX-COM;Ulefone;Armor 8;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-A8-SIM-COM;Ulefone;Armor 8;Bandeja SIM;Compatible;2,60;;;6
+UL-A9-PAN-COM;Ulefone;Armor 9;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-A9-BAT-COM;Ulefone;Armor 9;Batería;Compatible;8,25;;;6
+UL-A9-CON-COM;Ulefone;Armor 9;Conector de carga;Compatible;4,40;;;6
+UL-A9-TAP-COM-NEG;Ulefone;Armor 9;Tapa trasera;Negro;5,55;;;6
+UL-A9-CTR-COM;Ulefone;Armor 9;Cámara trasera;Compatible;6,19;;;6
+UL-A9-CFR-COM;Ulefone;Armor 9;Cámara frontal;Compatible;3,65;;;6
+UL-A9-LEN-COM;Ulefone;Armor 9;Lente de cámara;Compatible;2,20;;;6
+UL-A9-ALT-COM;Ulefone;Armor 9;Altavoz;Compatible;3,35;;;6
+UL-A9-AUR-COM;Ulefone;Armor 9;Auricular de llamada;Compatible;2,40;;;6
+UL-A9-FLX-COM;Ulefone;Armor 9;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-A9-SIM-COM;Ulefone;Armor 9;Bandeja SIM;Compatible;2,60;;;6
+UL-AX8-PAN-COM;Ulefone;Armor X8;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-AX8-BAT-COM;Ulefone;Armor X8;Batería;Compatible;8,25;;;6
+UL-AX8-CON-COM;Ulefone;Armor X8;Conector de carga;Compatible;4,40;;;6
+UL-AX8-TAP-COM-NEG;Ulefone;Armor X8;Tapa trasera;Negro;5,55;;;6
+UL-AX8-TAP-COM-NAR;Ulefone;Armor X8;Tapa trasera;Naranja;5,55;;;6
+UL-AX8-CTR-COM;Ulefone;Armor X8;Cámara trasera;Compatible;6,19;;;6
+UL-AX8-CFR-COM;Ulefone;Armor X8;Cámara frontal;Compatible;3,65;;;6
+UL-AX8-LEN-COM;Ulefone;Armor X8;Lente de cámara;Compatible;2,20;;;6
+UL-AX8-ALT-COM;Ulefone;Armor X8;Altavoz;Compatible;3,35;;;6
+UL-AX8-AUR-COM;Ulefone;Armor X8;Auricular de llamada;Compatible;2,40;;;6
+UL-AX8-FLX-COM;Ulefone;Armor X8;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-AX8-SIM-COM;Ulefone;Armor X8;Bandeja SIM;Compatible;2,60;;;6
+UL-N8-PAN-COM;Ulefone;Note 8;Pantalla;Compatible;13,80;13,39;12,97;6
+UL-N8-BAT-COM;Ulefone;Note 8;Batería;Compatible;7,60;;;6
+UL-N8-CON-COM;Ulefone;Note 8;Conector de carga;Compatible;3,55;;;6
+UL-N8-TAP-COM-NEG;Ulefone;Note 8;Tapa trasera;Negro;4,95;;;6
+UL-N8-TAP-COM-VER;Ulefone;Note 8;Tapa trasera;Verde (Midnight Green);4,95;;;6
+UL-N8-TAP-COM-AMB;Ulefone;Note 8;Tapa trasera;Amber Sunrise;4,95;;;6
+UL-N8-CTR-COM;Ulefone;Note 8;Cámara trasera;Compatible;5,45;;;6
+UL-N8-CFR-COM;Ulefone;Note 8;Cámara frontal;Compatible;3,45;;;6
+UL-N8-LEN-COM;Ulefone;Note 8;Lente de cámara;Compatible;2,25;;;6
+UL-N8-ALT-COM;Ulefone;Note 8;Altavoz;Compatible;3,29;;;6
+UL-N8-AUR-COM;Ulefone;Note 8;Auricular de llamada;Compatible;2,45;;;6
+UL-N8-FLX-COM;Ulefone;Note 8;Flex de encendido y volumen;Compatible;2,35;;;6
+UL-N8-SIM-COM;Ulefone;Note 8;Bandeja SIM;Compatible;2,75;;;6
+UL-N9P-PAN-COM;Ulefone;Note 9P;Pantalla;Compatible;13,80;13,39;12,97;6
+UL-N9P-BAT-COM;Ulefone;Note 9P;Batería;Compatible;7,60;;;6
+UL-N9P-CON-COM;Ulefone;Note 9P;Conector de carga;Compatible;3,55;;;6
+UL-N9P-TAP-COM-AZU;Ulefone;Note 9P;Tapa trasera;Azul (Aurora Blue);4,95;;;6
+UL-N9P-TAP-COM-VER;Ulefone;Note 9P;Tapa trasera;Verde (Midnight Green);4,95;;;6
+UL-N9P-TAP-COM-NEG;Ulefone;Note 9P;Tapa trasera;Negro;4,95;;;6
+UL-N9P-CTR-COM;Ulefone;Note 9P;Cámara trasera;Compatible;5,45;;;6
+UL-N9P-CFR-COM;Ulefone;Note 9P;Cámara frontal;Compatible;3,45;;;6
+UL-N9P-LEN-COM;Ulefone;Note 9P;Lente de cámara;Compatible;2,25;;;6
+UL-N9P-ALT-COM;Ulefone;Note 9P;Altavoz;Compatible;3,29;;;6
+UL-N9P-AUR-COM;Ulefone;Note 9P;Auricular de llamada;Compatible;2,45;;;6
+UL-N9P-FLX-COM;Ulefone;Note 9P;Flex de encendido y volumen;Compatible;2,35;;;6
+UL-N9P-SIM-COM;Ulefone;Note 9P;Bandeja SIM;Compatible;2,75;;;6
+UL-A115-PAN-COM;Ulefone;Armor 11 5G;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-A115-BAT-COM;Ulefone;Armor 11 5G;Batería;Compatible;8,25;;;6
+UL-A115-CON-COM;Ulefone;Armor 11 5G;Conector de carga;Compatible;4,40;;;6
+UL-A115-TAP-COM-NEG;Ulefone;Armor 11 5G;Tapa trasera;Negro;5,55;;;6
+UL-A115-CTR-COM;Ulefone;Armor 11 5G;Cámara trasera;Compatible;6,19;;;6
+UL-A115-CFR-COM;Ulefone;Armor 11 5G;Cámara frontal;Compatible;3,65;;;6
+UL-A115-LEN-COM;Ulefone;Armor 11 5G;Lente de cámara;Compatible;2,20;;;6
+UL-A115-ALT-COM;Ulefone;Armor 11 5G;Altavoz;Compatible;3,35;;;6
+UL-A115-AUR-COM;Ulefone;Armor 11 5G;Auricular de llamada;Compatible;2,40;;;6
+UL-A115-FLX-COM;Ulefone;Armor 11 5G;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-A115-SIM-COM;Ulefone;Armor 11 5G;Bandeja SIM;Compatible;2,60;;;6
+UL-A11T5-PAN-COM;Ulefone;Armor 11T 5G;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-A11T5-BAT-COM;Ulefone;Armor 11T 5G;Batería;Compatible;8,25;;;6
+UL-A11T5-CON-COM;Ulefone;Armor 11T 5G;Conector de carga;Compatible;4,40;;;6
+UL-A11T5-TAP-COM-NEG;Ulefone;Armor 11T 5G;Tapa trasera;Negro;5,55;;;6
+UL-A11T5-CTR-COM;Ulefone;Armor 11T 5G;Cámara trasera;Compatible;6,19;;;6
+UL-A11T5-CFR-COM;Ulefone;Armor 11T 5G;Cámara frontal;Compatible;3,65;;;6
+UL-A11T5-LEN-COM;Ulefone;Armor 11T 5G;Lente de cámara;Compatible;2,20;;;6
+UL-A11T5-ALT-COM;Ulefone;Armor 11T 5G;Altavoz;Compatible;3,35;;;6
+UL-A11T5-AUR-COM;Ulefone;Armor 11T 5G;Auricular de llamada;Compatible;2,40;;;6
+UL-A11T5-FLX-COM;Ulefone;Armor 11T 5G;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-A11T5-SIM-COM;Ulefone;Armor 11T 5G;Bandeja SIM;Compatible;2,60;;;6
+UL-A125-PAN-COM;Ulefone;Armor 12 5G;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-A125-BAT-COM;Ulefone;Armor 12 5G;Batería;Compatible;8,25;;;6
+UL-A125-CON-COM;Ulefone;Armor 12 5G;Conector de carga;Compatible;4,40;;;6
+UL-A125-TAP-COM-NEG;Ulefone;Armor 12 5G;Tapa trasera;Negro;5,55;;;6
+UL-A125-TAP-COM-GRI;Ulefone;Armor 12 5G;Tapa trasera;Gris;5,55;;;6
+UL-A125-CTR-COM;Ulefone;Armor 12 5G;Cámara trasera;Compatible;6,19;;;6
+UL-A125-CFR-COM;Ulefone;Armor 12 5G;Cámara frontal;Compatible;3,65;;;6
+UL-A125-LEN-COM;Ulefone;Armor 12 5G;Lente de cámara;Compatible;2,20;;;6
+UL-A125-ALT-COM;Ulefone;Armor 12 5G;Altavoz;Compatible;3,35;;;6
+UL-A125-AUR-COM;Ulefone;Armor 12 5G;Auricular de llamada;Compatible;2,40;;;6
+UL-A125-FLX-COM;Ulefone;Armor 12 5G;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-A125-SIM-COM;Ulefone;Armor 12 5G;Bandeja SIM;Compatible;2,60;;;6
+UL-A8P-PAN-COM;Ulefone;Armor 8 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-A8P-BAT-COM;Ulefone;Armor 8 Pro;Batería;Compatible;8,25;;;6
+UL-A8P-CON-COM;Ulefone;Armor 8 Pro;Conector de carga;Compatible;4,40;;;6
+UL-A8P-TAP-COM-NAR;Ulefone;Armor 8 Pro;Tapa trasera;Naranja;5,55;;;6
+UL-A8P-TAP-COM-ROJ;Ulefone;Armor 8 Pro;Tapa trasera;Rojo;5,55;;;6
+UL-A8P-TAP-COM-NEG;Ulefone;Armor 8 Pro;Tapa trasera;Negro;5,55;;;6
+UL-A8P-CTR-COM;Ulefone;Armor 8 Pro;Cámara trasera;Compatible;6,19;;;6
+UL-A8P-CFR-COM;Ulefone;Armor 8 Pro;Cámara frontal;Compatible;3,65;;;6
+UL-A8P-LEN-COM;Ulefone;Armor 8 Pro;Lente de cámara;Compatible;2,20;;;6
+UL-A8P-ALT-COM;Ulefone;Armor 8 Pro;Altavoz;Compatible;3,35;;;6
+UL-A8P-AUR-COM;Ulefone;Armor 8 Pro;Auricular de llamada;Compatible;2,40;;;6
+UL-A8P-FLX-COM;Ulefone;Armor 8 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-A8P-SIM-COM;Ulefone;Armor 8 Pro;Bandeja SIM;Compatible;2,60;;;6
+UL-AX10-PAN-COM;Ulefone;Armor X10;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-AX10-BAT-COM;Ulefone;Armor X10;Batería;Compatible;8,25;;;6
+UL-AX10-CON-COM;Ulefone;Armor X10;Conector de carga;Compatible;4,40;;;6
+UL-AX10-TAP-COM;Ulefone;Armor X10;Tapa trasera;Compatible;5,55;;;6
+UL-AX10-CTR-COM;Ulefone;Armor X10;Cámara trasera;Compatible;6,19;;;6
+UL-AX10-CFR-COM;Ulefone;Armor X10;Cámara frontal;Compatible;3,65;;;6
+UL-AX10-LEN-COM;Ulefone;Armor X10;Lente de cámara;Compatible;2,20;;;6
+UL-AX10-ALT-COM;Ulefone;Armor X10;Altavoz;Compatible;3,35;;;6
+UL-AX10-AUR-COM;Ulefone;Armor X10;Auricular de llamada;Compatible;2,40;;;6
+UL-AX10-FLX-COM;Ulefone;Armor X10;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-AX10-SIM-COM;Ulefone;Armor X10;Bandeja SIM;Compatible;2,60;;;6
+UL-AX9-PAN-COM;Ulefone;Armor X9;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-AX9-BAT-COM;Ulefone;Armor X9;Batería;Compatible;8,25;;;6
+UL-AX9-CON-COM;Ulefone;Armor X9;Conector de carga;Compatible;4,40;;;6
+UL-AX9-TAP-COM-NEG;Ulefone;Armor X9;Tapa trasera;Negro;5,55;;;6
+UL-AX9-TAP-COM-ROJ;Ulefone;Armor X9;Tapa trasera;Rojo;5,55;;;6
+UL-AX9-TAP-COM-VER;Ulefone;Armor X9;Tapa trasera;Verde;5,55;;;6
+UL-AX9-CTR-COM;Ulefone;Armor X9;Cámara trasera;Compatible;6,19;;;6
+UL-AX9-CFR-COM;Ulefone;Armor X9;Cámara frontal;Compatible;3,65;;;6
+UL-AX9-LEN-COM;Ulefone;Armor X9;Lente de cámara;Compatible;2,20;;;6
+UL-AX9-ALT-COM;Ulefone;Armor X9;Altavoz;Compatible;3,35;;;6
+UL-AX9-AUR-COM;Ulefone;Armor X9;Auricular de llamada;Compatible;2,40;;;6
+UL-AX9-FLX-COM;Ulefone;Armor X9;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-AX9-SIM-COM;Ulefone;Armor X9;Bandeja SIM;Compatible;2,60;;;6
+UL-N12P-PAN-COM;Ulefone;Note 12P;Pantalla;Compatible;13,80;13,39;12,97;6
+UL-N12P-BAT-COM;Ulefone;Note 12P;Batería;Compatible;7,60;;;6
+UL-N12P-CON-COM;Ulefone;Note 12P;Conector de carga;Compatible;3,55;;;6
+UL-N12P-TAP-COM-AZU;Ulefone;Note 12P;Tapa trasera;Azul;4,95;;;6
+UL-N12P-TAP-COM-NEG;Ulefone;Note 12P;Tapa trasera;Negro;4,95;;;6
+UL-N12P-TAP-COM-ROJ;Ulefone;Note 12P;Tapa trasera;Rojo;4,95;;;6
+UL-N12P-CTR-COM;Ulefone;Note 12P;Cámara trasera;Compatible;5,45;;;6
+UL-N12P-CFR-COM;Ulefone;Note 12P;Cámara frontal;Compatible;3,45;;;6
+UL-N12P-LEN-COM;Ulefone;Note 12P;Lente de cámara;Compatible;2,25;;;6
+UL-N12P-ALT-COM;Ulefone;Note 12P;Altavoz;Compatible;3,29;;;6
+UL-N12P-AUR-COM;Ulefone;Note 12P;Auricular de llamada;Compatible;2,45;;;6
+UL-N12P-FLX-COM;Ulefone;Note 12P;Flex de encendido y volumen;Compatible;2,35;;;6
+UL-N12P-SIM-COM;Ulefone;Note 12P;Bandeja SIM;Compatible;2,75;;;6
+UL-N13P-PAN-COM;Ulefone;Note 13P;Pantalla;Compatible;13,80;13,39;12,97;6
+UL-N13P-BAT-COM;Ulefone;Note 13P;Batería;Compatible;7,60;;;6
+UL-N13P-CON-COM;Ulefone;Note 13P;Conector de carga;Compatible;3,55;;;6
+UL-N13P-TAP-COM-NEG;Ulefone;Note 13P;Tapa trasera;Negro (Starry Black);4,95;;;6
+UL-N13P-TAP-COM-AZU;Ulefone;Note 13P;Tapa trasera;Azul (Mystery Blue);4,95;;;6
+UL-N13P-CTR-COM;Ulefone;Note 13P;Cámara trasera;Compatible;5,45;;;6
+UL-N13P-CFR-COM;Ulefone;Note 13P;Cámara frontal;Compatible;3,45;;;6
+UL-N13P-LEN-COM;Ulefone;Note 13P;Lente de cámara;Compatible;2,25;;;6
+UL-N13P-ALT-COM;Ulefone;Note 13P;Altavoz;Compatible;3,29;;;6
+UL-N13P-AUR-COM;Ulefone;Note 13P;Auricular de llamada;Compatible;2,45;;;6
+UL-N13P-FLX-COM;Ulefone;Note 13P;Flex de encendido y volumen;Compatible;2,35;;;6
+UL-N13P-SIM-COM;Ulefone;Note 13P;Bandeja SIM;Compatible;2,75;;;6
+UL-PWA13-PAN-COM;Ulefone;Power Armor 13;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-PWA13-BAT-COM;Ulefone;Power Armor 13;Batería;Compatible;8,25;;;6
+UL-PWA13-CON-COM;Ulefone;Power Armor 13;Conector de carga;Compatible;4,40;;;6
+UL-PWA13-TAP-COM-NEG;Ulefone;Power Armor 13;Tapa trasera;Negro;5,55;;;6
+UL-PWA13-CTR-COM;Ulefone;Power Armor 13;Cámara trasera;Compatible;6,19;;;6
+UL-PWA13-CFR-COM;Ulefone;Power Armor 13;Cámara frontal;Compatible;3,65;;;6
+UL-PWA13-LEN-COM;Ulefone;Power Armor 13;Lente de cámara;Compatible;2,20;;;6
+UL-PWA13-ALT-COM;Ulefone;Power Armor 13;Altavoz;Compatible;3,35;;;6
+UL-PWA13-AUR-COM;Ulefone;Power Armor 13;Auricular de llamada;Compatible;2,40;;;6
+UL-PWA13-FLX-COM;Ulefone;Power Armor 13;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-PWA13-SIM-COM;Ulefone;Power Armor 13;Bandeja SIM;Compatible;2,60;;;6
+UL-PWA14-PAN-COM;Ulefone;Power Armor 14;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-PWA14-BAT-COM;Ulefone;Power Armor 14;Batería;Compatible;8,25;;;6
+UL-PWA14-CON-COM;Ulefone;Power Armor 14;Conector de carga;Compatible;4,40;;;6
+UL-PWA14-TAP-COM;Ulefone;Power Armor 14;Tapa trasera;Compatible;5,55;;;6
+UL-PWA14-CTR-COM;Ulefone;Power Armor 14;Cámara trasera;Compatible;6,19;;;6
+UL-PWA14-CFR-COM;Ulefone;Power Armor 14;Cámara frontal;Compatible;3,65;;;6
+UL-PWA14-LEN-COM;Ulefone;Power Armor 14;Lente de cámara;Compatible;2,20;;;6
+UL-PWA14-ALT-COM;Ulefone;Power Armor 14;Altavoz;Compatible;3,35;;;6
+UL-PWA14-AUR-COM;Ulefone;Power Armor 14;Auricular de llamada;Compatible;2,40;;;6
+UL-PWA14-FLX-COM;Ulefone;Power Armor 14;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-PWA14-SIM-COM;Ulefone;Power Armor 14;Bandeja SIM;Compatible;2,60;;;6
+UL-A15-PAN-COM;Ulefone;Armor 15;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-A15-BAT-COM;Ulefone;Armor 15;Batería;Compatible;8,25;;;6
+UL-A15-CON-COM;Ulefone;Armor 15;Conector de carga;Compatible;4,40;;;6
+UL-A15-TAP-COM-NEG;Ulefone;Armor 15;Tapa trasera;Negro (Meteorite Black);5,55;;;6
+UL-A15-TAP-COM-AZU;Ulefone;Armor 15;Tapa trasera;Azul (Tech Blue);5,55;;;6
+UL-A15-TAP-COM-ROJ;Ulefone;Armor 15;Tapa trasera;Rojo (Sport Red);5,55;;;6
+UL-A15-CTR-COM;Ulefone;Armor 15;Cámara trasera;Compatible;6,19;;;6
+UL-A15-CFR-COM;Ulefone;Armor 15;Cámara frontal;Compatible;3,65;;;6
+UL-A15-LEN-COM;Ulefone;Armor 15;Lente de cámara;Compatible;2,20;;;6
+UL-A15-ALT-COM;Ulefone;Armor 15;Altavoz;Compatible;3,35;;;6
+UL-A15-AUR-COM;Ulefone;Armor 15;Auricular de llamada;Compatible;2,40;;;6
+UL-A15-FLX-COM;Ulefone;Armor 15;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-A15-SIM-COM;Ulefone;Armor 15;Bandeja SIM;Compatible;2,60;;;6
+UL-A17P-PAN-COM;Ulefone;Armor 17 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-A17P-BAT-COM;Ulefone;Armor 17 Pro;Batería;Compatible;8,25;;;6
+UL-A17P-CON-COM;Ulefone;Armor 17 Pro;Conector de carga;Compatible;4,40;;;6
+UL-A17P-TAP-COM-NEG;Ulefone;Armor 17 Pro;Tapa trasera;Negro;5,55;;;6
+UL-A17P-CTR-COM;Ulefone;Armor 17 Pro;Cámara trasera;Compatible;6,19;;;6
+UL-A17P-CFR-COM;Ulefone;Armor 17 Pro;Cámara frontal;Compatible;3,65;;;6
+UL-A17P-LEN-COM;Ulefone;Armor 17 Pro;Lente de cámara;Compatible;2,20;;;6
+UL-A17P-ALT-COM;Ulefone;Armor 17 Pro;Altavoz;Compatible;3,35;;;6
+UL-A17P-AUR-COM;Ulefone;Armor 17 Pro;Auricular de llamada;Compatible;2,40;;;6
+UL-A17P-FLX-COM;Ulefone;Armor 17 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-A17P-SIM-COM;Ulefone;Armor 17 Pro;Bandeja SIM;Compatible;2,60;;;6
+UL-AX6P-PAN-COM;Ulefone;Armor X6 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-AX6P-BAT-COM;Ulefone;Armor X6 Pro;Batería;Compatible;8,25;;;6
+UL-AX6P-CON-COM;Ulefone;Armor X6 Pro;Conector de carga;Compatible;4,40;;;6
+UL-AX6P-TAP-COM-NEG;Ulefone;Armor X6 Pro;Tapa trasera;Negro;5,55;;;6
+UL-AX6P-TAP-COM-NAR;Ulefone;Armor X6 Pro;Tapa trasera;Naranja;5,55;;;6
+UL-AX6P-CTR-COM;Ulefone;Armor X6 Pro;Cámara trasera;Compatible;6,19;;;6
+UL-AX6P-CFR-COM;Ulefone;Armor X6 Pro;Cámara frontal;Compatible;3,65;;;6
+UL-AX6P-LEN-COM;Ulefone;Armor X6 Pro;Lente de cámara;Compatible;2,20;;;6
+UL-AX6P-ALT-COM;Ulefone;Armor X6 Pro;Altavoz;Compatible;3,35;;;6
+UL-AX6P-AUR-COM;Ulefone;Armor X6 Pro;Auricular de llamada;Compatible;2,40;;;6
+UL-AX6P-FLX-COM;Ulefone;Armor X6 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-AX6P-SIM-COM;Ulefone;Armor X6 Pro;Bandeja SIM;Compatible;2,60;;;6
+UL-N14-PAN-COM;Ulefone;Note 14;Pantalla;Compatible;13,80;13,39;12,97;6
+UL-N14-BAT-COM;Ulefone;Note 14;Batería;Compatible;7,60;;;6
+UL-N14-CON-COM;Ulefone;Note 14;Conector de carga;Compatible;3,55;;;6
+UL-N14-TAP-COM-NEG;Ulefone;Note 14;Tapa trasera;Negro (Midnight Black);4,95;;;6
+UL-N14-TAP-COM-VER;Ulefone;Note 14;Tapa trasera;Verde menta;4,95;;;6
+UL-N14-TAP-COM-MOR;Ulefone;Note 14;Tapa trasera;Morado (Lavender Purple);4,95;;;6
+UL-N14-CTR-COM;Ulefone;Note 14;Cámara trasera;Compatible;5,45;;;6
+UL-N14-CFR-COM;Ulefone;Note 14;Cámara frontal;Compatible;3,45;;;6
+UL-N14-LEN-COM;Ulefone;Note 14;Lente de cámara;Compatible;2,25;;;6
+UL-N14-ALT-COM;Ulefone;Note 14;Altavoz;Compatible;3,29;;;6
+UL-N14-AUR-COM;Ulefone;Note 14;Auricular de llamada;Compatible;2,45;;;6
+UL-N14-FLX-COM;Ulefone;Note 14;Flex de encendido y volumen;Compatible;2,35;;;6
+UL-N14-SIM-COM;Ulefone;Note 14;Bandeja SIM;Compatible;2,75;;;6
+UL-PWA14P-PAN-COM;Ulefone;Power Armor 14 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-PWA14P-BAT-COM;Ulefone;Power Armor 14 Pro;Batería;Compatible;8,25;;;6
+UL-PWA14P-CON-COM;Ulefone;Power Armor 14 Pro;Conector de carga;Compatible;4,40;;;6
+UL-PWA14P-TAP-COM-NEG;Ulefone;Power Armor 14 Pro;Tapa trasera;Negro;5,55;;;6
+UL-PWA14P-CTR-COM;Ulefone;Power Armor 14 Pro;Cámara trasera;Compatible;6,19;;;6
+UL-PWA14P-CFR-COM;Ulefone;Power Armor 14 Pro;Cámara frontal;Compatible;3,65;;;6
+UL-PWA14P-LEN-COM;Ulefone;Power Armor 14 Pro;Lente de cámara;Compatible;2,20;;;6
+UL-PWA14P-ALT-COM;Ulefone;Power Armor 14 Pro;Altavoz;Compatible;3,35;;;6
+UL-PWA14P-AUR-COM;Ulefone;Power Armor 14 Pro;Auricular de llamada;Compatible;2,40;;;6
+UL-PWA14P-FLX-COM;Ulefone;Power Armor 14 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-PWA14P-SIM-COM;Ulefone;Power Armor 14 Pro;Bandeja SIM;Compatible;2,60;;;6
+UL-PWA16P-PAN-COM;Ulefone;Power Armor 16 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-PWA16P-BAT-COM;Ulefone;Power Armor 16 Pro;Batería;Compatible;8,25;;;6
+UL-PWA16P-CON-COM;Ulefone;Power Armor 16 Pro;Conector de carga;Compatible;4,40;;;6
+UL-PWA16P-TAP-COM-NAR;Ulefone;Power Armor 16 Pro;Tapa trasera;Naranja;5,55;;;6
+UL-PWA16P-TAP-COM-NEG;Ulefone;Power Armor 16 Pro;Tapa trasera;Negro;5,55;;;6
+UL-PWA16P-CTR-COM;Ulefone;Power Armor 16 Pro;Cámara trasera;Compatible;6,19;;;6
+UL-PWA16P-CFR-COM;Ulefone;Power Armor 16 Pro;Cámara frontal;Compatible;3,65;;;6
+UL-PWA16P-LEN-COM;Ulefone;Power Armor 16 Pro;Lente de cámara;Compatible;2,20;;;6
+UL-PWA16P-ALT-COM;Ulefone;Power Armor 16 Pro;Altavoz;Compatible;3,35;;;6
+UL-PWA16P-AUR-COM;Ulefone;Power Armor 16 Pro;Auricular de llamada;Compatible;2,40;;;6
+UL-PWA16P-FLX-COM;Ulefone;Power Armor 16 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-PWA16P-SIM-COM;Ulefone;Power Armor 16 Pro;Bandeja SIM;Compatible;2,60;;;6
+UL-PWA18-PAN-COM;Ulefone;Power Armor 18;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-PWA18-BAT-COM;Ulefone;Power Armor 18;Batería;Compatible;8,25;;;6
+UL-PWA18-CON-COM;Ulefone;Power Armor 18;Conector de carga;Compatible;4,40;;;6
+UL-PWA18-TAP-COM-NEG;Ulefone;Power Armor 18;Tapa trasera;Negro;5,55;;;6
+UL-PWA18-CTR-COM;Ulefone;Power Armor 18;Cámara trasera;Compatible;6,19;;;6
+UL-PWA18-CFR-COM;Ulefone;Power Armor 18;Cámara frontal;Compatible;3,65;;;6
+UL-PWA18-LEN-COM;Ulefone;Power Armor 18;Lente de cámara;Compatible;2,20;;;6
+UL-PWA18-ALT-COM;Ulefone;Power Armor 18;Altavoz;Compatible;3,35;;;6
+UL-PWA18-AUR-COM;Ulefone;Power Armor 18;Auricular de llamada;Compatible;2,40;;;6
+UL-PWA18-FLX-COM;Ulefone;Power Armor 18;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-PWA18-SIM-COM;Ulefone;Power Armor 18;Bandeja SIM;Compatible;2,60;;;6
+UL-PWA18T-PAN-COM;Ulefone;Power Armor 18T;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-PWA18T-BAT-COM;Ulefone;Power Armor 18T;Batería;Compatible;8,25;;;6
+UL-PWA18T-CON-COM;Ulefone;Power Armor 18T;Conector de carga;Compatible;4,40;;;6
+UL-PWA18T-TAP-COM-NEG;Ulefone;Power Armor 18T;Tapa trasera;Negro;5,55;;;6
+UL-PWA18T-CTR-COM;Ulefone;Power Armor 18T;Cámara trasera;Compatible;6,19;;;6
+UL-PWA18T-CFR-COM;Ulefone;Power Armor 18T;Cámara frontal;Compatible;3,65;;;6
+UL-PWA18T-LEN-COM;Ulefone;Power Armor 18T;Lente de cámara;Compatible;2,20;;;6
+UL-PWA18T-ALT-COM;Ulefone;Power Armor 18T;Altavoz;Compatible;3,35;;;6
+UL-PWA18T-AUR-COM;Ulefone;Power Armor 18T;Auricular de llamada;Compatible;2,40;;;6
+UL-PWA18T-FLX-COM;Ulefone;Power Armor 18T;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-PWA18T-SIM-COM;Ulefone;Power Armor 18T;Bandeja SIM;Compatible;2,60;;;6
+UL-PWAX11P-PAN-COM;Ulefone;Power Armor X11 Pro;Pantalla;Compatible;16,10;15,62;15,13;6
+UL-PWAX11P-BAT-COM;Ulefone;Power Armor X11 Pro;Batería;Compatible;8,25;;;6
+UL-PWAX11P-CON-COM;Ulefone;Power Armor X11 Pro;Conector de carga;Compatible;4,40;;;6
+UL-PWAX11P-TAP-COM;Ulefone;Power Armor X11 Pro;Tapa trasera;Compatible;5,55;;;6
+UL-PWAX11P-CTR-COM;Ulefone;Power Armor X11 Pro;Cámara trasera;Compatible;6,19;;;6
+UL-PWAX11P-CFR-COM;Ulefone;Power Armor X11 Pro;Cámara frontal;Compatible;3,65;;;6
+UL-PWAX11P-LEN-COM;Ulefone;Power Armor X11 Pro;Lente de cámara;Compatible;2,20;;;6
+UL-PWAX11P-ALT-COM;Ulefone;Power Armor X11 Pro;Altavoz;Compatible;3,35;;;6
+UL-PWAX11P-AUR-COM;Ulefone;Power Armor X11 Pro;Auricular de llamada;Compatible;2,40;;;6
+UL-PWAX11P-FLX-COM;Ulefone;Power Armor X11 Pro;Flex de encendido y volumen;Compatible;2,29;;;6
+UL-PWAX11P-SIM-COM;Ulefone;Power Armor X11 Pro;Bandeja SIM;Compatible;2,60;;;6
+UL-A20WT-PAN-COM;Ulefone;Armor 20WT;Pantalla;Compatible;17,15;16,64;16,12;6
+UL-A20WT-BAT-COM;Ulefone;Armor 20WT;Batería;Compatible;9,40;;;6
+UL-A20WT-CON-COM;Ulefone;Armor 20WT;Conector de carga;Compatible;5,05;;;6
+UL-A20WT-TAP-COM-NEG;Ulefone;Armor 20WT;Tapa trasera;Negro;6,20;;;6
+UL-A20WT-CTR-COM;Ulefone;Armor 20WT;Cámara trasera;Compatible;8,65;;;6
+UL-A20WT-CFR-COM;Ulefone;Armor 20WT;Cámara frontal;Compatible;5,35;;;6
+UL-A20WT-LEN-COM;Ulefone;Armor 20WT;Lente de cámara;Compatible;2,30;;;6
+UL-A20WT-ALT-COM;Ulefone;Armor 20WT;Altavoz;Compatible;3,60;;;6
+UL-A20WT-AUR-COM;Ulefone;Armor 20WT;Auricular de llamada;Compatible;2,65;;;6
+UL-A20WT-FLX-COM;Ulefone;Armor 20WT;Flex de encendido y volumen;Compatible;2,79;;;6
+UL-A20WT-SIM-COM;Ulefone;Armor 20WT;Bandeja SIM;Compatible;2,55;;;6
+UL-A21-PAN-COM;Ulefone;Armor 21;Pantalla;Compatible;17,15;16,64;16,12;6
+UL-A21-BAT-COM;Ulefone;Armor 21;Batería;Compatible;9,40;;;6
+UL-A21-CON-COM;Ulefone;Armor 21;Conector de carga;Compatible;5,05;;;6
+UL-A21-TAP-COM-NEG;Ulefone;Armor 21;Tapa trasera;Negro;6,20;;;6
+UL-A21-CTR-COM;Ulefone;Armor 21;Cámara trasera;Compatible;8,65;;;6
+UL-A21-CFR-COM;Ulefone;Armor 21;Cámara frontal;Compatible;5,35;;;6
+UL-A21-LEN-COM;Ulefone;Armor 21;Lente de cámara;Compatible;2,30;;;6
+UL-A21-ALT-COM;Ulefone;Armor 21;Altavoz;Compatible;3,60;;;6
+UL-A21-AUR-COM;Ulefone;Armor 21;Auricular de llamada;Compatible;2,65;;;6
+UL-A21-FLX-COM;Ulefone;Armor 21;Flex de encendido y volumen;Compatible;2,79;;;6
+UL-A21-SIM-COM;Ulefone;Armor 21;Bandeja SIM;Compatible;2,55;;;6
+UL-A22-PAN-COM;Ulefone;Armor 22;Pantalla;Compatible;17,15;16,64;16,12;6
+UL-A22-BAT-COM;Ulefone;Armor 22;Batería;Compatible;9,40;;;6
+UL-A22-CON-COM;Ulefone;Armor 22;Conector de carga;Compatible;5,05;;;6
+UL-A22-TAP-COM-VER;Ulefone;Armor 22;Tapa trasera;Verde (Some Green);6,20;;;6
+UL-A22-TAP-COM-NEG;Ulefone;Armor 22;Tapa trasera;Negro (All Black);6,20;;;6
+UL-A22-CTR-COM;Ulefone;Armor 22;Cámara trasera;Compatible;8,65;;;6
+UL-A22-CFR-COM;Ulefone;Armor 22;Cámara frontal;Compatible;5,35;;;6
+UL-A22-LEN-COM;Ulefone;Armor 22;Lente de cámara;Compatible;2,30;;;6
+UL-A22-ALT-COM;Ulefone;Armor 22;Altavoz;Compatible;3,60;;;6
+UL-A22-AUR-COM;Ulefone;Armor 22;Auricular de llamada;Compatible;2,65;;;6
+UL-A22-FLX-COM;Ulefone;Armor 22;Flex de encendido y volumen;Compatible;2,79;;;6
+UL-A22-SIM-COM;Ulefone;Armor 22;Bandeja SIM;Compatible;2,55;;;6
+UL-A24-PAN-COM;Ulefone;Armor 24;Pantalla;Compatible;17,15;16,64;16,12;6
+UL-A24-BAT-COM;Ulefone;Armor 24;Batería;Compatible;9,40;;;6
+UL-A24-CON-COM;Ulefone;Armor 24;Conector de carga;Compatible;5,05;;;6
+UL-A24-TAP-COM-NEG;Ulefone;Armor 24;Tapa trasera;Negro;6,20;;;6
+UL-A24-CTR-COM;Ulefone;Armor 24;Cámara trasera;Compatible;8,65;;;6
+UL-A24-CFR-COM;Ulefone;Armor 24;Cámara frontal;Compatible;5,35;;;6
+UL-A24-LEN-COM;Ulefone;Armor 24;Lente de cámara;Compatible;2,30;;;6
+UL-A24-ALT-COM;Ulefone;Armor 24;Altavoz;Compatible;3,60;;;6
+UL-A24-AUR-COM;Ulefone;Armor 24;Auricular de llamada;Compatible;2,65;;;6
+UL-A24-FLX-COM;Ulefone;Armor 24;Flex de encendido y volumen;Compatible;2,79;;;6
+UL-A24-SIM-COM;Ulefone;Armor 24;Bandeja SIM;Compatible;2,55;;;6
+UL-AX12-PAN-COM;Ulefone;Armor X12;Pantalla;Compatible;17,15;16,64;16,12;6
+UL-AX12-BAT-COM;Ulefone;Armor X12;Batería;Compatible;9,40;;;6
+UL-AX12-CON-COM;Ulefone;Armor X12;Conector de carga;Compatible;5,05;;;6
+UL-AX12-TAP-COM-NEG;Ulefone;Armor X12;Tapa trasera;Negro (All Black);6,20;;;6
+UL-AX12-TAP-COM-NAR;Ulefone;Armor X12;Tapa trasera;Naranja (Some Orange);6,20;;;6
+UL-AX12-TAP-COM-VER;Ulefone;Armor X12;Tapa trasera;Verde (Less Green);6,20;;;6
+UL-AX12-CTR-COM;Ulefone;Armor X12;Cámara trasera;Compatible;8,65;;;6
+UL-AX12-CFR-COM;Ulefone;Armor X12;Cámara frontal;Compatible;5,35;;;6
+UL-AX12-LEN-COM;Ulefone;Armor X12;Lente de cámara;Compatible;2,30;;;6
+UL-AX12-ALT-COM;Ulefone;Armor X12;Altavoz;Compatible;3,60;;;6
+UL-AX12-AUR-COM;Ulefone;Armor X12;Auricular de llamada;Compatible;2,65;;;6
+UL-AX12-FLX-COM;Ulefone;Armor X12;Flex de encendido y volumen;Compatible;2,79;;;6
+UL-AX12-SIM-COM;Ulefone;Armor X12;Bandeja SIM;Compatible;2,55;;;6
+UL-AX13-PAN-COM;Ulefone;Armor X13;Pantalla;Compatible;17,15;16,64;16,12;6
+UL-AX13-BAT-COM;Ulefone;Armor X13;Batería;Compatible;9,40;;;6
+UL-AX13-CON-COM;Ulefone;Armor X13;Conector de carga;Compatible;5,05;;;6
+UL-AX13-TAP-COM-NAR;Ulefone;Armor X13;Tapa trasera;Naranja (Some Orange);6,20;;;6
+UL-AX13-TAP-COM-NEG;Ulefone;Armor X13;Tapa trasera;Negro (All Black);6,20;;;6
+UL-AX13-CTR-COM;Ulefone;Armor X13;Cámara trasera;Compatible;8,65;;;6
+UL-AX13-CFR-COM;Ulefone;Armor X13;Cámara frontal;Compatible;5,35;;;6
+UL-AX13-LEN-COM;Ulefone;Armor X13;Lente de cámara;Compatible;2,30;;;6
+UL-AX13-ALT-COM;Ulefone;Armor X13;Altavoz;Compatible;3,60;;;6
+UL-AX13-AUR-COM;Ulefone;Armor X13;Auricular de llamada;Compatible;2,65;;;6
+UL-AX13-FLX-COM;Ulefone;Armor X13;Flex de encendido y volumen;Compatible;2,79;;;6
+UL-AX13-SIM-COM;Ulefone;Armor X13;Bandeja SIM;Compatible;2,55;;;6
+UL-N15-PAN-COM;Ulefone;Note 15;Pantalla;Compatible;14,69;14,25;13,81;6
+UL-N15-BAT-COM;Ulefone;Note 15;Batería;Compatible;8,69;;;6
+UL-N15-CON-COM;Ulefone;Note 15;Conector de carga;Compatible;4,05;;;6
+UL-N15-TAP-COM-MOR;Ulefone;Note 15;Tapa trasera;Morado (Sunset Purple);5,55;;;6
+UL-N15-TAP-COM-AZU;Ulefone;Note 15;Tapa trasera;Azul (Diamond Blue);5,55;;;6
+UL-N15-TAP-COM-NEG;Ulefone;Note 15;Tapa trasera;Negro (Twilight Black);5,55;;;6
+UL-N15-CTR-COM;Ulefone;Note 15;Cámara trasera;Compatible;7,60;;;6
+UL-N15-CFR-COM;Ulefone;Note 15;Cámara frontal;Compatible;5,00;;;6
+UL-N15-LEN-COM;Ulefone;Note 15;Lente de cámara;Compatible;2,35;;;6
+UL-N15-ALT-COM;Ulefone;Note 15;Altavoz;Compatible;3,55;;;6
+UL-N15-AUR-COM;Ulefone;Note 15;Auricular de llamada;Compatible;2,65;;;6
+UL-N15-FLX-COM;Ulefone;Note 15;Flex de encendido y volumen;Compatible;2,85;;;6
+UL-N15-SIM-COM;Ulefone;Note 15;Bandeja SIM;Compatible;2,69;;;6
+UL-N16P-PAN-COM;Ulefone;Note 16 Pro;Pantalla;Compatible;14,69;14,25;13,81;6
+UL-N16P-BAT-COM;Ulefone;Note 16 Pro;Batería;Compatible;8,69;;;6
+UL-N16P-CON-COM;Ulefone;Note 16 Pro;Conector de carga;Compatible;4,05;;;6
+UL-N16P-TAP-COM-VIO;Ulefone;Note 16 Pro;Tapa trasera;Violeta (Midnight Violet);5,55;;;6
+UL-N16P-TAP-COM-AZU;Ulefone;Note 16 Pro;Tapa trasera;Azul (Serenity Blue);5,55;;;6
+UL-N16P-TAP-COM-NEG;Ulefone;Note 16 Pro;Tapa trasera;Negro (Meteorite Black);5,55;;;6
+UL-N16P-CTR-COM;Ulefone;Note 16 Pro;Cámara trasera;Compatible;7,60;;;6
+UL-N16P-CFR-COM;Ulefone;Note 16 Pro;Cámara frontal;Compatible;5,00;;;6
+UL-N16P-LEN-COM;Ulefone;Note 16 Pro;Lente de cámara;Compatible;2,35;;;6
+UL-N16P-ALT-COM;Ulefone;Note 16 Pro;Altavoz;Compatible;3,55;;;6
+UL-N16P-AUR-COM;Ulefone;Note 16 Pro;Auricular de llamada;Compatible;2,65;;;6
+UL-N16P-FLX-COM;Ulefone;Note 16 Pro;Flex de encendido y volumen;Compatible;2,85;;;6
+UL-N16P-SIM-COM;Ulefone;Note 16 Pro;Bandeja SIM;Compatible;2,69;;;6
+UL-PWA19-PAN-COM;Ulefone;Power Armor 19;Pantalla;Compatible;17,15;16,64;16,12;6
+UL-PWA19-BAT-COM;Ulefone;Power Armor 19;Batería;Compatible;9,40;;;6
+UL-PWA19-CON-COM;Ulefone;Power Armor 19;Conector de carga;Compatible;5,05;;;6
+UL-PWA19-TAP-COM-NEG;Ulefone;Power Armor 19;Tapa trasera;Negro;6,20;;;6
+UL-PWA19-CTR-COM;Ulefone;Power Armor 19;Cámara trasera;Compatible;8,65;;;6
+UL-PWA19-CFR-COM;Ulefone;Power Armor 19;Cámara frontal;Compatible;5,35;;;6
+UL-PWA19-LEN-COM;Ulefone;Power Armor 19;Lente de cámara;Compatible;2,30;;;6
+UL-PWA19-ALT-COM;Ulefone;Power Armor 19;Altavoz;Compatible;3,60;;;6
+UL-PWA19-AUR-COM;Ulefone;Power Armor 19;Auricular de llamada;Compatible;2,65;;;6
+UL-PWA19-FLX-COM;Ulefone;Power Armor 19;Flex de encendido y volumen;Compatible;2,79;;;6
+UL-PWA19-SIM-COM;Ulefone;Power Armor 19;Bandeja SIM;Compatible;2,55;;;6
+UL-PWA19T-PAN-COM;Ulefone;Power Armor 19T;Pantalla;Compatible;17,15;16,64;16,12;6
+UL-PWA19T-BAT-COM;Ulefone;Power Armor 19T;Batería;Compatible;9,40;;;6
+UL-PWA19T-CON-COM;Ulefone;Power Armor 19T;Conector de carga;Compatible;5,05;;;6
+UL-PWA19T-TAP-COM-NEG;Ulefone;Power Armor 19T;Tapa trasera;Negro;6,20;;;6
+UL-PWA19T-CTR-COM;Ulefone;Power Armor 19T;Cámara trasera;Compatible;8,65;;;6
+UL-PWA19T-CFR-COM;Ulefone;Power Armor 19T;Cámara frontal;Compatible;5,35;;;6
+UL-PWA19T-LEN-COM;Ulefone;Power Armor 19T;Lente de cámara;Compatible;2,30;;;6
+UL-PWA19T-ALT-COM;Ulefone;Power Armor 19T;Altavoz;Compatible;3,60;;;6
+UL-PWA19T-AUR-COM;Ulefone;Power Armor 19T;Auricular de llamada;Compatible;2,65;;;6
+UL-PWA19T-FLX-COM;Ulefone;Power Armor 19T;Flex de encendido y volumen;Compatible;2,79;;;6
+UL-PWA19T-SIM-COM;Ulefone;Power Armor 19T;Bandeja SIM;Compatible;2,55;;;6
+UL-A23U-PAN-COM;Ulefone;Armor 23 Ultra;Pantalla;Compatible;18,85;18,28;17,72;6
+UL-A23U-BAT-COM;Ulefone;Armor 23 Ultra;Batería;Compatible;9,40;;;6
+UL-A23U-CON-COM;Ulefone;Armor 23 Ultra;Conector de carga;Compatible;5,05;;;6
+UL-A23U-TAP-COM-NEG;Ulefone;Armor 23 Ultra;Tapa trasera;Negro (Elite Black);6,20;;;6
+UL-A23U-TAP-COM-NAR;Ulefone;Armor 23 Ultra;Tapa trasera;Naranja (Umbra Orange);6,20;;;6
+UL-A23U-CTR-COM;Ulefone;Armor 23 Ultra;Cámara trasera;Compatible;8,65;;;6
+UL-A23U-CFR-COM;Ulefone;Armor 23 Ultra;Cámara frontal;Compatible;5,35;;;6
+UL-A23U-LEN-COM;Ulefone;Armor 23 Ultra;Lente de cámara;Compatible;2,30;;;6
+UL-A23U-ALT-COM;Ulefone;Armor 23 Ultra;Altavoz;Compatible;3,60;;;6
+UL-A23U-AUR-COM;Ulefone;Armor 23 Ultra;Auricular de llamada;Compatible;2,65;;;6
+UL-A23U-FLX-COM;Ulefone;Armor 23 Ultra;Flex de encendido y volumen;Compatible;2,79;;;6
+UL-A23U-SIM-COM;Ulefone;Armor 23 Ultra;Bandeja SIM;Compatible;2,55;;;6
+UL-A25T-PAN-COM;Ulefone;Armor 25T;Pantalla;Compatible;17,15;16,64;16,12;6
+UL-A25T-BAT-COM;Ulefone;Armor 25T;Batería;Compatible;9,40;;;6
+UL-A25T-CON-COM;Ulefone;Armor 25T;Conector de carga;Compatible;5,05;;;6
+UL-A25T-TAP-COM-NEG;Ulefone;Armor 25T;Tapa trasera;Negro (Frost Black);6,20;;;6
+UL-A25T-CTR-COM;Ulefone;Armor 25T;Cámara trasera;Compatible;8,65;;;6
+UL-A25T-CFR-COM;Ulefone;Armor 25T;Cámara frontal;Compatible;5,35;;;6
+UL-A25T-LEN-COM;Ulefone;Armor 25T;Lente de cámara;Compatible;2,30;;;6
+UL-A25T-ALT-COM;Ulefone;Armor 25T;Altavoz;Compatible;3,60;;;6
+UL-A25T-AUR-COM;Ulefone;Armor 25T;Auricular de llamada;Compatible;2,65;;;6
+UL-A25T-FLX-COM;Ulefone;Armor 25T;Flex de encendido y volumen;Compatible;2,79;;;6
+UL-A25T-SIM-COM;Ulefone;Armor 25T;Bandeja SIM;Compatible;2,55;;;6
+UL-A27TP-PAN-COM;Ulefone;Armor 27T Pro;Pantalla;Compatible;17,15;16,64;16,12;6
+UL-A27TP-BAT-COM;Ulefone;Armor 27T Pro;Batería;Compatible;9,40;;;6
+UL-A27TP-CON-COM;Ulefone;Armor 27T Pro;Conector de carga;Compatible;5,05;;;6
+UL-A27TP-TAP-COM-NEG;Ulefone;Armor 27T Pro;Tapa trasera;Negro;6,20;;;6
+UL-A27TP-CTR-COM;Ulefone;Armor 27T Pro;Cámara trasera;Compatible;8,65;;;6
+UL-A27TP-CFR-COM;Ulefone;Armor 27T Pro;Cámara frontal;Compatible;5,35;;;6
+UL-A27TP-LEN-COM;Ulefone;Armor 27T Pro;Lente de cámara;Compatible;2,30;;;6
+UL-A27TP-ALT-COM;Ulefone;Armor 27T Pro;Altavoz;Compatible;3,60;;;6
+UL-A27TP-AUR-COM;Ulefone;Armor 27T Pro;Auricular de llamada;Compatible;2,65;;;6
+UL-A27TP-FLX-COM;Ulefone;Armor 27T Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+UL-A27TP-SIM-COM;Ulefone;Armor 27T Pro;Bandeja SIM;Compatible;2,55;;;6
+UL-N18P-PAN-COM;Ulefone;Note 18 Pro;Pantalla;Compatible;14,69;14,25;13,81;6
+UL-N18P-BAT-COM;Ulefone;Note 18 Pro;Batería;Compatible;8,69;;;6
+UL-N18P-CON-COM;Ulefone;Note 18 Pro;Conector de carga;Compatible;4,05;;;6
+UL-N18P-TAP-COM-NEG;Ulefone;Note 18 Pro;Tapa trasera;Negro (Lustrous Black);5,55;;;6
+UL-N18P-TAP-COM-BLA;Ulefone;Note 18 Pro;Tapa trasera;Blanco (Moonlit White);5,55;;;6
+UL-N18P-TAP-COM-GRI;Ulefone;Note 18 Pro;Tapa trasera;Gris (Titanium Gray);5,55;;;6
+UL-N18P-CTR-COM;Ulefone;Note 18 Pro;Cámara trasera;Compatible;7,60;;;6
+UL-N18P-CFR-COM;Ulefone;Note 18 Pro;Cámara frontal;Compatible;5,00;;;6
+UL-N18P-LEN-COM;Ulefone;Note 18 Pro;Lente de cámara;Compatible;2,35;;;6
+UL-N18P-ALT-COM;Ulefone;Note 18 Pro;Altavoz;Compatible;3,55;;;6
+UL-N18P-AUR-COM;Ulefone;Note 18 Pro;Auricular de llamada;Compatible;2,65;;;6
+UL-N18P-FLX-COM;Ulefone;Note 18 Pro;Flex de encendido y volumen;Compatible;2,85;;;6
+UL-N18P-SIM-COM;Ulefone;Note 18 Pro;Bandeja SIM;Compatible;2,69;;;6
+UL-A26U-PAN-COM;Ulefone;Armor 26 Ultra;Pantalla;Compatible;18,85;18,28;17,72;6
+UL-A26U-BAT-COM;Ulefone;Armor 26 Ultra;Batería;Compatible;9,40;;;6
+UL-A26U-CON-COM;Ulefone;Armor 26 Ultra;Conector de carga;Compatible;5,05;;;6
+UL-A26U-TAP-COM-NEG;Ulefone;Armor 26 Ultra;Tapa trasera;Negro;6,20;;;6
+UL-A26U-CTR-COM;Ulefone;Armor 26 Ultra;Cámara trasera;Compatible;8,65;;;6
+UL-A26U-CFR-COM;Ulefone;Armor 26 Ultra;Cámara frontal;Compatible;5,35;;;6
+UL-A26U-LEN-COM;Ulefone;Armor 26 Ultra;Lente de cámara;Compatible;2,30;;;6
+UL-A26U-ALT-COM;Ulefone;Armor 26 Ultra;Altavoz;Compatible;3,60;;;6
+UL-A26U-AUR-COM;Ulefone;Armor 26 Ultra;Auricular de llamada;Compatible;2,65;;;6
+UL-A26U-FLX-COM;Ulefone;Armor 26 Ultra;Flex de encendido y volumen;Compatible;2,79;;;6
+UL-A26U-SIM-COM;Ulefone;Armor 26 Ultra;Bandeja SIM;Compatible;2,55;;;6
+UL-A25TP-PAN-COM;Ulefone;Armor 25T Pro;Pantalla;Compatible;17,15;16,64;16,12;6
+UL-A25TP-BAT-COM;Ulefone;Armor 25T Pro;Batería;Compatible;9,40;;;6
+UL-A25TP-CON-COM;Ulefone;Armor 25T Pro;Conector de carga;Compatible;5,05;;;6
+UL-A25TP-TAP-COM-NEG;Ulefone;Armor 25T Pro;Tapa trasera;Negro (Frost Black);6,20;;;6
+UL-A25TP-CTR-COM;Ulefone;Armor 25T Pro;Cámara trasera;Compatible;8,65;;;6
+UL-A25TP-CFR-COM;Ulefone;Armor 25T Pro;Cámara frontal;Compatible;5,35;;;6
+UL-A25TP-LEN-COM;Ulefone;Armor 25T Pro;Lente de cámara;Compatible;2,30;;;6
+UL-A25TP-ALT-COM;Ulefone;Armor 25T Pro;Altavoz;Compatible;3,60;;;6
+UL-A25TP-AUR-COM;Ulefone;Armor 25T Pro;Auricular de llamada;Compatible;2,65;;;6
+UL-A25TP-FLX-COM;Ulefone;Armor 25T Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+UL-A25TP-SIM-COM;Ulefone;Armor 25T Pro;Bandeja SIM;Compatible;2,55;;;6
+UL-AX31P-PAN-COM;Ulefone;Armor X31 Pro;Pantalla;Compatible;17,15;16,64;16,12;6
+UL-AX31P-BAT-COM;Ulefone;Armor X31 Pro;Batería;Compatible;9,40;;;6
+UL-AX31P-CON-COM;Ulefone;Armor X31 Pro;Conector de carga;Compatible;5,05;;;6
+UL-AX31P-TAP-COM-NEG;Ulefone;Armor X31 Pro;Tapa trasera;Negro (Classic Black);6,20;;;6
+UL-AX31P-TAP-COM-NAR;Ulefone;Armor X31 Pro;Tapa trasera;Naranja (Few Orange);6,20;;;6
+UL-AX31P-TAP-COM-VER;Ulefone;Armor X31 Pro;Tapa trasera;Verde (Lightsome Green);6,20;;;6
+UL-AX31P-CTR-COM;Ulefone;Armor X31 Pro;Cámara trasera;Compatible;8,65;;;6
+UL-AX31P-CFR-COM;Ulefone;Armor X31 Pro;Cámara frontal;Compatible;5,35;;;6
+UL-AX31P-LEN-COM;Ulefone;Armor X31 Pro;Lente de cámara;Compatible;2,30;;;6
+UL-AX31P-ALT-COM;Ulefone;Armor X31 Pro;Altavoz;Compatible;3,60;;;6
+UL-AX31P-AUR-COM;Ulefone;Armor X31 Pro;Auricular de llamada;Compatible;2,65;;;6
+UL-AX31P-FLX-COM;Ulefone;Armor X31 Pro;Flex de encendido y volumen;Compatible;2,79;;;6
+UL-AX31P-SIM-COM;Ulefone;Armor X31 Pro;Bandeja SIM;Compatible;2,55;;;6
+UL-A28U-PAN-INC;Ulefone;Armor 28 Ultra;Pantalla;Incell;23,15;22,46;21,76;6
+UL-A28U-BAT-COM;Ulefone;Armor 28 Ultra;Batería;Compatible;8,89;;;6
+UL-A28U-CON-COM;Ulefone;Armor 28 Ultra;Conector de carga;Compatible;6,00;;;6
+UL-A28U-TAP-COM-NEG;Ulefone;Armor 28 Ultra;Tapa trasera;Negro (Epic Black);6,65;;;6
+UL-A28U-CTR-COM;Ulefone;Armor 28 Ultra;Cámara trasera;Compatible;11,85;11,49;11,14;6
+UL-A28U-CFR-COM;Ulefone;Armor 28 Ultra;Cámara frontal;Compatible;7,49;;;6
+UL-A28U-LEN-COM;Ulefone;Armor 28 Ultra;Lente de cámara;Compatible;2,95;;;6
+UL-A28U-ALT-COM;Ulefone;Armor 28 Ultra;Altavoz;Compatible;4,75;;;6
+UL-A28U-AUR-COM;Ulefone;Armor 28 Ultra;Auricular de llamada;Compatible;3,70;;;6
+UL-A28U-FLX-COM;Ulefone;Armor 28 Ultra;Flex de encendido y volumen;Compatible;3,05;;;6
+UL-A28U-SIM-COM;Ulefone;Armor 28 Ultra;Bandeja SIM;Compatible;3,00;;;6
+UL-A27T-PRO-NA;Ulefone;Armor 27T;Cristal templado;Estándar;1,30;;;
+UL-A6E-PRO-NA;Ulefone;Armor 6E;Cristal templado;Estándar;1,30;;;
+UL-A6S-PRO-NA;Ulefone;Armor 6S;Cristal templado;Estándar;1,30;;;
+UL-A9E-PRO-NA;Ulefone;Armor 9E;Cristal templado;Estándar;1,30;;;
+UL-AX10P-PRO-NA;Ulefone;Armor X10 Pro;Cristal templado;Estándar;1,30;;;
+UL-AX12P-PRO-NA;Ulefone;Armor X12 Pro;Cristal templado;Estándar;1,30;;;
+UL-AX31-PRO-NA;Ulefone;Armor X31;Cristal templado;Estándar;1,30;;;
+UL-AX5P-PRO-NA;Ulefone;Armor X5 Pro;Cristal templado;Estándar;1,30;;;
+UL-AX6-PRO-NA;Ulefone;Armor X6;Cristal templado;Estándar;1,30;;;
+UL-AX8I-PRO-NA;Ulefone;Armor X8i;Cristal templado;Estándar;1,30;;;
+UL-AX9P-PRO-NA;Ulefone;Armor X9 Pro;Cristal templado;Estándar;1,30;;;
+UL-N7T-PRO-NA;Ulefone;Note 7T;Cristal templado;Estándar;1,30;;;
+UL-N7T-PRO-PRI;Ulefone;Note 7T;Cristal templado;Privacidad;4,00;;;
+UL-N7T-FUN-SIL;Ulefone;Note 7T;Funda;Silicona;2,50;;;
+UL-N7T-FUN-TPU;Ulefone;Note 7T;Funda;Transparente;2,95;;;
+UL-N7T-FUN-LIB;Ulefone;Note 7T;Funda;Libro;3,70;;;
+UL-N7T-FUN-ANT;Ulefone;Note 7T;Funda;Antigolpes;3,10;;;
+UL-PWAX11-PRO-NA;Ulefone;Power Armor X11;Cristal templado;Estándar;1,30;;;
+UL-A3-PRO-NA;Ulefone;Armor 3;Cristal templado;Estándar;1,30;;;
+UL-A6-PRO-NA;Ulefone;Armor 6;Cristal templado;Estándar;1,30;;;
+UL-A7-PRO-NA;Ulefone;Armor 7;Cristal templado;Estándar;1,30;;;
+UL-AX5-PRO-NA;Ulefone;Armor X5;Cristal templado;Estándar;1,30;;;
+UL-N7-PRO-NA;Ulefone;Note 7;Cristal templado;Estándar;1,30;;;
+UL-N7-PRO-PRI;Ulefone;Note 7;Cristal templado;Privacidad;4,00;;;
+UL-N7-FUN-SIL;Ulefone;Note 7;Funda;Silicona;2,50;;;
+UL-N7-FUN-TPU;Ulefone;Note 7;Funda;Transparente;2,95;;;
+UL-N7-FUN-LIB;Ulefone;Note 7;Funda;Libro;3,70;;;
+UL-N7-FUN-ANT;Ulefone;Note 7;Funda;Antigolpes;3,10;;;
+UL-N7-PCA-NA;Ulefone;Note 7;Protector de cámara;Cristal;2,90;;;
+UL-A105-PRO-NA;Ulefone;Armor 10 5G;Cristal templado;Estándar;1,30;;;
+UL-A7E-PRO-NA;Ulefone;Armor 7E;Cristal templado;Estándar;1,30;;;
+UL-A8-PRO-NA;Ulefone;Armor 8;Cristal templado;Estándar;1,30;;;
+UL-A9-PRO-NA;Ulefone;Armor 9;Cristal templado;Estándar;1,30;;;
+UL-AX8-PRO-NA;Ulefone;Armor X8;Cristal templado;Estándar;1,30;;;
+UL-N8-PRO-NA;Ulefone;Note 8;Cristal templado;Estándar;1,30;;;
+UL-N8-PRO-PRI;Ulefone;Note 8;Cristal templado;Privacidad;4,00;;;
+UL-N8-FUN-SIL;Ulefone;Note 8;Funda;Silicona;2,50;;;
+UL-N8-FUN-TPU;Ulefone;Note 8;Funda;Transparente;2,95;;;
+UL-N8-FUN-LIB;Ulefone;Note 8;Funda;Libro;3,70;;;
+UL-N8-FUN-ANT;Ulefone;Note 8;Funda;Antigolpes;3,10;;;
+UL-N8-PCA-NA;Ulefone;Note 8;Protector de cámara;Cristal;2,90;;;
+UL-N9P-PRO-NA;Ulefone;Note 9P;Cristal templado;Estándar;1,30;;;
+UL-N9P-PRO-PRI;Ulefone;Note 9P;Cristal templado;Privacidad;4,00;;;
+UL-N9P-FUN-SIL;Ulefone;Note 9P;Funda;Silicona;2,50;;;
+UL-N9P-FUN-TPU;Ulefone;Note 9P;Funda;Transparente;2,95;;;
+UL-N9P-FUN-LIB;Ulefone;Note 9P;Funda;Libro;3,70;;;
+UL-N9P-FUN-ANT;Ulefone;Note 9P;Funda;Antigolpes;3,10;;;
+UL-N9P-PCA-NA;Ulefone;Note 9P;Protector de cámara;Cristal;2,90;;;
+UL-A115-PRO-NA;Ulefone;Armor 11 5G;Cristal templado;Estándar;1,30;;;
+UL-A11T5-PRO-NA;Ulefone;Armor 11T 5G;Cristal templado;Estándar;1,30;;;
+UL-A125-PRO-NA;Ulefone;Armor 12 5G;Cristal templado;Estándar;1,30;;;
+UL-A8P-PRO-NA;Ulefone;Armor 8 Pro;Cristal templado;Estándar;1,30;;;
+UL-AX10-PRO-NA;Ulefone;Armor X10;Cristal templado;Estándar;1,30;;;
+UL-AX9-PRO-NA;Ulefone;Armor X9;Cristal templado;Estándar;1,30;;;
+UL-N12P-PRO-NA;Ulefone;Note 12P;Cristal templado;Estándar;1,30;;;
+UL-N12P-PRO-PRI;Ulefone;Note 12P;Cristal templado;Privacidad;4,00;;;
+UL-N12P-FUN-SIL;Ulefone;Note 12P;Funda;Silicona;2,50;;;
+UL-N12P-FUN-TPU;Ulefone;Note 12P;Funda;Transparente;2,95;;;
+UL-N12P-FUN-LIB;Ulefone;Note 12P;Funda;Libro;3,70;;;
+UL-N12P-FUN-ANT;Ulefone;Note 12P;Funda;Antigolpes;3,10;;;
+UL-N12P-PCA-NA;Ulefone;Note 12P;Protector de cámara;Cristal;2,90;;;
+UL-N13P-PRO-NA;Ulefone;Note 13P;Cristal templado;Estándar;1,30;;;
+UL-N13P-PRO-PRI;Ulefone;Note 13P;Cristal templado;Privacidad;4,00;;;
+UL-N13P-FUN-SIL;Ulefone;Note 13P;Funda;Silicona;2,50;;;
+UL-N13P-FUN-TPU;Ulefone;Note 13P;Funda;Transparente;2,95;;;
+UL-N13P-FUN-LIB;Ulefone;Note 13P;Funda;Libro;3,70;;;
+UL-N13P-FUN-ANT;Ulefone;Note 13P;Funda;Antigolpes;3,10;;;
+UL-N13P-PCA-NA;Ulefone;Note 13P;Protector de cámara;Cristal;2,90;;;
+UL-PWA13-PRO-NA;Ulefone;Power Armor 13;Cristal templado;Estándar;1,30;;;
+UL-PWA14-PRO-NA;Ulefone;Power Armor 14;Cristal templado;Estándar;1,30;;;
+UL-A15-PRO-NA;Ulefone;Armor 15;Cristal templado;Estándar;1,30;;;
+UL-A17P-PRO-NA;Ulefone;Armor 17 Pro;Cristal templado;Estándar;1,30;;;
+UL-AX6P-PRO-NA;Ulefone;Armor X6 Pro;Cristal templado;Estándar;1,30;;;
+UL-N14-PRO-NA;Ulefone;Note 14;Cristal templado;Estándar;1,30;;;
+UL-N14-PRO-PRI;Ulefone;Note 14;Cristal templado;Privacidad;4,00;;;
+UL-N14-FUN-SIL;Ulefone;Note 14;Funda;Silicona;2,50;;;
+UL-N14-FUN-TPU;Ulefone;Note 14;Funda;Transparente;2,95;;;
+UL-N14-FUN-LIB;Ulefone;Note 14;Funda;Libro;3,70;;;
+UL-N14-FUN-ANT;Ulefone;Note 14;Funda;Antigolpes;3,10;;;
+UL-N14-PCA-NA;Ulefone;Note 14;Protector de cámara;Cristal;2,90;;;
+UL-PWA14P-PRO-NA;Ulefone;Power Armor 14 Pro;Cristal templado;Estándar;1,30;;;
+UL-PWA16P-PRO-NA;Ulefone;Power Armor 16 Pro;Cristal templado;Estándar;1,30;;;
+UL-PWA18-PRO-NA;Ulefone;Power Armor 18;Cristal templado;Estándar;1,30;;;
+UL-PWA18T-PRO-NA;Ulefone;Power Armor 18T;Cristal templado;Estándar;1,30;;;
+UL-PWAX11P-PRO-NA;Ulefone;Power Armor X11 Pro;Cristal templado;Estándar;1,30;;;
+UL-A20WT-PRO-NA;Ulefone;Armor 20WT;Cristal templado;Estándar;1,30;;;
+UL-A21-PRO-NA;Ulefone;Armor 21;Cristal templado;Estándar;1,30;;;
+UL-A22-PRO-NA;Ulefone;Armor 22;Cristal templado;Estándar;1,30;;;
+UL-A24-PRO-NA;Ulefone;Armor 24;Cristal templado;Estándar;1,30;;;
+UL-AX12-PRO-NA;Ulefone;Armor X12;Cristal templado;Estándar;1,30;;;
+UL-AX13-PRO-NA;Ulefone;Armor X13;Cristal templado;Estándar;1,30;;;
+UL-N15-PRO-NA;Ulefone;Note 15;Cristal templado;Estándar;1,30;;;
+UL-N15-PRO-PRI;Ulefone;Note 15;Cristal templado;Privacidad;4,00;;;
+UL-N15-FUN-SIL;Ulefone;Note 15;Funda;Silicona;2,50;;;
+UL-N15-FUN-TPU;Ulefone;Note 15;Funda;Transparente;2,95;;;
+UL-N15-FUN-LIB;Ulefone;Note 15;Funda;Libro;3,70;;;
+UL-N15-FUN-ANT;Ulefone;Note 15;Funda;Antigolpes;3,10;;;
+UL-N15-PCA-NA;Ulefone;Note 15;Protector de cámara;Cristal;2,90;;;
+UL-N16P-PRO-NA;Ulefone;Note 16 Pro;Cristal templado;Estándar;1,30;;;
+UL-N16P-PRO-PRI;Ulefone;Note 16 Pro;Cristal templado;Privacidad;4,00;;;
+UL-N16P-FUN-SIL;Ulefone;Note 16 Pro;Funda;Silicona;2,50;;;
+UL-N16P-FUN-TPU;Ulefone;Note 16 Pro;Funda;Transparente;2,95;;;
+UL-N16P-FUN-LIB;Ulefone;Note 16 Pro;Funda;Libro;3,70;;;
+UL-N16P-FUN-ANT;Ulefone;Note 16 Pro;Funda;Antigolpes;3,10;;;
+UL-N16P-PCA-NA;Ulefone;Note 16 Pro;Protector de cámara;Cristal;2,90;;;
+UL-PWA19-PRO-NA;Ulefone;Power Armor 19;Cristal templado;Estándar;1,30;;;
+UL-PWA19T-PRO-NA;Ulefone;Power Armor 19T;Cristal templado;Estándar;1,30;;;
+UL-A23U-PRO-NA;Ulefone;Armor 23 Ultra;Cristal templado;Estándar;1,30;;;
+UL-A25T-PRO-NA;Ulefone;Armor 25T;Cristal templado;Estándar;1,30;;;
+UL-A27TP-PRO-NA;Ulefone;Armor 27T Pro;Cristal templado;Estándar;1,30;;;
+UL-N18P-PRO-NA;Ulefone;Note 18 Pro;Cristal templado;Estándar;1,30;;;
+UL-N18P-PRO-PRI;Ulefone;Note 18 Pro;Cristal templado;Privacidad;4,00;;;
+UL-N18P-FUN-SIL;Ulefone;Note 18 Pro;Funda;Silicona;2,50;;;
+UL-N18P-FUN-TPU;Ulefone;Note 18 Pro;Funda;Transparente;2,95;;;
+UL-N18P-FUN-LIB;Ulefone;Note 18 Pro;Funda;Libro;3,70;;;
+UL-N18P-FUN-ANT;Ulefone;Note 18 Pro;Funda;Antigolpes;3,10;;;
+UL-N18P-PCA-NA;Ulefone;Note 18 Pro;Protector de cámara;Cristal;2,90;;;
+UL-A26U-PRO-NA;Ulefone;Armor 26 Ultra;Cristal templado;Estándar;1,30;;;
+UL-A25TP-PRO-NA;Ulefone;Armor 25T Pro;Cristal templado;Estándar;1,30;;;
+UL-AX31P-PRO-NA;Ulefone;Armor X31 Pro;Cristal templado;Estándar;1,30;;;
+UL-A28U-PRO-NA;Ulefone;Armor 28 Ultra;Cristal templado;Estándar;1,30;;;
+UL-A27T-MAR-COM;Ulefone;Armor 27T;Marco / chasis;Compatible;7,90;;;6
+UL-A27T-BOT-COM;Ulefone;Armor 27T;Botones laterales;Compatible;4,05;;;6
+UL-A27T-ANT-COM;Ulefone;Armor 27T;Antena / coaxial;Compatible;3,50;;;6
+UL-A27T-HUE-COM;Ulefone;Armor 27T;Botón home / huella;Compatible;5,85;;;6
+UL-A6E-MAR-COM;Ulefone;Armor 6E;Marco / chasis;Compatible;6,49;;;6
+UL-A6E-BOT-COM;Ulefone;Armor 6E;Botones laterales;Compatible;3,35;;;6
+UL-A6E-ANT-COM;Ulefone;Armor 6E;Antena / coaxial;Compatible;2,89;;;6
+UL-A6E-HUE-COM;Ulefone;Armor 6E;Botón home / huella;Compatible;4,79;;;6
+UL-A6S-MAR-COM;Ulefone;Armor 6S;Marco / chasis;Compatible;6,49;;;6
+UL-A6S-BOT-COM;Ulefone;Armor 6S;Botones laterales;Compatible;3,35;;;6
+UL-A6S-ANT-COM;Ulefone;Armor 6S;Antena / coaxial;Compatible;2,89;;;6
+UL-A6S-HUE-COM;Ulefone;Armor 6S;Botón home / huella;Compatible;4,79;;;6
+UL-A9E-MAR-COM;Ulefone;Armor 9E;Marco / chasis;Compatible;7,20;;;6
+UL-A9E-BOT-COM;Ulefone;Armor 9E;Botones laterales;Compatible;3,70;;;6
+UL-A9E-ANT-COM;Ulefone;Armor 9E;Antena / coaxial;Compatible;3,20;;;6
+UL-A9E-HUE-COM;Ulefone;Armor 9E;Botón home / huella;Compatible;5,30;;;6
+UL-AX10P-MAR-COM;Ulefone;Armor X10 Pro;Marco / chasis;Compatible;7,20;;;6
+UL-AX10P-BOT-COM;Ulefone;Armor X10 Pro;Botones laterales;Compatible;3,70;;;6
+UL-AX10P-ANT-COM;Ulefone;Armor X10 Pro;Antena / coaxial;Compatible;3,20;;;6
+UL-AX10P-HUE-COM;Ulefone;Armor X10 Pro;Botón home / huella;Compatible;5,30;;;6
+UL-AX12P-MAR-COM;Ulefone;Armor X12 Pro;Marco / chasis;Compatible;7,20;;;6
+UL-AX12P-BOT-COM;Ulefone;Armor X12 Pro;Botones laterales;Compatible;3,70;;;6
+UL-AX12P-ANT-COM;Ulefone;Armor X12 Pro;Antena / coaxial;Compatible;3,20;;;6
+UL-AX12P-HUE-COM;Ulefone;Armor X12 Pro;Botón home / huella;Compatible;5,30;;;6
+UL-AX31-MAR-COM;Ulefone;Armor X31;Marco / chasis;Compatible;7,90;;;6
+UL-AX31-BOT-COM;Ulefone;Armor X31;Botones laterales;Compatible;4,05;;;6
+UL-AX31-ANT-COM;Ulefone;Armor X31;Antena / coaxial;Compatible;3,50;;;6
+UL-AX31-HUE-COM;Ulefone;Armor X31;Botón home / huella;Compatible;5,85;;;6
+UL-AX5P-MAR-COM;Ulefone;Armor X5 Pro;Marco / chasis;Compatible;6,49;;;6
+UL-AX5P-BOT-COM;Ulefone;Armor X5 Pro;Botones laterales;Compatible;3,35;;;6
+UL-AX5P-ANT-COM;Ulefone;Armor X5 Pro;Antena / coaxial;Compatible;2,89;;;6
+UL-AX5P-HUE-COM;Ulefone;Armor X5 Pro;Botón home / huella;Compatible;4,79;;;6
+UL-AX6-MAR-COM;Ulefone;Armor X6;Marco / chasis;Compatible;7,20;;;6
+UL-AX6-BOT-COM;Ulefone;Armor X6;Botones laterales;Compatible;3,70;;;6
+UL-AX6-ANT-COM;Ulefone;Armor X6;Antena / coaxial;Compatible;3,20;;;6
+UL-AX6-HUE-COM;Ulefone;Armor X6;Botón home / huella;Compatible;5,30;;;6
+UL-AX8I-MAR-COM;Ulefone;Armor X8i;Marco / chasis;Compatible;7,20;;;6
+UL-AX8I-BOT-COM;Ulefone;Armor X8i;Botones laterales;Compatible;3,70;;;6
+UL-AX8I-ANT-COM;Ulefone;Armor X8i;Antena / coaxial;Compatible;3,20;;;6
+UL-AX8I-HUE-COM;Ulefone;Armor X8i;Botón home / huella;Compatible;5,30;;;6
+UL-AX9P-MAR-COM;Ulefone;Armor X9 Pro;Marco / chasis;Compatible;7,20;;;6
+UL-AX9P-BOT-COM;Ulefone;Armor X9 Pro;Botones laterales;Compatible;3,70;;;6
+UL-AX9P-ANT-COM;Ulefone;Armor X9 Pro;Antena / coaxial;Compatible;3,20;;;6
+UL-AX9P-HUE-COM;Ulefone;Armor X9 Pro;Botón home / huella;Compatible;5,30;;;6
+UL-N7T-MAR-COM;Ulefone;Note 7T;Marco / chasis;Compatible;5,65;;;6
+UL-N7T-BOT-COM;Ulefone;Note 7T;Botones laterales;Compatible;2,89;;;6
+UL-N7T-CRI-COM;Ulefone;Note 7T;Cristal de pantalla;Compatible;2,89;;;6
+UL-N7T-ANT-COM;Ulefone;Note 7T;Antena / coaxial;Compatible;2,50;;;6
+UL-N7T-HUE-COM;Ulefone;Note 7T;Botón home / huella;Compatible;4,15;;;6
+UL-PWAX11-MAR-COM;Ulefone;Power Armor X11;Marco / chasis;Compatible;7,20;;;6
+UL-PWAX11-BOT-COM;Ulefone;Power Armor X11;Botones laterales;Compatible;3,70;;;6
+UL-PWAX11-ANT-COM;Ulefone;Power Armor X11;Antena / coaxial;Compatible;3,20;;;6
+UL-PWAX11-HUE-COM;Ulefone;Power Armor X11;Botón home / huella;Compatible;5,30;;;6
+UL-A3-MAR-COM;Ulefone;Armor 3;Marco / chasis;Compatible;6,49;;;6
+UL-A3-BOT-COM;Ulefone;Armor 3;Botones laterales;Compatible;3,35;;;6
+UL-A3-ANT-COM;Ulefone;Armor 3;Antena / coaxial;Compatible;2,89;;;6
+UL-A3-HUE-COM;Ulefone;Armor 3;Botón home / huella;Compatible;4,79;;;6
+UL-A6-MAR-COM;Ulefone;Armor 6;Marco / chasis;Compatible;6,49;;;6
+UL-A6-BOT-COM;Ulefone;Armor 6;Botones laterales;Compatible;3,35;;;6
+UL-A6-ANT-COM;Ulefone;Armor 6;Antena / coaxial;Compatible;2,89;;;6
+UL-A6-HUE-COM;Ulefone;Armor 6;Botón home / huella;Compatible;4,79;;;6
+UL-A7-MAR-COM;Ulefone;Armor 7;Marco / chasis;Compatible;6,49;;;6
+UL-A7-BOT-COM;Ulefone;Armor 7;Botones laterales;Compatible;3,35;;;6
+UL-A7-ANT-COM;Ulefone;Armor 7;Antena / coaxial;Compatible;2,89;;;6
+UL-A7-HUE-COM;Ulefone;Armor 7;Botón home / huella;Compatible;4,79;;;6
+UL-AX5-MAR-COM;Ulefone;Armor X5;Marco / chasis;Compatible;6,49;;;6
+UL-AX5-BOT-COM;Ulefone;Armor X5;Botones laterales;Compatible;3,35;;;6
+UL-AX5-ANT-COM;Ulefone;Armor X5;Antena / coaxial;Compatible;2,89;;;6
+UL-AX5-HUE-COM;Ulefone;Armor X5;Botón home / huella;Compatible;4,79;;;6
+UL-N7-MAR-COM;Ulefone;Note 7;Marco / chasis;Compatible;5,65;;;6
+UL-N7-BOT-COM;Ulefone;Note 7;Botones laterales;Compatible;2,89;;;6
+UL-N7-CRI-COM;Ulefone;Note 7;Cristal de pantalla;Compatible;2,89;;;6
+UL-N7-ANT-COM;Ulefone;Note 7;Antena / coaxial;Compatible;2,50;;;6
+UL-N7-HUE-COM;Ulefone;Note 7;Botón home / huella;Compatible;4,15;;;6
+UL-A105-MAR-COM;Ulefone;Armor 10 5G;Marco / chasis;Compatible;7,20;;;6
+UL-A105-BOT-COM;Ulefone;Armor 10 5G;Botones laterales;Compatible;3,70;;;6
+UL-A105-ANT-COM;Ulefone;Armor 10 5G;Antena / coaxial;Compatible;3,20;;;6
+UL-A105-HUE-COM;Ulefone;Armor 10 5G;Botón home / huella;Compatible;5,30;;;6
+UL-A7E-MAR-COM;Ulefone;Armor 7E;Marco / chasis;Compatible;7,20;;;6
+UL-A7E-BOT-COM;Ulefone;Armor 7E;Botones laterales;Compatible;3,70;;;6
+UL-A7E-ANT-COM;Ulefone;Armor 7E;Antena / coaxial;Compatible;3,20;;;6
+UL-A7E-HUE-COM;Ulefone;Armor 7E;Botón home / huella;Compatible;5,30;;;6
+UL-A8-MAR-COM;Ulefone;Armor 8;Marco / chasis;Compatible;7,20;;;6
+UL-A8-BOT-COM;Ulefone;Armor 8;Botones laterales;Compatible;3,70;;;6
+UL-A8-ANT-COM;Ulefone;Armor 8;Antena / coaxial;Compatible;3,20;;;6
+UL-A8-HUE-COM;Ulefone;Armor 8;Botón home / huella;Compatible;5,30;;;6
+UL-A9-MAR-COM;Ulefone;Armor 9;Marco / chasis;Compatible;7,20;;;6
+UL-A9-BOT-COM;Ulefone;Armor 9;Botones laterales;Compatible;3,70;;;6
+UL-A9-ANT-COM;Ulefone;Armor 9;Antena / coaxial;Compatible;3,20;;;6
+UL-A9-HUE-COM;Ulefone;Armor 9;Botón home / huella;Compatible;5,30;;;6
+UL-AX8-MAR-COM;Ulefone;Armor X8;Marco / chasis;Compatible;7,20;;;6
+UL-AX8-BOT-COM;Ulefone;Armor X8;Botones laterales;Compatible;3,70;;;6
+UL-AX8-ANT-COM;Ulefone;Armor X8;Antena / coaxial;Compatible;3,20;;;6
+UL-AX8-HUE-COM;Ulefone;Armor X8;Botón home / huella;Compatible;5,30;;;6
+UL-N8-MAR-COM;Ulefone;Note 8;Marco / chasis;Compatible;6,25;;;6
+UL-N8-BOT-COM;Ulefone;Note 8;Botones laterales;Compatible;3,20;;;6
+UL-N8-CRI-COM;Ulefone;Note 8;Cristal de pantalla;Compatible;3,20;;;6
+UL-N8-ANT-COM;Ulefone;Note 8;Antena / coaxial;Compatible;2,79;;;6
+UL-N8-HUE-COM;Ulefone;Note 8;Botón home / huella;Compatible;4,60;;;6
+UL-N9P-MAR-COM;Ulefone;Note 9P;Marco / chasis;Compatible;6,25;;;6
+UL-N9P-BOT-COM;Ulefone;Note 9P;Botones laterales;Compatible;3,20;;;6
+UL-N9P-CRI-COM;Ulefone;Note 9P;Cristal de pantalla;Compatible;3,20;;;6
+UL-N9P-ANT-COM;Ulefone;Note 9P;Antena / coaxial;Compatible;2,79;;;6
+UL-N9P-HUE-COM;Ulefone;Note 9P;Botón home / huella;Compatible;4,60;;;6
+UL-A115-MAR-COM;Ulefone;Armor 11 5G;Marco / chasis;Compatible;7,20;;;6
+UL-A115-BOT-COM;Ulefone;Armor 11 5G;Botones laterales;Compatible;3,70;;;6
+UL-A115-ANT-COM;Ulefone;Armor 11 5G;Antena / coaxial;Compatible;3,20;;;6
+UL-A115-HUE-COM;Ulefone;Armor 11 5G;Botón home / huella;Compatible;5,30;;;6
+UL-A11T5-MAR-COM;Ulefone;Armor 11T 5G;Marco / chasis;Compatible;7,20;;;6
+UL-A11T5-BOT-COM;Ulefone;Armor 11T 5G;Botones laterales;Compatible;3,70;;;6
+UL-A11T5-ANT-COM;Ulefone;Armor 11T 5G;Antena / coaxial;Compatible;3,20;;;6
+UL-A11T5-HUE-COM;Ulefone;Armor 11T 5G;Botón home / huella;Compatible;5,30;;;6
+UL-A125-MAR-COM;Ulefone;Armor 12 5G;Marco / chasis;Compatible;7,20;;;6
+UL-A125-BOT-COM;Ulefone;Armor 12 5G;Botones laterales;Compatible;3,70;;;6
+UL-A125-ANT-COM;Ulefone;Armor 12 5G;Antena / coaxial;Compatible;3,20;;;6
+UL-A125-HUE-COM;Ulefone;Armor 12 5G;Botón home / huella;Compatible;5,30;;;6
+UL-A8P-MAR-COM;Ulefone;Armor 8 Pro;Marco / chasis;Compatible;7,20;;;6
+UL-A8P-BOT-COM;Ulefone;Armor 8 Pro;Botones laterales;Compatible;3,70;;;6
+UL-A8P-ANT-COM;Ulefone;Armor 8 Pro;Antena / coaxial;Compatible;3,20;;;6
+UL-A8P-HUE-COM;Ulefone;Armor 8 Pro;Botón home / huella;Compatible;5,30;;;6
+UL-AX10-MAR-COM;Ulefone;Armor X10;Marco / chasis;Compatible;7,20;;;6
+UL-AX10-BOT-COM;Ulefone;Armor X10;Botones laterales;Compatible;3,70;;;6
+UL-AX10-ANT-COM;Ulefone;Armor X10;Antena / coaxial;Compatible;3,20;;;6
+UL-AX10-HUE-COM;Ulefone;Armor X10;Botón home / huella;Compatible;5,30;;;6
+UL-AX9-MAR-COM;Ulefone;Armor X9;Marco / chasis;Compatible;7,20;;;6
+UL-AX9-BOT-COM;Ulefone;Armor X9;Botones laterales;Compatible;3,70;;;6
+UL-AX9-ANT-COM;Ulefone;Armor X9;Antena / coaxial;Compatible;3,20;;;6
+UL-AX9-HUE-COM;Ulefone;Armor X9;Botón home / huella;Compatible;5,30;;;6
+UL-N12P-MAR-COM;Ulefone;Note 12P;Marco / chasis;Compatible;6,25;;;6
+UL-N12P-BOT-COM;Ulefone;Note 12P;Botones laterales;Compatible;3,20;;;6
+UL-N12P-CRI-COM;Ulefone;Note 12P;Cristal de pantalla;Compatible;3,20;;;6
+UL-N12P-ANT-COM;Ulefone;Note 12P;Antena / coaxial;Compatible;2,79;;;6
+UL-N12P-HUE-COM;Ulefone;Note 12P;Botón home / huella;Compatible;4,60;;;6
+UL-N13P-MAR-COM;Ulefone;Note 13P;Marco / chasis;Compatible;6,25;;;6
+UL-N13P-BOT-COM;Ulefone;Note 13P;Botones laterales;Compatible;3,20;;;6
+UL-N13P-CRI-COM;Ulefone;Note 13P;Cristal de pantalla;Compatible;3,20;;;6
+UL-N13P-ANT-COM;Ulefone;Note 13P;Antena / coaxial;Compatible;2,79;;;6
+UL-N13P-HUE-COM;Ulefone;Note 13P;Botón home / huella;Compatible;4,60;;;6
+UL-PWA13-MAR-COM;Ulefone;Power Armor 13;Marco / chasis;Compatible;7,20;;;6
+UL-PWA13-BOT-COM;Ulefone;Power Armor 13;Botones laterales;Compatible;3,70;;;6
+UL-PWA13-ANT-COM;Ulefone;Power Armor 13;Antena / coaxial;Compatible;3,20;;;6
+UL-PWA13-HUE-COM;Ulefone;Power Armor 13;Botón home / huella;Compatible;5,30;;;6
+UL-PWA14-MAR-COM;Ulefone;Power Armor 14;Marco / chasis;Compatible;7,20;;;6
+UL-PWA14-BOT-COM;Ulefone;Power Armor 14;Botones laterales;Compatible;3,70;;;6
+UL-PWA14-ANT-COM;Ulefone;Power Armor 14;Antena / coaxial;Compatible;3,20;;;6
+UL-PWA14-HUE-COM;Ulefone;Power Armor 14;Botón home / huella;Compatible;5,30;;;6
+UL-A15-MAR-COM;Ulefone;Armor 15;Marco / chasis;Compatible;7,20;;;6
+UL-A15-BOT-COM;Ulefone;Armor 15;Botones laterales;Compatible;3,70;;;6
+UL-A15-ANT-COM;Ulefone;Armor 15;Antena / coaxial;Compatible;3,20;;;6
+UL-A15-HUE-COM;Ulefone;Armor 15;Botón home / huella;Compatible;5,30;;;6
+UL-A17P-MAR-COM;Ulefone;Armor 17 Pro;Marco / chasis;Compatible;7,20;;;6
+UL-A17P-BOT-COM;Ulefone;Armor 17 Pro;Botones laterales;Compatible;3,70;;;6
+UL-A17P-ANT-COM;Ulefone;Armor 17 Pro;Antena / coaxial;Compatible;3,20;;;6
+UL-A17P-HUE-COM;Ulefone;Armor 17 Pro;Botón home / huella;Compatible;5,30;;;6
+UL-AX6P-MAR-COM;Ulefone;Armor X6 Pro;Marco / chasis;Compatible;7,20;;;6
+UL-AX6P-BOT-COM;Ulefone;Armor X6 Pro;Botones laterales;Compatible;3,70;;;6
+UL-AX6P-ANT-COM;Ulefone;Armor X6 Pro;Antena / coaxial;Compatible;3,20;;;6
+UL-AX6P-HUE-COM;Ulefone;Armor X6 Pro;Botón home / huella;Compatible;5,30;;;6
+UL-N14-MAR-COM;Ulefone;Note 14;Marco / chasis;Compatible;6,25;;;6
+UL-N14-BOT-COM;Ulefone;Note 14;Botones laterales;Compatible;3,20;;;6
+UL-N14-CRI-COM;Ulefone;Note 14;Cristal de pantalla;Compatible;3,20;;;6
+UL-N14-ANT-COM;Ulefone;Note 14;Antena / coaxial;Compatible;2,79;;;6
+UL-N14-HUE-COM;Ulefone;Note 14;Botón home / huella;Compatible;4,60;;;6
+UL-PWA14P-MAR-COM;Ulefone;Power Armor 14 Pro;Marco / chasis;Compatible;7,20;;;6
+UL-PWA14P-BOT-COM;Ulefone;Power Armor 14 Pro;Botones laterales;Compatible;3,70;;;6
+UL-PWA14P-ANT-COM;Ulefone;Power Armor 14 Pro;Antena / coaxial;Compatible;3,20;;;6
+UL-PWA14P-HUE-COM;Ulefone;Power Armor 14 Pro;Botón home / huella;Compatible;5,30;;;6
+UL-PWA16P-MAR-COM;Ulefone;Power Armor 16 Pro;Marco / chasis;Compatible;7,20;;;6
+UL-PWA16P-BOT-COM;Ulefone;Power Armor 16 Pro;Botones laterales;Compatible;3,70;;;6
+UL-PWA16P-ANT-COM;Ulefone;Power Armor 16 Pro;Antena / coaxial;Compatible;3,20;;;6
+UL-PWA16P-HUE-COM;Ulefone;Power Armor 16 Pro;Botón home / huella;Compatible;5,30;;;6
+UL-PWA18-MAR-COM;Ulefone;Power Armor 18;Marco / chasis;Compatible;7,20;;;6
+UL-PWA18-BOT-COM;Ulefone;Power Armor 18;Botones laterales;Compatible;3,70;;;6
+UL-PWA18-ANT-COM;Ulefone;Power Armor 18;Antena / coaxial;Compatible;3,20;;;6
+UL-PWA18-HUE-COM;Ulefone;Power Armor 18;Botón home / huella;Compatible;5,30;;;6
+UL-PWA18T-MAR-COM;Ulefone;Power Armor 18T;Marco / chasis;Compatible;7,20;;;6
+UL-PWA18T-BOT-COM;Ulefone;Power Armor 18T;Botones laterales;Compatible;3,70;;;6
+UL-PWA18T-ANT-COM;Ulefone;Power Armor 18T;Antena / coaxial;Compatible;3,20;;;6
+UL-PWA18T-HUE-COM;Ulefone;Power Armor 18T;Botón home / huella;Compatible;5,30;;;6
+UL-PWAX11P-MAR-COM;Ulefone;Power Armor X11 Pro;Marco / chasis;Compatible;7,20;;;6
+UL-PWAX11P-BOT-COM;Ulefone;Power Armor X11 Pro;Botones laterales;Compatible;3,70;;;6
+UL-PWAX11P-ANT-COM;Ulefone;Power Armor X11 Pro;Antena / coaxial;Compatible;3,20;;;6
+UL-PWAX11P-HUE-COM;Ulefone;Power Armor X11 Pro;Botón home / huella;Compatible;5,30;;;6
+UL-A20WT-MAR-COM;Ulefone;Armor 20WT;Marco / chasis;Compatible;7,20;;;6
+UL-A20WT-BOT-COM;Ulefone;Armor 20WT;Botones laterales;Compatible;3,70;;;6
+UL-A20WT-ANT-COM;Ulefone;Armor 20WT;Antena / coaxial;Compatible;3,20;;;6
+UL-A20WT-HUE-COM;Ulefone;Armor 20WT;Botón home / huella;Compatible;5,30;;;6
+UL-A21-MAR-COM;Ulefone;Armor 21;Marco / chasis;Compatible;7,20;;;6
+UL-A21-BOT-COM;Ulefone;Armor 21;Botones laterales;Compatible;3,70;;;6
+UL-A21-ANT-COM;Ulefone;Armor 21;Antena / coaxial;Compatible;3,20;;;6
+UL-A21-HUE-COM;Ulefone;Armor 21;Botón home / huella;Compatible;5,30;;;6
+UL-A22-MAR-COM;Ulefone;Armor 22;Marco / chasis;Compatible;7,20;;;6
+UL-A22-BOT-COM;Ulefone;Armor 22;Botones laterales;Compatible;3,70;;;6
+UL-A22-ANT-COM;Ulefone;Armor 22;Antena / coaxial;Compatible;3,20;;;6
+UL-A22-HUE-COM;Ulefone;Armor 22;Botón home / huella;Compatible;5,30;;;6
+UL-A24-MAR-COM;Ulefone;Armor 24;Marco / chasis;Compatible;7,20;;;6
+UL-A24-BOT-COM;Ulefone;Armor 24;Botones laterales;Compatible;3,70;;;6
+UL-A24-ANT-COM;Ulefone;Armor 24;Antena / coaxial;Compatible;3,20;;;6
+UL-A24-HUE-COM;Ulefone;Armor 24;Botón home / huella;Compatible;5,30;;;6
+UL-AX12-MAR-COM;Ulefone;Armor X12;Marco / chasis;Compatible;7,20;;;6
+UL-AX12-BOT-COM;Ulefone;Armor X12;Botones laterales;Compatible;3,70;;;6
+UL-AX12-ANT-COM;Ulefone;Armor X12;Antena / coaxial;Compatible;3,20;;;6
+UL-AX12-HUE-COM;Ulefone;Armor X12;Botón home / huella;Compatible;5,30;;;6
+UL-AX13-MAR-COM;Ulefone;Armor X13;Marco / chasis;Compatible;7,20;;;6
+UL-AX13-BOT-COM;Ulefone;Armor X13;Botones laterales;Compatible;3,70;;;6
+UL-AX13-ANT-COM;Ulefone;Armor X13;Antena / coaxial;Compatible;3,20;;;6
+UL-AX13-HUE-COM;Ulefone;Armor X13;Botón home / huella;Compatible;5,30;;;6
+UL-N15-MAR-COM;Ulefone;Note 15;Marco / chasis;Compatible;6,25;;;6
+UL-N15-BOT-COM;Ulefone;Note 15;Botones laterales;Compatible;3,20;;;6
+UL-N15-CRI-COM;Ulefone;Note 15;Cristal de pantalla;Compatible;3,20;;;6
+UL-N15-ANT-COM;Ulefone;Note 15;Antena / coaxial;Compatible;2,79;;;6
+UL-N15-HUE-COM;Ulefone;Note 15;Botón home / huella;Compatible;4,60;;;6
+UL-N16P-MAR-COM;Ulefone;Note 16 Pro;Marco / chasis;Compatible;6,25;;;6
+UL-N16P-BOT-COM;Ulefone;Note 16 Pro;Botones laterales;Compatible;3,20;;;6
+UL-N16P-CRI-COM;Ulefone;Note 16 Pro;Cristal de pantalla;Compatible;3,20;;;6
+UL-N16P-ANT-COM;Ulefone;Note 16 Pro;Antena / coaxial;Compatible;2,79;;;6
+UL-N16P-HUE-COM;Ulefone;Note 16 Pro;Botón home / huella;Compatible;4,60;;;6
+UL-PWA19-MAR-COM;Ulefone;Power Armor 19;Marco / chasis;Compatible;7,20;;;6
+UL-PWA19-BOT-COM;Ulefone;Power Armor 19;Botones laterales;Compatible;3,70;;;6
+UL-PWA19-ANT-COM;Ulefone;Power Armor 19;Antena / coaxial;Compatible;3,20;;;6
+UL-PWA19-HUE-COM;Ulefone;Power Armor 19;Botón home / huella;Compatible;5,30;;;6
+UL-PWA19T-MAR-COM;Ulefone;Power Armor 19T;Marco / chasis;Compatible;7,20;;;6
+UL-PWA19T-BOT-COM;Ulefone;Power Armor 19T;Botones laterales;Compatible;3,70;;;6
+UL-PWA19T-ANT-COM;Ulefone;Power Armor 19T;Antena / coaxial;Compatible;3,20;;;6
+UL-PWA19T-HUE-COM;Ulefone;Power Armor 19T;Botón home / huella;Compatible;5,30;;;6
+UL-A23U-MAR-COM;Ulefone;Armor 23 Ultra;Marco / chasis;Compatible;7,20;;;6
+UL-A23U-BOT-COM;Ulefone;Armor 23 Ultra;Botones laterales;Compatible;3,70;;;6
+UL-A23U-ANT-COM;Ulefone;Armor 23 Ultra;Antena / coaxial;Compatible;3,20;;;6
+UL-A23U-HUE-COM;Ulefone;Armor 23 Ultra;Botón home / huella;Compatible;5,30;;;6
+UL-A25T-MAR-COM;Ulefone;Armor 25T;Marco / chasis;Compatible;7,90;;;6
+UL-A25T-BOT-COM;Ulefone;Armor 25T;Botones laterales;Compatible;4,05;;;6
+UL-A25T-ANT-COM;Ulefone;Armor 25T;Antena / coaxial;Compatible;3,50;;;6
+UL-A25T-HUE-COM;Ulefone;Armor 25T;Botón home / huella;Compatible;5,85;;;6
+UL-A27TP-MAR-COM;Ulefone;Armor 27T Pro;Marco / chasis;Compatible;7,90;;;6
+UL-A27TP-BOT-COM;Ulefone;Armor 27T Pro;Botones laterales;Compatible;4,05;;;6
+UL-A27TP-ANT-COM;Ulefone;Armor 27T Pro;Antena / coaxial;Compatible;3,50;;;6
+UL-A27TP-HUE-COM;Ulefone;Armor 27T Pro;Botón home / huella;Compatible;5,85;;;6
+UL-N18P-MAR-COM;Ulefone;Note 18 Pro;Marco / chasis;Compatible;6,89;;;6
+UL-N18P-BOT-COM;Ulefone;Note 18 Pro;Botones laterales;Compatible;3,55;;;6
+UL-N18P-CRI-COM;Ulefone;Note 18 Pro;Cristal de pantalla;Compatible;3,50;;;6
+UL-N18P-ANT-COM;Ulefone;Note 18 Pro;Antena / coaxial;Compatible;3,05;;;6
+UL-N18P-HUE-COM;Ulefone;Note 18 Pro;Botón home / huella;Compatible;5,09;;;6
+UL-A26U-MAR-COM;Ulefone;Armor 26 Ultra;Marco / chasis;Compatible;7,90;;;6
+UL-A26U-BOT-COM;Ulefone;Armor 26 Ultra;Botones laterales;Compatible;4,05;;;6
+UL-A26U-ANT-COM;Ulefone;Armor 26 Ultra;Antena / coaxial;Compatible;3,50;;;6
+UL-A26U-HUE-COM;Ulefone;Armor 26 Ultra;Botón home / huella;Compatible;5,85;;;6
+UL-A25TP-MAR-COM;Ulefone;Armor 25T Pro;Marco / chasis;Compatible;7,90;;;6
+UL-A25TP-BOT-COM;Ulefone;Armor 25T Pro;Botones laterales;Compatible;4,05;;;6
+UL-A25TP-ANT-COM;Ulefone;Armor 25T Pro;Antena / coaxial;Compatible;3,50;;;6
+UL-A25TP-HUE-COM;Ulefone;Armor 25T Pro;Botón home / huella;Compatible;5,85;;;6
+UL-AX31P-MAR-COM;Ulefone;Armor X31 Pro;Marco / chasis;Compatible;7,90;;;6
+UL-AX31P-BOT-COM;Ulefone;Armor X31 Pro;Botones laterales;Compatible;4,05;;;6
+UL-AX31P-ANT-COM;Ulefone;Armor X31 Pro;Antena / coaxial;Compatible;3,50;;;6
+UL-AX31P-HUE-COM;Ulefone;Armor X31 Pro;Botón home / huella;Compatible;5,85;;;6
+UL-A28U-MAR-COM;Ulefone;Armor 28 Ultra;Marco / chasis;Compatible;7,90;;;6
+UL-A28U-BOT-COM;Ulefone;Armor 28 Ultra;Botones laterales;Compatible;4,05;;;6
+UL-A28U-ANT-COM;Ulefone;Armor 28 Ultra;Antena / coaxial;Compatible;3,50;;;6
+UL-A28U-HUE-COM;Ulefone;Armor 28 Ultra;Botón home / huella;Compatible;5,85;;;6
