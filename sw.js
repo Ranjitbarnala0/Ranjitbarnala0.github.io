@@ -1,5 +1,5 @@
 // generated
-const V='rc-mv3dy70j',STATIC=['/','/site.css','/site.js','/art.js','/i.svg','/offline/','/img/mark.svg'];
+const V='rc-mv3e9aph',STATIC=['/','/site.css','/site.js','/art.js','/i.svg','/offline/','/img/mark.svg'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(V).then(c=>c.addAll(STATIC)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x!==V).map(x=>caches.delete(x)))).then(()=>self.clients.claim()))});
 const trim=async(c,n)=>{const k=await c.keys();if(k.length>n)await Promise.all(k.slice(0,k.length-n).map(x=>c.delete(x)))};
