@@ -1,11 +1,12 @@
 // generated
-const V='rc-mv3e9aph',STATIC=['/','/site.css','/site.js','/art.js','/i.svg','/offline/','/img/mark.svg'];
+const V='rc-mv3r9fqe',STATIC=['/','/site.css','/site.js','/art.js','/i.svg','/offline/','/img/mark.svg'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(V).then(c=>c.addAll(STATIC)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x!==V).map(x=>caches.delete(x)))).then(()=>self.clients.claim()))});
 const trim=async(c,n)=>{const k=await c.keys();if(k.length>n)await Promise.all(k.slice(0,k.length-n).map(x=>c.delete(x)))};
 self.addEventListener('fetch',e=>{
  const r=e.request,u=new URL(r.url);
  if(r.method!=='GET'||u.origin!==location.origin)return;
+ if(/^/(shop-api|api|admin|_next|m)(/|$)/.test(u.pathname))return;
  if(r.mode==='navigate'){
   e.respondWith((async()=>{const c=await caches.open(V);
    try{const n=await Promise.race([fetch(r),new Promise((_,j)=>setTimeout(j,4500))]);if(n.ok){c.put(r,n.clone());trim(c,120)}return n}
